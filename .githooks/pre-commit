@@ -1,8 +1,8 @@
 #!/bin/sh
-# Public PDF archive guard. Only PDFs and the small set of contract/readme
+# Public PDF archive guard. Only PDFs and the small set of archive/readme
 # docs may be committed — nothing else, ever. Activate once with:
 #   git config core.hooksPath .githooks
-allow='^(grc|en|affiliations|domains)/.*\.pdf$|^(README|LINKING|CONTRIBUTING|LICENSE)(\.md)?$|^\.gitignore$|^\.gitattributes$|^\.githooks/pre-commit$|^docs/(MISSION|CLAUDE)\.md$'
+allow='^(grc|en|affiliations|domains)/.*\.pdf$|^(README|CONTRIBUTING|LICENSE)(\.md)?$|^\.gitignore$|^\.gitattributes$|^\.githooks/pre-commit$|^docs/(MISSION|CLAUDE)\.md$'
 bad=$(git diff --cached --name-only --diff-filter=ACMR | grep -Ev "$allow")
 if [ -n "$bad" ]; then
   echo "pre-commit: blocked — only PDFs + archive docs may be committed:" >&2
