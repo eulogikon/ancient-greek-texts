@@ -1,0 +1,4 @@
+# Published PDF archive. The .pdf files ARE the product — never ignore them.
+# Nothing else (no code, no build, no back-office files) belongs here.
+.DS_Store
+*.pdf.part
