@@ -1,0 +1,20 @@
+#!/bin/sh
+# Public PDF archive guard. Only PDFs and the small set of contract/readme
+# docs may be committed — nothing else, ever. Activate once with:
+#   git config core.hooksPath .githooks
+allow='^(grc|en|affiliations|domains)/.*\.pdf$|^(README|LINKING|CONTRIBUTING|LICENSE)(\.md)?$|^\.gitignore$|^\.gitattributes$|^\.githooks/pre-commit$|^docs/(MISSION|CLAUDE)\.md$'
+bad=$(git diff --cached --name-only --diff-filter=ACMR | grep -Ev "$allow")
+if [ -n "$bad" ]; then
+  echo "pre-commit: blocked — only PDFs + archive docs may be committed:" >&2
+  echo "$bad" | sed 's/^/  /' >&2
+  exit 1
+fi
+# Refuse back-office leakage in any staged text doc.
+leak=$(git diff --cached -U0 --diff-filter=ACMR -- '*.md' '.gitignore' '.gitattributes' \
+  | grep -nE '^\+' \
+  | grep -EI 'EULOGIKON_STRICT_DB|venv/bin|scripts/generation|src/core/|/Users/|psycopg|localhost:5432|/GitHub/|DATABASE_URL|\.env\b')
+if [ -n "$leak" ]; then
+  echo "pre-commit: blocked — internal/back-office reference in staged docs:" >&2
+  echo "$leak" | sed 's/^/  /' >&2
+  exit 1
+fi
