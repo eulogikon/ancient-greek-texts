@@ -2,18 +2,12 @@
 
 **Audience:** Any AI assistant operating on this repository.
 
-This repository is a **generated PDF archive**. It has no pipeline, no build,
-no tests, no code.
+This repository is a **data store**. It holds files (PDF now; Markdown and
+plain text to follow) generated upstream by the Eulogikon project.
 
-- The `.pdf` files are build output. Do **not** hand-edit them, "fix" them,
-  or open PRs against them.
-- Generation lives upstream in the Eulogikon project (not in this repo).
-  Rendering, layout, linking, and text changes are made there and
-  regenerated into here.
-- This repo owns only: the PDFs, [`../LINKING.md`](../LINKING.md) (the
-  contract they satisfy), [`MISSION.md`](MISSION.md),
-  [`../CONTRIBUTING.md`](../CONTRIBUTING.md), and the licence.
-- Fixed invariant: the default branch is `main`, forever — every PDF-graph
-  cross-link hard-codes it.
+- The files are output. Do not hand-edit them or open PRs against them.
+- Generation lives upstream in the Eulogikon project, not here.
+- This repo owns only: the files, [`MISSION.md`](MISSION.md),
+  [`../CONTRIBUTING.md`](../CONTRIBUTING.md), the README, and the licence.
 
-If asked to change how PDFs look or link, that is upstream work, not here.
+Changes to how files are produced are upstream work, not here.
