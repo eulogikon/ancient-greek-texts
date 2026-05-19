@@ -1,0 +1,31 @@
+---
+title: Philippics
+title_greek: Φιλιππικοί
+author: Historical Fragments  Anonymous
+eul_wid: mmg-bk
+eul_aid: mmg
+canonical: "https://eulogikon.org/grc/historical-fragments-anonymous/philippics"
+period: Hellenistic
+dialect: Mixed Dialects (frg)
+domain: History
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Philippics
+
+*Φιλιππικοί*
+
+**Author:** Historical Fragments  Anonymous
+
+**eul_wid:** `mmg-bk` · [HTML page](https://eulogikon.org/grc/historical-fragments-anonymous/philippics)
+
+## Text
+
+### 1
+
+PAP. RYL. 490 s. III a. (vol. 3, 1938, 109—114 [Taf. 8]): (col. 1) [...]ξας ˈ [ ]θ̣[ .. ]του Φιλίπˈ[που ]κ̣ε̣ν̣τ̣ε̣ ⟦ ... ⟧ ˈ [καὶ μάχη]ς γενομένης ˈ [ῥαιδίως ἐ]νίκησεγ καὶ ˈ [τὸν βασι]λ̣έα αὐτῶν ˈ [Ἀτέαν ἀπέ]κ̣τεινεν. ˈ [ ἐ]πὶ τούτου ˈ [ἄρχοντος οἱ] Ἀθηναῖοι ˈ [πανδημ]εὶ ἐξῆλθον ˈ [εἰς Βοιωτί]αν κωλύˈ[σοντες πα]ρελθεῖν ˈ [Φίλιππον] ε̣ἴσω πυλῶν ˈ[ ]αν δὲ καὶ ˈ [ ] . Φωκ[ίω]ν̣ ἡγεῖτο̣ ˈ [ ] . κοσι ε̣[ .... ]ας [ ... ] (col. 2) παρελ[θὼν ἐνίκησεν] ˈ αὐτο[ὺς κ]αὶ π[ολ]ˈλοὺς μὲν τῶ[ν στρα]ˈτιωτῶν ἀπ[έκτειν]ε̣ν, ˈ πολλοὺς δὲ ζ[ῶντ]α̣ς ˈ ἔλαβεν, ὀλίγ[οι δέ τι]νες ˈ μετὰ Χάρητ̣[ος τοῦ] ˈ τῶν Ἀθηνα[ίων στρ]α̣ˈ[τη]γοῦ ἐσώθη̣[σαν. ˈ σ]υ̣ν̣ελέγησα[ν δὲ ο]ἱ ˈ Θ̣ηβαῖοι κα̣[ὶ Ἀθηναῖοι] καὶ ˈ οἱ τούτω[ν σύμμα]ˈχοι εἰς Χα[ιρώνειαν]·ˈ κ̣αὶ μαχ[ ]ˈ[ α]ὐ̣το[ ]α̣ ]ˈ[ Μακεδ[ ] ˈ του φ . [] [ ]α̣ˈδ̣ο̣υ̣ς ῥ[ ] . ˈ[ ]ν̣ ˈ [ 2vv .] ˈ [ ] . ς ˈ [] [ ]υ ˈ [ ]γο–ˈ[ ]ρ̣α ˈ [ ]χος ˈ [ ]ο̣λβ̣[ ... ]σεας ˈ [ ] Ἀθηναίων . τ̣ε̣ˈ[ ]ε̣νης ἐλήφθ̣η̣ˈ[ ] ζῶντες τ[ . ]ˈ[ ]ι̣ τῶν Θηˈ(col. 3)βαίων πε[ . ἔλα]ˈβε δὲ καὶ τ[ῶν ἄλλων] ˈ Θηβαίων [τοὺς πλείσ]ˈτους αἰχ[μαλώτους καὶ] ˈ χρήματ[α πράξων ἔδησε] . ˈ τοὺς δ’ ἄλ̣[λους ἀφῆ]ˈκεν ἐφόδι̣[α διαδι]ˈδοὺς ἑκάσ[τωι ] . ˈ τελευτ[ῶν δὲ ]ˈτων . [] [ ] ˈ τῶν Θ[ηβαίων ἀπέ]ˈστειλ[εν. οἱ δὲ Ἀθηναῖοι] ˈ ἐποιήσ[αντο φιλίαν καὶ] ˈ συμμ[αχίαν ] ˈ πρὸς Φί[λιππον, ἐποι]ˈήσαντ[ο δὲ οἱ Πελοπον]ˈνήσιοι π[λὴν τῶν] ˈ Λακεδα̣[ιμονίων ]ˈ τωι κι . [ ]ˈας καὶ ο[ ]ˈ νήσων [ ἤ]ˈγαγεν α[ ]ˈ καὶ Ἀρτο̣[ξέρξην τὸν Περˈσῶ]ν βασ[ιλέα ὁ υἱὸς ˈ αὐ]τοῦ Ἄρ̣[σης ]ˈ[ ... ]ενε[ ]ˈ[ ]τα . [ὁ δὲ Ἀρτο]ˈξ̣[έ]ρξησ̣[ ]ˈ δ[ .. ]ιδ[ ] ˈ β̣ιους [ ]ο̣υ̣ . []
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: mmg-bk`.

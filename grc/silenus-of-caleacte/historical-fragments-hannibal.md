@@ -1,0 +1,69 @@
+---
+title: Historical Fragments on Hannibal
+title_greek: Ἀποσπάσματα περὶ Ἀννίβα
+author: Silenus of Caleacte
+eul_wid: ktq-aa
+eul_aid: ktq
+canonical: "https://eulogikon.org/grc/silenus-of-caleacte/historical-fragments-hannibal"
+period: Hellenistic
+dialect: Koine (frg)
+domain: History
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Historical Fragments on Hannibal
+
+*Ἀποσπάσματα περὶ Ἀννίβα*
+
+**Author:** Silenus of Caleacte
+
+**eul_wid:** `ktq-aa` · [HTML page](https://eulogikon.org/grc/silenus-of-caleacte/historical-fragments-hannibal)
+
+## Text
+
+### t1-5
+
+DE BELLO HANNIBALICO. Cicero De divin.
+
+### 1
+
+I, 24: Hannibalem Caelius scribit, quum columnam auream, quae esset in fano Junonis Laciniae, auferre vellet, dubitaretque utrum ea solida esset an extrinsecus inaurata, perterebravisse: quumque solidam invenisset statuissetque tollere, ei secundum quietem visam esse Junonem praedicere, ne id faceret, minarique, si id fecisset, se curaturam, ut eum quoque oculum, quo bene videret, amitteret: idque ab homine acuto non esse neglectum. Itaque ex eo auro, quod exterebratum esset, buculam curasse faciendam, et eam in summa columna collocavisse. Hoc idem in Sileni, quem sequitur Caelius, graeca historia est: is autem diligentissime res Hannibalis persecutus est. Livius XXVI, 49, de Nova Carthagine a P.
+
+### 2
+
+Scipione capta (210 a. C.): Capta alibi decem millia capitum, alibi supra quinque et viginti invenias. Scorpiones majores minoresque ad sexaginta captos scripserim, si auctorem graecum sequar Silenum: si Valerium Antiatem, majorum scorpionum sex millia, minorum tredecim: adeo nullus mentiendi modus est. Plinius H.
+
+### 3
+
+N. IV, 36: Ab eo latere, quo Hispaniam spectat, passibus fere centum altera insula est longa, III M. pass. lata, in qua prius oppidum Gadium fuit. Vocatur ab Ephoro et Philistide Erythia, a Timaeo et Sileno Aphrodisias. Solinus Pol.
+
+### 4
+
+c. 2: Palatium nemo dubitat quin Arcadas habeat auctores, a quibus primum Pallateum oppidum. Sunt qui velint a balatibus ovium mutata litera, vel a Pale pastorali dea, aut, ut Silenus probat, a Palantho Hyperborei filia, quam Hercules ibi compressisse visus est, nomen monti adaptatum. Strabo III: Φησὶ δὲ ὁ Πολύβιος (34, 9, 5) κρήνην ἐν τῷ Ἡρακλείῳ τῷ ἐν Γαδείροις εἶναι, βαθμῶν ὀλίγων κατάβασιν ἔχουσαν εἰς τὸ ὕδωρ, πότιμον δὲ εἶναι· ἣν ταῖς παλιρροίαις τῆς θαλάσσης ἀντιπαθεῖν, κατὰ μὲν τὰς πλήμας ἐκλείπουσαν, κατὰ δὲ τὰς ἀμπώτεις πληρουμένην.
+
+### 5
+
+Deinde postquam apposuit quomodo Polybius explicare hanc rem studuerit, pergit: Ἀρτεμίδωρος δὲ ἀντειπὼν τούτῳ, καὶ ἅμα παρ’ αὑτοῦ τινα θεὶς αἰτίαν, μνησθεὶς δὲ καὶ τῆς Σιλανοῦ δόξης τοῦ συγγραφέως, οὔ μοι δοκεῖ μνήμης ἄξια εἰπεῖν, ὡς ἂν ἰδιώτης περὶ ταῦτα, καὶ αὐτὸς καὶ Σιλανός. ΙΣΤΟΡΙΑΙ.
+
+## E LIBRO PRIMO. Diogenis L.
+
+### 6
+
+II, 11: Φησὶ δὲ Σειληνὸς ἐν τῇ πρώτῃ τῶν Ἱστοριῶν, ἐπὶ ἄρχοντος Λυσ * μύλου λίθον ἐξ οὐρανοῦ πεσεῖν· τὸν δὲ Ἀναξαγόραν εἰπεῖν, ὡς ὅλος ὁ οὐρανὸς ἐκ λίθων συγκέοιτο· τῇ σφοδρᾷ δὲ περιδινήσει συνεστάναι, καὶ ἀνεθέντα κατενεχθήσεσθαι. ΣΙΚΕΛΙΚΑ.
+
+### 7 (t)
+
+E LIBRO SECUNDO. Stephan. Byz.: Παλικὴ, πόλις Σικελίας. Θεόφιλος δ’ ἐν ἑνδεκάτῳ Περιηγήσεως Σικελίας Παλικίνην κρήνην φησὶν εἶναι. Πλησίον δὲ αὐτῆς ἱερὸν Παλικῶν, οἵ εἰσι δαίμονές τινες, οὓς Αἰσχύλος ἐν Αἰτνείαις γενεαλογεῖ Διὸς καὶ Θαλείας τῆς Ἡφαίστου, Σειληνὸς δὲ ἐν δευτέρῳ, Αἴτνης τῆς Ὠκεανοῦ καὶ Ἡφαίστου, κληθῆναι δὲ αὐτοὺς Παλικοὺς διὰ τὸ ἀποθανόντας πάλιν εἰς ἀνθρώπους ἱκέσθαι. E LIBRO TERTIO.
+
+### 8 (t)
+
+Athenaeus XII: Σειληνὸς δ’ ὁ Καλλατιανὸς ἐν τρίτῳ Σικελικῶν περὶ Συρακούσας φησὶ κῆπον εἶναι πολυτελῶς κατεσκευασμένον, ὃν καλεῖσθαι Μῦθον, ἐν ᾧ χρηματίζειν Ἱέρωνα τὸν βασιλέα. E LIBRO QUARTO.
+
+### 9 (t)
+
+Photius Lex.: Σαρδόνιος γέλως ... Σειληνὸς δὲ ἐν δʹ τῶν Περὶ Συρακόσσας, λάχανον εἶναι παρὰ Σαρδωνίοις ἡδὺ, σελίνῳ ἐμφερές· οὗ τοὺς γευσαμένους τάς τε σιαγόνας καὶ τὰς σάρκας αὑτῶν ἀποδάκνειν.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: ktq-aa`.

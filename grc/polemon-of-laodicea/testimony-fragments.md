@@ -1,0 +1,47 @@
+---
+title: Testimony and Fragments
+title_greek: Μαρτυρία καὶ Ἀποσπάσματα
+author: Polemon of Laodicea
+eul_wid: ola-aa
+eul_aid: ola
+canonical: "https://eulogikon.org/grc/polemon-of-laodicea/testimony-fragments"
+period: Roman
+dialect: Atticizing
+domain: Geography
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Testimony and Fragments
+
+*Μαρτυρία καὶ Ἀποσπάσματα*
+
+**Author:** Polemon of Laodicea
+
+**eul_wid:** `ola-aa` · [HTML page](https://eulogikon.org/grc/polemon-of-laodicea/testimony-fragments)
+
+## Text
+
+### test
+
+Inschr. Syll. 3 585, 114 (IG 8, 281): (ἄρχοντος Μελισσίωμος, a. 177 i 76 a.) ... Πολέμων Μιλησίου Ἰλιεύς (Verwandter des Perihegeten?).
+
+### 4 bis.(l1)
+
+PAP. OX. 1611 fr. 1 col. 5, 5—12 (s. 3 p.; vol. 13, 1919, 134. 139): ... ὅτι οὐχ [ ]ˈ δη.[ Πολέμω ν ] ˈ ἐν τῶι [ . Περὶ ἀκροπό ]ˈ λεως δ[ ] ˈ ἀναγ[ ] ˈ τὸν Μελησίου [υἱόν, Στε]ˈφάνου δὲ τοῦ Κο̣[αλέμου] 〈καλου〉ˈμένου πατέρα ...
+
+### 37 bis.(l1)
+
+ETYM. GEN. 213, 18 Miller (vgl. ETYM. MAGN. 577, 50 Gaisf.): ‘Μελιταῖα κυνίδια‘· λέγεται ὅτι πλησίον Ἰταλίας νῆσός ἐστι Μελίτη, ἐξ ἧς ἐστι τὰ Μελιταῖα κυνίδια. Πολέμων δ ’ ἐ〈ν〉 Κτίσεσι (scil. Ἰταλικῶν καὶ Σικελικῶν) 〈Σι〉κελίαν Μελίτης φησὶν εἶναι 〈...〉.
+
+### 65 bis.(l1)
+
+PAP. OX. 2176 fr. 1 col. 1, 1—10 + fr. 9 (s. 2 p.; vol. 18, 1941, 88f. 92. 95 [Taf. 12]; Komment. Hippon. F 118 p. 151—153 West): ‘ὦ Σάνν’, ἐπειδ̣ὴ̣ ῥῖνα θεό[συλιν φύ]ˈε̣ις, καὶ γαστρ[ὸ̣ς] ο̣ὐ κατακρ[α̣τεῖσ‘]· [κύριˈο]ν ὄνομα ὁ Σάν̣νος, ὧ〈ι〉 λοιδορ̣[εῖται. ὃ ἔνιοι] ˈ πεπ̣οιῆσθαί φ̣ασιν παρὰ τὴ[ν ‘σαννάδα‘], ˈ Κ̣ρ̣[ῆτ]α̣ς̣ δὲ τὰς̣ ἀγρίας αἶγας λ̣έ̣γ̣ειν ‘σανˈ[νάδασ‘, ὥς φη]σιν Πολέμων ἐν τοῖς Πρὸς ˈ [ Ἀντίγονον κ α ]ὶ Ἀδαῖο ν· τὰς δὲ αἶγας ἐπίˈ[σταται σανν]ι̣οπλήκτους εἶναι καὶ̣ να̣ι̣ˈ[αδολήπτους] καὶ ἐν τῶι βίωι τ̣[ο̣ὺ]ς̣ εὐήˈ[θεις ἐπιπεφημισ̣]μ̣έν[ους] ...
+
+### 75 bis
+
+SCHOL. MTVB EURIP. OREST. 1637: ‘Κάστορί τε Πολυδεύκει τ’ ἐν αἰθέρος πτυχαῖς/ σύνθακος ἔσται, ναυτίλοις σωτηρίοισ‘] ὅτι καὶ ἡ Ἑλένη τοῖς χειμαζομένοις κατὰ θάλασσαν ἐπήκοός ἐστι κατὰ Εὐριπίδην, σεσημείωται. ὁ μέντοι Σωσίβιος (595 F 20) ἔμπαλιν οἴεται οὐκ εὐμενῶς αὐτὴν ἐπιφαί νεσθαι. Πολέμων δὲ {καὶ} ἐν τῶι δ {ε} τῶι Πρὸς Ἀναξανδρίδην (404 T 1) τὴν μὲν τῶν δυοῖν ἀστέρων ἐπιφάνειαν τῶν Διοσκούρων ἀνωμολογῆσθαι, τὴν δὲ τῶν λεγομένων †Ζοβείρων 〈...〉..
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: ola-aa`.

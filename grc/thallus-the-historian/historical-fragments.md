@@ -1,0 +1,71 @@
+---
+title: Historical Fragments on Saturn
+title_greek: Ἀποσπάσματα περὶ Κρόνου
+author: Thallus the Historian
+eul_wid: nqq-aa
+eul_aid: nqq
+canonical: "https://eulogikon.org/grc/thallus-the-historian/historical-fragments"
+period: Roman
+dialect: Koine (frg)
+domain: History
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Historical Fragments on Saturn
+
+*Ἀποσπάσματα περὶ Κρόνου*
+
+**Author:** Thallus the Historian
+
+**eul_wid:** `nqq-aa` · [HTML page](https://eulogikon.org/grc/thallus-the-historian/historical-fragments)
+
+## Text
+
+### 1a
+
+Tertullian. Apolog. 10: Saturnum itaque, quantum literae docent, neque Diodorus graecus aut Thallus neque Cassius Severus, aut Cornelius Nepos neque ullus commentator ejusmodi antiquitatum, aliud quam hominem promulgarunt. Lactantius I, 13: Omnes ergo non tantum poetae, sed historiarum quoque ac rerum antiquarum scriptores hominem fuisse consentiunt, qui res ejus in Italia gestas memoriae prodiderunt; Graeci, Diodorus et Thallus; Latini Nepos et Cassius et Varro.
+
+### 1c
+
+Minutius Felix in Octavio: Saturnum enim principem huius generis et examinis omnes scriptores vetustatis Graeci Romanique hominem prodiderunt. Scit hoc Nepos et Cassius in historia, et Thallus ac Diodorus hoc loquuntur. Tertullianus Apolog.
+
+### 1d
+
+c. 19: Reseranda antiquissimarum etiam gentium archiva, Aegyptiorum, Chaldaeorum, Phoenicum; advocandi municipes eorum per quos notitia ( sc. temporum ) subministrata est, aliqui, Manethon Aegyptius et Berosus Chaldaeus, sed et Iromus Phoenix et Menander Ephesius et Demetrius Phalereus et rex Iuba et Apion et Thallus, et qui istos aut probat aut revincit Iudaeus Iosephus. Theophilus Ad Autolyc.
+
+### 2a
+
+III, 29: Βήλου τοῦ Ἀσσυρίων βασιλεύσαντος καὶ Κρόνου τοῦ Τιτᾶνος Θάλλος μέμνηται, φάσκων τὸν Βῆλον πεπολεμηκέναι σὺν τοῖς Τιτᾶσι πρὸς τὸν Δία καὶ τοὺς σὺν αὐτῷ θεοὺς λεγομένους, ἔνθα φησίν· «Καὶ Ὤγυγος ἡττηθεὶς ἔφυγεν εἰς Ταρτησσόν· ** τότε μὲν τῆς χώρας ἐκείνης Ἀκτῆς κληθείσης, νῦν δὲ Ἀττικῆς προσαγορευομένης, ἧς Ὤγυγος τότε ἦρξε·» Καὶ τὰς λοιπὰς δὲ χώρας καὶ πόλεις, ἀφ’ ὧν τὰς προσωνυμίας ἔσχον, οὐκ ἀναγκαῖον ἡγούμεθα καταλέγειν, μάλιστα πρὸς σὲ τὸν ἐπιστάμενον τὰς ἱστορίας. Idem ibid.
+
+### 2b
+
+: Κατὰ γὰρ τὴν Θάλλου ἱστορίαν ὁ Βῆλος προγενέστερος εὑρίσκεται τοῦ Ἰλιακοῦ πολέμου ἔτεσι τκβʹ. African.
+
+### 3
+
+ap. Eueb. P. E. X. 10: Ἀπὸ Ὠγύγου, ἐφ’ οὗ γέγονεν ὁ μέγας καὶ πρῶτος ἐν τῇ Ἀττικῇ κατακλυσμὸς, Φορωνέως Ἀργείων βασιλεύσαντος, ὡς Ἀκουσίλαος ἱστορεῖ, μέχρι πρώτης Ὀλυμπιάδος ἔτη συνάγεται χίλια εἴκοσιν. Ταῦτα γὰρ οἱ τὰ Ἀθηναίων ἱστοροῦντες Ἑλλάνικός τε καὶ Φιλόχορος οἱ τὰς Ἀτθίδας, οἵ τε τὰ Σύρια Κάστωρ καὶ Θάλλος καὶ Διόδωρος Ἀλέξανδρός τε ὁ Πολυίστωρ καί τινες τῶν καθ’ ἡμᾶς ἀκριβέστερον ἐμνήσθησαν καὶ τῶν Ἀττικῶν ἁπάντων. Syncellus: Ταύτην (τῶν Ἀράβων βασιλείαν) Ἀσσυρίων μαʹ διεδέξαντο βασιλεῖς .
+
+### 4
+
+.. ἀπὸ τοῦ πρώτου αὐτῶν Βήλου ἕως τοῦ μαʹ Μακοσκολέρου τοῦ καὶ Σαρδαναπάλλου, ὡς συμφωνοῦσι πολλοὶ τῶν ἐπισήμων ἱστορικῶν, Πολύβιος καὶ Διόδωρος, Κεφαλίων τε καὶ Κάστωρ καὶ Θάλλος καὶ ἕτεροι. Justin.
+
+### 5
+
+Martyr. Coh. ad Gr.: Thallus inter eos ponitur, qui Moysis ὡς σφόδρα ἀρχαίου καὶ παλαιοῦ τῶν Ἰουδαίων ἄρχοντος meminerint. Africanus ap.
+
+### 6
+
+Euseb. P.E. X: Κῦρος Περσῶν ἐβασίλευσεν ᾧ ἔτει Ὀλυμπιὰς ἤχθη νεʹ, ὡς ἐκ τῶν Βιβλιοθηκῶν Διοδώρου καὶ τῶν Θάλλου καὶ Κάστορος Ἱστοριῶν, ἔτι δὲ Πολυβίου καὶ Φλέγοντός ἐστιν εὑρεῖν. Malala, de Croeso ad Halyn devicto et capto, quem Cyrus triumphans tripodi igneo imposuerit: Ταῦτα δὲ ἱστόρησαν οἱ σαφώτατοι θάλης καὶ Κάστωρ καὶ Πολύβιος συγγραψάμενοι καὶ μετ’ αὐτοὺς (l.
+
+### 7
+
+αὐτῶν) Ἡρόδοτος ὁ ἱστοριογράφος· ἅτινα καὶ ὁ σοφὸς Θεόφιλος ἐχρονογράφησεν. E LIBRO TERTIO.
+
+### 8 (t)
+
+Africanus ap. Syncell.: Καθ’ ὅλου τοῦ κόσμου σκότος ἐπήγετο φοβερώτατον, σεισμῷ τε αἱ πέτραι διερρήγνυντο καὶ τὰ πολλὰ Ἰουδαίας καὶ τῆς λοιπῆς γῆς κατερρίφθη. Τοῦτο τὸ σκότος ἔκλειψιν τοῦ ἡλίου Θάλλος ἀποκαλεῖ ἐν τρίτῃ τῶν Ἱστοριῶν, ὡς ἐμοὶ δοκεῖ ἀλόγως.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: nqq-aa`.

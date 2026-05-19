@@ -1,0 +1,35 @@
+---
+title: Teliambic Fragment
+title_greek: Τηλιαμβικὸν Ἀπόσπασμα
+author: Teliambic Fragment Anonymous
+eul_wid: tpq-aa
+eul_aid: tpq
+canonical: "https://eulogikon.org/grc/teliambic-fragment-anonymous/fragment"
+period: Late Antique
+dialect: Koine
+domain: Poetry
+format: Collection
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Teliambic Fragment
+
+*Τηλιαμβικὸν Ἀπόσπασμα*
+
+**Author:** Teliambic Fragment Anonymous
+
+**eul_wid:** `tpq-aa` · [HTML page](https://eulogikon.org/grc/teliambic-fragment-anonymous/fragment)
+
+## Text
+
+### 1
+
+[]στατον . [] []τ̣ον ἀνανομ̣ε̣[] []ουσι χιόνες []ον δ’ ὑπερέχειν []ν ἥσυχον αρης []υς οὔτε Νεμέσει []ι με νόμοι [] α σματα λύραι [δ]ένδρον ἐκόμα []ἐ̣λάμβανε νεα
+
+### 2
+
+χαίρουσιν̣[] ποιμηναι[] καὶ ταύρων ἀ̣[γέ]λασ[] ἕρπει δ’ ἐκ μυχάδων ὠιδαῖς α̣[] αὔλει μοι. ψηφίζει τις ἀεὶ τὰ χρήμα[τ]α μὴ π̣[] οὐδεὶς ψηφίζει τὸ κακω[] χρήματα γὰρ καιρός τε φέρει κα[ὶ] εὑρεῖν δ’ οὐ δύναμαι τὴν σὴν̣[] αὔ[λει μοι.] ὦ φίλοι μέρο[πε]ς συν[] δεῦτε τρυφῶν ἀνομου[] τοῖς φυσικοῖς χρησασ[] τὰς̣ πρώτας κυ̣[ .. ]λ̣ας ε[] [αὔ]λει μ[οι.]
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: tpq-aa`.
