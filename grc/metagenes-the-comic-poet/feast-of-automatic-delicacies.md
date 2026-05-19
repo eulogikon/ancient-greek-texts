@@ -1,0 +1,155 @@
+---
+title: Feast of Automatic Delicacies
+title_greek: Ἀποσπάσματα
+author: Metagenes the Comic Poet
+eul_wid: cxk-aa
+eul_aid: cxk
+canonical: "https://eulogikon.org/grc/metagenes-the-comic-poet/feast-of-automatic-delicacies"
+period: Classical
+dialect: Attic Comedy
+domain: Comedy
+format: Verse
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Feast of Automatic Delicacies
+
+*Ἀποσπάσματα*
+
+**Author:** Metagenes the Comic Poet
+
+**eul_wid:** `cxk-aa` · [HTML page](https://eulogikon.org/grc/metagenes-the-comic-poet/feast-of-automatic-delicacies)
+
+## Text
+
+### book 1.1
+
+τίς ἡ Κολαινὶς Ἄρτεμις; ἱερεὺς γὰρ ὢν
+
+### book 1.2
+
+τετύχηκα τῆς Κολαινίδος.
+
+### book 2.1
+
+ἀλλ’, ὦγαθέ, δειπνῶμεν
+
+### book 2.2
+
+πρῶτον, κἄπειτά με πάντ’ ἐπερώτα, ἅττ’ ἂν βούλῃ· νῦν γὰρ
+
+### book 2.3
+
+πεινῶν δεινῶς πώς εἰμ’ ἐπιλήσμων.
+
+### book 3.1
+
+ὥσπερ ἐπειδὰν δειπνῶμέν
+
+### book 3.2
+
+που, τότε
+
+### book 3.3
+
+πλεῖστα λαλοῦμεν ἅπαντες.
+
+### book 4.1
+
+ὑμῖν ὀρχηστρίδας εἶπον ἑταίρας ὡραίας
+
+### book 4.2
+
+πρότερον, νῦν δ’ οὐχ ὑμῖν ἀγορεύω ἄρτι
+
+### book 4.3
+
+χνοαζούσας αὐλητρίδας, αἵ τε τάχιστα ἀνδρῶν
+
+### book 4.4
+
+φορτηγῶν ὑπὸ γούνατα μισθοῦ ἔλυσαν.
+
+### book 5
+
+οἰκίσκον
+
+### book 6.1
+
+ὁ μὲν
+
+### book 6.2
+
+ποταμὸς ὁ Κρᾶθις ἡμῖν καταφέρει μάζας μεγίστας αὐτόματος μεμαγμένας, ὁ δ’ ἕτερος ὠθεῖ κῦμα ναστῶν καὶ κρεῶν ἑφθῶν
+
+### book 6.3
+
+τε βατίδων εἰλυομένων αὐτόσε.[ln_5]τὰ δὲ μικρὰ ταυτὶ ποτάμι’ ἐνμεντευθενὶ ῥεῖ τευθίσιν ὀπταῖς καὶ φάγροις καὶ καράβοις, ἐντευθενὶ δ’ ἀλλᾶσι καὶ περικόμμασιν, τῃδὶ δ’ ἀφύαισι, τῇδε δ’ αὖ ταγηνίαις. τεμάχη δ’ ἄνωθεν αὐτόματα
+
+### book 6.4
+
+πεπνιγμένα[ln_10]εἰς τὸ στόμ’ ᾄττει, τὰ δὲ παρ’ αὐτὼ τὼ πόδε, ἄμυλοι δὲ περινέουσιν ἡμῖν ἐν κύκλῳ.
+
+### book 7.1
+
+τίς
+
+### book 7.2
+
+τρόπος ἵππων; ὡς δ’ ὀρχοῦνται τὸν βαρβαρικὸν
+
+### book 7.3
+
+τρό‐[ln_1]πον οὗτοι.
+
+### book 8
+
+πίνακα
+
+### book 9
+
+συγκόψαι
+
+### book 10
+
+καὶ Λύκων ἐνταῦθά που . . προδοὺς Ναύπακτον ἀργύριον λαβὼν ἀγορᾶς ἄγαλμα ξενικὸν ἐμπορεύεται.
+
+### book 12
+
+δίμυξον ἢ τρίμυξον ὡς ἐμοὶ δοκεῖ.
+
+### book 13.1
+
+[spk_β]ὦ πολῖται, δεινὰ πάσχω. Β. τίς
+
+### book 13.2
+
+πολίτης δ’ ἔστ’ ἔτι
+
+### book 13.3
+
+πλὴν ἄρ’ εἰ Σάκας ὁ Μυσὸς καὶ τὸ Καλλίου νόθον;
+
+### book 14.1
+
+κατ’ ἐπεισόδιον μεταβάλλω τὸν λόγον, ὡς ἂν καιναῖσι
+
+### book 14.2
+
+παροψίσι καὶ πολλαῖς εὐωχήσω τὸ θέατρον.
+
+### book 15
+
+λαθροφαγεῖν
+
+### book 16
+
+ῥαφανῖδος, ἀμύλου, λεκίθων, καρύων, ζωμοῦ, πολφῶν, οἴνου, κολοκύντης.
+
+### book 19
+
+δουλάρια
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: cxk-aa`.
