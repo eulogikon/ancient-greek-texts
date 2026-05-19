@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kmi-aa",
+  "eul_aid": "kmi",
+  "author_slug": "theodoridas-of-syracuse",
+  "work_slug": "fragments",
+  "url_slug": "theodoridas-of-syracuse-fragments-kmi-aa",
+  "author": {
+    "english": "Theodoridas of Syracuse",
+    "ancient_greek": "Θεοδωρίδας ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Fragments and Titles",
+    "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+  },
+  "seo": {
+    "browser_title": "Fragments of Theodoridas of Syracuse on eulogikon.org",
+    "meta_title": "Fragments and Titles by Theodoridas in Ancient Greek",
+    "meta_description": "Surviving poetic fragments and titles by Theodoridas of Syracuse. Epigrams and lyric poetry from Greek tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>Fragments and Titles</strong> comprises the surviving poetic fragments attributed to the Hellenistic poet Theodoridas of Syracuse. Preserved as quotations and references in later sources, these seven passages include epigrams and lyric pieces. Notable examples are an epitaph for the tragedian Sophocles, cited by Athenaeus, and an epigram on the poet Erinna preserved in the <strong>Greek Anthology</strong>. The fragments exhibit themes standard to Hellenistic epigram, including literary homage in memorials for Sophocles and Erinna, sympotic culture with poems suited to social drinking contexts, dedicatory and inscriptional conventions, and bucolic or pastoral elements. Theodoridas’s work survives only via fragmentary quotation, with the primary sources being the <strong>Palatine Anthology</strong>, Athenaeus’s <strong>Deipnosophists</strong>, and the Byzantine <strong>Etymologicum Magnum</strong>. There is no independent manuscript tradition; the fragments are modern reconstructions from these scattered citations. These fragments contribute to our understanding of the Hellenistic epigram tradition. His inclusion in the <strong>Greek Anthology</strong> and the quotation of his Sophocles epitaph by Athenaeus mark him as a noted, if minor, figure within the period’s literary culture, reflecting its scholarly engagement with the classical past.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 739",
+      "text": "[ln_1]πίσσα δ’ ἀπὸ γραβίων ἔσταζεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 742",
+      "text": "τηγάνῳ εὖ ἥψησεν ἐν ὀψητῆρι κολύμβῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 743",
+      "text": "......]θαι. ὅτι δὲ ἡ Ἀφροδίτη [c. 12 litt.? [ ].ι̣ν Θεοδωρίδας ....[ [ ].υλ.....ε̣ιονουκ̣..[ [ ]..ιε̣ρε..[..]σουσ[..[..[ [ ].εον κρήδεμνον̣ ..[ [ ].ξ.σφιγγε.χρ...[ [ ].κ....υο̣π̣..[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.1",
+      "text": "θύννοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 744.2",
+      "text": "τε †δὴ οἴστρησοντι† Γαδείρων δρόμον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 745",
+      "text": "φυσητῆρσι μολγίνοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 746",
+      "text": "Χειρωνία",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kmi-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theodoridas-of-syracuse-epigrams-kmi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fle-ac",
+      "title": {
+        "english": "Banquet of Xenocles",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "matron-of-pitane-banquet-of-xenocles-fle-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-of-xenocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.json"
+      }
+    },
+    {
+      "eul_wid": "fqo-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "praxiteles-of-athens-epigram-fqo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/praxiteles-of-athens/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiteles-of-athens/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiteles-of-athens/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiteles-of-athens/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxiteles-of-athens/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "bnq-aa",
+      "title": {
+        "english": "Fragments on the Birth of Zeus",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Διὸς Γενέσεως"
+      },
+      "url_slug": "corinna-of-tanagra-birth-of-zeus-bnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/corinna-of-tanagra/birth-of-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra/birth-of-zeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra/birth-of-zeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra/birth-of-zeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/corinna-of-tanagra/birth-of-zeus.json"
+      }
+    },
+    {
+      "eul_wid": "lou-ab",
+      "title": {
+        "english": "Hymn to Vesta",
+        "ancient_greek": "Ὕμνος πρὸς Ἑστίαν"
+      },
+      "url_slug": "aristonous-of-corinth-hymn-vesta-lou-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonous-of-corinth/hymn-vesta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.json"
+      }
+    },
+    {
+      "eul_wid": "crg-aa",
+      "title": {
+        "english": "On the Flute and Musical Rivalry",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telestes-of-selinus-flute-rivalry-crg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telestes-of-selinus/flute-rivalry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.json"
+      }
+    },
+    {
+      "eul_wid": "agy-ab",
+      "title": {
+        "english": "On the Uncertainty of Human Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "semonides-of-amorgos-uncertainty-life-agy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/semonides-of-amorgos/uncertainty-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.json"
+      }
+    },
+    {
+      "eul_wid": "ahi-ab",
+      "title": {
+        "english": "Spartan Constitution (Testimonies)",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας"
+      },
+      "url_slug": "tyrtaeus-of-sparta-constitution-ab-ahi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrtaeus-of-sparta/constitution-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bg",
+      "title": {
+        "english": "To Foreigners",
+        "ancient_greek": "Εἰς ξένους"
+      },
+      "url_slug": "homeric-hymns-anonymous-foreigners-upu-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/foreigners",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/foreigners.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/foreigners.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/foreigners.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/foreigners.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

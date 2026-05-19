@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bxq-aa",
+  "eul_aid": "bxq",
+  "author_slug": "simon-of-athens",
+  "work_slug": "horses-form-selection",
+  "url_slug": "simon-of-athens-horses-form-selection-bxq-aa",
+  "author": {
+    "english": "Simon of Athens",
+    "ancient_greek": "Σίμων ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "On the Form and Selection of Horses",
+    "ancient_greek": "Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων"
+  },
+  "seo": {
+    "browser_title": "On Form of Form of Horses by Simon of Athens on Eulogikon",
+    "meta_title": "Ancient On the Form of Horses by Simon of Athens in Greek",
+    "meta_description": "Simon of Athens treatise on equine conformation selection. Ancient Greek manual on horsemanship. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Form and Selection of Horses is a short practical treatise on equine management by Simon of Athens. It provides instructions for selecting horses based on physical conformation and offers advice on their care, including feeding, grooming, and training. The text survives only in fragments, preserved as excerpts within later Byzantine anthologies such as the Hippiatrica corpus. The work details criteria for ideal equine conformation, focusing on the head, neck, legs, and hooves, and gives practical guidance on daily husbandry and conditioning for service. Simon, who identifies as a horse painter, applies an artisan’s observational skill to this military subject, dedicating his treatise to an Athenian cavalry commander. The treatise is transmitted not as an independent manuscript but through quotations in later compilations on horsemanship and veterinary medicine, primarily the Hippiatrica. Consequently, its original length and full content are unknown. Recognized as the oldest surviving Greek prose work on hippology, it established a genre of technical hippiatric literature. It served as a source for later authors, most notably Xenophon in his On Horsemanship, and its practical advice remained influential through the Byzantine period via the Hippiatrica.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Δοκεῖ μοι περὶ ἰδέας ἱππικῆς δεῖν πρῶτον εἰδέναι καλῶς τοῦτο τὸ μάθημα, τὴν πατρίδα γιγνώσκειν ὡς ἔστιν κατά γε τὴν Ἑλλάδα χώραν κρατίστη ἡ Θετταλία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Τὸ δὲ μέγεθος τρία τῶν ὀνομάτων ἐπιδέχεται· μέγα, μικρόν, εὐμέγεθες, ἢ εἰ βούλει σύμμετρον, καὶ δῆλον ἐφ’ οὗ τῶν ὀνομάτων ἁρμόσει ἕκαστον· κράτιστον δὲ ἐν παντὶ ζῴῳ ἡ συμμετρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Χρόαν δὲ οὐκ ἔχω ἵππων ἀρίστην ὁρίσαι δοκεῖ δέ μοι ὅμως, ἥ τις ὁμόχρους ἐστιν αὐτῇ ἑαυτῇ ὅλῃ καὶ εὔθριξ μάλιστα, ἀρίστη εἶναι ὡς ἐπὶ πολὺ ἢ ἡ πορρωτάτω ὄνου καὶ ἡμιόνου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ὃ δὲ οὐδενὸς εἰς διάσκεψιν ἔλαττον, δεῖ τὸν ἵππον ἄνω μὲν εἶναι βραχύν, κάτωθεν δὲ μακρόν, οἶον ἀπὸ μὲν τῆς ἀκρωμίας ἐπὶ τὰ ἰσχία βραχὺ τὸ χωρίον ἔχειν, ἀπὸ δὲ τῶν ὀπισθίων μηρῶν ἐπὶ τὰ ἔμπροσθεν μακρὸν ὡς πλεῖστον, εἶτα εὔποδα εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ὁπλὴ μὲν οὖν ἀγαθὴ ἵππῳ ἀγαθὸν καὶ τὰ τοῦ ἵππου σκέλη ἐλαφρὰ καὶ εὔφορα καὶ μήτε πλατέα μήτε ὑψηλὰ ἄγαν, ὀλίγον δὲ τὸν ὄνυχα παχὺν ἔχει. ἔστι δὲ αὐτῇ τεκμήριον καὶ ὁ ψόφος τῆς ὁπλῆς τῆς ἀγαθῆς· κυμβαλίζει γὰρ ἡ κοίλη μᾶλλον ἢ ἡ πλήρης καὶ σαρκώδης. τὸ δὲ μετακύνιον ἐχέτω ὑγρόν, κυνοβάτης δὲ μὴ ἔστω· δασέα δὲ καὶ παρὰ τὰς κνήμας ἐχέτω τὰ περὶ τὴν περόνην [ἰσχία] καὶ τὴν κνήμην καὶ νευρώδη καὶ ἄσαρκα ὡς μάλιστα ἄχρι τοῦ γόνατος, τὰ δὲ ἄνωθεν τούτου καὶ σαρκωδέστερα καὶ ἰσχυρότερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Τὴν δὲ διάστασιν τοῖν σκελοῖν ἐχέτω ὡς μεγίστην. τὰ δὲ στήθη μὴ στενὰ ἔχων λίαν μηδὲ πλατέα ἄγαν καὶ τὴν ὠμοπλάτην ὡς μεγίστην καὶ πλατυτάτην, τὴν δὲ μασχάλην μικράν, τὸν αὐχένα καὶ τὴν προτομὴν ὀρθὸν ἐχέτω, μὴ τὴν ἔκφυσιν ἀνάσιμον εἰς τὴν ἀκρωμίαν ὡς παχυτάτην καὶ πλατυτάτην. παρὰ δὲ τὴν σιαγόνα ὁ αὐχὴν ἔστω λεπτός, ὑγρός, ἀνάσιμος εἰς τοὔπιθεν, πάλιν δὲ ἐκ τοῦ λεπτοτάτου εἰς τὰ πρόσθεν κατακαμπτέσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Καὶ τὴν κεφαλὴν προαγέτω δὴ καὶ μὴ βραχὺς ἔστω ὁ αὐχήν, τὴν δὲ κορυφὴν ὑψηλὴν ἐχέτω, ἡ δὲ κεφαλὴ ἐπισημότατ’ ἐλαφρά· τὼ δὲ μυκτῆρε ὡς μεγίστω, τὼ δὲ γνάθω μὴ παχείας καὶ ὁμαλὰς πρὸς ἀλλήλας, τὼ δὲ ὀφθαλμὼ μεγάλω, ἔξω δὲ ὡς μάλιστα καὶ ἰδεῖν λαμπρώ, τὰ δὲ ὦτα μικρὰ καὶ τοὺς ὀδόντας, τὴν δὲ σιαγόνα ὡς μικροτάτην, τὰ δὲ μεταξὺ τοῦ αὐχένος καὶ τῆς σιαγόνος ὡς λαγαρώτατα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Τὴν δὲ ἀκρωμίαν ὡς μεγίστην καὶ τὴν ῥάχιν, τὰς δὲ πλευρὰς πλατυτάτας καὶ καθειμένας κάτω, τὴν δὲ ὀσφὺν ἐχέτω ὑγράν—γνοίη δ’ ἄν τις τὴν ὑγράν, εἰ μὴ ἐν ἀμφοῖν τοῖν σκελοῖν σταίη, ἀλλ’ ὡς τὰ πολλὰ εἰς τὸ ἕτερον μετα βαίνοι τοῖν ὄπισθεν σκελοῖν—τὸ δὲ ἰσχίον μέγιστον καὶ πλατύ, τὴν δὲ λαγόνα ὡς μικροτάτην (αἱ πλευραὶ καὶ αὐταὶ ἔστωσαν πλατεῖαι καὶ ἰσχίον μέγα—μικρότατον δὲ καὶ ἀσθενέστατον τοῦ ἵππου ἡ λαγών—).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Τὰ δὲ μηρία δεῖ μὴ σαρκώδη εἶναι, τοὺς δὲ ὄρχεις ἐχέτω μικρούς. τὸ 〈δὲ〉 μεταξὺ τῶν μηριαίων μὴ μετέωρον ἐχέτω μηδὲ πλῆρες, ἀλλ’ ὀλίγον ἐγκολλότερον. καὶ τὴν ἕδραν ὡς μικροτάτην καὶ ὡς πορρωτάτω 〈τοῦ〉 ἰδεῖν. τὴν δὲ κέρκον μετέωρον ἐχέτω καὶ ἐκ τῶν ἰσχίων δασεῖαν καὶ μακράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Περὶ μὲν οὖν εἴδους ἵππων ταῦτα καὶ ὅτι ὁ μὲν ἅπαντα ταῦτα μάλιστα ἔχων ἄριστος, δεύτερος δὲ ὃς τὰ τούτων ἔχει πλεῖστα. ὅσα γὰρ κέκτηται πλεῖστα, τοσαῦτα μεγίστας ὠφελείας παρέχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Ἕλκεται δὲ πῶλος ἐκ τῶν πωλίων διέτης. περὶ τοῦτον τὸν χρόνον βάλλει τοὺς πρώτους ὀδόντας τριακοντάμηνος γεγονώς, τοὺς δευτέρους δὲ ἐνιαυτῷ ὕστερον καὶ τοὺς τελευταίους ἑτέρῳ ἐνιαυτῷ καὶ ἐν ἐλάττονι χρόνῳ. ἀκμαῖος 〈δ’〉 αὐτὸς ἑαυτοῦ γίγνεται εἴς τε ποδώκειαν καὶ ἰταμότητα ἔργων ἑξέτης γεγονώς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bxq-ab",
+      "title": {
+        "english": "Fragments on Hippiatric Medicine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππιατρικῆς"
+      },
+      "url_slug": "simon-of-athens-hippiatric-fragments-bxq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simon-of-athens/hippiatric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/hippiatric-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uzu-ac",
+      "title": {
+        "english": "Commentary-Epictetus' Handbook",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον"
+      },
+      "url_slug": "simplicius-of-cilicia-handbook-commentary-uzu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/handbook-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "dhu-ab",
+      "title": {
+        "english": "Fragments on Exhortation",
+        "ancient_greek": "Ὀδυσσεὺς ἢ Ὀδυσσέως λόγος"
+      },
+      "url_slug": "antisthenes-of-athens-ii-exhortation-fragments-dhu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antisthenes-of-athens-ii/exhortation-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/exhortation-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/exhortation-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/exhortation-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/exhortation-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aq",
+      "title": {
+        "english": "Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "arrian-of-nicomedia-cynegeticus-pcs-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cynegeticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ax",
+      "title": {
+        "english": "On Philanthropy or Constantius",
+        "ancient_greek": "Περὶ φιλανθρωπίας ἢ Κωνστάντιος"
+      },
+      "url_slug": "themistius-philanthropy-constantius-rye-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philanthropy-constantius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-constantius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-constantius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-constantius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philanthropy-constantius.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-aj",
+      "title": {
+        "english": "On the Existence of Evils",
+        "ancient_greek": "Περὶ τοῦ εἶναι τὰ κακά"
+      },
+      "url_slug": "proclus-the-successor-existence-of-evils-uqy-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/existence-of-evils",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.json"
+      }
+    },
+    {
+      "eul_wid": "bwc-aa",
+      "title": {
+        "english": "On the Nature of Plurality",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.json"
+      }
+    },
+    {
+      "eul_wid": "okg-et",
+      "title": {
+        "english": "Pericles",
+        "ancient_greek": "Περικλῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-pericles-okg-et",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ah",
+      "title": {
+        "english": "Positions and Names of Winds",
+        "ancient_greek": "Ἀνέμων θέσεις καὶ προσηγορίαι"
+      },
+      "url_slug": "aristotle-winds-hgw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/winds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/winds.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/winds.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/winds.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/winds.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/simon-of-athens/horses-form-selection",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

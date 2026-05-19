@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dso-ab",
+  "eul_aid": "dso",
+  "author_slug": "lysippus-the-comic-poet",
+  "work_slug": "athenian-life",
+  "url_slug": "lysippus-the-comic-poet-athenian-life-dso-ab",
+  "author": {
+    "english": "Lysippus the Comic Poet",
+    "ancient_greek": "Λύσιππος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Athenian Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+  },
+  "seo": {
+    "browser_title": "Fragments of Lysippus the Comic Poet on Eulogikon Archive",
+    "meta_title": "Fragments by Lysippus the Comic Poet in Ancient Greek",
+    "meta_description": "Fragments of Lysippus the Comic Poet on Athenian life and society. Classical Greek comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The comic poet Lysippus is known only by name from later testimonia, with no specific play titles or direct fragments of his work surviving in the extant record. He is mentioned in secondary sources such as the 10th-century Byzantine encyclopedia known as the Suda and in later grammatical citations, but no manuscripts of his comedies exist. The modern descriptor &quot;Fragments on Athenian Life&quot; does not correspond to an attested ancient work but serves as a placeholder for his lost output. Lysippus exemplifies the numerous comic poets from antiquity whose works are entirely lost, underscoring the significant gaps in our understanding of the broader Athenian comic tradition beyond the preserved works of major figures.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_α]Α. Ἕρμων, τί ἔστι, πῶς ἔχομεν; Β. τί δ’ ἄλλο γ’ ἤ ὁ πατὴρ ἄνωθεν ἐς τὸ φρέαρ, ἐμοὶ δοκεῖν, ὥσπερ τὸν οἶνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦ θέρους, καθεικέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Βλαύτῃ, κοθόρνῳ, Θετταλίδι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ἀλλὰ τρίμιτός ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "πλεκτός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Αὐτοῖσιν αὐλοῖς ὁρμαὶ καὶ γλωττοκομείῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Οὐδ’ ἀνακνάψας καὶ θειώσας τὰς ἀλλοτρίας ἐπινοίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.1",
+      "text": "Εἰ μὴ τεθέασαι τὰς Ἀθήνας, στέλεχος εἶ, εἰ δὲ τεθέασαι μὴ τεθήρευσαι δ’, ὄνος, εἰ δ’ εὐαρεστῶν ἀποτρέχεις, κανθήλιος.[ln_3]* * * * Αὕτη πόλις ἔσθ’ Ἑλληνὶς ἡ ῥόδοις ἴσην[ln_5]εὐωδίαν ἔχουσα χἄμ’ ἀηδίαν. τὰ γὰρ Ἁλιεῖα μεγάλην εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.2",
+      "text": "σχολήν· τὸ δ’ ἁλιακὸν ἔτος με μαίνεσθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.3",
+      "text": "ποιεῖ· ὅταν δὲ τὴν λεύκην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.4",
+      "text": "τις αὐτῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.5",
+      "text": "πρᾳέως ἁλιακὸν εἶναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.6",
+      "text": "στέφανον εἴπῃ, πνίγομαι[ln_10]οὕτως ἐπ’ αὐτοῖς, ὥστε μᾶλλον ἂν θέλειν ἀποκαρτερεῖν ἢ ταῦτ’ ἀκούων καρτερεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.1",
+      "text": "τοιοῦτο τῶν ξένων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.2",
+      "text": "τι καταχεῖται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.3",
+      "text": "σκότος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ἀλλὰ δᾷδας ἡμμένας ἐμοὶ δότω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τις ἔνδοθεν, καὶ κόρους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "πλεκτοὺς ἀκραιφνεῖς μυρρίνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Κύων δέ τις ἐβόα δεδεμένος * * ὥσπερ Βούδιος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dso-aa",
+      "title": {
+        "english": "Fragments of the Well and the Dog",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Φρέατος καὶ τοῦ Κυνός"
+      },
+      "url_slug": "lysippus-the-comic-poet-well-dog-dso-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysippus-the-comic-poet/well-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/well-dog.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jtw-ab",
+      "title": {
+        "english": "Culinary Artisan's Boast",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hegesippos-the-comic-poet-culinary-boast-jtw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesippos-the-comic-poet/culinary-boast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ad",
+      "title": {
+        "english": "Fragments on Athenian Politicians",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτικῶν"
+      },
+      "url_slug": "eupolis-of-athens-politicians-dum-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/politicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-ac",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ac-hcq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "jag-ab",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ios-aa",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-aa-ios-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.json"
+      }
+    },
+    {
+      "eul_wid": "dac-ad",
+      "title": {
+        "english": "Fragments on Eratosthenes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐρατοσθένους"
+      },
+      "url_slug": "crates-the-comic-poet-eratosthenes-fragments-dac-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lli-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-ab-lli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.json"
+      }
+    },
+    {
+      "eul_wid": "fpk-aa",
+      "title": {
+        "english": "Fragments on Pythagorean Sacrifice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πυθαγορικῆς Θυσίας"
+      },
+      "url_slug": "mnesimachus-the-comic-poet-pythagorean-sacrifice-fpk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lysippus-the-comic-poet/athenian-life",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

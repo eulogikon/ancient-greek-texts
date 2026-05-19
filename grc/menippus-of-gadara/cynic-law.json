@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ibq-aa",
+  "eul_aid": "ibq",
+  "author_slug": "menippus-of-gadara",
+  "work_slug": "cynic-law",
+  "url_slug": "menippus-of-gadara-cynic-law-ibq-aa",
+  "author": {
+    "english": "Menippus of Gadara",
+    "ancient_greek": "Μένιππος ὁ Γαδαρεύς"
+  },
+  "title": {
+    "english": "Fragments on Cynic Law",
+    "ancient_greek": "Ἀπόσπασμα περὶ Κυνικοῦ Νόμου"
+  },
+  "seo": {
+    "browser_title": "Satirical Fragments of Menippus of Gadara on Eulogikon",
+    "meta_title": "Classical Fragments by Menippus of Gadara in Ancient Greek",
+    "meta_description": "Satirical fragments by Cynic philosopher Menippus. This epistolary work parodies philosophical law. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Cynic Law</strong> is a satirical work attributed to the Hellenistic Cynic philosopher Menippus of Gadara, who wrote in Koine Greek during the 3rd century BCE. No complete text by Menippus survives; this work is known only through two brief passages preserved by later authors. The title suggests it parodied the principles of the Cynic lifestyle. As the inventor of the seriocomic genre later termed Menippean satire, which blended prose and verse to critique philosophical pretension and social conventions, Menippus likely used the work to humorously address core Cynic doctrines. These included living according to nature, embracing voluntary poverty, and practicing free speech, while simultaneously mocking hollow intellectualism. The work&#x27;s transmission is entirely fragmentary, with no extant manuscripts. Our knowledge derives solely from quotations and descriptions in later authors such as Diogenes Laërtius and the satirist Lucian. Consequently, the exact structure and full content of the work are lost. Its influence, however, was significant, as Menippus&#x27;s distinctive satirical style profoundly shaped the writings of Lucian and established a literary tradition that impacted Roman and later European satire.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Μένιππος αὐτοπηρίταις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ὀρθῶς ποιεῖτε πεινῶντες διψῶντες ῥιγῶντες χαμευνοῦντες· ταῦτα γὰρ διατάττει νόμος ὁ Διογένειος, ὃς ἐγράφη κατὰ Λυκοῦργον νομοθέτην Λακεδαιμονίων· ἐὰν δέ τις ὑμῶν παρακούσῃ, παραδοθήσεται νόσῳ καὶ βασκανίᾳ καὶ λύπῃ καὶ πᾶσι τοῖς ἀπὸ τοῦ χοροῦ τούτου, λήψονται δὲ αὐτοὺς καὶ ποδάγραι καὶ βηχία καὶ φῦσαι βροντώδεις κάτωθεν, ὅτι ἐς νόμον δίκαιον καὶ θεῖον τὸν ἀπὸ Σινώπης ἠσέβησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cxa-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "magnes-the-comic-poet-comic-fragments-cxa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnes-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "khs-aa",
+      "title": {
+        "english": "Cook's Boastful Fragments",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demetrius-the-younger-cooks-boastful-fragments-khs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-younger/cooks-boastful-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hbw-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "anaxandrides-comicus-fate-hbw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandrides-comicus/fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.json"
+      }
+    },
+    {
+      "eul_wid": "lli-aa",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-aa-lli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "duw-ab",
+      "title": {
+        "english": "Fragments on Misanthropy and Satire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μισανθρωπίας καὶ Σάτυρας"
+      },
+      "url_slug": "phrynichus-the-comic-poet-misanthropy-satire-duw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/misanthropy-satire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/misanthropy-satire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/misanthropy-satire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/misanthropy-satire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/misanthropy-satire.json"
+      }
+    },
+    {
+      "eul_wid": "ivq-ac",
+      "title": {
+        "english": "Fragments on Servants and Masters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτῶν"
+      },
+      "url_slug": "alexis-the-comic-poet-servants-masters-ivq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bn",
+      "title": {
+        "english": "Georgus",
+        "ancient_greek": "Γεωργός"
+      },
+      "url_slug": "menander-of-athens-georgus-hps-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.json"
+      }
+    },
+    {
+      "eul_wid": "evu-ac",
+      "title": {
+        "english": "Uninvited Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-uninvited-guest-evu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/uninvited-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menippus-of-gadara/cynic-law",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara/cynic-law.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara/cynic-law.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara/cynic-law.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-gadara/cynic-law.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

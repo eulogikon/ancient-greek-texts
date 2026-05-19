@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jkq-aa",
+  "eul_aid": "jkq",
+  "author_slug": "possis-of-magnesia",
+  "work_slug": "mythology",
+  "url_slug": "possis-of-magnesia-mythology-jkq-aa",
+  "author": {
+    "english": "Possis of Magnesia",
+    "ancient_greek": "Ποσσὶς ὁ Μαγνής"
+  },
+  "title": {
+    "english": "Fragments on Mythology",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Possis of Magnesia on Mythology on Eulogikon",
+    "meta_title": "Classical Fragments of Possis of Magnesia in Ancient Greek",
+    "meta_description": "Surviving fragments from Possis of Magnesia on mythology. Historical prose on Greek myths. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Mythology by Possis of Magnesia are known only from a handful of brief prose excerpts preserved by the later author Athenaeus in his work the <strong>Deipnosophistae</strong>. These surviving passages reflect a Hellenistic interest in antiquarian details and mythological etiologies, particularly concerning the origins of cultural practices related to food, drink, and custom. One fragment identifies the divine drink nectar as a form of wine, while another credits the hero Rhadamanthys with originating the practice of mixing wine with water. A further excerpt discusses the so-called Cecropian measure for wine. The work survives exclusively through its quotation within Athenaeus&#x27;s compendium, which valued these details for their relevance to symposium culture, and possesses no independent manuscript tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΜΑΓΝΗΤΙΚΑ. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus XII: Πόσσις δ’ ἐν τρίτῳ Μαγνητικῶν τὸν Θεμιστοκλέα φησὶν, ἐν Μαγνησίᾳ τὴν στεφανηφόρον ἀρχὴν ἀναλαβόντα, θῦσαι Ἀθηνᾷ, καὶ τὴν ἑορτὴν Παναθήναια ὀνομάσαι, καὶ Διονύσῳ Χοο πότῃ θυσιάσαντα καὶ τὴν Χοῶν ἑορτὴν αὐτόθι καταδεῖξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t2",
+      "text": "ΑΜΑΖΟΝΙΣ. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem VII: Πόσσις δ’ ὁ Μάγνης ἐν τρίτῳ Ἀμαζονίδος τῆς Ἀργοῦς φησι δημιουργὸν γενέσθαι τὸν Γλαῦκον, καὶ κυβερνῶντα αὐτὴν, ὅτε Ἰάσων μετὰ τῶν Τυρρηνῶν ἐμάχετο, μόνον ἄτρωτον γενέσθαι ἐν τῇ ναυμαχίᾳ· κατὰ δὲ Διὸς βούλησιν ἐν τῷ τῆς θαλάττης βυθῷ φανῆναι, καὶ οὕτως γενέσθαι θαλάττιον δαίμονα, ὑπὸ μόνου τε Ἰάσονος θεωρηθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "lke-ab",
+      "title": {
+        "english": "Atthís: Athenian Origins and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philochorus-of-athens-origins-customs-lke-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philochorus-of-athens/origins-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.json"
+      }
+    },
+    {
+      "eul_wid": "gae-aa",
+      "title": {
+        "english": "Fragments on Dedications",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναθημάτων"
+      },
+      "url_slug": "menetor-the-historian-dedications-gae-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menetor-the-historian/dedications",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.json"
+      }
+    },
+    {
+      "eul_wid": "ods-aa",
+      "title": {
+        "english": "Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλίας"
+      },
+      "url_slug": "conon-the-mythographer-italy-ods-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/conon-the-mythographer/italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/conon-the-mythographer/italy.json"
+      }
+    },
+    {
+      "eul_wid": "iam-aa",
+      "title": {
+        "english": "Historical Fragments on Miletus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου"
+      },
+      "url_slug": "maeandrius-of-miletus-historical-fragments-iam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ap",
+      "title": {
+        "english": "On Imitation",
+        "ancient_greek": "Περὶ Μιμήσεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-imitation-ndy-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.json"
+      }
+    },
+    {
+      "eul_wid": "fmi-aa",
+      "title": {
+        "english": "On the Seven Sages and Pythagoras",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "andron-of-ephesus-seven-sages-pythagoras-fmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.json"
+      }
+    },
+    {
+      "eul_wid": "lqs-aa",
+      "title": {
+        "english": "On the Temple at Ephesus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "democritus-of-ephesus-temple-lqs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/democritus-of-ephesus/temple",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.json"
+      }
+    },
+    {
+      "eul_wid": "dpc-aa",
+      "title": {
+        "english": "On the Wonders of Sicily",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphodorus-of-abdera-wonders-sicily-dpc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphodorus-of-abdera/wonders-sicily",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphodorus-of-abdera/wonders-sicily.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/possis-of-magnesia/mythology",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia/mythology.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia/mythology.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia/mythology.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/possis-of-magnesia/mythology.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

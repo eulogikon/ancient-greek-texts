@@ -1,0 +1,600 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ffk-av",
+  "eul_aid": "ffk",
+  "author_slug": "plato",
+  "work_slug": "epigrams-av",
+  "url_slug": "plato-epigrams-av-ffk-av",
+  "author": {
+    "english": "Plato of Athens",
+    "ancient_greek": "Πλάτων ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Plato of Athens on Eulogikon Digital Archive",
+    "meta_title": "Classical Epigrams by Plato of Athens in Ancient Greek Text",
+    "meta_description": "A collection of 33 short poems by Plato. Written in elegiac couplets on love, death, and dedication. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams are a collection of thirty-three short Greek poems preserved under the name of the philosopher Plato. Composed primarily in elegiac couplets, these verses explore themes of erotic love, friendship, mortality, and philosophical dedication. Notable examples include amorous addresses to figures such as Aster and Agathon, a lament for the philosopher&#x27;s associate Dion, and a tribute to the astronomer Eudoxus. The poems are characterized by their concision, polished diction, and emotional resonance.</p>\n<p class=\"research-text\">Scholarly consensus holds that the collection as it stands is not the work of a single author from a specific period. While a small number of the epigrams may possibly reflect Plato&#x27;s own early poetic efforts, the corpus is largely considered a later Hellenistic compilation. It was likely assembled from verses composed in a Platonic style or attributed to the philosopher due to his immense cultural authority. The uncertain date of composition for individual pieces further complicates questions of authenticity.</p>\n<p class=\"research-text\">The survival of the collection is owed to its inclusion in the Byzantine-era Greek Anthology, a vast compilation that preserved thousands of ancient epigrams. Through this transmission, the Platonic Epigrams have exercised a lasting influence as exemplary models of short-form lyric poetry. They have also been instrumental in shaping the post-classical romantic image of Plato as a figure who seamlessly united poetic sensibility with philosophical rigor.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Τὴν ψυχὴν Ἀγάθωνα φιλῶν ἐπὶ χείλεσιν ἔσχον· [para]ἦλθε γὰρ ἡ τλήμων ὡς διαβησομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Τῶι μήλωι βάλλω σε· σὺ δ’ εἰ μὲν ἑκοῦσα φιλεῖς με, [para]δεξαμένη τῆς σῆς παρθενίης μετάδος· εἰ δ’ ἄρ’ ὃ μὴ γίγνοιτο νοεῖς, τοῦτ’ αὐτὸ λαβοῦσα [para]σκέψαι τὴν ὥρην ὡς ὀλιγοχρόνιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Μῆλον ἐγώ, βάλλει με φιλῶν σέ τις· ἀλλ’ ἐπίνευσον, Ξανθίππη· κἀγὼ καὶ σὺ μαραινόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ἀστέρας εἰσαθρεῖς, Ἀστὴρ ἐμός· εἴθε γενοίμην [para]οὐρανός, ὡς πολλοῖς’ ὄμμασιν εἰς σὲ βλέπω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Ἀστὴρ πρὶν μὲν ἔλαμπες ἐνὶ ζωιοῖσιν Ἑῶιος, [para]νῦν δὲ θανὼν λάμπεις Ἕσπερος ἐν φθιμένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Δάκρυα μὲν Ἑκάβηι τε καὶ Ἰλιάδεσσι γυναιξί [para]Μοῖραι ἐπέκλωσαν δὴ τότε γεινομέναις. σοὶ δέ, Δίων, ῥέξαντι καλῶν ἐπινίκιον ἔργων δαίμονες εὐρείας ἐλπίδας ἐξέχεαν. κεῖσαι δ’ εὐρυχόρωι ἐν πατρίδι τίμιος ἀστοῖς, [para]ὦ ἐμὸν ἐκμήνας θυμὸν ἔρωτι Δίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "Νῦν ὅτε μηδὲν Ἄλεξις ὅσον μόνον εἶφ’ ὅτι καλός, [para]ὦπται καὶ πάντηι πᾶς τις ἐπιστρέφεται. θυμέ, τί μηνύεις κυσὶν ὀστέον; εἶτ’ ἀνιήσεις [para]ὕστερον. οὐχ οὕτω Φαῖδρον ἀπωλέσαμεν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Ἀρχεάνασσαν ἔχω τὴν ἐκ Κολοφῶνος ἑταίραν, [para]ἧς καὶ ἐπὶ ῥυτίδων πικρὸς ἔπεστιν ἔρως. ἆ δειλοί, νεότητος ἀπαντήσαντες ἐκείνης πρωτοπλόου, δι’ ὅσης ἤλθετε πυρκαϊῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "Εὐβοίης γένος ἦμεν Ἐρετρικόν, ἄγχι δὲ Σούσων [para]κείμεθα· φεῦ, γαίης ὅσσον ἀφ’ ἡμετέρης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "Οἵδε ποτ’ Αἰγαίοιο βαρύβρομον οἶδμα λιπόντες [para]Ἐκβατάνων πεδίωι κείμεθ’ ἐνὶ μεσάτωι. χαῖρε, κλυτή ποτε πατρὶς Ἐρέτρια, χαίρετ’, Ἀθῆναι, [para]γείτονες Εὐβοίης, χαῖρε, θάλασσα φίλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "Χρυσὸν ἀνὴρ εὑρὼν ἔλιπε βρόχον· αὐτὰρ ὁ χρυσόν [para]ὃν λίπεν οὐχ εὑρὼν ἧψεν ὃν ηὗρε βρόχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "Χρυσὸν ἀνὴρ ὃ μὲν ηὗρεν, ὃ δ’ ὤλεσεν· ὧν ὁ μὲν εὑρών [para]ῥῖψεν, ὁ δ’ οὐχ εὑρὼν λυγρὸν ἔδησε βρόχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "Ἁ Κύπρις Μούσαισι· ‘κοράσια, τὰν Ἀφροδίταν [para]τιμᾶτ’ ἢ τὸν Ἔρωτ’ ὔμμιν ἐφοπλίσομαι.‘ αἱ Μοῦσαι ποτὶ Κύπριν· ‘Ἄρει τὰ στωμύλα ταῦτα· ἡμῖν οὐ πέτεται τοῦτο τὸ παιδάριον.‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "Αἱ Χάριτες τέμενός τι λαβεῖν ὅπερ οὐχὶ πεσεῖται [para]ζηλοῦσαι, ψυχὴν ηὗρον Ἀριστοφάνους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "Ἡ σοβαρὸν γελάσασα καθ’ Ἑλλάδος, ἥ〈περ〉 ἐραστῶν [para]ἑσμὸν ἐνὶ προθύροις Λαῒς ἔχουσα νέων, τῆι Παφίηι τὸ κάτοπτρον, ἐπεὶ τοίη μὲν ὁρᾶσθαι [para]οὐκ ἐθέλω, οἵη δ’ ἦν πάρος οὐ δύναμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "Ἐννέα τὰς Μούσας φασίν τινες. ὡς ὀλιγώρως. [para]ἢν ἰδέ· καὶ Σαπφὼ Λεσβόθεν, ἡ δεκάτη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "Ἄρμενος ἦν ξείνοισιν ἀνὴρ ὅδε καὶ φίλος ἀστοῖς, [para]Πίνδαρος, εὐφώνων Πιερίδων πρόπολος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "Εἰκόνα πέντε βοῶν μικρὰ λίθος εἶχεν ἴασπις, [para]ὡς ἤδη πάσας ἔμπνοα βοσκομένας. καὶ τάχα κἂν ἀπέφευγε τὰ βοίδια· νῦν δὲ κρατεῖται [para]τῆι χρυσῆι μάνδρηι τὸ βραχὺ βουκόλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "Τὸν Βρομίου Σάτυρον τεχνήσατο δαιδαλέη χείρ [para]μούνη θεσπεσίως πνεῦμα βαλοῦσα λίθωι. εἰμὶ δὲ ταῖς Νύμφαισιν ὁμέψιος. ἀντὶ δὲ τοῦ πρίν [para]πορφυρέου μέθυος λαρὸν ὕδωρ προχέω. εὔκηλον δ’ ἴθυνε φέρων πόδα, μὴ τάχα κοῦρον [para]κινήσηις ἁπαλῶι κώματι θελγόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "Εἰμὶ μὲν εὐκεράοιο φίλος θεράπων Διονύσου, [para]λείβω δ’ ἀργυρέων ὕδατα Ναϊάδων. θέλγω δ’ ἠρεμέοντα νέον περὶ κώματι παῖδα ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "Τὸν Σάτυρον Διόδωρος ἐκοίμισεν, οὐκ ἐτόρευσεν. [para]ἢν νύξηις, ἐγερεῖς· ἄργυρος ὕπνον ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "Τὸν Νυμφῶν θεράποντα φιλόμβριον ὑγρὸν ἀοιδόν, [para]τὸν λιβάσιν κούφαις τερπόμενον βάτραχον χαλκῶι μορφώσας τις ὁδοιπόρος εὖχος ἔθηκεν [para]καύματος ἐχθροτάτην δίψαν ἀκεσσάμενος. πλαζομένωι γὰρ ἔδειξεν ὕδωρ εὔκαιρον ἀείσας κοιλάδος ἐκ δροσερῆς ἀμφιβίωι στόματι. φωνὴν δ’ ἡγήτειραν ὁδοιπόρος οὐκ ἀπολείπων [para]{ηὗρε πόσιν γλυκερῶν ὧν ἐπόθει ναμάτων.}",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "Ἡ Παφίη Κυθέρεια δι’ οἴδματος ἐς Κνίδον ἦλθεν [para]βουλομένη κατιδεῖν εἰκόνα τὴν ἰδίην. πάντηι δ’ ἀθρήσασα περισκέπτωι ἐνὶ χώρωι [para]φθέγξατο· ‘ποῦ γυμνὴν εἶδέ με Πραξιτέλης;‘ Πραξιτέλης οὐκ εἶδεν ἃ μὴ θέμις, ἀλλ’ ὁ σίδηρος [para]ἔξεσεν, οἷά γ’ Ἄρης ἤθελε, τὴν Παφίην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "Ἁ Κύπρις τὰν Κύπριν ἐνὶ Κνίδωι εἶπεν ἰδοῦσα· [para]‘φεῦ, φεῦ, ποῦ γυμνὴν εἶδέ με Πραξιτέλης;‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25",
+      "text": "Οὔτε σε Πραξιτέλης τεχνάσατο, οὔθ’ ὁ σίδαρος· [para]ἀλλ’ οὕτως ἔστης, ὥς ποτε κρινομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26",
+      "text": "Σιγάτω λάσιον Δρυάδων λέπας οἵ τ’ ἀπὸ πέτρας [para]κρουνοὶ καὶ βληχὴ πουλυμιγὴς τοκάδων, αὐτὸς ἐπεὶ σύριγγι μελίζεται εὐκελάδωι Πάν [para]ὑγρὸν ἱεὶς ζευκτῶν χεῖλος ὑπὲρ καλάμων. αἱ δὲ πέριξ θαλεροῖσι χορὸν ποσὶν ἐστήσαντο [para]Ὑδριάδες νύμφαι, νύμφαι Ἁμαδρυάδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "Ὑψίκομον παρὰ τάνδε καθίζεο φωνήεσσαν φρίσσουσαν πυκνοῖς κῶνον ὑπὸ ζεφύροις, καί σοι καχλάζουσιν ἐμοῖς παρὰ νάμασι σῦριγξ [para]θελγομένωι στάξει κῶμα κατὰ βλεφάρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "Ναυηγοῦ τάφος εἰμί, ὁ δ’ ἀντίον ἐστὶ γεωργοῦ, [para]ὡς ἁλὶ καὶ γαίηι ξυνὸς ὕπεστ’ Ἀίδης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29",
+      "text": "Ναυηγόν με δέδορκας, ὃν ἡ κτείνασα θάλασσα [para]γυμνῶσαι πυμάτου φάρεος ἠιδέσατο. ἄνθρωπος παλάμηισιν ἀταρβήτοις μ’ ἀπέδυσεν [para]τόσσον ἄγος τόσσου κέρδεος ἀράμενος. κεῖνο καὶ ἐνδύσαιτο καὶ εἰν Ἀίδαο φέροιτο, [para]καί μιν ἴδοι Μίνως τοὐμὸν ἔχοντα ῥάκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30",
+      "text": "Πλωτῆρες, σώιζοισθε καὶ εἰν ἁλὶ καὶ κατὰ γαῖαν. [para]ἴστε δὲ ναυηγοῦ σῆμα παρερχόμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31",
+      "text": "Αἰὼν πάντα φέρει· δολιχὸς χρόνος οἶδεν ἀμείβειν [para]οὔνομα καὶ μορφὴν καὶ φύσιν ἠδὲ τύχην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32",
+      "text": "Εἰνοδίην καρύην με παρερχομένοις’ ἐφύτευσαν [para]παισὶ λιθοβλήτου παίγνιον εὐστοχίης. πάντας δ’ ἀκρεμόνας τε καὶ εὐθαλέας ὀροδάμνους [para]κέκλασμαι πυκιναῖς χερμάσι βαλλομένη. δένδρεσιν εὐκάρποις’ οὐδὲν πλέον· ἦ γὰρ ἔγωγε δυσδαίμων ἐς ἐμὴν ὕβριν ἐκαρποφόρουν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33",
+      "text": "ἄλσος δ’ ὡς ἱκόμεσθα βαθύσκιον, ηὕρομεν ἔνδον πορφυρέοις μήλοισιν ἐοικότα παῖδα Κυθήρης. οὐ δ’ ἔχεν ἰοδόκον φαρέτρην, οὐ καμπύλα τόξα· ἀλλὰ τὰ μὲν δένδρεσσιν ὑπ’ εὐπετάλοισι κρέμαντο, αὐτὸς δ’ ἐν καλύκεσσι ῥόδων πεπεδημένος ὕπνωι ηὗδεν μειδιόων· ξουθαὶ δ’ ἐφύπερθε μέλισσαι κηροχυτοῦς’ ἐντὸς λαροῖς’ ἐπὶ χείλεσι βαῖνον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ffk-ae",
+      "title": {
+        "english": "Alcibiades A",
+        "ancient_greek": "Ἀλκιβιάδης αʹ"
+      },
+      "url_slug": "plato-alcibiades-ffk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-af",
+      "title": {
+        "english": "Alcibiades B",
+        "ancient_greek": "Ἀλκιβιάδης βʹ"
+      },
+      "url_slug": "plato-alcibiades-b-ffk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/alcibiades-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades-b.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades-b.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades-b.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/alcibiades-b.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-aa",
+      "title": {
+        "english": "Apology of Socrates",
+        "ancient_greek": "Ἀπολογία Σωκράτους"
+      },
+      "url_slug": "plato-apology-ffk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/apology.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-an",
+      "title": {
+        "english": "Charmides",
+        "ancient_greek": "Χαρμίδης"
+      },
+      "url_slug": "plato-charmides-ffk-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/charmides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/charmides.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-ab",
+      "title": {
+        "english": "Clitophon",
+        "ancient_greek": "Κλειτοφῶν"
+      },
+      "url_slug": "plato-clitophon-ab-ffk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/clitophon-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-ao",
+      "title": {
+        "english": "Clitophon",
+        "ancient_greek": "Κλειτοφῶν"
+      },
+      "url_slug": "plato-clitophon-ao-ffk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/clitophon-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-at",
+      "title": {
+        "english": "Cratylus",
+        "ancient_greek": "Κρατύλος"
+      },
+      "url_slug": "plato-cratylus-ffk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/cratylus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-ba",
+      "title": {
+        "english": "Critias",
+        "ancient_greek": "Κριτίας"
+      },
+      "url_slug": "plato-critias-ffk-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/critias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/critias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/critias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/critias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/critias.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-bj",
+      "title": {
+        "english": "Crito",
+        "ancient_greek": "Κρίτων"
+      },
+      "url_slug": "plato-crito-ffk-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/crito",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/crito.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/crito.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/crito.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/crito.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-ah",
+      "title": {
+        "english": "Definitions",
+        "ancient_greek": "Ὅροι"
+      },
+      "url_slug": "plato-definitions-ffk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-au",
+      "title": {
+        "english": "Epigrams (Anthologia Graeca Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "plato-epigrams-au-ffk-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/epigrams-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-au.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-au.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-au.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-au.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-aw",
+      "title": {
+        "english": "Epinomis",
+        "ancient_greek": "Ἐπινομίς"
+      },
+      "url_slug": "plato-epinomis-ffk-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/epinomis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "utq-af",
+      "title": {
+        "english": "Commentary-Plato's Phaedo",
+        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bu",
+      "title": {
+        "english": "Comparison of Dion and Brutus",
+        "ancient_greek": "Σύγκρισις Δίωνος καὶ Βρούτου"
+      },
+      "url_slug": "plutarch-of-chaeronea-dion-brutus-okg-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/dion-brutus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion-brutus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion-brutus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion-brutus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/dion-brutus.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bi",
+      "title": {
+        "english": "Epitaph-the Father",
+        "ancient_greek": "Ἐπιτάφιος ἐπὶ τῷ πατρί"
+      },
+      "url_slug": "themistius-epitaph-father-rye-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/epitaph-father",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aq",
+      "title": {
+        "english": "Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "arrian-of-nicomedia-cynegeticus-pcs-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cynegeticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ai",
+      "title": {
+        "english": "Hypothetica or Apology for the Jews",
+        "ancient_greek": "Ὑποθετικά ἢ Ἀπολογία ὑπὲρ Ἰουδαίων"
+      },
+      "url_slug": "philo-of-alexandria-hypothetica-apology-lgi-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/hypothetica-apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/hypothetica-apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/hypothetica-apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/hypothetica-apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/hypothetica-apology.json"
+      }
+    },
+    {
+      "eul_wid": "uyg-ae",
+      "title": {
+        "english": "On Philebus",
+        "ancient_greek": "Περὶ Φιλήβου"
+      },
+      "url_slug": "damascius-of-damascus-philebus-uyg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/damascius-of-damascus/philebus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/philebus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/philebus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/philebus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damascius-of-damascus/philebus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ac",
+      "title": {
+        "english": "On That the Philosopher Should Converse Especially with Rulers",
+        "ancient_greek": "Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν"
+      },
+      "url_slug": "plutarch-of-chaeronea-philosopher-rulers-okg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/philosopher-rulers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philosopher-rulers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philosopher-rulers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philosopher-rulers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/philosopher-rulers.json"
+      }
+    },
+    {
+      "eul_wid": "rmq-aa",
+      "title": {
+        "english": "Prolegomena Longinus, Commentary Remains",
+        "ancient_greek": "Προλεγόμενα Λογγίνου"
+      },
+      "url_slug": "cassius-longinus-prolegomena-commentary-rmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-longinus/prolegomena-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plato/epigrams-av",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-av.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-av.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-av.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epigrams-av.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

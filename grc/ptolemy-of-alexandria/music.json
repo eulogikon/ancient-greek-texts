@@ -1,0 +1,524 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "phs-am",
+  "eul_aid": "phs",
+  "author_slug": "ptolemy-of-alexandria",
+  "work_slug": "music",
+  "url_slug": "ptolemy-of-alexandria-music-phs-am",
+  "author": {
+    "english": "Ptolemy of Alexandria",
+    "ancient_greek": "Κλαύδιος Πτολεμαῖος"
+  },
+  "title": {
+    "english": "Music",
+    "ancient_greek": "Μουσική"
+  },
+  "seo": {
+    "browser_title": "Ancient Music by Ptolemy of Alexandria on Eulogikon",
+    "meta_title": "Classical Ptolemy's Music Treatise in Ancient Greek",
+    "meta_description": "Ptolemy's Music presents a mathematical framework for understanding harmonics and their relationship to the cosmic Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ptolemy’s <strong>Harmonics</strong> is a three-book scientific treatise on music theory composed in Greek around the middle of the 2nd century CE. The Alexandrian scholar applies mathematical principles to the analysis of musical scales, intervals, and tuning systems. The work proceeds as a rigorous investigation: the first book establishes foundational acoustic concepts and offers critiques of earlier theorists such as Aristoxenus and the Pythagoreans; the second book develops Ptolemy’s own elaborate systems of scales, genera, and keys; the third and final book expands the discussion to connect musical harmony with the nature of the human soul and the mathematical order of the cosmos. A defining characteristic of Ptolemy’s method is his principle that valid musical theory must satisfy both mathematical reason and the evidence of auditory perception, an empirical standard he demonstrated through the use of instruments like the monochord.</p>\n<p class=\"research-text\">The complete text survives in Greek primarily through Byzantine manuscripts and was later translated into Arabic and Latin. Modern scholarship interprets the <strong>Harmonics</strong> as an integral component of Ptolemy’s broader endeavor to construct a unified, mathematically-based system of knowledge, alongside his major works on astronomy, optics, and geography. It was likely written for an audience of fellow philosophers and scientists engaged in the advanced study of the mathematical arts. The treatise became a profoundly influential authority in medieval Islamic, Byzantine, and later Renaissance music theory, where its detailed tuning systems and its commitment to empirical verification were extensively debated, studied, and revived.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "T1",
+      "text": "ΠΤΟΛΕΜΑΙΟΥ ΜΟΥΣΙΚΑ. Ἀρχὴ τῶν μουσικῶν λόγων ἐστὶν ὁ η ἀριθμὸς καί εἰσιν ὅροι τοῦ κοσμικοῦ συστήματος οὗτοι· α ἀριθμὸς ὁ η ἔχει ἐπόγδοον τὸν θ ἀριθμὸν, ὑπερέχει μονάδι ὁ θ τοῦ η, β ὁ ιβ ἡμιόλιος τοῦ η, ἐπίτριτος τοῦ θ, ὑπερέχει γ τοῦ θ, γ ὁ ιϛ ἐπίτριτος τοῦ ιβ, ὑπεροχὴ δ, δ ὁ ιη ἡμιόλιος τοῦ ιβ, ὑπεροχὴ ϛ, ε ὁ κα τοῦ θ διπλασιεπίτριτος, ὑπεροχὴ ιβ, ϛ ὁ κδ ἐπίτριτος τοῦ ιη, ὑπεροχὴ ϛ, ζ ὁ λβ ἐπίτριτος τοῦ κδ, ὑπεροχὴ η, η ὁ λϛ διπλάσιος τοῦ ιη, ἡμιόλιος τοῦ κδ, ὑπεροχὴ ιβ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Καὶ ἔστιν ὁ μὲν θ, ἐπόγδοος τοῦ η, σελήνης ☾ , ὁ ιβ, ἡμιόλιος τοῦ η, ἑρμοῦ ♑ , ὁ ιϛ, διπλάσιος τοῦ η, ἀφροδίτης ♀ , ὁ ιη, διπλάσιος τοῦ θ, ἐπόγδοος τοῦ ιϛ, ἡλίου ☉ , ὁ κα, διπλασιεπίτριτος τοῦ θ, ἄρεος 〈 ♂ 〉, ὁ κδ, διπλάσιος τοῦ ιβ, διός ♃ , ὁ λβ, τετραπλάσιος τοῦ η, κρόνου ♄ , ὁ λϛ, τετραπλάσιος τοῦ θ, ἀπλανῶν. Αἱ δὲ ὑπεροχαί· λϛ ὑπερέχει δ, λβ η, κδ γ, κα γ, ιη β, ιϛ δ, ιβ γ, θ α, ἢ ὑπερέχει τοῦ η ὁ θ μονάδι, ὁ ιβ τοῦ θ γ, ὁ ιϛ τοῦ ιβ δ, ὁ ιη τοῦ ιϛ β καὶ οἱ λοιποὶ ὁμοίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Μουσική ἐστι ῥυθμοῦ καὶ μέλους καὶ πάσης ὀργανικῆς θεωρίας ἐπιστήμη. μουσικὸς δὲ ὁ ἔμπειρος τούτων. — Μουσική ἐστιν ἐπιστήμη θεωρητική τε καὶ πρακτικὴ μέλους τελείου τε καὶ ὀργανικοῦ, πρεπόντων τε καὶ μὴ πρεπόντων, ἐν μέλεσί τε καὶ ῥυθμοῖς συντείνουσα πρὸς ἠθῶν κατασκευήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "— Τί ἐστι μέλος; Διαστηματικῆς φωνῆς κεκλασμένης χρῆσις ἡδονὴν παρέχουσα τοῖς ἀκούουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "— Ἁρμονική ἐστιν ἐπιστήμη θεωρητικὴ τῆς τοῦ ἡρμοσμένου φύσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "— Τί ἐστι τὸ προσλαμβανόμενος; —Ὅτι ἀρχόμενοι ἐπιτείνειν [τὸ πνεῦμα] προσλαμβάνοντες τὸν ἀέρα μελῳδοῦμεν· τοὺς δὲ ἄλλους ἐκπέμποντες μᾶλλον ἢ λαμβάνοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Λεκτέον καὶ περὶ ποδὸς τί ποτέ ἐστι. καθόλου μὲν νοητέον πόδα ᾧ σημαινόμεθα τὸν ῥυθμὸν καὶ γνώριμον ποιοῦμεν τῇ αἰσθήσει. — Ὡρισμένοι δέ εἰσι τῶν ποδῶν οἱ μὲν λόγῳ τινί, οἱ δὲ ἀλογίᾳ κειμένῃ μεταξὺ δύο λόγων γνωρίμων, ὥστε εἶναι φανερὸν ἐκ τούτων, ὅτι ὁ ποὺς λόγος τίς ἐστιν ἐν χρόνοις κείμενος ἢ ἀλογία ἐν χρόνοις κειμένη εἰρημένον ἀφορισμὸν ἔχουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "— Τῶν δὲ χρόνων εἰσὶν οἱ μὲν εὔρυθμοι, οἱ δὲ ῥυθμοειδεῖς, οἱ δὲ ἄρρυθμοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Εὔρυθμοι μὲν οἱ διαφυλάττοντες ἀκριβῶς τὴν πρὸς ἀλλήλοις εὔρυθμον τάξιν· ῥυθμοειδεῖς δὲ οἱ τὴν μὲν εἰρημένην ἀκρίβειαν μὴ σφόδρα ἔχοντες, φαίνοντες δὲ ὅμως ῥυθμοῦ τινος εἶδος· ἄρρυθμοι δὲ οἱ πάντη καὶ πάντως ἄγνωστον ἔχοντες πρὸς ἀλλήλοις σύνθεσιν. — Γνώριμος δὲ γίνεται ποὺς ἄρσει καὶ θέσει, ἐστὶ γὰρ ἐξ ἄρσεως καὶ θέσεως συγκείμενον σύστημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ἄρσις δέ ἐστι σημεῖον τὸ λοιπὸν τῆς ἰδίας θέσεως, θέσις δέ ἐστι σημεῖον οὕτως τῆς ἰδίας ἄρσεως. Λόγοι δέ εἰσι ῥυθμικοί, καθ’ οὓς συνίστανται οἱ ῥυθμοὶ οἱ δυνάμενοι συνεχῆ ῥυθμοποιΐαν ἐπιδέξασθαι, τρεῖς· ἴσος, διπλασίων, ἡμιόλιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Ἐν μὲν γὰρ τῷ ἴσῳ τὸ δακτυλικὸν γίνεται γένος, ἐν δὲ τῷ διπλασίῳ τὸ ἰαμβικόν, ἐν δὲ τῷ ἡμιολίῳ τὸ παιωνικόν. — Ἄρχεται δὲ τὸ δακτυλικὸν ἀπὸ τετρασήμου ἀγωγῆς, αὔξεται δὲ μέχρι ἑξκαιδεκασήμου, ὥστε γίνεσθαι τὸν μέγιστον πόδα τοῦ ἐλαχίστου τετραπλάσιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "ἔστι δὲ ὅτε καὶ ἐν δισήμῳ γίνεται δακτυλικὸς πούς. τὸ δὲ ἰαμβικὸν γένος ἄρχεται μὲν ἀπὸ τρισήμου ἀγωγῆς, αὔξεται δὲ μέχρι ὀκτωκαιδεκασήμου, ὥστε γίνεσθαι τὸν μέγιστον πόδα τοῦ ἐλαχίστου ἑξαπλάσιον. τὸ δὲ παιωνικὸν ἄρχεται μὲν ἀπὸ πεντασήμου ἀγωγῆς, αὔξεται δὲ μέχρι πεντεκαιεικοσασήμου, ὥστε γίνεσθαι τὸν μέγιστον πόδα τοῦ ἐλαχίστου πενταπλάσιον. Διαφέρουσι δὲ οἱ μείζονες πόδες τῶν ἐλαττόνων ἐν τῷ αὐτῷ γένει ἀγωγ ῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ἔστι δὲ ἀγωγὴ ῥυθμοῦ τῶν ἐν τῷ αὐτῷ λόγῳ ποδῶν κατὰ μέγεθος διαφορά, οἷον ὁ τρίσημος ἰαμβικός, ὁ σημεῖον συνέχων ἓν ἐν ἄρσει καὶ διπλάσιον ἐν θέσει, καὶ ὁ ἑξάσημος ἰαμβικός, ὁ σημεῖα δύο συνέχων ἐν ἄρσει καὶ διπλάσιον ἐν θέσει . τῶν γὰρ τριῶν ἡ διαίρεσις εἰς σημεῖον καὶ διπλάσιον γίνεται τῶν τε ἓξ ὁμοίως. οὗτοι οὖν οἱ πόδες, μεγέθει ἀλλήλων διαφέροντες, γένει καὶ τῇ διαιρέσει τῶν ποδικῶν σημείων οἱ αὐτοί εἰσιν. Πυρὸς ποιότητες θερμότης ξηρότης· ἰδία μὲν θερμότης, κοινὴ δὲ πρὸς τὴν γῆν ξηρότης, πρὸς δὲ τὸν ἀέρα θερμότης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Ἀέρος ποιότητες ὑγρότης θερμότης· ἰδία μὲν ὑγρότης, κοινὴ πρὸς μὲν τὸ πῦρ θερμότης, πρὸς δὲ τὸ ὕδωρ ὑγρότης. Ὕδατος ποιότητες ψυχρότης ὑγρότης· ἰδία μὲν ψυχρότης, κοινὴ δὲ πρὸς τὸν ἀέρα ὑγρότης, πρὸς δὲ τὴν γῆν ψυχρότης. Γῆς ποιότητες ξηρότης ψυχρότης· ἰδία μὲν ξηρότης, κοινὴ δὲ πρὸς μὲν τὸ ὕδωρ ψυχρότης, πρὸς δὲ τὸ πῦρ ξηρότης. — Δείκνυνται δὲ δι’ ἀριθμῶν αἱ χροαὶ τὸν τρόπον τοῦτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "ὑποτίθεται γὰρ τόνος ἐκ δώδεκά τινα ἐλάχιστα μόρια διαιρούμενος, ὧν ἕκαστον δωδεκατημόριον τόνου καλεῖται· ἀναλόγως δὲ τῷ τόνῳ καὶ τὰ λοιπὰ διαστήματα, τὸ μὲν γὰρ ἡμιτόνιον εἰς ἓξ δωδεκατημόρια, ἡ δὲ δίεσις, ἡ μὲν τεταρτημόριος εἰς τρία, ἡ δὲ τριτημόριος εἰς τέσσαρα, ὅλον δὲ τὸ διὰ τεσσάρων εἰς τριάκοντα. Ἔστι δὲ ἡ εὕρεσις τῶν τόνων καὶ τῶν ἡμιτονίων καὶ τῶν διέσεων κατὰ τὸν Ἐρατοσθένην [Omitted graphic marker] καὶ μεταξὺ εὑρίσκεται ἀριθμὸς ὁ ιζ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "[Omitted graphic marker] εὑρίσκονται μεταξὺ ὡρισμένα λγ λε. — Καὶ πάλιν γίνεται δίτονον ὁ η καὶ ὁ θ πολλαπλασιαζόμενοι· [Omitted graphic marker] ὁ γὰρ οβ εὑρίσκεται ἀνάλογον μεταξὺ καὶ ποεῖ αὐτὸ δίτονον. Τρία εἰσὶ τὰ ῥυθμιζόμενα, λέξις, μέλος, κίνησις σωματική, ὥστε διαιρήσει τὸν χρόνον ἡ μὲν λέξις τοῖς αὑτῆς μέρεσιν, οἷον γράμμασι καὶ συλλαβαῖς καὶ ῥήμασι καὶ πᾶσι τοῖς τοιούτοις· τὸ δὲ μέλος τοῖς ἑαυτοῦ φθόγγοις τε καὶ διαστήμασιν· ἡ δὲ κίνησις σημείοις τε καὶ σχήμασι καὶ εἴ τι τοιοῦτόν ἐστι κινήσεως μέρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "περὶ τούτοις ἐστὶν ὁ ῥυθμός. Ὁ δὲ αὐτὸς ῥυθμὸς οὔτε περὶ γραμμάτων οὔτε περὶ συλλαβῶν ποιεῖται τὸν λόγον, ἀλλὰ περὶ τῶν χρόνω ν, τὰ μὲν ἐκτείνειν κελεύων, τὰ δὲ συνάγειν, τοὺς δὲ ἴσους ποεῖν ἀλλήλοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "καὶ τοῦτο ποιεῖ μενόντων τῶν συλλαβῶν καὶ τῶν γραμμάτων. Πᾶς ὁ κατὰ μετά βασιν γινόμενος χρόνος διορισμοῦ δύναμιν ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "ἀλλὰ δεῖ, ὅτε τὴν μὲν προτέραν συλλαβὴν μηκέτι φθέγγει καὶ τὴν δευτέραν μηδέπω, τοῦτον τὸν χρόνον σιωπήσει ἀντέχεσθαι. Τὴν λύραν τὴν ἐκ τῆς χελώνης φασὶ τὸν Ἑρμῆν εὑρηκέναι καὶ κατασκευάσαντα ἑπτάχορδον παραδεδωκέναι τὴν μάθησιν τῷ Ὀρφεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "—τηνικαῦτά φασιν. Ὅροι συστήματος κοσμικοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Φθόγγοι ἑστῶτες. Ἀριθμοί. Σφαῖραι. νήτη ὑπερβολαίων λϛ ἀπλανῶν, νήτη ὑπερβολαίων λβ κρόνου, νήτη διεζευγμένων κδ διός, νήτη συνημμένων κα γʹ ἄρεως, παράμεσος ιη ἡλίου, μέση ιϛ ἀφροδίτης, ὑπάτη μέσων ιβ ἑρμοῦ, ὑπάτη ὑπατῶν θ σελήνης, προσλαμβανόμενος η πυρὸς ἀέρος ὕδατος γῆς. Περιέχουσιν οἱ ἀριθμοὶ μεσοτήτων ἀριθμητικὰς ε γεωμετρικὰς 〈ζ〉 ἁρμονικὰς 〈γ〉 συμφωνιῶν δὲ ἐν λόγοις ἐπιμορίοις καὶ πολλαπλασίοις· διὰ τεσσάρων ἐν ἐπιτρίτοις ε διὰ πέντε ἐν ἡμιολίοις δ διὰ πασῶν ἐν διπλασίοις 〈ε〉 δὶς διὰ πασῶν ἐν τετραπλασίοις β, καὶ ἔτι τόνους ἐν ἐπογδόοις δ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Τέσσαρά εἰσι πολυθρύλλητα αἴτια· ὑλικὸν ποιητικὸν εἰδικὸν τελικόν. διότι τὸ εἶδος καὶ τὸν ὁρισμὸν καλεῖ, πᾶσα γὰρ ἀπόδειξις εἰς τὸ διότι ἀνάγεται. [End of Table cell] Κατὰ κιθαρῳδίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "[End of Table cell] δεξιᾶς χειρός. [End of Table cell] ἀριστερᾶς χειρός [End of Table cell] διάπεμπτος [End of Table cell] μέση [End of Table cell] ὑπάτη [End of Table cell] νήτη [End of Table cell] χρωματική [End of Table cell] συνημμέναι [End of Table cell] δύο διάτονος [End of Table cell] διάτονοι δύο [End of Table cell] μέση [End of Table cell] παράμεσος [End of Table cell] παράμεσος [End of Table cell] τρίτη [End of Table cell] τρίτη [End of Table cell] διάπεμπτος [End of Table cell] συνημμέναι [End of Table cell] ὑπάτη [End of Table cell] ὀξεῖα χρωματική [End of Table cell] παρυπάτη [End of Table cell] ὀξεῖα διάτονος [End of Table cell] χρωματική [End of Table cell] ὀξεῖα μέση [End of Table cell] μέση [End of Table cell] ὀξεῖα παράμεσος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "phs-ah",
+      "title": {
+        "english": "Appearances",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "ptolemy-of-alexandria-appearances-phs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/appearances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ab",
+      "title": {
+        "english": "Arrangement and Voting of Handy Rules",
+        "ancient_greek": "Προχείρων κανόνων διάταξις καὶ ψηφοφορία"
+      },
+      "url_slug": "ptolemy-of-alexandria-handy-rules-phs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/handy-rules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ae",
+      "title": {
+        "english": "Geography Books 1–3",
+        "ancient_greek": "Γεωγραφία Βιβλία Α΄-Γ΄"
+      },
+      "url_slug": "ptolemy-of-alexandria-geography-1-3-phs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-1-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.json"
+      }
+    },
+    {
+      "eul_wid": "phs-af",
+      "title": {
+        "english": "Geography Books 4–8",
+        "ancient_greek": "Γεωγραφία Βιβλία Δ΄-Η΄"
+      },
+      "url_slug": "ptolemy-of-alexandria-geography-4-8-phs-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-4-8",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.json"
+      }
+    },
+    {
+      "eul_wid": "phs-al",
+      "title": {
+        "english": "Harmonics",
+        "ancient_greek": "Ἁρμονικά"
+      },
+      "url_slug": "ptolemy-of-alexandria-harmonics-phs-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/harmonics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.json"
+      }
+    },
+    {
+      "eul_wid": "phs-aj",
+      "title": {
+        "english": "Hypotheses",
+        "ancient_greek": "Ὑποθέσεις"
+      },
+      "url_slug": "ptolemy-of-alexandria-hypotheses-phs-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/hypotheses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ad",
+      "title": {
+        "english": "Inscription of Canopus",
+        "ancient_greek": "Ἐπιγραφή τοῦ Κανώπου"
+      },
+      "url_slug": "ptolemy-of-alexandria-canopus-inscription-phs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/canopus-inscription",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ac",
+      "title": {
+        "english": "Mathematical Composition",
+        "ancient_greek": "Μαθηματικὴ Σύνταξις"
+      },
+      "url_slug": "ptolemy-of-alexandria-mathematical-composition-phs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/mathematical-composition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ak",
+      "title": {
+        "english": "On Inclinations",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-alexandria-inclinations-phs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/inclinations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ag",
+      "title": {
+        "english": "On the Analemma",
+        "ancient_greek": "Περὶ τοῦ Ἀναλήμματος"
+      },
+      "url_slug": "ptolemy-of-alexandria-analemma-phs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/analemma",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.json"
+      }
+    },
+    {
+      "eul_wid": "phs-aa",
+      "title": {
+        "english": "On the Faculty of Judgment and Sovereignty of the Soul",
+        "ancient_greek": "Περὶ τῆς κριτικῆς δυνάμεως καὶ τῆς ψυχῆς ἡγεμονίας"
+      },
+      "url_slug": "ptolemy-of-alexandria-judgment-sovereignty-phs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/judgment-sovereignty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ai",
+      "title": {
+        "english": "Tetrabiblos",
+        "ancient_greek": "Τετράβιβλος"
+      },
+      "url_slug": "ptolemy-of-alexandria-tetrabiblos-phs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/tetrabiblos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ixo-ag",
+      "title": {
+        "english": "Book of Assumptions",
+        "ancient_greek": "Βιβλίον Ὑποθέσεων"
+      },
+      "url_slug": "archimedes-of-syracuse-assumptions-ixo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/assumptions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-ak",
+      "title": {
+        "english": "Cattle Problem (Short Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-ak-ixo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.json"
+      }
+    },
+    {
+      "eul_wid": "pim-aa",
+      "title": {
+        "english": "Commentary-the Twelfth Pythian of Pindar",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πίνδαρον Πυθιονίκην ΙΒ'"
+      },
+      "url_slug": "theon-of-smyrna-ii-pindar-pythian-12-pim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-smyrna-ii/pindar-pythian-12",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/pindar-pythian-12.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/pindar-pythian-12.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/pindar-pythian-12.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/pindar-pythian-12.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-aq",
+      "title": {
+        "english": "Data",
+        "ancient_greek": "Δεδομένα"
+      },
+      "url_slug": "euclid-of-alexandria-data-iaw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ac",
+      "title": {
+        "english": "Data Other Demonstrations",
+        "ancient_greek": "Δεδομένα καὶ Ἄλλαι Ἀποδείξεις"
+      },
+      "url_slug": "euclid-of-alexandria-data-other-demonstrations-iaw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data-other-demonstrations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theon-of-alexandria-epigrams-spw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-aa",
+      "title": {
+        "english": "Phenomena, Demonstrations of Another Recension B",
+        "ancient_greek": "Φαινόμενα (Ἀποδείξεις Ἀναθεωρήσεως Β)"
+      },
+      "url_slug": "euclid-of-alexandria-phenomena-demonstrations-b-iaw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/phenomena-demonstrations-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.json"
+      }
+    },
+    {
+      "eul_wid": "pim-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theon-of-smyrna-ii-testimonies-pim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-smyrna-ii/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/music",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

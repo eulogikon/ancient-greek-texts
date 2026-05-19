@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ffu-ag",
+  "eul_aid": "ffu",
+  "author_slug": "isocrates-of-athens",
+  "work_slug": "against-lochites",
+  "url_slug": "isocrates-of-athens-against-lochites-ffu-ag",
+  "author": {
+    "english": "Isocrates of Athens",
+    "ancient_greek": "Ἰσοκράτης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Against Lochites",
+    "ancient_greek": "Κατὰ Λοχίτου"
+  },
+  "seo": {
+    "browser_title": "The Speech Against Lochites by Isocrates on Eulogikon",
+    "meta_title": "The Against Lochites by Isocrates in Ancient Greek",
+    "meta_description": "Forensic oration by Isocrates from a legal case against Lochites. Athenian courtroom rhetoric. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Against Lochites_ is a short forensic oration attributed to the Athenian orator Isocrates. It is a prosecution speech composed for a client involved in a private lawsuit concerning assault. The speaker accuses a man named Lochites of committing an act of hubristic assault, arguing that the offense constituted an arrogant attack on the victim&#x27;s civic dignity rather than a simple case of battery. The core of the speech is a deliberate distinction between mere physical violence and the public wrong of hubris, which was seen as an affront to the social order. The argument emphasizes the law&#x27;s intent to protect citizen status and to punish arrogant behavior that undermines communal values, appealing directly to the jury&#x27;s sense of civic duty to impose a severe penalty as a deterrent. The oration survives complete within the medieval manuscript tradition of the Isocratean corpus. Although its authenticity has occasionally been questioned by scholars, it is generally accepted as a genuine work. As a concise example of Attic logography, or speechwriting for clients, it represents the forensic style of Isocrates&#x27; early career and serves as a valuable source for understanding the practical application and rhetorical deployment of the complex Athenian legal concept of hubris in the courts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "In Loch t",
+      "text": "ΚΑΤΑ ΛΟΧΙΤΟΥ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 1",
+      "text": ".. Ὡς μὲν τοίνυν ἔτυπτέ με Λοχίτης ἄρχων χειρῶν ἀδίκων, ἅπαντες ὑμῖν οἱ παρόντες μεμαρτυρήκασιν. Τὸ δ’ ἁμάρτημα τοῦθ’ οὐχ ὅμοιον δεῖ νομίζειν τοῖς ἄλλοις οὐδὲ τὰς τιμωρίας ἴσας ποιεῖσθαι περί τε τοῦ σώματος καὶ τῶν χρημάτων, ἐπισταμένους ὅτι τοῦτο πᾶσιν ἀνθρώποις οἰκειότατόν ἐστι καὶ τούς τε νόμους ἐθέμεθα καὶ περὶ τῆς ἐλευθερίας μαχόμεθα καὶ τῆς δημοκρατίας ἐπιθυμοῦμεν καὶ τἄλλα πάντα τὰ περὶ τὸν βίον ἕνεκα τούτου πράττομεν. Ὥστ’ εἰκὸς ὑμᾶς ἐστὶν τοὺς περὶ τοῦτ’ ἐξαμαρτάνοντας, ὃ περὶ πλείστου ποιεῖσθε, τῇ μεγίστῃ ζημίᾳ κολάζειν. Εὑρήσετε δὲ καὶ τοὺς θέντας ἡμῖν τοὺς νόμους ὑπὲρ τῶν σωμάτων μάλιστα σπουδάσαντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 2",
+      "text": "Πρῶτον μὲν γὰρ περὶ μόνου τούτου τῶν ἀδικημάτων καὶ δίκας καὶ γραφὰς ἄνευ παρακαταβολῆς ἐποίησαν, ἵν’ ὅπως ἂν ἕκαστος ἡμῶν τυγχάνῃ δυνάμενος καὶ βουλόμενος, οὕτως ἔχῃ τιμωρεῖσθαι τοὺς ἀδικοῦντας. Ἔπειτα τῶν μὲν ἄλλων ἐγκλημάτων αὐτῷ τῷ παθόντι μόνον ὁ δράσας ὑπόδικός ἐστιν· περὶ δὲ τῆς ὕβρεως, ὡς κοινοῦ τοῦ πράγματος ὄντος, ἔξεστιν τῷ βουλομένῳ τῶν πολιτῶν γραψαμένῳ πρὸς τοὺς θεσμοθέτας εἰσελθεῖν εἰς ὑμᾶς. Οὕτω δ’ ἡγήσαντο δεινὸν εἶναι τὸ τύπτειν ἀλλήλους ὥστε καὶ περὶ τῆς κακηγορίας νόμον ἔθεσαν ὃς κελεύει τοὺς λέγοντάς τι τῶν ἀπορρήτων πεντακοσίας δραχμὰς ὀφείλειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 3",
+      "text": "Καίτοι πηλίκας τινὰς χρὴ ποιεῖσθαι τὰς τιμωρίας ὑπὲρ τῶν ἔργῳ παθόντων κακῶς, ὅταν ὑπὲρ τῶν λόγῳ μόνον ἀκηκοότων οὕτως ὀργιζόμενοι φαίνησθε; Θαυμαστὸν δ’ εἰ τοὺς μὲν ἐπὶ τῆς ὀλιγαρχίας ὑβρίσαντας ἀξίους θανάτου νομίζετε, τοὺς δ’ ἐν δημοκρατίᾳ ταὔτ’ ἐκείνοις ἐπιτηδεύοντας ἀζημίους ἀφήσετε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 4",
+      "text": "Καίτοι δικαίως ἂν μείζονος ζημίας τυγχάνοιεν· φανερώτερον γὰρ ἐπιδείκνυνται τὴν αὑτῶν πονηρίαν. Ὅστις γὰρ νῦν τολμᾷ παρανομεῖν ὅτ’ οὐκ ἔξεστιν, τί ποτ’ ἂν ἐποίησεν ὅθ’ οἱ κρατοῦντες τῆς πόλεως καὶ χάριν εἶχον τοῖς τὰ τοιαῦτ’ ἐξαμαρτάνουσιν· Ἴσως οὖν Λοχίτης ἐπιχειρήσει μικρὸν ποιεῖν τὸ πρᾶγμα, διασύρων τὴν κατηγορίαν καὶ λέγων ὡς οὐδὲν ἐκ τῶν πληγῶν κακὸν ἔπαθον, ἀλλὰ μείζους ποιοῦμαι τοὺς λόγους ἢ κατὰ τὴν ἀξίαν τῶν γεγενημένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 5",
+      "text": "Ἐγὼ δ’ εἰ μὲν μηδεμία προσῆν ὕβρις τοῖς πεπραγμένοις, οὐκ ἄν ποτ’ εἰσῆλθον εἰς ὑμᾶς· νῦν δ’ οὐχ ὑπὲρ τῆς ἄλλης βλάβης τῆς ἐκ τῶν πληγῶν γενομένης ἀλλ’ ὑπὲρ τῆς αἰκίας καὶ τῆς ἀτιμίας ἥκω παρ’ αὐτοῦ δίκην ληψόμενος, ὑπὲρ ὧν προσήκει τοῖς ἐλευθέροις μάλιστ’ ὀργίζεσθαι καὶ μεγίστης τυγχάνειν τιμωρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 6",
+      "text": "Ὁρῶ δ’ ὑμᾶς, ὅταν του καταγνῶθ’ ἱεροσυλίαν ἢ κλοπὴν, οὐ πρὸς τὸ μέγεθος ὧν ἂν λάβωσι τὴν τίμησιν ποιουμένους ἀλλ’ ὁμοίως ἁπάντων θάνατον καταγιγνώσκοντας, καὶ νομίζοντας δίκαιον εἶναι τοὺς τοῖς αὐτοῖς ἔργοις ἐπιχειροῦντας ταῖς αὐταῖς ζημίαις κολάζεσθαι. Χρὴ τοίνυν καὶ περὶ τῶν ὑβριζόντων τὴν αὐτὴν γνώμην ἔχειν, καὶ μὴ τοῦτο σκοπεῖν εἰ μὴ σφόδρα συνέκοψαν, ἀλλ’ εἰ τὸν νόμον παρέβησαν, μηδ’ ὑπὲρ τοῦ συντυχόντος μόνον ἀλλ’ ὑπὲρ ἅπαντος τοῦ τρόπου δίκην παρ’ αὐτῶν λαμβάνειν, ἐνθυμουμένους, ὅτι πολλάκις ἤδη μικραὶ προφάσεις μεγάλων κακῶν αἴτιαι γεγόνασιν, καὶ διότι διὰ τοὺς τύπτειν τολμῶντας εἰς τοῦτ’ ἤδη τινὲς ὀργῆς προήχθησαν ὥστ’ εἰς τραύματα καὶ θανάτους καὶ φυγὰς καὶ τὰς μεγίστας συμφορὰς ἐλθεῖν· ὧν οὐδὲν διὰ τὸν φεύγοντα τὴν δίκην ἀγένητόν ἐστιν, ἀλλὰ κατὰ μὲν τὸ τούτου μέρος ἅπαντα πέπρακται, διὰ δὲ τὴν τύχην καὶ τὸν τρόπον τὸν ἐμὸν οὐδὲν τῶν ἀνηκέστων συμβέβηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 9",
+      "text": "Ἡγοῦμαι δ’ ὑμᾶς οὕτως ἂν ἀξίως ὀργισθῆναι τοῦ πράγματος, εἰ διεξέλθοιτε πρὸς ὑμᾶς αὐτοὺς ὅσῳ μεῖζόν ἐστιν τοῦτο τῶν ἄλλων ἁμαρτημάτων. Εὑρήσετε γὰρ τὰς μὲν ἄλλας ἀδικίας μέρος τι τοῦ βίου βλαπτούσας, τὴν δ’ ὕβριν ὅλοις τοῖς πράγμασιν λυμαινομένην, καὶ πολλοὺς μὲν οἴκους δι’ αὐτὴν διαφθαρέντας, πολλὰς δὲ πόλεις ἀναστάτους γεγενημένας. Καὶ τί δεῖ τὰς τῶν ἄλλων συμφορὰς λέγοντα διατρίβειν; Αὐτοὶ γὰρ ἡμεῖς δὶς ἤδη τὴν δημοκρατίαν ἐπείδομεν καταλυθεῖσαν καὶ δὶς τῆς ἐλευθερίας ἀπεστερήθημεν οὐχ ὑπὸ τῶν ταῖς ἄλλαις πονηρίαις ἐνόχων ὄντων ἀλλὰ διὰ τοὺς καταφρονοῦντας τῶν νόμων καὶ βουλομένους τοῖς μὲν πολεμίοις δουλεύειν, τοὺς δὲ πολίτας ὑβρίζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 11",
+      "text": "Ὧν οὗτος εἷς ὢν τυγχάνει. Καὶ γὰρ εἰ τῶν τότε κατασταθέντων νεώτερός ἐστιν, ἀλλὰ τόν γε τρόπον ἔχει τὸν ἐξ ἐκείνης τῆς πολιτείας. Αὗται γὰρ αἱ φύσεις εἰσὶν αἱ παραδοῦσαι μὲν τὴν δύναμιν τὴν ἡμετέραν τοῖς πολεμίοις, κατασκάψασαι δὲ τὰ τείχη τῆς πατρίδος, πεντακοσίους δὲ καὶ χιλίους ἀκρίτους ἀποκτείνασαι τῶν πολιτῶν. Ὧν εἰκὸς ὑμᾶς μεμνημένους τιμωρεῖσθαι μὴ μόνον τοὺς τότε λυμηναμένους ἀλλὰ καὶ τοὺς νῦν βουλομένους οὕτω διαθεῖναι τὴν πόλιν, καὶ τοσούτῳ μᾶλλον τοὺς ἐπιδόξους γενήσεσθαι πονηροὺς τῶν πρότερον ἡμαρτηκότων ὅσῳ περ κρεῖττόν ἐστιν τῶν μελλόντων κακῶν ἀποτροπὴν εὑρεῖν ἢ τῶν ἤδη γεγενημένων δίκην λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 13",
+      "text": "Καὶ μὴ περιμείνηθ’ ἕως ἂν ἀθροισθέντες καὶ καιρὸν λαβόντες εἰς ὅλην τὴν πόλιν ἐξαμάρτωσιν, ἀλλ’ ἐφ’ ἧς ἂν ὑμῖν προφάσεως παραδοθῶσιν, ἐπὶ ταύτης αὐτοὺς τιμωρεῖσθε, νομίζοντες εὕρημ’ ἔχειν ὅταν τινὰ λάβητ’ ἐν μικροῖς πράγμασιν ἐπιδεδειγμένον ἅπασαν τὴν αὑτοῦ πονηρίαν. Κράτιστον μὲν γὰρ ἦν, εἴ τι προσῆν ἄλλο σημεῖον τοῖς πονηροῖς τῶν ἀνθρώπων, πρὶν ἀδικηθῆναί τινα τῶν πολιτῶν, πρότερον κολάζειν αὐτούς· ἐπειδὴ δ’ οὐχ οἷόν τ’ ἐστὶν αἰσθέσθαι πρὶν κακῶς τινὰ παθεῖν ὑπ’ αὐτῶν, ἀλλ’ οὖν γ’ ἐπειδὰν γνωρισθῶσι, προσήκει πᾶσι μισεῖν τοὺς τοιούτους καὶ κοινοὺς ἐχθροὺς νομίζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 15",
+      "text": "Ἐνθυμεῖσθε δ’ ὅτι τῶν μὲν περὶ τὰς οὐσίας κινδύνων οὐ μέτεστι τοῖς πένησιν, τῆς δ’ εἰς τὰ σώματ’ αἰκίας ὁμοίως ἅπαντες κοινωνοῦμεν· ὥσθ’ ὅταν μὲν τοὺς ἀποστεροῦντας τιμωρῆσθε, τοὺς πλουσίους μόνον ὠφελεῖτε, ὅταν δὲ τοὺς ὑβρίζοντας κολάζητε, ὑμῖν αὐτοῖς βοηθεῖτε. Ὧν ἕνεκα δεῖ περὶ πλείστου ποιεῖσθαι ταύτας τῶν δικῶν, καὶ περὶ μὲν τῶν ἄλλων συμβολαίων τοσούτου τιμᾶν ὅσον προσήκει τῷ διώκοντι κομίσασθαι, περὶ δὲ τῆς ὕβρεως ὅσον ἀποτείσας ὁ φεύγων παύσεσθαι μέλλει τῆς παρούσης ἀσελγείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 17",
+      "text": "Ἂν οὖν περιαιρῆτε τὰς οὐσίας τῶν νεανιευομένων εἰς τοὺς πολίτας καὶ μηδεμίαν νομίζηθ’ ἱκανὴν εἶναι ζημίαν, οἵτινες ἂν εἰς τὰ σώματ’ ἐξαμαρτάνοντες τοῖς χρήμασι τὰς δίκας ὑπέχωσιν, ἅπανθ’ ὅσα δεῖ τοὺς καλῶς δικάζοντας διαπράξεσθε· καὶ γὰρ περὶ τοῦ παρόντος πράγματος ὀρθῶς γνώσεσθε καὶ τοὺς ἄλλους πολίτας κοσμιωτέρους ποιήσετε καὶ τὸν βίον τὸν ὑμέτερον αὐτῶν ἀσφαλέστερον καταστήσετε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 18",
+      "text": "Ἔστιν δὲ δικαστῶν νοῦν ἐχόντων περὶ τῶν ἀλλοτρίων τὰ δίκαια ψηφιζομένους ἅμα καὶ τὰ σφέτερ’ αὐτῶν εὖ τίθεσθαι. Καὶ μηδεὶς ὑμῶν, εἰς τοῦτ’ ἀποβλέψας ὅτι πένης εἰμὶ καὶ τοῦ πλήθους εἷς, ἀξιούτω τοῦ τιμήματος ἀφαιρεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 19",
+      "text": "Οὐ γὰρ δίκαιον ἐλάττους ποιεῖσθαι τὰς τιμωρίας ὑπὲρ τῶν ἀδόξων ἢ τῶν διωνομασμένων, οὐδὲ χείρους ἡγεῖσθαι τοὺς πενομένους ἢ τοὺς πολλὰ κεκτημένους. Ὑμᾶς γὰρ ἂν αὐτοὺς ἀτιμάζοιτ’ εἰ τοιαῦτα γιγνώσκοιτε περὶ τῶν πολιτῶν. Ἔτι δὲ καὶ πάντων ἂν εἴη δεινότατον, εἰ δημοκρατουμένης τῆς πόλεως μὴ τῶν αὐτῶν ἅπαντες τυγχάνοιμεν, ἀλλὰ τῶν μὲν ἀρχῶν μετέχειν ἀξιοῖμεν, τῶν δ’ ἐν τοῖς νόμοις δικαίων ἀποστεροῖμεν ἡμᾶς αὐτοὺς, καὶ μαχόμενοι μὲν ἐθέλοιμεν ἀποθνῄσκειν ὑπὲρ τῆς πολιτείας, ἐν δὲ τῇ ψήφῳ πλέον νέμοιμεν τοῖς τὰς οὐσίας ἔχουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 21",
+      "text": "Οὐκ, ἂν γέ μοι πεισθῆθ’, οὕτω διακείσεσθε πρὸς ὑμᾶς αὐτοὺς οὐδὲ διδάξετε τοὺς νεωτέρους καταφρονεῖν τοῦ πλήθους τῶν πολιτῶν, οὐδὲ ἀλλοτρίους ἡγήσεσθ’ εἶναι τοὺς τοιούτους τῶν ἀγώνων, ἀλλ’ ὡς ὑπὲρ αὑτοῦ δικάζων οὕτως ἕκαστος ὑμῶν οἴσει τὴν ψῆφον. Ἅπαντας γὰρ ὁμοίως ἀδικοῦσιν οἱ τολμῶντες τοῦτον τὸν νόμον παραβαίνειν τὸν ὑπὲρ τῶν σωμάτων τῶν ὑμετέρων κείμενον. Ὥστ’ ἐὰν σωφρονῆτε, παρακαλέσαντες ἀλλήλους ἐνσημανεῖσθε Λοχίτῃ τὴν ὀργὴν τὴν ὑμετέραν αὐτῶν, εἰδότες ὅτι πάντες οἱ τοιοῦτοι τῶν μὲν νόμων τῶν κειμένων καταφρονοῦσιν, τὰ δ’ ἐνθάδε γιγνωσκόμενα, ταῦτα νόμους εἶναι νομίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "In Loch 22",
+      "text": "Ἐγὼ μὲν οὖν ὡς οἷός τ’ ἦν εἴρηκα περὶ τοῦ πράγματος. εἰ δέ τις τῶν παρόντων ἔχει τί μοι συνειπεῖν, ἀναβὰς εἰς ὑμᾶς λεγέτω.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ffu-ad",
+      "title": {
+        "english": "Against The Sophists",
+        "ancient_greek": "Κατὰ τοῦ Σοφιστῶν"
+      },
+      "url_slug": "isocrates-of-athens-against-sophists-ffu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/against-sophists",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-at",
+      "title": {
+        "english": "Archidamus",
+        "ancient_greek": "Ἀρχίδαμος"
+      },
+      "url_slug": "isocrates-of-athens-archidamus-at-ffu-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/archidamus-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ah",
+      "title": {
+        "english": "Areopagiticus",
+        "ancient_greek": "Ἀρεοπαγιτικός"
+      },
+      "url_slug": "isocrates-of-athens-areopagiticus-ffu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/areopagiticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-bc",
+      "title": {
+        "english": "Banker",
+        "ancient_greek": "Τραπεζιτικός"
+      },
+      "url_slug": "isocrates-of-athens-banker-ffu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/banker",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-bb",
+      "title": {
+        "english": "Busiris",
+        "ancient_greek": "Βούσιρις"
+      },
+      "url_slug": "isocrates-of-athens-busiris-ffu-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/busiris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-aa",
+      "title": {
+        "english": "Counterplea To Callimachus",
+        "ancient_greek": "παράγραφος προς καλλίμαχον"
+      },
+      "url_slug": "isocrates-of-athens-counterplea-ffu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/counterplea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-az",
+      "title": {
+        "english": "Evagoras",
+        "ancient_greek": "Εὐαγόρας"
+      },
+      "url_slug": "isocrates-of-athens-evagoras-ffu-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/evagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-av",
+      "title": {
+        "english": "Fragments on Rhetorical Theory",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς Θεωρίας"
+      },
+      "url_slug": "isocrates-of-athens-rhetorical-theory-ffu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/rhetorical-theory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-bd",
+      "title": {
+        "english": "Helena",
+        "ancient_greek": "Ελένη"
+      },
+      "url_slug": "isocrates-of-athens-helena-ffu-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/helena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ac",
+      "title": {
+        "english": "Nicocles or the Cyprians",
+        "ancient_greek": "Νικόκλης ἢ Κύπριοι"
+      },
+      "url_slug": "isocrates-of-athens-nicocles-cyprians-ffu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/nicocles-cyprians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ao",
+      "title": {
+        "english": "On Exchange",
+        "ancient_greek": "Περὶ ἀντιδόσεως"
+      },
+      "url_slug": "isocrates-of-athens-exchange-ffu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/exchange",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-af",
+      "title": {
+        "english": "On Pair of Horses",
+        "ancient_greek": "Περὶ ἵππων ζεύγους"
+      },
+      "url_slug": "isocrates-of-athens-pair-horses-ffu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/pair-horses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-bx",
+      "title": {
+        "english": "Against Philip I",
+        "ancient_greek": "κατὰ Φιλίππου α΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-philip-bx-fsm-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-philip-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ba",
+      "title": {
+        "english": "Against The Grain Dealers",
+        "ancient_greek": "κατὰ τῶν σιτοπωλῶν"
+      },
+      "url_slug": "lysias-grain-dealers-ejc-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/grain-dealers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.json"
+      }
+    },
+    {
+      "eul_wid": "hbm-ab",
+      "title": {
+        "english": "Against Timarchus",
+        "ancient_greek": "Κατὰ Τιμάρχου"
+      },
+      "url_slug": "aeschines-of-athens-against-timarchus-hbm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/against-timarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.json"
+      }
+    },
+    {
+      "eul_wid": "fog-aa",
+      "title": {
+        "english": "Hymn to Lysias on Virtue",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "philiscus-of-miletus-hymn-virtue-fog-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-miletus/hymn-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-miletus/hymn-virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-miletus/hymn-virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-miletus/hymn-virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-miletus/hymn-virtue.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-by",
+      "title": {
+        "english": "Letter of Philip",
+        "ancient_greek": "ἐπιστολή"
+      },
+      "url_slug": "demosthenes-of-athens-letter-philip-by-fsm-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/letter-philip-by",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/letter-philip-by.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/letter-philip-by.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/letter-philip-by.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/letter-philip-by.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bk",
+      "title": {
+        "english": "Prologue, Dionysus",
+        "ancient_greek": "Προλαλιά. Διόνυσος"
+      },
+      "url_slug": "lucian-of-samosata-dionysus-pfk-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bt",
+      "title": {
+        "english": "Renounced",
+        "ancient_greek": "Ἀποκηρυττόμενος"
+      },
+      "url_slug": "lucian-of-samosata-renounced-pfk-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/renounced",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cr",
+      "title": {
+        "english": "Timon",
+        "ancient_greek": "Τίμων"
+      },
+      "url_slug": "lucian-of-samosata-timon-pfk-cr",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/timon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/isocrates-of-athens/against-lochites",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

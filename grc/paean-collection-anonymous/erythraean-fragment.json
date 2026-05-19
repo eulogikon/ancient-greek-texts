@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cqc-ab",
+  "eul_aid": "cqc",
+  "author_slug": "paean-collection-anonymous",
+  "work_slug": "erythraean-fragment",
+  "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+  "author": {
+    "english": "Paean Collection Anonymous",
+    "ancient_greek": "Παιάνας (Ἀνώνυμος, Αἰῶνος Ε΄ π.Χ.)"
+  },
+  "title": {
+    "english": "Erythraean Fragment of a Paean to Apollo",
+    "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+  },
+  "seo": {
+    "browser_title": "Erythraean Fragment of a Paean to Apollo on Eulogikon",
+    "meta_title": "Ancient Erythraean Fragment of a Paean to Apollo in Greek",
+    "meta_description": "A fragment of an ancient paean hymn to Apollo from Erythrae. This poetic text honors the god. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Erythraean Fragment of a Paean to Apollo is a brief, fragmentary cult hymn preserved as an inscription, originating from or associated with the Ionian city of Erythrae, a major cult center for Apollo on the coast of Asia Minor. As a paean, it belongs to the genre of choral lyric hymn performed in ritual contexts such as processions and festivals, characterized by its distinctive refrains. The surviving text, though damaged, includes invocatory cries to Apollo and references to choruses, the goddess Hera, and the Horai, suggesting a composition that wove together divine praise with elements of natural fertility and order. The fragment concludes with an apparent narrative of Apollo&#x27;s epiphany at Delphi. Transmitted solely through epigraphy on a damaged stone rather than literary manuscript tradition, the work survives incompletely. Its significance lies not in direct literary influence but in its value as evidence for localized ritual practice and the worship of Apollo within Ionia, contributing to the epigraphic record of the widespread paean genre which itself informed the broader development of Greek lyric poetry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ἰὴ Παιών, ὤ, ἰὴ Παιὼν (ter) [para][ὦ] ἄναξ Ἄπολλον φείδεο κούρων φείδ[εο [ ] .. [ ]ης [ ] [ ] Χοροὶ ἰὴ [ [ ] μάκαιρα [ [Πα]ι̣ὰν Ἀπόλλω[ν] [χ]ρ̣υσηλάκα[το [ ]ᾶ̣ι θ̣εᾶι, ἰὴ ἰὴ [ ]ος εὀκάρπου τε [ ]ο̣ι̣ δ̣έ σε Ὧραι τε [ [ ] αὀτίκα χερ[σὶν [ ] ἰὴ ἰὴ Παιὼν ἀνέ]τειλας Ἄπολ[λον [ Δ]ελφοῖς ἰὲ Παιάν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cqc-ae",
+      "title": {
+        "english": "Delphic Paean I to Apollo",
+        "ancient_greek": "Δελφικὸς Παιὰν Αʹ πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-delphic-i-cqc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/delphic-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-aa",
+      "title": {
+        "english": "Erythraean Paean Found at the City of Dion",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν εὑρεθεὶς ἐν Δίῳ"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-dion-cqc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-ad",
+      "title": {
+        "english": "Erythraean Paean to Aesculapius",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-aesculapius-cqc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-aesculapius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-ac",
+      "title": {
+        "english": "Fragment of a Paean to Titus Flamininus",
+        "ancient_greek": "Ἀπόσπασμα Παιᾶνος πρὸς Τίτον Φλαμινῖνον"
+      },
+      "url_slug": "paean-collection-anonymous-titus-flamininus-cqc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vrm-aa",
+      "title": {
+        "english": "Archelaus the Philosopher-the Divine Art in Iambic Verses",
+        "ancient_greek": "Ἀρχελάου φιλοσόφου περὶ τῆς θείας τέχνης διὰ"
+      },
+      "url_slug": "archelaus-the-alchemist-divine-art-iambic-vrm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-the-alchemist/divine-art-iambic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.json"
+      }
+    },
+    {
+      "eul_wid": "iha-ac",
+      "title": {
+        "english": "Betrayal of Nanis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-betrayal-of-nanis-iha-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/betrayal-of-nanis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.json"
+      }
+    },
+    {
+      "eul_wid": "gls-aa",
+      "title": {
+        "english": "Drunken Revelry and Travel",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenon-the-iambic-poet/drunken-revelry-travel",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.json"
+      }
+    },
+    {
+      "eul_wid": "hvc-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "aeschrion-of-samos-epigram-hvc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschrion-of-samos/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "jqu-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pancrates-of-arcadia-epigrams-jqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-arcadia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "jug-aa",
+      "title": {
+        "english": "Fragment and Title",
+        "ancient_greek": "Ἀπόσπασμα καὶ Τίτλος"
+      },
+      "url_slug": "hedylus-of-samos-fragments-jug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hedylus-of-samos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "its-aa",
+      "title": {
+        "english": "Fragments of Myth and Exile",
+        "ancient_greek": "Ἀποσπάσματα Μύθου καὶ Φυγῆς"
+      },
+      "url_slug": "sotades-of-maroneia-grammarian-myth-exile-its-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-grammarian/myth-exile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.json"
+      }
+    },
+    {
+      "eul_wid": "lvs-aa",
+      "title": {
+        "english": "On the Tranquility of Life",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hipparchus-of-nicaea-iii-tranquility-life-lvs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea-iii/tranquility-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii/tranquility-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii/tranquility-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii/tranquility-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea-iii/tranquility-life.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

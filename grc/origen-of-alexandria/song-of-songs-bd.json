@@ -1,0 +1,726 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "uhs-bd",
+  "eul_aid": "uhs",
+  "author_slug": "origen-of-alexandria",
+  "work_slug": "song-of-songs-bd",
+  "url_slug": "origen-of-alexandria-song-of-songs-bd-uhs-bd",
+  "author": {
+    "english": "Origen of Alexandria",
+    "ancient_greek": "Ὠριγένης ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Ten Books-the Song of Songs",
+    "ancient_greek": "Δέκα Βιβλία περὶ Ἄσματος Ἀσμάτων"
+  },
+  "seo": {
+    "browser_title": "Ten Books on the Song of Songs by Origen on Eulogikon",
+    "meta_title": "The Origen Ten Books on the Song of Songs in Greek",
+    "meta_description": "Origen's ten-book commentary interprets the Song of Songs as spiritual mysticism and divine love. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Christian",
+      "href": "/affiliations/christian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Origen of Alexandria&#x27;s <strong>Ten Books on the Song of Songs</strong> is a monumental exegetical treatise composed around 240 CE. Originally spanning ten volumes, this detailed commentary on the biblical Song of Solomon represents the mature scholarship of Origen during his residence in Caesarea. Dedicated to his patron Ambrose, the work was intended for advanced Christian students and engages deeply with Hellenistic philosophical traditions, particularly Platonism, alongside Jewish interpretive methods. Origen explicitly frames the commentary as a spiritual text for mature believers, systematically interpreting the Song’s erotic poetry not literally but as an elaborate allegory of the love between Christ, the divine Bridegroom, and the Church or the individual soul as the Bride.</p>\n<p class=\"research-text\">The original Greek text of the <strong>Ten Books</strong> is almost entirely lost, surviving only in fragments preserved in later Greek anthologies such as the <strong>Philocalia</strong> and in catenae. The primary extant version is a Latin translation and substantial abridgment made by Rufinus of Aquileia around 410 CE, titled <strong>Commentarium in Canticum Canticorum</strong>. Rufinus condensed Origen’s expansive original into two books, omitting many of its longer philosophical digressions while aiming to preserve the core exegetical material. This adaptation proceeds by selecting specific verses from the Song of Songs and furnishing them with extensive allegorical interpretation. The commentary methodically rejects a literal reading, instead presenting the Song as a narrative of the soul’s passionate longing, purification, and ultimate mystical union with God. Central themes include the dynamics of divine love and human desire for the divine, the ascent of the soul, and the preeminence of the spiritual or anagogical sense of Scripture, which Origen held was accessible only to those progressing beyond elementary faith.</p>\n<p class=\"research-text\">The work’s influence on subsequent Christian thought was profound and enduring. It established the allegorical-mystical interpretation of the Song of Songs as the definitive approach in both Eastern and Western Christianity for over a millennium. Major theologians, including Gregory of Nyssa, Ambrose of Milan, and later Bernard of Clairvaux, operated within the exegetical framework Origen created. His reading of the Song as a drama of spiritual ascent became a cornerstone of Christian mystical theology and monastic spirituality, solidifying the Alexandrian school’s emphasis on the spiritual sense of Scripture. Thus, while known primarily through Rufinus’s epitome and scattered fragments, Origen’s <strong>Ten Books on the Song of Songs</strong> remains a landmark in the history of biblical interpretation.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "90 (29)",
+      "text": "Μὴ διὰ προφητῶν με μνηστευσάτω, φησίν, δι’ ἑαυτοῦ δὲ ὁμιλησάτω κατ’ αἴσθησιν πνευματικήν· (δι’ ἧς ὁ Ἰωάννης φησί· «καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν περὶ τοῦ λόγου τῆς ζωῆς». Ταῦτα δέ φησιν ὡς τῶν προφητῶν εἰπόντων ἀκούσασα· «ἐπεθύμησεν ὁ βασιλεὺς τοῦ κάλλους σου», καὶ ἀλλαχοῦ· «ὃν τρόπον εὐφρανθήσεται νυμφίος ἐπὶ νύμφην, οὕτως εὐφρανθήσεται Κύριος ἐπὶ σοί».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "91 (30)",
+      "text": ") Ὁσάκις δέ τι ζητοῦντες θεῖον δόγμα καταλαμβάνομεν, ‹καταπεφιλῆσθαι ἀπὸ τοῦ στόματοσ› τοῦ νυμφίου νομίσωμεν· ἐν ὅσῳ δὲ ἀποροῦμεν, ὑπολάβωμεν εὐχόμενοι λέγειν τό· «φιλησάτω με ἀπὸ φιλημάτων στόματος αὐτοῦ».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "96 (28)",
+      "text": "Πολλῶν ὄντων οἴνων ἐν τῇ γραφῇ κρειττόνων τε καὶ χειρόνων, νῦν τοῖς κρείττοσιν οἱ τοῦ νυμφίου ‹μαστοὶ› παρατίθενται· οὐ γὰρ ἂν τοῖς χείροσι συνεκρίθησαν. Ἡ τοίνυν νύμφη πολλοῖς καὶ διαφόροις οἴνοις εὐφρανθεῖσα καὶ ἔχουσα παρασκευὴν εἰς τὸ δέξασθαι τοὺς κρείττονας τούτων τοῦ νυμφίου μαστοὺς τοῦτό φησι προτιμῶσα τούτους οἴνου τοῦ ‹ἐν νόμῳ τε καὶ προφήταισ›. Ὅρα δέ, ὡς ἐπὶ μὲν τῆς εὐαγγελικῆς πολιτείας ὀσμὴν ἔφη· ἐπὶ τῆς νομικῆς λατρείας αὐτὰ τέθεικε τὰ ἀρώματα, δηλῶν ἐκείνης τὸ ὑπερέχον καὶ πνευματικόν, ταύτης δὲ τὸ πάχυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101 (24)",
+      "text": "Τάχα προφητεύει τοῦ ὀνόματος τοῦ Χριστοῦ τὴν τὸν κόσμον πληρώσασαν δύναμιν κατὰ τὴν αὐτοῦ παρουσίαν, ὥστε γενέσθαι κατὰ τὸν Παῦλον «οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ἐκ ζωῆς εἰς ζωήν». Εἰ γὰρ πᾶσιν ἦν ‹εἰς ζωὴν›, εἶπεν ἂν ἡ νύμφη· διὰ τοῦτο πάντες ‹ἠγάπησάν σε›, ἀλλ’ οὐ μόνον ‹αἱ νεάνιδεσ› ‹ὁσημέραι ἀνανεούμεναι›, καὶ ‹μὴ ἔχουσαι ῥυτίδα ἢ σπῖλον›. ‹Ἐξεκενώθη› δέ, ὡς μηκέτι σιωπᾶσθαι κατακεκλεισμένον ἐν ἀπορρήτοις. «Εἰσήγαγέ με ὁ βασιλεὺς εἰς τὸ ταμιεῖον αὐτοῦ».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "108 (28)",
+      "text": "Ἤγουν ‹ἄδυτον› τὴν ἀξιέραστον λέγει ψυχὴν ἢ ἐκκλησίαν ἢ τὸ ἡγεμονικὸν τοῦ Χριστοῦ, εἰς ὃ Παῦλος εἰσελθὼν ἔφη· «ἡμεῖς δὲ νοῦν Χριστοῦ ἔχομεν, ἵνα εἴδωμεν τὰ ὑπὸ τοῦ Θεοῦ χαρισθέντα ἡμῖν». Τίνα δὲ ταῦτα; Ἃ ‹ὀφθαλμὸς οὐκ εἶδε καὶ οὖς οὐκ ἤκουσε καὶ ἐπὶ καρδίαν ἀνθρώπου οὐκ ἀνέβη· ταῦτα γὰρ ἡτοίμασεν ὁ Θεὸς τοῖς ἀγαπῶσιν αὐτόν›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "109 (22)",
+      "text": "Ἐν γὰρ ‹τῷ ταμιείῳ› τοῦ νυμφίου ‹πάντες οἱ θησαυροὶ τῆς σοφίας καὶ τῆς γνώσεως ἀπόκρυφοι›. Αὕτη μὲν γὰρ ὡς προλαβοῦσα τὰς νεάνιδας εἰσήχθη καὶ ‹παρέστη ὡς βασίλισσα ἐκ δεξιῶν τοῦ βασιλέως ἐν ἱματισμῷ διαχρύσῳ› κατὰ τὸν Δαυΐδ· περὶ δὲ τῶν νεανίδων· «ἀπενεχθήσονται τῷ βασιλεῖ παρθένοι ὀπίσω αὐτῆς» καὶ τὰ ἑξῆς. «Ἀγαπήσομεν μαστούς σου ὑπὲρ οἶνον».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "111 (26)",
+      "text": "Ἤγουν, εἰ καὶ νῦν δι’ ἀσθένειαν ὑπὲρ τοὺς σοὺς ‹μαστοὺς ἀγαπῶμεν›, ὦ νυμφίε, ‹τὸν οἶνον›, ὅταν βελτιωθῶμεν, ‹ὑπὲρ› τοῦτον αὐτοὺς ‹ἀγαπήσομεν›. ‹Οἶνοσ› μὲν οὖν εὐφραίνων ‹νεάνιδασ› τὰ νομικά, ἡ δὲ τελειότης τοῦ νυμφίου ‹μαστοί›. Εἶτα εἰς ἀπολογίαν τοῦ μὴ ἤδη ἀγαπᾶν φησιν· «εὐθύτης ἠγάπησέ σε». Ἡμεῖς δὲ οὔπω τὰς ἑαυτῶν πορείας εὐθείας ἐποιησάμεθα. ‹Σκοτισθεῖσάν› με τῇ ἁμαρτίᾳ Χριστὸς ‹παρεῖδε› διὰ τὴν ἀπιστίαν, ὃν ‹ἥλιον δικαιοσύνησ› ἀναγορεύουσιν αἱ γραφαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "128 (21)",
+      "text": "Πρόσχες δὲ καὶ τούτοις εἰς τὸν τόπον, ὅτι ‹ὁ ἥλιοσ› λευκὸς καὶ λαμπρὸς ὢν δοκεῖ τὴν αἰτίαν ἔχειν τοῦ ‹μελανοῦν›, οὐ παρ’ ἑαυτὸν, ἀλλὰ παρὰ τόν, ὡς ἀποδεδώκαμεν, ‹μελανούμενον›. Οὕτω δὲ μήποτε καὶ ‹σκληρύνει Κύριος τὴν καρδίαν Φαραώ›, τῆς αἰτίας τούτου οὔσης περὶ αὐτὸν ‹κατοδυνῶντα τὴν τῶν Ἑβραίων ζωὴν ἐν τοῖς ἔργοις τοῖς σκληροῖς, τῷ πηλῷ καὶ τῇ πλινθείᾳ καὶ πᾶσι τοῖς ἔργοισ›, οὐχὶ τοῖς ἐν ὄρεσι καὶ βουνοῖς, ἀλλὰ ‹τοῖς ἐν τοῖς πεδίοισ›· ὑλικὸς γάρ τις ἀπὸ τῆς ἑαυτοῦ κακίας γεγενημένος καὶ κατὰ σάρκα κατὰ πάντα ζῶν, ‹πηλῷ› φίλος τυγχάνων βούλεται καὶ τοὺς Ἑβραίους πηλοποιεῖν τὸ ἡγεμονικὸν ἔχων οὐ καθαρὸν ‹πηλοῦ›, ὅπερ ὡς πηλὸς ὑπὸ ἡλίου σκληρύνεται, οὕτως ὑπὸ τῶν αὐγῶν τοῦ Θεοῦ ἐπισκοπουσῶν τὸν Ἰσραὴλ ‹ἐσκληρύνθη›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "129 (24)",
+      "text": "Ὅτι δὲ τοιαῦτά ἐστιν ἐν τοῖς κατὰ τὸν τόπον καὶ οὐχ ἱστορίαν ψιλὴν πρόκειται ἀναγράφειν τῷ θεράποντι, δῆλον ἔσται τῷ συνορῶντι ὅτι, ἡνίκα ‹κατεστέναξαν οἱ υἱοὶ Ἰσραὴλ›, οὔτε ‹ἀπὸ τῆς πλινθείασ› οὔτε ‹ἀπὸ τοῦ πηλοῦ› οὔτε ‹ἀπὸ τῶν ἀχύρων κατεστέναξαν›, ἀλλ’ ‹ἀπὸ τῶν ἔργων›· «καὶ ἀνέβη αὐτῶν ἡ βοὴ πρὸς Θεόν», οὐκ ‹ἀπὸ πηλοῦ›, ἀλλὰ πάλιν «ἀπὸ τῶν ἔργων». Διὸ καὶ «εἰσήκουσε ὁ Θεὸς τῶν στεναγμῶν αὐτῶν»· οὐκ ‹εἰσακούων στεναγμοῦ› τῶν οὐκ ‹ἀπὸ ἔργων βοώντων› πρὸς αὐτόν, ἀλλ’ ‹ἀπὸ πηλοῦ› καὶ τῶν γηίνων πράξεων. «Υἱοὶ μητρός μου ἐμαχέσαντο ἐν ἐμοί· ἔθεντό με φυλάκισσαν ἐν ἀμπελῶσιν· ἀμπελῶνα ἐμὸν οὐκ ἐφύλαξα».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130 (26)",
+      "text": "Ἤγουν οἱ διδάσκοντές με μαθηταὶ τοῦ Χριστοῦ, καθᾶραι με τῶν πρὸ τούτου βουλόμενοι πονηρῶν λογισμῶν καὶ τῶν συνεργούντων ταῦτα δαιμόνων, ‹ἐμαχέσαντο› τούτοις ‹ἐν ἐμοὶ τῆς αὐτῆς μοι μητρὸς ὄντες υἱοί›· ‹τῆς ἐλευθέρασ› φημί· οἱ μὲν εἰς ‹τὸ κατ’ ἐκλογὴν χάριτος λεῖμμα› ἀναλαμβανόμενοι, ἐγὼ δὲ ‹τὴν› κατὰ ‹τὴν ἄνω Ἱερουσαλὴμ διαθήκην› λαβοῦσα καὶ ‹ἐξ ἐπαγγελίας ἀναγεννωμένη›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131 (27)",
+      "text": "Οὐ πρότερον δὲ ταύτην ‹ἔθεντο φυλάκισσαν›, εἶτα ‹ἐμαχέσαντο›· ‹μαχεσάμενοι› δὲ πρῶτον ἐπιτήδειαν ἐποίησαν τοῦ τεθῆναι ‹ἐν ἀμπελῶσιν εἰς φυλακήν›. Μωυσῆς δὲ οὗτος καὶ οἱ προφῆται, ὧν ἕκαστος ‹ἀγρὸς ἦν πλήρης, ὃν εὐλόγησε Κύριοσ› καὶ ‹ἀμπελών›· ἐν οἷς τις γενόμενος καὶ τὴν προτέραν ἕξιν ἑαυτοῦ μὴ τηρῶν ὡς ‹ἐκ Σοδόμων› ὑπάρχουσαν ‹ἀμπελῶνα› τῷ παρόντι κέχρηται λόγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "141 (28)",
+      "text": "Τὸ πολυθρύλητον δὲ παρ’ Ἕλλησιν ἐπίφθεγμα προείληπται παραδοθὲν τῷ σοφῷ Σολομῶνι, τό· «γνῶθι σαυτόν». Καθ’ ἣν ἀπειλεῖται νῦν ἡ ψυχὴ παρὰ τοῦ ἐράστου καὶ νυμφίου, εἰ μὴ τὸ δοθὲν αὐτῇ ‹κατ’ εἰκόνα Θεοῦ› φυλάξει κάλλος, τὴν ἔνδοθεν ἐκβολὴν καὶ τὸ ἐν ἐσχάτοις τετάχθαι ‹τοὺς σκαιοὺς ἐρίφουσ› ‹ποιμαίνουσαν›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142 (26)",
+      "text": "‹Ποιμανεῖσ› δὲ αὐτοὺς ‹ἐπὶ τοῖς τῶν ποιμένων σκηνώμασι›, ποτὲ μὲν τοῦδε, ποτὲ δὲ ἐκείνου, οἷα δή τις ἀλῆτις, μέχρι παιδευθεῖσα τῇ πείρᾳ πρὸς τὴν σεαυτῆς ἐπιστρέψειας γνῶσιν. Ἁρμόσει δὲ καὶ πρὸς τὴν ἐκκλησίαν ὁ λόγος. Γινώσκει δέ τις ἑαυτὸν εἰδώς, εἰ ἀγαθὴν ἢ φαύλην ἔχει διάθεσιν καὶ εἰ πολὺ τῆς ὁδοῦ τῆς ἐπὶ τὴν ἀρετὴν ἀπολείπεται ἢ ‹τοῖς ἔμπροσθεν ἐπεκτείνεται τῶν ὄπισθεν ἐπιλανθανόμενοσ›· εἰ δὲ καὶ μήπω ἔλαβεν ἢ τετελείωται ἢ προσεγγίζει τοῖς ὁρίοις τοῦ κάλλους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "143 (27)",
+      "text": "Ἔργον δὲ καὶ τὸ ἐφιστάνειν ἑκάστῃ πράξει, ὅπως γεγένηνται λογισμῷ τε παντὶ καὶ λόγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "144 (28)",
+      "text": "‹Γυναῖκασ› δὲ τὰς μὴ καθαρὰς μηδὲ ἀδιαφόρους ψυχὰς λέγει· ἀμελοῦσα δὲ τῆς ἰδίας γνώσεως γένοιτ’ ἂν ‹κλυδωνιζομένη καὶ περιφερομένη παντὶ ἀνέμῳ τῆς διδασκαλίας ἐν τῇ κυβείᾳ τῶν ἀνθρώπων›· καὶ πανταχοῦ μᾶλλον ποιμαίνει τὰς ἰδίας ‹σκαιὰς ἐρίφουσ› ἢ παρὰ τῷ ‹καλῷ ποιμένι› λόγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145 (21)",
+      "text": "(Αὕτη δὲ προσηνὴς ὁ λόγος, εἰ καὶ μηδέπω, λοιπὸν ἤδη ‹ἐν γυναιξίν ἐστι καλὴ› συγκαταριθμουμένη τῇ τοῦ Θεοῦ ἐκκλησίᾳ καὶ τῶν ἐν αὐτῇ μικρῶν οὖσα καλλίων· αἱ γὰρ οὕτω λεγόμεναι τῆς ἐκκλησίας ‹γυναῖκεσ› τῶν ἐθνικῶν ψυχῶν ἀσυγκρίτως ἀμείνους πορευομένων ὀπίσω τῶν ἐραστῶν τῶν ἀντικειμένων δυνάμεων ‹γυναικῶν› λεγομένων, ἀλλ’ οὐ παρθένων. Πῶς γὰρ οὐκ ἀμείνων ἡ πρὸς τὸν κτίστην τὸν ἑαυτῆς ἀναβλέψασα; Ὅμοιον δὲ τὸ «ἔξελθε» ‹τῷ παραδοθῆναι τῷ Σατανᾷ εἰς ὄλεθρον τῆς σαρκὸσ› ἀφορισθέντα τῆς ἐκκλησίας μετὰ τό, καθάπερ ἔλεγε πρὸς τὰς νεάνιδας, ‹εἰσαχθῆναι παρὰ τοῦ βασιλέως εἰς τὸ ταμιεῖον αὐτοῦ›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "146 (21)",
+      "text": ") Ἀλλὰ καὶ ‹μέλη› Χριστοῦ, τῆς ‹ἐκκλησίασ› νύμφης ὁ Παῦλός φησιν· ἧς οἱονεὶ πρόσωπον οἱ τῷ κάλλει τῶν λοιπῶν διαφέροντες, αἰσχρὸν οὐδὲν ἐννοοῦντες, τὴν δὲ τῆς σωφροσύνης αὐτῇ καρποφοροῦντες αἰδῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155 (26)",
+      "text": "Οἱ πρότερον ἴσως οὐκ ὄντες καλοὶ τοσοῦτον μετέβαλον, ὡς εἴρησθαι τῇ νύμφῃ· «τί ὡραιώθησαν αἱ σιαγόνες σου·» ‹μὴ ἔχοντες σπῖλον ἢ ῥυτίδα›. Τάχα δὲ καὶ τῷ τὸν ἕνα μόνον γινώσκειν Θεόν· καὶ ‹ἡ τρυγὼν› γὰρ ἑνὶ μόνῳ συνέρχεται. Τότε δὲ οὐ πολὺς ἦν οὐδὲ κεχυμένος ὁ ἄργυρος, ὀλίγα δὲ ἦν ἐν ἀποῤῥήτῳ παρὰ προφητῶν λεγόμενα καὶ τῶν πάλαι σοφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "161 (27)",
+      "text": "Ἐπιδημήσαντος δὲ τὰ ἐν τοῖς ἀβάτοις τοῦ ναοῦ τεθεώρηται τῷ βλέποντι ‹τὸ καταπέτασμα› τὸ ἀληθινὸν ‹σχιζόμενον ἄνωθεν ἕως κάτω› ἐπὶ τῷ θεωρηθῆναι τὰ ἔνδον, ἐπὰν ὁ ‹ἀναπεσὼν κοιμηθεὶς ὡς λέων καὶ ὡς σκύμνος ἐγερθῇ›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "162 (23)",
+      "text": "—Καὶ μετὰ ταῦτα. Τότε γὰρ ‹οἱ σύμμορφοι γεγενημένοι τῆς ἀναστάσεως αὐτοῦ› παραλήψονται παρ’ αὐτοῦ ἀνθ’ ‹ὁμοιωμάτων› χρυσόν, πληθυνθήσονται τῷ χρυσίῳ καὶ τῷ ἀργυρίῳ. Τὴν γὰρ τοῦ νυμφίου, φησίν, ‹ὀσμὴν ἡ ἐμὴ νάρδοσ›, ἐν ᾗ αὐτὸν ἤλειψα, ‹δέδωκε›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165 (31)",
+      "text": "‹Τῇ› γὰρ ἑαυτῆς ‹νάρδῳ τοὺς πόδας ἀλείψασα τοῦ Ἰησοῦ καὶ ταῖς θριξὶν ἀπομάξασα› μεταπεποιημένην ἐκ ‹τῆς ὀσμῆσ› τοῦ νυμφίου ταύτην ἀνέλαβεν· ἧς αἰσθανομένη φησὶν ἐπὶ ‹τὴν κεφαλὴν› ἐλθούσης· ‹ἡ ἐμὴ νάρδος ἔδωκέ μοι τὴν τοῦ νυμφίου ὀσμήν›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166 (28)",
+      "text": "Διόπερ ὡς ἀπὸ τῶν χρωτῶν Ἰησοῦ ‹τὴν οἰκίαν ὅλην ἐπλήρωσε› τῆς μαθητρίας ‹τὸ μύρον›. «Ἀπόδεσμος τῆς στακτῆς ἀδελφιδοῦς μου ἐμοί, ἀνὰ μέσον τῶν μαστῶν μου αὐλισθήσεται».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "168 (24)",
+      "text": "Εἰποῦσα ‹τὴν νάρδον› τοῦ νυμφίου ‹δεδωκέναι μοι τὴν ὀσμὴν› νῦν φημι ‹τὸν ἀδελφιδόν μου› πνέειν ‹στακτῆσ›, οὐ διαχεομένης οὐδὲ ἔξω πνεούσης, ἀλλ’ ἀποδεδεμένης καὶ πυκνότερον τὴν εὐωδίαν διδούσης. Ἀδελφὸν δὲ τὸν πρῶτον ἐσχηκυῖα λαὸν ἡ ἐξ ἐθνῶν ἐκκλησία, ἐπείπερ ἐξ αὐτοῦ ‹τὸ κατὰ σάρκα ἦν ὁ Χριστόσ›, ‹υἱὸν› κέκληκεν ‹ἀδελφοῦ› τὸν νυμφίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "169 (25)",
+      "text": "Τοῦ δὲ Ἀκύλα ἐκδεδωκότος ‹πατράδελφον› λεκτέον πατέρα εἶναι τῆς ἐξ ἐθνῶν ἐκκλησίας τὸν πάλαι λαόν, ἐπεὶ ἐκ τοῦ παρ’ ἐκείνοις νόμου καὶ τῶν προφητῶν ἡ ἐν Θεῷ γένεσις καὶ ἡ ἐξ ἡμῶν εἰς εὐσέβειαν ὑπῆρξε προαγωγή. Τούτου τοίνυν οὕτως ἀποδεδομένου τῆς νύμφης ‹πατρὸς ἀδελφὸσ› ὁ σωτὴρ ὁμοίως ἐκείνοις ‹ὑπὸ νόμον γενόμενοσ›. Νῦν ἔοικε πρότερον ἐνεωρακέναι τρανότερον τῷ τοῦ νυμφίου κάλλει ἡ νύμφη καὶ διὰ τῶν ‹περιστερῶν› αὐτῆς ‹ὀφθαλμῶν› αἴσθεσθαι τῆς ἐν τῷ κάλλει τοῦ λόγου ὑπεροχῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175 (23)",
+      "text": "Τάχα δὲ ‹κλίνην› κοινὴν ἑαυτῆς καὶ τοῦ νυμφίου τὸ σῶμα αἰνίττεται, ἐν ᾧ ἔτι οὖσα ἡ ψυχὴ ἀξιοῦται τῆς τοῦ λόγου κοινωνίας. Λέγει γοῦν Παῦλος· «τὰ σώματα ὑμῶν μέλη Χριστοῦ ἐστι». Διὰ γὰρ τοῦ ‹ὑμῶν› τῆς νύμφης εἶναι λέγει τὸ σῶμα, διὰ δὲ τοῦ ‹μέλη Χριστοῦ› τοῦ νυμφίου. ‹Σύσκιον› δέ φησι τὸν νυμφίον διὰ τὴν πυκνότητα τῶν ἐν τῷ λόγῳ καὶ τῇ σοφίᾳ θεωρημάτων. (Ἐὰν δὲ ᾖ ἡ κοινὴ νύμφη ἀμφοῖν εὐθαλής, οὐδὲν θαυμαστὸν θείας δυνάμεως ἡγουμένης καὶ ἐπὶ τὸ σῶμα πᾶσαν τὴν διὰ τοῦ σώματος πρᾶξιν ἀγαθὴν δηλοῦσθαι.) «Ἐγὼ ἄνθος τοῦ πεδίου, κρίνον τῶν κοιλάδων».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178 (23)",
+      "text": "‹Ἄνθοσ› λέγει τὸ ὁδεῦον ἐπὶ τὸ γενέσθαι καρπός. Ἐν οὖν τῷ περιγείῳ τόπῳ ‹πεδίῳ› ῥηθέντι ‹ἄνθοσ› ἐστὶν ὁ νυμφίος λόγος, ὡς πρὸς τὰ μέλλοντα· ‹ὅταν γὰρ ἔλθῃ τὸ τέλειον›, μεταβαλεῖ τὸ ‹ἄνθοσ› εἰς τὸ γενέσθαι καρπός. Καὶ ἐπεὶ μὴ πλέον χωροῦσι, οὗ ὡς ‹ἄνθοσ› λέγει, οἱ ἐπὶ γῆς, διὰ τοῦτο γέγονεν ὁ νυμφίος ὡς ‹ἄνθος τοῦ πεδίου›. «Ἑαυτὸν» γὰρ «ἐκένωσε μορφὴν δούλου λαβὼν» πρὸς τὸ δυνηθῆναι ‹τὴν δόξαν› αὐτοῦ μετὰ ταῦτα ‹θεάσασθαι› ἡμᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "179 (22)",
+      "text": "Μήποτε δὲ τοῖς μὲν εὐγενεστέροις καὶ ὁμαλέσι ‹πεδίοισ› ὀνομαζομένοις ‹ἄνθοσ› ἐστί, τοῖς δὲ τούτων κατωτέροις καὶ κοιλοτέροις ‹κρίνον›. Ταῦτα φήσας ὁ νυμφίος παραβάλλει ‹τὴν πλησίον› αὐτοῦ ἄλλαις ‹θυγατράσι›, ταῖς λοιπαῖς ψυχαῖς, αἵτινές εἰσιν ‹ἄκανθαι› ταύτῃ παραβαλλόμεναι. Τοιαῦται δὲ αἱ μὴ ‹πλησίον› τοῦ νυμφίου ψυχαί, ἡ δὲ ‹πλησίον› ‹κρίνον ἐν μέσῳ› διαλάμπον αὐτῶν). «Ὡς μῆλον ἐν τοῖς ξύλοις τοῦ δρυμοῦ, οὕτως ἀδελφιδός μου ἀνὰ μέσον τῶν υἱῶν· ὑπὸ τὴν σκιὰν αὐτοῦ ἐπεθύμησα καὶ ἐκάθισα, καὶ ὁ καρπὸς αὐτοῦ γλυκὺς ἐν τῷ λάρυγγί μου.» Ἔπρεπε τῇ νύμφῃ τοῦ κάλλους ὅλῃ τοῦ νυμφίου γεγενημένῃ περὶ ἑαυτῆς μὲν λέγειν οὐδέν, πρὸς οἷς δὲ ὁ νυμφίος ἔφη περὶ ἑαυτοῦ, ‹μήλῳ› παραβάλλειν αὐτόν, τοὺς παρ’ αὐτὸν δὲ ‹υἱοὺσ› ‹ξύλοις δρυμοῦ›· ὑπερβολῇ δὲ πόθου τὸ καὶ ‹σκιᾶσ› ἐπιθυμεῖν τῆς αὐτοῦ καὶ παραπέμψαι τῷ βάθει τὴν τούτου ποιότητα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180 (27)",
+      "text": "Ἔοικε δὲ ταῦτα λέγειν πρὸς ‹τὰς νεάνιδασ› ὡς πρὸς ‹τοὺς ἑταίρουσ› ὁ νυμφίος τὰ πρῶτα. ‹Υἱοὺσ› δὲ ἢ ‹τοὺς ἑταίρουσ› λέγει, οὓς παραθέσει τοῦ νυμφίου ‹ξύλοις ἀκάρποισ› παρείκασεν, ἢ τοὺς ἀλλοτρίους αὐτοῦ. ‹Ὑπὸ σκιὰν› δὲ ‹αὐτοῦ ἐπεθύμησέ› τε καθῖσαι ‹καὶ κεκάθικεν›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "181 (26)",
+      "text": "Λέγει καὶ Ἱερεμίας ἐν Θρήνοις· «πνεῦμα πρὸ προσώπου ἡμῶν Χριστὸς κύριος συνελήφθη ἐν ταῖς διαφθοραῖς ἡμῶν, ᾧ εἴπομεν· ἐν τῇ σκιᾷ αὐτοῦ ζησόμεθα ἐν τοῖς ἔθνεσι».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182 (26)",
+      "text": "Πῶς γὰρ οὐκ ἔμελλε ζωῆς ἡμῖν αἰτία ‹ἡ σκιὰ αὐτοῦ› γενέσθαι γενομένοις ἐλευθέροις ‹τῆς τοῦ νόμου σκιᾶσ› («σκιὰν γὰρ εἶχεν ὁ νόμος τῶν μελλόντων ἀγαθῶν»), μηκέτι οὖσιν ‹ὑπὸ νόμον, ἀλλ’ ὑπὸ χάριν›; εἰ καὶ νῦν ἐσμεν ‹ὑπὸ σκιὰν› πολλῷ διαφέρουσαν· μετὰ τὸν παρόντα γὰρ βίον οὐκέτι ‹δι’ ἐσόπτρου› καὶ ‹ἐν αἰνίγματι›, ἀλλὰ ‹πρόσωπον πρὸς πρόσωπον› τὴν ἀλήθειαν ‹θεωρήσομεν›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183 (24)",
+      "text": "Λέξει δὲ καὶ ἡ νύμφη· «ἕως οὗ διαυγήσῃ ἡ ἡμέρα καὶ κινηθῶσιν αἱ σκιαί». Ἔστι γὰρ ‹ὁ βίοσ› ἡμῶν ὡς ‹σκιὰ› καὶ ‹ἐν σκιᾷ θανάτου› οἱ ἐξ ἐθνῶν ‹ἐκαθέζοντο› καὶ οἱ ἀπιστοῦντες ἔτι ‹καθέζονται›. «Εἰσαγάγετέ με εἰς οἶκον τοῦ οἴνου».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "184 (26)",
+      "text": "Ταῦτα πρὸς τοὺς φίλους τοῦ νυμφίου φησί, τοὺς ἁγίους ἀγγέλους ἢ Ἀποστόλους τε καὶ προφήτας, μονονουχὶ λέγουσα· συγκεράσατέ με τῷ σώματι τοῦ Χριστοῦ. «Στηρίσατέ με ἐν μύροις, στοιβάσατέ με ἐν μήλοις, ὅτι τετρωμένη ἀγάπης ἐγώ».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "191 (25)",
+      "text": "Ὁ Σύμμαχος οὕτως ἐκδέδωκεν· «ἐπανακλίνατέ με οἰνάνθῃ», τουτέστιν εὐώδεσι δένδροις τοῖς καλὸν καρπὸν ποιοῦσιν ἀνθοῦντα, τῶν φαύλων λεγομένων δένδρων ἀκάρπων ἢ κακοκάρπων ὄντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "192 (27)",
+      "text": "Τινὰ δὲ τῶν ἀντιγράφων ἔχει· «στηρίσατέ με ἐν ἀμύροις». Ὃ νοητέον ἢ πιστοὺς μέν, οὐ μὴν ὡς χρηματίζειν ‹μέλη› ‹τῆς μὴ ἐχούσης σπῖλον ἢ ῥυτίδα›, ἢ ἀλλοτρίους τῆς πίστεως Χριστοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "193 (28)",
+      "text": "Τὸ δέ· «στοιβάσατέ με ἐν μήλοις» σαφηνίζων ὁ Σύμμαχος· «περικυλίσατέ με μῆλα» εἶπε. Βούλεται γὰρ ἡ νύμφη ἐν πολλοῖς ‹περικυλιομένοισ› αὐτὴν ‹μήλοισ› ἀναπαύεσθαι, ἅτινα, οἶμαι, καρπός ἐστι ‹τοῦ μήλου ἐν τοῖς ξύλοις τοῦ δρυμοῦ›, νυμφίου, ἵνα τῆς αὐτῶν μεταλάβῃ ποιότητος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "194 (26)",
+      "text": "«Τέτρωμαι γὰρ φίλτρῳ» φησὶ κατὰ Σύμμαχον, ἀπὸ ‹τοῦ ἐκλεκτοῦ βέλουσ› κατὰ τὸν Ἠσαίαν. «Φωνὴ τοῦ ἀδελφιδοῦ μου».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "199 (26)",
+      "text": "Τοῦτό τινες τοῖς προλαβοῦσιν ἀπέδωκαν, τὸ δὲ ἑβραϊκὸν ἐξ ἰδίας τάττει περικοπῆς. Καὶ δῆλόν ἐστιν, ὡς ἡ νύμφη διαλεγομένη ‹ταῖς θυγατράσιν Ἱερουσαλὴμ› αἰφνίδιον αἰσθάνεται ‹τῆσ› τοῦ νυμφίου ‹φωνῆσ› διαλεγομένου τισίν, ὡς εἰκός· ἧς αἰσθανομένης ‹ἐπὶ τῶν ὀρῶν› καὶ ‹τῶν βουνῶν› τῶν παρακειμένων τῷ τόπῳ τῆς νύμφης διάλλεται ὡς μηδὲν ἀπᾴδειν ‹νεβρῷ›. Εἶτα σπουδῇ τῇ περὶ τὴν νύμφην ἐγένετο πλησίον τοῦ οἴκου καὶ παρέστησεν ‹ὄπισθεν› αὐτοῦ. Εἶτα ‹πηδήσασ› μέχρι τῶν τοῦ οἴκου φθάνει ‹θυρίδων›, ἐρωτικῶς ὥσπερ ἐθέλων εἰς αὐτὴν ‹παρακύψαι›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "200 (24)",
+      "text": "Ἐγγὺς δὲ τῆς οἰκίας, ἔνθα ἡ νύμφη, ‹δίκτυα› πολλὰ ἐπ’ ἐνέδρᾳ τῆς νύμφης καὶ τῶν περὶ αὐτὴν ἐκπεπέτασται, ἅπερ ‹διακόψασ› ὁ νυμφίος ὡς ἰσχυρότερος ‹διέκυψε δι’› αὐτῶν καὶ καλεῖ τὴν νύμφην ‹πλησίον ἐλθεῖν› παραθαῤῥύνων ἔργῳ ‹τῶν δικτύων› καταφρονεῖν ὡς ἤδη σχισθέντων καὶ τοῦ χαλεποῦ δι’ αὐτῶν ‹παραδραμόντοσ› καιροῦ, ὃν ‹χειμῶνα› καλεῖ ἀνωφελῆ φέροντα καὶ σφοδρὸν ‹ὑετόν›. Προτρέπεται δὲ καὶ διὰ τῶν καλῶν τοῦ παρόντος καιροῦ ‹ἄνθη› λέγων ὡς ἐν ἔαρι καὶ θεραπείαν ‹ἀμπέλων›. ‹Τρυγόνοσ› τε ‹φωνὴν› καὶ ‹συκῆς ὀλύνθουσ› καὶ ‹κυπριζούσας ἀμπέλουσ› διαγράφει καὶ τὸν, ἔνθα συναναπαύσεται, τόπον, ἔνθα γενομένην ἐβούλετο αὐτὴν ὅλῳ ‹προσώπῳ› τῷ νυμφίῳ φανῆναι καὶ ‹τῆς ἡδείασ› αὐτῇ ‹παρέχειν ἀκοῦσαι φωνῆσ›.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "201 (19)",
+      "text": "Ἢ καὶ ‹ὄρη› τοὺς προφήτας φησὶν ἀρτίους τῷ φρονήματι, τῶν ἀληθινῶν θεωρητάς. Οἶμαι δὲ καὶ τοὺς Ἀποστόλους, ἐπεὶ κατὰ γενεὰν ἡ σοφία εἰς ψυχὰς μεταβαίνει. ‹Ὄρη› δέ, ἐπεὶ ἀνισχόντος ἡλίου πρῶτα καταλάμπονται, ‹βουνοὺσ› δὲ τοὺς ἔλαττον χωρήσαντας τὴν τοῦ πνεύματος ἐπιφάνειαν. Λέγοις δ’ ἂν καὶ ‹ὄρη› τὰ ἐν νόμῳ νοήματα, ‹βουνοὺσ› δὲ τὸ τῶν λοιπῶν προφητῶν. Ἢ καὶ ὁ θεωρήσας τὸν ἐν καινῇ διαθήκῃ λόγον βλέπει τὸν ‹ἐπὶ τὰ ὄρη πηδῶντα›, ‹ἐπὶ› δὲ ‹τοὺς βουνοὺς διαλλόμενον› τὸν ἐν τῷ παλαιῷ γράμματι. ‹Νεβρῷ› δὲ ‹ἐλάφων› ὁ νυμφίος ἀπείκασται, οὐ μόνον ὡς ἀναλίσκων τοὺς ὄφεις, ἀλλ’ ὅτι καὶ ‹παιδίον ἐγεννήθη ἡμῖν υἱὸς καὶ ἐδόθη ἡμῖν› καὶ ὅτι ‹ἐταπείνωσεν ἑαυτόν›· ἦ γὰρ ἂν ‹ἔλαφοσ› ὑπῆρχε τελεία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220 (30)",
+      "text": "«Ἀνάστα», φησίν, ἀπὸ τῶν αἰσθητῶν πρὸς τὰ νοητά, ἵνα συνῇ μὲν δι’ ὧν αὐτὰ θεωρεῖς. «Ὁ γὰρ χειμὼν παρῆλθεν, ὁ ὑετὸς ἀπῆλθεν».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "221 (23)",
+      "text": "Εἴποιμεν ἂν ‹ὑετὸν› γεγονέναι τὸν πρὸ τῆς ἐπιδημίας ‹καιρὸν τοῦ Θεοῦ ἐντειλαμένου ταῖς νεφέλαις ὕειν› τὸν νομικὸν καὶ προφητικὸν λόγον, πεπαῦσθαι δὲ τοῦτον, ἐπειδὴ ‹ὁ νόμος καὶ οἱ προφῆται ἕως Ἰωάννου›· ἔαρ δὲ καὶ θέρος μετὰ τὴν ἐπιδημίαν, ὅτε μηκέτι ‹ὑετῶν› χρεία, ὅτε ‹τὰ› διὰ Χριστὸν ‹ἄνθη ὤφθη ἐν τῇ γῇ›. Καὶ ἀπὸ τῆς ἐπιδημίας αὐτοῦ ‹ἡ συκῆ› οὐκ ἐκκόπτεται, ἄκαρπος ἐν τῷ προτέρῳ γενομένη καιρῷ· νυνὶ γὰρ ‹ὀλύνθους ἐξήνεγκε› καὶ ‹κυπρίζουσιν αἱ ἄμπελοι›. Διό φησιν ἓν τῶν κλημάτων· «Χριστοῦ εὐωδία ἐσμὲν τῷ Θεῷ». «Τομῆς καιρὸς» ὁ τῆς τῶν περιττῶν ἀποθέσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "224 (27)",
+      "text": "«Φωνὴ τῆς τρυγόνος». Ἢ καὶ «τρυγόνος» λέγει ‹τῆς ἀποῤῥήτου καὶ ἀγνώστου σοφίασ›· φιλέρημον γὰρ τὸ ζῶον Ἧς ‹ἡ φωνὴ ἀκούεται› τοῖς ἔτι γήινον σῶμα περικειμένοις. οὗτος (sc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "226 (27)",
+      "text": "καιρὸς) δέ ἐστιν ὁ τῆς αὐτοῦ παρουσίας, ἐν ᾧ δεῖ τὰ σωματικὰ τοῦ νόμου καὶ τῆς ἐν τοῖς προφήταις ἱστορίας περιπεφυκότα τοῖς πνευματικοῖς περιτέμνεσθαι καὶ μεῖναι τὰ κρείττονα. ‹Καιρὸσ› δὲ πάλιν καὶ τῆς τῶν ἁμαρτημάτων ἐκκοπῆς καὶ ἀφέσεως ‹διὰ λουτροῦ παλιγγενεσίασ›. Βούλεται τὴν ψυχὴν ὑπερβῆναι τὰ αἰσθητά· ὡσεὶ πόλεως δὲ τεῖχος καὶ ‹προτείχισμα› τὸν αἰσθητὸν κόσμον καλεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230 (26)",
+      "text": "Δεῖ οὖν τὴν τῷ λόγῳ κοινωνήσουσαν ψυχὴν ‹ἐν σκέπῃ τῆς πέτρασ›, οὐ μόνον ἔξω τοῦ τείχους τῆς πόλεως, ἀλλὰ καὶ ‹τοῦ προτειχίσματοσ› γενέσθαι· ὡς πλησίον γενομένην ‹ἀνακεκαλυμμένῳ προσώπῳ τὴν δόξαν Κυρίου κατοπτρίζεσθαι› πειθομένην τῷ λέγοντι· «δεῖξόν μοι τὴν ὄψιν σου».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "231 (24)",
+      "text": "Ἐπιθυμεῖ δὲ καὶ διαλεγομένης ἀκοῦσαι ‹τὴν φωνήν›, ὡς ‹ἡδεῖαν› θαυμάζων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "232 (31)",
+      "text": "‹Προτείχισμα› δέ ἐστιν, ὅπερ Ἠσαΐας ‹περίτειχοσ› ὀνομάζει λέγων· «θήσει τεῖχος καὶ περίτειχος».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "233 (23)",
+      "text": "Βούλεται τοίνυν τῶν σωματικῶν ἐξελθοῦσαν οὐ μόνον ἐν τῷ ‹τείχει› γενέσθαι—ὅπερ εἶναι τὸν περὶ τοῦ κόσμου λόγον νομίζω—, ἀλλὰ καὶ ‹ἐχόμενα τοῦ προτειχίσματοσ›, ὃς λόγος μέν ἐστι τελευταῖος τῶν σωματικῶν, ἀρχὴ δὲ τῶν ἀσωμάτων. Ταῦτα τοῖς φίλοις ὁ νυμφίος ἤτοι ἀγγέλοις ἢ ἀνδράσιν ἁγίοις, ὅσοι τῆς ἐκκλησίας διδάσκαλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235 (25)",
+      "text": "Ὑπὲρ σωτηρίας δὲ ‹τῶν ἀμπελώνων› ἡ προτροπή, ἵνα τῶν πανούργων συλλαμβανομένων δυνάμεων, αἳ διαφθείρουσι τὴν ἀρχὴν τῆς ἐκφύσεως τοῦ καρποῦ, δυνηθῶσιν ‹αἱ ἄμπελοι› προκόψαι ἀπὸ τοῦ ‹κυπρίζειν› μέχρι τῆς τοῦ καρποῦ τελειώσεως, ὑπὸ τοῦ Θεοῦ γεωργουμέναι, διὰ δὲ τὸ αὐτεξούσιον δυνάμεναι ἐνέγκαι καρπόν τε καὶ μή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "237 (27)",
+      "text": "Ἢ τάχα καὶ ἄνθρωποι ‹ἀλώπεκέσ› τινες, δι’ ἑτεροδόξου δριμύτητος ἐμποδίζοντες τοῖς ἀρξαμένοις τρέχειν καλῶς· οὓς ἔτι ‹μικροὺσ› ὄντας βούλεται ‹συλληφθῆναι›, πρὶν ἐπὶ πλέον ἀσεβείας προκόψωσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240 (28)",
+      "text": "Μέγας γὰρ ‹ἀλώπηξ› γενόμενος ἐκείνοις μὲν ἀνάλωτος, ὑπὸ μόνου δὲ τοῦ νυμφίου θηρεύεται· ἀρχόμενοι γὰρ ἐνεργεῖν τὰ χείρονα καὶ τοῖς φίλοις εὐάλωτοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "241 (19)",
+      "text": "Λέγοι δ’ ἂν καὶ ‹μικροὺς ἀμπελῶνασ›· οὐ δύνανται γὰρ κατὰ τῶν μεγάλων ‹ἀλώπεκεσ›.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "uhs-cs",
+      "title": {
+        "english": "Against Celsus",
+        "ancient_greek": "Κατὰ Κέλσου"
+      },
+      "url_slug": "origen-of-alexandria-against-celsus-uhs-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/against-celsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-bo",
+      "title": {
+        "english": "Commentaries-Genesis",
+        "ancient_greek": "Ὑπομνήματα εἰς Γένεσιν"
+      },
+      "url_slug": "origen-of-alexandria-genesis-commentary-uhs-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/genesis-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-bt",
+      "title": {
+        "english": "Commentaries-Romans",
+        "ancient_greek": "Ὑπομνήματα εἰς τὴν πρὸς Ῥωμαίους"
+      },
+      "url_slug": "origen-of-alexandria-romans-uhs-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/romans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-au",
+      "title": {
+        "english": "Commentaries-Romans III.5–V.7",
+        "ancient_greek": "Ὑπομνήματα εἰς τὴν πρὸς Ῥωμαίους"
+      },
+      "url_slug": "origen-of-alexandria-commentaries-romans-3-5-5-7-uhs-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/commentaries-romans-3-5-5-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans-3-5-5-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans-3-5-5-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans-3-5-5-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans-3-5-5-7.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ao",
+      "title": {
+        "english": "Commentaries-the Epistle to the Romans",
+        "ancient_greek": "Ὑπομνήματα εἰς τὴν πρὸς Ῥωμαίους Ἐπιστολήν"
+      },
+      "url_slug": "origen-of-alexandria-commentaries-romans-uhs-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/commentaries-romans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/commentaries-romans.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ae",
+      "title": {
+        "english": "Commentaries-the Epistle to the Romans I.1–XII.21",
+        "ancient_greek": "Ὑπομνήματα εἰς τὴν πρὸς Ῥωμαίους Ἐπιστολήν"
+      },
+      "url_slug": "origen-of-alexandria-romans-commentary-uhs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/romans-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-av",
+      "title": {
+        "english": "Commentaries-the Gospel of John",
+        "ancient_greek": "Ὑπομνήματα εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον"
+      },
+      "url_slug": "origen-of-alexandria-gospel-john-uhs-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/gospel-john",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/gospel-john.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/gospel-john.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/gospel-john.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/gospel-john.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-aw",
+      "title": {
+        "english": "Commentaries-the Gospel of John",
+        "ancient_greek": "Ὑπομνήματα εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον"
+      },
+      "url_slug": "origen-of-alexandria-john-gospel-commentary-uhs-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/john-gospel-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/john-gospel-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/john-gospel-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/john-gospel-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/john-gospel-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ah",
+      "title": {
+        "english": "Commentary-the Gospel of Matthew Books 10–11",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸ Κατὰ Ματθαῖον Εὐαγγέλιον Βιβλία"
+      },
+      "url_slug": "origen-of-alexandria-matthew-10-11-uhs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/matthew-10-11",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-10-11.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-10-11.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-10-11.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-10-11.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ai",
+      "title": {
+        "english": "Commentary-the Gospel of Matthew Books 12–17",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸ Κατὰ Ματθαῖον Εὐαγγέλιον Βιβλία"
+      },
+      "url_slug": "origen-of-alexandria-matthew-12-17-uhs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/matthew-12-17",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-12-17.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-12-17.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-12-17.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-12-17.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-bk",
+      "title": {
+        "english": "Dialogue with Heraclides",
+        "ancient_greek": "Διάλογος πρὸς Ἡρακλείδην"
+      },
+      "url_slug": "origen-of-alexandria-heraclides-uhs-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/heraclides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/heraclides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/heraclides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/heraclides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/heraclides.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ag",
+      "title": {
+        "english": "Fragments from Commentaries-the Gospel of Matthew",
+        "ancient_greek": "Ἀποσπάσματα ἐκ Ὑπομνημάτων εἰς τὸ Κατὰ Ματθαῖον"
+      },
+      "url_slug": "origen-of-alexandria-matthew-fragments-uhs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/matthew-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/matthew-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qsg-bp",
+      "title": {
+        "english": "Chronicle, Fragment",
+        "ancient_greek": "Χρονικόν"
+      },
+      "url_slug": "hippolytus-of-rome-chronicle-fragment-qsg-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/chronicle-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "tds-ai",
+      "title": {
+        "english": "Compendium of Heretical Fables",
+        "ancient_greek": "Σύνοψις Αἱρετικῶν Μύθων"
+      },
+      "url_slug": "theodoret-of-cyrus-heretical-fables-tds-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoret-of-cyrus/heretical-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/heretical-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/heretical-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/heretical-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/heretical-fables.json"
+      }
+    },
+    {
+      "eul_wid": "qya-ae",
+      "title": {
+        "english": "Excerpts from Theodotus",
+        "ancient_greek": "Ἐκλογαὶ ἐκ Θεοδότου"
+      },
+      "url_slug": "clement-of-alexandria-theodotus-excerpts-qya-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/clement-of-alexandria/theodotus-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rnu-aa",
+      "title": {
+        "english": "Exegetical Fragments on Psalms",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ψαλμῶν"
+      },
+      "url_slug": "seniores-alexandrini-exegetical-psalms-rnu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seniores-alexandrini/exegetical-psalms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.json"
+      }
+    },
+    {
+      "eul_wid": "ply-aa",
+      "title": {
+        "english": "Hymn of Valentinus",
+        "ancient_greek": "Ὕμνος Βαλεντίνου"
+      },
+      "url_slug": "valentinus-the-gnostic-hymn-ply-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/valentinus-the-gnostic/hymn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic/hymn.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic/hymn.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic/hymn.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valentinus-the-gnostic/hymn.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-by",
+      "title": {
+        "english": "On the Universe (Fragment A)",
+        "ancient_greek": "Περὶ τοῦ Κόσμου"
+      },
+      "url_slug": "hippolytus-of-rome-universe-by-qsg-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/universe-by",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.json"
+      }
+    },
+    {
+      "eul_wid": "qrc-aa",
+      "title": {
+        "english": "To Autolycus",
+        "ancient_greek": "Πρὸς Αὐτόλυκον"
+      },
+      "url_slug": "theophilus-of-antioch-autolycus-qrc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-of-antioch/autolycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-of-antioch/autolycus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-of-antioch/autolycus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-of-antioch/autolycus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-of-antioch/autolycus.json"
+      }
+    },
+    {
+      "eul_wid": "tds-al",
+      "title": {
+        "english": "Treatment of Greek Afflictions",
+        "ancient_greek": "Θεραπεία Ἑλληνικῶν Παθῶν"
+      },
+      "url_slug": "theodoret-of-cyrus-greek-afflictions-tds-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoret-of-cyrus/greek-afflictions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/greek-afflictions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/greek-afflictions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/greek-afflictions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoret-of-cyrus/greek-afflictions.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/origen-of-alexandria/song-of-songs-bd",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/song-of-songs-bd.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/song-of-songs-bd.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/song-of-songs-bd.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/song-of-songs-bd.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

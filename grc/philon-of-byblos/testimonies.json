@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oow-af",
+  "eul_aid": "oow",
+  "author_slug": "philon-of-byblos",
+  "work_slug": "testimonies",
+  "url_slug": "philon-of-byblos-testimonies-oow-af",
+  "author": {
+    "english": "Philon of Byblos",
+    "ancient_greek": "Φίλων ὁ Βύβλιος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimonies by Philon of Byblos on Eulogikon",
+    "meta_title": "Classical Testimonies by Philon of Byblos in Ancient Greek",
+    "meta_description": "Philon of Byblos and his students are documented through testimonia preserved in the Suda lexicon. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a grammatical and philological work by the scholar Philon of Byblos, composed in Koine Greek around 100 CE. Only a fragment of the text survives, known through six passages preserved in later Byzantine reference works. The content of these fragments suggests the original was a scholarly collection providing explanations, definitions, and authoritative citations regarding word usage, etymology, and literary references. Its original full structure and scope are now unknown. Philon was a grammarian and historian active during the Roman Imperial period, a time of revived interest in linguistic purity and cultural heritage. Modern scholars interpret this work as a technical reference, likely intended for fellow scholars and students engaged in the sophisticated literary culture of the era. It reflects Philon’s broader role as a bridge between Greek and Near Eastern intellectual traditions. The work survives only through quotations in later grammatical compilations, with no independent manuscript tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,790,T 1",
+      "text": "SUDA s.v. Φίλων Βύβλιος· γραμματικός. οὗτος γέγονεν ἐπὶ τῶν χρόνων τῶν ἐγγὺς Νέρωνος, καὶ παρέτεινεν εἰς μακρόν· ὕπατον γοῦν Σεβῆρον τὸν Ἐρέννιον χρηματίσαντα αὐτὸς εἶναί φησιν (F 54), ὅταν ἦγεν η καὶ ο ἔτος, ὀλυμπιάδι δὲ † κ καὶ διακοσιοστῆι. γέγραπται δὲ αὐτῶι Περὶ κτήσεως καὶ ἐκλογῆς βιβλίων βιβλία ιβ · Περὶ πόλεων καὶ οὓς ἑκάστη αὐτῶν ἐνδόξους ἤνεγκε βιβλία λ · Περὶ τῆς βασιλείας Ἀδριανοῦ (ἐφ’ οὗ καὶ ἦν ὁ Φίλων)· καὶ ἄλλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,790,T 2a",
+      "text": "SUDA s.v. Ἕρμιππος Βηρύτιος· ἀπὸ κώμης μεσογαίου· μαθητὴς Φίλωνος τοῦ Βυβλίου, ὑφ’ οὗ ὠικειώθη Ἐρεννίωι Σευήρωι ἐπὶ Ἀδριανοῦ τοῦ βασιλέως, ἔκδουλος ὢν γένος, λόγιος σφόδρα. καὶ ἔγραψε πολλά (IV). ἔγραψε καὶ Περὶ ὀνείρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,790,T 2b",
+      "text": "—s.v. Παῦλος Τύριος· ῥήτωρ, γεγονὼς κατὰ Φίλωνα τὸν Βύβλιον· ὃς ἐπὶ Ἀδριανοῦ τοῦ βασιλέως πρεσβεύσας μητρόπολιν τὴν Τύρον ἐποίησεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,790,T 2c",
+      "text": "—s.v. Ἡρωδιανὸς Ἀλεξανδρεύς· γραμματικός, υἱὸς Ἀπολλωνίου ... τοῦ ἐπικληθέντος Δυσκόλου. γέγονε κατὰ τὸν Καίσαρα Ἀντωνῖνον τὸν καὶ Μάρκον (161—180), ὡς νεώτερον εἶναι καὶ Διονυσίου τοῦ τὴν Μουσικὴν ἱστορίαν γράψαντος (IV) καὶ Φίλωνος τοῦ Βυβλίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,790,T 3",
+      "text": "PORPHYR. De abst. 2, 56 (F 3a): ἡ Φοινικικὴ ἱστορία ... ἣν Σαγχουνιάθων μὲν τῆι Φοινίκων γλώττηι συνέγραψεν, Φίλων δὲ ὁ Βύβλιος εἰς τὴν Ἑλλάδα γλῶσσαν δι’ ὀκτὼ βιβλίων ἡρμήνευσεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,790,T 4",
+      "text": "SUDA s.v. Σερῆνος· ὁ καὶ Ἀθηναῖος, ὁ Αἴλιος χρηματίσας· γραμματικός. Ἐπιτομὴν τῆς Φίλωνος πραγματείας Περὶ πόλεων καὶ τίνες ἐφ’ ἑκάστης ἔνδοξοι, βιβλία γ .",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oow-aa",
+      "title": {
+        "english": "On Proper Expression, Epitome under the Name of Herennius Philo",
+        "ancient_greek": "Περὶ κυριολεξίας"
+      },
+      "url_slug": "philon-of-byblos-proper-expression-oow-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/proper-expression",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/proper-expression.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/proper-expression.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/proper-expression.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/proper-expression.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ab",
+      "title": {
+        "english": "On the Alphabetical Meanings of Words",
+        "ancient_greek": "Περὶ"
+      },
+      "url_slug": "philon-of-byblos-alphabetical-meanings-oow-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/alphabetical-meanings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/alphabetical-meanings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/alphabetical-meanings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/alphabetical-meanings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/alphabetical-meanings.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ac",
+      "title": {
+        "english": "On the Difference of Related Words",
+        "ancient_greek": "Περὶ Διαφορᾶς Συγγενῶν Λέξεων"
+      },
+      "url_slug": "philon-of-byblos-difference-words-oow-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/difference-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ae",
+      "title": {
+        "english": "On the Knowledge of Ages",
+        "ancient_greek": "Γνῶσις περὶ ἡλικιῶν"
+      },
+      "url_slug": "philon-of-byblos-knowledge-ages-oow-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/knowledge-ages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/knowledge-ages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/knowledge-ages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/knowledge-ages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/knowledge-ages.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ad",
+      "title": {
+        "english": "On the Meanings of Words",
+        "ancient_greek": "Περὶ"
+      },
+      "url_slug": "philon-of-byblos-meanings-words-oow-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/meanings-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/meanings-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/meanings-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/meanings-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/meanings-words.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ag",
+      "title": {
+        "english": "Phoenician History (Recension A)",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philon-of-byblos-history-ag-oow-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/history-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ag.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ah",
+      "title": {
+        "english": "Phoenician History (Recension B)",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philon-of-byblos-history-ah-oow-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/history-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxw-ae",
+      "title": {
+        "english": "Against the Manichaeans, Homily 2",
+        "ancient_greek": "Κατὰ Μανιχαίων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-manichaeans-2-uxw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.json"
+      }
+    },
+    {
+      "eul_wid": "oqu-ae",
+      "title": {
+        "english": "Eclogae (Recension C)",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "phrynichus-of-bithynia-text-ae-oqu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/text-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/text-ae.json"
+      }
+    },
+    {
+      "eul_wid": "vmm-aa",
+      "title": {
+        "english": "Fragments on Poetic Meters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέτρων Ποιητικῶν"
+      },
+      "url_slug": "meters-treatise-poetic-fragments-vmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/meters-treatise/poetic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-ak",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ak-tqa-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ak.json"
+      }
+    },
+    {
+      "eul_wid": "nca-aa",
+      "title": {
+        "english": "On Monosyllabic Verbs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philoxenus-of-alexandria-monosyllabic-verbs-nca-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-alexandria/monosyllabic-verbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-alexandria/monosyllabic-verbs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-alexandria/monosyllabic-verbs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-alexandria/monosyllabic-verbs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-alexandria/monosyllabic-verbs.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-au",
+      "title": {
+        "english": "On Participles",
+        "ancient_greek": "Περὶ Μετοχῶν"
+      },
+      "url_slug": "anonymous-greek-grammarian-participles-tqa-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/participles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/participles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/participles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/participles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/participles.json"
+      }
+    },
+    {
+      "eul_wid": "tii-af",
+      "title": {
+        "english": "Scholia-Theon's Optics",
+        "ancient_greek": "Σχόλια εἰς Θεῶνος Ὀπτικά"
+      },
+      "url_slug": "thucydides-scholia-optics-af-tii-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-scholia/optics-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-af.json"
+      }
+    },
+    {
+      "eul_wid": "uua-aa",
+      "title": {
+        "english": "Summary of Ethnica",
+        "ancient_greek": "Σύνοψις τῶν Ἐθνικῶν"
+      },
+      "url_slug": "stephen-of-byzantium-ethnica-summary-uua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephen-of-byzantium/ethnica-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philon-of-byblos/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

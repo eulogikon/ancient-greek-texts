@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vmm-aa",
+  "eul_aid": "vmm",
+  "author_slug": "meters-treatise",
+  "work_slug": "poetic-fragments",
+  "url_slug": "meters-treatise-poetic-fragments-vmm-aa",
+  "author": {
+    "english": "Meters Treatise",
+    "ancient_greek": "Μετρικὸν σύγγραμμα"
+  },
+  "title": {
+    "english": "Fragments on Poetic Meters",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μέτρων Ποιητικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments on Poetic Meters by Meters Treatise on Eulogikon",
+    "meta_title": "Classical Fragments on Poetic Meters in Ancient Greek",
+    "meta_description": "This late antique grammatical treatise examines the rhythmic patterns and metrical structures fundamental to Greek Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<h3 class=\"research-heading\">Overview</h3>\n<p class=\"research-text\">The work is known only by its title, <strong>Fragments on Poetic Meters</strong> (Ἀποσπάσματα περὶ Μέτρων Ποιητικῶν). No description, content, or quotations from this specific treatise survive. The title indicates it was a grammatical or metrical analysis of poetic meters, part of a common scholarly genre in Hellenistic and later antiquity.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Content</h3>\n<p class=\"research-text\">Based on its title and genre, the treatise would have addressed:</p>\n<ul class=\"research-list\">\n<li class=\"research-item\">The classification and definition of Greek poetic meters.</li>\n<li class=\"research-item\">The analysis of metrical patterns and cola.</li>\n<li class=\"research-item\">Illustrative examples from classical poets.</li>\n</ul>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Transmission</h3>\n<p class=\"research-text\">The work is lost, with its existence attested solely by its title. No manuscript tradition or fragments were located in the sources consulted; the title may be preserved in a medieval catalogue.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Significance</h3>\n<p class=\"research-text\">While its direct influence cannot be traced, the work exemplifies the extensive body of ancient metrical scholarship that systematized the study of Greek poetry and influenced its transmission and teaching for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "[ἄ]λλος [τ]ῶν αὖ Πρωτεσίλαος ἀρήιος ἡγεμόνευε, [τ]ῷ δ’ ἅμα τεσσαράκοντα μέλαιναι νῆες ἕποντο. ἄλλον̣ [ἡ]ν̣ίκ’ ἂν ᾖ σπονδεῖο[ς] ὁ̣ δ̣εξιός, ἄν [τε τ]ρ̣οχα̣ῖ̣ος σ̣ὺ̣ν τούτῳ, κατ’ ἴαμβον̣ ἐν̣όπλιος ὣ[ς κελ]αδεῖται. διάκειται. κρητικὸ̣ν̣ ἐὰν προσθῇς̣ π̣ό̣δα τῷ τ̣ρ̣ι̣[μ]έτρῳ, τ[ετράμετρος] γίνεται ἐν ῥυθμῷ τε τ̣ρ̣ο̣χ̣α̣ί̣ῳ κλ̣ί[ν]εται οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "εἶδος δ’ αὐτοῦ ἐγὼ δείξω, σ̣ὺ̣ δὲ μάνθ̣α̣ν̣’ ἀκ̣[ούων·] ε̣ἶ̣α νῦν, ἐπεὶ σχολὴ π̣[άρεσ]τι, πα[ῖ Μενοιτίου.]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "kau-ab",
+      "title": {
+        "english": "Argonautic Genealogical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-mytilene-argonautica-kau-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-mytilene/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ab",
+      "title": {
+        "english": "Fragment on Ares",
+        "ancient_greek": "Γραμματικὸν ἀπόσπασμα ἀρχόμενον ἀπὸ τῶν λόγων"
+      },
+      "url_slug": "herodian-of-alexandria-ares-fragment-qnq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/ares-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-an",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-an-tqa-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-an.json"
+      }
+    },
+    {
+      "eul_wid": "qsq-aa",
+      "title": {
+        "english": "Lexicon of Names",
+        "ancient_greek": "Ὀνομαστικόν"
+      },
+      "url_slug": "pollux-of-naucratis-lexicon-qsq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pollux-of-naucratis/lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pollux-of-naucratis/lexicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pollux-of-naucratis/lexicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pollux-of-naucratis/lexicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pollux-of-naucratis/lexicon.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ao",
+      "title": {
+        "english": "Marginal Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ao-tro-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-ao",
+      "title": {
+        "english": "Old Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-ao-mlw-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-ao.json"
+      }
+    },
+    {
+      "eul_wid": "oem-aa",
+      "title": {
+        "english": "On Blasphemies and Their Origins",
+        "ancient_greek": "Περὶ βλασφημιῶν καὶ πόθεν ἑκάστη"
+      },
+      "url_slug": "suetonius-blasphemies-origins-oem-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/suetonius/blasphemies-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/blasphemies-origins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/blasphemies-origins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/blasphemies-origins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/blasphemies-origins.json"
+      }
+    },
+    {
+      "eul_wid": "oqu-aa",
+      "title": {
+        "english": "Sophistic Preparation, Fragments",
+        "ancient_greek": "Σοφιστικὴ Προπαρασκευή"
+      },
+      "url_slug": "phrynichus-of-bithynia-sophistic-preparation-aa-oqu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/sophistic-preparation-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-aa.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/meters-treatise/poetic-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

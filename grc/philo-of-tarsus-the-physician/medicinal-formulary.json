@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nkc-aa",
+  "eul_aid": "nkc",
+  "author_slug": "philo-of-tarsus-the-physician",
+  "work_slug": "medicinal-formulary",
+  "url_slug": "philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa",
+  "author": {
+    "english": "Philo of Tarsus the Physician",
+    "ancient_greek": "Φίλων ὁ Ταρσεύς"
+  },
+  "title": {
+    "english": "Philo's Medicinal Formulary",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Philo's Medicinal Formulary by Philo of Tarsus on Eulogikon",
+    "meta_title": "Classical Philo's Medicinal Formulary in Ancient Greek",
+    "meta_description": "Philo of Tarsus compiles practical medical recipes and treatments for various ailments in this Hellenistic Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Medicinal Formulary</strong> is a short medical text attributed to Philo of Tarsus the Physician. Its title, meaning &quot;Extract,&quot; indicates it was a compilation of pharmacological recipes. The work survives only in fragments, preserved within the eighth book of the sixth-century medical compilation by Aëtius of Amida. As an independent work it is lost, and its entire transmission depends on its inclusion as two excerpts in Aëtius&#x27;s encyclopedic <strong>Tetrabiblos</strong>. The text consists of practical recipes for preparing compound medicines, reflecting the standard empirical and pharmacological knowledge of Greek medicine. Philo&#x27;s formulary represents the practical, recipe-based tradition of Greek pharmacology. Its preservation within Aëtius&#x27;s major compilation provided a conduit for its content into later Byzantine and Arabic medical traditions, though Philo&#x27;s individual contribution is subsumed within that broader tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "690",
+      "text": "Ταρσέος ἰητροῖο μέγα θνητοῖσι, Φίλωνος εὕρεμα πρὸς πολλάς εἰμι παθῶν ὀδύνας, εἴτε κόλον πάσχει τις, ἅπαξ δοθέν, εἴτε τις ἧπαρ εἴτε δυσουρ〈ε〉ίῃ ἴσχεται εἴτε λίθῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "690",
+      "text": "ἰῶμαι καὶ σπλῆνα καὶ ὀρθόπνοιαν ἀνιγρήν, καὶ φθίσιν ἰῶμαι, σπασμὸν ἐνιστάμενον, καὶ σφαλερὴν πλευρῖτιν· ἀποπτύων δέ τις αἷμα ἢ ἐμέων ἕξει μ’ ἀντίπαλον θανάτου. πάντα δ’ ὅσα σπλάγχνοισιν ἐνίσταται ἄλγεα παύω, βῆχά τε καὶ πνιγμόν, λύγγα τε καὶ κατάρουν. γέγραμμαι δὲ σοφοῖσι, μαθὼν δέ τις οὐ βραχύ μ’ ἕξει δῶρον, ἐς ἀξυνέτους δ’ οὐκ ἐπόθησα περᾶν. ξανθὴν μὲν τρίχα βάλλε μυρίπνοον ἰσοθέοιο, οὗ λύθρος Ἑρμεία〈ι〉ς λάμπεται ἐν βοτάναις, †κρόκου δὲ σταθμὸν φρένας ἀνέρος· οὐ γὰρ ἄδηλον· βάλλε δὲ καὶ δραχμὴν Ναυπλίου Εὐβοέως, καὶ τρίτου ἐν Τρώεσσι Μενοιτιάδαο φονῆος δραχμὴν τὴν μήλων γαστέρι σῳζομένην. ὁλκὰς δ’ ἀργεννοῖο πυρώδεος εἴκοσι βάλλε, εἴκοσι καὶ κυάμου θηρὸς ἀπ’ Ἀρκαδίης, δραχμὴν καὶ ῥίζης ψευδωνύμου, ἣν ἀνέθρεψε χῶρος ὁ τὸν Πίσῃ Ζῆνα λοχευσάμενος. πῖον δὲ γράψας, ἄρθρον βάλε πρῶτον ἐπ’ αὐτῷ ἄρρεν, ἐνὶ δραχμαῖς πέντε δὶς ἑλκόμενον, νᾶμα δὲ θυγατέρων ταύρων χέε Κεκροπίδαισι συγγενές, οὐκ Τρίκκης ὡς ἐνέπουσιν ἐμοί.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ah",
+      "title": {
+        "english": "Fragments of Anatolius",
+        "ancient_greek": "Ἀποσπάσματα Ἀνατολίου"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-anatolius-ah-vjk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ae",
+      "title": {
+        "english": "Fragments of Timotheus of Gaza",
+        "ancient_greek": "Ἀποσπάσματα Τιμοθέου τοῦ Γάζης"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.json"
+      }
+    },
+    {
+      "eul_wid": "qig-aa",
+      "title": {
+        "english": "From the Work-Enemas, That They are Taken for Three Reasons",
+        "ancient_greek": "Ἐκ τοῦ περὶ κλυσμῶν ὅτι διὰ τρεῖς αἰτίας"
+      },
+      "url_slug": "antyllus-the-surgeon-work-enemas-three-reasons-qig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antyllus-the-surgeon/work-enemas-three-reasons",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-aa",
+      "title": {
+        "english": "London Additions to Cambridge Veterinary Texts",
+        "ancient_greek": "Προσθήκαι Λονδίνου πρὸς τὰ Κτηνιατρικὰ Καίμπριτζ"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-london-additions-vjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/london-additions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cf",
+      "title": {
+        "english": "Oath",
+        "ancient_greek": "Ὅρκος"
+      },
+      "url_slug": "hippocrates-oath-bww-cf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/oath",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/oath.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/oath.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/oath.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/oath.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bi",
+      "title": {
+        "english": "On Affections",
+        "ancient_greek": "Περὶ παθῶν"
+      },
+      "url_slug": "hippocrates-affections-bww-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/affections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ao",
+      "title": {
+        "english": "On Diagnosing and Treating Each Mind's Emotions",
+        "ancient_greek": "Περὶ διαγνώσεως καὶ θεραπείας ἑκάστου τῶν τοῦ"
+      },
+      "url_slug": "galen-of-pergamon-diagnosing-treating-emotions-qmm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosing-treating-emotions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-treating-emotions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-treating-emotions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-treating-emotions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosing-treating-emotions.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philo-of-tarsus-the-physician/medicinal-formulary",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

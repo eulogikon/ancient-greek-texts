@@ -1,0 +1,390 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qsg-af",
+  "eul_aid": "qsg",
+  "author_slug": "hippolytus-of-rome",
+  "work_slug": "syntagma-paschal-chronicle",
+  "url_slug": "hippolytus-of-rome-syntagma-paschal-chronicle-qsg-af",
+  "author": {
+    "english": "Hippolytus of Rome",
+    "ancient_greek": "Ἱππόλυτος ὁ Ῥωμαῖος"
+  },
+  "title": {
+    "english": "Syntagma, Fragment from Paschal Chronicle",
+    "ancient_greek": "Σύνταγμα"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Hippolytus of Rome on Eulogikon",
+    "meta_title": "Ancient Syntagma Fragments by Hippolytus of Rome in Greek",
+    "meta_description": "Hippolytus of Rome's Syntagma survives only through fragments preserved in the Paschal Chronicle, offering insights Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Christian",
+      "href": "/affiliations/christian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Syntagma</strong>, a lost treatise by the early 3rd-century theologian Hippolytus of Rome, was a comprehensive refutation of early Christian movements considered heretical. Written in Greek and often referred to as the <strong>Syntagma against All Heresies</strong>, it systematically catalogued heretical teachers and schools, beginning with Simon Magus. Beyond its polemical purpose, the work also contained significant chronological calculations that sought to date the creation of the world and establish a timeline for Christian salvation history. The complete text has not survived; modern knowledge of it derives from fragments and quotations preserved in later writings. The most important of these are three passages contained within the 7th-century Byzantine <strong>Chronicon Paschale</strong>, or Paschal Chronicle, which record Hippolytus&#x27;s influential chronological system. References and citations by other early Christian authors confirm the treatise&#x27;s status as a standard reference work against heresy in the patristic period. Intended primarily for educated Christians, it served as a tool for defining orthodox doctrine through systematic contrast with theological error. Its model for cataloging heresies proved foundational, influencing major later heresiologists, while its chronological computations left a lasting imprint on Byzantine historical tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "10.868.(45t)",
+      "text": "EX ALIIS S. HIPPOLYTI SCRIPTIS FRAGMENTA. Ἱππόλυτος τοίνυν τῆς εὐσεβείας μάρτυς, ἐπίσκοπος γεγονὼς τοῦ καλουμένου Πόρτου πλησίον τῆς Ῥώμης, ἐν τῷ πρὸς ἁπάσας αἱρέσεις συντάγματι ἔγραψεν ἐπὶ λέξεως οὕτως· Ὁρῶ μὲν οὖν, ὅτι φιλονεικίας τὸ ἔργον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.868.(50)",
+      "text": "Λέγει γὰρ οὕτως· Ἐποίησε τὸ πάσχα ὁ Χριστὸς τότε τῇ ἡμέρᾳ, καὶ ἔπαθε· διὸ κἀμὲ δεῖ ὃν τρόπον ὁ Κύριος ἐποίησεν, οὕτω ποιεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.869",
+      "text": "Πεπλάνηται δὲ μὴ γινώσκων, ὅτι [ἐν ᾧ] τῷ καιρῷ ἔπασχεν ὁ Χριστὸς, οὐκ ἔφαγε τὸ κατὰ νόμον πάσχα. Οὗτος γὰρ ἦν τὸ πάσχα τὸ προκεκηρυγμένον, καὶ τελειούμενον τῇ ὡρισμένῃ ἡμέρᾳ. Καὶ πάλιν ὁ αὐτὸς ἐν τῷ πρώτῳ λόγῳ τοῦ Περὶ τοῦ ἁγίου Πάσχα συγγράμματος εἴρηκεν οὕτως· Οὐδὲ ἐν τοῖς πρώτοις, οὐδ’ ἐν τοῖς ἐσχάτοις ὡς οὐκ ἐψεύσατο, πρόδηλον, ὅτι ὁ πάλαι προειπὼν, ‹Ὅτι οὐκ ἔτι φάγομαι τὸ πάσχα,› εἰκότως τὸ μὲν δεῖπνον ἐδείπνησε πρὸ τοῦ πάσχα, τὸ δὲ πάσχα οὐκ ἔφαγεν, ἀλλ’ ἔπαθεν· οὐδὲ γὰρ καιρὸς ἦν τῆς βρώσεως αὐτοῦ. Τοῦ ἁγίου Ἱππολύτου τοῦ ἐπισκόπου καὶ μάρτυρος, ἐκ τῆς πρὸς βασιλίδα τινὰ ἐπιστολῆς. ‹Ἀπαρχὴν› οὖν τοῦτον λέγει ‹τῶν κεκοιμημένων,› ἄτε ‹πρωτότοκον τῶν νεκρῶν.› Ὃς ἀναστὰς καὶ βουλόμενος ἐπιδεικνύναι, ὅτι τοῦτο ἦν τὸ ἐγηγερμένον ὅπερ ἦν καὶ ἀποθνῆσκον, δισταζόντων τῶν μαθητῶν, προσκαλεσάμενος τὸν Θωμὰν ἕφη· ‹Δεῦρο, ψηλάφησον καὶ ἴδε, ὅτι πνεῦμα ὀστοῦν καὶ σάρκα οὐκ ἔχει, καθὼς ἐμὲ θεωρεῖτε ἔχοντα.› Τοῦ αὐτοῦ, ἐκ τῆς αὐτῆς ἐπιστολῆς. ‹Ἀπαρχὴν› τοῦτον εἰπὼν, ἐπεμαρτύρησε τῷ ὑφ’ ἡμῶν εἰρημένῳ, ὡς ἐκ τοῦ αὐτοῦ φυράματος σάρκα λαβὼν ὁ Σωτὴρ, ἤγειρε ταύτην, ἀπαρχὴν ποιούμενος τῆς τῶν δικαίων σαρκὸς, ἵν’ οἱ πάντες ἐπ’ ἐλπίδι τοῦ ἐγηγερμένου, προσδόκιμον τὴν ἀνάστασιν ἕξωμεν οἱ πιστεύσαντες.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qsg-ar",
+      "title": {
+        "english": "Against the Heresy of Noetus",
+        "ancient_greek": "Κατὰ τῆς Νοήτου Αἱρέσεως"
+      },
+      "url_slug": "hippolytus-of-rome-against-noetus-qsg-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/against-noetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-cc",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονικόν"
+      },
+      "url_slug": "hippolytus-of-rome-chronicle-qsg-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-bp",
+      "title": {
+        "english": "Chronicle, Fragment",
+        "ancient_greek": "Χρονικόν"
+      },
+      "url_slug": "hippolytus-of-rome-chronicle-fragment-qsg-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/chronicle-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-bj",
+      "title": {
+        "english": "Commentary-Daniel",
+        "ancient_greek": "Ὑπόμνημα εἰς Δανιήλ"
+      },
+      "url_slug": "hippolytus-of-rome-daniel-qsg-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/daniel",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-av",
+      "title": {
+        "english": "Commentary-Daniel 1.18",
+        "ancient_greek": "Ὑπόμνημα εἰς Δανιήλ"
+      },
+      "url_slug": "hippolytus-of-rome-commentary-daniel-qsg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/commentary-daniel",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/commentary-daniel.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/commentary-daniel.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/commentary-daniel.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/commentary-daniel.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-aw",
+      "title": {
+        "english": "Fragment-Daniel 1.18.3",
+        "ancient_greek": "Ἀπόσπασμα περὶ Δανιήλ"
+      },
+      "url_slug": "hippolytus-of-rome-daniel-fragment-qsg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/daniel-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/daniel-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-ae",
+      "title": {
+        "english": "Fragment-Resurrection and Incorruption",
+        "ancient_greek": "Ἀπόσπασμα περὶ Ἀναστάσεως καὶ Ἀφθαρσίας"
+      },
+      "url_slug": "hippolytus-of-rome-resurrection-incorruption-qsg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/resurrection-incorruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/resurrection-incorruption.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/resurrection-incorruption.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/resurrection-incorruption.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/resurrection-incorruption.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-bv",
+      "title": {
+        "english": "On the Antichrist",
+        "ancient_greek": "Περὶ τοῦ Ἀντιχρίστου"
+      },
+      "url_slug": "hippolytus-of-rome-antichrist-qsg-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/antichrist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/antichrist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/antichrist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/antichrist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/antichrist.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-by",
+      "title": {
+        "english": "On the Universe (Fragment A)",
+        "ancient_greek": "Περὶ τοῦ Κόσμου"
+      },
+      "url_slug": "hippolytus-of-rome-universe-by-qsg-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/universe-by",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-by.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-bz",
+      "title": {
+        "english": "On the Universe (Fragment B)",
+        "ancient_greek": "Περὶ τοῦ Κόσμου"
+      },
+      "url_slug": "hippolytus-of-rome-universe-bz-qsg-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/universe-bz",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bz.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bz.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bz.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bz.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-bx",
+      "title": {
+        "english": "On the Universe (Treatise)",
+        "ancient_greek": "Περὶ τοῦ Κόσμου"
+      },
+      "url_slug": "hippolytus-of-rome-universe-bx-qsg-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/universe-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-at",
+      "title": {
+        "english": "Refutation of All Heresies",
+        "ancient_greek": "Κατὰ πασῶν αἱρέσεων ἔλεγχος"
+      },
+      "url_slug": "hippolytus-of-rome-refutation-heresies-qsg-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/refutation-heresies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/refutation-heresies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/refutation-heresies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/refutation-heresies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/refutation-heresies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tva-bh",
+      "title": {
+        "english": "Against Marcellus",
+        "ancient_greek": "των κατά Μαρκέλλου"
+      },
+      "url_slug": "eusebius-of-caesarea-against-marcellus-tva-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/eusebius-of-caesarea/against-marcellus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-caesarea/against-marcellus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-caesarea/against-marcellus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-caesarea/against-marcellus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eusebius-of-caesarea/against-marcellus.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ae",
+      "title": {
+        "english": "Commentaries-the Epistle to the Romans I.1–XII.21",
+        "ancient_greek": "Ὑπομνήματα εἰς τὴν πρὸς Ῥωμαίους Ἐπιστολήν"
+      },
+      "url_slug": "origen-of-alexandria-romans-commentary-uhs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/romans-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/romans-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "qwc-aa",
+      "title": {
+        "english": "Embassy or Petition for Christians",
+        "ancient_greek": "Πρεσβεία ἢ Δέησις ὑπὲρ Χριστιανῶν"
+      },
+      "url_slug": "athenagoras-of-athens-embassy-christians-qwc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenagoras-of-athens/embassy-christians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-of-athens/embassy-christians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-of-athens/embassy-christians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-of-athens/embassy-christians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenagoras-of-athens/embassy-christians.json"
+      }
+    },
+    {
+      "eul_wid": "rnu-aa",
+      "title": {
+        "english": "Exegetical Fragments on Psalms",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ψαλμῶν"
+      },
+      "url_slug": "seniores-alexandrini-exegetical-psalms-rnu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seniores-alexandrini/exegetical-psalms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.json"
+      }
+    },
+    {
+      "eul_wid": "ppa-aa",
+      "title": {
+        "english": "Letter to Flora",
+        "ancient_greek": "Πρὸς Φλώραν Ἐπιστολή"
+      },
+      "url_slug": "ptolemy-the-gnostic-flora-ppa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-the-gnostic/flora",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-the-gnostic/flora.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-the-gnostic/flora.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-the-gnostic/flora.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-the-gnostic/flora.json"
+      }
+    },
+    {
+      "eul_wid": "urs-ad",
+      "title": {
+        "english": "On Divine Names",
+        "ancient_greek": "Περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-divine-names-urs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "qpo-aa",
+      "title": {
+        "english": "Oracles",
+        "ancient_greek": "Χρησμοί"
+      },
+      "url_slug": "chaldean-oracles-text-qpo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chaldean-oracles/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaldean-oracles/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaldean-oracles/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaldean-oracles/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaldean-oracles/text.json"
+      }
+    },
+    {
+      "eul_wid": "pnc-aa",
+      "title": {
+        "english": "Philosophical Fragments",
+        "ancient_greek": "Φιλοσοφικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "aelius-aristides-of-smyrna-philosophical-fragments-pnc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-aristides-of-smyrna/philosophical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippolytus-of-rome/syntagma-paschal-chronicle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/syntagma-paschal-chronicle.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/syntagma-paschal-chronicle.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/syntagma-paschal-chronicle.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/syntagma-paschal-chronicle.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

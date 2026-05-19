@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bwc-aa",
+  "eul_aid": "bwc",
+  "author_slug": "zeno-of-elea",
+  "work_slug": "nature-plurality",
+  "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
+  "author": {
+    "english": "Zeno of Elea",
+    "ancient_greek": "Ζήνων ὁ Ἐλεᾱ́της"
+  },
+  "title": {
+    "english": "On the Nature of Plurality",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Nature of Plurality by Zeno of Elea on Eulogikon",
+    "meta_title": "On the Nature of Plurality by Zeno of Elea in Greek",
+    "meta_description": "On the Nature of Plurality presents Zeno of Elea's paradoxes challenging plurality. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eleatic",
+      "href": "/affiliations/eleatic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Nature of Plurality</strong> is a collection of philosophical arguments by the 5th-century BCE thinker Zeno of Elea, a student of Parmenides. The work survives only in fragmentary form, known through several key passages preserved by later ancient authors such as Aristotle and the commentator Simplicius. These fragments contain Zeno&#x27;s famous paradoxes, which employ rigorous logical reasoning to challenge the commonsense belief in a world composed of many distinct entities. His method was to adopt the hypothesis that &quot;there are many things&quot; and then demonstrate that it leads to absurd or contradictory conclusions, such as things being simultaneously infinitely large and having no magnitude at all.</p>\n<p class=\"research-text\">The work is widely interpreted as a defensive polemic intended to support Parmenides&#x27; doctrine that reality is a single, unchanging unity by exposing the logical incoherence of the alternative belief in plurality. Zeno&#x27;s paradoxes, including those concerning motion and divisibility, were aimed at a sophisticated philosophical audience engaged in early metaphysical debate. Despite its incomplete transmission, the logical puzzles presented in <strong>On the Nature of Plurality</strong> have exerted a profound and lasting influence, continuously shaping discussions in metaphysics, logic, and the foundations of mathematics.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit",
+      "text": "ΖΗΝΩΝΟΣ ΠΕΡΙ ΦΥΣΕΩΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "SIMPL. Phys. 140, 34 [nach B 3] τὸ δὲ κατὰ μέγεθος [ἄπειρον ἔδειξε] πρότερον κατὰ τὴν αὐτὴν ἐπιχείρησιν. προδείξας γὰρ ὅτι ‘ εἰ μὴ ἔχοι μέγεθος τὸ ὄ ν , οὐ δ ’ ἂν εἴη ‘, ἐπάγει ‘ εἰ δὲ ἔστι ν , ἀνάγκη ἕκαστον μέγεθός τι ἔχειν καὶ πάχος καὶ ἀπέχειν αὐτοῦ τὸ ἕτερον ἀπὸ τοῦ ἑτέρο υ . καὶ περὶ τοῦ προύχοντος ὁ αὐτὸς λόγο ς . καὶ γὰρ ἐκεῖνο ἕξει μέγεθος καὶ προέξει αὐτοῦ τ ι . ὅμοιον δὴ τοῦτο ἅπαξ τε εἰπεῖν καὶ ἀεὶ λέγει ν · οὐδὲν γὰρ αὐτοῦ τοιοῦτον ἔσχατον ἔσται οὔτε ἕτερον πρὸς ἕτερον οὐκ ἔστα ι . οὕτως εἰ πολλά ἐστι ν , ἀνάγκη αὐτὰ μικρά τε εἶναι καὶ μεγάλ α · μικρὰ μὲν ὥστε μὴ ἔχειν μέγεθο ς , μεγάλα δὲ ὥστε ἄπειρα εἶναι ‘ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "SIMPL. Phys. 139, 5 ἐν μέντοι τῶι συγγράμματι αὐτοῦ πολλὰ ἔχοντι ἐπιχειρήματα καθ’ ἕκαστον δείκνυσιν, ὅτι τῶι πολλὰ εἶναι λέγοντι συμβαίνει τὰ ἐναντία λέγειν· ὧν ἕν ἐστιν ἐπιχείρημα, ἐν ὧι δείκνυσιν ὅτι ‘εἰ πολλά ἐστι, καὶ μεγάλα ἐστὶ καὶ μικρά· μεγάλα μὲν ὥστε ἄπειρα τὸ μέγεθος εἶναι, μικρὰ δὲ οὕτως ὥστε μηθὲν ἔχειν μέγεθοσ‘ [B 1]. ἐν δὴ τούτωι δείκνυσιν, ὅτι οὗ μήτε μέγεθος μήτε πάχος μήτε ὄγκος μηθείς ἐστιν, οὐδ’ ἂν εἴη τοῦτο. ‘ εἰ γὰρ ἄλλωι ὄντ ι , φησ ί , προσγένοιτ ο , οὐδὲν ἂν μεῖζον ποιήσειε ν · μεγέθους γὰρ μηδενὸς ὄντο ς , προσγενομένου δ έ , οὐδὲν οἷόν τε εἰς μέγεθος ἐπιδοῦνα ι . καὶ οὕτως ἂν ἤδη τὸ προσγινόμενον οὐδὲν εἴ η . εἰ δὲ ἀπογινομένου τὸ ἕτερον μηδὲν ἔλαττον ἔσται μηδὲ αὖ προσγινομένου αὐξήσετα ι , δῆλον ὅτι τὸ προσγενόμενον οὐδὲν ἦν οὐδὲ τὸ ἀπογενόμενον ‘ . καὶ ταῦτα οὐχὶ τὸ ἓν ἀναιρῶν ὁ Ζήνων λέγει, ἀλλ’ ὅτι μέγεθος ἔχει ἕκαστον τῶν πολλῶν καὶ ἀπείρων τῶι πρὸ τοῦ λαμβανομένου ἀεί τι εἶναι διὰ τὴν ἐπ’ ἄπειρον τομήν· ὃ δείκνυσι προδείξας, ὅτι οὐδὲν ἔχει μέγεθος ἐκ τοῦ ἕκαστον τῶν πολλῶν ἑαυτῶι ταὐτὸν εἶναι καὶ ἕν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "— —140, 27 καὶ τί δεῖ πολλὰ λέγειν, ὅτε καὶ ἐν αὐτῶι φέρεται τῶι τοῦ Ζήνωνος συγγράμματι; πάλιν γὰρ δεικνύς, ὅτι εἰ πολλά ἐστι, τὰ αὐτὰ πεπερασμένα ἐστὶ καὶ ἄπειρα, γράφει ταῦτα κατὰ λέξιν ὁ Ζ.· ‘ εἰ πολλά ἐστι ν , ἀνάγκη τοσαῦτα εἶναι ὅσα ἐστὶ καὶ οὔτε πλείονα αὐτῶν οὔτε ἐλάττον α . εἰ δὲ τοσαῦτά ἐστιν ὅσα ἐστ ί , πεπερασμένα ἂν εἴ η . εἰ πολλά ἐστι ν , ἄπειρα τὰ ὄντα ἐστί ν · ἀεὶ γὰρ ἕτερα μεταξὺ τῶν ὄντων ἐστ ί , καὶ πάλιν ἐκείνων ἕτερα μεταξ ύ . καὶ οὕτως ἄπειρα τὰ ὄντα ἐστί ‘. καὶ οὕτως μὲν τὸ κατὰ τὸ πλῆθος ἄπειρον ἐκ τῆς διχοτομίας ἔδειξε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "DIOG. IX 72 οὐ μὴν ἀλλὰ καὶ Ξενοφάνης καὶ Ζ. ὁ Ἐλεάτης καὶ Δημόκριτος κατ’ αὐτοὺς σκεπτικοὶ τυγχάνουσιν ... Ζ. δὲ τὴν κίνησιν ἀναιρεῖ λέγων ‘ τὸ κινούμενον οὔ τ ’ ἐν ὧι ἔστι τόπωι κινεῖται οὔ τ ’ ἐν ὧι μὴ ἔστι ‘.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "sys-ab",
+      "title": {
+        "english": "Egyptians or-Providence",
+        "ancient_greek": "Αἰγύπτιοι ἢ Περὶ Προνοίας"
+      },
+      "url_slug": "synesius-of-cyrene-egyptians-providence-sys-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/egyptians-providence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.json"
+      }
+    },
+    {
+      "eul_wid": "chq-aa",
+      "title": {
+        "english": "Fragments on Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνης Ἀρετῆς"
+      },
+      "url_slug": "iamblichus-anon-human-excellence-chq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-anon/human-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-au",
+      "title": {
+        "english": "Mind to Hermes",
+        "ancient_greek": "Νοῦ πρὸς Ἑρμῆν"
+      },
+      "url_slug": "hermetica-mind-oqk-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/mind",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/mind.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/mind.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/mind.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/mind.json"
+      }
+    },
+    {
+      "eul_wid": "rye-an",
+      "title": {
+        "english": "On the Names of the King and the Consul",
+        "ancient_greek": "〈Περὶ τῶν ὀνομάτων τοῦ βασιλέως καὶ τοῦ ὑπάτου〉"
+      },
+      "url_slug": "themistius-names-king-consul-rye-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/names-king-consul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/names-king-consul.json"
+      }
+    },
+    {
+      "eul_wid": "pqo-aa",
+      "title": {
+        "english": "On the Nature of Men, Synopsis",
+        "ancient_greek": "Περὶ Φύσεως Ἀνθρώπων"
+      },
+      "url_slug": "leo-of-constantinople-nature-men-pqo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/leo-of-constantinople/nature-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/nature-men.json"
+      }
+    },
+    {
+      "eul_wid": "ibg-aa",
+      "title": {
+        "english": "Philistas, Book II",
+        "ancient_greek": "Φιλίστας Βιβλίον Βʹ"
+      },
+      "url_slug": "carneiscus-the-epicurean-philistas-ii-ibg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.json"
+      }
+    },
+    {
+      "eul_wid": "dmk-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "metrodorus-of-chios-testimonies-dmk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-chios/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "ceo-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "lyco-of-tarentum-testimonies-ceo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyco-of-tarentum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

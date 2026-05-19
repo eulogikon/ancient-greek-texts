@@ -1,0 +1,650 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ejc-am",
+  "eul_aid": "ejc",
+  "author_slug": "lysias",
+  "work_slug": "defense-murder-eratosthenes",
+  "url_slug": "lysias-defense-murder-eratosthenes-ejc-am",
+  "author": {
+    "english": "Lysias the Orator",
+    "ancient_greek": "Λυσίας ὁ λογογράφος"
+  },
+  "title": {
+    "english": "Defense in the Murder of Eratosthenes",
+    "ancient_greek": "ὑπὲρ τοῦ Ἐρατοσθένους φόνου ἀπολογία"
+  },
+  "seo": {
+    "browser_title": "Defense in the Murder of Eratosthenes by Lysias on Eulogikon",
+    "meta_title": "Defense in the Murder of Eratosthenes by Lysias in Greek",
+    "meta_description": "Defense speech for Euphiletus, accused of killing Eratosthenes. Athenian oration on homicide law. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lysias’s <strong>Defense in the Murder of Eratosthenes</strong> is a complete Athenian courtroom oration composed in the early fourth century BCE for a client named Euphiletus, who stood trial for the killing of Eratosthenes. The speech presents Euphiletus’s admission of the homicide but frames it as a lawful and justifiable act. He asserts that he discovered Eratosthenes in the act of adultery with his wife within his own home, a circumstance under which Athenian law granted a husband the right to use lethal force immediately. The defense is a carefully constructed first-person narrative in which Euphiletus portrays himself as a wronged but honorable citizen, detailing how he learned of the affair through an informant, verified it with a household slave, and ultimately ambushed the lover. His entire argument rests on persuading the jury that his response was a spontaneous execution of the law against adultery rather than a premeditated murder motivated by personal vengeance. The oration is a masterful example of forensic rhetoric, offering a vital window into Athenian social values, the legal principles surrounding justifiable homicide, and the profound connection between a man’s domestic honor and the civic order. Preserved intact through medieval manuscripts and securely attributed to the speechwriter Lysias, it remains a foundational text for the study of Greek law, society, and rhetorical practice.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Or1 t",
+      "text": "ΥΠΕΡ ΤΟΥ ΕΡΑΤΟΣΘΕΝΟΥΣ ΦΟΝΟΥ ΑΠΟΛΟΓΙΑ Περὶ πολλοῦ ἂν ποιησαίμην, ὦ ἄνδρες, τὸ τοιούτους ὑμᾶς ἐμοὶ δικαστὰς περὶ τούτου τοῦ πράγματος γενέσθαι, οἷοίπερ ἂν ὑμῖν αὐτοῖς εἴητε τοιαῦτα πεπονθότες· εὖ γὰρ οἶδ’ ὅτι, εἰ τὴν αὐτὴν γνώμην περὶ τῶν ἄλλων ἔχοιτε, ἥνπερ περὶ ὑμῶν αὐτῶν, οὐκ ἂν εἴη ὅστις οὐκ ἐπὶ τοῖς γεγενημένοις ἀγανακτοίη, ἀλλὰ πάντες ἂν περὶ τῶν τὰ τοιαῦτα ἐπιτηδευόντων τὰς ζημίας μικρὰς ἡγοῖσθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 2",
+      "text": "καὶ ταῦτα οὐκ ἂν εἴη μόνον παρ’ ὑμῖν οὕτως ἐγνωσμένα, ἀλλ’ ἐν ἁπάσῃ τῇ Ἑλλάδι· περὶ τούτου γὰρ μόνου τοῦ ἀδικήματος καὶ ἐν δημοκρατίᾳ καὶ ὀλιγαρχίᾳ ἡ αὐτὴ τιμωρία τοῖς ἀσθενεστάτοις πρὸς τοὺς τὰ μέγιστα δυναμένους ἀποδέδοται, ὥστε τὸν χείριστον τῶν αὐτῶν τυγχάνειν τῷ βελτίστῳ· οὕτως, ὦ ἄνδρες, ταύτην τὴν ὕβριν ἅπαντες ἄνθρωποι δεινοτάτην ἡγοῦνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 3",
+      "text": "περὶ μὲν οὖν τοῦ μεγέθους τῆς ζημίας ἅπαντας ὑμᾶς νομίζω τὴν αὐτὴν διάνοιαν ἔχειν, καὶ οὐδένα οὕτως ὀλιγώρως διακεῖσθαι, ὅστις οἴεται δεῖν συγγνώμης τυγχάνειν ἢ μικρᾶς ζημίας ἀξίους ἡγεῖται τοὺς τῶν τοιούτων ἔργων αἰτίους· ἡγοῦμαι δέ, ὦ ἄνδρες, τοῦτό με δεῖν ἐπιδεῖξαι, ὡς ἐμοίχευεν Ἐρατοσθένης τὴν γυναῖκα τὴν ἐμὴν καὶ ἐκείνην τε διέφθειρε καὶ τοὺς παῖδας τοὺς ἐμοὺς ᾔσχυνε καὶ ἐμὲ αὐτὸν ὕβρισεν εἰς τὴν οἰκίαν τὴν ἐμὴν εἰσιών, καὶ οὔτε ἔχθρα ἐμοὶ καὶ ἐκείνῳ οὐδεμία ἦν πλὴν ταύτης, οὔτε χρημάτων ἕνεκα ἔπραξα ταῦτα, ἵνα πλούσιος ἐκ πένητος γένωμαι, οὔτε ἄλλους κέρδους οὐδενὸς πλὴν τῆς κατὰ τοὺς νόμους τιμωρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 5",
+      "text": "ἐγὼ τοίνυν ἐξ ἀρχῆς ὑμῖν ἅπαντα ἐπιδείξω τὰ ἐμαυτοῦ πράγματα, οὐδὲν παραλείπων, ἀλλὰ λέγων τἀληθῆ· ταύτην γὰρ ἐμαυτῷ μόνην ἡγοῦμαι σωτηρίαν, ἐὰν ὑμῖν εἰπεῖν ἅπαντα δυνηθῶ τὰ πεπραγμένα. Ἐγὼ γάρ, ὦ Ἀθηναῖοι, ἐπειδὴ ἔδοξέ μοι γῆμαι καὶ γυναῖκα ἠγαγόμην εἰς τὴν οἰκίαν, τὸν μὲν ἄλλον χρόνον οὕτω διεκείμην ὥστε μήτε λυπεῖν μήτε λίαν ἐπ’ ἐκείνῃ εἶναι ὅ τι ἂν ἐθέλῃ ποιεῖν, ἐφύλαττόν τε ὡς οἷόν τε ἦν, καὶ προσεῖχον τὸν νοῦν ὥσπερ εἰκὸς ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 6",
+      "text": "ἐπειδὴ δέ μοι παιδίον γίγνεται, ἐπίστευον ἤδη καὶ πάντα τὰ ἐμαυτοῦ ἐκείνῃ παρέδωκα, ἡγούμενος ταύτην οἰκειότητα μεγίστην εἶναι· ἐν μὲν οὖν τῷ πρώτῳ χρόνῳ, ὦ Ἀθηναῖοι, πασῶν ἦν βελτίστη· καὶ γὰρ οἰκονόμος δεινὴ καὶ φειδωλὸς [ἀγαθὴ] καὶ ἀκριβῶς πάντα διοικοῦσα· ἐπειδὴ δέ μοι ἡ μήτηρ ἐτελεύτησε, ἣ πάντων τῶν κακῶν ἀποθανοῦσα αἰτία μοι γεγένηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 8",
+      "text": "ἐπ’ ἐκφορὰν γὰρ αὐτῇ ἀκολουθήσασα ἡ ἐμὴ γυνὴ ὑπὸ τούτου τοῦ ἀνθρώπου ὀφθεῖσα χρόνῳ διαφθείρεται· ἐπιτηρῶν γὰρ τὴν θεράπαιναν τὴν εἰς τὴν ἀγορὰν βαδίζουσαν καὶ λόγους προσφέρων ἀπώλεσεν αὐτήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 9",
+      "text": "Πρῶτον μὲν οὖν, ὦ ἄνδρες, (δεῖ γὰρ καὶ ταῦθ’ ὑμῖν διηγήσασθαι) οἰκίδιον ἔστι μοι διπλοῦν, ἴσα ἔχον τὰ ἄνω τοῖς κάτω κατὰ τὴν γυναικωνῖτιν καὶ κατὰ τὴν ἀνδρωνῖτιν. ἐπειδὴ δὲ τὸ παιδίον ἐγένετο ἡμῖν, ἡ μήτηρ αὐτὸ ἐθήλαζεν· ἵνα δὲ μή, ὁπότε λοῦσθαι δέοι, κινδυνεύῃ κατὰ τῆς κλίμακος καταβαίνουσα, ἐγὼ μὲν ἄνω διῃτώμην, αἱ δὲ γυναῖκες κάτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 10",
+      "text": "καὶ οὕτως ἤδη συνειθισμένον ἦν, ὥστε πολλάκις ἡ γυνὴ ἀπῄει κάτω καθευδήσουσα ὡς τὸ παιδίον, ἵνα τὸν τιτθὸν αὐτῷ διδῷ καὶ μὴ βοᾷ. καὶ ταῦτα πολὺν χρόνον οὕτως ἐγίγνετο, καὶ ἐγὼ οὐδέποτε ὑπώπτευσα, ἀλλ’ οὕτως ἠλιθίως διεκείμην, ὥστε ᾤμην τὴν ἐμαυτοῦ γυναῖκα πασῶν σωφρονεστάτην εἶναι τῶν ἐν τῇ πόλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 11",
+      "text": "Προϊόντος δὲ τοῦ χρόνου, ὦ ἄνδρες, ἧκον μὲν ἀπροσδοκήτως ἐξ ἀγροῦ, μετὰ δὲ τὸ δεῖπνον τὸ παιδίον ἐβόα καὶ ἐδυσκόλαινεν ὑπὸ τῆς θεραπαίνης ἐπίτηδες λυπούμενον, ἵνα ταῦτα ποιῇ· ὁ γὰρ ἄνθρωπος ἔνδον ἦν· ὕστερον γὰρ ἅπαντα ἐπυθόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 12",
+      "text": "καὶ ἐγὼ τὴν γυναῖκα ἀπιέναι ἐκέλευον καὶ δοῦναι τῷ παιδίῳ τὸν τιτθόν, ἵνα παύσηται κλᾶον. ἡ δὲ τὸ μὲν πρῶτον οὐκ ἤθελεν, ὡς ἂν ἀσμένη με ἑωρακυῖα ἥκοντα διὰ χρόνου· ἐπειδὴ δὲ ἐγὼ ὠργιζόμην καὶ ἐκέλευον αὐτίκα ἀπιέναι, «ἵνα σύ γε» ἔφη «πειρᾷς ἐνταῦθα τὴν παιδίσκην· καὶ πρότερον δὲ μεθύων εἷλκες αὐτήν».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 13",
+      "text": "κἀγὼ μὲν ἐγέλων, ἐκείνη δὲ ἀναστᾶσα καὶ ἀπιοῦσα προστίθησι τὴν θύραν, προσποιουμένη παίζειν, καὶ τὴν κλεῖν ἐφέλκεται. κἀγὼ τούτων οὐδὲν ἐνθυμούμενος οὐδ’ ὑπονοῶν ἐκάθευδον ἄσμενος, ἥκων ἐξ ἀγροῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 14",
+      "text": "ἐπειδὴ δὲ ἦν πρὸς ἡμέραν, ἧκεν ἐκείνη καὶ τὴν θύραν ἀνέῳξεν. ἐρομένου δέ μου τί αἱ θύραι νύκτωρ ψοφοῖεν, ἔφασκε τὸν λύχνον ἀποσβεσθῆναι τὸν παρὰ τῷ παιδίῳ, εἶτα ἐκ τῶν γειτόνων ἐνάψασθαι. ἐσιώπων ἐγὼ καὶ ταῦτα οὕτως ἔχειν ἡγούμην. ἔδοξε δέ μοι, ὦ ἄνδρες, τὸ πρόσωπον ἐψιμυθιῶσθαι, τοῦ ἀδελφοῦ τεθνεῶτος οὔπω τριάκονθ’ ἡμέρας· ὅμως δ’ οὐδ’ οὕτως οὐδὲν εἰπὼν περὶ τοῦ πράγματος ἐξελθὼν ᾠχόμην ἔξω σιωπῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 15",
+      "text": "Μετὰ δὲ ταῦτα, ὦ ἄνδρες, χρόνου μεταξὺ διαγενομένου καὶ ἐμοῦ πολὺ ἀπολελειμμένου τῶν ἐμαυτοῦ κακῶν, προσέρχεταί μοί τις πρεσβῦτις ἄνθρωπος, ὑπὸ γυναικὸς ὑποπεμφθεῖσα ἣν ἐκεῖνος ἐμοίχευεν, ὡς ἐγὼ ὕστερον ἤκουον· αὕτη δὲ ὀργιζομένη καὶ ἀδικεῖσθαι νομίζουσα, ὅτι οὐκέτι ὁμοίως ἐφοίτα παρ’ αὐτήν, ἐφύλαττεν ἕως ἐξηῦρεν ὅ τι εἴη τὸ αἴτιον. προσελθοῦσα οὖν μοι ἐγγὺς ἡ ἄνθρωπος τῆς οἰκίας τῆς ἐμῆς ἐπιτηροῦσα, «Εὐφίλητε» ἔφη «μηδεμιᾷ πολυπραγμοσύνῃ προσεληλυθέναι με νόμιζε πρὸς σέ· ὁ γὰρ ἀνὴρ ὁ ὑβρίζων εἰς σὲ καὶ τὴν σὴν γυναῖκα ἐχθρὸς ὢν ἡμῖν τυγχάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 16",
+      "text": "ἐὰν οὖν λάβῃς τὴν θεράπαιναν τὴν εἰς ἀγορὰν βαδίζουσαν καὶ διακονοῦσαν ὑμῖν καὶ βασανίσῃς, ἅπαντα πεύσῃ». «ἔστι δ’» ἔφη «Ἐρατοσθένης Ὀῆθεν ὁ ταῦτα πράττων, ὃς οὐ μόνον τὴν σὴν γυναῖκα διέφθαρκεν ἀλλὰ καὶ ἄλλας πολλάς· ταύτην γὰρ [τὴν] τέχνην ἔχει».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 17",
+      "text": "ταῦτα εἰποῦσα, ὦ ἄνδρες, ἐκείνη μὲν ἀπηλλάγη, ἐγὼ δ’ εὐθέως ἐταραττόμην, καὶ πάντα μου εἰς τὴν γνώμην εἰσῄει, καὶ μεστὸς ἦν ὑποψίας, ἐνθυμούμενος μὲν ὡς ἀπεκλῄσθην ἐν τῷ δωματίῳ, ἀναμιμνῃσκόμενος δὲ ὅτι ἐν ἐκείνῃ τῇ νυκτὶ ἐψόφει ἡ μέταυλος θύρα καὶ ἡ αὔλειος, ὃ οὐδέποτε ἐγένετο, ἔδοξέ τέ μοι ἡ γυνὴ ἐψιμυθιῶσθαι. ταῦτά μου πάντα εἰς τὴν γνώμην εἰσῄει, καὶ μεστὸς ἦν ὑποψίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 18",
+      "text": "ἐλθὼν δὲ οἴκαδε ἐκέλευον ἀκολουθεῖν μοι τὴν θεράπαιναν εἰς τὴν ἀγοράν, ἀγαγὼν δ’ αὐτὴν ὡς τῶν ἐπιτηδείων τινὰ ἔλεγον ὅτι ἐγὼ πάντα εἴην πεπυσμένος τὰ γιγνόμενα ἐν τῇ οἰκίᾳ· «σοὶ οὖν» ἔφην «ἔξεστι δυοῖν ὁπότερον βούλει ἑλέσθαι, ἢ μαστιγωθεῖσαν εἰς μύλωνα ἐμπεσεῖν καὶ μηδέποτε παύσασθαι κακοῖς τοιούτοις συνεχομένην, ἢ κατειποῦσαν ἅπαντα τἀληθῆ μηδὲν παθεῖν κακόν, ἀλλὰ συγγνώμης παρ’ ἐμοῦ τυχεῖν τῶν ἡμαρτημένων. ψεύσῃ δὲ μηδέν, ἀλλὰ πάντα τἀληθῆ λέγε». κἀκείνη τὸ μὲν πρῶτον ἔξαρνος ἦν, καὶ ποιεῖν ἐκέλευεν ὅ τι βούλομαι· οὐδὲν γὰρ εἰδέναι· ἐπειδὴ δὲ ἐγὼ ἐμνήσθην Ἐρατοσθένους πρὸς αὐτήν, καὶ εἶπον ὅτι οὗτος ὁ φοιτῶν εἴη πρὸς τὴν γυναῖκα, ἐξεπλάγη ἡγησαμένη με πάντα ἀκριβῶς ἐγνωκέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 19",
+      "text": "καὶ τότε ἤδη πρὸς τὰ γόνατά μου πεσοῦσα, καὶ πίστιν παρ’ ἐμοῦ λαβοῦσα μηδὲν πείσεσθαι κακόν, κατηγόρει πρῶτον μὲν ὡς μετὰ τὴν ἐκφορὰν αὐτῇ προσίοι, ἔπειτα ὡς αὐτὴ τελευτῶσα εἰσαγγείλειε καὶ ὡς ἐκείνη τῷ χρόνῳ πεισθείη, καὶ τὰς εἰσόδους οἷς τρόποις προσιεῖτο, καὶ ὡς Θεσμοφορίοις ἐμοῦ ἐν ἀγρῷ ὄντος ᾤχετο εἰς τὸ ἱερὸν μετὰ τῆς μητρὸς τῆς ἐκείνου· καὶ τἆλλα τὰ γενόμενα πάντα ἀκριβῶς διηγήσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 21",
+      "text": "ἐπειδὴ δὲ πάντα εἴρητο αὐτῇ, εἶπον ἐγώ, «ὅπως τοίνυν ταῦτα μηδεὶς ἀνθρώπων πεύσεται· εἰ δὲ μή, οὐδέν σοι κύριον ἔσται τῶν πρὸς ἔμ’ ὡμολογημένων. ἀξιῶ δέ σε ἐπ’ αὐτοφώρῳ ταῦτά μοι ἐπιδεῖξαι· ἐγὼ γὰρ οὐδὲν δέομαι λόγων, ἀλλὰ τὸ ἔργον φανερὸν γενέσθαι, εἴπερ οὕτως ἔχει».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 22",
+      "text": "ὡμολόγει ταῦτα ποιήσειν. καὶ μετὰ ταῦτα διεγένοντο ἡμέραι τέτταρες ἢ πέντε, ... ὡς ἐγὼ μεγάλοις ὑμῖν τεκμηρίοις ἐπιδείξω. πρῶτον δὲ διηγήσασθαι βούλομαι τὰ πραχθέντα τῇ τελευταίᾳ ἡμέρᾳ. Σώστρατος ἦν μοι ἐπιτήδειος καὶ φίλος. τούτῳ ἡλίου δεδυκότος ἰόντι ἐξ ἀγροῦ ἀπήντησα. εἰδὼς δ’ ἐγὼ ὅτι τηνικαῦτα ἀφιγμένος οὐδὲν [ἂν] καταλήψοιτο οἴκοι τῶν ἐπιτηδείων, ἐκέλευον συνδειπνεῖν· καὶ ἐλθόντες οἴκαδε ὡς ἐμέ, ἀναβάντες εἰς τὸ ὑπερῷον ἐδειπνοῦμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 23",
+      "text": "ἐπειδὴ δὲ καλῶς αὐτῷ εἶχεν, ἐκεῖνος μὲν ἀπιὼν ᾤχετο, ἐγὼ δ’ ἐκάθευδον. ὁ δ’ Ἐρατοσθένης, ὦ ἄνδρες, εἰσέρχεται, καὶ ἡ θεράπαινα ἐπεγείρασά με εὐθὺς φράζει ὅτι ἔνδον ἐστί. κἀγὼ εἰπὼν ἐκείνῃ ἐπιμελεῖσθαι τῆς θύρας, καταβὰς σιωπῇ ἐξέρχομαι, καὶ ἀφικνοῦμαι ὡς τὸν καὶ τόν, καὶ τοὺς μὲν 〈οὐκ〉 ἔνδον κατέλαβον, τοὺς δὲ οὐδ’ ἐπιδημοῦντας ηὗρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 24",
+      "text": "παραλαβὼν δ’ ὡς οἷόν τε ἦν πλείστους ἐκ τῶν παρόντων ἐβάδιζον. καὶ δᾷδας λαβόντες ἐκ τοῦ ἐγγύτατα καπηλείου εἰσερχόμεθα, ἀνεῳγμένης τῆς θύρας καὶ ὑπὸ τῆς ἀνθρώπου παρεσκευασμένης. ὤσαντες δὲ τὴν θύραν τοῦ δωματίου οἱ μὲν πρῶτοι εἰσιόντες ἔτι εἴδομεν αὐτὸν κατακείμενον παρὰ τῇ γυναικί, οἱ δ’ ὕστερον ἐν τῇ κλίνῃ γυμνὸν ἑστηκότα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 25",
+      "text": "ἐγὼ δ’, ὦ ἄνδρες, πατάξας καταβάλλω αὐτόν, καὶ τὼ χεῖρε περιαγαγὼν εἰς τοὔπισθεν καὶ δήσας ἠρώτων διὰ τί ὑβρίζει εἰς τὴν οἰκίαν τὴν ἐμὴν εἰσιών. κἀκεῖνος ἀδικεῖν μὲν ὡμολόγει, ἠντεβόλει δὲ καὶ ἱκέτευε μὴ ἀποκτεῖναι ἀλλ’ ἀργύριον πράξασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 26",
+      "text": "ἐγὼ δ’ εἶπον ὅτι «οὐκ ἐγώ σε ἀποκτενῶ, ἀλλ’ ὁ τῆς πόλεως νόμος, ὃν σὺ παραβαίνων περὶ ἐλάττονος τῶν ἡδονῶν ἐποιήσω, καὶ μᾶλλον εἵλου τοιοῦτον ἁμάρτημα ἐξαμαρτάνειν εἰς τὴν γυναῖκα τὴν ἐμὴν καὶ εἰς τοὺς παῖδας τοὺς ἐμοὺς ἢ τοῖς νόμοις πείθεσθαι καὶ κόσμιος εἶναι».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 27",
+      "text": "οὕτως, ὦ ἄνδρες, ἐκεῖνος τούτων ἔτυχεν ὧνπερ οἱ νόμοι κελεύουσι τοὺς τὰ τοιαῦτα πράττοντας, οὐκ εἰσαρπασθεὶς ἐκ τῆς ὁδοῦ, οὐδ’ ἐπὶ τὴν ἑστίαν καταφυγών, ὥσπερ οὗτοι λέγουσι· πῶς γὰρ ἄν, ὅστις ἐν τῷ δωματίῳ πληγεὶς κατέπεσεν εὐθύς, περιέστρεψα δ’ αὐτοῦ τὼ χεῖρε, ἔνδον δὲ ἦσαν ἄνθρωποι τοσοῦτοι, οὓς διαφυγεῖν οὐκ ἐδύνατο, οὔτε σίδηρον οὔτε ξύλον οὔτε ἄλλο οὐδὲν ἔχων, ᾧ τοὺς εἰσελθόντας ἂν ἠμύνατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 28",
+      "text": "ἀλλ’, ὦ ἄνδρες, οἶμαι καὶ ὑμᾶς εἰδέναι ὅτι οἱ μὴ τὰ δίκαια πράττοντες οὐχ ὁμολογοῦσι τοὺς ἐχθροὺς λέγειν ἀληθῆ, ἀλλ’ αὐτοὶ ψευδόμενοι καὶ τὰ τοιαῦτα μηχανώμενοι ὀργὰς τοῖς ἀκούουσι κατὰ τῶν τὰ δίκαια πραττόντων παρασκευάζουσι. Πρῶτον μὲν οὖν ἀνάγνωθι τὸν νόμον. ΝΟΜΟΣ Οὐκ ἠμφεσβήτει, ὦ ἄνδρες, ἀλλ’ ὡμολόγει ἀδικεῖν, καὶ ὅπως μὲν μὴ ἀποθάνῃ ἠντεβόλει καὶ ἱκέτευεν, ἀποτίνειν δ’ ἕτοιμος ἦν χρήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 29",
+      "text": "ἐγὼ δὲ τῷ μὲν ἐκείνου τιμήματι οὐ συνεχώρουν, τὸν δὲ τῆς πόλεως νόμον ἠξίουν εἶναι κυριώτερον, καὶ ταύτην ἔλαβον τὴν δίκην, ἣν ὑμεῖς δικαιοτάτην εἶναι ἡγησάμενοι τοῖς τὰ τοιαῦτα ἐπιτηδεύουσιν ἐτάξατε. Καί μοι ἀνάβητε τούτων μάρτυρες. ΜΑΡΤΥΡΕΣ Ἀνάγνωθι δέ μοι καὶ τοῦτον τὸν νόμον 〈τὸν〉 ἐκ τῆς στήλης τῆς ἐξ Ἀρείου πάγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 30",
+      "text": "ΝΟΜΟΣ Ἀκούετε, ὦ ἄνδρες, ὅτι αὐτῷ τῷ δικαστηρίῳ τῷ ἐξ Ἀρείου πάγου, ᾧ καὶ πάτριόν ἐστι καὶ ἐφ’ ἡμῶν ἀποδέδοται τοῦ φόνου τὰς δίκας δικάζειν, διαρρήδην εἴρηται τούτου μὴ καταγιγνώσκειν φόνον, ὃς ἂν ἐπὶ δάμαρτι τῇ ἑαυτοῦ μοιχὸν λαβὼν ταύτην τὴν τιμωρίαν ποιήσηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 31",
+      "text": "καὶ οὕτω σφόδρα ὁ νομοθέτης ἐπὶ ταῖς γαμεταῖς γυναιξὶ δίκαια ταῦτα ἡγήσατο εἶναι, ὥστε καὶ ἐπὶ ταῖς παλλακαῖς ταῖς ἐλάττονος ἀξίαις τὴν αὐτὴν δίκην ἐπέθηκε. καίτοι δῆλον ὅτι, εἴ τινα εἶχε ταύτης μείζω τιμωρίαν ἐπὶ ταῖς γαμεταῖς, ἐποίησεν ἄν. νῦν δὲ οὐχ οἷός τε ὢν ταύτης ἰσχυροτέραν ἐπ’ ἐκείναις ἐξευρεῖν, τὴν αὐτὴν καὶ ἐπὶ ταῖς παλλακαῖς ἠξίωσε γίγνεσθαι. Ἀνάγνωθι δέ μοι καὶ τοῦτον τὸν νόμον. ΝΟΜΟΣ Ἀκούετε, ὦ ἄνδρες, ὅτι κελεύει, ἐάν τις ἄνθρωπον ἐλεύθερον ἢ παῖδα αἰσχύνῃ βίᾳ, διπλῆν τὴν βλάβην ὀφείλειν· ἐὰν δὲ γυναῖκα, ἐφ’ αἷσπερ ἀποκτείνειν ἔξεστιν, ἐν τοῖς αὐτοῖς ἐνέχεσθαι· οὕτως, ὦ ἄνδρες, τοὺς βιαζομένους ἐλάττονος ζημίας ἀξίους ἡγήσατο εἶναι ἢ τοὺς πείθοντας· τῶν μὲν γὰρ θάνατον κατέγνω, τοῖς δὲ διπλῆν ἐποίησε τὴν βλάβην, ἡγούμενος τοὺς μὲν διαπραττομένους βίᾳ ὑπὸ τῶν βιασθέντων μισεῖσθαι, τοὺς δὲ πείσαντας οὕτως αὐτῶν τὰς ψυχὰς διαφθείρειν, ὥστ’ οἰκειοτέρας αὑτοῖς ποιεῖν τὰς ἀλλοτρίας γυναῖκας ἢ τοῖς ἀνδράσι, καὶ πᾶσαν ἐπ’ ἐκείνοις τὴν οἰκίαν γεγονέναι, καὶ τοὺς παῖδας ἀδήλους εἶναι ὁποτέρων τυγχάνουσιν ὄντες, τῶν ἀνδρῶν ἢ τῶν μοιχῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 33",
+      "text": "ἀνθ’ ὧν ὁ τὸν νόμον τιθεὶς θάνατον αὐτοῖς ἐποίησε τὴν ζημίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 34",
+      "text": "Ἐμοῦ τοίνυν, ὦ ἄνδρες, οἱ μὲν νόμοι οὐ μόνον ἀπεγνωκότες εἰσὶ μὴ ἀδικεῖν, ἀλλὰ καὶ κεκελευκότες ταύτην τὴν δίκην λαμβάνειν· ἐν ὑμῖν δ’ ἐστὶ πότερον χρὴ τούτους ἰσχυροὺς ἢ μηδενὸς ἀξίους εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 35",
+      "text": "ἐγὼ μὲν γὰρ οἶμαι πάσας τὰς πόλεις διὰ τοῦτο τοὺς νόμους τίθεσθαι, ἵνα περὶ ὧν ἂν πραγμάτων ἀπορῶμεν, παρὰ τούτους ἐλθόντες σκεψώμεθα ὅ τι ἡμῖν ποιητέον ἐστίν. οὗτοι τοίνυν περὶ τῶν τοιούτων τοῖς ἀδικουμένοις τοιαύτην δίκην λαμβάνειν παρακελεύονται. οἷς ὑμᾶς ἀξιῶ τὴν αὐτὴν γνώμην ἔχειν· εἰ δὲ μή, τοιαύτην ἄδειαν τοῖς μοιχοῖς ποιήσετε, ὥστε καὶ τοὺς κλέπτας ἐπαρεῖτε φάσκειν μοιχοὺς εἶναι, εὖ εἰδότας ὅτι, ἐὰν ταύτην τὴν αἰτίαν περὶ ἑαυτῶν λέγωσι καὶ ἐπὶ τούτῳ φάσκωσιν εἰς τὰς ἀλλοτρίας οἰκίας εἰσιέναι, οὐδεὶς αὐτῶν ἅψεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 36",
+      "text": "πάντες γὰρ εἴσονται ὅτι τοὺς μὲν νόμους τῆς μοιχείας χαίρειν ἐᾶν δεῖ, τὴν δὲ ψῆφον τὴν ὑμετέραν δεδιέναι· αὕτη γάρ ἐστι πάντων τῶν ἐν τῇ πόλει κυριωτάτη. Σκέψασθε δέ, ὦ ἄνδρες· κατηγοροῦσι γάρ μου ὡς ἐγὼ τὴν θεράπαιναν ἐν ἐκείνῃ τῇ ἡμέρᾳ μετελθεῖν ἐκέλευσα τὸν νεανίσκον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 37",
+      "text": "ἐγὼ δέ, ὦ ἄνδρες, δίκαιον μὲν ἂν ποιεῖν ἡγούμην ᾡτινιοῦν τρόπῳ τὸν τὴν γυναῖκα τὴν ἐμὴν διαφθείραντα λαμβάνων· εἰ μὲν γὰρ λόγων εἰρημένων ἔργου δὲ μηδενὸς γεγενημένου μετελθεῖν ἐκέλευον ἐκεῖνον, ἠδίκουν ἄν· εἰ δὲ ἤδη πάντων διαπεπραγμένων καὶ πολλάκις εἰσεληλυθότος εἰς τὴν οἰκίαν τὴν ἐμὴν ᾡτινιοῦν τρόπῳ ἐλάμβανον αὐτόν, σώφρον’ ἂν ἐμαυτὸν ἡγούμην· σκέψασθε δὲ ὅτι καὶ ταῦτα ψεύδονται· ῥᾳδίως δὲ ἐκ τῶνδε γνώσεσθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 39",
+      "text": "ἐμοὶ γάρ, ὦ ἄνδρες, ὅπερ καὶ πρότερον εἶπον, φίλος ὢν Σώστρατος καὶ οἰκείως διακείμενος ἀπαντήσας ἐξ ἀγροῦ περὶ ἡλίου δυσμὰς συνεδείπνει, καὶ ἐπειδὴ καλῶς εἶχεν αὐτῷ, ἀπιὼν ᾤχετο. καίτοι πρῶτον μέν, ὦ ἄνδρες, ἐνθυμήθητε· [ὅτι] εἰ ἐν ἐκείνῃ τῇ νυκτὶ ἐγὼ ἐπεβούλευον Ἐρατοσθένει, πότερον ἦν μοι κρεῖττον αὐτῷ ἑτέρωθι δειπνεῖν ἢ τὸν συνδειπνήσοντά μοι εἰσαγαγεῖν; οὕτω γὰρ ἂν ἧττον ἐτόλμησεν ἐκεῖνος εἰσελθεῖν εἰς τὴν οἰκίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 40",
+      "text": "εἶτα δοκῶ ἂν ὑμῖν τὸν συνδειπνοῦντα ἀφεὶς μόνος καταλειφθῆναι καὶ ἔρημος γενέσθαι, ἢ κελεύειν ἐκεῖνον μένειν, ἵνα μετ’ ἐμοῦ τὸν μοιχὸν ἐτιμωρεῖτο; ἔπειτα, ὦ ἄνδρες, οὐκ ἂν δοκῶ ὑμῖν τοῖς ἐπιτηδείοις μεθ’ ἡμέραν παραγγεῖλαι, καὶ κελεῦσαι αὐτοὺς συλλεγῆναι εἰς οἰκίαν 〈του〉 τῶν φίλων τῶν ἐγγυτάτω, μᾶλλον ἢ ἐπειδὴ τάχιστα ᾐσθόμην τῆς νυκτὸς περιτρέχειν, οὐκ εἰδὼς ὅντινα οἴκοι καταλήψομαι καὶ ὅντινα ἔξω; καὶ ὡς Ἁρμόδιον μὲν καὶ τὸν δεῖνα ἦλθον οὐκ ἐπιδημοῦντας (οὐ γὰρ ᾔδειν), ἑτέρους δὲ οὐκ ἔνδον ὄντας κατέλαβον, οὓς δ’ οἷός τε ἦν λαβὼν ἐβάδιζον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 42",
+      "text": "καίτοιγε εἰ προῄδειν, οὐκ ἂν δοκῶ ὑμῖν καὶ θεράποντας παρασκευάσασθαι καὶ τοῖς φίλοις παραγγεῖλαι, ἵν’ ὡς ἀσφαλέστατα μὲν αὐτὸς εἰσῄειν (τί γὰρ ᾔδειν εἴ τι κἀκεῖνος εἶχε σιδήριον;), ὡς μετὰ πλείστων δὲ μαρτύρων τὴν τιμωρίαν ἐποιούμην; νῦν δ’ οὐδὲν εἰδὼς τῶν ἐσομένων ἐκείνῃ τῇ νυκτί, οὓς οἷός τε ἦν παρέλαβον. Καί μοι ἀνάβητε τούτων μάρτυρες. ΜΑΡΤΥΡΕΣ Τῶν μὲν μαρτύρων ἀκηκόατε, ὦ ἄνδρες· σκέψασθε δὲ παρ’ ὑμῖν αὐτοῖς οὕτως περὶ τούτου τοῦ πράγματος, ζητοῦντες εἴ τις ἐμοὶ καὶ Ἐρατοσθένει ἔχθρα πώποτε γεγένηται πλὴν ταύτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 44",
+      "text": "οὐδεμίαν γὰρ εὑρήσετε. οὔτε γὰρ συκοφαντῶν γραφάς με ἐγράψατο, οὔτε ἐκβάλλειν ἐκ τῆς πόλεως ἐπεχείρησεν, οὔτε ἰδίας δίκας ἐδικάζετο, οὔτε συνῄδει κακὸν οὐδὲν ὃ ἐγὼ δεδιὼς μή τις πύθηται ἐπεθύμουν αὐτὸν ἀπολέσαι, οὔτε εἰ ταῦτα διαπραξαίμην, ἤλπιζόν ποθεν χρήματα λήψεσθαι· ἔνιοι γὰρ τοιούτων πραγμάτων ἕνεκα θάνατον ἀλλήλοις ἐπιβουλεύουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 45",
+      "text": "τοσούτου τοίνυν δεῖ ἢ λοιδορία ἢ παροινία ἢ ἄλλη τις διαφορὰ ἡμῖν γεγονέναι, ὥστε οὐδὲ ἑωρακὼς ἦν τὸν ἄνθρωπον πώποτε πλὴν ἐν ἐκείνῃ τῇ νυκτί. τί ἂν οὖν βουλόμενος ἐγὼ τοιοῦτον κίνδυνον ἐκινδύνευον, εἰ μὴ τὸ μέγιστον τῶν ἀδικημάτων ἦν ὑπ’ αὐτοῦ ἠδικημένος; ἔπειτα παρακαλέσας αὐτὸς μάρτυρας ἠσέβουν, ἐξόν μοι, εἴπερ ἀδίκως ἐπεθύμουν αὐτὸν ἀπολέσαι, μηδένα μοι τούτων συνειδέναι; Ἐγὼ μὲν οὖν, ὦ ἄνδρες, οὐκ ἰδίαν ὑπὲρ ἐμαυτοῦ νομίζω ταύτην γενέσθαι τὴν τιμωρίαν, ἀλλ’ ὑπὲρ τῆς πόλεως ἁπάσης· οἱ γὰρ τὰ τοιαῦτα πράττοντες, ὁρῶντες οἷα τὰ ἆθλα πρόκειται τῶν τοιούτων ἁμαρτημάτων, ἧττον εἰς τοὺς ἄλλους ἐξαμαρτήσονται, ἐὰν καὶ ὑμᾶς ὁρῶσι τὴν αὐτὴν γνώμην ἔχοντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 48",
+      "text": "εἰ δὲ μή, πολὺ κάλλιον τοὺς μὲν κειμένους νόμους ἐξαλεῖψαι, ἑτέρους δὲ θεῖναι, οἵτινες τοὺς μὲν φυλάττοντας τὰς ἑαυτῶν γυναῖκας ταῖς ζημίαις ζημιώσουσι, τοῖς δὲ βουλομένοις εἰς αὐτὰς ἁμαρτάνειν πολλὴν ἄδειαν ποιήσουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 49",
+      "text": "πολὺ γὰρ οὕτω δικαιότερον ἢ ὑπὸ τῶν νόμων τοὺς πολίτας ἐνεδρεύεσθαι, οἳ κελεύουσι μέν, ἐάν τις μοιχὸν λάβῃ, ὅ τι ἂν οὖν βούληται χρῆσθαι, οἱ δ’ ἀγῶνες δεινότεροι τοῖς ἀδικουμένοις καθεστήκασιν ἢ τοῖς παρὰ τοὺς νόμους τὰς ἀλλοτρίας καταισχύνουσι γυναῖκας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or1 50",
+      "text": "ἐγὼ γὰρ νῦν καὶ περὶ τοῦ σώματος καὶ περὶ τῶν χρημάτων καὶ περὶ τῶν ἄλλων ἁπάντων κινδυνεύω, ὅτι τοῖς τῆς πόλεως νόμοις ἐπειθόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ejc-ah",
+      "title": {
+        "english": "Accusatithe Companions of Slander",
+        "ancient_greek": "κατηγορία πρὸς τοὺς συνουσιαστὰς κακολογιῶν"
+      },
+      "url_slug": "lysias-accusation-companions-ejc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/accusation-companions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ar",
+      "title": {
+        "english": "Against Agoratus for Informing",
+        "ancient_greek": "κατὰ Ἀγοράτου ἐνδείξεως"
+      },
+      "url_slug": "lysias-agoratus-ejc-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/agoratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-aq",
+      "title": {
+        "english": "Against Alcibiades for Desertion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου λιποταξίου"
+      },
+      "url_slug": "lysias-against-alcibiades-aq-ejc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-aj",
+      "title": {
+        "english": "Against Alcibiades for Military Evasion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου ἀστρατείας"
+      },
+      "url_slug": "lysias-against-alcibiades-aj-ejc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-au",
+      "title": {
+        "english": "Against Andocides for Impiety",
+        "ancient_greek": "κατ᾽ Ἀνδοκίδου ἀσεβείας"
+      },
+      "url_slug": "lysias-against-andocides-ejc-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-andocides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bd",
+      "title": {
+        "english": "Against Diogeiton",
+        "ancient_greek": "κατὰ Διογείτονος"
+      },
+      "url_slug": "lysias-against-diogeiton-ejc-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-diogeiton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ac",
+      "title": {
+        "english": "Against Epicrates and Co-Envoys, Epilogue As Theodorus",
+        "ancient_greek": "κατὰ Ἐπικράτους καὶ τῶν συμπρεσβευτῶν ἐπίλογος"
+      },
+      "url_slug": "lysias-against-epicrates-envoys-ejc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-epicrates-envoys",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ap",
+      "title": {
+        "english": "Against Eratosthenes of the Thirty",
+        "ancient_greek": "κατὰ Ερατοσθένους τοῦ γενομένου τῶν τριάκοντα,"
+      },
+      "url_slug": "lysias-against-eratosthenes-ejc-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-az",
+      "title": {
+        "english": "Against Ergocles, Epilogue",
+        "ancient_greek": "κατὰ Ἐργοκλέους ἐπίλογος"
+      },
+      "url_slug": "lysias-against-ergocles-ejc-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-ergocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ai",
+      "title": {
+        "english": "Against Nicomachus Secretary-Accounts",
+        "ancient_greek": "κατὰ Νικομάχου γραμματέως εὐθυνῶν κατηγορία"
+      },
+      "url_slug": "lysias-against-nicomachus-ejc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-nicomachus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-an",
+      "title": {
+        "english": "Against Pancleon Not Being Plataean",
+        "ancient_greek": "κατὰ Παγκλέωνος ὅτι οὐκ ἦν Πλαταιεύς"
+      },
+      "url_slug": "lysias-against-pancleon-ejc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-pancleon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ax",
+      "title": {
+        "english": "Against Philo-Examination",
+        "ancient_greek": "κατὰ Φίλωνος δοκιμασίας"
+      },
+      "url_slug": "lysias-against-philo-ejc-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-philo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qwm-aj",
+      "title": {
+        "english": "Allied B. To Thebans-the Alliance",
+        "ancient_greek": "Συμμαχικὸς Β."
+      },
+      "url_slug": "aristides-the-orator-alliance-thebans-qwm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/alliance-thebans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.json"
+      }
+    },
+    {
+      "eul_wid": "fci-aa",
+      "title": {
+        "english": "Defense for Euxenippus' Impeachment to Polyeuctus",
+        "ancient_greek": "Ὑπὲρ Εὐξενίππου ἐισαγγελίας ἀπολογία πρὸς"
+      },
+      "url_slug": "hypereides-the-orator-euxenippus-defense-fci-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypereides-the-orator/euxenippus-defense",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/euxenippus-defense.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/euxenippus-defense.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/euxenippus-defense.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/euxenippus-defense.json"
+      }
+    },
+    {
+      "eul_wid": "ria-ad",
+      "title": {
+        "english": "Excerpts",
+        "ancient_greek": "Ἀποσπασμάτια"
+      },
+      "url_slug": "aelian-of-praeneste-excerpts-ria-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-av",
+      "title": {
+        "english": "On the Affairs in Chersonese",
+        "ancient_greek": "περὶ τῶν ἐν Χερρονήσῳ"
+      },
+      "url_slug": "demosthenes-of-athens-chersonese-affairs-fsm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/chersonese-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/chersonese-affairs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/chersonese-affairs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/chersonese-affairs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/chersonese-affairs.json"
+      }
+    },
+    {
+      "eul_wid": "hbm-ac",
+      "title": {
+        "english": "On the Embassy",
+        "ancient_greek": "Περὶ τῆς παραπρεσβείας"
+      },
+      "url_slug": "aeschines-of-athens-embassy-hbm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/embassy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.json"
+      }
+    },
+    {
+      "eul_wid": "ueq-ab",
+      "title": {
+        "english": "Preliminary Exercises (Complete)",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-ab-ueq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-cc",
+      "title": {
+        "english": "Rhodian",
+        "ancient_greek": "Ῥοδιακός"
+      },
+      "url_slug": "aristides-the-orator-rhodes-qwm-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bi",
+      "title": {
+        "english": "Sacred Words Sixth",
+        "ancient_greek": "Ἱεροὶ λόγοι ἕκτος"
+      },
+      "url_slug": "aristides-the-orator-sacred-words-bi-qwm-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/sacred-words-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lysias/defense-murder-eratosthenes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

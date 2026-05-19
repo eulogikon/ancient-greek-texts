@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rye-bk",
+  "eul_aid": "rye",
+  "author_slug": "themistius",
+  "work_slug": "prudence",
+  "url_slug": "themistius-prudence-rye-bk",
+  "author": {
+    "english": "Themistius the Philosopher",
+    "ancient_greek": "Θεμίστιος ὁ Εὐφραδής"
+  },
+  "title": {
+    "english": "On Prudence",
+    "ancient_greek": "Περὶ φρονήσεως"
+  },
+  "seo": {
+    "browser_title": "On Prudence by Themistius the Philosopher on Eulogikon",
+    "meta_title": "On Prudence by Themistius the Philosopher in Greek",
+    "meta_description": "Themistius explores prudence as the practical wisdom essential for virtuous living and sound judgment in human Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Prudence is a philosophical treatise by the fourth-century rhetorician and philosopher Themistius. The work examines the Aristotelian virtue of phronēsis, or practical wisdom, and is structured in five passages. It is not among Themistius’s major surviving works and appears to be lost or fragmentary, known primarily by title or through limited references. The treatise is an oration analyzing phronēsis as defined in Aristotle’s Nicomachean Ethics. Themistius’s approach typically involved clarifying and defending Aristotelian doctrines against contemporary Platonist interpretations. Its themes likely encompass Aristotelian virtue ethics, focusing on deliberation for a flourishing life, philosophical exegesis of Aristotle’s concepts, and the application of practical wisdom to political and ethical action, reflecting Themistius’s own public career. The text is not listed among Themistius’s extant works, which consist chiefly of his Orations and Paraphrases of Aristotle. The detail regarding its five passages suggests it may be known through excerpts preserved by other authors, though this is not confirmed in standard sources. While the work’s direct influence is untraceable, Themistius’s corpus was instrumental in transmitting Aristotelian thought to later traditions. A treatise on phronēsis would have contributed to late antique discourse on virtue ethics and the role of practical wisdom in governance.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "FRAGMENTUM ΠΕΡΙ ΦΡΟΝΗΣΕΩΣ ******** φρονοῦσα ὑπὲρ ὧν λέγει, καὶ οὐδεμίαν ὑπόθεσιν ποιουμένη, ἣν οὐ μᾶλλον γινώσκει τῶν ἐφεξῆς· ἀλλὰ καὶ ἃς ἐκεῖναι δι’ ἀδυναμίαν ἀπίστους ἐῶσι, κινοῦσα καὶ περικρούουσα ἐκκαθαίρει καὶ βεβαιοῦται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "299 d",
+      "text": "εὖ οὖν λέγεται ἐπιστήμη εἶναι ἐπιστημῶν, ὅτι τὰ πείσματα αὐτῶν ἐνθένδε ἐξῆπται καὶ ὅτι ἀρχιτέκτων οὖσα αὐταῖς ἐπιστατεῖ καὶ ὑφηγεῖται ᾗ μετιέναι χρὴ ἕκαστον τῶν προβλημάτων, οὐχ ὅτι αὐτὴ προὔργου ποιεῖται ἐνδιαιτᾶσθαι ταῖς γωνίαις οὐδὲ ἐντετηκέναι τοῖς ἀριθμοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "300 a",
+      "text": "πρὸς δὲ δὴ τὰς τέχνας καὶ βασιλικωτέρα αὐτῆς ἡ ἐπιτροπεία τε καὶ ἐξουσία, καὶ βούλεται οἷον ὑψόθεν ὁρῶσα χαμαὶ ἐρχομένας γνωματεύειν ἑκάστην καὶ ἐξετάζειν εἴτε ὠφέλιμος ὀρθῇ πολιτείᾳ εἴτε βλαβερὰ καὶ ἀκροσφαλής, καὶ ἥντινα μὲν ὅλην παραδεκτέον ὡς ὑγιῆ, ἥντινα δὲ αὖ παντάπασιν ἐξοριστέον ὡς αἶσχος πόλεως ἐν τοῖς ἀρρωστήμασι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "300 b",
+      "text": "τῷ γὰρ ὄντι ἅπασα τέχνη τὰ μὲν ὑφ’ ἑαυτῇ τεταγμένα χειρουργεῖν ἱκανὴ καὶ πᾶσι σκευάζειν τοῖς δεομένοις, ἑαυτὴν δὲ οὐχ οἵα τε ἐξετάζειν ἄχρι τοῦ ὠφέλιμος ἢ ἐπιβλαβής. ἀλλὰ καὶ τοῦτο τῶν τεχνῶν πονηρὸν καὶ ἐνδεές, ὅτι ὁμοίως μὲν ἀγαθοῖς, ὁμοίως δὲ φαύλοις ὑπηρετοῦσι τὰ σφέτερα ἔργα· καὶ οὔτε ὁ μαχαιροποιὸς δοκιμάζειν ἔχει εἰ ἀνδροφόνῳ τὴν μάχαιραν ἀποδώσεται οὔτε ὁ ναυπηγὸς εἰ ἅρπαγι ναυπηγήσεται, ὥσπερ τῷ Πάριδι Ἁρμονίδης, οὔτε ὁ κυβερνήτης εἰ σώζει ἐν τῷ πλῷ ὃν καὶ βαπτίσαι ἄμεινον ἦν. εἰ δὲ καὶ φρόνησις καὶ σοφία τὰ ἔργα αὐτῶν ἀπευθύνοι καὶ διατάττοι, καὶ τοῦτο αὐτῶν τὸ ἔλλειμμα ἐξιάσεται καὶ οὐ συγχωρήσει ὥσπερ τυφλοῖς προτείνειν τὰ δημιουργήματα τοῖς ἀπαντῶσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "300 c",
+      "text": "τοῦτ’ οὖν ἐστιν ὃ λέγει ὁ λόγος, ἐπιστήμην εἶναι ἐπιστημῶν καὶ τέχνην τεχνῶν, ὅτι τῶν μὲν τὰς ἀρχὰς βεβαιοῦται, τῶν δὲ ἐξετάζει τὴν χρείαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rye-bb",
+      "title": {
+        "english": "Consular to Emperor Jovian",
+        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+      },
+      "url_slug": "themistius-consular-jovian-rye-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.json"
+      }
+    },
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bd",
+      "title": {
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
+      },
+      "url_slug": "themistius-discourse-the-word-rye-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ay",
+      "title": {
+        "english": "Embassy to Emperor Theodosius",
+        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
+      },
+      "url_slug": "themistius-embassy-theodosius-rye-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ac",
+      "title": {
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+      },
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-constantinople-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bi",
+      "title": {
+        "english": "Epitaph-the Father",
+        "ancient_greek": "Ἐπιτάφιος ἐπὶ τῷ πατρί"
+      },
+      "url_slug": "themistius-epitaph-father-rye-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/epitaph-father",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bc",
+      "title": {
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+      },
+      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.json"
+      }
+    },
+    {
+      "eul_wid": "rye-al",
+      "title": {
+        "english": "Exhortation to Nicomedians-Philosophy",
+        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+      },
+      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-nicomedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.json"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.json"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/moderate-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/physics-paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "udm-am",
+      "title": {
+        "english": "Commentary-Plato's Parmenides",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Παρμενίδην"
+      },
+      "url_slug": "porphyry-of-tyre-plato-parmenides-commentary-udm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/plato-parmenides-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "qhm-aa",
+      "title": {
+        "english": "Introduction to the Dialogues of Plato",
+        "ancient_greek": "Εἰσαγογὴ εἰς τοὺς Πλάτωνος διαλόγους"
+      },
+      "url_slug": "albinus-the-platonist-plato-dialogues-intro-qhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/albinus-the-platonist/plato-dialogues-intro",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-dialogues-intro.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-dialogues-intro.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-dialogues-intro.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-dialogues-intro.json"
+      }
+    },
+    {
+      "eul_wid": "ljk-as",
+      "title": {
+        "english": "On Toils",
+        "ancient_greek": "Περὶ Πόνων"
+      },
+      "url_slug": "theophrastus-of-eresus-toils-ljk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/toils",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/toils.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/toils.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/toils.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/toils.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ay",
+      "title": {
+        "english": "On the Migration of Abraham",
+        "ancient_greek": "Περὶ τῆς μεταναστεύσεως τοῦ Ἀβραάμ"
+      },
+      "url_slug": "philo-of-alexandria-migration-abraham-lgi-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/migration-abraham",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/migration-abraham.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/migration-abraham.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/migration-abraham.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/migration-abraham.json"
+      }
+    },
+    {
+      "eul_wid": "reo-ak",
+      "title": {
+        "english": "On the Soul",
+        "ancient_greek": "Περὶ Ψυχῆς"
+      },
+      "url_slug": "alexander-of-aphrodisias-soul-reo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/soul.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/soul.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/soul.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/soul.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-cc",
+      "title": {
+        "english": "Physics",
+        "ancient_greek": "Φυσικὴ Ἀκρόασις"
+      },
+      "url_slug": "aristotle-physics-hgw-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/physics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/physics.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ab",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.json"
+      }
+    },
+    {
+      "eul_wid": "niy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "boidas-the-philologist-testimony-niy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boidas-the-philologist/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/themistius/prudence",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/prudence.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/prudence.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/prudence.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/prudence.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

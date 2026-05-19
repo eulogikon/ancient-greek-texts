@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "buo-ag",
+  "eul_aid": "buo",
+  "author_slug": "sophocles",
+  "work_slug": "hymn-dionysus",
+  "url_slug": "sophocles-hymn-dionysus-buo-ag",
+  "author": {
+    "english": "Sophocles",
+    "ancient_greek": "Σοφοκλῆς"
+  },
+  "title": {
+    "english": "Hymn to Dionysus Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Hymn to Dionysus Fragments by Sophocles on Eulogikon",
+    "meta_title": "Ancient Hymn to Dionysus Fragments by Sophocles in Greek",
+    "meta_description": "Surviving fragments of the Hymn to Dionysus, a choral lyric by Sophocles from Greek drama. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Hymn to Dionysus</strong> is a lost choral lyric composition by the Athenian tragedian Sophocles, known today only through five fragmentary passages preserved in the works of later Greek authors. The most substantial of these, designated Fragment 959, contains an invocation to the god that describes his mythological birth from Semele at Thebes and celebrates his dual associations with ecstatic revelry and oracular wisdom at Delphi. The text employs traditional hymnic language and prayerful formulas, suggesting a ritual or performative context for its original use. The remaining four fragments are brief citations preserved primarily for their rare or noteworthy vocabulary by lexicographers and anthologists. The hymn survives entirely through this indirect transmission, with fragments cited by such figures as the rhetorician Aelius Aristides, the anthologist Stobaeus, and the lexicographers Hesychius and the <strong>Etymologicum Magnum</strong>; they are standardly collected in modern editions of the tragic fragments. Although its fragmentary condition precludes a full assessment, the hymn&#x27;s quotation by significant later authors indicates it was regarded as a respected example of Sophoclean lyric poetry. It attests to the tragedian&#x27;s compositional range beyond dramatic works and constitutes a notable contribution to the corpus of ancient Greek hymnic literature dedicated to Dionysus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1a",
+      "text": "κλυτομήτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1b,i.1",
+      "text": "(ὦ) Φλεγύα] κούρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1b,i.2",
+      "text": "περιώνυμε μᾶτερ ἀλεξιπό[ν]ο[ιο] θεοῦ ₍.₎....].ς ἀκειρεκόμας.[.]ενάρξομα̣ι̣ [ὕμ]νον ἐγερσιβόαν ₍.₎.....]νεσι[.]ευεπ.[....].[...].[.]αν[...]οβοα [ ]συρίγμασι μιγνύ̣[μεν]ον[ln_5][]σι Κεκροπιδῶν [ἐπ]ιτάρροθον []. μόλοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1b,i.3",
+      "text": "τον[.....]κομα[ []ν αὐτον̣[ ] [] [][ln_10][Ὀλύ]μπιον[ln_11-16](desunt vv. 6)[ln_17][]τερα ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1b,ii",
+      "text": "...[ln_1]..[ πο[ εμ[ λυρ[[ln_5]ειλ[ κα̣τ̣[ δ[ ε[ ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "buo-aa",
+      "title": {
+        "english": "Ajax The Whip-Bearer",
+        "ancient_greek": "Αἴας"
+      },
+      "url_slug": "sophocles-ajax-whip-bearer-buo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/ajax-whip-bearer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ajax-whip-bearer.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ajax-whip-bearer.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ajax-whip-bearer.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ajax-whip-bearer.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ah",
+      "title": {
+        "english": "Antigone",
+        "ancient_greek": "Ἀντιγόνη"
+      },
+      "url_slug": "sophocles-antigone-buo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/antigone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/antigone.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/antigone.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/antigone.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/antigone.json"
+      }
+    },
+    {
+      "eul_wid": "buo-aj",
+      "title": {
+        "english": "Electra",
+        "ancient_greek": "Ἠλέκτρα"
+      },
+      "url_slug": "sophocles-electra-buo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/electra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/electra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/electra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/electra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/electra.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ac",
+      "title": {
+        "english": "Oedipus at Colonus",
+        "ancient_greek": "Οἰδίπους ἐπὶ Κολωνῷ"
+      },
+      "url_slug": "sophocles-oedipus-colonus-buo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/oedipus-colonus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ad",
+      "title": {
+        "english": "Oedipus the King",
+        "ancient_greek": "Οἰδίπους Τύραννος"
+      },
+      "url_slug": "sophocles-oedipus-king-buo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/oedipus-king",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-king.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-king.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-king.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-king.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ae",
+      "title": {
+        "english": "Philoctetes",
+        "ancient_greek": "Φιλοκτήτης"
+      },
+      "url_slug": "sophocles-philoctetes-buo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/philoctetes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.json"
+      }
+    },
+    {
+      "eul_wid": "buo-af",
+      "title": {
+        "english": "Sophocles on Euripides and Love",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sophocles-euripides-love-buo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/euripides-love",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/euripides-love.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/euripides-love.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/euripides-love.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/euripides-love.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ai",
+      "title": {
+        "english": "Trackers",
+        "ancient_greek": "Ἰχνευταί"
+      },
+      "url_slug": "sophocles-ichneutae-buo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/ichneutae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ab",
+      "title": {
+        "english": "Women of Trachis",
+        "ancient_greek": "Τραχίνιαι"
+      },
+      "url_slug": "sophocles-women-of-trachis-buo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/women-of-trachis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ifw-aa",
+      "title": {
+        "english": "Alexandra",
+        "ancient_greek": "Ἀλεξάνδρα"
+      },
+      "url_slug": "lycophron-of-chalcis-alexandra-ifw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lycophron-of-chalcis/alexandra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ax",
+      "title": {
+        "english": "Electra",
+        "ancient_greek": "Ἠλέκτρα"
+      },
+      "url_slug": "euripides-electra-cbm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/electra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.json"
+      }
+    },
+    {
+      "eul_wid": "dha-aa",
+      "title": {
+        "english": "Fragments on Athletes and Satyrs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀθλητῶν καὶ Σατύρων"
+      },
+      "url_slug": "achaios-of-eretria-athletes-satyrs-dha-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/achaios-of-eretria/athletes-satyrs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria/athletes-satyrs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria/athletes-satyrs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria/athletes-satyrs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/achaios-of-eretria/athletes-satyrs.json"
+      }
+    },
+    {
+      "eul_wid": "cjy-aa",
+      "title": {
+        "english": "Fragments on Foreign Rites",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ξένων Ἱερῶν"
+      },
+      "url_slug": "diogenes-of-athens-foreign-rites-cjy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-athens/foreign-rites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ao",
+      "title": {
+        "english": "Fragments on Hector and Cassandra",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἕκτορος καὶ Κασσάνδρας"
+      },
+      "url_slug": "euripides-hector-cassandra-cbm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hector-cassandra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ah",
+      "title": {
+        "english": "Heracleidae",
+        "ancient_greek": "Ἡρακλεῖδαι"
+      },
+      "url_slug": "euripides-heraclidae-cbm-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/heraclidae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/heraclidae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/heraclidae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/heraclidae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/heraclidae.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-az",
+      "title": {
+        "english": "Phrixus",
+        "ancient_greek": "Φρίξος"
+      },
+      "url_slug": "euripides-phrixus-cbm-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phrixus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ab",
+      "title": {
+        "english": "Victory Ode-Alcibiades",
+        "ancient_greek": "Νικητήριος ᾠδὴ ἐπὶ Ἀλκιβιάδῃ"
+      },
+      "url_slug": "euripides-victory-ode-alcibiades-cbm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/victory-ode-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/victory-ode-alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/victory-ode-alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/victory-ode-alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/victory-ode-alcibiades.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/sophocles/hymn-dionysus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

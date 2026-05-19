@@ -1,0 +1,369 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lpe-ad",
+  "eul_aid": "lpe",
+  "author_slug": "philemon-syracusius",
+  "work_slug": "comic-fragments",
+  "url_slug": "philemon-syracusius-comic-fragments-lpe-ad",
+  "author": {
+    "english": "Philemon Syracusius",
+    "ancient_greek": "Φίλημων ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Comic Fragments on Aristomedes",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀριστομέδους Κωμικά"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments on Aristomedes Philemon Syracusius eulogikon",
+    "meta_title": "Comic Fragments Aristomedes Philem Syracusius in Greek",
+    "meta_description": "Comic fragments about Aristomedes by Philemon Syracusius. Surviving verses from ancient Greek comedy. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Aristomedes consist of eighteen fragmentary passages from a comedy, or comedies, by the Middle Comic poet Philemon Syracusius. These fragments are preserved exclusively within the <strong>Deipnosophistae</strong> of Athenaeus of Naucratis, a compendium of dining lore from the second or third century CE, where they are cited for their references to ancient dining customs and specific foods. The extant lines mention a figure named Aristomedes in contexts that illustrate gastronomic excess, such as the consumption of sow’s womb and allusions to Sybaritic luxury, as well as references to specific foodstuffs including a type of bread or cake. While the identity of Aristomedes remains uncertain, he likely served as a subject for social satire targeting gluttony and decadence, a focus consistent with the broader thematic shift in Middle Comedy from political commentary to domestic and moral themes. The fragments survive solely through this indirect quotation in Athenaeus; there is no independent manuscript tradition for Philemon’s plays. They are collected in the modern standard edition, <strong>Poetae Comici Graeci</strong>. As such, these fragments contribute to the scholarly reconstruction of Middle Comedy, representing the genre’s transitional phase, while their preservation by Athenaeus provides valuable incidental evidence for the study of ancient Greek gastronomy and daily life.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 206.1",
+      "text": "κ(αὶ) οἱ κωμικοὶ δ’ αὐτοῦ (sc. Ἀριcτομήδουc Ἀθηναίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.2",
+      "text": "τοῦ Χαλκοῦ λε‐[ln_n2]γομένου) μνη|μονεύουcι καθάπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.3",
+      "text": "Φιλήμων μ(ὲν) ἐν Λι|θ[ο]γλύφωι·[ln_1]πρὸc τῶι μυροπωλίωι γὰρ ἀν|θρώπων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.4",
+      "text": "τινῶν ἤκουcα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.5",
+      "text": "Χαλκοῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.6",
+      "text": "περιπα|τεῖν κλέπτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.7",
+      "text": "τινά· ἄπειροc ὢν δὲ τοῦ λε|γομ(έν)ου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.8",
+      "text": "πράγματο[c] Ἀριcτομήδην ἠρόμην | παριόνθ’ ὁρῶν.[ln_5]ὁ δ’ ἐνήλατ’ εὐθύc μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.9",
+      "text": "παρα|cτὰc τῶι cκ[έ]λει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.10",
+      "text": "παίει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.11",
+      "text": "τε λὰξ πύξ, ὥcτε μ’ | ἐκθανεῖν· ἐπεὶ μόλιc γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 206.12",
+      "text": "φεύγων ἐξέπεcον | ἄλληι λ̣ά̣[θρ]α̣[ln_7]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 212",
+      "text": "ΦΙΛ]Η̣ΜΟΝΟϹ[ln_10]ὡc ἡδὺ δούλοιc⸥ δεcπόταc χρηcτοὺc λαβεῖν καὶ δεcπόταιcι⸥ δοῦλον εὐμενῆ λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 213",
+      "text": "μαρτυρ[ε]ῖ δ’ αὐ|τῶι καὶ τοῦτ’ | εἰκότωc ὁ Φι|[λ]ήμων ἐν〉[τα]υθί· Εὐρι〉|[πί]δηc πού〉 | [φη]cιν, οὗτοc | [ὃc] μόνοc δύ|[να]ται λ[έ]γε[ιν[ln_3]— — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214.1",
+      "text": "]τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214.2",
+      "text": "τοῦτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214.3",
+      "text": "Φιλήμων εἰcά[γει ]ντα κτλ.[ln_37]ὑπερε[ κα]τ̣ατάccειν εἰc πᾶcαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214.4",
+      "text": "ποίηcι[ν ]ν̣α̣ι̣ο̣ν εἰcάγει καὶ Φιλ[ήμων[ln_40]]χρηcτόηθεc δοξ[ ]θεωροῦντα τὸν α[ κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lpe-ac",
+      "title": {
+        "english": "Fragments from a Comedy",
+        "ancient_greek": "Ἀποσπάσματα Κωμῳδίας"
+      },
+      "url_slug": "philemon-syracusius-comedy-fragments-lpe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/comedy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comedy-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-aa",
+      "title": {
+        "english": "On Human Nature and Solon's Law",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-human-nature-solon-law-lpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/human-nature-solon-law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ae",
+      "title": {
+        "english": "On Slavery and Human Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-slavery-nature-lpe-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/slavery-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ab",
+      "title": {
+        "english": "On Solon's Public Brothels",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-solon-brothels-lpe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/solon-brothels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gzy-ab",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.json"
+      }
+    },
+    {
+      "eul_wid": "jtw-ab",
+      "title": {
+        "english": "Culinary Artisan's Boast",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hegesippos-the-comic-poet-culinary-boast-jtw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesippos-the-comic-poet/culinary-boast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippos-the-comic-poet/culinary-boast.json"
+      }
+    },
+    {
+      "eul_wid": "djs-ab",
+      "title": {
+        "english": "Fragments of Comic Dialogues",
+        "ancient_greek": "Ἀποσπάσματα Κωμικῶν Διαλόγων"
+      },
+      "url_slug": "hermippus-the-comic-poet-comic-dialogues-djs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/comic-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/comic-dialogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/comic-dialogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/comic-dialogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/comic-dialogues.json"
+      }
+    },
+    {
+      "eul_wid": "dac-ab",
+      "title": {
+        "english": "Fragments of a Utopian Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐδαίμονος Δείπνου"
+      },
+      "url_slug": "crates-the-comic-poet-utopian-feast-dac-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/utopian-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.json"
+      }
+    },
+    {
+      "eul_wid": "gzo-aa",
+      "title": {
+        "english": "Fragments on Lydian Maidens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+      },
+      "url_slug": "autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.json"
+      }
+    },
+    {
+      "eul_wid": "daw-af",
+      "title": {
+        "english": "Marketplace and Domestic Scenes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-marketplace-domestic-daw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/marketplace-domestic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.json"
+      }
+    },
+    {
+      "eul_wid": "ilg-ab",
+      "title": {
+        "english": "On the Art of Cooking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sosipater-the-comic-poet-cooking-ilg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosipater-the-comic-poet/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philemon-syracusius/comic-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comic-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comic-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comic-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/comic-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

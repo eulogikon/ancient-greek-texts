@@ -1,0 +1,720 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ezq-am",
+  "eul_aid": "ezq",
+  "author_slug": "xenophon-of-athens",
+  "work_slug": "anabasis",
+  "url_slug": "xenophon-of-athens-anabasis-ezq-am",
+  "author": {
+    "english": "Xenophon of Athens",
+    "ancient_greek": "Ξενοφῶν ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Anabasis",
+    "ancient_greek": "Ἀνάβασις"
+  },
+  "seo": {
+    "browser_title": "The Anabasis by Xenophon of Athens on Eulogikon Archive",
+    "meta_title": "Classical Anabasis by Xenophon of Athens in Ancient Greek",
+    "meta_description": "Xenophon's Anabasis recounts expedition of Cyrus the Younger. A first-person historical account. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Xenophon&#x27;s <strong>Anabasis</strong> is a prose history composed around 370 BCE that chronicles the expedition of Cyrus the Younger against his brother, the Persian king Artaxerxes II, in 401 BCE, and the subsequent retreat of the Greek mercenary force that supported him. Written in clear Attic Greek, the narrative unfolds across seven books. It begins with the muster of Cyrus&#x27;s army at Sardis and its march into the heart of Mesopotamia, culminating in the Battle of Cunaxa, where Cyrus is killed and his cause collapses. The core of the work details the perilous journey of the leaderless Greek contingent, known as the Ten Thousand, as they fight their way north through hostile territories toward the Black Sea. Their arrival at the coast is memorably captured by the triumphant cry &quot;The sea! The sea!&quot; The account concludes with the army&#x27;s difficult passage along the coast, its brief service under a Thracian king, and its eventual dissolution as the survivors integrated into other military forces, notably those of Sparta.</p>\n<p class=\"research-text\">Though written decades after the events, the <strong>Anabasis</strong> functions on multiple levels: as a firsthand military memoir, a subtle defense of Xenophon&#x27;s own leadership during the retreat, and a treatise on effective command and discipline. Modern scholarship often interprets the work as promoting Panhellenic ideals, implicitly arguing for Greek military superiority and the feasibility of conquering the Persian Empire. It also offers profound reflections on survival, piety, and the clash of cultures. The text has survived in its complete form through a robust medieval manuscript tradition, aided by its enduring status as a primary model of classical Greek prose for students. Its gripping story of a disciplined army&#x27;s retreat from deep within a foreign empire exerted a significant influence on later historians and military thinkers, even informing the campaigns of Alexander the Great.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "Δαρείου καὶ Παρυσάτιδος γίγνονται παῖδες δύο, πρεσβύτερος μὲν Ἀρταξέρξης, νεώτερος δὲ Κῦρος· ἐπεὶ δὲ ἠσθένει Δαρεῖος καὶ ὑπώπτευε τελευτὴν τοῦ βίου, ἐβούλετο τὼ παῖδε ἀμφοτέρω παρεῖναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "ἐπεὶ δʼ ἐδόκει ἤδη πορεύεσθαι αὐτῷ ἄνω, τὴν μὲν πρόφασιν ἐποιεῖτο ὡς Πισίδας βουλόμενος ἐκβαλεῖν παντάπασιν ἐκ τῆς χώρας· καὶ ἁθροίζει ὡς ἐπὶ τούτους τό τε βαρβαρικὸν καὶ τὸ Ἑλληνικόν. ἐνταῦθα καὶ παραγγέλλει τῷ τε Κλεάρχῳ λαβόντι ἥκειν ὅσον ἦν αὐτῷ στράτευμα καὶ τῷ Ἀριστίππῳ συναλλαγέντι πρὸς τοὺς οἴκοι ἀποπέμψαι πρὸς ἑαυτὸν ὃ εἶχε στράτευμα· καὶ Ξενίᾳ τῷ Ἀρκάδι, ὃς αὐτῷ προειστήκει τοῦ ἐν ταῖς πόλεσι ξενικοῦ, ἥκειν παραγγέλλει λαβόντα τοὺς ἄλλους πλὴν ὁπόσοι ἱκανοὶ ἦσαν τὰς ἀκροπόλεις φυλάττειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "ἐνταῦθα ἔμεινεν ὁ Κῦρος καὶ ἡ στρατιὰ ἡμέρας εἴκοσιν· οἱ γὰρ στρατιῶται οὐκ ἔφασαν ἰέναι τοῦ πρόσω· ὑπώπτευον γὰρ ἤδη ἐπὶ βασιλέα ἰέναι· μισθωθῆναι δὲ οὐκ ἐπὶ τούτῳ ἔφασαν. πρῶτος δὲ Κλέαρχος τοὺς αὑτοῦ στρατιώτας ἐβιάζετο ἰέναι· οἱ δʼ αὐτόν τε ἔβαλλον καὶ τὰ ὑποζύγια τὰ ἐκείνου, ἐπεὶ ἄρξαιντο προϊέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "ἐντεῦθεν ἐξελαύνει σταθμοὺς δύο παρασάγγας δέκα ἐπὶ τὸν Ψάρον ποταμόν, οὗ ἦν τὸ εὖρος τρία πλέθρα. ἐντεῦθεν ἐξελαύνει σταθμὸν ἕνα παρασάγγας πέντε ἐπὶ τὸν Πύραμον ποταμόν, οὗ ἦν τὸ εὖρος στάδιον. ἐντεῦθεν ἐξελαύνει σταθμοὺς δύο παρασάγγας πεντεκαίδεκα εἰς Ἰσσούς, τῆς Κιλικίας ἐσχάτην πόλιν ἐπὶ τῇ θαλάττῃ οἰκουμένην, μεγάλην καὶ εὐδαίμονα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "ἐντεῦθεν ἐξελαύνει διὰ τῆς Ἀραβίας τὸν Εὐφράτην ποταμὸν ἐν δεξιᾷ ἔχων σταθμοὺς ἐρήμους πέντε παρασάγγας τριάκοντα καὶ πέντε. ἐν τούτῳ δὲ τῷ τόπῳ ἦν μὲν ἡ γῆ πεδίον ἅπαν ὁμαλὲς ὥσπερ θάλαττα, ἀψινθίου δὲ πλῆρες· εἰ δέ τι καὶ ἄλλο ἐνῆν ὕλης ἢ καλάμου, ἅπαντα ἦσαν εὐώδη ὥσπερ ἀρώματα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.6",
+      "text": "ἐντεῦθεν προϊόντων ἐφαίνετο ἴχνια ἵππων καὶ κόπρος· εἰκάζετο δʼ εἶναι ὁ στίβος ὡς δισχιλίων ἵππων. οὗτοι προϊόντες ἔκαιον καὶ χιλὸν καὶ εἴ τι ἄλλο χρήσιμον ἦν. Ὀρόντας δέ, Πέρσης ἀνήρ, γένει τε προσήκων βασιλεῖ καὶ τὰ πολέμια λεγόμενος ἐν τοῖς ἀρίστοις Περσῶν ἐπιβουλεύει Κύρῳ καὶ πρόσθεν πολεμήσας, καταλλαγεὶς δέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.7",
+      "text": "ἐντεῦθεν ἐξελαύνει διὰ τῆς Βαβυλωνίας σταθμοὺς τρεῖς παρασάγγας δώδεκα. ἐν δὲ τῷ τρίτῳ σταθμῷ Κῦρος ἐξέτασιν ποιεῖται τῶν Ἑλλήνων καὶ τῶν βαρβάρων ἐν τῷ πεδίῳ περὶ μέσας νύκτας· ἐδόκει γὰρ εἰς τὴν ἐπιοῦσαν ἕω ἥξειν βασιλέα σὺν τῷ στρατεύματι μαχούμενον· καὶ ἐκέλευε Κλέαρχον μὲν τοῦ δεξιοῦ κέρως ἡγεῖσθαι, Μένωνα δὲ τὸν Θετταλὸν τοῦ εὐωνύμου, αὐτὸς δὲ τοὺς ἑαυτοῦ διέταξε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.8",
+      "text": "καὶ ἤδη τε ἦν ἀμφὶ ἀγορὰν πλήθουσαν καὶ πλησίον ἦν ὁ σταθμὸς ἔνθα ἔμελλε καταλύειν, ἡνίκα Πατηγύας, ἀνὴρ Πέρσης τῶν ἀμφὶ Κῦρον χρηστός, προφαίνεται ἐλαύνων ἀνὰ κράτος ἱδροῦντι τῷ ἵππῳ, καὶ εὐθὺς πᾶσιν οἷς ἐνετύγχανεν ἐβόα καὶ βαρβαρικῶς καὶ ἑλληνικῶς ὅτι βασιλεὺς σὺν στρατεύματι πολλῷ προσέρχεται ὡς εἰς μάχην παρεσκευασμένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.9",
+      "text": "Κῦρος μὲν οὖν οὕτως ἐτελεύτησεν, ἀνὴρ ὢν Περσῶν τῶν μετὰ Κῦρον τὸν ἀρχαῖον γενομένων βασιλικώτατός τε καὶ ἄρχειν ἀξιώτατος, ὡς παρὰ πάντων ὁμολογεῖται τῶν Κύρου δοκούντων ἐν πείρᾳ γενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.10",
+      "text": "ἐνταῦθα δὴ Κύρου ἀποτέμνεται ἡ κεφαλὴ καὶ ἡ χεὶρ ἡ δεξιά. βασιλεὺς δὲ καὶ οἱ σὺν αὐτῷ διώκων εἰσπίπτει εἰς τὸ Κύρειον στρατόπεδον· καὶ οἱ μὲν μετὰ Ἀριαίου οὐκέτι ἵστανται, ἀλλὰ φεύγουσι διὰ τοῦ αὑτῶν στρατοπέδου εἰς τὸν σταθμὸν ἔνθεν ὡρμῶντο· τέτταρες δʼ ἐλέγοντο παρασάγγαι εἶναι τῆς ὁδοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "ὡς μὲν οὖν ἡθροίσθη Κύρῳ τὸ Ἑλληνικὸν ὅτε ἐπὶ τὸν ἀδελφὸν Ἀρταξέρξην ἐστρατεύετο, καὶ ὅσα ἐν τῇ ἀνόδῳ ἐπράχθη καὶ ὡς ἡ μάχη ἐγένετο καὶ ὡς Κῦρος ἐτελεύτησε καὶ ὡς ἐπὶ τὸ στρατόπεδον ἐλθόντες οἱ Ἕλληνες ἐκοιμήθησαν οἰόμενοι τὰ πάντα νικᾶν καὶ Κῦρον ζῆν, ἐν τῷ πρόσθεν λόγῳ δεδήλωται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "Φαλῖνος μὲν δὴ ᾤχετο καὶ οἱ σὺν αὐτῷ. οἱ δὲ παρὰ Ἀριαίου ἧκον Προκλῆς καὶ Χειρίσοφος· Μένων δὲ αὐτοῦ ἔμενε παρὰ Ἀριαίῳ· οὗτοι δὲ ἔλεγον ὅτι πολλοὺς φαίη Ἀριαῖος εἶναι Πέρσας ἑαυτοῦ βελτίους, οὓς οὐκ ἂν ἀνασχέσθαι αὐτοῦ βασιλεύοντος· ἀλλʼ εἰ βούλεσθε συναπιέναι, ἥκειν ἤδη κελεύει τῆς νυκτός. εἰ δὲ μή, αὔριον πρῲ ἀπιέναι φησίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "ὃ δὲ δὴ ἔγραψα ὅτι βασιλεὺς ἐξεπλάγη τῇ ἐφόδῳ, τῷδε δῆλον ἦν. τῇ μὲν γὰρ πρόσθεν ἡμέρᾳ πέμπων τὰ ὅπλα παραδιδόναι ἐκέλευε, τότε δὲ ἅμα ἡλίῳ ἀνατέλλοντι κήρυκας ἔπεμψε περὶ σπονδῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.4",
+      "text": "μετὰ ταῦτα περιέμενον Τισσαφέρνην οἵ τε Ἕλληνες καὶ ὁ Ἀριαῖος ἐγγὺς ἀλλήλων ἐστρατοπεδευμένοι ἡμέρας πλείους ἢ εἴκοσιν. ἐν δὲ ταύταις ἀφικνοῦνται πρὸς Ἀριαῖον καὶ οἱ ἀδελφοὶ καὶ οἱ ἄλλοι ἀναγκαῖοι καὶ πρὸς τοὺς σὺν ἐκείνῳ Περσῶν τινες, οἳ παρεθάρρυνόν τε καὶ δεξιὰς ἐνίοις παρὰ βασιλέως ἔφερον μὴ μνησικακήσειν βασιλέα αὐτοῖς τῆς σὺν Κύρῳ ἐπιστρατείας μηδὲ ἄλλου μηδενὸς τῶν παροιχομένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.5",
+      "text": "μετὰ ταῦτα ἀφικνοῦνται ἐπὶ τὸν Ζαπάταν ποταμόν, τὸ εὖρος τεττάρων πλέθρων. καὶ ἐνταῦθα ἔμειναν ἡμέρας τρεῖς· ἐν δὲ ταύταις ὑποψίαι μὲν ἦσαν, φανερὰ δὲ οὐδεμία ἐφαίνετο ἐπιβουλή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.6",
+      "text": "οἱ μὲν δὴ στρατηγοὶ οὕτω ληφθέντες ἀνήχθησαν ὡς βασιλέα καὶ ἀποτμηθέντες τὰς κεφαλὰς ἐτελεύτησαν, εἷς μὲν αὐτῶν Κλέαρχος ὁμολογουμένως ἐκ πάντων τῶν ἐμπείρως αὐτοῦ ἐχόντων δόξας γενέσθαι ἀνὴρ καὶ πολεμικὸς καὶ φιλοπόλεμος ἐσχάτως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "ὅσα μὲν δὴ ἐν τῇ Κύρου ἀναβάσει οἱ Ἕλληνες ἔπραξαν μέχρι τῆς μάχης, καὶ ὅσα ἐπεὶ Κῦρος ἐτελεύτησεν ἐγένετο ἀπιόντων τῶν Ἑλλήνων σὺν Τισσαφέρνει ἐν ταῖς σπονδαῖς, ἐν τῷ πρόσθεν λόγῳ δεδήλωται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.2",
+      "text": "ἐπεὶ δὲ ᾕρηντο, ἡμέρα τε σχεδὸν ὑπέφαινε καὶ εἰς τὸ μέσον ἧκον οἱ ἄρχοντες, καὶ ἔδοξεν αὐτοῖς προφυλακὰς καταστήσαντας συγκαλεῖν τοὺς στρατιώτας. ἐπεὶ δὲ καὶ οἱ ἄλλοι στρατιῶται συνῆλθον, ἀνέστη πρῶτος μὲν Χειρίσοφος ὁ Λακεδαιμόνιος καὶ ἔλεξεν ὧδε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.3",
+      "text": "τούτων λεχθέντων ἀνέστησαν καὶ ἀπελθόντες κατέκαιον τὰς ἁμάξας καὶ τὰς σκηνάς, τῶν δὲ περιττῶν ὅτου μὲν δέοιτό τις μετεδίδοσαν ἀλλήλοις, τὰ δὲ ἄλλα εἰς τὸ πῦρ ἐρρίπτουν. ταῦτα ποιήσαντες ἠριστοποιοῦντο. ἀριστοποιουμένων δὲ αὐτῶν ἔρχεται Μιθραδάτης σὺν ἱππεῦσιν ὡς τριάκοντα, καὶ καλεσάμενος τοὺς στρατηγοὺς εἰς ἐπήκοον λέγει ὧδε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.4",
+      "text": "μείναντες δὲ ταύτην τὴν ἡμέραν τῇ ἄλλῃ ἐπορεύοντο πρῳαίτερον ἀναστάντες· χαράδραν γὰρ ἔδει αὐτοὺς διαβῆναι ἐφʼ ᾗ ἐφοβοῦντο μὴ ἐπιθοῖντο αὐτοῖς διαβαίνουσιν οἱ πολέμιοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.5",
+      "text": "ἔνθα δὴ οἱ μὲν βάρβαροι στραφέντες ἔφευγον ᾗ ἕκαστος ἐδύνατο, οἱ δὲ Ἕλληνες εἶχον τὸ ἄκρον. οἱ δὲ ἀμφὶ Τισσαφέρνην καὶ Ἀριαῖον ἀποτραπόμενοι ἄλλην ὁδὸν ᾤχοντο. οἱ δὲ ἀμφὶ Χειρίσοφον καταβάντες ἐστρατοπεδεύοντο ἐν κώμῃ μεστῇ πολλῶν ἀγαθῶν. ἦσαν δὲ καὶ ἄλλαι κῶμαι πολλαὶ πλήρεις πολλῶν ἀγαθῶν ἐν τούτῳ τῷ πεδίῳ παρὰ τὸν Τίγρητα ποταμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.1",
+      "text": "ὅσα μὲν δὴ ἐν τῇ ἀναβάσει ἐγένετο μέχρι τῆς μάχης, καὶ ὅσα μετὰ τὴν μάχην ἐν ταῖς σπονδαῖς ἃς βασιλεὺς καὶ οἱ σὺν Κύρῳ ἀναβάντες Ἕλληνες ἐποιήσαντο, καὶ ὅσα παραβάντος τὰς σπονδὰς βασιλέως καὶ Τισσαφέρνους ἐπολεμήθη πρὸς τοὺς Ἕλληνας ἐπακολουθοῦντος τοῦ Περσικοῦ στρατεύματος, ἐν τῷ πρόσθεν λόγῳ δεδήλωται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.2",
+      "text": "καὶ ἦν μὲν δείλη, οἱ δʼ ἐκέλευον αὐτοὺς ἐμφαγόντας πορεύεσθαι. καὶ τὸν ἡγεμόνα δήσαντες παραδιδόασιν αὐτοῖς, καὶ συντίθενται τὴν μὲν νύκτα, ἢν λάβωσι τὸ ἄκρον, τὸ χωρίον φυλάττειν, ἅμα δὲ τῇ ἡμέρᾳ τῇ σάλπιγγι σημαίνειν· καὶ τοὺς μὲν ἄνω ὄντας ἰέναι ἐπὶ τοὺς κατέχοντας τὴν φανερὰν ἔκβασιν, αὐτοὶ δὲ συμβοηθήσειν ἐκβαίνοντες ὡς ἂν δύνωνται τάχιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.3",
+      "text": "ταύτην δʼ αὖ τὴν ἡμέραν ηὐλίσθησαν ἐν ταῖς κώμαις ταῖς ὑπὲρ τοῦ πεδίου παρὰ τὸν Κεντρίτην ποταμόν, εὖρος ὡς δίπλεθρον, ὃς ὁρίζει τὴν Ἀρμενίαν καὶ τὴν τῶν Καρδούχων χώραν. καὶ οἱ Ἕλληνες ἐνταῦθα ἀνέπνευσαν ἄσμενοι ἰδόντες πεδίον· ἀπεῖχε δὲ τῶν ὀρέων ὁ ποταμὸς ἓξ ἢ ἑπτὰ στάδια τῶν Καρδούχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.4",
+      "text": "ἐπεὶ δὲ διέβησαν, συνταξάμενοι ἀμφὶ μέσον ἡμέρας ἐπορεύθησαν διὰ τῆς Ἀρμενίας πεδίον ἅπαν καὶ λείους γηλόφους οὐ μεῖον ἢ πέντε παρασάγγας· οὐ γὰρ ἦσαν ἐγγὺς τοῦ ποταμοῦ κῶμαι διὰ τοὺς πολέμους τοὺς πρὸς τοὺς Καρδούχους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.5",
+      "text": "τῇ δʼ ὑστεραίᾳ ἐδόκει πορευτέον εἶναι ὅπῃ δύναιντο τάχιστα πρὶν ἢ συλλεγῆναι τὸ στράτευμα πάλιν καὶ καταλαβεῖν τὰ στενά. συσκευασάμενοι δʼ εὐθὺς ἐπορεύοντο διὰ χιόνος πολλῆς ἡγεμόνας ἔχοντες πολλούς· καὶ αὐθημερὸν ὑπερβαλόντες τὸ ἄκρον ἐφʼ ᾧ ἔμελλεν ἐπιτίθεσθαι Τιρίβαζος κατεστρατοπεδεύσαντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.6",
+      "text": "ἐπεὶ δʼ ἡμέρα ἦν ὀγδόη, τὸν μὲν ἡγεμόνα παραδίδωσι Χειρισόφῳ, τοὺς δὲ οἰκέτας καταλείπει τῷ κωμάρχῳ, πλὴν τοῦ υἱοῦ τοῦ ἄρτι ἡβάσκοντος· τοῦτον δὲ Πλεισθένει Ἀμφιπολίτῃ δίδωσι φυλάττειν, ὅπως εἰ καλῶς ἡγήσοιτο, ἔχων καὶ τοῦτον ἀπίοι. καὶ εἰς τὴν οἰκίαν αὐτοῦ εἰσεφόρησαν ὡς ἐδύναντο πλεῖστα, καὶ ἀναζεύξαντες ἐπορεύοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.7",
+      "text": "ἐκ δὲ τούτων ἐπορεύθησαν εἰς Ταόχους σταθμοὺς πέντε παρασάγγας τριάκοντα· καὶ τὰ ἐπιτήδεια ἐπέλειπε· χωρία γὰρ ᾤκουν ἰσχυρὰ οἱ Τάοχοι, ἐν οἷς καὶ τὰ ἐπιτήδεια ἅπαντα εἶχον ἀνακεκομισμένοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.8",
+      "text": "ἐντεῦθεν δʼ ἐπορεύθησαν οἱ Ἕλληνες διὰ Μακρώνων σταθμοὺς τρεῖς παρασάγγας δέκα. τῇ πρώτῃ δὲ ἡμέρᾳ ἀφίκοντο ἐπὶ τὸν ποταμὸν ὃς ὥριζε τὴν τῶν Μακρώνων καὶ τὴν τῶν Σκυθηνῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.1",
+      "text": "ὅσα μὲν δὴ ἐν τῇ ἀναβάσει τῇ μετὰ Κύρου ἔπραξαν οἱ Ἕλληνες, καὶ ἐν τῇ πορείᾳ τῇ μέχρι ἐπὶ θάλατταν τὴν ἐν τῷ Εὐξείνῳ Πόντῳ, καὶ ὡς εἰς Τραπεζοῦντα Ἑλληνίδα πόλιν ἀφίκοντο, καὶ ὡς ἀπέθυσαν ἃ εὔξαντο σωτήρια θύειν ἔνθα πρῶτον εἰς φιλίαν γῆν ἀφίκοντο, ἐν τῷ πρόσθεν λόγῳ δεδήλωται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.2",
+      "text": "ἐπεὶ δὲ τὰ ἐπιτήδεια οὐκέτι ἦν λαμβάνειν ὥστε ἀπαυθημερίζειν ἐπὶ τὸ στρατόπεδον, ἐκ τούτου λαβὼν Ξενοφῶν ἡγεμόνας τῶν Τραπεζουντίων ἐξάγει εἰς Δρίλας τὸ ἥμισυ τοῦ στρατεύματος, τὸ δὲ ἥμισυ κατέλιπε φυλάττειν τὸ στρατόπεδον· οἱ γὰρ Κόλχοι, ἅτε ἐκπεπτωκότες τῶν οἰκιῶν, πολλοὶ ἦσαν ἁθρόοι καὶ ὑπερεκάθηντο ἐπὶ τῶν ἄκρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.3",
+      "text": "ἐπεὶ δὲ οὔτε Χειρίσοφος ἧκεν οὔτε πλοῖα ἱκανὰ ἦν οὔτε τὰ ἐπιτήδεια ἦν λαμβάνειν ἔτι, ἐδόκει ἀπιτέον εἶναι. καὶ εἰς μὲν τὰ πλοῖα τούς τε ἀσθενοῦντας ἐνεβίβασαν καὶ τοὺς ὑπὲρ τετταράκοντα ἔτη καὶ παῖδας καὶ γυναῖκας καὶ τῶν σκευῶν ὅσα μὴ ἀνάγκη ἦν ἔχειν. καὶ Φιλήσιον καὶ Σοφαίνετον τοὺς πρεσβυτάτους τῶν στρατηγῶν εἰσβιβάσαντες τούτων ἐκέλευον ἐπιμελεῖσθαι· οἱ δὲ ἄλλοι ἐπορεύοντο· ἡ δὲ ὁδὸς ὡδοποιημένη ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.4",
+      "text": "ἐκ Κερασοῦντος δὲ κατὰ θάλατταν μὲν ἐκομίζοντο οἵπερ καὶ πρόσθεν, οἱ δὲ ἄλλοι κατὰ γῆν ἐπορεύοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.5",
+      "text": "διὰ ταύτης τῆς χώρας οἱ Ἕλληνες, διά τε τῆς πολεμίας καὶ τῆς φιλίας, ἐπορεύθησαν ὀκτὼ σταθμούς, καὶ ἀφικνοῦνται εἰς Χάλυβας. οὗτοι ὀλίγοι τε ἦσαν καὶ ὑπήκοοι τῶν Μοσσυνοίκων, καὶ ὁ βίος ἦν τοῖς πλείστοις αὐτῶν ἀπὸ σιδηρείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.6",
+      "text": "ταύτῃ μὲν τῇ ἡμέρᾳ τοῦτο τὸ τέλος ἐγένετο. τῇ δὲ ὑστεραίᾳ ξυνέλεξαν οἱ στρατηγοὶ τοὺς στρατιώτας. καὶ ἐδόκει αὐτοῖς περὶ τῆς λοιπῆς πορείας παρακαλέσαντας τοὺς Σινωπέας βουλεύεσθαι. εἴτε γὰρ πεζῇ δέοι πορεύεσθαι, χρήσιμοι ἂν ἐδόκουν εἶναι οἱ Σινωπεῖς· ἔμπειροι γὰρ ἦσαν τῆς Παφλαγονίας· εἴτε κατὰ θάλατταν, προσδεῖν ἐδόκει Σινωπέων· μόνοι γὰρ ἂν ἐδόκουν ἱκανοὶ εἶναι πλοῖα παρασχεῖν ἀρκοῦντα τῇ στρατιᾷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.7",
+      "text": "ταῦτα οὖν οἱ στρατιῶται ἀνεπύθοντο ταραττόμενα. καὶ ὁ Νέων λέγει ὡς Ξενοφῶν ἀναπεπεικὼς τοὺς ἄλλους στρατηγοὺς διανοεῖται ἄγειν τοὺς στρατιώτας ἐξαπατήσας πάλιν εἰς Φᾶσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.8",
+      "text": "ἔδοξε δὲ καὶ τοὺς στρατηγοὺς δίκην ὑποσχεῖν τοῦ παρεληλυθότος χρόνου. καὶ διδόντων Φιλήσιος μὲν ὦφλε καὶ Ξανθικλῆς τῆς φυλακῆς τῶν γαυλικῶν χρημάτων τὸ μείωμα εἴκοσι μνᾶς, Σοφαίνετος δέ, ὅτι αἱρεθεὶς κατημέλει, δέκα μνᾶς. Ξενοφῶντος δὲ κατηγόρησάν τινες φάσκοντες παίεσθαι ὑπʼ αὐτοῦ καὶ ὡς ὑβρίζοντος τὴν κατηγορίαν ἐποιοῦντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.1",
+      "text": "ἐκ τούτου δὲ ἐν τῇ διατριβῇ οἱ μὲν ἀπὸ τῆς ἀγορᾶς ἔζων, οἱ δὲ καὶ λῃζόμενοι ἐκ τῆς Παφλαγονίας. ἐκλώπευον δὲ καὶ οἱ Παφλαγόνες εὖ μάλα τοὺς ἀποσκεδαννυμένους, καὶ τῆς νυκτὸς τοὺς πρόσω σκηνοῦντας ἐπειρῶντο κακουργεῖν· καὶ πολεμικώτατα πρὸς ἀλλήλους εἶχον ἐκ τούτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.2",
+      "text": "ἐντεῦθεν τῇ ὑστεραίᾳ ἀναγόμενοι πνεύματι ἔπλεον καλῷ ἡμέρας δύο παρὰ γῆν. καὶ παραπλέοντες ἐθεώρουν τήν τε Ἰασονίαν ἀκτήν, ἔνθα ἡ Ἀργὼ λέγεται ὁρμίσασθαι, καὶ τῶν ποταμῶν τὰ στόματα, πρῶτον μὲν τοῦ Θερμώδοντος, ἔπειτα δὲ τοῦ Ἴριος, ἔπειτα δὲ τοῦ Ἅλυος, μετὰ τοῦτον τοῦ Παρθενίου· τοῦτον δὲ παραπλεύσαντες ἀφίκοντο εἰς Ἡράκλειαν πόλιν Ἑλληνίδα Μεγαρέων ἄποικον, οὖσαν δʼ ἐν τῇ Μαριανδυνῶν χώρᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.3",
+      "text": "ἔπραξαν δʼ αὐτῶν ἕκαστοι τάδε. οἱ μὲν Ἀρκάδες ὡς ἀπέβησαν νυκτὸς εἰς Κάλπης λιμένα, πορεύονται εἰς τὰς πρώτας κώμας, στάδια ἀπὸ θαλάττης ὡς τριάκοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.4",
+      "text": "ταύτην μὲν οὖν τὴν ἡμέραν αὐτοῦ ηὐλίζοντο ἐπὶ τοῦ αἰγιαλοῦ πρὸς τῷ λιμένι. τὸ δὲ χωρίον τοῦτο ὃ καλεῖται Κάλπης λιμὴν ἔστι μὲν ἐν τῇ Θρᾴκῃ τῇ ἐν τῇ Ἀσίᾳ· ἀρξαμένη δὲ ἡ Θρᾴκη αὕτη ἐστὶν ἀπὸ τοῦ στόματος τοῦ Πόντου μέχρι Ἡρακλείας ἐπὶ δεξιὰ εἰς τὸν Πόντον εἰσπλέοντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.5",
+      "text": "τὴν μὲν νύκτα οὕτω διήγαγον· ἅμα δὲ τῇ ἡμέρᾳ οἱ στρατηγοὶ εἰς τὸ ἐρυμνὸν χωρίον ἡγοῦντο· οἱ δὲ εἵποντο ἀναλαβόντες τὰ ὅπλα καὶ τὰ σκεύη. πρὶν δὲ ἀρίστου ὥραν εἶναι ἀπετάφρευον ᾗ ἡ εἴσοδος ἦν εἰς τὸ χωρίον, καὶ ἀπεσταύρωσαν ἅπαν, καταλιπόντες τρεῖς πύλας. καὶ πλοῖον ἐξ Ἡρακλείας ἧκεν ἄλφιτα ἄγον καὶ ἱερεῖα καὶ οἶνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.6",
+      "text": "ἐντεῦθεν οἱ μὲν πολέμιοι εἶχον ἀμφὶ τὰ ἑαυτῶν καὶ ἀπήγοντο καὶ τοὺς οἰκέτας καὶ τὰ χρήματα ὅποι ἐδύναντο προσωτάτω· οἱ δὲ Ἕλληνες προσέμενον μὲν Κλέανδρον καὶ τὰς τριήρεις καὶ τὰ πλοῖα ὡς ἥξοντα, ἐξιόντες δʼ ἑκάστης ἡμέρας σὺν τοῖς ὑποζυγίοις καὶ τοῖς ἀνδραπόδοις ἐφέροντο ἀδεῶς πυροὺς καὶ κριθάς, οἶνον, ὄσπρια, μελίνας, σῦκα· ἅπαντα γὰρ ἀγαθὰ εἶχεν ἡ χώρα πλὴν ἐλαίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.1",
+      "text": "ὅσα μὲν δὴ ἐν τῇ ἀναβάσει τῇ μετὰ Κύρου ἔπραξαν οἱ Ἕλληνες μέχρι τῆς μάχης, καὶ ὅσα ἐπεὶ Κῦρος ἐτελεύτησεν ἐν τῇ πορείᾳ μέχρι εἰς τὸν Πόντον ἀφίκοντο, καὶ ὅσα ἐκ τοῦ Πόντου πεζῇ ἐξιόντες καὶ ἐκπλέοντες ἐποίουν μέχρι ἔξω τοῦ στόματος ἐγένοντο ἐν Χρυσοπόλει τῆς Ἀσίας, ἐν τῷ πρόσθεν λόγῳ δεδήλωται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.2",
+      "text": "Νέων δὲ ὁ Ἀσιναῖος καὶ Φρυνίσκος ὁ Ἀχαιὸς καὶ Φιλήσιος ὁ Ἀχαιὸς καὶ Ξανθικλῆς ὁ Ἀχαιὸς καὶ Τιμασίων ὁ Δαρδανεὺς ἐπέμενον ἐπὶ τῇ στρατιᾷ, καὶ εἰς κώμας τῶν Θρᾳκῶν προελθόντες τὰς κατὰ Βυζάντιον ἐστρατοπεδεύοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.3",
+      "text": "ἀκούσαντες ταῦτα καὶ δεξιὰς δόντες καὶ λαβόντες ἀπήλαυνον· καὶ πρὸ ἡμέρας ἐγένοντο ἐπὶ στρατοπέδῳ καὶ ἀπήγγειλαν ἕκαστοι τοῖς πέμψασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.4",
+      "text": "τῇ δʼ ὑστεραίᾳ κατακαύσας ὁ Σεύθης τὰς κώμας παντελῶς καὶ οἰκίαν οὐδεμίαν λιπών, ὅπως φόβον ἐνθείη καὶ τοῖς ἄλλοις οἷα πείσονται, ἂν μὴ πείθωνται, ἀπῄει πάλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.5",
+      "text": "ὑπερβάλλουσι δὲ πρὸς τοὺς ὑπὲρ Βυζαντίου Θρᾷκας εἰς τὸ Δέλτα καλούμενον· αὕτη δʼ ἦν οὐκέτι ἀρχὴ Μαισάδου, ἀλλὰ Τήρους τοῦ Ὀδρύσου ἀρχαίου τινός .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.6",
+      "text": "ἐν τούτῳ τῷ χρόνῳ σχεδὸν ἤδη δύο μηνῶν ὄντων ἀφικνεῖται Χαρμῖνός τε ὁ Λάκων καὶ Πολύνικος παρὰ Θίβρωνος, καὶ λέγουσιν ὅτι Λακεδαιμονίοις δοκεῖ στρατεύεσθαι ἐπὶ Τισσαφέρνην, καὶ Θίβρων ἐκπέπλευκεν ὡς πολεμήσων, καὶ δεῖται ταύτης τῆς στρατιᾶς καὶ λέγει ὅτι δαρεικὸς ἑκάστῳ ἔσται μισθὸς τοῦ μηνός, καὶ τοῖς λοχαγοῖς διμοιρία, τοῖς δὲ στρατηγοῖς τετραμοιρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.7",
+      "text": "ἐντεῦθεν Σεύθης μὲν ἀπεστρατοπεδεύσατο προσωτέρω· οἱ δὲ Ἕλληνες ἐσκήνησαν εἰς κώμας ὅθεν ἔμελλον πλεῖστα ἐπισιτισάμενοι ἐπὶ θάλατταν ἥξειν. αἱ δὲ κῶμαι αὗται ἦσαν δεδομέναι ὑπὸ Σεύθου Μηδοσάδῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.8",
+      "text": "ἐντεῦθεν διέπλευσαν εἰς Λάμψακον, καὶ ἀπαντᾷ τῷ Ξενοφῶντι Εὐκλείδης μάντις Φλειάσιος ὁ Κλεαγόρου υἱὸς τοῦ τὰ ἐντοίχια ἐν Λυκείῳ γεγραφότος. οὗτος συνήδετο τῷ Ξενοφῶντι ὅτι ἐσέσωστο, καὶ ἠρώτα αὐτὸν πόσον χρυσίον ἔχοι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ezq-ai",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "xenophon-of-athens-agesilaus-ezq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-an",
+      "title": {
+        "english": "Apology",
+        "ancient_greek": "Ἀπολογία"
+      },
+      "url_slug": "xenophon-of-athens-apology-ezq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ab",
+      "title": {
+        "english": "Constitution of the Athenians",
+        "ancient_greek": "Ἀθηναίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-ezq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aa",
+      "title": {
+        "english": "Constitution of the Lacedaemonians",
+        "ancient_greek": "Λακεδαιμονίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-lacedaemonians-ezq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ag",
+      "title": {
+        "english": "Cyropaedia",
+        "ancient_greek": "Κύρου Παιδεία"
+      },
+      "url_slug": "xenophon-of-athens-cyropaedia-ezq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cyropaedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aj",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικός"
+      },
+      "url_slug": "xenophon-of-athens-economics-ezq-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ak",
+      "title": {
+        "english": "Hellenica",
+        "ancient_greek": "Ἑλληνικά"
+      },
+      "url_slug": "xenophon-of-athens-hellenica-ezq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hellenica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ao",
+      "title": {
+        "english": "Hiero",
+        "ancient_greek": "Ἱέρων"
+      },
+      "url_slug": "xenophon-of-athens-hiero-ezq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hiero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-af",
+      "title": {
+        "english": "Memorabilia",
+        "ancient_greek": "Κύρου Ἀνάβασις"
+      },
+      "url_slug": "xenophon-of-athens-memorabilia-ezq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/memorabilia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ac",
+      "title": {
+        "english": "On the Art of Horsemanship",
+        "ancient_greek": "Περὶ Ἱππικῆς"
+      },
+      "url_slug": "xenophon-of-athens-horsemanship-ezq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/horsemanship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ad",
+      "title": {
+        "english": "On the Cavalry Commander",
+        "ancient_greek": "Περὶ Ἱππαρχίας"
+      },
+      "url_slug": "xenophon-of-athens-cavalry-commander-ezq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cavalry-commander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "drk-aa",
+      "title": {
+        "english": "Fragments of Sicilian Histories",
+        "ancient_greek": "Ἀποσπάσματα τῶν Σικελικῶν Ἱστοριῶν"
+      },
+      "url_slug": "philistus-of-syracuse-sicilian-histories-drk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philistus-of-syracuse/sicilian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse/sicilian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse/sicilian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse/sicilian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philistus-of-syracuse/sicilian-histories.json"
+      }
+    },
+    {
+      "eul_wid": "clw-aa",
+      "title": {
+        "english": "Fragments on Athenian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας"
+      },
+      "url_slug": "demon-of-athens-fragments-history-clw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demon-of-athens/fragments-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.json"
+      }
+    },
+    {
+      "eul_wid": "krs-aa",
+      "title": {
+        "english": "Fragments on Hannibal",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀννίβου"
+      },
+      "url_slug": "eumaeus-the-historian-hannibal-fragments-krs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumaeus-the-historian/hannibal-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ova-aa",
+      "title": {
+        "english": "Historical Parallels and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "myronianus-of-amastris-historical-parallels-ova-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ac",
+      "title": {
+        "english": "Lysias the Syracusan by Descent",
+        "ancient_greek": "Λυσίας συρακούσιος πατρόθεν"
+      },
+      "url_slug": "dionysius-of-halicarnassus-lysias-syracusan-ndy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/lysias-syracusan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.json"
+      }
+    },
+    {
+      "eul_wid": "gbs-aa",
+      "title": {
+        "english": "On Cretan Customs",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "pyrgion-the-historian-cretan-customs-gbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pyrgion-the-historian/cretan-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrgion-the-historian/cretan-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrgion-the-historian/cretan-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrgion-the-historian/cretan-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrgion-the-historian/cretan-customs.json"
+      }
+    },
+    {
+      "eul_wid": "gek-aa",
+      "title": {
+        "english": "On Inventions and Discoveries",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "scamon-of-mytilene-inventions-discoveries-gek-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/scamon-of-mytilene/inventions-discoveries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.json"
+      }
+    },
+    {
+      "eul_wid": "fza-aa",
+      "title": {
+        "english": "On the Seasons of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aethlius-of-samos-seasons-fza-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aethlius-of-samos/seasons",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos/seasons.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos/seasons.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos/seasons.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethlius-of-samos/seasons.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophon-of-athens/anabasis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

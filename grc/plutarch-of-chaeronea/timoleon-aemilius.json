@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "okg-bb",
+  "eul_aid": "okg",
+  "author_slug": "plutarch-of-chaeronea",
+  "work_slug": "timoleon-aemilius",
+  "url_slug": "plutarch-of-chaeronea-timoleon-aemilius-okg-bb",
+  "author": {
+    "english": "Plutarch of Chaeronea",
+    "ancient_greek": "Πλούταρχος ὁ Χαιρωνεύς"
+  },
+  "title": {
+    "english": "Comparison of Timoleon and Aemilius",
+    "ancient_greek": "Σύγκρισις Τιμολέοντος καὶ Αἰμιλίου"
+  },
+  "seo": {
+    "browser_title": "Comparison of Timoleon and Aemilius by Plutarch on Eulogikon",
+    "meta_title": "Plutarch Comparison of Timoleon and Aemilius in Greek",
+    "meta_description": "Plutarch examines the parallel lives of the Greek general Timoleon and the Roman commander Aemilius Paullus, Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Comparison of Timoleon and Aemilius</strong> is a concise prose essay by the Greek biographer Plutarch, composed in Attic Greek around the early second century CE. It functions as the concluding section to his paired biographies of Timoleon of Corinth and Aemilius Paullus of Rome within the larger corpus of his <strong>Parallel Lives</strong>. The essay systematically evaluates the two statesmen, juxtaposing the fourth-century BCE Corinthian liberator of Sicily with the second-century BCE Roman conqueror of Macedonia. Through a structured analysis spanning seventeen passages, Plutarch contrasts their characters, virtues, and historical circumstances. He examines their military achievements against formidable opponents—Timoleon against the Carthaginians and Sicilian tyrants, Aemilius against the Macedonians—while probing deeper themes of leadership, fortune, and moral responsibility. The comparison considers the nature of their victories, the quality of the forces they commanded, and the profound personal tragedies that shadowed their public triumphs, particularly the contrasting fates of their sons. Written for an educated Greco-Roman audience during the early Imperial period, the work exemplifies Plutarch’s method of using historical figures to explore universal ethical principles and to foster cultural dialogue between Greece and Rome. The text has been transmitted intact through the medieval manuscript tradition of Plutarch’s <strong>Lives</strong>, most notably in the tenth-century <strong>Codex Laurentianus</strong>. As an integral part of the influential <strong>Parallel Lives</strong>, this comparative epilogue contributed significantly to the development of biographical writing and moral philosophy in the European tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "Τοιούτων δὲ τῶν κατὰ τὴν ἱστορίαν ὄντων, δῆλον ὡς οὐκ ἔχει .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "πολλὰς διαφορὰς οὐδ’ ἀνομοιότητας ἡ σύγκρισις. οἵ τε γὰρ πόλεμοι πρὸς ἐνδόξους γεγόνασιν ἀμφοτέροις ἀνταγωνιστάς, τῷ μὲν Μακεδόνας, τῷ δὲ Καρχηδονίους, αἵ τε νῖκαι περιβόητοι, τοῦ μὲν ἑλόντος Μακεδονίαν καὶ τὴν ἀπ’ Ἀντιγόνου διαδοχὴν ἐν ἑβδόμῳ βασιλεῖ καταπαύσαντος, τοῦ δὲ τὰς τυραννίδας πάσας ἀνελόντος ἐκ Σικελίας καὶ τὴν νῆσον ἐλευθερώσαν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "τος· εἰ μὴ νὴ Δία βούλοιτό τις παρεγχειρεῖν, ὡς Αἰμίλιος μὲν ἐρρωμένῳ Περσεῖ καὶ Ῥωμαίους νενικηκότι, Τιμολέων δὲ Διονυσίῳ παντάπασιν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "ἀπειρηκότι καὶ κατατετριμμένῳ συνέπεσε· καὶ πάλιν ὑπὲρ Τιμολέοντος, ὅτι πολλοὺς μὲν τυράννους, μεγάλην δὲ τὴν Καρχηδονίων δύναμιν ἀπὸ τῆς τυχούσης στρατιᾶς ἐνίκησεν, οὐχ ὥσπερ Αἰμίλιος ἀνδράσιν ἐμπειροπολέμοις καὶ μεμαθηκόσιν ἄρχεσθαι χρώμενος, ἀλλὰ μισθοφόροις οὖσι καὶ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "στρατιώταις ἀτάκτοις, πρὸς ἡδονὴν εἰθισμένοις στρατεύεσθαι. τὰ γὰρ ἀπ’ οὐκ ἴσης παρασκευῆς ἴσα κατορθώματα τῷ στρατηγῷ τὴν αἰτίαν περιτίθησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "Καθαρῶν οὖν καὶ δικαίων ἐν τοῖς πράγμασιν ἀμφοτέρων γεγονότων, Αἰμίλιος μὲν ὑπὸ τῶν νόμων καὶ τῆς πατρίδος οὕτως ἔοικεν εὐθὺς ἀφικέσθαι παρεσκευασμένος, Τιμολέων δὲ τοιοῦτον αὐτὸς ἑαυτὸν παρ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "έσχε. τούτου τεκμήριον, ὅτι Ῥωμαῖοι μὲν ὁμαλῶς ἐν τῷ τότε χρόνῳ πάντες ἦσαν εὔτακτοι καὶ ὑποχείριοι τοῖς ἐθισμοῖς, καὶ τοὺς νόμους δεδιότες καὶ τοὺς ἄρχοντας, Ἑλλήνων δ’ οὐδεὶς ἡγεμών ἐστιν οὐδὲ στρατηγός, ὃς οὐ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.4",
+      "text": "διεφθάρη τότε Σικελίας ἁψάμενος, ἔξω Δίωνος. καίτοι 〈καὶ〉 Δίωνα πολ λοὶ μοναρχίας ὀρέγεσθαι καὶ βασιλείαν τινὰ Λακωνικὴν ὀνειροπολεῖν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.5",
+      "text": "ὑπενόουν. Τίμαιος (FGrH 566 F 100c) δὲ καὶ Γύλιππον ἀκλεῶς φησι καὶ ἀτίμως ἀποπέμψαι Συρακοσίους, φιλοπλουτίαν αὐτοῦ καὶ ἀπληστίαν ἐν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.6",
+      "text": "τῇ στρατηγίᾳ κατεγνωκότας. ἃ δὲ Φάραξ ὁ Σπαρτιάτης καὶ Κάλλιππος ὁ Ἀθηναῖος ἐλπίσαντες ἄρξειν Σικελίας παρενόμησαν καὶ παρεσπόνδησαν, .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.7",
+      "text": "ὑπὸ πολλῶν ἀναγέγραπται. καίτοι τίνες ἢ πηλίκων κύριοι πραγμάτων ὄντες οὗτοι τοιαῦτ’ ἤλπισαν; ὧν ὁ μὲν ἐκπεπτωκότα Συρακουσῶν ἐθερά .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.8",
+      "text": "πευε Διονύσιον, Κάλλιππος δ’ εἷς ἦν τῶν περὶ Δίωνα ξεναγῶν. ἀλλὰ Τιμολέων αἰτησαμένοις καὶ δεηθεῖσιν αὐτοκράτωρ πεμφθεὶς Συρακοσίοις, καὶ δύναμιν οὐ ζητῶν, ἀλλ’ ἔχειν ὀφείλων ἣν ἔλαβε βουλομένων καὶ διδόντων, πέρας ἐποιήσατο τῆς αὑτοῦ στρατηγίας καὶ ἀρχῆς τὴν τῶν παρὰ νόμον .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.9",
+      "text": "ἀρχόντων κατάλυσιν. ἐκεῖνο μέντοι τοῦ Αἰμιλίου θαυμαστόν, ὅτι τηλικαύτην βασιλείαν καταστρεψάμενος οὐδὲ δραχμῇ μείζονα τὴν οὐσίαν ἐποίησεν οὐδ’ εἶδεν οὐδ’ ἥψατο τῶν χρημάτων, καίτοι πολλὰ δοὺς ἑτέροις .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.10",
+      "text": "καὶ δωρησάμενος. οὐ λέγω δ’ ὅτι Τιμολέων μεμπτός ἐστιν οἰκίαν τε καλὴν λαβὼν καὶ χωρίον· οὐ γὰρ τὸ λαβεῖν ἐκ τοιούτων αἰσχρόν, ἀλλὰ τὸ μὴ λαβεῖν κρεῖττον, καὶ περιουσία τις ἀρετῆς ἐν οἷς ἔξεστιν ἐπιδεικνυμένης τὸ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.11",
+      "text": "μὴ δεόμενον. ἐπεὶ δ’, ὡς σώματος ῥῖγος ἢ θάλπος φέρειν δυναμένου τὸ πρὸς ἀμφοτέρας εὖ πεφυκὸς ὁμοῦ τὰς μεταβολὰς ῥωμαλεώτερον, οὕτω ψυχῆς ἄκρατος εὐρωστία καὶ ἰσχύς, ἣν οὔτε τὸ εὐτυχεῖν ὕβρει θρύπτει καὶ ἀνίησιν οὔτε συμφοραὶ ταπεινοῦσι, φαίνεται τελειότερος ὁ Αἰμίλιος, ἐν χαλεπῇ τύχῃ καὶ πάθει μεγάλῳ τῷ περὶ τοὺς παῖδας οὐδέν τι μικρότερος .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.12",
+      "text": "οὐδ’ ἀσεμνότερος ἢ διὰ τῶν εὐτυχημάτων ὁραθείς. Τιμολέων δὲ γενναῖα πράξας περὶ τὸν ἀδελφὸν οὐκ ἀντέσχε τῷ λογισμῷ πρὸς τὸ πάθος, ἀλλὰ μετανοίᾳ καὶ λύπῃ ταπεινωθεὶς ἐτῶν εἴκοσι τὸ βῆμα καὶ τὴν ἀγορὰν ἰδεῖν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.12",
+      "text": "οὐχ ὑπέμεινε. δεῖ δὲ τὰ αἰσχρὰ φεύγειν καὶ αἰδεῖσθαι· τὸ δὲ πρὸς πᾶσαν ἀδοξίαν εὐλαβὲς ἐπιεικοῦς μὲν ἤθους καὶ ἁπαλοῦ, μέγεθος δ’ οὐκ ἔχοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aemilius-paulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dy",
+      "title": {
+        "english": "Alcibiades",
+        "ancient_greek": "Ἀλκιβιάδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-alcibiades-okg-dy",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ct",
+      "title": {
+        "english": "Amatory Narratives",
+        "ancient_greek": "Ἐρωτικαὶ διγηήσεις"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-narratives-okg-ct",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory-narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.json"
+      }
+    },
+    {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/antony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/kings-generals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ff",
+      "title": {
+        "english": "Aratus",
+        "ancient_greek": "Ἄρατος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aratus-okg-ff",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eg",
+      "title": {
+        "english": "Aristides",
+        "ancient_greek": "Ἀριστείδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-aristides-okg-eg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dz",
+      "title": {
+        "english": "Artaxerxes",
+        "ancient_greek": "Ἀρταξέρξης"
+      },
+      "url_slug": "plutarch-of-chaeronea-artaxerxes-okg-dz",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/artaxerxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "faa-ab",
+      "title": {
+        "english": "Fragments on Mathematics and Harmony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας"
+      },
+      "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ba",
+      "title": {
+        "english": "Fragments on the Seven Sages",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+      },
+      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.json"
+      }
+    },
+    {
+      "eul_wid": "ojw-ab",
+      "title": {
+        "english": "Letter of Arrian to Lucius Gellius",
+        "ancient_greek": "Ἐπιστολὴ Ἀρριανοῦ πρὸς Λούκιον Γέλλιον"
+      },
+      "url_slug": "epictetus-letter-to-gellius-ojw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epictetus/letter-to-gellius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/letter-to-gellius.json"
+      }
+    },
+    {
+      "eul_wid": "mye-aa",
+      "title": {
+        "english": "On Justice and Cosmic Harmony",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "ocellus-of-lucania-ii-justice-cosmic-harmony-mye-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ocellus-of-lucania-ii/justice-cosmic-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ocellus-of-lucania-ii/justice-cosmic-harmony.json"
+      }
+    },
+    {
+      "eul_wid": "sny-aa",
+      "title": {
+        "english": "On the Gods and the World",
+        "ancient_greek": "Περὶ Θεῶν καὶ Κόσμου"
+      },
+      "url_slug": "sallustius-the-philosopher-gods-world-sny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sallustius-the-philosopher/gods-world",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sallustius-the-philosopher/gods-world.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sallustius-the-philosopher/gods-world.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sallustius-the-philosopher/gods-world.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sallustius-the-philosopher/gods-world.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bs",
+      "title": {
+        "english": "On the Good and Happy Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-good-happy-life-hgw-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/good-happy-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-ad",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "seven-sages-of-greece-sentences-ayq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-az",
+      "title": {
+        "english": "Spurious",
+        "ancient_greek": "Νόθοι"
+      },
+      "url_slug": "plato-spurious-ffk-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/spurious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon-aemilius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon-aemilius.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon-aemilius.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon-aemilius.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon-aemilius.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

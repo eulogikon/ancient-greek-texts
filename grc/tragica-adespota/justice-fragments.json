@@ -1,0 +1,1382 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gyu-ab",
+  "eul_aid": "gyu",
+  "author_slug": "tragica-adespota",
+  "work_slug": "justice-fragments",
+  "url_slug": "tragica-adespota-justice-fragments-gyu-ab",
+  "author": {
+    "english": "Tragica Adespota ",
+    "ancient_greek": "Τραγικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Fragments of Tragic Justice",
+    "ancient_greek": "Ἀποσπάσματα περὶ Τραγικῆς Δίκης"
+  },
+  "seo": {
+    "browser_title": "Fragments of Tragic Justice by Anonymous Poets on Eulogikon",
+    "meta_title": "Fragments of Tragic Justice by Anonymous Poets in Greek",
+    "meta_description": "Surviving fragments from anonymous Greek tragic poets on justice. Classical era tragic verse. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments of Tragic Justice is a modern scholarly compilation of 167 fragmentary passages attributed to anonymous tragic poets, known collectively as Tragica Adespota. These excerpts are drawn not from a single play but from the vast, lost corpus of Classical Athenian tragedy, thematically united by their exploration of the concept of justice, or <strong>dikē</strong>. Preserved solely through quotation by later authors such as lexicographers, grammarians, and anthologists like Stobaeus and Athenaeus, as well as through papyrus discoveries, the fragments represent the rich diversity of tragic production beyond the surviving works of the canonical playwrights. Modern critical editions, most notably the <strong>Tragicorum Graecorum Fragmenta</strong> series, have systematically assembled these scattered references.</p>\n<p class=\"research-text\">The content of the fragments engages with the central philosophical and dramatic concerns of Athenian tragedy. They frequently depict divine justice and retribution, examining the gods&#x27; role as enforcers of cosmic order. Human law and justice are scrutinized, often highlighting conflicts between formal legal judgment and deeper moral righteousness. The relationship between inescapable fate and personal responsibility is a recurring theme, as are the moral complexities surrounding revenge, vendetta, and the cyclical nature of violence. The consequences of injustice and the nature of suffering are also prominent subjects. These fragments are of significant scholarly importance for understanding the full breadth of the tragic genre. They demonstrate that rigorous debate on legal and ethical justice was a ubiquitous preoccupation in the Athenian theater, illuminating common stylistic and thematic tropes. As such, they contribute substantially to the reconstruction of the intellectual milieu that shaped Athenian drama, a discourse that would profoundly influence the development of subsequent Greek philosophy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 5a",
+      "text": "[ln_1]ἐπαγωγή?",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12a",
+      "text": "πηγῆς ἐγκύμονι μαζῷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14a.1",
+      "text": "μὴ ... οἴεσθε ... τοὺς ἠσεβηκότας (καθάπερ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14a.2",
+      "text": "ταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14a.3",
+      "text": "τραγῳδίαις) Ποινὰς ἐλαύνειν καὶ κολάζειν δᾳσὶν ἡμμέναις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14b",
+      "text": "εἰ χρὴ τὰ λοιπὰ τῇ πόλει καλῶς ἔχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21a.1",
+      "text": "Τμᾶρες ὅσοι ναίουσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21a.2",
+      "text": "Πελασ[γοὶ πρὸς] δέε⸥λον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27a",
+      "text": "ὥρισα γῆν Πέλοπος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34a",
+      "text": "×–⏑ νύκτωρ καὶ μεθ’ ἡμέραν ⏑–",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34b",
+      "text": "πῶς ἡ γυνή ς’ ὕβριζε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34c",
+      "text": "θεός τίς ς’ ἠλέησε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34d",
+      "text": "ἀλλήλους δ’ ἐλήϊσαν†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34e",
+      "text": "ὅδ’ ἐγὼ Χίρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 37a",
+      "text": "×– τὸ χρυσόμαλλον Αἰήτου δέρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 37b",
+      "text": "οἷον αὖ τὸ δεύτερον ἡμῖν ἔσεισεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40a",
+      "text": "οὐδὲ τῶν βοσκημάτων οὐδὲν διέφερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 59a",
+      "text": "ὦ φίλτατ’ ἀνθρώπων ἐμοί",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76a",
+      "text": "ἄνθρωπον ὄντα δεῖ φρονεῖν ἀνθρώπινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 83a",
+      "text": "ἄχορδον et ἄλυρον μέλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84a",
+      "text": "δυσμαὶ βίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 86app",
+      "text": "δωμάτων ἄπο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 88a.1",
+      "text": "οὐκ ἔστι δ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 88a.2",
+      "text": "σοὶ πόλεος ἡγεμὼν ἀνήρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 89a.1",
+      "text": "εὔσημος ἀστέρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 89a.2",
+      "text": "χορός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97a.1",
+      "text": "οὐχ ὁρᾷς ὑπερηφάνως μοι τὴν θυγατέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97a.2",
+      "text": "χρωμένην; ***[ln_3]πῶς ... μέλλω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97a.3",
+      "text": "φιλεῖν τὸν μηδὲν ὠφέλημα, τὸν ὑπὸ τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97a.4",
+      "text": "στέγας[ln_5]τὸ κοῖλον Ἄργος δωρεὰν θέλοντ’ ἔχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103a.1",
+      "text": "ἀρετὴ ... παρεῖναι δοκεῖ τοῖς εὐποροῦσι κἂν ἀπῆ, τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103a.2",
+      "text": "πενομένοις δὲ καὶ παροῦσα λανθάνει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109a.1",
+      "text": "ἐμοὶ μὲν οὐδ’ ὁ πᾶς ἂν ἀρκέσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109a.2",
+      "text": "χρόνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 116,1",
+      "text": "ἴτω τὸ δεινὸν ... ὑπερφρονῶ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 123a",
+      "text": "μὰ γῆν, μὰ κρήνας, μὰ ποταμούς, μὰ νάματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126a.1",
+      "text": "κόρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126a.2",
+      "text": "χαλεποὶ πατέρες (ἐφρούρησαν) χαλκέων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 126a.3",
+      "text": "περιβόλων ... εἱρκταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 144a",
+      "text": "πτερωτὸν οἶστρον ἄφετος ἐν μορφῇ βοός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 145a",
+      "text": "ἄραρε γὰρ 〈 〉 ὅρκος ἐκ θεῶν μέγας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 146a.1",
+      "text": "οὗτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 146a.2",
+      "text": "πατὴρ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 146a.3",
+      "text": "παιδός; εἰ γὰρ ὤφελεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 151a.1",
+      "text": "τὸν σὸν κατέκταν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 151a.2",
+      "text": "παῖδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197a.1",
+      "text": "ὀδύνη δ’ ἐν ἀνθρώποισιν ἐχθίστη πέλει αὕτη, φρονοῦντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197a.2",
+      "text": "πολλὰ μηδενὸς κρατεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197b",
+      "text": "Ἄπολλον ἀγρεῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197c",
+      "text": "ἀεινεφὴς τύφλωσις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197d.1",
+      "text": "ἀεροκέλαδοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197d.2",
+      "text": "πιτυοκάμπται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 198a.1",
+      "text": "ἄμφω μὲν ἤστην τὴν ὁδὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 198a.2",
+      "text": "ποιουμένω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 204a",
+      "text": "βᾶριν †ακέδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 210a",
+      "text": "×–⏑– οἳ δ’ ἀ〈μ〉φινίσονται Νέδαν ἐσκληκότα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 225a",
+      "text": "λάγβατα ὅρκια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 226a",
+      "text": "πισσοκώνητον μόρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 228a",
+      "text": "λάσκουσι κύνες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 228b",
+      "text": "λεκτρίτῃ θρόνῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 228c",
+      "text": "λεόντειος πόρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 233a",
+      "text": "λικνοστεφεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 234a",
+      "text": "Λυδίῳ νόμῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 239a.1",
+      "text": "ναυκληρώσιμοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 239a.2",
+      "text": "στέγαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 242a",
+      "text": "οἰο〈σ〉φάγῳ σιδήρῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 270a",
+      "text": "τρικότυλος οἶνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279a.1",
+      "text": "ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279a.2",
+      "text": "τοῖς ἱεροῖς καὶ παχυδένδροις ἄλσεσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279b",
+      "text": "πτερῷ πορεύσιμος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279d.1",
+      "text": "βραχὺς ὁ βίος, μακρὸν δέ τὸν κατὰ γᾶς αἰῶνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279d.2",
+      "text": "τελε〈υ〉τῶμεν βροτοῖ. πᾶσι δὲ μοῖρα φέρεσθαι δαίμονος αἶσαν, ἅ τις ἂν τύχῃ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279e.1",
+      "text": "[ ]πολεμικωτέρα θεός αυτη γ.λ..κωλυσι αυτη δείματα ἀλλ’ οὔτε μ[ε]ί[ζ]ω κόμπον ἐξοίσω λόγων[ln_3]οὔτ’ ἐνδέοντα τῆς ἀληθείας ἐγώ ἐπεὶ γὰρ ἔξω α.λολους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279e.2",
+      "text": "σκηνωμάτων[ln_7][]υ. τὸν καθ’ αὑτὸν τύμβον .ς..υνει δόμος ⏑⏑?]ων ἀκοῶν ἀλλὰ τόδ’ εξω [συμ]φορὰ θεήλατον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279f",
+      "text": "μάτην, Προμηθεῦ, [para]ἔνατον ἀπολέσας γένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279g",
+      "text": "καλὸν Διὸς φῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 287a",
+      "text": "γνώσῃ δὲ τέχνην τὴν ἐμὴν ἐτητύμως ἀψευδόμαντιν οὖσαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 290a",
+      "text": "⏑⏑? ἔλιπον γᾶν, βαίνω δ’ ἐς Ὄλυμπον ⏑––?",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 295a",
+      "text": "γλυκὺς ὀδοὺς ὁ τοῦ πόθου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 302a",
+      "text": "θεῶν βοηθῶν καὶ τύχης δεῖται ⏑–",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307a",
+      "text": "....]μονον[...]ν[ .......]αρα[ ἄ]νθρωπον [ οὐκ ἔστιν οὐδ[ε[ln_5]πα..νευ[ [ ] .............ἀ]βλαβὴς πόνου .........] δ’ οὐ[κ] ἔστιν, οὐκ εὐβουλία‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307b.1",
+      "text": "εἰ δ’ ἐπὶ τοῖς αὐτοῖς νόμοις ἐφ’ οἷσπερ ἡμεῖς ἔσπασας τὸν ἄερα τὸν κοινόν, ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307b.2",
+      "text": "σοι καὶ τραγικώτερον λαλῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323a",
+      "text": "ἴσασιν {γὰρ} Ἀργείων 〈⏑〉 οἱ πεπλημένοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323b",
+      "text": "ὅστις νομίζει διὰ φρόνησιν εὐτυχεῖν μάταιός ἐστιν· πάντα γὰρ τὰ τοῦ βίου οὐ διὰ φρόνησιν, διὰ τύχην δὲ γίγνεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323c",
+      "text": "Ζεὺς γὰρ Ἡρακλέα καὶ Τάντ̣αλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323d.1",
+      "text": "Ἐνδυμ{ε}ίωνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323d.2",
+      "text": "παῖς κατήντησ〈εν ⏑–〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323e",
+      "text": "[]σοι τάδε τἆρ’ ὧν ἱκέτιν αυ[ []ι γονάτων ἔπι κατασπο[ []δων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323f",
+      "text": "ἦμος γὰρ Ἠὼς λευκόπωλον ἀντολήν ν]έαν ἔφα[ιν]εν, ἀστέρων με[ταλ]λαγήν ..]νημ[]ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323g",
+      "text": "ν....[ γ....[ σ[ ἵππουριν[[ln_5]κλειο[ ὅδ’ ἐγγε.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323h",
+      "text": "τρωθεὶς ἀκάνθῃ τρύγονος θαλασσίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 327a",
+      "text": "παιδοφόνται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 328a",
+      "text": "ῥ]υέντα νά[ματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 328b",
+      "text": "[] ἀνασχετάς καὶ παρ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 328c",
+      "text": "ἀμυντής, ἀλκηστής",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 328d.1",
+      "text": "ὦ δέσποτ’ Ἀμφιάραε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 328d.2",
+      "text": "πολυτίμητ’ ἄναξ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 336a.1",
+      "text": "ἄψοφον ἔχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 336a.2",
+      "text": "στόμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 336b",
+      "text": "ἀνίερος τύχη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 337a",
+      "text": "δημεχθὴς ἄνθρωπος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 339a",
+      "text": "δυσπρόσωπα ὄμματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 340a.1",
+      "text": "δημοφανὲς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 340a.2",
+      "text": "πρᾶγμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348a.1",
+      "text": "κρείσσων γάρ ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348a.2",
+      "text": "πολλάκις τῶν μυρίων τῶν μὴ φρονούντων εἷς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348a.3",
+      "text": "φρονῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348b",
+      "text": "εἱμαρμένην 〈γὰρ〉 οὐδ’ ἂν εἷς 〈ποτ’〉 ἐκφύγοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348c",
+      "text": "οὔτ’ ἀκούομεν ἀκριβὲς οὐδὲν οὔθ’ ὁρῶμεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348d",
+      "text": "ἐκπεσὼν οἰχήσεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348e.1",
+      "text": "× Ζεὺς κυβερνᾶν θεῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 348e.2",
+      "text": "τε κἀνθρώπων ⏑–",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 365a.1",
+      "text": "λισσάδα πέτραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 365a.2",
+      "text": "φιλοκέρτομον ὣς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 365a.3",
+      "text": "παρανηχομένους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 369a.1",
+      "text": "ὦ θάνατε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 369a.2",
+      "text": "παιάν, 〈πῶς ἂν〉 ἰατρὸς μόλοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 374, 3 et 4",
+      "text": "πλουτοποιὸν ἀδικίαν ** γόνιμον ἁπάσης ἡδονῆς ἀκολασίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 384a",
+      "text": "Ἀσκραίῳ Διί Λυδίων καρπῶν ἀπαρχάς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 416a",
+      "text": "φλοιὸς ἐβρώθη ξύλον ***[ln_2]ἄγρωστον εὑρεῖν βλαστάνουσαν ἢ φλεώ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 427a",
+      "text": "μοιρολογχεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 437a",
+      "text": "οἷα 〈δὴ〉 κακά τὴν γῆν ἀναστρέφει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 438a",
+      "text": "κυρταύχενα (sc. δελφῖνες)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 443a.1",
+      "text": "πασῶν δ’ ἀρίστη γαῖα Μεσσήνη ῎λαχεν, εὔδενδρος, ὡς οὐδείς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 443a.2",
+      "text": "τις Ἑλλάδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 443a.3",
+      "text": "χθονός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 443b",
+      "text": "ἵππων κυβερνητῆρες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 443c",
+      "text": "Ἀγαμέμνονος πέρι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 443d",
+      "text": "ἔνδον γένοιτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 445a.1",
+      "text": "ἠδ’ ἄγκος ὑψίκρημνον ὄρεσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 445a.2",
+      "text": "περίδρομον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 456a.1",
+      "text": "σπένδειν δὲ νέκταρ· τοῦ γὰρ ἔρχεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 456a.2",
+      "text": "χρεών **[ln_2]†ανδηρ̣ατ̣αρχευ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 456a.3",
+      "text": "ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 546a.1",
+      "text": "τοῖς εὐπλοοῦσιν ἀντιπνεύσας’ ἡ τύχη ἅπαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 546a.2",
+      "text": "συγχεῖ, κᾆτα ναυαγεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 546a.3",
+      "text": "ποιεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 561b",
+      "text": "νόσῳ βιασθεὶς ἢ φίλων ἀχηνίᾳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562a",
+      "text": "εὐφημία γὰρ εὐκολώτατος πόνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 564a",
+      "text": "εὐεργετῆσαι γὰρ τὸ σῶμ’ οὐ βούλομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 564b",
+      "text": "ὦ πλεῖον †ἵλως αἱμύλης ἀλώπεκος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 564c",
+      "text": "δεινὸν κακοῦ παρόντος ἀρρωδεῖν βροτόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 564d",
+      "text": "τὸ μὲν μέλειν οὐκ ἦν, τὸ μεταμέλειν 〈δ’〉 ἐνῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566a",
+      "text": "ῥᾷον γένηται καὶ βιῷ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566b",
+      "text": "δεῖν τόδε γενέσθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566c.1",
+      "text": "μάντιδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566c.2",
+      "text": "πρὸ Πυθίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566d",
+      "text": "φοίνικι ... λίνῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566e",
+      "text": "γέροντι βάκτρῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 581a",
+      "text": "κεῖται δ’ ὁ τλήμων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 583a",
+      "text": "ἀγαί",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 584",
+      "text": "μαδηγένειος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 587a",
+      "text": "β̣α̣ρ̣β̣α̣ρόστομε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 587b",
+      "text": "βούπρῳρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 587c",
+      "text": "ἐπιτάξ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 593a",
+      "text": "μασχαλίσματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 594a",
+      "text": "ὄμπνιος λειμών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 594b",
+      "text": "ὄσσος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 605",
+      "text": "ἔ]ξω βέβηκε [κρατὸς] ὀφθαλμο[ῦ κύκλος]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 606",
+      "text": "[ἰ]χθὺς [ἡμί]οπτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 608*.1",
+      "text": "οἴκτειρον ἡμᾶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 608*.2",
+      "text": "πρός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 608*.3",
+      "text": "σε καταπεφευγότας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 609",
+      "text": "ἕξιππα καὶ τέθριππα καὶ ξυνωρίδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 611",
+      "text": "τροχοῦ περιστείχοντος ἄλλοθ’ ἡτέρα ἀψὶς ὕπερθε γίγνετ’, ἄλλοθ’ ἡτέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 616",
+      "text": "ἀμφίκρανον",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gyu-aa",
+      "title": {
+        "english": "Fragments of Tragic Lament",
+        "ancient_greek": "Ἀποσπάσματα Θρήνων Τραγικῶν"
+      },
+      "url_slug": "tragica-adespota-lament-gyu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/lament",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/lament.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/lament.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/lament.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/lament.json"
+      }
+    },
+    {
+      "eul_wid": "gyu-ac",
+      "title": {
+        "english": "Fragments on Divine Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δικαιοσύνης Θείας"
+      },
+      "url_slug": "tragica-adespota-divine-justice-gyu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/tragica-adespota/divine-justice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/divine-justice.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/divine-justice.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/divine-justice.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/divine-justice.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "cbm-an",
+      "title": {
+        "english": "Cassandra and Apollo Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euripides-cassandra-apollo-cbm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/cassandra-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cassandra-apollo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cassandra-apollo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cassandra-apollo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/cassandra-apollo.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ar",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "euripides-epigrams-cbm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "eii-aa",
+      "title": {
+        "english": "Fragments of Philosophical Maxims",
+        "ancient_greek": "Ἀποσπάσματα φιλοσοφικῶν γνωμῶν"
+      },
+      "url_slug": "dionysius-of-syracuse-philosophical-maxims-eii-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-syracuse/philosophical-maxims",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-syracuse/philosophical-maxims.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-syracuse/philosophical-maxims.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-syracuse/philosophical-maxims.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-syracuse/philosophical-maxims.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-am",
+      "title": {
+        "english": "Fragments on Exile and Lineage",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυγῆς καὶ Γένους"
+      },
+      "url_slug": "euripides-exile-lineage-cbm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/exile-lineage",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/exile-lineage.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/exile-lineage.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/exile-lineage.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/exile-lineage.json"
+      }
+    },
+    {
+      "eul_wid": "bjk-aa",
+      "title": {
+        "english": "Fragments on Heracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+      },
+      "url_slug": "phrynichus-the-tragic-poet-heracles-fragments-bjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jme-aa",
+      "title": {
+        "english": "Fragments on Human Progress",
+        "ancient_greek": "Ἀποσπάσματα περὶ Προκοπῆς Ἀνθρώπων"
+      },
+      "url_slug": "moschion-the-tragic-poet-human-progress-jme-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschion-the-tragic-poet/human-progress",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-bb",
+      "title": {
+        "english": "Helena",
+        "ancient_greek": "Ἑλένη"
+      },
+      "url_slug": "euripides-helena-cbm-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/helena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/helena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/helena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/helena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/helena.json"
+      }
+    },
+    {
+      "eul_wid": "chg-aa",
+      "title": {
+        "english": "Italian Wonders",
+        "ancient_greek": "Ἰταλικὰ θαύματα"
+      },
+      "url_slug": "heliodorus-the-tragedian-of-athens-italian-wonders-chg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-the-tragedian-of-athens/italian-wonders",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/italian-wonders.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/italian-wonders.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/italian-wonders.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-the-tragedian-of-athens/italian-wonders.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/tragica-adespota/justice-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tragica-adespota/justice-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

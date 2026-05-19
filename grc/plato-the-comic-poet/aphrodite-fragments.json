@@ -1,0 +1,467 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "efq-ac",
+  "eul_aid": "efq",
+  "author_slug": "plato-the-comic-poet",
+  "work_slug": "aphrodite-fragments",
+  "url_slug": "plato-the-comic-poet-aphrodite-fragments-efq-ac",
+  "author": {
+    "english": "Plato the Comic Poet ",
+    "ancient_greek": "Πλάτων ὁ κωμῳδιοποιός (Ἀθηναῖος)"
+  },
+  "title": {
+    "english": "Fragments of Comic Aphrodite",
+    "ancient_greek": "Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης"
+  },
+  "seo": {
+    "browser_title": "Comic Aphrodite Fragments by Plato Comic Poet on Eulogikon",
+    "meta_title": "Comic Aphrodite Fragments by Plato in Ancient Greek",
+    "meta_description": "Fragments of the comedy Comic Aphrodite by Plato the Comic Poet. Example of Attic Old Comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments of Comic Aphrodite</strong> preserve thirty-two passages from a lost Old Comedy by the Athenian playwright Plato, known as the Comic Poet to distinguish him from the philosopher. The play, titled <strong>Aphrodite</strong>, centered on the goddess of love and related themes. These fragments survive exclusively through quotations in later authors, primarily lexicographers and scholars such as Athenaeus, who preserved them for their rare vocabulary or cultural references rather than their literary merit. One notable fragment contains a proverbial line on the dual terrors of love and its absence.</p>\n<p class=\"research-text\">The extant lines suggest the comedy engaged with conventional themes of the genre, including love and desire, social and political satire, and the parody of mythology, likely involving a burlesque of myths associated with Aphrodite. A significant number of the fragments are cited for their unusual or innovative vocabulary, indicating a play rich in linguistic creativity. The standard modern edition of these fragments appears in <strong>Poetae Comici Graeci</strong>. Although the complete work is lost, these remnants contribute to the understanding of Attic Old Comedy beyond the works of Aristophanes, offering valuable evidence for the Athenian language, social history, and the competitive theatrical culture of the late fifth and early fourth centuries BCE.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "αὐτὴ δ’ ἀμαυρὸc ἀcθενήc τ’ ἐγιγνόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "ἀφροδίcιοc λόγοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "οἴμοι τάλαc, ἀπολεῖc μ’ Ἀφροδιταρίδιον γλυκύτατον, ἱκετεύω cε, μή με",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "περιίδῃc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "τὼ προcεμφερῆ τὴν cοφίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἀπαμβρακοῦ καὶ μὴ προδῷc cαυτήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "ὧδ’ ἀναιcχυντοῦντε τὼ μιλτηλιφῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "τοῖc νεῴc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "ᾠδικῶc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "ἀντικαταλαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "ἀναλαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "ἀνεκτά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "ἀνταcπάζομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "χρηcμῳδόληροc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "τὸν ἀλεκτρυόνα τὸν ᾠδὸν ἀποπνίξαcά μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "ἵναπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "ποδώκηc ἐcτ’ Ἀχιλλεὺc ὅ τε Μίνωc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "αὐχμηρόβιοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "...ὦ τᾶν, ταχὺ τρέχων ἀπωλόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "ἄγναπτοc χλαῖνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "φιλόζωοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "πατρὶc 〈δ’〉 Ἀθῆναί μοὔcτιν 〈αἱ〉 χρυcάμπυκεc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "αἰκάλλειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "ἁμάρτια(?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "ἀμβλώψ, ἀμβλωπόc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "ἀμφίδρομοc πορθμόc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25",
+      "text": "ἀνακαλπάζει (vel καλπάζει).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26",
+      "text": "ἀναπλήcαc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "βόα νῦν ἀντίδουπά μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.1",
+      "text": "Πλάτ]ωνοc·[ln_1][... γυναῖκα κρ]εῖccόν ἐcτ’ ἐν οἰκίαι [ἢ φαρμακίτα]c̣ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.2",
+      "text": "παρ’ Εὐδήμου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.3",
+      "text": "τρέφειν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "efq-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "plato-the-comic-poet-epigram-efq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "efq-aa",
+      "title": {
+        "english": "Fragments on Adonis and Cinyras",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου"
+      },
+      "url_slug": "plato-the-comic-poet-adonis-cinyras-efq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/adonis-cinyras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ad",
+      "title": {
+        "english": "Fragments on Argus and Destruction",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἄργου καὶ Ὀλέθρου"
+      },
+      "url_slug": "plato-the-comic-poet-argus-destruction-efq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/argus-destruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ab",
+      "title": {
+        "english": "Fragments on Cinyras and Adonis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος"
+      },
+      "url_slug": "plato-the-comic-poet-cinyras-adonis-efq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/cinyras-adonis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-az",
+      "title": {
+        "english": "Arbitration",
+        "ancient_greek": "Διαιτησία"
+      },
+      "url_slug": "menander-of-athens-arbitration-az-hps-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.json"
+      }
+    },
+    {
+      "eul_wid": "gzy-ab",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ah",
+      "title": {
+        "english": "Comedians",
+        "ancient_greek": "Κωμῳδούμενοι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-comedians-kfu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/comedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.json"
+      }
+    },
+    {
+      "eul_wid": "fvo-aa",
+      "title": {
+        "english": "Comic Dance and Seasoning Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-dance-seasoning",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.json"
+      }
+    },
+    {
+      "eul_wid": "kpk-ac",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ac-kpk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.json"
+      }
+    },
+    {
+      "eul_wid": "jag-ab",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-ab-jag-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ab",
+      "title": {
+        "english": "Longer Fragments Preserved by Other Authors",
+        "ancient_greek": "Μακρότερα Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-longer-fragments-hps-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/longer-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "sfc-ab",
+      "title": {
+        "english": "Wedding Feast Preparations",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "euangelus-the-comic-wedding-feast-preparations-sfc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast-preparations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plato-the-comic-poet/aphrodite-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "swk-aa",
+  "eul_aid": "swk",
+  "author_slug": "libanius-of-antioch",
+  "work_slug": "embassy-menelaus",
+  "url_slug": "libanius-of-antioch-embassy-menelaus-swk-aa",
+  "author": {
+    "english": "Libanius of Antioch",
+    "ancient_greek": "Λιβάνιος ὁ Ἀντιοχεύς"
+  },
+  "title": {
+    "english": "Declamation 3, Embassy of Menelaus, Theorem",
+    "ancient_greek": "Μελέτη γ"
+  },
+  "seo": {
+    "browser_title": "Declamation 3 Embassy of Menelaus by Libanius on Eulogikon",
+    "meta_title": "Declamation 3 Embassy of Menelaus by Libanius in Greek",
+    "meta_description": "Declamation 3 Embassy of Menelaus is a rhetorical exercise by sophist Libanius of Antioch. This theorem presents a model argument cites Demosthenes Homer."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Declamation 3, Embassy of Menelaus</strong> is a rhetorical exercise composed in the fourth century CE by the Greek sophist and teacher Libanius of Antioch. Written in Attic Greek, it belongs to the genre of declamation, specifically a theoretical exercise, or theorem, which addresses a general mythological theme rather than a specific legal case. The work is a complete, continuous oration that imagines the speech delivered by the Homeric hero Menelaus when he and Odysseus traveled to Troy as ambassadors to demand Helen’s return, attempting to avert the Trojan War through persuasion. The declamation explores themes of diplomacy, justice, and the consequences of action, framing Helen’s abduction as a profound violation of sacred hospitality laws. As a pedagogical tool, it demonstrates the advanced rhetorical technique of ethopoeia, the creation of a speech suited to a known legendary character. Such exercises were central to elite education in the later Roman Empire, allowing orators like Libanius to display their mastery of classical style and argumentation for students and peers. The text has survived fully through medieval manuscript traditions, preserved due to Libanius’s enduring reputation as a model of Attic prose. It offers valuable insight into the literary culture and sophisticated rhetorical training that shaped the Greek-educated governing class of the period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Θεώρημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Χωρίσας δὲ τὴν πρότασιν ἀπὸ τῆς κατασκευῆς ἀντιθέσεις πεποίηκα δύο. κέχρηται δὲ τῷ θεωρήματι καὶ Δημοσθένης· τί δὲ ἂν εἴποις περὶ Δημοσθένου ς , ὃς τῶν συμπρέσβεων κατηγορε ῖ ; καὶ χωρὶς ἀπαντήσας πάλιν ἀντέθηκε τὴν τούτου κατασκευήν· ποῦ δ ’ ἅλε ς ; ποῦ τράπεζα ι ; ποῦ σπονδα ί ; καὶ λύει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἔστι δὲ καὶ ἄνευ τούτου βαρβάρῳ πρέπων ὁ λόγος καὶ πρός γε Ἀλεξάνδρου. μαρτυρεῖ δὲ καὶ Ὅμη ρος. ποιεῖ γὰρ ἐν συλλόγῳ τὸν Ἀλέξανδρον λέγοντα ἀντικρὺ δ ’ ἀπόφημ ι , γυναῖκα μὲν οὐκ ἀποδώσ ω .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "καὶ ψιλῆς πάσης αἰτίας ἡ πρότασις, ὥστ’ εἰ καὶ μὴ προσῆν ἐνταῦθα τὸ τῆς κατασκευῆς, ὑπῆν ἄν τις ἐκ τοῦ προσώπου λόγος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "swk-ac",
+      "title": {
+        "english": "Arguments of Demosthenic Orations",
+        "ancient_greek": "Προοίμια Δημοσθένους Λόγων"
+      },
+      "url_slug": "libanius-of-antioch-demosthenic-orations-swk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/demosthenic-orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ab",
+      "title": {
+        "english": "Correspondence of Basil and Libanius",
+        "ancient_greek": "Ἀλληλογραφία Βασιλείου καὶ Λιβανίου"
+      },
+      "url_slug": "libanius-of-antioch-correspondence-basil-swk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/correspondence-basil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ag",
+      "title": {
+        "english": "Declamations 1–51",
+        "ancient_greek": "Μελέται Αʹ–ΝΑʹ"
+      },
+      "url_slug": "libanius-of-antioch-declamations-ag-swk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/declamations-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ak",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "libanius-of-antioch-virtue-swk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ad",
+      "title": {
+        "english": "Fragments-Declamations",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μελετῶν"
+      },
+      "url_slug": "libanius-of-antioch-declamations-ad-swk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/declamations-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.json"
+      }
+    },
+    {
+      "eul_wid": "swk-aj",
+      "title": {
+        "english": "Orations 1–64",
+        "ancient_greek": "Λόγοι 1–64"
+      },
+      "url_slug": "libanius-of-antioch-orations-swk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.json"
+      }
+    },
+    {
+      "eul_wid": "swk-af",
+      "title": {
+        "english": "Preliminary Exercises",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "libanius-of-antioch-preliminary-exercises-swk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/preliminary-exercises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ae",
+      "title": {
+        "english": "Pseudepigraphal Letters",
+        "ancient_greek": "Ψευδεπίγραφα Ἐπιστολαί"
+      },
+      "url_slug": "libanius-of-antioch-pseudepigraphal-letters-swk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/pseudepigraphal-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ai",
+      "title": {
+        "english": "Works of Libanius (Epistolary Treatises)",
+        "ancient_greek": "Λιβανίου Ἔργα"
+      },
+      "url_slug": "libanius-of-antioch-works-ai-swk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/works-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ah",
+      "title": {
+        "english": "Works of Libanius (Letters and Orations)",
+        "ancient_greek": "Ἔργα Λιβανίου"
+      },
+      "url_slug": "libanius-of-antioch-works-ah-swk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/works-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-bs",
+      "title": {
+        "english": "Against Timocrates",
+        "ancient_greek": "κατὰ Τιμοκράτους"
+      },
+      "url_slug": "demosthenes-of-athens-against-timocrates-fsm-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-timocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-timocrates.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-timocrates.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-timocrates.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-timocrates.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bv",
+      "title": {
+        "english": "Asclepiads",
+        "ancient_greek": "Ἀσκληπιάδαι"
+      },
+      "url_slug": "aristides-the-orator-asclepiads-qwm-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/asclepiads",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.json"
+      }
+    },
+    {
+      "eul_wid": "oug-aa",
+      "title": {
+        "english": "Letters to Philoxenus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φιλόξενον"
+      },
+      "url_slug": "dionysius-of-antioch-letters-philoxenus-oug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-antioch/letters-philoxenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.json"
+      }
+    },
+    {
+      "eul_wid": "prs-aa",
+      "title": {
+        "english": "On Figures",
+        "ancient_greek": "Περὶ Σχημάτων"
+      },
+      "url_slug": "phoebammon-the-sophist-figures-prs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoebammon-the-sophist/figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist/figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist/figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist/figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoebammon-the-sophist/figures.json"
+      }
+    },
+    {
+      "eul_wid": "rlm-aa",
+      "title": {
+        "english": "On Formed Problems",
+        "ancient_greek": "Περὶ τῶν ἐσχηματισμένων προβλημάτων"
+      },
+      "url_slug": "valerius-apsines-of-gadara-formed-problems-rlm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/valerius-apsines-of-gadara/formed-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-ao",
+      "title": {
+        "english": "On the Crown of the Trierarchy",
+        "ancient_greek": "περὶ τοῦ Στεφάνου τῆς τριηραρκίας"
+      },
+      "url_slug": "demosthenes-of-athens-crown-trierarchy-fsm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/crown-trierarchy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/crown-trierarchy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/crown-trierarchy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/crown-trierarchy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/crown-trierarchy.json"
+      }
+    },
+    {
+      "eul_wid": "nxo-aa",
+      "title": {
+        "english": "Preliminary Exercises",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "aelius-theon-the-sophist-preliminary-exercises-nxo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-theon-the-sophist/preliminary-exercises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-theon-the-sophist/preliminary-exercises.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-theon-the-sophist/preliminary-exercises.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-theon-the-sophist/preliminary-exercises.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-theon-the-sophist/preliminary-exercises.json"
+      }
+    },
+    {
+      "eul_wid": "mbw-ac",
+      "title": {
+        "english": "Statesman",
+        "ancient_greek": "Πολιτικός"
+      },
+      "url_slug": "lesbonax-the-rhetorician-statesman-mbw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lesbonax-the-rhetorician/statesman",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/statesman.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/statesman.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/statesman.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/statesman.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/libanius-of-antioch/embassy-menelaus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

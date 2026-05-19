@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nra-aa",
+  "eul_aid": "nra",
+  "author_slug": "themison-the-historian",
+  "work_slug": "pallenian-festival",
+  "url_slug": "themison-the-historian-pallenian-festival-nra-aa",
+  "author": {
+    "english": "Themison the Historian",
+    "ancient_greek": "Θεμίσων ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "On the Pallenian Festival",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Pallenian Festival by Themison on Eulogikon",
+    "meta_title": "The On the Pallenian Festival by Themison in Greek",
+    "meta_description": "Themison the Historian records royal responsibilities and civic ceremonies observed during the Pallenian Festival Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Pallenian Festival</strong> is a lost treatise attributed to the historian Themison, known only from its title and two surviving fragments. The work focused on the festival of the Attic deme of Pallene, which centered on the sanctuary of Athena Pallenis. Its contents are preserved indirectly through later scholarship: one fragment in Harpocration’s lexicon explains the term “Pallenian” and cites a sacred law, while another in the scholia to Aristophanes’ <strong>Peace</strong> provides an aetiological myth linking the festival to the contest between Athena and Poseidon. The work covered the mythological origins of the festival, the religious regulations governing its rituals, and the local history and cultic topography of the deme. The Suda, a 10th-century Byzantine encyclopedia, records the title and attributes it to Themison, and the fragments are collected in modern editions of the Fragmentary Greek Historians. As a specialized work of Atthidography, or local Athenian history, it served as a source for later lexicographers and commentators seeking details on obscure Athenian cults. It remains a valuable resource for scholars studying Athenian religion, local history, and the preservation of antiquarian knowledge.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "ΠΕΡΙ ΠΑΛΛΗΝΙΔΟΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "Athenaeus VI: Καὶ Θεμίσων δ’ ἐν Παλληνίδι· «Ἐπιμελεῖσθαι δὲ τὸν βασιλέα τὸν ἀεὶ βασιλεύοντα καὶ τοὺς παρασίτους, οὓς ἂν ἐκ τῶν δήμων προαιρῶνται, καὶ τοὺς γέροντας καὶ τὰς γυναῖκας τὰς πρωτοπόσεις.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "jwe-aa",
+      "title": {
+        "english": "Anecdotes on Plato's Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hegesander-delphicus-plato-character-jwe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesander-delphicus/plato-character",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.json"
+      }
+    },
+    {
+      "eul_wid": "cey-aa",
+      "title": {
+        "english": "Fragments on Battus and Cyrene",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βάττου καὶ Κυρήνης"
+      },
+      "url_slug": "menecles-the-historian-battus-cyrene-cey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecles-the-historian/battus-cyrene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian/battus-cyrene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian/battus-cyrene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian/battus-cyrene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecles-the-historian/battus-cyrene.json"
+      }
+    },
+    {
+      "eul_wid": "bvi-aa",
+      "title": {
+        "english": "Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου"
+      },
+      "url_slug": "pherecydes-of-athens-dionysus-bvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecydes-of-athens/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "kwi-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "vatican-paradoxographer-marvels-kwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/vatican-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.json"
+      }
+    },
+    {
+      "eul_wid": "kiw-aa",
+      "title": {
+        "english": "On Music and Chronology",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phillis-of-delos-music-chronology-kiw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phillis-of-delos/music-chronology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.json"
+      }
+    },
+    {
+      "eul_wid": "kdm-ab",
+      "title": {
+        "english": "On Table Manners and Offerings",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.json"
+      }
+    },
+    {
+      "eul_wid": "hxa-aa",
+      "title": {
+        "english": "On the Socrates Circle",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "idomeneus-of-lampsacus-socrates-circle-hxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/idomeneus-of-lampsacus/socrates-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-al",
+      "title": {
+        "english": "Symposium",
+        "ancient_greek": "Συμπόσιον"
+      },
+      "url_slug": "xenophon-of-athens-symposium-ezq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/themison-the-historian/pallenian-festival",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

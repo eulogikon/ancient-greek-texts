@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "abe-aa",
+  "eul_aid": "abe",
+  "author_slug": "homer",
+  "work_slug": "epigrams",
+  "url_slug": "homer-epigrams-abe-aa",
+  "author": {
+    "english": "Homer",
+    "ancient_greek": "Ὅμηρος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ὁμήρου ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "The Epigrams Attributed to Homer on Eulogikon Archive",
+    "meta_title": "The Classical Epigrams Attributed to Homer in Ancient Greek",
+    "meta_description": "Seven short poems in epic dialect attributed to Homer. Preserved in later ancient biographies. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams attributed to Homer constitute a collection of seven brief Greek poems composed in the epic dialect. These verses are not preserved as an independent work but are embedded within much later ancient biographies of the poet, most notably the <strong>Contest of Homer and Hesiod</strong>. Their subjects are diverse, encompassing epitaphs, such as one for the legendary King Midas, dedicatory inscriptions for objects like a prize tripod, and philosophical reflections on life and death. Modern scholarship regards these poems as pseudepigrapha, later compositions ascribed to the renowned poet to borrow his authority. They are universally considered inauthentic, with the majority likely dating from the Hellenistic or Roman periods, centuries after the era associated with Homer. Their principal function appears to have been to embellish the legendary biography of Homer by demonstrating his purported virtuosity in poetic forms beyond the epic cycle. The survival of the entire collection is due solely to its quotation within those later prose biographies, which were transmitted and copied throughout the medieval period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 153.1.1",
+      "text": "Χαλκῆ παρθένος εἰμί, Μίδα δ’ ἐπὶ σήματι κεῖμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153.1.2",
+      "text": "ἔστ’ ἂν ὕδωρ τε νάῃ καὶ δένδρεα μακρὰ τεθήλῃ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153.1.3",
+      "text": "αὐτοῦ τῇδε μένουσα πολυκλαύτῳ ἐπὶ τύμβῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153.1.4",
+      "text": "ἀγγελέω παριοῦσι, Μίδας ὅτι τῇδε τέθαπται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147.1.1",
+      "text": "Ἕπτ’ ἔσσαν μαλεροῦ πυρὸς ἐσχάραι, ἐν δὲ ἑκάστῃ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147.1.2",
+      "text": "πεντήκοντ’ ὀβελοί, περὶ δὲ κρέα πεντήκοντα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147",
+      "text": "τρὶς δὲ τριηκόσιοι περὶ ἓν κρέας ἦσαν Ἀχαιοί.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "abe-ac",
+      "title": {
+        "english": "Iliad",
+        "ancient_greek": "Ἰλιάς"
+      },
+      "url_slug": "homer-iliad-abe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/iliad.json"
+      }
+    },
+    {
+      "eul_wid": "abe-ab",
+      "title": {
+        "english": "Odyssey",
+        "ancient_greek": "Ὀδύσσεια"
+      },
+      "url_slug": "homer-odyssey-abe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tns-ab",
+      "title": {
+        "english": "Dionysiaca",
+        "ancient_greek": "Διονυσιακά"
+      },
+      "url_slug": "nonnus-of-panopolis-dionysiaca-tns-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnus-of-panopolis/dionysiaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ak",
+      "title": {
+        "english": "Ethopoeic Exercises",
+        "ancient_greek": "Ἠθοποιίαι"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-ak-kjq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.json"
+      }
+    },
+    {
+      "eul_wid": "kak-aa",
+      "title": {
+        "english": "Fragments of the Pandareus Myth",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Πανδάρεω Μύθου"
+      },
+      "url_slug": "boeus-the-epic-poet-pandareus-myth-kak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.json"
+      }
+    },
+    {
+      "eul_wid": "rki-aa",
+      "title": {
+        "english": "Fragments on Mythological Figures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Προσώπων"
+      },
+      "url_slug": "peisander-of-laranda-mythological-figures-rki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-laranda/mythological-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ah",
+      "title": {
+        "english": "Historical Epic Fragment B",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ah-kjq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.json"
+      }
+    },
+    {
+      "eul_wid": "rje-aa",
+      "title": {
+        "english": "Hunting Matters",
+        "ancient_greek": "Κυνηγετικά"
+      },
+      "url_slug": "oppian-of-apamea-hunting-rje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-of-apamea/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ae",
+      "title": {
+        "english": "Praises of Theon the Gymnasiarch",
+        "ancient_greek": "Ἐγκώμια Θεῶνος τοῦ Γυμνασιάρχου"
+      },
+      "url_slug": "epic-fragments-anonymous-theon-gymnasiarch-kjq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/theon-gymnasiarch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.json"
+      }
+    },
+    {
+      "eul_wid": "aaa-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "eumelus-of-corinth-testimonies-aaa-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/homer/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

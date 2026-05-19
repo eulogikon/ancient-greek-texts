@@ -1,0 +1,2420 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "efq-ab",
+  "eul_aid": "efq",
+  "author_slug": "plato-the-comic-poet",
+  "work_slug": "cinyras-adonis",
+  "url_slug": "plato-the-comic-poet-cinyras-adonis-efq-ab",
+  "author": {
+    "english": "Plato the Comic Poet ",
+    "ancient_greek": "Πλάτων ὁ κωμῳδιοποιός (Ἀθηναῖος)"
+  },
+  "title": {
+    "english": "Fragments on Cinyras and Adonis",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος"
+  },
+  "seo": {
+    "browser_title": "Fragments of Plato the Comic Poet on Eulogikon Archive",
+    "meta_title": "Fragments by Plato the Comic Poet in Ancient Greek",
+    "meta_description": "Fragments from Plato the Comic Poet on Cinyras and Adonis. Example of classical Athenian comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Cinyras and Adonis</strong> is a lost comedy by Plato the Comic Poet, a contemporary of Aristophanes who was active in the late 5th and early 4th centuries BCE. The work is known solely by its title, which is preserved in ancient catalogues such as the <strong>Suda</strong>, and no verbatim fragments from it survive. The title indicates it was a mythological burlesque treating the Cypriot king Cinyras and the youth Adonis, the lover of Aphrodite. Based on the conventions of Old Comedy, the play likely satirized familiar subjects, including the Adonia festival and women’s associated ritual behavior, the myth of Aphrodite and Adonis itself, and themes of eastern luxury and excess through the figure of the wealthy Cinyras. The comedy is attested only as a title in ancient sources; the figure of 311 fragments sometimes associated with it refers to the total number of fragments from Plato’s entire corpus in modern editions, not to this specific play. While the work’s direct influence is untraceable, its subject matter illustrates the range of Old Comedy beyond contemporary Athenian politics, engaging instead with popular myth and cult practice. Its existence contributes to the broader understanding of Plato Comicus’s literary output and thematic diversity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὦ Κινύρα, βασιλεῦ Κυπρίων ἀνδρῶν δασυπρώκτων, παῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σοι κάλλιστος μὲν ἔφυ θαυμαστότατός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τε πάντων ἀνθρώπων, δύο δ’ αὐτὸν δαίμον’ ὀλεῖτον, ἡ μὲν ἐλαυνομένη λαθρίοις ἐρετμοῖς ὁ δ’ ἐλαύνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Εἶτ’ οὐχ ὑπέρου μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "περιτροπὴ γενήσεται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Οὐδ’ ὅστις αὐτῆς ἐκπίεται τὰ χρήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Δότω τὴν κιθάραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τις ἔνδοθεν καὶ τοὐπιπόρπαμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Πόθεν ὁρμιὰ καὶ κάλαμος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Καὶ νὴ Δί’ εἰ Πάμφιλον γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φαίης κλέπτειν τὰ κοίν’ ἅμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τε συκοφαντεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἀνηρπάκας’ ἁπαξάπαντ’ αὐτῷ κανῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Αἲ αἴ, γελῶν ἐπηκροώμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σου πάλαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.1",
+      "text": "Ἐνίοτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.2",
+      "text": "πολλαὶ τῶν ἀλεκτρυόνων βίᾳ ὑπηνέμια τίκτουσιν ᾠὰ πολλάκις.[ln_2]* * * * Ὁ δὲ παῖς ὅδ’ ἔνδον τὰς ἀλεκτρυόνας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1-2.3",
+      "text": "σοβεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Εἴξασιν ἡμῖν οἱ νόμοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τούτοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖσι λεπτοῖς ἀραχνίοις, ἃν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοίχοις ἡ φάλαγξ ὑφαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Εἰ μὲν σὺ τὴν θάλασσαν ἀποδώσεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "ταύτην ἑκών, εἰ δὲ μή, ταῦτα πάντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "συντριαινῶν ἀπολέσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Βούλει τήνδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "πλεκτὴν καθῶ κἄπειτ’ ἀνελκύσω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "σε δεῦρο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Λαβὼν οὖν τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "σκύλακα τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τοῦ προξένου κἄπειτα δῆσον αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τῶν γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τετραπόδων οὐδὲν ἀποκτείνειν ἔδει ἡμᾶς τὸ λοιπόν, πλὴν ὑῶν· τὰ γὰρ κρέα ἥδιστ’ ἔχουσι, κοὐδὲν ἀφ’ ὑὸς γίγνεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πλὴν ὕστριχες καὶ πηλὸς ἡμῖν καὶ βοή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὡς μέγα μέντοι πάνυ τὴν Αἴτνην ὄρος εἶναί φασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τεκ‐[ln_1]μαίρου, ἔνθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τρέφεσθαι τὰς κανθαρίδας τῶν ἀνθρώπων λόγος ἐστὶν οὐδὲν ἐλάτ‐[ln_3]τους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ἐξιόντι γὰρ ἁλιεὺς ἀπήντησεν φέρων μοι κεστρέας, ἰχθῦς ἀσίτους καὶ τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "πονηροὺς ἦγέ μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ὁπόθεν ἔσοιτο μᾶζα καὶ παροψίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Καὶ τὰς ὀφρῦς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "σχάσασθε καὶ τὰς ὄμφακας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Τὸν μαινόμενον, τὸν Κρῆτα, τὸν μόγις Ἀττικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "Εὖ γέ σοι γένοιθ’, ἡμᾶς ὅτι ἔσωσας ἐκ τῶν σῖγμα τῶν Εὐριπίδου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Κατηδέσθημεν ἂν καὶ κατεκόπημεν εὐθύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "Ὁ δὲ τὸν ἐγκέφαλόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τις ἐξαύσας καταπίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Ἔπειτα κλίνην ἀμφίκολλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "πυξίνην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "Ἐμφέρεσθε δέ τὰ ῥάμματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Γυνὴ καθεύδους’ ἐστὶν ἀργόν. Β. μανθάνω. Α. Ἐγρηγορυίας δ’ εἰσὶν αἱ παροψίδες αὗται μόνον κρείττους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολὺ χρῆμ’ εἰς ἡδονὴν ηταλλαβεῖν. οὐ γάρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τινες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "παροψίδες[ln_5]εἴς’ ἀντιβολῶ σε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἁλιευόμενός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ποτ’ αὐτὸν εἶδον ἀνδράχμη μετὰ πρημνάδων, κἄπειτ’ ἀφῆκεν ὅτι ἦν βόαξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Πρὸς κότταβον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παίζειν, ἕως ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σφῷν ἐγὼ τὸ δεῖπνον ἔνδον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "σκευάσω, πάνυ βούλομαι. Β. ἀλλ’ ἃ νόμος ἔστ’; Α. ἀλλ’ εἰς θυείαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παιστέον. Β. φέρε τὴν θυείαν, αἶρ’ ὕδωρ, ποτήρια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_5][spk_α]παράθετε. παίζωμεν δὲ περὶ φιλημάτων. * * * * * * Α. Ἀγεννῶς οὐκ ἐῶ παίζειν. τίθημι κοττάβεια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σφῷν ἐγὼ τασδί τε τὰς κρηπῖδας ἃς αὐτὴ φορεῖ, καὶ τὸν κότυλον τὸν σόν. Β. Βαβαιάξ, οὑτοσὶ[ln_10]μείζων ἀγὼν τῆς Ἰσθμιάδος ἐπέρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2-3.1",
+      "text": "Μὴ σκληρὰν ἔχε τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2-3.2",
+      "text": "χεῖρα μέλλων κοτταβίζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Καί τοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "φορεῖτε γλῶτταν ἐν ὑποδήμασιν, στεφανοῦσθ’ ὑπογλωττίσιν, ὅταν πίνητέ που, κἂν καλλιερῆτε, γλῶτταν ἀγαθὴν πέμπετε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5-6.1",
+      "text": "Γλώττης ἀγαθῆς οὐκ ἔστ’ ἄμεινον οὐδὲ ἕν.[ln_1]* * * * Ἡ γλῶττα δύναμιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5-6.2",
+      "text": "τοὺς λόγους ἐκτήσατο, ἐκ τῶν λόγων δ’ ἅττ’ αὐτὸς ἐπιθυμεῖς ἔχεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ὥσθ’ ἅττ’ ἔχω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "ταῦτ’ ἐστί· ταρίχους ἀπολέσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Κεράτινον εἶχον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "σκευοφορεῖον καὶ καμπύλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Πρόσφερε δεῦρο δὴ τὴν κεφαλὴν τῆς δέλφακος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Σὲ γὰρ γραῦ συγκατῴκισεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σαπράν ὀρφοῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σελαχίοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τε καὶ φάγροις βοράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἵν’ ἀπαλλαγῶμεν ἀνδρὸς ἁρπαγιστάτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ἀλλ’ αὐτὸς ἀπαρτὶ τἀλλότρι’ οἰχήσει φέρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ἐψάθαλλε λεῖος ὤν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Οὐχ ὁρᾶς ὅτι ὁ μὲν Λέαγρος, Γλαύκωνος ὢν μεγάλου γένους, ἀβελτεροκόκκυξ ἠλίθιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "περιέρχεται, σικυοῦ πέπονος εὐνουχίου κνήμας ἔχων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Οὐχ ὁρᾷς ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "Φιλωνίδην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "που τέτοκεν ἡ μήτηρ ὄνον τὸν Μελιτέα, κοὐκ ἔπαθεν οὐδέν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἅνδρες δεδειπνήκασιν ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σχεδὸν ἅπαντες· εὖγε, τί οὐ τρέχων σὺ τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τραπέζας ἐκφέρεις; ἐγὼ δὲ λίτρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "παραχέων ἔρχομαι. κἀγὼ δὲ παρακορήσων. σπονδὰς δ’ ἔπειτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παραχέας τὸν κότταβον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παροίσω.[ln_5]τῇ παιδὶ τοὺς αὐλοὺς ἐχρῆν ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πρὸ χειρὸς εἶναι, καὶ προσαναφυσᾶν. τὸ μύρον ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "παράχεον βαδίζων Αἰγύπτιον, κᾆτ’ ἴρινον· στέφανον δ’ ἔπειθ’ ἑκάστῳ δώσω φέρων τῶν ξυμποτῶν. νεοκρᾶτά τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "ποιείτω. καὶ δὴ κέκραται. τὸν λιβανωτὸν ἐπιτιθεὶς εἶπε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_10]σπονδὴ μὲν ἤδη γέγονε, καὶ πίνοντές εἰσι πόρρω. καὶ σκόλιον ᾖσται, κότταβος δ’ ἐξοίχεται θύραζε. αὐλοὺς δ’ ἔχουσά τις κορίσκη Καρικὸν μέλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τι μελίζεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "συμπόταις, κἄλλην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τρίγωνον εἶδον ἔχουσαν, εἶτ’ ᾖδεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πρὸς αὐτὸ μέλος Ἰωνικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ὅταν δέωμαι γωνιαίου ῥήματος, τούτῳ παριστῶ καὶ μοχλεύω τὰς πέτρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "[spk_β]Καὶ μὴν ὄμοσόν μοι μὴ τεθνάναι τὸ σῶμ’. Β. ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[spk_α]Α. ψυχὴν δ’ ἐπανήκειν ὥσπερ Αἰσώπου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "ποτέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Εἰπέ μοι ὡς ὀλίγα λοιπὰ τῶν ἐπιτραπεζωμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[spk_β]Β. ὁ γὰρ θεοῖσιν ἐχθρὸς αὐτὰ κατέφαγεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Σημεῖα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παρασημεῖα, κλεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρακλείδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Τουτὶ προσαναβῆναι τὸ σιμὸν δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Κἆθ’ ἧκεν ἄρτους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πριάμενος μὴ τῶν καθαρύλλων ἀλλὰ μεγάλους Κιλικίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἐνταῦθ’ ἐπ’ ἄκρων τῶν κροτάφων ἕξει λύχνον δίμυξον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ἕξουσιν οἱ πομπῆς λυχνούχους δηλαδή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ἀλλ’ αὖ γέλοιον ἄνδρα μου μὴ φροντίσαι μηδέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Χαῖρε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παλαιογόνων ἀνδρῶν θεατῶν ξύλλογε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παντοσόφων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἦν δὴ θόρυβος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τευταζόντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Τῶνδε βουλευτὶς πόνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Εἰ μὲν μὴ λίαν * * * ὦνδρες, ἠναγκαζόμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "στρέψαι δεῦρ’, οὐκ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρέβην εἰς λέξιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοιάνδ’ ἐπῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Φέρε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοῦτ’ ἐμοὶ δεῖξον τὸ κανοῦν μοι δεῦρο πῆ μάχαιρ’ ἔνι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ὥσπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "πουλύποδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "πρώτιστά σε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φαγών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τι πώποθ’, οἷα γίγνεται, ὀψάριον ἔκαμες, καὶ προσέστη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῦτό σοι; Β. ἔγωγε πέρυσι κάραβον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "φαγών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Γυνὴ γάρ, ἢν μὲν αὐτήν ἀεὶ κολάζῃς, ἐστὶ πάντων κτημάτων κράτιστον, ἐὰν δ’ ἀνῇς, ὑβριστόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "χρῆμα κἀκόλαστον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Χαλεπῶς ἂν οἰκήσαιμεν ἐν Βυζαντίοις, ὅπου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "σιδαρέοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "τοῖς νομίσμασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "χρῶνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ὥσπερ κνεφάλλων ἢ πτίλων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σεσαγμένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὦ θεῖε Μόρυχε, νῦν γὰρ εὐδαίμων ἔφυς, καὶ Γλαυκέτης ἡ ψῆττα, καὶ Λεωγόρας, οἳ ζῆτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τερπνῶς οὐδὲν ἐνθυμούμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὃς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πρῶτα μὲν Κλέωνι πόλεμον ἠράμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ἀλλ’ ἡγούμεσθ’ εὖ κἀνδρείως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "πολλῷ πάντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "προέχοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Χρηστὸν μὴ κατὰ Μειδίαν ὀρτυγοκόπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Μόνος δ’ ἄγευστος, ἄσπλαγχνος ἐνιαυτίζομἀπλάκουντος, ἀλιβάνωτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ὁρᾶτε τὸ διῆρες ὑπερῷον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Τὸν δέλφακα ἀπῆγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "σιγῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Κατέλαβον Ἐπικράτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε καὶ Φορμίσιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρὰ τοῦ βασιλέως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πλεῖστα δωροδοκήματα, ὀξύβαφα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χρυσᾶ καὶ πινακίσκους ἀργυροῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Χαίρεις, οἶμαι, μεταπεττεύσας αὐτὸν διακλιμακίσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τε, τὸν ὑπηνόβιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "σπαρτιοχαίτην ῥυποκόνδυλον ἑλκετρίβωνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2a",
+      "text": "Κυάθους ὅσους ἐκλεπτέτην ἑκάστοτε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ἄναξ ὑπήνης Ἐπίκρατες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "σακεσφόρε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Σκευάρια δὴ κλέψας ἀπεκήρυξ’ ἐκφέρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὥστ’ εἴ τις ὀρχοῖτ’ εὖ, θέαμ’ ἦν· νῦν δὲ δρῶσιν οὐδέν, ἀλλ’ ὥσπερ ἀπόπληκτοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "στάδην ἑστῶτες ὠρύονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἅψαι μόνον οὐκ ἂν ἄκρῳ τῇ Μορσίμῳ, ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πατήσω τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "Σθένελον μάλ’ αὐτίκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Καὶ τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τρόποις ἁρμόττον ὥσπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "περὶ πόδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ξενοκλῆς ὁ δωδεκαμήχανος, ὁ Καρκίνου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῦ θαλαττίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Τὸ Σποργίλου κουρεῖον, ἔχθιστον τέγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Προμηθία γάρ ἐστιν ἀνθρώποις ὁ νοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Κἂν ᾖ γαλεός, κἂν λειόβατος, κἂν ἔγχελυς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τρισὶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "πληγαῖς ἀπηδέσθη τὸ ῥάμφος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐγὼ γὰρ ὑμῖν νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φράσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Εἴξασιν γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "παιδαρίοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τούτοις, οἳ ἑκάστοτε γραμμήν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "ταῖσιν ὁδοῖς διαγράψαντες διανειμάμενοι δίχ’ ἑαυτούς ἑστᾶς’, αὐτῶν οἱ μὲν ἐκεῖθεν τῆς γράμμης οἱ δ’ αὖ[ln_3]ἐκεῖθεν· εἷς δ’ ἀμφοτέρων ὄστρακον αὐτοῖς εἰς μέσον ἑστὼς[ln_4]ἀνίησιν,[ln_5]κἂν μὲν πίπτῃσι τὰ λεύκ’ ἐπάνω, φεύγειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "ταχὺ τοὺς ἑτέ‐[ln_5]ρους δεῖ, τοὺς δὲ διώκειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Σὺν ἐλαίῳ ὠτογλυφίδα λαβοῦς’ ἀνασκάλλεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Τὸ γὰρ ἕψημά σου γευόμενος ἔλαθον ἐκροφήσας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ἢ ’ξ Ἀρκαδίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τοι δριμυτάτην ὀρίγανον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Βατίς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "τε καὶ σμύραινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "πρόσεστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "Νάρκη γὰρ ἑφθὴ βρῶμα χάριεν γίγνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Σὲ μέν, ὦ μοχθηρέ, παλινδορίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παίσας αὐτοῦ καταθήσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Νοεῖ μὲν ἕτερ’ ἕτερα δὲ τῇ γλώττῃ λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "[spk_α]Α. Ὁδὶ μὲν Ἀναγυράσιος ὀρφώς ἐστί σοι. Β. τούτῳ φίλος Μυνίσκος ἔσθ’ ὁ Χαλκιδεύς. Α. καλῶς λέγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁ δ’ οὐ γὰρ ἠττίκιζεν, ὦ Μοῖραι φίλαι, ἀλλ’ ὁπότε μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρείη διῃτώμην λέγειν, ἔφασκε δὴ τῷ μήν, ὁπότε δ’ εἰπεῖν δέοι ὀλίγον, ὀλίον ἔλεγεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Καίτοι πέπραχε τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τρόπων μὲν ἄξια, αὑτοῦ δὲ καὶ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "στιγμάτων ἀνάξια· οὐ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τοιούτων οὕνεκ’ ὄστραχ’ εὑρέθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3-4.1",
+      "text": "[spk_β]Εὐτυχεῖς ὦ δέσποτα. Β. τί δ’ ἔστι; Α. βουλεύειν ὀλίγου ’́λαχες πάνυ. ἀτὰρ οὐ λαχὼν ὅμως ἔλαχες, ἢν νοῦν ἔχῃς. Β. πῶς ἢν ἔχω νοῦν; Α. ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3-4.2",
+      "text": "πονηρῷ καὶ ξένῳ[ln_5]ἐπέλαχες ἀνδρί, μηδέπω γὰρ ἐλευθέρῳ.[ln_5]* * * * Ἄπερρ’· ἐγὼ δ’ ὑμῖν τὸ πρᾶγμα δὴ φράσω· Ὑπερβόλῳ βουλῆς γάρ, ἄνδρες, ἐπέλαχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Καὶ τοσοῦτον εὐερίας ἀπολέλαυχ’ Ὑπέρβολος, ὥστ’ αὐχμότατός ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ἐγὼ δ’ ἐνθάδ’ ἐν τῇ ’ρημίᾳ τουτὶ διελθεῖν βούλομαι τὸ βιβλίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρὸς ἐμαυτόν. Β. ἔστι δ’, ἀντιβολῶ σε, τοῦτο τί; Α. Φιλοξένου καινή τις ὀψαρτυσία.[ln_5]Β. ἐπίδειξον αὐτὴν ἥτις ἐστίν. Α. ἄκουε δή. Ἄρξομαι ἐκ βολβοῖο, τελευτήσω δ’ ἐπὶ θύννον. Β. ἐπὶ θύννον; οὐκοῦν τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τελευταίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πολύ κράτιστον ἐνταυθὶ τετάχθαι τάξεως; Α. Βολβοὺς μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "σποδιᾷ δαμάσας, καταχύσματι δεύσας,[ln_10]ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πλείστους διάτρωγε· τὸ γὰρ δέμας ἀνέρος ὀρθοῖ. καὶ τάδε μὲν δὴ ταῦτα· θαλάσσης δ’ ἐς τέκν’ ἄνειμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_11]* * * * Οὐδὲ λοπὰς κακόν ἐστιν· ἀτὰρ τὸ τάγηνον ἄμεινον.[ln_12]* * * * Ὀρφών, αἰολίαν, συνόδοντά τε καρχαρίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε μὴ τέμνειν, μή σοι νέμεσις θεόθεν καταπνεύσῃ·[ln_15]ἀλλ’ ὅλον ὀπτήσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παράθες· πολλὸν γὰρ ἄμεινον. πουλύποδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πλεκτὴ δ’ ἄν, ἐπεὶ λήψῃ κατὰ καιρόν, ἑφθὴ τῆς ὀπτῆς, ἢν ᾖ μείζων, πολὺ κρείττων, ἢν ὀπταὶ δὲ δύ’ ὦς’, ἑφθῇ κλαίειν ἀγορεύω. τρίγλη δ’ οὐκ ἐθέλει νεύρων ἐπιήρανος εἶναι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[ln_20]παρθένου Ἀρτέμιδος γὰρ ἔφυ καὶ στύματα μισεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]σκορπίος αὖ— Β. παίσειέ γέ σου τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρωκτὸν ὑπελθών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Εἶεν, γυναῖκες, * * ὡς ὑμῖν πάλαι οἶνον γενέσθαι τὴν ἄνοιαν εὔχομαι· ὑμῖν γὰρ οὐδέν, καθάπερ ἡ παροιμία, ἐν τῷ καπήλῳ νοῦς ἐνεῖναί μοι δοκεῖ.[ln_5]εἰ γὰρ Φάωνα δεῖσθ’ ἰδεῖν, προτέλεια δεῖ ὑμᾶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ποιῆσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πολλὰ πρότερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τοιαδί. πρῶτα μὲν ἐμοὶ γὰρ κουροτρόφῳ προθύεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "πλακοῦς ἐνόρχης, ἄμυλος ἐγκύμων, κίχλαι ἑκκαίδεχ’ ὁλόκληροι μέλιτι μεμιγμέναι,[ln_10]λαγῷα δώδεκ’, ἐπισέληνα. τἄλλα δέ ἤδη τάδ’ εὐτελέστατ’ ἔστ’. ἄκουε δή. βολβῶν μὲν Ὀρθάνῃ τρί’ ἡμιεκτέα, Κονισάλῳ δὲ καὶ παραστάταιν δυοῖν μύρτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "πινακίσκος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "χειρὶ παρατετιλμένων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_15]λύχνων γὰρ ὀσμὰς οὐ φιλοῦσι δαίμονες. πύργης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τετάρτης κυσί τε καὶ κυνηγέταις, Λόρδωνι δραχμή, Κυβδάσῳ τριώβολον, ἥρῳ Κέλητι δέρμα καὶ θυλήματα. ταῦτ’ ἐστὶ τἀναλώματ’. εἰ μὲν οὖν τάδε[ln_20]προσοίσετ’, εἰσέλθοιτ’ ἄν· εἰ δὲ μή, μάτην ἔξεστιν ὑμῖν διὰ κενῆς κινητιᾷν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Τὰ δ’ ἀλλότρι’ ἔσθ’ ὅμοια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "ταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "παροψίσιν· βραχὺ γάρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τι τέρψαντ’ ἐξανάλωται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "ταχύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ὦ χρυσοῦν ἀνάδημα, ὦ τοῖσιν ἐμοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τρυφεροῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "τρόποις, ὦ γλυκὺς ἀγκών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Τῷ στόματι τὸν κύαθον ὧδ’ εἰληφότες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁ σὸς δὲ τύμβος ἐν καλῷ κεχωσμένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῖς ἐμπόροις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρόσρησις ἔσται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πανταχοῦ, τοὺς ἐκπλέοντάς τ’ εἰσπλέοντάς τ’ ὄψεται, χὠπόταν ἅμιλλ’ ᾖ τῶν νεῶν θεάσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Μετὰ ταῦτα δὲ Εὐαγόρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παῖς ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πλευρίτιδος Κινησίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "σκελετός, ἄπυγος, καλάμινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "σκέλη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "φορῶν, φθόης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "προφήτης, ἐσχάρας κεκαυμένος[ln_5]πλείστας ὑπ’ Εὐρυφῶντος ἐν τῷ σώματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ἢν γὰρ ἀποθάνῃ εἷς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "πονηρός, δύ’ ἀνέφυσαν ῥήτορες· οὐδεὶς γὰρ ἡμῖν Ἰόλεως ἐν τῇ πόλει, ὅστις ἐπικαύσει τὰς κεφαλὰς τῶν ῥητόρων.[ln_5]κεκολλόπευκας· τοιγαροῦν ῥήτωρ ἔσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5abc.1",
+      "text": "Λαβοῦ λαβοῦ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5abc.2",
+      "text": "χειρὸς ὡς τάχιστά μου· μέλλω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5abc.3",
+      "text": "στρατηγὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5abc.4",
+      "text": "χειροτονεῖν Ἀγύρριον.[ln_2]* * * * Προσίσταταί μου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5abc.5",
+      "text": "πρὸς τὸ βῆμα μαντίλη.[ln_3]* * * * Βόσκει δυσώδη Κέφαλον, αἰσχίστην νόσον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "[spk_α]Α. Οὗτος, τίς εἶ; λέγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "ταχύ· τί σιγᾷς; οὐκ ἐρεῖς; Ε. Ἑρμῆς ἔγωγε Δαιδάλου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "φωνὴν ἔχων ξύλινος βαδίζων αὐτόματος ἐλήλυθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Πρῶτον μὲν οὖν μοι λέξον, ἀντιβολῶ· σὺ γάρ, ὥς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "φασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "Χείρων’, ἐξέθρεψας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.4",
+      "text": "Περικλέα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Κᾆτ’ ἐν κλίναις ἐλεφαντόποσιν καὶ στρώμασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "πορφυρο‐[ln_1]βάπτοις, κἀν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.3",
+      "text": "φοινικίσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.4",
+      "text": "Σαρδιανικαῖσιν κοσμησάμενοι κατάκεινται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "Λύσας δὲ ἀργὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "στάμνον εὐώδους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "ποτοῦ ἵησιν εὐθὺς κύλικος εἰς κοῖλον κύτος, ἔπειτ’ ἄκρατον κοὐ τεταργανωμένον ἔπινε κἀξημύστισεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Τὰ γραμματεῖα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "τούς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "τε χάρτας ἐκφέρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "Ἔπειτα δ’ οὐδείς ἐστ’ ἀνὴρ γαστρίστερος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "Ἀνακογχυλίαστον ἐχθοδοπόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "τι σκευάσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.1",
+      "text": "Καὶ περιὼν ἅμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.2",
+      "text": "τιλτὸν τάριχος ἐπριάμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.3",
+      "text": "τοῖς οἰκέταις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "Φείδεσθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "τοὐλαίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.3",
+      "text": "σφόδρ’· ἐξ ἀγορᾶς δ’ ἐγώ ὠνήσομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.4",
+      "text": "στίλβην τίν’, ἥτις μὴ πότις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "Ἐμοῦ γαμοῦντος οὐδ’ ὁ γείτων ᾔσθετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "Σαπρῷ γάρῳ βάπτοντες ἀποπνίξουσί με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "Ἆρ’, ὡς ἔοικε, δὶς γένοιτ’ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "παῖς γέρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.1",
+      "text": "Οὐδεὶς ὁμαίμου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.2",
+      "text": "συμπαθέστερος φίλος, κἂν ᾖ τοῦ γένους μακράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.1",
+      "text": "Σὲ δὲ κοκκύζων ὄρθρι’ ἀλέκτωρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.2",
+      "text": "προκαλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.1",
+      "text": "Ὡς ἔστι μοι τὸ χρῆμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.2",
+      "text": "τοῦτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.3",
+      "text": "περὶ πόδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "Σχοίνους λαβὼν ἄνειρε τὰ κρέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "Καὶ τὰς θύρας ἀνακῶς ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45.1",
+      "text": "παῖδες γέροντες μειράκια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45.2",
+      "text": "παλλάκια.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "efq-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "plato-the-comic-poet-epigram-efq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ac",
+      "title": {
+        "english": "Fragments of Comic Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης"
+      },
+      "url_slug": "plato-the-comic-poet-aphrodite-fragments-efq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/aphrodite-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "efq-aa",
+      "title": {
+        "english": "Fragments on Adonis and Cinyras",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου"
+      },
+      "url_slug": "plato-the-comic-poet-adonis-cinyras-efq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/adonis-cinyras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ad",
+      "title": {
+        "english": "Fragments on Argus and Destruction",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἄργου καὶ Ὀλέθρου"
+      },
+      "url_slug": "plato-the-comic-poet-argus-destruction-efq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/argus-destruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfu-ah",
+      "title": {
+        "english": "Comedians",
+        "ancient_greek": "Κωμῳδούμενοι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-comedians-kfu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/comedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.json"
+      }
+    },
+    {
+      "eul_wid": "foq-ab",
+      "title": {
+        "english": "Comic Fragments on Life and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς"
+      },
+      "url_slug": "amphis-the-comic-poet-life-pleasure-foq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/amphis-the-comic-poet/life-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/life-pleasure.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/life-pleasure.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/life-pleasure.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/life-pleasure.json"
+      }
+    },
+    {
+      "eul_wid": "evu-ab",
+      "title": {
+        "english": "Confused Dinner Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-confused-dinner-guest-evu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/confused-dinner-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.json"
+      }
+    },
+    {
+      "eul_wid": "fdc-ab",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "philyllius-the-comic-poet-comic-feast-ab-fdc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philyllius-the-comic-poet/comic-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.json"
+      }
+    },
+    {
+      "eul_wid": "dac-ad",
+      "title": {
+        "english": "Fragments on Eratosthenes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐρατοσθένους"
+      },
+      "url_slug": "crates-the-comic-poet-eratosthenes-fragments-dac-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dts-aa",
+      "title": {
+        "english": "Fragments on Fish and Seafood",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Θαλασσίων"
+      },
+      "url_slug": "aristonymus-the-comic-poet-fish-seafood-dts-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonymus-the-comic-poet/fish-seafood",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonymus-the-comic-poet/fish-seafood.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ac",
+      "title": {
+        "english": "Fragments on Language and Poetry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης"
+      },
+      "url_slug": "cratinus-the-comic-poet-language-poetry-czs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bo",
+      "title": {
+        "english": "Shield",
+        "ancient_greek": "Ἀσπίς"
+      },
+      "url_slug": "menander-of-athens-shield-hps-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/shield",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plato-the-comic-poet/cinyras-adonis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

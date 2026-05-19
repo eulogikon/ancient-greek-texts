@@ -1,0 +1,578 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "beu-ad",
+  "eul_aid": "beu",
+  "author_slug": "xenophanes-of-colophon",
+  "work_slug": "symposium-piety",
+  "url_slug": "xenophanes-of-colophon-symposium-piety-beu-ad",
+  "author": {
+    "english": "Xenophanes of Colophon",
+    "ancient_greek": "Ξενοφάνης ὁ Κολοφώνιος"
+  },
+  "title": {
+    "english": "Symposium and Piety Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Poetic Fragments by Xenophanes of Colophon on Eulogikon",
+    "meta_title": "Fragments by Xenophanes of Colophon in Ancient Greek",
+    "meta_description": "Fragments from Xenophanes on symposia and piety. Philosophical verse challenging Greek religion. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The &quot;Symposium and Piety Fragments&quot; comprise a collection of poetic excerpts attributed to the pre-Socratic philosopher Xenophanes of Colophon. Preserved not as a continuous text but through citations by later authors such as Stobaeus and Simplicius, these forty-seven fragments are composed in elegiac and iambic meters. The content delineates two principal themes, both reflective of Xenophanes&#x27; critical engagement with Archaic Greek culture. One group of fragments offers a normative portrait of the symposium, the aristocratic drinking gathering, emphasizing ritual purity, moderate consumption, and the primacy of pious and edifying discourse among the participants. The other, more philosophically significant set presents a radical theological critique, rejecting the anthropomorphic and morally flawed gods of Homer and Hesiod. Xenophanes famously observed that different peoples imagine deities in their own likeness and proposed instead a singular, supreme god, unlike mortals in form or thought, who effortlessly governs all things through intellect. These verses are considered a seminal work in the transition from mythopoetic tradition to rational inquiry, likely intended for performance within the very symposiastic context they describe, thus using conventional poetic forms to challenge deep-seated religious and cultural norms.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit,1-9",
+      "text": "ΞΕΝΟΦΑΝΟΥΣ ΕΛΕΓΕΙΑΙ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ATHEN. XI 462 C νῦν γὰρ δὴ ζάπεδον καθαρὸν καὶ χεῖρες ἁπάντων καὶ κύλικες· πλεκτοὺς δ’ ἀμφιτιθεῖ στεφάνους, ἄλλος δ’ εὐῶδες μύρον ἐν φιάληι παρατείνει· κρατὴρ δ’ ἕστηκεν μεστὸς ἐυφροσύνης, ἄλλος δ’ οἶνος ἕτοιμος, ὃς οὔποτέ φησι προδώσειν, μείλιχος ἐν κεράμοις’ ἄνθεος ὀζόμενος· ἐν δὲ μέσοις’ ἁγνὴν ὀδμὴν λιβανωτὸς ἵησι· ψυχρὸν δ’ ἔστιν ὕδωρ καὶ γλυκὺ καὶ καθαρόν· πάρκεινται δ’ ἄρτοι ξανθοὶ γεραρή τε τράπεζα τυροῦ καὶ μέλιτος πίονος ἀχθομένη· βωμὸς δ’ ἄνθεσιν ἀν τὸ μέσον πάντηι πεπύκασται, μολπὴ δ’ ἀμφὶς ἔχει δώματα καὶ θαλίη. χρὴ δὲ πρῶτον μὲν θεὸν ὑμνεῖν εὔφρονας ἄνδρας εὐφήμοις μύθοις καὶ καθαροῖσι λόγοις· σπείσαντας δὲ καὶ εὐξαμένους τὰ δίκαια δύνασθαι πρήσσειν—ταῦτα γὰρ ὦν ἐστι προχειρότερον— οὐχ ὕβρις πίνειν ὁπόσον κεν ἔχων ἀφίκοιο οἴκαδ’ ἄνευ προπόλου μὴ πάνυ γηραλέος. ἀνδρῶν δ’ αἰνεῖν τοῦτον ὃς ἐσθλὰ πιὼν ἀναφαίνει, ὥς οἱ μνημοσύνη καὶ τόνος ἀμφ’ ἀρετῆς, οὔτι μάχας διέπων Τιτήνων οὐδὲ Γιγάντων οὐδέ 〈τε〉 Κενταύρων, πλάσματα τῶν προτέρων, ἢ στάσιας σφεδανάς, τοῖς’ οὐδὲν χρηστὸν ἔνεστι· θεῶν 〈δὲ〉 προμηθείην αἰὲν ἔχειν ἀγαθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ATHEN. X 413 F nach 21 C 2: ταῦτ’ εἴληφεν ὁ Εὐριπίδης ἐκ τῶν τοῦ Κολοφωνίου ἐλεγείων Ξενοφάνους οὕτως εἰρηκότος· ἀλλ’ εἰ μὲν ταχυτῆτι ποδῶν νίκην τις ἄροιτο ἢ πενταθλεύων, ἔνθα Διὸς τέμενος πὰρ Πίσαο ῥοῆις’ ἐν Ὀλυμπίηι, εἴτε παλαίων ἢ καὶ πυκτοσύνην ἀλγινόεσσαν ἔχων, εἴτε τι δεινὸν ἄεθλον ὃ παγκράτιον καλέουσιν, ἀστοῖσίν κ’ εἴη κυδρότερος προσορᾶν καί κε προεδρίην φανερὴν ἐν ἀγῶσιν ἄροιτο καί κεν σῖτ’ εἴη δημοσίων κτεάνων ἐκ πόλεως καὶ δῶρον ὅ οἱ κειμήλιον εἴη· εἴτε καὶ ἵπποισιν, ταῦτά κε πάντα λάχοι— οὐκ ἐὼν ἄξιος ὥσπερ ἐγώ. ῥώμης γὰρ ἀμείνων ἀνδρῶν ἠδ’ ἵππων ἡμετέρη σοφίη. ἀλλ’ εἰκῆι μάλα τοῦτο νομίζεται, οὐδὲ δίκαιον προκρίνειν ῥώμην τῆς ἀγαθῆς σοφίης. οὔτε γὰρ εἰ πύκτης ἀγαθὸς λαοῖσι μετείη οὔτ’ εἰ πενταθλεῖν οὔτε παλαισμοσύνην, οὐδὲ μὲν εἰ ταχυτῆτι ποδῶν, τόπερ ἐστὶ πρότιμον ῥώμης ὅσς’ ἀνδρῶν ἔργ’ ἐν ἀγῶνι πέλει, τοὔνεκεν ἂν δὴ μᾶλλον ἐν εὐνομίηι πόλις εἴη. σμικρὸν δ’ ἄν τι πόλει χάρμα γένοιτ’ ἐπὶ τῶι, εἴ τις ἀεθλεύων νικῶι Πίσαο παρ’ ὄχθας· οὐ γὰρ πιαίνει ταῦτα μυχοὺς πόλεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ATHEN. XII 526 A Κολοφώνιοι δ’, ὥς φησι Φύλαρχος [F GrHist. 81 F 66 II 184], τὴν ἀρχὴν ὄντες σκληροὶ ἐν ταῖς ἀγωγαῖς, ἐπεὶ εἰς τρυφὴν ἐξώκειλαν πρὸς Λυδοὺς φιλίαν καὶ συμμαχίαν ποιησάμενοι, προήιεσαν διησκημένοι τὰς κόμας χρυσῶι κόσμωι, ὡς καὶ Ξ. φησίν· ἁβροσύνας δὲ μαθόντες ἀνωφελέας παρὰ Λυδῶν, ὄφρα τυραννίης ἦσαν ἄνευ στυγερῆς, ἤιεσαν εἰς ἀγορὴν παναλουργέα φάρε’ ἔχοντες, οὐ μείους ὥσπερ χίλιοι εἰς ἐπίπαν, αὐχαλέοι, χαίτηισιν ἀγάλμενοι εὐπρεπέεσσιν, ἀσκητοῖς’ ὀδμὴν χρίμασι δευόμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "POLLUX IX 83 εἴτε Φείδων πρῶτος ὁ Ἀργεῖος ἔκοψε νόμισμα εἴτε Δημοδίκη ἡ Κυμαία συνοικήσασα Μίδαι τῶι Φρυγὶ (παῖς δ’ ἦν Ἀγαμέμνονος Κυμαίων βασιλέως) εἴτε Ἀθηναίοις Ἐριχθόνιος καὶ Λύκος, εἴτε Λυδο ί, καθά φησι Ξ. Vgl. Herod. I 94 Λυδοὶ γὰρ δὴ καὶ πρῶτοι ἀνθρώπων τῶν ἡμεῖς ἴδμεν, νόμισμα χρυσοῦ καὶ ἀργυροῦ κοψάμενοι ἐχρήσαντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ATHEN. XI 18. 782 A οὐδέ κεν ἐν κύλικι πρότερον κεράσειέ τις οἶνον ἐγχέας, ἀλλ’ ὕδωρ καὶ καθύπερθε μέθυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "ATHEN. IX 368E Ξ. δ’ ὁ Κολοφώνιος ἐν τοῖς ἐλεγείοις φησί· πέμψας γὰρ κωλῆν ἐρίφου σκέλος ἤραο πῖον ταύρου λαρινοῦ, τίμιον ἀνδρὶ λαχεῖν, τοῦ κλέος Ἑλλάδα πᾶσαν ἐφίξεται οὐδ’ ἀπολήξει, ἔστ’ ἂν ἀοιδάων ἦι γένος Ἑλλαδικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "DIOG. VIII 36 περὶ δὲ τοῦ ἄλλοτε ἄλλον γεγενῆσθαι Ξενοφάνης ἐν ἐλεγείαι προσμαρτυρεῖ, ἧς ἀρχή ‘ νῦν .. . κέλευθον ‘. ὃ δὲ περὶ αὐτοῦ φησιν, οὕτως ἔχει ‘ καί .. . ἀίων ‘. νῦν αὖτ’ ἄλλον ἔπειμι λόγον, δείξω δὲ κέλευθον. καί ποτέ μιν στυφελιζομένου σκύλακος παριόντα φασὶν ἐποικτῖραι καὶ τόδε φάσθαι ἔπος· ‘παῦσαι μηδὲ ῤάπιζ’, ἐπεὶ ἦ φίλου ἀνέρος ἐστίν ψυχή, τὴν ἔγνων φθεγξαμένης ἀίων‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "DIOG. IX 18. 19 (vgl. I 113, 21) μακροβιώτατός τε γέγονεν (Xenophanes), ὥς που καὶ αὐτός φησιν· ἤδη δ’ ἑπτά τ’ ἔασι καὶ ἑξήκοντ’ ἐνιαυτοὶ βληστρίζοντες ἐμὴν φροντίδ’ ἀν’ Ἑλλάδα γῆν· ἐκ γενετῆς δὲ τότ’ ἦσαν ἐείκοσι πέντε τε πρὸς τοῖς, εἴπερ ἐγὼ περὶ τῶνδ’ οἶδα λέγειν ἐτύμως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ETYM. GEN. S. V. γῆρας ἀνδρὸς γηρέντος πολλὸν ἀφαυρότερος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "tit,10-21a",
+      "text": "ΣΙΛΛΟΙ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "HERODIAN π. διχρ. p. 296, 6 [Cr. An. Ox. III] ἐξ ἀρχῆς καθ’ Ὅμηρον ἐπεὶ μεμαθήκασι πάντες ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "SEXT. adv. math. IX 193 πάντα θεοῖς’ ἀνέθηκαν Ὅμηρός θ’ Ἡσίοδός τε, ὅσσα παρ’ ἀνθρώποισιν ὀνείδεα καὶ ψόγος ἐστίν, κλέπτειν μοιχεύειν τε καὶ ἀλλήλους ἀπατεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "SEXT. adv. math. I 289 Ὅμηρος δὲ καὶ Ἡσίοδος κατὰ τὸν Κολοφώνιον Ξενοφάνη ὡς πλεῖστ(α) ἐφθέγξαντο θεῶν ἀθεμίστια ἔργα, κλέπτειν μοιχεύειν τε καὶ ἀλλήλους ἀπατεύειν. Κρόνος μὲν γὰρ ἐφ’ οὗ τὸν εὐδαίμονα βίον γεγονέναι λέγουσι τὸν πατέρα ἠνδροτόμησε καὶ τὰ τέκνα κατέπιεν Ζεύς τε ὁ τούτου παῖς ἀφελόμενος αὐτὸν τῆς ἡγεμονίας ‘γαίης νέρθε καθεῖσε‘ (Ξ 204) κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "GELLIUS N. A. III 11 alii Homerum quam Hesiodum maiorem natu fuisse scripserunt, in quibus Philochorus [ fr. 54b FHG I 393] et X., alii minorem.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "CLEM. Str. V 109 [II 399, 19 St.] nach B 23 ἀλλ’ οἱ βροτοὶ δοκέουσι γεννᾶσθαι θεούς, τὴν σφετέρην δ’ ἐσθῆτα ἔχειν φωνήν τε δέμας τε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "CLEM. Str. v 110 [II 400, 1 St.] nach B 14 ἀλλ’ εἰ χεῖρας ἔχον βόες 〈ἵπποι τ’〉 ἠὲ λέοντες ἢ γράψαι χείρεσσι καὶ ἔργα τελεῖν ἅπερ ἄνδρες, ἵπποι μέν θ’ ἵπποισι βόες δέ τε βουσὶν ὁμοίας καί 〈κε〉 θεῶν ἰδέας ἔγραφον καὶ σώματ’ ἐποίουν τοιαῦθ’ οἷόν περ καὐτοὶ δέμας εἶχον 〈ἕκαστοι〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "CLEM. Str. VII 22 [III 16, 6 St.] Αἰθίοπές τε 〈θεοὺς σφετέρουσ〉 σιμοὺς μέλανάς τε Θρῆικές τε γλαυκοὺς καὶ πυρρούς 〈φασι πέλεσθαι〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "SCHOL. ARIST. Equ. 408 (vgl. Hesych. s. v. βάκχος) βάκχους ... τοὺς κλάδους, οὓς οἱ μύσται φέρουσι. μέμνηται δὲ Ξ. ἐν Σίλλοι ς· ἑστᾶσιν δ’ ἐλάτης 〈βάκχοι〉 πυκινὸν περὶ δῶμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "STOB. Ecl. I 8, 2. Flor. 29, 41. οὔτοι ἀπ’ ἀρχῆς πάντα θεοὶ θνητοῖς’ ὑπέδειξαν, ἀλλὰ χρόνωι ζητοῦντες ἐφευρίσκουσιν ἄμεινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "DIOG. I 23 [vgl. I 67, 21; 21 A 1 I 113, 20] δοκεῖ δὲ κατά τινας πρῶτος ἀστρολογῆσαι καὶ ἡλιακὰς ἐκλείψεις καὶ τροπὰς προειπεῖ ν, ὥς φησιν Εὔδημος ἐν τῆι περὶ τῶν Ἀστρολογουμένων ἱστορίαι [fr. 94 Speng. Vgl. 11 A 5 I 74, 20], ὅθεν αὐτὸν καὶ Ξ. καὶ Ἡρόδοτος θαυμάζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "—I 111 [vgl. I 113, 21] ὡς δὲ Ξ. ὁ Κολοφώνιος ἀκηκοέναι φησί, τέτταρα πρὸς τοῖς πεντήκοντα καὶ ἑκατόν (sc. ἔτη βιῶναι Ἐπιμενίδην).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "SCHOL. ARISTOPH. Pac. 697 ὁ Σιμωνίδης διεβέβλητο ἐπὶ φιλαργυρίαι .... χαριέντως δὲ πάνυ τῶι αὐτῶι λόγωι διέσυρε [ β τοῦ ἰαμβοποιοῦ] καὶ μέμνηται ὅτι σμικρολόγος ἦν. ὅθεν Ξενοφάνης κίμβικα αὐτὸν προσαγορεύει. Vgl. 21 A 22.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21a",
+      "text": "SCHOL. HOM. OXYRH. 1087, 40 (OX. Pap. VIII p. 103) τὸ Ἔρυκος παρὰ Ξενοφάνει ἐν ε Σίλλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22 (tit)",
+      "text": "ΠΑΡΩΙΔΙΑΙ ATHEN. Epit. II p. 54 E Ξ. ὁ Κολοφώνιος ἐν Παρωιδίαι ς · πὰρ πυρὶ χρὴ τοιαῦτα λέγειν χειμῶνος ἐν ὥρηι ἐν κλίνηι μαλακῆι κατακείμενον, ἔμπλεον ὄντα, πίνοντα γλυκὺν οἶνον, ὑποτρώγοντ’ ἐρεβίνθους· ‘τίς πόθεν εἶς ἀνδρῶν, πόσα τοι ἔτε’ ἐστί, φέριστε; πηλίκος ἦσθ’, ὅθ’ ὁ Μῆδος ἀφίκετο;‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "tit,23-41",
+      "text": "ΠΕΡΙ ΦΥΣΕΩΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "CLEM. Strom. V 109 (II 399, 16 St.) Ξ. ὁ Κολ. διδάσκων ὅτι εἷς καὶ ἀσώματος ὁ θεὸς ἐπιφέρει [vgl. A 30] · εἷς θεός, ἔν τε θεοῖσι καὶ ἀνθρώποισι μέγιστος, οὔτι δέμας θνητοῖσιν ὁμοίιος οὐδὲ νόημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "SEXT. adv. math. IX 144 [21 A 1 I 113, 26]. οὖλος ὁρᾶι, οὖλος δὲ νοεῖ, οὖλος δέ τ’ ἀκούει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "SIMPL. Phys. 23, 19 [A 31, 9] ἀλλ’ ἀπάνευθε πόνοιο νόου φρενὶ πάντα κραδαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "SIMPL. Phys. 23, 10 [A 31, 7] αἰεὶ δ’ ἐν ταὐτῶι μίμνει κινούμενος οὐδέν οὐδὲ μετέρχεσθαί μιν ἐπιπρέπει ἄλλοτε ἄλληι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "AËT. IV 5 [vgl. A 36] ἐκ γαίης γὰρ πάντα καὶ εἰς γῆν πάντα τελευτᾶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "ACHILL. Isag. 4 p. 34, 11 Maass [vgl. A 32. 33, 3 I 122, 26 ff.] γαίης μὲν τόδε πεῖρας ἄνω παρὰ ποσσὶν ὁρᾶται ἠέρι προσπλάζον, τὸ κάτω δ’ ἐς ἄπειρον ἱκνεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "SIMPLIC. Phys. 188, 32 [vgl. A 29 I 121, 10] γῆ καὶ ὕδωρ πάντ’ ἐσθ’ ὅσα γίνοντ(αι) ἠδὲ φύονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "AËT. III 4, 4 [= 21 A 46] SCHOL. GENAV. ad Φ 196 Ξ. ἐν τῶι Περὶ φύσεω ς· πηγὴ δ’ ἐστὶ θάλασσ(α) ὕδατος, πηγὴ δ’ ἀνέμοιο· οὔτε γὰρ ἐν νέφεσιν 〈γίνοιτό κε ἲς ἀνέμοιο ἐκπνείοντοσ〉 ἔσωθεν ἄνευ πόντου μεγάλοιο οὔτε ῥοαὶ ποταμῶν οὔτ’ αἰ〈θέροσ〉 ὄμβριον ὕδωρ, ἀλλὰ μέγας πόντος γενέτωρ νεφέων ἀνέμων τε καὶ ποταμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "HERACLIT. Alleg. Hom. c. 44 [Etymologie v. ὑπερίων] ἠέλιός θ’ ὑπεριέμενος γαῖάν τ’ ἐπιθάλπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "SCHOL. BLT Eust. ad Hom. Λ 27 ἥν τ’ Ἶριν καλέουσι, νέφος καὶ τοῦτο πέφυκε, πορφύρεον καὶ φοινίκεον καὶ χλωρὸν ἰδέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "SEXT. adv. math. X 314 πάντες γὰρ γαίης τε καὶ ὕδατος ἐκγενόμεσθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "SEXT. adv. math. VII 49. 110 PLUT. aud. poet. 2 p. 17 E καὶ τὸ μὲν οὖν σαφὲς οὔτις ἀνὴρ ἴδεν οὐδέ τις ἔσται εἰδὼς ἀμφὶ θεῶν τε καὶ ἅσσα λέγω περὶ πάντων· εἰ γὰρ καὶ τὰ μάλιστα τύχοι τετελεσμένον εἰπών, αὐτὸς ὅμως οὐκ οἶδε· δόκος δ’ ἐπὶ πᾶσι τέτυκται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "PLUT. Sympos. IX 7 p. 746 B ταῦτα δεδοξάσθω μὲν ἐοικότα τοῖς ἐτύμοισι ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "HERODIAN. π. διχρ. 296, 9 ὁππόσα δὴ θνητοῖσι πεφήνασιν εἰσοράασθαι ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "HERODIAN. π. μον. λέξ. 30, 30 καὶ μὲν ἐνὶ σπεάτεσσί τεοις καταλείβεται ὕδωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "HERODIAN. π. μον. λέξ. p. 41, 5 εἰ μὴ χλωρὸν ἔφυσε θεὸς μέλι, πολλὸν ἔφασκον γλύσσονα σῦκα πέλεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "POLLUX VI 46 κέρασον τὸ δένδρον ἐν τῶι Περὶ φύσεως Ξενοφάνους εὑρών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "ETYM. GEN. S. V. βρόταχον τὸν βάτραχον Ἴωνες [καὶ Ἀριστοφάνης φησὶ] καὶ παρὰ Ξενοφάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "TZETZ. ad Dion. Perieg. V. 940 p. 1010 Bernhardy περὶ τῶν εἰς ρος κανών (über σιρό ς) σιλλογράφος δέ τις τὸ σι μακρὸν γράφει τῶι ῥῶ, δοκεῖ μοι, τοῦτο μηκύνας τάχα. σιλλογράφος νῦν ὁ Ξενοφάνης ἐστὶ καὶ ὁ Τίμων καὶ ἕτεροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "HERODIAN. π. μον. λέξεως 7, 11 καὶ παρὰ Ξενοφάνει ἐν δ ωι Σίλλων· καί 〈κ’〉 ἐπιθυμήσειε νέος νῆς ἀμφιπόλοιο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "SCHOL. HIPPOCR. ad Epid. I 13, 3 [Nachmanson, Erotian. p. 102, 19] βληστρισμό ς: ὁ ῥιπτασμός· οὕτω Βακχεῖος τίθησιν· ἐν ἐνίοις δὲ ἀντιγράφοις εὕρομεν βλητρισμὸν χωρὶς τοῦ ς . ὄντως δὲ τὸν ῥιπτασμὸν σημαίνει, καθὼς καὶ Ξενοφάνης ὁ Κολοφώνιός φησιν· ‘ ἐγὼ δὲ ἐμαυτὸν πόλιν ἐκ πόλεως φέρων ἐβλήστριζον ‘ ἀντὶ τοῦ ἐρριπταζόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "beu-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "xenophanes-of-colophon-epigram-beu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "beu-aa",
+      "title": {
+        "english": "Fragments Silli and-Nature",
+        "ancient_greek": "Ἀποσπάσματα Σίλλοι καὶ Περὶ φύσεως"
+      },
+      "url_slug": "xenophanes-of-colophon-silli-nature-beu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ac",
+      "title": {
+        "english": "On Piety and Festivity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "xenophanes-of-colophon-testimonies-beu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffk-ah",
+      "title": {
+        "english": "Definitions",
+        "ancient_greek": "Ὅροι"
+      },
+      "url_slug": "plato-definitions-ffk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/definitions.json"
+      }
+    },
+    {
+      "eul_wid": "eho-aa",
+      "title": {
+        "english": "On Household Happiness",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callicratidas-the-spartan-household-happiness-eho-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callicratidas-the-spartan/household-happiness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan/household-happiness.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan/household-happiness.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan/household-happiness.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callicratidas-the-spartan/household-happiness.json"
+      }
+    },
+    {
+      "eul_wid": "uqo-ad",
+      "title": {
+        "english": "On Porphyry's Isagoge or Five Voices",
+        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς ἢ Πέντε Φωναί"
+      },
+      "url_slug": "ammonius-of-alexandria-phil-porphyry-isagoge-uqo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/ammonius-of-alexandria-phil/porphyry-isagoge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/porphyry-isagoge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/porphyry-isagoge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/porphyry-isagoge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/porphyry-isagoge.json"
+      }
+    },
+    {
+      "eul_wid": "crq-aa",
+      "title": {
+        "english": "On Virtue and the Soul",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theages-virtue-soul-crq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theages/virtue-soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages/virtue-soul.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages/virtue-soul.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages/virtue-soul.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theages/virtue-soul.json"
+      }
+    },
+    {
+      "eul_wid": "bwc-aa",
+      "title": {
+        "english": "On the Nature of Plurality",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-elea-nature-plurality-bwc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-elea/nature-plurality",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-elea/nature-plurality.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eo",
+      "title": {
+        "english": "Sertorius",
+        "ancient_greek": "Σερτώριος"
+      },
+      "url_slug": "plutarch-of-chaeronea-sertorius-okg-eo",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/sertorius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/sertorius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/sertorius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/sertorius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/sertorius.json"
+      }
+    },
+    {
+      "eul_wid": "bdq-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "cleostratus-of-tenedos-testimonies-bdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

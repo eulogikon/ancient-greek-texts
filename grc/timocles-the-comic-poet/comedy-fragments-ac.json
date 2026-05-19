@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hcq-ac",
+  "eul_aid": "hcq",
+  "author_slug": "timocles-the-comic-poet",
+  "work_slug": "comedy-fragments-ac",
+  "url_slug": "timocles-the-comic-poet-comedy-fragments-ac-hcq-ac",
+  "author": {
+    "english": "Timocles B Comic Poet",
+    "ancient_greek": "Τιμοκλῆς ὁ κωμῳδιοποιός"
+  },
+  "title": {
+    "english": "Fragments on Comedy",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Timocles the Comic Poet on eulogikon.org",
+    "meta_title": "Fragments of Timocles the Comic Poet in Ancient Greek",
+    "meta_description": "Surviving excerpts from the Athenian comic poet Timocles, late 4th century BCE. Free download in original ancient Greek at Eulogikon Archive and library"
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;Fragments on Comedy&quot; is a modern collective title for the surviving excerpts from the lost comedies of Timocles, an Athenian comic poet active in the late 4th century BCE. His career spanned the transitional period from Middle to New Comedy, marked by a shift away from direct political satire toward more generalized social and philosophical themes. The most substantial and significant fragment, preserved by the later author Athenaeus, contains a character&#x27;s speech offering a defense of comedy&#x27;s value. This meta-theatrical passage functions as a piece of literary criticism, arguing that comedy provides psychological consolation by allowing spectators to laugh at the misfortunes of others, thereby making their own troubles seem more bearable. Modern scholars interpret this as a direct engagement with contemporary philosophical debates concerning poetry&#x27;s moral and social utility.</p>\n<p class=\"research-text\">The corpus is not a unified work but a collection of fragments, primarily sourced from Timocles&#x27; play <strong>Dionysiazusae</strong>, quoted by later grammarians and anthologists like Athenaeus. Originally composed in Attic Greek verse for performance at Athenian dramatic festivals, these fragments now exist only as citations. Despite their fragmentary state, they provide crucial insight into the thematic concerns and self-referential commentary characteristic of Middle Comedy, illustrating how playwrights of the era reflected critically upon the purpose and function of their own art form.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[spk_—]Ἑρμῆc δ’ [ὁ] Μ〈α〉ί〈α〉c ταῦτα cυνδιακτο〈ρ〉εῖ, ἂν ἦι π[ρ]όθυμ〈ο〉c. — καταβέβηκεν ἄcμενοc, χαριζόμενοc γὰρ Ἀρ[ι]cτομήδηι τῶι καλῷ, ἵνα μηκέτ’ αὐτὸν ὁ Σάτυ[ρ]οc κλέπτην λέγηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Μ[α]ρcύαν δὲ τὸν φ[ί]λαυλον Αὐτοκλέα δεδαρμέν[ο]ν γυμνὸν ἑcτάναι καμίνωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "προcπεπατταλευμένον, Τηρέα τ’ Ἀριcτομήδην. — διὰ τί Τηρέα λέγειc; — διότι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τηρ[ε]ῖν δεῖ παρόντοc τοῦδε τὰ cκεύη cφόδρα,[ln_5]εἰ δὲ μή, Πρόκνη γενήcῃ, κνώμενοc τὸ κρανίον, ἂν ἀπολέcηιc. — ψυχρόν. — ἀλλὰ πρὸc θεῶν ἐπί[c]χετε μηδὲ cυρί〈ξ〉ητε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "θεὸc μὲν δηλαδὴ ἀγαθὴ Τύχη τ’ ἔνεcτιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hcq-ab",
+      "title": {
+        "english": "Comic Fragments on Demagogues",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημαγωγῶν"
+      },
+      "url_slug": "timocles-the-comic-poet-comic-demagogues-hcq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comic-demagogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-ad",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ad-hcq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-aa",
+      "title": {
+        "english": "Fragments on Rhetoric and Corruption",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Διαφθορᾶς"
+      },
+      "url_slug": "timocles-the-comic-poet-rhetoric-corruption-hcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/rhetoric-corruption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/rhetoric-corruption.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/rhetoric-corruption.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/rhetoric-corruption.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/rhetoric-corruption.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "eec-ab",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-fragments-eec-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "eyc-ab",
+      "title": {
+        "english": "Fragments on Golden Apples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μήλων Χρυσῶν"
+      },
+      "url_slug": "eriphus-the-comic-poet-golden-apples-ab-eyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eriphus-the-comic-poet/golden-apples-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.json"
+      }
+    },
+    {
+      "eul_wid": "jjw-aa",
+      "title": {
+        "english": "Fragments on Philosophy and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μωρίας"
+      },
+      "url_slug": "theognetus-the-comic-poet-philosophy-folly-jjw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognetus-the-comic-poet/philosophy-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ab",
+      "title": {
+        "english": "On Solon's Public Brothels",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-solon-brothels-lpe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/solon-brothels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aw",
+      "title": {
+        "english": "Theophorumene",
+        "ancient_greek": "Θεοφορουμένη"
+      },
+      "url_slug": "menander-of-athens-theophorumene-hps-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.json"
+      }
+    },
+    {
+      "eul_wid": "hps-au",
+      "title": {
+        "english": "Uncertain Fable",
+        "ancient_greek": "Ἄδηλος Μῦθος"
+      },
+      "url_slug": "menander-of-athens-uncertain-fable-hps-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/uncertain-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aa",
+      "title": {
+        "english": "Women at the Thesmophoria",
+        "ancient_greek": "Θεσμοφοριάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-thesmophoria-daw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ac",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

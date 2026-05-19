@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vtk-aa",
+  "eul_aid": "vtk",
+  "author_slug": "lexicographic-anonymous-ii",
+  "work_slug": "alphabet-etymology",
+  "url_slug": "lexicographic-anonymous-ii-alphabet-etymology-vtk-aa",
+  "author": {
+    "english": "Lexicographic Work Anonymous II",
+    "ancient_greek": "Λεξικογραφικὸν ἔργον ἀνώνυμον"
+  },
+  "title": {
+    "english": "Etymology of the Alphabet",
+    "ancient_greek": "Ἐτυμολογία τοῦ Ἀλφαβήτου"
+  },
+  "seo": {
+    "browser_title": "Etymology Alphabet by Lexicographic Work Anonymous II...",
+    "meta_title": "Classical Etymology of the Alphabet in Ancient Greek",
+    "meta_description": "A grammatical treatise exploring origins meanings of Greek letters. Anonymous work on ancient linguistic theory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<h3 class=\"research-heading\">Overview</h3>\n<p class=\"research-text\">The <strong>Ἐτυμολογία τοῦ Ἀλφαβήτου</strong> (Etymology of the Alphabet) is a brief, anonymous grammatical treatise consisting of six prose passages. It provides etymological explanations for the Greek alphabet, detailing the origins, names, and symbolic meanings of its letters, and belongs to the tradition of Greek grammatical scholarship.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Content</h3>\n<p class=\"research-text\">The work’s topics include:</p>\n<ul class=\"research-list\">\n<li class=\"research-item\">The origin and history of the Greek alphabet.</li>\n<li class=\"research-item\">The etymology of Greek letter names.</li>\n<li class=\"research-item\">The phonetic values and shapes of letters.</li>\n<li class=\"research-item\">The symbolic or numerical significance of letters.</li>\n</ul>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Transmission</h3>\n<p class=\"research-text\">The work is cataloged as &quot;Lexicographic Work Anonymous II,&quot; indicating a minor text likely preserved within medieval manuscripts containing grammatical anthologies.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Significance</h3>\n<p class=\"research-text\">While its direct influence is not documented, the treatise serves as a witness to the continuity of etymological and grammatical studies from antiquity through the Byzantine era, contributing to the preservation of linguistic knowledge and pedagogical methods.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "595 (11t)",
+      "text": "ΕΤΥΜΟΛΟΓΙΑ ΤΟΥ ΑΛΦΑΒΗΤΟΥ Α. Ἄλφα πόθεν ἐτυμολογεῖται; Παρὰ τὸ ἄλφω τὸ εὑρίσκω· ἢ παρὰ τὸ Ἄλεφ ὃ δηλοῖ τὸ μάθε· ἢ παρὰ τὸ ἀλοφῶ τὸ μανθάνω· ἢ παρὰ τὸ ἄλ φᾶ Γεργεσινῶν, ὃ σημαίνει, ἆρον φᾶ· κατ’ ἀρχᾶς προτρεπόμενον τὸν παῖδα ἆραι καὶ τραφῆναι γνῶσιν τὴν τῶν γραμμάτων. καὶ διάτι προτάσσει τὸ ἄλφα τῶν ἄλλων πάντων γραμμάτων; διότι ἡ γνῶσις τῶν γραμμάτων βρῶσις καὶ τροφὴ λέγεται· τὸ δὲ ἄλφα κατὰ Γεργεσαίους ἆρον καὶ τραφῆναι λέγεται. διὸ καὶ προτέτακται τῶν ἄλλων πάντων γραμμάτων· σημαίνει γὰρ τὸ Αλ τὸ ἆρον, γεύσου δὲ τὸ φάγε· καὶ πάλιν· διάτι προτάσσει τὸ Ἄλφα τῶν ἑτέρων εἴκοσι τριῶν γραμμάτων; διότι ἀφ’ ἑαυτοῦ ἄρχεται, καὶ εἰς αὐτὸ καταλήγει· εἰ γὰρ ὁλογράφος· αὐτὸ τιθῇς, αὐτὸ μὲν ἄρχειν εὑρήσεις ὁμοίως καὶ λήγειν· (sic) ἐνκαρδίως δὲ κέκτηται τὸ φ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "596 (11)",
+      "text": "Β. Βῆτα πόθεν ἐτυμολογεῖται; Παρὰ τὸ βῶ τὸ βαίνω, ἐν τοῖς μαθήμασιν. καὶ ἄλλως. Βάττα τὸ ἴχνος, καὶ τροπῇ τοῦ ᾶ εἰς ἡ βῆτα· διὰ ταύτην γὰρ τὰ ἴχνη ἡμῶν προβαίνουσιν ἐν τοῖς γράμμασιν· καὶ ἄλλως· Βάσσα κατὰ Δωρυείους τὸ βυσσίον, ὃ λέγεται βυκιόν (sic), καὶ τροπῇ τοῦ ς εἰς τ, βάτα· καὶ αὖθις ἡμεῖς τατῶν (sic) Δωρυέων ἄλφα εἰς κάππα τρέπομεν, καὶ γίνεται βῆτα· βρύσιν (sic) ἔτες τὸ ἄλφα· τὸ βῆτα δὲ, καθὰ βυκκίον· καὶ τοῦτο, πρὸς τὴν βρύσιν εἰσερχόμενον, ἀντλεῖ ἡμῖν ὕδωρ τῆς γνώσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "597",
+      "text": "Τί ἐστι βῆτα; βάσις μαθήσεως τῶν γραμμάτων· τί ἐστιν βάσις; βάσις λέγεται καὶ ἡ ἀναβάθρα· ἤτουν ἡ ἀναβάταξις. βάσις δὲ λέγεται καὶ ἡ ἔμβασις τινὸς πρός τινα τέχνην, ἣν ἡ βῆτα σημαίνει· διὰ ταύτην γὰρ ἐμβαίνομεν πρὸς τὴν μάθησιν, παρελθόντες τὸ ᾶ. Γ. Τί ἐστι γάμα (sic); Γάνωσις τῶν γραμμάτων ἡδύτητος, ἤγουν γλυκύτητος· πόθεν Γάμα; παρὰ τὸ γαἲμ (sic), ὃ δηλοῖ τὴν γεῦσιν τῶν γραμμάτων γλυκύτητος. Δ. Δέλτα τόθεν ἐτυμολογεῖται; Παρὰ τὸ δὰλθ. Δὰλθ γὰρ λέγεται ὁ τέταρτος οὐρανὸς, διὸ καὶ τὸ τέταρτον στοιχεῖον δέλτα προσαγορεύεται. Ε. Ε πόθεν ἐτυμολογεῖται; Παρὰ τὸ ε͂ τὸ ἔειν καὶ φωτίζειν τὰς πέντε αἰσθήσεις ἡμῶν, ἐξ οὗ καὶ ἕως τὸ φῶς. Ζ. Ζῆτα πόθεν ἐτυμολογεῖται; Παρὰ τὸ ζεὶθ. ζεὶθ γὰρ λέγεται ὁ ἕβδομος οὐρανός. διὸ καὶ τὰ γεννώμενα βρέφη τῷ ἑβδόμῳ μηνὶ ζῶσι μὴ βλαβούμενα. Η. Ἦτα πόθεν ἐτυμολογεῖται; Παρὰ τὸ ἣθ, ὃ δηλοῖ τὸ σχῆμα, ἐξ οὗ καὶ ἦθος καὶ εὐκοσμία. Θ. Θῆτα πόθεν ἐτυμολογεῖται; Παρὰ τὸ Θώθ· Θὼθ δὲ λέγεται τὸ πέταλον τῶν παλαιῶν ἱερέων. Ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "598 (1t)",
+      "text": "Ἰῶτα πόθεν ἐτυμολογεῖται; Παρὰ τὸ Ἰὼδ δὲ ἠλεῖ ὄτης τοῦ νοός· διὸ καὶ ἐν τῷ τελείῳ ἀριθμῷ τοῦ ψήφου τῶν γραμμάτων ἰῶτα προετέθη. Κ. Κάππα πόθεν ἐτυμολογεῖται; Παρὰ τὸ Καῦ· Καῦ δὲ ὁ αἰθὴρ λέγεται, ἤγουν τὸ οὐράνιον πῦρ· διὸ καὶ καῦμα ἡ θερινὴ θερμασία. Λ. Λάμβδα πόθεν ἐτυμολογεῖται; Παρὰ τὸ λάβ· λὰβ δὲ τὸ διὰ μέσου τοῦ οὐρανοῦ καὶ τῆς γῆς χάσμα λέγεται. Μ. Μῖ (sic) πόθεν ἐτυμολογεῖται; Παρὰ τὸ Μᾶν ὃ σημαίνει τὴν οὐράνιον τροφήν. Ν. Ν πόθεν ἐτυμολογεῖται; Παρὰ τὸ Νᾶν, ὃ δηλοῖ τὸν ἄρτον· καὶ γὰρ πέραι νᾶν τὸν ἄρτον λέγουσιν· διὸ καὶ ἱνιν ἐν τῷ ἀρότρῳ σιδήριον, ὡς ἱνεῦον, ἤτοι ἀρτόδουλον. Ξ. Ξ πόθεν ἐτυμολογεῖται; Παρὰ τοῦ ξιφιαίου ἀστέρος· κατὰ μίμησιν γὰρ ἐκείνου γράφεται. Ο. Ο πόθεν ἐτυμολογεῖται; Παρὰ τὸ ὄειν κυκλοειδῶς. Ὀειδὸν γὰρ τὸν οὐρανὸν λέγομεν εἶναι, ἤτοι κυκλοειδῆ· διὸ καὶ τὸ ο οὕτως ἐκλήθη, ὡς κυκλοειδὲς καὶ αὐτὸ τυγχάνον. Π. Π πόθεν ἐτυμολογεῖται; Παρὰ τὸ πιάδας ἔχειν, ἤτοι ποιητικα κέντρα. Πιάδες γὰρ αἱ αὐτοῦ γραμμαὶ λέγονται. Ρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "599 (1t)",
+      "text": "Ρῶ πόθεν ἐτυμολογεῖται; Παρὰ τὸ ῥέειν τὴν αὐτοῦ γραμμὴν κάτω. Σ. Σίγμα πόθεν ἐτυμολογεῖται; Παρὰ τὸ κεῖσθαι αὐτῷ ὡς περση μαίαν πλαγίας· ἤτοι ὡς φλάμουλον κείμενον. Τ. Ταῦ πόθεν ἐτυμολογεῖται; Παρὰ τὸ τὼβ, ὃ δηλοῖ τὸ ἀγαθὸν. Υ. Υ πόθεν ἐτυμολογεῖται; Παρὰ τὸ ὑακὸς κεῖσθαι αὐτὸ, ἤγουν νεφελιακῶς, ὥσπερ ὕδατος πλῆρες. Φ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "600 (1t)",
+      "text": "Φ πόθεν ἐτυμολογεῖται; Παρὰ τὸ φαεινῶς γράφεσθαι αὐτὸ, ὥσπερ φωτὶ ὠπτόμενον παρά τινος. Χ. Χ πόθεν ἐτυμολογεῖται; Παρὰ τὸ χέεσθαι αὐτὸ ἔνθεν κᾳκεῖθεν. Ψ. Ψ πόθεν ἐτυμολογεῖται; Παρὰ τὸ ψιακῶς γράφεσθαι αὐτὸ καὶ μιμεῖσθαι τὰς τοῦ αὐτοῦ ψιάς. Ω. (sic) Ω δὲ ῶ τὸ μέγα, διπλασιασμὸς τοῦ ο τοῦ ο μικροῦ, διὸ καὶ μέγα ἐκλήθη. Ἐδιπλασιάσθη δὲ πρὸς ἀναπλήρωσιν τῶν εἴκοσι τεσσάρων ὡρῶν τοῦ νυχθημέρου.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vuy-aa",
+      "title": {
+        "english": "Description of the Cosmic Tablet",
+        "ancient_greek": "Ἔκφρασις τοῦ κοσμικοῦ πίνακος"
+      },
+      "url_slug": "john-of-gaza-cosmic-tablet-vuy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-gaza/cosmic-tablet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-gaza/cosmic-tablet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-gaza/cosmic-tablet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-gaza/cosmic-tablet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-gaza/cosmic-tablet.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ac",
+      "title": {
+        "english": "Introductory Canons-Noun Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-noun-inflection-vdq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-noun-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-at",
+      "title": {
+        "english": "On Declension of Names",
+        "ancient_greek": "Περὶ κλίσεως ὀνομάτων"
+      },
+      "url_slug": "herodian-of-alexandria-declension-names-qnq-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/declension-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ab",
+      "title": {
+        "english": "On the Gospel According to John Two Excerpts",
+        "ancient_greek": "Περὶ τοῦ Κατὰ Ἰωάννην Εὐαγγελίου Δύο Ἐξαίρετα"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-gospel-john-excerpts-uxw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/gospel-john-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "kqy-ab",
+      "title": {
+        "english": "On the Iberian People",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "sosibius-of-sparta-iberian-people-kqy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosibius-of-sparta/iberian-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/iberian-people.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/iberian-people.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/iberian-people.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/iberian-people.json"
+      }
+    },
+    {
+      "eul_wid": "ppu-af",
+      "title": {
+        "english": "Scholia on Pindar (Olympians, Pythians, Isthmians)",
+        "ancient_greek": "Σχόλια εἰς Πίνδαρον Ἰσθμιακά"
+      },
+      "url_slug": "pindar-scholia-scholia-af-ppu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/scholia-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/scholia-af.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ab",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ab-ngq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.json"
+      }
+    },
+    {
+      "eul_wid": "tem-aa",
+      "title": {
+        "english": "Scholia-Hermogenes's Book-Issues",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἑρμογένους περὶ στάσεων"
+      },
+      "url_slug": "syrianus-sopater-marcellinus-scholia-hermogenes-tem-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/syrianus-sopater-marcellinus/scholia-hermogenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus/scholia-hermogenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus/scholia-hermogenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus/scholia-hermogenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-sopater-marcellinus/scholia-hermogenes.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lexicographic-anonymous-ii/alphabet-etymology",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

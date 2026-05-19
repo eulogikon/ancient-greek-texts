@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cxa-aa",
+  "eul_aid": "cxa",
+  "author_slug": "magnes-the-comic-poet",
+  "work_slug": "life-fragments",
+  "url_slug": "magnes-the-comic-poet-life-fragments-cxa-aa",
+  "author": {
+    "english": "Magnes Comicus",
+    "ancient_greek": "Μάγνης ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βίου"
+  },
+  "seo": {
+    "browser_title": "Fragments of Magnes Comicus Comic Verse on Eulogikon",
+    "meta_title": "Classical Fragments of Magnes Comicus in Ancient Greek Text",
+    "meta_description": "Fragments of comic verse by Magnes Comicus, representing 5th century BCE Athenian comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Life</strong> is a modern compilation of eleven short passages attributed to the Athenian comic poet Magnes, a significant figure in the early development of Old Comedy during the fifth century BCE. These surviving lines are not excerpts from a single, unified play but are remnants of his lost works, grouped under the thematic heading &quot;On Life.&quot; Written in Attic Greek verse, the fragments provide fleeting insights into his subject matter, with references to food, musical modes, and mythological parody. The text survives only through quotation by later ancient authors, most notably the scholar Athenaeus, who preserved these lines in his expansive work <strong>The Learned Banqueters</strong>. The content suggests a comedy rich in visual spectacle. Following Aristotle&#x27;s later critique, modern scholars interpret Magnes&#x27;s style as one that relied heavily on actor-driven performance and impersonation rather than intricate plot construction. His historical importance lies in his representation of an early and popular phase of Athenian comic theater, which would later evolve into the more structurally complex and narrative-focused works of his successors, such as Aristophanes.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ταγηνίας ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τεθέασαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χλιαροὺς σίζοντας, ὅταν αὐτοῖσιν ἐπιχέῃς μέλι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "καὶ ταῦτα μέν μοι τῶν κακῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παροψίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "λούσαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "χρὴ καὶ βακκάριδι κεχριμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ὀνειρομάντεσιν ἀναλύταις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "οὐκ ἔστιν οὐδεὶς οὐδ’ ὁ Μυσῶν ἔσχατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "εἰπέ μοι, νυνδὴ μὲν ὤμνυς μὴ γεγονέναι, νῦν δὲ φῄς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "ἀπρόστομον (ξίφος)",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cxa-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "magnes-the-comic-poet-comic-fragments-cxa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnes-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efg-ab",
+      "title": {
+        "english": "Comic Fragments of Domestic Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ Κωμικά"
+      },
+      "url_slug": "theopompus-the-comic-poet-domestic-life-efg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/domestic-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.json"
+      }
+    },
+    {
+      "eul_wid": "fim-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-ab-fim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.json"
+      }
+    },
+    {
+      "eul_wid": "foq-aa",
+      "title": {
+        "english": "Fragments on Courtesans and Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Βίου"
+      },
+      "url_slug": "amphis-the-comic-poet-courtesans-life-foq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/amphis-the-comic-poet/courtesans-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.json"
+      }
+    },
+    {
+      "eul_wid": "duw-ac",
+      "title": {
+        "english": "Fragments on Domestic Strife",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκογενειακῆς Στάσεως"
+      },
+      "url_slug": "phrynichus-the-comic-poet-domestic-strife-duw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/domestic-strife",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.json"
+      }
+    },
+    {
+      "eul_wid": "hbw-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "anaxandrides-comicus-fate-hbw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandrides-comicus/fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bi",
+      "title": {
+        "english": "Perinthia",
+        "ancient_greek": "Περίνθια"
+      },
+      "url_slug": "menander-of-athens-perinthia-hps-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/perinthia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.json"
+      }
+    },
+    {
+      "eul_wid": "gmw-aa",
+      "title": {
+        "english": "Symposium and Drinking Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hps-au",
+      "title": {
+        "english": "Uncertain Fable",
+        "ancient_greek": "Ἄδηλος Μῦθος"
+      },
+      "url_slug": "menander-of-athens-uncertain-fable-hps-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/uncertain-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

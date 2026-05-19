@@ -1,0 +1,636 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fge-aj",
+  "eul_aid": "fge",
+  "author_slug": "isaeus-the-orator",
+  "work_slug": "chiron",
+  "url_slug": "isaeus-the-orator-chiron-fge-aj",
+  "author": {
+    "english": "Isaeus the Orator",
+    "ancient_greek": "Ἰσαῖος ὁ ῥήτωρ"
+  },
+  "title": {
+    "english": "On the Lot of Chiron",
+    "ancient_greek": "Περὶ τοῦ Κίρωνος κλήρου"
+  },
+  "seo": {
+    "browser_title": "On the Lot of Chiron by Isaeus on Eulogikon Digital Archive",
+    "meta_title": "Classical On the Lot of Chiron by Isaeus in Ancient Greek",
+    "meta_description": "A forensic speech by Isaeus on an Athenian inheritance dispute. Classical Attic legal argument. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Lot of Chiron</strong> is a complete forensic oration by the fourth-century BCE Athenian logographer Isaeus. Written for a private inheritance dispute, the speech argues the case of a claimant to the estate of a man named Ciron, who died without a direct male heir. The unnamed speaker identifies himself as Ciron’s grandson through a daughter, asserting his right as the closest legitimate descendant. He contends against the rival claims of Ciron’s nephews, who are portrayed as motivated by greed for a substantial estate. The speaker’s argument systematically employs witness testimony, references to public records and documentation of family rituals, and pointed appeals to Athenian laws governing intestate succession. The core of his rhetorical strategy is to establish his mother’s legitimacy and his own consequent status as a genuine grandson, while undermining the credibility and motives of his opponents.</p>\n<p class=\"research-text\">The speech survives intact among the eleven authentic orations of Isaeus and exemplifies his specialized practice in the intricate field of inheritance law. Composed for delivery before a large jury of Athenian citizens, it illuminates the critical importance of proving familial descent in Athenian society, where a successful claim conferred not only wealth but also social standing and religious obligations to maintain the household cult. Modern scholarship regards the oration as a masterful specimen of Isaeus’s methodical and clear argumentation, as well as an invaluable historical source for the practical application of Athenian family law, the structure of kinship, and the professional craft of speechwriting for the courts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Or8 1",
+      "text": "Ἐπὶ τοῖς τοιούτοις, ὦ ἄνδρες, ἀνάγκη ἐστὶ χαλεπῶς φέρειν, ὅταν τινὲς μὴ μόνον τῶν ἀλλοτρίων ἀμφισβητεῖν τολμῶσιν, ἀλλὰ καὶ τὰ ἐκ τῶν νόμων δίκαια τοῖς σφετέροις αὐτῶν λόγοις ἀφανιεῖν ἐλπίζωσιν· ὅπερ καὶ νῦν οὗτοι ποιεῖν ἐγχειροῦσι. Τοῦ γὰρ ἡμετέρου πάππου Κίρωνος οὐκ ἄπαιδος τελευτήσαντος, ἀλλ’ ἡμᾶς ἐκ θυγατρὸς αὑτοῦ γνησίας παῖδας αὑτῷ καταλελοιπότος, οὗτοι τοῦ τε κλήρου λαγχάνουσιν ὡς ἐγγυτάτω γένους ὄντες, ἡμᾶς 〈τε〉 ὑβρίζουσιν ὡς οὐκ ἐξ ἐκείνου θυγατρὸς ὄντας, οὐδὲ γενομένης αὐτῷ πώποτε τὸ παράπαν. Αἴτιον δὲ τοῦ ταῦτα ποιεῖν αὐτούς ἐστιν ἡ τούτων πλεονεξία 〈καὶ〉 τὸ πλῆθος τῶν χρημάτων ὧν Κίρων μὲν καταλέλοιπεν, οὗτοι δ’ ἔχουσι βιασάμενοι καὶ κρατοῦσι· καὶ τολμῶσιν ἅμα μὲν λέγειν ὡς οὐδὲν καταλέλοιπεν ἐκεῖνος, ἅμα δὲ ποιεῖσθαι τοῦ κλήρου τὴν ἀμφισβήτησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 3",
+      "text": "Τὴν μὲν οὖν κρίσιν οὐ δεῖ μοι νομίζειν εἶναι ταύτην πρὸς τὸν εἰληχότα τοῦ κλήρου τὴν δίκην, ἀλλὰ πρὸς Διοκλέα τὸν Φλυέα, τὸν Ὀρέστην ἐπικαλούμενον· οὗτος γάρ ἐστιν ‖ ὁ τοῦτον παρασκευάσας πράγμαθ’ ἡμῖν παρέχειν, ἀποστερῶν τὰ χρήματα ἃ Κίρων ὁ πάππος ἀποθνῄσκων κατέλιπεν, ἡμῖν δὲ τούτους τοὺς κινδύνους ἐπάγων, ἵνα μηδὲν ἀποδιδῷ τούτων, ἐὰν ὑμεῖς ἐξαπατηθῆτε πεισθέντες ὑπὸ τῶν τούτου λόγων. Δεῖ δὴ τούτων τοιαῦτα μηχανωμένων πάνθ’ ὑμᾶς τὰ πεπραγμένα μαθεῖν, ἵνα μηδὲν ἀγνοήσαντες τῶν γεγενημένων, ἀλλὰ σαφῶς εἰδότες περὶ αὐτῶν, οὕτως ἐνέγκητε τὴν ψῆφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 4",
+      "text": "Εἴ τινι οὖν καὶ ἄλλῃ πώποτε δίκῃ προσέσχετε ἀκριβῶς τὸν νοῦν, δέομαι ὑμῶν καὶ ταύτῃ προσέχειν ὁμοίως, ὥσπερ καὶ τὸ δίκαιόν ἐστι. Πολλῶν δὲ δικῶν ἐν τῇ πόλει γενομένων, οὐδένες ἀναιδέστερον τούτων οὐδὲ καταφανέστερον ἀντιποιησάμενοι φανήσονται τῶν ἀλλοτρίων. Ἔστι μὲν οὖν χαλεπόν, ὦ ἄνδρες, πρὸς παρασκευὰς λόγων καὶ μάρτυρας οὐ τἀληθῆ μαρτυροῦντας εἰς ἀγῶνα καθίστασθαι περὶ τηλικούτων, παντάπασιν ἀπείρως ἔχοντα δικαστηρίων· οὐ μὴν ἀλλὰ πολλὰς ἐλπίδας ἔχω καὶ παρ’ ὑμῶν τεύξεσθαι τῶν δικαίων καὶ μέχρι γε τοῦ τὰ δίκαια εἰπεῖν καὶ αὐτὸς ἀρκούντως ἐρεῖν, ἐὰν μή τι συμβῇ τοιοῦτον ὃ νῦν ὑπ’ ἐμοῦ τυγχάνει προσδοκώμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 5",
+      "text": "Δέομαι οὖν ὑμῶν, ὦ ἄνδρες, μετ’ εὐνοίας τέ μου ἀκοῦσαι, κἂν ἠδικῆσθαι δοκῶ, βοηθῆσαί μοι τὰ δίκαια. Πρῶτον μὲν οὖν, ὡς ἦν ἡ μήτηρ ἡ ’μὴ Κίρωνος θυγάτηρ γνησία, ἐπιδείξω τοῦτο ὑμῖν, τὰ μὲν πάλαι γεγενημένα λόγων ἀκοῇ καὶ μαρτύρων, τὰ δ’ ὥστε καὶ μνημονεύεσθαι, τοῖς εἰδόσι χρώμενος μάρτυσιν, ἔτι δὲ τεκμηρίοις ἃ κρείττω τῶν μαρτυριῶν ἐστιν· ἐπειδὰν δὲ ταῦτα φανερὰ καταστήσω, τόθ’ ὡς καὶ κληρονομεῖν μᾶλλον ἡμῖν ἢ τούτοις προσήκει τῶν Κίρωνος χρημάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 6",
+      "text": "Ὅθεν οὖν ἤρξαντο περὶ αὐτῶν, ἐντεῦθεν ὑμᾶς κἀγὼ πειράσομαι διδάσκειν. Ὁ γὰρ πάππος ὁ ἐμός, ὦ ἄνδρες, Κίρων ἔγημε τὴν ἐμὴν τήθην οὖσαν ἀνεψιάν, ἐξ ἀδελφῆς τῆς αὑτοῦ μητρὸς αὐτὴν γεγενημένην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 7",
+      "text": "Ἐκείνη μὲν οὖν συνοικήσασα οὐ πολὺν χρόνον, τεκοῦσα αὐτῷ τὴν ἐμὴν μητέρα μετὰ ἐνιαυτοὺς τέτταρας τὸν βίον ἐτελεύτησεν· ὁ δὲ πάππος, μιᾶς μόνης οὔσης αὐτῷ θυγατρός, λαμβάνει πάλιν τὴν Διοκλέους ἀδελφήν, ἐξ ἧς αὐτῷ γίγνεσθον ὑεῖς δύο. Καὶ ἐκείνην τε ἔτρεφε παρὰ τῇ γυναικὶ καὶ μετὰ τῶν ἐξ ἐκείνης παίδων, ἐκείνων τε ἔτι ζώντων, ἐπεὶ συνοικεῖν εἶχεν ἡλικίαν, ἐκδίδωσιν αὐτὴν Ναυσιμένει Χολαργεῖ, σὺν ἱματίοις καὶ χρυσίοις πέντε καὶ εἴκοσι μνᾶς ἐπιδούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 8",
+      "text": "Κἀκεῖνος μὲν τρισὶν ἢ τέτταρσιν ἔτεσι μετὰ ταῦτα καμὼν ἀποθνῄσκει, πρὶν αὐτῷ γενέσθαι παῖδας ἐκ τῆς ἡμετέρας μητρός· ὁ δὲ πάππος, κομισάμενος αὐτὴν καὶ τὴν προῖκα οὐκ ἀπολαβὼν ὅσην ἔδωκε διὰ τὴν Ναυσιμένους ἀπορίαν τῶν πραγμάτων, πάλιν ἐκδίδωσι τῷ ἐμῷ πατρὶ καὶ χιλίας δραχμὰς προῖκ’ ἐπιδίδωσι. Ταυτὶ δὴ πάντα πρὸς τὰς αἰτίας ἃς νῦν οὗτοι λέγουσι πῶς ἄν τις δείξειε γεγενημένα φανερῶς; Ἐγὼ ζητῶν ἐξηῦρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 9",
+      "text": "Ἀνάγκη τὴν ἐμὴν μητέρα, εἴτε θυγάτηρ ἦν Κίρωνος εἴτε μή, καὶ εἰ παρ’ ἐκείνῳ διῃτᾶτο ἢ οὔ, καὶ γάμους εἰ διττοὺς ὑπὲρ ταύτης εἱστίασεν ἢ μή, καὶ προῖκα ἥντινα ἑκάτερος ἐπ’ αὐτῇ τῶν γημάντων ἔλαβε, πάντα ταῦτα εἰδέναι τοὺς οἰκέτας καὶ τὰς θεραπαίνας ἃς ἐκεῖνος ἐκέκτητο. Βουλόμενος οὖν πρὸς τοῖς ὑπάρχουσι μάρτυσιν ἔλεγχον ἐκ βασάνων ποιήσασθαι περὶ αὐτῶν, ἵνα μᾶλλον αὐτοῖς πιστεύητε μὴ μέλλουσι δώσειν ἔλεγχον, ἀλλ’ ἤδη δεδωκόσι περὶ ὧν μαρτυροῦσι, τούτους ἠξίουν ἐκδοῦναι τὰς θεραπαίνας καὶ τοὺς οἰκέτας περί τε τούτων καὶ περὶ τῶν ἄλλων ἁπάντων ὅσα τυγχάνουσι συνειδότες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 11",
+      "text": "Οὗτος δ’ ὁ νῦν ὑμᾶς ἀξιώσων τοῖς αὑτοῦ μάρτυσι πιστεύειν ἔφυγε τὴν βάσανον. Καίτοι εἰ φανήσεται ταῦτα ποιῆσαι μὴ ’θελήσας, τί ὑπολείπεται τοῖς ἐκείνου μάρτυσιν ἢ δοκεῖν νυνὶ τὰ ψευδῆ μαρτυρεῖν, τούτου τηλικοῦτον ἔλεγχον πεφευγότος; Ἐγὼ μὲν οἶμαι οὐδέν. Ἀλλὰ μὴν ὡς ἀληθῆ λέγω, λαβέ μοι πρῶτον ‖ ταύτην τὴν μαρτυρίαν καὶ ἀνάγνωθι. Μαρτυρία Ὑμεῖς μὲν τοίνυν καὶ ἰδίᾳ καὶ δημοσίᾳ βάσανον ἀκριβέστατον ἔλεγχον νομίζετε· καὶ ὁπόταν δοῦλοι καὶ ἐλεύθεροι παραγένωνται καὶ δέῃ εὑρεθῆναί τι τῶν ζητουμένων, οὐ χρῆσθε ταῖς τῶν ἐλευθέρων μαρτυρίαις, ἀλλὰ τοὺς δούλους βασανίζοντες, οὕτω ζητεῖτε εὑρεῖν τὴν ἀλήθειαν τῶν γεγενημένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 12",
+      "text": "Εἰκότως, ὦ ἄνδρες· σύνιστε γὰρ ὅτι τῶν μὲν μαρτυρησάντων ἤδη τινὲς ἔδοξαν οὐ τἀληθῆ μαρτυρῆσαι, τῶν δὲ βασανισθέντων οὐδένες πώποτε ἐξηλέγχθησαν ὡς οὐκ ἀληθῆ ἐκ τῶν βασάνων εἰπόντες. Οὗτος δ’ ὁ πάντων ἀναισχυντότατος ἀνθρώπων λόγοις πεπλασμένοις καὶ μάρτυσιν οὐ τἀληθῆ μαρτυροῦσιν ἀξιώσει πιστεύειν ὑμᾶς, φεύγων οὕτως ἀκριβεῖς ἐλέγχους; Ἀλλ’ οὐχ ἡμεῖς, ἀλλὰ πρότερον ὑπὲρ τῶν μαρτυρηθήσεσθαι μελλόντων ἀξιώσαντες εἰς βασάνους ἐλθεῖν, τούτους δὲ φεύγοντας 〈ἐπιδείξαντεσ〉, οὕτως οἰησόμεθα δεῖν ὑμᾶς τοῖς ἡμετέροις μάρτυσι πιστεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 13",
+      "text": "Λαβὲ οὖν αὐτοῖς ταυτασὶ τὰς μαρτυρίας καὶ ἀνάγνωθι. Μαρτυρίαι Τίνας εἰκὸς εἰδέναι τὰ παλαιά; Δῆλον ὅτι τοὺς χρωμένους τῷ πάππῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 14",
+      "text": "Μεμαρτυρήκασι τοίνυν ἀκοὴν οὗτοι. Τίνας 〈δ’〉 εἰδέναι τὰ περὶ τὴν ἔκδοσιν τῆς μητρὸς ἀνάγκη; Τοὺς ἐγγυησαμένους καὶ τοὺς ἐκείνοις παρόντας ὅτε ἠγγυῶντο. Μεμαρτυρήκασι τοίνυν οἵ τε Ναυσιμένους προσήκοντες καὶ οἱ τοῦ ἐμοῦ πατρός. Τίνες δὲ οἱ τρεφομένην ἔνδον καὶ θυγατέρα οὖσαν εἰδότες γνησίαν Κίρωνος; Οἱ νῦν ἀμφισβητοῦντες ἔργῳ φανερῶς μαρτυροῦσιν ὅτι ταῦτ’ ἐστὶν ἀληθῆ, φεύγοντες τὴν βάσανον. Ὥστε οὐ δήπου τοῖς ἡμετέροις ἂν ἀπιστήσαιτε εἰκότως, ἀλλὰ πολὺ μᾶλλον τοῖς τούτων μάρτυσιν. Ἡμεῖς τοίνυν καὶ ἄλλα τεκμήρια πρὸς τούτοις ἔχομεν εἰπεῖν, [ἵνα γνώσεσθε] ὅτι ἐκ θυγατρὸς ἡμεῖς Κίρωνός ἐσμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 15",
+      "text": "Οἷα γὰρ εἰκὸς παίδων [ὑέων] 〈ὄντων〉 ἐξ ἑαυτοῦ θυγατρός, οὐδεπώποτε θυσίαν ἄνευ ἡμῶν οὐδεμίαν ἐποίησεν, ἀλλ’ εἴτε μικρὰ εἴτε μεγάλα θύοι, πανταχοῦ παρῆμεν ἡμεῖς καὶ συνεθύομεν. Καὶ οὐ μόνον εἰς τὰ τοιαῦτα παρεκαλούμεθα, ἀλλὰ καὶ εἰς Διονύσια εἰς ἀγρὸν ἦγεν ἀεὶ ἡμᾶς, καὶ μετ’ ἐκείνου τε ἐθεωροῦμεν καθήμενοι παρ’ αὐτὸν καὶ τὰς ἑορτὰς ἤγομεν παρ’ ἐκεῖνον πάσας· τῷ Διί τε θύων τῷ Κτησίῳ, περὶ ἣν μάλιστ’ ἐκεῖνος θυσίαν ἐσπούδαζε καὶ οὔτε δούλους προσῆγεν οὔτε ἐλευθέρους ὀθνείους, ἀλλ’ αὐτὸς δι’ ἑαυτοῦ πάντ’ ἐποίει, ταύτης ἡμεῖς ἐκοινωνοῦμεν καὶ τὰ ἱερὰ συνεχειρουργοῦμεν καὶ συνεπετίθεμεν καὶ τἆλλα συνεποιοῦμεν, καὶ ηὔχετο ἡμῖν ὑγίειαν διδόναι καὶ κτῆσιν ἀγαθήν, ὥσπερ εἰκὸς ὄντα πάππον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 17",
+      "text": "Καίτοι εἰ μὴ θυγατριδοῦς ἡμᾶς ἐνόμιζεν εἶναι καὶ μόνους ἐκγόνους ἑώρα λοιποὺς καταλελειμμένους αὑτῷ, οὐκ ἄν ποτε ἐποίει τούτων οὐδέν, ἀλλὰ τόνδ’ ἂν αὑτῷ παρίστατο, ὃς ἀδελφιδοῦς αὐτοῦ νῦν εἶναί φησι. Καὶ ταῦθ’ ὅτι ἀληθῆ πάντ’ ἐστίν, ἀκριβέστατα μὲν οἱ τοῦ πάππου θεράποντες ἴσασιν, οὓς οὗτος παραδοῦναι εἰς βάσανον οὐκ ἠθέλησεν, ἴσασι δὲ περιφανέστατα καὶ τῶν ἐκείνῳ χρωμένων τινές, οὓς παρέξομαι μάρτυρας. Καί μοι λαβὲ τὰς μαρτυρίας καὶ ἀνάγνωθι. Μαρτυρίαι Οὐ τοίνυν ἐκ τούτων δῆλόν ἐστι μόνον ὅτι ἦν ἡμῶν ἡ μήτηρ θυγάτηρ γνησία Κίρωνος, ἀλλὰ καὶ ἐξ ὧν ὁ πατὴρ ἡμῶν ἔπραξε καὶ ἐξ ὧν αἱ γυναῖκες αἱ τῶν δημοτῶν περὶ αὐτῆς ἐγίγνωσκον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 18",
+      "text": "Ὅτε γὰρ ὁ πατὴρ αὐτὴν ἐλάμβανε, γάμους εἱστίασε καὶ ἐκάλεσε τρεῖς αὑτοῦ φίλους μετὰ τῶν αὑτοῦ προσηκόντων, τοῖς τε φράτερσι γαμηλίαν εἰσήνεγκε κατὰ τοὺς ἐκείνων νόμους. Αἵ τε γυναῖκες αἱ τῶν δημοτῶν μετὰ ταῦτα προύκριναν αὐτὴν μετὰ τῆς Διοκλέους γυναικὸς τοῦ Πιθέως ἄρχειν εἰς τὰ Θεσμοφόρια καὶ ποιεῖν τὰ νομιζόμενα μετ’ ἐκείνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 19",
+      "text": "Ὅ τε πατὴρ ἡμῶν, ἐπειδὴ ἐγενόμεθα, εἰς τοὺς φράτερας ἡμᾶς εἰσήγαγεν, ὀμόσας κατὰ τοὺς νόμους τοὺς κειμένους ἦ μὴν ἐξ ἀστῆς καὶ ἐγγυητῆς γυναικὸς εἰσάγειν· τῶν δὲ ‖ φρατέρων οὐδεὶς ἀντεῖπεν οὐδ’ ἠμφεσβήτησε μὴ οὐκ ἀληθῆ ταῦτα εἶναι, πολλῶν ὄντων καὶ ἀκριβῶς τὰ τοιαῦτα σκοπουμένων. Καίτοι μὴ οἴεσθ’ ἄν, εἰ τοιαύτη τις ἦν ἡ μήτηρ ἡμῶν οἵαν οὗτοί φασι, μήτ’ ἂν τὸν πατέρα ἡμῶν γάμους ἑστιᾶν καὶ γαμηλίαν εἰσενεγκεῖν, ἀλλὰ ἀποκρύψασθαι ταῦτα πάντα, μήτε τὰς τῶν ἄλλων δημοτῶν γυναῖκας αἱρεῖσθαι ἂν αὐτὴν συνιεροποιεῖν τῇ Διοκλέους γυναικὶ καὶ κυρίαν ποιεῖν ἱερῶν, ἀλλ’ ἑτέρᾳ ἄν τινι περὶ τούτων ἐπιτρέπειν, μήτε τοὺς φράτερας εἰσδέχεσθαι ἡμᾶς, ἀλλὰ κατηγορεῖν καὶ ἐξελέγχειν, εἰ μὴ πάντοθεν ἦν ὁμολογούμενον τὴν μητέρα ἡμῶν εἶναι θυγατέρα γνησίαν Κίρωνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 20",
+      "text": "Νῦν δὲ τῇ περιφανείᾳ τοῦ πράγματος καὶ τῷ συνειδέναι ταῦτα πολλοὺς οὐδαμόθεν ἠμφεσβητήθη τοιοῦτον οὐδέν. Καὶ ταῦθ’ ὡς ἀληθῆ λέγω, κάλει τούτων τοὺς μάρτυρας. Μάρτυρες Ἔτι τοίνυν, ὦ ἄνδρες, καὶ ἐξ ὧν ὁ Διοκλῆς ἔπραξεν ὅτε ἡμῶν ὁ πάππος ἐτελεύτησε, γνῶναι ῥᾴδιον ὅτι ὡμολογούμεθα εἶναι θυγατριδοῖ Κίρωνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 21",
+      "text": "Ἧκον γὰρ ἐγὼ κομιούμενος αὐτὸν ὡς θάψων ἐκ τῆς οἰκίας τῆς ἐμαυτοῦ, τῶν ἐμαυτοῦ οἰκείων τινὰ ἔχων, ἀνεψιὸν τοῦ πατρός· καὶ Διοκλέα μὲν οὐ κατέλαβον ἔνδον, εἰσελθὼν δὲ εἴσω κομίζειν οἷος ἦν, ἔχων τοὺς οἴσοντας. Δεομένης δὲ τῆς τοῦ πάππου γυναικὸς ἐκ τῆς οἰκίας αὐτὸν ἐκείνης θάπτειν καὶ λεγούσης ὅτι βούλοιτ’ ἂν αὐτὴ τὸ σῶμα τὸ ἐκείνου συμμεταχειρίζεσθαι μεθ’ ἡμῶν καὶ κοσμῆσαι, καὶ ταῦτα ἱκετευούσης καὶ κλαιούσης, ἐπείσθην, ὦ ἄνδρες, καὶ τούτῳ προσελθὼν μαρτύρων ἐναντίον εἶπον ὅτι ἐντεῦθεν ποιήσομαι τὴν ταφήν, δεδεημένη γὰρ εἴη ταῦτα ποιεῖν ἡ τούτου ἀδελφή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 23",
+      "text": "Καὶ ταῦτα Διοκλῆς ἀκούσας οὐδὲν ἀντεῖπεν, ἀλλὰ καὶ ἐωνῆσθαί τι τῶν εἰς τὴν ταφήν, τῶν δὲ ἀρραβῶνα δεδωκέναι αὐτὸς φάσκων ταῦτα ἠξίου παρ’ ἐμοῦ λαβεῖν, καὶ διωμολογήσατο τῶν μὲν ἠγορασμένων τιμὴν ἀπολαβεῖν, ὧν δὲ ἀρραβῶνα ἔφασκε δεδωκέναι συστῆσαι τοὺς λαβόντας. Εὐθὺς οὖν τοῦτο παρεφθέγγετο, ὡς οὐδ’ ὁτιοῦν εἴη Κίρων καταλελοιπώς, οὐδένα λόγον ἐμοῦ πω ποιουμένου περὶ τῶν ἐκείνου χρημάτων. Καίτοι εἰ μὴ ἦν θυγατριδοῦς Κίρωνος, οὐκ ἂν ταῦτα διωμολογεῖτο, ἀλλ’ ἐκείνους ἂν τοὺς λόγους ἔλεγε· «Σὺ δὲ τίς εἶ; Σοὶ δὲ τί προσήκει θάπτειν; Οὐ γιγνώσκω σε· οὐ μὴ εἴσει εἰς τὴν οἰκίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 24",
+      "text": "» Ταῦτ’ εἰπεῖν προσῆκεν, ἅ περ νῦν ἑτέρους πέπεικε λέγειν. Νῦν δὲ τοιοῦτον μὲν οὐδὲν εἶπεν, εἰς ἕω δὲ τἀργύριον ἐκέλευεν εἰσενεγκεῖν. Καὶ ταῦτα ὡς ἀληθῆ λέγω, κάλει μοι τούτων τοὺς μάρτυρας. Μάρτυρες Οὐ τοίνυν ἐκεῖνος μόνος, ἀλλ’ οὐδὲ ὁ νῦν ἀμφισβητῶν τοῦ κλήρου τοιοῦτον εἶπεν οὐδέν, ἀλλ’ ὑπὸ τούτου παρασκευασθεὶς ἀμφισβητεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 25",
+      "text": "Κἀκείνου τὸ μὲν παρ’ ἐμοῦ κομισθὲν ἀργύριον οὐκ ἐθελήσαντος ἀπολαβεῖν, παρὰ τούτου δ’ ἀπειληφέναι τῇ ὑστεραίᾳ φάσκοντος, οὐκ ἐκωλυόμην συνθάπτειν, ἀλλὰ πάντα συνεποίουν· οὐχ ὅπως τοῦδε ἀναλίσκοντος οὐδὲ Διοκλέους, ἀλλ’ ἐξ ὧν ἐκεῖνος κατέλιπε γιγνομένων τῶν εἰς αὐτὸν ἀναλωμάτων. Καίτοι καὶ τούτῳ προσῆκεν, εἰ μὴ πάππος ἦν μοι Κίρων, ὠθεῖν 〈καὶ〉 ἐκβάλλειν καὶ κωλύειν συνθάπτειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 26",
+      "text": "Οὐδὲν γὰρ ὅμοιον ἦν μοι πρὸς τοῦτον· ἐγὼ μὲν γὰρ εἴων αὐτὸν ἀδελφιδοῦν ὄντα τοῦ πάππου ταῦτα πάντα συμποιεῖν, τούτῳ δ’ ἔμ’ οὐ προσῆκεν ἐᾶν, εἴπερ ἀληθῆ ταῦτα ἦν ἅ περ νῦν λέγειν τολμῶσιν. Ἀλλ’ οὕτω τῇ τοῦ πράγματος ἀληθείᾳ κατεπέπληκτο ὥστ’ οὐδ’ ἐπὶ τοῦ μνήματος ἐμοῦ ποιουμένου λόγους καὶ κατηγοροῦντος Διοκλέους ὅτι τὰ χρήματα ἀποστερῶν τοῦτόν μοι πέπεικεν ἀμφισβητεῖν, οὐκ ἐτόλμησεν γρῦξαι τὸ παράπαν οὐδὲν οὐδ’ εἰπεῖν ἃ νῦν τολμᾷ λέγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 27",
+      "text": "Καὶ ταῦθ’ ὅτι ἀληθῆ λέγω, κάλει μοι τούτων τοὺς μάρτυρας. Μάρτυρες Πόθεν χρὴ πιστεύεσθαι τὰ εἰρημένα; Οὐκ ἐκ τῶν μαρτυριῶν; οἶμαί γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 28",
+      "text": "Πόθεν δὲ τοὺς μάρτυρας; Οὐκ ἐκ τῶν βασάνων; Εἰκός γε. Πόθεν ‖ δ’ ἀπιστεῖν τοῖς τούτων λόγοις; Οὐκ ἐκ τοῦ φεύγειν τοὺς ἐλέγχους; Ἀνάγκη μεγάλη. Πῶς οὖν ἄν τις σαφέστερον ἐπιδείξειε γνησίαν οὖσαν θυγατέρα Κίρωνος τὴν μητέρα τὴν ἐμὴν ἢ τοῦτον τὸν τρόπον ἐπιδεικνύς; Τῶν μὲν παλαιῶν ἀκοὴν μαρτυρούντων παρεχόμενος, τῶν δὲ ἔτι ζώντων τοὺς εἰδότας ἕκαστα τούτων, οἳ συνῄδεσαν παρ’ ἐκείνῳ τρεφομένην, θυγατέρα νομιζομένην, δὶς ἐκδοθεῖσαν, δὶς ἐγγυηθεῖσαν, ἔτι δὲ περὶ πάντων τούτους βάσανον ἐξ οἰκετῶν πεφευγότας, οἳ ταῦτα πάντα ᾔδεσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 29",
+      "text": "Ἔγωγε μὰ τοὺς θεοὺς τοὺς Ὀλυμπίους οὐκ ἂν ἔχοιμι πίστεις μείζους τούτων εἰπεῖν, ἀλλ’ ἱκανὰς εἶναι νομίζω τὰς εἰρημένας. Φέρε δή, καὶ ὡς προσήκει ἐμοὶ μᾶλλον ἢ τούτῳ τῶν Κίρωνος χρημάτων, νῦν ἤδη τοῦτο ἐπιδείξω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 30",
+      "text": "Καὶ νομίζω μὲν ἁπλῶς καὶ ὑμῖν ἤδη εἶναι φανερὸν ὅτι οὐκ ἐγγυτέρω τῆς ἀγχιστείας εἰσὶν οἱ μετ’ ἐκείνου φύντες ἢ οἱ ἐξ ἐκείνου γεγονότες. Πῶς γάρ; Οἱ μὲν γὰρ ὀνομάζονται συγγενεῖς, οἱ δ’ ἔκγονοι τοῦ τελευτήσαντος. Οὐ μὴν ἀλλ’ ἐπειδὴ καὶ οὕτως ἐχόντων τολμῶσιν ἀμφισβητεῖν, καὶ ἐξ αὐτῶν τῶν νόμων ἀκριβέστερον διδάξομεν. Εἰ γὰρ ἔζη μὲν ἡ ἐμὴ μήτηρ, θυγάτηρ δὲ Κίρωνος, μηδὲν δὲ ἐκεῖνος διαθέμενος ἐτελεύτησεν, ἦν δὲ ἀδελφὸς οὗτος αὐτῷ, μὴ ἀδελφιδοῦς, συνοικῆσαι μὲν ἂν τῇ γυναικὶ κύριος ἦν, τῶν δὲ χρημάτων οὐκ ἄν, ἀλλ’ οἱ γενόμενοι παῖδες ἐκ τούτου καὶ ἐξ ἐκείνης, ὁπότε ἐπὶ δίετες ἥβησαν· οὕτω γὰρ οἱ νόμοι κελεύουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 31",
+      "text": "Εἰ τοίνυν καὶ ζώσης κύριος αὐτὸς μὴ ἐγένετο τῶν τῆς γυναικός, ἀλλ’ οἱ παῖδες, δῆλον ὅτι καὶ τετελευτηκυίας, ἐπεὶ παῖδας ἡμᾶς καταλέλοιπεν, οὐ τούτοις, ἀλλ’ ἡμῖν προσήκει κληρονομεῖν τῶν χρημάτων. Οὐ τοίνυν ἐκ τούτου μόνον, ἀλλὰ καὶ ἐκ τοῦ περὶ τῆς κακώσεως νόμου δῆλόν ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 32",
+      "text": "Εἰ γὰρ ἔζη μὲν ὁ πάππος, ἐνδεὴς δὲ ἦν τῶν ἐπιτηδείων, οὐκ ἂν οὗτος ὑπόδικος ἦν τῆς κακώσεως, ἀλλ’ ἡμεῖς. Κελεύει γὰρ τρέφειν τοὺς γονέας· γονεῖς δ’ εἰσὶ μήτηρ καὶ πατὴρ καὶ πάππος καὶ τήθη καὶ τούτων μήτηρ καὶ πατήρ, ἐὰν ἔτι ζῶσιν· ἐκεῖνοι γὰρ ἀρχὴ τοῦ γένους εἰσὶ καὶ τὰ ἐκείνων παραδίδοται τοῖς ἐγγόνοις· διόπερ ἀνάγκη τρέφειν αὐτούς ἐστι, κἂν μηδὲν καταλίπωσι. Πῶς οὖν δίκαιόν ἐστιν, ἐὰν μὲν μηδὲν καταλίπωσιν, ἡμᾶς ὑποδίκους εἶναι τῆς κακώσεως, ἐὰν μὴ τρέφωμεν, εἰ δέ τι καταλελοίπασι, τόνδ’ εἶναι κληρονόμον, ἀλλὰ μὴ ἡμᾶς; Οὐδαμῶς δήπουθεν. Πρὸς ἕνα δὲ τὸν πρῶτον τῶν συγγενῶν προσάξω καὶ τοῦ γένους καθ’ ἕκαστον ὑμᾶς ἐρωτήσω· ῥᾷστα γὰρ οὕτω μάθοιτ’ ἄν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 33",
+      "text": "Κίρωνος πότερον θυγάτηρ ἢ ἀδελφὸς ἐγγυτέρω τοῦ γένους ἐστί; Δῆλον γὰρ ὅτι θυγάτηρ· ἡ μὲν γὰρ ἐξ ἐκείνου γέγονεν, ὁ δὲ μετ’ ἐκείνου. Θυγατρὸς δὲ παῖδες ἢ ἀδελφός; Παῖδες δήπουθεν· γένος γάρ, ἀλλ’ οὐχὶ συγγένεια τοῦτ’ ἔστιν. Εἰ δὴ προέχομεν ἀδελφοῦ τοσοῦτον, ἦ που τοῦδέ γ’ ὄντος ἀδελφιδοῦ πάμπολυ πρότεροί ἐσμεν. Δέδοικα δὲ μὴ λίαν ὁμολογούμενα λέγων ἐνοχλεῖν ὑμῖν δόξω· πάντες γὰρ ὑμεῖς τῶν πατρῴων, τῶν παππῴων, τῶν ἔτι περαιτέρω κληρονομεῖτε ἐκ γένους παρειληφότες τὴν ἀγχιστείαν ἀνεπίδικον, καὶ οὐκ οἶδ’ εἴ τινι πρὸ τοῦ πώποτε τοιοῦτος ἀγὼν συμβέβηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 34",
+      "text": "Ἀναγνοὺς οὖν τὸν τῆς κακώσεως νόμον, ὧν ἕνεκα πάντα γίγνεται [καὶ] ταῦτα, ἤδη πειράσομαι διδάσκειν. Νόμος Κίρων γὰρ ἐκέκτητο οὐσίαν, ὦ ἄνδρες, ἀγρὸν μὲν Φλυῆσι, καὶ ταλάντου ῥᾳδίως ἄξιον, οἰκίας δ’ ἐν ἄστει δύο, τὴν μὲν μίαν μισθοφοροῦσαν, παρὰ τὸ ἐν Λίμναις Διονύσιον, χιλίας εὑρίσκουσαν, τὴν δ’ ἑτέραν ἐν ᾖ αὐτὸς ᾤκει, τριῶν καὶ δέκα μνῶν· ἔτι δὲ ἀνδράποδα μισθοφοροῦντα καὶ δύο θεραπαίνας καὶ παιδίσκην καὶ ἔπιπλα δι’ ὧν ᾤκει τὴν οἰκίαν, σχεδὸν σὺν τοῖς ἀνδραπόδοις ἄξια τριῶν καὶ δέκα μνῶν· σύμπαντα δὲ ὅσα φανερὰ ἦν, πλέον ἢ ἐνενήκοντα μνῶν· χωρὶς δὲ τούτων δανείσματα οὐκ ὀλίγα, ἀφ’ ὧν ἐκεῖνος τόκους ἐλάμβανε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 36",
+      "text": "Τούτοις Διοκλῆς μετὰ τῆς ἀδελφῆς ‖ πάλαι ἐπεβούλευεν, ἐπειδὴ τάχιστα οἱ Κίρωνος ἐτελεύτησαν. Ἐκείνην μὲν γὰρ οὐκ ἐξεδίδου δυναμένην ἔτι τεκεῖν παῖδας ἐξ ἑτέρου ἀνδρός, ἵνα μὴ χωρισθείσης περὶ τῶν αὑτοῦ βουλεύσαιτο καθάπερ προσῆκεν, ἔπειθε δὲ μένειν φάσκουσαν ἐξ αὐτοῦ κυεῖν οἴεσθαι, προσποιουμένην δὲ διαφθείρειν ἄκουσαν, ἵν’ ἐλπίζων ἀεὶ γενήσεσθαι παῖδας αὑτῷ μηδέτερον ἡμῶν εἰσποιήσαιτο ὑόν· καὶ τὸν πατέρα διέβαλλεν ἀεί, φάσκων αὐτὸν ἐπιβουλεύειν τοῖς ἐκείνου. Τά τε οὖν χρέα πάντα ὅσα ὠφείλετο αὐτῷ, καὶ 〈τοὺσ〉 τόκους ἔπειθε 〈πράξασθαι〉, τά τε φανερὰ δι’ αὑτοῦ ποιεῖσθαι, παράγων ἄνδρα πρεσβύτερον θεραπείαις καὶ κολακείαις, ἕως ἅπαντα τὰ ἐκείνου περιέλαβεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 37",
+      "text": "Εἰδὼς δὲ ὅτι πάντων ἐγὼ τούτων κατὰ τὸ προσῆκον εἶναι κύριος ζητήσω, ὁπόταν ὁ πάππος τελευτήσῃ, εἰσιέναι μέν με καὶ θεραπεύειν ἐκεῖνον καὶ συνδιατρίβειν οὐκ ἐκώλυε, δεδιὼς μὴ τραχυνθεὶς εἰς ὀργὴν κατασταίη πρὸς αὐτόν, παρεσκεύαζε δέ μοι τὸν ἀμφισβητήσοντα τῆς οὐσίας, μέρος πολλοστὸν τούτῳ μεταδιδοὺς εἰ κατορθώσειεν, αὑτῷ δὲ ταῦτα πάντα περιποιῶν καὶ οὐδὲ πρὸς τοῦτον ὁμολογῶν τὸν πάππον χρήματα καταλείπειν, ἀλλ’ εἶναι φάσκων οὐδέν. Καὶ ἐπειδὴ τάχιστα ἐτελεύτησεν, ἐντάφια προπαρασκευασάμενος τὸ μὲν ἀργύριον ἐμὲ ἐκέλευεν ἐνεγκεῖν, ὡς τῶν μαρτύρων ἠκούσατε μαρτυρησάντων, ἀπειληφέναι δὲ παρὰ τοῦδε προσεποιεῖτο, παρ’ ἐμοῦ δὲ οὐκέτι ἤθελεν ἀπολαβεῖν, ὑποπαρωθῶν ὅπως ἐκεῖνος δοκοίη θάπτειν, ἀλλὰ μὴ ἐγὼ τὸν πάππον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 38",
+      "text": "Ἀμφισβητοῦντος δὲ τούτου καὶ τῆς οἰκίας ταύτης καὶ τῶν ἄλλων ὧν ἐκεῖνος κατέλιπε, καὶ οὐδὲν φάσκοντος καταλελοιπέναι, βιάσασθαι μὲν καὶ τὸν πάππον μεταφέρειν ἐν ταῖς τοιαύταις ἀκαιρίαις οὐκ ᾤμην δεῖν, τῶν φίλων μοι ταῦτα συγγιγνωσκόντων, συνεποίουν δὲ καὶ συνέθαπτον, ἐξ ὧν ὁ πάππος κατέλιπε τῶν ἀναλωμάτων γιγνομένων. Καὶ ταῦτα μὲν οὕτως ἀναγκασθεὶς ἔπραξα τοῦτον τὸν τρόπον· ὅπως δὲ μηδέν μου ταύτῃ πλεονεκτοῖεν, παρ’ ὑμῖν φάσκοντες οὐδέν με εἰς τὴν ταφὴν ἀνηλωκέναι, τὸν ἐξηγητὴν ἐρόμενος ἐκείνου κελεύσαντος ἀνήλωσα παρ’ ἐμαυτοῦ 〈καὶ〉 τὰ ἔνατα ἐπήνεγκα, ὡς οἷόν τε κάλλιστα παρασκευάσας, ἵνα αὐτῶν ἐκκόψαιμι ταύτην τὴν ἱεροσυλίαν, καὶ ἵνα μὴ δοκοῖεν οὗτοι μὲν ἀνηλωκέναι πάντα, ἐγὼ δὲ μηδέν, ἀλλ’ ὁμοίως κἀγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 40",
+      "text": "Καὶ τὰ μὲν γεγενημένα καὶ δι’ ἃ τὰ πράγματα ταῦτα ἔχομεν, σχεδόν τι ταῦτ’ ἐστίν, ὦ ἄνδρες· εἰ δὲ εἰδείητε τὴν Διοκλέους ἀναισχυντίαν, καὶ περὶ τὰ ἄλλα οἷός ἐστιν, οὐκ ἂν ἀπιστήσαιτε τῶν εἰρημένων οὐδενί. Οὗτος μὲν γὰρ ἔχει τὴν οὐσίαν, ἀφ’ ἧς νῦν ἐστι λαμπρός, ἀλλοτρίαν, ἀδελφῶν τριῶν ὁμομητρίων ἐπικλήρων καταλειφθεισῶν αὑτὸν τῷ πατρὶ αὐτῶν εἰσποιήσας, οὐδεμίαν ἐκείνου περὶ τούτων ποιησαμένου διαθήκην. Τοῖν δ’ ἀδελφαῖν τοῖν δυοῖν ἐπειδὴ τὰ χρήματα εἰσεπράττετο ὑπὸ τῶν ἐκείναις συνοικούντων, τὸν μὲν τὴν πρεσβυτέραν ἔχοντα κατοικοδομήσας καὶ ἐπιβουλεύσας ἠτίμωσε, καὶ γραφὴν ὕβρεως γραφεὶς οὐδέπω τούτων δίκην δέδωκε, τῆς δὲ μετ’ ἐκείνην γενομένης τὸν ἄνδρα ἀποκτεῖναι κελεύσας οἰκέτην ἐκεῖνον μὲν ἐξέπεμψε, τὴν δ’ αἰτίαν εἰς τὴν ἀδελφὴν ἔτρεψε, καταπλήξας δὲ ταῖς αὑτοῦ βδελυρίαις προσαφῄρηται τὸν ὑὸν αὐτοῦ τὴν οὐσίαν ἐπιτροπεύσας καὶ κατέχει τὸν ἀγρόν, φελλέα δὲ [χωρία ἄττα] ἐκείνῳ δέδωκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 42",
+      "text": "Καὶ ταῦτα ὅτι ἀληθῆ λέγω, δεδίασι μὲν αὐτόν, ἴσως δ’ ἄν μοι καὶ μαρτυρῆσαι ἐθελήσειαν· εἰ δὲ μή, τοὺς εἰδότας παρέξομαι μάρτυρας. Καί μοι κάλει δεῦρο αὐτοὺς πρῶτον. Μάρτυρες Οὕτω τοίνυν ἀσελγὴς ὢν καὶ βίαιος καὶ τὴν τῶν ἀδελφῶν οὐσίαν ἀπεστερηκὼς οὐκ ἀγαπᾷ τὰ ἐκείνων ἔχων, ἀλλ’ ὅτι δίκην οὐδεμίαν αὐτῶν δέδωκεν, ἥκει καὶ τὰ τοῦ πάππου χρήματα ἡμᾶς ἀποστερήσων, καὶ τούτῳ δύο μνᾶς, ὡς ἀκούομεν, ‖ μόνας δεδωκὼς οὐ μόνον περὶ χρημάτων ἡμᾶς, ἀλλὰ καὶ περὶ τῆς πατρίδος εἰς κινδύνους καθίστησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 43",
+      "text": "Ἐὰν γὰρ ἐξαπατηθῆτε ὑμεῖς πεισθέντες ὡς ἡ μήτηρ ἡμῶν οὐκ ἦν πολῖτις, οὐδ’ ἡμεῖς ἐσμεν· μετ’ Εὐκλείδην γὰρ ἄρχοντα γεγόναμεν. Ἆρα περὶ μικρῶν τινων ἡμῖν τὸν ἀγῶνα κατεσκεύακε; Καὶ ζῶντος μὲν τοῦ πάππου καὶ τοῦ πατρὸς οὐδεμίαν αἰτίαν εἴχομεν, ἀλλ’ ἀναμφισβήτητοι τὸν ἅπαντα χρόνον διετελέσαμεν· ἐπειδὴ δὲ ἐκεῖνοι τετελευτήκασι, κἂν νῦν νικήσωμεν, ὄνειδος ἕξομεν, διότι ἠμφεσβητήθημεν, διὰ τὸν Ὀρέστην τοῦτον τὸν κακῶς ἀπολούμενον, ὃς μοιχὸς ληφθεὶς καὶ παθὼν ὅ τι προσήκει τοὺς τὰ τοιαῦτα ποιοῦντας οὐδ’ ὣς ἀπαλλάττεται τοῦ πράγματος, ὡς οἱ συνειδότες καταμαρτυροῦσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 44",
+      "text": "Τοῦτον μὲν οὖν, οἷός ἐστι, καὶ νῦν ἀκούετε καὶ αὖθις ἀκριβέστερον πεύσεσθε, ὅταν κατ’ αὐτοῦ τὴν δίκην ἡμεῖς εἰσίωμεν· ὑμῶν δ’ ἐγὼ δέομαι καὶ ἱκετεύω, μή με περιίδητε περὶ τούτων ὑβρισθέντα τῶν χρημάτων ὧν ὁ πάππος κατέλιπε, μηδ’ ἀποστερηθέντα, ἀλλὰ βοηθήσατε καθ’ ὅσον ὑμῶν ἕκαστος τυγχάνει δυνάμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 45",
+      "text": "Ἔχετε δὲ πίστεις ἱκανὰς ἐκ μαρτυριῶν, ἐκ βασάνων, ἐξ αὐτῶν τῶν νόμων, ὅτι τ’ ἐσμὲν 〈ἐκ〉 θυγατρὸς γνησίας Κίρωνος, καὶ ὅτι προσήκει ἡμῖν μᾶλλον ἢ τούτοις κληρονομεῖν τῶν ἐκείνου χρημάτων, ἐγγόνοις οὖσι τοῦ πάππου. Μνησθέντες οὖν καὶ τῶν ὅρκων οὓς ὀμόσαντες δικάζετε, καὶ τῶν λόγων οὓς εἰρήκαμεν, καὶ τῶν νόμων, ᾗ δίκαιόν ἐστι, ταύτῃ τὴν ψῆφον τίθεσθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or8 46",
+      "text": "Οὐκ οἶδ’ ὅ τι δεῖ πλείω λέγειν· οἶμαι γὰρ ὑμᾶς οὐδὲν ἀγνοεῖν τῶν εἰρημένων. Λαβὲ δ’ αὐτοῖς τὴν μαρτυρίαν τὴν λοιπήν, ὡς ἐλήφθη μοιχός, καὶ ἀνάγνωθι. 〈Μαρτυρία〉",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fge-am",
+      "title": {
+        "english": "Fragments on Inheritance Disputes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κληρονομικῶν Ἀμφισβητήσεων"
+      },
+      "url_slug": "isaeus-the-orator-inheritance-disputes-fge-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/inheritance-disputes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.json"
+      }
+    },
+    {
+      "eul_wid": "fge-af",
+      "title": {
+        "english": "In Defense of Euphiletus",
+        "ancient_greek": "Υπὲρ Εὐφιλήτου"
+      },
+      "url_slug": "isaeus-the-orator-defense-euphiletus-fge-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/defense-euphiletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.json"
+      }
+    },
+    {
+      "eul_wid": "fge-al",
+      "title": {
+        "english": "On the Holy Clergy",
+        "ancient_greek": "Περὶ τοῦ Ἁγνίου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-holy-clergy-fge-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/holy-clergy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/holy-clergy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/holy-clergy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/holy-clergy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/holy-clergy.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ad",
+      "title": {
+        "english": "On the Lot of Apollodorus",
+        "ancient_greek": "Περὶ τοῦ Απολλοδώρου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-lot-apollodorus-fge-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/lot-apollodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-apollodorus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-apollodorus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-apollodorus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-apollodorus.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ag",
+      "title": {
+        "english": "On the Lot of Astyphilus",
+        "ancient_greek": "Περὶ τοῦ Ἀστυφίλου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-astyphilus-lot-fge-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/astyphilus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/astyphilus-lot.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/astyphilus-lot.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/astyphilus-lot.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/astyphilus-lot.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ah",
+      "title": {
+        "english": "On the Lot of Cleonymus",
+        "ancient_greek": "Περὶ τοῦ Κλεωνύμου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-cleonymus-fge-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/cleonymus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/cleonymus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/cleonymus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/cleonymus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/cleonymus.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ae",
+      "title": {
+        "english": "On the Lot of Dicaeogenes",
+        "ancient_greek": "Περὶ τοῦ Δικαιογένους κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-lot-dicaeogenes-fge-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/lot-dicaeogenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-dicaeogenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-dicaeogenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-dicaeogenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-dicaeogenes.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ai",
+      "title": {
+        "english": "On the Lot of Menecles",
+        "ancient_greek": "Περὶ τοῦ Μενεκλέους κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-lot-menecles-fge-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/lot-menecles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ab",
+      "title": {
+        "english": "On the Lot of Nicostratus, Epilogue",
+        "ancient_greek": "Περὶ τοῦ Νικοστράτου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-nicostratus-lot-fge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/nicostratus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ac",
+      "title": {
+        "english": "On the Lot of the Covetous",
+        "ancient_greek": "Περὶ τοῦ Φιλοκτήμονος κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-lot-covetous-fge-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/lot-covetous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-covetous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-covetous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-covetous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-covetous.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ak",
+      "title": {
+        "english": "On the Pyrrhus' Lot",
+        "ancient_greek": "Περὶ τοῦ Πύρρου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-pyrrhus-lot-fge-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/pyrrhus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/pyrrhus-lot.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/pyrrhus-lot.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/pyrrhus-lot.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/pyrrhus-lot.json"
+      }
+    },
+    {
+      "eul_wid": "fge-aa",
+      "title": {
+        "english": "To Xenaenetus-the Lot of Aristarchus",
+        "ancient_greek": "Πρὸς Ξεναίνετον περὶ τοῦ Ἀριστάρχου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-xenaenetus-aristarchus-fge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/xenaenetus-aristarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-ah",
+      "title": {
+        "english": "Accusatithe Companions of Slander",
+        "ancient_greek": "κατηγορία πρὸς τοὺς συνουσιαστὰς κακολογιῶν"
+      },
+      "url_slug": "lysias-accusation-companions-ejc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/accusation-companions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bb",
+      "title": {
+        "english": "How to Write History",
+        "ancient_greek": "Πῶς δεῖ Ἱστορίαν συγγράφειν"
+      },
+      "url_slug": "lucian-of-samosata-how-to-write-history-pfk-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/how-to-write-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ac",
+      "title": {
+        "english": "In Favor of Peace with the Lacedaemonians",
+        "ancient_greek": "Ὑπὲρ τῆς πρὸς Λακεδαιμονίους εἰρήνης"
+      },
+      "url_slug": "aristides-the-orator-peace-lacedaemonians-qwm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/peace-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/peace-lacedaemonians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/peace-lacedaemonians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/peace-lacedaemonians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/peace-lacedaemonians.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-aj",
+      "title": {
+        "english": "Menippus or the Necromancy",
+        "ancient_greek": "Μένιππος ἢ Νεκυομαντεία"
+      },
+      "url_slug": "lucian-of-samosata-menippus-necromancy-pfk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/menippus-necromancy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.json"
+      }
+    },
+    {
+      "eul_wid": "eym-aa",
+      "title": {
+        "english": "On Peace with the Lacedaemonians",
+        "ancient_greek": "Περὶ τῆς πρὸς Λακεδαιμονίους εἰρήνης"
+      },
+      "url_slug": "andocides-peace-lacedaemonians-eym-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/peace-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-aw",
+      "title": {
+        "english": "Reviving or Fisherman",
+        "ancient_greek": "Ἀναβιοῦντες ἢ Ἁλιεύς"
+      },
+      "url_slug": "lucian-of-samosata-reviving-fisherman-pfk-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/reviving-fisherman",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ak",
+      "title": {
+        "english": "Rhetorical Problems in Status",
+        "ancient_greek": "Προβλήματα ῥητορικὰ ἐν στάσει"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-problems-status-rhg-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/problems-status",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/problems-status.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/problems-status.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/problems-status.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/problems-status.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-br",
+      "title": {
+        "english": "To the Opposite",
+        "ancient_greek": "Εἰς τὸ ἐναντίον"
+      },
+      "url_slug": "aristides-the-orator-opposite-qwm-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/opposite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/opposite.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/opposite.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/opposite.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/opposite.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/isaeus-the-orator/chiron",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/chiron.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/chiron.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/chiron.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/chiron.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

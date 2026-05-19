@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fly-aa",
+  "eul_aid": "fly",
+  "author_slug": "sannyrion-the-comic-poet",
+  "work_slug": "comic-fragments-aa",
+  "url_slug": "sannyrion-the-comic-poet-comic-fragments-aa-fly-aa",
+  "author": {
+    "english": "Sannyrion the Comic Poet",
+    "ancient_greek": "Σαννυρίων ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Gods and Mortals",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments of Sannyrion by Sannyrion on Eulogikon",
+    "meta_title": "Fragments of Sannyrion by Sannyrion in Ancient Greek",
+    "meta_description": "Surviving comic fragments from Old Comedy by Sannyrion. Lost Athenian plays of the 5th century. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Comic Fragments on Gods and Mortals</strong> is a modern scholarly compilation of surviving excerpts from the lost comedies of Sannyrion, an Athenian poet of Old Comedy active in the late fifth and early fourth centuries BCE. The work itself is not an ancient, unified text but a collection of twelve short passages in Attic Greek verse, assembled under a thematic title that reflects a common subject in the genre. The fragments display the hallmarks of Old Comedy, featuring sharp satire, personal invective against contemporary figures such as the tragic poet Melanthius, and humor derived from food and bodily consumption. In keeping with the conventions of the period, Sannyrion&#x27;s plays almost certainly portrayed both gods and mortals in a comically irreverent light.</p>\n<p class=\"research-text\">No complete play by Sannyrion has survived antiquity. These fragments owe their preservation solely to their citation by later ancient authors, most notably Athenaeus in his <strong>Deipnosophists</strong>, who recorded them for their linguistic curiosity or witty content. Modern scholarship regards Sannyrion as a minor contemporary of the more famous Aristophanes. His extant fragments, though brief, offer valuable insight into the competitive environment of Athenian dramatic festivals and the diversity of comic styles that existed beyond the works of the few major playwrights known from complete manuscripts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "πέλανον καλοῦμεν ἡμεῖς οἱ θεοί, ἃ καλεῖτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σεμνῶς ἄλφιθ’ ὑμεῖς οἱ βροτοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Μέλητον τὸν ἀπὸ Ληναίου νεκρόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ὦ βατίδες, ὦ γλαύκων κάρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "κεραμικὴν γαῖαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "στρέφων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "ναύκληρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "πολιτοκοπεῖν καὶ πολιτοκοπία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "τί οὖν γενόμενος εἰς ὀπὴν ἐνδύσομαι; ζητητέον· φέρ’ εἰ γενοίμην μυγαλῆ. ἀλλ’ Ἡγέλοχος οὗτός με μηνύσειεν ἂν ὁ τραγικὸς ἀνακράγοι τ’ ἂν εἰς ἐχθροὺς μέγα[ln_5]‘ἐκ κυμάτων γὰρ αὖθις αὖ γαλῆν ὁρῶ.‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "φθείρεσθ’ ἐπίτριπτοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "ψωμοκόλακες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "κεκτημένον",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fly-ab",
+      "title": {
+        "english": "Comic Fragments on Gods and Mortals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Βροτῶν"
+      },
+      "url_slug": "sannyrion-the-comic-poet-comic-fragments-ab-fly-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-ab.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fgo-aa",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "araros-son-of-aristophanes-comic-daily-life-fgo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/araros-son-of-aristophanes/comic-daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/comic-daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/comic-daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/comic-daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/comic-daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "dum-aa",
+      "title": {
+        "english": "Comic Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "eupolis-of-athens-comic-rural-life-dum-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.json"
+      }
+    },
+    {
+      "eul_wid": "hsu-ab",
+      "title": {
+        "english": "Fragments on Banquets",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων"
+      },
+      "url_slug": "nicostratus-of-aristophanes-banquets-hsu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicostratus-of-aristophanes/banquets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.json"
+      }
+    },
+    {
+      "eul_wid": "ery-ab",
+      "title": {
+        "english": "Fragments on Cooks and Deceit",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἀπάτης"
+      },
+      "url_slug": "euphro-of-sicyon-cooks-deceit-ery-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphro-of-sicyon/cooks-deceit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.json"
+      }
+    },
+    {
+      "eul_wid": "cgm-ab",
+      "title": {
+        "english": "Fragments on Love and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐωχίας"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ad",
+      "title": {
+        "english": "Fragments on the Judgment of Paris",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Πάριδος Κρίσεως"
+      },
+      "url_slug": "cratinus-the-comic-poet-judgment-paris-czs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/judgment-paris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bh",
+      "title": {
+        "english": "Misumenus",
+        "ancient_greek": "Μισούμενος"
+      },
+      "url_slug": "menander-of-athens-misumenus-hps-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-an",
+      "title": {
+        "english": "New Fragments of Misumenus",
+        "ancient_greek": "Νέα Ἀποσπάσματα Μισουμένου"
+      },
+      "url_slug": "menander-of-athens-new-misumenus-hps-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/new-misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/sannyrion-the-comic-poet/comic-fragments-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sannyrion-the-comic-poet/comic-fragments-aa.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

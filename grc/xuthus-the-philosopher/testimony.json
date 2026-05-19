@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "axc-aa",
+  "eul_aid": "axc",
+  "author_slug": "xuthus-the-philosopher",
+  "work_slug": "testimony",
+  "url_slug": "xuthus-the-philosopher-testimony-axc-aa",
+  "author": {
+    "english": "Xuthus the Philosopher",
+    "ancient_greek": "Ξοῦθος ὁ Φιλόσοφος"
+  },
+  "title": {
+    "english": "Testimony",
+    "ancient_greek": "Μαρτυρία"
+  },
+  "seo": {
+    "browser_title": "The Testimony by Xuthus the Philosopher on Eulogikon",
+    "meta_title": "Testimony by Xuthus the Philosopher in Ancient Greek",
+    "meta_description": "Testimony is a philosophical collection by Xuthus. It presents philosophical arguments. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>Testimony</strong>, attributed to Xuthus the Philosopher, is unattested in major scholarly sources for ancient Greek literature. No entries for this author or title exist in standard digital or print repositories. While the provided metadata describes it as a collection, no verifiable content or context can be established. No philosophical arguments or topics from the work are recorded in authoritative sources, and it has no known transmission history. It does not appear among the fragmentary remains of Pre-Socratic or later philosophers in standard collections. Although the name Xuthus appears in Greek mythological contexts, such as in the works of Herodotus and Euripides, there is no evidence for a philosopher of this name authoring a work titled <strong>Testimony</strong>, and the attribution remains unverified.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ARISTOT. Phys. Δ 9. 216b 22 εἰσὶ δέ τινες οἳ διὰ τοῦ μανοῦ καὶ πυκνοῦ οἴονται φανερὸν εἶναι ὅτι ἔστι κενόν. εἰ μὲν γὰρ μὴ ἔστι μανὸν καὶ πυκνόν, οὐδὲ συνιέναι καὶ πιλεῖσθαι οἷόν τε. εἰ δὲ τοῦτο μὴ εἴη, ἢ ὅλως κίνησις οὐκ ἔσται ἢ κυμανεῖ τὸ ὅλο ν, ὥσπερ ἔφη Ξοῦθος. SIMPL. C. d. St. 683, 24 Ξ. ὁ Πυθαγορικός, καὶ ὑπερχυθήσεται καὶ ἐπὶ πλέον ἐκταθήσεται, ὡς ἡ θάλασσα διὰ τῶν κυμάτων εἰς τοὺς αἰγιαλοὺς ὑπερχεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bj",
+      "title": {
+        "english": "Comparison of Aristeides and Cato",
+        "ancient_greek": "Ἀριστείδου καὶ Κάτωνος σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-aristeides-cato-okg-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristeides-cato",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristeides-cato.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristeides-cato.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristeides-cato.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristeides-cato.json"
+      }
+    },
+    {
+      "eul_wid": "dhu-aa",
+      "title": {
+        "english": "Declamations Fragments",
+        "ancient_greek": "Αἴας ἢ Αἴαντος λόγος"
+      },
+      "url_slug": "antisthenes-of-athens-ii-declamations-dhu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antisthenes-of-athens-ii/declamations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/declamations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/declamations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/declamations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antisthenes-of-athens-ii/declamations.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ai",
+      "title": {
+        "english": "Fragments of Bithynica",
+        "ancient_greek": "Ἀποσπάσματα Βιθυνικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-bithynica-fragments-pcs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/bithynica-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ba",
+      "title": {
+        "english": "Fragments on the Seven Sages",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+      },
+      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aj",
+      "title": {
+        "english": "Poimandres of Hermes Trismegistus",
+        "ancient_greek": "Ποιμάνδρης"
+      },
+      "url_slug": "hermetica-poimandres-oqk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/poimandres",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.json"
+      }
+    },
+    {
+      "eul_wid": "ipw-aa",
+      "title": {
+        "english": "Stoic Philosophical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sphaerus-of-borysthenes-stoic-fragments-ipw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sphaerus-of-borysthenes/stoic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sphaerus-of-borysthenes/stoic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "czi-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "idaeus-of-himera-testimony-czi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/idaeus-of-himera/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idaeus-of-himera/testimony.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-al",
+      "title": {
+        "english": "Theological Instruction",
+        "ancient_greek": "Θεολογικὴ Διδασκαλία"
+      },
+      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xuthus-the-philosopher/testimony",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

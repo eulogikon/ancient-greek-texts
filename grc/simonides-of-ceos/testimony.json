@@ -1,0 +1,250 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "big-ad",
+  "eul_aid": "big",
+  "author_slug": "simonides-of-ceos",
+  "work_slug": "testimony",
+  "url_slug": "simonides-of-ceos-testimony-big-ad",
+  "author": {
+    "english": "Simonides of Ceos",
+    "ancient_greek": "Σιμωνίδης ὁ Κεῖος"
+  },
+  "title": {
+    "english": "Testimony",
+    "ancient_greek": "Μαρτυρία"
+  },
+  "seo": {
+    "browser_title": "Testimony, an Epigram by Simonides of Ceos on Eulogikon",
+    "meta_title": "Classical Testimony by Simonides of Ceos in Ancient Greek",
+    "meta_description": "Testimony is an epigram by Simonides of Ceos. This lyric poem exemplifies early Greek style. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Testimony is a short epigram attributed to the Greek lyric poet Simonides of Ceos, who was active from approximately 556 to 468 BCE. It is not a separate book but a modern designation for a concise poem that likely functioned as a commemorative record, perhaps for a monument, tomb, or dedication. Simonides was renowned for such poignant epigrams, often commissioned to memorialize events like battles or to honor the deceased, and his style typically blended the literary Doric and Ionic dialects common in choral lyric. Only fragments of his extensive work survive, with pieces like this one preserved through later quotations by ancient authors, inclusion in Byzantine anthologies, or occasional archaeological inscriptions. Modern scholarship views these epigrams as vehicles for immortalizing memory and virtue, reflecting on themes of human excellence, divine favor, and mortality. The transmission of such works is complex, as the authorship of individual epigrams is often uncertain due to the ancient practice of attributing anonymous verses to celebrated poets like Simonides.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1a,8,T 1",
+      "text": "SUID. s. Σιμωνίδης Κεῖος· θυγατριδοῦς κατά τινας τοῦ προτέρου, ὃς ἐπεκλήθη Μελικέρτης. γέγονε δὲ πρὸ τῶν Πελοποννησιακῶν· καὶ γέγραφε Γενεαλογίαν ἐν βιβλίοις τρισίν· Εὑρήματα ἐν βιβλίοις τρισίν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "big-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "simonides-of-ceos-epigrams-big-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "big-ab",
+      "title": {
+        "english": "Fragments on Athletic Victory",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νίκης Γυμνικῆς"
+      },
+      "url_slug": "simonides-of-ceos-athletic-victory-big-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/athletic-victory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.json"
+      }
+    },
+    {
+      "eul_wid": "big-ac",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "simonides-of-ceos-genealogy-big-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "big-aa",
+      "title": {
+        "english": "Fragments on Life and Hope",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἐλπίδος"
+      },
+      "url_slug": "simonides-of-ceos-life-hope-big-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/life-hope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ehe-aa",
+      "title": {
+        "english": "Fragments on Myth and Ships",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μύθων καὶ Νεῶν"
+      },
+      "url_slug": "antimachus-of-colophon-myth-ships-ehe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/myth-ships",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.json"
+      }
+    },
+    {
+      "eul_wid": "ale-aa",
+      "title": {
+        "english": "Fragments on Ninus the Assyrian",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νίνου τοῦ Ἀσσυρίου"
+      },
+      "url_slug": "phoenix-of-colophon-ninus-fragments-ale-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenix-of-colophon/ninus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "adw-ab",
+      "title": {
+        "english": "Fragments on Poetry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποίησεως"
+      },
+      "url_slug": "alcman-lacedaemonius-poetry-fragments-adw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcman-lacedaemonius/poetry-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "upu-av",
+      "title": {
+        "english": "Hymn 29 To Hestia",
+        "ancient_greek": "Ὕμνος εἰς Ἑστίαν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hestia-av-upu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.json"
+      }
+    },
+    {
+      "eul_wid": "apu-ab",
+      "title": {
+        "english": "Hymn to Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-hymn-aphrodite-apu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/hymn-aphrodite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/hymn-aphrodite.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ae",
+      "title": {
+        "english": "Hyporchemata Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ὑπορχημάτων"
+      },
+      "url_slug": "bacchylides-of-ceos-hyporchemata-brw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.json"
+      }
+    },
+    {
+      "eul_wid": "grm-ab",
+      "title": {
+        "english": "Lament for Baukis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "erinna-of-telos-lament-baukis-grm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/lament-baukis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.json"
+      }
+    },
+    {
+      "eul_wid": "fxm-aa",
+      "title": {
+        "english": "On the Rhodian Swallow Festival",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theognis-of-rhodes-swallow-festival-fxm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-rhodes/swallow-festival",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes/swallow-festival.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes/swallow-festival.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes/swallow-festival.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-rhodes/swallow-festival.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/simonides-of-ceos/testimony",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

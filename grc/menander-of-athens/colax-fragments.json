@@ -1,0 +1,496 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hps-ak",
+  "eul_aid": "hps",
+  "author_slug": "menander-of-athens",
+  "work_slug": "colax-fragments",
+  "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+  "author": {
+    "english": "Menander of Athens",
+    "ancient_greek": "Μένανδρος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Colax, Fragments Known Elsewhere",
+    "ancient_greek": "Ἀποσπάσματα Κόλακος"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Colax by Menander on Eulogikon Archive",
+    "meta_title": "Classical Colax Fragments by Menander in Ancient Greek Text",
+    "meta_description": "Surviving fragments of Menander's comedy Colax, known from quotations. A work of New Comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Colax_ (The Flatterer) is a lost comedy by Menander, preserved only through 19 brief fragments and later literary references. While its plot remains unrecoverable, the title refers to a stock character of New Comedy: the parasitic flatterer. The most significant testimony comes from the Roman playwright Terence, who states in the prologue to his own comedy _Eunuchus_ that he borrowed the play&#x27;s &quot;parasite and soldier&quot; from Menander&#x27;s _Colax_. This confirms the comedy featured this classic comic duo. The extant fragments, which include dialogue about drinking and boastful claims of wealth and romantic conquests, indicate the play engaged with central themes of New Comedy, such as the dynamics of flattery and social manipulation, the exploitation of wealth, and the vanity of the braggart soldier. No papyrus of the play survives; knowledge of it depends entirely on fragments preserved by later anthologists like Stobaeus and Athenaeus, alongside Terence&#x27;s citation. _Colax_ stands as a key example of Menander&#x27;s direct influence on Roman comedy. Terence&#x27;s adaptation of its characters demonstrates the Roman practice of _contaminatio_, or combining source material, and helped ensure the transmission of these stock types into the Western dramatic tradition. The play also exemplifies the Hellenistic period&#x27;s broader interest in the analysis of social character types, a subject treated contemporaneously in both comedy and moral philosophy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "σπονδή· δίδου σὺ σπλάγχν’ ἀκολουθῶν. ποῖ βλέπεις; σπονδή. φέρ’ ὦ παῖ Σωσία. σπονδή. καλῶς ἔχει. θεοῖς Ὀλυμπίοις εὐχώμεθα Ὀλυμπίασι, πᾶσι πάσαις—λάμβανε[ln_5]τὴν γλῶτταν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τούτωι—διδόναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σωτηρίαν, ὑγίειαν, ἀγαθὰ πολλά, τῶν ὄντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τε νῦν ἀγαθῶν ὄνησιν πᾶσι. ταῦτ’ εὐχώμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[spk_(βιας)](ΒΙΑΣ) κοτύλας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "χωροῦν δέκα ἐν Καππαδοκίαι κόνδυ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "χρυσοῦν, Στρουθία, τρὶς ἐπέπιον μεστόν γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_3][spk_(στρουθιας)](ΣΤΡΟΥΘΙΑΣ) Ἀλεξάνδρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πλέον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τοῦ βασιλέως πέπωκας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[ln_4][spk_(βι)](Βι) οὐκ ἔλαττον, οὐ[ln_5]μὰ τὴν Ἀθηνᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[ln_5][spk_(στ)](Στ) μέγα γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "γελῶ τὸ πρὸς τὸν Κύπριον ἐννοούμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Χρυσίδα, Κορώνην, Ἀντίκυραν, Ἰσχάδα, καὶ Ναννάριον ἔσχηκας ὡραίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σφόδρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "ἀλλ’ οὐδὲ γεννήτην δύναμ’ εὑρεῖν οὐδένα ὄντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τοσούτων, ἀλλ’ ἀπείλημμαι μόνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "πρόσεισιν οἷον ἀψοφητὶ θρέμματος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "κωβιός, ἠλακατῆνες, κυνὸς οὐραῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hps-av",
+      "title": {
+        "english": "Apparition",
+        "ancient_greek": "Φάντασμα"
+      },
+      "url_slug": "menander-of-athens-apparition-hps-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/apparition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.json"
+      }
+    },
+    {
+      "eul_wid": "hps-az",
+      "title": {
+        "english": "Arbitration",
+        "ancient_greek": "Διαιτησία"
+      },
+      "url_slug": "menander-of-athens-arbitration-az-hps-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ax",
+      "title": {
+        "english": "Carthaginian",
+        "ancient_greek": "Καρχηδόνιος"
+      },
+      "url_slug": "menander-of-athens-carthaginian-hps-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ba",
+      "title": {
+        "english": "Citharist",
+        "ancient_greek": "Κιθαριστής"
+      },
+      "url_slug": "menander-of-athens-citharist-hps-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.json"
+      }
+    },
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bp",
+      "title": {
+        "english": "Colax",
+        "ancient_greek": "Κόλαξ"
+      },
+      "url_slug": "menander-of-athens-colax-hps-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ay",
+      "title": {
+        "english": "Coneazomenae",
+        "ancient_greek": "Κονεαζόμεναι"
+      },
+      "url_slug": "menander-of-athens-coneazomenae-hps-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/coneazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ar",
+      "title": {
+        "english": "Double Deceiver",
+        "ancient_greek": "Διπλοῦς Ἀπατεών"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-ar-hps-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.json"
+      }
+    },
+    {
+      "eul_wid": "hps-as",
+      "title": {
+        "english": "Doubtful Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα"
+      },
+      "url_slug": "menander-of-athens-doubtful-fragment-hps-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ao",
+      "title": {
+        "english": "Fragments of Arbitration",
+        "ancient_greek": "Ἀποσπάσματα τῆς Διαιτησίας"
+      },
+      "url_slug": "menander-of-athens-arbitration-ao-hps-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lig-aa",
+      "title": {
+        "english": "Culinary and Medical Dialogues",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-the-younger-culinary-medical-dialogues-aa-lig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ios-ab",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.json"
+      }
+    },
+    {
+      "eul_wid": "duw-ac",
+      "title": {
+        "english": "Fragments on Domestic Strife",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκογενειακῆς Στάσεως"
+      },
+      "url_slug": "phrynichus-the-comic-poet-domestic-strife-duw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/domestic-strife",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.json"
+      }
+    },
+    {
+      "eul_wid": "ihu-ab",
+      "title": {
+        "english": "Fragments on Life and Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Καθήκοντος"
+      },
+      "url_slug": "apollodorus-of-carystus-ii-life-duty-ihu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-ii/life-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-duty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-duty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-duty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-duty.json"
+      }
+    },
+    {
+      "eul_wid": "cgm-aa",
+      "title": {
+        "english": "Fragments on a Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίου"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-banquet-fragments-cgm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/banquet-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/banquet-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hrg-ab",
+      "title": {
+        "english": "Miser's Dinner Party",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archedicus-the-comic-poet-misers-dinner-party-ab-hrg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ab",
+      "title": {
+        "english": "On Solon's Public Brothels",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-solon-brothels-lpe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/solon-brothels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.json"
+      }
+    },
+    {
+      "eul_wid": "dkc-aa",
+      "title": {
+        "english": "Symposium and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callias-the-comic-poet-symposium-fragments-dkc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callias-the-comic-poet/symposium-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/symposium-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/symposium-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/symposium-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/symposium-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

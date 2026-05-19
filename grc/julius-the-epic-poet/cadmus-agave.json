@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nsy-aa",
+  "eul_aid": "nsy",
+  "author_slug": "julius-the-epic-poet",
+  "work_slug": "cadmus-agave",
+  "url_slug": "julius-the-epic-poet-cadmus-agave-nsy-aa",
+  "author": {
+    "english": "Julius the Epic Poet",
+    "ancient_greek": "Ἰούλιος ὁ ἐποποιός"
+  },
+  "title": {
+    "english": "Fragments on Cadmus and Agave",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κάδμου καὶ Ἀγαύης"
+  },
+  "seo": {
+    "browser_title": "Fragments of Julius the Epic Poet on the Eulogikon",
+    "meta_title": "The Fragments on Cadmus and Agave in Ancient Greek",
+    "meta_description": "Surviving fragments of epic poem on Cadmus Agave by Julius Epic Poet. These verses depict the tragic Theban myth. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Cadmus and Agave</strong> is a lost epic poem attributed to Julius the Epic Poet. Known only by its title, the work is recorded as consisting of six passages concerning the Theban mythological figures Cadmus, the founder of Thebes, and his daughter Agave, who infamously killed her son Pentheus in a state of Dionysian frenzy. No direct quotations from the poem survive. The title indicates it treated episodes from the Theban cycle, likely addressing the foundation of Thebes and the establishment of civilization by Cadmus, the power of the god Dionysus and the ecstatic madness inflicted upon those who resisted him, and the profound familial tragedy of kin-slaying epitomized by Agave&#x27;s murder of Pentheus. These subjects would have engaged central themes of divine vengeance and human hubris. The work is entirely lost, its existence noted only in a secondary cataloguing source which lists it among the poet&#x27;s compositions; it was not preserved in the manuscript tradition. While no direct literary influence can be traced, these fragments attest to the continued production of epic poetry on canonical mythological topics by lesser-known authors during the Greco-Roman period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Κάδμον δ’ ἀραμένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τλήμων ἐξῆλθεν Ἀγαυή ὃν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πατέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τρομέοντα· φέρεν δέ μιν ὧν ὑπὲρ ὤμων γήραι κεκμηῶτα, καλῷ δ’ ἐβαρύνετο φόρτῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "φέρτερον εὐκλέα μοῖραν ἐπ’ ἀκλείῃ βιότοιο εὑρέμεναι, ἀγαθὸν δὲ θανεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοιῷδ’ ἐπὶ ἔργῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "aaa-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "eumelus-of-corinth-epic-fragments-aaa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "abo-aa",
+      "title": {
+        "english": "Epigoni",
+        "ancient_greek": "Ἐπίγονοι"
+      },
+      "url_slug": "epigoni-text-abo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigoni/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-al",
+      "title": {
+        "english": "Ethopoeic Exercise",
+        "ancient_greek": "Ἠθοποιία"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeic-exercise-kjq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeic-exercise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.json"
+      }
+    },
+    {
+      "eul_wid": "kak-aa",
+      "title": {
+        "english": "Fragments of the Pandareus Myth",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Πανδάρεω Μύθου"
+      },
+      "url_slug": "boeus-the-epic-poet-pandareus-myth-kak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.json"
+      }
+    },
+    {
+      "eul_wid": "fjq-ac",
+      "title": {
+        "english": "Fragments on Naval Preparations",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασκευῆς Ναυτικῆς"
+      },
+      "url_slug": "theopompus-of-chios-naval-preparations-fjq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/naval-preparations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ae",
+      "title": {
+        "english": "Fragments on Women",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γυναικῶν"
+      },
+      "url_slug": "hesiod-women-aau-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ag",
+      "title": {
+        "english": "Historical Epic Fragment A",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ag-kjq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ab",
+      "title": {
+        "english": "Shield of Heracles",
+        "ancient_greek": "Ἀσπὶς Ἡρακλέους"
+      },
+      "url_slug": "hesiod-shield-aau-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/shield",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/julius-the-epic-poet/cadmus-agave",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

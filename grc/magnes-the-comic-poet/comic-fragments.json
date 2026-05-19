@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cxa-ab",
+  "eul_aid": "cxa",
+  "author_slug": "magnes-the-comic-poet",
+  "work_slug": "comic-fragments",
+  "url_slug": "magnes-the-comic-poet-comic-fragments-cxa-ab",
+  "author": {
+    "english": "Magnes Comicus",
+    "ancient_greek": "Μάγνης ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Daily Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+  },
+  "seo": {
+    "browser_title": "Fragments of Magnes Comicus by Magnes on Eulogikon",
+    "meta_title": "Fragments of Magnes Comicus by Magnes in Ancient Greek",
+    "meta_description": "Comic fragments by Magnes, Athenian poet of Old Comedy. Glimpses of ancient daily life and humor. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Comic Fragments on Daily Life</strong> is a modern compilation of nine brief passages attributed to the Athenian comic poet Magnes, who was active during the fifth century BCE. As a successful early practitioner of Old Comedy, Magnes was a prize-winning competitor at the City Dionysia. The fragments do not originate from a single play but are excerpts from various lost comedies, thematically grouped by modern editors for their apparent references to quotidian Athenian experiences. Preserved only through citation by later authors such as Athenaeus, these snippets touch upon subjects like specific foods, musical modes, and popular songs. Each surviving fragment is exceedingly short, often comprising merely a phrase or a line, and no complete play or extended scene exists. Scholars interpret these remnants as evidence that Magnes’s comedies incorporated parody, musical performance, and humor drawn from common life, characteristics further developed by his successors. Ancient sources record that he was particularly noted for comedies featuring choruses costumed as animals, such as birds or frogs, a theatrical innovation that likely influenced later playwrights including Aristophanes. The collection’s principal value is historical, offering a glimpse into the formative techniques and themes of early Athenian comic theater.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Καὶ ταῦτα μέν μοι τῶν κακῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παροψίδες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ταγηνίας ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τεθέασαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "χλιαρούς σίζοντας, ὅταν αὐτοῖσιν ἐπιχέῃς μέλι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Λούσαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρὴ καὶ βακκάριδι κεχριμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Εἰπέ μοι· νῦν δὴ μὲν ὤμνυς μὴ γεγονέναι, νῦν δὲ φῄς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Οὐκ ἔστιν οὐδεὶς οὐδ’ ὁ Μυσῶν ἔσχατος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cxa-aa",
+      "title": {
+        "english": "Fragments on Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου"
+      },
+      "url_slug": "magnes-the-comic-poet-life-fragments-cxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ebk-aa",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "archippus-the-comic-poet-comic-feast-ebk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/comic-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/comic-feast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/comic-feast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/comic-feast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/comic-feast.json"
+      }
+    },
+    {
+      "eul_wid": "iti-aa",
+      "title": {
+        "english": "Fragments on Cooking",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας"
+      },
+      "url_slug": "sotades-of-maroneia-elder-cooking-iti-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-elder/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.json"
+      }
+    },
+    {
+      "eul_wid": "iie-aa",
+      "title": {
+        "english": "Fragments on Life and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Τύχης"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-fortune-iie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.json"
+      }
+    },
+    {
+      "eul_wid": "fua-aa",
+      "title": {
+        "english": "Fragments on Poverty and Satire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Σάτιρας"
+      },
+      "url_slug": "aristophon-the-comic-poet-poverty-satire-fua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophon-the-comic-poet/poverty-satire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.json"
+      }
+    },
+    {
+      "eul_wid": "cks-ab",
+      "title": {
+        "english": "Fragments on the Art of Parasitism",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης Παρασιτισμοῦ"
+      },
+      "url_slug": "antidotus-the-comic-poet-art-parasitism-cks-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/art-parasitism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/art-parasitism.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/art-parasitism.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/art-parasitism.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/art-parasitism.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-aa",
+      "title": {
+        "english": "On Human Nature and Solon's Law",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-human-nature-solon-law-lpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/human-nature-solon-law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/human-nature-solon-law.json"
+      }
+    },
+    {
+      "eul_wid": "gli-aa",
+      "title": {
+        "english": "On Parasites and Flatterers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-flatterers-gli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-flatterers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.json"
+      }
+    },
+    {
+      "eul_wid": "sfc-ab",
+      "title": {
+        "english": "Wedding Feast Preparations",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "euangelus-the-comic-wedding-feast-preparations-sfc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast-preparations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/magnes-the-comic-poet/comic-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/comic-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

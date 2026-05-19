@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "yfq-aa",
+  "eul_aid": "yfq",
+  "author_slug": "julius-pomponius-laetus",
+  "work_slug": "phoenician-history",
+  "url_slug": "julius-pomponius-laetus-phoenician-history-yfq-aa",
+  "author": {
+    "english": "Julius Pomponius Laetus",
+    "ancient_greek": "Ιούλιος Πομπώνιος Λάετος"
+  },
+  "title": {
+    "english": "Fragments on Phoenician History",
+    "ancient_greek": "Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Julius Pomponius Laetus on Eulogikon",
+    "meta_title": "Classical Fragments on Phoenician History in Ancient Greek",
+    "meta_description": "Julius Pomponius Laetus preserves fragmentary accounts of Phoenician civilization and mythological traditions in Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Βυζαντινή",
+      "english": "Byzantine",
+      "href": "/periods/byzantine"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<h3 class=\"research-heading\">Overview</h3>\n<p class=\"research-text\">The <strong>Fragments on Phoenician History</strong> (Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας) is a lost work attributed to the Renaissance humanist Julius Pomponius Laetus. It is known only by its title, which indicates it consisted of three prose passages. No direct quotations or specific content from the fragments are recorded.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Content</h3>\n<p class=\"research-text\">The work’s thematic content is unrecoverable from extant sources. Its proposed subject, however, represents an extension of Laetus’s antiquarian interests beyond his primary focus on Roman history, possibly engaging with Greek sources on Phoenician culture or colonization.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Transmission</h3>\n<p class=\"research-text\">The work is entirely lost, with its existence noted solely by its title. There is no known manuscript tradition or record of later citations.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Significance</h3>\n<p class=\"research-text\">While the fragments themselves exert no direct influence, their attribution to Laetus reflects the expansive scope of Renaissance humanist scholarship. Laetus, as founder of the Roman Academy, was central to reviving classical studies through textual criticism and archaeology. The mere suggestion of this work underscores the encyclopedic desire to recover all facets of the ancient world that characterized the period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΦΟΙΝΙΚΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Tatianus Or. adv. Gr. c. 58: Μετὰ δὲ τὰ Χαλδαίων τὰ Φοινίκων οὕτως ἔχει. Γεγόνασι παρ’ αὐτοῖς τρεῖς ἄνδρες, Θεόδοτος, Ὑψικράτης, Μῶχος. Τούτων τὰς βίβλους εἰς Ἑλληνίδα κατέταξε φωνὴν Λαῖτος, ὁ καὶ τοὺς βίους τῶν φιλοσόφων ἐπ’ ἀκριβὲς πραγματευσάμενος. Ἐν δὴ ταῖς τῶν προειρημένων δηλοῦται ἱστορίαις κατὰ τίνα τῶν βασιλέων Εὐρώπης ἁρπαγὴν γεγονέναι, Μελάου τε εἰς τὴν Φοινίκην ἄφιξιν καὶ τὰ περὶ Εἴραμον, ὅστις Σολομῶνι τῷ Ἰουδαίων βασιλεῖ πρὸς γάμον δοὺς τὴν ἑαυτοῦ θυγατέρα καὶ ξύλων παντοδαπῶν ὕλην εἰς τὴν τοῦ νεὼ κατασκευὴν ἐδωρήσατο. Καὶ Μένανδρος δὲ ὁ Περγαμηνὸς περὶ τῶν αὐτῶν τὴν ἀναγραφὴν ἐποιήσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Clemens Alex. Str. I.: Εἴραμος τὴν ἑαυτοῦ θυγατέρα Σαλομῶνι δίδωσι καθ’ οὓς χρόνους μετὰ τὴν Τροίας ἅλωσιν Μενελάου εἰς Φοινίκην ἄφιξις, ὥς φησι Μένανδρος ὁ Περγαμηνὸς καὶ Λαῖτος ἐν τοῖς Φοινικικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mfs-aa",
+      "title": {
+        "english": "Arab Geography and Antiquities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "glaucus-the-historian-geography-antiquities-mfs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/glaucus-the-historian/geography-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.json"
+      }
+    },
+    {
+      "eul_wid": "giq-aa",
+      "title": {
+        "english": "Egyptian Affairs",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "lyceas-of-naucratis-egyptian-affairs-giq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyceas-of-naucratis/egyptian-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.json"
+      }
+    },
+    {
+      "eul_wid": "ekg-aa",
+      "title": {
+        "english": "Fragments on Eleusinian Mysteries",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἐλευσινίων Μυστηρίων"
+      },
+      "url_slug": "melanthius-the-historian-eleusinian-mysteries-ekg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melanthius-the-historian/eleusinian-mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.json"
+      }
+    },
+    {
+      "eul_wid": "ubo-ac",
+      "title": {
+        "english": "Methodius",
+        "ancient_greek": "Μεθόδιος"
+      },
+      "url_slug": "anonymous-historical-work-methodius-ubo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/methodius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.json"
+      }
+    },
+    {
+      "eul_wid": "iqq-aa",
+      "title": {
+        "english": "On Alexandria and Its Monuments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callixenus-of-rhodes-alexandria-monuments-iqq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callixenus-of-rhodes/alexandria-monuments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bi",
+      "title": {
+        "english": "On Hannibal",
+        "ancient_greek": "Περὶ Ἁννίβα"
+      },
+      "url_slug": "historical-fragments-anonymous-hannibal-mmg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/hannibal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.json"
+      }
+    },
+    {
+      "eul_wid": "tzg-aa",
+      "title": {
+        "english": "On the Fertility of Phrygia",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "metrophanes-historicus-fertility-phrygia-tzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.json"
+      }
+    },
+    {
+      "eul_wid": "ikw-aa",
+      "title": {
+        "english": "Pyrrhus's Royal Memoirs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pyrrhus-of-epirus-royal-memoirs-ikw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pyrrhus-of-epirus/royal-memoirs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus/royal-memoirs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus/royal-memoirs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus/royal-memoirs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrrhus-of-epirus/royal-memoirs.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/julius-pomponius-laetus/phoenician-history",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

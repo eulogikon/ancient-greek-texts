@@ -1,0 +1,636 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ezq-af",
+  "eul_aid": "ezq",
+  "author_slug": "xenophon-of-athens",
+  "work_slug": "memorabilia",
+  "url_slug": "xenophon-of-athens-memorabilia-ezq-af",
+  "author": {
+    "english": "Xenophon of Athens",
+    "ancient_greek": "Ξενοφῶν ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Memorabilia",
+    "ancient_greek": "Κύρου Ἀνάβασις"
+  },
+  "seo": {
+    "browser_title": "The Anabasis by Xenophon of Athens on Eulogikon Archive",
+    "meta_title": "Classical Anabasis by Xenophon of Athens in Ancient Greek",
+    "meta_description": "Xenophon's Anabasis recounts the Greek mercenaries' journey after Cyrus's failed campaign. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Xenophon&#x27;s <strong>Memorabilia</strong> is a prose work composed in Attic Greek around the 370s BCE, serving as a philosophical and biographical defense of his mentor, Socrates. The text is structured as a series of recollections and dialogues, systematically refuting the official charges of impiety and corrupting the youth that led to Socrates’s execution in 399 BCE. Xenophon counters the accusation of impiety by portraying Socrates as scrupulously observant of public religious rites and guided by a personal divine sign. Against the charge of corrupting the young, he presents Socrates as a model of self-discipline and a moral guide who consistently urged his companions toward virtue, justice, and self-improvement.</p>\n<p class=\"research-text\">Writing from the perspective of a devoted follower, Xenophon assembles anecdotes and conversations that illustrate Socrates’s practical wisdom and his method of dialectical inquiry applied to everyday ethical and political concerns. The work emphasizes Socrates’s role as a beneficial social figure who discussed the nature of piety, justice, courage, and self-control, aiming to improve his associates. It stands as a crucial complement to the portrait of Socrates in Plato’s dialogues, offering a more pragmatic and less metaphysically oriented interpretation of his teachings. The <strong>Memorabilia</strong> has survived intact through medieval manuscripts and remains a primary source for understanding the historical Socrates and the intellectual climate of late-fifth-century Athens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "πολλάκις ἐθαύμασα τίσι ποτὲ λόγοις Ἀθηναίους ἔπεισαν οἱ γραψάμενοι Σωκράτην ὡς ἄξιος εἴη θανάτου τῇ πόλει. ἡ μὲν γὰρ γραφὴ κατʼ αὐτοῦ τοιάδε τις ἦν· ἀδικεῖ Σωκράτης οὓς μὲν ἡ πόλις νομίζει θεοὺς οὐ νομίζων, ἕτερα δὲ καινὰ δαιμόνια εἰσφέρων· ἀδικεῖ δὲ καὶ τοὺς νέους διαφθείρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "θαυμαστὸν δὲ φαίνεταί μοι καὶ τὸ πεισθῆναί τινας ὡς Σωκράτης τοὺς νέους διέφθειρεν, ὃς πρὸς τοῖς εἰρημένοις πρῶτον μὲν ἀφροδισίων καὶ γαστρὸς πάντων ἀνθρώπων ἐγκρατέστατος ἦν, εἶτα πρὸς χειμῶνα καὶ θέρος καὶ πάντας πόνους καρτερικώτατος, ἔτι δὲ πρὸς τὸ μετρίων δεῖσθαι πεπαιδευμένος οὕτως, ὥστε πάνυ μικρὰ κεκτημένος πάνυ ῥᾳδίως ἔχειν ἀρκοῦντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "ὡς δὲ δὴ καὶ ὠφελεῖν ἐδόκει μοι τοὺς συνόντας τὰ μὲν ἔργῳ δεικνύων ἑαυτὸν οἷος ἦν, τὰ δὲ καὶ διαλεγόμενος, τούτων δὴ γράψω ὁπόσα ἂν διαμνημονεύσω. τὰ μὲν τοίνυν πρὸς τοὺς θεοὺς φανερὸς ἦν καὶ ποιῶν καὶ λέγων ᾗπερ ἡ Πυθία ἀποκρίνεται τοῖς ἐρωτῶσι πῶς δεῖ ποιεῖν ἢ περὶ θυσίας ἢ περὶ προγόνων θεραπείας ἢ περὶ ἄλλου τινὸς τῶν τοιούτων· ἥ τε γὰρ Πυθία νόμῳ πόλεως ἀναιρεῖ ποιοῦντας εὐσεβῶς ἂν ποιεῖν, Σωκράτης τε οὕτω καὶ αὐτὸς ἐποίει καὶ τοῖς ἄλλοις παρῄνει, τοὺς δὲ ἄλλως πως ποιοῦντας περιέργους καὶ ματαίους ἐνόμιζεν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "εἰ δέ τινες Σωκράτην νομίζουσιν, ὡς ἔνιοι γράφουσί τε καὶ λέγουσι περὶ αὐτοῦ τεκμαιρόμενοι, προτρέψασθαι μὲν ἀνθρώπους ἐπʼ ἀρετὴν κράτιστον γεγονέναι, προαγαγεῖν δʼ ἐπʼ αὐτὴν οὐχ ἱκανόν, σκεψάμενοι μὴ μόνον ἃ ἐκεῖνος κολαστηρίου ἕνεκα τοὺς πάντʼ οἰομένους εἰδέναι ἐρωτῶν ἤλεγχεν, ἀλλὰ καὶ ἃ λέγων συνημέρευε τοῖς συνδιατρίβουσι, δοκιμαζόντων εἰ ἱκανὸς ἦν βελτίους ποιεῖν τοὺς συνόντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "εἰ δὲ δὴ καὶ ἐγκράτεια καλόν τε κἀγαθὸν ἀνδρὶ κτῆμά ἐστιν, ἐπισκεψώμεθα εἴ τι προυβίβαζε λέγων εἰς ταύτην τοιάδε· ὦ ἄνδρες, εἰ πολέμου ἡμῖν γενομένου βουλοίμεθα ἑλέσθαι ἄνδρα, ὑφʼ οὗ μάλιστʼ ἂν αὐτοὶ μὲν σῳζοίμεθα, τοὺς δὲ πολεμίους χειροίμεθα, ἆρʼ ὅντινα ἂν αἰσθανοίμεθα ἥττω γαστρὸς ἢ οἴνου ἢ ἀφροδισίων ἢ πόνου ἢ ὕπνου, τοῦτον ἂν αἱροίμεθα; καὶ πῶς ἂν οἰηθείημεν τὸν τοιοῦτον ἢ ἡμᾶς σῶσαι ἢ τοὺς πολεμίους κρατῆσαι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.6",
+      "text": "ἄξιον δʼ αὐτοῦ καὶ ἃ πρὸς Ἀντιφῶντα τὸν σοφιστὴν διελέχθη μὴ παραλιπεῖν. ὁ γὰρ Ἀντιφῶν ποτε βουλόμενος τοὺς συνουσιαστὰς αὐτοῦ παρελέσθαι προσελθὼν τῷ Σωκράτει παρόντων αὐτῶν ἔλεξε τάδε·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.7",
+      "text": "ἐπισκεψώμεθα δὲ εἰ καὶ ἀλαζονείας ἀποτρέπων τοὺς συνόντας ἀρετῆς ἐπιμελεῖσθαι προέτρεπεν· ἀεὶ γὰρ ἔλεγεν ὡς οὐκ εἴη καλλίων ὁδὸς ἐπʼ εὐδοξίαν ἢ διʼ ἧς ἄν τις ἀγαθὸς τοῦτο γένοιτο, ὃ καὶ δοκεῖν βούλοιτο. ὅτι δʼ ἀληθῆ ἔλεγεν, ὧδʼ ἐδίδασκεν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "ἐδόκει δέ μοι καὶ τοιαῦτα λέγων προτρέπειν τοὺς συνόντας ἀσκεῖν ἐγκράτειαν πρὸς ἐπιθυμίαν βρωτοῦ καὶ ποτοῦ καὶ λαγνείας καὶ ὕπνου καὶ ῥίγους καὶ θάλπους καὶ πόνου. γνοὺς γάρ τινα τῶν συνόντων ἀκολαστοτέρως ἔχοντα πρὸς τὰ τοιαῦτα, εἰπέ μοι, ἔφη, ὦ Ἀρίστιππε, εἰ δέοι σε παιδεύειν παραλαβόντα δύο τῶν νέων, τὸν μέν, ὅπως ἱκανὸς ἔσται ἄρχειν, τὸν δʼ, ὅπως μηδʼ ἀντιποιήσεται ἀρχῆς, πῶς ἂν ἑκάτερον παιδεύοις; βούλει σκοπῶμεν ἀρξάμενοι ἀπὸ τῆς τροφῆς ὥσπερ ἀπὸ τῶν στοιχείων· καὶ ὁ Ἀρίστιππος ἔφη· δοκεῖ γοῦν μοι ἡ τροφὴ ἀρχὴ εἶναι· οὐδὲ γὰρ ζῴη γʼ ἄν τις, εἰ μὴ τρέφοιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "αἰσθόμενος δέ ποτε Λαμπροκλέα τὸν πρεσβύτατον υἱὸν αὐτοῦ πρὸς τὴν μητέρα χαλεπαίνοντα, εἰπέ μοι, ἔφη, ὦ παῖ, οἶσθά τινας ἀνθρώπους ἀχαρίστους καλουμένους; καὶ μάλα, ἔφη ὁ νεανίσκος. καταμεμάθηκας οὖν τοὺς τί ποιοῦντας τὸ ὄνομα τοῦτο ἀποκαλοῦσιν; ἔγωγʼ, ἔφη· τοὺς γὰρ εὖ παθόντας, ὅταν δυνάμενοι χάριν ἀποδοῦναι μὴ ἀποδῶσιν, ἀχαρίστου καλοῦσιν. οὐκοῦν δοκοῦσί σοι ἐν τοῖς ἀδίκοις καταλογίζεσθαι τοὺς ἀχαρίστους;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "Χαιρεφῶντα δέ ποτε καὶ Χαιρεκράτην, ἀδελφὼ μὲν ὄντε ἀλλήλοιν, ἑαυτῷ δὲ γνωρίμω, αἰσθόμενος διαφερομένω, ἰδὼν τὸν Χαιρεκράτην, εἰπέ μοι, ἔφη, ὦ Χαιρέκρατες, οὐ δήπου καὶ σὺ εἶ τῶν τοιούτων ἀνθρώπων, οἳ χρησιμώτερον νομίζουσι χρήματα ἢ ἀδελφούς; καὶ ταῦτα τῶν μὲν ἀφρόνων ὄντων, τοῦ δὲ φρονίμου, καὶ τῶν μὲν βοηθείας δεομένων, τοῦ δὲ βοηθεῖν δυναμένου, καὶ πρὸς τούτοις τῶν μὲν πλειόνων ὑπαρχόντων, τοῦ δὲ ἑνός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.4",
+      "text": "ἤκουσα δέ ποτε αὐτοῦ καὶ περὶ φίλων διαλεγομένου ἐξ ὧν ἔμοιγε ἐδόκει μάλιστʼ ἄν τις ὠφελεῖσθαι πρὸς φίλων κτῆσίν τε καὶ χρείαν. τοῦτο μὲν γὰρ δὴ πολλῶν ἔφη ἀκούειν, ὡς πάντων κτημάτων κράτιστον ἂν εἴη φίλος σαφὴς καὶ ἀγαθός· ἐπιμελομένους δὲ παντὸς μᾶλλον ὁρᾶν ἔφη τοὺς πολλοὺς ἢ φίλων κτήσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.5",
+      "text": "ἤκουσα δέ ποτε καὶ ἄλλον αὐτοῦ λόγον, ὃς ἐδόκει μοι προτρέπειν τὸν ἀκούοντα ἐξετάζειν ἑαυτὸν ὁπόσου τοῖς φίλοις ἄξιος εἴη. ἰδὼν γάρ τινα τῶν συνόντων ἀμελοῦντα φίλου πενίᾳ πιεζομένου, ἤρετο Ἀντισθένη ἐναντίον τοῦ ἀμελοῦντος αὐτοῦ καὶ ἄλλων πολλῶν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.6",
+      "text": "ἐδόκει δέ μοι καὶ εἰς τὸ δοκιμάζειν φίλους ὁποίους ἄξιον κτᾶσθαι φρενοῦν τοιάδε λέγων· εἰπέ μοι, ἔφη, ὦ Κριτόβουλε, εἰ δεοίμεθα φίλου ἀγαθοῦ, πῶς ἂν ἐπιχειροίημεν σκοπεῖν; ἆρα πρῶτον μὲν ζητητέον, ὅστις ἄρχει γαστρός τε καὶ φιλοποσίας καὶ λαγνείας καὶ ὕπνου καὶ ἀργίας; ὁ γὰρ ὑπὸ τούτων κρατούμενος οὔτʼ αὐτὸς ἑαυτῷ δύναιτʼ ἂν οὔτε φίλῳ τὰ δέοντα πράττειν. μὰ Δίʼ οὐ δῆτα, ἔφη. οὐκοῦν τοῦ μὲν ὑπὸ τούτων ἀρχομένου ἀφεκτέον δοκεῖ σοι εἶναι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.7",
+      "text": "καὶ μὴν τὰς ἀπορίας γε τῶν φίλων τὰς μὲν διʼ ἄγνοιαν ἐπειρᾶτο γνώμῃ ἀκεῖσθαι, τὰς δὲ διʼ ἔνδειαν διδάσκων κατὰ δύναμιν ἀλλήλοις ἐπαρκεῖν. ἐρῶ δὲ καὶ ἐν τούτοις ἃ σύνοιδα αὐτῷ. Ἀρίσταρχον γάρ ποτε ὁρῶν σκυθρωπῶς ἔχοντα, ἔοικας, ἔφη, ὦ Ἀρίσταρχε, βαρέως φέρειν τι. χρὴ δὲ τοῦ βάρους μεταδιδόναι τοῖς φίλοις· ἴσως γὰρ ἄν τί σε καὶ ἡμεῖς κουφίσαιμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.8",
+      "text": "ἄλλον δέ ποτε ἀρχαῖον ἑταῖρον διὰ χρόνου ἰδών, πόθεν, ἔφη, Εὔθηρε, φαίνῃ; ὑπὸ μὲν τὴν κατάλυσιν τοῦ πολέμου, ἔφη, ὦ Σώκρατες, ἐκ τῆς ἀποδημίας, νυνὶ μέντοι αὐτόθεν. ἐπειδὴ γὰρ ἀφῃρέθημεν τὰ ἐν τῇ ὑπερορίᾳ κτήματα, ἐν δὲ τῇ Ἀττικῇ ὁ πατήρ μοι οὐδὲν κατέλιπεν, ἀναγκάζομαι νῦν ἐπιδημήσας τῷ σώματι ἐργαζόμενος τὰ ἐπιτήδεια πορίζεσθαι. δοκεῖ δέ μοι τοῦτο κρεῖττον εἶναι ἢ δεῖσθαί τινος ἀνθρώπων, ἄλλως τε καὶ μηδὲν ἔχοντα ἐφʼ ὅτῳ ἂν δανειζοίμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.9",
+      "text": "οἶδα δέ ποτε αὐτὸν καὶ Κρίτωνος ἀκούσαντα, ὡς χαλεπὸν ὁ βίος Ἀθήνησιν εἴη ἀνδρὶ βουλομένῳ τὰ ἑαυτοῦ πράττειν. νῦν γάρ, ἔφη, ἐμέ τινες εἰς δίκας ἄγουσιν, οὐχ ὅτι ἀδικοῦνται ὑπʼ ἐμοῦ, ἀλλʼ ὅτι νομίζουσιν ἥδιον ἄν με ἀργύριον τελέσαι ἢ πράγματα ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.10",
+      "text": "οἶδα δὲ καὶ Διοδώρῳ αὐτὸν ἑταίρῳ ὄντι τοιάδε διαλεχθέντα· εἰπέ μοι, ἔφη, ὦ Διόδωρε, ἄν τίς σοι τῶν οἰκετῶν ἀποδρᾷ, ἐπιμελῇ, ὅπως ἀνασώσῃ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "ὅτι δὲ τοὺς ὀρεγομένους τῶν καλῶν ἐπιμελεῖς ὧν ὀρέγοιντο ποιῶν ὠφέλει, νῦν τοῦτο διηγήσομαι. ἀκούσας γάρ ποτε Διονυσόδωρον εἰς τὴν πόλιν ἥκειν ἐπαγγελλόμενον στρατηγεῖν διδάξειν, ἔλεξε πρός τινα τῶν συνόντων, ὃν ᾐσθάνετο βουλόμενον τῆς τιμῆς ταύτης ἐν τῇ πόλει τυχεῖν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.2",
+      "text": "ἐντυχὼν δέ ποτε στρατηγεῖν ᾑρημένῳ τῳ, τοῦ ἕνεκεν, ἔφη, Ὅμηρον οἴει τὸν Ἀγαμέμνονα προσαγορεῦσαι ποιμένα λαῶν; ἆρά γε ὅτι, ὥσπερ τὸν ποιμένα δεῖ ἐπιμελεῖσθαι, ὅπως σῶαί τε ἔσονται αἱ οἶες καὶ τὰ ἐπιτήδεια ἕξουσι καί, οὗ ἕνεκα τρέφονται, τοῦτο ἔσται, οὕτω καὶ τὸν στρατηγὸν ἐπιμελεῖσθαι δεῖ, ὅπως σῶοί τε οἱ στρατιῶται ἔσονται καὶ τὰ ἐπιτήδεια ἕξουσι καί, οὗ ἕνεκα στρατεύονται, τοῦτο ἔσται; στρατεύονται δέ, ἵνα κρατοῦντες τῶν πολεμίων εὐδαιμονέστεροι ὦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.3",
+      "text": "καὶ ἱππαρχεῖν δέ τινι ᾑρημένῳ οἶδά ποτε αὐτὸν τοιάδε διαλεχθέντα· ἔχοις ἄν, ἔφη, ὦ νεανία, εἰπεῖν ἡμῖν ὅτου ἕνεκα ἐπεθύμησας ἱππαρχεῖν; οὐ γὰρ δὴ τοῦ πρῶτος τῶν ἱππέων ἐλαύνειν· καὶ γὰρ οἱ ἱπποτοξόται τούτου γε ἀξιοῦνται· προελαύνουσι γοῦν καὶ τῶν ἱππάρχων. ἀληθῆ λέγεις, ἔφη. ἀλλὰ μὴν οὐδὲ τοῦ γνωσθῆναί γε· ἐπεὶ καὶ οἱ μαινόμενοί γε ὑπὸ πάντων γιγνώσκονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.4",
+      "text": "ἰδὼν δέ ποτε Νικομαχίδην ἐξ ἀρχαιρεσιῶν ἀπιόντα ἤρετο· τίνες, ὦ Νικομαχίδη, στρατηγοὶ ᾕρηνται; καὶ ὅς, οὐ γάρ, ἔφη, ὦ Σώκρατες, τοιοῦτοί εἰσιν Ἀθηναῖοι, ὥστε ἐμὲ μὲν οὐχ εἵλοντο, ὃς ἐκ καταλόγου στρατευόμενος κατατέτριμμαι καὶ λοχαγῶν καὶ ταξιαρχῶν καὶ τραύματα ὑπὸ τῶν πολεμίων τοσαῦτα ἔχων—ἅμα δὲ καὶ τὰς οὐλὰς τῶν τραυμάτων ἀπογυμνούμενος ἐπεδείκνυεν—Ἀντισθένη δέ, ἔφη, εἵλοντο τὸν οὔτε ὁπλίτην πώποτε στρατευσάμενον ἔν τε τοῖς ἱππεῦσιν οὐδὲν περίβλεπτον ποιήσαντα ἐπιστάμενόν τε ἄλλο οὐδὲν ἢ χρήματα συλλέγειν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.5",
+      "text": "Περικλεῖ δέ ποτε τῷ τοῦ πάνυ Περικλέους υἱῷ διαλεγόμενος, ἐγώ τοι, ἔφη, ὦ Περίκλεις, ἐλπίδα ἔχω σοῦ στρατηγήσαντος ἀμείνω τε καὶ ἐνδοξοτέραν τὴν πόλιν εἰς τὰ πολεμικὰ ἔσεσθαι καὶ τῶν πολεμίων κρατήσειν. καὶ ὁ Περικλῆς, βουλοίμην ἄν, ἔφη, ὦ Σώκρατες, ἃ λέγεις· ὅπως δὲ ταῦτα γένοιτʼ ἄν, οὐ δύναμαι γνῶναι. βούλει οὖν, ἔφη ὁ Σωκράτης, διαλογιζόμενοι περὶ αὐτῶν ἐπισκοπῶμεν ὅπου ἤδη τὸ δυνατόν ἐστι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.6",
+      "text": "Γλαύκωνα δὲ τὸν Ἀρίστωνος, ὅτʼ ἐπεχείρει δημηγορεῖν, ἐπιθυμῶν προστατεύειν τῆς πόλεως οὐδέπω εἴκοσιν ἔτη γεγονώς, τῶν ἄλλων οἰκείων τε καὶ φίλων οὐδεὶς ἐδύνατο παῦσαι ἑλκόμενόν τε ἀπὸ τοῦ βήματος καὶ καταγέλαστον ὄντα· Σωκράτης δέ, εὔνους ὢν αὐτῷ διά τε Χαρμίδην τὸν Γλαύκωνος καὶ διὰ Πλάτωνα, μόνος ἔπαυσεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.7",
+      "text": "Χαρμίδην δὲ τὸν Γλαύκωνος ὁρῶν ἀξιόλογον μὲν ἄνδρα ὄντα καὶ πολλῷ δυνατώτερον τῶν τὰ πολιτικὰ τότε πραττόντων, ὀκνοῦντα δὲ προσιέναι τῷ δήμῳ καὶ τῶν τῆς πόλεως πραγμάτων ἐπιμελεῖσθαι, εἰπέ μοι, ἔφη, ὦ Χαρμίδη, εἴ τις ἱκανὸς ὢν τοὺς στεφανίτας ἀγῶνας νικᾶν καὶ διὰ τοῦτο αὐτός τε τιμᾶσθαι καὶ τὴν πατρίδα ἐν τῇ Ἑλλάδι εὐδοκιμωτέραν ποιεῖν μὴ θέλοι ἀγωνίζεσθαι, ποῖόν τινα τοῦτον νομίζοις ἂν τὸν ἄνδρα εἶναι; δῆλον ὅτι, ἔφη, μαλακόν τε καὶ δειλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.8",
+      "text": "Ἀριστίππου δὲ ἐπιχειροῦντος ἐλέγχειν τὸν Σωκράτην, ὥσπερ αὐτὸς ὑπʼ ἐκείνου τὸ πρότερον ἠλέγχετο, βουλόμενος τοὺς συνόντας ὠφελεῖν ὁ Σωκράτης ἀπεκρίνατο οὐχ ὥσπερ οἱ φυλαττόμενοι μή πῃ ὁ λόγος ἐπαλλαχθῇ, ἀλλʼ ὡς ἂν πεπεισμένοι μάλιστα πράττειν τὰ δέοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.9",
+      "text": "πάλιν δὲ ἐρωτώμενος ἡ ἀνδρεία πότερον εἴη διδακτὸν ἢ φυσικόν, οἶμαι μέν, ἔφη, ὥσπερ σῶμα σώματος ἰσχυρότερον πρὸς τοὺς πόνους φύεται, οὕτω καὶ ψυχὴν ψυχῆς ἐρρωμενεστέραν πρὸς τὰ δεινὰ φύσει γίγνεσθαι· ὁρῶ γὰρ ἐν τοῖς αὐτοῖς νόμοις τε καὶ ἔθεσι τρεφομένους πολὺ διαφέροντας ἀλλήλων τόλμῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.10",
+      "text": "ἀλλὰ μὴν καὶ εἴ ποτε τῶν τὰς τέχνας ἐχόντων καὶ ἐργασίας ἕνεκα χρωμένων αὐταῖς διαλέγοιτό τινι, καὶ τούτοις ὠφέλιμος ἦν. εἰσελθὼν μὲν γάρ ποτε πρὸς Παρράσιον τὸν ζωγράφον καὶ διαλεγόμενος αὐτῷ, ἆρα, ἔφη, ὦ Παρράσιε, γραφική ἐστιν εἰκασία τῶν ὁρωμένων; τὰ γοῦν κοῖλα καὶ τὰ ὑψηλὰ καὶ τὰ σκοτεινὰ καὶ τὰ φωτεινὰ καὶ τὰ σκληρὰ καὶ τὰ μαλακὰ καὶ τὰ τραχέα καὶ τὰ λεῖα καὶ τὰ νέα καὶ τὰ παλαιὰ σώματα διὰ τῶν χρωμάτων ἀπεικάζοντες ἐκμιμεῖσθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.11",
+      "text": "γυναικὸς δέ ποτε οὔσης ἐν τῇ πόλει καλῆς, ᾗ ὄνομα ἦν Θεοδότη, καὶ οἵας συνεῖναι τῷ πείθοντι, μνησθέντος αὐτῆς τῶν παρόντων τινὸς καὶ εἰπόντος ὅτι κρεῖττον εἴη λόγου τὸ κάλλος τῆς γυναικός, καὶ ζωγράφους φήσαντος εἰσιέναι πρὸς αὐτὴν ἀπεικασομένους, οἷς ἐκείνην ἐπιδεικνύειν ἑαυτῆς ὅσα καλῶς ἔχοι, ἰτέον ἂν εἴη θεασομένους, ἔφη ὁ Σωκράτης· οὐ γὰρ δὴ ἀκούσασί γε τὸ λόγου κρεῖττον ἔστι καταμαθεῖν. καὶ ὁ διηγησάμενος, οὐκ ἂν φθάνοιτʼ, ἔφη, ἀκολουθοῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.12",
+      "text": "Ἐπιγένην δὲ τῶν συνόντων τινὰ νέον τε ὄντα καὶ τὸ σῶμα κακῶς ἔχοντα ἰδών, ὡς ἰδιωτικῶς, ἔφη, τὸ σῶμα ἔχεις, ὦ Ἐπίγενες. καὶ ὅς, ἰδιώτης γάρ, ἔφη, εἰμί, ὦ Σώκρατες. οὐδέν γε μᾶλλον, ἔφη, τῶν ἐν Ὀλυμπίᾳ μελλόντων ἀγωνίζεσθαι· ἢ δοκεῖ σοι μικρὸς εἶναι ὁ περὶ τῆς ψυχῆς πρὸς τοὺς πολεμίους ἀγών, ὃν Ἀθηναῖοι θήσουσιν, ὅταν τύχωσι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.13",
+      "text": "ὀργιζομένου δέ ποτέ τινος, ὅτι προσειπών τινα χαίρειν οὐκ ἀντιπροσερρήθη, γελοῖον, ἔφη, τό, εἰ μὲν τὸ σῶμα κάκιον ἔχοντι ἀπήντησάς τῳ, μὴ ἂν ὀργίζεσθαι, ὅτι δὲ τὴν ψυχὴν ἀγροικοτέρως διακειμένῳ περιέτυχες, τοῦτό σε λυπεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.14",
+      "text": "ὁπότε δὲ τῶν συνιόντων ἐπὶ δεῖπνον οἱ μὲν μικρὸν ὄψον, οἱ δὲ πολὺ φέροιεν, ἐκέλευεν ὁ Σωκράτης τὸν παῖδα τὸ μικρὸν ἢ εἰς τὸ κοινὸν τιθέναι ἢ διανέμειν ἑκάστῳ τὸ μέρος. οἱ οὖν τὸ πολὺ φέροντες ᾐσχύνοντο τό τε μὴ κοινωνεῖν τοῦ εἰς τὸ κοινὸν τιθεμένου καὶ τὸ μὴ ἀντιτιθέναι τὸ ἑαυτῶν· ἐτίθεσαν οὖν καὶ τὸ ἑαυτῶν εἰς τὸ κοινόν. καὶ ἐπεὶ οὐδὲν πλέον εἶχον τῶν μικρὸν φερομένων, ἐπαύοντο πολλοῦ ὀψωνοῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.1",
+      "text": "οὕτω δὲ Σωκράτης ἦν ἐν παντὶ πράγματι καὶ πάντα τρόπον ὠφέλιμος, ὥστε τῷ σκοπουμένῳ τοῦτο καὶ εἰ μετρίως αἰσθανομένῳ φανερὸν εἶναι ὅτι οὐδὲν ὠφελιμώτερον ἦν τοῦ Σωκράτει συνεῖναι καὶ μετʼ ἐκείνου διατρίβειν ὁπουοῦν καὶ ἐν ὁτῳοῦν πράγματι· ἐπεὶ καὶ τὸ ἐκείνου μεμνῆσθαι μὴ παρόντος οὐ μικρὰ ὠφέλει τοὺς εἰωθότας τε αὐτῷ συνεῖναι καὶ ἀποδεχομένους ἐκεῖνον. καὶ γὰρ παίζων οὐδὲν ἧττον ἢ σπουδάζων ἐλυσιτέλει τοῖς συνδιατρίβουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.2",
+      "text": "τοῖς δὲ νομίζουσι παιδείας τε τῆς ἀρίστης τετυχηκέναι καὶ μέγα φρονοῦσιν ἐπὶ σοφίᾳ ὡς προσεφέρετο νῦν διηγήσομαι. καταμαθὼν γὰρ Εὐθύδημον τὸν καλὸν γράμματα πολλὰ συνειλεγμένον ποιητῶν τε καὶ σοφιστῶν τῶν εὐδοκιμωτάτων καὶ ἐκ τούτων ἤδη τε νομίζοντα διαφέρειν τῶν ἡλικιωτῶν ἐν σοφίᾳ καὶ μεγάλας ἐλπίδας ἔχοντα πάντων διοίσειν τῷ δύνασθαι λέγειν τε καὶ πράττειν, πρῶτον μέν, αἰσθανόμενος αὐτὸν διὰ νεότητα οὔπω εἰς τὴν ἀγορὰν εἰσιόντα, εἰ δέ τι βούλοιτο διαπράξασθαι, καθίζοντα εἰς ἡνιοποιεῖόν τι τῶν ἐγγὺς τῆς ἀγορᾶς, εἰς τοῦτο καὶ αὐτὸς ᾔει τῶν μεθʼ ἑαυτοῦ τινας ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.3",
+      "text": "τὸ μὲν οὖν λεκτικοὺς καὶ πρακτικοὺς καὶ μηχανικοὺς γίγνεσθαι τοὺς συνόντας οὐκ ἔσπευδεν, ἀλλὰ πρότερον τούτων ᾤετο χρῆναι σωφροσύνην αὐτοῖς ἐγγενέσθαι. τοὺς γὰρ ἄνευ τοῦ σωφρονεῖν ταῦτα δυναμένους ἀδικωτέρους τε καὶ δυνατωτέρους κακουργεῖν ἐνόμιζεν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.4",
+      "text": "ἀλλὰ μὴν καὶ περὶ τοῦ δικαίου γε οὐκ ἀπεκρύπτετο ἣν εἶχε γνώμην, ἀλλὰ καὶ ἔργῳ ἀπεδείκνυτο, ἰδίᾳ τε πᾶσι νομίμως τε καὶ ὠφελίμως χρώμενος καὶ κοινῇ ἄρχουσί τε ἃ οἱ νόμοι προστάττοιεν πειθόμενος καὶ κατὰ πόλιν καὶ ἐν ταῖς στρατείαις οὕτως ὥστε διάδηλος εἶναι παρὰ τοὺς ἄλλους εὐτακτῶν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.5",
+      "text": "ὡς δὲ καὶ πρακτικωτέρους ἐποίει τοὺς συνόντας ἑαυτῷ, νῦν αὖ τοῦτο λέξω. νομίζων γὰρ ἐγκράτειαν ὑπάρχειν ἀγαθὸν εἶναι τῷ μέλλοντι καλόν τι πράξειν, πρῶτον μὲν αὐτὸς φανερὸς ἦν τοῖς συνοῦσιν ἠσκηκὼς αὑτὸν μάλιστα πάντων ἀνθρώπων, ἔπειτα διαλεγόμενος προετρέπετο πάντων μάλιστα τοὺς συνόντας πρὸς ἐγκράτειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.6",
+      "text": "ὡς δὲ καὶ διαλεκτικωτέρους ἐποίει τοὺς συνόντας, πειράσομαι καὶ τοῦτο λέγειν. Σωκράτης γὰρ τοὺς μὲν εἰδότας τί ἕκαστον εἴη τῶν ὄντων ἐνόμιζε καὶ τοῖς ἄλλοις ἂν ἐξηγεῖσθαι δύνασθαι· τοὺς δὲ μὴ εἰδότας οὐδὲν ἔφη θαυμαστὸν εἶναι αὐτούς τε σφάλλεσθαι καὶ ἄλλους σφάλλειν· ὧν ἕνεκα σκοπῶν σὺν τοῖς συνοῦσι, τί ἕκαστον εἴη τῶν ὄντων, οὐδέποτʼ ἔληγε. πάντα μὲν οὖν ᾗ διωρίζετο πολὺ ἔργον ἂν εἴη διεξελθεῖν· ἐν ὅσοις δὲ τὸν τρόπον τῆς ἐπισκέψεως δηλώσειν οἶμαι, τοσαῦτα λέξω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.7",
+      "text": "ὅτι μὲν οὖν ἁπλῶς τὴν ἑαυτοῦ γνώμην ἀπεφαίνετο Σωκράτης πρὸς τοὺς ὁμιλοῦντας αὐτῷ, δοκεῖ μοι δῆλον ἐκ τῶν εἰρημένων εἶναι· ὅτι δὲ καὶ αὐτάρκεις ἐν ταῖς προσηκούσαις πράξεσιν αὐτοὺς εἶναι ἐπεμελεῖτο, νῦν τοῦτο λέξω. πάντων μὲν γὰρ ὧν ἐγὼ οἶδα μάλιστα ἔμελεν αὐτῷ εἰδέναι ὅτου τις ἐπιστήμων εἴη τῶν συνόντων αὐτῷ· ὧν δὲ προσήκει ἀνδρὶ καλῷ κἀγαθῷ εἰδέναι, ὅ τι μὲν αὐτὸς εἰδείη, πάντων προθυμότατα ἐδίδασκεν· ὅτου δὲ αὐτὸς ἀπειρότερος εἴη, πρὸς τοὺς ἐπισταμένους ἦγεν αὐτούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.8",
+      "text": "εἰ δέ τις, ὅτι φάσκοντος αὐτοῦ τὸ δαιμόνιον ἑαυτῷ προσημαίνειν ἅ τε δέοι καὶ ἃ μὴ δέοι ποιεῖν ὑπὸ τῶν δικαστῶν κατεγνώσθη θάνατος, οἴεται αὐτὸν ἐλέγχεσθαι περὶ τοῦ δαιμονίου ψευδόμενον, ἐννοησάτω πρῶτον μὲν ὅτι οὕτως ἤδη τότε πόρρω τῆς ἡλικίας ἦν, ὥστʼ, εἰ καὶ μὴ τότε, οὐκ ἂν πολλῷ ὕστερον τελευτῆσαι τὸν βίον· εἶτα ὅτι τὸ μὲν ἀχθεινότατόν τε τοῦ βίου καὶ ἐν ᾧ πάντες τὴν διάνοιαν μειοῦνται ἀπέλιπεν, ἀντὶ δὲ τούτου τῆς ψυχῆς τὴν ῥώμην ἐπιδειξάμενος εὔκλειαν προσεκτήσατο, τήν τε δίκην πάντων ἀνθρώπων ἀληθέστατα καὶ ἐλευθεριώτατα καὶ δικαιότατα εἰπὼν καὶ τὴν κατάγνωσιν τοῦ θανάτου πραότατα καὶ ἀνδρωδέστατα ἐνέγκας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ezq-ai",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "xenophon-of-athens-agesilaus-ezq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-am",
+      "title": {
+        "english": "Anabasis",
+        "ancient_greek": "Ἀνάβασις"
+      },
+      "url_slug": "xenophon-of-athens-anabasis-ezq-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-an",
+      "title": {
+        "english": "Apology",
+        "ancient_greek": "Ἀπολογία"
+      },
+      "url_slug": "xenophon-of-athens-apology-ezq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ab",
+      "title": {
+        "english": "Constitution of the Athenians",
+        "ancient_greek": "Ἀθηναίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-ezq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aa",
+      "title": {
+        "english": "Constitution of the Lacedaemonians",
+        "ancient_greek": "Λακεδαιμονίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-lacedaemonians-ezq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ag",
+      "title": {
+        "english": "Cyropaedia",
+        "ancient_greek": "Κύρου Παιδεία"
+      },
+      "url_slug": "xenophon-of-athens-cyropaedia-ezq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cyropaedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aj",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικός"
+      },
+      "url_slug": "xenophon-of-athens-economics-ezq-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ak",
+      "title": {
+        "english": "Hellenica",
+        "ancient_greek": "Ἑλληνικά"
+      },
+      "url_slug": "xenophon-of-athens-hellenica-ezq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hellenica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ao",
+      "title": {
+        "english": "Hiero",
+        "ancient_greek": "Ἱέρων"
+      },
+      "url_slug": "xenophon-of-athens-hiero-ezq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hiero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ac",
+      "title": {
+        "english": "On the Art of Horsemanship",
+        "ancient_greek": "Περὶ Ἱππικῆς"
+      },
+      "url_slug": "xenophon-of-athens-horsemanship-ezq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/horsemanship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ad",
+      "title": {
+        "english": "On the Cavalry Commander",
+        "ancient_greek": "Περὶ Ἱππαρχίας"
+      },
+      "url_slug": "xenophon-of-athens-cavalry-commander-ezq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cavalry-commander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.json"
+      }
+    },
+    {
+      "eul_wid": "bbs-aa",
+      "title": {
+        "english": "Fragments of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα ἀδήλου θέσεως"
+      },
+      "url_slug": "theognis-of-megara-uncertain-fragments-bbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-megara/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mps-aa",
+      "title": {
+        "english": "Fragments on Alexandrian Education",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀλεξανδρείας Παιδείας"
+      },
+      "url_slug": "andron-of-alexandria-education-mps-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-alexandria/education",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria/education.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria/education.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria/education.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-alexandria/education.json"
+      }
+    },
+    {
+      "eul_wid": "guo-ab",
+      "title": {
+        "english": "Fragments on Boeotian Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων"
+      },
+      "url_slug": "aristophanes-of-boeotia-fragments-heroes-guo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/fragments-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.json"
+      }
+    },
+    {
+      "eul_wid": "kby-aa",
+      "title": {
+        "english": "Fragments on Miletus and Its Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου καὶ τῶν Μύθων αὐτῆς"
+      },
+      "url_slug": "aristocritus-of-miletus-myths-kby-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocritus-of-miletus/myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocritus-of-miletus/myths.json"
+      }
+    },
+    {
+      "eul_wid": "ova-aa",
+      "title": {
+        "english": "Historical Parallels and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "myronianus-of-amastris-historical-parallels-ova-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myronianus-of-amastris/historical-parallels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myronianus-of-amastris/historical-parallels.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-an",
+      "title": {
+        "english": "Illyrian",
+        "ancient_greek": "Ἰλλυρική"
+      },
+      "url_slug": "appian-of-alexandria-illyrian-pdc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/illyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.json"
+      }
+    },
+    {
+      "eul_wid": "rjy-aa",
+      "title": {
+        "english": "Letter to Aristides",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἀριστείδην"
+      },
+      "url_slug": "sextus-julius-africanus-letter-aristides-rjy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-julius-africanus/letter-aristides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-aristides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-aristides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-aristides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-aristides.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophon-of-athens/memorabilia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

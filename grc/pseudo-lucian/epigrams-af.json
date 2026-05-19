@@ -1,0 +1,661 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qeu-af",
+  "eul_aid": "qeu",
+  "author_slug": "pseudo-lucian",
+  "work_slug": "epigrams-af",
+  "url_slug": "pseudo-lucian-epigrams-af-qeu-af",
+  "author": {
+    "english": "Pseudo-Lucian ",
+    "ancient_greek": "Ψευδο-Λουκιανός"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Greek Epigrams by Pseudo-Lucian on Eulogikon",
+    "meta_title": "Classical Epigrams by Pseudo-Lucian in Ancient Greek",
+    "meta_description": "Short Greek poems attributed to Pseudo-Lucian, covering themes of love, death, and folly. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> is a collection of forty-nine elegiac poems transmitted under the name of Lucian of Samosata but considered spurious by modern scholarship, hence the designation Pseudo-Lucian. Preserved within the broader Lucianic corpus, this anthology employs the conventional Hellenistic epigram form for erotic, dedicatory, descriptive, and moralizing subjects. Its poetic nature is distinct from Lucian’s authentic prose satires, suggesting it is a later compilation, likely from the second or third century CE, reflecting the ongoing popularity of the epigram in the Imperial era. The poems cover standard epigrammatic themes, including erotic and sympotic scenes, dedications to deities such as Aphrodite and Dionysus, descriptions of artworks, moralizing and witty observations, and verses imitating epitaphs and inscriptions. The work survives intact as part of the manuscript tradition of Lucian’s complete works, with critical editions typically including it among the spurious works. The collection’s primary importance is textual and scholarly, illustrating practices of pseudepigraphy and the transmission of an authorial corpus. It serves as an example of conventional Hellenistic-style epigram composition during the Roman Imperial period, providing a contrast to Lucian’s innovative prose.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "6.17.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Αἱ τρισσαί τοι ταῦτα τὰ παίγνια θῆκαν ἑταῖραι, Κύπρι μάκαιρ’, ἄλλης ἄλλη ἀπ’ ἐργασίης· ὧν ἀπὸ μὲν πυγῆς Εὐφρὼ τάδε, ταῦτα δὲ Κλειὼ ὡς θέμις, ἡ τριτάτη δ’ Ἀτθὶς ἀπ’ οὐρανίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.17.(p1)",
+      "text": "ἀνθ’ ὧν τῇ μὲν πέμπε τὰ παιδικά, δεσπότι, κέρδη, τῇ δὲ τὰ θηλείης, τῇ δὲ τὰ μηδετέρης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.308.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Παῖδά με πενταέτηρον, ἀκηδέα θυμὸν ἔχοντα, νηλειὴς Ἀίδης ἥρπασε Καλλίμαχον. ἀλλά με μὴ κλαίοις· καὶ γὰρ βιότοιο μετέσχον παύρου καὶ παύρων τῶν βιότοιο κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9.120.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ ΣΑΜΟΣΑΤΕΩΣ Φαῦλος ἀνὴρ πίθος ἐστὶ τετρημένος, εἰς ὃν ἁπάσας ἀντλῶν τὰς χάριτας εἰς κενὸν ἐξέχεας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9.367.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ ΣΑΜΟΣΑΤΕΩΣ Τὸν πατρικὸν πλοῦτον νέος ὢν Θήρων ὁ Μενίππου αἰσχρῶς εἰς ἀκρατεῖς ἐξέχεεν δαπάνας· ἀλλά μιν Εὐκτήμων, πατρικὸς φίλος, ὡς ἐνόησεν ἤδη καρφαλέῃ τειρόμενον πενίῃ, καί μιν δακρυχέων ἀνελάμβανε καὶ πόσιν αὐτὸν θῆκε θυγατρὸς ἑῆς πόλλ’ ἐπὶ μείλια δούς. αὐτὰρ ἐπεὶ Θήρωνα παρὰ φρένας ἤλυθε πλοῦτος, αὐτίκα ταῖς αὐταῖς ἐτρέφετ’ ἐν δαπάναις, γαστρὶ χαριζόμενος πᾶσαν χάριν οὐ κατὰ κόσμον τῇ θ’ ὑπὸ τὴν μιαρὰν γαστέρα μαργοσύνῃ. οὕτως μὲν Θήρωνα τὸ δεύτερον ἀμφεκάλυψεν οὐλομένης πενίης κῦμα παλιρρόθιον. Εὐκτήμων δ’ ἐδάκρυε τὸ δεύτερον, οὐκέτι κεῖνον, ἀλλὰ θυγατρὸς ἑῆς προῖκά τε καὶ θάλαμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9.367.(p1)",
+      "text": "ἔγνω δ’, ὡς οὐκ ἔστι κακῶς κεχρημένον ἄνδρα τοῖς ἰδίοις εἶναι πιστὸν ἐν ἀλλοτρίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.26.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Ὡς τεθνηξόμενος τῶν σῶν ἀγαθῶν ἀπόλαυε, ὡς δὲ βιωσόμενος φείδεο σῶν κτεάνων. ἔστι δ’ ἀνὴρ σοφὸς οὗτος, ὃς ἄμφω ταῦτα νοήσας φειδοῖ καὶ δαπάνῃ μέτρον ἐφηρμόσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.27.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἀνθρώπους μὲν ἴσως λήσεις ἄτοπόν τι ποιήσας, οὐ λήσεις δὲ θεοὺς οὐδὲ λογιζόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.28.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Τοῖσι μὲν εὖ πράττουσιν ἅπας ὁ βίος βραχύς ἐστιν τοῖς δὲ κακῶς μία νὺξ ἄπλετός ἐστι χρόνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.29.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Οὐχ ὁ Ἔρως ἀδικεῖ μερόπων γένος, ἀλλ’ ἀκολάστοις ψυχαῖς ἀνθρώπων ἔσθ’ ὁ Ἔρως πρόφασις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.31.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Θνητὰ τὰ τῶν θνητῶν, καὶ πάντα παρέρχεται ἡμᾶς· ἢν δὲ μή, ἀλλ’ ἡμεῖς αὐτὰ παρερχόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.35.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Εὖ πράττων φίλος εἶ θνητοῖς, φίλος εἶ μακάρεσσι, καί σευ ῥηιδίως ἔκλυον εὐξαμένου· ἢν πταίσῃς, οὐδεὶς ἔτι σοι φίλος, ἀλλ’ ἅμα πάντα ἐχθρὰ Τύχης ῥιπαῖς συμμεταβαλλόμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.36.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Οὐδὲν ἐν ἀνθρώποισι Φύσις χαλεπώτερον εὗρεν ἀνθρώπου καθαρὰν ψευδομένου φιλίην· οὐ γὰρ ἔθ’ ὡς ἐχθρὸν προφυλασσόμεθ’, ἀλλ’ ἀγαπῶντες ὡς φίλον ἐν τούτῳ πλείονα βλαπτόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.37.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἡ βραδύπους βουλὴ μέγ’ ἀμείνων· ἡ δὲ ταχεῖα αἰὲν ἐφελκομένη τὴν μετάνοιαν ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.41.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Πλοῦτος ὁ τῆς ψυχῆς πλοῦτος μόνος ἐστὶν ἀληθής· τἆλλα δ’ ἔχει λύπην πλείονα τῶν κτεάνων. τόνδε πολυκτέανον καὶ πλούσιόν ἐστι δίκαιον κλῄζειν, ὃς χρῆσθαι τοῖς ἀγαθοῖς δύναται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.41.(p1)",
+      "text": "εἰ δέ τις ἐν ψήφοις κατατήκεται, ἄλλον ἐπ’ ἄλλῳ σωρεύειν αἰεὶ πλοῦτον ἐπειγόμενος, οὗτος ὁποῖα μέλισσα πολυτρήτοις ἐνὶ σίμβλοις μοχθήσει ἑτέρων δρεπτομένων τὸ μέλι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.42.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἀρρήτων ἐπέων γλώσσῃ σφραγὶς ἐπικείσθω· κρείσσων γὰρ μύθων ἢ κτεάνων φυλακή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.122.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Πολλὰ τὸ δαιμόνιον δύναται, κἂν ᾖ παράδοξα· τοὺς μικροὺς ἀνάγει, τοὺς μεγάλους κατάγει· καὶ σοῦ τὴν ὀφρὺν καὶ τὸν τῦφον καταπαύσει, κἂν ποταμὸς χρυσοῦ νάματά σοι παρέχῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.122.(p1)",
+      "text": "οὐ θρύον, οὐ μαλάχην ἄνεμός ποτε, τὰς δὲ μεγίστας ἢ δρύας ἢ πλατάνους οἶδε χαμαὶ κατάγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.274.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Εἰπέ μοι εἰρομένῳ, Κυλλήνιε, πῶς κατέβαινεν Λολλιανοῦ ψυχὴ δῶμα τὸ Φερσεφόνης; θαῦμα μέν, εἰ σιγῶσα· τυχὸν δέ τι καὶ σὲ διδάσκειν ἤθελε· φεῦ, κείνου καὶ νέκυν ἀντιάσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.294.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Πλοῦτον μὲν πλουτοῦντος ἔχεις, ψυχὴν δὲ πένητος, ὦ τοῖς κληρονόμοις πλούσιε, σοὶ δὲ πένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.396.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Πολλάκις οἶνον ἔπεμψας ἐμοί, καὶ πολλάκις ἔγνων σοὶ χάριν ἡδυπότῳ νέκταρι τερπόμενος. νῦν δ’, εἴπερ με φιλεῖς, μὴ πέμψῃς· οὐ δέομαι γὰρ οἴνου τοιούτου μηκέτ’ ἔχων θρίδακας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.397.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Πολλὰς μυριάδας ψηφίζων Ἀρτεμίδωρος καὶ μηδὲν δαπανῶν ζῇ βίον ἡμιόνων, πολλάκις αἳ χρυσοῦ τιμαλφέα φόρτον ἔχουσαι πολλὸν ὑπὲρ νώτου, χόρτον ἔδουσι μόνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.400.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Ἵλαθι, Γραμματικὴ φυσίζοε, ἵλαθι, λιμοῦ φάρμακον εὑρομένη „Μῆνιν ἄειδε, θεά.“ νηὸν ἐχρῆν καὶ σοὶ περικαλλέα δωμήσασθαι καὶ βωμὸν θυέων μή ποτε δευόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.400.(p1)",
+      "text": "καὶ γὰρ σοῦ μεσταὶ μὲν ὁδοί, μεστὴ δὲ θάλασσα καὶ λιμένες, πάντων δέκτρια Γραμματική.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.402.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἰητήρ τις ἐμοὶ τὸν ἑὸν φίλον υἱὸν ἔπεμψεν, ὥστε μαθεῖν παρ’ ἐμοὶ ταῦτα τὰ γραμματικά. ὡς δὲ τὸ „μῆνιν ἄειδε“ καὶ „ἄλγεα μυρί’ ἔθηκεν“ ἔγνω καὶ τὸ τρίτον τοῖσδ’ ἀκόλουθον ἔπος „πολλὰς δ’ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν,“ οὐκέτι μιν πέμπει πρός με μαθησόμενον. ἀλλά μ’ ἰδὼν ὁ πατήρ· „Σοὶ μὲν χάρις,“ εἶπεν, „ἑταῖρε· αὐτὰρ ὁ παῖς παρ’ ἐμοὶ ταῦτα μαθεῖν δύναται· καὶ γὰρ ἐγὼ πολλὰς ψυχὰς Ἄϊδι προϊάπτω καὶ πρὸς τοῦτ’ οὐδὲν γραμματικοῦ δέομαι.“ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.402.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Μηδείς μοι ταύτην, Ἐρασίστρατε, τὴν σπατάλην σου ποιήσειε θεῶν, ᾗ σὺ κατασπαταλᾷς ἔσθων ἐκτραπέλως στομάχων κακὰ χείρονα λιμοῦ, οἷα φάγοιεν ἐμῶν ἀντιδίκων τεκνία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.402.(p1)",
+      "text": "πεινάσαιμι γὰρ αὖθις ἔτι πλέον ἢ πρὶν ἐπείνων, ἢ χορτασθείην τῆς παρὰ σοὶ σπατάλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.403.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Μισόπτωχε θεά, μούνη πλούτου δαμάτειρα, ἡ τὸ καλῶς ζῆσαι πάντοτ’ ἐπισταμένη, εἰ δὲ καὶ ἀλλοτρίοις ἐπιιζομένη ποσὶ χαίρεις πιλοφορεῖν τ’ οἶδας καὶ μύρα σοι μέλεται, τέρπει καὶ στέφανός σε καὶ Αὐσονίου πόμα Βάκχου· ταῦτα παρὰ πτωχοῖς γίνεται οὐδέποτε. τοὔνεκά νυν φεύγεις πενίης τὸν ἀχάλκεον οὐδόν, τέρπῃ δ’ αὖ πλούτου πρὸς πόδας ἐρχομένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.404.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Οὐδέποτ’ εἰς πορθμεῖον ὁ κηλήτης Διόφαντος ἐμβαίνει μέλλων εἰς τὸ πέραν ἀπίναι· τῆς κήλης δ’ ἐπάνωθε τὰ φορτία πάντα τεθεικὼς καὶ τὸν ὄνον, διαπλεῖ σινδόν’ ἐπαράμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.404.(p1)",
+      "text": "ὥστε μάτην Τρίτωνες ἐν ὕδασι δόξαν ἔχουσιν, εἰ καὶ κηλήτης ταὐτὸ ποιεῖν δύναται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.405.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ὁ γρυπὸς Νίκων ὀσφραίνεται οἴνου ἄριστα, οὐ δύναται δ’ εἰπεῖν, οἷος ἂν ᾖ, ταχέως. ἐν τρισὶν ὥραις γὰρ θεριναῖς μόλις αἰσθάνετ’ αὐτὸς ὡς ἂν ἔχων πηχῶν ῥῖνα διακοσίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.405.(p1)",
+      "text": "ὢ μεγάλου μυκτῆρος· ὅταν ποταμὸν διαβαίνῃ, θηρεύει τούτῳ πολλάκις ἰχθύδια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.410.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Τοῦ πωγωνοφόρου κυνικοῦ, τοῦ βακτροπροσαίτου, εἴδομεν ἐν δείπνῳ τὴν μεγάλην σοφίαν. θέρμων μὲν γὰρ πρῶτον ἀπέσχετο καὶ ῥαφανίδων, μὴ δεῖν δουλεύειν γαστρὶ λέγων ἀρετήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.410.(p1)",
+      "text": "εὖτε δ’ ἐν ὀφθαλμοῖσιν ἴδεν χιονώδεα βόλβαν στρυφνήν, ἣ πινυτὸν ἤδη ἔκλεπτε νόον, ᾔτησεν παρὰ προσδοκίαν καὶ ἔτρωγεν ἀληθῶς κοὐδὲν ἔφη βόλβαν τὴν ἀρετὴν ἀδικεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.427.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Δαίμονα πολλὰ λαλῶν ὀζόστομος ἐξορκιστὴς ἐξέβαλ’, οὐχ ὅρκων, ἀλλὰ κόπρων δυνάμει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.428.(p1)",
+      "text": "〈ΤΟΥ ΑΥΤΟΥ〉 Εἰς τί μάτην νίπτεις δέμας Ἰνδικόν; ἴσχεο τέχνης· οὐ δύνασαι δνοφερὴν νύκτα καθηλιάσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.429.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἐν πᾶσιν μεθύουσιν Ἀκίνδυνος ἤθελε νήφειν, τοὔνεκα καὶ μεθύειν αὐτὸς ἔδοξε μόνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.430.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Εἰ τὸ τρέφειν πώγωνα δοκεῖς σοφίαν περιποιεῖν, καὶ τράγος εὐπώγων αἶψ’ ὅλος ἐστὶ Πλάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.431.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Εἰ ταχὺς εἰς τὸ φαγεῖν καὶ πρὸς δρόμον ἀμβλὺς ὑπάρχεις, τοῖς ποσί σου τρῶγε καὶ τρέχε τῷ στόματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.433.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἔσβεσε τὸν λύχνον μῶρος ψυλλῶν ὑπὸ πολλῶν δακνόμενος, λέξας· „Οὐκέτι με βλέπετε.“ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.433.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ζωγράφε, τὰς μορφὰς κλέπτεις μόνον· οὐ δύνασαι δὲ φωνὴν συλῆσαι χρώματι πειθόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.434.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Ἢν ἐσίδῃς κεφαλὴν μαδαρὰν καὶ στέρνα καὶ ὤμους, μηδὲν ἐρωτήσῃς· μῶρον ὁρᾷς φαλακρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.435.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Θαυμάζειν μοι ἔπεισιν, ὅπως Βύτος ἐστὶ σοφιστὴς οὔτε λόγον κοινὸν οὔτε λογισμὸν ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11.436.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Θᾶττον ἔην λευκοὺς κόρακας πτηνάς τε χελώνας εὑρεῖν ἢ δόκιμον ῥήτορα Καππαδόκην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16.154.(p1)",
+      "text": "[ΛΟΥΚΙΑΝΟΥ, οἱ δὲ] ΑΡΧΙΟΥ Ἠχὼ πετρήεσσαν ὁρᾷς, φίλε, Πανὸς ἑταίρην, ἀντίτυπον φθογγὴν ἔμπαλιν ᾀδομένην, παντοίων στομάτων λάλον εἰκόνα, ποιμέσιν ἡδὺ παίγνιον. ὅσσα λέγεις, ταῦτα κλύων ἄπιθι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16.163.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Τὴν Παφίην γυμνὴν οὐδεὶς ἴδεν· εἰ δέ τις εἶδεν, οὗτος ὁ τὴν γυμνὴν στησάμενος Παφίην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16.164.(p1)",
+      "text": "ΤΟΥ ΑΥΤΟΥ Σοὶ μορφῆς ἀνέθηκα τεῆς περικαλλὲς ἄγαλμα, Κύπρι, τεῆς μορφῆς φέρτερον οὐδὲν ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16.238.(p1)",
+      "text": "ΛΟΥΚΙΑΝΟΥ Εἰς τὸ κενόν με τέθεικε, νόμου χάριν, ὧδε Πρίηπον Εὐστοχίδης ξηρῶν κληματίδων φύλακα· καὶ περιβέβλημαι κρημνὸν βαθύν. ὃς δ’ ἂν ἐπέλθῃ, οὐδὲν ἔχει κλέψαι πλὴν ἐμὲ τὸν φύλακα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ab",
+      "title": {
+        "english": "Charidemos or-Beauty",
+        "ancient_greek": "Χαρίδημος ἢ Περὶ Κάλλους"
+      },
+      "url_slug": "pseudo-lucian-charidemos-beauty-qeu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/charidemos-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ai",
+      "title": {
+        "english": "Cynic",
+        "ancient_greek": "Κυνικός"
+      },
+      "url_slug": "pseudo-lucian-cynic-qeu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/cynic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ag",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "pseudo-lucian-epigrams-ag-qeu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-aj",
+      "title": {
+        "english": "Loves",
+        "ancient_greek": "Ἔρωτες"
+      },
+      "url_slug": "pseudo-lucian-loves-qeu-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/loves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-aa",
+      "title": {
+        "english": "Philopatris or The Student",
+        "ancient_greek": "Φιλόπατρις ἢ Διδασκόμενος"
+      },
+      "url_slug": "pseudo-lucian-philopatris-qeu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/philopatris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ae",
+      "title": {
+        "english": "Swift-Footed",
+        "ancient_greek": "Ὠκύπους"
+      },
+      "url_slug": "pseudo-lucian-swift-footed-qeu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/swift-footed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ac",
+      "title": {
+        "english": "encom of Demosthenes",
+        "ancient_greek": "Δημοσθένους Ἐγκώμιον"
+      },
+      "url_slug": "pseudo-lucian-encomium-qeu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/encomium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qwm-aq",
+      "title": {
+        "english": "Funeral Oration for Eteoneus",
+        "ancient_greek": "εἰς Ἐτεωνέα ἐπικήδειος"
+      },
+      "url_slug": "aristides-the-orator-funeral-eteoneus-qwm-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/funeral-eteoneus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/funeral-eteoneus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/funeral-eteoneus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/funeral-eteoneus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/funeral-eteoneus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bc",
+      "title": {
+        "english": "Judgment of the Gods",
+        "ancient_greek": "Θεῶν Κρίσις"
+      },
+      "url_slug": "lucian-of-samosata-judgment-gods-pfk-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/judgment-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.json"
+      }
+    },
+    {
+      "eul_wid": "eym-ac",
+      "title": {
+        "english": "On His Own Descent",
+        "ancient_greek": "Περὶ τῆς ἑαυτοῦ καθόδου"
+      },
+      "url_slug": "andocides-descent-eym-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/descent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-av",
+      "title": {
+        "english": "On Modes",
+        "ancient_greek": "Περὶ τρόπων"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-modes-rhg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/modes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-af",
+      "title": {
+        "english": "On the Four Parts of Perfect Speech",
+        "ancient_greek": "Περὶ τῶν τεσσάρων μερῶν τοῦ τελείου λόγου"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-four-parts-speech-rhg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/four-parts-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/four-parts-speech.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/four-parts-speech.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/four-parts-speech.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/four-parts-speech.json"
+      }
+    },
+    {
+      "eul_wid": "bqs-ab",
+      "title": {
+        "english": "On the Murder of Herodes",
+        "ancient_greek": "Περὶ τοῦ Ἡρῷδου φόνου"
+      },
+      "url_slug": "antiphon-of-athens-murder-herodes-bqs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/murder-herodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/murder-herodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/murder-herodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/murder-herodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/murder-herodes.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bl",
+      "title": {
+        "english": "On the Paraphrase",
+        "ancient_greek": "Περὶ τοῦ παραφθέγματος"
+      },
+      "url_slug": "aristides-the-orator-paraphrase-qwm-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/paraphrase.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/paraphrase.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/paraphrase.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/paraphrase.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-cc",
+      "title": {
+        "english": "Rhodian",
+        "ancient_greek": "Ῥοδιακός"
+      },
+      "url_slug": "aristides-the-orator-rhodes-qwm-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/rhodes.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-af",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

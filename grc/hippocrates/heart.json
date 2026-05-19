@@ -1,0 +1,447 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bww-bm",
+  "eul_aid": "bww",
+  "author_slug": "hippocrates",
+  "work_slug": "heart",
+  "url_slug": "hippocrates-heart-bww-bm",
+  "author": {
+    "english": "Hippocrates and the Hippocratic Corpus",
+    "ancient_greek": "Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα"
+  },
+  "title": {
+    "english": "On the Heart",
+    "ancient_greek": "Περὶ Καρδίας"
+  },
+  "seo": {
+    "browser_title": "On the Heart by the Hippocratic Corpus on Eulogikon",
+    "meta_title": "On the Heart by Hippocratic Corpus in Ancient Greek",
+    "meta_description": "On the Heart is a Hippocratic treatise on cardiac anatomy. It represents early Greek science. Read free in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Heart</strong> is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings associated with the name of Hippocrates. While traditionally ascribed to Hippocrates himself, modern scholarship attributes it to an unknown physician or physicians working within the Hippocratic tradition, most likely during the 4th or 3rd century BCE. Composed in Ionic Greek, the treatise comprises twelve sections and stands as one of the earliest surviving attempts at a detailed anatomical description of the heart. The text systematically outlines the organ&#x27;s structure, identifying its ventricles, atria—which it terms &quot;ears&quot;—the pericardial sac, and the major blood vessels. Among its most notable contributions is an early recognition of the cardiac valves, described as &quot;narrow-mouthed vessels&quot; that function to prevent the backward flow of blood. The author also advances a physiological theory for the pulse, proposing that it results from the heart&#x27;s innate heat vaporizing the blood and thereby causing the arteries to expand. Reflecting the broader Hippocratic emphasis on direct observation and naturalistic explanation, the work appears to have been intended for an audience of fellow medical practitioners and students. The complete text has been preserved through the medieval manuscript tradition of the Hippocratic Corpus and is considered a genuine component of the collection, surviving in full in manuscripts dating from the 10th century CE onward.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Καρδίη σχῆμα μὲν ὁκοίη πυραμὶς, χροιὴν δὲ κατακορὴς φοινικέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Καὶ περιβεβλέαται χιτῶνα λεῖον· καὶ ἔστιν ἐν αὐτέῳ ὑγρὸν σμικρὸν ὁποῖον οὖρον, ὥστε δόξεις ἐν κύστει τὴν καρδίην ἀναστρέφεσθαι· γεγένηται δὲ τούτου ἕνεκα, ὅκως ἅλληται ῥωσκομένως ἐν φυλακῇ· ἔχει δὲ τὸ ὕγρασμα ὁκόσον μάλιστα καὶ πυρευμένῃ ἄκος. Τοῦτο δὲ τὸ ὑγρὸν διοῤῥοῖ ἡ καρδίη πίνουσα, ἀναλαμβανομένη καὶ ἀναλίσκουσα, λάπτουσα τοῦ πνεύμονος τὸ ποτόν. Πίνει γὰρ ὥνθρωπος τὸ μὲν πολλὸν ἐς νηδύν· ὁ γὰρ στόμαχος ὁκοῖον χῶνος, καὶ ἐκδέχεται τὸ πλῆθος καὶ ἅσσα προσαιρόμεθα· πίνει δὲ καὶ ἐς φάρυγγα, τυτθὸν δὲ οἷον καὶ ὁκόσον ἂν λάθοι διὰ ῥύμης ἐσρυέν· πῶμα γὰρ ἀτρεκὲς ἡ ἐπιγλωσσὶς, κἂν διήσῃ μεῖζον ποτοῦ οὐδέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Σημήϊον τοῦτο· ἢν γάρ τις κυάνῳ ἢ μίλτῳ φορύξας ὕδωρ δοίη δεδιψηκότι πάνυ πιεῖν, μάλιστα δὲ συῒ, τὸ γὰρ κτῆνος οὐκ ἔστιν ἐπιμελὲς οὐδὲ φιλόκαλον, ἔπειτα δὲ εἰ ἔτι πίνοντος ἀνατέμνοις τὸν λαιμὸν, εὕροις ἂν τοῦτον κεχρωσμένον τῷ ποτῷ· ἀλλ’ οὐ παντὸς ἀνδρὸς ἡ χειρουργία. Οὔκουν ἀπιστητέον ἡμῖν περὶ τοῦ ποτοῦ, εἰ εὐτρεπίζει τὴν σύριγγα τῷ ἀνθρώπῳ. Ἀλλὰ πῶς ὕδωρ ἀνέδην ἐνοροῦον ὄχλον καὶ βῆχα παρέχει πουλλήν; οὕνεκα, φημὶ, ἀπάντικρυ τῆς ἀναπνοῆς φέρεται. Τὸ γὰρ διὰ τῆς ῥύμης ἐσρέον, ἅτε παρὰ τυτθὸν ἰὸν, οὐκ ἐνίσταται τῇ ἀναφορῇ τοῦ ἠέρος, ἀλλά τινα καὶ λείην ὁδόν οἱ παρέχει ἡ ἐπίτεγξις· τοῦτο δὲ τὸ ὑγρὸν ἀπάγει τοῦ πνεύμονος ἅμα τῷ ἠέρι. Τὸν μὲν οὖν ἠέρα χρὴ, γενόμενον θεραπείην, ἀνάγκῃ ὀπίσω τὴν αὐτὴν ὁδὸν ἐκβάλλειν ἔνθεν ἤγαγεν· τὸ δ’ ὑγρὸν, τὸ μὲν εἰς τὸν κουλεὸν αὐτέης ἀποπτύει, τὸ δ’ αὖ ξὺν τῷ ἠέρι θύραζε χωρέειν ἐῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ταύτῃ καὶ διαίρει τὸν οὐρανὸν, ὁκόταν παλινδρομέῃ τὸ πνεῦμα· παλινδρομέει δὲ κατὰ δίκην· οὐ γὰρ ἔστιν ἀνθρώπου φύσιος τροφὴ ταῦτα· κῶς γὰρ ἀνθρώπου τροφὴ ἄνεμος καὶ ὕδωρ τὰ ὠμά; ἀλλὰ μᾶλλον τιμωρίη ξυγγενέος πάθης. Περὶ δὲ οὗ ὁ λόγος, ἡ καρδίη μῦς ἐστι κάρτα ἰσχυρὸς, οὐ τῷ νεύρῳ, ἀλλὰ πιλήματι σαρκός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Καὶ δύο γαστέρας ἔχει διακεκριμένας ἐν ἑνὶ περιβόλῳ, τὴν μὲν ἔνθα, τὴν δὲ ἔνθα· οὐδὲν δὲ ἐοίκασιν ἀλλήλῃσιν· ἡ μὲν γὰρ ἐν τοῖσι δεξιοῖσιν ἐπὶ στόμα κέεται ὁμιλέουσα τῇ ἑτέρῃ [φλεβὶ], ἡ δὲ δεξιὴ φημὶ τῶν ἐν λαιοῖς· ἡ γὰρ πᾶσα καρδίη τουτέοισι τὴν ἕδρην ἐμπεποίηται· ἀτὰρ ἥδε καὶ πάμπαν εὐρυκοίλιος καὶ λαγαρωτέρη πολλῷ τῆς ἑτέρης, οὐδὲ τῆς καρδίης νέμεται τὴν ἐσχατιὴν, ἀλλ’ ἐγκαταλείπει τὸν οὐραχὸν στερεὸν, καί ἐστιν ὥσπερ ἔξωθεν προσεῤῥαμμένη. Ἡ δὲ ἑτέρη κέεται ὑπένερθεν μὲν μάλιστα, καὶ κατ’ ἰθυωρίην μάλιστα μὲν μαζῷ ἀριστερῷ, ὅπη καὶ διασημαίνει τὸ ἅλμα. Περίβολον δὲ ἔχει παχὺν, καὶ βόθρον ἐμβεβόθρωται τὸ εἶδος εἴκελον ὅλμῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ἀλλὰ γὰρ ἤδη καὶ τοῦ πνεύμονος ἐνδύεται μετὰ προσηνίης, καὶ κολάζει τὴν ἀκρασίην τοῦ θερμοῦ περιβαλλομένη· ὁ γὰρ πνεύμων φύσει ψυχρός· ἀτὰρ καὶ ψυχόμενος τῇ εἰσπνοῇ. Ἄμφω γε μὴν δασεῖαι τὰ ἔνδον καὶ ὥσπερ ὑποδιαβεβρωμέναι, καὶ μᾶλλον τῆς δεξιῆς ἡ λαιή· τὸ γὰρ ἔμφυτον πῦρ οὐκ ἐν τῇ δεξιῇ, ὥστε οὐ θαῦμα τρηχυτέρην γενέσθαι τὴν λαιὴν ἐσπνέουσαν ἀκρήτου· ταύτῃ καὶ παχετὸν ἐνδεδόμηται φυλακῆς εἵνεκα τῆς ἰσχύος τοῦ θερμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Στόματα δ’ αὐτέῃσιν οὐκ ἀνεώγασιν, εἰ μή τις ἀποκείρει τῶν οὐάτων τὴν κορυφὴν καὶ τῆς καρδίης τὴν κεφαλήν· ἢν δ’ ἀποκείρῃ, φανήσεται καὶ δισσὰ στόματα ἐπὶ δυσὶ γαστέροιν· ἡ γὰρ παχείη φλὲψ ἐκ μιῆς ἀναθέουσα, πλανᾷ τὴν ὄψιν, ἢν ἀνατμηθῇ. Αὗται πηγαὶ φύσιος ἀνθρώπου, καὶ οἱ ποταμοὶ ἐνταῦθα ἀνὰ τὸ σῶμα, τοῖσιν ἄρδεται τὸ σκῆνος, οὗτοι δὲ καὶ τὴν ζωὴν φέρουσι τῷ ἀνθρώπῳ, κἢν αὐανθέωσιν, ἀπέθανεν ὥνθρωπος. Ἀγχοῦ δὲ τῆς ἐκφύσιος τῶν φλεβῶν σώματα τῇσι κοιλίῃσιν ἀμφιβεβήκασι, μαλθακὰ, σηραγγώδεα, ἃ κληΐσκεται μὲν οὔατα, τρήματα δὲ οὐκ ἔστιν οὐάτων· ταῦτα γὰρ οὐκ ἐνακούουσιν ἰαχῆς· ἔστι δὲ ὄργανα τοῖσιν ἡ φύσις ἁρπάζει τὸν ἠέρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Καίτοι δοκέω τὸ ποίημα χειρώνακτος ἀγαθοῦ· κατασκεψάμενος γὰρ σχῆμα στερεὸν ἐσόμενον τὸ σπλάγχνον διὰ τὸ πιλητικὸν τοῦ ἐγχύματος, ἔπειτα πᾶν ἐὸν ἑλκτικὸν, παρέθηκεν αὐτέῳ φύσας, καθάπερ τοῖσι χοάνοισιν οἱ χαλκέες, ὥστε διὰ τουτέων χειροῦται τὴν πνοήν. Τεκμήριον δὲ τοῦ λόγου· τὴν μὲν γὰρ καρδίην ἴδοις ἂν ῥιπταζομένην οὐλομελῆ, τὰ δὲ οὔατα κατ’ ἰδίην ἀναφυσώμενά τε καὶ ξυμπίπτοντα. Διὰ τοῦτο δέ φημι καὶ φλεβία μὲν ἐργάζεται τὴν ἀναπνοὴν ἐς τὴν ἀριστερὴν κοιλίην, ἀρτηρίη δ’ ἐς τὴν ἄλλην· τὸ γὰρ μαλακὸν ἑλκτικώτερον καὶ ἐπιδόσιας ἔχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Ἔχρη δὲ ἡμῖν μᾶλλον τὰ ἐπικείμενα τῆς καρδίης διαψύχεσθαι· βέβλαπται ἔς τι γὰρ τὸ θερμὸν ἐν τοῖσι δεξιοῖσιν, ὥστε διὰ τὴν πάθην οὐκ ἔλαβεν εὐπετὲς ὄργανον, ἵνα μὴ πάμπαν κρατηθῇ ὑπὸ τοῦ ἐσιόντος. Λοιπός ἐστιν ὁ λόγος ὁ τῆς καρδίης ὑμένες ἀφανέες, ἔργον ἀξιαπηγητότατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ὑμένες γὰρ καὶ ἄλλοι τινὲς ἐν τῇσι κοιλίῃσιν ὁκοῖον ἀράχναι διαπετέες ζώσαντες πάντη τὰ στόματα, κτηδόνας ἐμβάλλουσιν ἐς τὴν στερεὴν καρδίην. Οὗτοί μοι δοκέουσιν οἱ τόνοι τοῦ σπλάγχνου καὶ τῶν ἀγγείων, ἀρχαὶ τῇσιν ἀορτῇσιν. Ἔστι δὲ αὐτέων ζεῦγος, ᾧ θύραισι μεμηχάνηνται τρεῖς ὑμένες ἑκάστῃ, περιφερέες ἐξ ἄκρου περ ὁκόσον ἡμίτομα κύκλου, οἵ τε ξυνιόντες θαυμάσιον ὡς κλείουσι τὰ στόματα, τῶν ἀορτέων πέρας· καὶ τὴν καρδίην ἀποθανόντος ἤν τις ἐξεπιστάμενος τὸν ἀρχαῖον κόσμον ἀφελὼν, τῶνδε τὸν μὲν ἀποστήσῃ, τὸν δὲ ἐπανακλίνῃ, οὔτε ὕδωρ ἂν διέλθοι εἰς τὴν καρδίην οὔτε φῦσα ἐμβαλλομένη· καὶ μᾶλλον τῶν τῆς ἀριστερῆς· τοιγὰρ ἐμηχανήθησαν ἀτρεκέστερον κατὰ δίκην· γνώμη γὰρ ἡ τοῦ ἀνθρώπου πέφυκεν ἐν τῇ λαιῇ κοιλίῃ, καὶ ἄρχει τῆς ἄλλης ψυχῆς. Τρέφεται δὲ οὔτε σιτίοισιν οὔτε ποτοῖσι τοῖσιν ἀπὸ τῆς νηδύος, ἀλλὰ καθαρῇ καὶ φωτοειδεῖ περιουσίῃ γεγονυίῃ ἐκ τῆς διακρίσιος τοῦ αἵματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Εὐπορέει δὲ τὴν τροφὴν ἐκ τῆς ἔγγιστα δεξαμένης τοῦ αἵματος, διαβάλλουσα τὰς ἀκτῖνας, καὶ νεμομένη ὥσπερ ἐκ νηδύος καὶ ἐντέρων τὴν τροφὴν, καὶ τοῦτο κατὰ φύσιν· ὅκως δὲ μὴ ἀνακωχῇ τὸ σιτίον τὰ ἐνεόντα ἐν τῇ ἀρτηρίῃ ἐν ζάλῃ ἐὸν, ἀποκλείει τὴν ἐπ’ αὐτὴν κέλευθον· ἡ γὰρ μεγάλη ἀρτηρίη βόσκεται τὴν γαστέρα καὶ τὰ ἔντερα, καὶ γέμει τροφῆς οὐχ ἡγεμονικῆς. Ὅτι δὲ οὐ τρέφεται βλεπομένῳ αἵματι δῆλον ὧδε· ἀποσφαγέντος τοῦ ζώου, σχισθείσης τῆς ἀριστερῆς κοιλίης, ἐρημίη φαίνεται πᾶσα, πλὴν ἰχῶρός τινος καὶ χολῆς ξανθῆς καὶ τῶν ὑμενέων, περὶ ὧν ἤδη μοι πέφανται· ἡ δὲ ἀρτηρίη οὐ λειφαιμοῦσα, οὐδὲ ἡ δεξιὴ κοιλίη. Τουτέῳ μὲν οὖν τῷ ἀγγείῳ κατ’ ἐμὸν νόον ἥδε ἡ πρόφασις τῶν ὑμένων. Τὸ δ’ αὖ φερόμενον ἐκ τῆς δεξιῆς, ζυγοῦται μὲν καὶ τοῦτο τῇ ξυμβολῇ τῶν ὑμένων, πλὴν οὐ κάρτα ἔθρωσκεν ὑπὸ ἀσθενείης· ἀλλ’ ἀνοίγεται μὲν ἐς πνεύμονα, ὡς αἷμα παρασχεῖν αὐτῷ εἰς τὴν τροφὴν, κλείεται δὲ ἐς τὴν καρδίην οὐχ ἁρμῷ, ὅκως ἐσίῃ μὲν ὁ ἠὴρ, οὐ πάνυ δὲ πουλύς· ἀσθενὲς γὰρ ἐνταῦθα τὸ θερμὸν, δυναστευόμενον κρήματι ψυχροῦ· τὸ αἷμα γὰρ οὐκ ἐστὶ τῇ φύσει θερμὸν, οὐδὲ γὰρ ἄλλο τι ὕδωρ, ἀλλὰ θερμαίνεται· δοκέει δὲ τοῖσι πολλοῖσι φύσει θερμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Περὶ δὲ καρδίης τοιαῦτα εἰρήσθω.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bww-bq",
+      "title": {
+        "english": "Aphorisms",
+        "ancient_greek": "Ἀφορισμοί"
+      },
+      "url_slug": "hippocrates-aphorisms-bww-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cc",
+      "title": {
+        "english": "Carrier",
+        "ancient_greek": "Φορεύς"
+      },
+      "url_slug": "hippocrates-carrier-bww-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.json"
+      }
+    },
+    {
+      "eul_wid": "bww-aw",
+      "title": {
+        "english": "Coan Prognostics",
+        "ancient_greek": "Κῶα Προγνωστικά"
+      },
+      "url_slug": "hippocrates-coan-prognostics-bww-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/coan-prognostics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bra",
+      "title": {
+        "english": "Epidemics, Book I",
+        "ancient_greek": "Ἐπιδημίων Α"
+      },
+      "url_slug": "hippocrates-epidemics-1-bww-bra",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brb",
+      "title": {
+        "english": "Epidemics, Book II",
+        "ancient_greek": "Ἐπιδημίων Β"
+      },
+      "url_slug": "hippocrates-epidemics-2-bww-brb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brc",
+      "title": {
+        "english": "Epidemics, Book III",
+        "ancient_greek": "Ἐπιδημίων Γ"
+      },
+      "url_slug": "hippocrates-epidemics-3-bww-brc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brd",
+      "title": {
+        "english": "Epidemics, Book IV",
+        "ancient_greek": "Ἐπιδημίων Δ"
+      },
+      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bre",
+      "title": {
+        "english": "Epidemics, Book V",
+        "ancient_greek": "Ἐπιδημίων Ε"
+      },
+      "url_slug": "hippocrates-epidemics-5-bww-bre",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brf",
+      "title": {
+        "english": "Epidemics, Book VI",
+        "ancient_greek": "Ἐπιδημίων Ζ"
+      },
+      "url_slug": "hippocrates-epidemics-6-bww-brf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brg",
+      "title": {
+        "english": "Epidemics, Book VII",
+        "ancient_greek": "Ἐπιδημίων Η"
+      },
+      "url_slug": "hippocrates-epidemics-7-bww-brg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vjk-ad",
+      "title": {
+        "english": "Fragments of Anatolius-Oxen",
+        "ancient_greek": "Ἀποσπάσματα Ἀνατολίου περὶ βοῶν"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-anatolius-oxen-vjk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-oxen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ae",
+      "title": {
+        "english": "Fragments on Democritus and Magic",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημόκριτου καὶ Μαγικῆς"
+      },
+      "url_slug": "bolus-of-mendes-democritus-magic-kzk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/democritus-magic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.json"
+      }
+    },
+    {
+      "eul_wid": "omy-ad",
+      "title": {
+        "english": "On Bandages",
+        "ancient_greek": "Περὶ Ἐπιδέσμων"
+      },
+      "url_slug": "soranus-of-ephesus-bandages-omy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/bandages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-db",
+      "title": {
+        "english": "On Bones for Beginners",
+        "ancient_greek": "Περὶ τῶν ὀστέων τοῖς νεοφύτοις"
+      },
+      "url_slug": "galen-of-pergamon-bones-beginners-qmm-db",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/bones-beginners",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/bones-beginners.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/bones-beginners.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/bones-beginners.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/bones-beginners.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ac",
+      "title": {
+        "english": "On Satyriasis and Gonorrhea",
+        "ancient_greek": "Περὶ Σατυριάσεως καὶ Γονορροίας"
+      },
+      "url_slug": "rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ah",
+      "title": {
+        "english": "On the Best Sect to Thrasybulus",
+        "ancient_greek": "Περὶ τῆς Ἀρίστης Αἱρέσεως πρὸς Θρασύβουλον"
+      },
+      "url_slug": "anonymous-medical-writer-best-sect-tqu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/best-sect",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/best-sect.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/best-sect.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/best-sect.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/best-sect.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ad",
+      "title": {
+        "english": "On the Shoulder Dislocated in Ways Hippocrates Did Not See",
+        "ancient_greek": "Περὶ τοῦ ὤμου τοῖς τρόποις ἐκπεπτωκότος οὓς"
+      },
+      "url_slug": "galen-of-pergamon-shoulder-dislocated-qmm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/shoulder-dislocated",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/shoulder-dislocated.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/shoulder-dislocated.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/shoulder-dislocated.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/shoulder-dislocated.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-av",
+      "title": {
+        "english": "That the Best Doctor is Also a Philosopher",
+        "ancient_greek": "Ὅτι ὁ ἄριστος ἰατρὸς καὶ φιλόσοφος ἐστίν"
+      },
+      "url_slug": "galen-of-pergamon-best-doctor-philosopher-qmm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/best-doctor-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctor-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctor-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctor-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctor-philosopher.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippocrates/heart",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/heart.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/heart.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/heart.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/heart.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

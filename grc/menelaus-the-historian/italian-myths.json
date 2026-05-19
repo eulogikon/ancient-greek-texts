@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "njs-aa",
+  "eul_aid": "njs",
+  "author_slug": "menelaus-the-historian",
+  "work_slug": "italian-myths",
+  "url_slug": "menelaus-the-historian-italian-myths-njs-aa",
+  "author": {
+    "english": "Menelaus the Historian",
+    "ancient_greek": "Μενέλαος ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Italian Myths",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλικῶν Μύθων"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Menelaus the Historian on Eulogikon",
+    "meta_title": "Ancient Fragments on Italian Myths by Menelaus in Greek",
+    "meta_description": "Menelaus the Historian examines Italian mythological traditions through fragmentary accounts that blend Greek and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Italian Myths</strong> is a lost prose work attributed to the obscure Menelaus the Historian. It is known only from a bibliographical entry in the 10th-century Byzantine encyclopedia, the <strong>Suda</strong>, which lists it as a work in two books. No quotations or summaries of its content survive. Based on its title, the work was a compilation of mythological narratives related to Italy, likely treating foundational and etiological myths of Italian locales, legends of indigenous heroes and divine figures, and antiquarian lore concerning local cults and customs. The work is entirely lost, with no surviving manuscript tradition or papyrus fragments; its existence is attested solely by its title in the <strong>Suda</strong>. It exemplifies the interest of Greek historians and ethnographers in the origins and traditions of Italy, particularly during the Hellenistic or Roman Imperial periods. Its structure as &quot;fragments&quot; suggests it was a compendium drawn from earlier sources, compiled for a Greek-speaking audience interested in Italian antiquities.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΙΤΑΛΙΚΑ. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Plutarch. Par. min. c. 26: Σεπτίμιος Μάρκελλος γήμας Σιλουΐαν, τὰ πολλὰ κυνηγίῳ προσέκειτο· τὴν δὲ νεόνυμφον ἐν σχήματι ποιμένος Ἄρης βιασάμενος, ἐγκύμονα ἐποίησε, καὶ ὡμολόγησεν, ὅστις ἦν, καὶ δόρυ ἔδωκε, τὴν γένεσιν τοῦ μέλλοντος τίκτεσθαι φάσκων ἐν αὐτῷ ἀποκεῖσθαι. Ἀπέκτεινε γοῦν Σεπτίμιος· Τουσκῖνον. Μάμερκος δὲ ὑπὲρ εὐκαρπίας θύων θεοῖς, μόνης ἠμέλησε Δήμητρος. Ἡ δὲ κάπρον ἔπεμψε. Συναθροίσας δὲ πολλοὺς ἐκεῖνος κυνηγέτας ἀνεῖλε, καὶ τὴν κεφαλὴν καὶ τὸ δέρος τῇ κατηγγυημένῃ γυναικὶ κατεχώρησε. Σκυμβράτης δὲ καὶ Μουθίας οἱ μητράδελφοι περιείλοντο τῆς κόρης. Ἀγανακτήσας δ’ ἀνεῖλε τοὺς συγγενεῖς· ἡ δὲ μήτηρ τὸ δόρυ κατέκαυσεν· ὡς Μένυλλος ἐν τρίτῳ Ἰταλικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t2",
+      "text": "ΒΟΙΩΤΙΑΚΑ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem ibid. c. 14: Ἐν Αὐλίδι τῆς Βοιωτίας τὰ περὶ Ἰφιγένειαν ὁμοίως ἱστορεῖ Μέρυλλος ἐν πρώτῳ Βοιωτιακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Strabo XV: Μέγιλλος (Μένυλλος?) δὲ τὴν ὀρύζαν σπείρεσθαι μὲν πρὸ τῶν ὄμβρων φησὶν, ἀρδείας δὲ καὶ φυτείας δεῖσθαι ἀπὸ τῶν κλειστῶν ποτιζομένην ὑδάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fxw-aa",
+      "title": {
+        "english": "Argolic and River Lore Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.json"
+      }
+    },
+    {
+      "eul_wid": "cmq-aa",
+      "title": {
+        "english": "Fragments on Icarus and Wine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου"
+      },
+      "url_slug": "eparchides-of-oineis-icarus-wine-cmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.json"
+      }
+    },
+    {
+      "eul_wid": "bta-ab",
+      "title": {
+        "english": "Fragments on the Orestes Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Μύθου Ὀρέστου"
+      },
+      "url_slug": "dinias-of-argos-orestes-fragments-bta-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/orestes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kci-ab",
+      "title": {
+        "english": "Hymn to Demeter of Hermione",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "aristocles-the-paradoxographer-hymn-demeter-hermione-kci-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocles-the-paradoxographer/hymn-demeter-hermione",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/hymn-demeter-hermione.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/hymn-demeter-hermione.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/hymn-demeter-hermione.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-the-paradoxographer/hymn-demeter-hermione.json"
+      }
+    },
+    {
+      "eul_wid": "vli-aa",
+      "title": {
+        "english": "On Julian's Persian Campaign",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "magnus-the-historian-julian-persian-campaign-vli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnus-the-historian/julian-persian-campaign",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnus-the-historian/julian-persian-campaign.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnus-the-historian/julian-persian-campaign.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnus-the-historian/julian-persian-campaign.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnus-the-historian/julian-persian-campaign.json"
+      }
+    },
+    {
+      "eul_wid": "ikc-aa",
+      "title": {
+        "english": "On Piety and Celestial Portents",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "deimachus-of-plataea-ii-piety-portents-ikc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/deimachus-of-plataea-ii/piety-portents",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii/piety-portents.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii/piety-portents.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii/piety-portents.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-ii/piety-portents.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ah",
+      "title": {
+        "english": "On the Ancient Orators",
+        "ancient_greek": "Περὶ τῶν ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ancient-orators-ndy-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ancient-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.json"
+      }
+    },
+    {
+      "eul_wid": "aim-aa",
+      "title": {
+        "english": "Peloponnesian Histories Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pyrander-the-historian-peloponnesian-histories-aim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pyrander-the-historian/peloponnesian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menelaus-the-historian/italian-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian/italian-myths.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian/italian-myths.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian/italian-myths.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menelaus-the-historian/italian-myths.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

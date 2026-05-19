@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "awi-aa",
+  "eul_aid": "awi",
+  "author_slug": "pythaenetus-the-historian",
+  "work_slug": "aegina-fragments",
+  "url_slug": "pythaenetus-the-historian-aegina-fragments-awi-aa",
+  "author": {
+    "english": "Pythaenetus the Historian",
+    "ancient_greek": "Πυθαίνετος ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Aeginetica: Fragments on Aegina",
+    "ancient_greek": "Ἀποσπάσματα περὶ Αἰγίνης"
+  },
+  "seo": {
+    "browser_title": "Aeginetica by Pythaenetus the Historian on Eulogikon",
+    "meta_title": "Ancient Aeginetica by Pythaenetus the Historian in Greek",
+    "meta_description": "Fragments of the Aeginetica by Pythaenetus on Aegina's history. A prose work of local history. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Aeginetica</strong> by Pythaenetus the Historian is a lost prose work of Greek local history concerning the island of Aegina. It survives only in a handful of brief fragments preserved as quotations in later lexicographical and geographical sources, primarily Hesychius of Alexandria and Stephanus of Byzantium. These fragments, often just single words or phrases with glosses, provide minimal insight into the original scope of the work. Based on the extant fragments and the conventions of its genre, the work’s content likely included topography and place names, explanations of local lexicon and customs, and local mythology and historical traditions, presumably including narratives about the island’s foundation and its early rulers. The work is transmitted exclusively through fragments compiled in Felix Jacoby’s <strong>Die Fragmente der griechischen Historiker</strong>, having been cited by later grammarians and encyclopedists with no independent manuscript tradition. The <strong>Aeginetica</strong> is typical of many local histories that were mined as sources for rare words and antiquarian data but did not survive intact. Its fragments contribute to the modern study of the genre of Greek local history and offer specific, if minor, data points regarding the island of Aegina.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-5",
+      "text": "ΑΙΓΙΝΗΤΙΚΑ. E LIBRO PRIMO. Tzetzes ad Lyc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "175: Ἡ αἴγινα πρότερον Οἰνώνη ἐλέγετο ἀπὸ Οἰνώνης τῆς Βουδίωνος θυγατρὸς, καθά φησι Πυθαίνετος ἐν τῷ πρώτῳ τῶν Αἰγινητικῶν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Pind. Nem. VI, 63: [ Βασσίδαισι ν ] Ὁ Δίδυμός φησι· Προσήκει γράφειν Βουδίδαι· γενέσθαι γάρ τινα Βουδίωνα ἐν Αἰγίνῃ, ἀφ’ οὗ κατάγεσθαι γενεὰν τὴν Βουδιδῶν· μνημονεύειν δέ φασι (φησι?) τοῦ Βουδίωνος Πυθαίνετον ἐν πρώτῳ Αἰγινητικῶν γράφοντα οὕτως· «Περὶ δὲ ταῦτα τούτων λεγομένων λέγεται Βουδίωνα τυγχάνειν διηνεγμένον πρὸς Οἰνώνην τὴν ἑαυτοῦ θυγατέρα.» Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Apoll. Rh. IV, 1712: Νῆσος ἡ Ἱππουρὶς πλησίον Θήρας. Μνημονεύει δὲ αὐτῆς καὶ Τιμοσθένης, καὶ Πυθαίνετος ἐν πρώτῳ Περὶ Αἰγίνης. Sch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Pind. Ol. IX, 107: Πυθαίνετος δὲ Διὶ συνελθοῦσαν Αἴγιναν γεννῆσαι Αἰακὸν καὶ Δαμοκράτειαν, ἣν γαμηθῆναι Ἄκτορι ἐν Θεσσαλίᾳ καὶ τεκεῖν Μενοίτιον· ὕστερον δὲ τοῦτον εἰς Ὀποῦντα ἐλθεῖν. Συγγενὴς γὰρ ὑπῆρχε τοῦ Λοκροῦ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Pind. Nem. V, 81: Παρ’ Αἰγινήταις Δελφίνιος μεὶς ἄγεται Δελφινίου Ἀπόλλωνος ἱερὸς, ἐν ᾧ ἴσως φησὶ γεγενῆσθαι τὰ Νέμεα. Πεφιλῆσθαι γάρ φησι τὸν μῆνα τοῦτον ὑπὸ τοῦ Ἀπόλλωνος. Καὶ εἴη ἂν ὁ μὴν οὗτος, ἐν ᾧ θύουσιν Αἰγινῆται Ἀπόλλωνι οἰκιστῇ καὶ δωματίτῃ, καθά φησι Πυθαίνετος. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Athenaeus XIII: Πυθαίνετος ἐν τρίτῳ Περὶ Αἰγίνης Περίανδρόν φησιν, ἐξ Ἐπιδαύρου τὴν Προκλέους θυγατέρα Μέλισσαν ἰδόντα, Πελοποννησιακῶς ἠσθημένην (ἀναμπέχονος γὰρ καὶ μονοχίτων ἦν, καὶ ᾠνοχόει τοῖς ἐργαζομένοις), ἐρασθέντα γῆμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ouq-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "clitophon-rhodius-geography-ouq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clitophon-rhodius/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clitophon-rhodius/geography.json"
+      }
+    },
+    {
+      "eul_wid": "fau-aa",
+      "title": {
+        "english": "Fragments on Spartan Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν"
+      },
+      "url_slug": "aristocrates-of-sparta-customs-fau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocrates-of-sparta/customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.json"
+      }
+    },
+    {
+      "eul_wid": "nde-ac",
+      "title": {
+        "english": "Historical Library, Books 21-40",
+        "ancient_greek": "Βιβλιοθήκη Ἱστορική"
+      },
+      "url_slug": "diodorus-of-sicily-historical-library-21-40-nde-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sicily/historical-library-21-40",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily/historical-library-21-40.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily/historical-library-21-40.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily/historical-library-21-40.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sicily/historical-library-21-40.json"
+      }
+    },
+    {
+      "eul_wid": "hey-aa",
+      "title": {
+        "english": "On Cretan Communal Feasts",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dosiadas-of-cydonia-communal-feasts-hey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dosiadas-of-cydonia/communal-feasts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-cydonia/communal-feasts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-cydonia/communal-feasts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-cydonia/communal-feasts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-cydonia/communal-feasts.json"
+      }
+    },
+    {
+      "eul_wid": "jcy-aa",
+      "title": {
+        "english": "On Marvels of Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archelaus-of-chersonesus-marvels-nature-jcy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-of-chersonesus/marvels-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.json"
+      }
+    },
+    {
+      "eul_wid": "lke-ac",
+      "title": {
+        "english": "On the Sacred War at Delphi",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "philochorus-of-athens-sacred-war-delphi-lke-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philochorus-of-athens/sacred-war-delphi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ao",
+      "title": {
+        "english": "Remains of Uncertain Position",
+        "ancient_greek": "Λείψανα Ἀβέβαιου Θέσεως"
+      },
+      "url_slug": "dio-cassius-of-nicaea-uncertain-remains-rhq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.json"
+      }
+    },
+    {
+      "eul_wid": "dca-aa",
+      "title": {
+        "english": "Scythian and Egyptian Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathon-of-samos-scythian-egyptian-histories-dca-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathon-of-samos/scythian-egyptian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pythaenetus-the-historian/aegina-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian/aegina-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian/aegina-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian/aegina-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythaenetus-the-historian/aegina-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

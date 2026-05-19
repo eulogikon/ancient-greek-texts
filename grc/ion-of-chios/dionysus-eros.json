@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ccg-ae",
+  "eul_aid": "ccg",
+  "author_slug": "ion-of-chios",
+  "work_slug": "dionysus-eros",
+  "url_slug": "ion-of-chios-dionysus-eros-ccg-ae",
+  "author": {
+    "english": "Ion of Chios",
+    "ancient_greek": "Ἴων ὁ Χῖος"
+  },
+  "title": {
+    "english": "Fragments on Dionysus and Eros",
+    "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου καὶ Ἔρωτος"
+  },
+  "seo": {
+    "browser_title": "Fragments of Ion of Chios on Dionysus and Eros on Eulogikon",
+    "meta_title": "Fragments on Dionysus and Eros by Ion of Chios in Greek",
+    "meta_description": "Fragments by Ion of Chios on Dionysus and Eros. Philosophical reflections from Classical Greece. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Dionysus and Eros is a lost prose work by the fifth-century BCE poet and author Ion of Chios. It survives only through four brief quotations preserved by later authors, primarily Clement of Alexandria and the Neoplatonist Hermias. These fragments present philosophical speculations that closely link or identify the gods Dionysus and Eros. One fragment states that Eros is the eldest of the immortals and the fundamental binding force of the cosmos, explicitly prioritizing Eros over Chaos as a first principle. Another directly claims that Dionysus is the same as Eros. This syncretic theology, which equates the god of ecstasy with a primordial cosmic principle of love and attraction, represents a notable strand in early Greek religious philosophy. The work has no independent manuscript tradition and is known solely through these indirect testimonia. Its fragments are significant for understanding the intersection of poetic tradition and Presocratic philosophical inquiry, particularly in relation to the cosmologies of Hesiod, Orphic thought, and Empedocles.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit",
+      "text": "INCERTI LOCI",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἄδαμον παῖδα ταυρωπόν, νέον οὐ νέον, ἥδιστον πρόπολον βαρυγδούπων ἐρώτων, οἶνον ἀερσίνοον ἀνθρώπων πρύτανιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "ἀοῖον ἀεροφοίταν ἀστέρα μείναμεν, ἀελίου λευκᾶι πτέρυγι πρόδρομον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "οὐδ’ ὅ γε σῶμα τυπεὶς διφυεῖς τε κόρας ἐπιλάθεται ἀλκᾶς, ἀλλ’ ὀλιγοδρανέων φθογγάζεται· θάνατον δ’ ὅ γε δουλοσύνας προβέβουλε.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ccg-af",
+      "title": {
+        "english": "Foundations of Chios",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ion-of-chios-foundations-ccg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/foundations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/foundations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/foundations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/foundations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/foundations.json"
+      }
+    },
+    {
+      "eul_wid": "ccg-ad",
+      "title": {
+        "english": "Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου"
+      },
+      "url_slug": "ion-of-chios-dionysus-fragments-ccg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ccg-ac",
+      "title": {
+        "english": "Fragments on Heracles and Omphale",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους καὶ Ὀμφάλης"
+      },
+      "url_slug": "ion-of-chios-heracles-omphale-ccg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/heracles-omphale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/heracles-omphale.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/heracles-omphale.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/heracles-omphale.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/heracles-omphale.json"
+      }
+    },
+    {
+      "eul_wid": "ccg-ag",
+      "title": {
+        "english": "On the Triadic Nature of Things",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ion-of-chios-triadic-nature-ccg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/triadic-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/triadic-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/triadic-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/triadic-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/triadic-nature.json"
+      }
+    },
+    {
+      "eul_wid": "ccg-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "ion-of-chios-testimonies-ccg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "ccg-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "ion-of-chios-testimonies-2-ccg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ion-of-chios/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/testimonies-2.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bf",
+      "title": {
+        "english": "Comparison of Agesilaus and Pompey",
+        "ancient_greek": "Ἀγησιλάου καὶ Πομπηΐου σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-pompey-okg-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus-pompey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus-pompey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus-pompey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus-pompey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus-pompey.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ba",
+      "title": {
+        "english": "Eudemian Ethics",
+        "ancient_greek": "Ἠθικὰ Εὐδήμεια"
+      },
+      "url_slug": "aristotle-eudemian-ethics-hgw-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-at",
+      "title": {
+        "english": "Hermetic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "hermetica-fragments-oqk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "anw-aa",
+      "title": {
+        "english": "Letter to Solon",
+        "ancient_greek": "Ἐπιστολή"
+      },
+      "url_slug": "cleobulus-of-lindos-i-letter-to-solon-anw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleobulus-of-lindos-i/letter-to-solon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i/letter-to-solon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i/letter-to-solon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i/letter-to-solon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-i/letter-to-solon.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ab",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-az",
+      "title": {
+        "english": "Spurious",
+        "ancient_greek": "Νόθοι"
+      },
+      "url_slug": "plato-spurious-ffk-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/spurious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/spurious.json"
+      }
+    },
+    {
+      "eul_wid": "avy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "paron-of-miletus-testimony-avy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paron-of-miletus/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paron-of-miletus/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ion-of-chios/dionysus-eros",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ion-of-chios/dionysus-eros.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lke-aa",
+  "eul_aid": "lke",
+  "author_slug": "philochorus-of-athens",
+  "work_slug": "testimonies",
+  "url_slug": "philochorus-of-athens-testimonies-lke-aa",
+  "author": {
+    "english": "Philochorus of Athens",
+    "ancient_greek": "Φιλόχορος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Testimonies by Philochorus of Athens on Eulogikon",
+    "meta_title": "Testimonies by Philochorus of Athens in Ancient Greek",
+    "meta_description": "Fragmentary reference work by Philochorus, preserving evidence on Athenian religion and history. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a fragmentary reference work by the Athenian historian Philochorus, composed in the early Hellenistic period. Unlike a narrative history, it functioned as a collection of individual reports and attested facts pertaining to Athenian institutions, religious practices, and historical events. Its entries, which covered subjects such as the sacred ship Paralos and the judicial appeal process known as ephesis, were compiled from documentary and literary sources to serve as an authoritative resource for scholars and orators. The work survives only in eight quotations preserved within later Roman lexicographical texts and scholia, rendering its original scope and full contents unknown. Modern scholarship interprets the <strong>Testimonies</strong> as part of Philochorus&#x27;s systematic antiquarian project to record and elucidate the traditions, laws, and cultic life of Athens for a contemporary educated audience.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3b,328,T 1",
+      "text": "SUDA s.v. Φιλόχορος· Κύκνου Ἀθηναῖος, μάντις καὶ ἱεροσκόπος. γυνὴ δὲ αὐτῶι ἦν Ἀρχεστράτη. κατὰ δὲ τοὺς χρόνους γέγονεν ὁ Φιλόχορος Ἐρατοσθένους, ὡς ἐπιβαλεῖν πρεσβύτηι νέον ὄντα [Ἐρατοσθένει]· ἐτελεύτησε δὲ ἐνεδρευθεὶς ὑπὸ Ἀντιγόνου, ὅτι διεβλήθη προσκεκλικέναι τῆι Πτολεμαίου βασιλείαι. ἔγραψεν Ἀτθίδος βιβλία ιζ (F 1—71)· περιέχει δὲ τὰς Ἀθηναίων πράξεις καὶ βασιλεῖς καὶ ἄρχοντας ἕως Ἀντιόχου τοῦ †τελευταίου τοῦ προσαγορευθέντος Θεοῦ† (ἔστι δὲ πρὸς Δήμωνα)· Περὶ μαντικῆς δ (F 76—79)· Περὶ θυσιῶν α (F 80—82)· περὶ τῆς Τετραπόλεως (F 73—75)· Σαλαμῖνος κτίσιν· Ἐπιγράμματα Ἀττικά· Περὶ τῶν Ἀθήνησι ἀγώνων [βιβλία ιζ ]· Περὶ τῶν Ἀθήνησιν ἀρξάντων ἀπὸ Σωκρατίδου καὶ μέχρι Ἀπολλοδώρου· Ὀλυμπιάδας ἐν βιβλίοις β · Πρὸς τὴν Δήμωνος Ἀτθίδα (F 72)· Ἐπιτομὴν τῆς ἰδίας Ἀτθίδος· Ἐπιτομὴν τῆς Διονυσίου πραγματείας περὶ ἱερῶν (no. 357)· Περὶ τῶν Σοφοκλέους μύθων βιβλία ε · Περὶ Εὐριπίδου· Περὶ Ἀλκμᾶνος· Περὶ μυστηρίων τῶν Ἀθήνησι· Συναγωγὴν ἡρωίδων ἤτοι Πυθαγορείων γυναικῶν· Δηλιακά, βιβλία β · Περὶ εὑρημάτων· Περὶ καθαρμῶν· Περὶ συμβόλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 2",
+      "text": "PROKL. HESIOD. Opp. 810: Φιλόχορος λέγει (F 190) καὶ †ἀμφότερος ἐξηγηταὶ τῶν πατρίων ἄνδρες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 3",
+      "text": "DIONYS. HAL. De Din. 3 (I 302, 16 U—R): ἡμεῖς δὲ ἐρωτηθέντες ὑπέρ τε τοῦ σημείου (F 67) ... φυγάδων κάθοδον ἔφαμεν προσημαίνειν ... καὶ τὴν κρίσιν ἐπιτελεσθῆναι συνέβη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 4",
+      "text": "PLUTARCH. De glor. Athen. 1 p. 345E: οἱ δ’ ἄλλοι πάντες ἱστορικοί, Κλει[νό]δημοι (323 T 3), Δίυλλοι (73), Φιλόχορος, Φύλαρχος (81).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 5",
+      "text": "CLEM. AL. Strom. 6, 26, 8: Μελησαγόρου (330 T 4) γὰρ ἔκλεψεν ... καὶ Ἀνδροτίων (324 T 16) καὶ Φιλόχορος ......",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 6",
+      "text": "PLUTARCH. De Pyth. or. 19 p. 403E: †Ἀλυρίου τοίνυν καὶ Ἡροδότου καὶ Φιλοχόρου καὶ Ἴστρου (334 T 5) τῶν μάλιστα τὰς ἐμμέτρους μαντείας φιλοτιμηθέντων συναγαγεῖν ἄνευ μέτρου χρησμοὺς 〈ἀνα〉γεγραφότων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 7",
+      "text": "TERTULLIAN. De an. 46 (FULGENT. Myth. 1, 14 p. 24, 16 Helm): quanti autem commentatores et affirmatores in hanc rem! Artemon, Antiphon, Strato, Philochorus, Epicharmus, Serapion, Cratippus, et Dionysius Rhodius, Hermippus, tota saeculi literatura ... ceterum Epicharmus etiam summum apicem inter divinationes somniis extulit cum Philochoro Atheniensi ... nam et oraculis hoc genus stipatus est orbis, ut Amphiarai apud Oropum, ... Pasiphaae in Laconica. cetera cum suis et originibus et ritibus et relationibus, cum omni deinceps historia somniorum Hermippus Berytensis (IV) quinione voluminum ratiatissime exhibebit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,328,T 8",
+      "text": "SUDA s.v. Πωλίων: ... σοφιστεύσας ἐν Ῥώμηι ἐπὶ Πομπηίου τοῦ Μεγάλου ... ἔγραψεν ἐπιτομὴν τῆς Φιλοχόρου Ἀτθίδος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lke-ab",
+      "title": {
+        "english": "Atthís: Athenian Origins and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philochorus-of-athens-origins-customs-lke-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philochorus-of-athens/origins-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.json"
+      }
+    },
+    {
+      "eul_wid": "lke-ac",
+      "title": {
+        "english": "On the Sacred War at Delphi",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "philochorus-of-athens-sacred-war-delphi-lke-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philochorus-of-athens/sacred-war-delphi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "nmu-aa",
+      "title": {
+        "english": "Historical Memoranda Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pamphila-of-epidaurus-historical-memoranda-nmu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pamphila-of-epidaurus/historical-memoranda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.json"
+      }
+    },
+    {
+      "eul_wid": "mlm-aa",
+      "title": {
+        "english": "Italica: Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristides-of-miletus-historical-fragments-mlm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-of-miletus/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-ac",
+      "title": {
+        "english": "Josephus' Life",
+        "ancient_greek": "Ἰωσήπου βίος"
+      },
+      "url_slug": "josephus-josephus-life-ofq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/josephus-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ak",
+      "title": {
+        "english": "Letter to Ammaeus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ammaeus-ndy-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ammaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ad",
+      "title": {
+        "english": "Olympic Chronicle",
+        "ancient_greek": "Ὀλυμπιακὴ Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-olympic-chronicle-mmg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/olympic-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "jcy-aa",
+      "title": {
+        "english": "On Marvels of Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archelaus-of-chersonesus-marvels-nature-jcy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-of-chersonesus/marvels-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/marvels-nature.json"
+      }
+    },
+    {
+      "eul_wid": "tzg-aa",
+      "title": {
+        "english": "On the Fertility of Phrygia",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "metrophanes-historicus-fertility-phrygia-tzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bh",
+      "title": {
+        "english": "Roman Sayings",
+        "ancient_greek": "Ῥωμαϊκὰ Ἐφημερίδες"
+      },
+      "url_slug": "historical-fragments-anonymous-roman-sayings-mmg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/roman-sayings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philochorus-of-athens/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

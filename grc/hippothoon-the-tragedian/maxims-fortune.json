@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cxu-aa",
+  "eul_aid": "cxu",
+  "author_slug": "hippothoon-the-tragedian",
+  "work_slug": "maxims-fortune",
+  "url_slug": "hippothoon-the-tragedian-maxims-fortune-cxu-aa",
+  "author": {
+    "english": "Hippothoon the Tragedian",
+    "ancient_greek": "Ἱπποθόων ὁ τραγικός"
+  },
+  "title": {
+    "english": "Maxims on Human Fortune",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Maxims on Human Fortune by Hippothoon Tragedian on Eulogikon",
+    "meta_title": "Maxims on Human Fortune by Hippothoon in Ancient Greek",
+    "meta_description": "Maxims on Human Fortune by Hippothoon, gnomic poetry on fate and human experience. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Maxims on Human Fortune</strong>, attributed to Hippothoon the Tragedian, is a collection of twelve verse passages belonging to the tradition of gnomic poetry. Its alternative title, <strong>Apospasmata</strong>, meaning &quot;Extracts,&quot; suggests it may comprise selected sententiae, possibly drawn from larger dramatic works. The author remains otherwise unknown, as the name Hippothoon is not attested as a tragedian in major historical sources. Thematically, the work engages with core concerns of its genre, including the capricious nature of human fortune, prescriptions for virtuous ethical conduct, and the complex relationship between divine will and human agency. Its transmission history is undocumented, and its brief, fragmentary nature suggests survival through an indirect or anthological tradition rather than direct manuscript preservation. While the work itself is obscure, its form exemplifies the later Hellenistic and Roman practice of compiling moral excerpts from poetic works, illustrating the enduring pedagogical and philosophical circulation of gnomic wisdom in antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "ἄνθρωπος ὢν μέμνησο τῆς κοινῆς τύχης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "φθόνος κάκιστος κἀδικώτατος θεός, κακοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τε χαίρει κἀγαθοῖς ἀλγύνεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "ζευχθεὶς γάμοισιν οὐκέτ’ ἔστ’ ἐλεύθερος. ἀλλ’ ἕν γ’ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τι χρηστόν· ἐν κήδει γὰρ ὤν ἐσθλῷ δέδοικε μηδὲν ἐξαμαρτάνειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3a?.1",
+      "text": "ἄριστον ἀνδρὶ κτῆμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3a?.2",
+      "text": "συμπαθὴς γυνή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "παίδων κρατεῖν δεῖ τῶν νεωτέρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σοφούς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "γῆρας λεόντων κρεῖσσον ἀκμαίων νεβρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6*.1",
+      "text": "γάμος κράτιστός ἐστιν ἀνδρὶ σώφρονι, τρόπον γυναικὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6*.2",
+      "text": "χρηστὸν ἔνδον λαμβάνειν· αὕτη γὰρ ἡ προὶξ οἰκίαν σῴζει μόνη",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ifw-aa",
+      "title": {
+        "english": "Alexandra",
+        "ancient_greek": "Ἀλεξάνδρα"
+      },
+      "url_slug": "lycophron-of-chalcis-alexandra-ifw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lycophron-of-chalcis/alexandra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophron-of-chalcis/alexandra.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-aj",
+      "title": {
+        "english": "Andromacha",
+        "ancient_greek": "Ἀνδρομάχη"
+      },
+      "url_slug": "euripides-andromache-cbm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/andromache",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/andromache.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/andromache.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/andromache.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/andromache.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-au",
+      "title": {
+        "english": "Antiope",
+        "ancient_greek": "Ἀντιόπη"
+      },
+      "url_slug": "euripides-antiope-cbm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/antiope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/antiope.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/antiope.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/antiope.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/antiope.json"
+      }
+    },
+    {
+      "eul_wid": "rui-aa",
+      "title": {
+        "english": "Fragments on Imperial Praise",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπαίνου Βασιλικοῦ"
+      },
+      "url_slug": "anonymous-lyric-mime-imperial-praise-rui-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-lyric-mime/imperial-praise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime/imperial-praise.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime/imperial-praise.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime/imperial-praise.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-lyric-mime/imperial-praise.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ag",
+      "title": {
+        "english": "Hymn to Dionysus Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sophocles-hymn-dionysus-buo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/hymn-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/hymn-dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ac",
+      "title": {
+        "english": "Iphigenia in Tauris",
+        "ancient_greek": "Ἰφιγένεια ἐν Ταύροις"
+      },
+      "url_slug": "euripides-iphigenia-tauris-cbm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/iphigenia-tauris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-tauris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-tauris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-tauris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-tauris.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-af",
+      "title": {
+        "english": "Phoenician Women",
+        "ancient_greek": "Φοίνισσαι"
+      },
+      "url_slug": "euripides-phoenician-women-cbm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phoenician-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-az",
+      "title": {
+        "english": "Phrixus",
+        "ancient_greek": "Φρίξος"
+      },
+      "url_slug": "euripides-phrixus-cbm-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phrixus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippothoon-the-tragedian/maxims-fortune",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippothoon-the-tragedian/maxims-fortune.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippothoon-the-tragedian/maxims-fortune.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippothoon-the-tragedian/maxims-fortune.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippothoon-the-tragedian/maxims-fortune.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

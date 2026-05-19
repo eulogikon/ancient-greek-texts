@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kpk-ab",
+  "eul_aid": "kpk",
+  "author_slug": "machon-of-sinope",
+  "work_slug": "culinary-comic-ab",
+  "url_slug": "machon-of-sinope-culinary-comic-ab-kpk-ab",
+  "author": {
+    "english": "Machon of Sinope",
+    "ancient_greek": "Μάχων ὁ Σινωπεύς"
+  },
+  "title": {
+    "english": "Culinary and Comic Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Comic and Culinary Fragments Machon of Sinope on Eulogikon",
+    "meta_title": "The Fragments of Machon of Sinope in Ancient Greek",
+    "meta_description": "Choliambic verses of the poet Machon. Comic fragments blending culinary themes with humor. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Culinary and Comic Fragments</strong> constitute the surviving poetic work of the Hellenistic author Machon of Sinope, who was active in Alexandria during the 3rd century BCE. Composed in choliambic meter, a form traditionally associated with satire, these verses present a series of short, humorous vignettes. Their subject matter centers on the witty dialogue and scandalous exploits of renowned Athenian courtesans and gluttonous parasites, frequently within the context of lavish symposia. The work is not a continuous narrative but a collection of discrete comic scenes, evoking a nostalgic and ribald vision of Classical Athenian social life for a sophisticated Hellenistic readership.</p>\n<p class=\"research-text\">The text survives only in fragmentary form, preserved not through independent manuscripts but exclusively within eight substantial quotations found in the <strong>Deipnosophistae</strong> (The Learned Banqueters), an encyclopedic compilation by Athenaeus of Naucratis from around 200 CE. Modern scholarship regards these fragments as a Hellenistic adaptation of earlier Athenian comic and iambic poetry. They are valued for their blend of conversational Greek with deliberate dialectical colorings and for the unique window they provide into the lore and gossip of ancient sympotic culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἥδιον οὐδέν ἐστί μοι τῆς ματτύης. τοῦτ’ εἴτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρῶτοι Μακεδόνες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖς Ἀττικοῖς κατέδειξαν ἡμῖν, εἴτε πάντες οἱ θεοί, οὐκ οἶδα· πλήν γ’ ὅτι μουσικωτάτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τινὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "ὀψοφάγος εἰμί. τοῦτο δ’ ἐστὶ τῆς τέχνης θεμέλιος ἡμῖν. προσπεπονθέναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τι δεῖ τὸν μὴ τὰ παρατεθέντα λυμανούμενον. πεφροντικὼς αὑτοῦ γὰρ οὐκ ἔσται κακός.[ln_5]ἔπειτ’ ἐπὰν ᾖ καθαρὰ τᾀσθητήρια, οὐκ ἂν διαμάρτοις. ἕψε καὶ γεύου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πυκνά. ἅλας οὐκ ἔχει· προσένεγκ’. ἔτ’ ἐπιδεῖταί τινος ἑτέρου· πάλιν γεύου σὺ μέχρι ἂν ἡδὺς ᾖ· ὥσπερ λύραν ἐπίτειν’ ἕως ἂν ἁρμόσῃ·[ln_10]εἶθ’ ὁπόταν ἤδη πάντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "συμφωνεῖν δοκῇς, εἴσαγε διὰ πασῶν Νικολαΐδας Μυκόνιος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kpk-aa",
+      "title": {
+        "english": "Anecdotes of Court and Comedy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-court-comedy-kpk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/court-comedy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/court-comedy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/court-comedy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/court-comedy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/court-comedy.json"
+      }
+    },
+    {
+      "eul_wid": "kpk-ac",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ac-kpk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kge-ab",
+      "title": {
+        "english": "Comic Fragments on Human Follies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-human-follies-kge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-af",
+      "title": {
+        "english": "Fragments of Comic Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμικῆς Σοφίας"
+      },
+      "url_slug": "epicharmus-syracuse-comic-wisdom-bhm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "fdc-aa",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "philyllius-the-comic-poet-comic-feast-aa-fdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philyllius-the-comic-poet/comic-feast-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-aa.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aj",
+      "title": {
+        "english": "Fragments on Anaxagoras and Society",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναξαγόρου καὶ Κοινωνίας"
+      },
+      "url_slug": "aristophanes-of-athens-anaxagoras-society-daw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/anaxagoras-society",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.json"
+      }
+    },
+    {
+      "eul_wid": "gtk-ab",
+      "title": {
+        "english": "Fragments on Cooking and Piety",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Εὐσεβείας"
+      },
+      "url_slug": "athenion-the-comic-poet-cooking-piety-gtk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenion-the-comic-poet/cooking-piety",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/cooking-piety.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/cooking-piety.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/cooking-piety.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/cooking-piety.json"
+      }
+    },
+    {
+      "eul_wid": "cgm-ab",
+      "title": {
+        "english": "Fragments on Love and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐωχίας"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "ksc-aa",
+      "title": {
+        "english": "Fragments on Seleucus and Drinking",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σελεύκου καὶ Ποτοῦ"
+      },
+      "url_slug": "epinicus-the-comic-poet-seleucus-drinking-ksc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epinicus-the-comic-poet/seleucus-drinking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet/seleucus-drinking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet/seleucus-drinking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet/seleucus-drinking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epinicus-the-comic-poet/seleucus-drinking.json"
+      }
+    },
+    {
+      "eul_wid": "lxg-aa",
+      "title": {
+        "english": "Generational Conflict Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timostratus-the-comic-poet-generational-conflict-lxg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

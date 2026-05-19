@@ -1,0 +1,1287 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hps-bn",
+  "eul_aid": "hps",
+  "author_slug": "menander-of-athens",
+  "work_slug": "georgus",
+  "url_slug": "menander-of-athens-georgus-hps-bn",
+  "author": {
+    "english": "Menander of Athens",
+    "ancient_greek": "Μένανδρος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Georgus",
+    "ancient_greek": "Γεωργός"
+  },
+  "seo": {
+    "browser_title": "Georgus The Farmer by Menander of Athens on Eulogikon",
+    "meta_title": "The Georgus by Menander of Athens in Ancient Greek",
+    "meta_description": "Georgus is a New Comedy by Menander about domestic life and social relations in Athenian theater. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Georgus</strong> (The Farmer) is a verse comedy by the Athenian playwright Menander, composed in the late 4th or early 3rd century BCE. A representative work of New Comedy, it shifts focus from the political satire of earlier Athenian comedy to domestic and romantic entanglements. The play survives only in fragments, its partial text recovered primarily from a 20th-century papyrus discovery. The plot revolves around a virtuous and impoverished farmer, likely named Gorgias, who acts as protector to a young woman in his household. Their rustic life is disrupted when a wealthy young man from the city falls in love with the girl, setting up a conflict between urban and rural values. Following a conventional New Comedy structure, the narrative progresses toward the revelation of the young woman&#x27;s true identity as a citizen of free birth, which in turn enables a legitimizing marriage that resolves the social tensions. The surviving portions, amounting to roughly 132 fragments, derive mainly from a single papyrus codex copied long after Menander&#x27;s death. These fragments allow for a tentative reconstruction of the storyline, though significant gaps in the narrative remain. The portrayal of the farmer is often interpreted by modern scholars as reflecting contemporary philosophical interest in innate virtue and the moral integrity associated with a simple life. As with much of Menander&#x27;s work, <strong>Georgus</strong> played a role in shaping the comic traditions that would profoundly influence later Roman dramatists such as Plautus and Terence.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "(ΝΕΑΝΙΣΚΟΣ) []προσιὼν † πράττων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "[]ὑποφοβούμενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "ἦν δ’ οὐ πονηρὸς οὐδ’ ἐδόκουν 〈 〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "[ ]ε̣ ὁ μειρακίσκος ἐν ἀγρῶι διετέλει,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.1",
+      "text": "ἔτυχέ τι] συμβεβηκὸς ὅ μ’ ἀπολώλεκε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.2",
+      "text": "ἀπόδη]μ̣ον εἰς Κόρινθον ἐπὶ πρᾶξίν τινα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.3",
+      "text": "κατιὼν ὑ]πὸ νύκτα γινομένους ἑτέρους γάμους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.4",
+      "text": "καταλαμ]βάνω μοι, τοὺς θεοὺς στεφανουμένους,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.5",
+      "text": "τὸν πατέ]ρα θύοντ’ ἔνδον· ἐκδίδωσι δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.1",
+      "text": "αὐτὸς ὁ] πατήρ· ὁμοπατρία γάρ ἐστί μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.2",
+      "text": "ἐκ τῆς 〈 〉] νυνὶ γυναικὸς τρεφομένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.3",
+      "text": "[ ἀ]δελφή. τίνα δὲ δυσφεύκτωι κακῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.4",
+      "text": "τρόπον μάχωμ’ οὐκ οἶδ]α· πλὴν οὕτως ἔχω·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.5",
+      "text": "[ οἰ]κίας οὐδὲν φράσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.1",
+      "text": "[ ]λ̣[ι]πὼν δὲ τὸν γάμον τὴν φιλτάτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.2",
+      "text": "[...]α̣ν ἀδικήσαιμ’ ἄν· οὐ γὰρ εὐσεβές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.3",
+      "text": "κόπτειν δὲ μέλλων τὴν θύραν ὀκνῶ πάλαι· οὐκ οἶδα γὰρ τὸν ἀδελφὸν εἰ νῦν ἐξ ἀγροῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.4",
+      "text": "ἐνθάδ’ ἐπιδημεῖ· πάντα προνοεῖσθαί με δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.1",
+      "text": "ἀλλ’ ἐκποδὼν ἄπειμι καὶ βουλεύσομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.2",
+      "text": "τοῦτ’ αὔθ’, ὅπως δεῖ διαφυγεῖν με τὸν γάμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.3",
+      "text": "ΜΥΡΡΙΝΗ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22.1",
+      "text": "ἀλλ’ ὡς πρὸς εὔνουν, ὦ Φίλιννα, τοὺς λόγους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22.2",
+      "text": "ποουμένη σε πάντα τἀμαυτῆς λέγω·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22.3",
+      "text": "ἐν τοῖσδ’ ἐγὼ νῦν εἰμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "〈ΦΙΛΙΝΝΑ〉 καί, νὴ τὼ θεώ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.1",
+      "text": "ἔγωγ’ ἀκούους’, ὦ τέκνον, μικροῦ δέω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.2",
+      "text": "πρὸς τὴν θύραν ἐλθοῦσα καὶ καλέσασα τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.3",
+      "text": "ἀλαζόν’ ἔξω τοῦτον εἰπεῖν ὅσα φρονῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.4",
+      "text": "〈Μυ〉 μὴ σύ γε, Φίλιννα. χαιρέτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28.1",
+      "text": "(Φι) τί “χαιρέτω”;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28.2",
+      "text": "οἰμωζέτω μὲν οὖν τοιοῦτος ὤν. γαμεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.1",
+      "text": "ὁ μιαρὸς οὗτος ἠδικηκὼς τὴν κόρην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.2",
+      "text": "[ ]τοσούτους κατατ[ ] προσέρχεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.3",
+      "text": "[ ]ὁ θεράπων ἐξ ἀγροῦ Δᾶος. βραχὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.4",
+      "text": ".[..]ι̣ μεταστῶμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33.1",
+      "text": "〈Φι〉 τί δ’ ἡμῖν, εἰπέ μοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33.2",
+      "text": "〈τούτου〉 μέλει; καλόν γ’ ἂν εἴη, νὴ Δία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "ΔΑΟΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.1",
+      "text": "ἀγρὸν εὐσεβέστερον γεωργεῖν οὐδένα οἶμαι· φέρει γὰρ μυρρ[ίνην, κιττὸν] καλόν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.2",
+      "text": "ἄνθη τοσαῦτα, τἆλλα δ’ ἄν τις καταβάληι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.3",
+      "text": "ἀπέδωκεν ὀρθῶς καὶ δικαίως, οὐ [πλέον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.4",
+      "text": "ἀλλ’ αὐτὸ τὸ μέτρον. ὁ Σύρος εἰσένεγχ’ ὅμως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.1",
+      "text": "πάνθ’, ὅσα 〈γε〉 φέρομεν· ταῦτα πάντ’ εἰς τοὺς γάμους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.2",
+      "text": "ὦ χαῖρε πολλά, Μυρρίνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41.1",
+      "text": "(Μυ) νὴ καὶ σύ γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41.2",
+      "text": "〈Δα〉 οὔ σε καθεώρων, γεννικὴ καὶ κοσμία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41.3",
+      "text": "γύναι. τί πράττεις; βούλομαι ς’ ἀγαθῶν λόγων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41.4",
+      "text": "μᾶλλον δὲ πράξεων ἐσομένων, ἂν οἱ θεοὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.1",
+      "text": "θέλωσι, γ[εῦσ]αι καὶ φθάσαι πρῶτο̣[ς φράσας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.2",
+      "text": "ὁ Κλεαίνετος γάρ, οὗ τὸ μειράκιον [τὸ σὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.3",
+      "text": "ἐργάζεται, πρώην ποτ’ ἐν ταῖς ἀμπέλοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.4",
+      "text": "σκάπτων διέκοψε τὸ σκέλος χρηστῶς πάνυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.5",
+      "text": "〈Μυ〉 τάλαιν’ ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49.1",
+      "text": "(Δα) θάρρει· τὸ πέρας δ’ ἄκουέ μου. ἀπὸ τοῦ γὰρ ἕλκους, ὡς τριταῖον ἐγένετο,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49.2",
+      "text": "βουβὼν ἐπήρθη τῶι γέροντι θέρμα τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49.3",
+      "text": "ἐπέλαβεν αὐτὸν καὶ κακῶς ἔσχεν πάνυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49.4",
+      "text": "(Φι) ἀλλ’ ἐκκορηθείης σύ γ’· οἷα τἀγαθὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49.5",
+      "text": "ἥκεις ἀπαγγέλλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "(Μυ) σιώπα, γράιδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.1",
+      "text": "(Δα) ἐνταῦθα χρείας γενομένης αὐτῶι τινος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.2",
+      "text": "κηδεμόνος, οἱ μὲν οἰκέται καὶ βάρβαροι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.3",
+      "text": "ἐφ’ οἷς ἐκεῖνός ἐστιν, οἰμώζειν μακρὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.4",
+      "text": "ἔλεγον ἅπαντες, ὁ δὲ σὸς ὑός, οἱονεὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.5",
+      "text": "νομίσας ἑαυτοῦ πατέρα, πο[ιήσ]ας [ἃ δεῖ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60.1",
+      "text": "ἤλειφεν, ἐξέτριβεν, ἀπένιζεν, φαγεῖν προσέφερε, παρεμυθεῖτο, πάνυ φαύλως ἔχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60.2",
+      "text": "δ[ό]ξ̣[α]ν̣τ’ ἀνέστης’ αὐτὸν ἐπιμελούμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60.3",
+      "text": "(Φι) φίλον τέκνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63.1",
+      "text": "(Δα) νὴ τὸν Δί’, εὖ δῆθ’ οὑτοσί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63.2",
+      "text": "ἀναλ]α̣〈μ〉β〈άν〉ων γὰρ αὑτὸν ἔνδον, καὶ σχολὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.1",
+      "text": "εὑρὼν] ἀπαλλαγεὶς δικέλλης καὶ κακῶν—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.2",
+      "text": "οὕτω] τίς ἐστι σκληρὸς ὁ γέρων τῶι βίωι—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.3",
+      "text": "τοῦ μειρ]ακίου τὰ πράγματ’ ἀνέκρινεν, τίνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.4",
+      "text": "ἔστ’, οὐχὶ παντάπασιν ἀγνοῶν ἴσως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.5",
+      "text": "κοινου]μένου δὲ τοῦ νεανίσκου τά τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.1",
+      "text": "περὶ τ]ῆς ἀδελφῆς ἐμβαλόντος σοῦ 〈τε〉 καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.2",
+      "text": "[ ]. ἔπαθέ τι κοινὸν καὶ χάριν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.3",
+      "text": "τῆς ἐπιμελείας ὤιετ’ ἐκ παντὸς λόγου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.4",
+      "text": "δεῖν αὑτὸν ἀποδοῦναι, μόνος τ’ ὢν καὶ γέρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.5",
+      "text": "νοῦν ἔσχε· τὴν γὰρ παῖδ’ ὑπέσχηται γαμεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75.1",
+      "text": "κεφάλαιόν ἐστι τοῦτο τοῦ παντὸς λόγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75.2",
+      "text": "ἥξουσιν ἤδη δεῦρ’, ἄπεισιν εἰς ἀγρὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75.3",
+      "text": "αὐτὴ]ν̣ λαβών. παύσεσθε πενίαι μαχόμενοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75.4",
+      "text": "δυσνουθετήτωι θηρί[ωι καὶ δυσκόλωι καὶ ταῦτ’ ἐν ἄστει· δεῖ γὰρ ἢ πλουτεῖν ἴσως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.1",
+      "text": "ἢ ζῆν ὅπως μὴ μάρτυρας τοῦ δυστυχεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.2",
+      "text": "πολλούς τις ἕξει τοὺς ὁρῶντας· ἔστι δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.3",
+      "text": "ἀγρὸς εἰς τὸ τοιοῦτ’ εὐκτὸν ἥ τ’ ἐρημία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.4",
+      "text": "εὐαγγελίσασθαι πρός σε ταῦτ’ ἐβουλόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.5",
+      "text": "ἔρρωσο πολλά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84",
+      "text": "〈Μυ〉 καὶ σύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84",
+      "text": "〈Φι〉 τί πέπονθας, τέκνον;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "τί περιπατεῖς τρίβουσα τὰς χεῖρας;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85.1",
+      "text": "〈Μυ〉 τί γάρ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85.2",
+      "text": "Φίλινν’, ἀποροῦμαι νῦν τί ποιῆσαί με δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85.3",
+      "text": "(Φι) περὶ τίνος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "87.1",
+      "text": "〈Μυ〉 ἡ παῖς ἐστι τοῦ τόκου, φίλη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "87.2",
+      "text": "[ὁμοῦ]τοδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "87.3",
+      "text": "(ante actus finem octo sequebantur uersus)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "89",
+      "text": "(uersus non amplius xxv deesse uidentur)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "99.1",
+      "text": "(Γο) τοιοῦ[τ στροβει[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "99.2",
+      "text": "τοῦτ’ ε̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "99.3",
+      "text": "ἐγώ· τί ποιή[σω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "99.4",
+      "text": "αὐτῶν ἰδ̣ω̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "103.1",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "103.2",
+      "text": "Φιλιν' πρὸ τῶν θυρῶ[ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "104",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.1",
+      "text": "Γοργ' οὐδεὶς γάρ εἰμ’ ἕ[τερος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.2",
+      "text": "(Φι) τί ἐστιν; (Γο) οὐδέν· ἀ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.3",
+      "text": "τὴν μητέρ’ επη[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.4",
+      "text": "Φίλιννα, κάλεσον[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.5",
+      "text": "(Φι) μὰ τὼ θεώ, τέκν̣[ον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "109",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "σὺ γὰρ παρ’ ἡμῶν α[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110.1",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110.2",
+      "text": "ἐγ̣ γειτόνων ὄντ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110.3",
+      "text": "τὴν Ἄρτεμιν[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112.1",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112.2",
+      "text": "(Γο) ἐγὼ καλῶ π̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112.3",
+      "text": "καὶ νῦν τί ποι[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "ἢ πῶς μαλακ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.1",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.2",
+      "text": "τὸ παιδίον κα[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.3",
+      "text": "τί ταῦτά τις [.]ε̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.4",
+      "text": "ἡμῖν ὑπόλοιπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.5",
+      "text": "παρρησίαν τ’ ην̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.1",
+      "text": "ὁρῶντα ταυτ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.2",
+      "text": "ἡμᾶς τε τοὺσ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.3",
+      "text": "]ἐπειτ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.4",
+      "text": "οὐδ’ ἄξιόν γ’ ἐστ[ίν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.5",
+      "text": "ὑμῖν ἐγὼ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.1",
+      "text": "ἅπασι κα̣ὶ̣ τ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.2",
+      "text": "ἐχ̣...α̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.3",
+      "text": "κομματ[ οἰκειότη[",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hps-av",
+      "title": {
+        "english": "Apparition",
+        "ancient_greek": "Φάντασμα"
+      },
+      "url_slug": "menander-of-athens-apparition-hps-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/apparition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.json"
+      }
+    },
+    {
+      "eul_wid": "hps-az",
+      "title": {
+        "english": "Arbitration",
+        "ancient_greek": "Διαιτησία"
+      },
+      "url_slug": "menander-of-athens-arbitration-az-hps-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ax",
+      "title": {
+        "english": "Carthaginian",
+        "ancient_greek": "Καρχηδόνιος"
+      },
+      "url_slug": "menander-of-athens-carthaginian-hps-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ba",
+      "title": {
+        "english": "Citharist",
+        "ancient_greek": "Κιθαριστής"
+      },
+      "url_slug": "menander-of-athens-citharist-hps-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.json"
+      }
+    },
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bp",
+      "title": {
+        "english": "Colax",
+        "ancient_greek": "Κόλαξ"
+      },
+      "url_slug": "menander-of-athens-colax-hps-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ak",
+      "title": {
+        "english": "Colax, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κόλακος"
+      },
+      "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ay",
+      "title": {
+        "english": "Coneazomenae",
+        "ancient_greek": "Κονεαζόμεναι"
+      },
+      "url_slug": "menander-of-athens-coneazomenae-hps-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/coneazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ar",
+      "title": {
+        "english": "Double Deceiver",
+        "ancient_greek": "Διπλοῦς Ἀπατεών"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-ar-hps-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.json"
+      }
+    },
+    {
+      "eul_wid": "hps-as",
+      "title": {
+        "english": "Doubtful Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα"
+      },
+      "url_slug": "menander-of-athens-doubtful-fragment-hps-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ggs-ab",
+      "title": {
+        "english": "Comic Fragments on Dining and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας"
+      },
+      "url_slug": "theophilus-the-comic-poet-dining-excess-ab-ggs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-comic-poet/dining-excess-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.json"
+      }
+    },
+    {
+      "eul_wid": "fgy-ab",
+      "title": {
+        "english": "Comic Fragments on Food and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σίτων καὶ Μωρίας"
+      },
+      "url_slug": "antiphanes-the-comic-poet-comic-food-folly-fgy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphanes-the-comic-poet/comic-food-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet/comic-food-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet/comic-food-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet/comic-food-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphanes-the-comic-poet/comic-food-folly.json"
+      }
+    },
+    {
+      "eul_wid": "gdg-aa",
+      "title": {
+        "english": "Comic Fragments on Vice and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κακίας καὶ Ἀρετῆς"
+      },
+      "url_slug": "philonides-the-comic-poet-vice-virtue-gdg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philonides-the-comic-poet/vice-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/vice-virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/vice-virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/vice-virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/vice-virtue.json"
+      }
+    },
+    {
+      "eul_wid": "kfa-aa",
+      "title": {
+        "english": "Fragments of Uncertain Poets",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ποιητῶν"
+      },
+      "url_slug": "comica-adespota-uncertain-poets-kfa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comica-adespota/uncertain-poets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-ad",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ad-hcq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "iie-aa",
+      "title": {
+        "english": "Fragments on Life and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Τύχης"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-fortune-iie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.json"
+      }
+    },
+    {
+      "eul_wid": "djs-ac",
+      "title": {
+        "english": "Satirical Cityscape Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermippus-the-comic-poet-satirical-cityscape-djs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/satirical-cityscape",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.json"
+      }
+    },
+    {
+      "eul_wid": "fdm-ab",
+      "title": {
+        "english": "Symposium and Philosophical Banter",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heniochus-the-comic-poet-symposium-fdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heniochus-the-comic-poet/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menander-of-athens/georgus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

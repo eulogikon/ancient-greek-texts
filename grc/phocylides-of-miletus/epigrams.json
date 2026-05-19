@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bdg-ab",
+  "eul_aid": "bdg",
+  "author_slug": "phocylides-of-miletus",
+  "work_slug": "epigrams",
+  "url_slug": "phocylides-of-miletus-epigrams-bdg-ab",
+  "author": {
+    "english": "Phocylides of Miletus",
+    "ancient_greek": "Φωκυλίδης ὁ Μιλήσιος"
+  },
+  "title": {
+    "english": "Epigram",
+    "ancient_greek": "Ἐπίγραμμα"
+  },
+  "seo": {
+    "browser_title": "Poetic Fragments by Phocylides of Miletus on Eulogikon",
+    "meta_title": "Fragments by Phocylides of Miletus in Ancient Greek",
+    "meta_description": "Gnomic sayings of Phocylides of Miletus, wise maxims in Ionic Greek verse with moral guidance. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams of Phocylides of Miletus constitute a collection of gnomic sayings attributed to the 6th-century BCE poet. Written in Ionic Greek verse, these short, pithy fragments offer practical advice for living a virtuous life, emphasizing moderation, justice, good reputation, and sensible social conduct. A famous example extols the merits of a small, well-ordered city over a large, chaotic one. The poems are structured as individual maxims, often introduced by a formulaic phrase such as &quot;And this too is of Phocylides.&quot; The work survives only in fragments, with no complete manuscript extant; knowledge of it depends entirely on quotations preserved by later ancient authors and anthologists, including Aristotle and Stobaeus. Modern scholarship interprets this poetry as part of an archaic didactic tradition aimed at citizen education, reflecting the civic values of Phocylides&#x27; home, the powerful Ionian city-state of Miletus. The transmission history is complicated by a later, pseudepigraphical work falsely attributed to the poet, which follows a separate textual tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 117.1.1",
+      "text": "Γνήσιός εἰμι φίλος καὶ τὸν φίλον ὡς φίλον οἶδα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 117.1.2",
+      "text": "τοὺς δὲ κακοὺς διόλου πάντας ἀποστρέφομαι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 117.1.3",
+      "text": "οὐδένα θωπεύω πρὸς ὑπόκρισιν· οὓς δ’ ἄρα τιμῶ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 117",
+      "text": "τούτους ἐξ ἀρχῆς μέχρι τέλους ἀγαπῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bdg-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "phocylides-of-miletus-sentences-bdg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phocylides-of-miletus/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/sentences.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pms-aa",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἀριστοτέλους ἠθικὰ Νικομάχεια"
+      },
+      "url_slug": "aspasius-the-peripatetic-commentaries-aristotle-pms-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aspasius-the-peripatetic/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aspasius-the-peripatetic/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "ega-ab",
+      "title": {
+        "english": "Fragments on Philosophers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσόφων"
+      },
+      "url_slug": "speusippus-of-athens-philosophers-ega-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/philosophers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.json"
+      }
+    },
+    {
+      "eul_wid": "pzk-aa",
+      "title": {
+        "english": "Life of Secundus",
+        "ancient_greek": "Βίος Σεκούνδου"
+      },
+      "url_slug": "secundus-the-silent-life-pzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.json"
+      }
+    },
+    {
+      "eul_wid": "okg-an",
+      "title": {
+        "english": "On the Creation of the Soul in the Timaeus",
+        "ancient_greek": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-soul-timaeus-okg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/soul-timaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-timaeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-timaeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-timaeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/soul-timaeus.json"
+      }
+    },
+    {
+      "eul_wid": "rai-aa",
+      "title": {
+        "english": "On the Divisions of Philosophy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "atticus-the-philosopher-divisions-philosophy-rai-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/atticus-the-philosopher/divisions-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher/divisions-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher/divisions-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher/divisions-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/atticus-the-philosopher/divisions-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "bhc-aa",
+      "title": {
+        "english": "Pythagorean Teachings and Letters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theano-of-croton-teachings-letters-bhc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theano-of-croton/teachings-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ag",
+      "title": {
+        "english": "Surviving Works of Philo (Bulk Volume)",
+        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-ag-lgi-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-ag.json"
+      }
+    },
+    {
+      "eul_wid": "coo-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "nessos-of-chios-testimonies-coo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nessos-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nessos-of-chios/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phocylides-of-miletus/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phocylides-of-miletus/epigrams.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

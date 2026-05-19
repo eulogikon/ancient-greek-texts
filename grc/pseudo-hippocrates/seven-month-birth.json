@@ -1,0 +1,321 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oyw-af",
+  "eul_aid": "oyw",
+  "author_slug": "pseudo-hippocrates",
+  "work_slug": "seven-month-birth",
+  "url_slug": "pseudo-hippocrates-seven-month-birth-oyw-af",
+  "author": {
+    "english": "Pseudo-Hippocrates",
+    "ancient_greek": "Ψευδο-Ἱπποκράτης"
+  },
+  "title": {
+    "english": "On Seven-Month Birth",
+    "ancient_greek": "Περὶ ἑπταμηνιαίου τόκου"
+  },
+  "seo": {
+    "browser_title": "On Seven-Month Birth by Pseudo-Hippocrates on Eulogikon",
+    "meta_title": "On Seven-Month Birth by Pseudo-Hippocrates in Greek",
+    "meta_description": "This medical treatise examines the viability of infants born at seven months and their survival rates. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Seven-Month Birth_ is a concise medical treatise from the Hippocratic Corpus, a work pseudepigraphically attributed to Hippocrates. It directly confronts a prevalent ancient Greek belief regarding gestation, systematically arguing against the traditional view that an eight-month fetus cannot survive while asserting that a seven-month fetus is viable. The text employs a methodical series of proofs to establish its case, utilizing both analogical reasoning and numerical calculation. It draws comparisons between human gestation and the developmental cycles of animals and plants, while also applying the Hippocratic theory of critical days, a system for predicting the course of disease based on significant intervals. Through these arguments, the treatise seeks to rationalize a common folk belief by grounding it in observational reasoning and logical deduction, thereby providing a framework for prognosticating the outcomes of pregnancies. Preserved within the larger Hippocratic Corpus, the work was copied and studied continuously from antiquity through the Renaissance and remains available in modern critical editions. As a characteristic example of Hippocratic rationalism, the treatise represents an attempt to displace superstition with systematic argument, contributing to enduring discussions in ancient embryology and the doctrine of critical days, engaging with ideas later explored by Aristotle and Galen.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "1. Οἱ δὲ ἑπτάμηνοι γίνονται ἐκ τῶν ἑκατὸν ἡμερέων καὶ ὀγδοήκοντα καὶ δύο καὶ προσεόντος μορίου· ἢν γὰρ τοῦ πρώτου λογίσῃ μηνὸς πεντεκαίδεκα ἡμέρας, τῶν δὲ πέντε μηνῶν ἑκατὸν καὶ τεσσαράκοντα καὶ ἑπτὰ καὶ ἥμισυ ἡμέρης, ἐν γὰρ ἑξήκοντα μιῆς δεούσῃσιν ἡμέρῃσιν ἐγγύτατα δύο μῆνες ἐκτελεῦνται, οὕτως οὖν τουτέων ἐόντων ἐς τὸν ἕβδομον μῆνα περιγίνονται ἡμέραι πλεῖον ἢ εἴκοσιν, ἐς ἥμισυ τοῦ ἐνιαυτοῦ τῆς ἡμέρης μέρεος τῷ μέρει ποσοῦ γινομένου. Ὁκόταν οὖν ἐς τὴν ἀρχὴν τῆς τελειώσιος ἔλθῃ ταύτην, ἁδρυνομένου τοῦ ἐμβρύου καὶ τὴν ἰσχὺν πουλὺ ἐπιδιδόντος ἐν τῇ τελειώσει μᾶλλον ἢ ἐν τοῖσιν ἄλλοισι χρόνοισιν, οἱ ὑμένες ἐν οἷσι τὴν ἀρχὴν ἐτράφη, ὥσπερ τῶν ἀσταχύων, ἐξεχάλασαν πρόσθεν ἀναγκαζόμενοι ἢ τελείως ἐξαδρυνθῆναι τὸν καρπόν· τὰ οὖν ἰσχυρότατα καὶ ἁδρότατα τῶν ἐμβρύων βιησάμενα καὶ διαῤῥήξαντα τοὺς ὑμένας ἠνάγκασε τὸν τόκον γενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "2. Καὶ τὰ μὲν πλεῖστα τουτέων ἀπώλλοντο· μικρὰ γὰρ ὄντα τῇ μεταβολῇ μέζονι χρέονται τῶν ἄλλων· καὶ τὴν τεσσαρακονθήμερον κακοπαθείην ἀναγκάζονται κακοπαθεῖν, ἐξελθόντα ἐκ τῆς μήτρης· καὶ τῶν δεκαμήνων πολλὰ ἀποκτείνει. Ἔστι δὲ ἃ τούτων τῶν ἑπταμήνων καὶ περιγίνονται, ἐκ πολλῶν ὀλίγα, ὅτι ὁ λόγος καὶ ὁ χρόνος, ἐς ὃν ἐτράφη ἐν τῇ μήτρῃ, κατέστησέ πως μετέχειν πάντων ὧν περ καὶ τὰ τελεώτατα μετέχει καὶ μάλιστα περιγινόμενα, καὶ ἐξήλλαξε τῆς μητρὸς πρόσθεν ἢ νοσῆσαι τὰ ἐν τῷ ὀγδόῳ μηνὶ νενοσευμένα· τουτέοισι γὰρ τοῖσι πόνοισιν ἢν ἐπιγίνηται, ὥστ’ εἰς τοὐμφανὲς ἐλθεῖν τὸ παιδίον, ἀδύνατον περιγενέσθαι διὰ τὰς πάθας τὰς προειρημένας, ἂς ἐγώ φημι τοὺς ὀκταμήνους ἀποκτείνειν, πολλοὺς δὲ καὶ τῶν δεκαμήνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "3. Τὰ δὲ πολλὰ τῶν ἐμβρύων τῶν ἐν ταύτῃ τῇ ἡλικίῃ τῇ ἑπταμήνῳ, ὅταν οἱ ὑμένες χαλάσωσι, μετεχώρησαν ἐς τὸ ὑπεῖξαν, καὶ ἐνταῦθα τὴν τροφὴν ποιέεται· τὰς μὲν τεσσαράκοντα ἡμέρας τὰς πρώτας πονεῦντα τὰ μὲν μᾶλλον, τὰ δὲ ἧσσον, διὰ τὴν μεταβολὴν ἣν ἐκ τῶν χωρίων τῶν θρεψάντων μετεβάλετο, καὶ ὅτι τὸν ὀμφαλὸν ἔσπασε καὶ μετεχώρησε, καὶ διὰ τῆς μητρὸς τοὺς πόνους. Οἱ γὰρ ὑμένες τεινόμενοι καὶ ὁ ὀμφαλὸς σπασθεὶς ὀδύνας ποιέει τῇ μητρί· καὶ τὸ ἔμβρυον ἐκ τοῦ παλαιοῦ συνδέσμου ἐκλυθὲν βαρύτερον γίνεται· πολλαὶ δὲ τῶν γυναικῶν καὶ ἐπιπυρεταίνουσι τουτέων γινομένων, αἱ δὲ καὶ ἀπόλλυνται σὺν τοῖσιν ἐμβρύοισιν. Χρῶνται δὲ πᾶσαι ἑνὶ λόγῳ περὶ τουτέου· φασὶ γὰρ τοὺς ὀγδόους τῶν μηνῶν καὶ χαλεπώτατα φέρειν τὰς γαστέρας, ὀρθῶς λέγουσαι, Ἔστι δὲ ὄγδοος μὴν οὐ μόνον ὁ χρόνος οὗτος, ἀλλ’ εἰ καὶ ἡμέρας λάβοι ἀπό τε τοῦ ἑβδόμου μηνὸς καὶ τοῦ ἐννάτου. Ἀλλὰ τὰς ἡμέρας οὐχ ὁμοίως οὔτε λέγουσιν οὔτε γινώσκουσιν αἱ γυναῖκες· πλανῶνται γὰρ διὰ τὸ κατὰ ταὐτὸ μὴ γίνεσθαι, ἀλλ’ ὁτὲ μὲν ἀπὸ τοῦ ἑβδόμου μηνὸς πλέονας ἡμέρας προσγενέσθαι ἐς τὰς τεσσαράκοντα, ὁτὲ δὲ ἀπὸ τοῦ ἐννάτου· ὧδε γὰρ ἀνάγκη γίνεσθαι, ὅκως ἂν τύχῃ ἡ γυνὴ ἐν γαστρὶ λαβοῦσα, τοῦ μηνός τε καὶ τοῦ χρόνου. Ὁ δὲ δὴ ὄγδοος ἀναμφισβήτητός ἐστι, κατὰ τοῦτον γὰρ γίνεται, ὥστε δυσκρίτως ἔχειν, καὶ ἓν δὲ μέρος ἐν τοῖς δέκα μησὶν ὁ μήν ἐστιν, ὥστε τοῦτον εὐμέριστον εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.1",
+      "text": "4. Χρὴ δὲ οὐκ ἀπιστέειν τῇσι γυναιξὶ περὶ τῶν τόκων· λέγουσι γὰρ πάντα καὶ αἰεὶ λέγουσι καὶ αἰεὶ ἐρέουσιν· οὐ γὰρ ἂν πεισθείησαν οὔτ’ ἔργῳ οὔτε λόγῳ, ἀλλ’ ὅτι γνῶναι τὸ ἐν τοῖσι σώμασιν αὐτέων γινόμενον. Τὰς δὲ βουλομένας ἄλλο λέγειν ἔξεστιν, αἱ δὲ κρίνουσαι καὶ τὰ νικητήρια διδοῦσαι περὶ τουτέου τοῦ λόγου, αἰεὶ ἐρέουσι καὶ φήσουσι τίκτειν καὶ ἑπτάμηνα καὶ ὀκτάμηνα καὶ ἐννεάμηνα καὶ δεκάμηνα, καὶ τουτέων τὰ ὀκτάμηνα οὐ περιγενέσθαι. Φήσουσι δὲ καὶ τοὺς τρωσμοὺς πλείστους ἐν τῇ πρώτῃ τεσσαρακοντάδι γίνεσθαι, καὶ τἄλλα τὰ καταγεγραμμένα ἐν τῇσι τεσσαρακοντάσι καὶ ἐν τοῖσι μησὶν ἑκάστοισιν· ὅταν δὲ τῷ ἑβδόμῳ μηνὶ περιῤῥαγέωσιν οἱ ὑμένες καὶ τὸ ἔμβρυον μεταχωρήσῃ, ὑπέλαβον οἱ πόνοι οἱ περὶ τὸν μῆνα τὸν ὄγδοον γενεαλογούμενοι καὶ περὶ τὴν ἕκτην τεσσαρακοντάδα· τουτέου δὲ τοῦ χρόνου παρελθόντος, ὅσῃσι μέλλει εὖ εἶναι, αἱ φλεγμοναὶ ἐλύθησαν καὶ τοῦ ἐμβρύου καὶ τῆς μητρὸς, ἥ τε γαστὴρ ἐμαλάχθη, καὶ ὁ ὄγκος ὑποκατέβη ἀπὸ τῶν ὑποχονδρίων καὶ τῶν κενεώνων ἐς τὰ κάτω χωρία ἐς εὐτρεπῆ τὴν ἐπὶ τοὺς τόκους τροπήν. Καὶ τὴν ἑβδόμην τεσσαρακοντάδα ἐνταῦθ’ ἐστὶ τὸ πλεῖστον τοῦ χρόνου τὰ ἔμβρυα· τὰ γὰρ χωρία αὐτέοις μαλθακὰ, καὶ αἱ μετακινήσιες αὐτέοισιν εὐπετέστεραι γίνονται καὶ πυκνότεραι· καὶ διὰ ταῦτα κατέστη πρὸς τὸν τόκον εὐλυτώτερα. Καὶ τεσσαράκοντα ταύτας αἱ γυναῖκες φέρουσι τὰς τελευταίας ἡμέρας εὐπετέστερον τὰς γαστέρας, ἔστ’ ἂν ὁρμήσῃ τὸ ἔμβρυον στρέφεσθαι· μετὰ δὲ ταῦτα αἵ τε ὠδῖνες εἰσὶ καὶ οἱ πόνοι ἐπίκεινται, ἔστ’ ἂν ἐλευθερωθῇ τοῦ τε παιδίου καὶ τοῦ ὑστέρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.1",
+      "text": "5. Ὅσαι δὲ τῶν γυναικῶν ἔτεκον πολλὰ παιδία καί τι αὐτέων ἐξεγένετο χωλὸν ἢ τυφλὸν ἢ ἄλλο τι κακὸν ἔχον, φήσουσιν ἐπὶ τουτέου τοῦ παιδίου τὸν ὄγδοον μῆνα χαλεπώτερον διαγαγεῖν ἢ ἐφ’ ὧν ἔτεκον οὐδὲν κακὸν ἐχοντων· τὸ γὰρ ἔμβρυον τὸ πηρωθὲν ἐν τῷ ὀγδόῳ μηνὶ ἰσχυρῶς ἐνόσησεν, ὥστε καὶ ἀπόστασιν ἐποίησεν ἡ νοῦσος, ὡς καὶ τοῖσιν ἀνδράσιν αἱ ἰσχυραὶ νοῦσοι ἐποίησαν. Ὅσα δ’ ἂν τῶν ἐμβρύων ἐν ἄλλῳ χρόνῳ ἰσχυρῶς νοσήσῃ, ἀπόλλυται πρόσθεν ἢ αὐτέῳ ἀπόστασιν γενέσθαι· ὅσα δ’ ἂν τῶν ὀκταμήνων ἐμβρύων μὴ σφόδρα νοσήσῃ, ἀλλὰ κατὰ φύσιν ἐκ τῆς μεθόδου κακοπαθήσῃ, τὰς μὲν τεσσράκοντα ἡμέρας διετέλεσεν ἀσθενέοντα τὸ πλεῖστον ἐν τῇ μήτρῃ διὰ τὰς ἀνάγκας τὰς προειρημένας, ἐγένετο δὲ ὑγιαίνοντα. Ὅ τι δ’ ἂν γένηται ἐν τῇσι τεσσαράκοντα ἡμέρῃσι ταύτῃσιν, ἀδύνατον περιγενέσθαι· νοσέοντι γὰρ αὐτέῳ ἔτι ἐν τῇ μήτρῃ ἐπιγίνονται αἱ μεταβολαὶ καὶ αἱ κακοπάθειαι αἱ μετὰ τὸν τόκον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.1",
+      "text": "6. Ὅ τι δ’ ἂν ἀπονοσῆσαν ἐν τῇ μήτρῃ ἐς τὸν ἔννατον μῆνα ἔλθῃ καὶ ἐν τουτέῳ τῷ μηνὶ γένηται, περιγίνεται· περιγίνεται μὲν οὐκ ἔλασσον ἢ τὰ ἑπτάμηνα, ὀλίγα δὲ καὶ τουτέων ἐκτρέφεται· οὔτι γὰρ τὴν παχύτητα ἴσχει ἥνπερ τὰ τελεώτατα ἔχουσιν, οὔτε οἱ πόνοι οἱ ἐν τῇ μήτρῃ οὐ πάλαι πεπονημένοι εἰσὶν αὐτέοισιν, ὥστε λεπτὸν γενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.1",
+      "text": "7. Σωθείη δ’ ἂν μάλιστα εἰ τοῦ ἐννάτου μηνὸς γένοιτο ἐν ἐξόδῳ· ἰσχυρότερόν τε γὰρ γένοιτο καὶ πλεῖστον ἀπέχον τῶν νούσων τῶν τοῖσιν ὀκταμήνοισι γενομένων. Καὶ γὰρ τὰ ἐν ἑπτὰ τεσσαρακοντάσι τικτόμενα, τὰ δεκάμηνα καλεόμενα, διὰ ταῦτα μάλιστα ἐκτρέφεται, ὅτι ἰσχυρότατά ἐστι καὶ πλεῖστον ἀπέχει τῶν γονίμων παιδίων τοῦ χρόνου ἐν ᾧ ἐκακοπάθησε τὰς τεσσαράκοντα ἡμέρας τὰς νοσουμένας περὶ τὸν μῆνα τὸν ὄγδοον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8.1",
+      "text": "8. Σαφηνίζει δὲ περὶ τῶν νοσημάτων καὶ παθημάτων τῶν τοῖσιν ὀκταμήνοισι γινομένων καὶ τὰ ἐννεάμηνα λεπτὰ τικτόμενα κατὰ τὸ πλῆθος τοῦ χρόνου οὗ γέγονε καὶ τὸ μέγεθος τοῦ σώματος, ἐκ νούσων κακοπαθείης ἀφιγμένης, οὐχ ὥσπερ τὰ ἑπτάμηνα τίκτεται σεσαρκωμένα καὶ τὸ πάχος ἔχοντα εὐτραφέως, ἄνοσα διατετελεκότα ὃν χρόνον ἐν τῇ μήτρῃ διεφέρετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9.1",
+      "text": "9. Τῇσι δὲ γυναιξὶν αἱ συλλήψιες τῶν ἐμβρύων καὶ οἱ τρωσμοί τε καὶ οἱ τόκοι κρίνονται ἐν οἷσί περ αἵ τε νοῦσοι καὶ αἱ ὑγίειαι καὶ οἱ θάνατοι τοῖσι σύμπασιν ἀνθρώποισιν. Ταῦτα γὰρ πάντα τὰ μὲν καθ’ ἡμέρας, τὰ δὲ κατὰ μῆνας ἐπισημαίνει, τὰ δὲ κατὰ τεσσαρακοντάδας ἡμερέων, τὰ δὲ κατ’ ἐνιαυτόν· ἐν πᾶσι γὰρ τοῖς χρόνοισι τουτέοισιν ἔνεστι πρὸς ἕκαστον πολλὰ μὲν ξυμφέροντα, πολλὰ δὲ πολέμια· ἐκ μὲν οὖν τῶν συμφερόντων αἵ τε ὑγίειαι γίνονται καὶ αἱ αὐξήσιες· ἐκ δὲ τῶν ἐναντίων αἵ τε νοῦσοι καὶ οἱ θάνατοι. Αἱ μὲν οὖν ἡμέραι ἐπιστημόταταί εἰσὶν ἐν τοῖσι πλείστοισιν αἵ τε πρῶται καὶ αἱ ἕβδομαι, πολλαὶ μὲν περὶ νούσων, πολλαὶ δὲ καὶ τοῖσιν ἐμβρύοισιν· τρωσμοί τε γὰρ γίνονται καὶ οἱ πλεῖστοι ταύτῃσι τῇσιν ἡμέρῃσιν· ὀνομάζεται δὲ τὰ τηλικαῦτα ἐκρύσιες, ἀλλ’ οὐ τρωσμοί· αἱ δὲ ἄλλαι ἡμέραι ὅσαι ἐντὸς τῶν τεσσαράκοντα, ἐπίσημοι μὲν ἧσσον, πολλαὶ δὲ κρίνουσιν. Ἐν δὲ τοῖσι μησὶ ταῦτά τε καὶ ἐν τῇσιν ἡμέρῃσι γινόμενα ἔνεστι κατὰ λόγον. Καὶ τὰ καταμήνια τῇσι γυναιξὶ τῇσιν ὑγιαινούσῃσι φαίνεται καθ’ ἕκαστον τῶν μηνῶν, ὡς ἔχοντος τοῦ μηνὸς ἰδίην δύναμιν ἐν τοῖσι σώμασιν. Ἐξ ὧν δὴ καὶ οἱ ἕβδομοι μῆνες τῇσιν ἐν γαστρὶ ἐχούσῃσι τὰ ἔμβρυα ἐς τὴν ἀρχὴν καθιστᾶσι τῆς τελειώσιος, τοἶσι δὲ παιδίοισιν ἑπταμήνοισιν ἐοῦσι καὶ ἄλλα διαφέροντα γίνονται ἐν τοῖσι σώμασι· καὶ οἱ ὀὀόντες φαίνεσθαι ἄρχονται ἐν τουτέῳ τῷ χρόνῳ. Ὁ δὲ αὐτὸς λόγος καὶ ἐπὶ κρισίμων, ἤν περ ἴσως καὶ τοῖσδέ τις συγχρέοιτο, ὁκοῖα ἔλεξα ἱστορίης τε ἕνεκα εἰρήσω· σκοπεῖν γὰρ χρὴ τὸν μέλλοντα ἰητρὸν ὀρθῶς στοχάζεσθαι τῆς τῶν καμνόντων σωτηρίης, θεωροῦντα μὲν περίττας πάσας, τῶν δὲ ἀρτίων τὴν τεσσαρεσκαιδεκάτην καὶ τὴν ὀγδόην εἰκοστὴν καὶ τεσσαρακοστὴν καὶ δευτέρην. Οὗτος γὰρ ὁ ὅρος τίθεται τῷ τῆς ἁρμονίης λόγῳ πρός τινων καὶ ὁ ἀρτιφυής τε καὶ τέλειος ἀριθμός· δι’ ἣν δὲ αἰτίην, μακρότερον ἂν εἴη ἐπὶ τοῦ παρόντος διεξελθεῖν· θεωρεῖν δὲ χρὴ οὕτως τριάσι τε καὶ τετράσι· ταῖς μὲν τριάσι συνημμέναις ἁπάσαις, ταῖς δὲ τετράσι δύο μὲν παρὰ δύο συνημμέναις, δύο δὲ παρὰ δύο συνεζευγμέναις. Αἱ δὲ τεσσαρακοντάδες πρῶτον μὲν κρίνουσιν ἐπὶ τῶν ἐμβρύων· ὅ τι δ’ ἂν ὑπερβάλλῃ τὰς τεσσαράκοντα ἡμέρας τὰς πρώτας, ἐκφεύγει τοὺς τρωσμοὺς ἐπὶ παντὸς γινομένους· πλέονες δὲ γίνονται ἐν τῇ πρώτῃ τεσσαραποντάδι τρωσμοὶ ἢ ἐν ταῖς ἄλλαις ἐούσαις. Τοῦδε τοῦ χρόνου παρελθόντος ἰσχυρότερά ἐστι τὰ ἔμβρυα, καὶ διακρίνεται καθ’ ἕκαστα τῶν μελέων τὸ σῶμα· καὶ τῶν μὲν ἀρσένων σφόδρα διάδηλα γίνεται πάντα· τὰ δὲ θήλεα, ἐς τοῦτον τὸν χρόνον σάρκες φαίνονται ἀποφύσιας μοῦνον ἔχουσαι· πλείονα γὰρ χρόνον τὰ ὅμοια ἐν τῷ ὁμοίῳ ὅμοιόν ἐστι, καὶ κρίνεται βραδύτερον, διὰ τὴν συνήθειάν τε καὶ φιλότητα· καίτοι τά γε ἄλλα, ὅταν χωρισθῶσιν τῆς μητρὸς αἱ θυγατέρες, τῶν κούρων θᾶσσον ἡβῶσι καὶ φρονέουσι καὶ γηράσκουσι διὰ τὴν ἀσθενείην τε τῶν σωμάτων καὶ τὴν δίαιταν. Ἄλλη δὴ τεσσαρακοντὰς, ἐν ᾗ περὶ τὸν ὄγδοον μῆνα τὰ ἔμβρυα ἐν τῇ μήτρῃ νοσέει, περὶ ὧν ὁ λόγος λέγεται ὧδε σύμπας. Τρίτη δὲ ἐν ᾗ τὰ παιδέα ὅταν γένηται καὶ κακοπαθήσαντα, ἢν περιφύγῃ τὰς τεσσαράκοντα ἡμέρας, ἐφάνη ἰσχύοντα δῆτα μᾶλλον καὶ φρονέοντα· καὶ γὰρ τὰς αὐγὰρ ὁρᾷ σαφέστερον, καὶ τὸν ψόφον ἀκούει πρόσθεν μὴ δυνάμενα, ὡς ἐπίδοσιν ἔχοντος τοῦ χρόνου τούτου κατὰ τὰ ἄλλα καὶ κατὰ τὴν φρόνησιν τὴν διὰ τοῦ σώματος. Τὸ μὲν γὰρ ἴδιον φρόνημα δῆλόν ἐστιν ἐνὸν ἐν τῷ σώματι ἔν γε τῇ πρώτῃ ἡμέρῃ· ἔν τε γὰρ τοῖς ὕπνοισιν ἐοῦσιν, εὐθέως ἐπὴν γένωνται, γελῶντα φαίνεται τὰ παιδία καὶ κλαίοντα· ἐγρηγορότα τε αὐτόματα εὐθέως γελᾷ τε καὶ κλαίει πρόσθεν ἢ τεσσαράκοντα ἡμέραι γενοίατο· οὐδὲ γελᾷ ψαυόμενά τε καὶ ἐρεθιζόμενα πρόσθεν ἢ αὐτὸς ὁ χρόνος οὗτος γένηται· ἀμβλύνονται γὰρ αἱ δυνάμεις ἐν ταῖς μύξῃσι. Καί γε ὁ θάνατος διὰ τὴν μοίρην έλαχεν. Ὥστε παράδειγμα τοῖς πᾶσιν εἶναι, ὅτι πάντα φύσιν ἔχει, ἐκ τῶν αὐτέων ἐόντα, μεταβολὰς ἔχειν διὰ χρόνων τῶν ἱκνουμένων. Σαφηνίζεται δὲ ἐν ἑκάστοισι ἄλλο τι τῶν γινομένων καὶ ἀπογινομένων· ἐν δὲ τῷ ἐνιαυτῷ τελουμένῳ πολλαὶ μὲν νοῦσοι γίνονται, πολλαὶ δὲ ὑγεῖαι κατὰ λόγον τοῦ χρόνου, πρὸς τοὺς μῆνάς τε καὶ τὰς ἡμέρας ἑκάστας τοῖς ἑβδόμοις· καὶ τἄλλα πολλὰ γίνεται διαφέροντα τοῖς σώμασι· τοῖσι δὲ παιδίοισιν οἱ ὁδόντες ἐκπίπτουσι καὶ ἕτεροι φύονται. Τὰ γὰρ ἐπὶ σώμασι, τάδε γράψω.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oyw-ad",
+      "title": {
+        "english": "InterpretatiActive Stones",
+        "ancient_greek": "Ἑρμηνεία περὶ ἐνεργῶν λίθων"
+      },
+      "url_slug": "pseudo-hippocrates-interpretative-stones-oyw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ae",
+      "title": {
+        "english": "Letter to King Ptolemy",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-king-ptolemy-oyw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/king-ptolemy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-aa",
+      "title": {
+        "english": "Letter to King Ptolemy-the Fabric of Man",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον περὶ κατασκευῆς"
+      },
+      "url_slug": "pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/letter-ptolemy-fabric-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ac",
+      "title": {
+        "english": "On Foods",
+        "ancient_greek": "Περὶ διαφόρων καὶ παντοίων τροφῶν"
+      },
+      "url_slug": "pseudo-hippocrates-foods-oyw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ab",
+      "title": {
+        "english": "On the Difference of Foods to Ptolemy",
+        "ancient_greek": "Περὶ διαφορᾶς τροφῶν πρὸς Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-foods-difference-oyw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods-difference",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vhc-am",
+      "title": {
+        "english": "Medical Book I",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Αʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-1-vhc-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-1.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-aa",
+      "title": {
+        "english": "On Diseases of the Kidneys and Bladder",
+        "ancient_greek": "Περὶ Νεφρῶν καὶ Κύστεως Παθῶν"
+      },
+      "url_slug": "rufus-of-ephesus-kidneys-bladder-ojc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ch",
+      "title": {
+        "english": "On Hippocrates' Epidemics I",
+        "ancient_greek": "Περὶ Ἱπποκράτους Ἐπιδημιῶν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-epidemics-qmm-ch",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bi",
+      "title": {
+        "english": "On Hippocrates'-the Nature of Man",
+        "ancient_greek": "Εἰς Ἱπποκράτους Περὶ φύσεως ἀνθρώπου"
+      },
+      "url_slug": "galen-of-pergamon-nature-of-man-qmm-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/nature-of-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/nature-of-man.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/nature-of-man.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/nature-of-man.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/nature-of-man.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ba",
+      "title": {
+        "english": "On Superfetation",
+        "ancient_greek": "Περὶ ἐπιφορήσεως"
+      },
+      "url_slug": "hippocrates-superfetation-bww-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/superfetation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/superfetation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/superfetation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/superfetation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/superfetation.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-an",
+      "title": {
+        "english": "On Weights and Measures",
+        "ancient_greek": "Περὶ Βαρῶν καὶ Μέτρων"
+      },
+      "url_slug": "anonymous-medical-writer-weights-measures-tqu-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/weights-measures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/weights-measures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/weights-measures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/weights-measures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/weights-measures.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ag",
+      "title": {
+        "english": "On the Nature of the Human Body",
+        "ancient_greek": "Περὶ Φύσεως Ἀνθρωπίνου Σώματος"
+      },
+      "url_slug": "medical-writers-anonymous-nature-body-umi-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/nature-body",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-body.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-body.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-body.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-body.json"
+      }
+    },
+    {
+      "eul_wid": "qao-ac",
+      "title": {
+        "english": "Treatment of Chronic Diseases",
+        "ancient_greek": "Χρονίων νούσων θεραπευτικών"
+      },
+      "url_slug": "aretaeus-the-cappadocian-chronic-diseases-ac-qao-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

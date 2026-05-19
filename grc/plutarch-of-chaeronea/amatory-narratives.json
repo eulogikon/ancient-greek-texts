@@ -1,0 +1,551 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "okg-ct",
+  "eul_aid": "okg",
+  "author_slug": "plutarch-of-chaeronea",
+  "work_slug": "amatory-narratives",
+  "url_slug": "plutarch-of-chaeronea-amatory-narratives-okg-ct",
+  "author": {
+    "english": "Plutarch of Chaeronea",
+    "ancient_greek": "Πλούταρχος ὁ Χαιρωνεύς"
+  },
+  "title": {
+    "english": "Amatory Narratives",
+    "ancient_greek": "Ἐρωτικαὶ διγηήσεις"
+  },
+  "seo": {
+    "browser_title": "Amatory Narratives by Plutarch of Chaeronea on Eulogikon",
+    "meta_title": "The Plutarch's Amatory Narratives in Ancient Greek",
+    "meta_description": "Plutarch's amatory narratives explore romantic desire and courtship through prose tales drawn from classical Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Amatory Narratives</strong>, also known as the <strong>Erotikos</strong> or <strong>Amatorius</strong>, is a prose dialogue by Plutarch of Chaeronea. Framed as a conversation recounted from a festival of Eros in Thespiae, the work presents a series of interlocutors engaged in a philosophical debate on the nature of love. The dialogue culminates in a significant speech that argues for the philosophical and ethical superiority of married, heterosexual love over the traditional pederastic model celebrated in earlier Greek literature. This complete work has been preserved within the corpus of Plutarch&#x27;s <strong>Moralia</strong>.</p>\n<p class=\"research-text\">Central to the dialogue is an examination of Eros, debating whether this force should be understood as a god or an intermediate daimon. The most distinctive and influential argument developed within the text is a direct comparison that favors conjugal love, presenting it as a more complete vehicle for virtue and philosophical growth than homosexual love. Marriage is reconceived not merely as a social institution but as a divine union that fosters mutual friendship, or <strong>philia</strong>, and facilitates the intellectual and ethical development of both partners. This ideal connects the erotic experience directly to the philosophical pursuit of the good and the beautiful. The text has been transmitted through the medieval manuscript tradition of the <strong>Moralia</strong> and appears to be preserved in its entirety without major lacunae.</p>\n<p class=\"research-text\">The work represents a pivotal shift in the philosophical ideals of love, consciously redirecting elements of the Platonic and sympotic traditions toward a new model that elevates heterosexual marriage as a comprehensive spiritual and intellectual partnership. It provides critical insight into evolving gender relations and philosophical thought during the early Imperial period and exerted a considerable influence on later philosophical and theological considerations of marriage.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "* ΕΡΩΤΙΚΑΙ ΔΙΗΓΗΣΕΙΣ Α.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "771 E",
+      "text": "Ἐν Ἁλιάρτῳ τῆς Βοιωτίας κόρη τις γίνεται κάλλει διαπρέπουσα ὄνομα Ἀριστόκλεια· θυγάτηρ δ’ ἦν Θεοφάνους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "771 F",
+      "text": "ταύτην μνῶνται Στράτων Ὀρχομένιος καὶ Καλλισθένης Ἁλιάρτιος. πλουσιώτερος δ’ ἦν Στράτων καὶ μᾶλλόν τι τῆς παρθένου ἡττημένος· ἐτύγχανε γὰρ ἰδὼν αὐτὴν ἐν Λεβαδείᾳ λουομένην ἐπὶ τῇ κρήνῃ τῇ Ἑρκύνῃ· ἔμελλε γὰρ τῷ Διὶ τῷ βασιλεῖ κανηφορεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "772 A",
+      "text": "ἀλλ’ ὁ Καλλισθένης γε πλέον ἐφέρετο· ἦν γὰρ καὶ γένει προσήκων τῇ κόρῃ. ἀπορῶν δὲ τῷ πράγματι ὁ Θεοφάνης, ἐδεδίει γὰρ τὸν Στράτωνα πλούτῳ τε καὶ γένει σχεδὸν ἁπάντων διαφέροντα τῶν Βοιωτῶν, τὴν αἵρεσιν ἐβούλετο τῷ Τροφωνίῳ ἐπιτρέψαι. καὶ ὁ Στράτων, ἀνεπέπειστο γὰρ ὑπὸ τῶν τῆς παρθένου οἰκετῶν ὡς πρὸς αὐτὸν μᾶλλον ἐκείνη ῥέποι, ἠξίου ἐπ’ αὐτῇ ποιεῖσθαι τῇ γαμουμένῃ τὴν ἐκλογήν. ὡς δὲ τῆς παιδὸς ὁ Θεοφάνης ἐπυνθάνετο ἐν ὄψει πάντων, ἡ δὲ τὸν Καλλισθένην προὔκρινεν, εὐθὺς μὲν ὁ Στράτων δῆλος ἦν βαρέως φέρων τὴν ἀτιμίαν· ἡμέρας δὲ διαλιπὼν δύο προσῆλθε τῷ Θεοφάνει καὶ τῷ Καλλισθένει, ἀξιῶν τὴν φιλίαν αὐτῷ πρὸς αὐτοὺς διαφυλάττεσθαι, εἰ καὶ τοῦ γάμου ἐφθονήθη ὑπὸ δαιμονίου τινός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "772 B",
+      "text": "οἱ δ’ ἐπῄνουν τὰ λεγόμενα, ὥστε καὶ ἐπὶ τὴν ἑστίασιν τῶν γάμων παρεκάλουν αὐτόν. ὁ δὲ παρεσκευασμένος ἑταίρων ὄχλον καὶ πλῆθος οὐκ ὀλίγον θεραπόντων, διεσπαρμένους παρὰ τούτοις καὶ λανθάνοντας, ἕως ἡ κόρη κατὰ τὰ πάτρια ἐπὶ τὴν Κισσόεσσαν καλουμένην κρήνην κατῄει ταῖς Νύμφαις τὰ προτέλεια θύσουσα, τότε δὴ συνδραμόντες πάντες οἱ λοχῶντες ἐκείνῳ συνελάμβανον αὐτήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "772 C",
+      "text": "καὶ ὁ Στράτων γ’ εἴχετο τῆς παρθένου· ἀντελαμβάνετο δ’ ὡς εἰκὸς ὁ Καλλισθένης ἐν μέρει καὶ οἱ σὺν αὐτῷ, ἕως ἔλαθεν ἡ παῖς ἐν χερσὶ τῶν ἀνθελκόντων διαφθαρεῖσα. ὁ Καλλισθένης μὲν οὖν παραχρῆμα ἀφανὴς ἐγένετο, εἴτε διαχρησάμενος ἑαυτὸν εἴτε φυγὰς ἀπελθὼν ἐκ τῆς Βοιωτίας· οὐκ εἶχε δ’ οὖν τις εἰπεῖν ὅ τι καὶ πεπόνθοι. ὁ δὲ Στράτων φανερῶς ἐπικατέσφαξεν ἑαυτὸν τῇ παρθένῳ. Β. Φείδων τις τῶν Πελοποννησίων ἐπιτιθέμενος ἀρχῇ, τὴν Ἀργείων πόλιν, τὴν πατρίδα τὴν ἑαυτοῦ, ἡγεμονεύειν τῶν λοιπῶν βουλόμενος, πρῶτον ἐπεβούλευσε Κορινθίοις· πέμψας γὰρ ᾔτει παρ’ αὐτῶν νεανίας χιλίους τοὺς ἀκμῇ διαφέροντας καὶ ἀνδρείᾳ· οἱ δὲ πέμπουσι τοὺς χιλίους, στρατηγὸν αὐτῶν ἀποδείξαντες Δέξανδρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "772 D",
+      "text": "ἐν νῷ δ’ ἔχων ὁ Φείδων ἐπιθέσθαι τούτοις, ἵν’ ἔχοι Κόρινθον ἀτονωτέραν καὶ τῇ πόλει χρήσαιτο, προτείχισμα γὰρ τοῦτο ἐπικαιρότατον ἔσεσθαι τῆς ὅλης Πελοποννήσου, τὴν πρᾶξιν ἀνέθετο τῶν ἑταίρων τισίν. ἦν δὲ καὶ Ἅβρων ἐν αὐτοῖς· οὗτος δὲ ξένος ὢν τοῦ Δεξάνδρου ἔφρασεν αὐτῷ τὴν ἐπιβουλήν. καὶ οὕτως οἱ μὲν Φλιάσιοι πρὸ τῆς ἐπιθέσεως εἰς τὴν Κόρινθον ἐσώθησαν, Φείδων δ’ ἀνευρεῖν ἐπειρᾶτο τὸν προδόντα καὶ ἐπιμελῶς ἐζήτει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "772 E",
+      "text": "δείσας δ’ ὁ Ἅβρων φεύγει εἰς Κόρινθον, ἀναλαβὼν τὴν γυναῖκα καὶ τοὺς οἰκέτας, ** ἐν Μελίσσῳ, κώμῃ τινὶ τῆς Κορινθίων χώρας· ἔνθα καὶ παῖδα γεννήσας Μέλισσον προσηγόρευσεν, ἀπὸ τοῦ τόπου θέμενος τοὔνομα αὐτῷ. τούτου δὴ τοῦ Μελίσσου υἱὸς Ἀκταίων γίνεται, κάλλιστος καὶ σωφρονέστατος τῶν ὁμηλίκων, οὗ πλεῖστοι μὲν ἐγένοντο ἐρασταί, διαφερόντως δ’ Ἀρχίας, γένους μὲν ὢν τοῦ τῶν Ἡρακλειδῶν, πλούτῳ δὲ καὶ τῇ ἄλλῃ δυνάμει λαμπρότατος Κορινθίων. ἐπεὶ δὲ πείθειν οὐκ ἠδύνατο τὸν παῖδα, ἔγνω βιάσασθαι καὶ συναρπάσαι τὸ μειράκιον· ἐπεκώμασεν 〈οὖν〉 ἐπὶ τὴν οἰκίαν τοῦ Μελίσσου, πλῆθος ἐπαγόμενος καὶ φίλων καὶ οἰκετῶν, καὶ ἀπάγειν τὸν παῖδα ἐπειρᾶτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "772 F",
+      "text": "ἀντιποιουμένου δὲ τοῦ πατρὸς καὶ τῶν φίλων, ἐπεκδραμόντων δὲ καὶ τῶν γειτόνων καὶ ἀνθελκόντων, ἀνθελκόμενος ὁ Ἀκταίων διεφθάρη· καὶ οἱ μὲν οὕτως ἀπεχώρουν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "773 A",
+      "text": "Μέλισσος δὲ τὸν νεκρὸν τοῦ παιδὸς εἰς τὴν ἀγορὰν τῶν Κορινθίων παρακομίσας ἐπεδείκνυε, δίκην ἀπαιτῶν παρὰ τῶν ταῦτα πραξάντων· οἱ δὲ πλέον οὐδὲν ἢ τὸν ἄνδρα ἠλέουν. ἄπρακτος δ’ ἀναχωρήσας παρεφύλασσε τὴν πανήγυριν τῶν Ἰσθμίων, ἀναβάς τ’ ἐπὶ τὸν τοῦ Ποσειδῶνος νεὼν κατεβόα τῶν Βακχιαδῶν καὶ τὴν τοῦ πατρὸς Ἅβρωνος εὐεργεσίαν ὑπεμίμνησκε, τούς τε θεοὺς ἐπικαλεσάμενος ῥίπτει ἑαυτὸν κατὰ τῶν πετρῶν. μετ’ οὐ πολὺ δ’ αὐχμὸς καὶ λοιμὸς κατελάμβανε τὴν πόλιν· καὶ τῶν Κορινθίων περὶ ἀπαλλαγῆς χρωμένων, ὁ θεὸς ἀνεῖλε μῆνιν εἶναι Ποσειδῶνος οὐκ ἀνήσοντος, ἕως ἂν τὸν Ἀκταίωνος θάνατον μετέλθοιεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "773 B",
+      "text": "ταῦτα πυθόμενος Ἀρχίας, αὐτὸς γὰρ θεωρὸς ἦν, εἰς μὲν τὴν Κόρινθον ἑκὼν οὐκ ἐπανῆλθε, πλεύσας δ’ εἰς τὴν Σικελίαν Συρακούσας ἔκτισε. πατὴρ δὲ γενόμενος ἐνταῦθα θυγατέρων δυεῖν, Ὀρτυγίας τε καὶ Συρακούσης, ὑπὸ τοῦ Τηλέφου δολοφονεῖται, ὃς ἐγεγόνει μὲν αὐτοῦ παιδικά, νεὼς δ’ ἀφηγούμενος συνέπλευσεν εἰς Σικελίαν. Γ. Ἀνὴρ πένης Σκέδασος τοὔνομα κατῴκει Λεῦκτρα· ἔστι δὲ κώμιον τῆς τῶν Θεσπιέων χώρας. τούτῳ θυγατέρες γίνονται δύο· ἐκαλοῦντο δ’ Ἱππὼ καὶ Μιλητία, ἤ, ὥς τινες, Θεανὼ καὶ Εὐξίππη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "773 C",
+      "text": "ἦν δὲ χρηστὸς ὁ Σκέδασος καὶ τοῖς ξένοις ἐπιτήδειος, καίπερ οὐ πολλὰ κεκτημένος. ἀφικομένους οὖν πρὸς αὐτὸν δύο Σπαρτιάτας νεανίας ὑπεδέξατο προθύμως· οἱ δὲ τῶν παρθένων ἡττώμενοι διεκωλύοντο πρὸς τὴν τόλμαν ὑπὸ τῆς τοῦ Σκεδάσου χρηστότητος. τῇ δ’ ὑστεραίᾳ Πυθώδε ἀπῄεσαν· αὕτη γὰρ αὐτοῖς προὔκειτο ἡ ὁδός· καὶ τῷ θεῷ χρησάμενοι περὶ ὧν ἐδέοντο, πάλιν ἐπανῄεσαν οἴκαδε, καὶ χωροῦντες διὰ τῆς Βοιωτίας ἐπέστησαν πάλιν τῇ τοῦ Σκεδάσου οἰκίᾳ. ὁ δ’ ἐτύγχανεν οὐκ ἐπιδημῶν τοῖς Λεύκτροις, ἀλλ’ αἱ θυγατέρες αὐτοῦ ὑπὸ τῆς συνήθους ἀγωγῆς τοὺς ξένους ὑπεδέξαντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "773 D",
+      "text": "οἱ δὲ καταλαβόντες ἐρήμους τὰς κόρας βιάζονται· ὁρῶντες δ’ αὐτὰς καθ’ ὑπερβολὴν τῇ ὕβρει χαλεπαινούσας ἀπέκτειναν, καὶ ἐμβαλόντες ἔς τι φρέαρ ἀπηλλάγησαν. ἐπανελθὼν δ’ ὁ Σκέδασος τὰς μὲν κόρας οὐχ ἑώρα, πάντα δὲ τὰ καταλειφθέντα εὑρίσκει σῷα καὶ τῷ πράγματι ἠπόρει, ἕως τῆς κυνὸς κνυζωμένης καὶ πολλάκις μὲν προστρεχούσης πρὸς αὐτὸν ἀπὸ δ’ αὐτοῦ εἰς τὸ φρέαρ ἐπανιούσης, εἴκασεν ὅπερ ἦν, καὶ τῶν θυγατέρων τὰ νεκρὰ οὕτως ἀνιμήσατο. πυθόμενος δὲ παρὰ τῶν γειτόνων, ὅτι ἴδοιεν τῇ χθὲς ἡμέρᾳ τοὺς καὶ πρῴην καταχθέντας ἐπ’ αὐτοὺς Λακεδαιμονίους εἰσιόντας, συνεβάλετο τὴν πρᾶξιν ἐκείνων, ὅτι καὶ πρῴην συνεχῶς ἐπῄνουν τὰς κόρας, μακαρίζοντες τοὺς γαμήσοντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "773 E",
+      "text": "ἀπῄει εἰς Λακεδαίμονα, τοῖς ἐφόροις ἐντευξόμενος· γενόμενος δ’ ἐν τῇ Ἀργολικῇ, νυκτὸς καταλαμβανούσης, εἰς πανδοκεῖόν τι κατήχθη· κατὰ τὸ αὐτὸ δὲ καὶ πρεσβύτης τις ἕτερος τὸ γένος ἐξ Ὠρεοῦ πόλεως τῆς Ἑστιαιάτιδος· οὗ στενάξαντος καὶ 〈κατὰ〉 Λακεδαιμονίων ἀρὰς ποιουμένου ἀκούσας ὁ Σκέδασος ἐπυνθάνετο τί κακὸν ὑπὸ Λακεδαιμονίων πεπονθὼς εἴη. ὁ δὲ διηγεῖτο, ὡς ὑπήκοος μέν ἐστι τῆς Σπάρτης, πεμφθεὶς δ’ εἰς Ὠρεὸν Ἀριστόδημος ἁρμοστὴς παρὰ Λακεδαιμονίων ὠμότητα καὶ παρανομίαν ἐπιδείξαιτο πολλήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "773 F",
+      "text": "‘ἐρασθεὶς γάρ‘ ἔφη ‘τοῦ ἐμοῦ παιδός, ἐπειδὴ πείθειν ἀδύνατος ἦν, ἐπεχείρει βιάσασθαι καὶ ἀπάγειν αὐτὸν τῆς παλαίστρας· κωλύοντος δὲ τοῦ παιδοτρίβου καὶ νεανίσκων πολλῶν ἐκβοηθούντων, παραχρῆμα ὁ Ἀριστόδημος ἀπεχώρησε· τῇ δ’ ὑστεραίᾳ πληρώσας τριήρη συνήρπασε τὸ μειράκιον, καὶ ἐξ Ὠρεοῦ διαπλεύσας εἰς τὴν περαίαν ἐπεχείρει ὑβρίσαι, οὐ συγχωροῦντα δ’ αὐτὸν ἀπέσφαξεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "774 A",
+      "text": "ἐπανελθὼν δ’ εἰς τὴν Ὠρεὸν εὐωχεῖτο. ἐγὼ δ’‘ ἔφη ‘τὸ πραχθὲν πυθόμενος καὶ τὸ σῶμα κηδεύσας παρεγενόμην εἰς τὴν Σπάρτην καὶ τοῖς ἐφόροις ἐνετύγχανον· οἱ δὲ λόγον οὐκ ἐποιοῦντο.‘ Σκέδασος δὲ ταῦτα ἀκούων ἀθύμως διέκειτο, ὑπολαμβάνων ὅτι οὐδ’ αὐτοῦ λόγον τινὰ ποιήσονται οἱ Σπαρτιᾶται· ἐν μέρει τε τὴν οἰκείαν διηγήσατο συμφορὰν τῷ ξένῳ· ὁ δὲ παρεκάλει αὐτὸν μηδ’ ἐντυχεῖν τοῖς ἐφόροις, ἀλλ’ ὑποστρέψαντα εἰς τὴν Βοιωτίαν κτίσαι τῶν θυγατέρων τὸν τάφον. οὐκ ἐπείθετο δ’ ὅμως ὁ Σκέδασος, ἀλλ’ εἰς τὴν Σπάρτην ἀφικόμενος τοῖς ἐφόροις ἐντυγχάνει· ὧν μηδὲν προσεχόντων, ἐπὶ τοὺς βασιλέας ἵεται καὶ ἀπὸ τούτων ἑκάστῳ τῶν δημοτῶν προσιὼν ὠδύρετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "774 B",
+      "text": "μηδὲν δὲ πλέον ἀνύων ἔθει διὰ μέσης τῆς πόλεως ἀνατείνων πρὸς ἥλιον τὼ χεῖρε, αὖθις δὲ τὴν γῆν τύπτων ἀνεκαλεῖτο τὰς Ἐρινύας, καὶ τέλος αὑτὸν τοῦ ζῆν μετέστησεν. ὑστέρῳ γε μὴν χρόνῳ δίκας ἔδοσαν οἱ Λακεδαιμόνιοι· ἐπειδὴ γὰρ τῶν Ἑλλήνων ἁπάντων ἦρχον καὶ τὰς πόλεις φρουραῖς κατειλήφεσαν, Ἐπαμεινώνδας ὁ Θηβαῖος πρῶτον μὲν τὴν παρ’ αὑτῷ φρουρὰν ἀπέσφαξε· Λακεδαιμονίων δ’ ἐπὶ τούτῳ πόλεμον ἐξενεγκάντων, ἀπήντων οἱ Θηβαῖοι ἐπὶ τὰ Λεῦκτρα, αἰσιούμενοι τὸ χωρίον, ὅτι καὶ πρότερον ἐνταῦθα ἠλευθερώθησαν, ὅτε Ἀμφιτρύων ὑπὸ Σθενέλου φυγὰς ἐλαθεὶς εἰς τὴν Θηβαίων ἀφίκετο πόλιν καὶ Χαλκιδεῦσιν ὑποφόρους λαβὼν ἔπαυσε τὸν δασμόν, Χαλκώδοντα τὸν βασιλέα τῶν Εὐβοέων ἀποκτείνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "774 C",
+      "text": "συνέβη δὲ Λακεδαιμονίων ἧτταν παντελῆ γενέσθαι περὶ αὐτὸ τὸ μνῆμα τῶν Σκεδάσου θυγατέρων. φασὶ δὲ πρὸ τῆς μάχης Πελοπίδᾳ, ἑνὶ τῶν στρατηγῶν τοῦ Θηβαϊκοῦ στρατεύματος, ἐπὶ σημείοις τισὶν οὐ καλοῖς κρινομένοις θορυβουμένῳ Σκέδασον ἐπιστῆναι κατὰ τοὺς ὕπνους, θαρρεῖν κελεύοντα· παραγίνεσθαι γὰρ εἰς Λεῦκτρα Λακεδαιμονίους αὐτῷ τε καὶ ταῖς θυγατράσι δώσοντας δίκας· πρὸ μιᾶς δ’ ἡμέρας ἢ συμβαλεῖν τοῖς Λακεδαιμονίοις πῶλον ἐκέλευεν ἵππου λευκὸν ἕτοιμον παρὰ τῷ τάφῳ τῶν παρθένων σφαγιάσασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "774 D",
+      "text": "τὸν δὲ Πελοπίδαν, ἔτι τῶν Λακεδαιμονίων στρατευομένων ἐν Τεγέᾳ, εἰς Λεῦκτρα πέμψαι τοὺς ἐξετάσοντας περὶ τοῦ τάφου τούτου, καὶ πυθόμενον παρὰ τῶν ἐγχωρίων θαρροῦντα τὴν στρατιὰν ἐξαγαγεῖν καὶ νικῆσαι. Δ. Φῶκος Βοιώτιος μὲν ἦν τῷ γένει, ἦν γὰρ ἐκ Γλίσαντος, πατὴρ δὲ Καλλιρρόης κάλλει τε καὶ σωφροσύνῃ διαφερούσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "774 E",
+      "text": "ταύτην ἐμνηστεύοντο νεανίαι τριάκοντα εὐδοκιμώτατοι ἐν Βοιωτίᾳ· ὁ δὲ Φῶκος ἄλλας ἐξ ἄλλων ἀναβολὰς τῶν γάμων ἐποιεῖτο, φοβούμενος μὴ βιασθείη, τέλος δὲ λιπαρούντων ἐκείνων, ἠξίου ἐπὶ τῷ Πυθίῳ ποιήσασθαι τὴν αἵρεσιν. οἱ δὲ πρὸς τὸν λόγον ἐχαλέπηναν καὶ ὁρμήσαντες ἀπέκτειναν τὸν Φῶκον· ἐν δὲ τῷ θορύβῳ ἡ κόρη φυγοῦσα ἵετο διὰ τῆς χώρας· ἐδίωκον δ’ αὐτὴν οἱ νεανίαι. ἡ δ’ ἐντυχοῦσα γεωργοῖς ἅλω συντιθεῖσι σωτηρίας ἔτυχε παρ’ αὐτῶν· ἀπέκρυψαν γὰρ αὐτὴν οἱ γεωργοὶ ἐν τῷ σίτῳ. καὶ οὕτω παρῇξαν μὲν οἱ διώκοντες· ἡ δὲ διασωθεῖσα ἐφύλαξε τὴν τῶν Παμβοιωτίων ἑορτήν, καὶ τότε εἰς Κορώνειαν ἐλθοῦσα ἱκέτις καθέζεται ἐπὶ τῷ βωμῷ τῆς Ἰτωνίας Ἀθηνᾶς καὶ τῶν μνηστήρων τὴν παρανομίαν διηγεῖτο, τό τε ἑκάστου ὄνομα καὶ τὴν πατρίδα σημαίνουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "774 F",
+      "text": "ἠλέουν οὖν οἱ Βοιωτοὶ τὴν παῖδα καὶ τοῖς νεανίαις ἠγανάκτουν· οἱ δὲ ταῦτα πυθόμενοι εἰς Ὀρχομενὸν καταφεύγουσιν. οὐ δεξαμένων δ’ αὐτοὺς τῶν Ὀρχομενίων πρὸς Ἱπ πότας εἰσώρμησαν· κώμη δ’ ἦν παρὰ τῷ Ἑλικῶνι κειμένη μεταξὺ Θίσβης καὶ Κορωνείας· οἱ δ’ ὑποδέχονται αὐτούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "775 A",
+      "text": "εἶτα πέμπουσι Θηβαῖοι ἐξαιτοῦντες τοὺς Φώκου φονεῖς· τῶν δ’ οὐ διδόντων, ἐστράτευσαν μὲν μετὰ τῶν ἄλλων Βοιωτῶν, στρατηγοῦντος Φοίδου, ὃς τότε τὴν ἀρχὴν τῶν Θηβαίων διεῖπε· πολιορκήσαντες δὲ τὴν κώμην ὀχυρὰν οὖσαν, δίψει δὲ τῶν ἔνδον κρατηθέντων, τοὺς μὲν φονεῖς ληφθέντας κατέλευσαν, τοὺς δ’ ἐν τῇ κώμῃ ἐξηνδραποδίσαντο· κατασκάψαντες δὲ τὰ τείχη καὶ τὰς οἰκίας διένειμαν τὴν χώραν Θισβεῦσι τε καὶ Κορωνεῦσι. φασὶ δὲ νυκτός, πρὸ τῆς ἁλώσεως τῶν Ἱπποτῶν, φωνὴν ἐκ τοῦ Ἑλικῶνος πολλάκις ἀκουσθῆναι λέγοντός τινος ‘πάρειμι‘· τοὺς δὲ μνηστῆρας τοὺς τριάκοντα τόδε τὸ φώνημα γνωρίζειν, ὅτι Φώκου εἴη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "775 B",
+      "text": "ᾗ δ’ ἡμέρᾳ κατελεύσθησαν, τὸ ἐν Γλίσαντι μνῆμα τοῦ γέροντος κρόκῳ φασὶ ῥεῦσαι· Φοίδῳ δὲ τῷ Θηβαίων ἄρχοντι καὶ στρατηγῷ ἐκ τῆς μάχης ἐπανιόντι ἀγγελθῆναι θυγατέρα γεγενημένην, 〈ἣν〉 αἰσιούμενον προσαγορεῦσαι Νικοστράτην. Ε. Ἄλκιππος τὸ μὲν γένος Λακεδαιμόνιος ἦν· γήμας δὲ Δαμοκρίταν πατὴρ θυγατέρων γίνεται δύο· συμβουλεύων τε τῇ πόλει κράτιστα [τε] καὶ πράττων ὅτου δέοιντο Λακεδαιμόνιοι, ἐφθονήθη ὑπὸ τῶν ἀντιπολιτευομένων, οἳ τοὺς ἐφόρους ψευδέσι λόγοις παραγαγόντες, ὡς τοῦ Ἀλκίππου βουλομένου τοὺς νόμους καταλῦσαι, φυγῇ περιέβαλον τὸν ἄνδρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "775 C",
+      "text": "καὶ ὁ μὲν ὑπεξῆλθε τῆς Σπάρτης, Δαμοκρίταν δὲ τὴν γυναῖκα μετὰ τῶν θυγατέρων βουλομένην ἕπεσθαι τἀνδρὶ ἐκώλυον, ἀλλὰ καὶ τὴν οὐσίαν αὐτοῦ ἐδήμευσαν, ἵνα μὴ εὐπορῶσι προικὸς αἱ παρθένοι. ἐπεὶ δὲ καὶ ὣς ἐμνηστεύοντό τινες τὰς παῖδας διὰ τὴν τοῦ πατρὸς ἀρετήν, ἐκώλυσαν οἱ ἐχθροὶ διὰ ψηφίσματος μνηστεύεσθαί τινας τὰς κόρας, λέγοντες ὡς ἡ μήτηρ αὐτῶν Δαμοκρίτα πολλάκις εὔξατο τὰς θυγατέρας ταχέως γεννῆσαι παῖδας τιμωροὺς τῷ πατρὶ γενησομένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "775 D",
+      "text": "πανταχόθεν δ’ ἡ Δαμοκρίτα περιελαυνομένη ἐτήρησέ τινα πάνδημον ἑορτήν, ἐν ᾗ γυναῖκες ἅμα παρθένοις καὶ οἰκείοις καὶ νηπίοις ἑώρταζον, αἱ δὲ τῶν ἐν τέλει καθ’ ἑαυτὰς ἐν ἀνδρῶνι μεγάλῳ διεπαννύχιζον· ξίφος τε ὑποζωσαμένη καὶ τὰς κόρας λαβοῦσα νυκτὸς ἦλθεν εἰς τὸ ἱερὸν καιρὸν παραφυλάξασα, ἐν ᾧ πᾶσαι τὸ μυστήριον ἐπετέλουν ἐν τῷ ἀνδρῶνι· καὶ κεκλεισμένων τῶν εἰσόδων, ξύλα ταῖς θύραις πολλὰ προσνήσασα (ταῦτα δ’ ἦν εἰς τὴν τῆς ἑορτῆς θυσίαν ὑπ’ ἐκείνων παρεσκευασμένα), πῦρ ἐνῆκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "775 E",
+      "text": "συνθεόντων δὲ τῶν ἀνδρῶν ἐπὶ τὴν βοήθειαν, ἡ Δαμοκρίτα τὰς θυγατέρας ἀπέσφαξε καὶ ἐπ’ ἐκείναις ἑαυτήν. οὐκ ἔχοντες δ’ οἱ Λακεδαιμόνιοι, ὅπη τὸν θυμὸν ἀπερείσονται, ἐκτὸς ὅρων ἔρριψαν τῆς τε Δαμοκρίτας καὶ τῶν θυγατέρων τὰ σώματα. ἐφ’ ᾧ μηνίσαντος τοῦ θεοῦ τὸν μέγαν ἱστοροῦσι Λακεδαιμονίοις σεισμὸν ἐπιγενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aemilius-paulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dy",
+      "title": {
+        "english": "Alcibiades",
+        "ancient_greek": "Ἀλκιβιάδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-alcibiades-okg-dy",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/antony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/kings-generals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ff",
+      "title": {
+        "english": "Aratus",
+        "ancient_greek": "Ἄρατος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aratus-okg-ff",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eg",
+      "title": {
+        "english": "Aristides",
+        "ancient_greek": "Ἀριστείδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-aristides-okg-eg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dz",
+      "title": {
+        "english": "Artaxerxes",
+        "ancient_greek": "Ἀρταξέρξης"
+      },
+      "url_slug": "plutarch-of-chaeronea-artaxerxes-okg-dz",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/artaxerxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bt",
+      "title": {
+        "english": "Books of Symposiastic Problems",
+        "ancient_greek": "Συμποσιακῶν προβλημάτων βιβλία"
+      },
+      "url_slug": "plutarch-of-chaeronea-symposiastic-problems-okg-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/symposiastic-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/symposiastic-problems.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxc-ah",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως ζῴων Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aa",
+      "title": {
+        "english": "Fragments of Parthica, According to John Lydus and Syncellus",
+        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-parthica-fragments-aa-pcs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "reo-aa",
+      "title": {
+        "english": "On Aristotle's Prior Analytics Book I. Commentary",
+        "ancient_greek": "Εἰς τὸ Πρῶτον Βιβλίον Ἀναλυτικῶν Προτέρων"
+      },
+      "url_slug": "alexander-of-aphrodisias-prior-analytics-commentary-reo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/prior-analytics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "kkk-aa",
+      "title": {
+        "english": "On the Comparison of Poverty and Wealth",
+        "ancient_greek": "Περὶ συγκρίσεως πενίας καὶ πλούτου"
+      },
+      "url_slug": "teles-of-megara-poverty-wealth-aa-kkk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/poverty-wealth-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-aa.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ad",
+      "title": {
+        "english": "On the Contemplative Life",
+        "ancient_greek": "Περὶ τοῦ Θεωρητικοῦ Βίου"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-ae",
+      "title": {
+        "english": "Precepts",
+        "ancient_greek": "Παραγγέλματα"
+      },
+      "url_slug": "seven-sages-of-greece-precepts-ayq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/precepts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/precepts.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-aa",
+      "title": {
+        "english": "Sayings, from the Collection of Demetrius Phalereus",
+        "ancient_greek": "Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως"
+      },
+      "url_slug": "seven-sages-of-greece-demetrius-phalereus-ayq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.json"
+      }
+    },
+    {
+      "eul_wid": "qhm-ab",
+      "title": {
+        "english": "Teaching of Plato's Doctrines",
+        "ancient_greek": "Διδασκαλικὸς τῶν Πλάτωνος δογμάτων"
+      },
+      "url_slug": "albinus-the-platonist-plato-doctrines-qhm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/albinus-the-platonist/plato-doctrines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-doctrines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-doctrines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-doctrines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/albinus-the-platonist/plato-doctrines.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory-narratives",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

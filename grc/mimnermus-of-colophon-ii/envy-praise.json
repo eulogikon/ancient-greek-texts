@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ami-aa",
+  "eul_aid": "ami",
+  "author_slug": "mimnermus-of-colophon-ii",
+  "work_slug": "envy-praise",
+  "url_slug": "mimnermus-of-colophon-ii-envy-praise-ami-aa",
+  "author": {
+    "english": "Mimnermus of Colophon II",
+    "ancient_greek": "Μίμνερμος ὁ Κολοφώνιος"
+  },
+  "title": {
+    "english": "On Human Envy and Praise",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Mimnermus of Colophon on Eulogikon",
+    "meta_title": "Fragments by Mimnermus of Colophon in Ancient Greek",
+    "meta_description": "Fragments of Mimnermus, elegiac poet of Archaic Greece. Themes of youth, love, and mortality. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work conventionally titled <strong>On Human Envy and Praise</strong> comprises three fragmentary passages of elegiac poetry attributed to the archaic Greek poet Mimnermus of Colophon. Preserved through quotation by the later anthologist Stobaeus, these fragments explore the brevity of human life and the primacy of pleasure, themes central to Mimnermus&#x27;s poetic oeuvre. The verses articulate a profound awareness of mortality, contrasting a long, painful existence with a short, joyful one and championing the consolations of youth, love, and Aphrodite against life&#x27;s inherent suffering. This perspective implicitly challenges traditional heroic values by emphasizing the quality of life over its mere duration, with a particular focus on the inevitable decline of old age. The poetry survives only in these fragments, transmitted almost exclusively via Stobaeus&#x27;s fifth-century CE anthology; like all of Mimnermus&#x27;s extant work, it lacks an independent manuscript tradition and is standardly collected in modern critical editions. Mimnermus was highly regarded in antiquity as a master of elegiac verse, and his melancholic, erotic tone influenced later Greek lyric poets as well as Roman elegists such as Propertius. His treatment of life&#x27;s transience, including the enduring simile comparing generations of humans to leaves, became a foundational literary trope.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]δεινοὶ γὰρ ἀνδρὶ πάντες ἐσμὲν εὐκλεεῖ ζῶντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φθονῆσαι, κατθανόντα δ’ αἰνέσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": ".. οἷα δὴ φιλοῦσιν ἰατροὶ λέγειν, τὰ φαῦλα μείζω καὶ τὰ δείν’ ὑπὲρ φόβον, πυργοῦντες αὑτούς",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "afu-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "archilochus-of-paros-epigrams-afu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/archilochus-of-paros/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "pfu-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "mesomedes-of-crete-epigrams-pfu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/mesomedes-of-crete/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "bfy-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "anacreon-of-teos-epigrams-bfy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-ae",
+      "title": {
+        "english": "Europe",
+        "ancient_greek": "Εὐρώπη"
+      },
+      "url_slug": "moschus-of-syracuse-europe-mdu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.json"
+      }
+    },
+    {
+      "eul_wid": "aeq-aa",
+      "title": {
+        "english": "Fragments of the Swallow Song",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Χελιδονίου ᾨδοῦ"
+      },
+      "url_slug": "lyric-work-anonymous-swallow-song-aeq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-work-anonymous/swallow-song",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous/swallow-song.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous/swallow-song.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous/swallow-song.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-work-anonymous/swallow-song.json"
+      }
+    },
+    {
+      "eul_wid": "upu-av",
+      "title": {
+        "english": "Hymn 29 To Hestia",
+        "ancient_greek": "Ὕμνος εἰς Ἑστίαν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hestia-av-upu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ae",
+      "title": {
+        "english": "Hymn 33 To the Dioscuri",
+        "ancient_greek": "Ὕμνος πρὸς Διοσκούρους"
+      },
+      "url_slug": "homeric-hymns-anonymous-dioscuri-ae-upu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bb",
+      "title": {
+        "english": "Hymn 4 To Hermes",
+        "ancient_greek": "Ὕμνος εἰς Ἑρμῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hermes-bb-upu-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hermes-bb",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-bb.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-bb.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-bb.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-bb.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/mimnermus-of-colophon-ii/envy-praise",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

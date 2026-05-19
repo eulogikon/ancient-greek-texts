@@ -1,0 +1,7440 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hps-at",
+  "eul_aid": "hps",
+  "author_slug": "menander-of-athens",
+  "work_slug": "samian-woman",
+  "url_slug": "menander-of-athens-samian-woman-hps-at",
+  "author": {
+    "english": "Menander of Athens",
+    "ancient_greek": "Μένανδρος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Samian Woman",
+    "ancient_greek": "Σαμία"
+  },
+  "seo": {
+    "browser_title": "The Samian Woman by Menander of Athens on Eulogikon",
+    "meta_title": "The Classical Samian Woman by Menander in Ancient Greek",
+    "meta_description": "The Samian Woman is a New Comedy play by Menander. It explores domestic complications mistaken identity. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>The Samian Woman</strong> is a comedy by the Athenian playwright Menander, composed in verse around 321–316 BCE. A defining work of the New Comedy genre, it moves away from political satire to focus on domestic and romantic entanglements within a private household. The plot hinges on a complex misunderstanding: after the young woman Plangon secretly gives birth to a child fathered by her lover Moschion, the infant is temporarily presented as the child of Moschion’s father, Demeas, and his companion Chrysis, the Samian woman of the title. This deception fuels Demeas’s jealous suspicion that his own son is the father of Chrysis’s supposed child, propelling the drama through a series of confrontations before culminating in a harmonious resolution with the truth revealed and relationships restored.</p>\n<p class=\"research-text\">The play adheres to the standard five-act structure of New Comedy, meticulously developing from exposition through complication to a final reconciliation. Modern scholarship views the work as a nuanced reflection of early Hellenistic Athenian social values, particularly anxieties surrounding family honor, citizenship, and legitimacy. The character of Chrysis, a foreign-born companion, is portrayed with notable sympathy, challenging simplistic contemporary social stereotypes. Like most of Menander’s oeuvre, the play was lost for centuries and is known today primarily through papyrus fragments discovered in the 20th century, most significantly from a 5th-century CE Egyptian codex. Although the surviving text is incomplete, it is substantial enough to allow for a reliable reconstruction of the plot and the majority of the dialogue. It remains one of Menander’s best-preserved comedies and a crucial text for understanding the conventions and social milieu of ancient Greek dramatic literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "[ΜΟΣΧΙΩΝ]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "(desunt uersus pauci)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "[]περ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "[ ].νε· τί λυπῆσαί με δεῖ [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "[......ὀδ]υνηρόν ἐστιν· ἡμάρτηκα γάρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "[......]ο τοῦτο ἐσόμενον λογίζομαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.1",
+      "text": "μᾶλλον] δὲ τοῦτ’ ἂν εὐλόγως ὑμῖν ποεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.2",
+      "text": "[......] τὸν ἐκείνου διεξελθὼν τρόπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.3",
+      "text": "οἷς μὲ]ν ἐτρύφησα τῶι τότ’ εὐθέως χρόνωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.4",
+      "text": "ὢν παι]δ̣ίον, μεμνημένος σαφῶς ἐῶ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.5",
+      "text": "εὐεργέ]τ̣ει γὰρ ταῦτά μ’ οὐ φρονοῦντά πω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.1",
+      "text": "[......]εγράφην οὐδὲν διαφέρων οὐδενός,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.2",
+      "text": "τὸ λεγόμενον δὴ τοῦτο “τῶν πολλῶν τις ὤν”,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.3",
+      "text": "[......]α μέντοι, νὴ Δί’, ἀθλιώτερος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.4",
+      "text": "[......] γάρ ἐσμεν. τῶι χορηγεῖν διέφερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10.5",
+      "text": "καὶ τῆι] φιλοτιμίαι· κύνας παρέτρεφέ μοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.1",
+      "text": "ἵππο]υς· ἐφυλάρχησα λαμπρῶς· τῶν φίλων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.2",
+      "text": "τοῖς δεομένοις τὰ μέτρι’ ἐπαρκεῖν ἐδυνάμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.3",
+      "text": "δι’ ἐκεῖνον ἦν ἄνθρωπος. ἀστείαν δ’ ὅμως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.4",
+      "text": "τούτων χάριν τιν’ ἀπεδίδουν· ἦν κόσμιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15.5",
+      "text": "μετὰ τοῦτο συνέβη—καὶ γὰρ ἅμα τὰ πράγματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.1",
+      "text": "ἡμῶν δίειμι πάντ’· ἄγω γάρ πως σχολήν—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.2",
+      "text": "Σαμίας ἑταίρας εἰς ἐπιθυμίαν τινὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.3",
+      "text": "ἐλθεῖν ἐκεῖνον, πρᾶγμ’ ἴσως ἀνθρώπινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.4",
+      "text": "ἔκρυπτε τοῦτ’, ἠισχύνετ’· ἠισθόμην ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20.5",
+      "text": "ἄκοντος αὐτοῦ διελογιζόμην θ’ ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.1",
+      "text": "ἂν μὴ γένηται τῆς ἑταίρας ἐγκρατής,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.2",
+      "text": "ὑπ’ ἀντεραστῶν μειρακίων ἐνοχλήσεται,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.3",
+      "text": "τοῦτο 〈δὲ〉 ποῆσαι δι’ ἔμ’ ἴσως αἰσχύνεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.4",
+      "text": "[...]ω λαβεῖν ταύτην τὸ μεν̣..[.]..π.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25.5",
+      "text": "[...].ο̣σ̣ε̣.[.].[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.1",
+      "text": "(desunt uersus fere xxiii)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.2",
+      "text": "[ ].φέροντ’ ἰδὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.3",
+      "text": "[ ]..τ̣ος προσετίθην πανταχοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.4",
+      "text": "[ ].ησθε πρὸς τὸν γείτονα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30.5",
+      "text": "[ ]α συνθλάσας τὸ σημεῖον σφόδρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.1",
+      "text": "[ φ]ιλανθρώπως δὲ πρὸς τὴν τοῦ πατρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.2",
+      "text": "Σαμί]α̣ν̣ διέκειθ’ ἡ τῆς κόρης μήτηρ, τά τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.3",
+      "text": "πλεῖστ’ ἦν παρ’ αὐταῖς ἥδε, καὶ πάλιν ποτὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.4",
+      "text": "αὗται παρ’ ἡμῖν. ἐξ ἀγροῦ δὴ καταδραμὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35.5",
+      "text": "ὡς ἔτυ]χ̣[έ] γ’ εἰς Ἀδώνι’ αὐτὰς κατέλαβον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.1",
+      "text": "συνηγμένας ἐνθάδε πρὸς ἡμᾶς μετά τινων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.2",
+      "text": "ἄλλω]ν γυναικῶν· τῆς δ’ ἑορτῆς παιδιὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.3",
+      "text": "πολλὴ]ν ἐχούσης οἷον εἰκός, συμπαρὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.4",
+      "text": "ἐγινόμην οἶμαι θεατής· ἀγρυπνίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40.5",
+      "text": "ὁ θόρυβος αὐτῶν ἐνεπόει γάρ μοι τινά·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.1",
+      "text": "ἐπὶ τὸ τέγος κήπους γὰρ ἀνέφερόν τινας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.2",
+      "text": "ὠρχο]ῦντ’, ἐπαννύχιζον ἐσκεδασμέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.3",
+      "text": "ὀκνῶ λέγειν τὰ λοίπ’, ἴσως δ’ αἰσχύνομαι οἷς] οὐδὲν ὄφελός ἐσθ’· ὅμως αἰσχύνομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.4",
+      "text": "ἐκύησεν ἡ παῖς· τοῦτο γὰρ φράσας λέγω καὶ τὴν πρὸ τούτου πρᾶξιν. οὐκ ἠρνησάμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.5",
+      "text": "τὴν αἰτίαν σχών, ἀλλὰ πρότερος ἐνέτυχον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.6",
+      "text": "τῆι μητρὶ τῆς κόρης, ὑπεσχόμην γαμεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.7",
+      "text": "[...]υν ἐπανέλθηι ποθ’ ὁ πατήρ, 〈ἐπ〉ώμοσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45.8",
+      "text": "τὸ παιδίον γενόμενον εἴληφ’ οὐ πάλαι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.1",
+      "text": "ἀπὸ ταὐτομάτου δὲ συμβέβηκε καὶ μάλ’ 〈εὖ·〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.2",
+      "text": "ἔτικτε]ν ἡ Χρυσίς· καλοῦμεν τοῦτο γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.3",
+      "text": "[ ]ο̣νεου πάλαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.4",
+      "text": "(desunt uersus fere xxix)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55.5",
+      "text": "[ΧΡΥΣΙΣ]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "σπουδῆι πρὸς ἡμᾶς [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60.1",
+      "text": "ἐγὼ δ’ ἀναμείνας’ ὅ τι λέγους’ ἀ̣[κροάσομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60.2",
+      "text": "Μο ἑόρακας αὐτὸς τὸν πατέρα σύ, Παρμένων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60.3",
+      "text": "ΠΑΡΜΕΝΩΝ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "οὔκουν ἀκούεις; φημί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62.1",
+      "text": "(Μο) καὶ τὸν γείτονα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62.2",
+      "text": "(Πα) πάρεισιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "(Μο) εὖ γ’ ἐπόησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63.1",
+      "text": "(Πα) ἀλλ’ ὅπως ἔσει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63.2",
+      "text": "ἀνδρεῖος εὐθύς τ’ ἐμβαλεῖς περὶ τοῦ γάμου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "λόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.1",
+      "text": "(Μο) τίνα τρόπον; δειλὸς ἤδη γίνομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.2",
+      "text": "ὡς πλησίον τὸ πρᾶγμα γέγονε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66.1",
+      "text": "(Πα) πῶς λέγεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66.2",
+      "text": "(Μο) αἰσχύνομαι τὸν πατέρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67.1",
+      "text": "(Πα) τὴν δὲ παρθένον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67.2",
+      "text": "ἣν ἠδίκηκας τήν τε ταύτης μητέρα ὅπως—τρέμεις, ἀνδρόγυνε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69",
+      "text": "Χρ τί βοᾶις, δύσμορε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.1",
+      "text": "Πα καὶ Χρυσὶς ἦν ἐνταῦθ’. ἐρωταῖς δή με σὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.2",
+      "text": "τί βοῶ· γελοῖον· βούλομ’ εἶναι τοὺς γάμους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.3",
+      "text": "ἤδη, πεπαῦσθαι τουτονὶ πρὸς ταῖς θύραις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.4",
+      "text": "κλάοντα ταύταις, μηδ’ ἐκεῖν’ ἀμνημονεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70.5",
+      "text": "ὧν ὤμοσεν· θύειν, στεφανοῦσθαι, σησαμῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75.1",
+      "text": "κόπτειν παρελθών· αὐτὸς οὐχ ἱκανὰς ἔχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75.2",
+      "text": "προφάσεις δοκῶ σοι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76.1",
+      "text": "(Μο) πάντα ποιήσω· τί δεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76.2",
+      "text": "λέγειν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77",
+      "text": "(Χρ) ἐγὼ μὲν οἴομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77.1",
+      "text": "(?Μο) τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77.2",
+      "text": "οὕτως ἐῶμεν ὡς ἔχει ταύτην τρέφειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "77.3",
+      "text": "αὐτήν τε φάσκειν τετοκέναι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "79",
+      "text": "(Χρ) τί δὴ γὰρ οὔ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "(Μο) ὁ πατὴρ χαλεπανεῖ 〈σοι〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.1",
+      "text": "(Χρ) πεπαύσεται πάλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.2",
+      "text": "ἐρᾶι γάρ, ὦ βέλτιστε, κἀκεῖνος κακῶς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.3",
+      "text": "οὐχ ἧττον ἢ σύ· τοῦτο δ’ εἰς διαλλαγὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.4",
+      "text": "ἄγει τάχιστα καὶ τὸν ὀργιλώτατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80.5",
+      "text": "πρότερον δ’ ἔγωγε πάντ’ ἂν ὑπομεῖναι δοκῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "ἢ τοῦτο τίτθην ἐν συνοικίαι τινὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "(desunt uersus fere xxiii)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "88.1",
+      "text": "[Μο] [βο]ύλομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "88.2",
+      "text": "[λά]βοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90.1",
+      "text": "[ γ]ὰ̣ρ̣ ἀθλιώτερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90.2",
+      "text": "[ ]πάντων· οὐκ ἀπάγξομαι ταχύ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90.3",
+      "text": "[ ῥ]ήτωρ μόνος γὰρ φιλόφρονος. [ ]ότερός εἰμ’ ἔν γε τοῖς νυνὶ λόγοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "90.4",
+      "text": "[ ἀ]πελθὼν εἰς ἐρημίαν τινὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95.1",
+      "text": "γυμν]άζομ’· οὐ γὰρ μέτριος ἁγών ἐστί μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "95.2",
+      "text": "[ΔΗΜΕΑΣ]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "96.1",
+      "text": "οὔκουν μεταβολῆς αἰσθάνεσθ’ ἤδη τόπου,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "96.2",
+      "text": "ὅσον διαφέρει ταῦτα τῶν ἐκεῖ κακῶν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "96.3",
+      "text": "〈ΝΙΚΗΡΑΤΟΣ〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98.1",
+      "text": "Πόντος· παχεῖς γέροντες, ἰχθῦς ἄφθονοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98.2",
+      "text": "ἀηδία τις πραγμάτων. Βυζάντιον· ἀψίνθιον, πικρὰ πάντ’. Ἄπολλον. ταῦτα δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "98.3",
+      "text": "καθαρὰ πενήτων ἀγαθά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101.1",
+      "text": "〈Δη〉 Ἀθῆναι φίλταται,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101.2",
+      "text": "πῶς ἂν γένοιθ’ ὑμῖν ὅσων ἔστ’ ἄξιαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101.3",
+      "text": "ἵν’ ὦμεν ἡμεῖς πάντα μακαριώτατοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101.4",
+      "text": "οἱ τὴν πόλιν φιλοῦντες. —εἴσω παράγετε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.1",
+      "text": "ὑμεῖς. ἀπόπληχθ’, ἕστηκας ἐμβλέπων ἐμοί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.2",
+      "text": "Νι ἐκεῖν’ ἐθαύμαζον μάλιστα, Δημέα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.3",
+      "text": "τῶν περὶ ἐκεῖνον τὸν τόπον· τὸν ἥλιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.4",
+      "text": "οὐκ ἦν ἰδεῖν ἐνίοτε παμπόλλου χρόνου·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "105.5",
+      "text": "ἀὴρ παχύς τις, ὡς ἔοικ’, ἐπεσκότει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110.1",
+      "text": "(Δη) οὔκ, ἀλλὰ σεμνὸν οὐδὲν ἐθεᾶτ’ αὐτόθι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110.2",
+      "text": "ὥστ’ αὐτὰ τἀναγκαῖ’ ἐπέλαμπε τοῖς ἐκεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110.3",
+      "text": "(Νι) νὴ τὸν Διόνυσον, εὖ λέγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112.1",
+      "text": "〈Δη〉 καὶ ταῦτα μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112.2",
+      "text": "ἑτέροις μέλειν ἐῶμεν· ὑπὲρ ὧν δ’ ἐλέγομεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112.3",
+      "text": "τί δοκεῖ ποεῖν σοι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "114",
+      "text": "(Νι) τὰ περὶ τὸν γάμον λέγεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "τῶι μειρακίωι σου;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115",
+      "text": "(Δη) πάνυ γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.1",
+      "text": "〈Νι〉 ταὔτ’ ἀεὶ λέγω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.2",
+      "text": "ἀγαθῆι τύχηι πράττωμεν, ἡμέραν τινὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "115.3",
+      "text": "θέμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "117",
+      "text": "(Δη) δέδοκται ταῦτα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "117",
+      "text": "〈Νι〉 ἐμοὶ γοῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "117.1",
+      "text": "(Δη) ἀλλὰ μὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "117.2",
+      "text": "κἀμοὶ προτέρωι σου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "118.1",
+      "text": "(Νι) παρακάλει μ’ ὅταν ἐξίηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "118.2",
+      "text": "(Δη) [ ὀλ]ίγα σ̣τ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "119",
+      "text": "(desunt uersus fere xiv)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "119",
+      "text": "ΧΟΡΟΥ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120",
+      "text": "...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.1",
+      "text": "[Μο] [ ]ν̣τ̣ο̣ ε̣ἰ καὶ δι.[ ].ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.2",
+      "text": "ἐ]γὼ μελετήσας ὧν τό̣[τ’ ἐνόουν ..]..μαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.3",
+      "text": "ὡς ἐγενόμην γὰρ ἐκτ̣ὸ[ς ἄστεως μ]όνος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.4",
+      "text": "ἔθυον, ἐπὶ τὸ δεῖπνον [ἐκάλουν τοὺς φίλ]ους,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120.5",
+      "text": "ἐπὶ λούτρ’ ἔπεμπον τὰς γ[υναῖκας,] περιπατῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.1",
+      "text": "τὴν σησαμῆν διένεμον, η[......]ο̣τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.2",
+      "text": "ὑμέναιον, ἐτερέτιζον· ἦν ἀβέλτερος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.3",
+      "text": "ὡς δ’ οὖν ἐνεπλήσθην—ἀλλ’, Ἄπολλον, οὑτοσὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.4",
+      "text": "ὁ πατήρ. ἀκήκο’ ἆρα. χαῖρέ μοι, πάτερ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "125.5",
+      "text": "(Δη) νὴ καὶ σύ γ’, ὦ παῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "129",
+      "text": "(Μο) τί σκυθρωπάζεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "129",
+      "text": "(Δη) τί γάρ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130.1",
+      "text": "γαμετὴν ἑταίραν, ὡς ἔοικ’, ἐλάνθανον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "130.2",
+      "text": "ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131.1",
+      "text": "(Μο) γαμετήν; πῶς; ἀγνοῶ 〈γὰρ〉 τὸν λόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131.2",
+      "text": "(Δη) λάθ]ριό[ς τι]ς ὑ〈όσ〉, ὡς ἔοικε, γέγονέ μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131.3",
+      "text": "[...] ἐς κόρακας ἄπεισιν ἐκ τῆς οἰκίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "131.4",
+      "text": "ἤ]δη̣ λαβ̣[ο]ῦ̣σα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "134",
+      "text": "(Μο) μηδαμῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "134",
+      "text": "(Δη) πῶς μηδαμῶς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135.1",
+      "text": "ἄλλωι με θρέψειν ἔνδον ὑὸν προσδοκᾶις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135.2",
+      "text": "νόθον; [.....]ν γ’ οὐ τοῦ τρόπου τοὐμοῦ λέγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135.3",
+      "text": "(Μο) τίς δ’ ἐστὶν ἡμῶν γνήσιος, πρὸς τῶν θεῶν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135.4",
+      "text": "ἢ τίς νόθος, γενόμενος ἄνθρωπος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "138.1",
+      "text": "(Δη) σὺ μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "138.2",
+      "text": "παίζεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "139",
+      "text": "(Μο) μὰ τὸν Διόνυσον, 〈ἀλλ’〉 ἐσπούδακα·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140.1",
+      "text": "οὐθὲν γένος γένους γὰρ οἶμαι διαφέρειν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140.2",
+      "text": "ἀλλ’ εἰ δικαίως ἐξετάσαι τις, γνήσιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "140.3",
+      "text": "ὁ χρηστός ἐστιν, ὁ δὲ πονηρὸς καὶ νόθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142a",
+      "text": "καὶ δοῦλοσ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142b",
+      "text": "λεγων εαν[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142b",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142c",
+      "text": "ἀλλ’ ἀργύριον [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142d",
+      "text": "ἔστ’ αὐτὸ μειν[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142e",
+      "text": "εἶναι πολ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142e",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142f",
+      "text": "σὺ ταῦτα συλ̣λ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142g",
+      "text": "τοῦτον λαβ..[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142g",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142h",
+      "text": "ἄδηλον ειπ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142i",
+      "text": "πᾶσαν ἀπο[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142i",
+      "text": "‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142j",
+      "text": "πολὺ μ[ᾶλλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142k",
+      "text": "τοιοῦτον [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142l",
+      "text": "κατ̣α̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "142l",
+      "text": "(desunt uersus fere xvi)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145.1",
+      "text": "[Δη] [] ἐσπούδακας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145.2",
+      "text": "(Μο) [ ]ν γαμεῖν ἐρῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145.3",
+      "text": "[ ]ν μὴ τοὺς γάμους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "145.4",
+      "text": "[Δη] [ ].ως, παῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "148.1",
+      "text": "(Μο) βούλομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "148.2",
+      "text": "[ ]δοκεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "149.1",
+      "text": "(Δη) καλῶς ποεῖς. (Μο) [ ][Δη] ..αν διδως’ ουτοι γαμεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "149.2",
+      "text": "(Μο) πῶς ἄν, π]υθόμενος μηδὲ ἓν τοῦ πράγματος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "149.3",
+      "text": "ἐσπουδακότα μ’ αἴσθοιο συλλάβοις τέ μοι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "149.4",
+      "text": "(Δη) ἐσπουδακότα; μηδὲν πυθόμενος; καταν[οῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "149.5",
+      "text": "τὸ πρᾶγμα, Μοσχίων, ὃ λέγεις· ἤδη τρέχω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155.1",
+      "text": "πρὸς τουτονὶ καὶ τοὺς γάμους αὐτῶι φράσω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155.2",
+      "text": "ποεῖν· τὰ παρ’ ἡμῶν γὰρ παρέσται ταῦ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155.3",
+      "text": "λέγεις. περιρρανάμενος ἤδη παρα[γαγών,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "155.4",
+      "text": "σπείσας τε καὶ λιβανωτὸν ἐπιθείς—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158.1",
+      "text": "[Μο] [τὴν κόρην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "158.2",
+      "text": "μέτειμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "159",
+      "text": "(Δη) μήπω δὴ βάδιζ’, ἄχ[ρι ἂν μάθω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160.1",
+      "text": "εἰ ταῦτα συγχωρήσεθ’ ἡμῖ[ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160.2",
+      "text": "(Μο) οὐκ ἀντερεῖ σοι· παρενοχλε[ῖν δ’",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160.3",
+      "text": "ἐμὲ συμπαρόντ’ ἐστ’ ἀπρε[πές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160.4",
+      "text": "(Δη) ταὐτόματόν ἐστιν ὡς ἔοικέ που θεὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "160.5",
+      "text": "σώιζει τε πολλὰ τῶν ἀοράτων πραγμάτων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165.1",
+      "text": "ἐγὼ γὰρ οὐκ εἰδὼς ἔχον[τα τουτονὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "165.2",
+      "text": "ἐρωτικῶς, ταῦ[τ’",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166.1",
+      "text": "(desunt uersus fere xxvii)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166.2",
+      "text": "[ ] ἐκεῖνον βού[λομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166.3",
+      "text": "[ δεῦ]ρ̣’ εἰς τὸ πρόσθεν δ[’ ἔ]ρ̣χ̣ομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "166.4",
+      "text": "(Νι) [ ] ἐπὶ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "169",
+      "text": "(Δη) χαῖρε πολλὰ σύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170",
+      "text": "(Νι) [ ]ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170.1",
+      "text": "(Δη) μνημονεύεις, εἰπέ μοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "170.2",
+      "text": "[ ]ν ἐθέμεθ’ ἡμέραν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171.1",
+      "text": "(Νι) ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171.2",
+      "text": "[ ] [Δη] .υτ[.].τὴν τήμερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "171.3",
+      "text": "[ ἴ]σθ’ ἀκριβῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "173.1",
+      "text": "(Νι) ποῦ; πότε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "173.2",
+      "text": "(Δη) [ γ]ίνεσθαι ταχύ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175",
+      "text": "[τήμ]ε̣ρ̣ον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175.1",
+      "text": "(Νι) τρόπωι τίνι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175.2",
+      "text": "(Δη) [ ] [Νι]· ἀλλ’ ἐστ’ ἀδύνατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175.3",
+      "text": "(Δη) [ ἐ]μοί, σοὶ δ’ οὐδὲ ἕν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "175.4",
+      "text": "[ ]γ̣ειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178.1",
+      "text": "(?) ὦ Ἡράκλεις,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "178.2",
+      "text": "[ ]ς· οὕτω σοι φράσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180.1",
+      "text": "[ ].ν· ἀλλὰ 〈δεῖ〉 τοδὶ λ̣έγειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180.2",
+      "text": "(Νι) [ ]ν· πρὶν εἰπεῖν τοῖς φίλοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "180.3",
+      "text": "[ ] δοκεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182.1",
+      "text": "(Δη) Νικήρατε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "182.2",
+      "text": "[ ] χάρις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183.1",
+      "text": "(Νι) πῶς γνώσομαι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "183.2",
+      "text": "[ ]. τυχόντος μοι φίλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185.1",
+      "text": "[ ] τοῦτ’ ἐσπούδακας;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185.2",
+      "text": "[ ἀ]λλὰ συγχωροῦντά σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "185.3",
+      "text": "[ ἐ]στιν φιλονικεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "187.1",
+      "text": "(Δη) νοῦν [ἔχ]ε̣ις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "187.2",
+      "text": "[ ]ν συνοίσει σοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "188.1",
+      "text": "(Νι) λέγεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "188.2",
+      "text": "[ ]ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "189",
+      "text": "(Δη) Παρμένων, παῖ, Παρμένων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190.1",
+      "text": "[ στε]φάνους, ἱερεῖον, σήσαμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190.2",
+      "text": "[ ] πάντα τἀξ ἀγορᾶς ἁπλῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "190.3",
+      "text": "πριάμενος ἧ]κ̣ε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "192.1",
+      "text": "(Πα) πάντ’; ἐμοὶ 〈 〉, Δημέα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "192.2",
+      "text": "[ ]αλίπηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "193.1",
+      "text": "(Δη) καὶ ταχέως· ἤδη λέγω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "193.2",
+      "text": "ἄγε καὶ μ]άγειρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "194",
+      "text": "(Πα) καὶ μάγειρον; πριάμενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195",
+      "text": "τἆλλα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195",
+      "text": "(Δη) π]ριάμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195.1",
+      "text": "(Πα) ἀργύριον λαβὼν τρέχω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "195.2",
+      "text": "(Δη) σὺ δ’ οὐδ]έπω, Νικήρατε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "196.1",
+      "text": "(Νι) εἰσιὼν φράσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "196.2",
+      "text": "πρὸς τὴν γυναῖκα τἄνδον εὐτρεπῆ ποεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "196.3",
+      "text": "διώξομ’ εὐθὺς τοῦτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198.1",
+      "text": "(Πα) οὐκ οἶδ’ οὐδὲ ἕν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198.2",
+      "text": "πλὴν προστέτακται ταῦτα συντείνω τ’ ἐκεῖ ἤδη. Δη τὸ πεῖσαι τὴν γυναῖκα πράγματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198.3",
+      "text": "αὐτῶι παρέξει· δεῖ δὲ μὴ δοῦναι λόγον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198.4",
+      "text": "μηδὲ χρόνον ἡ[μ]ᾶ̣ς. παῖ, διατρίβεις. οὐ δραμεῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198.5",
+      "text": "[ ]ρ̣ος ἡ γυνὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "198.6",
+      "text": "[ ] ἱκετεύω· τί οὖν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "204",
+      "text": "(desunt uersus fere x, inter quos stetit",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "204",
+      "text": "[ΧΟΡΟΥ])",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "206.1",
+      "text": "[Δη] [ ]. δρόμου καλοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "206.2",
+      "text": "χειμὼν ἀπροσδόκητος ἐξαίφνης [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "206.3",
+      "text": "ἐλθών. ἐκεῖνος τοὺς ἐν εὐδίαι ποτὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "206.4",
+      "text": "θέοντας ἐξήραξε κἀνεχαίτισεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210.1",
+      "text": "τοιοῦτο γὰρ καὶ τοὐμόν ἐστι νῦν· ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210.2",
+      "text": "ὁ τοὺς γάμους ποῶν, ὁ θύων τοῖς θεοῖς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210.3",
+      "text": "ὧι πάντα κατὰ νοῦν ἀρτίως ἐγίγνετο,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210.4",
+      "text": "οὐδ’ εἰ βλέπω, μὰ τὴν Ἀθηνᾶν, οἶδ[α νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "210.5",
+      "text": "καλῶς ἔτ’· οὔκ, ἀλλ’ εἰς τὸ πρόσθεν π̣[ροάγομαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215.1",
+      "text": "πληγ]ήν τιν’ ἀνυπέρβλητον ἐ̣ξ[αίφνης λαβών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215.2",
+      "text": "ἦ̣ ’στ[ὶ] πιθανόν; σκέψασθε πότερο[ν εὖ φρονῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215.3",
+      "text": "ἢ μαίνομ’, οὐδέν τ’ εἰς ἀκρίβειαν [τότε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215.4",
+      "text": "λαβὼν ἐπάγομαι μέγ’ ἀτύχημα [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "215.5",
+      "text": "ὡς γὰρ τάχιστ’ εἰσῆλθον, ὑπερεσπουδακὼς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220.1",
+      "text": "τὰ τοῦ γάμου πράττειν, φράσας τὸ πρᾶγμ’ ἁπλῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220.2",
+      "text": "τοῖς ἔνδον ἐκέλευς’ εὐτρεπίζειν πάνθ’ ἃ δεῖ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220.3",
+      "text": "καθαρὰ ποεῖν, πέττειν, ἐνάρχεσθαι κανοῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220.4",
+      "text": "ἐγίνετ’ ἀμέλει πάνθ’ ἑτοίμως, τὸ δὲ τάχος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "220.5",
+      "text": "τῶν πραττομένων ταραχήν τιν’ αὐτοῖς ἐνεπόει,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225.1",
+      "text": "ὅπερ εἰκός. ἐπὶ κλίνης μὲν ἔρριπτ’ ἐκποδὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225.2",
+      "text": "τὸ παιδίον κεκραγός· αἳ δ’ ἐβόων ἅμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225.3",
+      "text": "“ἄλευρ’, ὕδωρ, ἔλαιον ἀπόδος, ἄνθρακας.”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225.4",
+      "text": "καὐτὸς διδοὺς τούτων τι καὶ συλλαμβάνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "225.5",
+      "text": "εἰς τὸ ταμιεῖον ἔτυχον εἰσελθών, ὅθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230.1",
+      "text": "πλείω προαιρῶν καὶ σκοπούμενος [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230.2",
+      "text": "οὐκ εὐθὺς ἐξῆλθον. καθ’ ὃν δ’ ἦν χρόνον ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230.3",
+      "text": "ἐνταῦθα, κατέβαιν’ ἀφ’ ὑπερώιου τις γυνὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230.4",
+      "text": "ἄνωθεν εἰς τοὔμπροσθε τοῦ ταμιειδίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230.5",
+      "text": "οἴκημα· τυγχάνει γὰρ ἱστεών τις ὤν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235.1",
+      "text": "ὥσθ’ ἥ τ’ ἀνάβασίς ἐστι διὰ τούτου τό τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235.2",
+      "text": "ταμιεῖον ἡμῖν. τοῦ δὲ Μοσχίωνος ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235.3",
+      "text": "τίτθη τις αὕτη, πρεσβυτέρα, γεγονυῖ’ ἐμὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235.4",
+      "text": "θεράπαιν’, ἐλευθέρα δὲ νῦν. ἰδοῦσα δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235.5",
+      "text": "τὸ παιδίον κεκραγὸς ἠμελημένον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240.1",
+      "text": "ἐμέ τ’ οὐδὲν εἰδυῖ’ ἔνδον ὄντ’, ἐν ἀσφαλεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240.2",
+      "text": "εἶναι νομίσασα τοῦ λαλεῖν, προσέρχεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240.3",
+      "text": "καὶ ταῦτα δὴ τὰ κοινὰ “φίλτατον τέκνον”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240.4",
+      "text": "εἰποῦσα καὶ “μέγ’ ἀγαθόν· ἡ μάμμη δὲ ποῦ;”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240.5",
+      "text": "ἐφίλησε, περιήνεγκεν. ὡς δ’ ἐπαύσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "245.1",
+      "text": "κλᾶον, πρὸς αὑτήν φησιν “ὦ τάλαιν’ ἐγώ, πρώην τοιοῦτον ὄντα Μοσχίων’ ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "245.2",
+      "text": "αὐτὸν ἐτιθηνούμην ἀγαπῶσα, νῦν δ’ ἐπεὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "245.3",
+      "text": "παιδίον ἐκείνου γέγονεν ἤ̣δ̣η καὶ τόδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248.1",
+      "text": "(desunt uersus ii uel iii)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248.2",
+      "text": "[]α̣ καὶ, [γεγο]νέναι.”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248.3",
+      "text": "[ ] καὶ θεραπαινιδίωι τινὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248.4",
+      "text": "ἔξωθεν εἰστρέχοντι, “λούσατ’, ὦ τάλαν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248.5",
+      "text": "τὸ παιδίον” φησίν, “τί τοῦτ’; ἐν τοῖς γάμοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "248.6",
+      "text": "τοῖς τοῦ πατρὸς τὸν μικρὸν οὐ θεραπεύετε;”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255.1",
+      "text": "εὐθὺς δ’ ἐκείνη “δύσμορ’, ἡλίκον λαλεῖς”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255.2",
+      "text": "φής’· “ἔνδον ἐστὶν αὐτός.” “οὐ δήπου γε· ποῦ;”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255.3",
+      "text": "“ἐν τῶι ταμιείωι”, καὶ παρεξήλλαξέ τι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255.4",
+      "text": "“αὐτὴ καλεῖ, τίτθη, σε” καὶ “βάδιζε καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "255.5",
+      "text": "σπεῦδ’· οὐκ ἀκήκο’ οὐδέν· εὐτυχέστατα.”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260.1",
+      "text": "εἰποῦς’ ἐκείνη δ’ “ὦ τάλαινα τῆς ἐμῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260.2",
+      "text": "λαλιᾶς”, ἀπῆιξεν ἐκποδών, οὐκ οἶδ’ ὅποι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260.3",
+      "text": "κἀγὼ προήιειν τοῦτον ὅνπερ ἐνθάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260.4",
+      "text": "τρόπον ἀρτίως ἐξῆλθον, ἡσυχῆι πάνυ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "260.5",
+      "text": "ὡς οὔτ’ ἀκούσας οὐδὲν οὔτ’ ἠισθημένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265.1",
+      "text": "αὐτὴν δ’ ἔχουσαν αὐτὸ τὴν Σαμίαν ὁρῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265.2",
+      "text": "ἔξω καθ’ αὑτὴν 〈καὶ〉 διδοῦσαν τιτθίον·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265.3",
+      "text": "ὥσθ’ ὅτι μὲν αὐτῆς ἐστι τοῦτο γνώριμον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265.4",
+      "text": "εἶναι, πατρὸς δ’ ὅτου ποτ’ ἐστίν, εἴτ’ ἐμὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "265.5",
+      "text": "εἴτ’—οὐ λέγω δ’, ἄνδρες, πρὸς ὑμᾶς τοῦτ’ ἐγώ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270.1",
+      "text": "οὐχ ὑπονοῶ, τὸ πρᾶγμα δ’ εἰς μέσον φέρω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270.2",
+      "text": "ἅ τ’ ἀκήκο’ αὐτός, οὐκ ἀγανακτῶν οὐδέπω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270.3",
+      "text": "σύνοιδα γὰρ τῶι μειρακίωι, νὴ τοὺς θεούς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270.4",
+      "text": "καὶ κοσμίωι τὸν πρότερον ὄντι χρόνον ἀεὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "270.5",
+      "text": "καὶ περὶ ἔμ’ ὡς ἔνεστιν εὐσεβεστάτωι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275.1",
+      "text": "πάλιν δ’, ἐπειδὰν τὴν λέγουσαν καταμάθω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275.2",
+      "text": "τίτθην ἐκείνου πρῶτον οὖσαν, εἶτ’ ἐμοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275.3",
+      "text": "λάθραι λέγουσαν, εἶτ’ ἀποβλέψω πάλιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275.4",
+      "text": "εἰς τὴν ἀγαπῶσαν αὐτὸ καὶ βεβιασμένην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "275.5",
+      "text": "ἐμοῦ τρέφειν ἄκοντος, ἐξέστηχ’ ὅλως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280.1",
+      "text": "ἀλλ’ εἰς καλὸν γὰρ τουτονὶ προσιόνθ’ ὁρῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280.2",
+      "text": "τὸν Παρμένοντ’ ἐκ τῆς ἀγορᾶς· ἐατέον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280.3",
+      "text": "αὐτὸν παραγαγεῖν ἐστι τούτους οὓς ἄγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280.4",
+      "text": "Πα μάγειρ’, ἐγώ, μὰ τοὺς θεούς, οὐκ οἶδα σὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "280.5",
+      "text": "ἐφ’ ὅ τι μαχαίρας περιφέρεις· ἱκανὸς γὰρ εἶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285",
+      "text": "λαλῶν κατακόψαι πάντα πράγματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285.1",
+      "text": "(ΜΑΓΕΙΡΟΣ) ἄθλιε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "285.2",
+      "text": "ἰδιῶτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286",
+      "text": "(Πα) ἐγώ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286.1",
+      "text": "(Μα) δοκεῖς γέ μοι, νὴ τοὺς θεούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286.2",
+      "text": "εἰ πυνθάνομαι πόσας τραπέζας μέλλετε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286.3",
+      "text": "ποεῖν, πόσαι γυναῖκές εἰσι, πηνίκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "286.4",
+      "text": "ἔσται τὸ δεῖπνον, εἰ δεήσει προσλαβεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "290.1",
+      "text": "τραπεζοποιόν, εἰ κέραμός ἐστ’ ἔνδοθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "290.2",
+      "text": "ὑμῖν ἱκανός, εἰ τοὐπτάνιον κατάστεγον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "290.3",
+      "text": "εἰ τἆλλ’ ὑπάρχει πάντα—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "292.1",
+      "text": "(Πα) κατακόπτεις γέ με,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "292.2",
+      "text": "εἰ λανθάνει σε, φίλτατ’, εἰς περικόμματα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "292.3",
+      "text": "οὐχ ὡς ἔτυχεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "294",
+      "text": "(Μα) οἴμωζε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "294",
+      "text": "(Πα) καὶ σύ, τοῦτό γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "295",
+      "text": "παντὸς ἕνεκ’. ἀλλὰ παράγετ’ εἴσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "295.1",
+      "text": "Δη Παρμένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "295.2",
+      "text": "(Πα) ἐμέ τις κέκληκε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "296",
+      "text": "(Δη) ναιχί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "296.1",
+      "text": "(Πα) χαῖρε, δέσποτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "296.2",
+      "text": "(Δη) τὴν σφυρίδα καταθεὶς ἧκε δεῦρο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "297.1",
+      "text": "(Πα) ἀγαθῆι τύχηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "297.2",
+      "text": "(Δη) τοῦτον γὰρ οὐδέν, ὡς ἐγὦιμαι, λανθάνοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "297.3",
+      "text": "τοιοῦτον ἂν πραττόμενον ἔργον· ἔστι γὰρ περίεργος, εἴ τις ἄλλος. ἀλλὰ τὴν θύραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "297.4",
+      "text": "προϊὼν πέπληχε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "301.1",
+      "text": "(Πα) δίδοτε, Χρυσί, πάνθ’ ὅς’ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "301.2",
+      "text": "ὁ μάγειρος αἰτῆι, τὴν δὲ γραῦν φυλάττετε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "301.3",
+      "text": "ἀπὸ τῶν κεραμίων, πρὸς θεῶν. τί δεῖ ποεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "301.4",
+      "text": "δέσποτα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "304",
+      "text": "(Δη) τί δεῖ ποεῖν 〈σε〉; δεῦρ’ ἀπὸ τῆς θύρας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305",
+      "text": "ἔτι μικρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305",
+      "text": "(Πα) ἤν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305.1",
+      "text": "(Δη) ἄκουε δή νυν, Παρμένων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305.2",
+      "text": "ἐγώ σε μαστιγοῦν, μὰ τοὺς δώδεκα θεούς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "305.3",
+      "text": "οὐ βούλομαι διὰ πολλά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "307.1",
+      "text": "(Πα) μαστιγοῦν; τί δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "307.2",
+      "text": "πεπόηκα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "308",
+      "text": "(Δη) συγκρύπτεις τι πρός μ’, ἤισθημαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "308.1",
+      "text": "[Πα] ἐγώ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "308.2",
+      "text": "μὰ τὸν Διόνυσον, μὰ τὸν Ἀπόλλω τουτονί,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "310.1",
+      "text": "μὰ τὸν Δία τὸν Σωτῆρα, μὰ τὸν Ἀσκληπιόν—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "310.2",
+      "text": "(Δη) παῦ· μηδὲν ὄμνυ’· οὐ γὰρ εἰκάζων λέγω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "310.3",
+      "text": "(Πα) ἢ μήποτ’ ἆρα—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "312",
+      "text": "(Δη) οὗτος, βλέπε δεῦρο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "312.1",
+      "text": "(Πα) ἰδού, βλέπω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "312.2",
+      "text": "(Δη) τὸ παιδίον τίνος ἐστίν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "313",
+      "text": "(Πα) ἥν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "313.1",
+      "text": "(Δη) τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "313.2",
+      "text": "τίνος ἐστ’ ἐρωτῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "314",
+      "text": "(Πα) Χρυσίδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "314",
+      "text": "(Δη) πατρὸς δὲ τοῦ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315",
+      "text": "(Πα) σόν, φ̣[ησιν].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315",
+      "text": "[Δη] ἀπόλωλας· φενακίζεις με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315.1",
+      "text": "(Πα) ἐγώ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315.2",
+      "text": "(Δη) εἰδότα γ’ ἀκριβῶς πάντα καὶ πεπυσμένον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315.3",
+      "text": "ὅτι Μοσχίωνός ἐστιν, ὅτι σύνοισθα σύ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315.4",
+      "text": "ὅτι δι’ ἐκεῖνον αὐτὸ νῦν αὕτη τρέφει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "315.5",
+      "text": "(Πα) τίς φησι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "319",
+      "text": "(Δη) πάντες. ἀλλ’ ἀπόκριναι τοῦτό μοι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "320",
+      "text": "ταῦτ’ ἐστίν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "320.1",
+      "text": "(Πα) ἔστι, δέσποτ’, ἀλλὰ λανθάνειν—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "320.2",
+      "text": "(Δη) τί “λανθάνειν”; ἱμάντα παίδων τις δότω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "320.3",
+      "text": "ἐπὶ τουτονί μοι τὸν ἀσεβῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "322.1",
+      "text": "(Πα) μή, πρὸς θεῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "322.2",
+      "text": "(Δη) στίξω σε, νὴ τὸν Ἥλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "323.1",
+      "text": "(Πα) στίξεις ἐμέ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "323.2",
+      "text": "(Δη) ἤδη γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "324",
+      "text": "(Πα) ἀπόλωλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "324",
+      "text": "(Δη) ποῖ σύ, ποῖ, μαστιγία;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325.1",
+      "text": "λάβ’ αὐτόν. ὦ πόλισμα Κεκροπίας χθονός,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325.2",
+      "text": "ὦ ταναὸς αἰθήρ, ὦ—τί, Δημέα, βοᾶις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325.3",
+      "text": "τί βοᾶις, ἀνόητε; κάτεχε σαυτόν, καρτέρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325.4",
+      "text": "οὐδὲν γὰρ ἀδικεῖ Μοσχίων σε. παράβολος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "325.5",
+      "text": "ὁ λόγος ἴσως ἐστ’, ἄνδρες, ἀλλ’ ἀληθινός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330.1",
+      "text": "εἰ μὲν γὰρ ἢ βουλόμενος ἢ κεκνισμένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330.2",
+      "text": "ἔρωτι τοῦτ’ ἔπραξεν ἢ μισῶν ἐμέ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330.3",
+      "text": "ἦν ἂν ἐπὶ τῆς αὐτῆς διανοίας ἔτι θρασὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330.4",
+      "text": "ἐμοί τε παρατεταγμένος. νυνὶ δέ μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "330.5",
+      "text": "ἀπολελόγηται τὸν φανέντ’ αὐτῶι γάμον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "335.1",
+      "text": "ἄσμενος ἀκούσας. οὐκ ἐρῶν γάρ, ὡς ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "335.2",
+      "text": "τότ’ ὠιόμην, ἔσπευδεν, ἀλλὰ τὴν ἐμὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "335.3",
+      "text": "Ἑλένην φυγεῖν βουλόμενος ἔνδοθέν ποτε· αὕτη γάρ ἐστιν αἰτία τοῦ γεγονότος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "335.4",
+      "text": "παρέλαβεν αὐτόν που μεθύοντα δηλαδή,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "340.1",
+      "text": "οὐκ ὄντ’ ἐν ἑαυτοῦ· πολλὰ δ’ ἐξεργάζεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "340.2",
+      "text": "ἀνόητ’ ἄκρατος καὶ νεότης, ὅταν λάβηι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "340.3",
+      "text": "τὸν συνεπιβουλεύσαντα τούτοις πλησίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "340.4",
+      "text": "οὐδενὶ τρόπωι γὰρ πιθανὸν εἶναί μοι δοκεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "340.5",
+      "text": "τὸν εἰς ἅπαντας κόσμιον καὶ σώφρονα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.1",
+      "text": "τοὺς ἀλλοτρίους εἰς ἐμὲ τοιοῦτον γεγονέναι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.2",
+      "text": "οὐδ’ εἰ δεκάκις ποητός ἐστι, μὴ γόνωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.3",
+      "text": "ἐμὸς ὑός· οὐ γὰρ τοῦτο, τὸν τρόπον δ’ ὁρῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.4",
+      "text": "χαμαιτύπη δ’ ἅνθρωπος, ὄλεθρος. ἀλλὰ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.5",
+      "text": "οὐ γὰρ περιέσται. Δημέα, νῦν ἄνδρα χρὴ εἶναί ς’· ἐπιλαθοῦ τοῦ πόθου, πέπαυς’ ἐρῶν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.6",
+      "text": "καὶ τἀτύχημα μὲν τὸ γεγονὸς κρύφθ’ ὅσον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.7",
+      "text": "ἔνεστι διὰ τὸν ὑόν, ἐκ τῆς δ’ οἰκίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.8",
+      "text": "ἐπὶ κεφαλὴν ἐς κόρακας ὦσον τὴν καλὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "345.9",
+      "text": "Σαμίαν. ἔχεις δὲ πρόφασιν ὅτι τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "355.1",
+      "text": "ἀνείλετ’· ἐμφανίσηις γὰρ ἄλλο μηδὲ ἕν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "355.2",
+      "text": "δακὼν δ’ ἀνάσχου, καρτέρησον εὐγενῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "355.3",
+      "text": "(Μα) ἀλλ’ ἆρα πρόσθε τῶν θυρῶν ἐστ’ ἐνθάδε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "355.4",
+      "text": "παῖ, Παρμένων. ἅνθρωπος ἀποδέδρακέ με,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "355.5",
+      "text": "ἀλλ’ οὐδὲ μικρὸν συλλαβών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "359",
+      "text": "Δη ἐκ τοῦ μέσου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360",
+      "text": "ἄναγε σεαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360.1",
+      "text": "(Μα) Ἡράκλεις. τί τοῦτο, παῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360.2",
+      "text": "μαινόμενος εἰσδεδράμηκεν εἴσω τις γέρων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360.3",
+      "text": "ἢ τί τὸ κακόν ποτ’ ἐστί; τί δέ μοι τοῦτο, παῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360.4",
+      "text": "νὴ τὸν Ποσειδῶ, μαίνεθ’, ὡς ἐμοὶ δοκεῖ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "360.5",
+      "text": "κέκραγε γοῦν παμμέγεθες. ἀστεῖον πάνυ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "365.1",
+      "text": "εἰ τὰς λοπάδας ἐν τῶι μέσωι μου κειμένας ὄστρακα ποήσαι πάνθ’ ὅμοια. τὴν θύραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "365.2",
+      "text": "πέπληχεν. ἐξώλης ἀπόλοιο, Παρμένων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "365.3",
+      "text": "κομίσας με δεῦρο. μικρὸν ὑπαποστήσομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "365.4",
+      "text": "(Δη) οὔκουν ἀκούεις; ἄπιθι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "369",
+      "text": "(Χρ) ποῖ γῆς, ὦ τάλαν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "370",
+      "text": "(Δη) ἐς κόρακας ἤδη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "370",
+      "text": "(Χρ) δύσμορος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "370.1",
+      "text": "(Δη) ναί, δύσμορος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "370.2",
+      "text": "ἐλεινὸν ἀμέλει τὸ δάκρυον. παύσω ς’ ἐγώ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "370.3",
+      "text": "ὡς οἴομαι—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "372",
+      "text": "(Χρ) τί ποοῦσαν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "372.1",
+      "text": "(Δη) οὐδέν. ἀλλ’ ἔχεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "372.2",
+      "text": "τὸ παιδίον, τὴν γραῦν· ἀποφθείρου ποτέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "372.3",
+      "text": "(Χρ) ὅτι τοῦτ’ ἀνειλόμην;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "374",
+      "text": "(Δη) διὰ τοῦτο καί—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "374",
+      "text": "(Χρ) τί “καί”;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "375",
+      "text": "(Δη) διὰ τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "375.1",
+      "text": "Μα τοιοῦτ’ ἦν τι τὸ κακόν· μανθάνω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "375.2",
+      "text": "(Δη) τρυφᾶν γὰρ οὐκ ἠπίστασο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "376.1",
+      "text": "Χρ οὐκ ἠπιστάμην;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "376.2",
+      "text": "τί δ’ ἐσθ’ ὃ λέγεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "377.1",
+      "text": "(Δη) καίτοι πρὸς ἔμ’ ἦλθες ἐνθάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "377.2",
+      "text": "ἐν σινδονίτηι, Χρυσί—μανθάνεις; —πάνυ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "377.3",
+      "text": "λιτῶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "379",
+      "text": "(Χρ) τί οὖν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "379",
+      "text": "(Δη) τότ’ ἦν ἐγώ σοι πάνθ’, ὅτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "380",
+      "text": "φαύλως ἔπραττες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "380",
+      "text": "(Χρ) νῦν δὲ τίς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "380.1",
+      "text": "(Δη) μή μοι λάλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "380.2",
+      "text": "ἔχεις τὰ σαυτῆς πάντα· προστίθημί σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "380.3",
+      "text": "ἐγὼ θεραπαίνας, Χρυσί. ἐκ τῆς οἰκίας ἄπιθι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "383.1",
+      "text": "Μα τὸ πρᾶγμ’ ὀργή τις ἐστί· προσιτέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "383.2",
+      "text": "βέλτισθ’, ὅρα—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "384",
+      "text": "(Δη) τί μοι διαλέγει;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "384",
+      "text": "(Μα) μὴ δάκηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "385.1",
+      "text": "(Δη) ἑτέρα γὰρ ἀγαπήσει τὰ παρ’ ἐμοί, Χρυσί· νὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "385.2",
+      "text": "καὶ τοῖς θεοῖς θύσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "386",
+      "text": "Μα τί ἐστίν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "386.1",
+      "text": "(Δη) ἀλλὰ σὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "386.2",
+      "text": "ὑὸν πεπόησαι· πάντ’ ἔχεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "387.1",
+      "text": "(Μα) οὔπω δάκνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "387.2",
+      "text": "ὅμως—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "388.1",
+      "text": "(Δη) κατάξω τὴν κεφαλὴν ἄνθρωπέ σου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "388.2",
+      "text": "ἄν μοι διαλέγηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "389",
+      "text": "(Μα) νὴ δικαίως γ’· ἀλλ’ ἰδού,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390",
+      "text": "εἰσέρχομ’ ἤδη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390.1",
+      "text": "(Δη) τὸ μέγα πρᾶγμ’. ἐν τῆι πόλει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390.2",
+      "text": "ὄψει σεαυτὴν νῦν ἀκριβῶς ἥτις εἶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390.3",
+      "text": "οὐ κατά σε, Χρυσί, πραττόμεναι δραχμὰς δέκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390.4",
+      "text": "μόνας ἕτεραι τρέχουσιν ἐπὶ τὰ δεῖπνα καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "390.5",
+      "text": "πίνους’ ἄκρατον ἄχρι ἂν ἀποθάνωσιν, ἢ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "395.1",
+      "text": "πεινῶσιν ἂν μὴ τοῦθ’ ἑτοίμως καὶ ταχὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "395.2",
+      "text": "ποῶσιν. εἴσει δ’ οὐδενὸς τοῦτ’, οἶδ’ ὅτι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "395.3",
+      "text": "ἧττον σύ, καὶ γνώσει τίς οὖς’ ἡμάρτανες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "395.4",
+      "text": "ἕσταθι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "398.1",
+      "text": "(Χρ) τάλαιν’ ἔγωγε τῆς ἐμῆς τύχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "398.2",
+      "text": "Νι τουτὶ τὸ πρόβατον τοῖς θεοῖς μὲν τὰ νόμιμα ἅπαντα ποιήσει θυθὲν καὶ ταῖς θεαῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "398.3",
+      "text": "αἷμα γὰρ ἔχει, χολὴν ἱκανήν, ὀστᾶ καλά, σπλῆνα μέγαν, ὧν χρεία ’στι τοῖς Ὀλυμπίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "398.4",
+      "text": "πέμψω δὲ γεύσασθαι κατακόψας τοῖς φίλοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "398.5",
+      "text": "τὸ κώιδιον· λοιπὸν γάρ ἐστι τοῦτό μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "405.1",
+      "text": "ἀλλ’, Ἡράκλεις, τί τοῦτο; πρόσθε τῶν θυρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "405.2",
+      "text": "ἕστηκε Χρυσὶς ἥδε κλάους’· οὐ μὲν οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "405.3",
+      "text": "ἄλλη. τί ποτε τὸ γεγονός;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "407.1",
+      "text": "(Χρ) ἐκβέβληκέ με",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "407.2",
+      "text": "ὁ φίλος ὁ χρηστός σου. τί γὰρ ἄλλο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "408.1",
+      "text": "(Νι) ὦ Ἡράκλεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "408.2",
+      "text": "τίς; Δημέας;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "409",
+      "text": "(Χρ) ναί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "409",
+      "text": "(Νι) διὰ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "409",
+      "text": "(Χρ) διὰ τὸ παιδίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "410.1",
+      "text": "(Νι) ἤκουσα καὐτὸς τῶν γυναικῶν ὅτι τρέφεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "410.2",
+      "text": "ἀνελομένη παιδάριον. ἐμβροντησία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "410.3",
+      "text": "ἀλλ’ ἔστ’ ἐκεῖνος ἡδύς. οὐκ ὠργίζετο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "410.4",
+      "text": "εὐθύς; διαλιπὼν δ’; ἀρτίως;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "413.1",
+      "text": "(Χρ) ὃς καὶ φράσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "413.2",
+      "text": "εἰς τοὺς γάμους μοι τἆνδον εὐτρεπῆ ποεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "415.1",
+      "text": "μεταξύ μ’ ὥσπερ ἐμμανὴς ἐπεισπεσὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "415.2",
+      "text": "ἔξωθεν ἐκκέκλεικε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "416.1",
+      "text": "(Νι) Δημέας χολᾶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "416.2",
+      "text": "ὁ Πόντος οὐχ ὑγιεινόν ἐστι χωρίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "416.3",
+      "text": "πρὸς τὴν γυναῖκα δεῦρ’ ἀκολούθει τὴν ἐμήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "416.4",
+      "text": "θάρρει· τί βούλει; παύσεθ’ οὗτος ἀπομανεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420",
+      "text": "ὅταν λογισμὸν ὧν ποεῖ νυνὶ λάβηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420.1",
+      "text": "ΧΟΡΟΥ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420.2",
+      "text": "Νι παρατενεῖς, γύναι. βαδίζω νῦν ἐκείνωι προσβαλῶν. οὐδ’ ἂν ἐπὶ πολλῶι γενέσθαι τὸ γεγονός, μὰ τοὺς θεούς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420.3",
+      "text": "πρᾶγμ’ ἐδεξάμην. μεταξὺ τῶν γάμων ποουμένων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "420.4",
+      "text": "συμβέβηκ’ οἰωνὸς ἡμῖν ἄτοπος· ἐκβεβλημένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "425.1",
+      "text": "εἰσελήλυθεν πρὸς ἡμᾶς παιδάριον ἔχουσά τις·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "425.2",
+      "text": "δάκρυα γίνεθ’, αἱ γυναῖκες τεθορύβηνται. Δημέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "425.3",
+      "text": "σκατοφαγεῖ. νὴ τὸν Ποσειδῶ καὶ θεούς, οἰμώξεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "425.4",
+      "text": "σκαιὸς ὤν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "428.1",
+      "text": "Μο οὐ μὴ δύηι ποθ’ ἥλιος. τί δεῖ λέγειν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "428.2",
+      "text": "ἐπιλέλησθ’ ἡ νὺξ ἑαυτῆς. ὢ μακρᾶς δείλης. τρίτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "430",
+      "text": "λούσομ’ ἐλθών· τί γὰρ ἔχοιμ’ ἂν ἄλλο ποιεῖν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "430.1",
+      "text": "Νι Μοσχίων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "430.2",
+      "text": "χαῖρε πολλά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "431.1",
+      "text": "(Μο) νῦν ποοῦμεν τοὺς γάμους; ὁ Παρμένων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "431.2",
+      "text": "εἶπεν ἐν ἀγορᾶι περιτυχὼν ἄρτι μοι. τί κωλύει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "431.3",
+      "text": "μετιέναι τὴν παῖδά μ’ ἤδη;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "433.1",
+      "text": "(Νι) τἀνθάδ’ ἀγνοῶν πάρει;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "433.2",
+      "text": "(Μο) ποῖα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "434",
+      "text": "(Νι) ποῖ’; ἀηδία τις συμβέβηκεν ἔκτοπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "435",
+      "text": "(Μο) Ἡράκλεις· τίς; οὐ γὰρ εἰδὼς ἔρχομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "435.1",
+      "text": "(Νι) τὴν Χρυσίδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "435.2",
+      "text": "ἐξελήλακ’ ἔνδοθέν σου, φίλταθ’, ὁ πατὴρ ἀρτίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "435.3",
+      "text": "(Μο) οἷον εἴρηκας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "437",
+      "text": "(Νι) τὸ γεγονός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "437",
+      "text": "(Μο) διὰ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "437.1",
+      "text": "(Νι) διὰ τὸ παιδίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "437.2",
+      "text": "(Μο) εἶτα ποῦ ’στι νῦν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "438",
+      "text": "(Νι) παρ’ ἡμῖν ἔνδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "438.1",
+      "text": "(Μο) ὢ δεινὸν λέγων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "438.2",
+      "text": "πρᾶγμα καὶ θαυμαστόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "439",
+      "text": "(Νι) εἴ σοι δεινὸν εἶναι φαίνεται—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "440.1",
+      "text": "Δη ἂν λάβω ξύλον, ποήσω τὰ δάκρυ’ ὑμῶν ταῦτ’ ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "440.2",
+      "text": "ἐκκεκόφθαι. τίς ὁ φλύαρος; οὐ διακονήσετε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "440.3",
+      "text": "τῶι μαγείρωι; πάνυ γάρ ἐστιν ἄξιον, νὴ τὸν Δία,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "440.4",
+      "text": "ἐπιδακρῦσαι· μέγα γὰρ ὑμῖν ὤιχετ’ ἐκ τῆς οἰκίας ἀγαθόν· αὐτὰ τἆργα δηλοῖ. χαῖρ’, Ἄπολλον φίλτατε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445.1",
+      "text": "ἐπ’ ἀγαθῆι τύχηι τε πᾶσι τοὺς γάμους 〈οὓσ〉 μέλλομεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445.2",
+      "text": "〈νῦν〉 ποεῖν ἡμῖν γενέσθαι δὸς σύ· μέλλω γὰρ ποεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445.3",
+      "text": "τοὺς γάμους, ἄνδρες, καταπιὼν τὴν χολήν· τήρ[ει δὲ σύ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445.4",
+      "text": "δέσποτ’, αὐτὸς ἵνα γένωμαι μὴ ’πίδηλος μηδ[ενί,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445.5",
+      "text": "ἀλλὰ τὸν ὑμέναιον ἄιδειν εἰσανάγκασόν με σύ. [ ο]ὐκ̣ ἄριστ’ ἐγὼ 〈×〉 ὡς ἔχω νῦν. ἀλλὰ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "445.6",
+      "text": "[ ]νέλθοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "451.1",
+      "text": "(Νι) σὺ πρότερος, Μοσχίων, πρόσελθέ μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "451.2",
+      "text": "(Μο) εἶἑν· ὦ π]άτερ, τί ποιεῖς ταῦτα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "452.1",
+      "text": "(Δη) ποῖα, Μοσχίων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "452.2",
+      "text": "(Μο) ποῖ’, ἐρωτ]ᾶις; διὰ τί Χρυσὶς οἴχετ’ ἀπιοῦς’, εἰπέ μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "452.3",
+      "text": "(Δη) [......] πρεσβεύεταί τις πρός με· δεινόν. —οὐχὶ σόν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "455.1",
+      "text": "μὰ τὸν Ἀπόλλω, τοὖργον ἐστὶν ἀλλὰ παντελ[ῶς ἐμόν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "455.2",
+      "text": "τίς ὁ φλύ]α̣ρ̣ος; —δεινὸν ἤδη· συναδικεῖ μ’ οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "456.1",
+      "text": "(Μο) [τί φήις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "456.2",
+      "text": "(Δη) περιφα]νῶς· τί γὰρ προσέρχεθ’ ὑπὲρ ἐκείνης; ἀσ̣[μένωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "456.3",
+      "text": "χρῆν γὰρ αὐτῶι τοῦτο δήπου γε[γονέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "458.1",
+      "text": "[Μο] τί τ]οὺς φίλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "458.2",
+      "text": "προσδοκᾶις ἐρεῖν πυθομένους;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "459",
+      "text": "(Δη) .[.....]κ̣ω Μοσχίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "460",
+      "text": "τοὺς φίλους—ἔα με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "460.1",
+      "text": "(Μο) ἀγεννὲς ἂν ποιοίην ἐπιτρέπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "460.2",
+      "text": "(Δη) ἀλλὰ κωλύσεις με;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "461",
+      "text": "(Μο) ἔγωγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "461",
+      "text": "(Δη) τοῦθ’, ὁρᾶ[θ’, ὑ]περβολή· τοῦτο τῶν δεινῶν ἐκείνων δεινότερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "462.1",
+      "text": "(Μο) οὐ πάντα γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "462.2",
+      "text": "ἐπιτρέπειν ὀργῆι προσήκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "463.1",
+      "text": "Νι Δημέα, καλῶς λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "463.2",
+      "text": "Μο ἀποτρέχειν αὐτῆι φράσον δεῦρ’ εἰσιών, Νικήρατε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "465.1",
+      "text": "(Δη) Μοσχίων, ἔα μ’, ἔα με, Μοσχίων· τρίτον λέγω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "465.2",
+      "text": "τουτογί· πάντ’ οἶδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "466",
+      "text": "(Μο) ποῖα πάντα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "466.1",
+      "text": "(Δη) μή μοι διαλέγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "466.2",
+      "text": "(Μο) ἀλλ’ ἀνάγκη, πάτερ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "467.1",
+      "text": "(Δη) ἀνάγκη; τῶν ἐμῶν οὐ κύριος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "467.2",
+      "text": "ἔσομ’ ἐγώ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "468",
+      "text": "(Μο) ταύτην ἐμοὶ δὸς τὴν χάριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "468.1",
+      "text": "(Δη) ποίαν χάριν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "468.2",
+      "text": "οἷον ἀξιοῖς μ’ ἀπελθεῖν αὐτὸν ἐκ τῆς οἰκίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "470.1",
+      "text": "καταλιπόνθ’ ὑμᾶς δύ’ ὄντας. τοὺς γάμους ἔα ποεῖν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "470.2",
+      "text": "τοὺς γάμους ἔα με ποιεῖν, ἂν ἔχηις νοῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "471.1",
+      "text": "(Μο) ἀλλ’ ἐῶ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "471.2",
+      "text": "βούλομαι δὲ συμπαρεῖναι Χρυσίδ’ 〈ἡμῖν.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "472.1",
+      "text": "(Δη) Χρυσίδα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "472.2",
+      "text": "(Μο) ἕνεκα σοῦ σπεύδω μάλιστα τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "473.1",
+      "text": "(Δη) ταῦτ’ οὐ γνώριμα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "473.2",
+      "text": "οὐ σαφῆ; μαρτύρομαί σε, Λοξία, συνόμνυται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "475.1",
+      "text": "τοῖς ἐμοῖς ἐχθροῖς τις. οἴμοι· καὶ διαρραγήσομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "475.2",
+      "text": "(Μο) τί δὲ λέγεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476",
+      "text": "(Δη) βούλει φράσω σοι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476",
+      "text": "(Μο) πάνυ γε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476",
+      "text": "(Δη) δεῦρο δή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476.1",
+      "text": "(Μο)λέγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476.2",
+      "text": "(Δη) ἀλλ’ ἐγώ. τὸ παιδίον σόν ἐστιν, οἶδ’, ἀκήκοα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476.3",
+      "text": "τοῦ συνειδότος τὰ κρυπτὰ Παρμένοντος· ὥστε μὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "476.4",
+      "text": "πρὸς ἐμὲ παῖζε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "479",
+      "text": "(Μο) ἔπειτά ς’ ἀδικεῖ Χρυσίς, εἰ τοῦτ’ ἔστ’ ἐμόν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "480",
+      "text": "(Δη) ἀλλὰ τίς σύ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "480",
+      "text": "(Μο) τί γὰρ ἐκείνη γέγονεν αἰτία;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "480.1",
+      "text": "(Δη) τί φήις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "480.2",
+      "text": "οὐδὲν ἐνθυμεῖσθε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "481",
+      "text": "(Μο) τί βοᾶις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "481.1",
+      "text": "(Δη) ὅ τι βοῶ, κάθαρμα σύ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "481.2",
+      "text": "τοῦτ’ ἐρωτᾶις; εἰς σεαυτὸν ἀναδέχει τὴν αἰτίαν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "481.3",
+      "text": "εἰπέ μοι; καὶ τοῦτο τολμᾶις ἐμβλέπων ἐμοὶ λέγειν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "481.4",
+      "text": "παντελῶς οὕτως ἀπεγνωκώς με τυγχάνεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "484",
+      "text": "(Μο) ἐγώ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "485",
+      "text": "διὰ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "485",
+      "text": "(Δη) “διὰ τί” φήις; ἐρωτᾶν δ’ ἀξιοῖς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "485.1",
+      "text": "(Μο) τὸ πρᾶγμα γάρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "485.2",
+      "text": "ἐστιν οὐ πάνδεινον, ἀλλὰ μυρίοι δήπου, πάτερ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "485.3",
+      "text": "τοῦτο πεποήκασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "487.1",
+      "text": "(Δη) ὦ Ζεῦ, τοῦ θράσους. ἐναντίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "487.2",
+      "text": "δή ς’ ἐρωτῶ τῶν παρόντων· ἐκ τίνος τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "487.3",
+      "text": "ἐστί σοι; Νικηράτωι τοῦτ’ εἶπον, εἰ μή σοι δοκεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490",
+      "text": "δεινὸν 〈εἶναι.〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490.1",
+      "text": "(Μο) νὴ Δί’, ἀλλὰ δεινὸν οὕτω γίγνεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490.2",
+      "text": "τοῦτο πρὸς τοῦτον λέγειν με· χαλεπανεῖ γὰρ πυθόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490.3",
+      "text": "Νι ὦ κάκιστ’ ἀνδρῶν ἁπάντων· ὑπονοεῖν γὰρ ἄρχομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490.4",
+      "text": "τὴν τύχην καὶ τἀσέβημα τὸ γεγονὸς μόλις ποτέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "490.5",
+      "text": "Μο τέλος ἔχω τοίνυν ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494",
+      "text": "Δη νῦν αἰσθάνει, Νικήρατε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495.1",
+      "text": "(Νι) οὐ γάρ; ὢ πάνδεινον ἔργον· ὢ τὰ Τηρέως λέχη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495.2",
+      "text": "Οἰδίπου τε καὶ Θυέστου καὶ τὰ τῶν ἄλλων, ὅσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495.3",
+      "text": "γεγονόθ’ ἡμῖν ἐστ’ ἀκοῦσαι, μικρὰ ποιήσας—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.1",
+      "text": "(Μο) ἐγώ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.2",
+      "text": "(Νι) τοῦτ’ ἐτόλμησας σὺ πρᾶξαι, τοῦτ’ ἔτλης; Ἀμύντορος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.3",
+      "text": "νῦν ἐχρῆν ὀργὴν λαβεῖν σε, Δημέα, καὶ τουτονὶ ἐκτυφλῶσαι. (Δη) διά σε τούτωι γέγονε πάντα καταφανῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.4",
+      "text": "(Νι) τίνος ἀπόσχοι’ ἂν σύ; ποῖον οὐκ ἂν [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.5",
+      "text": "εἶτ’ ἐγώ σοι δῶ γυναῖκα τὴν ἐμαυτ[οῦ θυγατέρα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.6",
+      "text": "πρότερον—εἰς κόλπον δέ φασι· τὴν Ἀδ̣[ράστειαν σέβω—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497.7",
+      "text": "ἐπὶ Διομνήστωι γενοίμην νυμφίωι [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "505",
+      "text": "ὁμολογουμένην ἀτυχίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "505.1",
+      "text": "(Δη) τα.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "505.2",
+      "text": "ἠδικημένος κατεῖχον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "506.1",
+      "text": "(Νι) ἀνδράποδ[ον εἶ, Δημέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "506.2",
+      "text": "εἰ γὰρ ἐμὸν ἤι[σχυνε λέ]κ̣τρον, οὐκ ἂν εἰς ἄλλον ποτὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "506.3",
+      "text": "ὕβρις’ οὐδ’ ἡ συ̣γ̣[κλ]ι̣θεῖσα· παλλακὴν δ’ ἂν αὔριον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "506.4",
+      "text": "πρῶτος ἀνθρώπων ἐπώλουν, συναποκηρύττων ἅμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "510.1",
+      "text": "ὑόν, ὥστε μηθὲν εἶναι μήτε κουρεῖον κενόν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "510.2",
+      "text": "μὴ στοάν, καθημένους δὲ πάντας ἐξ ἑωθινοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "510.3",
+      "text": "περὶ ἐμοῦ λαλεῖν λέγοντας ὡς ἀνὴρ Νικήρατος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "510.4",
+      "text": "γέγον’ ἐπεξελθὼν δικαίως τῶι φόνωι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "513.1",
+      "text": "(?Μο) ποίωι φόνωι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "513.2",
+      "text": "(Νι) φόνον ἐγὼ κρίνω τὰ τοιαῦθ’ ὅστις ἐπαναστὰς ποεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "515.1",
+      "text": "Μο αὖός εἰμι καὶ πέπηγα τῶι κακῶι, νὴ τοὺς θεούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "515.2",
+      "text": "(Νι) ἀλλ’ ἐγὼ πρὸς τοῖσιν ἄλλοις τὴν τὰ δείν’ εἰργασμένην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "515.3",
+      "text": "εἰσεδεξάμην μελάθροις τοῖς ἐμοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "517.1",
+      "text": "(Δη) Νικήρατε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "517.2",
+      "text": "ἔκβαλ’, ἱκετεύω· συναδικοῦ γνησίως ὡς ἂν φίλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "517.3",
+      "text": "(Νι) ὃς διαρραγήσομ’ 〈ἐπ〉ιδών. ἐμβλέπεις μοι, βάρβαρε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "520",
+      "text": "Θρᾶιξ ἀληθῶς; οὐ παρήσεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "520.1",
+      "text": "Μο πάτερ ἄκουσον, πρὸς θεῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "520.2",
+      "text": "(Δη) οὐκ ἀκούσομ’ οὐθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "521.1",
+      "text": "(Μο) οὐδ’ εἰ μηδὲν ὧν σὺ προσδοκᾶις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "521.2",
+      "text": "γέγονεν; ἄρτι γὰρ τὸ πρᾶγμα κατανοῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "522.1",
+      "text": "(Δη) πῶς μηδὲ ἕν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "522.2",
+      "text": "(Μο) οὐχὶ Χρυσίς ἐστι μήτηρ οὗ τρέφει νῦν παιδίου,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "522.3",
+      "text": "ἀλλ’ ἐμοὶ χαρίζεται τοῦθ’ ὁμολογοῦς’ αὑτῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "524",
+      "text": "(Δη) τί φήις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "525",
+      "text": "(Μο) τὰς ἀληθείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "525.1",
+      "text": "(Δη) διὰ τί δὲ τοῦτό σοι χαρίζεται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "525.2",
+      "text": "(Μο) οὐχ ἑκὼν λέγω μέν, ἀλλὰ μείζον’ αἰτίαν φυγὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "525.3",
+      "text": "λαμβάνω μικράν, ἐὰν σὺ τὸ γεγονὸς πύθηι σαφῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "525.4",
+      "text": "(Δη) ἀλλ’ ἀποκτενεῖς πρὶν εἰπεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "528.1",
+      "text": "(Μο) ἔστι τῆς Νικηράτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "528.2",
+      "text": "θυγατρός, ἐξ ἐμοῦ. λαθεῖν δὲ τοῦτ’ ἐβουλόμην ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "530",
+      "text": "(Δη) πῶς λέγεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "530",
+      "text": "(Μο) ὥσπερ πέπρακται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "530.1",
+      "text": "(Δη) μή με βουκολεῖς ὅρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "530.2",
+      "text": "(Μο) οὗ λαβεῖν ἔλεγχόν ἐστι; καὶ τί κερδανῶ πλέον;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "530.3",
+      "text": "(Δη) οὐθέν. ἀλλὰ τὴν θύραν τις—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "532.1",
+      "text": "Νι ὦ τάλας ἐγώ, τάλας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "532.2",
+      "text": "οἷον εἰσιδὼν θέαμα διὰ θυρῶν ἐπείγομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "532.3",
+      "text": "ἐμμανὴς ἀπροσδοκήτωι καρδίαν πληγεὶς ἄχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "535",
+      "text": "Δη τί ποτ’ ἐρεῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "535.1",
+      "text": "(Νι) τὴν θυγατέρ’ 〈ἄρτι〉 τὴν ἐμὴν τῶι παιδίωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "535.2",
+      "text": "τιτθίον διδοῦσαν ἔνδον κατέλαβον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "536.1",
+      "text": "(Δη) τοῦτ’ ἦν ἄρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "536.2",
+      "text": "Μο πάτερ, ἀκούεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "537.1",
+      "text": "(Δη) οὐδὲν ἀδικεῖς Μοσχίων 〈μ’〉· ἐγὼ δέ σε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "537.2",
+      "text": "ὑπονοῶν τοιαῦτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "538.1",
+      "text": "(Νι) πρός σε, Δημέα, πορεύομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "538.2",
+      "text": "Μο ἐκποδὼν ἄπειμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "539",
+      "text": "(Δη) θάρρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "539",
+      "text": "(Μο) τουτονὶ τέθνηχ’ ὁρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "540",
+      "text": "(Δη) τί τὸ πάθος δ’ ἐστίν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "540.1",
+      "text": "Νι διδοῦσαν τιτθίον τῶι παιδίωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "540.2",
+      "text": "ἀρτίως ἔνδον κατέλαβον τὴν ἐμαυτοῦ θυγατέρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "540.3",
+      "text": "(Δη) τυχὸν ἔπαιζεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "542",
+      "text": "(Νι) οὐκ ἔπαιζεν. ὡς γὰρ εἰσιόντα με εἶδεν, ἐξαίφνης κατέπεσεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "543.1",
+      "text": "(Δη) τυχὸν ἴσως ἔδοξε [γάρ—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "543.2",
+      "text": "(Νι) παρατενεῖς “τυχὸν” λέγων μοι πάντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "544",
+      "text": "(Δη) (τούτων αἴτιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "545",
+      "text": "εἴμ’ ἐγώ.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "545",
+      "text": "(Νι) τί φήις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "545.1",
+      "text": "(Δη) ἄπιστον πρᾶγμά μοι δοκεῖς λέγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "545.2",
+      "text": "(Νι) ἀλλὰ μὴν εἶδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "546",
+      "text": "(Δη) κορυζᾶις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "546.1",
+      "text": "(Νι) οὗτος οὐκ ἔστιν λόγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "546.2",
+      "text": "ἀλλὰ πάλιν ἐλθών—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.1",
+      "text": "(Δη) τὸ δεῖνα· μικρόν, ὦ τᾶν—οἴχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.2",
+      "text": "πάντα πράγματ’ ἀνατέτραπται, τέλος ἔχει. νὴ τὸν Δία,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.3",
+      "text": "οὑτοσὶ τὸ πρᾶγμ’ ἀκούσας χαλεπανεῖ, κεκράξεται· τραχὺς ἅνθρωπος, σκατοφάγος, αὐθέκαστος τῶι τρόπωι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.4",
+      "text": "ἐμὲ γὰρ ὑπονοεῖν τοιαῦτα τὸν μιαρὸν ἐχρῆν, ἐμέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.5",
+      "text": "νὴ τὸν Ἥφαιστον, δικαίως ἀποθάνοιμ’ ἄν. Ἡράκλεις,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.6",
+      "text": "ἡλίκον κέκραγε. τοῦτ’ ἦν· πῦρ βοᾶι· τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "547.7",
+      "text": "φησὶν ἐμπρήσειν ἀπειλῶν. ὑιδοῦν ὀπτώμενον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "555.1",
+      "text": "ὄψομαι. πάλιν πέπληχε τὴν θύραν. στρόβιλος ἢ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "555.2",
+      "text": "σκηπτὸς ἅνθρωπός τις ἐστί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "556.1",
+      "text": "Νι Δημέα, συνίσταται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "556.2",
+      "text": "ἐπ’ ἐμὲ καὶ πάνδεινα ποιεῖ πράγμαθ’ ἡ Χρυσίς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "557.1",
+      "text": "(Δη) τί φήις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "557.2",
+      "text": "(Νι) τὴν γυναῖκά μου πέπεικε μηθὲν ὁμολογεῖν ὅλως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "557.3",
+      "text": "μηδὲ τὴν κόρην, ἔχει δὲ πρὸς βίαν τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "560.1",
+      "text": "οὐ προήσεσθαί τε φησίν· ὥστε μὴ θαύμαζ’, ἐὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "560.2",
+      "text": "αὐτόχειρ αὐτῆς γένωμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "561.1",
+      "text": "Δη τῆς γυναικὸς αὐτόχειρ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "561.2",
+      "text": "(Νι) πάντα γὰρ σύνοιδεν αὕτη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "562",
+      "text": "(Δη) μηδαμῶς, Νικήρατε. (Νι) σοὶ δ’ ἐβουλόμην προειπεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "563.1",
+      "text": "(Δη) οὑτοσὶ μελαγχολᾶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "563.2",
+      "text": "εἰσπεπήδηκεν. τί τούτοις τοῖς κακοῖς τις χρήσεται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "565.1",
+      "text": "οὐδεπώποτ’ εἰς τοιαύτην ἐμπεσών, μὰ τοὺς θεούς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "565.2",
+      "text": "οἶδα ταραχήν. ἔστι μέντοι τὸ γεγονὸς φράσαι σαφῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "565.3",
+      "text": "πολὺ κράτιστον. ἀλλ’, Ἄπολλον, ἡ θύρα πάλιν ψοφεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "565.4",
+      "text": "Χρ ὦ τάλαιν’ ἐγώ, τί δράσω; ποῖ φύγω; τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "565.5",
+      "text": "λήψεταί μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "569",
+      "text": "Δη Χρυσί, δεῦρο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "569",
+      "text": "(Χρ) τίς καλεῖ με;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "569",
+      "text": "(Δη) εἴσω τρέχε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "570",
+      "text": "Νι ποῖ σύ, ποῖ φεύγεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "570.1",
+      "text": "(Δη) Ἄπολλον, μονομαχήσω τήμερον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "570.2",
+      "text": "ὡς ἔοικ’, ἐγώ. τί βούλει; τίνα διώκεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "571.1",
+      "text": "(Νι) Δημέα,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "571.2",
+      "text": "ἐκποδὼν ἄπελθ’· ἔα με γενόμενον τοῦ παιδίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "571.3",
+      "text": "ἐγκρατῆ τὸ πρᾶγμ’ ἀκοῦσαι τῶν γυναικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "573.1",
+      "text": "(Δη) μηθαμῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "573.2",
+      "text": "(Νι) ἀλλὰ τυπτήσεις με;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "574",
+      "text": "(Δη) ἔγωγε. —θᾶττον εἰσφθάρηθι σύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "575",
+      "text": "(Νι) ἀλλὰ μὴν κἀγώ σε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "575.1",
+      "text": "(Δη) φεῦγε, Χρυσί· κρείττων ἐστί μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "575.2",
+      "text": "(Νι) πρότερος ἅπτει μου σὺ νυνί· ταῦτ’ ἐγὼ μαρτύρομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "575.3",
+      "text": "Δη σὺ δ’ ἐπ’ ἐλευθέραν γυναῖκα λαμβάνεις βακτηρίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "575.4",
+      "text": "καὶ διώκεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "578",
+      "text": "(Νι) συκοφαντεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "578",
+      "text": "(Δη) καὶ σὺ γάρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "578.1",
+      "text": "(Νι) τὸ παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "578.2",
+      "text": "ἐξένεγκέ μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "579",
+      "text": "(Δη) γελοῖον· τοὐμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "579",
+      "text": "(Νι) ἀλλ’ οὐκ ἔστι σόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "580",
+      "text": "(Δη) ἐμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "580",
+      "text": "(Νι) ἰὼ ’νθρωποι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "580",
+      "text": "(Δη) κέκραχθι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "580.1",
+      "text": "(Νι) τὴν γυναῖκ’ ἀποκτενῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "580.2",
+      "text": "εἰσιών· τί γὰρ ποήσω;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "581.1",
+      "text": "(Δη) τοῦτο μοχθηρὸν πάλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "581.2",
+      "text": "οὐκ ἐάσω. ποῖ σύ; μένε δή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "582.1",
+      "text": "(Νι) μὴ πρόσαγε τὴν χεῖρά μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "582.2",
+      "text": "(Δη) κάτεχε δὴ σεαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "583.1",
+      "text": "(Νι) ἀδικεῖς Δημέα με, δῆλος εἶ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "583.2",
+      "text": "καὶ τὸ πρᾶγμα πᾶν σύνοισθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "584",
+      "text": "(Δη) τοιγαροῦν ἐμοῦ πυθοῦ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "585",
+      "text": "τῆι γυναικὶ μὴ ’νοχλήσας μηδέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "585.1",
+      "text": "(Νι) ἆρ’ ὁ σός με παῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "585.2",
+      "text": "ἐντεθρίωκεν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "586.1",
+      "text": "(Δη) φλυαρεῖς· λήψεται μὲν τὴν κόρην,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "586.2",
+      "text": "ἔστι δ’ οὐ τοιοῦτον. ἀλλὰ περιπάτησον ἐνθαδὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "586.3",
+      "text": "μικρὰ μετ’ ἐμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "588",
+      "text": "(Νι) περιπατήσω;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "588.1",
+      "text": "(Δη) καὶ σεαυτόν γ’ ἀνάλαβε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "588.2",
+      "text": "οὐκ ἀκήκοας λεγόντων, εἰπέ μοι, Νικήρατε,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "590.1",
+      "text": "τῶν τραγωιδῶν ὡς γενόμενος χρυσὸς ὁ Ζεὺς ἐρρύη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "590.2",
+      "text": "διὰ τέγους καθειργμένην τε παῖδ’ ἐμοίχευσέν ποτε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "590.3",
+      "text": "(Νι) εἶτα δὴ τί τοῦτο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "592.1",
+      "text": "(Δη) ἴσως δεῖ πάντα προσδοκᾶν; σκόπει,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "592.2",
+      "text": "τοῦ τέγους εἴ σοι μέρος τι ῥεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "593.1",
+      "text": "(Νι) τὸ πλεῖστον. ἀλλὰ τί",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "593.2",
+      "text": "τοῦτο πρὸς ἐκεῖν’ ἐστί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "594",
+      "text": "(Δη) τότε μὲν γίνεθ’ ὁ Ζεὺς χρυσίον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "595.1",
+      "text": "τότε δ’ ὕδωρ. ὁρᾶις· ἐκείνου τοὖργον ἐστίν. ὡς ταχὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "595.2",
+      "text": "εὕρομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "596",
+      "text": "(Νι) καὶ βουκολεῖς με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "596.1",
+      "text": "(Δη) μὰ τὸν Ἀπόλλω, ’γὼ μὲν οὔ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "596.2",
+      "text": "ἀλλὰ χείρων οὐδὲ μικρὸν Ἀκρισίου δήπουθεν εἶ· εἰ δ’ ἐκείνην ἠξίωσε, τήν γε σήν—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "598.1",
+      "text": "(Νι) οἴμοι τάλας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "598.2",
+      "text": "Μοσχίων ἐσκεύακέν με.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "599.1",
+      "text": "(Δη) λήψεται μέν, μὴ φοβοῦ τοῦτο· θεῖον δ’ ἐστ’, ἀκριβῶς ἴσθι, τὸ γεγενημένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "599.2",
+      "text": "μυρίους εἰπεῖν ἔχω σοι περιπατοῦντας ἐν μέσωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "599.3",
+      "text": "ὄντας ἐκ θεῶν· σὺ δ’ οἴει δεινὸν εἶναι τὸ γεγονός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "599.4",
+      "text": "Χαιρεφῶν πρώτιστος οὗτος, ὃν τρέφους’ ἀσύμβολον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "599.5",
+      "text": "οὐ θεός σοι φαίνετ’ εἶναι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "604",
+      "text": "(Νι) φαίνεται· τί γὰρ πάθω;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "605",
+      "text": "οὐ μαχοῦμαί σοι διὰ κενῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "605.1",
+      "text": "(Δη) νοῦν ἔχεις, Νικήρατε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "605.2",
+      "text": "Ἀνδροκλῆς ἔτη τοσαῦτα ζῆι, τρέχει, πηδᾶι, πολὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "605.3",
+      "text": "πράττεται· μέλας περιπατεῖ· λευκὸς οὐκ ἂν ἀποθάνοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "605.4",
+      "text": "οὐδ’ ἂν εἰ σφάττοι τις αὐτόν. οὗτός ἐστιν—οὐ θεός;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "605.5",
+      "text": "ἀλλὰ ταῦτ’ εὔχου γενέσθαι συμφέροντα, θυμία,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "610.1",
+      "text": "[........τὴ]ν κόρην μέτεισιν οὑμὸς ὑὸς αὐτίκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "610.2",
+      "text": "〈Νι〉 ἐξ ἀνάγκης ἐστὶ τ̣αῦ[τ]α πομ̣[...]. μ̣[.]ι̣",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "611.1",
+      "text": "〈Δη〉 ν[ο]ῦν ἔχει[ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "611.2",
+      "text": "(Νι) εἰ δ’ ἐλήφθη τότε—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "612.1",
+      "text": "(Δη) πέπαυσο· μὴ παροξύνου· πόει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "612.2",
+      "text": "τἄνδον εὐτρεπῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "613",
+      "text": "(Νι) ποήσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "613",
+      "text": "(Δη) τὰ παρ’ ἐμοὶ δ’ ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "613.1",
+      "text": "(Νι) πόει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "613.2",
+      "text": "(Δη) κομψὸς εἶ. —χάριν δὲ πολλὴν πᾶσι τοῖς θεοῖς ἔχω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "615",
+      "text": "οὐθὲν εὑρηκὼς ἀληθὲς ὧν τότ’ ὤιμην γεγονέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "615.1",
+      "text": "ΧΟΡΟΥ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "615.2",
+      "text": "Μο ἐγὼ τότε μὲν ἧς εἶχον αἰτίας μάτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "615.3",
+      "text": "ἐλεύθερος γενόμενος ἠγάπησα καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "615.4",
+      "text": "τοῦθ’ ἱκανὸν εὐτύχημ’ ἐμαυτῶι γεγονέναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "615.5",
+      "text": "ὑπέλαβον· ὡς δὲ μᾶλλον ἔννους γίνομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "620.1",
+      "text": "καὶ λαμβάνω λογισμόν, ἐξέστηκα νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "620.2",
+      "text": "τελέως ἐμαυτοῦ καὶ παρώξυμμαι σφόδρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "620.3",
+      "text": "ἐφ’ οἷς μ’ ὁ πατὴρ ὑπέλαβεν ἡμαρτηκέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "620.4",
+      "text": "εἰ μὲν καλῶς οὖν εἶχε τὰ περὶ τὴν κόρην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "620.5",
+      "text": "καὶ μὴ τοσαῦτ’ ἦν ἐμποδών, ὅρκος, πόθος,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "625.1",
+      "text": "χρόνος, συνήθει’, οἷς ἐδουλούμην ἐγώ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "625.2",
+      "text": "οὐκ ἂν παρόντα γ’ αὖτις ἠιτιάσατο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "625.3",
+      "text": "αὐτόν με τοιοῦτ’ οὐδέν, ἀλλ’ ἀποφθαρεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "625.4",
+      "text": "ἐκ τῆς πόλεως ἂν ἐκποδὼν εἰς Βάκτρα ποι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "625.5",
+      "text": "ἢ Καρίαν διέτριβον αἰχμάζων ἐκεῖ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "630.1",
+      "text": "νῦν δ’ οὐ ποήσω διὰ σέ, Πλαγγὼν φιλτάτη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "630.2",
+      "text": "ἀνδρεῖον οὐθέν· οὐ γὰρ ἔξεστ’ οὐδ’ ἐᾶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "630.3",
+      "text": "ὁ τῆς ἐμῆς νῦν κύριος γνώμης Ἔρως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "630.4",
+      "text": "οὐ μὴν ταπεινῶς οὐδ’ ἀγεννῶς παντελῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "630.5",
+      "text": "παριδεῖν με δεῖ τοῦτ’, ἀλλὰ τῶι λόγωι μόνον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "635.1",
+      "text": "εἰ μηθὲν ἄλλ’, αὐτὸν φοβῆσαι βούλομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "635.2",
+      "text": "φάσκων ἀπαίρειν. μᾶλλον εἰς τὰ λοιπὰ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "635.3",
+      "text": "φυλάξεθ’ οὗτος μηθὲν εἴς μ’ ἀγνωμονεῖν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "635.4",
+      "text": "ὅταν φέροντα μὴ παρέργως τοῦτ’ ἴδηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "635.5",
+      "text": "ἀλλ’ οὑτοσὶ γὰρ εἰς δέοντά μοι πάνυ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "640.1",
+      "text": "καιρὸν πάρεστιν ὃν μάλιστ’ ἐβουλόμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "640.2",
+      "text": "Πα νὴ τὸν Δία τὸν μέγιστον, ἀνόητόν τε καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "640.3",
+      "text": "εὐκαταφρόνητον ἔργον εἴμ’ εἰργασμένος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "640.4",
+      "text": "οὐθὲν ἀδικῶν ἔδεισα καὶ τὸν δεσπότην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "640.5",
+      "text": "ἔφυγον. τί δ’ ἦν τούτου πεποηκὼς ἄξιον;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.1",
+      "text": "καθ’ ἓν γὰρ οὑτωσὶ σαφῶς σκεψώμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.2",
+      "text": "ὁ τρόφιμος ἐξήμαρτεν εἰς ἐλευθέραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.3",
+      "text": "κόρην· ἀδικεῖ δήπουθεν οὐδὲν Παρμένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.4",
+      "text": "ἐκύησεν αὕτη· Παρμένων οὐκ αἴτιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.5",
+      "text": "τὸ παιδάριον εἰσῆλθεν εἰς τὴν οἰκίαν τὴν ἡμετέραν· ἤνεγκ’ ἐκεῖνος, οὐκ ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.6",
+      "text": "τῶν ἔνδον ὡμολόγησε τοῦτό τις τεκεῖν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.7",
+      "text": "τί Παρμένων ἐνταῦθα πεποίηκεν κακόν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.8",
+      "text": "οὐθέν. τί οὖν οὕτως ἔφυγες, ἀβέλτερε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "645.9",
+      "text": "καὶ δειλότατε; γελοῖον. ἠπείλης’ ἐμὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "655.1",
+      "text": "στίξειν· μεμάθηκας· διαφέρ[ει δ’ ἀ]λλ’ οὐδὲ γρῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "655.2",
+      "text": "ἀδίκως παθεῖν τοῦτ’ ἢ δικαίως, ἔστι δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "655.3",
+      "text": "πάντα τρόπον οὐκ ἀστεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "657",
+      "text": "(Μο) οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "657.1",
+      "text": "(Πα) χαῖρε σύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "657.2",
+      "text": "(Μο) ἀφεὶς ἃ φλυαρεῖς ταῦτα θᾶττον εἴσιθι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "657.3",
+      "text": "εἴσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "659",
+      "text": "(Πα) τί ποήσων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "659",
+      "text": "(Μο) χλαμύδα καὶ σπάθην τινὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "660",
+      "text": "ἔνεγκέ μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "660",
+      "text": "(Πα) σπάθην ἐγώ σοι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "660.1",
+      "text": "(Μο) καὶ ταχύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "660.2",
+      "text": "(Πα) ἐπὶ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "661.1",
+      "text": "(Μο) βάδιζε καὶ σιωπῆι τοῦθ’ ὅ σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "661.2",
+      "text": "εἴρηκα ποίει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "662",
+      "text": "(Πα) τί δὲ τὸ πρᾶγμα;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "662.1",
+      "text": "(Μο) εἰ λήψομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "662.2",
+      "text": "ἱμάντα—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "663",
+      "text": "(Πα) μηδαμῶς· βαδίζω γάρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "663.1",
+      "text": "(Μο) τί οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "663.2",
+      "text": "μέλλεις; —πρόσεισι νῦν ὁ πατήρ· δεήσεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "665.1",
+      "text": "οὗτος καταμένειν δηλαδή. δεήσεται ἄλλως μέχρι τινός· δεῖ γάρ. εἶθ’, ὅταν δοκῆι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "665.2",
+      "text": "πεισθήσομ’ αὐτῶι. πιθανὸν εἶναι δεῖ μόνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "665.3",
+      "text": "ὃ μὰ τὸν Διόνυσον οὐ δύναμαι ποεῖν ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "665.4",
+      "text": "τοῦτ’ ἐστίν. ἐψόφηκε προϊὼν τὴν θύραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "670.1",
+      "text": "Πα ὑστερίζειν μοι δοκεῖς σὺ παντελῶς τῶν ἐνθάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "670.2",
+      "text": "πραγμάτων, εἰδώς τ’ ἀκριβῶς οὐθὲν οὔτ’ ἀκηκοὼς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "670.3",
+      "text": "διὰ κενῆς σαυτὸν ταράττεις εἰς ἀθυμίαν τ’ ἄγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "670.4",
+      "text": "Μο οὐ φέρεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "673.1",
+      "text": "(Πα) ποῦσι γάρ σοι τοὺς γάμους· κεράννυται,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "673.2",
+      "text": "θυμιᾶτ’, ἐνῆρκτ’, ἀνῆπται θύμαθ’ Ἡφαίστου φλογί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "675",
+      "text": "(Μο) οὗτος, οὐ φέρεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "675.1",
+      "text": "(Πα) σὲ γάρ, 〈σὲ〉 περιμένους’ οὗτοι πάλαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "675.2",
+      "text": "μετιέναι τὴν παῖδα μέλλεις; εὐτυχεῖς· οὐδὲν κακόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "675.3",
+      "text": "ἐστί σοι. θάρρει· τί βούλει;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "677.1",
+      "text": "(Μο) νουθετήσεις μ’, εἰπέ μοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "677.2",
+      "text": "ἱερόσυλε;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "678",
+      "text": "(Πα) παῖ, τί ποιεῖς, Μοσχίων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "678.1",
+      "text": "(Μο) οὐκ εἰσδραμὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "678.2",
+      "text": "θᾶττον ἐξοίσεις ἅ φημι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "679",
+      "text": "(Πα) διακέκομμαι τὸ στόμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "680",
+      "text": "(Μο) ἔτι λαλεῖς οὗτος;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "680.1",
+      "text": "(Πα) βαδίζω. νὴ Δί’ ἐξεύρηκά γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "680.2",
+      "text": "τόδε κακόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "681",
+      "text": "(Μο) μέλλεις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "681",
+      "text": "(Πα) ἄγουσι τοὺς γάμους ὄντως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "681.1",
+      "text": "(Μο) πάλιν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "681.2",
+      "text": "ἕτερον ἐξάγγελλέ μοι τι. —νῦν πρόσεισιν· ἂν δέ μου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "681.3",
+      "text": "μὴ δέητ’, ἄνδρες, καταμένειν, ἀλλ’ ἀποργισθεὶς ἐᾶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "681.4",
+      "text": "ἀπιέναι—τουτὶ γὰρ ἄρτι παρέλιπον—τί δεῖ ποεῖν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "685.1",
+      "text": "ἀλλ’ ἴσως οὐκ ἂν ποήσαι τοῦτ’. ἐὰν δέ; πάντα γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "685.2",
+      "text": "γίνεται· γελοῖος ἔσομαι, νὴ Δί’, ἀνακάμπτων πάλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "685.3",
+      "text": "Πα ἤν· χλαμὺς πάρεστιν αὕτη καὶ σπάθη· ταυτὶ λαβέ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "685.4",
+      "text": "(Μο) δεῦρο δός. τῶν ἔνδον οὐθείς ς’ εἶδεν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "688",
+      "text": "(Πα) οὐθείς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "688.1",
+      "text": "(Μο) οὐδὲ εἷς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "688.2",
+      "text": "παντελῶς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "689",
+      "text": "(Πα) οὔ φημι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "689",
+      "text": "(Μο) τί λέγεις; ἀλλά ς’ ὁ Ζεὺς ἀπολέσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "690",
+      "text": "(Πα) πρόαγ’ ὅποι μέλλεις· φλυαρεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "690.1",
+      "text": "(Δη) εἶτα ποῦ ’στιν, εἰπέ μοι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "690.2",
+      "text": "παῖ, τί τοῦτο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "691",
+      "text": "(Πα) πρόαγε θᾶττον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "691.1",
+      "text": "(Δη) ἡ στολὴ τί βούλεται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "691.2",
+      "text": "τί τὸ πάθος; μέλλεις ἀπαίρειν, εἰπέ μ[οι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "691.3",
+      "text": "(Πα) ὡς ὁρᾶις, ἤδη βαδίζει κἀστὶν ἐν ὁδῶ[ι. νῦν δὲ χρὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "691.4",
+      "text": "κἀμὲ τοὺς ἔνδον προσειπεῖν· ἔρχο[μ’ ἤδη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "694",
+      "text": "[Δη] [Μοσχίων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.1",
+      "text": "ὅτι μὲν ὀργίζει, φιλῶ σε, κοὐχ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.2",
+      "text": "εἰ λελύπησαι γὰρ ἀδίκως αἰτίαν .[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.3",
+      "text": "ἀλλ’ ἐκεῖν’ ὅμως θεώρει· τίνι πικρο[ ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.4",
+      "text": "εἰμὶ γὰρ πατήρ· ε̣[.......]αλαβών σε παιδίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.5",
+      "text": "ἐξέθρεψ’· εἰ ς..[......]ς̣ γέγονεν ἡδὺς τοῦ βίου, τοῦτόν εἰμ’ ὁ δοὺς [ἔγωγε], δι’ ὃν ἀνασχέσθαι ς’ ἔδει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.6",
+      "text": "καὶ τὰ λυπήσαντα [παρ’ ἐ]μοῦ καὶ φέρειν τι τῶν ἐμῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.7",
+      "text": "ὡς ἂν ὑόν. οὐ δικαίως ἠιτιασάμην τί σε·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.8",
+      "text": "ἠγνόης’, ἥμαρτον, ἐμάνην. ἀλλ’ ἐκεῖνο.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "695.9",
+      "text": "εἴς γε τοὺς ἄλλους ἁμαρτὼν σοῦ πρόνοιαν ἡλ̣ίκ̣η̣[ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "705.1",
+      "text": "ἔσχον, 〈ἐν〉 ἐμαυτῶι τ’ ἐτήρουν τοῦθ’ ὃ δή ποτ’ ἠγνόουν· οὐχὶ τοῖς ἐχθροῖς ἔθηκα φανερὸν ἐπιχαίρειν· σὺ δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "705.2",
+      "text": "τὴν ἐμὴν ἁμαρτίαν νῦν ἐκφέρεις καὶ μάρτυρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "705.3",
+      "text": "ἐπ’ ἐμὲ τῆς ἐμῆς ἀνοίας λαμβάνεις· οὐκ ἀξιῶ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "705.4",
+      "text": "Μοσχίων. μὴ μνημονεύσηις ἡμέραν μου τοῦ βίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "710.1",
+      "text": "μίαν ἐν ἧι διεσφάλην τι, τῶν δὲ πρόσθεν ἐπιλάθηι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "710.2",
+      "text": "πόλλ’ ἔχων λέγειν ἐάσω· καὶ γὰρ οὐ καλῶς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "710.3",
+      "text": "πατρὶ μόλις πιθέσθ’, ἀκριβῶς ἴσθι, τὸ δ’ ἑτοίμως καλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "710.4",
+      "text": "Νι μὴ ’νόχλει μοι· πάντα γέγονε· λουτρά, προτέλει’, οἱ γάμοι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "710.5",
+      "text": "ὥστ’ ἐκεῖνος, ἄν ποτ’ ἔλθηι, τὴν κόρην ἄπεις’ ἔχων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "715",
+      "text": "παῖ, τί τοῦτο;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "715",
+      "text": "Δη οὐκ οἶδ’ ἔγωγε, μὰ Δία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "715.1",
+      "text": "(Νι) πῶς οὐκ οἶσθα σύ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "715.2",
+      "text": "χλαμύς· ἀπαίρειν οὑτοσί που διανοεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "716.1",
+      "text": "(Δη) φησὶ γοῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "716.2",
+      "text": "(Νι) φησὶν οὗτος; τίς δ’ ἐάσει, μοιχὸν ὄντ’ εἰλημμένον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "716.3",
+      "text": "ὁμολογοῦντ’; ἤδη σε δήσω, μειράκιον, οὐκ εἰς μακράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "716.4",
+      "text": "(Μο) δῆσον, ἱκετεύω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "719",
+      "text": "Νι φλυαρεῖς πρός μ’ ἔχων. οὐ καταβαλεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "720",
+      "text": "τὴν σπάθην θᾶττον;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "720.1",
+      "text": "(Δη) κατάβαλε, Μοσχίων, πρὸς τῶν θεῶν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "720.2",
+      "text": "μὴ παροξύνηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "721.1",
+      "text": "Μο ἀφείσθω· καταλελιπαρήκατε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "721.2",
+      "text": "δεόμενοί μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "722",
+      "text": "(Νι) σοῦ δεόμενοι; δεῦρο δή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "722.1",
+      "text": "(Μο) δήσεις μ’ ἴσως;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "722.2",
+      "text": "(Δη) μηδαμῶς. ἔξω κόμιζε δεῦρο τὴν νύμφην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "723.1",
+      "text": "Νι δοκεῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "723.2",
+      "text": "Δη πάνυ μὲν οὖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "724",
+      "text": "Μο εἰ τοῦτ’ ἐποίεις εὐθύς, οὐκ ἂν πράγματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "725",
+      "text": "εἶχες, ὦ πάτερ, φιλοσοφῶν ἄρτι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "725.1",
+      "text": "Νι πρόαγε δὴ σύ μοι. —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "725.2",
+      "text": "μαρτύρων ἐναντίον σοι τήνδ’ ἐγὼ δίδωμ’ ἔχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "725.3",
+      "text": "γνησίων παίδων ἐπ’ ἀρότωι, προῖκα τἀμὰ πάνθ’ ὅταν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "725.4",
+      "text": "ἀποθάνω γ’, ὃ μὴ γένοιτ’, ἀλλ’ 〈εἰσ〉αεὶ ζώιην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "728.1",
+      "text": "(Μο) ἔχω,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "728.2",
+      "text": "λαμβάνω, στέργω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "729",
+      "text": "(Δη) τὸ λοιπόν ἐστι λουτρὰ μετιέναι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "730.1",
+      "text": "Χρυσί, πέμπε τὰς γυναῖκας, λουτροφόρον, αὐλητρίδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "730.2",
+      "text": "δεῦρο δ’ ἡμῖν ἐκδότω τις δᾶιδα καὶ στεφάνους, ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "730.3",
+      "text": "συμπροπέμπωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "732",
+      "text": "(?Μο) πάρεστιν ὅδε φέρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "732.1",
+      "text": "(Δη) πύκαζε σὺ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "732.2",
+      "text": "κρᾶτα καὶ κόσμει σεαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "733",
+      "text": "(Μο) ἀλλ’ ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "733.1",
+      "text": "(Δη) παῖδες καλοί,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "733.2",
+      "text": "μειράκια, γέροντες, ἄνδρες, πάντες εὐρώστως ἅμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "735.1",
+      "text": "πεμψ̣[α]τ’ εὐνοίας προφήτην Βακχίωι φίλον κρότον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "735.2",
+      "text": "ἡ δὲ καλλίστων ἀγώνων πάρεδρος ἄφθιτος θεὰ εὐμενὴς ἕποιτο Νίκη τοῖς ἐμοῖς ἀεὶ χοροῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hps-av",
+      "title": {
+        "english": "Apparition",
+        "ancient_greek": "Φάντασμα"
+      },
+      "url_slug": "menander-of-athens-apparition-hps-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/apparition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.json"
+      }
+    },
+    {
+      "eul_wid": "hps-az",
+      "title": {
+        "english": "Arbitration",
+        "ancient_greek": "Διαιτησία"
+      },
+      "url_slug": "menander-of-athens-arbitration-az-hps-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ax",
+      "title": {
+        "english": "Carthaginian",
+        "ancient_greek": "Καρχηδόνιος"
+      },
+      "url_slug": "menander-of-athens-carthaginian-hps-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ba",
+      "title": {
+        "english": "Citharist",
+        "ancient_greek": "Κιθαριστής"
+      },
+      "url_slug": "menander-of-athens-citharist-hps-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.json"
+      }
+    },
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bp",
+      "title": {
+        "english": "Colax",
+        "ancient_greek": "Κόλαξ"
+      },
+      "url_slug": "menander-of-athens-colax-hps-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ak",
+      "title": {
+        "english": "Colax, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κόλακος"
+      },
+      "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ay",
+      "title": {
+        "english": "Coneazomenae",
+        "ancient_greek": "Κονεαζόμεναι"
+      },
+      "url_slug": "menander-of-athens-coneazomenae-hps-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/coneazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ar",
+      "title": {
+        "english": "Double Deceiver",
+        "ancient_greek": "Διπλοῦς Ἀπατεών"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-ar-hps-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.json"
+      }
+    },
+    {
+      "eul_wid": "hps-as",
+      "title": {
+        "english": "Doubtful Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα"
+      },
+      "url_slug": "menander-of-athens-doubtful-fragment-hps-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gzy-ab",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-ab-gzy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-ab.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ah",
+      "title": {
+        "english": "Comedians",
+        "ancient_greek": "Κωμῳδούμενοι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-comedians-kfu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/comedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/comedians.json"
+      }
+    },
+    {
+      "eul_wid": "jag-aa",
+      "title": {
+        "english": "Fragments on Cookery and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας καὶ Φιλοσοφίας"
+      },
+      "url_slug": "damoxenus-the-comic-poet-cookery-philosophy-aa-jag-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damoxenus-the-comic-poet/cookery-philosophy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damoxenus-the-comic-poet/cookery-philosophy-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ios-aa",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-aa-ios-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.json"
+      }
+    },
+    {
+      "eul_wid": "fgo-ab",
+      "title": {
+        "english": "Fragments on Divine Judgment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Κρίσεως"
+      },
+      "url_slug": "araros-son-of-aristophanes-divine-judgment-fgo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/araros-son-of-aristophanes/divine-judgment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/divine-judgment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/divine-judgment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/divine-judgment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/araros-son-of-aristophanes/divine-judgment.json"
+      }
+    },
+    {
+      "eul_wid": "fka-aa",
+      "title": {
+        "english": "Fragments on Lais the Hetaira",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαΐδος τῆς Ἑταίρας"
+      },
+      "url_slug": "epicrates-the-comic-lais-fragments-aa-fka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicrates-the-comic/lais-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "jjw-aa",
+      "title": {
+        "english": "Fragments on Philosophy and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μωρίας"
+      },
+      "url_slug": "theognetus-the-comic-poet-philosophy-folly-jjw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognetus-the-comic-poet/philosophy-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.json"
+      }
+    },
+    {
+      "eul_wid": "edi-aa",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menander-of-athens/samian-woman",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

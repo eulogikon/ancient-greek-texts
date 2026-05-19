@@ -1,0 +1,608 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mmg-ax",
+  "eul_aid": "mmg",
+  "author_slug": "historical-fragments-anonymous",
+  "work_slug": "parthian-war",
+  "url_slug": "historical-fragments-anonymous-parthian-war-mmg-ax",
+  "author": {
+    "english": "Historical Fragments  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἱστορικός (ἀποσπάσματα)"
+  },
+  "title": {
+    "english": "On the Parthian War",
+    "ancient_greek": "Περὶ τοῦ Παρθικοῦ Πολέμου"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments on Parthian War Anonymous on Eulogikon",
+    "meta_title": "Fragments on the Parthian War Anonymous in Ancient Greek",
+    "meta_description": "Anonymous historical fragments concerning the Roman Parthian War preserved in Greek sources. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On the Parthian War_ is an anonymous Greek historical work that survives only as a collection of thirty-five fragmentary passages. These excerpts do not form a continuous narrative and were likely compiled by a later editor. The fragments concern a conflict between Rome and Parthia, though the specific war referenced cannot be definitively identified from the extant material. The preserved passages relate to themes of Roman-Parthian interaction, including Roman military campaigns in the East, Parthian tactics and leadership, diplomacy and treaties between the empires, and descriptions of battles and regional geography. The work is lost in its original form, and its fragments are preserved within other texts, most notably as part of the _Excerpta historica_, a massive tenth-century compilation project commissioned by the Byzantine Emperor Constantine VII Porphyrogennetos. These excerpts are found in the collection known as the _Excerpta de sententiis_. The fragments’ primary importance lies in their preservation within the Constantinian excerpts, which saved them from complete loss. As a source, they contribute to the modern scholarly reconstruction of fragmentary Roman historiography and the study of Rome’s complex relations with the Parthian Empire.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2b,203,T 1",
+      "text": "LUKIAN. Quom. hist. conscr. 2: ἀφ’ οὗ δὴ τὰ ἐν ποσὶ ταῦτα κεκίνηται, ὁ πόλεμος ὁ πρὸς τοὺς βαρβάρους καὶ τὸ ἐν Ἀρμενίαι τραῦμα καὶ αἱ συνεχεῖς νῖκαι, οὐδεὶς ὅστις οὐχ ἱστορίαν συγγράφει, μᾶλλον δὲ Θουκυδίδαι καὶ Ἡρόδοτοι καὶ Ξενοφῶντες ἡμῖν ἅπαντες, καὶ ὡς ἔοικεν ἀληθὲς ἄρ’ ἦν ἐκεῖνο τὸ ‘πόλεμος ἁπάντων πατήρ‘, εἴ γε καὶ συγγραφέας τοσούτους ἀνέφυσεν ὑπὸ μιᾶι τῆι ὁρμῆι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,T 2",
+      "text": "——14: ἐγὼ δ’ οὖν καὶ διηγήσομαι ὁπόσα μέμνημαι ἔναγχος ἐν Ἰωνίαι συγγραφέων τινῶν, καὶ νὴ Δία ἐν Ἀχαίαι πρώιην ἀκούσας τὸν αὐτὸν τοῦτον πόλεμον διηγουμένων, καὶ πρὸς Χαρίτων, μηδεὶς ἀπιστήσηι τοῖς λεχθησομένοις· ὅτι γὰρ ἀληθῆ ἐστι κἂν ἐπωμοσάμην, εἰ ἀστεῖον ἦν ὅρκον ἐντιθέναι συγγράμματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 1",
+      "text": "LUKIAN. Quom. hist. conscr. 18:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 1a",
+      "text": "καὶ μὴν οὐδ’ ἐκείνου ὅσιον ἀμνημονῆσαι, ὃς τοιάνδε ἀρχὴν ἤρξατο « ἔρχομαι ἐρέων περὶ Ῥωμαίων καὶ Περσέω ν» .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 1b",
+      "text": "καὶ μικρὸν ὕστερον « ἔδεε γὰρ Πέρσηισι γενέσθαι κακῶ ς» .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 1c",
+      "text": "καὶ πάλιν « ἦν Ὀσρόη ς , τὸν οἱ Ἕλληνες Ὀξυρόην ὀνυμέουσ ι»· καὶ ἄλλα πολλὰ τοιαῦτα. ὁρᾶις; ὅμοιος οὗτος ἐκείνωι, παρ’ ὅσον ὁ μὲν Θουκυδίδηι, οὗτος δὲ Ἡροδότωι εὖ μάλα ἐώικει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2",
+      "text": "——19—21:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2a",
+      "text": "ἄλλος τις ἀοίδιμος ἐπὶ λόγων δυνάμει Θουκυδίδηι καὶ αὐτὸς ὅμοιος ἢ ὀλίγωι ἀμείνων αὐτοῦ, πάσας πόλεις καὶ πάντα ὄρη καὶ πεδία καὶ ποταμοὺς ἑρμηνεύσας πρὸς τὸ σαφέστατον καὶ ἰσχυρότατον, ὡς ὤιετο. τὸ δὲ ἐς ἐχθρῶν κεφαλὰς ὁ Ἀλεξίκακος τρέψειε· τοσαύτη ψυχρότης ἐνῆν ὑπὲρ τὴν Κασπίαν χιόνα καὶ τὸν κρύσταλλον τὸν Κελτικόν. ἡ γοῦν ἀσπὶς ἡ τοῦ αὐτοκράτορος ὅλωι βιβλίωι μόγις ἐξηρμηνεύθη αὐτῶι, καὶ Γοργὼν ἐπὶ τοῦ ὀμφαλοῦ καὶ οἱ ὀφθαλμοὶ αὐτῆς ἐκ κυανοῦ καὶ λευκοῦ καὶ μέλανος, καὶ ζώνη ἰριοειδὴς καὶ δράκοντες ἑλικηδὸν καὶ βοστρυχηδόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2b",
+      "text": "ἡ μὲν γὰρ Οὐολογέσου ἀναξυρὶς ἢ ὁ χαλινὸς τοῦ ἵππου, Ἡράκλεις, ὅσαι μυριάδες ἐπῶν ἕκαστον τούτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2c",
+      "text": "καὶ οἵα ἦν ἡ Ὀσρόου κόμη διανέοντος τὸν Τίγρητα, καὶ ἐς οἷον ἄντρον κατέφυγε, κιττοῦ καὶ μυρρίνης καὶ δάφνης ἐς ταὐτὸ συμπεφυκότων καὶ σύσκιον ἀκριβῶς ποιούντων αὐτό. ........",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2d",
+      "text": "οὗτος δ’ οὖν ... καὶ τραύματα συνέγραψε πάνυ ἀπίθανα καὶ θανάτους ἀλλοκότους, ὡς εἰς δάκτυλον τοῦ ποδὸς τὸν μέγαν τρωθείς τις αὐτίκα ἐτελεύτησε καὶ ὡς ἐμβοήσαντος μόνον Πρίσκου τοῦ στρατηγοῦ ἑπτὰ καὶ εἴκοσι τῶν πολεμίων ἐξέθανον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2e",
+      "text": "ἔτι δὲ καὶ ἐν τῶι τῶν νεκρῶν ἀριθμῶι, τοῦτο μὲν καὶ παρὰ τὰ γεγραμμένα ἐν ταῖς τῶν ἀρχόντων ἐπιστολαῖς ἐψεύσατο· ἐπὶ γὰρ Εὐρώπωι τῶν μὲν πολεμίων ἀποθανεῖν μυριάδας ἑπτὰ καὶ τριάκοντα καὶ ἓξ πρὸς τοῖς διακοσίοις, Ῥωμαίων δὲ μόνους δύο, καὶ τραυματίας γενέσθαι ἐννέα. .....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2f",
+      "text": "καὶ μὴν κἀκεῖνο λεκτέον ... ὑπὸ γὰρ τοῦ κομιδῆι Ἀττικὸς εἶναι καὶ ἀποκεκαθάρθαι τὴν φωνὴν ἐς τὸ ἀκριβέστατον ἠξίωσεν οὗτος καὶ τὰ ὀνόματα μεταποιῆσαι τὰ Ῥωμαίων καὶ μετεγγράψαι ἐς τὸ Ἑλληνικόν, ὡς Κρόνιον μὲν 〈τὸν〉 Σατουρνῖνον λέγειν, Φρόντιν δὲ τὸν Φρόντωνα, Τιτάνιον δὲ τὸν Τιτιανόν, καὶ ἄλλα πολλῶι γελοιότερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 2g",
+      "text": "ἔτι ὁ αὐτὸς οὗτος περὶ τῆς Σεουηριανοῦ τελευτῆς ἔγραψεν, ὡς οἱ μὲν ἄλλοι ἅπαντες ἐξηπάτηνται οἰόμενοι ξίφει τεθνάναι αὐτόν, ἀποθάνοι δὲ ὁ ἀνὴρ σιτίων ἀποσχόμενος· τοῦτον γὰρ αὐτῶι ἀλυπότατον δόξαι τὸν θάνατον—οὐκ εἰδὼς ὅτι τὸ μὲν πάθος ἐκεῖνο πᾶν τριῶν̣ οἶμαι ἡμερῶν ἐγένετο, ἀπόσιτοι δὲ καὶ ἐς ἑβδόμην διαρκοῦσιν οἱ πολλοί· ἐκτὸς εἰ μὴ τοῦθ’ ὑπολάβοι τις, ὡς Ὀσρόης [τις] εἱστήκει περιμένων, ἔστ’ ἂν Σεουηριανὸς λιμῶι ἀπόληται, καὶ διὰ τοῦτο οὐκ ἐπῆγε διὰ τῆς ἑβδόμης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3",
+      "text": "LUKIAN. Quom. hist. conscr. 22: τοὺς δὲ καὶ ποιητικοῖς ὀνόμασιν ... ἐν ἱστορίαι χρωμένους ποῦ ἄν τις θείη, τοὺς λέγοντας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3a",
+      "text": "« ἐλέλιξε μὲν ἡ μηχαν ή , τὸ τεῖχος δὲ πεσὸν μεγάλως ἐδούπησ ε. »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3b",
+      "text": "καὶ πάλιν ἐν ἑτέρωι μέρει τῆς καλῆς ἱστορίας· « Ἔδεσσα μὲν δὴ οὕτω τοῖς ὅπλοις περιεσμαραγεῖτ ο , καὶ ὄτοβος ἦν καὶ κόναβος ἅπαντα ἐκεῖν α. »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3c",
+      "text": "καὶ « ὁ στρατηγὸς ἐμερμήριζεν ὧι τρόπωι μάλιστα προσαγάγοι πρὸς τὸ τεῖχο ς. »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3d",
+      "text": "εἶτα μεταξὺ οὕτως εὐτελῆ ὀνόματα καὶ δημοτικὰ καὶ πτωχικὰ πολλὰ παρενεβέβυστο, τὸ « ἐπέστειλεν ὁ στρατοπεδάρχης τῶι κυρίω ι· »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3e",
+      "text": "καὶ « οἱ στρατιῶται ἠγόραζον τὰ ἐγχρήιζοντ α. »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 3f",
+      "text": "καὶ « ἤδη λελουμένοι περὶ αὐτοὺς ἐγίγνοντ ο, » καὶ τὰ τοιαῦτα. .........",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 4",
+      "text": "——23:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 4a",
+      "text": "καὶ μὴν καὶ ἄλλους ἴδοις ἂν τὰ μὲν προοίμια λαμπρὰ καὶ τραγικὰ καὶ εἰς ὑπερβολὴν μακρὰ συγγράφοντας ........, τὸ σῶμα δὲ αὐτὸ τὸ τῆς ἱστορίας μικρόν τε καὶ ἀγεννὲς ἐπαγαγόντας .... ἴδοις γὰρ ἂν ἀφθόνους τοιούτους συγγραφέας, τοῦ Ῥοδίου κολοσσοῦ τὴν κεφαλὴν ναννώδει σώματι ἐπιτιθέντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 4b",
+      "text": "ἄλλους αὖ ἔμπαλιν ἀκέφαλα τὰ σώματα εἰσάγοντας .... οἳ καὶ προσεταιρίζονται τὸν Ξενοφῶντα οὕτως ἀρξάμενον ‘Δαρείου καὶ Παρυσάτιδος παῖδες γίγνονται δύο‘, καὶ ἄλλους τῶν παλαιῶν, οὐκ εἰδότες, ὡς δυνάμει τινὰ προοίμιά ἐστι λεληθότα τοὺς πολλούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 5",
+      "text": "——24—26: καίτοι ταῦτα πάντα φορητὰ ἔτι, ὅσα ἢ ἑρμηνείας ἢ τῆς ἄλλης διατάξεως ἁμαρτήματά ἐστι· τὸ δὲ καὶ περὶ τοὺς τόπους αὐτοὺς ψεύδεσθαι, οὐ παρασάγγας μόνον ἀλλὰ καὶ σταθμοὺς ὅλους, τίνι τῶν καλῶν ἔοικεν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 5a",
+      "text": "εἷς γοῦν οὕτω ῥαιθύμως συνήγαγε τὰ πράγματα ... ὥστε περὶ Εὐρώπου λέγων οὕτως ἔφη· « ἡ δὲ Εὔρωπος κεῖται μὲν ἐν τῆι Μεσοποταμίαι σταθμοὺς δύο τοῦ Εὐφράτου ἀπέχουσ α , ἀπώικισαν δὲ αὐτὴν Ἐδεσσαῖο ι. »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 5b",
+      "text": "καὶ οὐδὲ τοῦτο ἀπέχρησεν αὐτῶι, ἀλλὰ καὶ τὴν ἐμὴν πατρίδα τὰ Σαμόσατα ὁ αὐτὸς ἐν τῶι αὐτῶι βιβλίωι ἀράμενος ὁ γενναῖος αὐτῆι ἀκροπόλει καὶ τείχεσι μετέθηκεν ἐς τὴν Μεσοποταμίαν, ὡς περιρρεῖσθαι αὐτὴν ὑπ’ ἀμφοτέρων τῶν ποταμῶν, ἑκατέρωθεν ἐν χρῶι παραμειβομένων καὶ μονονουχὶ τοῦ τείχους ψαυόντων ....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 5c",
+      "text": "νὴ Δία κἀκεῖνο κομιδῆι πιθανὸν περὶ τοῦ Σεουηριανοῦ ὁ αὐτὸς οὗτος εἶπεν, ἐπομοσάμενος ἦ μὴν ἀκοῦσαί τινος τῶν ἐξ αὐτοῦ τοῦ ἔργου διαφυγόντων· οὔτε γὰρ ξίφει ἐθελῆσαι αὐτὸν ἀποθανεῖν οὔτε φαρμάκου πιεῖν οὔτε βρόχου ἅψασθαι, ἀλλά τινα θάνατον ἐπινοῆσαι τραγικὸν καὶ τῆι τόλμηι ξενίζοντα. τυχεῖν μὲν γὰρ αὐτὸν ἔχοντα παμμεγέθη ἐκπώματα ὑάλινα τῆς καλλίστης ὑάλου· ἐπεὶ δὲ πάντως ἀποθανεῖν ἔγνωστο, κατάξαντα τὸν μέγιστον τῶν σκύφων ἑνὶ τῶν θραυμάτων χρήσασθαι εἰς τὴν σφαγήν, ἐντεμόντα τῆι ὑάλωι τὸν λαιμόν. οὕτως οὐ ξιφίδιον, οὐ λογχάριον εὗρεν, ὡς ἀνδρεῖός γε αὐτῶι καὶ ἡρωικὸς ὁ θάνατος γένοιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 5d",
+      "text": "εἶτ’ ἐπειδὴ Θουκυδίδης ἐπιτάφιόν τινα εἶπε τοῖς πρώτοις τοῦ πολέμου ἐκείνου νεκροῖς, καὶ αὐτὸς ἡγήσατο χρῆναι ἐπειπεῖν τῶι Σεουηριανῶι· ἅπασι γὰρ αὐτοῖς πρὸς τὸν οὐδὲν αἴτιον τῶν ἐν Ἀρμενίαι κακῶν τὸν Θουκυδίδην ἡ ἅμιλλα. θάψας οὖν τὸν Σεουηριανὸν μεγαλοπρεπῶς ἀναβιβάζεται ἐπὶ τὸν τάφον Ἀφράνιόν τινα Σίλωνα ἑκατόνταρχον ..., ὃς τοιαῦτα καὶ τοσαῦτα ἐπερρητόρευσεν αὐτῶι, ὥστε με νὴ τὰς Χάριτας πολλὰ πάνυ δακρῦσαι ὑπὸ τοῦ γέλωτος· καὶ μάλιστα ὁπότε ὁ ῥήτωρ ὁ Ἀφράνιος ἐπὶ τέλει τοῦ λόγου δακρύων ἅμα σὺν οἰμωγῆι περιπαθεῖ ἐμέμνητο τῶν πολυτελῶν ἐκείνων δείπνων καὶ προπόσεων, εἶτα ἐπέθηκεν Αἰάντειόν τινα τὴν κορωνίδα. σπασάμενος γὰρ τὸ ξίφος, εὐγενῶς πάνυ καὶ ὡς Ἀφράνιον εἰκὸς ἦν, πάντων ὁρώντων ἀπέσφαξεν ἑαυτὸν ἐπὶ τῶι τάφωι ... καὶ τοῦτο ἔφη ἰδόντας τοὺς παρόντας ἅπαντας θαυμάσαι καὶ ὑπερεπαινέσαι τὸν Ἀφράνιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 6",
+      "text": "LUKIAN. Quom. hist. conscr. 28: ἐγὼ γοῦν ἤκουσά τινος τὴν μὲν ἐπ’ Εὐρώπωι μάχην ἐν οὐδ’ ὅλοις ἑπτὰ ἔπεσι παραδραμόντος, εἴκοσι δὲ μέτρα ἢ ἔτι πλείω ὕδατος ἀναλωκότος ἐς ψυχρὰν καὶ οὐδὲν ἡμῖν προσήκουσαν διήγησιν, ὡς Μαῦρός τις ἱππεὺς Μαυσάκας τοὔνομα ὑπὸ δίψους πλανώμενος ἀνὰ τὰ ὄρη καταλάβοι Σύρους τινὰς τῶν ἀγροίκων ἄριστον παρατιθεμένους· καὶ ὅτι τὰ μὲν πρῶτα ἐκεῖνοι φοβηθεῖεν αὐτόν, εἶτα μέντοι μαθόντες ὡς τῶν φίλων εἴη κατεδέξαντο καὶ εἱστίασαν· καὶ γάρ τινα τυχεῖν αὐτῶν ἀποδεδημηκότα καὶ αὐτὸν ἐς τὴν τῶν Μαύρων, ἀδελφοῦ αὐτῶι ἐν τῆι γῆι στρατευομένου. μῦθοι τὸ μετὰ τοῦτο μακροὶ καὶ διηγήσεις, ὡς θηράσειεν αὐτὸς ἐν τῆι Μαυρουσίαι καὶ ὡς ἴδοι τοὺς ἐλέφαντας πολλοὺς ἐν τῶι αὐτῶι συννεμομένους καὶ ὡς ὑπὸ λέοντος ὀλίγου δεῖν καταβρωθείη, καὶ ἡλίκους ἰχθῦς ἐπρίατο ἐν Καισαρείαι. καὶ ὁ θαυμαστὸς συγγραφεὺς ἀφεὶς τὰς ἐν Εὐρώπωι γιγνομένας σφαγὰς τοσαύτας καὶ ἐπελάσεις καὶ σπονδὰς ἀναγκαίας καὶ φυλακὰς καὶ ἀντιφυλακὰς ἄχρι βαθείας ἑσπέρας ἐφειστήκει ὁρῶν Μαλχίωνα τὸν Σύρον ἐν Καισαρείαι σκάρους παμμεγέθεις ἀξίους ὠνούμενον· εἰ δὲ μὴ νὺξ κατέλαβε, τάχ’ ἂν καὶ συνεδείπνει μετ’ αὐτοῦ ἤδη τῶν σκάρων ἐσκευασμένων. .... καίτοι πόσα ἄλλα μακρῶι ἀναγκαιότερα ἑκὼν ἐγὼ νῦν παρίημι· ὡς καὶ αὐλητρὶς ἧκεν ἐκ τῆς πλησίον κώμης αὐτοῖς καὶ ὡς δῶρα ἀλλήλοις ἀντέδοσαν, ὁ Μαῦρος μὲν τῶι Μαλχίωνι λόγχην, ὁ δὲ τῶι Μαυσάκαι πόρπην, καὶ ἄλλα πολλὰ τοιαῦτα τῆς ἐπ’ Εὐρώπωι μάχης αὐτὰ δὴ τὰ κεφάλαια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 7",
+      "text": "LUKIAN. Quom. hist. conscr. 31:",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 7a",
+      "text": "ἤδη δ’ ἐγώ τινος καὶ τὰ μέλλοντα συγγεγραφότος ἤκουσα, καὶ τὴν λῆψιν τὴν Οὐολογέσου καὶ τὴν Ὀσρόου σφαγήν, ὡς παραβληθήσεται τῶι λέοντι, καὶ ἐπὶ πᾶσι τὸν τριπόθητον ἡμῖν θρίαμβον. οὕτω μαντικῶς ἅμα ἔχων ἔσπευδεν ἤδη πρὸς τὸ τέλος τῆς γραφῆς. ἀλλὰ καὶ πόλιν ἤδη ἐν τῆι Μεσοποταμίαι ὤικισε μεγέθει τε μεγίστην καὶ κάλλει καλλίστην· εἶτα μέντοι ἐπισκοπεῖ καὶ διαβουλεύεται εἴτε Νίκαιαν αὐτὴν ἀπὸ τῆς νίκης χρὴ ὀνομάζεσθαι εἴτε Ὁμόνοιαν εἴτε Εἰρηνίαν. καὶ τοῦτο μὲν ἔτι ἄκριτον, καὶ ἀνώνυμος ἡμῖν ἡ καλὴ πόλις ἐκείνη, λήρου πολλοῦ καὶ κορύζης συγγραφικῆς γέμουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 7b",
+      "text": "τὰ δ’ ἐν Ἰνδοῖς πραχθησόμενα ὑπέσχετο ἤδη συγγράψειν καὶ τὸν περίπλουν τῆς ἔξω θαλάσσης. καὶ οὐχ ὑπόσχεσις ταῦτα μόνον, ἀλλὰ καὶ τὸ προοίμιον τῆς Ἰνδικῆς ἤδη συντέτακται, καὶ τὸ τρίτον τάγμα καὶ οἱ Κελτοὶ καὶ Μαύρων μοῖρα ὀλίγη σὺν Κασσίωι πάντες οὗτοι ἐπεραιώθησαν τὸν Ἰνδὸν ποταμόν· ὅ τι δὲ καὶ πράξουσιν ἢ πῶς δέξονται τὴν τῶν ἐλεφάντων ἐπέλασιν, οὐκ εἰς μακρὰν ἡμῖν ὁ θαυμαστὸς συγγραφεὺς ἀπὸ Μουζίριδος ἢ ἀπ’ Ὀξυδρακῶν ἐπιστελεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 7c",
+      "text": "——32: καὶ γὰρ αὖ καὶ αὗται (sc. αἱ ἐπιγραφαί) παγγέλοιοι· « τοῦ δεῖνος Παρθικῶν νικῶν τοσάδ ε. »",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,203,F 8",
+      "text": "——32: καὶ αὖ· « Παρθίδος πρῶτο ν , δεύτερο ν. »",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mmg-ag",
+      "title": {
+        "english": "Annals of the Third Syrian War",
+        "ancient_greek": "Χρονικὰ τοῦ Τρίτου Συριακοῦ Πολέμου"
+      },
+      "url_slug": "historical-fragments-anonymous-third-syrian-war-mmg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/third-syrian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ao",
+      "title": {
+        "english": "Anonymous Corinthian",
+        "ancient_greek": "Ἀνώνυμος Κορίνθιος"
+      },
+      "url_slug": "historical-fragments-anonymous-corinthian-mmg-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/corinthian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bb",
+      "title": {
+        "english": "Anonymous Exegete",
+        "ancient_greek": "Ἀνώνυμος Ἐξηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-exegete-mmg-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/exegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-az",
+      "title": {
+        "english": "Anonymous Milesian",
+        "ancient_greek": "Ἀνώνυμος Μιλήσιος"
+      },
+      "url_slug": "historical-fragments-anonymous-milesian-mmg-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/milesian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-av",
+      "title": {
+        "english": "Anonymous Periegete",
+        "ancient_greek": "Ἀνώνυμος Περιηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-periegete-mmg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/periegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-al",
+      "title": {
+        "english": "Anonymous Philosopher",
+        "ancient_greek": "Ἀνώνυμος Φιλόσοφος"
+      },
+      "url_slug": "historical-fragments-anonymous-philosopher-mmg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-aa",
+      "title": {
+        "english": "Anonymous from the Histories of Polybius",
+        "ancient_greek": "Ἀνώνυμος ἐκ τῶν Ἱστοριῶν Πολυβίου"
+      },
+      "url_slug": "historical-fragments-anonymous-polybius-mmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/polybius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ab",
+      "title": {
+        "english": "Anonymous-the Founding of Hermopolis",
+        "ancient_greek": "Ἀνώνυμος Περὶ τῆς Κτίσεως Ἑρμοπόλεως"
+      },
+      "url_slug": "historical-fragments-anonymous-founding-hermopolis-mmg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/founding-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ap",
+      "title": {
+        "english": "Chronicle of Archons",
+        "ancient_greek": "Χρονικὴ Ἀρχόντων"
+      },
+      "url_slug": "historical-fragments-anonymous-chronicle-mmg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-aw",
+      "title": {
+        "english": "Eupatridae Ancestry",
+        "ancient_greek": "Εὐπατριδῶν πάτρια"
+      },
+      "url_slug": "historical-fragments-anonymous-eupatridae-mmg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bm",
+      "title": {
+        "english": "Handbook",
+        "ancient_greek": "Ἐγχειρίδιον"
+      },
+      "url_slug": "historical-fragments-anonymous-handbook-mmg-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/handbook",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-aq",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "historical-fragments-anonymous-historical-mmg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/historical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kic-aa",
+      "title": {
+        "english": "Fragments on Proper Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων"
+      },
+      "url_slug": "echephylidas-the-historian-proper-names-kic-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/echephylidas-the-historian/proper-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian/proper-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian/proper-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian/proper-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/echephylidas-the-historian/proper-names.json"
+      }
+    },
+    {
+      "eul_wid": "ecy-ab",
+      "title": {
+        "english": "Historical Fragments on Greek Affairs",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα περὶ Ἑλληνικῶν Πραγμάτων"
+      },
+      "url_slug": "hellenica-anon-historical-fragments-ecy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "cdk-aa",
+      "title": {
+        "english": "On Rhodian Sacrifices",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "gorgon-the-historian-rhodian-sacrifices-cdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.json"
+      }
+    },
+    {
+      "eul_wid": "lpo-aa",
+      "title": {
+        "english": "On the Arcadian Beauty Contest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "nicias-of-nicaea-arcadian-beauty-contest-lpo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicias-of-nicaea/arcadian-beauty-contest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.json"
+      }
+    },
+    {
+      "eul_wid": "eug-aa",
+      "title": {
+        "english": "On the Delphic Oracle and Offerings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxandridas-the-historian-delphic-oracle-eug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandridas-the-historian/delphic-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.json"
+      }
+    },
+    {
+      "eul_wid": "izw-ab",
+      "title": {
+        "english": "On the Pontus River",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "agathocles-of-cyzicus-pontus-river-izw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathocles-of-cyzicus/pontus-river",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-al",
+      "title": {
+        "english": "Roman Antiquities",
+        "ancient_greek": "Ῥωμαϊκὴ Ἀρχαιολογία"
+      },
+      "url_slug": "dionysius-of-halicarnassus-roman-antiquities-ndy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/roman-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.json"
+      }
+    },
+    {
+      "eul_wid": "spm-aa",
+      "title": {
+        "english": "Summary from the Founding of the City, Paeanian Translation",
+        "ancient_greek": "Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως"
+      },
+      "url_slug": "eutropius-the-historian-summary-city-spm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutropius-the-historian/summary-city",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/historical-fragments-anonymous/parthian-war",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/parthian-war.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/parthian-war.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/parthian-war.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/parthian-war.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

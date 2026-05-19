@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "uxw-af",
+  "eul_aid": "uxw",
+  "author_slug": "john-of-caesarea-in-palestine",
+  "work_slug": "syllogisms",
+  "url_slug": "john-of-caesarea-in-palestine-syllogisms-uxw-af",
+  "author": {
+    "english": "John of Caesarea in Palestine",
+    "ancient_greek": "Ἰωάννης ὁ Καισαρείας τῆς Παλαιστίνης"
+  },
+  "title": {
+    "english": "Syllogisms of the Holy Fathers",
+    "ancient_greek": "Συλλογισμοὶ τῶν Ἁγίων Πατέρων"
+  },
+  "seo": {
+    "browser_title": "Syllogisms of Holy Fathers by John of Caesarea on Eulogikon",
+    "meta_title": "Syllogisms of the Holy Fathers by John of Caesarea in Greek",
+    "meta_description": "This late antique grammatical treatise compiles logical syllogisms drawn from the writings of the Church Fathers. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Syllogisms of the Holy Fathers</strong> is a treatise attributed to John of Caesarea in Palestine. Its title indicates a work dedicated to the logical analysis of doctrinal arguments derived from the writings of early Christian Church Fathers. The text presents a series of formal syllogisms, employing the structured reasoning of Aristotelian logic to examine and defend theological propositions. A primary focus of the extant passages is a systematic refutation of Manichaean dualism, particularly the concept of an eternal, substantial evil. Through sequential logical deductions, the treatise argues that evil is neither uncreated nor a substance but is instead corruptible, mutable, and subject to divine punishment. This methodological application of logical analysis to patristic authority suggests the work served an educational or catechetical function, likely within a late antique or early Byzantine pedagogical context. While its manuscript tradition and preservation status remain unverified in standard scholarly references, the treatise exemplifies the integration of classical philosophical tools into the service of Christian doctrinal exposition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΣΥΛΛΟΓΙΣΜΟΙ ΑΓΙΩΝ ΠΑΤΕΡΩΝ 1. Πᾶν κακὸν κολαστέον· οὐδὲν δὲ κολαστέον ἄφθαρτον· οὐδὲν ἄρα κακὸν ἄφθαρτον. 2. Οὐδὲν φθαρτὸν ἀγένητον· ἔστι δὲ τὸ κακὸν φθαρτόν· τὸ ἄρα κακὸν οὐκ ἀγένητον. 3. Αἱ θεῖαι γραφαὶ κολάσει παραδίδοσθαι 〈οὐ τοὺς ἄλλους κακοὺς μόνον, ἀλλὰ καὶ αὐτὸν〉 τὸν διάβολόν φασιν· πᾶν δὲ 〈τὸ〉 κολάσει παραδιδόμενον τρεπτόν· οὐδὲν δὲ τρεπτὸν ἀγένητον· οὐδὲν ἄρα τῶν κακῶν ἀγένητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "4. Οὐδὲν ἀγένητον τρεπτόν· τρέπεται δὲ τὸ κακὸν κρατηθὲν ὑπὸ τοῦ ἀγαθοῦ· τὸ ἄρα κακὸν οὐκ ἀγένητον. 5. Τὸ μερικὸν ἀγαθὸν καὶ τὸ κακὸν τρέπεται· οὐ γάρ ἐστιν ἀγένητα. Τὸ δὲ οὐσιῶδες ἀγαθὸν ἄτρεπτον. Τὸ δὲ κακόν, ὅ φασιν οἱ Μανιχαῖοι οὐσιῶδες εἶναι, τρεπτόν ἐστιν, εἴ γε καὶ αὐτοὶ ὁμολογοῦσιν αὐτὸ εἶναι κολαστέον. 6. Οὐδὲν κατ’ οὐσίαν κακόν, τῷ τὸ κακὸν ποιὸν εἶναι· οὐδὲν δὲ ποιὸν οὐσία. Τὸ ἄρα κακὸν οὐκ οὐσία. 7. Πάντα τὰ ἐναντία ἀλλήλων ἐστὶ φθαρτικά· τὰ δὲ ἀγένητα ἄφθαρτα· τὰ ἄρα ἐναντία οὐκ ἀγένητα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "8. Πᾶς ὁ εὐλόγως ὀρεγόμενός τινος ἐπιτετευγμένην ἔχει τὴν ὄρεξιν, ἧς εὐλόγως ὀρέγεται· θεὸς δὲ φθεῖραι τὴν κακίαν ὀρέγεται· τῶν φθαρτῶν ἄρα ἐστὶν ἡ κακία· τῶν δὲ φθαρτῶν οὖσα ἀφανισθήσεται· ἀφανιζομένη δέ, οὐκ ἔστιν ἀγένητος. 9. Εἰ ἀγένητον τὸ κακόν, κατὰ φύσιν αὐτῷ ὑπάρχει τὸ κακὸν εἶναι· οὐδεὶς δὲ τὸ κατὰ φύσιν ἐνεργῶν ἁμαρτάνει· τὸ ἄρα κακὸν οὐχ ἁμαρτάνει· τὸ μὴ ἁμαρτάνον οὐχ ὑπαίτιον· ὑπαίτιος δὲ ὁ Σατανᾶς· οὐκ ἄρα ἀγένητος. 10. Φασί τινες, εἰ μεταποιεῖ τοὺς φαύλους ἡ κόλασις, ἀγαθὴν αὐτὴν εἶναι· εἰ δὲ ἡ κόλασις ἀγαθή, ἐναντία δὲ ταύτῃ ἡ ἐπαγγελία τῶν ἀγαθῶν, τὰ δὲ ἐναντία οὐ δύναται ἅμα ἀγαθὰ εἶναι, ἡ ἄρα ἐπαγγελία κακόν. 〈Ἀλλὰ θεὸς ὑπισχνεῖται ταύτην· οὐκ ἄρα κακόν.〉 Μὴ κακοῦ δὲ τῆς ἐπαγγελίας, ἀλλ’ ἀγαθοῦ οὔσης, ἡ κόλασίς ἐστι κακόν. Εἰ δὲ κακὸν ἡ κόλασις, ἄρα οὐχ ὁ θεός, ἀλλ’ ὁ Σατανᾶς αὐτὴν ἐπιφέρει· ἐπιφέρει δὲ τὴν κόλασιν οὐ τοῖς ἑαυτοῦ· εἰσὶ γὰρ ὡς αὐτὸς πονηροί, καὶ ἀνάγκη καὶ αὐτὸν ὄντα πονηρὸν ὑποπίπτειν τῇ κολάσει. Τῷ ἄρα ἀγαθῷ ἐποίσει αὐτήν· ἀλλ’ ἀδύνατον τοῦτο· οὐκ ἄρα ὁ πονηρὸς αὐτὴν ἐπιφέρει, ἀλλ’ ὁ θεός. Πρὸς οὓς ῥητέον· πᾶν τὸ ὑπὸ θεοῦ ἐπιφερόμενον χρησίμως ἐπιφέρεται, τυγχάνον ἀγαθὸν ἢ ἀγαθοῦ ποιητικὸν ἢ κωλυτικὸν κακοῦ· ὁ γὰρ θεὸς κωλύειν τὸ κακὸν βουλόμενος ἐπιφέρει τοῦτο· οὐκ ἂν δὲ ἐπεχείρει κωλύειν τὸ κακόν, εἰ μὴ δυνατὸν ἦν κωλύεσθαι τὸ κακόν· κωλυόμενον δὲ τοῦτο οὐ δύναται εἶναι φύσει καὶ ἀγένητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "11. Τὸ κακὸν ἐν ταῖς ἐνεργείαις εὑρίσκεται· κακὸν γάρ ἐστι τὸ μεταχειρίζεσθαι τοὺς λογικοὺς τὰ κατὰ φύσιν οὐ δέοντας ... 12. Τὸ ἀγένητον οὐκ ἔστι ὀρεκτικὸν φθορᾶς τινος, οὐδέ γε φθαρτικόν, τὸ δέ γε κακὸν ὀρεκτικὸν φθορᾶς· τὸ ἄρα κακὸν οὐκ ἀγένητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "13. Τῶν δι’ ὅλων ἐναντιουμένων οὐδὲν κοινόν, ὥστε πᾶσα ἀνάγκη τὸ θατέρῳ ὑπάρχον τῷ λοιπῷ μὴ ὑπάρχειν· ὑπάρχει δὲ τῷ ἀγαθῷ τὸ εἶναι ἀγένητον· τῷ ἄρα κακῷ οὐδέτερον τούτων ὑπάρχει. Μὴ ὂν ἄρα τὸ κακόν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "uxw-ah",
+      "title": {
+        "english": "Against the Aphthartodocetae",
+        "ancient_greek": "Κατὰ Ἀφθαρτοδοκητῶν"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-aphthartodocetae-uxw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-aphthartodocetae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ad",
+      "title": {
+        "english": "Against the Manichaeans, Homily 1",
+        "ancient_greek": "Κατὰ Μανιχαίων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-manichaeans-1-uxw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ae",
+      "title": {
+        "english": "Against the Manichaeans, Homily 2",
+        "ancient_greek": "Κατὰ Μανιχαίων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-manichaeans-2-uxw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-aa",
+      "title": {
+        "english": "Apology of the Council of Chalcedon, Greek Excerpts",
+        "ancient_greek": "Ἀπολογία τῆς Συνόδου τῆς Χαλκηδόνος"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-apology-chalcedon-uxw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/apology-chalcedon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ag",
+      "title": {
+        "english": "Disputation with a Manichaean",
+        "ancient_greek": "Ἀντιλογία πρὸς Μανιχαῖον"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-disputation-manichaean-uxw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/disputation-manichaean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ab",
+      "title": {
+        "english": "On the Gospel According to John Two Excerpts",
+        "ancient_greek": "Περὶ τοῦ Κατὰ Ἰωάννην Εὐαγγελίου Δύο Ἐξαίρετα"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-gospel-john-excerpts-uxw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/gospel-john-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ac",
+      "title": {
+        "english": "Seventeen Chapters-Monophysites",
+        "ancient_greek": "Ἑπτὰ καὶ Δέκα Κεφάλαια Κατὰ Μονοφυσιτῶν"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/seventeen-chapters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tqa-al",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-al-tqa-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-ao",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ao-tqa-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-ap",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ap-tqa-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ap.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ap.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ap.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ap.json"
+      }
+    },
+    {
+      "eul_wid": "vta-af",
+      "title": {
+        "english": "Old Scholia on Iliad",
+        "ancient_greek": "Σχόλια εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-iliad-af-vta-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ag",
+      "title": {
+        "english": "On Grammar",
+        "ancient_greek": "Περὶ γραμματικῆς"
+      },
+      "url_slug": "theodosius-of-alexandria-grammar-vdq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/grammar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bg",
+      "title": {
+        "english": "On Participles",
+        "ancient_greek": "Περὶ μετοχῶν"
+      },
+      "url_slug": "herodian-of-alexandria-participles-qnq-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/participles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/participles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/participles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/participles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/participles.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-aw",
+      "title": {
+        "english": "Scholia-Wasps",
+        "ancient_greek": "Σχόλια εἰς Σφῆκας"
+      },
+      "url_slug": "aristophanes-scholia-wasps-mlw-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wasps",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wasps.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wasps.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wasps.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wasps.json"
+      }
+    },
+    {
+      "eul_wid": "uua-aa",
+      "title": {
+        "english": "Summary of Ethnica",
+        "ancient_greek": "Σύνοψις τῶν Ἐθνικῶν"
+      },
+      "url_slug": "stephen-of-byzantium-ethnica-summary-uua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephen-of-byzantium/ethnica-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephen-of-byzantium/ethnica-summary.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/syllogisms",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
