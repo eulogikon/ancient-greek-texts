@@ -1,0 +1,1532 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tro-ab",
+  "eul_aid": "tro",
+  "author_slug": "aeschylus-scholia",
+  "work_slug": "prototriclinian",
+  "url_slug": "aeschylus-scholia-prototriclinian-tro-ab",
+  "author": {
+    "english": "Aeschylus Scholia",
+    "ancient_greek": "Αἰσχύλου Σχόλια"
+  },
+  "title": {
+    "english": "Prototriclinian Scholia-Aeschylus",
+    "ancient_greek": "Πρωτοτρικλίνια Σχόλια εἰς Αἰσχύλον"
+  },
+  "seo": {
+    "browser_title": "Ancient Prototriclinian Scholia on Aeschylus on Eulogikon",
+    "meta_title": "Prototriclinian Scholia on Aeschylus in Ancient Greek",
+    "meta_description": "Ancient scholia examining the metrical patterns and poetic techniques in Aeschylus's dramatic works. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Prototriclinian Scholia to Aeschylus constitute a significant body of ancient and medieval marginal commentary on the works of the tragedian. The term &quot;Prototriclinian&quot; identifies this material as predating or serving as a source for the later editorial work of the Byzantine scholar Demetrius Triclinius in the fourteenth century. This collection represents a distinct layer within the multi-period tradition of Aeschylean scholia, preserving a synthesis of insights from Hellenistic, Roman, and early Byzantine scholarship. A notable feature of this specific collection is its composition in verse, an uncommon format for such exegetical material. Its content encompasses textual criticism, including notes on variant readings and conjectural emendations, alongside grammatical and linguistic explanations of Aeschylus&#x27;s notoriously difficult and archaic diction. The scholia also elucidate mythological and historical references within the plays and provide analysis of literary features and metrical structure.</p>\n<p class=\"research-text\">The scholia to Aeschylus are transmitted primarily through the tenth-century Medicean Codex, the oldest surviving manuscript containing the seven extant plays. The Prototriclinian material forms an identifiable stratum within this codex&#x27;s rich marginal commentary. These annotations were of fundamental importance for the Byzantine and subsequent Renaissance reception of Aeschylus, providing the foundational material for the earliest printed editions. For modern textual criticism, they remain an indispensable resource for establishing the Aeschylean text and for recovering otherwise lost ancient scholarly interpretations of his drama.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "+ ἡ εἴσθεσις τοῦ παρόντος δράματος ἐκ μονοστροφικῆς ἐστι περιόδου. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ληʹ ὧν τελευταῖος· μαθοῦσιν αὐδῶ κοὐ μαθοῦσι λήθομαι. μετὰ δὲ τὸν κδʹ κῶλον ἰαμβικὸν δίμετρον ἀκατάληκτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39",
+      "text": "στίχοι ληʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40",
+      "text": "+ δέκατον μὲν ἔτος· ὁ παρὼν χορὸς συνέστηκεν ἐκ κώλων σλβʹ ὧν τὰ μὲν ξδʹ ἀναπαιστικὰ δίμετρα ἀκατάληκτα καὶ καταληκτικά, ἤτοι ἑφθημιμερῆ καὶ μονόμετρα. ἑξῆς δὲ μεταβὰς εἰς ἑτέραν ὑπό‐ θεσιν καὶ τὸ μέτρον ἐνήλλαξεν. καί εἰσι τὰ ἑξῆς κῶλα ἀναπαιστικὰ πενθημιμερῆ καὶ ἑφθημιμερῆ καὶ δίμετρα ἀκατάληκτά τινα καὶ μονό‐ μετρα ξδʹ. ἑξῆς δὲ εἰς ἑτέραν ὑπόθεσιν μεταβὰς καὶ ἑτέρωι μέτρωι ἐχρήσατο. καί εἰσι τὰ ἑξῆς κῶλα χοριαμβικὰ δίμετρα καταληκτικά, ἤτοι ἑφθημιμερῆ καὶ ἀκατάληκτα καὶ ἡμιόλια καὶ πενθημιμερῆ καὶ τρίμετρα βραχυκατάληκτα καὶ καταληκτικὰ ρδʹ ὧν τελευταῖον· γαίας μονόφρουρον ἕρκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 41",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 51",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 53",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 120",
+      "text": "ἰαμβικὸν δίμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 138",
+      "text": "δίμετρον ἰαμβικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 258",
+      "text": "+ εἴσθεσις διπλῆς ἀμοιβαίας συνεχοῦς καὶ μονοστροφικῆς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ϙζʹ, ὧν τελευταῖος· χάρις γὰρ οὐκ ἄτιμος εἴργασται πόνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 315",
+      "text": "τοιοῦτον] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 355",
+      "text": "+ ὦ Ζεῦ βασιλεῦ· ὁ παρὼν χορὸς συνέστηκεν ἐκ κώλων ρλϛʹ, ὧν τὰ πρῶτα ιβʹ ἀναπαιστικὰ δίμετρα ἀκατάληκτα καὶ καταληκτικά, ἤτοι ἑφθημιμερῆ καὶ μονόμετρα. τὰ δὲ ἑξῆς ρκαʹ χοριαμβικὰ δίμετρα ἀκατάληκτα καὶ καταληκτικά, ἤτοι ἑφθημιμερῆ καὶ πενθημιμερῆ καὶ ἡμιόλια καὶ τρίμετρα βραχυκατάληκτα καὶ καταληκτικά, ὧν τελευ‐ ταῖον· γυναικογήρυτον ὄλλυται κλέος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 375",
+      "text": "πνεόντων] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 376",
+      "text": "φλεόντων] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 489",
+      "text": "+ εἴσθεσις διπλῆς μονοστροφικῆς καὶ συνεχοῦς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ρϙβʹ, ὧν τελευταῖος· τοσαῦτ’ ἀκούσας ἴσθι τἀληθῆ κλύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 593",
+      "text": "τοιοῦτος] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 681",
+      "text": "+ ὁ παρὼν χορὸς συνέστηκεν ἐκ κώλων ρκζʹ, ὧν τὰ μὲν ρʹ εἰσὶ χοριαμβικὰ δίμετρα ἀκατάληκτα καὶ καταληκτικά, ἤτοι ἑφθημιμερῆ 〈καὶ〉 πενθημιμερῆ καὶ ἡμιόλια καὶ τρίμετρα βραχυκατάληκτα καὶ καταληκτικά. ἑξῆς δὲ μεταβὰς εἰς ἑτέραν ὑπόθεσιν καὶ τὸ μέτρον ἐνήλλαξε. καί εἰσι τὰ ἑξῆς κῶλα ἀναπαιστικὰ δίμετρα ἀκατάληκτα καὶ καταληκτικά, ἤτοι ἑφθημιμερῆ καὶ μονόμετρα κζʹ, ὧν τελευ‐ ταῖον· πόλιν οἰκουροῦντα πολιτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 781",
+      "text": "κῶλα ρʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 782",
+      "text": "+ ἀναπαιστικὰ κῶλα κζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 810",
+      "text": "+ εἴσθεσις διπλῆς μονοστροφικῆς τε καὶ συνεχοῦς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ρξεʹ, ὧν τελευταῖος· μέλοι δέ σοι τοι τῶνπερ ἂν μέλληις τελεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 975",
+      "text": "+ ὁ παρὼν χορὸς συνίσταται ἐκ κώλων χοριαμβικῶν ξʹ, ὧν τὰ μέν ἐστι δίμετρα ἀκατάληκτα, τὰ δὲ καταληκτικά, ἤτοι ἑφθημιμερῆ, τὰ δὲ πενθημιμερῆ καὶ ἡμιόλια καὶ τρίμετρα βραχυκατάληκτα, ὧν τελευταῖον· ζωπυρουμένας φρενός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1035",
+      "text": "+ εἴσθεσις διπλῆς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκα‐ τάληκτοι λζʹ, ὧν τελευταῖος· ἑκοῦς’ ἀνάγκηι τῆιδε καίνισον ζυγόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1071",
+      "text": "στίχοι λζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1072",
+      "text": "+ ὀτοτοτοῖ· εἴσθεσις διπλῆς ἀμοιβαίας τὰς περιόδους 〈μονο‐ στροφικὰσ〉 καὶ συνεχεῖς ἔχουσα. εἰσὶ δὲ οἱ μὲν τοῦ χοροῦ στίχοι ἰαμβικοὶ τρίμετροι ἀκατάληκτοι, τὰ δὲ τοῦ ἑτέρου προσώπου κῶλα ἀντισπαστικά. ἔοικε δὲ ταῦτα στροφῆι καὶ ἀντιστροφῆι, καί εἰσι τῆς μὲν στροφῆς κῶλα βʹ, ὧν τὸ αʹ ἡμιόλιον, τὸ δὲ βʹ πενθημιμερές. ὁμοίως καὶ τῆς ἀντιστροφῆς· τὰ αὐτὰ γάρ εἰσι κῶλα. ἔχουσι δὲ καὶ τοὺς πόδας πεντασυλλάβους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1074-1075",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1075",
+      "text": "τοιοῦτος] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1078-1079",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1080",
+      "text": "+ ἑτέρα στροφὴ ἔχουσα κῶλα γʹ, ὧν τὸ αʹ πενθημιμερές, τὸ βʹ δίμετρον ἀκατάληκτον, τὸ δὲ γʹ ἰαμβικὸς στίχος τρίμετρος ἀκατά‐ ληκτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1083-1084",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1085",
+      "text": "+ ἀντιστροφὴ ἔχουσα κῶλα γʹ ὅμοια τοῖς τῆς στροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1088-1089",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1090",
+      "text": "+ ἑτέρα στροφὴ ἔχουσα κῶλα γʹ, ὧν τὸ αʹ ἀντισπαστικὸν τρίμετρον βραχυκατάληκτον, τὸ βʹ δίμετρον ἀκατάληκτον· ἔχουσι δὲ πεντασυλλάβους πόδας. τὸ δὲ γʹ ἰαμβικὸς τρίμετρος ἀκατάληκτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1093-1094",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1095",
+      "text": "+ ἀντιστροφὴ ἑτέρα ἔχουσα κῶλα γʹ ὅμοια τοῖς τῆς στροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1098-1099",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1100",
+      "text": "+ ἑτέρα στροφὴ ἔχουσα κῶλα εʹ, ὧν τὸ πρῶτον ἀντισπαστικὸν δίμετρον ὑπερκατάληκτον, τὸ βʹ δίμετρον καταληκτικόν, ἤτοι ἑφθ‐ ημιμερές, τὸ γʹ ἰαμβικὸς τρίμετρος ἀκατάληκτος, τὸ δʹ ἀντισπαστικὸν τρίμετρον καταληκτικόν, τὸ δὲ εʹ πενθημιμερές. ἔχουσι δὲ τοὺς πόδας πεντασυλλάβους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1105-1106",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1107",
+      "text": "+ ἑτέρα ἀντιστροφὴ ἔχουσα κῶλα εʹ ὅμοια τοῖς τῆς στροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1112-1113",
+      "text": "ἴαμβοι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1114",
+      "text": "+ ἐντεῦθεν ἑτέρως ἐσχημάτισε τὸ μέτρον καὶ προέθηκε τῆς στροφῆς κῶλόν τι τὸ ἒ ἔ. τὰ δὲ ἑξῆς κῶλά εἰσι εʹ, ὧν τὸ αʹ ἀντισπα‐ στικὸν δίμετρον ὑπερκατάληκτον, τὸ βʹ δίμετρον καταληκτικόν, ἤτοι ἑφθημιμερές, τὸ γʹ ἰαμβικὸν τρίμετρον, τὸ δʹ ὅμοιον τῶι αʹ, τὸ δὲ εʹ τρίμετρον καταληκτικὸν ἀντισπαστικὸν καὶ αὐτό. ἔχουσι δὲ καὶ πεντασυλλάβους πόδας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1119",
+      "text": "+ ἡ στροφὴ αὕτη τοῦ χοροῦ κώλων ἐστὶν ϛʹ, ὧν οἱ πρῶτοι βʹ ἰαμβικοὶ τρίμετροι, τὸ γʹ καὶ δʹ ἀντισπαστικὸν τρίμετρον καταληκτι‐ κόν, τὸ εʹ δίμετρον ὑπερκατάληκτον, τὸ δὲ ϛʹ ἑφθημιμερές. ἔχουσι δὲ καὶ πεντασυλλάβους πόδας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1125",
+      "text": "+ ἀντιστροφή ἐστιν αὕτη τῆς ῥηθείσης στροφῆς καὶ ἔχει κῶλα ἰσόμετρα ἐκείνηι εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1130",
+      "text": "+ τῆς τοῦ χοροῦ στροφῆς αὕτη ἐστὶν ἀντιστροφὴ ἔχουσα κῶλα ὅμοια ϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1136",
+      "text": "+ στροφὴ ἑτέρα κώλων εʹ, ὧν τὸ αʹ μονόμετρον, τὸ βʹ δίμετρον ὑπερκατάληκτον ἀντισπαστικόν, τὸ γʹ τρίμετρον καταληκτικὸν ὅμοιον, τὸ δʹ ἰαμβικὸν τρίμετρον, τὸ εʹ ὅμοιον τῶι γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1140",
+      "text": "+ ἑτέρα στροφὴ τοῦ χοροῦ κώλων ϛʹ ἀντισπαστικῶν, ὧν τὸ αʹ τρίμετρον βραχυκατάληκτον, τὸ βʹ πενθημιμερές, τὸ γʹ δίμετρον ἀκατάληκτον, τὸ δʹ τρίμετρον καταληκτικόν, τὸ εʹ ὅμοιον τῶι αʹ, τὸ ϛʹ ὅμοιον τῶι βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1146",
+      "text": "+ ἀντιστροφὴ τῆς ἄνω στροφῆς κώλων ὁμοίων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1150",
+      "text": "+ ἀντιστροφὴ ἑτέρα τῆς τοῦ χοροῦ στροφῆς κώλων ὁμοίων ϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1156",
+      "text": "+ ἑτέρα στροφὴ κώλων ϛʹ ἀντισπαστικῶν, ὧν τὸ αʹ καὶ βʹ τρίμετρον ἀκατάληκτον, τὸ γʹ τρίμετρον βραχυκατάληκτον, τὸ δʹ πενθημιμερές, τὸ εʹ καὶ ϛʹ ὅμοια τῶι αʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1162",
+      "text": "+ ἑτέρα στροφὴ τοῦ χοροῦ κώλων εʹ ἀντισπαστικῶν, ὧν τὸ αʹ δίμετρον ὑπερκατάληκτον, τὸ βʹ ἑφθημιμερές, τὸ γʹ τρίμετρον κατα‐ ληκτικόν, τὸ δʹ ὅμοιον, τὸ εʹ πενθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1165",
+      "text": "θρεομένας] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1167",
+      "text": "+ ἀντιστροφὴ τῆς ἄνω στροφῆς κώλων ὁμοίων ϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1173",
+      "text": "+ ἀντιστροφὴ τοῦ χοροῦ κώλων ὁμοίων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1178",
+      "text": "+ εἴσθεσις διπλῆς μονοστροφικῆς καὶ συνεχοῦς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ρμθʹ, ὧν τελευταῖος· καὶ ταῦτ’ ἐκείνων μᾶλλον οἰκτείρω πολύ. μετὰ δὲ τὸν λϛʹ κῶλον ἰαμβικὸν δίμετρον ἀκατάληκτον, μετὰ δὲ τὸν ρκζʹ κῶλον ὅμοιον μονόμετρον βραχυκατάληκτον, μετὰ δὲ τὸν ρλδʹ κῶλον ὅμοιον μονόμετρον ἀκα‐ τάληκτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1256",
+      "text": "οἷον] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1330",
+      "text": "στίχοι ρμθʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1331",
+      "text": "+ εἴσθεσις χοροῦ ἐπωιδικὴ διὰ τὸ μετὰ τὴν διπλῆν κεῖσθαι. τὰ δὲ κῶλά εἰσιν ἀναπαιστικὰ ιβʹ ὧν τὸ ϛʹ μονόμετρον, τὰ δὲ λοιπὰ δί‐ μετρα ἀκατάληκτα καὶ καταληκτικά, ἤτοι ἑφθημιμερῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1342",
+      "text": "κῶλα ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1343",
+      "text": "+ εἴσθεσις διπλῆς ἀμοιβαίας καὶ μονοστροφικῆς. οἱ δὲ στίχοι εἰσὶν ξδʹ, ὧν ὁ βʹ καὶ δʹ καὶ εʹ τροχαϊκοὶ τετράμετροι καταληκτικοί. οἱ δὲ λοιποὶ ἰαμβικοὶ τρίμετροι ἀκατάληκτοι, ὧν τελευταῖος· ἔργον δικαίας τέκτονος τάδ’ ὧδ’ ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1352",
+      "text": "τοιούτου] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1360",
+      "text": "τοιοῦτος] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1406",
+      "text": "στίχοι ξδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1407",
+      "text": "+ στροφὴ χοροῦ ἐκ κώλων ἀντισπαστικῶν εʹ, ὧν τὸ αʹ δίμε‐ τρον ὑπερκατάληκτον, τὸ βʹ τρίμετρον βραχυκατάληκτον, τὸ γʹ τρί‐ μετρον καταληκτικόν, τὸ δʹ ὅμοιον, τὸ εʹ ὅμοιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1412",
+      "text": "+ ἰαμβικοὶ τρίμετροι ἀκατάληκτοι στίχοι ιδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1425",
+      "text": "στίχοι ιδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1426",
+      "text": "+ ἀντιστροφὴ ἔχουσα κῶλα εʹ ὅμοια τοῖς τῆς στροφῆς ἀντι‐ σπαστικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1431",
+      "text": "+ ἰαμβικοὶ τρίμετροι ἀκατάληκτοι στίχοι ιζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1447",
+      "text": "στίχοι ιζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1448",
+      "text": "+ εἴσθεσις διπλῆς μονοστρόφους ἔχουσα τὰς περιόδους· οὐ γὰρ ἔχει ἀντιστροφάς. καί εἰσι τοῦ μὲν χοροῦ τὰ κῶλα χοριαμβικά, τοῦ δὲ ἑτέρου προσώπου ἀναπαιστικά. εἰσὶ δὲ τῆς παρούσης στροφῆς κῶλα χοριαμβικὰ ιδʹ δίμετρα καὶ τρίμετρα καταληκτικὰ καὶ βραχυ‐ κατάληκτα καὶ ἀκατάληκτα. μετὰ δὲ τὸ ζʹ κῶλον κώλου τμῆμα τὸ ἰώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1461",
+      "text": "κῶλα ιδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1462",
+      "text": "+ ἀναπαιστικὰ κῶλα ϛʹ, ὧν τὸ βʹ μὲν μονόμετρον, τὰ δὲ λοιπὰ δίμετρα ἀκατάληκτα, τὸ δὲ ϛʹ ἑφθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1463",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1468",
+      "text": "+ στροφὴ ἑτέρα κώλων χοριαμβικῶν δʹ. εἰσὶ δὲ τὰ μὲν δίμετρα, τὰ δὲ τρίμετρα καταληκτικὰ καὶ βραχυκατάληκτα καὶ ἀκατάληκτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1475",
+      "text": "+ ἀναπαιστικὰ ὅμοια τοῖς προρρηθεῖσιν ἕξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1481",
+      "text": "+ ἑτέρα στροφὴ κώλων χοριαμβικῶν ιεʹ. εἰσὶ δὲ τὰ μὲν δί‐ μετρα, τὰ δὲ τρίμετρα καταληκτικὰ καὶ βραχυκατάληκτα καὶ ἀκατά‐ ληκτα, τὰ δὲ ἡμιόλια. μετὰ δὲ τὸ ηʹ καὶ τὸ ιβʹ κώλων τμήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1497",
+      "text": "+ ἀναπαιστικὰ κῶλα ηʹ ὧν τὸ βʹ καὶ τὸ ζʹ μονόμετρα, τὰ δὲ λοιπὰ δίμετρα ἀκατάληκτα, τὸ δὲ ηʹ ἑφθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1505",
+      "text": "+ στροφὴ ἑτέρα κώλων ὁμοίων τοῖς ῥηθεῖσιν χοριαμβικῶν ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1513",
+      "text": "+ ἀναπαιστικὰ κῶλα ζʹ, ὧν τὸ βʹ μὲν καὶ τὸ ζʹ ἑφθημιμερῆ, τὰ δὲ λοιπὰ δίμετρα ἀκατάληκτα, ὧν προτίθεται κῶλον ἰαμβικὸν μονόμετρον βραχυκατάληκτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1521",
+      "text": "+ ἀναπαιστικὰ κῶλα θʹ, ὧν τὸ βʹ μὲν μονόμετρον, τὰ δὲ λοιπὰ δίμετρα ἀκατάληκτα, τὸ δὲ θʹ ἑφθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1530",
+      "text": "+ στροφὴ ἑτέρα κώλων ὁμοίων τοῖς ῥηθεῖσι χοριαμβικῶν ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1538",
+      "text": "+ ἀναπαιστικὰ κῶλα ιʹ, ὧν τὸ αʹ, τὸ γʹ, τὸ ϛʹ καὶ τὸ θʹ μονό‐ μετρα, τὰ δὲ λοιπὰ δίμετρα ἀκατάληκτα, τὸ δὲ ιʹ ἑφθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1547",
+      "text": "+ χοριαμβικὰ κῶλα ὅμοια τοῖς ῥηθεῖσι δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1551",
+      "text": "+ ἀναπαιστικὰ κῶλα θʹ, ὧν τὸ γʹ, τὸ ϛʹ καὶ τὸ ηʹ μονόμετρα, τὰ δὲ λοιπὰ δίμετρα ἀκατάληκτα, τὸ δὲ θʹ ἑφθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1560",
+      "text": "+ ἑτέρα στροφὴ κώλων ὁμοίων τοῖς ῥηθεῖσι ζʹ. ἔοικε δὲ ἀντι‐ στροφὴ εἶναι τῆς στροφῆς ἧς ἡ ἀρχὴ ἀμηχανῶ· ὅμοια γὰρ ἔχει τὰ κῶλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1567",
+      "text": "+ ἀναπαιστικὰ κῶλα ιʹ, ὧν τὸ βʹ μονόμετρον, τὰ δὲ λοιπὰ δί‐ μετρα ἀκατάληκτα, τὸ δὲ ιʹ ἑφθημιμερές.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1568",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1577",
+      "text": "+ εἴσθεσις διπλῆς μονοστροφικῆς καὶ συνεχοῦς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι οβʹ, ὧν τελευταῖος· ἀμφοῖν γένηται τοῖνδε παγκρατὴς φονεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1648",
+      "text": "στίχοι οβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1649",
+      "text": "+ εἴσθεσις διπλῆς συνεχοῦς ἐν ἐκθέσει τοῦ δράματος. οἱ δὲ στίχοι εἰσὶ τροχαϊκοὶ κεʹ, ὧν οἱ κγʹ τετράμετροι καταληκτικοί. οἱ δὲ ἐν τῶι τέλει βʹ τρίμετροι ὑπερκατάληκτοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "+ ἡ εἴσθεσις τοῦ παρόντος δράματος ἐκ μονοστροφικῆς ἐστι περι‐ όδου, καὶ ἑξῆς ἐκ συνεχοῦς διπλῆς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ρλγʹ. μετὰ δὲ τὸν ριϛʹ, τὸν ριηʹ, τὸν ρκʹ, τὸν ρκβʹ κώλου τμήματα δʹ, ἃ μονόμετρά ἐστι βραχυκατάληκτα. μετὰ δὲ τὸν ρκδʹ ἕτερα βʹ κῶλα, ὧν τὸ ἓν δίμετρον βραχυκατάληκτον, τὸ δὲ ἕτερον ἑφθημιμερὲς ἐκ τριβραχέων. εἰ δὲ τροχαϊκὰ τὰ κῶλα ταῦτα εἴποις, οὐκ ἂν ἁμάρτοις. ὁ δὲ τελευταῖος· ἕπου μάραινε δευτέροις διώγ‐ μασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 85",
+      "text": "μὴ ἀδικεῖν] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 86",
+      "text": "μὴ ἀμελεῖν] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 140",
+      "text": "στίχοι ρλγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 141",
+      "text": "+ ὁ παρὼν χορὸς συνέστηκεν ἐκ στίχων ἰαμβικῶν τριμέτρων ἀκαταλήκτων σποράδην κειμένων ιαʹ, κώλων δὲ ἀντισπαστικῶν μο‐ νομέτρων καὶ διμέτρων καὶ τριμέτρων καταληκτικῶν 〈καὶ〉 ἀκαταλή‐ κτων καὶ βραχυκαταλήκτων κθʹ, ὧν τελευταῖον· μιάστορ’ ἐκείνου πάσσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 178",
+      "text": "στίχοι καὶ κῶλα μʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 179",
+      "text": "+ εἴσθεσις διπλῆς· οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκα‐ τάληκτοι ξεʹ ὧν τελευταῖος· αὐτοῦ φυλάσσων ἀναμένω τέλος δίκης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 194",
+      "text": "τοιαύτας] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 197",
+      "text": "τοιαύτης] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 243",
+      "text": "στίχοι ξεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 244",
+      "text": "+ εἶεν· τόδ’ ἐστί· ὁ παρὼν χορὸς συνέστηκεν ἐκ στίχων καὶ κώλων λβʹ, ὧν οἱ μέν εἰσιν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι στίχοι ιηʹ, τὰ δὲ κῶλα ἀντισπαστικὰ ιδʹ ἡμιόλια καὶ πενθημιμερῆ καὶ δίμετρα καταληκτικὰ καὶ ἀκατάληκτα καὶ τρίμετρα βραχυκατάληκτα καὶ καταληκτικά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 275",
+      "text": "στίχοι καὶ κῶλα λβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 276",
+      "text": "+ εἴσθεσις διπλῆς μερικῆς δύο περιόδων. οἱ δὲ στίχοι εἰσὶν ἰαμ‐ βικοὶ τρίμετροι ἀκατάληκτοι λαʹ, ὧν τελευταῖος· ὕμνον ἀκούσηι τόνδε δέσμιον σέθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 300",
+      "text": "μὴ οὐ] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 306",
+      "text": "στίχοι λαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307",
+      "text": "+ ἄγε δή· ὁ παρὼν χορὸς συνέστηκεν ἐκ κώλων ἀναπαιστικῶν ιεʹ, ὧν τὰ μέν ἐστι δίμετρα ἀκατάληκτα, τὰ δὲ καταληκτικά, ἤτοι ἑφθημιμερῆ, τὰ δὲ πενθημιμερῆ, τὰ δὲ μονόμετρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 320",
+      "text": "κῶλα ιεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 321",
+      "text": "+ ἡ μονοστροφικὴ αὕτη περίοδος κώλων ἐστὶ χοριαμβικῶν κδʹ, ὧν τὰ μέν ἐστιν ἡμιόλια, τὰ δὲ δίμετρα καταληκτικὰ καὶ ἀκατάληκτα, τὰ δὲ τρίμετρα, ὧν τελευταῖον· μικτὸς αὔονα βροτοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 346",
+      "text": "κῶλα κδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 349",
+      "text": "+ ὁ παρὼν χορὸς συνέστηκεν ἐκ κώλων χοριαμβικῶν νβʹ, ὧν τὰ μέν εἰσιν ἡμιόλια, τὰ δὲ δίμετρα καταληκτικὰ καὶ ἀκατάληκτα, τὰ δὲ τρίμετρα καταληκτικὰ καὶ βραχυκατάληκτα καὶ ἀκατάληκτα, ὧν τελευταῖον· τάξιν γ’ ἔχουσα καὶ δυσήλιον κνέφας, ὃς μόνος ἰαμβικός ἐστι τρίμετρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 349bis",
+      "text": "ἐνταῦθα χρή, οἶμαι, εἶναι τὸ πρόσωπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352",
+      "text": "ἐνταῦθα εἶχε πρόσωπον χοροῦ· οἶμαι δὲ οὐ καλῶς εἶχεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 372",
+      "text": "+ καὶ ἐνταῦθα εἶχε 〈πρόσωπον〉 Ὀρέ(στου)· καὶ τοῦτο οὐ καλῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396",
+      "text": "κῶλα νβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 397",
+      "text": "+ εἴσθεσις διπλῆς μονοστροφικῆς συνεχοῦς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ϙγʹ, ὧν τελευταῖος· ἥξω διαιρεῖν πρᾶγμα τοῦτ’ ἐτητύμως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 424",
+      "text": "τοιαύτας] κοινή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 488",
+      "text": "στίχοι ϙγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 490",
+      "text": "+ νῦν καταστροφαί· ὁ παρὼν χορὸς συνέστηκεν ἐκ κώλων χοριαμβικῶν οβʹ, ὧν τὰ μέν ἐστιν ἡμιόλια, τὰ δὲ δίμετρα καταληκτικὰ καὶ ἀκατάληκτα καὶ βραχυκατάληκτα, τὰ δὲ τρίμετρα καταληκτικὰ καὶ ἀκατάληκτα καὶ βραχυκατάληκτα, ὧν τελευταῖον· ὤλετ’ ἄκλαυ‐ στος ἄιστος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 565",
+      "text": "κῶλα οβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 566",
+      "text": "+ εἴσθεσις διπλῆς καθόλου. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρί‐ μετροι ἀκατάληκτοι ρμθʹ, ὧν τελευταῖος· σωτήριόν τε καὶ δο‐ ρὸς νικηφόρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 691",
+      "text": "μὴ ἀδικεῖν] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 749",
+      "text": "μὴ ἀδικεῖν] συνίζησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 777",
+      "text": "στίχοι ρμθʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 808",
+      "text": "+ ὠιδὴ χοροῦ ἐπωιδικὴ διὰ τὸ μετὰ τὴν διπλῆν τίθεσθαι. ἔχει δὲ τοὺς πρώτους μὲν γʹ στίχους ἰαμβικοὺς τριμέτρους ἀκαταλήκτους, τὰ δὲ ἑξῆς κῶλά εἰσιν ἀντισπαστικὰ πενθημιμερῆ καὶ δίμετρα κατα‐ ληκτικὰ καὶ ἀκατάληκτα καὶ βραχυκατάληκτα καὶ τρίμετρα ιγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 823",
+      "text": "στίχοι καὶ κῶλα ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 824",
+      "text": "+ εἴσθεσις διπλῆς ἀμοιβαίας καὶ μονοστρόφους ἔχουσα τὰς περι‐ όδους. εἰσὶ δὲ τὰ τοῦ χοροῦ μὲν κῶλα ἀντισπαστικά, τὰ δὲ τοῦ ἑτέρου προσώπου ἰαμβικοὶ στίχοι τρίμετροι. τῆς πρώτης οὖν περιόδου ταύτης στίχοι εἰσὶν ἰαμβικοὶ ιγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 836",
+      "text": "στίχοι ιγʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 837",
+      "text": "+ ἡ στροφὴ αὕτη τοῦ χοροῦ κώλων ἐστὶν ἀντισπαστικῶν δι‐ μέτρων βραχυκαταλήκτων καὶ καταληκτικῶν καὶ πενθημιμερῶν καὶ μονομέτρων καὶ τριμέτρων ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 846",
+      "text": "κῶλα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 847",
+      "text": "+ ἡ μονοστροφικὴ αὕτη περίοδος στίχων ἐστὶν ἰαμβικῶν τρι‐ μέτρων ἀκαταλήκτων κβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 869",
+      "text": "στίχοι κβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 870",
+      "text": "+ ἡ μεσωιδικὴ αὕτη ἀντιστροφὴ κώλων ἐστὶν ἀντισπαστικῶν ιαʹ. τὰ αὐτὰ δέ ἐστι κῶλα ἃ καὶ ἐν τῆι στροφῆι εἴρηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 880",
+      "text": "κῶλα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 881",
+      "text": "+ εἴσθεσις διπλῆς συνεχοῦς μερικῆς. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι λεʹ, ὧν τελευταῖος· τήνδ’ ἀστύνικον ἐν βροτοῖς τιμᾶν πόλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 915",
+      "text": "στίχοι λεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 916",
+      "text": "+ εἴσθεσις διπλῆς ἐν ἐκθέσει τοῦ δράματος ἀμοιβαίας 〈καὶ μονοστροφικὰσ〉 τὰς περιόδους ἔχουσα. εἰσὶ δὲ τὰ μὲν τοῦ χοροῦ κῶλα χοριαμβικά, τὰ δὲ τοῦ ἑτέρου προσώπου ἀναπαιστικά. εἰσὶ δὲ τὰ τῆς πρώτης ταύτης στροφῆς κῶλα χοριαμβικὰ ὅμοια τοῖς προρρηθεῖσιν ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 923",
+      "text": "τύχας] τοῦτο περισσὸν πρὸς τὸ κῶλον τῆς ἀντιστροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 925",
+      "text": "ἐξαμυρόσαι] καὶ τοῦτο περισσὸν πρὸς τὸ κῶλον τῆς ἀντιστροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 926",
+      "text": "κῶλα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 927",
+      "text": "+ τὰ κῶλα ταῦτα ἀναπαιστικά ἐστι δίμετρα καὶ μονόμετρα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 931",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 936",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 937",
+      "text": "κῶλα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 938",
+      "text": "+ τὰ τοῦ χοροῦ ταῦτα κῶλα χοριαμβικά ἐστιν ιαʹ ὅμοια καὶ ἰσόμετρα τοῖς ἄνω. ἔστι δὲ ἀντιστροφὴ τῆς ἄνω στροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 947",
+      "text": "κῶλα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 948",
+      "text": "+ τὰ κῶλα ταῦτα ἀναπαιστικά ἐστι δίμετρα ἀκατάληκτα καὶ καταληκτικὰ ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 955",
+      "text": "κῶλα ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 956",
+      "text": "+ στροφὴ ἑτέρα. τὰ δὲ κῶλά εἰσι χοριαμβικὰ ὅμοια τοῖς ῥηθεῖσιν ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 967",
+      "text": "κῶλα ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 968",
+      "text": "+ τὰ κῶλα ταῦτα ἀναπαιστικά εἰσι δίμετρα καὶ μονόμετρα ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 969",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 974",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 975",
+      "text": "κῶλα ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 976",
+      "text": "+ ἀντιστροφὴ τῆς ἄνω στροφῆς. τὰ δὲ κῶλά ἐστι χοριαμβικὰ ὅμοια ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 987",
+      "text": "κῶλα ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 988",
+      "text": "+ τὰ κῶλα ταῦτα ἀναπαιστικά ἐστι δίμετρα καὶ μονόμετρα ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 989",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 994",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 995",
+      "text": "κῶλα ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 996",
+      "text": "+ στροφὴ ἑτέρα. τὰ δὲ κῶλά εἰσι χοριαμβικὰ ὅμοια τοῖς ῥη‐ θεῖσιν ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1002",
+      "text": "κῶλα ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1003",
+      "text": "+ τὰ κῶλα ταῦτα ἀναπαιστικά ἐστι καὶ δίμετρα καὶ μονό‐ μετρα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1012",
+      "text": "μονόμετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1013",
+      "text": "κῶλα ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1014",
+      "text": "+ ἑτέρα στροφή. τὰ δὲ κῶλά ἐστι χοριαμβικὰ ὅμοια τοῖς ῥηθεῖσιν ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1020",
+      "text": "κῶλα ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1021",
+      "text": "+ ἑτέρα περίοδος ἐν ἐκθέσει τοῦ δράματος. οἱ δὲ στίχοι εἰσὶν ἰαμβικοὶ τρίμετροι ἀκατάληκτοι ιηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1031",
+      "text": "στίχοι ιηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1032",
+      "text": "+ ἑτέρα στροφὴ ἐν ἐκθέσει τελευταίαι τοῦ δράματος. τὰ δὲ κῶλα χοριαμβικά ἐστιν ὅμοια τοῖς ῥηθεῖσιν δεκαέξ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tro-aa",
+      "title": {
+        "english": "Argument and Interlinear Glosses-the Persians",
+        "ancient_greek": "Ἐπιχείρημα καὶ Ἐνδιάμεσοι Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-glosses-tro-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-glosses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ak",
+      "title": {
+        "english": "Catalogue of Fables",
+        "ancient_greek": "Κατάλογος Μύθων"
+      },
+      "url_slug": "aeschylus-scholia-catalogue-fables-tro-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/catalogue-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.json"
+      }
+    },
+    {
+      "eul_wid": "tro-am",
+      "title": {
+        "english": "Later Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-am-tro-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.json"
+      }
+    },
+    {
+      "eul_wid": "tro-af",
+      "title": {
+        "english": "Later Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-af-tro-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.json"
+      }
+    },
+    {
+      "eul_wid": "tro-an",
+      "title": {
+        "english": "Magister's Commentary on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-an-tro-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ao",
+      "title": {
+        "english": "Marginal Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ao-tro-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.json"
+      }
+    },
+    {
+      "eul_wid": "tro-al",
+      "title": {
+        "english": "Old Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-al-tro-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ae",
+      "title": {
+        "english": "Old Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-ae-tro-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ac",
+      "title": {
+        "english": "Scholia and Glosses on Persians",
+        "ancient_greek": "Σχόλια καὶ Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ac-tro-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ag",
+      "title": {
+        "english": "Scholia on Aeschylus (Agamemnon)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ag-tro-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ai",
+      "title": {
+        "english": "Scholia on Aeschylus (Prometheus and Other Plays)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ai-tro-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ad",
+      "title": {
+        "english": "Scholia-Aeschylus's Meters",
+        "ancient_greek": "Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλου"
+      },
+      "url_slug": "aeschylus-scholia-meters-tro-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mlw-ac",
+      "title": {
+        "english": "Argument-the Knights",
+        "ancient_greek": "Προοίμιον εἰς Ἱππεῖς"
+      },
+      "url_slug": "aristophanes-scholia-knights-ac-mlw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/knights-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/knights-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/knights-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/knights-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/knights-ac.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-aq",
+      "title": {
+        "english": "Eustathius-derived Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-aq-mlw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ab",
+      "title": {
+        "english": "Fragments of Scholia of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα Σχολίων ἀδήλου θέσεως"
+      },
+      "url_slug": "callimachus-scholia-uncertain-placement-vmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/uncertain-placement",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.json"
+      }
+    },
+    {
+      "eul_wid": "taq-ab",
+      "title": {
+        "english": "Lexicon Α–Ο",
+        "ancient_greek": "Λεξικὸν (Α—Ο)"
+      },
+      "url_slug": "hesychius-of-alexandria-lexicon-ab-taq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-alexandria/lexicon-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-alexandria/lexicon-ab.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-au",
+      "title": {
+        "english": "On Universal Prosody",
+        "ancient_greek": "Περι Καθολικης Προσῳδιας"
+      },
+      "url_slug": "herodian-of-alexandria-universal-prosody-qnq-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/universal-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/universal-prosody.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/universal-prosody.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/universal-prosody.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/universal-prosody.json"
+      }
+    },
+    {
+      "eul_wid": "ixy-aa",
+      "title": {
+        "english": "On the Magi, Lawgivers, and Sages",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermippus-of-smyrna-magi-lawgivers-sages-ixy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-of-smyrna/magi-lawgivers-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna/magi-lawgivers-sages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna/magi-lawgivers-sages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna/magi-lawgivers-sages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-of-smyrna/magi-lawgivers-sages.json"
+      }
+    },
+    {
+      "eul_wid": "nrk-aa",
+      "title": {
+        "english": "Questions Among the Attic Orators",
+        "ancient_greek": "Παρὰ τοῖς Ἀττικοῖς ῥήτορσι ζητούμενα"
+      },
+      "url_slug": "claudius-casilon-attic-orators-nrk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/claudius-casilon/attic-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ah",
+      "title": {
+        "english": "Scholia-Hymns II and III",
+        "ancient_greek": "Σχόλια εἰς Ὕμνους Β΄ καὶ Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymns-ii-iii-vmw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymns-ii-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeschylus-scholia/prototriclinian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

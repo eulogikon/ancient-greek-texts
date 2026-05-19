@@ -1,0 +1,23 @@
+On Extracting Square Roots
+Ἀπόσπασμα
+by Diophantus of Alexandria II
+eul_wid: rqm-ac    eul_aid: rqm
+
+Period   Roman
+Dialect  Technical Koine
+Domain   History
+Format   Prose
+
+On Extracting Square Roots is a brief, fragmentary mathematical work attributed to Diophantus of Alexandria. It presents a practical algorithmic method for approximating the square roots of non-square numbers, employing a technique equivalent to the identity (a² + b) ≈ a + b/(2a), which is an application of the Babylonian or Heron's method. This pragmatic computational tract stands apart in content and purpose from Diophantus's major theoretical work, the Arithmetica. The single surviving passage details a step-by-step numerical procedure, focusing on generating rational approximations for irrational square roots. The text survives not within the main manuscript tradition of the Arithmetica but as an independent fragment preserved separately under Diophantus's name. While its direct influence is difficult to trace, the fragment historically connects Diophantus to the Greco-Roman tradition of root-finding algorithms, demonstrating the algebraicist's engagement with the practical arithmetic that underpinned broader mathematical problem-solving.
+
+Text
+----
+
+2.3.(3)	Ἐκ τῆς ἀριθμητικῆς Διοφάντο υ . Ἀπὸ δύο μεθόδων εὑρίσκεται παντὸς τετραγώνου ἀριθμοῦ πλευρὰ ἤτοι δυνάμεως. καὶ ἡ μὲν μία ἔχει οὕτως· ἀπόγραψαι τοιοῦτον ἀριθμὸν κατὰ τὴν τάξιν τῆς Ἰνδικῆς μεθόδου· εἶτα ἄρξαι ἀπὸ δεξιῶν ἐπὶ ἀριστερά, καθ’ ἕκαστον δὲ στοιχεῖον λέγε· γίνεται· οὐ γίνεται· γίνεται· οὐ γίνεται· ἕως ἂν τελειωθῶσι τὰ στοιχεῖα, καὶ εἰ μὲν τύχῃ τὸ τελευταῖον ὑπὸ τὸ γίνεται, ἄρξαι τοῦ μερισμοῦ ἐκεῖθεν· εἰ δὲ ὑπὸ τὸ οὐ γίνεται, καταλιπὼν τὸ τελευταῖον στοιχεῖον ἄρξαι τοῦ μερισμοῦ ἀπὸ τοῦ μετ’ αὐτὸ στοιχείου τοῦ πρὸς τὰ δεξιά, ἐν ᾧ δηλονότι φθάνει τὸ γίνεται.
+
+—
+Canonical:  https://eulogikon.org/grc/diophantus-of-alexandria-ii/extracting-square-roots
+License:    https://creativecommons.org/publicdomain/mark/1.0/
+Cite as:    eul_wid: rqm-ac
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/).

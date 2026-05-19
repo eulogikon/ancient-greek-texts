@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uxw",
+  "auth_slug": "john-of-caesarea-in-palestine",
+  "name": {
+    "english": "John of Caesarea in Palestine",
+    "ancient_greek": "Ἰωάννης ὁ Καισαρείας τῆς Παλαιστίνης"
+  },
+  "seo_h1": "John of Caesarea on the Manichaeans and the Council of Chalcedon",
+  "seo": {
+    "browser_title": "John of Caesarea Grammarian on Eulogikon Greek Archive",
+    "meta_title": "Classical John of Caesarea Ancient Greek Grammarian Works",
+    "meta_description": "John of Caesarea, 6th century CE grammarian. Eight surviving works including his grammatical treatise. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">John of Caesarea in Palestine was a Christian grammarian and rhetorician active in the 6th century CE. He worked within the late antique educational system, and his identification with Caesarea Maritima places him within a major center of Palestinian scholarship, a tradition that included figures like Procopius of Gaza. No specific biographical details are recorded.</p>\n<p class=\"research-text\">He is identified as the author of grammatical and rhetorical treatises, though the specific titles and contents of these works are not detailed in the available sources. John represents the continuity of classical grammatical education within a Christian, late antique context. His work illustrates the maintenance and adaptation of the trivium by Christian scholars following the decline of pagan institutions.</p>\n<p class=\"research-text\">As a grammarian from Caesarea, a city with a renowned library and scholarly history, he contributes to understanding the transmission of linguistic knowledge in the Byzantine world prior to the Islamic conquests.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 8,
+  "works": [
+    {
+      "eul_wid": "uxw-ah",
+      "title": {
+        "english": "Against the Aphthartodocetae",
+        "ancient_greek": "Κατὰ Ἀφθαρτοδοκητῶν"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-aphthartodocetae-uxw-ah",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-aphthartodocetae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-aphthartodocetae.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ad",
+      "title": {
+        "english": "Against the Manichaeans, Homily 1",
+        "ancient_greek": "Κατὰ Μανιχαίων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-manichaeans-1-uxw-ad",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-1.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ae",
+      "title": {
+        "english": "Against the Manichaeans, Homily 2",
+        "ancient_greek": "Κατὰ Μανιχαίων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-against-manichaeans-2-uxw-ae",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/against-manichaeans-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/against-manichaeans-2.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-aa",
+      "title": {
+        "english": "Apology of the Council of Chalcedon, Greek Excerpts",
+        "ancient_greek": "Ἀπολογία τῆς Συνόδου τῆς Χαλκηδόνος"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-apology-chalcedon-uxw-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/apology-chalcedon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/apology-chalcedon.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ag",
+      "title": {
+        "english": "Disputation with a Manichaean",
+        "ancient_greek": "Ἀντιλογία πρὸς Μανιχαῖον"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-disputation-manichaean-uxw-ag",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/disputation-manichaean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/disputation-manichaean.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ab",
+      "title": {
+        "english": "On the Gospel According to John Two Excerpts",
+        "ancient_greek": "Περὶ τοῦ Κατὰ Ἰωάννην Εὐαγγελίου Δύο Ἐξαίρετα"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-gospel-john-excerpts-uxw-ab",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/gospel-john-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/gospel-john-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-ac",
+      "title": {
+        "english": "Seventeen Chapters-Monophysites",
+        "ancient_greek": "Ἑπτὰ καὶ Δέκα Κεφάλαια Κατὰ Μονοφυσιτῶν"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-seventeen-chapters-uxw-ac",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/seventeen-chapters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/seventeen-chapters.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-af",
+      "title": {
+        "english": "Syllogisms of the Holy Fathers",
+        "ancient_greek": "Συλλογισμοὶ τῶν Ἁγίων Πατέρων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-syllogisms-uxw-af",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/syllogisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/john-of-caesarea-in-palestine",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-of-caesarea-in-palestine.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-of-caesarea-in-palestine.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-of-caesarea-in-palestine.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-of-caesarea-in-palestine.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mlc",
+  "auth_slug": "apollodorus-of-seleucia",
+  "name": {
+    "english": "Apollodorus of Seleucia",
+    "ancient_greek": "Ἀπολλόδωρος ὁ Σελευκεύς"
+  },
+  "seo_h1": "Stoic Doctrine in the Fragments of Apollodorus of Seleucia",
+  "seo": {
+    "browser_title": "Apollodorus of Seleucia on Eulogikon Greek Archive",
+    "meta_title": "Classical Apollodorus of Seleucia Ancient Greek Philosophy",
+    "meta_description": "Apollodorus of Seleucia, a 2nd century BCE Stoic philosopher. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Apollodorus of Seleucia was a Stoic philosopher who lived during the 2nd century BCE. He was a student of Diogenes of Babylon and later became the teacher of the influential Stoic Panaetius of Rhodes, placing him in the direct line of succession from the school’s early founders. His epithet indicates he came from a city named Seleucia, though it is uncertain whether this was in Mesopotamia or Cilicia.</p>\n<p class=\"research-text\">He wrote several philosophical works, but none survive complete. According to later ancient sources, his writings included treatises on ethics and physics, such as a work titled <strong>Ethics</strong> and another <strong>On the Gods</strong>. His ideas are known only through fragments and references by later authors.</p>\n<p class=\"research-text\">Modern scholars see Apollodorus as an important link between earlier Stoic doctrine and the later developments that influenced Roman thinkers. He is noted for maintaining a strict, orthodox interpretation of Stoic ethics. For example, he defined the goal of life as living virtuously while consistently choosing what is natural and rejecting what is contrary to nature. This rigorous stance is often contrasted with the more adaptable teachings of his student Panaetius. Through his role as a teacher and his preserved definitions, Apollodorus helped transmit core Stoic ideas on ethics and the nature of the gods to later generations.</p>\n</div>",
+  "affiliation_label": "Stoic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mlc-aa",
+      "title": {
+        "english": "Fragments on Stoic Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Φιλοσοφίας"
+      },
+      "url_slug": "apollodorus-of-seleucia-stoic-fragments-mlc-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-seleucia/stoic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia/stoic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia/stoic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia/stoic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-seleucia/stoic-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "jzg",
+      "name": {
+        "english": "Apollophanes the Stoic",
+        "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollophanes-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollophanes-the-stoic.json"
+      }
+    },
+    {
+      "eul_aid": "mnk",
+      "name": {
+        "english": "Archedemus of Tarsus",
+        "ancient_greek": "Ἀρχέδημος ὁ Ταρσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/archedemus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archedemus-of-tarsus.json"
+      }
+    },
+    {
+      "eul_aid": "jyw",
+      "name": {
+        "english": "Ariston of Chios",
+        "ancient_greek": "Ἀρίστων ὁ Χῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-chios",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-chios.json"
+      }
+    },
+    {
+      "eul_aid": "nac",
+      "name": {
+        "english": "Arius Didymus of Alexandria",
+        "ancient_greek": "Ἄρειος Δίδυμος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/arius-didymus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arius-didymus-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "pcs",
+      "name": {
+        "english": "Arrian of Nicomedia",
+        "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
+      },
+      "work_count": 18,
+      "links": {
+        "html": "https://eulogikon.org/en/arrian-of-nicomedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arrian-of-nicomedia.json"
+      }
+    },
+    {
+      "eul_aid": "mty",
+      "name": {
+        "english": "Athenodorus of Tarsus Cordylion",
+        "ancient_greek": "Ἀθηνόδωρος Κορδυλίων"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athenodorus-of-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenodorus-of-tarsus.json"
+      }
+    },
+    {
+      "eul_aid": "omo",
+      "name": {
+        "english": "Chaeremon of Alexandria",
+        "ancient_greek": "Χαιρήμων ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chaeremon-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chaeremon-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "kms",
+      "name": {
+        "english": "Chrysippus of Soli",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli.json"
+      }
+    },
+    {
+      "eul_aid": "ixe",
+      "name": {
+        "english": "Chrysippus of Soli II",
+        "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/chrysippus-of-soli-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chrysippus-of-soli-ii.json"
+      }
+    },
+    {
+      "eul_aid": "jew",
+      "name": {
+        "english": "Cleanthes of Assos",
+        "ancient_greek": "Κλεάνθης ὁ Ἀσσεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/cleanthes-of-assos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleanthes-of-assos.json"
+      }
+    },
+    {
+      "eul_aid": "obu",
+      "name": {
+        "english": "Cornutus the Stoic Philosopher",
+        "ancient_greek": "Κορνοῦτος ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cornutus-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cornutus-the-stoic.json"
+      }
+    },
+    {
+      "eul_aid": "lya",
+      "name": {
+        "english": "Crinis the Stoic",
+        "ancient_greek": "Κρὶνις ὁ Στωϊκός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/crinis-the-stoic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crinis-the-stoic.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/apollodorus-of-seleucia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-seleucia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ami",
+  "auth_slug": "mimnermus-of-colophon-ii",
+  "name": {
+    "english": "Mimnermus of Colophon II",
+    "ancient_greek": "Μίμνερμος ὁ Κολοφώνιος"
+  },
+  "seo_h1": "Mimnermus of Colophon on Human Envy and Fleeting Youth",
+  "seo": {
+    "browser_title": "Mimnermus of Colophon II on Eulogikon Greek Archive",
+    "meta_title": "Mimnermus of Colophon Ancient Greek Elegiac Poetry",
+    "meta_description": "Mimnermus of Colophon, 7th century BCE Ionic elegiac poet. Surviving fragments of his poetic works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Mimnermus was an elegiac poet from the Ionian city of Colophon in Asia Minor, active in the 7th century BCE, likely around 630–600 BCE. Ancient testimony, including from Herodotus, suggests he was a contemporary of the Lydian king Alyattes. He is sometimes associated with Smyrna, a city Colophon helped establish.</p>\n<p class=\"research-text\">His poetry survives only in fragments. His most famous collection was the <strong>Nanno</strong>, named after a flute-girl he loved. He also composed the <strong>Smyrneis</strong>, a historical elegy recounting the war between Smyrna and the Lydians, which is an early example of historical narrative in elegiac verse.</p>\n<p class=\"research-text\">Mimnermus is a key figure in archaic Greek elegy, noted for his focus on youth, love, and the brevity of life, themes that influenced later poets. His melancholic treatment of aging and mortality became characteristic. The <strong>Smyrneis</strong> represents an important early fusion of elegy with historical narrative.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ami-aa",
+      "title": {
+        "english": "On Human Envy and Praise",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "mimnermus-of-colophon-ii-envy-praise-ami-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/mimnermus-of-colophon-ii/envy-praise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon-ii/envy-praise.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/mimnermus-of-colophon-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mimnermus-of-colophon-ii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mimnermus-of-colophon-ii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mimnermus-of-colophon-ii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/mimnermus-of-colophon-ii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

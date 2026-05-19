@@ -1,0 +1,705 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "czs-ad",
+  "eul_aid": "czs",
+  "author_slug": "cratinus-the-comic-poet",
+  "work_slug": "judgment-paris",
+  "url_slug": "cratinus-the-comic-poet-judgment-paris-czs-ad",
+  "author": {
+    "english": "Cratinus the Comic Poet",
+    "ancient_greek": "Κρατῖνος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on the Judgment of Paris",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Πάριδος Κρίσεως"
+  },
+  "seo": {
+    "browser_title": "Fragments of Cratinus the Comic Poet on eulogikon.org",
+    "meta_title": "Fragments on the Judgment of Paris by Cratinus in Greek",
+    "meta_description": "66 passages from Cratinus's comedy on the Judgment of Paris. Surviving fragments of Athenian Old Comic verse. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on the Judgment of Paris</strong> comprise a collection of 66 short passages attributed to the Athenian comic poet Cratinus, a major exponent of Old Comedy in the fifth century BCE. Written in Attic Greek verse, these fragments are thought to derive from one or more of his lost satirical plays that humorously treated the myth of the Judgment of Paris. This story, in which the Trojan prince Paris awards a golden apple to Aphrodite and thereby sets in motion the events leading to the Trojan War, provided a mythological framework for Cratinus&#x27;s comedy. As was typical of the genre, the playwright likely used this ancient tale as a vehicle for mocking contemporary Athenian society, politics, and prominent individuals.</p>\n<p class=\"research-text\">The complete work or works from which these fragments originate have not survived. Their preservation is due to their citation by later ancient authors, such as the grammarian Athenaeus, who quoted them for their linguistic peculiarities or notable content. The fragments depict scenes including Hermes escorting the goddesses to Paris on Mount Ida, the comic ridicule of the god Dionysus by characters, and the promises made by Hera, Athena, and Aphrodite to sway Paris&#x27;s decision. Following his choice of Aphrodite, the narrative continues with Paris&#x27;s voyage to Sparta, his abduction of Helen, and his subsequent return to Troy, where he hides from the approaching Greek forces. Modern scholars view these pieces as evidence of Cratinus&#x27;s influential and audacious satirical style, which exploited themes of divine vanity and mortal folly to critique the world of classical Athens during the age of Pericles and the Peloponnesian War. Although the precise plot and structure of the original play remain irrecoverable, the fragments offer valuable insight into the thematic and technical development of comic theater in the period immediately preceding Aristophanes.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 69",
+      "text": "— — — —[ln_1]Π]υλαία Δηλιάδ[εc Πλοῦτο[ι Νέμεcιc[ln_5]Δραπέτι[δεc Βουκόλο[ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.1",
+      "text": "Διονυc[αλέξανδροc η [ ΚΡΑΤ[ΕΙΝΟΥ[ln_1]— — — —[ln_1][para]]. ]ζητ( ) ]παν ]α̣υτον μη[ln_5]κ]ρ̣ίcιν ὁ Ἑρμ(ῆc) ἀπέρχ]εται κ(αὶ) οὗτοι μ(ὲν) πρ(ὸc) τοὺc θεατάc τινα π(ερὶ) τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.2",
+      "text": "ποιη(τῶν) διαλέγονται κ(αὶ)[ln_10]παραφανέντα τὸν Διόνυcον ἐπιcκώ(πτουcι) (καὶ) χλευάζου(cιν)· ὁ δ(ὲ) πα‐ ραγενομένων〈[ln_13]〉αὐτῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.3",
+      "text": "παρὰ μ(ὲν) Ἥ̣ρ̣α̣[c] τυραννίδο(c)[ln_15]ἀκινήτου, πα[ρ]ὰ δ’ Ἀθηνᾶc εὐτ̣υχί(αc) κ(α)τ(ὰ) πόλεμο(ν), τῆc δ’ Ἀφροδί(τηc) κάλλιcτό(ν) τε κ(αὶ) ἐπέραcτον αὐτὸν ὑπάρ‐ χειν, κρίνει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.4",
+      "text": "ταύτην νικᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.1",
+      "text": "[ln_20]μ(ε)τ(ὰ) δ(ὲ) ταῦ(τα) πλεύcαc εἰc Λακεδαίμο(να) (καὶ) τὴν Ἑλένην ἐξαγαγὼν ἐπανέρχετ(αι) εἰc τὴν Ἴδην. ἀκού(ει) δ(ὲ) με‐ τ’ ὀλίγον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.2",
+      "text": "τοὺc Ἀχαιοὺc πυρ‐[ln_25]πολ]εῖν τὴν χώ(ραν) (καὶ) [[ln_29]τὸν Ἀλέξαν[δ(ρον). τὴν μ(ὲν) οὖν Ἑλένη(ν)[ln_30]εἰc τάλαρον ὡc τ̣ά̣[χιcτα κρύψαc, ἑαυτὸν δ’ εἰc κριὸ[ν μ(ε)τ(α)cκευάcαc ὑπομένει τὸ μέλλον. παραγενό‐ ‵—′μενοc δ’ Ἀλέξανδ(ροc) κ(αὶ) φωρά‐[ln_35]cαc ἑκάτερο(ν) ἄγειν ἐπὶ τὰc ναῦc πρ(οc)τάττει ὡc παραδώcων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.3",
+      "text": "τοῖc Ἀχαιοῖ(c). ὀκνούcηc δ(ὲ) τῆc Ἑλένη(c) ταύτην μ(ὲν) οἰκτείραc ὡc γυναῖχ’ ἕξων ἐπικατέχ(ει),[ln_40]τὸν δ(ὲ) Διόνυ(cον) ὡc παραδοθη‐ cόμενο(ν) ἀποcτέλλει, cυν‐ ακολουθ(οῦcι) δ’ οἱ cάτυ(ροι) παρακαλοῦν‐ τέc τε κ(αὶ) οὐκ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.4",
+      "text": "προδώcειν αὐτὸν φάcκοντεc. κωμωι‐[ln_45]‵—′δεῖται δ’ ἐν τῶι δράματι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.5",
+      "text": "Πε‐ ρικλῆc μάλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.6",
+      "text": "πιθανῶc δι’ ἐμφάcεωc ὡc ἐπαγηοχὼc τοῖc Ἀθηναίοιc τὸν πόλεμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70",
+      "text": "[ln_48]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 71",
+      "text": "Ἐπὶ Κλεοβουλινῶ]ν τῶν Κρατίνου. ]c̣τρ̣.ινου ηχ[.] ξανθὸν φ[ ἀρχ...η...[[ln_5]κερτομ[[ln_5]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "...ε̣ μὲν κακο[[ln_1]‵⸑′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "[spk_(χο.)](ΧΟ.) ἀλλ’ ἀξιόνικον[ ἀποφαινόμεν[ο τὸ τυχὸν cτέργει[ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.1",
+      "text": "[ln_5][spk_—]μὴ ξυντυχίαιcι ⸤βαρυνόμενοι [para]μενετοὶ κριταὶ οἵ̣δ̣’ [οὐκ ὦcιν. ‵—′(?) κἀμοὶ ταῦτα μὲν ω.[ [para]τοὐμοῦ τοῦ πρόcθε .[ ‵—′(ΧΟ.) ὧν δ’ οὕνεκ’ ἐφήcαμεν [[ln_10]πεύcεcθ’ ἤδη. Τιτᾶνεc μὲν γενεάν ἐcμ[εν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.2",
+      "text": "Πλοῦτοι δ’ ἐκαλούμεθ’ ὅτ’ [ἦρχε Κρόνοc. τότε δ’ ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.3",
+      "text": "φωνῆνθ’ ὅτε .[ κατέπιν’ ἀκόναιc[ln_15]κλωγμὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.4",
+      "text": "πολὺν αἰνετὸc ὑ[μῖν. ‵—′(?) εἶτα δὲ κλέπτειc τὸν Δία .[ [para]ε̣..c̣τ̣ο̣... μέγιcτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.5",
+      "text": "πη̣[[ln_17]— — — — — — — — — — Κ]ρόνον ἐγβα[ κ]αὶ Τιτᾶναc το[[ln_20]]νταc δεcμ̣[[ln_20]desunt versus 4 δεc̣μ̣ὸc ξ....ο.[[ln_21]‵⸑′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.1",
+      "text": "[spk_(χο.)](ΧΟ.) ὡc δὲ τυραννίδοc ἀρχὴ λ̣[έλυται δῆμοc δὲ κρατεῖ, δεῦρ’ ἐcύθημεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.2",
+      "text": "πρὸc ο̣.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.1",
+      "text": "[ln_25][spk_(?)]αὐτοκαcίγνητόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.2",
+      "text": "τε παλαιὸν ζητοῦντε[c] ἐ̣κ̣εῖ cαθρὸν ἤδη. (?)c]κῆψιc πρώτη αὖ] τάχ’ ἀκούcηι.[ln_28]— — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "[ln_29][spk_χ]Χ.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.1",
+      "text": "[ln_30][spk_( )][ ‵⸐′ ( ) ἐφῆι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.2",
+      "text": "πο[ λεπτῆι .[ ὅτ’ ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.3",
+      "text": "το.[[ln_33]— — — — — — — —[ln_34]]..[[ln_35]]επω[...].γει̣[ ].ωτ.[.]μενπ̣[ ]...ᾶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.4",
+      "text": "τοῦ βιο[ [para]]μαντείουc̣[ [para]]υ̣λ̣οι̣ καιπε.[[ln_40]].c.υνηνεφ[ ἐ]ξαίφνηc γε.[ [para]]η̣c μέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.5",
+      "text": "τι.[[ln_42]— — — — —[ln_42]].ο........ ]η̣λ̣.φέρει·[ln_45]]τοιc ποτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.6",
+      "text": "πλουτοῦc]ιν ἀδίκωc ἐνθάδε ]ρονωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.7",
+      "text": "φράcειν ἀ]ναcτρέφει· ανεcτρε( ) ἐγὼ γάρ εἰμι θυννὶc ἡ μέλα⸥ινά cοι καὶ θύννοc, ὀρφώc, γλαῦκοc,⸥ ἔγχελυc, κύων· ]άχ[.]cι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.8",
+      "text": "πραγμάτων· εcκ]ευαcμένων· ]μ̣είων κακῶν ]ι̣αc δίδου·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "[ln_55]].τ̣αc ἔγχοc λόγων· ]νηc[ln_56]— — — — — — — — —[ln_57]...[ δόντι γὰρ λ̣[ ὡc παλαιγ̣ε̣ν̣η̣.[[ln_60]ἀλλ’ ἐμοὶ γὰρ ἐμπ[ μέροc λόγου κ.[ τοῦδε cυμπλέκε[ιν ἔγειρε, θυμέ, γλῶ[τταν εὐ‐ κέραcτον ὀρθουμένην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.1",
+      "text": "[ln_65][spk_—]εἰc ὑπόκριcιν λόγων. ‵⸐′ μάρτυραc τοὺc προcκεκλημένο[υc τῶιδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.2",
+      "text": "χρή· τοῦ Ϲτειριῶc γὰρ εὐκτὰ το̣υ̣[ ὃν καλοῦc’ Ἅγνωνα νῦν καὶ δῆμον η̣[ ‵—′οὗτοc οὐ πλουτεῖ δικαίωc ἐνθάδ’ ὥcτε̣ [κλαύcεται.[ln_70]‵—′ἀλλὰ μὴν ἀρχαιόπλουτόc γ̣’ ἐcτὶν ἐξ ἀρχ[ῆc ἔχων πάνθ’ ὅc’ ἐcτ’ αὐτῶι, τὰ μὲν [.]..[..].ων, τὰ δ.[ ‵—′ἐξαμεινώcω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.3",
+      "text": "φράcαc η̣[.... cα]φέcτερον[ Νικίαc φορτηγὸc ἦν κα.[.........]ονων.[ Πειθίου μιcθωτὸc .[................].ρε.[[ln_75]‵—′οὗ κατέψευcται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.4",
+      "text": "τα[...............]..ο.[ ‵—′ἀλλ’ ἐγώ τοι, μὰ Δία[ — — — —[ln_77].[ ‵—′πο.[ ἦ φρον[[ln_80]ὁπότ’ ἀριc̣[τ ὃν c̣ὺ πρω.[ ὀλίγον[[ln_82]— — — —[ln_82]— — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "[ln_83][spk_γρα( )].[ Γρα( )μ.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.1",
+      "text": "[ln_85][spk_—]‵—′Τι( )ὁν[ .]κ[[ln_86]— — —[ln_86]— — — — —[ln_87]]. ἐ̣c̣ κόρακαc[ [para]].ω φέρων τὸν[ ἔ]c̣τ’ εὐμάρεια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73.2",
+      "text": "πλ.[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74.1",
+      "text": "— — — — — — —[ln_1]]..[ ]ειρηc[ τ̣[.].ραδοπαρ̣[ ἔ‐ λεγον δ’ οὕτω[[ln_5]μακρὰν ἐξ ἧc[ μ̣ένουc ἀνω[ ]ελε‐ ..]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74.2",
+      "text": "προcδεc̣.[.].ομενων Ϲτρ]άττιc Ἀταλ[άν]τωι ‘ἀπὸ τῆc κράδηc, ἤδη γὰρ ἰcχὰc γίν[ομαι,[ln_10]ὁ μηχανοποιόc μ’ ὡc τάχιcτα καθελέτω.‘ 〈καὶ〉 ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74.3",
+      "text": "Φοινίccαιc· ‘Διόνυcοc ὃc θύρcοιcιν αὐληταὶ † δει·λ † κω[...] ἐ̣νέχομαι, δι’ ἑ‐ τέρων μοχθ[ηρ]ίαν ἥκω κρε‐[ln_15]μάμενοc ὥcπερ ἰcχὰc ἐπὶ κρά‐ δηc.‘ Ἀριcτοφάνηc Γηρυτάδηι· ‘περιάγειν ἐχρῆν / τὸν μηχα‐ νοποιὸν ὡc τάχιcτα τὴν κρά‐ δην.‘ οὕτω δὴ τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74.4",
+      "text": "Πολυδέκ[την[ln_20]‵⸐′βάλλειc τοῖc cκώμμαcινειε.[ Περcεῦ, καὶ τοῦ ποδὸc ἕλκειc καὶ τῆc ὑπέραc, ἵν’ ἄκρ’ ἵηιc. το[ῦ ποδὸc ἕλκειc οἷον εὐρύθμωc τιθεὶc τὸν πόδα, ὡcανεὶ ἄντι‐[ln_25]κρυc ἔφη· καὶ τοῦ ῥυθμοῦ ἕλκε[ιc, εἶθ’ ἑξῆc ἡ ὑπέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74.5",
+      "text": "ψυχρῶc πρὸc ‵⸐′τὸν πόδα. γνώcει μέντοι κα‐ τὰ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74.6",
+      "text": "πτερνῶν. ἐναφίηc κατὰ τῶν cκελῶν μέχρι τῶν[ln_30]π]τ̣ε̣[ρ]ν̣ῶν. ἀλλὰ χορευτὴc / ἐπιφ]ο̣ι̣τ̣ᾶν ὕcτατοc αἰεὶ / πλὴν ἐπὶ δεῖ]π̣νον ἐπειδὴ εἰc τὰc μελ]έταc μόλιc ἐφοίτων καὶ πο]νηρῶc οθε.[ ].[[ln_35]]ω̣νη[[ln_35]— — — — — — —[ln_35]— — —[ln_36][para]]των̣[ ]ληνοcα ].ετ̣η̣νωc ]υνεχεc[ln_40]]cυφεν̣[ ]τομε[[ln_41][para]— — — — —[ln_42].[ νε̣[ λο[[ln_45]ρα[ ‵⸐′αι̣[ κλ̣[ οτ[ εγ[ cτι[ ιc[ ν.[ μ.[ μ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 74",
+      "text": "[ln_55]λο[[ln_55]— — — — — — —[ln_56]ταδε͜υ̣.ε̣͜ παρα̣[ οτι ὁπότε̣μελλ̣[ αζεcθαι ανεχω[ προ.[].[ ].[[ln_59]— — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 75.1",
+      "text": "[spk_—]]μ̣ιν. — ἦλθέ τιc διφ.[ [para]].’ ἄνθρωποc ἦλ[θ ]τερον οἴχετα[ι [para]]cθαι καὶ γα̣..ον.[[ln_5]]ν ἔφαcκε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 75.2",
+      "text": "ταυτα̣[ ].ν̣[..]λωcινα..[ [para]]ο.[.]cτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 75.3",
+      "text": "παντ[ ]μέ[γ]α cεμνὴ .ο.[ (ὦ) πό]τνα δὲ κἀ̣ν̣δρ̣ῶν θηλυ̣[[ln_10]ὦ πό]τνι’ αἰδοι..δ̣ι[.]εκο.[ καὶ] μὴν ἀτεχνῶc γ’ ἐcτ[ ]ν̣ταc δεπεμ̣ο̣.και.[ ]κλαcθῆναι κ̣ἀπι[ ]κ̣νιcθῆναι[ln_15]].λην γ’ εὔχει κατα.[ [para]].[ ]φιλαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 75.4",
+      "text": "πολλαc.[ ]ελθεῖν ὡραϊζομενο[ [para]]ων ὡρέων ἑτέραc ὥραc ].ν ὡρέων[ln_20]]ου θαρρῶν οἷον[ ωcα.[ ἐγὼ δ.[ θαccο̣[[ln_25]ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 75.5",
+      "text": "τι[[ln_25]‵—′— — — ]γενε.[ [para]]ακοτ[ ].[ ]ευcα[ [para]]ικηλ[[ln_30]]εμε[[ln_30]— — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.1",
+      "text": "— — — — — —[ln_1]]..[]...[ ]ωνετ.[ ] ]ε̣νηcετ[ ]μετεκ‐ βάλωcι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.2",
+      "text": "τοῦ νυνὶ τρόπου.[ln_5]‵⸐′ ἀλλὰ τῶν λοιπῶν ἄκουcον, ἄξιον γ[άρ] ἐcτί cοι. πᾶcι γὰρ τέξουcιν ὑμῖν αἱ γυναῖκεc πα[ι]δία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.3",
+      "text": "πεντέμηνα κα[ὶ] τρίμηνα καὶ τριακο[ν]θήμερα, [ὁ]πόc’ ἂν ἐπιθυμῶcι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.4",
+      "text": "πλῆθοc, ἄρ[ρ]ενά τε καὶ θήλεα. ταῦτα δ’ ἡβήcει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.5",
+      "text": "πρὶν εἶναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.6",
+      "text": "πεντεκαίδεχ’ ἡμερῶν[ln_10]‵ἔν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.7",
+      "text": "τι(cιν) ὁ μετὰ τοῦτον cτίχοc′ κἆιτα βινήcουcιν ἄλλων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.8",
+      "text": "πεντεκαίδεχ’ ἡμερῶνπρὸ τούτου ἦν καὶ γενειάcουcιν ἑτέρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.9",
+      "text": "πεντεκαίδεχ’ ἡμερῶν[ln_11]— — — — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.1",
+      "text": "[ln_12][spk_—]..ω̣[ ‵—′λε..[]υχα[ ἀναμ[]μελ[[ln_15]ἐπι̣τρ[]υμ[]νο̣.[ ἐ̣γγυτ[].ν[.]υ̣c̣.[]εα..[ ‵⸐′π..τ̣αν̣εμ̣[.]..βιαc[ τέμενοc μ[έ]γα καὶ[ πλατύ, πιcτὸν ἅπαcι..[[ln_20]ἱδρύcαcθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.2",
+      "text": "φρενῶν ὕπ[ περὶ δ’ αὐτὸ δικαιων[ ἐπὶ πᾶcι μὲν ἔργοιc ἐπὶ πᾶc[ι] δὲ μύθοιc. — — — — — — —[ln_24]].ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.3",
+      "text": "προεδρ[ίαν[ln_25]]ων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76.4",
+      "text": "τοὺc φίλ[ουc ]κ̣αταφαγεῖν[",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "czs-ab",
+      "title": {
+        "english": "Comic Fragments on Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+      },
+      "url_slug": "cratinus-the-comic-poet-athenian-life-ab-czs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.json"
+      }
+    },
+    {
+      "eul_wid": "czs-aa",
+      "title": {
+        "english": "Fragments on Cimon and Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κίμωνος καὶ τοῦ Ἀθηναίων Βίου"
+      },
+      "url_slug": "cratinus-the-comic-poet-athenian-life-aa-czs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ac",
+      "title": {
+        "english": "Fragments on Language and Poetry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης"
+      },
+      "url_slug": "cratinus-the-comic-poet-language-poetry-czs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/language-poetry.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ae",
+      "title": {
+        "english": "On Feminine Noun Endings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cratinus-the-comic-poet-feminine-nouns-czs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/feminine-nouns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hcq-ab",
+      "title": {
+        "english": "Comic Fragments on Demagogues",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημαγωγῶν"
+      },
+      "url_slug": "timocles-the-comic-poet-comic-demagogues-hcq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comic-demagogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comic-demagogues.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ad",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ad-bhm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ad",
+      "title": {
+        "english": "Fragments on Argus and Destruction",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἄργου καὶ Ὀλέθρου"
+      },
+      "url_slug": "plato-the-comic-poet-argus-destruction-efq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/argus-destruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/argus-destruction.json"
+      }
+    },
+    {
+      "eul_wid": "eec-ab",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-fragments-eec-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ae",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "aristophanes-of-athens-daily-life-daw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "hbw-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "anaxandrides-comicus-fate-hbw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandrides-comicus/fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.json"
+      }
+    },
+    {
+      "eul_wid": "hrg-ab",
+      "title": {
+        "english": "Miser's Dinner Party",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archedicus-the-comic-poet-misers-dinner-party-ab-hrg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.json"
+      }
+    },
+    {
+      "eul_wid": "sfc-aa",
+      "title": {
+        "english": "Wedding Feast",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euangelus-the-comic-wedding-feast-sfc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/judgment-paris",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

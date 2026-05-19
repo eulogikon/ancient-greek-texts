@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iwk",
+  "auth_slug": "demetrius-of-callatis",
+  "name": {
+    "english": "Demetrius of Callatis",
+    "ancient_greek": "Δημήτριος ὁ Καλλατιανός"
+  },
+  "seo_h1": "Demetrius of Callatis on the Geography of the Black Sea",
+  "seo": {
+    "browser_title": "Demetrius of Callatis on Eulogikon Greek Text Archive",
+    "meta_title": "Demetrius of Callatis Ancient Greek Historical Works",
+    "meta_description": "Demetrius of Callatis was a Hellenistic historian of the 3rd-2nd century BCE. His surviving historical works. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demetrius of Callatis was a Greek historian from the city of Callatis, a Dorian colony on the western coast of the Black Sea. He is generally placed in the late 3rd and early 2nd centuries BCE, as his historical work covered events at least up to 214/13 BCE. He is known for a single, now lost, historical work spanning at least twenty books.</p>\n<p class=\"research-text\">It treated events in the Hellenistic world, including the history of Alexander’s successors and the Celtic invasion of Asia Minor. A key fragment preserved by Strabo notes the history extended to the capture of the Scythian king Scyles in 214/13 BCE. Demetrius represents the prolific local historiography of the Hellenistic period.</p>\n<p class=\"research-text\">His work was used as a source by later historians and geographers, including Polybius, Strabo, and Pompeius Trogus. His fragments provide valuable evidence for historical and ethnographic details of the Black Sea region and the early Hellenistic age.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "iwk-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "demetrius-of-callatis-geography-iwk-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-callatis/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-callatis/geography.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demetrius-of-callatis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-callatis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-callatis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-callatis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-callatis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

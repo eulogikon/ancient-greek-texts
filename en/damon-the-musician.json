@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bzy",
+  "auth_slug": "damon-the-musician",
+  "name": {
+    "english": "Damon the Musician",
+    "ancient_greek": "Δάμων ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Damon of Athens on Music and the Customs of Byzantium",
+  "seo": {
+    "browser_title": "Damon of Athens Sophist on Eulogikon Greek Archive",
+    "meta_title": "Classical Damon of Athens Ancient Greek Philosophical Works",
+    "meta_description": "Damon of Athens was a sophist and music theorist who advised Pericles. Surviving fragments of his writings. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Damon of Athens was a sophist and music theorist active in the mid-5th century BCE. He is best known as a close friend and advisor to the Athenian statesman Pericles. Ancient sources describe him as an expert in music, which he taught to the sons of prominent citizens.</p>\n<p class=\"research-text\">His primary contribution was a theory that analyzed music not just as entertainment, but as a powerful social and political force. He argued that different musical styles and rhythms possessed specific ethical qualities and that altering a city&#x27;s traditional music could destabilize its entire political constitution.</p>\n<p class=\"research-text\">Damon&#x27;s career was deeply connected to the politics of his time. His influence as Pericles&#x27;s advisor made him a controversial figure, and he was eventually ostracized—a form of exile by popular vote—around 443 BCE. According to some accounts, he was accused of being a clever schemer, suggesting his intellectual ideas were seen as a political threat.</p>\n<p class=\"research-text\">He left no surviving written works. His theories are known only through fragments and discussions in later authors like Plato, Aristophanes, and Plutarch, who reference his ideas to debate the role of music in education and society.</p>\n<p class=\"research-text\">Modern scholars see Damon as a significant early figure in the sociology of music. His work represents the sophistic movement&#x27;s application of specialized knowledge to social analysis. His core idea about the ethical power of music was influential and was critically examined by Plato in the Republic. Damon&#x27;s life also exemplifies the precarious position of intellectuals in Athenian democracy, where expertise was both valued and could lead to political exile.</p>\n</div>",
+  "affiliation_label": "Sophist",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bzy-aa",
+      "title": {
+        "english": "On the Customs of Byzantium",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "damon-the-musician-customs-byzantium-bzy-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/damon-the-musician/customs-byzantium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician/customs-byzantium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician/customs-byzantium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician/customs-byzantium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-musician/customs-byzantium.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "que",
+      "name": {
+        "english": "Achilles Tatius of Alexandria",
+        "ancient_greek": "Ἀχιλλεὺς ὁ Τατίος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/achilles-tatius-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "ria",
+      "name": {
+        "english": "Aelian of Praeneste",
+        "ancient_greek": "Κλαύδιος Αἰλιανός"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/aelian-of-praeneste",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.json"
+      }
+    },
+    {
+      "eul_aid": "pnc",
+      "name": {
+        "english": "Aelius Aristides of Smyrna",
+        "ancient_greek": "Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-aristides-of-smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.json"
+      }
+    },
+    {
+      "eul_aid": "psw",
+      "name": {
+        "english": "Aelius Dionysius of Halicarnassus",
+        "ancient_greek": "Αἴλιος Διονύσιος ὁ Ἁλικαρνασσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-dionysius-of-halicarnassus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.json"
+      }
+    },
+    {
+      "eul_aid": "nxo",
+      "name": {
+        "english": "Aelius Theon the Sophist",
+        "ancient_greek": "Αἴλιος Θέων ὁ σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-theon-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.json"
+      }
+    },
+    {
+      "eul_aid": "dkm",
+      "name": {
+        "english": "Alcidamas of Elaea",
+        "ancient_greek": "Ἀλκιδάμας ὁ Ἐλαεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alcidamas-of-elaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.json"
+      }
+    },
+    {
+      "eul_aid": "quo",
+      "name": {
+        "english": "Alciphron the Sophist",
+        "ancient_greek": "Ἀλκίφρων ὁ Σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alciphron-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.json"
+      }
+    },
+    {
+      "eul_aid": "qko",
+      "name": {
+        "english": "Alexander Son of Numenius",
+        "ancient_greek": "Ἀλέξανδρος ὁ τοῦ Νουμήνιου"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-son-of-numenius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.json"
+      }
+    },
+    {
+      "eul_aid": "lfy",
+      "name": {
+        "english": "Alexander the Ephesian Poet",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-ephesus-poet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.json"
+      }
+    },
+    {
+      "eul_aid": "ejw",
+      "name": {
+        "english": "Amphicrates Atheniensis",
+        "ancient_greek": "Ἀμφικράτης Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amphicrates-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.json"
+      }
+    },
+    {
+      "eul_aid": "vng",
+      "name": {
+        "english": "Anonymous Commentary on Aphthonius",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς Ἀφθόνιον"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aphthonius-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.json"
+      }
+    },
+    {
+      "eul_aid": "bqs",
+      "name": {
+        "english": "Antiphon of Athens",
+        "ancient_greek": "Ἀντιφῶν ὁ Ἀθηναῖος"
+      },
+      "work_count": 9,
+      "links": {
+        "html": "https://eulogikon.org/en/antiphon-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/damon-the-musician",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-musician.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-musician.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-musician.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-musician.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

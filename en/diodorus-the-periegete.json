@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "loa",
+  "auth_slug": "diodorus-the-periegete",
+  "name": {
+    "english": "Diodorus the Periegete",
+    "ancient_greek": "Διόδωρος ὁ Περιηγητής"
+  },
+  "seo_h1": "Diodorus the Periegete on Monuments and Tombs",
+  "seo": {
+    "browser_title": "The Diodorus the Periegete on Eulogikon Greek Archive",
+    "meta_title": "The Diodorus the Periegete Ancient Greek Geography",
+    "meta_description": "Diodorus the Periegete was a Hellenistic geographer. His surviving geographical prose is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diodorus the Periegete was a Hellenistic geographer active in the 4th or 3rd century BCE. The epithet &quot;Periegete&quot; identifies him as a writer of descriptive geographical guides. No details of his life or origins survive.</p>\n<p class=\"research-text\">His sole known work is the Periegesis of the Inhabited World, a text now lost and preserved only in fragments cited by later authors. Diodorus is a minor figure whose significance lies in his contribution to the Hellenistic genre of periegesis.</p>\n<p class=\"research-text\">His work served as a source for later geographers like Pomponius Mela and Marcianus of Heraclea, aiding the transmission of geographical knowledge from the Hellenistic period to the Roman world and late antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "loa-aa",
+      "title": {
+        "english": "On Monuments and Tombs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-the-periegete-monuments-tombs-loa-aa",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-the-periegete/monuments-tombs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-the-periegete/monuments-tombs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-the-periegete/monuments-tombs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-the-periegete/monuments-tombs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-the-periegete/monuments-tombs.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diodorus-the-periegete",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diodorus-the-periegete.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diodorus-the-periegete.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diodorus-the-periegete.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diodorus-the-periegete.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

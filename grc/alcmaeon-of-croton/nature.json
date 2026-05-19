@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bmw-ab",
+  "eul_aid": "bmw",
+  "author_slug": "alcmaeon-of-croton",
+  "work_slug": "nature",
+  "url_slug": "alcmaeon-of-croton-nature-bmw-ab",
+  "author": {
+    "english": "Alcmaeon of Croton",
+    "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+  },
+  "title": {
+    "english": "Fragments on Nature",
+    "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως"
+  },
+  "seo": {
+    "browser_title": "Fragments of Alcmaeon of Croton on Nature on Eulogikon",
+    "meta_title": "Classical Fragments of Alcmaeon of Croton in Ancient Greek",
+    "meta_description": "Surviving fragments on medicine and philosophy by Alcmaeon. Early Greek medical thought. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Nature</strong> is a modern designation for the surviving doctrines of Alcmaeon of Croton, an early Greek philosopher and physician active in the late sixth or early fifth century BCE. His original prose treatise, often considered the first known Greek medical text, is lost. Its content survives only in a handful of principal fragments preserved through quotation by later philosophers, physicians, and doxographers. These passages address core topics in physiology, epistemology, and cosmology. Alcmaeon’s work originated in the intellectual milieu of Croton in southern Italy, a center for Pythagorean thought. While his precise relationship to the Pythagorean school remains debated by scholars, his inquiries effectively bridged philosophical speculation with empirical observation. His most enduring contribution is the theory that health constitutes a balance, or <strong>isonomia</strong>, of opposing qualities within the body—such as hot and cold, wet and dry, bitter and sweet—whereas disease arises from the monarchy, or dominance, of any one quality. He also broke significant ground by proposing that the brain, rather than the heart, is the central organ of sensation and cognition. Furthermore, he posited that the human soul is immortal and in perpetual motion. These theories proved highly influential, directly informing later medical thought in the Hippocratic tradition and sparking enduring ancient debates concerning the seat of consciousness and the nature of health.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit",
+      "text": "ΑΛΚΜΑΙΩΝΟΣ ΠΕΡΙ ΦΥΣΕΩΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG. VIII 83 [s. A 1, 1] Ἀλκμαίων Κροτωνιήτης τάδε ἔλεξε Πειρίθου υἱὸς Βροτίνωι καὶ Λέοντι καὶ Βαθύλλω ι · περὶ τῶν ἀφανέω ν , περὶ τῶν θνητῶν σαφήνειαν μὲν θεοὶ ἔχοντ ι , ὡς δὲ ἀνθρώποις τεκμαίρεσθαι καὶ τὰ ἑξῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "THEOPHR. d. sens. 25 [A 5] ἄνθρωπον γάρ φησι τῶν ἄλλων διαφέρειν ὅτι μόνον ξυνίησ ι , τὰ δ ’ ἄλλα αἰσθάνεται μέ ν , οὐ ξυνίησι δ έ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "[ARIST.] Probl. 17, 3. 916a 33 τοὺς ἀνθρώπους φησὶν Ἀ. διὰ τοῦτο ἀπόλλυσθα ι , ὅτι οὐ δύνανται τὴν ἀρχὴν τῶι τέλει προσάψα ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "AËT. V 14, 1 Ἀ. τῶν ἡμιόνων τοὺς μὲν ἄρρενας ἀγόνους παρὰ τὴν λεπτότητα τῆς θορῆς καὶ ψυχρότητα, τὰς δὲ θηλείας παρὰ τὸ μὴ ἀναχάσκειν τὰς μήτρας· οὕτω γὰρ αὐτὸς εἴρηκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "—v 30 1 (D. 442) Ἀ. τῆς μὲν ὑγιείας εἶναι συνεκτικὴν τὴν ἰσονομίαν τῶν δυνάμεων, ὑγροῦ, ξηροῦ, ψυχροῦ, θερμοῦ, πικροῦ, γλυκέος καὶ τῶν λοιπῶν, τὴν δ’ ἐν αὐτοῖς μοναρχίαν νόσου ποιητικήν· φθοροποιὸν γὰρ ἑκατέρου μοναρχίαν. καὶ νόσον συμπίπτειν ὡς μὲν ὑφ’ οὗ ὑπερβολῆι θερμότητος ἢ ψυχρότητος, ὡς δὲ ἐξ οὗ διὰ πλῆθος τροφῆς ἢ ἔνδειαν, ὡς δ’ ἐν οἷς ἢ * αἷμα ἢ μυελὸν ἢ ἐγκέφαλον. ἐγγίνεσθαι δὲ τούτοις ποτὲ κἀκ τῶν ἔξωθεν αἰτιῶν, ὑδάτων ποιῶν (?) ἢ χώρας ἢ κόπων ἢ ἀνάγκης ἢ τῶν τούτοις παραπλησίων. τὴν δὲ ὑγείαν τὴν σύμμετρον τῶν ποιῶν κρᾶσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "CLEM. Strom. VI 16 (II 435, 9 St.) Ἀλκμαίωνος γὰρ τοῦ Κροτωνιάτου λέγοντος ‘ ἐχθρὸν ἄνδρα ῥᾶιον φυλάξασθαι ἢ φίλον ‘ ὁ μὲν Σοφοκλῆς ἐποίησεν ἐν τῆι Ἀντιγόνηι (652) ‘τί γὰρ γένοιτ’ ἂν ἕλκος μεῖζον ἢ φίλος κακός;‘.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bmw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "alcmaeon-of-croton-testimonies-bmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.json"
+      }
+    },
+    {
+      "eul_wid": "reo-aj",
+      "title": {
+        "english": "Ethical Problems",
+        "ancient_greek": "Ἠθικὰ προβλήματα"
+      },
+      "url_slug": "alexander-of-aphrodisias-ethical-problems-reo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/ethical-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/ethical-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/ethical-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/ethical-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/ethical-problems.json"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.json"
+      }
+    },
+    {
+      "eul_wid": "pnw-ab",
+      "title": {
+        "english": "Fragments from Suda",
+        "ancient_greek": "Ἀποσπάσματα ἐκ Σοῦδας"
+      },
+      "url_slug": "hierocles-the-stoic-fragments-pnw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hierocles-the-stoic/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gww-ab",
+      "title": {
+        "english": "Fragments on Poetic Criticism",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποητικῆς Κρίσεως"
+      },
+      "url_slug": "chamaeleon-of-heraclea-pontica-poetic-criticism-gww-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chamaeleon-of-heraclea-pontica/poetic-criticism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica/poetic-criticism.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica/poetic-criticism.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica/poetic-criticism.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chamaeleon-of-heraclea-pontica/poetic-criticism.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dq",
+      "title": {
+        "english": "Gaius Marcius",
+        "ancient_greek": "Γάϊος Μάρκιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-gaius-marcius-okg-dq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/gaius-marcius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ab",
+      "title": {
+        "english": "Hermes to His Son Tat, That the Invisible God is Most Manifest",
+        "ancient_greek": "Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν"
+      },
+      "url_slug": "hermetica-invisible-god-manifest-oqk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/invisible-god-manifest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.json"
+      }
+    },
+    {
+      "eul_wid": "bhc-aa",
+      "title": {
+        "english": "Pythagorean Teachings and Letters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theano-of-croton-teachings-letters-bhc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theano-of-croton/teachings-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theano-of-croton/teachings-letters.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alcmaeon-of-croton/nature",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oba",
+  "auth_slug": "anonymous-narrative-fiction",
+  "name": {
+    "english": "Narrative Fiction Work Anonymous",
+    "ancient_greek": "Ἄγνωστος [Διηγήματος] Ἔργον"
+  },
+  "seo_h1": "The Ninus Fragments of Anonymous Narrative Fiction",
+  "seo": {
+    "browser_title": "Anonymous Greek Narrative Fiction on Eulogikon Greek Archive",
+    "meta_title": "Classical Anonymous Ancient Greek Narrative Fiction Works",
+    "meta_description": "Anonymous author of Greek narrative fiction from the Hellenistic period. Three surviving prose works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">This anonymous author composed narrative fictions during the Hellenistic period, from the 3rd to the 1st century BCE. The later centuries of this era coincided with Roman political control in the eastern Mediterranean, though the literary context remained Greek. No biographical details survive.</p>\n<p class=\"research-text\">The corpus consists of three unattributed prose works, written in Koine Greek. They belong to the emerging genre of early Greek prose fiction or novel. While specific titles are unknown, comparable anonymous or fragmentary works from the period include the Ninus Romance and the later version of The Story of Apollonius King of Tyre.</p>\n<p class=\"research-text\">These anonymous narratives represent a crucial development in prose literature, marking a shift toward plot-driven, imaginative fiction for popular entertainment. They offer valuable insights into Hellenistic social values and cross-cultural interactions. Their frequent fragmentary survival underscores the precarious transmission of popular, non-canonical texts.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "oba-ac",
+      "title": {
+        "english": "Ninus Fragment C",
+        "ancient_greek": "Νίνου Ἀπόσπασμα Γ"
+      },
+      "url_slug": "anonymous-narrative-fiction-ninus-fragment-c-oba-ac",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-narrative-fiction/ninus-fragment-c",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragment-c.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragment-c.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragment-c.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragment-c.json"
+      }
+    },
+    {
+      "eul_wid": "oba-aa",
+      "title": {
+        "english": "Ninus Fragments A–B",
+        "ancient_greek": "Νίνου Ἀποσπάσματα Α–Β"
+      },
+      "url_slug": "anonymous-narrative-fiction-ninus-fragments-aa-oba-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-narrative-fiction/ninus-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "oba-ab",
+      "title": {
+        "english": "Ninus Fragments A–B",
+        "ancient_greek": "Νίνου Ἀποσπάσματα Α–Β"
+      },
+      "url_slug": "anonymous-narrative-fiction-ninus-fragments-ab-oba-ab",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-narrative-fiction/ninus-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-ab.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-narrative-fiction",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-narrative-fiction.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-narrative-fiction.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-narrative-fiction.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-narrative-fiction.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

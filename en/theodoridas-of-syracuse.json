@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kmi",
+  "auth_slug": "theodoridas-of-syracuse",
+  "name": {
+    "english": "Theodoridas of Syracuse",
+    "ancient_greek": "Θεοδωρίδας ὁ Συρακούσιος"
+  },
+  "seo_h1": "Epigrams from Syracuse by Theodoridas",
+  "seo": {
+    "browser_title": "Theodoridas of Syracuse on Eulogikon Greek Archive",
+    "meta_title": "Theodoridas of Syracuse Ancient Greek Poetry Works",
+    "meta_description": "Theodoridas of Syracuse, a Hellenistic poet of the 3rd century BCE. Two surviving works of verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theodoridas of Syracuse was a Hellenistic epigrammatist of the 3rd century BCE. A native of Syracuse in Sicily, his period of significant literary activity belongs to the era following Alexander the Great. No further biographical details are recorded.</p>\n<p class=\"research-text\">Approximately eighteen to twenty of his epigrams survive in the Greek Anthology. These are primarily dedicatory and sepulchral poems, with others classified as scoptic (satirical) or sympotic. His epigram for the tragedian Sophocles is among his most notable works.</p>\n<p class=\"research-text\">Theodoridas is a representative figure of the early Hellenistic epigram, illustrating the genre&#x27;s evolution from simple inscription to a sophisticated literary form. His poems offer glimpses into contemporary social practices, and his Sicilian origin underscores the geographic spread of Greek literary culture in this period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "kmi-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theodoridas-of-syracuse-epigrams-kmi-ab",
+      "passages": 84,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "kmi-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "theodoridas-of-syracuse-fragments-kmi-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theodoridas-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoridas-of-syracuse.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoridas-of-syracuse.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoridas-of-syracuse.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoridas-of-syracuse.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

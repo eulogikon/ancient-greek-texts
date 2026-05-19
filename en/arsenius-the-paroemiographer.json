@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vko",
+  "auth_slug": "arsenius-the-paroemiographer",
+  "name": {
+    "english": "Arsenius the Paroemiographer",
+    "ancient_greek": "Ἀρσένιος ὁ Παροιμιογράφος"
+  },
+  "seo_h1": "Sayings Compiled by Arsenius the Paroemiographer",
+  "seo": {
+    "browser_title": "Arsenius the Paroemiographer on Eulogikon Greek Archive",
+    "meta_title": "Classical Arsenius the Paroemiographer Ancient Greek Works",
+    "meta_description": "Arsenius the Paroemiographer, 5th-6th century CE grammarian. Surviving work is a proverb collection. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Arsenius the Paroemiographer was a late antique compiler of Greek proverbs, conventionally dated to the 5th–6th century CE. No specific biographical details about him survive, though his epithet identifies him as a collector of proverbs. He was likely a grammarian or scholar working within the educational circles of the Eastern Roman Empire.</p>\n<p class=\"research-text\">His sole known work is the Collection of Proverbs. This compilation gathers Greek proverbs, frequently providing explanations of their meanings and origins, and relies substantially on earlier paroemiographers like Zenobius and Diogenianus.</p>\n<p class=\"research-text\">Arsenius’s primary importance is as a transmitter of Greek paremiography. His derivative but systematic collection preserved numerous proverbs and served as a key reference in Byzantine education and scholarship. It remains a valuable source for understanding popular wisdom and linguistic expression from the classical through late antique periods.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vko-aa",
+      "title": {
+        "english": "Sayings",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "arsenius-the-paroemiographer-sayings-vko-aa",
+      "passages": 758,
+      "links": {
+        "html": "https://eulogikon.org/grc/arsenius-the-paroemiographer/sayings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arsenius-the-paroemiographer/sayings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arsenius-the-paroemiographer/sayings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arsenius-the-paroemiographer/sayings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arsenius-the-paroemiographer/sayings.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/arsenius-the-paroemiographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arsenius-the-paroemiographer.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arsenius-the-paroemiographer.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arsenius-the-paroemiographer.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arsenius-the-paroemiographer.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

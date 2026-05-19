@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rik",
+  "auth_slug": "staphylus-of-naucratis",
+  "name": {
+    "english": "Staphylus of Naucratis",
+    "ancient_greek": "Στάφυλος ὁ Ναυκρατίτης"
+  },
+  "seo_h1": "Staphylus of Naucratis on Thessalian Histories and Myths",
+  "seo": {
+    "browser_title": "The Staphylus of Naucratis on Eulogikon Greek Archive",
+    "meta_title": "Staphylus of Naucratis Ancient Greek Historical Works",
+    "meta_description": "Staphylus of Naucratis, a Hellenistic historian and mythographer from the 3rd-2nd century BCE. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Staphylus of Naucratis was a Hellenistic historian and mythographer of the 3rd–2nd century BCE. He lived in the Greek colony of Naucratis in Egypt during the Ptolemaic period, though no specific biographical details survive. His works are preserved only in fragments and later testimonia.</p>\n<p class=\"research-text\">He authored studies on the foundation myths and antiquities of various regions. A referenced work is On the City of the Chalcidians, concerning Chalcis in Euboea. Later sources, including the Suda, also attribute to him titles such as On Athens, On Thessaly, On Arcadia, On Aeolia, and On Cyprus.</p>\n<p class=\"research-text\">Staphylus exemplifies the Hellenistic effort to systematize local histories and cultic traditions. His scholarship was used as a source by later compilers like Athenaeus and by scholiasts on classical poets, indicating his authority on antiquarian topics. His work helped preserve regional identities within the broader Hellenistic cultural sphere.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rik-aa",
+      "title": {
+        "english": "Thessalian Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "staphylus-of-naucratis-histories-myths-rik-aa",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/staphylus-of-naucratis/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/staphylus-of-naucratis/histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/staphylus-of-naucratis/histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/staphylus-of-naucratis/histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/staphylus-of-naucratis/histories-myths.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/staphylus-of-naucratis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/staphylus-of-naucratis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/staphylus-of-naucratis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/staphylus-of-naucratis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/staphylus-of-naucratis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

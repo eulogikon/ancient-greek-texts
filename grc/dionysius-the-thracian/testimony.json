@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mui-ac",
+  "eul_aid": "mui",
+  "author_slug": "dionysius-the-thracian",
+  "work_slug": "testimony",
+  "url_slug": "dionysius-the-thracian-testimony-mui-ac",
+  "author": {
+    "english": "Dionysius the Thracian",
+    "ancient_greek": "Διονύσιος ὁ Θρᾷξ"
+  },
+  "title": {
+    "english": "Testimony",
+    "ancient_greek": "Μαρτυρία"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimony by Dionysius the Thracian on Eulogikon",
+    "meta_title": "Testimony by Dionysius the Thracian in Ancient Greek",
+    "meta_description": "Dionysius the Thracian's grammatical collection preserves essential testimony on ancient linguistic theory and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimony</strong> is a brief grammatical fragment attributed to the Hellenistic scholar Dionysius Thrax, a pupil of Aristarchus of Samothrace who taught in the 2nd century BCE. It is not an independent treatise but a short passage preserved through later quotation. The extant fragment addresses the technical classification of Greek conjunctions, specifically debating whether certain ones should be categorized as completive or causal. This content situates the work within the detailed linguistic scholarship of the Alexandrian tradition, where scholars systematically analyzed and codified the rules of language. The text survives only as a citation within the 9th-century CE commentary of the Byzantine grammarian Choeroboscus, a typical mode of transmission for many minor technical works. The fragment offers a narrow but significant view into the definitional discourse of ancient grammatical scholarship, likely intended for specialists or advanced students engaged in textual analysis. Its preservation over many centuries underscores the enduring influence of Dionysius Thrax&#x27;s grammatical framework within both ancient and medieval scholarly traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3b,512,T 1",
+      "text": "SUDA s. v. Διονύσιος Ἀλεξανδρεύς· Θρᾶιξ δὲ ἀπὸ τοῦ πατρὸς Τήρου[τῆρος] τοὔνομα κληθείς, Ἀριστάρχου μαθητής, γραμματικός, ὃς ἐσοφίστευσεν ἐν Ῥώμηι (?) ἐπὶ Πομπηίου τοῦ μεγάλου καὶ ἐξηγήσατο Τυραννίωνι τῶι προτέρωι. συνέταξε δὲ πλεῖστα γραμματικά τε καὶ συνταγματικὰ καὶ ὑπομνήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mui-ab",
+      "title": {
+        "english": "Fragments on Homeric Pronunciation",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προφορᾶς"
+      },
+      "url_slug": "dionysius-the-thracian-homeric-pronunciation-mui-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/homeric-pronunciation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.json"
+      }
+    },
+    {
+      "eul_wid": "mui-aa",
+      "title": {
+        "english": "Grammatical Art",
+        "ancient_greek": "Γραμματικὴ Τέχνη"
+      },
+      "url_slug": "dionysius-the-thracian-grammatical-art-mui-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/grammatical-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.json"
+      }
+    },
+    {
+      "eul_wid": "mui-ad",
+      "title": {
+        "english": "On the Foundation of Tarsus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dionysius-the-thracian-foundation-tarsus-mui-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/foundation-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-ab",
+      "title": {
+        "english": "Allegories-Hesiod's Theogony",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Θεογονίαν τοῦ Ἡσιόδου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-theogony-piw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.json"
+      }
+    },
+    {
+      "eul_wid": "rdk-aa",
+      "title": {
+        "english": "Attic Lexicon",
+        "ancient_greek": "Ἀττικὸν Λεξικόν"
+      },
+      "url_slug": "aelius-moeris-the-atticist-attic-lexicon-rdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-moeris-the-atticist/attic-lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-moeris-the-atticist/attic-lexicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-moeris-the-atticist/attic-lexicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-moeris-the-atticist/attic-lexicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-moeris-the-atticist/attic-lexicon.json"
+      }
+    },
+    {
+      "eul_wid": "tro-an",
+      "title": {
+        "english": "Magister's Commentary on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-an-tro-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.json"
+      }
+    },
+    {
+      "eul_wid": "nzc-ab",
+      "title": {
+        "english": "Medical Lexicon Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "erotianus-the-grammarian-medical-lexicon-nzc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/erotianus-the-grammarian/medical-lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian/medical-lexicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian/medical-lexicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian/medical-lexicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erotianus-the-grammarian/medical-lexicon.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ad",
+      "title": {
+        "english": "On Nouns, Adjectives, and Appellatives, Monobiblos",
+        "ancient_greek": "Περὶ κυρίων καὶ ἐπιθέτων καὶ προσηγορικῶν"
+      },
+      "url_slug": "herodian-of-alexandria-nouns-adjectives-appellatives-qnq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/nouns-adjectives-appellatives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/nouns-adjectives-appellatives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/nouns-adjectives-appellatives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/nouns-adjectives-appellatives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/nouns-adjectives-appellatives.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-ad",
+      "title": {
+        "english": "On Poems",
+        "ancient_greek": "Περὶ ποιημάτων"
+      },
+      "url_slug": "hephaestion-of-alexandria-on-poems-oqa-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.json"
+      }
+    },
+    {
+      "eul_wid": "uxw-af",
+      "title": {
+        "english": "Syllogisms of the Holy Fathers",
+        "ancient_greek": "Συλλογισμοὶ τῶν Ἁγίων Πατέρων"
+      },
+      "url_slug": "john-of-caesarea-in-palestine-syllogisms-uxw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-caesarea-in-palestine/syllogisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-caesarea-in-palestine/syllogisms.json"
+      }
+    },
+    {
+      "eul_wid": "vrw-ab",
+      "title": {
+        "english": "Sympotic Poetry Fragments",
+        "ancient_greek": "Συμποτικῆς Ποιήσεως Ἀποσπάσματα"
+      },
+      "url_slug": "alphabetical-commentary-anonymous-sympotic-poetry-vrw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alphabetical-commentary-anonymous/sympotic-poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/sympotic-poetry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/sympotic-poetry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/sympotic-poetry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/sympotic-poetry.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dionysius-the-thracian/testimony",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

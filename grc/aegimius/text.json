@@ -1,0 +1,266 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ayg-aa",
+  "eul_aid": "ayg",
+  "author_slug": "aegimius",
+  "work_slug": "text",
+  "url_slug": "aegimius-text-ayg-aa",
+  "author": {
+    "english": "Aegimius ",
+    "ancient_greek": "Αἰγίμιος"
+  },
+  "title": {
+    "english": "Aegimius",
+    "ancient_greek": "Αἰγίμιος"
+  },
+  "seo": {
+    "browser_title": "The Epic Poem Aegimius by Aegimius on Eulogikon Archive",
+    "meta_title": "The Epic Poem Aegimius by Aegimius in Ancient Greek",
+    "meta_description": "The epic poem Aegimius attributed to the poet Aegimius. A work of early Greek epic poetry. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Aegimius is a lost epic poem of uncertain authorship, traditionally ascribed either to a poet of the same name or, more commonly, to Hesiod. It takes its title from the legendary Dorian king Aegimius. The narrative, as reconstructed from fragmentary quotations preserved by later authors such as Strabo and Athenaeus, included episodes of Heracles aiding Aegimius in a war against the Lapiths and contained a catalog of the daughters of Danaus. As part of the early &quot;Hesiodic&quot; epic tradition, the poem expanded on mythological cycles outside the Homeric sphere, focusing on Dorian genealogy and the exploits of Heracles to connect heroic narrative with the foundational legends of specific Greek tribes. Its fragments are compiled in modern scholarly editions of Hesiodic works.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Νήσῳ ἐν Ἀβαντίδι δίῃ· τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "πρὶν Ἀβαντίδα κίκλησκον θεοὶ αἰὲν ἐόντες, τὴν τότ’ ἐπώνυμον Εὔβοιαν βοὸς ὠνόμασε Ζεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τοῦ δ’ ὅρκον ἔθηκεν ἀμείνονα ἀνθρώποισι νοσφιδίων ἔργων πέρι Κύπριδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Καί οἱ ἐπίσκοπον Ἄργον ἵει κρατερόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τε μέγαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τε, τέτρασιν ὀφθαλμοῖσιν ὁρώμενον ἔνθα καὶ ἔνθα, ἀκάματον δέ οἱ ὦρσε θεὰ μένος, οὐδέ οἱ ὕπνος πῖπτεν ἐπὶ βλεφάροις, φυλακὴν δ’ ἔχεν ἔμπεδον αἰεί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ἔνθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "ποτ’ ἔσται ἐμὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "ψυκτήριον, ὄρχαμε λαῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Πάντες δὲ τριχάϊκες καλέονται, οὕνεκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "τρισσὴν γαῖαν ἑκὰς πάτρης ἐδάσαντο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "dfm-aa",
+      "title": {
+        "english": "Anonymous Epic Poems",
+        "ancient_greek": "Ἀνώνυμα Ἐπικὰ Ποιήματα"
+      },
+      "url_slug": "epic-fragments-anonymous-i-epic-poems-dfm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-i/epic-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.json"
+      }
+    },
+    {
+      "eul_wid": "emy-ac",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "choerilus-of-samos-epic-fragments-emy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-samos/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "abo-aa",
+      "title": {
+        "english": "Epigoni",
+        "ancient_greek": "Ἐπίγονοι"
+      },
+      "url_slug": "epigoni-text-abo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigoni/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.json"
+      }
+    },
+    {
+      "eul_wid": "kog-ab",
+      "title": {
+        "english": "Fragments on Ajax and Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἴαντος καὶ Μύθου"
+      },
+      "url_slug": "euphorion-of-chalcis-ajax-myth-kog-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/ajax-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.json"
+      }
+    },
+    {
+      "eul_wid": "mfi-ab",
+      "title": {
+        "english": "Geographical Fragments of Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βιθυνίας"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hesiod-testimonies-aau-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "lko-aa",
+      "title": {
+        "english": "Thebaid Fragments",
+        "ancient_greek": "Θηβαΐδος Ἀποσπάσματα"
+      },
+      "url_slug": "thebais-fragments-lko-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thebais/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thebais/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ad",
+      "title": {
+        "english": "encom-Heraclius the Leader",
+        "ancient_greek": "Ἐγκώμιον εἰς Ἡράκλειον τὸν ἡγεμόνα"
+      },
+      "url_slug": "epic-fragments-anonymous-heraclius-leader-kjq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/heraclius-leader",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aegimius/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aegimius/text.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aegimius/text.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aegimius/text.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aegimius/text.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

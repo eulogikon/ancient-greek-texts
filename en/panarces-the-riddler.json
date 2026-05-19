@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rty",
+  "auth_slug": "panarces-the-riddler",
+  "name": {
+    "english": "Panarces the Writer of Riddles",
+    "ancient_greek": "Πανάργης ὁ Γραφεύς Αἰνigmatῶν"
+  },
+  "seo_h1": "Riddles of Paradoxical Encounters by Panarces",
+  "seo": {
+    "browser_title": "Panarces the Writer of Riddles on Eulogikon Greek Archive",
+    "meta_title": "The Panarces Ancient Greek Riddle Poetry and Works",
+    "meta_description": "Panarces, a Roman-era Greek poet of the 2nd-3rd century CE. Surviving works of verse riddle poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Panarces the Writer of Riddles is an obscure author from the Roman Imperial period, traditionally dated to the 2nd–3rd century CE. No biographical details concerning his life, origins, or education are recorded in extant sources.</p>\n<p class=\"research-text\">His sole known work is the Ainigmata, or Riddles, a collection of verse riddles. The work is lost and is attested only by a single reference in the 10th-century Byzantine encyclopedia, the Suda, which lists a book of riddles by Panarces the Writer of Riddles.</p>\n<p class=\"research-text\">His significance rests entirely on this attestation, which places him within the tradition of Greek riddlic literature alongside figures like Cleobulus of Lindos and the riddles of the Greek Anthology. As no text survives, his specific contribution to the genre cannot be evaluated.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/panarces-the-riddler",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/panarces-the-riddler.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/panarces-the-riddler.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/panarces-the-riddler.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/panarces-the-riddler.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

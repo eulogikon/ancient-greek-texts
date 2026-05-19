@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iha-ac",
+  "eul_aid": "iha",
+  "author_slug": "hermesianax-of-colophon",
+  "work_slug": "betrayal-of-nanis",
+  "url_slug": "hermesianax-of-colophon-betrayal-of-nanis-iha-ac",
+  "author": {
+    "english": "Hermesianax of Colophon",
+    "ancient_greek": "Ἑρμησιάναξ ὁ Κολοφωνεύς"
+  },
+  "title": {
+    "english": "Betrayal of Nanis",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Betrayal Nanis by Hermesianax of Colophon on Eulogikon",
+    "meta_title": "The Betrayal of Nanis by Hermesianax in Ancient Greek",
+    "meta_description": "Fragments of the elegiac poem The Betrayal of Nanis by Hermesianax. Hellenistic elegy on myth. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Betrayal of Nanis is a title attributed in some ancient sources to the Hellenistic poet Hermesianax of Colophon, though it does not correspond to his only securely attested work. Hermesianax is known primarily for his elegiac poem the <strong>Leontion</strong>, also titled <strong>On His Beloved</strong>, a three-book composition from the third century BCE. The narrative of Nanis, as preserved in the compilation of Parthenius, recounts the legendary betrayal of the Lydian city of Sardis to the Persian king Cyrus. According to the tale, when Cyrus besieged Sardis and found its acropolis impregnable, the daughter of King Croesus, named Nanis, agreed to betray the citadel on the condition that Cyrus marry her according to Persian law. She facilitated the enemy&#x27;s entry through the unguarded, fortified heights, aided by accomplices. The story concludes with Cyrus failing to honor his promise to her.</p>\n<p class=\"research-text\">Hermesianax&#x27;s extant poetry, chiefly known from a 98-line fragment of the <strong>Leontion</strong> preserved by Athenaeus, exhibits characteristic features of early Hellenistic elegy. His work is erudite and allusive, presenting a catalogue of famous lovers from mythology and history within a personal, amatory framework addressed to his beloved Leontion. The poetry often serves an aetiological purpose, providing mythic explanations for cultural or ritual phenomena, and is noted for its scholarly references to obscure mythological variants. The transmission of Hermesianax&#x27;s oeuvre depends entirely on fragments quoted by later authors such as Athenaeus, Pausanias, and the <strong>Suda</strong>, with no independent manuscript tradition. His catalogue technique and learned style mark him as a significant figure in the development of Hellenistic elegy, potentially influencing later Roman poets in the genre.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,691,F 1*",
+      "text": "PARTHEN. Narr. am. 22: Περὶ Νανίδος. ἡ ἱστορία παρὰ Λικυμνίωι τῶι Χίωι μελοποιῶι (III 599 Bgk 4 ) καὶ Ἑρμησιάνακτι. ἔφασαν δέ τινες καὶ τὴν Σαρδίων ἀκρόπολιν ὑπὸ Κύρου τοῦ Περσῶν βασιλέως ἁλῶναι προδούσης τῆς Κροίσου θυγατρὸς Νανίδος. ἐπειδὴ γὰρ ἐπολιόρκει Σάρδεις Κῦρος, καὶ οὐδὲν αὐτῶι εἰς ἅλωσιν τῆς πόλεως προὔβαινεν, ἐν πολλῶι τε δέει ἦν, μὴ ἀθροισθὲν τὸ συμμαχικὸν †αὐτῆς τῶι Κροίσωι διαλύσειεν αὐτῶι τὴν στρατιάν, τότε τὴν παρθένον ταύτην ἔχει λόγος περὶ προδοσίας συνθεμένην τῶι Κύρωι, εἰ κατὰ νόμους Περσῶν ἕξει γυναῖκα αὐτὴν, κατὰ τὴν ἄκραν μηδενὸς φυλάσσοντος δι’ ὀχυρότητα τοῦ χωρίου εἰσδέχεσθαι τοὺς πολεμίους, συνεργῶν αὐτῆι καὶ ἄλλων τινῶν γενομένων. τὸν μέντοι Κῦρον μὴ ἐμπεδῶσαι αὐτῆι τὴν ὑπόσχεσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iha-ab",
+      "title": {
+        "english": "Orphic and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-orphic-mythological-fragments-iha-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "iha-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hermesianax-of-colophon-testimonies-iha-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uyq-ab",
+      "title": {
+        "english": "Dubious Songs",
+        "ancient_greek": "Ἀμφίβολοι ᾨδαί"
+      },
+      "url_slug": "romanos-the-melodist-dubious-songs-uyq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/dubious-songs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.json"
+      }
+    },
+    {
+      "eul_wid": "kza-ab",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "lobon-of-argos-fragments-kza-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lobon-of-argos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ttm-aa",
+      "title": {
+        "english": "Fragments on Birdsong",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀρνίθων ᾠδῆς"
+      },
+      "url_slug": "assembly-of-the-birds-fragments-ttm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/assembly-of-the-birds/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "asw-ab",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "ibycus-of-rhegium-trojan-war-ab-asw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ibycus-of-rhegium/trojan-war-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ccq-aa",
+      "title": {
+        "english": "Lyric Fragments on Life and Love",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἔρωτος"
+      },
+      "url_slug": "praxilla-of-sicyon-lyric-fragments-ccq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/praxilla-of-sicyon/lyric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "juq-aa",
+      "title": {
+        "english": "On the Uncertainty of Life",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hermolochus-the-lyric-poet-uncertainty-life-juq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermolochus-the-lyric-poet/uncertainty-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.json"
+      }
+    },
+    {
+      "eul_wid": "tpg-aa",
+      "title": {
+        "english": "Philogelos or Jokes, Under Authors Hierocles and Philagrius",
+        "ancient_greek": "Φιλόγελως"
+      },
+      "url_slug": "anthology-anon-philogelos-jokes-tpg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anthology-anon/philogelos-jokes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon/philogelos-jokes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon/philogelos-jokes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon/philogelos-jokes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthology-anon/philogelos-jokes.json"
+      }
+    },
+    {
+      "eul_wid": "qja-aa",
+      "title": {
+        "english": "To the Initial Discharges",
+        "ancient_greek": "Πρὸς τὰς ἀρχομένας ὑποχύσεις"
+      },
+      "url_slug": "aglaias-of-byzantium-initial-discharges-qja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermesianax-of-colophon/betrayal-of-nanis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

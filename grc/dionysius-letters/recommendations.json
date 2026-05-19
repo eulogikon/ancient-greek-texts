@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mdk-aa",
+  "eul_aid": "mdk",
+  "author_slug": "dionysius-letters",
+  "work_slug": "recommendations",
+  "url_slug": "dionysius-letters-recommendations-mdk-aa",
+  "author": {
+    "english": "Dionysius Letters",
+    "ancient_greek": "Διονυσίου Ἐπιστολαί"
+  },
+  "title": {
+    "english": "Letters of Recommendation",
+    "ancient_greek": "Ἐπιστολαὶ περὶ Συστατικῶν"
+  },
+  "seo": {
+    "browser_title": "Letters of Recommendation by Dionysius Letters on Eulogikon",
+    "meta_title": "Letters of Recommendation by Dionysius Letters in Greek",
+    "meta_description": "Ancient epistles introducing individuals recommended for various purposes and positions. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ λογοτεχνική",
+      "english": "Literary Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letters of Recommendation is a collection of five brief epistles composed in Attic Greek by Dionysius of Halicarnassus, the Greek historian and rhetorician active in Rome. Dating from approximately 30 to 8 BCE, these works exemplify the ancient genre of the formal letter of introduction. Each epistle recommends a specific individual, typically a student of rhetoric or philosophy, to a Roman patron or acquaintance, seeking hospitality, patronage, or intellectual companionship. The collection offers a valuable glimpse into the social and professional networks connecting a Greek intellectual to the Roman elite during the Augustan era. Scholars view the letters as serving a dual function: they were practical instruments for forging and maintaining connections, and they also circulated as published models for students, illustrating the application of rhetorical principles such as the concise and persuasive presentation of character. The complete text of all five letters has been preserved within the larger corpus of Dionysius&#x27;s works through medieval Byzantine manuscripts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Ῥούφῳ. Συνίστημί σοι τὸν φέροντα τὴν ἐπιστολὴν ἄνδρα πράγματα μὲν ἔχοντα δι’ ἀντιδίκου φιλονεικίαν, αὐτὸν δὲ τοῖς φίλοις παρέχειν οὐ βουλόμενον, ἔτι δὲ καὶ τἄλλα οἷον ἂν σὺ ἐπαινέσειας, μέτριος καὶ ἐπιεικής· τὸ γὰρ τοῦ γένους καὶ πολιτικοῦ ἀξιώματος οὐδ’ οἶμαί σε δεῖσθαι πυνθάνεσθαι, καὶ γὰρ καὶ ταῦτα αὐτῷ ὑπάρχει. Ῥούφῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "Ἑρέννιον τὸν ἐμὸν ἑταῖρον φθάνεις μὲν ἐπιστάμενος, οὔπω δὲ ἱκανῶς, ὅσον ἐγὼ βούλομαι. οὐδὲ γὰρ νῦν ἂν δυναίμην ἴσως εἰπεῖν ἅπαντα τὰ προσόντα αὐτῷ· τοσαῦτα μέντοι ἄξιον αὐτὸν μαρτυρῆσαι ὡς καὶ γέγονεν ἡμῖν ἐκ πλείονος φίλος καὶ ὅσα πεῖραν ἤδη τῷ χρόνῳ δέδωκε. καὶ περὶ τοὺς λόγους πρότερον μὲν ἐζήλωσε, νῦν δὲ καὶ ὑπερεβάλετο. ἔστι γὰρ ῥήτωρ ἀγαθός, ἔτι δ’ ἂν γένοιτο βελτίων σοὶ συνὼν καὶ ὑπὸ σοῦ προαγόμενος. σὺ δέ μοι τὰ πολλὰ περὶ πολλῶν χαριζόμενος ἐν τοῖς μάλιστα ἂν χαρίζοιο καὶ Ἑρέννιον σαυτοῦ νομίζων. Εὐσεβίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t)",
+      "text": "Παρόντα σε βλέπειν οἴομαι ταῖς ἐπιστολαῖς ἐντυγχάνων αἷς ἐπιστέλλεις, ὥστ’ εἰ γράφοις μοι συνεχέστερον ἥκιστ’ ἂν ἐπὶ τῇ ἀπουσίᾳ δυσχεραίνοιμι. Τῷ αὐτῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (t)",
+      "text": "Ἀνιαρὰ μὲν εἶναι τὰ συμβάντα Δρακοντίῳ καὶ κακῶν ἔσχατα τίς οὐκ ἂν ὁμολογήσειεν, ἀνθρώπινα δὲ καὶ πολλοῖς ἤδη γεγενημένα. διὸ καρτερεῖν μὲν ἐπ’ ἐκείνοις ἀνάγκη καὶ φέρειν ἑκόντας· δεῖ γάρ, κἂν ἄλλως ἔχῃς, κἂν σφόδρα τοῦ πάθους ἡττᾷ, ὑπὲρ τῶν ὄντων ὁρᾶν ὀρθῶς, ἵνα μὴ τὰς μὲν συμφορὰς ἄριστα διηνυκέναι δοκῇς, περὶ δὲ τοῦ ζῶντος οὐκ ἄριστα φρονεῖν. Σαβινιανῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (t)",
+      "text": "Οὐκ ὄκνῳ τοῦ γράφειν οὐδ’ ὑπεροψίᾳ τινὶ σεσιώπηταί μοι τὰ πρότερον. καί σοι ἂν ὡμολόγουν εἶναι σχετλιώτατος ἀνθρώπων, εἰ τέχνῃ μὲν τὸ λέγειν ἀσκήσας ἐπιστέλλειν οὐκ ἐβουλόμην, ἠμέλουν δὲ φίλου, ᾧ καὶ συνεχόρευσα τὰ τῶν Μουσῶν καὶ τὰ ἱερὰ συνετελέσθην, ὅσα δὴ πάντων ἐν Ἕλλησιν ἁγιώτατα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [],
+  "links": {
+    "html": "https://eulogikon.org/grc/dionysius-letters/recommendations",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

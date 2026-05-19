@@ -1,0 +1,279 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ngq-ae",
+  "eul_aid": "ngq",
+  "author_slug": "aratus-scholia",
+  "work_slug": "text-ae",
+  "url_slug": "aratus-scholia-text-ae-ngq-ae",
+  "author": {
+    "english": "Aratus Scholia",
+    "ancient_greek": "Ἄρατου Σχόλια"
+  },
+  "title": {
+    "english": "Scholia-Aratus",
+    "ancient_greek": "Σχόλια εἰς Ἄρατον"
+  },
+  "seo": {
+    "browser_title": "Ancient Scholia on Aratus by Aratus Scholia on Eulogikon",
+    "meta_title": "Scholia on Aratus by Aratus Scholia in Ancient Greek",
+    "meta_description": "Ancient scholia providing grammatical explanatory notes on astronomical poem of Aratus. A key text for understanding Hellenistic scholarship astronomy."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Scholia to Aratus constitute a body of ancient and medieval marginal commentaries on the <strong>Phaenomena</strong>, the influential astronomical poem by Aratus of Soli. These annotations are not a single, coherent work but a cumulative compilation of explanatory notes from multiple commentators spanning many centuries. They address a range of scholarly concerns, including textual criticism, glossary, mythology, and astronomical explanation. The scholia elucidate Aratus&#x27;s often-difficult poetic vocabulary and syntax, clarify the identification and nature of the constellations and celestial phenomena he describes, and provide notes on the associated mythological etiologies. They also frequently reference the poet&#x27;s sources, most notably the earlier astronomical work of Eudoxus of Cnidus. Preserved within medieval manuscripts of the <strong>Phaenomena</strong>, these layered annotations owe their survival to the poem&#x27;s enduring status as a standard educational text. The scholia are a vital resource for understanding the reception and interpretation of Aratus&#x27;s canonical work. They offer significant insight into ancient scholarly methods and educational practices, while also serving as an important repository for the history of astronomy, having preserved fragments of otherwise lost commentaries, such as that by the astronomer Hipparchus. The standard modern edition of this material is Ernst Maass&#x27;s <strong>Commentariorum in Aratum reliquiae</strong>.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "SCHOLIA PERUSINA τω[ ράτρ[ οὖν φησιν[ καὶ ἀστραπα[ὶ δόκα ἄνεμον. καὶ[ ἀσελήνῳ. ὅτε δοκοῦ[ τινὲς διὰ ξηρότητα . [ αὐτῶν λευκαὶ φαίνονται ..[ πνεῦμα τὴν αὐτὴν ἐκείνοις ὁδὸν ἐ[ οἷον ἐὰν ἐπὶ τὰ βόρεια φαίν . [ ἐκεῖθεν προσδόκα ἄνεμον ἢ (?) βορ[ ἐὰν δὲ πρὸς τὰ νότια, νότον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "ἐὰν δὲ ἄλλοι φησὶν ἄνεμοι (sic) ἐναν[τίον] τῶν προειρημένων ὁρμῶσι, καὶ ἄλλοι ἐξ ἄλλων μερῶν, παντοίους ἀνέμους προσδόκα, ἀτάκτως τῇδε κἀκεῖσε πνεύσοντας, οἳ καὶ δύσκριτοι τοῖς ἀνθρώποις εἰσὶ τεκμήρασθαι τού τοις διὰ τὸ ἄτακτα πνέειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ἐπειδὰν δέ φησιν ἐκ τοῦ εὔρου καὶ τοῦ νότου ἀστράπτῃ, ἄλλοτε δὲ ἐκ ζεφύρου καὶ βορέου, τότε ὁ ἐν πελάγει ναύτης φοβεῖται μὴ ἄρα περιέξῃ καὶ περικλύσῃ αὐτόν. τῇ μέν (936), ἀντὶ τοῦ ἔνθεν μὲν τὸ πέλαγος ἤγουν κάτωθεν, ἔνθεν δὲ ὁ τοῦ Διὸς ὄμβρος, ἤγουν ἄνωθεν. αἱ γὰρ ἀστραπαὶ αὗται σφοδρὸν ὑετὸν δηλοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ngq-aa",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-aa-ngq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ab",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ab-ngq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ac",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ac-ngq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ad",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ad-ngq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-af",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-af-ngq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kau-ab",
+      "title": {
+        "english": "Argonautic Genealogical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-mytilene-argonautica-kau-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-mytilene/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/argonautica.json"
+      }
+    },
+    {
+      "eul_wid": "pxm-aa",
+      "title": {
+        "english": "Fragments on Athenian Institutions",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτευμάτων"
+      },
+      "url_slug": "telephus-the-grammarian-athenian-institutions-pxm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telephus-the-grammarian/athenian-institutions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telephus-the-grammarian/athenian-institutions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telephus-the-grammarian/athenian-institutions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telephus-the-grammarian/athenian-institutions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telephus-the-grammarian/athenian-institutions.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-ao",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-ao-tqa-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-ao.json"
+      }
+    },
+    {
+      "eul_wid": "pka-aa",
+      "title": {
+        "english": "On Conjunctions",
+        "ancient_greek": "Περὶ συνδέσμων"
+      },
+      "url_slug": "apollonius-grammarian-conjunctions-pka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-grammarian/conjunctions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bq",
+      "title": {
+        "english": "On Figures (Short)",
+        "ancient_greek": "Περὶ σχημάτων"
+      },
+      "url_slug": "herodian-of-alexandria-figures-bq-qnq-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/figures-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-bq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-bq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-bq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-bq.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bu",
+      "title": {
+        "english": "On Verses",
+        "ancient_greek": "Περὶ Στίχων"
+      },
+      "url_slug": "herodian-of-alexandria-verses-qnq-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/verses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verses.json"
+      }
+    },
+    {
+      "eul_wid": "tii-ae",
+      "title": {
+        "english": "Scholia-Euclid's Optics",
+        "ancient_greek": "Σχόλια εἰς Εὐκλείδου Ὀπτικά"
+      },
+      "url_slug": "thucydides-scholia-optics-ae-tii-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-scholia/optics-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/optics-ae.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ag",
+      "title": {
+        "english": "To the Commentary-Genera by Apollonius",
+        "ancient_greek": "Εἰς τὸ περὶ γενῶν Ἀπολλωνίου ὑπόμνημα"
+      },
+      "url_slug": "herodian-of-alexandria-commentary-genera-qnq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/commentary-genera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/commentary-genera.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/commentary-genera.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/commentary-genera.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/commentary-genera.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aratus-scholia/text-ae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

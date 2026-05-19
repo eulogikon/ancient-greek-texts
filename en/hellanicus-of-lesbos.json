@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cvm",
+  "auth_slug": "hellanicus-of-lesbos",
+  "name": {
+    "english": "Hellanicus of Lesbos",
+    "ancient_greek": "Ἑλλάνικος ὁ Λέσβιος"
+  },
+  "seo_h1": "Hellanicus of Lesbos and the Phoronis Myths",
+  "seo": {
+    "browser_title": "Hellanicus of Lesbos on Eulogikon Greek Text Archive",
+    "meta_title": "Hellanicus of Lesbos Ancient Greek Historical Works",
+    "meta_description": "Hellanicus of Lesbos, a 5th century BCE historian. Fragmentary historical and mythological works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic (frg)",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hellanicus of Lesbos was a Greek logographer and mythographer active in the latter half of the 5th century BCE. He was a contemporary of Herodotus and slightly older than Thucydides. Born around 480 BCE and dying around 395 BCE, he spent time at the Macedonian court of Amyntas I and in Athens. His extensive travels and research, which involved consulting local archives and traditions, positioned him as a pivotal figure in the transition from mythographic storytelling to more systematic historical inquiry.</p>\n<p class=\"research-text\">His prolific output survives only in fragments. It included local histories, such as the influential <strong>Atthis</strong>, ethnographies like <strong>Aigyptiaka</strong> and <strong>Persika</strong>, and mythographic-genealogical treatises such as the <strong>Phoronis</strong>. He also produced chronological works, notably the <strong>Priestesses of Hera at Argos</strong>, innovating by using such lists to date events. Scholarly sources note he wrote over two dozen works.</p>\n<p class=\"research-text\">Hellanicus is a foundational figure in Greek historiography. He systematically organized Greek myth, local history, and barbarian customs into coherent narratives and chronological frameworks. Though later historians criticized his methods, his works served as essential source material for subsequent historians, mythographers, and tragedians, preserving many otherwise lost local traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "cvm-ac",
+      "title": {
+        "english": "Fragments on Heraclean Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἡρακλειωτικῶν Πολέμων"
+      },
+      "url_slug": "hellanicus-of-lesbos-heraclean-wars-cvm-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/hellanicus-of-lesbos/heraclean-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/heraclean-wars.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/heraclean-wars.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/heraclean-wars.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/heraclean-wars.json"
+      }
+    },
+    {
+      "eul_wid": "cvm-ab",
+      "title": {
+        "english": "Phoronis: Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hellanicus-of-lesbos-phoronis-mythological-fragments-cvm-ab",
+      "passages": 306,
+      "links": {
+        "html": "https://eulogikon.org/grc/hellanicus-of-lesbos/phoronis-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "cvm-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hellanicus-of-lesbos-testimonies-cvm-aa",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/hellanicus-of-lesbos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hellanicus-of-lesbos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hellanicus-of-lesbos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hellanicus-of-lesbos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hellanicus-of-lesbos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hellanicus-of-lesbos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

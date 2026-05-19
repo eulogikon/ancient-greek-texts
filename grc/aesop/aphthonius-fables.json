@@ -1,0 +1,671 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aqo-ad",
+  "eul_aid": "aqo",
+  "author_slug": "aesop",
+  "work_slug": "aphthonius-fables",
+  "url_slug": "aesop-aphthonius-fables-aqo-ad",
+  "author": {
+    "english": "Aesop the Fabulist",
+    "ancient_greek": "Αἴσωπος ὁ μυθολόγος"
+  },
+  "title": {
+    "english": "Fables of Aphthonius the Rhetorician",
+    "ancient_greek": "Μῦθοι Ἀφθονίου τοῦ Ῥήτορος"
+  },
+  "seo": {
+    "browser_title": "Fables of Aphthonius the Rhetorician by Aesop on Eulogikon",
+    "meta_title": "Fables of Aphthonius the Rhetorician by Aesop in Greek",
+    "meta_description": "Fables of Aphthonius the Rhetorician, attributed to Aesop. Rhetorical prose fables for instruction. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fables of Aphthonius the Rhetorician is a title that refers not to an independent collection of stories but to the model fable included within the <strong>Progymnasmata</strong>, a fourth-century CE rhetorical textbook authored by Aphthonius of Antioch. In this influential educational work, the fable, or <strong>mythos</strong>, is presented as the first preliminary exercise for students of rhetoric. Aphthonius provides a definition of the literary form and offers a concise example, the well-known fable of &quot;The Cicada and the Ant.&quot; This narrative illustrates classic Aesopic themes, using animal characters to deliver moral instruction and social critique, emphasizing practical wisdom and the inevitable consequences of one&#x27;s actions, such as the perils of idleness contrasted with the rewards of industriousness. While the tradition of Aesopic fables was transmitted through various prose and poetic collections in antiquity, the example from Aphthonius circulated exclusively as an integral component of his rhetorical manual. The <strong>Progymnasmata</strong> itself was preserved extensively throughout the Byzantine era and remained a standard textbook into the Renaissance, ensuring the pedagogical use and formal standardization of the fable within Western education for centuries and contributing significantly to the enduring literary legacy of Aesopic wisdom.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (1t)",
+      "text": "ΜΥΘΟΣ Ο ΤΩΝ ΤΕΤΤΙΓΩΝ ΚΑΙ ΤΩΝ ΜΥΡΜΗΚΩΝ ΠΡΟΤΡΕΠΟΜΕΝΟΣ ΤΟΥΣ ΝΕΟΥΣ ΕΙΣ ΠΟΝΟΝ θέρους ἦν ἀκμὴ καὶ οἱ μὲν τέττιγες μουσικὴν ἀνεβάλλοντο σύντονον, τοῖς μύρμηξι δὲ πονεῖν ἐπῄει καὶ συλλέγειν καρπούς, ἐξ ὧν ἔμελλον τοῦ χειμῶνος τραφήσεσθαι. χειμῶνος δὲ ἐπιγεγονότος οἱ μύρμηκες μέν, οἷς ἐπόνουν, ἐτρέφοντο· τοῖς δὲ ἡ τέρψις ἐτελεύτα πρὸς ἔνδειαν. οὕτως νεότης πονεῖν οὐκ ἐθέλουσα παρὰ τὸ γῆρας κακοπραγεῖ. ΜΥΘΟΣ Ο ΤΟΥ ΧΗΝΟΣ ΚΑΙ ΤΟΥ ΚΥΚΝΟΥ ΤΟΥΣ ΝΕΟΥΣ ΕΙΣ ΛΟΓΟΥΣ ΠΑΡΑΚΑΛΩΝ ἀνὴρ εὐπορῶν χῆνά τε ἅμα καὶ κύκνον ἄμφω τρέφειν ἐβούλετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (1t)",
+      "text": "ἔτρεφε δὲ οὐκ ἐφ’ ὁμοίοις βουλεύμασι· τὸν μὲν γὰρ ᾠδῆς, τὸν δὲ τραπέζης ἐκέκτητο χάριν. ὡς δὲ ἔδει τὸν χῆνα παθεῖν, ἐφ’ οἷς ἐτρέφετο, νὺξ μὲν ἦν καὶ διαγινώσκειν ὁ καιρὸς οὐκ ἀφῆκεν ἑκάτερον, ὁ κύκνος δὲ ἀντὶ τοῦ χηνὸς ἀπαχθεὶς ᾠδῇ σημαίνει τὴν φύσιν καὶ τὴν τελευτὴν διαφεύγει τῷ μέλει. οὕτως ἡ μουσικὴ τελευτῆς ἀναβολὴν ἐργάζεται. ΜΥΘΟΣ 〈Ο〉 ΤΩΝ ΙΚΤΙΝΩΝ ΚΑΙ ΚΥΚΝΩΝ ΠΑΡΑΙΝΩΝ ΜΗ ΜΙΜΕΙΣΘΑΙ ΤΑ ΜΗ ΠΡΟΣΗΚΟΝΤΑ ὅσην τοῖς κύκνοις ἡ φύσις ᾠδήν, τοσαύτην ἰκτίνοις παρέσχε τὸ πρότερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (1t)",
+      "text": "ἵππων δὲ χρεμετιζόντων ἀκούσαντες εἰς ἔρωτα ἧκον τῆς ἐκείνων φωνῆς καὶ μιμεῖσθαι πειρώμενοι συναποβάλλουσιν ἃ εἶχον, οἷς μαθεῖν ἐπετήδευον. χρεμετίζειν μὲν γὰρ οὐκ ἔμαθον, ᾄδειν δὲ ἐπελάθοντο. φέρει τῶν προσόντων τὴν στέρησιν ἡ τοῦ μὴ προσήκοντος μίμησις. λέγεται .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3bis",
+      "text": ".. τὸν ἰκτῖνα φωνὴν ἔχοντα παραπλησίαν τοῖς ἄλλοις ὄρνισιν ἐπιθέσθαι τῷ χρεμετίζειν ὥσπερ οἱ γενναῖοι τῶν ἵππων. εἶτα τοῦ μὲν ἐπιλαθόμενον, τὸ δὲ μὴ δυνηθέντα ἑλεῖν ἱκανῶς ἀμφοῖν στέρεσθαι καὶ φαυλότερον τῶν ἄλλων ὀρνίθων εἶναι τὴν φωνήν. ΜΥΘΟΣ Ο ΤΟΥ ΙΞΕΥΤΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΛΟΓΟΙΣ ΠΡΟΣΕΧΕΙΝ ΑΛΛ’ ΕΡΓΟΙΣ ἰξευτὴς τέττιγος ἀκούσας μέγα τι θηράσειν ἐδόκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (1t)",
+      "text": "μετρεῖ δὲ τὴν θήραν ἐκ τῆς ᾠδῆς παρερχόμενος. ὡς δὲ τὴν τέχνην κινήσας εἷλε τὸ θήραμα, ᾠδῆς μὲν πλέον οὐδὲν ἐκομίσατο, κατῃτιᾶτο δὲ τὴν δόξαν ὡς ψευδῆ τοῖς πολλοῖς· κρίσιν ἐπάγουσαν. οὕτως φαῦλοι δοκοῦσι μᾶλλον ἤπερ γεγόνασι. ΜΥΘΟΣ Ο ΤΗΣ ΑΙΓΟΣ ΠΑΡΑΙΝΩΝ ΜΗ ΚΡΥΠΤΕΙΝ ΤΑ ΠΡΟΔΗΛΑ αἶγα ἀποστᾶσαν ἀγέλης ἐπανάγειν αἰπόλος ἐπειρᾶτο πρὸς τὰς λοιπάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (1t)",
+      "text": "ὡς δὲ φωναῖς καὶ συριγμοῖς χρώμενος οὐδὲν μᾶλλον ἤνυεν, λίθον ἀφεὶς καὶ τοῦ κέρως τυχὼν ἐδεῖτο τῷ δεσπότῃ μὴ κατειπεῖν. ἡ δὲ „ἀνούστατε“, εἶπεν, „αἰπόλων, τὸ κέρας κεκράξεται, κἂν ἐγὼ σιωπήσωμαι.“ οὕτω λίαν εὐήθεις οἱ τὰ πρόδηλα κρύπτειν ἐθέλοντες. ΜΥΘΟΣ Ο ΤΟΥ ΑΙΘΙΟΠΟΣ ΔΗΛΩΝ ΤΑΣ ΦΥΣΕΙΣ ΜΗ ΜΕΤΑΒΑΛΛΕΣΘΑΙ Αἰθίοπά τις ὠνήσατο τοιοῦτον εἶναι τὸ χρῶμα δοκῶν ἀμελείᾳ τοῦ πρότερον ἔχοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (1t)",
+      "text": "καὶ παραλαβὼν οἴκαδε πάντα μὲν αὐτῷ προσῆγε τὰ ῥύμματα, πᾶσι δὲ λουτροῖς ἐπειρᾶτο φαιδρύνειν. καὶ τὸ μὲν χρῶμα μεταβαλεῖν οὐκ ἔσχε, νοσεῖν δὲ τῷ πονεῖν παρεσκεύασεν. μένουσι αἱ φύσεις ὡς προῆλθον τὸ πρότερον. λέγει δὲ (Αἴσωπος ὁ μυθοποιός), ὅτι ὁ πριάμενος τὸν Ἰνδὸν ἐδυσχέραινε πρὸς τὴν χροιάν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6bis",
+      "text": "ἀπονίζειν οὖν αὐτὸν ἐπειρᾶτο καὶ ἀποσμήχειν περιάγων κρήνας καὶ ποταμοὺς καὶ ῥύμμασι χρώμενος καὶ χαλαστραίοις. ὡς δὲ αὐτῷ τὸ μὲν χρῶμα ἔμενεν ἀκραιφνές, τὸ δέρμα δὲ ἐξετρίβετο, φιλονεικῶν [δὲ] κατέμαθε μόλις, ὅτι ἡ χροιὰ φύσις ἦν τῷ Ἰνδῷ καὶ ὅτι ῥᾷον αὐτοῦ τὴν ψυχὴν ἢ τὴν μελανίαν ἀφαιρήσεσθαι. ΜΥΘΟΣ Ο ΤΗΣ ΠΑΡΘΕΝΟΥ ΚΑΙ ΤΟΥ ΛΕΟΝΤΟΣ ΗΔΟΝΩΝ ΑΠΟΤΡΕΠΩΝ λέων ἤρα παρθένου καὶ προσελθὼν τῷ πατρὶ τῆς παιδὸς ἐγγυῆσαι τὴν κόρην πρὸς γάμον ἐδεῖτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (1t)",
+      "text": "δεδιὼς δὲ ὁ πατὴρ ἀπαρνήνασθαι μετὰ τῶν ὀδόντων ἐκβαλεῖν ἐπειρᾶτο τοὺς ὄνυχας, μὴ ταῦτα, λέγων, φόβον τῇ παιδὶ κατεργάσηται. καὶ πεισθεὶς ὁ λέων ὑπ’ ἔρωτος ἀμυντηρίων πρόσεισι γυμνός· προσιὼν δὲ ῥοπάλοις τὴν τελευτὴν ἀντηλλάσσετο. ἐχθροῖς πειθαρχῶν ὑποστήσῃ τὸν κίνδυνον. ΜΥΘΟΣ Ο ΤΟΥ ΛΕΟΝΤΟΣ ΠΑΡΑΙΝΩΝ ΚΑΚΙΑΣ ΑΡΕΤΗΝ ΠΡΟΤΙΜΑΝ γῆρας ἐλύπει τὸν λέοντα καὶ θηρᾶν οὐκ ἠδύνατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (1t)",
+      "text": "βουλόμενος δὲ πορίσασθαι τροφὴν νοσεῖν ὑπεκρίνατο καὶ σχήματι νόσου πόρον τῆς τροφῆς ἀπειργάζετο. τὰ γὰρ πλεῖστα τῶν ζῴων προσιόντα φιλοφρονούμενος τροφὴν πρόχειρον ἔχων κατήσθιεν. ἑαλωκότων δὲ πολλῶν ἀλώπηξ συνεῖσα τῆς τέχνης ἐν προθύροις μὲν φιλοφρονεῖται τὸν λέοντα· τὰ δὲ τῶν ἑαλωκότων ἴχνη τῆς λύμης ἔλεγχον ἔφερον. οὕτω σοφία πανουργίας ἐπικρατεῖ. ΜΥΘΟΣ Ο ΤΟΥ ΟΝΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΚΑΚΟΥΣ ΕΥ ΠΟΙΕΙΝ ὄνος ἐζήτει τὸν ἰασόμενον ἐμπαρέντος αὐτοῦ τῷ ποδὶ σκόλοπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 (1t)",
+      "text": "κατοκνούντων δὲ τῶν πολλῶν μόνος ὁ λύκος ὑπισχνεῖτο τὴν ἴασιν καὶ τοῖς ὀδοῦσιν ἐξαιρεῖται † τοῦ πάθους. ὁ δὲ τῷ σωθέντι ποδὶ τὸν ἰασάμενον ἔπληττεν. οὕτως οἱ πονηροὶ χάριτος ἀμοιβὰς ἀντεισφέρονται βλάβας. ΜΥΘΟΣ Ο ΤΟΥ ΟΝΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΠΛΕΙΟΝΩΝ ΕΡΑΝ ὄνος ἐπεθύμει λέων εἶναι δοκεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (1t)",
+      "text": "καὶ μεταθεῖναι τὴν φύσιν οὐκ ἔχων ἐπὶ τοῦ σχήματος ἀνεπλήρου τὸν πόθον καὶ λεοντῆν περικείμενος οἷα λέων τοὺς τῶν γεωργῶν ἐλυμαίνετο πόνους· καὶ πνεύσας βιαιότερον ἄνεμος γυμνοῖ μὲν αὐτὸν τοῦ προκαλύμματος, φανέντα δὲ ὄνον ῥοπάλοις ἀνῄρουν, ὧν τοὺς πόνους κατήσθιεν. κόσμος ἐπείσακτος τοῖς χρωμένοις γίνεται κίνδυνος. ὄνος καὶ λεοντῆ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10bis",
+      "text": ".. νεμεσῶ γὰρ καὶ τῷ ὄνῳ Αἰσώπου, ἀκούων ὅτι ὄνος ὢν ἠμπέσχετο λεοντῆν. ταύτῃ τοι ξυνελθόντα παιδάρια ξαίνει τε αὐτὸν τοῖς ῥοπάλοις καὶ ἀφαιρεῖται τῆς δορᾶς τε καὶ τοῦ φρονήματος. ΜΥΘΟΣ Ο ΤΟΥ ΚΑΡΚΙΝΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΣΥΜΒΟΥΛΕΥΕΙΝ ΑΔΥΝΑΤΑ ἡ μήτηρ πρὸς τὸν καρκίνον· „τί δὴ λοξή, ἥν, ὦ παῖ, βαδίζεις ὁδόν, ὀρθὴν ἰέναι προσῆκον;“ ὁ δὲ πρὸς αὐτήν· „ἡγοῦ τῆς ὁδοῦ, ὦ μῆτερ, καὶ πρὸς αὐτὴν βαθίζειν πειράσομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 (1t)",
+      "text": "“ τῆς δὲ βαδίζειν ἀπορούσης ὀρθῶς κατήγορος ὁ παῖς τῆς παρανοίας ἐγένετο. ῥᾷον παραινεῖν, ἃ πονεῖν ὑπῆρξεν ἀδύνατον. ΜΥΘΟΣ Ο ΤΩΝ ΑΛΕΚΤΡΥΟΝΩΝ ΜΕΤΡΙΑΖΕΙΝ ΠΑΡΑΙΝΩΝ ΕΝ ΤΟΙΣ ΕΥΤΥΧΗΜΑΣΙ ἀλεκτρυόνες συμπεσόντες ἀλλήλοις ὡς νόμος εἶχεν ἐμάχοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (1t)",
+      "text": "καὶ ὁ μὲν νικηθεὶς κλίνῃ ὑποδὺς ἀπεκρύπτετο, ὁ δὲ νενικηκὼς ἐπὶ στέγους ἀρθεὶς ἀνέκραγε μέγιστον τὴν νίκην κατάδηλον ἐξ ᾠδῆς ἐργαζόμενος. καὶ καταπτὰς ἀετὸς τοῦτον ἁρπάζει λαβών. νίκης ἀσφάλεια μετριότης φρονήματος. ΜΥΘΟΣ Ο ΤΟΥ ΙΠΠΟΥ ΠΑΡΑΙΝΩΝ ΣΚΟΠΕΙΝ ΤΑ ΑΝΘΡΩΠΙΝΑ ἵππον ἐλύπει τὸ γῆρας καὶ μυλῶνα ἀντὶ μάχης ἐλάμβανεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 (1t)",
+      "text": "ὡς δὲ ἀλήθειν ἀντὶ τοῦ πολεμεῖν ἠναγκάζετο, τὴν παροῦσαν ἐδάκρυε τύχην, τῆς δὲ πρώτης ἐμέμνητο· „ἐμοί,“ λέγων, „ὦ μυλωρέ, στρατεύεσθαι μὲν ὑπῆρχε πρότερον, κόσμος δὲ παντὶ περιέκειτο σώματι καὶ θεραπεύων παρηκολούθει τις ἄνθρωπος. νῦν δὲ οὐκ οἶδα, ὅ τι παθὼν ἀντιλαμβάνω τὸν μυλῶνα τῆς μάχης.“ καὶ ὁ μυλωρὸς πρὸς αὐτόν· „ἐπίσχες,“ ἔφη, „τὰ πάλαι θρυλῶν. ἡ τύχη γὰρ θνητοῖς τὴν ἐφ’ ἑκάτερα φέρειν οἶδε μεταβολήν.“ ΜΥΘΟΣ Ο ΤΟΥ ΠΕΛΑΡΓΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΣΥΝΕΙΝΑΙ ΚΑΚΟΙΣ γεωργὸν ἠδίκουν οἱ γέρανοι τὰ καταβαλλόμενα τῇ γῇ προαρπάζοντες σπέρματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (1t)",
+      "text": "πελαργὸς δέ τις τοῖς γεράνοις συνῆν, τῆς μὲν διατριβῆς κοινωνῶν, τῆς δὲ βλάβης οὐ μετασχών. ἀπειπὼν δὲ πυρῶν τὴν βλάβην ὁ γεωργὸς βρόχους στησάμενος μετὰ τῶν γεράνων εἷλε τὸν πελαργὸν καὶ δίκην ὑπεῖχεν, ὧν οὐδὲν προηδίκησεν. ὁ συνὼν πονηροῖς τὴν αὐτὴν αὐτοῖς ὑποστήσεται δίκην. ΜΥΘΟΣ Ο ΤΗΣ ΚΑΜΗΛΟΥ ΤΗΝ ΕΠΙΘΥΜΙΑΝ ΚΑΚΙΖΩΝ ΤΟΥ ΠΛΕΙΟΝΟΣ εἶδεν εἰς ταῦρον ἡ κάμηλος καὶ κεράτων ἐπεθύμει μεταλαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 (1t)",
+      "text": "προσελθοῦσα οὖν τῷ Διὶ κερῶν ᾔτει τυχεῖν. ὁ δὲ τῆς ἀπληστίας μισήσας Ἑρμῇ κελεύει προσαφελέσθαι τῶν ὤτων· ὅθεν καμήλῳ ταῦτα τοῦ λοιποῦ καταδεέστερα σώματος. ὁ πλειόνων ἐρῶν καὶ τῶν προσόντων ἀποστερεῖται. ΜΥΘΟΣ Ο ΤΩΝ ΤΑΥΡΩΝ ΠΑΡΑΙΝΩΝ ΕΙΣ ΟΜΟΝΟΙΑΝ ταῦροι τρεῖς τὴν αὐτὴν δίαιταν ἐπεποίηντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 (1t)",
+      "text": "λέων δέ τις αὐτοῖς παρηκολούθει θηρᾶσαι βουλόμενος. καὶ συνόντας μὲν ἑλεῖν οὐκ ἐδύνατο, διαστάντας δὲ προῃρεῖτο χειρώσασθαι. καὶ συγκρούσας ἀλλήλοις ἐν μέρει διαστήσας ἀπέκρινε, καὶ καθ’ ἕκαστον προχειρότερον ἔφθειρεν, οὓς κοινῇ συνόντας ἠπόρει χειρώσασθαι. οὕτως ὁμόνοια τοῖς χρωμένοις σωτήριον. λέων καὶ ταῦροι δύο ταῦροι δύο μιᾶς ἡγεῖσθον ἀγέλης, ξυννόμω τε ὄντε καὶ ὅτι μάλιστα φίλω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16bis",
+      "text": "ὁ λέων δὲ αὐτοῖν τὴν ξύστασιν ἐδεδίει, καὶ οὔτε αὐτοὺς ἐθάρσει οὔτε δι’ αὐτοὺς τὴν ἀγέλην. κακῶς οὖν ὑπὸ λιμοῦ διακείμενος ἔρχεται ἐπὶ τὴν κερδώ, καὶ ξυμμαχίαν ὁμολογοῦσι. τῇ δὲ ἄρα τοσοῦτον κακουργίας καὶ δεινότητος περιῆν, ὥστε προσενεγκοῦσά τινα μηχανὴν διέστησέ τε αὐτὼ καὶ ἐξέμηνε κατ’ ἀλλήλοιν καὶ παραδέδωκε τῷ λέοντι δίχα ἑκάτερον εὐτρεπῆ καὶ εὔκολον θήραν. ΜΥΘΟΣ Ο ΤΗΣ ΕΛΑΦΟΥ ΝΟΥΘΕΤΕΙΝ ΠΑΡΑΙΝΩΝ ΤΟΝ ΚΑΙ ΠΡΑΞΑΙ ΔΥΝΑΜΕΝΟΝ ἔλαφον ἡ μήτηρ ἐνουθέτει ταῦτα λέγουσα· „κέρας, ὦ παῖ, παρὰ τῆς φύσεως εἴληφας, μεγέθει δὲ διενήνοχας σώματος· καὶ οὐκ οἶδα ὅ τι παθὼν ἀποδιδράσκεις ἐπιόντας τοὺς κύνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 (1t)",
+      "text": "“ ταῦτα ἦν, καὶ κυνῶν δρόμος ἠκούετο πόρρωθεν. ἡ δὲ μένειν τῷ παιδὶ παραινέσασα αὐτὴ τῆς φυγῆς προκατήρξατο. παραινεῖν ἕτοιμον, ἃ ποιεῖν ἀπορώτερον. ΜΥΘΟΣ Ο ΤΟΥ ΕΛΑΦΟΥ ΠΑΡΑΙΝΩΝ ΤΗΝ ΠΕΙΡΑΝ ΑΝΑΜΕΝΕΙΝ ΕΙΣ ΚΡΙΣΙΝ ἔλαφον τὸ θέρος ἐπὶ ναμάτων ἐκόμιζε χρείαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18 (1t)",
+      "text": "ἀφικόμενος δὲ 〈καὶ〉 παραστὰς ἑαυτὸν ἐθεᾶτο τοῖς νάμασι καὶ τὸ μὲν κέρας τῆς πλοκῆς ἀπεθαύμαζε, κατῃτιᾶτο δὲ τῶν ποδῶν τὴν ἀσθένειαν. καὶ τὴν φύσιν κατ’ ἄμφω τιμῶντός τε καὶ κακίζοντος οἱ θηρῶντες προσῄεσαν. ὁ δὲ τοῖς μὲν κατηγορουμένοις διαφεύγει ποσί, τοῖς δὲ ἐπαινουμένοις ἁλίσκεται κέρασιν. ΜΥΘΟΣ Ο ΤΟΥ ΚΟΛΟΙΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΜΕΙΖΟΝΩΝ ΕΡΑΝ ἀετὸς ἀρνίον ἁρπάσας ἐντεῦθεν ἐτρέφετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 (1t)",
+      "text": "κολοιὸς δέ τις ἑωρακὼς ἐνεχείρει τοῖς ἴσοις καὶ καταπτὰς ἐπὶ ποίμνην τῶν κριῶν λαβεῖν ἐπειρᾶτο τὸν μέγιστον. καὶ περιπαρεὶς τοῖς ἐρίοις τοὺς ὄνυχας ἑάλω μᾶλλον ἢ θηρᾶσαι δεδύνηται. τὸ μεῖζον ἀεὶ τοῖς καταδεεστέροις καθέστηκε σφαλερόν. ΜΥΘΟΣ Ο ΤΗΣ ΑΛΩΠΕΚΟΣ ΠΑΡΑΙΝΩΝ ΜΗ ΒΛΕΠΕΙΝ ΤΑ ΜΕΙΖΟΝΑ ἀλώπηξ λέοντι συνῆν ἐν ὑπηρέτου προσχήματι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 (1t)",
+      "text": "καὶ ἡ μὲν ἄγρας ἐμήνυεν, ὁ δὲ ἐμπίπτων ἐλάμβανεν. ἑκατέρῳ τοίνυν πρὸς τὴν ἀξίαν διῃρεῖτο μερίς. ζηλοτυπήσασα δὲ ἡ ἀλώπηξ τῶν πλειόνων τὸν λέοντα θηρᾶν ἀντὶ τοῦ μηνύειν ᾑρεῖτο. καὶ πειρωμένη ποίμνης τι λαβεῖν κατέστη πρώτη τοῖς θηρῶσιν εἰς θήραμα. ἄρχεσθαι μᾶλλον ἀσφαλῶς ἄμεινον ἢ κρατεῖν σφαλερῶς. ΜΥΘΟΣ Ο ΤΩΝ ΠΡΟΒΑΤΩΝ ΠΑΡΑΙΝΩΝ ΑΠΑΤΩΣΙ ΜΗ ΠΕΙΘΕΣΘΑΙ οἱ λύκοι πρὸς τὰ πρόβατα· „τί δὲ ἡμῖν ἄσπονδος ἀεὶ καὶ ἀκήρυκτος πόλεμος; αἴτιοι δὲ οἱ κάκιστα ἀπολούμενοι κύνες, οἳ προσιόντας μὲν ἡμᾶς ὑλακτοῦσιν, οὐδὲν δὲ ἠδικηκότας συγκρούουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21 (1t)",
+      "text": "ἀλλ’ εἰ τούτους ἐκποδὼν στήσετε, σπονδαὶ ἐνθένδε καὶ καταλλαγαὶ καταστήσονται.“ εἶπον εἰς ἀπάτην· τὰ δὲ ῥᾳδίως ὑπήγετο. καὶ οἱ μὲν κύνες ἐλήλαντο, αὐτὰ δὲ ἔρημα φυλακῆς διεφθείρετο. ἐχθροῖς πειθαρχῶν ὑποστήσῃ τὸν κίνδυνον. ΜΥΘΟΣ Ο ΤΗΣ ΕΛΑΙΑΣ ΚΑΙ ΤΗΣ ΣΥΚΗΣ ΣΩΦΡΟΝΕΙΝ ΠΑΡΑΙΝΩΝ ΤΗ ΝΕΟΤΗΤΙ ἐλαία κατεγέλα συκῆς ὡς αὐτὴ μὲν ἀνθοῦσα πρὸς ἅπασαν ὥραν, συκῆς δὲ τὸ ἄνθος συμμεταβαλούσης ταῖς ὥραις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22 (1t)",
+      "text": "ταῦτ’ ἦν, καὶ καταρρυεῖσα χιὼν τὴν μὲν ἐλαίαν κομῶσαν εὑροῦσα τοῖς θαλλοῖς ἐνιζάνουσα σὺν τῷ κάλλει καθάπαξ ταύτην διέφθειρεν, τὴν δὲ φύλλων εὑροῦσα γυμνὴν οὐδὲν ἠδίκει πρὸς γῆν ὑπορρέουσα. κάλλος μὴ σωφρονοῦν τοῖς κεκτημένοις καθέστηκεν ὄνειδος. ΜΥΘΟΣ Ο ΤΩΝ ΛΑΓΩΩΝ ΤΟΥΣ ΑΤΥΧΟΥΝΤΑΣ ΨΥΧΑΓΩΓΩΝ θάνατον ἑαυτῶν κατεψηφίζοντο λαγωοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 (1t)",
+      "text": "καὶ τελευτᾶν μὲν ἐδόκει, τὸ δὲ ὅποι ζητεῖν ὑπελείπετο. λίμνην δὲ τῷ θανάτῳ προσήκοντα χῶρον ὁρίσαντες ἔθεον ἅπαντες ὡς παρὰ ταύτην ἀποθανούμενοι. προσιόντων δὲ τὸν κτύπον οὐκ ἤνεγκαν οἱ παρὰ τὰς ὄχθας διατρίβοντες βάτραχοι, τοὺς δὲ τῆς λίμνης μυχοὺς κατελάμβανον. ἃ δὴ πρεσβύτης ἑωρακὼς λαγωός· „λελύσθω,“ ἔφη, „τοῦ θανάτου ἡ ψῆφος· πεφήνασι γὰρ ἡμῶν ἀνανδρειότεροι.“ ψυχαγωγοῦσι τοὺς ἀτυχήσαντας οἱ μᾶλλον κακοπραγήσαντες. ΜΥΘΟΣ Ο ΤΟΥ ΒΑΤΡΑΧΟΥ ΚΡΙΝΕΙΝ ΠΡΟ ΤΟΥ ΤΕΛΟΥΣ ΤΟΝ ΥΠΙΣΧΝΟΥΜΕΝΟΝ ὁ βάτραχος τῆς τῶν ἰατρῶν κατηλαζονεύετο τέχνης πάντα μὲν εἰδέναι φάρμακα γῆς ὑπισχνούμενος, πᾶσι δὲ μόνος εἰς ὑγείαν ἀρκέσειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24 (1t)",
+      "text": "καὶ παρεστῶσα τοῖς λόγοις ἀλώπηξ τὸ ψεῦδος ἀπὸ τοῦ χρώματος ἤλεγχε· „τί δῆτα“ λέγουσα „νόσου μὲν τοὺς ἄλλους ἐλευθεροῖς, νόσου δὲ φέρεις ἐπὶ τῆς ὄψεως σύμβολον;“ ἀλαζονεία τὸν ἔλεγχον εὕρατο. ΜΥΘΟΣ Ο ΤΟΥ ΛΥΚΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΦΑΥΛΟΥΣ ΕΥΕΡΓΕΤΕΙΝ λύκῳ περιπείρεται ὀστέον καὶ ἐζήτει τὸν ἰασόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25 (1t)",
+      "text": "ἑκάστου δὲ τὴν πρὸς αὐτὸν ἴασιν φεύγοντος μόνη τῶν ἄλλων ἐπὶ ῥητοῖς ὑπέσχετο ποιήσειν ἡ γέρανος καὶ καθεῖσα τὴν κεφαλὴν ἐξαιρεῖται τοῦ πάθους τὸν λύκον. καὶ προσαιτουμένη μισθὸν τῆς ἰάσεως ἀρκοῦντα μισθὸν ὁ λύκος ἔλεγεν τὴν κεφαλὴν ἔχειν ἀκέραιον. πονηροὶ σωθέντες ἀδικοῦσι τοὺς σώσαντας. ΜΥΘΟΣ Ο ΤΩΝ ΜΥΩΝ ΠΑΡΑΙΝΩΝ ΣΤΕΡΓΕΙΝ ΤΑ ΜΕΤΡΙΑ μῦς ἀρουραῖος ἀστικῷ γίνεται φίλος μυὶ καὶ τὴν φιλίαν πιστούμενος πρῶτος εἰς ἀγρὸν τὸν ἀστικὸν παρελάμβανε καὶ ξενίαν αὐτῷ παρετίθει καὶ τράπεζαν, ἃ φέρειν οἶδε τοῖς ἐνοικοῦσιν ἀγρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26 (1t)",
+      "text": "ἀμειβόμενος δὲ τὴν ξενίαν ὁ ἀστικὸς εἰς ἄστυ τὸν ἀρουραῖον ἐκόμιζε καὶ εἰς ἀνδρὸς εὐπόρου παρελάμβανεν οἶκον. ὡς δὲ τῶν ὄντων ἤδη προσάπτεσθαι ἤθελον, προσιών τις ἀνέκοπτε. καὶ τοσαυτάκις τῆς ἐν τοῖς ὄψοις ἀπηλαύνοντο πείρας, ὁσάκις ἐπειρῶντο μεταλαμβάνειν. καὶ τελευταῖον ὁ ἀρουραῖος· „ἄπειμι,“ ἔφη, „τὴν ἐν ἀγροῖς προτιμῶν μετριότητα τῆς ἐν ἄστει τρυφῆς.“ οὕτως οἱ μέτρια κτώμενοι τῶν πλουτούντων εἰσὶν αἱρετώτεροι. ΜΥΘΟΣ Ο ΤΩΝ ΜΕΛΙΣΣΩΝ ΚΑΙ ΤΟΥ ΠΟΙΜΕΝΟΣ ΠΑΡΑΙΝΩΝ ΠΟΝΗΡΟΙΣ ΜΗ ΤΙΘΕΣΘΑΙ ΚΕΡΔΕΣΙΝ ἐν κοίλῃ δρυὶ μέλι κατειργάζοντο μέλισσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27 (1t)",
+      "text": "ποιμὴν δέ τις αὐταῖς ἐργαζομέναις περιτυχὼν ἀφελέσθαι προῃρεῖτο τοῦ μέλιτος. αἱ δὲ ἄλλοθεν ἄλλαι περιιπτάμεναι αὐτὸν ὤθουν τοῖς κέντροις. καὶ τελευταῖον ὁ ποιμήν „ἄπειμι,“ ἔφη, „μηδὲν δεόμενος μέλιτος, εἰ δεῖ μελίσσαις περιτυχεῖν.“ τὰ κακὰ κέρδη τοῖς διώκουσι κίνδυνος. ΜΥΘΟΣ Ο ΤΟΥ ΑΕΤΟΥ ΚΑΙ ΤΟΥ ΔΡΑΚΟΝΤΟΣ ΠΑΡΑΙΝΩΝ ΑΡΧΕΣΘΑΙ ΧΑΡΙΤΟΣ δράκων καὶ ἀετὸς συμπλακέντες ἀλλήλοις ἐμάχοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28 (1t)",
+      "text": "καὶ ὁ μὲν δράκων εἶχε τὸν ἀετὸν συλλαβών. γεωργὸς δὲ ἰδὼν λύσας τὴν πλοκὴν τοῦ δράκοντος αὐτόνομον ἀφῆκε τὸν ἀετόν. χαλεπήνας δὲ ἐπὶ τούτοις ὁ δράκων ἰὸν ἐπαφῆκε τῷ τοῦ σώσαντος πόματι. πιεῖν δὲ τοῦ γεωργοῦ πρὸς ἄγνοιαν μέλλοντος ὁ ἀετὸς καταπτὰς τῶν τοῦ γεωργοῦ χειρῶν ἐξαιρεῖται τὴν κύλικα. τοὺς εὖ ποιοῦντας μένουσι χάριτες. ΜΥΘΟΣ Ο ΤΟΥ ΚΟΡΑΚΟΣ ΚΑΙ ΤΗΣ ΑΛΩΠΕΚΟΣ ΠΑΡΑΙΝΩΝ ΑΠΑΤΩΣΙ ΜΗ ΠΕΙΘΕΣΘΑΙ τῷ κόρακι τὸ θήραμα τυρὸς ἦν καὶ ἐν μετεώρῳ φέρων ἐκάθητο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29 (1t)",
+      "text": "ἰδοῦσα δὲ ἀλώπηξ ἀπάτῃ περιενόστει τὸν κόρακα· „τί ταῦτα;“ λέγουσα, „μετριότητι μέν, ὦ κόραξ, διενήνοχας σώματος, χροιὰν δὲ φέρεις τῇ τῶν ὀρνίθων ἡγεμονίᾳ προσήκουσαν· εἰ δὲ καὶ φωνὴ παρῆν, ἅπασαν 〈ἂν〉 εἶχες τὴν τῶν ὀρνίθων ἀρχήν.“ εἶπε πρὸς ἀπάτην. ὁ δὲ ὑπαχθεὶς τὸν τυρὸν ἐκβαλὼν ἀνέκραγε μέγιστον φωνῆς ἐπίδειξιν τὴν ἀφαίρεσιν ποιῶν τοῦ θηράματος. ἡ δὲ λαβοῦσα· „φωνὴ μέν,“ εἶπε, „κόραξ, προσῆν, ὁ δὲ νοῦς ἐπιλέλοιπεν.“ ἐχθροῖς πειθαρχῶν ὑποστήσῃ τὴν βλάβην. ΜΥΘΟΣ Ο ΤΗΣ ΣΥΟΣ ΕΚΑΣΤΩ ΔΙΔΟΥΣ ΤΑ ΟΙΚΕΙΑ ΜΑΘΕΙΝ ἐξ ἀγροῦ τις ἤγρευσε σῦν, αἶγα καὶ πρόβατον· ὄνος δὲ πάντα ἦγεν εἰς ἄστυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30 (1t)",
+      "text": "καὶ τὰ μὲν ἄλλα καθῆστο σιγῇ, μόνη δὲ ἡ ὗς μεγέθει βοῆς παρηνώχλει τὸν ἄγοντα. καὶ οὗτος πρὸς αὐτήν „τί δῆτα,“ ἔφη, „κομιδὴν ἥσυχον ἅμα τοῖς ἄλλοις οὐ ποιῇ;“ „ὅτι γάλακτος μὲν ἕνεκεν αἴξ, ἐρίων δὲ χάριν ἄγεται πρόβατον, ἐγὼ δὲ σφαγῆσ“ προσεῖπεν ἡ σῦς. οἶδε τὴν πρόφασιν ἕκαστος τὴν ἰδίαν. ΜΥΘΟΣ Ο ΤΟΥ ΚΟΛΟΙΟΥ ΠΑΡΑΙΝΩΝ ΤΗΝ ΠΛΕΟΝΕΞΙΑΝ ΜΙΣΕΙΝ κάλλους ἦν ἀγὼν καὶ παρὰ τῷ Διὶ κριθησόμενοι πάντες οἱ ὄρνεις ἐφοίτων Ἑρμοῦ τὴν κυρίαν ὁρίζοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31 (1t)",
+      "text": "ποταμούς τε καὶ λίμνας ἅπαντες κατελάμβανον τὰ μὲν φαῦλα τῶν πτερῶν ἀποβάλλοντες, τὰ δὲ κρείττω φαιδρύνοντες. κολοιὸς δὲ οὐδὲν εὐπρεπὲς ἔχων ἀπὸ τῆς φύσεως, ἃ τῶν ἄλλων ἐξέπιπτε, ταῦτα οἰκεῖον συνέθηκε κόσμον. γλαῦξ δὲ μόνη ἐπιγνοῦσα τὸ ἑαυτῆς ἀφῃρεῖτο τὸν κολοιὸν καὶ τὰ ἄλλα πράττειν 〈οὕτωσ〉 ἀνέπειθεν. ἀφαιρεθεὶς δὲ τὰ 〈πτερὰ〉 παρὰ πάντων ὁ κολοιὸς γυμνὸς εἰς τὴν Διὸς ἀφίκετο κρίσιν. κόσμος ἐπείσακτος αἰσχύνη τοῖς ἔχουσιν. ΜΥΘΟΣ Ο ΤΟΥ ΤΟΞΟΤΟΥ ΛΕΓΩΝ ΠΛΕΙΟΝΑ ΤΗΝ ΕΠΙΒΟΥΛΗΝ ΤΩΝ ΟΙΚΕΙΩΝ ΑΝΔΡΩΝ τοξότης ἀετοῦ κατεστοχάζετο καὶ βέλος ἀφεὶς εἷλε τὸν ἀετόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32 (1t)",
+      "text": "ἐπιστραφεὶς δὲ ὁ ἀετὸς καὶ τὸ βέλος ἰδὼν ἐπτερωμένον τοῖς οἰκείοις πτεροῖς ἔφη· „τὰ παρ’ αὑτῶν τοῖς πολλοῖς πραγμάτων οἰκείων ἐπιβουλή.“ ΜΥΘΟΣ Ο ΤΟΥ ΑΛΙΕΩΣ ΑΥΛΗΤΟΥ ΠΑΡΑΙΝΩΝ ΤΑΙΣ ΤΕΧΝΑΙΣ ΠΡΟΣΦΟΡΩΣ ΧΡΗΣΘΑΙ ἀνὴρ ἁλιεὺς ὁμοῦ καὶ αὐλεῖν ἐπιστάμενος τοὺς αὐλοὺς λαβὼν καὶ τὰ δίκτυα παρὰ τὴν θάλασσαν οὐδὲν εἶχε λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33 (1t)",
+      "text": "ὡς δὲ τοῖς αὐλοῖς ἠπόρει θηρᾶν, τούτους ἀφεὶς ἐπὶ τὸ δίκτυον ᾔει καὶ χρώμενος εἷλεν, οὓς αὐλῶν οὐκ ἐθήρασεν. γέρας αἱ τέχναι τοῖς προσήκουσι πράγμασι νέμουσιν. ΜΥΘΟΣ Ο ΤΟΥ ΛΕΟΝΤΟΣ ΚΑΙ ΤΟΥ ΑΝΘΡΩΠΟΥ ΠΑΡΑΙΝΩΝ ΔΙΚΑΙΟΣΥΝΗΝ ΑΓΑΠΑΝ ΚΑΙ ΜΗ ΜΕΓΑΛΑΥΧΕΙΝ εἰς ἔριν ἀλλήλοις ἀνήρ τε καὶ λέων προῆλθον· καὶ ὁ μὲν ἀνὴρ τὸ τῶν ἀνθρώπων κρεῖττον ἀπέφαινε γένος, ὁ δὲ τοῖς λέουσιν ἐδίδου τὸ πλέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34 (1t)",
+      "text": "ἁμιλλωμένων δὲ περὶ τοῦ κρείττονος πίστιν ὁ ἀνὴρ ἐξ εἰκόνος ἐλάμβανεν, ἐν ᾗ λέων ἐγέγλυπτο ἐξ ἀνδρὸς ἁλισκόμενος. καὶ πρὸς ἐκεῖνον ὁ λέων· „εἰ δὲ καὶ παρ’ ἡμῖν ἦσαν γλύφοντες, πλείους ἂν εἶδες ἑαλωκότας ἐκ λεόντων ἀνθρώπους ἢ παρὰ ἀνθρώπων λέοντας.“ ὁ τοῖς ἴσοις δικαίως χρώμενος οὐκ ἀπορήσει τῆς νίκης. ΜΥΘΟΣ Ο ΤΟΥ ΚΥΝΟΣ ΠΑΡΑΙΝΩΝ ΑΠΛΗΣΤΙΑΝ ΦΕΥΓΕΙΝ κρέας ἁρπάσας τις κύων παρ’ αὐτὴν διῄει τὴν ὄχθην τινὸς ποταμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35 (1t)",
+      "text": "καὶ θεωρῶν τὴν σκιὰν διπλασίαν τοῖς νάμασιν, ὃ μὲν εἶχεν ἀφῆκε· πειρώμενος δὲ λαβεῖν τὸ μεῖζον συνδιαμαρτάνει μετὰ τοῦ μετρίου τοῦ πλείονος. [τὸ ἐν χερσὶ μικρὸν τοῦ ἐλπιζομένου μείζονος κρεῖσσον.] ΜΥΘΟΣ Ο ΤΗΣ ΔΡΥΟΣ ΚΑΙ ΤΟΥ ΚΑΛΑΜΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΙΣΧΥΙ ΘΑΡΡΕΙΝ εἰς ἔριν δρυὶ καθίστατο κάλαμος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36 (1t)",
+      "text": "ἡ μὲν γὰρ αὑτὴν τῆς ἰσχύος ἐθαύμαζε καὶ πρὸς τὴν τῶν ἀνέμων ἀντέχειν ἠλαζονεύετο μάχην, τῆς δὲ ἀσθενείας κατῃτιᾶτο τὸν κάλαμον εἴκειν ἅπασι πεφυκότα τοῖς πνεύμασι. ταύτῃ τοι· καὶ πνεύσαντος ἀνέμου σφοδρότερον ἡ μὲν πρόρριζος ἀνθεστῶσα κατέπεσεν· ὁ δὲ ἀκέραιος κατακλινόμενος ἔμεινε. ὁ καιροῖς ὑπείκων οὐκ ἐκπεσεῖται τοῦ σώζεσθαι. ΜΥΘΟΣ 〈Ο〉 ΤΗΣ ΑΜΠΕΛΟΥ ἄμπελος ἐκόμα βότρυσι, παραπλήσιον δὲ ἦν τοῖς καρποῖς καὶ τὸ βλάστημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37 (1t)",
+      "text": "τράγος δέ τις ὕβρει χρώμενος πλείονι τῆς ἀμπέλου παρέτρωγε καὶ διελυμαίνετο προσιὼν τοῖς βλαστήμασιν. ἡ δὲ πρὸς αὐτὸν εἶπεν· „μένει σε τῆς ὕβρεως δίκη· σὺ μὲν γὰρ ἔσῃ οὐ μακρὰν ὕστερον ἱερεῖον τοῖς θύμασιν, ἐγὼ δὲ παρ’ ἐμαυτῆς ἐπισπείσω τὸν οἶνον.“ ἃ δρᾷ τις καὶ πείσεται. ΜΥΘΟΣ Ο ΤΟΥ ΓΕΩΡΓΟΥ ΚΑΙ ΤΗΣ ΑΛΩΠΕΚΟΣ γεωργῷ πονηρῷ φθόνον ἐνεποίει τὸ τοῦ γείτονος αὐξανόμενον λήιον καὶ διαφθείρειν τοὺς ἐκείνου πόνους ἐζήτει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38 (1t)",
+      "text": "καὶ θηράσας ἀλώπεκα προσάψας δαλὸν πρὸς τὸ τοῦ γείτονος ἀφίησι λήιον. ἡ δὲ καθ’ ἣν ἀφεῖτο μὴ παριοῦσα βουλομένου τοῦ δαίμονος τὸ τοῦ πέμψαντος ἐνέπρησε λήιον. πονηροὶ γείτονες πρῶτοι τῆς ἑτέρων μετέχουσι βλάβης. ΜΥΘΟΣ Ο ΤΗΣ ΤΡΟΦΟΥ ΚΑΙ ΤΟΥ ΛΥΚΟΥ ΠΑΡΑΙΝΩΝ ΜΗ ΕΛΠΙΔΙ ΜΕΝΕΙΝ ΠΡΟ ΕΚΒΑΣΕΩΣ τηθὴν ἐλύπει δακρύον παιδίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39 (1t)",
+      "text": "ὡς δὲ ἐνοχλούμενον οὐκ ἐπαύετο, ἠπείλει λύκῳ παραβαλεῖν, εἰ μὴ παύσαιτο. λύκος δέ τις παρατυχὼν ἔμενε τὸν λόγον ἐκβῆναι πρὸς ἔργον. καὶ τὸ μὲν παιδίον ἐδεδώκει πρὸς ὕπνον. κενὸς δὲ ὁ λύκος ἀπεχώρει θήρας τῆς τε παρούσης καὶ τῆς ἀλλαχόθεν ἐλπιζομένης γενήσεσθαι. ἄπορον ἐλπὶς μὴ προσλαβοῦσα τὴν ἔκβασιν. ΜΥΘΟΣ Ο ΤΟΥ ΚΟΡΑΚΟΣ ΠΑΡΑΙΝΩΝ ΤΗ ΦΥΣΕΙ [ΜΗ] ΠΕΙΘΑΡΧΕΙΝ ἑωρακὼς τὸν κύκνον ὁ κόραξ ἐζήλου τοῦ χρώματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40 (1t)",
+      "text": "οἰηθεὶς δὲ εἶναι τοιοῦτον, οἷς ἀπελούετο, τοὺς βωμοὺς ἐκλιπών, ὅθεν ἐτρέφετο, λίμναις καὶ ποταμοῖς ἐνδιέτριβε. καὶ τὸ μὲν 〈χρῶμα τὸ〉 σῶμα φαιδρύνων οὐκ ἤμειβεν, τροφῆς δὲ ἀπορῶν διεφθείρετο. φύσιν οὐκ οἶδε μεταβάλλειν ἡ δίαιτα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aqo-aq",
+      "title": {
+        "english": "Aesopic Fables (Anonymous Collection)",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-fables-aq-aqo-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ap",
+      "title": {
+        "english": "Aesopic Fables (Augustana Collection)",
+        "ancient_greek": "Αισώπειων μύθων συναγωγή"
+      },
+      "url_slug": "aesop-fables-ap-aqo-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-af",
+      "title": {
+        "english": "Aesopic Fables (Dionian Recension)",
+        "ancient_greek": "Μῦθοι Δίωνι Χρυσόστομῳ ἀνατιθέμενοι"
+      },
+      "url_slug": "aesop-fables-af-aqo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-am",
+      "title": {
+        "english": "Aesopic Proverbs",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-proverbs-am-aqo-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/proverbs-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ao",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "aesop-epigrams-aqo-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ai",
+      "title": {
+        "english": "Fable of Nicephorus",
+        "ancient_greek": "Μῦθος Νικηφόρου"
+      },
+      "url_slug": "aesop-nicephorus-fable-aqo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/nicephorus-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ab",
+      "title": {
+        "english": "Fables Preserved-Assendelftian Wax Tablets",
+        "ancient_greek": "Μῦθοι ἐν δέλτοις Ἀσσενδελφτίοις σωθέντες"
+      },
+      "url_slug": "aesop-preserved-wax-tablets-aqo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/preserved-wax-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ah",
+      "title": {
+        "english": "Fables in Dodecasyllables",
+        "ancient_greek": "Μῦθοι ἐν Δωδεκασυλλάβοις"
+      },
+      "url_slug": "aesop-fables-dodecasyllables-aqo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-dodecasyllables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-aj",
+      "title": {
+        "english": "Fables of Dositheus",
+        "ancient_greek": "Μῦθοι Δοσιθέου"
+      },
+      "url_slug": "aesop-dositheus-fables-aqo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/dositheus-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ak",
+      "title": {
+        "english": "Fables of Libanius",
+        "ancient_greek": "Μῦθοι Λιβανίου"
+      },
+      "url_slug": "aesop-fables-ak-aqo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ag",
+      "title": {
+        "english": "Fables of Syntipas the Philosopher",
+        "ancient_greek": "Μῦθοι Συντίπα τοῦ Φιλοσόφου"
+      },
+      "url_slug": "aesop-syntipas-fables-aqo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/syntipas-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ae",
+      "title": {
+        "english": "Fables of Themistius the Rhetorician",
+        "ancient_greek": "Μῦθοι Θεμιστίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-themistius-fables-aqo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/themistius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "skw-am",
+      "title": {
+        "english": "Calligone",
+        "ancient_greek": "Καλλιγόνη"
+      },
+      "url_slug": "anonymous-erotic-narrative-calligone-skw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/calligone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/calligone.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/calligone.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/calligone.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/calligone.json"
+      }
+    },
+    {
+      "eul_wid": "qay-aa",
+      "title": {
+        "english": "Contest of Homer and Hesiod (Short Recension)",
+        "ancient_greek": "Ἀγὼν Ὁμήρου καὶ Ἡσιόδου"
+      },
+      "url_slug": "homer-hesiod-contest-anonymous-contest-aa-qay-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-hesiod-contest-anonymous/contest-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous/contest-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous/contest-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous/contest-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-hesiod-contest-anonymous/contest-aa.json"
+      }
+    },
+    {
+      "eul_wid": "skw-av",
+      "title": {
+        "english": "Eleusinian Mysteries Fragment",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-erotic-narrative-eleusinian-mysteries-skw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/eleusinian-mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/eleusinian-mysteries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/eleusinian-mysteries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/eleusinian-mysteries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/eleusinian-mysteries.json"
+      }
+    },
+    {
+      "eul_wid": "sru-aa",
+      "title": {
+        "english": "Ethiopian Tales",
+        "ancient_greek": "Αἰθιοπικά"
+      },
+      "url_slug": "heliodorus-of-emesa-ethiopica-sru-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-of-emesa/ethiopica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/ethiopica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/ethiopica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/ethiopica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/ethiopica.json"
+      }
+    },
+    {
+      "eul_wid": "oec-ac",
+      "title": {
+        "english": "Love Stories",
+        "ancient_greek": "Ἐρωτικὰ Παθήματα"
+      },
+      "url_slug": "parthenius-of-nicaea-love-stories-oec-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/parthenius-of-nicaea/love-stories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea/love-stories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea/love-stories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea/love-stories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parthenius-of-nicaea/love-stories.json"
+      }
+    },
+    {
+      "eul_wid": "skw-aq",
+      "title": {
+        "english": "Lover's Impassioned Boast",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-erotic-narrative-lovers-impassioned-boast-skw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/lovers-impassioned-boast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/lovers-impassioned-boast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/lovers-impassioned-boast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/lovers-impassioned-boast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/lovers-impassioned-boast.json"
+      }
+    },
+    {
+      "eul_wid": "oba-aa",
+      "title": {
+        "english": "Ninus Fragments A–B",
+        "ancient_greek": "Νίνου Ἀποσπάσματα Α–Β"
+      },
+      "url_slug": "anonymous-narrative-fiction-ninus-fragments-aa-oba-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-narrative-fiction/ninus-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-narrative-fiction/ninus-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "qek-aa",
+      "title": {
+        "english": "Phoenician Matters (Main Papyrus Fragment)",
+        "ancient_greek": "Φοινικικά"
+      },
+      "url_slug": "lollianus-the-erotic-writer-phoenician-matters-aa-qek-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lollianus-the-erotic-writer/phoenician-matters-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aesop/aphthonius-fables",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

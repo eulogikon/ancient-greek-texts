@@ -1,0 +1,702 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lbs-aa",
+  "eul_aid": "lbs",
+  "author_slug": "heraclides-lembus",
+  "work_slug": "constitutions",
+  "url_slug": "heraclides-lembus-constitutions-lbs-aa",
+  "author": {
+    "english": "Heraclides Lembus the Historian",
+    "ancient_greek": "Ἡρακλείδης ὁ Λέμβος"
+  },
+  "title": {
+    "english": "Excerpts-Constitutions",
+    "ancient_greek": "Ἐκλογαὶ περὶ Πολιτειῶν"
+  },
+  "seo": {
+    "browser_title": "Excerpts-Constitutions by Heraclides Lembus on Eulogikon",
+    "meta_title": "Excerpts-Constitutions by Heraclides Lembus in Greek",
+    "meta_description": "Excerpts-Constitutions is a 2nd-century BCE compilation of political history by Heraclides. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Excerpts-Constitutions</strong> is a 2nd-century BCE compilation of political history by Heraclides Lembus, a scholar and official in Ptolemaic Egypt. Written in Koine Greek prose, the work originally collected 72 passages describing the foundational laws, government structures, and distinctive customs of various Greek and non-Greek states. It represents the Hellenistic tradition of creating scholarly summaries, as Heraclides condensed longer, now-lost works on political systems, likely drawing from the Peripatetic school associated with Aristotle. Only a portion of the text survives today, known through fragments preserved centuries later in a 10th-century Byzantine compilation commissioned by Emperor Constantine VII. The surviving excerpts, such as the one detailing the early political evolution of Athens from monarchy to the reforms of Solon, illustrate its method of concise historical narration. Modern scholars interpret the work as a tool for comparative political ethnography, likely intended for an administrative or scholarly audience interested in different models of governance. Its primary historical value now is as a conduit, preserving fragments of earlier political writings that would otherwise be lost.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Ἐκ τῶν Ἡρακλείδου περὶ πολιτειῶν Ἀθηναίω ν : Ἀθηναῖοι τὸ μὲν ἐξ ἀρχῆς ἐχρῶντο βασιλείᾳ, συνοικήσαντος δὲ Ἴωνος αὐτοῖς, τότε πρῶτον Ἴωνες ἐκλήθησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Πανδίων δὲ βασιλεύσας μετὰ Ἐρεχθέα διένειμε τὴν ἀρχὴν τοῖς υἱοῖς. καὶ διετέλουν οὗτοι στασιάζοντες. Θησεὺς δὲ ἐκήρυξε καὶ συνεβίβασε τούτους ἐπ’ ἴσῃ καὶ ὁμοίᾳ μοίρᾳ. οὗτος ἐλθὼν εἰς Σκῦρον ἐτελεύτησεν ὠσθεὶς κατὰ πετρῶν ὑπὸ Λυκομήδους, φοβηθέντος μὴ σφετερίσηται τὴν νῆσον. Ἀθηναῖοι δὲ ὕστερον περὶ τὰ Μηδικὰ μετεκόμισαν αὐτοῦ τὰ ὀστᾶ. ἀπὸ δὲ Κοδριδῶν οὐκέτι βασιλεῖς ᾑροῦντο διὰ τὸ δοκεῖν τρυφᾶν καὶ μαλακοὺς γεγονέναι. Ἱππομένης δὲ εἷς τῶν Κοδριδῶν βουλόμενος ἀπώσασθαι τὴν διαβολήν, λαβὼν ἐπὶ τῇ θυγατρὶ Λειμώνῃ μοιχόν, ἐκεῖνον μὲν ἀνεῖλεν ὑποζεύξας [μετὰ τῆς θυγατρὸς] τῷ ἅρματι, τὴν δὲ ἵππῳ συνέκλεισεν ἕως ἀπόληται. τοὺς μετὰ Κύλωνος διὰ τὴν τυραννίδα ἐπὶ τὸν βωμὸν τῆς θεοῦ πεφευγότας οἱ περὶ Μεγακλέα ἀπέκτειναν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "καὶ τοὺς δράσαντας ὡς ἐναγεῖς ἤλαυνον. Σόλων νομοθετῶν Ἀθηναίοις καὶ χρεῶν ἀποκοπὰς ἐποίησε, τὴν σεισάχθειαν λεγομένην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ὡς δ’ ἐνώχλουν αὐτῷ τινὲς περὶ τῶν νόμων, ἀπεδήμησεν εἰς Αἴγυπτον. Πεισίστρατος λγʹ ἔτη τυραννήσας γηράσας ἀπέθανεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ἵππαρχος ὁ υἱὸς Πεισιστράτου παιδιώδης ἦν καὶ ἐρωτικὸς καὶ φιλόμουσος, Θεσσαλὸς δὲ νεώτερος καὶ θρασύς. τοῦτον τυραννοῦντα μὴ δυνηθέντες ἀνελεῖν Ἵππαρχον ἀπέκτειναν τὸν ἀδελφὸν αὐτοῦ. Ἱππίας δὲ πικρότερον ἐτυράννει. καὶ τὸν περὶ ὀστρακισμοῦ νόμον εἰσηγήσατο, ὃς ἐτέθη διὰ τοὺς τυραννιῶντας. καὶ ἄλλοι τε ὠστρακίσθησαν καὶ Ξάνθιππος καὶ Ἀριστείδης. Ἐφιάλτης τοὺς ἰδίους ἀγροὺς ὀπωρίζειν παρεῖχε τοῖς βουλομένοις, ἐξ ὧν πολλοὺς ἐδείπνιζε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Κλέων παραλαβὼν διέφθειρε τὸ πολίτευμα, καὶ ἔτι μᾶλλον οἱ μετ’ αὐτόν, οἳ πάντας ἀνομίας ἐνέπλησαν, καὶ ἀνεῖλον οὐκ ἐλάσσους αφʹ. τούτων δὲ καταλυθέντων Θρασύβουλος καὶ Ῥίνων προειστήκεισαν, ὃς ἦν ἀνὴρ καλὸς καὶ ἀγαθός. Θεμιστοκλῆς καὶ Ἀριστείδης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "καὶ ἡ ἐξ Ἀρείου πάγου βουλὴ πολλὰ ἐδύνατο. καὶ τῶν ὁδῶν ἐπιμελοῦνται, ὅπως μή τινες ἀνοικοδομῶσιν αὐτὰς ἢ δρυφάκτους ὑπερτείνωσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ὁμοίως δὲ καθιστᾶσι καὶ τοὺς ιαʹ, τοὺς ἐπιμελησομένους τῶν ἐν τῷ δεσμωτηρίῳ. εἰσὶ δὲ καὶ θʹ ἄρχοντες, θεσμοθέται ϛʹ, οἱ δοκιμασθέντες ὀμνύουσι δικαίως ἄρξειν καὶ δῶρα μὴ λήψεσθαι ἢ ἀνδριάντα χρυσοῦν ἀναθήσειν. ὁ δὲ βασιλεὺς τὰ κατὰ τὰς θυσίας διοικεῖ καὶ τὰ πολέμια. Λακεδαιμονίω ν : τὴν Λακεδαιμονίων πολιτείαν τινὲς Λυκούργῳ προσάπτουσι πᾶσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ὁ δὲ Ἀλκμὰν οἰκέτης ἦν Ἀγησίδου, εὐφυὴς δὲ ὢν ἠλευθερώθη καὶ ποιητὴς ἀπέβη. Λυκοῦργος ἐν Σάμῳ ἐγένετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "καὶ τὴν Ὁμήρου ποίησιν παρὰ τῶν ἀπογόνων Κρεοφύλου λαβὼν πρῶτος διεκόμισεν εἰς Πελοπόννησον. καταλαβὼν δὲ πολλὴν ἀνομίαν ἐν τῇ πατρίδι, καὶ τὸν Χάριλλον τυραννικῶς ἄρχοντα, μετέστησε. καὶ κοινὸν ἀγαθὸν τὰς ἐκεχειρίας κατέστησε. λέγεται δὲ καὶ τὴν κρυπτὴν εἰσηγήσασθαι, καθ’ ἣν ἔτι καὶ νῦν ἐξιόντες ἡμέρας κρύπτονται, τὰς δὲ νύκτας μεθ’ ὅπλων [κρύπτονται] καὶ ἀναιροῦσι τῶν Εἱλώτων ὅσους ἂν ἐπιτήδειον ᾖ. καθιστᾶσι δὲ καὶ ἐφόρους, καὶ μέγιστον οὗτοι δύνανται. οὐδενὶ γὰρ ὑπανίστανται πλὴν βασιλεῖ καὶ ἐφόρῳ. ὅταν δὲ τελευτήσῃ βασιλεὺς, γʹ ἡμέρας οὐδὲν πωλεῖται, καὶ ἀχύροις ἡ ἀγορὰ καταπάσσεται. Λακεδαιμόνιοι τὸν Λέσβιον ᾠδὸν ἐτίμησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "τούτου γὰρ ἀκούειν ὁ θεὸς χρησμῳδουμένου ἐκέλευε. πωλεῖν δὲ γῆν Λακεδαιμονίοις αἰσχρὸν νενόμισται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "τῆς ἀρχαίας μοίρας οὐδὲ ἔξεστι. τῶν ἐν Λακεδαίμονι γυναικῶν κόσμος ἀφῄρηται, οὐδὲ κομᾶν ἔξεστιν, οὐδὲ χρυσοφορεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "τρέφουσι δὲ τὰ τέκνα ὥστε μηδέποτε πληροῦν, ἵνα ἐθίζωνται δύνασθαι πεινῆν. ἐθίζουσι δὲ αὐτοὺς καὶ κλέπτειν, καὶ τὸν ἁλόντα κολάζουσι πληγαῖς, ἵν’ ἐκ τούτου πονεῖν καὶ ἀγρυπνεῖν δύνωνται ἐν τοῖς πολεμίοις. μελετῶσι δὲ εὐθὺς ἐκ παίδων βραχυλογεῖν, εἶτα ἐμμελῶς καὶ σκώπτειν καὶ σκώπτεσθαι. εὐτελεῖς δὲ ταφαὶ καὶ ἴσαι πᾶσίν εἰσι. πέττει δ’ ἐν αὐτοῖς σῖτον οὐδείς. οὐδὲ γὰρ ἄλευρα κομίζουσι, σιτοῦνται δ’ ἄλφιτα. Κρητῶ ν : τὴν Κρητικὴν πολιτείαν λέγεται πρῶτος καταστῆσαι Μίνως, πρακτικός τε ἅμα καὶ νομοθέτης σπουδαῖος γενόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "ἐποιεῖτο δὲ δι’ ἐνάτου ἔτους τὴν ἐπανόρθωσιν τῶν νόμων. ὅτι δὲ ἀρχαιοτάτη τῶν πολιτειῶν ἡ Κρητικὴ ἐμφαίνει καὶ Ὅμηρος ( Il. 2.648) λέγων· τὰς πόλεις αὐτῶν εὖ ναιεταώσας καὶ Ἀρχίλοχος (fr.133 Bergk) ἐν οἷς ἐπισκώπτων τινά φησι· νόμος δὲ Κρητικὸς διδάσκεται. οἱ παῖδες οἱ ἐν Κρήτῃ μετ’ ἀλλήλων διαιτῶνται ἐν ἱματίῳ θέρους καὶ χειμῶνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ἀθροίζονται δὲ ἀγέλαι τούτων, καὶ ἐφ’ ἑκάστης ἄρχων γίνεται, ὃν καλοῦσιν ἀγελάτην, καὶ ἀθροίζει αὐτοὺς ὅπου θέλει καὶ ἐπὶ θήραν ἐξάγει. καὶ τὰ πολλὰ κοιμῶνται μετ’ ἀλλήλων, ποιοῦνται δὲ καὶ μάχας κατὰ νόμον πύξ τε καὶ ξύλοις, καὶ ὅταν συμβάλλωνται, αὐλοῦσί τινες αὐτοῖς καὶ κιθαρίζουσι. καὶ πρὸς ἀνδρείαν καὶ καρτερίαν ἐθίζονται. γράμματα δὲ μόνον παιδεύονται, καὶ ταῦτα μετρίως, ταῖς δὲ πρὸς τοὺς ἄρρενας ἐρωτικαῖς ὁμιλίαις ἐοίκασι πρῶτοι κεχρῆσθαι, καὶ οὐκ αἰσχρὸν παρ’ αὐτοῖς τοῦτο. ὅταν δὲ κρατήσωσιν, ἀπάγουσιν εἰς ὄρος ἢ τοὺς ἑαυτῶν χώρους κἀκεῖ ἑστιῶνται ἡμέρας ξʹ· πλείους γὰρ οὐκ ἔξεστι. καὶ δίδωσιν ὁ φιλήτωρ ἐσθῆτα καὶ ἄλλα δῶρα καὶ βοῦν. διαιτῶνται δὲ Κρῆτες πάντες καθήμενοι θρόνοις. ἄρχονται δὲ τῶν παρατιθεμένων ἀπὸ τῶν ξένων, μετὰ δὲ τοὺς ξένους τῷ ἄρχοντι διδόασι δʹ μοίρας, μίαν μὲν ἣν καὶ τοῖς ἄλλοις, δευτέραν δὲ ἀρχικήν, τρίτην δὲ τοῦ οἴκου, τετάρτην δὲ τῶν σκευῶν. καθόλου δὲ πολλὴ φιλανθρωπία τοῖς ξένοις ἐστὶν ἐν Κρήτῃ, καὶ εἰς προεδρίαν καλοῦνται. ὅτι τοὺς Εἵλωτας κατεδουλώσαντό ποτε Λακεδαιμόνιοι, Θετταλοὶ δὲ τοὺς Πενέστας. Κυρηναίω ν : Κυρήνην ᾤκισε Βάττος, ὃς ἐκαλεῖτο πρότερον Ἀριστοτέλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "τῆς δὲ Πυθίας Βάττον αὐτὸν εἰπούσης ὄνομα τοῦτο ἔσχηκεν. οὗτος ἦλθεν εἰς Δελφοὺς περὶ τῆς φωνῆς πευσόμενος. ἦν γὰρ ἰσχνόφωνος. τοῦ δὲ θεοῦ κελεύοντος κτίζειν Λιβύην τὸ μὲν πρῶτον ὁρμήσας ἠδυνάτησε. Φερετίμη δὲ ἡ μήτηρ Ἀρκεσιλάου ἐβασίλευσε χαλεπὴ καὶ περίεργος. πολεμοῦσα γοῦν πρὸς Βαρκαίους, λαβοῦσα δὲ τὴν Βάρκην τοὺς μὲν ἄνδρας ἀνεσκολόπισε, τῶν δὲ γυναικῶν τοὺς μαστοὺς ἐξέτεμε. μετ’ οὐ πολὺ δὲ ζῶσα κατεσάπη. Βάττος δὲ ἐβασίλευσεν ὁ καλὸς καλούμενος ἕβδομος ὢν ἀπὸ τοῦ πρώτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Ἀρκεσιλάου δὲ βασιλεύοντος λευκὸς κόραξ ἐφάνη, περὶ οὗ λόγιον ἦν χαλεπόν. δημοκρατίας δὲ γενομένης Βάττος εἰς Ἑσπερίδας ἐλθὼν ἀπέθανε, καὶ τὴν κεφαλὴν αὐτοῦ λαβόντες κατεπόντισαν. νόμος δὲ ἦν τοὺς πολυδίκους καὶ κακοπράγμονας ὑπὸ τῶν ἐφόρων προάγεσθαι, καὶ ζημιοῦν τούτους καὶ ἀτίμους ποιεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19-20t",
+      "text": "Κορινθίω ν : Κόρινθος Ἐφύρα πρότερον ἐκαλεῖτο μέχρι Κορίνθου, ἀφ’ οὗ τὸ ὄνομα ἔσχεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "ἐβασίλευσε δὲ καὶ Βάκχις τρίτος, χωλὸς καὶ εὐτελὴς τὴν ὄψιν, καλῶς δὲ ἄρχων καὶ πολιτικῶς. ᾧ θυγατέρες μὲν γʹ, υἱοὶ δὲ ζʹ, οἳ τὸ γένος οὕτως ηὔξησαν ὥστε Βακχιάδας ἀντὶ Ἡρακλειδῶν καλεῖσθαι τοὺς ἀπ’ αὐτῶν. Περίανδρος δὲ πρῶτος μετέστησε τὴν ἀρχὴν δορυφόρους ἔχων καὶ οὐκ ἐπιτρέπων ἐν ἄστει ζῆν, ἔτι δὲ δούλων κτῆσιν καὶ τρυφὴν ὅλως περιαιρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "μέτριος δὲ ἦν ἐν ἄλλοις, τῷ τε μηδένα τέλος πράσσεσθαι ἀρκεῖσθαί τε τοῖς ἀπὸ τῆς ἀγορᾶς καὶ τῶν λιμένων, καὶ τῷ μήτε ἄδικος μήτε ὑβριστὴς εἶναι, μισοπόνηρος δέ. τὰς δὲ προαγωγοὺς πάσας κατεπόντισε. βουλὴν δὲ ἐπ’ ἐσχάτων κατέστησεν, οἳ οὐκ ἐφίεσαν δαπανᾶν πλέον ἢ κατὰ τὰς προσόδους. Ἠλείω ν : Πανταλέων ἐβασίλευσεν ἐν τούτοις, ὑβριστὴς καὶ χαλεπός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "οὗτος πρέσβεις πρὸς αὐτὸν ἐλθόντας ἐκτεμὼν ἠνάγκασε καταφαγεῖν τοὺς ὄρχεις. 〈 Τενεδίω ν :〉 Τένεδος ἡ νῆσος τὸ μὲν ἐξ ἀρχῆς Λεύκοφρυς ἐκαλεῖτο, χρόνῳ δ’ ὕστερον πρὸ τῶν Τρωϊκῶν Τέννης διενεχθεὶς πρὸς τὸν πατέρα συνῴκισεν αὐτήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "λέγεται δὲ ὡς καταψευσαμένης αὐτοῦ τῆς μητρυιᾶς καὶ μαρτυρήσαντος αὐλητοῦ τινὸς βιάζεσθαι ταύτην, εἰς λάρνακα ἐμβληθεὶς ὑπὸ τοῦ πατρὸς Κύκνου καὶ εἰς θάλασσαν ῥιφεὶς διασωθῆναι πρὸς τὴν νῆσον. διὰ δὲ τὸ καταψεύσασθαι τὸν αὐλητὴν οὐ νόμιμον εἰς τὸ ἱερὸν αὐλητὴν εἰσιέναι. ὅτι Ἀμαυρὸς χωλὸς τοὺς πόδας ἐβασίλευσε ταύτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "νόμον δέ τινά φασι τὸν βασιλέα Τέννην διαθέσθαι, εἴ τις λάβοι μοιχόν, ἀποκτείνειν τοῦτον πελέκει. ἁλόντος δὲ τοῦ υἱοῦ αὐτοῦ καὶ τοῦ λαβόντος ἐρομένου τὸν βασιλέα τί χρὴ ποιεῖν, ἀποκρίνασθαι τῷ νόμῳ χρῆσθαι. καὶ διὰ τοῦτο τοῦ νομίσματος αὐτοῦ ἐπὶ θάτερα πέλεκυς κεχάρακται. ἐπὶ θάτερα δὲ ἐξ ἑνὸς αὐχένος πρόσωπον ἀνδρὸς καὶ γυναικός. καὶ ἐκ τούτου λέγεται ἐπὶ τῶν ἀποτόμων τὸ ἀποκεκόφθαι Τενεδίῳ πελέκει. Παρίω ν : Πάρον τὴν νῆσον ᾤκισε Πάρος ἐξ Ἀρκαδίας λαὸν ἄγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ἀρχίλοχον τὸν ποιητὴν Κόραξ ὄνομα ἔκτεινε, πρὸς ὅν φασιν εἰπεῖν τὴν Πυθίαν. ἔξιθι νηοῦ, τοῦτον δ’ εἰπεῖν· ἀλλὰ καθαρός εἰμι, ἄναξ, ἐν χειρῶν γὰρ νόμῳ ἔκτεινα. Κείω ν : ἐκαλεῖτο μὲν Ὑδροῦσα ἡ νῆσος, λέγονται δὲ οἰκῆσαι νύμφαι πρότερον αὐτήν, φοβήσαντος δ’ αὐτὰς λέοντος εἰς Κάρυστον διαβῆναι, διὸ καὶ ἀκρωτήριον τῆς Κέω Λέων καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Κέως δ’ ἐκ Ναυπάκτου διαβὰς ᾤκισε, καὶ ἀπ’ αὐτοῦ ταύτην ὠνόμασαν. Ἀρισταῖον δέ φασι μαθεῖν παρὰ μὲν νυμφῶν τὴν τῶν προβάτων καὶ βοῶν ἐπιστήμην, παρὰ δὲ Βρισῶν τὴν μελιττουργίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "φθορᾶς δὲ οὔσης φυτῶν καὶ ζῴων διὰ πνεῖν ἐτησίας. Ἀριστείδης ἐπεμελεῖτο γυναικῶν εὐκοσμίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "καὶ τὸ παλαιὸν ὕδωρ ἔπινον οἱ παῖδες καὶ αἱ κόραι μέχρι γάμου. ἐπὶ δὲ τοῖς τελευτῶσιν οὐδέν ἐστι πένθος ἐν ἀνδράσι περὶ ἐσθῆτα ἢ κουράν, μητρὶ δὲ νέου τελευτήσαντος ἐνιαυτός. οὔσης δὲ ὑγιεινῆς τῆς νήσου καὶ εὐγήρων τῶν ἀνθρώπων, μάλιστα δὲ τῶν γυναικῶν, οὐ περιμένουσι γηραιοὶ τελευτᾶν, ἀλλὰ πρὶν ἀσθενῆσαι ἢ πηρωθῆναί τι, οἱ μὲν μήκωνι οἱ δὲ κωνείῳ ἑαυτοὺς ἐξάγουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30-35t",
+      "text": "Σαμίω ν : σάμον τὸ μὲν ἐξ ἀρχῆς ἐρήμην οὖσαν λέγεται κατέχειν πλῆθος θηρίων μεγάλην φωνὴν ἀφιέντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "ἐκαλοῦντο δὲ τὰ θηρία νήϊδες, ἡ δὲ νῆσος Παρθενία, ὕστερον δὲ Δρυοῦσα. ἐβασίλευσε δ’ αὐτῶν Ἀγκαῖος, περὶ οὗ τὰς ἀμπέλους ὁ θεράπων φυτεύων φησί· πολλὰ μεταξὺ πέλει κύλικος καὶ χείλεος ἄκρου. ὅτι ἐν τοῖς Σαμίοις ἐφάνη λευκὴ χελιδὼν οὐκ ἐλάττων πέρδικος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Φερεκύδης ὁ Σύριος ὑπὸ φθειρῶν καταβρωθεὶς ἐν Σάμῳ ἐτελεύτησεν, ὅτε καὶ ἐλθόντι Πυθαγόρᾳ τὸν δάκτυλον διὰ τῆς ὀπῆς ἔδειξε περιεψιλωμένον. Αἴσωπος δὲ ὁ λογοποιὸς εὐδοκίμει τότε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "ἦν δὲ Θρᾷξ τὸ γένος, ἠλευθερώθη δὲ ὑπὸ Ἴδμονος τοῦ σοφοῦ, ἐγένετο δὲ πρῶτον Ξάνθου δοῦλος. τὴν δὲ πολιτείαν τῶν Σαμίων Συλοσῶν ἠρήμωσεν, ἀφ’ οὗ καὶ ἡ παροιμία, ἕκητι Συλοσῶντος εὐρυχωρίη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Θεογένης δὲ τῶν Σαμίων τις εὐφυὴς μέν, ἄλλως δὲ ἄσωτος καὶ πονηρός, φεύγων τὴν πατρίδα, διατρίβων δὲ Ἀθήνησι παρ’ Εὐριπίδῃ καὶ τὸ γύναιον αὐτοῦ διαφθείρων, συνεργὸν αὐτὸν λαβὼν πείθει τοὺς Ἀθηναίους, ͵ β εἰς Σάμον ἀποστεῖλαι. οἱ δὲ ἐλθόντες πάντας ἐξέβαλον. Κυμαίω ν : Τηλεφάνης ἐβασίλευσε ταύτης, ὃς ἐξεφύτευσε τὴν Κυμαίων χώραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Λυδοὶ δὲ χαλεπῶς δεσποζόμενοι πρός τινος πυθόμενοι ἐν Κύμῃ εἶναί τινα, ἔπεμψαν εἰς βασιλείαν καλοῦντες. οὗτος δὲ ἐτύγχανεν ἐν ἁμαξοπηγοῦ δουλεύων. δόντες οὖν οἱ Λυδοὶ λύτρα τούτῳ παρέλαβον αὐτόν. τῶν δὲ ἐν Κύμῃ τις ἐκδεδωκὼς ἅμαξαν αὐτῷ κατεῖχεν αὐτόν. παρακαλούντων δὲ πολλῶν μὴ κωλύειν οὐκ εἴα προσεπικερτομῶν καὶ λέγων περὶ πολλοῦ ποιεῖσθαι ὑπὸ τοῦ Λυδῶν βασιλέως εἰργασμένην ἔχειν ἅμαξαν. Ἑρμοδίκην δὲ γυναῖκα τοῦ Φρυγῶν βασιλέως Μίδα φασὶ κάλλει διαφέρειν, ἀλλὰ καὶ σοφὴν εἶναι καὶ τεχνικὴν καὶ πρώτην νόμισμα κόψαι Κυμαίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "ἔθος δὲ ἦν αὐτοῖς εἰς τὰ κλοπιμαῖα συμβάλλεσθαι τοὺς γείτονας, διὸ καὶ ὀλίγα ἀπόλλυνται. πάντες γὰρ ὁμοίως ἐτήρουν. καὶ Ἡσίοδος (Op. 348) ἐντεῦθεν δοκεῖ λέγειν· οὐκ ἂν βοῦς ἀπόλοιτ’ εἰ μὴ γείτων κακὸς εἴη. Κῦρος δὲ καταλύσας τὴν πολιτείαν μοναρχεῖσθαι αὐτοὺς ἐποίησε. Φείδων ἀνὴρ δόκιμος πλείοσι μετέδωκε τῆς πολιτείας, νόμον θεὶς ἕκαστον ἐπάναγκες τρέφειν ἵππον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Προμηθεὺς δέ τις ἀνὴρ δραστήριος καὶ ἱκανὸς εἰπεῖν χιλίοις παρέδωκε τὴν πολιτείαν. Ἐρετριέω ν : Διαγόρᾳ εἰς Σπάρτην πορευομένῳ καὶ ἐν Κορίνθῳ τελευτήσαντι Ἐρετριεῖς εἰκόνα ἔστησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "41t",
+      "text": "Πεπαρηθίω ν : αὕτη ἡ νῆσος εὔοινός ἐστι καὶ εὔδενδρος καὶ σῖτον φέρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "42t",
+      "text": "Λεπρεατῶ ν : Λεπρεεῖς οὓς ἂν λάβωσι μοιχοὺς περιάγουσι γʹ ἡμέρας τὴν πόλιν δεδεμένους καὶ ἀτιμοῦσι διὰ βίου, τὴν δὲ γυναῖκα ιαʹ ἐπ’ ἀγορᾶς ἄζωστον ἐν χιτῶνι διαφανεῖ ἱστᾶσι καὶ ἀτιμοῦσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "43t",
+      "text": "Λυκίω ν : Λύκιοι διῆγον λῃστεύοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "νόμοις δὲ οὐ χρῶνται ἀλλ’ ἔθεσι, καὶ ἐκ παλαιοῦ γυναικοκρατοῦνται. πωλοῦσι δὲ τοὺς ψευδομάρτυρας καὶ τὰς οὐσίας αὐτῶν δημεύουσι. Τυρρηνῶ ν : Τυρρηνοὶ τέχνας ἔχουσι πλείστας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "πάντες δὲ ὑπὸ τῷ αὐτῷ ἱματίῳ μετὰ τῶν γυναικῶν κατάκεινται κἂν παρῶσί τινες, καὶ τοὺς καταλύοντας ξένους φιλοῦσιν. ὅταν δέ τις ὀφείλων χρέος μὴ ἀποδῷ παρακολουθοῦσιν οἱ παῖδες ἔχοντες κενὸν θυλάκιον εἰς δυσωπίαν. Μολοττῶ ν : Μολοττοὶ δὲ τῆς Ἀρτέμιδος συλήσαντες τὸ ἱερὸν καὶ τοῦ ξοάνου χρυσοῦν ἀφελόμενοι στέφανον θυσίαν ἐτίθεσαν ἀντ’ αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "τῶν δὲ Κεφαλλήνων ἄλλον ἐπιθέντων, τοῦτον ἀπέβαλεν ἡ θεὸς καὶ χαμαὶ κείμενος εὑρέθη. Κεφαλλῆνες δὲ ἀπὸ Κεφάλου ἐκλήθησαν. Φασιανῶ ν : Φᾶσιν ὡς τὸ ἐξ ἀρχῆς Ἡνίοχοι κατῴκουν, φῦλον ἀνθρωποφάγον καὶ ἐκδέρον τοὺς ἀνθρώπους, ἔπειτα Μιλήσιοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": "φιλόξενοι δ’ εἰσὶν ὥστε τοὺς ναυαγοὺς ἐφοδιάζειν καὶ γʹ μνᾶς διδόντας ἀποπλεῖν. Ἀμοργίω ν : Ἀμοργὸς οἶνον φέρει πολὺν καὶ ἔλαιον καὶ ὀπώραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "48t",
+      "text": "Λευκανῶ ν : οἱ δὲ Λευκανοὶ φιλόξενοι καὶ δίκαιοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "ἐβασίλευσε δὲ τούτων Λαμίσκος, ὃς εἶχε λύκου τὸν τρίτον δάκτυλον τοῦ ποδὸς ἀπὸ τοῦ μεγάλου. Σαμοθρᾴκη ς : ἡ Σαμοθρᾴκη τὸ μὲν ἐξ ἀρχῆς ἐκαλεῖτο Λευκανία διὰ τὸ λευκὴν εἶναι, ὕστερον δὲ Θρᾳκῶν κατασχόντων Θρᾳκία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "τούτων δὲ ἐκλιπόντων ὕστερον ἔτεσι ψʹ Σάμιοι κατῴκισαν αὐτὴν ἐκπεσόντες τῆς οἰκείας καὶ Σαμοθρᾴκην ἐκάλεσαν. Μαγνήτω ν : οὗτοι δι’ ὑπερβολὴν ἀτυχημάτων πολλὰ ἐκακώθησαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "καί που καὶ Ἀρχίλοχός (fr.19 Diehl) φησι· κλαίω θαλασσῶν, οὐ τὰ Μαγνήτων κακά. καὶ ἱπποτρόφοι δ’ εἰσὶν ὃν τρόπον καὶ οἱ Κολοφώνιοι, πεδιάδα χώραν ἔχοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "52t",
+      "text": "〈 Δελφῶ ν :〉 Φᾶμις ἄρχων ἦν καὶ τούτου τοὺς υἱοὺς ὡς ἱεροσύλους συνέλαβον θύοντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "ὅπερ φασὶ καὶ περὶ Αἴσωπον γενέσθαι. καὶ γὰρ ἐκεῖνος ἐπὶ ἱεροσυλίᾳ διεφθάρη, φιάλης χρυσῆς φωραθείσης ἐν τοῖς στρώμασιν αὐτοῦ. Ἀθαμάνω ν : ἐν τῇ Ἀθαμάνων χώρᾳ γεωργοῦσι μὲν αἱ γυναῖκες, νέμουσι δὲ οἱ ἄνδρες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "54t",
+      "text": "〈 Κυθηρίω ν :〉 Κυθήριοι δὲ ὄψῳ τυρῷ χρῶνται καὶ σύκοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "φέρει γὰρ ἡ νῆσος πολλὰ καὶ μέλι καὶ οἶνον. φιλάργυροι δέ εἰσι καὶ φιλόπονοι. Ῥηγίνω ν : Ῥήγιον ᾤκισαν Χαλκιδεῖς οἱ ἀπ’ Εὐρίπου διὰ λιμὸν ἀναστάντες, παρέλαβον δὲ καὶ ἐκ Πελοποννήσου τοὺς Μεσσηνίους τοὺς ἐν Μακίστῳ τυχόντας διὰ τὴν ὕβριν τῶν Σπαρτιατίδων παρθένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "καὶ συνῴκισαν πρῶτον παρὰ τὸν Ἰοκάστου τάφον, ἑνὸς τῶν Αἰόλου παίδων, ὅν φασιν ἀποθανεῖν πληγέντα ὑπὸ δράκοντος. καὶ χρησμὸν ἔλαβον, ὅπου ἂν ἡ θήλεια τὸν ἄρρενα. καὶ ἰδόντες πρίνῳ περιπεφυκυῖαν ἄμπελον τοῦτον εἶναι τὸν τόπον συνῆκαν. τὸ δὲ χωρίον, ἐν ᾧ τὴν πόλιν ᾤκισαν, Ῥήγιον ἐκαλεῖτο ἀπό τινος ἐγχωρίου ἥρωος. πολιτείαν δὲ κατεστήσαντο ἀριστοκρατικήν. χίλιοι γὰρ πάντα διοικοῦσιν αἱρετοὶ ἀπὸ τιμημάτων. νόμοις δὲ ἐχρῶντο τοῖς Χαρώνδου τοῦ Καταναίου. ἐτυράννησε δὲ αὐτῶν Ἀναξίλας Μεσσήνιος. καὶ νικήσας Ὀλύμπια ἡμιόνοις εἱστίασε τοὺς Ἕλληνας. καί τις αὐτὸν ἐπέσκωψεν εἰπών· οὗτος τί ἂν ἐποίει νικήσας ἵπποις; ἐποίησε δὲ καὶ ἐπινίκιον Σιμωνίδης· (fr.19 Diehl 3 ) χαίρετ’ ἀελλοπόδων θύγατρες ἵππων [ἐγένοντο]. ἦσαν δὲ καὶ ἄλλοι δυναστικοὶ παρὰ τοῖς Ῥηγίνοις. 〈 Κορκυραίω ν :〉 Κορκυραῖοι Διομήδην ἐπεκαλέσαντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "καὶ τὸν παρ’ αὐτοῖς δράκοντα ἀπέκτεινεν. οἷς καὶ συνεμάχησε στόλῳ πολλῷ εἰς Ἰαπυγίαν ἐλθὼν πολεμοῦσι πρὸς Βρεντεσίους, καὶ τιμῶν ἔτυχεν. Ταραντίνω ν : ὅτε δὲ Λακεδαιμόνιοι Μεσσηνίοις ἐπολέμουν, γυναῖκες ἀπόντων τούτων παῖδάς τινας ἐγέννησαν, οὓς ἐν ὑποψίαις εἶχον οἱ πατέρες ὡς οὐκ ὄντας αὐτῶν καὶ Παρθενίας ἐκάλουν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57",
+      "text": "οἱ δ’ ἠγανάκτουν. Θρᾳκῶ ν : γαμεῖ ἕκαστος γʹ καὶ δʹ, εἰσὶ δὲ οἳ καὶ λʹ, καὶ ὡς θεραπαίναις χρῶνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "καὶ ἐκ περιουσίας οἱ γάμοι, καὶ ἐκ περιόδου σύνεισιν αὐταῖς, καὶ λούει καὶ διακονεῖ. καὶ πλεῖσται μετὰ τὴν χρῆσιν χαμαὶ κοιμῶνται. κἂν δυσχεραίνῃ τις, οἱ γονεῖς ἀποδόντες ὃ ἔλαβον ἀπεκομίσαντο τὴν θυγατέρα. τιμὴν γὰρ λαμβάνοντες συνάπτουσιν αὐτάς. καὶ ἀποθανόντος τοῦ ἀνδρὸς, ὥσπερ τἆλλα, οὕτω καὶ τὰς γυναῖκας κληρονομοῦσι. 〈 Μινῳῶ ν :〉 Μίνῳαν τὴν ἐν Σικελίᾳ Μακάραν ἐκάλουν πρότερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "ἔπειτα Μίνως ἀκούων Δαίδαλον ἐνταῦθα, μετὰ στόλου παρεγένετο καὶ ἀναβὰς ἐπὶ τὸν Λύκον ποταμὸν τῆς πόλεως ταύτης ἐκυρίευσε καὶ νικήσας τοὺς βαρβάρους ἀφ’ ἑαυτοῦ προσωνόμασεν αὐτὴν νόμους Κρητικοὺς θεὶς αὐτῇ. Λοκρῶ ν : ἐγένετο Λοκρὸς Ξενόκριτος, τυφλὸς ἐκ γενετῆς ποιητὴς καὶ Ἐράσιππος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "60",
+      "text": "παρ’ αὐτοῖς ὀδύρεσθαι οὐκ ἔστιν ἐπὶ τοῖς τελευτήσασιν, ἀλλ’ ἐπειδὰν ἐκκομίσωσιν, εὐωχοῦνται. καπηλεῖον οὐκ ἔστι μεταβολικὸν ἐν αὐτοῖς, ἀλλ’ ὁ γεωργὸς πωλεῖ τὰ ἴδια. ἐὰν ἁλῷ τις κλέπτων, τοὺς ὀφθαλμοὺς ἐξορύσσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "61",
+      "text": "Ζαλεύκου υἱὸς ἑάλω καὶ τῶν Λοκρῶν αὐτὸν ἀφιέντων, οὐχ ὑπέμεινεν, αὑτοῦ δὲ ἕνα καὶ τοῦ υἱοῦ ἕνα ἐξεῖλεν. Πολέμαρχος ἐπιορκήσας τὸν τῶν Κορινθίων ἀπέφυγε στόλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "62",
+      "text": "καὶ μυθολογοῦσιν, ὅτε καθεύδοι νύκτωρ, τὰς γαλᾶς δάκνειν αὐτὸν πέρας ἀποροῦντα ἑαυτὸν ἀνελεῖν. 〈 Χαλκιδέω ν :〉 κατῴκισαν δὲ καὶ Κλεωνὰς Χαλκιδεῖς οἱ ἐν τῷ Ἄθῳ ἐξαναστάντες ἐξ Ἐλυμνίου, ὡς μὲν μυθολογοῦσιν ὑπὸ μυῶν, οἳ τά τ’ ἄλλα κατήσθιον αὐτῶν καὶ τὸν σίδηρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "63",
+      "text": "νόμος δὲ ἦν Χαλκιδεῦσι μὴ ἄρξαι μηδὲ πρεσβεῦσαι νεώτερον ἐτῶν νʹ. 〈 Κεφαλλήνω ν :〉 ἐν Κεφαλληνίᾳ Προμνήσου υἱὸς ἐκράτησε, καὶ χαλεπὸς ἦν, καὶ ἑορτὰς πλέον βʹ οὐκ ἐπέτρεπεν οὐδὲ ἐν πόλει διαιτᾶσθαι πλέον ἡμέρας ιʹ τοῦ μηνός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64",
+      "text": "τάς τε κόρας πρὸ τοῦ γαμίσκεσθαι αὐτὸς ἐγίνωσκεν. Ἀντήνωρ δὲ λαβὼν ξιφίδιον καὶ γυναικείαν ἐσθῆτα, ἐνδυσάμενος εἰς τὴν κοίτην ἀπέκτεινε, καὶ ὁ δῆμος αὐτὸν ἐτίμησε καὶ ἡγεμόνα κατέστησε, καὶ ἡ κόρη ὑπὲρ ἧς αὐτὸς εἰσῄει ἐπικλεὴς ἐγένετο. μαρτυρεῖται δὲ καὶ ἐκ Τυρρηνίας Ὅμηρος παραβαλεῖν εἰς Κεφαλληνίαν καὶ Ἰθάκην, ὅτε καὶ τοὺς ὀφθαλμοὺς λέγεται διαφθαρῆναι νοσήσας. 〈 Ῥοδίω ν :〉 Ῥόδον τὴν νῆσον τὸ παλαιὸν κεκρύφθαι λέγουσιν ὑπὸ τῆς θαλάσσης, ἀναφανῆναι δὲ ὕστερον ξηρανθεῖσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65",
+      "text": "ἐκαλεῖτο δὲ Ὀφιοῦσα διὰ τὸ πλῆθος τῶν ἐνόντων ὄφεων. 〈 Ἐφεσίω ν :〉 Ἔφεσον κληθῆναί φασιν ἀπὸ μιᾶς τῶν Ἀμαζόνων, οἱ δὲ ἀπὸ τοῦ τὸν Ἡρακλέα ταῖς Ἀμαζόσιν ἐφεῖναι τὰ ἀπὸ Μυκάλης ἕως Πιτάνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "67t",
+      "text": "〈 Φωκαέω ν :〉 Φώκαιαν οἱ μὲν ἀπὸ Φώκου ἡγεμόνος ὠνόμασαν, οἱ δὲ ὅτι φώκην εἰς τὸ ξηρὸν εἶδον ἐκβαίνουσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "68t",
+      "text": "〈 Κροτωνιατῶ ν :〉 Κρότωνα ἐξ ἀρχῆς Κρότων ᾤκισεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "69t",
+      "text": "Ἀκραγαντίνω ν : Φάλαρις ἐτυράννευσε παρανομίᾳ πάντας ὑπερβαλών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "69",
+      "text": "οὐ γὰρ μόνον ἐφόνευε πολλούς, ἀλλὰ καὶ τιμωρίαις παρανόμοις ἐχρήσατο. καὶ τοὺς μὲν εἰς λέβητας ζέοντας, τοὺς δὲ εἰς τοὺς κρατῆρας τοῦ πυρὸς ἀπέστελλε, τοὺς δὲ καὶ εἰς χαλκοῦν ταῦρον ἐμβαλὼν κατέκαιεν. ὅνπερ ὁ δῆμος ἐτιμωρήσατο. ἐνέπρησε δὲ καὶ τὴν μητέρα καὶ τοὺς φίλους. μεθ’ ὃν Ἀλκαμένης παρέλαβε τὰ πράγματα, καὶ μετὰ τοῦτον Ἄλκανδρος προέστη, ἀνὴρ ἐπιεικής. καὶ εὐθένησαν οὕτως ὡς περιπόρφυρα ἔχειν ἱμάτια. 〈 Ἰθακησίω ν :〉 Κεφάλῳ μαντευσαμένῳ περὶ παίδων ὁ θεὸς εἶπεν, ᾧ ἂν ἐντύχῃ πρῶτον συγγενέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "τὸν δὲ περιτυχεῖν ἄρκῳ καὶ πλησιάσαντα γεννῆσαι γυναῖκα, ἐξ ἧς τὸν Ἀρκείσιον φερωνύμως ὀνομασθῆναι λέγεται. [Ἰθακησίων:] πορθμεὺς Πυρρίας ὄνομα λῃστὰς διεπόρθμευσε, πρεσβύτην αἰχμάλωτον καὶ πίτταν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "71",
+      "text": "καὶ ὠνεῖται ταῦτα παρὰ τῶν λῃστῶν, δεηθέντος τοῦ πρεσβύτου. ἦν δὲ ἐν τῇ πίττῃ κεκρυμμένον χρυσίον. πλουτήσας οὖν θῦσαι λέγεται τῷ πρεσβύτῃ βοῦν. διὸ καὶ εἰς παροιμίαν ἦλθεν, οὐδεὶς πώποτε εὐεργέτῃ βοῦν ἔθυσεν ἀλλ’ ἢ Πυρρίας. 〈 Ἀφυταίω ν :〉 Ἀφυταῖοι δικαίως καὶ σωφρόνως βιοῦσι, καὶ ἀλλοτρίων οὐ θιγγάνουσιν ἀνεῳγμένων τῶν θυρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": "φασὶ δέ ποτε ξένον πριάμενον οἶνον μὴ ἀναλαβεῖν ἐπείξαντος αὐτὸν τοῦ πλοῦ, καταλιπεῖν δὲ αὐτὸν ἐν τῇ ἀποστάσει οὐδενὶ παραδόντα, ὕστερον δὲ κατ’ ἄλλην ἐμπορίαν ἐλθόντα εὑρεῖν τοῦτον ἄθικτον. 〈 Ἰασέω ν :〉 τούτοις οὐκ ἐξῆν ἐν γάμῳ πλείους ἑστιᾶν ιʹ καὶ γυναικῶν ἴσων, οὐδὲ γάμον ποιεῖν πλεῖον ἡμερῶν βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "73",
+      "text": "ἐπεσκόπουν δὲ καὶ τοὺς ὀρφανοὺς ὅπως παιδεύωνται καὶ τὰς οὐσίας αὐτοῖς ἀπεδίδοσαν κʹ ἐτῶν γενομένοις. 〈 Ἰκαρίω ν :〉 Ἴκαρος ἡ νῆσος Ἰχθυοῦσα ἐκαλεῖτο διὰ τὸ κάλλος τῶν ἐν αὐτῇ γινομένων ἰχθύων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74",
+      "text": "πρὸς ἣν Ἴκαρος παρέβαλεν, ἀφ’ οὗ καὶ τοὔνομα ἔσχεν. ὁ δὲ μῦθος πτεροῖς αὐτὸν ἀπὸ Κρήτης φησὶν ἐλθεῖν. οἱ δὲ ἀποδράντα μετὰ τοῦ πατρὸς ἐπὶ τριήρους διὰ τὸ δεῖξαι τὴν εἰς τὸν λαβύρινθον εἴσοδον τῷ Θησεῖ. 〈 Ἀργιλίω ν :〉 ἄργιλον τὸν μῦν καλοῦσι Θρᾷκες, οὗ ὀφθέντος πόλιν κατὰ χρησμὸν ἔκτισαν καὶ Ἄργιλον ὠνόμασαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "76t",
+      "text": "〈 Θεσπιέω ν :〉 παρὰ Θεσπιεῦσιν αἰσχρὸν ἦν τέχνην μαθεῖν καὶ περὶ γεωργίαν διατρίβειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76",
+      "text": "καὶ διὰ τοῦτο πένητες οἱ πλείους ἦσαν καὶ Θηβαίοις οὖσι φειδωλοῖς πολλὰ ὤφειλον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lbs-ab",
+      "title": {
+        "english": "Historical Excerpts and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-lembus-historical-excerpts-lbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tba-ab",
+      "title": {
+        "english": "Fragments on Attila and the Huns",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀττίλα καὶ τῶν Οὔννων"
+      },
+      "url_slug": "priscus-of-panium-attila-huns-tba-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/priscus-of-panium/attila-huns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/attila-huns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/attila-huns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/attila-huns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/priscus-of-panium/attila-huns.json"
+      }
+    },
+    {
+      "eul_wid": "grc-aa",
+      "title": {
+        "english": "Fragments on Rhodes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥόδου"
+      },
+      "url_slug": "ergias-of-rhodes-fragments-grc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ergias-of-rhodes/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ergias-of-rhodes/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ergias-of-rhodes/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ergias-of-rhodes/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ergias-of-rhodes/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "nbg-aa",
+      "title": {
+        "english": "On Cleopatra's Banquet",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "socrates-of-rhodes-cleopatra-banquet-nbg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-of-rhodes/cleopatra-banquet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ac",
+      "title": {
+        "english": "On the Art of Horsemanship",
+        "ancient_greek": "Περὶ Ἱππικῆς"
+      },
+      "url_slug": "xenophon-of-athens-horsemanship-ezq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/horsemanship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.json"
+      }
+    },
+    {
+      "eul_wid": "mrg-aa",
+      "title": {
+        "english": "On the City of Thessalonica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lucius-licinius-lucullus-thessalonica-mrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucius-licinius-lucullus/thessalonica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.json"
+      }
+    },
+    {
+      "eul_wid": "gok-aa",
+      "title": {
+        "english": "Regional Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dercyllus-the-historian-regional-histories-myths-gok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.json"
+      }
+    },
+    {
+      "eul_wid": "csa-aa",
+      "title": {
+        "english": "Theban Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timagoras-of-athens-theban-myths-csa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timagoras-of-athens/theban-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens/theban-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens/theban-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens/theban-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagoras-of-athens/theban-myths.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/heraclides-lembus/constitutions",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

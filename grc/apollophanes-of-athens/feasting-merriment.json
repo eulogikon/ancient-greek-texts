@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eem-aa",
+  "eul_aid": "eem",
+  "author_slug": "apollophanes-of-athens",
+  "work_slug": "feasting-merriment",
+  "url_slug": "apollophanes-of-athens-feasting-merriment-eem-aa",
+  "author": {
+    "english": "Apollophanes of Athens ",
+    "ancient_greek": "Ἀπολλοφάνης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Feasting and Merriment",
+    "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας καὶ Εὐφροσύνης"
+  },
+  "seo": {
+    "browser_title": "Fragments on Feasting and Merriment Apollophanes eulogikon",
+    "meta_title": "Fragments on Feasting and Merriment by Apollophanes in Greek",
+    "meta_description": "Surviving comic fragments by Apollophanes of Athens on celebration and festivity. Read free and download in original ancient Greek text at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Feasting and Merriment</strong> is a modern assemblage of twelve surviving passages from the lost works of the Athenian comic poet Apollophanes. A contemporary of Aristophanes active in the late 5th century BCE, Apollophanes was a practitioner of Old Comedy, producing his first play in 414 BCE and achieving at least one victory at the Lenaean festival. The fragments are preserved exclusively through quotations by later authors, most notably the grammarian Athenaeus in his <strong>Deipnosophistae</strong>. While the exact content of the original work is unknown, its title and the conventions of the genre suggest it engaged with the symposiac culture of Athens, employing comic exaggeration to satirize gluttony, drunken excess, and the social behaviors associated with feasting and celebration. As with many fragmentary remains of minor comic poets, these passages offer valuable philological insights and contribute to a broader understanding of the thematic range and competitive environment of Old Comedy beyond its major surviving exponents.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "κρίνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "κύαθον λάβοιμι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τοῖς ὑπωπίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ἀδελφίζειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "πρώτιστα δὲ τῶν μυρρινῶν ἐπὶ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τράπεζαν βούλομαι, ἃς διαμασῶμ’ ὅταν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τι βουλεύειν δέῃ, τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.4",
+      "text": "φιβάλεως, τὰς πάνυ καλὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.5",
+      "text": "στεφανωτρίδας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "καὶ λεπαστά μ’ ἁδύοινος εὐφρανεῖ δι’ ἁμέρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Μυσικάρφης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "ὑπετέθυπτο",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eem-ab",
+      "title": {
+        "english": "Fragments on Banquets and Merriment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας"
+      },
+      "url_slug": "apollophanes-of-athens-banquets-merriment-eem-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-of-athens/banquets-merriment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfu-af",
+      "title": {
+        "english": "Comic Arguments",
+        "ancient_greek": "Κωμικοὶ Ἀγῶνες"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-arguments-kfu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/arguments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/arguments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/arguments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/arguments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/arguments.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ab",
+      "title": {
+        "english": "Comic Fragments on Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+      },
+      "url_slug": "cratinus-the-comic-poet-athenian-life-ab-czs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hdu-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-comic-fragments-hdu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jsi-ab",
+      "title": {
+        "english": "Fragments on Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας"
+      },
+      "url_slug": "phoenicides-the-comic-poet-feasting-jsi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.json"
+      }
+    },
+    {
+      "eul_wid": "hps-be",
+      "title": {
+        "english": "Fragments on Fortune and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τύχης καὶ Ἀφροσύνης"
+      },
+      "url_slug": "menander-of-athens-fortune-folly-hps-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/fortune-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.json"
+      }
+    },
+    {
+      "eul_wid": "jdi-ab",
+      "title": {
+        "english": "On Parasitic Dining",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasitic-dining-jdi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.json"
+      }
+    },
+    {
+      "eul_wid": "gpo-ab",
+      "title": {
+        "english": "Parasite's Shame",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dromo-comicus-parasites-shame-gpo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dromo-comicus/parasites-shame",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ao",
+      "title": {
+        "english": "Wealth",
+        "ancient_greek": "Πλοῦτος"
+      },
+      "url_slug": "aristophanes-of-athens-wealth-daw-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/apollophanes-of-athens/feasting-merriment",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

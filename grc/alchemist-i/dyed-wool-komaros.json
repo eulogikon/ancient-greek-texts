@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rrg-ah",
+  "eul_aid": "rrg",
+  "author_slug": "alchemist-i",
+  "work_slug": "dyed-wool-komaros",
+  "url_slug": "alchemist-i-dyed-wool-komaros-rrg-ah",
+  "author": {
+    "english": "Alchemist I",
+    "ancient_greek": "Χρυσοποιὸς Αʹ"
+  },
+  "title": {
+    "english": "On the Weight of Dyed Wool, Komaros, and Dye-waters",
+    "ancient_greek": "Πόσος ὁ τῶν βαπτομένων ἐρίων σταθμὸς ὤφειλεν καὶ"
+  },
+  "seo": {
+    "browser_title": "On Weight Dyed Wool, Komaros, and Dye-waters by Alchemist...",
+    "meta_title": "On the Weight of Dyed Wool, Komaros, and Dye-waters in Greek",
+    "meta_description": "This treatise examines the precise weights and measurements required for dyeing wool and preparing dye-waters in Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Weight of Dyed Wool, Komaros, and Dye-waters</strong> is a concise, technical treatise on alchemical dyeing, composed in Koine Greek. The work is anonymous, though it was traditionally ascribed to the philosopher Democritus to enhance its credibility, a conventional attribution strategy in ancient technical literature; modern scholarship consequently designates the author as Pseudo-Democritus. Likely dating from between the 1st and 3rd centuries CE, the text survives not as an independent document but as two brief excerpts incorporated into the larger alchemical compilation known as the <strong>Physika kai Mystika</strong>. The content is rigorously practical, offering specific instructions on the requisite weights and proportional relationships between dyed wool, a substance termed <strong>komaros</strong> (which remains unidentified), and the dye-baths or mordanting solutions. This focus on precise measurement typifies the early Greco-Egyptian alchemical tradition, which fused empirical craft knowledge from Egyptian workshops with Greek theoretical frameworks. The treatise appears designed for direct application in a workshop setting, possibly pertaining to the valuable craft of purple dyeing or analogous metallurgical processes where color transformation was paramount. Its preservation relies entirely on later Byzantine manuscripts that assembled ancient alchemical lore. As a component of the influential Pseudo-Democritus corpus, this work exemplifies the recipe-based, practical origins of alchemy, where techniques for dyeing textiles also provided a metaphorical language for the transmutation of metals.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2.374",
+      "text": "ΠΟΣΟΣ Ο ΤΩΝ ΒΑΠΤΟΜΕΝΩΝ ΕΡΙΩΝ ΣΤΑΘΜΟΣ ΩΦΕΙΛΕΝ, ΚΑΙ ΠΟΣΟΣ Ο ΤΗΣ ΚΟΜΑΡΕΩΣ, ΚΑΙ ΠΟΣΟΣ Ο ΤΩΝ ΒΕΒΑΜΜΕΝΩΝ ΥΔΑΤΩΝ Χρὴ μέντοι διπλάσιον εἶναι τὸν σταθμὸν τῶν ὑδάτων τοῦ σταθ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.374",
+      "text": "μοῦ τῶν ἐρίων· ἡ δὲ μνᾶ τῶν βεβαμμένων ὑδάτων δέχεται κομάρεως τὸ τριακοστόδυον, ὅπως κάλλιον πλεονάζῃ ἢ ἐλαττοῦσθαι τὸ βαπτόμενον τοῦ βαπτομένου. Μόνον γὰρ τὴν ἑαυτοῦ χρείαν τὸ βαπτόμενον· ἔνθεν οὐδὲ φέρειν ἐπίσταθμιν δέχεται βαφὴν ἀληθῆ, τουτέστιν ἄφευκτον:",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rrg-bq",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bq-rrg-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-br",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-br-rrg-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-br",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bs",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bs-rrg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bt",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bt-rrg-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bu",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bu-rrg-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bv",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bv-rrg-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bw",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bw-rrg-bw",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bx",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bx-rrg-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-cb",
+      "title": {
+        "english": "Alchemical Lexicon",
+        "ancient_greek": "Λεξικὸν κατὰ στοιχεῖον τῆς"
+      },
+      "url_slug": "alchemist-i-lexicon-rrg-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-by",
+      "title": {
+        "english": "Alchemical Treatise (Recension A)",
+        "ancient_greek": "Χημικὸν Σύγγραμμα"
+      },
+      "url_slug": "alchemist-i-treatise-by-rrg-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/treatise-by",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bz",
+      "title": {
+        "english": "Alchemical Treatise (Recension B)",
+        "ancient_greek": "Χημικὸν Σύγγραμμα"
+      },
+      "url_slug": "alchemist-i-treatise-bz-rrg-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/treatise-bz",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bl",
+      "title": {
+        "english": "Conclusion of the Poem",
+        "ancient_greek": "Συμπέρασμα τῆς ποιήσεως"
+      },
+      "url_slug": "alchemist-i-poem-conclusion-rrg-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/poem-conclusion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tyc-cd",
+      "title": {
+        "english": "Aerial Water",
+        "ancient_greek": "Τὸ ἀέριον ὕδωρ"
+      },
+      "url_slug": "zosimus-of-panopolis-aerial-water-tyc-cd",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/aerial-water",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/aerial-water.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/aerial-water.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/aerial-water.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/aerial-water.json"
+      }
+    },
+    {
+      "eul_wid": "lao-ab",
+      "title": {
+        "english": "Anaphoric",
+        "ancient_greek": "Ἀναφορικός"
+      },
+      "url_slug": "hypsicles-of-alexandria-anaphoric-lao-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypsicles-of-alexandria/anaphoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-ah",
+      "title": {
+        "english": "First Book of the Last Abstinence of Zosimus the Theban",
+        "ancient_greek": "Τὸ πρῶτον βιβλίον τῆς τελευταίας ἀποχῆς Ζωσίμου"
+      },
+      "url_slug": "zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-cl",
+      "title": {
+        "english": "On Causes",
+        "ancient_greek": "Περὶ αἰτιῶν"
+      },
+      "url_slug": "zosimus-of-panopolis-causes-tyc-cl",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/causes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/causes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/causes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/causes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/causes.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-cm",
+      "title": {
+        "english": "On Dyeing",
+        "ancient_greek": "Περὶ βαφῆς"
+      },
+      "url_slug": "zosimus-of-panopolis-dyeing-tyc-cm",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/dyeing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/dyeing.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/dyeing.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/dyeing.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/dyeing.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-cj",
+      "title": {
+        "english": "On Whitening",
+        "ancient_greek": "Περὶ λευκώσεως"
+      },
+      "url_slug": "zosimus-of-panopolis-whitening-cj-tyc-cj",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/whitening-cj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/whitening-cj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/whitening-cj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/whitening-cj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/whitening-cj.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-bk",
+      "title": {
+        "english": "On the Scale of Blondness",
+        "ancient_greek": "Περὶ σταθμοῦ ξανθώσεως"
+      },
+      "url_slug": "zosimus-of-panopolis-scale-blondness-tyc-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/scale-blondness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/scale-blondness.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/scale-blondness.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/scale-blondness.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/scale-blondness.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-ab",
+      "title": {
+        "english": "Zosimus-Instruments and Furnaces, Genuine Notes-the Omega Element",
+        "ancient_greek": "Ζωσίμου περὶ ὀργάνων καὶ καμίνων γνήσια ὑπομνήματα"
+      },
+      "url_slug": "zosimus-of-panopolis-instruments-furnaces-omega-ab-tyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/instruments-furnaces-omega-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/instruments-furnaces-omega-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/instruments-furnaces-omega-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/instruments-furnaces-omega-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/instruments-furnaces-omega-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alchemist-i/dyed-wool-komaros",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

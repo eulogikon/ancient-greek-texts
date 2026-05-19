@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lya-aa",
+  "eul_aid": "lya",
+  "author_slug": "crinis-the-stoic",
+  "work_slug": "logic-fragments",
+  "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
+  "author": {
+    "english": "Crinis the Stoic",
+    "ancient_greek": "Κρὶνις ὁ Στωϊκός"
+  },
+  "title": {
+    "english": "Fragments on Stoic Logic",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
+  },
+  "seo": {
+    "browser_title": "Fragments of Crinis the Stoic on Eulogikon Archive",
+    "meta_title": "Fragments on Stoic Logic by Crinis in Ancient Greek",
+    "meta_description": "Crinis the Stoic explores logical theory and dialectical methods in these Hellenistic philosophical fragments. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Stoic Logic represent the scant surviving evidence for the logical theories of Crinis, a Stoic philosopher active after Chrysippus. The work itself is lost, and its title is a modern descriptive label applied to a handful of fragmentary testimonia. These fragments are preserved primarily by the later Aristotelian commentator Alexander of Aphrodisias, who quoted them for the purpose of refutation in his work on Aristotle&#x27;s <strong>Prior Analytics</strong>. The excerpts focus on highly technical aspects of Stoic logical doctrine, including the detailed classification of propositions and the analysis of conditional statements, specifically those introduced by the connective &quot;since&quot; (ἐπεί). One fragment illustrates this with the example, &quot;since it is day, it is light,&quot; explaining that such a compound asserts both that the second clause follows from the first and that the first clause holds true. The citations by Alexander, writing centuries after Crinis, indicate that Crinis was considered a significant figure in the development of post-Chrysippean Stoic logic. Although his direct influence is otherwise obscure, these fragments remain a valuable, if limited, source for understanding the internal debates and scholastic refinements within the Stoic logical tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Arrianus Epictet. dissert. III 2, 15. ἄπελθε νῦν καὶ ἀναγίγνωσκε Ἀρχέδημον· εἶτα μῦς ἂν καταπέσῃ καὶ ψοφήσῃ, ἀπέθανες· τοιοῦτος γάρ σε μένει θάνατος, οἷος καὶ τὸν——τίνα ποτ’ ἐκεῖνον; —τὸν Κρῖνιν· καὶ ἐκεῖνος μέγα ἐφρόνει ὅτι ἐνόει Ἀρχέδημον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Diog. Laërt. VII 62. μερισμὸς δέ ἐστι γένους εἰς τόπους κατάταξις, ὡς ὁ Κρῖνις, οἷον „τῶν ἀγαθῶν τὰ μέν ἐστι περὶ ψυχήν, τὰ δὲ περὶ σῶμα.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Diog. Laërt. VII 68. Τῶν ἀξιωμάτων τὰ μέν ἐστιν ἁπλᾶ, τὰ δ’ οὐχ ἁπλᾶ, ὥς φασιν οἱ περὶ Χρύσιππον——καὶ Κρῖνιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Diocles Magnes apud Diog. Laërt. VII 71. παρασυνημμένον δέ ἐστιν, ὡς ὁ Κρίνις φησὶν ἐν τῇ διαλεκτικῇ τέχν ῃ, ἀξίωμα ὃ ὑπὸ τοῦ „ἐπεὶ“ συνδέσμου παρασυνῆπται, ἀρχόμενον ἀπ’ ἀξιώματος καὶ λῆγον εἰς ἀξίωμα, οἷον „ἐπεὶ ἡμέρα ἐστί, φῶς ἐστίν“. ἐπαγγέλλεται δὲ ὁ σύνδεσμος ἀκολουθεῖν τε τὸ δεύτερον τῷ πρώτῳ καὶ τὸ πρῶτον ὑφεστάναι. ibid. 74. παρασυνημμένον δὲ ἀληθὲς μέν ἐστιν ὃ ἀρχόμενον ἀπὸ ἀληθοῦς εἰς ἀκόλουθον λήγει, οἷον „ἐπεὶ ἡμέρα ἐστίν, ἥλιός ἐστιν ὑπὲρ γῆσ“. ψεῦδος δὲ 〈ὃ〉 ἣ ἀπὸ ψεύδους ἄρχεται ἢ μὴ εἰς ἀκόλουθον λήγει, οἷον „ἐπεὶ νύξ ἐστι, Δίων περιπατεῖ“ ἂν ἡμέρας οὔσης λέγηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Diocles Magnes apud Diog. Laërt. VII 76. λόγος δέ ἐστι, ὡς οἱ περὶ τὸν Κρίνιν φασί, τὸ συνεστηκὸς ἐκ λήμματος καὶ προσλήψεως καὶ ἐπιφορᾶς, οἷον ὁ τοιοῦτος „εἰ ἡμέρα ἐστί, ἡμέρα δέ ἐστι· φῶς ἄρα ἐστι“. λῆμμα μὲν γάρ ἐστι τὸ „εἰ ἡμέρα ἐστί, φῶς ἐστι“, πρόσληψις τὸ „ἡμέρα δέ ἐστιν“, ἐπιφορὰ δὲ τὸ „φῶς ἄρα ἐστί“. τρόπος δέ ἐστιν οἱονεὶ σχῆμα λόγου, οἷον ὁ τοιοῦτος „εἰ τὸ πρῶτον, τὸ δεύτερον· ἀλλὰ μὴν τὸ πρῶτον· τὸ ἄρα δεύτερον“. λογότροπος δέ ἐστι τὸ ἐξ ἀμφοτέρων σύνθετον, οἷον „εἰ ζῇ Πλάτων, ἀναπνεῖ Πλάτων· ἀλλὰ μὴν τὸ πρῶτον· τὸ ἄρα δεύτερον“ παρεισήχθη δὲ ὁ λογότροπος ὑπὲρ τοῦ ἐν ταῖς μακροτέραις συντάξεσι τῶν λόγων μηκέτι τὴν πρόσληψιν μακρὰν οὖσαν καὶ τὴν ἐπιφορὰν λέγειν, ἀλλὰ συντόμως ἐπενεγκεῖν „τὸ δὲ πρῶτον· τὸ ἄρα δεύτερον.“",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "lgs-aa",
+      "title": {
+        "english": "Commentary-Plato's Theaetetus",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Θεαίτητον τοῦ Πλάτωνος"
+      },
+      "url_slug": "anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-plato-theaetetus/theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.json"
+      }
+    },
+    {
+      "eul_wid": "iso-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.json"
+      }
+    },
+    {
+      "eul_wid": "bxq-aa",
+      "title": {
+        "english": "On the Form and Selection of Horses",
+        "ancient_greek": "Περὶ Μορφῆς καὶ Ἐκλογῆς Ἵππων"
+      },
+      "url_slug": "simon-of-athens-horses-form-selection-bxq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simon-of-athens/horses-form-selection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simon-of-athens/horses-form-selection.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bg",
+      "title": {
+        "english": "On the Peace of Valens",
+        "ancient_greek": "Ἐπὶ τῆς εἰρήνης Οὐάλεντι"
+      },
+      "url_slug": "themistius-peace-valens-rye-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/peace-valens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/peace-valens.json"
+      }
+    },
+    {
+      "eul_wid": "bzo-aa",
+      "title": {
+        "english": "Pirithous, Fragments",
+        "ancient_greek": "Πειρίθους Ἀποσπάσματα"
+      },
+      "url_slug": "critias-of-athens-pirithous-bzo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/critias-of-athens/pirithous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/pirithous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/pirithous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/pirithous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/pirithous.json"
+      }
+    },
+    {
+      "eul_wid": "udm-al",
+      "title": {
+        "english": "Sentences Leading to Intelligibles",
+        "ancient_greek": "Ἀποφθέγματα πρὸς Νοητά"
+      },
+      "url_slug": "porphyry-of-tyre-intelligibles-udm-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/intelligibles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.json"
+      }
+    },
+    {
+      "eul_wid": "byu-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "democritus-of-abdera-testimonies-byu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/democritus-of-abdera/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-abdera/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

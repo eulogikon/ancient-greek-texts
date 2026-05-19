@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kiw",
+  "auth_slug": "phillis-of-delos",
+  "name": {
+    "english": "Phillis of Delos",
+    "ancient_greek": "Φιλλὶς ἡ Δηλία (ἱστορικός)"
+  },
+  "seo_h1": "Phillis of Delos on Music and Chronology",
+  "seo": {
+    "browser_title": "Phillis of Delos on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Phillis of Delos Ancient Greek Historical Works",
+    "meta_description": "Phillis of Delos was a Hellenistic historian. Her surviving historical works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phillis of Delos is identified as a historian of the 4th–3rd century BCE Hellenistic period. No biographical details survive. The attribution of a female historian from this era is exceptionally rare in the extant record. Her association with Delos places her at a significant religious and commercial center in the Aegean.</p>\n<p class=\"research-text\">A single prose work in the Koine dialect is attributed to Phillis, but its title is unknown. No major scholarly reference work contains an entry or mention of this historian.</p>\n<p class=\"research-text\">The complete absence from standard reference sources precludes any assessment of historical significance or influence. The attribution may derive from a minor or fragmentary source not covered by these resources.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kiw-aa",
+      "title": {
+        "english": "On Music and Chronology",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phillis-of-delos-music-chronology-kiw-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/phillis-of-delos/music-chronology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phillis-of-delos/music-chronology.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phillis-of-delos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phillis-of-delos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phillis-of-delos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phillis-of-delos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phillis-of-delos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ilg",
+  "auth_slug": "sosipater-the-comic-poet",
+  "name": {
+    "english": "Sosipater the Comic Poet",
+    "ancient_greek": "Σωσίπατρος ὁ Κωμικός"
+  },
+  "seo_h1": "Sosipater the Comic Poet on the Art of Cooking",
+  "seo": {
+    "browser_title": "Sosipater the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Sosipater the Comic Poet Ancient Greek Comedy",
+    "meta_description": "Sosipater was a Hellenistic Greek comic poet of the 2nd century BCE. Two surviving works are preserved as fragments. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sosipater was a Greek comic poet of the Hellenistic period, likely active in the 2nd century BCE. According to the Byzantine encyclopedia known as the Suda, he was a native of Sicyon. He worked within the tradition of New Comedy, which emphasized everyday social situations and character types.</p>\n<p class=\"research-text\">Only fragments of his work survive. The Suda records the titles of two lost comedies: <strong>The Miser</strong> and <strong>The Peloponnesians</strong>. Quotations from his plays are preserved by the later writer Athenaeus, who cites them for their descriptions of food, dining customs, and social interactions. These fragments are typical of New Comedy in their focus on domestic and culinary themes.</p>\n<p class=\"research-text\">Sosipater is considered a minor figure in the history of ancient Greek comedy, representing the generation of playwrights who followed the more famous Menander. His few surviving fragments are valued by scholars for the insight they provide into the language, style, and popular interests of Hellenistic comedy after its classical peak. His work survives primarily because it was excerpted by later anthologists and grammarians interested in preserving details of ancient daily life.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ilg-aa",
+      "title": {
+        "english": "Cook's Profession",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sosipater-the-comic-poet-cooks-profession-ilg-aa",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/sosipater-the-comic-poet/cooks-profession",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooks-profession.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooks-profession.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooks-profession.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooks-profession.json"
+      }
+    },
+    {
+      "eul_wid": "ilg-ab",
+      "title": {
+        "english": "On the Art of Cooking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sosipater-the-comic-poet-cooking-ilg-ab",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/sosipater-the-comic-poet/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sosipater-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosipater-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosipater-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosipater-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sosipater-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

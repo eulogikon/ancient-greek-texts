@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gek",
+  "auth_slug": "scamon-of-mytilene",
+  "name": {
+    "english": "Scamon of Mytilene",
+    "ancient_greek": "Σκάμων ὁ Μυτιληναῖος"
+  },
+  "seo_h1": "Scamon of Mytilene on Inventions and Discoveries",
+  "seo": {
+    "browser_title": "Scamon of Mytilene Ancient Greek Works on Eulogikon Archive",
+    "meta_title": "Classical Scamon of Mytilene Ancient Greek Historical Works",
+    "meta_description": "Scamon of Mytilene was a classical Greek historian writing in the Aeolic dialect. His works survive in fragments. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Scamon of Mytilene is an obscure historian from the island of Lesbos. His chronology is uncertain, with suggested dates ranging from the 4th to the 2nd century BCE. The sole surviving testimony comes from Athenaeus of Naucratis, who cites him in the Deipnosophistae. No further biographical details are recorded.</p>\n<p class=\"research-text\">Scamon is known for a single work: On Inventions. This text is lost, surviving only in fragments preserved by Athenaeus. It treated the origins of cultural practices and myths pertaining to the Aeolic Greek world, particularly Lesbos.</p>\n<p class=\"research-text\">Scamon’s significance rests on his role as a fragmentary local historian of Lesbos. His work represents the genre of writings on inventions. The cited fragments provide minor insights into regional lore and are primarily of interest to specialists in Greek historiography and local mythography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gek-aa",
+      "title": {
+        "english": "On Inventions and Discoveries",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "scamon-of-mytilene-inventions-discoveries-gek-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/scamon-of-mytilene/inventions-discoveries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scamon-of-mytilene/inventions-discoveries.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/scamon-of-mytilene",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scamon-of-mytilene.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scamon-of-mytilene.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scamon-of-mytilene.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scamon-of-mytilene.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

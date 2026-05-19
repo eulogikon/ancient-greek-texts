@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kak-aa",
+  "eul_aid": "kak",
+  "author_slug": "boeus-the-epic-poet",
+  "work_slug": "pandareus-myth",
+  "url_slug": "boeus-the-epic-poet-pandareus-myth-kak-aa",
+  "author": {
+    "english": "Boeus the Epic Poet",
+    "ancient_greek": "Βοῖος ὁ ἐποποιός"
+  },
+  "title": {
+    "english": "Fragments of the Pandareus Myth",
+    "ancient_greek": "Ἀποσπάσματα τοῦ Πανδάρεω Μύθου"
+  },
+  "seo": {
+    "browser_title": "Fragments of the Pandareus Myth by Boeus on Eulogikon",
+    "meta_title": "Fragments of the Pandareus Myth by Boeus in Ancient Greek",
+    "meta_description": "Surviving fragments of the Pandareus myth by Boeus. A window into a lost epic tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments of the Pandareus Myth are remnants of epic poetry attributed to the Hellenistic poet Boeus. Preserved primarily through later mythographical sources, the most substantial fragment is recorded by Antoninus Liberalis. It recounts a Cretan version of the myth involving Pandareus, a son of Merops. The narrative details how Pandareus committed sacrilege by stealing a golden dog from a temple of Zeus on Crete. As punishment for this theft, Zeus transformed him into stone. The fragment further relates the fate of Pandareus&#x27;s daughters, Aëdon and Chelidon, who were turned into birds—a nightingale and a swallow, respectively—by the gods, an act intended for their salvation. This etiological focus on avian metamorphosis aligns with Boeus&#x27;s apparent interest in cataloguing myths of transformation, a genre sometimes referred to as <strong>Ornithogonia</strong>. The work has no independent manuscript tradition and survives solely in such citations. Its significance lies in preserving a local variant of the Pandareus story, which differs notably from its brief Homeric counterpart, and in exemplifying the Hellenistic scholarly impulse to systematically compile and explain mythological and natural phenomena.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ἐκ δὲ θαλάσσης κῆτος ἐφώρμησεν ἔφερεν σχοίνους καὶ ἀκάνθας ἐπεὶ ἠρώησεν ὁ χῶρος 〈ὅταν〉 ἵππου φωνοῦντος ἀκούσῃ φεύγει ἐγένετο δὲ Πανδαρέῳ θυγάτηρ Ἀηδών· ταύτην Πολύτεχνος ὁ τέκτων ἔγημεν, ἄχρι μὲν οὖν θεοὺς ἐτίμων, εὐδαίμονες ἦσαν· ἐπεὶ δὲ λόγον ἀχρεῖον ἀπέρριψαν κτλ. κἀκ τῆς κεφαλῆς ἀπέκειρε τὴν κόμην καὶ ἀφύκτῳ δεσμῷ ἔδησαν Ζεὺς δὲ κεραυνὸν βροντήσας ἀνέτεινε τὴν κεφαλὴν ἴσχουσα κάτω, νυκτὸς φθεγγομένη σίτου ἄτερ τε ποτοῦ τε ηὔξατο μὴ κακὸς ὄρνις ἀνθρώποισι γενέσθαι αἰεὶ μελετᾷ δὲ πέτεσθαι Κόων Μεροπηίδα νῆσον",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "aaa-aa",
+      "title": {
+        "english": "Corinthian Matters",
+        "ancient_greek": "Κορινθιακὰ Πράγματα"
+      },
+      "url_slug": "eumelus-of-corinth-matters-aaa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/matters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.json"
+      }
+    },
+    {
+      "eul_wid": "bok-aa",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+      },
+      "url_slug": "panyassis-of-halicarnassus-epic-fragments-aa-bok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "jxs-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "diotimus-of-adramyttium-epigrams-jxs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diotimus-of-adramyttium/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotimus-of-adramyttium/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "ica-aa",
+      "title": {
+        "english": "Fragments on Zeus and Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου"
+      },
+      "url_slug": "moero-of-byzantium-zeus-dionysus-ica-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/zeus-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "bbi-aa",
+      "title": {
+        "english": "Minyas Fragments",
+        "ancient_greek": "Μινύου Ἀποσπάσματα"
+      },
+      "url_slug": "minyas-the-epic-poet-fragments-bbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/minyas-the-epic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/minyas-the-epic-poet/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "abe-ab",
+      "title": {
+        "english": "Odyssey",
+        "ancient_greek": "Ὀδύσσεια"
+      },
+      "url_slug": "homer-odyssey-abe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.json"
+      }
+    },
+    {
+      "eul_wid": "axw-aa",
+      "title": {
+        "english": "Phoronis, Fragments",
+        "ancient_greek": "Φορωνίς"
+      },
+      "url_slug": "phoronis-fragments-axw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoronis/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ag",
+      "title": {
+        "english": "Theogony",
+        "ancient_greek": "Θεογονία"
+      },
+      "url_slug": "hesiod-theogony-aau-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/boeus-the-epic-poet/pandareus-myth",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeus-the-epic-poet/pandareus-myth.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

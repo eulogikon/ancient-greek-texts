@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mks-aa",
+  "eul_aid": "mks",
+  "author_slug": "antileon-the-historian",
+  "work_slug": "chronicles-time",
+  "url_slug": "antileon-the-historian-chronicles-time-mks-aa",
+  "author": {
+    "english": "Antileon the Historian",
+    "ancient_greek": "Ἀντιλέων ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Chronicles of Time",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Antileon the Historian on Eulogikon",
+    "meta_title": "Chronicles of Time by Antileon the Historian in Greek",
+    "meta_description": "Surviving fragments from Antileon's historical work Chronicles of Time preserved in later sources. Important source for ancient chronology Persian history."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">No historical work titled Chronicles of Time attributed to an author named Antileon the Historian is attested in standard scholarly sources. The name Antileon is known from other contexts, such as a sixth-century BCE tyrant of Chalcis and a Pythagorean from Metapontum, but neither figure is linked to this text. The description of the work as comprising four passages suggests it is considered a fragmentary compilation. The purported content, themes, and historical scope of the Chronicles of Time are undocumented. There is no record of its manuscript tradition, means of preservation, or citation by later authors, and its survival status is unknown. Consequently, the work holds no established position in the corpus of ancient Greek historiography due to the complete absence of corroborating evidence or references in authoritative sources.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΧΡΟΝΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "Diogen. Laert. III, 3, de Platone: Ἦν δὲ τὸν δῆμον Κολλυτεὺς, ὥς φησιν Ἀντιλέων ἐν δευτέρῳ Περὶ χρόνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Pollux II, 4, 151: Μακρόχει ρ , ὡς ὁ Ὑστάσπου Δαρεῖος, κατὰ τὸν Πολύκλειτον, ἢ ὡς Ξέρξης, κατὰ Ἀντιλέοντα, ἢ Ὦχος ὁ ἐπικληθεὶς Ἀρταξέρξης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rjy-ab",
+      "title": {
+        "english": "Cesti, Fragments",
+        "ancient_greek": "Κέστοι"
+      },
+      "url_slug": "sextus-julius-africanus-cesti-rjy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-julius-africanus/cesti",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.json"
+      }
+    },
+    {
+      "eul_wid": "fbe-ab",
+      "title": {
+        "english": "Fragments on Homer's Origins",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὁμήρου Γενέσεως"
+      },
+      "url_slug": "ephorus-of-cyme-homer-origins-fbe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/homer-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.json"
+      }
+    },
+    {
+      "eul_wid": "fau-aa",
+      "title": {
+        "english": "Fragments on Spartan Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν"
+      },
+      "url_slug": "aristocrates-of-sparta-customs-fau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocrates-of-sparta/customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.json"
+      }
+    },
+    {
+      "eul_wid": "jgk-aa",
+      "title": {
+        "english": "Fragments on the First Punic War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Πρώτου Πολεμικοῦ Πολέμου"
+      },
+      "url_slug": "philinus-of-acragas-first-punic-war-jgk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philinus-of-acragas/first-punic-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.json"
+      }
+    },
+    {
+      "eul_wid": "elu-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "herodotus-of-halicarnassus-histories-elu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodotus-of-halicarnassus/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus/histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus/histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus/histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodotus-of-halicarnassus/histories.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bi",
+      "title": {
+        "english": "On Hannibal",
+        "ancient_greek": "Περὶ Ἁννίβα"
+      },
+      "url_slug": "historical-fragments-anonymous-hannibal-mmg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/hannibal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.json"
+      }
+    },
+    {
+      "eul_wid": "cdk-aa",
+      "title": {
+        "english": "On Rhodian Sacrifices",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "gorgon-the-historian-rhodian-sacrifices-cdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.json"
+      }
+    },
+    {
+      "eul_wid": "bpo-aa",
+      "title": {
+        "english": "Persian and Greek Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "charon-of-lampsacus-persian-greek-histories-bpo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/charon-of-lampsacus/persian-greek-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antileon-the-historian/chronicles-time",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

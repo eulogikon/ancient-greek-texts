@@ -1,0 +1,337 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vbs-ab",
+  "eul_aid": "vbs",
+  "author_slug": "cyril-of-scythopolis",
+  "work_slug": "theodosius",
+  "url_slug": "cyril-of-scythopolis-theodosius-vbs-ab",
+  "author": {
+    "english": "Cyril of Scythopolis",
+    "ancient_greek": "Κύριλλος ὁ Σκυθοπολίτης"
+  },
+  "title": {
+    "english": "Life of Theodosius",
+    "ancient_greek": "Βίος Θεοδοσίου"
+  },
+  "seo": {
+    "browser_title": "Life of Theodosius by Cyril of Scythopolis on Eulogikon",
+    "meta_title": "Life of Theodosius by Cyril of Scythopolis in Greek",
+    "meta_description": "The Life of Theodosius is a biography of 5th-century monastic saint Theodosius Cenobiarch. It details his ascetic life role in Palestinian monasticism."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Life of Theodosius is a sixth-century hagiographical work composed in Koine Greek by the monk Cyril of Scythopolis. It details the life of Saint Theodosius the Cenobiarch, a major monastic founder who lived from approximately 423 to 529 CE and established an influential communal monastery near Bethlehem in Palestine. The biography is organized into seven sections, tracing Theodosius&#x27;s Cappadocian origins, his early religious education, his journey to Jerusalem, and his subsequent ascetic career. It emphasizes his role in organizing and promoting the coenobitic, or communal, model of monastic life, his renowned acts of charity, and the miracles attributed to him. A significant portion of the narrative is devoted to Theodosius&#x27;s vigorous defense of the Chalcedonian doctrine of Christ&#x27;s two natures against the Monophysite policies of Emperor Anastasius I, a conflict that resulted in the saint&#x27;s temporary exile.</p>\n<p class=\"research-text\">The work functions simultaneously as a record of a pivotal monastic leader, a promotion of the cenobitic ideal, and a polemical text reinforcing orthodox theological identity following the intense Christological controversies of the fifth and sixth centuries. It was likely composed for a monastic readership, offering an edifying model of sanctity that combined severe asceticism, practical administration, charitable works, and steadfast doctrinal resistance. The Life of Theodosius survives as an integral part of Cyril&#x27;s larger collection, The Lives of the Monks of Palestine, and is preserved in Greek manuscripts such as the tenth-century Codex Atheniensis 1015. It remains an essential primary source for the study of early Byzantine monasticism, providing invaluable insights into the religious, social, and institutional history of sixth-century Palestine.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[5]",
+      "text": "ΚΥΡΙΛΛΟΥ ΜΟΝΑΧΟΥ ΚΑΙ ΠΡΕΣΒΥΤΕΡΟΥ ΠΕΡΙ ΤΟΥ ΒΙΟΥ ΤΟΥ ΕΝ ΑΓΙΟΙΣ ΘΕΟΔΟΣΙΟΥ Θεοδόσιος ὁ ἀξιομακάριστος καὶ οὐρανοπολίτης, τὸ μέγα κλέος τῆς Παλαιστίνης καὶ τῆς ἐρήμου τὸ καύχημα καὶ τοῦ μοναχικοῦ σχήματος τὸ στήριγμα καὶ τῶν ὀρθῶν δογμάτων ὁ στρατηγὸς καὶ ὑπέρμαχος καὶ τοῦ κοινοβιακοῦ κανόνος ὁ ὁδηγὸς καὶ προστάτης πατρίδος μὲν ὑπῆρχεν τῆς Καππαδοκῶν χώρας ἀπὸ κώμης Μωγαριασσοῦ καλουμένης ὑπὸ μὲν τὴν Καισαρέων πόλιν τελούσης, οὐ μακρὰν δὲ τῆς Κομάνων πόλεως τῆς λεγομένης χρυσῆς διακειμένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "236",
+      "text": "ὅθεν καὶ τῆς Κομάνων αὐτῆς ἁγίας ἐκκλησίας ψάλτης χρησιμώτατος γέγονεν ἐκ παιδὸς καὶ τὸν ἐκκλησιαστικὸν κανόνα ἀκριβῶς ἐξεπαιδεύθη καὶ ἐξέμαθεν τό τε ψαλτήριον καὶ τὰς λοιπὰς θείας γραφάς. ἐντεῦθεν θείαι κρατηθεὶς κατανύξει τε καὶ ἐπιθυμίαι ἦλθεν εἰς τὰ Ἱεροσόλυμα ἐπὶ τῆς βασιλείας Μαρκιανοῦ τοῦ θεοφιλοῦς βουλόμενος ἐν τῆι κατ’ αὐτὴν ἡσυχάσαι ἐρήμωι καὶ δεξιοῦται ἐν τῶι πύργωι τοῦ Δαυὶδ παρὰ Λογγίνωι τινὶ γέροντι Καππαδόκηι τοῦ τάγματος ὄντι τῶν σπουδαίων τῆς ἁγίας Χριστοῦ τοῦ θεοῦ ἡμῶν Ἀναστάσεως. τοῦ δὲ Θεοδοσίου βουληθέντος ἔν τινι τῶν κατὰ τὴν ἔρημον μοναστηρίων ἀναχωρῆσαι, ἐραστοῦ αὐτοῦ ὄντος τῆς ἡσυχίας καὶ τὸν τοῦ θεοῦ φόβον ὡσεὶ περιβόλαιον ἠμφιεσμένου ὁ μακάριος Λογγῖνος οὐ συνεχώρησεν διὰ τὸ σχίσμα τὸ τῶν κατὰ τὴν ἔρημον μοναχῶν τῆι καθολικῆι μὴ κοινωνούντων ἐκκλησίαι, ἀλλὰ τῆι Εὐτυχοῦς καὶ Διοσκόρου ὑπαγομένων φιλονεικίαι τε καὶ κακοδοξίαι· ἀλλὰ λαβὼν αὐτὸν τῆι μακαρίαι καὶ ἐν ἁγίοις παρέθετο Ἱκελίαι τὴν τοῦ Καθίσματος τῆς θεοτόκου ἐκκλησίαν τὸ τηνικαῦτα οἰκοδομούσηι ὡς δυνάμενον χρησιμεῦσαι αὐτῆι ἔν τε τῶι ἐκκλησιαστικῶι κανόνι καὶ ἐν ταῖς λοιπαῖς διακονίαις. αὕτη δὲ τότε ἡ μακαρία Ἱκελία πᾶσαν εὐσεβείας ὁδὸν ἐξασκήσασα κατέδειξεν ἐν πρώτοις μετὰ κηρίων γίνεσθαι τὴν ὑπαπάντησιν τοῦ σωτῆρος ἡμῶν θεοῦ. ἥτις τὸν ἱερὸν τοῦτον νεανίαν δεξαμένη Θεοδόσιον καὶ ψάλτην εὐφυέστατον αὐτὸν εὑροῦσα ἐνκαταλέγει τῶι τάγματι τῶν αὐτόθι ὑπ’ αὐτὴν σπουδαίων εὐλαβῶν ὄντων· χρόνου δέ τινος διελθόντος καὶ τῆς μακαρίας τελειωθείσης Ἱκελίας ἐγχειρίζεται αὐτὸς τὴν τοῦ τόπου οἰκονομίαν. καὶ ταύτην αὐτοῦ ἀμέμπτως ἐκτελοῦντος συνέβη τελευτῆσαι τὸν τοῦ τόπου ἡγούμενον καὶ ψηφίζονται συμφώνως ἅπαντες Θεοδόσιον τῆς τοῦ Καθίσματος ἐκκλησίας ἡγούμενον· αὐτὸς δὲ γνοὺς καὶ τὸν τῆς ἀρχῆς κίνδυνον ὑφορώμενος φυγὰς ὤιχετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "237",
+      "text": "καὶ πρῶτον μὲν ἔρχεται εἰς τοὺς περὶ τὰ Μέτωπα τόπους πρός τε τὸν μακαρίτην Μαρῖνον τὸν ἀναχωρητὴν καὶ πρὸς τὸν ἀββᾶν Λουκᾶν τὸν Μετωπινὸν καὶ τὸν τῆς ἐρήμου κανόνα παρ’ αὐτῶν ἐκμανθάνει, οὕστινας ἐν πρώτοις ὁ ἐν ἁγίοις Εὐθύμιος τὴν μοναχικὴν ἐπαίδευσεν ἀκρίβειαν. τούτοις οὖν ἐπὶ χρόνους τινὰς προσκαρτερήσας ὁ ἀββᾶς Θεοδόσιος ἦλθεν εἰς τὴν κορυφήν, ἐν ἧι νῦν σὺν θεῶι ἵδρυται ἡ ἁγία αὐτοῦ μονὴ ἀπὸ ἓξ σημείων τῆς ἁγίας πόλεως ἑστηκυῖα, καὶ ἔμεινεν αὐτόθι ἐν σπηλαίωι, ἐν ὧι νῦν τὸ τίμιον αὐτοῦ λείψανον κατάκειται, βοτάναις αὐτομάτοις ἀρκούμενος. ἔπειτα δὲ δεξάμενος τινὰ μαθητὴν τοιαύτην ἐπαίδευσεν σκληραγωγίαν. ὅντινα μαθητὴν ποτὲ εὑρὼν κύθραν καὶ κουκκούμιν περιποιησάμενον ἐδίωξεν εἰπών· εἰ ὅλως ἑψητὸν βούληι ἐσθίειν, συνμεῖναί μοι ἀδυνατεῖς σκληροτέραν ἔχοντι διαγωγήν. ὃ δὲ διωχθεὶς τῶι ἐν ἁγίοις προσφεύγει Μαρκιανῶι τῶι ἀνωτέρω μνημονευθέντι περὶ τὴν ἁγίαν κοινοβιαρχοῦντι Βηθλεέμ. ὁ δὲ μέγας ἐκεῖνος Μαρκιανὸς μεταπεμφθέντι τῶι ἀββᾶι Θεοδοσίωι ὑπ’ αὐτοῦ ἔλεγεν· σὺ ἀδελφὸν κύθραν περιποιησάμενον ἐδίωξας· ἰδοὺ ἡμέραι ἔρχονται, λέγει κύριος, ἐν αἷς ἐπὶ ἀναφορεῦσιν βασταχθήσονται τὰ χαλκία τοῦ μοναστηρίου σου. οὐ γὰρ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμέν η· καὶ σὲ τοίνυν τὸν κεκρυμμένον πᾶσιν περιφανῆ ποιήσει ὁ θεὸς καὶ κατάδηλον. ἥτις προφητεία οὐ διήμαρτεν, ὡς πρόδηλον τοῖς πᾶσιν καθέστηκεν· εὐδοκίαι γὰρ τοῦ θεοῦ καὶ πατρὸς καὶ συνεργείαι τοῦ Χριστοῦ καὶ ἐμπνεύσει τοῦ ἁγίου πνεύματος κοινόβιον μέγα τε καὶ πολυάνθρωπον αὐτόθι συνεστήσατο πάντων ὑπερέχον καὶ προκαθεζόμενον τῶν ἐν πάσηι τῆι Παλαιστίνηι κοινοβίων. ὅτι δὲ εὐδοκίαι καὶ συνεργείαι τοῦ θεοῦ καὶ οὐκ ἐξ ἀνθρωπίνης σπουδῆς τὸ τοῦ ἀββᾶ Θεοδοσίου συνέστη κοινόβιον, δι’ ὀλίγων ἀποδεῖξαι πειράσομαι. Αὐτοῦ γὰρ κεκρυμμένου ἐν τῶι σπηλαίωι, ὡς εἴρηται, ἐν πολλῆι ἑκουσίωι πτωχείαι καὶ βοτάναις ἀρκουμένου καὶ μόνηι τῆι προσευχῆι προσκαρτεροῦντος ἀνήρ τις ἀπὸ τοῦ Βυζαντίου ἐλθὼν φιλόχριστος, ἰλλουστρίου μὲν ἀξιώματι τετιμημένος, Ἀκάκιος δὲ προσαγορευόμενος, ἀκούσας περὶ τῆς τούτου ἀρετῆς καὶ τῆς τῶν καλῶν μαργαριτῶν κτήσεως ὑπάρχων ἐπιθυμητὴς κατὰ τὸ εὐαγγέλιον ἦλθεν πρὸς αὐτὸν ἐν τῶι εἰρημένωι σπηλαίωι καὶ προσκυνήσας αὐτὸν ἐκάθισεν τῆς αὐτοῦ νουθεσίας καὶ διδασκαλίας ἀκούων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "238",
+      "text": "καὶ γνοὺς αὐτὸν μὴ ἀνέχεσθαί τί ποτε λαμβάνειν παρά τινος, κόδριν ἑκατὸν νομισμάτων ἀσυμφώνως καταχωννύει ἐν τῶι σπηλαίωι καὶ οὕτως ἀσπασάμενος αὐτὸν ἐξῆλθεν. ὅστις καὶ ἐν τῶι Βυζαντίωι ἀπελθὼν ἔμεινεν ἐπὶ χρόνον πολὺν τακτήν τινα εὐλογίαν ἀποστέλλων ἐν χρυσῶι καθ’ ἕκαστον ἐνιαυτὸν τῶι μακαρίτηι Θεοδοσίωι. καὶ τοῦτο μὲν Ἀκάκιος· ὁ δὲ μέγας Θεοδόσιος μετὰ τὴν τοῦ ἰλλουστρίου ἀναχώρησιν τῆι ἑξῆς ἐν τῶι σπηλαίωι κεκρυμμένον εὑρὼν τὸ ῥηθὲν χρυσίον κτίζει ἐν πρώτοις ὑπεράνω τοῦ σπηλαίου ξενοδοχεῖον καὶ ἐδεξιοῦτο πάντα ἐρχόμενον πρὸς αὐτόν· ἀγοράζει δὲ δύο μικρὰ ὀνάρια καὶ δι’ ἑαυτοῦ ἀπήρχετο καὶ τὴν σωματικὴν χρείαν ἀπεκόμιζεν. ἐντεῦθεν ἀρχὴν ἐποιήσατο συνιστᾶν τὸ ἑαυτοῦ κοινόβιον καὶ ἀπὸ τότε ἤρξαντο πολλοὶ προστρέχειν αὐτῶι παρακαλοῦντες συνοικῆσαι αὐτῶι, καὶ αὐτὸς δεχόμενος αὐτοὺς ὡδήγει πρὸς τὸ τέλειον θέλημα τοῦ θεοῦ καὶ συνήργει αὐτῶι εἰς πάντα ὁ θεός, καὶ ἦν ἀνὴρ ἐπιτυγχάνων καθάπερ ἐπὶ τοῦ Ἰωσὴφ ἠκούσαμεν. Λέγεται δὲ περὶ αὐτοῦ ὅτι τρία ἐξαίρετα ἐκέκτητο κατορθώματα, ἀκριβεστάτην ἄσκησιν μετὰ πίστεως ἀληθοῦς καὶ ὀρθοδόξου ἀπὸ νεότητος μέχρι γήρους παραμείνασαν καὶ τὴν πρὸς τοὺς ξένους καὶ πτωχοὺς δαψιλῆ καὶ ἀπροσωπόληπτον φιλοφροσύνην καί, τὸ τρίτον, τὸ τῆς θείας λειτουργίας σύντονον, μικροῦ δεῖν καὶ ἄπαυστον. ἐν τούτοις τοίνυν καὶ τοῖς τοιούτοις ἀνδραγαθήμασί τε καὶ ἀγωνίσμασιν διαπρέπων ὁ μέγας οὗτος Θεοδόσιος καὶ τοῦ ἐν ἁγίοις ἀββᾶ Μαρκιανοῦ ἐν Χριστῶι κοιμηθέντος πάντες οἱ τῆς ἐρήμου μοναχοὶ συναθροισθέντες παρὰ τῶι πατριάρχηι Σαλουστίωι ἀρρωστοῦντι καὶ μιᾶς γνώμης γεγονότες κοινῆι ψήφωι προεβάλοντο τὸν μέγαν τοῦτον Θεοδόσιον ἀρχιμανδρίτην τῶν ὑπὸ τὴν ἁγίαν πόλιν κοινοβίων εἰς τὸν τόπον τοῦ κατὰ τὴν μακαρίαν Μελάνην Γεροντίου, δευτερεύοντα αὐτοῦ καταστήσαντες τὸν ἐν ἁγίοις Παῦλον τὸν τῆς μονῆς τοῦ ἀββᾶ Μαρτυρίου ἡγούμενον· εἰς τὸν τόπον δὲ τῶν μακαρίων πατέρων Πασσαρίωνος καὶ Ἐλπιδίου κατέστησαν τὸν ἐν ἁγίοις πατέρα ἡμῶν Σάβαν ἀρχιμανδρίτην τε καὶ νομοθέτην πάντων τῶν ὑπὸ Παλαιστίνην λαυρῶν τε καὶ ἀναχωρητῶν καὶ δευτερεύοντα αὐτοῦ τὸν μακαρίτην Εὐγένιον τὸν τῆς λαύρας τοῦ ἐν ἁγίοις ἀββᾶ Γερασίμου ἡγούμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "239",
+      "text": "Ὁ μὲν οὖν θεοφόρος ἀββᾶς Θεοδόσιος προβαίνων τοῖς κατὰ θεὸν πλεονεκτήμασι μέγας ἐγένετο. περὶ οὗ τί χρὴ πολλὰ λέγειν; ἱκανὴ γάρ ἐστιν τὰς αὐτοῦ ἀρετὰς ἀνακηρύττειν ἥ τε κατὰ θεὸν διαγωγὴ καὶ ἡ πνευματικὴ κατάστασις τῆς αὐτοῦ εὐαγεστάτης καὶ περιφανεστάτης μονῆς πλὴν ὅτι καὶ ὁ τιμιώτατος Θεόδωρος ὁ ὁσιώτατος τῆς Πετραίων πόλεως ἐπίσκοπος φοιτητὴς αὐτοῦ γεγονὼς καὶ τοῖς μοναχικοῖς καὶ ἀρχιερατικοῖς κατορθώμασι διαπρέπων σαφῶς καὶ ἀκριβῶς τὰ κατὰ τὸν θεάρεστον αὐτοῦ συνεγράψατο βίον κατὰ πλάτος. Χρόνον τοίνυν ἐτῶν πεντήκοντα ἐν ταύτηι ἀγωνισάμενος τῆι ἐρήμωι καὶ ἀθλήσας καὶ στεφανίτης ἀναδειχθεὶς καὶ πολλοὺς καὶ ἀναριθμήτους εὐσεβείας ἀγωνιστὰς καὶ νικηφόρους ἀναδείξας καὶ εἰς βαθὺ γῆρας ἐλάσας ἀρρωστίαι σωματικῆι περιέπεσεν καὶ ταύτηι ἐπὶ χρόνον εὐχαρίστως ἐγκαρτερήσας εἰς χεῖρας θεοῦ τὸ πνεῦμα παρέθετο πρεσβύτης καὶ πλήρης ἡμερῶν, τὸν ἑκατοστὸν σχεδὸν τῆς αὐτοῦ ἡλικίας φθάσας ἐνιαυτόν. ἡ δὲ τελείωσις αὐτοῦ γέγονεν κατὰ τὴν ἑνδεκάτην τοῦ Ἰαννουαρίου μηνὸς τῆς ἑβδόμης ἰνδικτιόνος ἐν εἰκοστῶι δευτέρωι μηνὶ τῆς βασιλείας τοῦ θεοφυλάκτου βασιλέως ἡμῶν Ἰουστινιανοῦ. Τὴν μέντοι ἡγεμονίαν τῆς τοῦ ἀββᾶ Θεοδοσίου μονῆς διεδέξατο Σωφρόνιός τις ἐν μοναχικοῖς κατορθώμασιν ἀναφανεὶς ἄριστος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240",
+      "text": "ὅστις Σωφρόνιος τῶι γένει μὲν ὑπῆρχεν Ἀρμένιος ἀπὸ κώμης Ζωμερὶ καλουμένης τῆι μητροπόλει Σεβαστείαι προσκειμένης, καταλιπὼν δὲ τὴν πατρίδα ἔτι νέος ὢν ἦλθεν εἰς Ἱεροσόλυμα καὶ πολλοῖς πατράσιν συντυχὼν καὶ τὴν ἑκάστου ἀρετὴν καὶ πολιτείαν καταμαθὼν καὶ τῆι ἑαυτοῦ ψυχῆι ἀναμαξάμενος ἦλθεν καὶ εἰς τὴν τοῦ μακαρίου Θεοδοσίου μονήν. καὶ τὸ μοναχικὸν σχῆμα ἐνδυσάμενος καὶ μοναχικῶς παιδευθεὶς καὶ τὰς μοναχικὰς ἀρετὰς περιβαλόμενος ῥίζαν μὲν καὶ θεμέλιον τῆς ἑαυτοῦ πολιτείας τὴν ταπεινοφροσύνην καὶ τὴν ὑπακοὴν ἐποιήσατο, διὰ πασῶν δὲ τῶν τῆς ἀσκήσεως ἀρετῶν διεξελθὼν καὶ πολλὰς καὶ διαφόρους ἐκτελέσας ἐν τῆι αὐτῆι μονῆι διακονίας καὶ δόκιμος ἀναφανεὶς γίνεται τῆς μονῆς δευτεράριος ἐπὶ χρόνον ἐτῶν δεκαπέντε καὶ οὕτως ψήφωι τοῦ μεγάλου ἀββᾶ Θεοδοσίου τελευτᾶν μέλλοντος τὴν τῆς μονῆς ἡγεμονίαν παρέλαβεν. εἶχεν δὲ οὗτος ὁ μακάριος Σωφρόνιος ἐξάδελφόν τινα Μάμαν ὀνόματι· ὅστις Μάμας ἐν τῆι νεότητι συμπτώματί τινι περιπεσὼν ὑπὸ τῶν ἰατρῶν εὐνουχίσθη καὶ ἀνελθὼν εἰς τὸ Βυζάντιον γίνεται κουβικουλάριος Ἀναστασίου τοῦ βασιλέως καὶ διὰ τοῦ χρόνου προκόψας γίνεται πρεπόσιτος. ὅστις πολλὴν καὶ ἄφατον καρποφορίαν τῶι μοναστηρίωι προσήνεγκεν, ἐξ ἧς καρποφορίας ὁ ἐν ἁγίοις Σωφρόνιος τετραπλασίως τὴν μονὴν ηὔξησεν καὶ ἐπλάτυνεν μετὰ τὴν τοῦ μακαρίου Θεοδοσίου κοίμησιν, ἀνήγειρεν δὲ ἐκ θεμελίων ἐν αὐτῆι τῆι ἁγίαι μονῆι ἐκκλησίαν τῆι πανυμνήτωι θεοτόκωι καὶ ἀειπαρθένωι Μαρίαι. ἀλλὰ τί τὰ πολλὰ λέγω; διαλάμπουσιν γὰρ οἱ πόνοι Σωφρονίου καὶ τὰ τούτου κατορθώματα ἐν τῆι τοῦ μακαρίου ἀββᾶ Θεοδοσίου μονῆι· οὐ μόνον γὰρ κτήμασι καὶ προσόδοις ἐνιαυσιαίοις ἐπλούτισεν ταύτην, ἀλλὰ καὶ τὴν ἐν αὐτῆι ἐν Χριστῶι συνοδίαν ἐπλήθυνεν τριπλασίως καὶ ἁπλῶς εἰπεῖν ἐπὶ δέκα τέσσαρας χρόνους [καὶ δύο μῆνας] καλῶς αὐτὴν κυβερνήσας ἐτελεύτησεν ἐν χαρᾶι μηνὶ Μαρτίωι εἰκάδι πρώτηι τῆς πέμπτης ἰνδικτιόνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "241",
+      "text": "μέλλων δὲ τελευτῆσαι εἶπεν τῶι μαθητῆι αὐτοῦ παρισταμένωι καὶ κλαίοντι· μὴ λυποῦ, τέκνον, ὅτι ἐὰν εὕρῳ παρρησίαν, τῆι ἑβδόμηι ἡμέραι λαμβάνω σε, ἵνα σὺν ἐμοὶ εἴης εἰς τὸν τῆς ἀναπαύσεως τόπον. ὃ καὶ γέγονεν· τῆι γὰρ ἑβδόμηι ἡμέραι ἐτελεύτησεν ὁ μαθητὴς καὶ ἐγνώσθη τοῖς πᾶσιν ἡ πρὸς τὸν θεὸν Σωφρονίου παρρησία.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vbs-ae",
+      "title": {
+        "english": "Life of Abramius",
+        "ancient_greek": "Βίος Ἀβραμίου"
+      },
+      "url_slug": "cyril-of-scythopolis-abramius-vbs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/abramius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/abramius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/abramius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/abramius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/abramius.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-af",
+      "title": {
+        "english": "Life of Cyriacus",
+        "ancient_greek": "Βίος Κυριακοῦ"
+      },
+      "url_slug": "cyril-of-scythopolis-life-cyriacus-vbs-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-cyriacus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-cyriacus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-cyriacus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-cyriacus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-cyriacus.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-ac",
+      "title": {
+        "english": "Life of Euthymius",
+        "ancient_greek": "Βίος Εὐθυμίου"
+      },
+      "url_slug": "cyril-of-scythopolis-life-euthymius-vbs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-euthymius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-euthymius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-euthymius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-euthymius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-euthymius.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-ad",
+      "title": {
+        "english": "Life of Gerasimus",
+        "ancient_greek": "Βίος Γερασίμου"
+      },
+      "url_slug": "cyril-of-scythopolis-gerasimus-vbs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/gerasimus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-aa",
+      "title": {
+        "english": "Life of John the Hesychast",
+        "ancient_greek": "Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ"
+      },
+      "url_slug": "cyril-of-scythopolis-john-hesychast-vbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/john-hesychast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-ah",
+      "title": {
+        "english": "Life of Saba",
+        "ancient_greek": "Βίος Σάβα"
+      },
+      "url_slug": "cyril-of-scythopolis-saba-vbs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/saba",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/saba.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/saba.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/saba.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/saba.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-ag",
+      "title": {
+        "english": "Life of Theognis",
+        "ancient_greek": "Βίος Θεόγνιδος"
+      },
+      "url_slug": "cyril-of-scythopolis-life-theognis-vbs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/life-theognis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-theognis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-theognis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-theognis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/life-theognis.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "nxe-ac",
+      "title": {
+        "english": "Effects",
+        "ancient_greek": "Ἐπιδράσεις"
+      },
+      "url_slug": "apollonius-of-tyana-effects-nxe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-tyana/effects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-tyana/effects.json"
+      }
+    },
+    {
+      "eul_wid": "rlw-aa",
+      "title": {
+        "english": "Images",
+        "ancient_greek": "Εἰκόνες"
+      },
+      "url_slug": "philostratus-athenian-images-rlw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostratus-athenian/images",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.json"
+      }
+    },
+    {
+      "eul_wid": "qvi-ac",
+      "title": {
+        "english": "Life of Oppian (Version A)",
+        "ancient_greek": "Βίτα Ὀππιανοῦ (Βίτα α)"
+      },
+      "url_slug": "oppian-lives-life-ac-qvi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-lives/life-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-lives/life-ac.json"
+      }
+    },
+    {
+      "eul_wid": "jho-af",
+      "title": {
+        "english": "Life of Suidas",
+        "ancient_greek": "Βίος Σουίδα"
+      },
+      "url_slug": "homer-life-anonymous-suidas-jho-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/suidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/suidas.json"
+      }
+    },
+    {
+      "eul_wid": "rjo-aab",
+      "title": {
+        "english": "Lives and Opinions: Book II (Socratics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Βʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-socratics-rjo-aab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-socratics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.json"
+      }
+    },
+    {
+      "eul_wid": "rjo-aaj",
+      "title": {
+        "english": "Lives and Opinions: Book X (Epicurus)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Ιʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-epicurus-rjo-aaj",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-epicurus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-epicurus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-epicurus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-epicurus.json"
+      }
+    },
+    {
+      "eul_wid": "ule-aa",
+      "title": {
+        "english": "Lives of Aeschines",
+        "ancient_greek": "Βίοι Αἰσχίνου"
+      },
+      "url_slug": "aeschines-lives-lives-ule-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-lives/lives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives/lives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives/lives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives/lives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-lives/lives.json"
+      }
+    },
+    {
+      "eul_wid": "jho-ak",
+      "title": {
+        "english": "On Homer 2",
+        "ancient_greek": "Περὶ Ὁμήρου Β'"
+      },
+      "url_slug": "homer-life-anonymous-on-homer-2-jho-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/on-homer-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/on-homer-2.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cyril-of-scythopolis/theodosius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/theodosius.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/theodosius.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/theodosius.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/theodosius.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

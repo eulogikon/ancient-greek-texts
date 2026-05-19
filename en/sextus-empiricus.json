@@ -1,0 +1,125 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qou",
+  "auth_slug": "sextus-empiricus",
+  "name": {
+    "english": "Sextus the Empiricist",
+    "ancient_greek": "Σέξτος ὁ Ἐμπειρικός"
+  },
+  "seo_h1": "Outlines of Pyrrhonism by Sextus the Empiricist",
+  "seo": {
+    "browser_title": "Sextus Empiricus Ancient Works on Eulogikon Greek Archive",
+    "meta_title": "Sextus Empiricus Ancient Greek Philosophical Works",
+    "meta_description": "Sextus Empiricus, a Greek physician and Pyrrhonian skeptic. His surviving treatises are available. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pyrrhonian",
+      "href": "/affiliations/pyrrhonian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sextus Empiricus was a Greek physician and philosopher who lived during the late second and early third centuries CE, in the Roman Imperial period. He is the only known figure from the ancient school of Pyrrhonian Skepticism whose writings survive in full. His title &quot;Empiricus&quot; indicates he belonged to the Empiric school of medicine, which relied on observation and recorded experience rather than theoretical speculation. Little is known about his personal life, including his exact birthplace.</p>\n<p class=\"research-text\">His significance lies in being our primary source for ancient Pyrrhonian thought. He authored two major surviving works in Greek. The first is Outlines of Pyrrhonism, a three-volume handbook that systematically explains the Skeptic&#x27;s goal of achieving mental tranquility by suspending judgment on all non-evident matters. The second is the much larger Against the Mathematicians, an eleven-volume work that critiques the &quot;liberal arts&quot; and then provides detailed arguments against the core doctrines of other philosophical schools in logic, physics, and ethics.</p>\n<p class=\"research-text\">According to modern scholars, his writings are an invaluable repository of ancient arguments, preserving summaries of many lost theories. For centuries, his works were the main conduit of skeptical ideas into European thought, profoundly influencing early modern philosophers during the 16th and 17th centuries.</p>\n</div>",
+  "affiliation_label": "Pyrrhonian",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "qou-aa",
+      "title": {
+        "english": "Against the Mathematicians",
+        "ancient_greek": "Κατὰ Μαθηματικῶν"
+      },
+      "url_slug": "sextus-empiricus-against-mathematicians-qou-aa",
+      "passages": 2410,
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-empiricus/against-mathematicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/against-mathematicians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/against-mathematicians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/against-mathematicians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/against-mathematicians.json"
+      }
+    },
+    {
+      "eul_wid": "qou-ab",
+      "title": {
+        "english": "Outlines of Pyrrhonism",
+        "ancient_greek": "Πυρρώνειαι Ὑποτυπώσεις"
+      },
+      "url_slug": "sextus-empiricus-outlines-pyrrhonism-qou-ab",
+      "passages": 737,
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-empiricus/outlines-pyrrhonism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/outlines-pyrrhonism.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/outlines-pyrrhonism.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/outlines-pyrrhonism.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-empiricus/outlines-pyrrhonism.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "peq",
+      "name": {
+        "english": "Favorinus of Arelate",
+        "ancient_greek": "Φαβωρῖνος ὁ Ἀρελάτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/favorinus-of-arelate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.json"
+      }
+    },
+    {
+      "eul_aid": "hnu",
+      "name": {
+        "english": "Timon of Phlius",
+        "ancient_greek": "Τίμων ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/timon-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/sextus-empiricus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

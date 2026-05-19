@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dio",
+  "auth_slug": "pempelus-pseudo",
+  "name": {
+    "english": "Pempelus Pseudo",
+    "ancient_greek": "Πέμπελος ὁ Ψευδομυτιληναῖος"
+  },
+  "seo_h1": "Pempelus Pseudo and Presocratic Treatise Fragments",
+  "seo": {
+    "browser_title": "Pempelus Pseudo Ancient Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Pempelus Pseudo Ancient Greek Philosophical Works",
+    "meta_description": "Pempelus Pseudo, an obscure presocratic philosopher. Surviving philosophical treatise works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pempelus Pseudo is an obscure figure from the ancient philosophical tradition. His name, which includes the epithet &quot;the pseudo-Mytilenean,&quot; indicates that he was considered falsely associated with the city of Mytilene. The dates attributed to him span an unusually long period from the 3rd century BCE to the 2nd century CE, which may reflect the time when texts under his name were composed rather than his actual lifespan.</p>\n<p class=\"research-text\">He is categorized within the Presocratic school of philosophy, a classification that is chronologically difficult to reconcile with the late dates provided for him. According to the available records, he is credited with authoring a single treatise, but no title or content from this work survives, and no details of his life are known.</p>\n<p class=\"research-text\">Modern scholars interpret this figure as likely being a pseudonymous or mistakenly conflated name in the history of philosophy. His significance lies primarily as an example of how some ancient authors are known only through very late or indirect references, with their historical reality remaining uncertain.</p>\n</div>",
+  "affiliation_label": "Presocratic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dio-aa",
+      "title": {
+        "english": "On the Honor Due to Parents",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pempelus-pseudo-honor-parents-dio-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/pempelus-pseudo/honor-parents",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "bmw",
+      "name": {
+        "english": "Alcmaeon of Croton",
+        "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alcmaeon-of-croton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcmaeon-of-croton.json"
+      }
+    },
+    {
+      "eul_aid": "btk",
+      "name": {
+        "english": "Anaxagoras of Clazomenae",
+        "ancient_greek": "Ἀναξαγόρας ὁ Κλαζομένιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaxagoras-of-clazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxagoras-of-clazomenae.json"
+      }
+    },
+    {
+      "eul_aid": "aua",
+      "name": {
+        "english": "Anaximander of Miletus",
+        "ancient_greek": "Ἀναξίμανδρος ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximander-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximander-of-miletus.json"
+      }
+    },
+    {
+      "eul_aid": "bcm",
+      "name": {
+        "english": "Anaximenes of Miletus",
+        "ancient_greek": "Ἀναξιμένης ὁ Μιλήσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-of-miletus.json"
+      }
+    },
+    {
+      "eul_aid": "etm",
+      "name": {
+        "english": "Anaximenes-pseudo Miletus Letters",
+        "ancient_greek": "Ἀναξιμένους τοῦ Μιλησίου Ἐπιστολαί (Ψευδο-Ἀναξιμένης)"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anaximenes-pseudo-miletus-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaximenes-pseudo-miletus-letters.json"
+      }
+    },
+    {
+      "eul_aid": "byk",
+      "name": {
+        "english": "Archelaus of Miletus",
+        "ancient_greek": "Ἀρχέλαος ὁ Μιλήσιος ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archelaus-of-miletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archelaus-of-miletus.json"
+      }
+    },
+    {
+      "eul_aid": "anw",
+      "name": {
+        "english": "Cleobulus of Lindos I",
+        "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cleobulus-of-lindos-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleobulus-of-lindos-i.json"
+      }
+    },
+    {
+      "eul_aid": "byu",
+      "name": {
+        "english": "Democritus of Abdera",
+        "ancient_greek": "Δημόκριτος ὁ Ἀβδηρίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/democritus-of-abdera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-abdera.json"
+      }
+    },
+    {
+      "eul_aid": "bze",
+      "name": {
+        "english": "Diogenes of Apollonia",
+        "ancient_greek": "Διογένης ὁ Ἀπολλωνιάτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-apollonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-apollonia.json"
+      }
+    },
+    {
+      "eul_aid": "die",
+      "name": {
+        "english": "Empedocles of Acragas",
+        "ancient_greek": "Ἐμπεδοκλῆς ὁ Ἀκραγαντίνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/empedocles-of-acragas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/empedocles-of-acragas.json"
+      }
+    },
+    {
+      "eul_aid": "bky",
+      "name": {
+        "english": "Heraclitus of Ephesus",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus.json"
+      }
+    },
+    {
+      "eul_aid": "bko",
+      "name": {
+        "english": "Heraclitus of Ephesus II",
+        "ancient_greek": "Ἡράκλειτος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclitus-of-ephesus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclitus-of-ephesus-ii.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/pempelus-pseudo",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pempelus-pseudo.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pempelus-pseudo.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pempelus-pseudo.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pempelus-pseudo.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

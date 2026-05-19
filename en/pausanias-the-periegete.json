@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pqe",
+  "auth_slug": "pausanias-the-periegete",
+  "name": {
+    "english": "Pausanias the Periegete",
+    "ancient_greek": "Παυσανίας ὁ Περιηγητής"
+  },
+  "seo_h1": "Pausanias the Periegete on the Cities of Greece",
+  "seo": {
+    "browser_title": "Pausanias the Periegete on Eulogikon Greek Archive",
+    "meta_title": "Pausanias the Periegete Ancient Greek Travel Works",
+    "meta_description": "Pausanias the Periegete, 2nd century CE travel writer. Description of Greece documents ancient sites. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pausanias the Periegete was a Greek traveler and geographer of the 2nd century CE, likely from Lydia in Asia Minor. His life is reconstructed from his work, which shows he traveled extensively through mainland Greece and parts of Asia Minor during the reigns of Hadrian, Antoninus Pius, and Marcus Aurelius. His writings reveal a man of means with a deep antiquarian interest in monuments, cult practices, and local history.</p>\n<p class=\"research-text\">His sole surviving work is the Description of Greece, a ten-book prose travelogue detailing the regions, cities, and sanctuaries of mainland Greece. The Description is an indispensable archaeological and historical source. It provides detailed, first-hand accounts of temples, statues, and sites like Olympia and Delphi, preserving the appearance of monuments now lost and recording unique local myths and religious customs from the Roman imperial period. It is a systematic record of the Greek cultural landscape, bridging the classical past and the Roman present.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pqe-aa",
+      "title": {
+        "english": "Fragments on Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόλεων"
+      },
+      "url_slug": "pausanias-the-periegete-cities-pqe-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/pausanias-the-periegete/cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pausanias-the-periegete",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pausanias-the-periegete.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pausanias-the-periegete.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pausanias-the-periegete.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pausanias-the-periegete.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

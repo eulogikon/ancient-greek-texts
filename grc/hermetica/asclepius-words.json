@@ -1,0 +1,383 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oqk-an",
+  "eul_aid": "oqk",
+  "author_slug": "hermetica",
+  "work_slug": "asclepius-words",
+  "url_slug": "hermetica-asclepius-words-oqk-an",
+  "author": {
+    "english": "Hermetica ",
+    "ancient_greek": "Ἑρμητικά"
+  },
+  "title": {
+    "english": "Asclepius Greek Words Only",
+    "ancient_greek": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν"
+  },
+  "seo": {
+    "browser_title": "The Asclepius by Hermetica on Eulogikon Digital Archive",
+    "meta_title": "The Asclepius by Hermetica in Original Ancient Greek",
+    "meta_description": "The Asclepius is a Hermetic treatise on cosmology and divine nature. A dialogue from the Corpus Hermeticum. Free download in ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Hermetic",
+      "href": "/affiliations/hermetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Asclepius</strong>, formally titled <strong>The Sacred Book of Hermes Trismegistus to Asclepius</strong> and also known as the <strong>Perfect Discourse</strong>, is a foundational philosophical and theological treatise of the Hermetic tradition. Composed in Koine Greek in Roman Egypt between the 1st and 3rd centuries CE, the work is structured as an instructional dialogue from the mythical sage Hermes Trismegistus to his disciple Asclepius. It systematically explores core Hermetic doctrines concerning a transcendent, ineffable God, the emanation and structure of the cosmos, the divine nature and celestial origin of the human soul, and the necessity of spiritual knowledge, or gnosis, for achieving salvation and reunion with the divine. A notable and influential passage presents a prophetic lament on the future decline of traditional Egyptian religion and includes a detailed discussion of the ritual animation of statues, a practice intended to invite spiritual powers into material forms.</p>\n<p class=\"research-text\">The complete Greek original of the treatise is lost, surviving only in fragments preserved by later authors. The work’s full content is known primarily through a complete Latin translation made in late antiquity, which remains the principal source for the text. A related but distinct version also exists in Coptic among the documents discovered at Nag Hammadi. Scholarly analysis positions the <strong>Asclepius</strong> as a seminal document of late antique religious syncretism, artfully synthesizing Platonic metaphysics, Stoic concepts, and native Egyptian theological motifs. It was crafted for an audience of spiritual seekers pursuing personal revelation and transformative wisdom beyond the confines of established philosophical schools or state-sanctioned cults.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "19.(16)",
+      "text": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν προσφωνηθεῖσα οὐσιώδης, ὑλικόν οὐσιώδη κόσμος, ἀριθμητικὴν ὕλη, ὕλη ὕλη Ἅιδης ἰδεῖν Ἅιδης, οὐσία〈σ〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "οὐσιάρχης οὐσιάρχης οὐσιάρχης Παντόμορφον οὐσιάρχας, Εἱμαρμένην, οὐσιάρχης εἱμαρμένη εἱμαρμένην εἱμαρμένη εἱμαρμένη εἱμαρμένη, εἱμαρμένη εἱμαρμένη",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oqk-as",
+      "title": {
+        "english": "Dialogue Untitled",
+        "ancient_greek": "Διάλογος"
+      },
+      "url_slug": "hermetica-dialogue-oqk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-am",
+      "title": {
+        "english": "From the Hymn to the Almighty",
+        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
+      },
+      "url_slug": "hermetica-hymn-almighty-oqk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/hymn-almighty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ao",
+      "title": {
+        "english": "Hermes Trismegistus Key",
+        "ancient_greek": "Κλείς"
+      },
+      "url_slug": "hermetica-key-oqk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/key",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ak",
+      "title": {
+        "english": "Hermes Trismegistus to Asclepius",
+        "ancient_greek": "Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "hermetica-to-asclepius-ak-oqk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aa",
+      "title": {
+        "english": "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth",
+        "ancient_greek": "Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ"
+      },
+      "url_slug": "hermetica-to-tat-rebirth-oqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-tat-rebirth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ac",
+      "title": {
+        "english": "Hermes Trismegistus, Greatest Evil is Ignorance of God",
+        "ancient_greek": "Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ"
+      },
+      "url_slug": "hermetica-greatest-evil-ignorance-oqk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/greatest-evil-ignorance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-af",
+      "title": {
+        "english": "Hermes Trismegistus, To Asclepius, Be Well",
+        "ancient_greek": "Ἀσκληπιῷ εὖ φρονεῖν"
+      },
+      "url_slug": "hermetica-to-asclepius-af-oqk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ah",
+      "title": {
+        "english": "Hermes Trismegistus-Common Mind to Tat",
+        "ancient_greek": "Περὶ νοῦ κοινοῦ πρὸς Τάτ"
+      },
+      "url_slug": "hermetica-common-mind-oqk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/common-mind",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ae",
+      "title": {
+        "english": "Hermes Trismegistus-Thought and Perception",
+        "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+      },
+      "url_slug": "hermetica-thought-perception-oqk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/thought-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ab",
+      "title": {
+        "english": "Hermes to His Son Tat, That the Invisible God is Most Manifest",
+        "ancient_greek": "Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν"
+      },
+      "url_slug": "hermetica-invisible-god-manifest-oqk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/invisible-god-manifest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aq",
+      "title": {
+        "english": "Hermes to Tat, The Cup",
+        "ancient_greek": "Πρὸς Τάτ ὁ κρατήρ ἡ μονάς"
+      },
+      "url_slug": "hermetica-cup-oqk-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/cup",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-at",
+      "title": {
+        "english": "Hermetic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "hermetica-fragments-oqk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rye-ac",
+      "title": {
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+      },
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-constantinople-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.json"
+      }
+    },
+    {
+      "eul_wid": "sno-as",
+      "title": {
+        "english": "Fragments on Antioch",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντιοχείας"
+      },
+      "url_slug": "julian-the-apostate-antioch-fragments-sno-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/antioch-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/antioch-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/antioch-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/antioch-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/antioch-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jzg-aa",
+      "title": {
+        "english": "Fragments on Physics and Perception",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυσικῆς καὶ Αἰσθήσεως"
+      },
+      "url_slug": "apollophanes-the-stoic-physics-perception-jzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-the-stoic/physics-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ak",
+      "title": {
+        "english": "How One Might Perceive His Progress in Virtue",
+        "ancient_greek": "Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή"
+      },
+      "url_slug": "plutarch-of-chaeronea-progress-virtue-okg-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/progress-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/progress-virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/progress-virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/progress-virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/progress-virtue.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dc",
+      "title": {
+        "english": "On Brotherly Love",
+        "ancient_greek": "Περὶ φιλαδελφίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-brotherly-love-okg-dc",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/brotherly-love",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brotherly-love.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brotherly-love.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brotherly-love.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/brotherly-love.json"
+      }
+    },
+    {
+      "eul_wid": "uzu-af",
+      "title": {
+        "english": "On the Heavens, Book I",
+        "ancient_greek": "Περὶ οὐρανοῦ, Βιβλίον Αʹ"
+      },
+      "url_slug": "simplicius-of-cilicia-heavens-book-1-uzu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/heavens-book-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.json"
+      }
+    },
+    {
+      "eul_wid": "okg-du",
+      "title": {
+        "english": "Themistocles",
+        "ancient_greek": "Θεμιστοκλῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-themistocles-okg-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/themistocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ak",
+      "title": {
+        "english": "To Apollo",
+        "ancient_greek": "εἰς Απόλλωνα"
+      },
+      "url_slug": "callimachus-of-cyrene-to-apollo-iso-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/to-apollo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-apollo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-apollo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-apollo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/to-apollo.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermetica/asclepius-words",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

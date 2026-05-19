@@ -1,0 +1,240 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "sfc-aa",
+  "eul_aid": "sfc",
+  "author_slug": "euangelus-the-comic",
+  "work_slug": "wedding-feast",
+  "url_slug": "euangelus-the-comic-wedding-feast-sfc-aa",
+  "author": {
+    "english": "Euangelus the Comic",
+    "ancient_greek": "Εὐαγγέλος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Wedding Feast",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Wedding Feast by Euangelus the Comic on Eulogikon",
+    "meta_title": "The Ancient Wedding Feast by Euangelus the Comic in Greek",
+    "meta_description": "Euangelus the Comic depicts wedding preparations through witty dialogue in this late antique comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Wedding Feast is a lost comedy by the Athenian playwright Euangelus, who was active during the period of Middle Comedy in the fourth century BCE. The work survives only in six brief fragments preserved by the grammarian Athenaeus in his Deipnosophistae. The extant passages, which focus on elaborate descriptions of food and dining preparations, suggest the play comically treated themes of domestic and social life, with specific references to culinary items such as a type of bread and a fish sauce. Transmitted exclusively through quotation in Athenaeus’s work, the fragments are collected in modern scholarly editions. As a representative fragment of Middle Comedy, the play provides evidence for the genre’s shift away from direct political satire toward domestic and social themes, and its remains serve as valuable primary sources for the study of ancient Athenian material culture and comic conventions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Τέτταρας * * τραπέζας τῶν γυναικῶν εἶπά σοι ἓξ δὲ τῶν ἀνδρῶν, τὸ δεῖπνον δ’ ἐντελὲς καὶ μηδενί ἐλλιπές. λαμπροὺς γενέσθαι βουλόμεσθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοὺς γάμους. Β. οὐ παρ’ ἑτέρου δεῖ πυθέσθαι, πάντα δ’ αὐτόπτης ἐρῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_5][spk_α]τῶν μὲν ἐλαῶν ἄφελε πάνθ’ ὅς’ ἂν βούλῃ γένη. εἰς δὲ τὰ κρέα μόσχον ἔλαβες, δέλφακας, χοίρους, λαγώς· Α. ὡς ἀλαζὼν ὁ κατάρατος. Β. θρῖα, τυρόν, ἐγχύτους. Α. παῖ Δρόμων. Β. κάνδυλον, ᾠά τ’, ἀμύλιον * * * τὸ πέρας, ὕψος τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τραπέζης πήχεών ἐστιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τριῶν,[ln_10]ὥστε τὸν δειπνοῦντ’ ἐπαίρειν, ἄν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τι βούληται λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "sfc-ab",
+      "title": {
+        "english": "Wedding Feast Preparations",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "euangelus-the-comic-wedding-feast-preparations-sfc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast-preparations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast-preparations.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "daw-ac",
+      "title": {
+        "english": "Acharnians",
+        "ancient_greek": "Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-of-athens-acharnians-daw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/acharnians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ag",
+      "title": {
+        "english": "Comic Words",
+        "ancient_greek": "Λέξεις κωμικαί"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-words-kfu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/words.json"
+      }
+    },
+    {
+      "eul_wid": "eec-ab",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-fragments-eec-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "foq-aa",
+      "title": {
+        "english": "Fragments on Courtesans and Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑταιρῶν καὶ Βίου"
+      },
+      "url_slug": "amphis-the-comic-poet-courtesans-life-foq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/amphis-the-comic-poet/courtesans-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amphis-the-comic-poet/courtesans-life.json"
+      }
+    },
+    {
+      "eul_wid": "fpk-aa",
+      "title": {
+        "english": "Fragments on Pythagorean Sacrifice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πυθαγορικῆς Θυσίας"
+      },
+      "url_slug": "mnesimachus-the-comic-poet-pythagorean-sacrifice-fpk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bn",
+      "title": {
+        "english": "Georgus",
+        "ancient_greek": "Γεωργός"
+      },
+      "url_slug": "menander-of-athens-georgus-hps-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ae",
+      "title": {
+        "english": "On Feminine Noun Endings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cratinus-the-comic-poet-feminine-nouns-czs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/feminine-nouns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/feminine-nouns.json"
+      }
+    },
+    {
+      "eul_wid": "cfi-ab",
+      "title": {
+        "english": "On Rustic Meals and Simple Living",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "poliochus-the-comic-poet-rustic-meals-simple-living-cfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/poliochus-the-comic-poet/rustic-meals-simple-living",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/rustic-meals-simple-living.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/rustic-meals-simple-living.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/rustic-meals-simple-living.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/poliochus-the-comic-poet/rustic-meals-simple-living.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/euangelus-the-comic/wedding-feast",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euangelus-the-comic/wedding-feast.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

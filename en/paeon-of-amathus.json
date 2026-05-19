@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fnc",
+  "auth_slug": "paeon-of-amathus",
+  "name": {
+    "english": "Paeon of Amathus",
+    "ancient_greek": "Παίων Ἀμαθούσιος"
+  },
+  "seo_h1": "Paeon of Amathus and the Cypriot Histories",
+  "seo": {
+    "browser_title": "Paeon of Amathus Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Paeon of Amathus Ancient Greek Historical Works",
+    "meta_description": "Paeon of Amathus was a 5th century BCE historian writing in Koine Greek. His surviving prose is available. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Paeon of Amathus is known solely from a citation in Herodotus’s Histories, which identifies him as a man from the Cypriot city of Amathus. Herodotus references him as a source for an oracular story concerning the Persian siege of Barca in Libya around 512 BCE, placing Paeon’s activity in the 5th century BCE. No other biographical details survive.</p>\n<p class=\"research-text\">He is credited with a single, non-extant work. Herodotus describes it as a song about the capture of Barca, indicating it was a historical or local chronicle that included events in North Africa. The work is otherwise completely lost, and no other titles or fragments are recorded.</p>\n<p class=\"research-text\">Paeon’s significance lies in his role as one of the local sources utilized by Herodotus, illustrating the historian’s method of collecting variant regional accounts. His citation places Paeon within the early tradition of Greek local history. As a Cypriot author reporting on Libyan events, his lost work exemplifies the interconnected narrative networks of the Classical Mediterranean.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fnc-aa",
+      "title": {
+        "english": "Cypriot Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "paeon-of-amathus-cypriot-histories-fnc-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/paeon-of-amathus/cypriot-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus/cypriot-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus/cypriot-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus/cypriot-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paeon-of-amathus/cypriot-histories.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/paeon-of-amathus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paeon-of-amathus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paeon-of-amathus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paeon-of-amathus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/paeon-of-amathus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

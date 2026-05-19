@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lrc-ab",
+  "eul_aid": "lrc",
+  "author_slug": "crito-of-alopece",
+  "work_slug": "delian-parasites",
+  "url_slug": "crito-of-alopece-delian-parasites-lrc-ab",
+  "author": {
+    "english": "Crito of Alopece ",
+    "ancient_greek": "Κρίτων Ἀλωπεκῆθεν ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Delian Parasites",
+    "ancient_greek": "Ἀποσπάσματα περὶ Δηλίων Παρασίτων"
+  },
+  "seo": {
+    "browser_title": "Fragments Crito of Alopece on Delian Parasites on Eulogikon",
+    "meta_title": "Fragments of Crito on Delian Parasites in Ancient Greek",
+    "meta_description": "Surviving fragments of Crito's comedy on Delian parasites. Ancient Greek verse comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Delian Parasites</strong> is a lost comedic work in verse attributed to Crito of Alopece, a 5th-century BCE poet of Old Comedy and a contemporary of Aristophanes. Known only by its title, which suggests a composition of eight episodic passages, the work presumably satirized the stock character of the parasite—a flatterer or social hanger-on—within the specific context of the island of Delos, a major Aegean religious and commercial center. Probable themes, inferred from the title and genre, include social satire targeting the gluttony and obsequiousness of the parasite archetype, humor derived from behaviors of scrounging and dependency, and potential mockery of the religious or commercial life associated with the sanctuary on Delos. The work is known solely through its preserved title in ancient catalogs; no direct quotations or manuscripts exist. The notation concerning eight passages suggests it was known in antiquity as a collection of fragments or a short, episodic piece rather than a full-length play. While its direct influence is untraceable, the title exemplifies the geographical specificity and thematic range within Old Comedy beyond the surviving works of major playwrights, contributing to scholarly understanding of the genre&#x27;s scope.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἐκεῖ γὰρ ἡμῖν ἐστιν ἡ παρεμβολή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Φοίνικα, μεγάλου κύριον βαλλαντίου, ναύκληρον ἐν τῷ λιμένι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ποιήσας ἄπλουν, κἀφ’ ὅρμον ὦσαι ναῦς ἀναγκάσας δύο, εἰς Δῆλον ἐλθεῖν ἠθέλης’ ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "Πειραιῶς,[ln_5]πάντων ἀκούων διότι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "παρασίτῳ τόπος οὗτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τρία μόνος ἀγαθὰ κεκτῆσθαι δοκεῖ, εὔοψον ἀγοράν, παντοδαπὸν οἰκοῦντ’ ὄχλον, αὐτοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παρασίτους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοῦ θεοῦ τοὺς Δηλίους.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lrc-aa",
+      "title": {
+        "english": "Satirical Fragments on Delos",
+        "ancient_greek": "Ἀποσπάσματα Σατυρικὰ περὶ Δήλου"
+      },
+      "url_slug": "crito-of-alopece-satirical-delos-lrc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-alopece/satirical-delos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/satirical-delos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/satirical-delos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/satirical-delos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/satirical-delos.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfk-aa",
+      "title": {
+        "english": "Fragments of Uncertain Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Κωμῳδίας"
+      },
+      "url_slug": "comic-fragments-anonymous-i-uncertain-kfk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/uncertain",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.json"
+      }
+    },
+    {
+      "eul_wid": "fdc-ab",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "philyllius-the-comic-poet-comic-feast-ab-fdc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philyllius-the-comic-poet/comic-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philyllius-the-comic-poet/comic-feast-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ios-ab",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hee-aa",
+      "title": {
+        "english": "Fragments on Greed and Possessions",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πλεονεξίας καὶ Κτημάτων"
+      },
+      "url_slug": "apollodorus-of-gela-greed-possessions-hee-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-gela/greed-possessions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela/greed-possessions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela/greed-possessions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela/greed-possessions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-gela/greed-possessions.json"
+      }
+    },
+    {
+      "eul_wid": "bju-aa",
+      "title": {
+        "english": "Letters to Heraclitus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἡράκλειτον"
+      },
+      "url_slug": "heraclitus-of-ephesus-iii-letters-bju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ae",
+      "title": {
+        "english": "On Slavery and Human Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-slavery-nature-lpe-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/slavery-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.json"
+      }
+    },
+    {
+      "eul_wid": "fqy-aa",
+      "title": {
+        "english": "On the Rooster of Philip",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "heraclides-ponticus-rooster-philip-aa-fqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-ponticus/rooster-philip-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-ponticus/rooster-philip-aa.json"
+      }
+    },
+    {
+      "eul_wid": "gmw-ab",
+      "title": {
+        "english": "Symposium and Drinking Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crito-of-alopece/delian-parasites",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/delian-parasites.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/delian-parasites.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/delian-parasites.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-alopece/delian-parasites.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

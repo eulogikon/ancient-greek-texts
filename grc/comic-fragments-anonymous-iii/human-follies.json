@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kge-ab",
+  "eul_aid": "kge",
+  "author_slug": "comic-fragments-anonymous-iii",
+  "work_slug": "human-follies",
+  "url_slug": "comic-fragments-anonymous-iii-human-follies-kge-ab",
+  "author": {
+    "english": "Comic Fragments Anonymous III",
+    "ancient_greek": "Κωμικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Comic Fragments on Human Follies",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments of Anonymous III on Eulogikon Archive",
+    "meta_title": "Classical Comic Fragments by Anonymous III in Ancient Greek",
+    "meta_description": "Anonymous comic fragments satirizing human follies and vices from the Greek tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Comic Fragments on Human Follies</strong> is a modern scholarly compilation that thematically assembles excerpts from lost Greek comedies to illustrate the satirical treatment of human foolishness. This collection draws from the fragmentary remains of comic playwrights across the periods of Old, Middle, and New Comedy, offering a curated glimpse into a vast, otherwise inaccessible literary tradition. The selected fragments exemplify standard comic critiques, including social satire of stereotypical characters like the miser and the braggart, moral criticism of greed and hypocrisy, parody of intellectual pretensions, and observations on domestic life and universal human weaknesses.</p>\n<p class=\"research-text\">The original comic lines from which these fragments derive were preserved indirectly through quotations in later authors such as Athenaeus and Stobaeus, as well as through papyrus discoveries. This modern assemblage is therefore a secondary curation from that scattered and fragmentary corpus. Despite their disjointed nature, these fragments constitute crucial evidence for reconstructing the broader history of Greek comedy beyond the complete surviving plays of Aristophanes and Menander. They provide invaluable insights into ancient popular morality, social structures, and daily life, demonstrating the enduring role of comedy in critiquing the perennial follies of human nature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "FCA 331",
+      "text": "ὦ μόνοι ὦτοι τῶν Ἑλλήνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 390a",
+      "text": "ἅτερος πρὸς τὸν ἕτερον ὑπαλείφεται τὼ χεῖρέ θ’ ὑποκονίεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 390c",
+      "text": "Μεγαρεῖς δὲ φεῦγε πάντας· εἰσὶ γὰρ πικροί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 390g",
+      "text": "ὀκνεῖς λαλεῖν; οὕτω σφόδρ’ εἶ τηθαλλαδοῦς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 390h",
+      "text": "ἡ δὲ προὐκαλεῖτό με βαυβᾶν μετ’ αὐτῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 400-401",
+      "text": "Ὁ δρῶν τὰ τοῦ μέλλοντος οἴχεται φέρων. Τόλμα τι, κινδύνευε, πρᾶττ’, ἀποτύγχανε, ἐπίτυχε· πάντα μᾶλλον ἢ σαυτὸν προοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 402",
+      "text": "γαστὴρ ὅλον τὸ σῶμα, πανταχῆ βλέπων ὀφθαλμός, ἕρπον τοῖς ὀδοῦσι θηρίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 403",
+      "text": "τί ποτ’ ἐστὶ χλωρόν, ἀντιβολῶ, τὸ χρυσίον;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "FCA 403",
+      "text": "[[Β]]\t δέδοικ’ ἐπιβουλευόμενον ὑπὸ πάντων ἀεί. αὐλεῖ Μαριανδυνοῖς καλάμοις * (θρηνῳδίαν) κρούων ἰαστί. αἰσχρὸν δὲ κρίνειν τὰ καλὰ τῷ πολλῷ ψόφῳ. ἐγὼ ποιήσω πάντα κατὰ Νικόστρατον. ἢ χρὴ τραγῳδεῖν πάντας ἢ μελαγχολᾶν. θύραζε Κᾶρες, οὐκέτ’ Ἀνθεστήρια. εἶμι γάρ ἐπ’ αὐτὸν ἤδη τὸν κολοφῶνα τοῦ λόγου. νῦν δὲ σωθείην ἵνα διδάγματ’ ᾖ μοι ταῦτα τοῦ λοιποῦ χρόνου. ἡ γλῶττ’ ἀνέγνωχ’, ἡ δὲ φρὴν οὐ μανθάνει. πᾶς ἐστι δούλῳ δεσπότης μονοσύλλαβος. ὅστις ἐπὶ δεῖπνον ὀψὲ κληθεὶς ἔρχεται, ἢ χωλός ἐστιν ἢ οὐ δίδωσι συμβολάς. πλέον δυοῖν σοι χοινίκων ὁ δεσπότης παρέχει. οὗτος πατὴρ τοῦ παιδός· εἰ γὰρ ὤφελεν. περὶ μεγάλων * (γὰρ) πραγμάτων σκοπουμένοις εὐνουστάτη σύμβουλος ἡ παρρησία. Παρρησίαν δὲ παντὸς ὠνοῦ χρυσίου. Ὁ * (δὲ) βίος ἔστ’ ἀλαζονείας δεόμενος. Φύσιν ἔχειν ἄριστόν ἐστι, δεύτερον δὲ * (μανθάνειν). χαλεπὸν γενέσθαι λιμὸν ἐπὶ τῷ δράγματι. Σικελίας αὔχημα τροφαλίς. ὠρθωμένην πρὸς ἅπαντα τὴν ψυχὴν ἔχω. Πρὸς καππάριον ζῇς δυνάμενος πρὸς ἀνθίαν. Μισθοῦ γὰρ ἀνθρώπων τις ἄνθρωπον φιλεῖ. Ὁ μέν τις ἀμπέλους τρυγῶν, ὁ δ’ ἀμέργων τὰς ἐλάας. Μετὰ τὴν ἀποβολὴν τοῦ Κλέωνος εὐθέως [μέγ’] ὑπερέβαλλεν ὁ κεραμεὺς Ὑπέρβολος. Εἶτά μοι σκάπτων ἐρεῖ ἐφ’ οἷς γεγόνασιν αἱ διαλύσεις· ταῦτα γάρ πολυπραγμονῶν νῦν ὁ κατάρατος περιπατεῖ. Ἔχει τελευτὴν ἧσπερ οὕνεκ’ ἐγένετο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kge-aa",
+      "title": {
+        "english": "Fragments of Anonymous Comedians",
+        "ancient_greek": "Ἀποσπάσματα ἀνωνύμων κωμῳδῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-text-kge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfk-ad",
+      "title": {
+        "english": "Anonymous Old Comedies",
+        "ancient_greek": "Ἀνώνυμοι Παλαιαὶ Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-i-old-comedies-kfk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/old-comedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ad",
+      "title": {
+        "english": "Anonymous Old Comedies",
+        "ancient_greek": "Ἀνώνυμοι Παλαιαὶ Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-old-comedies-kfu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/old-comedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/old-comedies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/old-comedies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/old-comedies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/old-comedies.json"
+      }
+    },
+    {
+      "eul_wid": "fkk-ab",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-ab-fkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.json"
+      }
+    },
+    {
+      "eul_wid": "eco-aa",
+      "title": {
+        "english": "Fragments on Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+      },
+      "url_slug": "strattis-the-comic-poet-athenian-life-eco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/athenian-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/athenian-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/athenian-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/athenian-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/athenian-life.json"
+      }
+    },
+    {
+      "eul_wid": "eec-ab",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-fragments-eec-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "efg-ac",
+      "title": {
+        "english": "Fragments on Delphi and Agriculture",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δελφῶν καὶ Γεωργίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-delphi-agriculture-efg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/delphi-agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/delphi-agriculture.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/delphi-agriculture.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/delphi-agriculture.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/delphi-agriculture.json"
+      }
+    },
+    {
+      "eul_wid": "jsi-ab",
+      "title": {
+        "english": "Fragments on Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας"
+      },
+      "url_slug": "phoenicides-the-comic-poet-feasting-jsi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.json"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

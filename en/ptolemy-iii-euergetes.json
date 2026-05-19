@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kka",
+  "auth_slug": "ptolemy-iii-euergetes",
+  "name": {
+    "english": "Ptolemy III Euergetes King of Egypt",
+    "ancient_greek": "Πτολεμαῖος ὁ Εὐεργέτης"
+  },
+  "seo_h1": "Ptolemy III Euergetes and the Royal Epigram",
+  "seo": {
+    "browser_title": "Ptolemy III Euergetes on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Ptolemy III Euergetes Ancient Greek Poetry Works",
+    "meta_description": "Ptolemy III Euergetes, Hellenistic King of Egypt. Surviving poetic works from the Koine period. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ptolemy III Euergetes was a Macedonian Greek king of the Ptolemaic dynasty who ruled Egypt from 246 to 222 BCE. The son of Ptolemy II Philadelphus, he married Berenice II, thereby unifying Cyrenaica with his kingdom.</p>\n<p class=\"research-text\">His reign was defined by the successful Third Syrian War, launched to avenge his sister’s murder. Ptolemaic forces advanced to Babylon and reclaimed sacred Egyptian statues, bringing immense wealth and prestige to Egypt and earning him the title Euergetes, meaning &quot;Benefactor.&quot; Domestically, he was a major temple builder and a continued patron of the Library and Museion of Alexandria.</p>\n<p class=\"research-text\">Ptolemy III died in 222 BCE and was succeeded by his son, Ptolemy IV Philopator. His reign marks the zenith of Ptolemaic power and territorial extent. His military campaigns and wealth accumulation demonstrated the kingdom&#x27;s strength, while his patronage sustained Alexandria as the premier center of Hellenistic learning. His rule is often viewed as the high point before the dynasty&#x27;s subsequent decline.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kka-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "ptolemy-iii-euergetes-epigram-kka-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-iii-euergetes/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ptolemy-iii-euergetes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-iii-euergetes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-iii-euergetes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-iii-euergetes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-iii-euergetes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

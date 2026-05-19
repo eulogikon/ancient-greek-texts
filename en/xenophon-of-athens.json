@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ezq",
+  "auth_slug": "xenophon-of-athens",
+  "name": {
+    "english": "Xenophon of Athens",
+    "ancient_greek": "Ξενοφῶν ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Xenophon of Athens on History, Socrates, and the Anabasis",
+  "seo": {
+    "browser_title": "Xenophon of Athens on Eulogikon Greek Archive and Library",
+    "meta_title": "Xenophon Ancient Greek Historical Works and Philosophy",
+    "meta_description": "Xenophon of Athens, a classical historian and philosopher. Works include the Anabasis and Hellenica. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Xenophon of Athens was an Athenian historian, soldier, and student of Socrates who lived from approximately 430 to 354 BCE. His life was shaped by the Peloponnesian War and its turbulent aftermath. In 401 BCE, he joined the expedition of Cyrus the Younger against the Persian king Artaxerxes II. Following Cyrus&#x27;s death, Xenophon played a key role in leading the retreat of the Greek mercenaries, an experience he later chronicled in his famous work <strong>Anabasis</strong>. Exiled from Athens due to his pro-Spartan associations, he lived for a time on an estate in Scillus provided by Sparta, and possibly moved to Corinth after 371 BCE.</p>\n<p class=\"research-text\">Xenophon&#x27;s diverse body of extant work includes historical narratives, Socratic dialogues, and technical treatises. His major historical works are the <strong>Anabasis</strong>, which recounts the Persian expedition and the Greeks&#x27; long retreat, and the <strong>Hellenica</strong>, a history that continues the narrative of Thucydides. His principal Socratic writings comprise the <strong>Memorabilia</strong>, the <strong>Oeconomicus</strong>, the <strong>Symposium</strong>, and the <strong>Apology</strong>. Other significant works include the <strong>Cyropaedia</strong>, a partly fictionalized biography of Cyrus the Great; practical treatises on leadership, horsemanship, and hunting; and the <strong>Constitution of the Spartans</strong>. The <strong>Constitution of the Athenians</strong> is sometimes attributed to him, though its authorship remains debated.</p>\n<p class=\"research-text\">Xenophon is a crucial primary source for the history of late-fifth and fourth-century Greece, Persia, and Sparta. His <strong>Hellenica</strong> provides the only continuous contemporary narrative for the period from 411 to 362 BCE. His Socratic writings offer an important practical counterpoint to the more philosophical works of Plato. His clear and straightforward Attic prose style was later admired and considered a model of classical Greek writing.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 15,
+  "works": [
+    {
+      "eul_wid": "ezq-ai",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "xenophon-of-athens-agesilaus-ezq-ai",
+      "passages": 119,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-am",
+      "title": {
+        "english": "Anabasis",
+        "ancient_greek": "Ἀνάβασις"
+      },
+      "url_slug": "xenophon-of-athens-anabasis-ezq-am",
+      "passages": 51,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/anabasis.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-an",
+      "title": {
+        "english": "Apology",
+        "ancient_greek": "Ἀπολογία"
+      },
+      "url_slug": "xenophon-of-athens-apology-ezq-an",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/apology.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ab",
+      "title": {
+        "english": "Constitution of the Athenians",
+        "ancient_greek": "Ἀθηναίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-ezq-ab",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aa",
+      "title": {
+        "english": "Constitution of the Lacedaemonians",
+        "ancient_greek": "Λακεδαιμονίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-lacedaemonians-ezq-aa",
+      "passages": 103,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ag",
+      "title": {
+        "english": "Cyropaedia",
+        "ancient_greek": "Κύρου Παιδεία"
+      },
+      "url_slug": "xenophon-of-athens-cyropaedia-ezq-ag",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cyropaedia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cyropaedia.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aj",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικός"
+      },
+      "url_slug": "xenophon-of-athens-economics-ezq-aj",
+      "passages": 335,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/economics.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ak",
+      "title": {
+        "english": "Hellenica",
+        "ancient_greek": "Ἑλληνικά"
+      },
+      "url_slug": "xenophon-of-athens-hellenica-ezq-ak",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hellenica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hellenica.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ao",
+      "title": {
+        "english": "Hiero",
+        "ancient_greek": "Ἱέρων"
+      },
+      "url_slug": "xenophon-of-athens-hiero-ezq-ao",
+      "passages": 123,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hiero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-af",
+      "title": {
+        "english": "Memorabilia",
+        "ancient_greek": "Κύρου Ἀνάβασις"
+      },
+      "url_slug": "xenophon-of-athens-memorabilia-ezq-af",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/memorabilia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "passages": 173,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ac",
+      "title": {
+        "english": "On the Art of Horsemanship",
+        "ancient_greek": "Περὶ Ἱππικῆς"
+      },
+      "url_slug": "xenophon-of-athens-horsemanship-ezq-ac",
+      "passages": 142,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/horsemanship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/horsemanship.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ad",
+      "title": {
+        "english": "On the Cavalry Commander",
+        "ancient_greek": "Περὶ Ἱππαρχίας"
+      },
+      "url_slug": "xenophon-of-athens-cavalry-commander-ezq-ad",
+      "passages": 121,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/cavalry-commander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/cavalry-commander.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-al",
+      "title": {
+        "english": "Symposium",
+        "ancient_greek": "Συμπόσιον"
+      },
+      "url_slug": "xenophon-of-athens-symposium-ezq-al",
+      "passages": 183,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/symposium.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ae",
+      "title": {
+        "english": "Ways and Means",
+        "ancient_greek": "Πόροι ἢ Περὶ Προσόδων"
+      },
+      "url_slug": "xenophon-of-athens-ways-means-ezq-ae",
+      "passages": 85,
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/ways-means",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/xenophon-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/xenophon-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

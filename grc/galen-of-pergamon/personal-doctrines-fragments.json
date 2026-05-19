@@ -1,0 +1,412 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qmm-at",
+  "eul_aid": "qmm",
+  "author_slug": "galen-of-pergamon",
+  "work_slug": "personal-doctrines-fragments",
+  "url_slug": "galen-of-pergamon-personal-doctrines-fragments-qmm-at",
+  "author": {
+    "english": "Galen of Pergamon",
+    "ancient_greek": "Γαληνὸς ὁ Περγαμηνός"
+  },
+  "title": {
+    "english": "On Personal Doctrines, Unpublished Fragments",
+    "ancient_greek": "Περὶ τῶν ἰδίων δογμάτων"
+  },
+  "seo": {
+    "browser_title": "Ancient On Personal Doctrines by Galen on Eulogikon",
+    "meta_title": "Classical On Personal Doctrines by Galen in Ancient Greek",
+    "meta_description": "Galen outlines his distinctive medical theories and physiological principles in this foundational treatise. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Personal Doctrines_ is a fragmentary treatise by the physician Galen of Pergamon. Long believed lost, excerpts from the work were rediscovered in 2005 within a 15th-century Greek manuscript held in Thessaloniki. The text functions as an intellectual autobiography, in which Galen systematically outlines and defends his core medical and philosophical doctrines for his students while critiquing rival schools such as the Empiricists and Methodists. The seven surviving passages argue for the necessity of logical demonstration in medicine and defend a teleological understanding of nature, synthesizing Platonic and Aristotelian philosophy. Central themes include the refutation of medical skepticism, the assertion that physicians require training in logic and physics, and the construction of Galen’s personal doctrinal legacy. The work was absent from the medieval Galenic corpus and its full scope remains unknown, as the manuscript preserves only excerpts rather than the complete treatise. Its rediscovery has profoundly impacted modern scholarship, providing crucial insight into Galen’s late thought, his epistemological commitments, and his strategies for securing his posthumous reputation against contemporary rivals.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Γαληνοῦ περὶ τῶν ἑαυτῷ δοκούντω ν . Ἐδείχθη δὲ καί, ὅπως λέγεται τὸ πλεῖστον· οὐ γὰρ κατὰ τὴν τῆς ποιότητος ἐπίτασιν. ἀλλὰ τῷ μέτρῳ πλέον ἀκούειν χρή. Ἐδείχθη τῷ μὲν ἐμφύτῳ θερμῷ θερμοτέρους εἶναι τοὺς παῖδας τῶν ἀκμαζόντων, τῷ δ’ ἐπικτήτῳ τοὺς ἀκμάζοντας τῶν παίδων, ὥσπερ γε καὶ τοὺς ὑγιαίνοντας τῶν πυρεττόντων πλέον ἔχειν τὸ ἔμφυτον θερμὸν καὶ τοσούτῳ χείρονα τὸν πυρετὸν ὑπάρχειν, ὅσῳπερ ἂν ἔλαττον ᾖ κατὰ τὸ τοῦ ζῴου σῶμα τὸ ἔμφυτον θερμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "〈ἔστι μὲν〉 γὰρ τὸ 〈ἐπίκτη〉τον ἀηδές τε καὶ δακνῶδες, ἄδηκτον δὲ καὶ ἄλυπον τὸ ἔμφυτον θερμόν· καὶ κατά〈δηλον〉 τὸ κατὰ τὴν τροπὴν τῆς ἐμφύτου θερμασίας γεννᾶσθαι τοὺς πυρετούς, ὧν ἔδειξα τρία γένη εἶναι τὰ πρῶτα, ὀνόματα δ’ αὐτῶν ἓν μὲν τῶν ἐφημέρων, ἕτερον δὲ τῶν ἑκτικῶν καὶ τρίτον τῶν ἐπὶ σήψει χυμῶν. Τὴν θερμὴν καὶ ὑγρὰν κρᾶσιν ἀρίστην ἀπεφήναντο πολλοὶ τῶν ἰατρῶν τε καὶ φιλοσόφων, οὐκ οὖσαν οὕτως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Περὶ τῶν γερόντων ἡλικίας ἔσται τις φαντασία διαφωνίας, ἐὰν ὁ μέν τις αὐτὴν ὑγράν, ὁ δὲ ξηρὰν εἶναι λέγῃ· κατὰ μὲν γὰρ τὴν αὐτῶν τῶν στερεῶν σωμάτων κρᾶσιν ὀρθῶς ἂν λέγοιτο ξηρά, κατὰ δὲ τὴν τῶν ὑγρῶν περιττωμάτων ὑγρά. Οὕτω κἀν τῷ φάσκειν ἡμᾶς τὰ μὲν νεῦρα τῆς ψυχροτέρας εἶναι κράσεως, εὐαισθητότερον δὲ τὸ θερμότερον τοῦ ψυχροτέρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Πρῶτον μὲν γὰρ ἐδείξαμεν αἰσθητικὸν εἶναι τὸ μόριον, ὡς καὶ τοῖς παλαιοῖς ἔδοξεν εἶναι, ᾧ τὸ τῆς ψυχῆς ἡγεμονικόν ἐστιν· ἐπιρρεῖν γοῦν ἀπ’ ἐκείνου διὰ τῶν νεύρων ἐπὶ πάντα τοῦ σώματος τὰ μόρια δύναμιν αἰσθήσεώς τε καὶ τῆς καθ’ ὁρμὴν κινήσεως. ἐρρέθη δ’, ὅτι καθ’ ὁρμὴν καὶ προαίρεσιν λέγειν οὐ διοίσει. ταύτην δὲ τὴν δύναμιν εἴς γε ἕκαστον μόριον ἀφικνουμένην αἰσθητικὸν ἀποτελεῖν αὐτό. τὴν δὲ τῆς δυνάμεως ἀλλοίωσιν ἑτοιμότερον δέχεσθαι τὰ θερμότερα μόρια καὶ διὰ τοῦτ’ αἰσθητικώτερα γίγνεσθαι τῶν φύσει ψυχροτέρων. ἡ δὲ διὰ τῶν νεύρων ἰοῦσα δύναμις οἱονεὶ δι’ ὀχετῶν αἰσθανόμενα μὲν ποιεῖ καὶ τὰ νεῦρα, μᾶλλον δ’ αἰσθανόμενα τῆς σαρκώδους οὐσίας οὐκ ἐργάζεται. Νομίζεται δ’ ὑπὸ τῶν πολλῶν ἰατρῶν αἰσθητικώτερα τῶν σαρκῶν εἶναι τὰ νεῦρα .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": ". . . . . . . . . . . . . . . . . . . . . . . . . . . . . . φοροι διότι τοῦ πρωτ τω ναι .... μορ ἀποβλάστημα δέ, ὡς εἴ γε διατέμοις ὅλον τὸ νεῦρον, οὐδεὶς κίνδυνος ἕπεται, μηκέτι τῇ ...... φλεγμονῇ τῆς ἀρχῆς συμπασχούσης. καὶ μέντοι καὶ πολλοὶ τῶν ἰατρῶν φοβούμενοι τοὺς ἀκολουθοῦντας κινδύνους ταῖς φλεγμοναῖς τῶν νεύρων ὅλον ἐνίοτε διακόψαντες τὸ νενυγμένον νεῦρον καὶ φλεγμαῖνον ἔλαθον τὸν κάμνοντα, μὴ δυνάμενοι λαθεῖν, ἐὰν σαρκῶδές τι μόριον διακόψωσιν. οὕτω δὲ κἀν ταῖς φλεβοτομίαις ἄκοντες ἐνίοτε διακόψαντες νεῦρον τριχοειδὲς ἐπιτεταμένον τῇ τεμνομένῃ φλεβὶ κατὰ μὲν αὐτὴν τὴν τομὴν οὐδὲν μᾶλλον ὀδύνην εἰργάσαντο τῶν μὴ τεμνομένων, ὕστερον δὲ ναρκώδους αἰσθήσεως ἐπιγενομένης λογίζονται διῃρηκέναι νεῦρον. τὸ δὲ ναρκῶδες ὀδύνης ἀμυδρᾶς ἐπὶ τῇ τῶν νεύρων φλεγμονῇ γνώρισμα. καὶ πολλοὶ μηδεμιᾶς ὀδύνης ἀξιολόγου κατὰ τὰς τῶν νεύρων φλεγμονὰς αἰσθανόμενοι μικρὸν ὕστερον ἐσπάσθησαν, ἐκ μὲν τοῦ σπασθῆναι δηλώσαντες οὐ μικρὰν εἶναι τὴν φλεγμονήν, ἐκ δὲ τοῦ μετρίως ἔμπροσθεν ὠδυνῆσθαι δηλοῦντες οὐκ εἶναι σφοδρὰν ὀδύνην ἐπὶ τῇ τῶν νεύρων φλεγμονῇ, διότι μηδ’ ἰσχυρὰν αἴσθησιν. Ἐδείχθη ἔνια ἐν τοῖς περὶ 〈τῆσ〉 τῶν ἁπλῶν φαρμάκων δυνάμεως κατὰ τὸ θερμαίνειν ἢ ψύχειν ἢ ξηραίνειν ἢ ὑγραίνειν, ἔνια δὲ κατὰ συζυγίαν ἐνεργοῦντα κατὰ τὸ θερμαίνειν ἅμα καὶ ὑγραίνειν ἢ τὸ ψύχειν ἅμα καὶ ξηραίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ἕτερον δὲ γένος εἶναι φαρμάκων κατὰ τὴν ἰδιότητα τῆς ὅλης οὐσίας ἐνεργούντων. τοιαῦτα δ’ ἐδείκνυον ὄντα τά τε καθαίροντα καὶ τὰ δηλητήρια καλούμενα, διαφέροντα τῶν ἁπλῶς θανασίμων ὀνομαζομένων τῷ τὰ μὲν δηλητήρια μηδέποτ’ ὠφελεῖν ἡμᾶς, τὰ δὲ θανάσιμα φέρειν ὠφέλειαν ἔσθ’ ὅτε βραχεῖαν λαμβανόμενα μετὰ μίξεως ἐνίοτε χρησίμων τινῶν. οὕτω γοῦν καὶ τῷ τοῦ μήκωνος ὀπῷ πρὸς ὠφέλειαν χρώμεθα. τῶν δ’ ὠφελούντων ἡμᾶς φαρμάκων ἔνια μὲν κατὰ μίαν ἢ δύο ποιότητας ἐνεργοῦντα, τινὰ δ’ ὅλῃ τῆς οὐσίας ἰδιότητι, καὶ μέντοι καὶ τῶν τῆς φύσεως ἔργων ἔνια μὲν ὑπὸ μιᾶς ἢ δύο γίγνεσθαι ποιοτήτων, ἔνια δὲ καθ’ ὅλην τὴν οὐσίαν, ὡς τὰς ἐν τῇ γαστρὶ πέψεις αἱματώσεις τε καθ’ ἧπαρ ἔτι τε τὰς καθ’ ἕκαστον μόριον αὐξήσεις τε καὶ θρέψεις ὑπάρχειν τε τὰς ἐνεργείας ταύτας ἅπαντι μορίῳ τοῦ ζῴου. διοικεῖν γὰρ ἕκαστον ἑαυτὸ κατὰ τὰς φυσικὰς ὀνομαζομένας δυνάμεις, ἃς κοινὰς ἔχει πρὸς τὰ φυτά, καθάπερ τι ζῷον ἑαυτὸ διασῷζον, εἰ τὸ μὲν οἰκεῖον ἕλκει, τὸ δ’ ἀλλότριον ἀποκρίνει μεταβάλλει τε καὶ ἀλλοιοῖ καὶ ἐξομοιοῖ πρὸς τὴν ἑαυτοῦ φύσιν ἕκαστον τῶν ἑλχθέντων. ἐπικουρίας δ’ αὐτὰ δεῖσθαι πρὸς τὸ διαμένειν ἐν τῷ κατὰ φύσιν, ἥπατος μὲν ἐπιπέμποντός τε ἅμα τροφὴν ἐπιτήδειον, αὐξάνοντος δὲ τὰς δυνάμεις, εἴ ποτε κάμνοιεν. εἶναι γὰρ οἷόν τινα ἑστίαν καὶ πηγὴν αὐτὸ τῶν φυσικῶν δυνάμεων, ὡς ἐν τοῖς φυτοῖς τὸ μέρος, καθ’ οὗ συμβάλλουσιν αἱ ῥίζαι τῷ πρέμνῳ. μέχρι γὰρ ἂν τοῦτο διασῴζῃ τὴν ἑαυτοῦ δύναμιν, ἂν καὶ τῶν ῥιζῶν τι καὶ τῶν κλάδων 〈πάθῃ〉, ἀνασῴζεται τὸ φυτόν. οὐ μὴν ὁμοίως γε ταύτῃ τὴν ἐξ ἐγκεφάλου χορηγουμένην δύναμιν αἰσθήσεώς τε καὶ κινήσεως ἑκάστῳ τῶν μορίων ὑπάρχειν· ἐν γὰρ τῷ γίγνεσθαι τὴν ὕπαρξιν ἔχειν ταύτην, οὐκ ἐν τῷ διαμένειν, ἐπεί γε τῶν ἀνθρωπίνων σωμάτων ὅσα τε τῶν ζῴων οὐ πόρρω τὴν φύσιν † τοῖσδ’ ἄν. οὕτω δὲ καὶ τῆς τῶν ἀρτηριῶν κινήσεως τὴν δύναμιν ἐπιρρεῖν ἀπὸ τῆς καρδίας, οὐ μὴν διαμένειν ἐν αὐταῖς, τὰς δὲ φυσικὰς ὀνομαζομένας ἐμφύτους μένειν ἐν ταῖς οὐσίαις τῶν μορίων. εἰς δὲ τὸ διαμένειν τὴν εὐκρασίαν τῆς οὐσίας αὐτῶν οὐ σμικρὰν γίγνεσθαι βοήθειαν ἐκ τῶν σφυγμῶν, ὡς ἐν τῷ περὶ χρείας σφυγμῶν δέδεικται γράμματι. Νέος μὲν γὰρ ὢν εἱπόμην ἀνδράσιν ἀξιολόγοις ἡγουμένοις τὴν καρδίαν ἁπάντων πρώτην διαπλάττεσθαι· προϊὼν δὲ κατὰ τὴν ἡλικίαν ὑπώπτευσα τὸν λόγον ὡς πιθανὸν μέν, οὐ μὴν ἀληθῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "χωρὶς μὲν γὰρ αἵματος ἀδύνατόν ἐστι γενηθῆναι τὸ σπλάγχνον τοῦτο. γίγνεται δὲ αἷμα διὰ τῶν ἐν τῇ μήτρᾳ ἀγγείων . . . τὴν γένεσιν ἔχει ἀφικνούμενον εἰς ἧπαρ πρότερον ἐμφυομένης. οὐ μὴν οὐδὲ τοῦ ἥπατος εἰκὸς αὐτὴν διαπεπλάσθαι προτέραν φαινομένης γε σαφῶς τῆς ἐκ τῶν κατὰ τὸ χορίον ἁπασῶν φλεβῶν γενομένης φλεβὸς εἰς τὸ ἧπαρ ἀφικνουμένης πρότερον ἤπερ εἰς τὴν καρδίαν. ἔτι δὲ ἀτοπώτερος ὁ λόγος εἶναί μοι φαίνεται τῶν οἰομένων ὑπὸ τῆς καρδίας διαπλάττεσθαι τὰ κυούμενα μόρια. τὸ γὰρ αὐτήν τε τὴν καρδίαν διαπλάσαν ἔτι δὲ πρὸ αὐτῆς τάς τε ἀρτηρίας τε καὶ τὰς φλέβας εὔλογόν ἐστιν, ὥσπερ ταῦτά τε καὶ σὺν αὐτοῖς τὸ ἧπαρ, οὕτω καὶ τἄλλα διαπλάττειν, ἅπερ ἔνιοι μὲν ἡγοῦνται τὸ καταβαλλόμενον εἰς τὰς μήτρας εἶναι σπέρμα. τὸν ἐς δὲ τοῦτο μὲν ὄργανον. ἕτερον δ’ ἔτι θειότερον ὑπάρχειν τὸ διαπλάττον τὰ κυούμενα νομίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aj",
+      "title": {
+        "english": "Against What Julian Said-Hippocrates' Aphorisms",
+        "ancient_greek": "Κατὰ τῶν ὑπὸ Ἰουλιανοῦ περὶ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ax",
+      "title": {
+        "english": "Commentary on Plato's Timaeus",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμαίου ἀποσπάσματα"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ax-qmm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-as",
+      "title": {
+        "english": "Explanation of Obsolete Words of Hippocrates",
+        "ancient_greek": "Ἐξήγησις τῶν παλαιῶν λέξεων τοῦ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-explanation-obsolete-words-qmm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/explanation-obsolete-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ef",
+      "title": {
+        "english": "Galen",
+        "ancient_greek": "Γαληνὸς περὶ δίαιτας ἀδυνατίζουσας"
+      },
+      "url_slug": "galen-of-pergamon-text-qmm-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vjk-ae",
+      "title": {
+        "english": "Fragments of Timotheus of Gaza",
+        "ancient_greek": "Ἀποσπάσματα Τιμοθέου τοῦ Γάζης"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-ad",
+      "title": {
+        "english": "Medical Book VII",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Ζʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-vii-vhc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-vii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-vii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-vii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-vii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-vii.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ai",
+      "title": {
+        "english": "Names of Human Parts, Book 1",
+        "ancient_greek": "Ὀνομασίαι τῶν κατὰ ἄνθρωπον"
+      },
+      "url_slug": "medical-writers-anonymous-human-parts-umi-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/human-parts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-aa",
+      "title": {
+        "english": "On Diseases of the Kidneys and Bladder",
+        "ancient_greek": "Περὶ Νεφρῶν καὶ Κύστεως Παθῶν"
+      },
+      "url_slug": "rufus-of-ephesus-kidneys-bladder-ojc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.json"
+      }
+    },
+    {
+      "eul_wid": "nys-ab",
+      "title": {
+        "english": "On Poisons and Their Precaution and Treatment",
+        "ancient_greek": "Περὶ δηλητηρίων καὶ τῆς προφυλάξεως καὶ"
+      },
+      "url_slug": "pseudo-dioscorides-poisons-treatment-nys-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/poisons-treatment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/poisons-treatment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/poisons-treatment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/poisons-treatment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/poisons-treatment.json"
+      }
+    },
+    {
+      "eul_wid": "umi-aq",
+      "title": {
+        "english": "On Urine in Fevers",
+        "ancient_greek": "Περὶ Οὖρων ἐν Πυρετοῖς"
+      },
+      "url_slug": "medical-writers-anonymous-urine-fever-umi-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/urine-fever",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-fever.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-fever.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-fever.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-fever.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bb",
+      "title": {
+        "english": "On the Physician",
+        "ancient_greek": "Περὶ Ἰατροῦ"
+      },
+      "url_slug": "hippocrates-physician-bww-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/physician",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/physician.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/physician.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/physician.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/physician.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ac",
+      "title": {
+        "english": "Summary to Eustathius the Son",
+        "ancient_greek": "Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν"
+      },
+      "url_slug": "oribasius-of-pergamon-summary-eustathius-soi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/summary-eustathius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/galen-of-pergamon/personal-doctrines-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bsq",
+  "auth_slug": "epic-anonymous-i",
+  "name": {
+    "english": "Epic Work Anonymous I",
+    "ancient_greek": "Ἐπικὸν ποίημα Ἀνώνυμον"
+  },
+  "seo_h1": "Epic Work Anonymous I and the Alcmaeonis",
+  "seo": {
+    "browser_title": "The Epic Work Anonymous I on Eulogikon Greek Archive",
+    "meta_title": "The Epic Work Anonymous I Ancient Greek Epic Verse",
+    "meta_description": "Anonymous epic poet from the Classical period, 8th to 4th century BCE. Surviving works include one epic poem. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">No biographical information exists for the anonymous author of the Epic Work Anonymous I. The proposed dating from the 8th to the 4th centuries BCE spans the Archaic and Classical periods, when anonymous composition for certain epic poems and hymns was not uncommon.</p>\n<p class=\"research-text\">The sole known work is the Epic Work Anonymous I, which appears to be lost or preserved only in fragments.</p>\n<p class=\"research-text\">The poem&#x27;s importance would depend on its content, which might include mythological narratives or local histories. Such anonymous works are studied for their evidence of regional traditions and the development of epic poetry outside the canonical Homeric corpus.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bsq-aa",
+      "title": {
+        "english": "Alcmaeonis Fragments",
+        "ancient_greek": "Ἀλκμαίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-anonymous-i-alcmaeon-bsq-aa",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-anonymous-i/alcmaeon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i/alcmaeon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i/alcmaeon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i/alcmaeon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-anonymous-i/alcmaeon.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/epic-anonymous-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epic-anonymous-i.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epic-anonymous-i.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epic-anonymous-i.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epic-anonymous-i.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,355 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "utq",
+  "auth_slug": "olympiodorus-the-younger-of-alexandria",
+  "name": {
+    "english": "Olympiodorus the Younger of Alexandria",
+    "ancient_greek": "Ὀλυμπιόδωρος ὁ Νεώτερος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Olympiodorus the Younger on Plato and Aristotle in Alexandria",
+  "seo": {
+    "browser_title": "Olympiodorus the Younger on Eulogikon Greek Archive",
+    "meta_title": "Classical Olympiodorus the Younger Ancient Greek Treatises",
+    "meta_description": "Olympiodorus the Younger, 6th century Neoplatonist. Seven surviving philosophical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Olympiodorus the Younger was a Neoplatonic philosopher who lived and taught in Alexandria during the 6th century CE. He is traditionally considered the last pagan head of the Alexandrian school, continuing to teach after the closure of the Athenian Academy in 529. His career represents the persistence of pagan philosophical education within a Christian empire.</p>\n<p class=\"research-text\">He was a student of Ammonius Hermiae and taught classes attended by both pagan and Christian students. His surviving works are primarily commentaries based on his lectures. These include explanations of Plato’s dialogues <strong>Alcibiades I</strong>, <strong>Gorgias</strong>, and <strong>Phaedo</strong>, as well as commentaries on Aristotle’s <strong>Categories</strong> and <strong>Meteorologica</strong>. A work titled <strong>Life of Plato</strong> is also attributed to him.</p>\n<p class=\"research-text\">According to modern scholars, his approach often focused on the ethical and logical teachings of Plato and Aristotle, avoiding more contentious metaphysical debates. This conciliatory style is seen as a practical adaptation to his historical context. Olympiodorus is a significant transitional figure in late antique philosophy. Academics view him as the final representative of the Alexandrian commentary tradition, which sought to harmonize the works of Plato and Aristotle.</p>\n<p class=\"research-text\">His writings are valuable for understanding the teaching methods of his time and for preserving earlier Neoplatonic ideas. By transmitting this philosophical heritage, his work helped ensure its survival into the Byzantine and medieval periods.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 7,
+  "works": [
+    {
+      "eul_wid": "utq-ab",
+      "title": {
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ μετεωρολογικὰ Ἀριστοτέλους"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-commentary-aristotle-utq-ab",
+      "passages": 338,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "utq-ac",
+      "title": {
+        "english": "Commentary-Plato's Alcibiades",
+        "ancient_greek": "Σχόλια εἰς τὸν Ἀλκιβιάδην Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-commentary-alcibiades-utq-ac",
+      "passages": 235,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/commentary-alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "utq-ad",
+      "title": {
+        "english": "Commentary-Plato's Gorgias",
+        "ancient_greek": "Σχόλια εἰς τὸν Γοργίαν Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad",
+      "passages": 463,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "utq-af",
+      "title": {
+        "english": "Commentary-Plato's Phaedo",
+        "ancient_greek": "Σχόλια εἰς τὸν Φαίδωνα Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-phaedo-commentary-utq-af",
+      "passages": 159,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/phaedo-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "utq-ag",
+      "title": {
+        "english": "Introduction",
+        "ancient_greek": "Προλεγόμενα"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-introduction-utq-ag",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/introduction.json"
+      }
+    },
+    {
+      "eul_wid": "utq-ae",
+      "title": {
+        "english": "On the Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae",
+      "passages": 123,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "utq-aa",
+      "title": {
+        "english": "Scholia-Aristotle's Book-Interpretation",
+        "ancient_greek": "Σχόλια εἰς τὸ περὶ ἑρμηνείας Ἀριστοτέλους"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-scholia-interpretation-utq-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/scholia-interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/scholia-interpretation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/scholia-interpretation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/scholia-interpretation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/scholia-interpretation.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.json"
+      }
+    },
+    {
+      "eul_aid": "uyg",
+      "name": {
+        "english": "Damascius of Damascus",
+        "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/damascius-of-damascus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/olympiodorus-the-younger-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-younger-of-alexandria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-younger-of-alexandria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-younger-of-alexandria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-younger-of-alexandria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

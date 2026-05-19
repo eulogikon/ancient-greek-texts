@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "sac",
+  "auth_slug": "maximus-of-ephesus",
+  "name": {
+    "english": "Maximus of Ephesus",
+    "ancient_greek": "Μάξιμος ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Maximus of Ephesus on Beginnings and Neoplatonic Theurgy",
+  "seo": {
+    "browser_title": "Maximus of Ephesus Neoplatonist on Eulogikon Greek Archive",
+    "meta_title": "Maximus of Ephesus Ancient Greek Philosophical Works",
+    "meta_description": "Maximus of Ephesus, 4th century CE Neoplatonic philosopher. Works from the Iamblichean tradition. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Maximus of Ephesus was a Neoplatonic philosopher and theurgist of the 4th century CE. A student of Aedesius, he belonged to the tradition founded by Iamblichus, which combined philosophical study with ritual practices, known as theurgy, aimed at connecting with the divine.</p>\n<p class=\"research-text\">His historical importance stems primarily from his role as the tutor to the future Emperor Julian. While Julian was under house arrest around 351 CE, Maximus instructed him in philosophy and initiated him into theurgic rites and traditional pagan worship. This teaching profoundly influenced Julian’s rejection of Christianity. When Julian became emperor, Maximus joined his court in Constantinople as a trusted advisor.</p>\n<p class=\"research-text\">After Julian’s death, during the reign of the Christian emperor Valens, Maximus was arrested on charges of using divination. He was tortured and executed around 370 CE. Later pagan writers viewed his death as a martyrdom for the traditional Hellenic religion.</p>\n<p class=\"research-text\">No complete writings by Maximus survive. His influence was exercised through oral teaching and ritual practice, known only from references by later historians. According to modern scholars, his significance lies in being a key architect of Emperor Julian’s failed project to restore paganism, making him a central figure in the final major political conflict between Christianity and the old Roman religions in the late Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "sac-ab",
+      "title": {
+        "english": "On Beginnings",
+        "ancient_greek": "Περὶ καταρχῶν"
+      },
+      "url_slug": "maximus-of-ephesus-beginnings-ab-sac-ab",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/maximus-of-ephesus/beginnings-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-ab.json"
+      }
+    },
+    {
+      "eul_wid": "sac-aa",
+      "title": {
+        "english": "On Beginnings, Epitome",
+        "ancient_greek": "Περὶ καταρχῶν"
+      },
+      "url_slug": "maximus-of-ephesus-beginnings-aa-sac-aa",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/maximus-of-ephesus/beginnings-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-ephesus/beginnings-aa.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/maximus-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-ephesus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-ephesus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-ephesus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-ephesus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

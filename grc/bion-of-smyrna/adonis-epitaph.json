@@ -1,0 +1,269 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mwq-ab",
+  "eul_aid": "mwq",
+  "author_slug": "bion-of-smyrna",
+  "work_slug": "adonis-epitaph",
+  "url_slug": "bion-of-smyrna-adonis-epitaph-mwq-ab",
+  "author": {
+    "english": "Bion of Smyrna",
+    "ancient_greek": "Βίων ὁ Σμυρναῖος"
+  },
+  "title": {
+    "english": "Adonis Epitaph",
+    "ancient_greek": "Αδώνιδος επιτάφιος"
+  },
+  "seo": {
+    "browser_title": "Ancient Adonis Epitaph by Bion of Smyrna on Eulogikon",
+    "meta_title": "Classical Adonis Epitaph by Bion of Smyrna in Ancient Greek",
+    "meta_description": "Bion's pastoral elegy mourns the death of Adonis with lyrical beauty and mythological depth. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Adonis Epitaph</strong> is a pastoral lament attributed to the Hellenistic poet Bion of Smyrna. Structured as a monody, the poem mourns the death of the beautiful youth Adonis, the mortal lover of the goddess Aphrodite. It presents a series of lamentations voiced primarily by the grieving goddess, joined by the Erotes and personified natural forces, culminating in a promise of annual ritual mourning. The work is a distinct composition from the later <strong>Lament for Bion</strong> traditionally ascribed to Moschus.</p>\n<p class=\"research-text\">The poem explores the profound grief of Aphrodite over her lover&#x27;s violent death, which is caused by a wound from a boar&#x27;s tusk. It dwells on the transience of youth and beauty, embodied by the fading corpse of Adonis, and examines the violent intersection of erotic love and death. The text incorporates elements of ritualized mourning, reflecting practices linked to the contemporary cult of Adonis, and depicts the sympathetic participation of the natural world, including mountains, rivers, and flowers, in the divine sorrow. The narrative moves from the initial cry of loss through vivid descriptions of the fatal wound and Aphrodite&#x27;s distraught wanderings, concluding with a directive for perpetual lamentation.</p>\n<p class=\"research-text\">The text survives within the manuscript tradition of the Hellenistic bucolic poets, transmitted alongside the works of Theocritus and Moschus. It is preserved in numerous manuscripts, with a key witness being the 13th–14th century codex <strong>Laurentianus</strong> 32.16. A polished literary adaptation of ritual lament, the poem was highly influential. It directly inspired the <strong>Lament for Bion</strong> and served as a foundational model for the pastoral elegy tradition, shaping the treatment of mythological themes of love and loss in later European poetry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Αἰάζω τὸν Ἄδωνιν, ‘ἀπώλετο καλὸς Ἄδωνισ‘· ‘ὤλετο καλὸς Ἄδωνισ‘, ἐπαιάζουσιν Ἔρωτες. μηκέτι πορφυρέοις ἐνὶ φάρεσι Κύπρι κάθευδε· ἔγρεο, δειλαία, κυανόστολα καὶ πλατάγησον στήθεα καὶ λέγε πᾶσιν, ‘ἀπώλετο καλὸς Ἄδωνισ‘. [para]αἰάζω τὸν Ἄδωνιν· ἐπαιάζουσιν Ἔρωτες. κεῖται καλὸς Ἄδωνις ἐν ὤρεσι μηρὸν ὀδόντι, λευκῷ λευκὸν ὀδόντι τυπείς, καὶ Κύπριν ἀνιῇ λεπτὸν ἀποψύχων· τὸ δέ οἱ μέλαν εἴβεται αἷμα χιονέας κατὰ σαρκός, ὑπ’ ὀφρύσι δ’ ὄμματα ναρκῇ, καὶ τὸ ῥόδον φεύγει τῶ χείλεος· ἀμφὶ δὲ τήνῳ θνᾴσκει καὶ τὸ φίλημα, τὸ μήποτε Κύπρις ἀποίσει. Κύπριδι μὲν τὸ φίλημα καὶ οὐ ζώοντος ἀρέσκει, ἀλλ’ οὐκ οἶδεν Ἄδωνις ὅ νιν θνᾴσκοντα φίλησεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_2",
+      "text": "αἰάζω τὸν Ἄδωνιν· ἐπαιάζουσιν Ἔρωτες. ἄγριον ἄγριον ἕλκος ἔχει κατὰ μηρὸν Ἄδωνις, μεῖζον δ’ ἁ Κυθέρεια φέρει ποτικάρδιον ἕλκος. τῆνον μὲν περὶ παῖδα φίλοι κύνες ὠρύονται καὶ Νύμφαι κλαίουσιν Ὀρειάδες· ἁ δ’ Ἀφροδίτα λυσαμένα πλοκαμῖδας ἀνὰ δρυμὼς ἀλάληται πενθαλέα νήπλεκτος ἀσάνδαλος, αἱ δὲ βάτοι νιν ἐρχομέναν κείροντι καὶ ἱερὸν αἷμα δρέπονται· ὀξὺ δὲ κωκύοισα δι’ ἄγκεα μακρὰ φορεῖται Ἀσσύριον βοόωσα πόσιν, καὶ παῖδα καλεῦσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_3",
+      "text": "ἀμφὶ δέ νιν μέλαν αἷμα παρ’ ὀμφαλὸν ᾀωρεῖτο, στήθεα δ’ ἐκ μηρῶν φοινίσσετο, τοὶ δ’ ὑπὸ μαζοί χιόνεοι τὸ πάροιθεν Ἀδώνιδι πορφύροντο. [para]‘αἰαῖ τὰν Κυθέρειαν‘, ἐπαιάζουσιν Ἔρωτες. ὤλεσε τὸν καλὸν ἄνδρα, σὺν ὤλεσεν ἱερὸν εἶδος. Κύπριδι μὲν καλὸν εἶδος ὅτε ζώεσκεν Ἄδωνις, κάτθανε δ’ ἁ μορφὰ σὺν Ἀδώνιδι. ‘τὰν Κύπριν αἰαῖ‘ ὤρεα πάντα λέγοντι, καὶ αἱ δρύες ‘αἲ τὸν Ἄδωνιν‘· καὶ ποταμοὶ κλαίοντι τὰ πένθεα τᾶς Ἀφροδίτας, καὶ παγαὶ τὸν Ἄδωνιν ἐν ὤρεσι δακρύοντι, ἄνθεα δ’ ἐξ ὀδύνας ἐρυθαίνεται, ἁ δὲ Κυθήρα πάντας ἀνὰ κναμώς, ἀνὰ πᾶν νάπος οἰκτρὸν ἀείδει, [para]‘αἰαῖ τὰν Κυθέρειαν· ἀπώλετο καλὸς Ἄδωνισ‘· Ἀχὼ δ’ ἀντεβόασεν, ‘ἀπώλετο καλὸς Ἄδωνισ‘. Κύπριδος αἰνὸν ἔρωτα τίς οὐκ ἔκλαυσεν ἂν αἰαῖ;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_4",
+      "text": "ὡς ἴδεν, ὡς ἐνόησεν Ἀδώνιδος ἄσχετον ἕλκος, ὡς ἴδε φοίνιον αἷμα μαραινομένῳ περὶ μηρῷ, πάχεας ἀμπετάσασα κινύρετο, ‘μεῖνον Ἄδωνι, δύσποτμε μεῖνον Ἄδωνι, πανύστατον ὥς σε κιχείω, ὥς σε περιπτύξω καὶ χείλεα χείλεσι μίξω. ἔγρεο τυτθόν, Ἄδωνι, τὸ δ’ αὖ πύματόν με φίλησον, τοσσοῦτόν με φίλησον ὅσον ζώει τὸ φίλημα, ἄχρις ἀποψύχῃς ἐς ἐμὸν στόμα, κεἰς ἐμὸν ἧπαρ πνεῦμα τεὸν ῥεύσῃ, τὸ δέ σευ γλυκὺ φίλτρον ἀμέλξω, ἐκ δὲ πίω τὸν ἔρωτα· φίλημα δὲ τοῦτο φυλάξω ὡς αὐτὸν τὸν Ἄδωνιν, ἐπεὶ σύ με, δύσμορε, φεύγεις. φεύγεις μακρόν, Ἄδωνι, καὶ ἔρχεαι εἰς Ἀχέροντα πὰρ στυγνὸν βασιλῆα καὶ ἄγριον· ἁ δὲ τάλαινα ζώω καὶ θεός ἐμμι καὶ οὐ δύναμαί σε διώκειν. λάμβανε, Περσεφόνα, τὸν ἐμὸν πόσιν· ἐσσὶ γὰρ αὐτά πολλὸν ἐμεῦ κρέσσων, τὸ δὲ πᾶν καλὸν ἐς σὲ καταρρεῖ. ἐμμὶ δ’ ἐγὼ πανάποτμος, ἔχω δ’ ἀκόρεστον ἀνίαν, καὶ κλαίω τὸν Ἄδωνιν, ὅ μοι θάνε, καί σε φοβεῦμαι. θνᾴσκεις, ὦ τριπόθητε, πόθος δέ μοι ὡς ὄναρ ἔπτα, χήρα δ’ ἁ Κυθέρεια, κενοὶ δ’ ἀνὰ δώματ’ Ἔρωτες,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_5",
+      "text": "σοὶ δ’ ἅμα κεστὸς ὄλωλε. τί γάρ, τολμηρέ, κυνάγεις; καλὸς ἐὼν τί τοσοῦτον ἐμήναο θηρὶ παλαίειν;‘ ὧδ’ ὀλοφύρατο Κύπρις· ἐπαιάζουσιν Ἔρωτες, [para]‘αἰαῖ τὰν Κυθέρειαν, ἀπώλετο καλὸς Ἄδωνισ‘. δάκρυον ἁ Παφία τόσσον χέει ὅσσον Ἄδωνις αἷμα χέει, τὰ δὲ πάντα ποτὶ χθονὶ γίνεται ἄνθη· αἷμα ῥόδον τίκτει, τὰ δὲ δάκρυα τὰν ἀνεμώναν. αἰάζω τὸν Ἄδωνιν, ‘ἀπώλετο καλὸς Ἄδωνισ‘. μηκέτ’ ἐνὶ δρυμοῖσι τὸν ἀνέρα μύρεο, Κύπρι· οὐκ ἀγαθὰ στιβάς ἐστιν Ἀδώνιδι φυλλὰς ἐρήμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_6",
+      "text": "λέκτρον ἔχοι, Κυθέρεια, τὸ σὸν νῦν νεκρὸς Ἄδωνις· καὶ νέκυς ὢν καλός ἐστι, καλὸς νέκυς, οἷα καθεύδων. κάτθεό νιν μαλακοῖς ἐνὶ φάρεσιν οἷς ἐνίαυεν ὡς μετὰ τεῦς ἀνὰ νύκτα τὸν ἱερὸν ὕπνον ἐμόχθει· παγχρυσέῳ κλιντῆρι πόθες καὶ στυγνὸν Ἄδωνιν, βάλλε δέ νιν στεφάνοισι καὶ ἄνθεσι· πάντα σὺν αὐτῷ· ὡς τῆνος τέθνακε καὶ ἄνθεα πάντ’ ἐμαράνθη. ῥαῖνε δέ νιν Συρίοισιν ἀλείφασι, ῥαῖνε μύροισιν· ὀλλύσθω μύρα πάντα· τὸ σὸν μύρον ὤλετ’ Ἄδωνις. [para]κέκλιται ἁβρὸς Ἄδωνις ἐν εἵμασι πορφυρέοισιν, ἀμφὶ δέ νιν κλαίοντες ἀναστενάχουσιν Ἔρωτες κειράμενοι χαίτας ἐπ’ Ἀδώνιδι· χὢ μὲν ὀιστώς, ὃς δ’ ἐπὶ τόξον ἔβαλλεν, ὃ δὲ πτερόν, ὃς δὲ φαρέτραν· χὢ μὲν ἔλυσε πέδιλον Ἀδώνιδος, οἳ δὲ λέβητι χρυσείῳ φορέοισιν ὕδωρ, ὃ δὲ μηρία λούει,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_7",
+      "text": "ὃς δ’ ὄπιθεν πτερύγεσσιν ἀναψύχει τὸν Ἄδωνιν. [para]‘αἰαῖ τὰν Κυθέρειαν‘, ἐπαιάζουσιν Ἔρωτες. ἔσβεσε λαμπάδα πᾶσαν ἐπὶ φλιαῖς Ὑμέναιος καὶ στέφος ἐξεκέδασσε γαμήλιον· οὐκέτι δ’ ‘ὑμήν ὑμήν‘, οὐκέτ’ ἄειδεν ἑὸν μέλος, ἀλλ’ ἔλεγ’, ‘αἰαῖ αἰαῖ‘, καὶ ‘τὸν Ἄδωνιν‘ ἔτι πλέον ἢ ‘Ὑμέναιον‘. αἱ Χάριτες κλαίοντι τὸν υἱέα τῶ Κινύραο, ‘ὤλετο καλὸς Ἄδωνισ‘ ἐν ἀλλάλαισι λέγοισαι, ‘αἰαῖ‘ δ’ ὀξὺ λέγοντι πολὺ πλέον ἢ Παιῶνα. χαἰ Μοῖραι τὸν Ἄδωνιν ἀνακλείοισιν, Ἄδωνιν, καί νιν ἐπαείδουσιν, ὃ δέ σφισιν οὐκ ἐπακούει· οὐ μὰν οὐκ ἐθέλει, Κώρα δέ νιν οὐκ ἀπολύει. [para]λῆγε γόων Κυθέρεια τὸ σάμερον, ἴσχεο κομμῶν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_8",
+      "text": "δεῖ σε πάλιν κλαῦσαι, πάλιν εἰς ἔτος ἄλλο δακρῦσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mwq-aa",
+      "title": {
+        "english": "Myrson and Lycidas",
+        "ancient_greek": "Μύρσων καὶ Λυκίδας"
+      },
+      "url_slug": "bion-of-smyrna-myrson-lycidas-mwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/myrson-lycidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.json"
+      }
+    },
+    {
+      "eul_wid": "mwq-ac",
+      "title": {
+        "english": "Pastoral Dialogue on the Seasons",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bion-of-smyrna-seasons-dialogue-mwq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/seasons-dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jqu-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pancrates-of-arcadia-epigrams-jqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-arcadia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "ioi-aa",
+      "title": {
+        "english": "Fragments of Cynic Satire",
+        "ancient_greek": "Ἀποσπάσματα τῆς Κυνικῆς Σατύρας"
+      },
+      "url_slug": "cercidas-of-megalopolis-cynic-satire-ioi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cercidas-of-megalopolis/cynic-satire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.json"
+      }
+    },
+    {
+      "eul_wid": "hvm-ad",
+      "title": {
+        "english": "Fragments on Demeter and Places",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δήμητρος καὶ Τόπων"
+      },
+      "url_slug": "philetas-of-cos-demeter-places-hvm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetas-of-cos/demeter-places",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/demeter-places.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/demeter-places.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/demeter-places.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/demeter-places.json"
+      }
+    },
+    {
+      "eul_wid": "asm-aa",
+      "title": {
+        "english": "Fragments on Marriage and Kingship",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γάμου καὶ Βασιλείας"
+      },
+      "url_slug": "alcaeus-of-mytilene-marriage-kingship-asm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-of-mytilene/marriage-kingship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.json"
+      }
+    },
+    {
+      "eul_wid": "gfe-aa",
+      "title": {
+        "english": "On the Nature of Art and Wisdom",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-elegiac-poet-nature-art-wisdom-gfe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-elegiac-poet/nature-art-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "agy-ab",
+      "title": {
+        "english": "On the Uncertainty of Human Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "semonides-of-amorgos-uncertainty-life-agy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/semonides-of-amorgos/uncertainty-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/uncertainty-life.json"
+      }
+    },
+    {
+      "eul_wid": "ahi-ab",
+      "title": {
+        "english": "Spartan Constitution (Testimonies)",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας"
+      },
+      "url_slug": "tyrtaeus-of-sparta-constitution-ab-ahi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrtaeus-of-sparta/constitution-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.json"
+      }
+    },
+    {
+      "eul_wid": "fby-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "scythinus-of-teos-ii-testimonies-fby-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/scythinus-of-teos-ii/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bion-of-smyrna/adonis-epitaph",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/adonis-epitaph.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/adonis-epitaph.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/adonis-epitaph.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/adonis-epitaph.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

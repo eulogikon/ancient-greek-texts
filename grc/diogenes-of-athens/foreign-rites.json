@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cjy-aa",
+  "eul_aid": "cjy",
+  "author_slug": "diogenes-of-athens",
+  "work_slug": "foreign-rites",
+  "url_slug": "diogenes-of-athens-foreign-rites-cjy-aa",
+  "author": {
+    "english": "Diogenes of Athens",
+    "ancient_greek": "Διογένης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Foreign Rites",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ξένων Ἱερῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments on Foreign Rites by Diogenes Athens on Eulogikon",
+    "meta_title": "Fragments on Foreign Rites by Diogenes of Athens in Greek",
+    "meta_description": "Surviving fragments of the drama Fragments on Foreign Rites by Diogenes of Athens. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (dr, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Foreign Rites is a lost tragedy attributed to the late 5th-century Athenian playwright Diogenes of Athens. Known only by its title and attribution, the work survives in name alone, with no direct quotations or descriptions of its plot extant. The title suggests a dramatic focus on the religious rituals and sacred customs of non-Greek peoples. In the context of late 5th-century Athenian tragedy, such a subject would likely have explored themes of cultural conflict, the nature of piety, and the confrontation between Greek and foreign religious identities, reflecting a contemporary interest in religious otherness also evident in works like Euripides&#x27; <strong>Bacchae</strong>. The tragedy is noted as comprising eight fragmentary passages, though these are not quoted in standard sources; their transmission likely depends on preservation in later ancient scholarly or lexicographical works. As an attested title from the largely lost corpus of Attic tragedy, it serves as a valuable data point for understanding the range of subjects treated by tragic poets. Diogenes of Athens was a contemporary of Aristophanes and Euripides, mentioned by Aristophanes in his comedy <strong>The Frogs</strong>.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]καίτοι κλύω μὲν Ἀσιάδος μιτρηφόρους Κυβέλης γυναῖκας, παῖδας ὀλβίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Φρυγῶν, τυπάνοισι καὶ ῥόμβοισι καὶ χαλκοκτύπων βόμβοις βρεμούσας ἀντίχερσι κυμβάλων[ln_5]σοφὴν θεῶν ὑμνῳδὸν ἰατρόν θ’ ἅμα. κλύω δὲ Λυδὰς Βακτρίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τε παρθένους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποταμῷ παροίκους Ἅλυϊ Τμωλίαν θεόν δαφνόσκιον κατ’ ἄλσος Ἄρτεμιν σέβειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "ψαλμοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τριγώνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πηκτίδων ἀντιζύγοις[ln_10]ὁλκοῖς κρεκούσας μάγαδιν, ἔνθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "Περσικῷ νόμῳ ξενωθεὶς αὐλὸς ὁμονοεῖ χοροῖς",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "emo-ae",
+      "title": {
+        "english": "Agamemnon",
+        "ancient_greek": "Ἀγαμέμνων"
+      },
+      "url_slug": "aeschylus-agamemnon-emo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/agamemnon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-av",
+      "title": {
+        "english": "Bacchae",
+        "ancient_greek": "Βάκχαι"
+      },
+      "url_slug": "euripides-bacchae-cbm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/bacchae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ax",
+      "title": {
+        "english": "Electra",
+        "ancient_greek": "Ἠλέκτρα"
+      },
+      "url_slug": "euripides-electra-cbm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/electra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/electra.json"
+      }
+    },
+    {
+      "eul_wid": "emo-af",
+      "title": {
+        "english": "Eumenides",
+        "ancient_greek": "Εὐμενίδες"
+      },
+      "url_slug": "aeschylus-eumenides-emo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/eumenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.json"
+      }
+    },
+    {
+      "eul_wid": "dru-aa",
+      "title": {
+        "english": "Mime Fragments of Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "sophron-of-syracuse-mime-daily-life-dru-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophron-of-syracuse/mime-daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ac",
+      "title": {
+        "english": "Oedipus at Colonus",
+        "ancient_greek": "Οἰδίπους ἐπὶ Κολωνῷ"
+      },
+      "url_slug": "sophocles-oedipus-colonus-buo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/oedipus-colonus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.json"
+      }
+    },
+    {
+      "eul_wid": "eaq-aa",
+      "title": {
+        "english": "On Art, Chance, and Human Frailty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathon-of-athens-art-chance-frailty-eaq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathon-of-athens/art-chance-frailty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.json"
+      }
+    },
+    {
+      "eul_wid": "mjy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "aeschylus-of-alexandria-testimony-mjy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-of-alexandria/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-of-alexandria/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diogenes-of-athens/foreign-rites",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

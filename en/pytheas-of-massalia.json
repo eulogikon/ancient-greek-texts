@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hqc",
+  "auth_slug": "pytheas-of-massalia",
+  "name": {
+    "english": "Pytheas of Massalia",
+    "ancient_greek": "Πυθέας ὁ Μασσαλιώτης"
+  },
+  "seo_h1": "Pytheas of Massalia on Tides and the Northern Seas",
+  "seo": {
+    "browser_title": "Pytheas of Massalia on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Pytheas of Massalia Ancient Greek Geography Works",
+    "meta_description": "Pytheas of Massalia, Hellenistic explorer and geographer of the 4th century BCE. Fragments of his writings. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pytheas of Massalia was a Greek explorer, geographer, and astronomer from the colony of Massalia, modern Marseille. His voyage likely occurred in the late 4th century BCE, possibly after 323 BCE, when conditions allowed passage beyond the Strait of Gibraltar. He sailed north along the Atlantic coast, reaching Britain and a distant land called Thule, which may have been Iceland, Norway, or the Shetland Islands.</p>\n<p class=\"research-text\">Pytheas made early scientific observations on tides and described northern phenomena like the &quot;congealed sea.&quot; His only known work is On the Ocean, a now-lost geographical and ethnographic account of his voyage in at least two books. Pytheas provided the Mediterranean world with its first substantive information about northwestern Europe. Though later authors like Strabo doubted him, his reports on Britain, tides, and the midnight sun were used by major geographers and remain a landmark in ancient exploration.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hqc-aa",
+      "title": {
+        "english": "Fragments on Astronomy and Tides",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀστρονομίας καὶ Παλίρροιας"
+      },
+      "url_slug": "pytheas-of-massalia-astronomy-tides-hqc-aa",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/pytheas-of-massalia/astronomy-tides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pytheas-of-massalia/astronomy-tides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pytheas-of-massalia/astronomy-tides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pytheas-of-massalia/astronomy-tides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pytheas-of-massalia/astronomy-tides.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pytheas-of-massalia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pytheas-of-massalia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pytheas-of-massalia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pytheas-of-massalia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pytheas-of-massalia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

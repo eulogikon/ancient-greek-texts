@@ -1,0 +1,401 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lhc-aa",
+  "eul_aid": "lhc",
+  "author_slug": "crobylus-the-comic-poet",
+  "work_slug": "parasites-feasting",
+  "url_slug": "crobylus-the-comic-poet-parasites-feasting-lhc-aa",
+  "author": {
+    "english": "Crobylus the Comic Poet",
+    "ancient_greek": "Κρόβυλος"
+  },
+  "title": {
+    "english": "Fragments on Parasites and Feasting",
+    "ancient_greek": "Ἀποσπάσματα περὶ Παρασίτων καὶ Εὐωχίας"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Crobylus the Comic Poet on Eulogikon",
+    "meta_title": "Classical Fragments by Crobylus in Ancient Greek Comedy",
+    "meta_description": "Comic fragments by Crobylus on parasites and feasting. Ancient Greek social satire. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Parasites and Feasting constitute a collection of twenty-nine fragmentary passages attributed to the comic poet Crobylus. Preserved through quotation by later authors, most notably Athenaeus of Naucratis in his Deipnosophistae, these excerpts focus on the stock character of the parasite and scenes of convivial excess. They likely originated from one or more of Crobylus&#x27;s lost comedies and provide isolated but valuable glimpses into his dramatic style. The content is characteristic of the Middle Comedy period, which moved away from direct political satire of earlier Old Comedy toward more generalized social humor built around recognizable character types. The fragments vividly depict the parasite&#x27;s craft, detailing the techniques of flattery, deception, and opportunism employed by these professional dinner guests to secure invitations and lavish meals. This portrayal serves as a vehicle for social satire, critiquing the dynamics of dependency, patronage, and gluttony within Athenian society. The scenes often highlight the grotesque excesses of the symposium and the interactions between the cunning parasite and other stock characters, such as the boastful soldier or the gullible host. While Crobylus remains a minor figure due to the fragmentary nature of his surviving work, these pieces are significant for scholars reconstructing the themes and conventions of Middle Comedy. The parasite character type he helped popularize proved profoundly influential, being adapted directly by Roman comic playwrights like Plautus and Terence and enduring as a foundational archetype in subsequent European comedic traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "παράσιτον αὐτόσιτον· αὑτὸν γοῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τρέφων τὰ πλεῖστα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "συνερανιστὸς εἶ τῷ δεσπότῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "καὶ σκάφην λαβών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τινα τῶν ἐσχαριτῶν τῶν καθαρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "τὸ γὰρ ἐνδελεχῶς μεθύειν τίν’ ἡδονὴν ἔχει, ἀποστεροῦντα ζῶνθ’ ἑαυτὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τοῦ φρονεῖν, ὃ μέγιστον ἡμῶν ἀγαθὸν ἔσχεν ἡ φύσις;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "πάλιν ἡ τοῦ βίου ὑγρότης με",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τοῦ σοῦ τέθαιφε· τὴν ἀσωτίαν ὑγρότητα γὰρ νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "προσαγορεύουσίν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "τινες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[spk_β]Λάχης. Β. ἐγὼ δὲ πρὸς σέ. Α. πρόαγε. Β. ποῖ; Α. ὅποι μ’ ἐρωτᾷς; ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "Φιλουμένην, παρ’ ᾗ τἀπιδόσιμ’ ἡμῖν ἐστιν, ἧς ἐχθὲς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "πιεῖν κυάθους ἕκαστον ἐβιάσω σὺ δώδεκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "εἰσῆλθεν ἡμίκραιρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "τακερὰ δέλφακος· ταύτης μὰ τὸν Δί’ οὐχὶ κατέλιπον δ’ ἐγὼ οὐδέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "καὶ πλεκτάνην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "στιφρὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "σφόδρ’, ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.4",
+      "text": "τούτοις τέ που αἰσχυνόμενον ἧπαρ καπρίσκου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.5",
+      "text": "σκατοφάγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "[spk_β]ἐγὼ δὲ πρὸς τὰ θερμὰ ταῦθ’ ὑπερβολῇ τοὺς δακτύλους δήπουθεν Ἰδαίους ἔχω, καὶ τὸν λάρυγγ’ ἥδιστα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "πυριῶ τεμαχίοις. Β. κάμινος, οὐκ ἄνθρωπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "χλωρὸν ἐρέβινθόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τινα ἐκοττάβιζον κενὸν ὅλως. Β. τράγημα δὲ ἔστιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "πιθήκου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.4",
+      "text": "τοῦτο δήπου δυστυχοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "πλακοῦντα κόμμιδι, οὐ μέλιτι διεκόσμει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lhc-ab",
+      "title": {
+        "english": "Fragments on Parasites and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "crobylus-the-comic-poet-parasites-excess-lhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crobylus-the-comic-poet/parasites-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fdm-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Drink",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σιτίων καὶ Ποτῶν"
+      },
+      "url_slug": "heniochus-the-comic-poet-comic-food-drink-fdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heniochus-the-comic-poet/comic-food-drink",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/comic-food-drink.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/comic-food-drink.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/comic-food-drink.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/comic-food-drink.json"
+      }
+    },
+    {
+      "eul_wid": "hsu-ab",
+      "title": {
+        "english": "Fragments on Banquets",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων"
+      },
+      "url_slug": "nicostratus-of-aristophanes-banquets-hsu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicostratus-of-aristophanes/banquets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicostratus-of-aristophanes/banquets.json"
+      }
+    },
+    {
+      "eul_wid": "gpo-aa",
+      "title": {
+        "english": "Fragments on Dining Etiquette",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσιακῆς Ἀγωγῆς"
+      },
+      "url_slug": "dromo-comicus-dining-etiquette-gpo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dromo-comicus/dining-etiquette",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/dining-etiquette.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/dining-etiquette.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/dining-etiquette.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/dining-etiquette.json"
+      }
+    },
+    {
+      "eul_wid": "fka-ab",
+      "title": {
+        "english": "Fragments on Lais the Courtesan",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαΐδος τῆς ἑταίρας"
+      },
+      "url_slug": "epicrates-the-comic-lais-fragments-ab-fka-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicrates-the-comic/lais-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicrates-the-comic/lais-fragments-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bn",
+      "title": {
+        "english": "Georgus",
+        "ancient_greek": "Γεωργός"
+      },
+      "url_slug": "menander-of-athens-georgus-hps-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ad",
+      "title": {
+        "english": "Lysistrata",
+        "ancient_greek": "Λυσιστράτη"
+      },
+      "url_slug": "aristophanes-of-athens-lysistrata-daw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lysistrata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aq",
+      "title": {
+        "english": "Misumenus Fragments",
+        "ancient_greek": "Μισούμενος Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-misumenus-fragments-hps-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gmw-ab",
+      "title": {
+        "english": "Symposium and Drinking Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crobylus-the-comic-poet/parasites-feasting",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-feasting.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-feasting.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-feasting.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-feasting.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

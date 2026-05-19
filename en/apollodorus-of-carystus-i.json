@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iie",
+  "auth_slug": "apollodorus-of-carystus-i",
+  "name": {
+    "english": "Apollodorus of Carystus I",
+    "ancient_greek": "Ἀπολλόδωρος ὁ Καρύστιος"
+  },
+  "seo_h1": "Fortune and Pleasure in Apollodorus of Carystus",
+  "seo": {
+    "browser_title": "Apollodorus of Carystus on Eulogikon Greek Archive",
+    "meta_title": "The Apollodorus of Carystus Ancient Greek Comedies",
+    "meta_description": "Apollodorus of Carystus, Hellenistic comic playwright of the 4th-3rd century BCE. Attic comedies. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Apollodorus of Carystus was a Greek comic poet of the New Comedy period, active in the late 4th and early 3rd centuries BCE. A native of Carystus on Euboea, he was a contemporary and rival of Menander, flourishing during the reign of Ptolemy II Philadelphus. The Byzantine Suda credits him with 47 or 57 comedies, and he is counted among the six principal poets of New Comedy.</p>\n<p class=\"research-text\">No complete play by Apollodorus survives; only fragments and titles remain. Known titles include Hecyra and Phormio, both later adapted by the Roman playwright Terence, as well as Epidikazomenos, Apanchomenos, and Diabolos.</p>\n<p class=\"research-text\">Apollodorus is a significant representative of Greek New Comedy, a genre defined by domestic plots and stock characters. His primary importance lies in his influence on Roman theater; Terence directly adapted his Hecyra and Phormio, thereby transmitting Apollodorus&#x27;s comic structures to the wider European tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "iie-aa",
+      "title": {
+        "english": "Fragments on Life and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Τύχης"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-fortune-iie-aa",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.json"
+      }
+    },
+    {
+      "eul_wid": "iie-ab",
+      "title": {
+        "english": "Fragments on Life and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-pleasure-iie-ab",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.json"
+      }
+    },
+    {
+      "eul_wid": "iie-ac",
+      "title": {
+        "english": "On Household Harmony",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "apollodorus-of-carystus-i-household-harmony-iie-ac",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/household-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/apollodorus-of-carystus-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-carystus-i.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-carystus-i.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-carystus-i.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-carystus-i.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

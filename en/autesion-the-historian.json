@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ero",
+  "auth_slug": "autesion-the-historian",
+  "name": {
+    "english": "Autesion the Historian",
+    "ancient_greek": "Αὐτεσίων ὁ Ἱστορικός"
+  },
+  "seo_h1": "Autesion the Historian on Pelops and Tantalus",
+  "seo": {
+    "browser_title": "Autesion the Historian on Eulogikon Greek Text Archive",
+    "meta_title": "Autesion the Historian Ancient Greek Historical Works",
+    "meta_description": "Autesion the Historian, a 5th century BCE Ionic historian. Historical fragments from later sources. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Autesion the Historian\nNo biographical details for a 5th-century BCE historian named Autesion exist in the extant record. The name appears in ancient sources solely in a mythological context, referring either to a Theban king involved in the Dorian migration or as the father of Thero, Pindar&#x27;s mother. These figures are not associated with historical writing.</p>\n<p class=\"research-text\">No historical work by Autesion is attested. Standard fragment collections and reference works for Greek historians contain no titles, content, or citations attributable to him.</p>\n<p class=\"research-text\">Autesion the Historian holds no established significance in Greek historiography. He is absent from the canon of early historians like Hecataeus and Hellanicus and is never cited by later authors such as Herodotus or Thucydides.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ero-aa",
+      "title": {
+        "english": "Fragments on Pelops and Tantalus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πέλοπος καὶ Ταντάλου"
+      },
+      "url_slug": "autesion-the-historian-pelops-tantalus-ero-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/autesion-the-historian/pelops-tantalus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autesion-the-historian/pelops-tantalus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autesion-the-historian/pelops-tantalus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autesion-the-historian/pelops-tantalus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autesion-the-historian/pelops-tantalus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/autesion-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autesion-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autesion-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autesion-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autesion-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

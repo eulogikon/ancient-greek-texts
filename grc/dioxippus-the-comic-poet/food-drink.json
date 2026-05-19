@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hrq-ab",
+  "eul_aid": "hrq",
+  "author_slug": "dioxippus-the-comic-poet",
+  "work_slug": "food-drink",
+  "url_slug": "dioxippus-the-comic-poet-food-drink-hrq-ab",
+  "author": {
+    "english": "Dioxippus the Comic Poet",
+    "ancient_greek": "Διώξιππος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Food and Drink",
+    "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Ποτοῦ"
+  },
+  "seo": {
+    "browser_title": "Fragments of Dioxippus the Comic Poet on Eulogikon",
+    "meta_title": "Fragments by Dioxippus the Comic Poet in Ancient Greek",
+    "meta_description": "Comic fragments by Dioxippus on food and drink. Insights into classical Athenian comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Food and Drink is a modern thematic compilation of twelve fragmentary passages from the lost comedies of the Athenian poet Dioxippus, who worked in the tradition of Old Comedy. The fragments are preserved exclusively through quotation by later authors, most notably Athenaeus of Naucratis in his <strong>Deipnosophistae</strong>. They consist of comic verses that mention various foods, drinks, and dining practices. The content engages with standard tropes of the genre, using culinary excess, gluttony, and sympotic culture as vehicles for mockery and social satire. The humor often critiques status and luxury or derives from bodily functions related to consumption. These fragments survive indirectly, transmitted primarily through the scholarly interests of the Second Sophistic period, with Athenaeus as the principal source and additional citations found in Pollux and ancient scholia. The definitive modern scholarly collection is <strong>Poetae Comici Graeci</strong>. While Dioxippus’s own influence appears to have been limited, these fragments collectively provide valuable evidence for reconstructing the thematic concerns of Old and Middle Comedy beyond the major preserved playwrights. They serve as a crucial resource for scholars of Athenian social history and ancient gastronomy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Οἵων δ’ ἐπιθυμεῖ βρωμάτων, ὡς μουσικῶν. ἤνυστρα, μήτρας, χόλικας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "στοὰν διεξέπαιεν Ἀμφικλῆς μήτρας δύο κρεμαμένας δείξας, ἐκεῖνον πέμπε, φάς, ἐὰν ἴδῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Μὴ κατακούσειεν δέ μου ὁ Κωρυκαῖος. Β. ἀλλὰ μὴν κατακήκοα κατακολουθῶν ἔνδοθέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Τῆς θηρικλείας τῆς μεγάλης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρεία ’στί μοι. Β. εὖ οἶδα. Α. καὶ τῶν ῥοδιακῶν· ἥδιστα γάρ ἐκ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοιούτων ἐκχέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποτηρίων εἴωθα πίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Παρ’ Ὀλυμπίχου δὲ θηρικλείους ἔλαβεν ἕξ, εἶτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τοὺς δύο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "ψυκτῆρας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hrq-aa",
+      "title": {
+        "english": "Fragments on Gourmet Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας"
+      },
+      "url_slug": "dioxippus-the-comic-poet-gourmet-feasting-hrq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioxippus-the-comic-poet/gourmet-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fvo-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "ophelio-the-comic-poet-comic-fragments-fvo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ac",
+      "title": {
+        "english": "Fragments of Comic Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης"
+      },
+      "url_slug": "plato-the-comic-poet-aphrodite-fragments-efq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/aphrodite-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hvw-aa",
+      "title": {
+        "english": "Fragments on Cooking",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας"
+      },
+      "url_slug": "anaxippus-the-comic-poet-cooking-fragments-hvw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooking-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooking-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooking-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooking-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooking-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jdi-aa",
+      "title": {
+        "english": "On Parasites and Drinking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasites-drinking-jdi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasites-drinking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.json"
+      }
+    },
+    {
+      "eul_wid": "gpo-ab",
+      "title": {
+        "english": "Parasite's Shame",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dromo-comicus-parasites-shame-gpo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dromo-comicus/parasites-shame",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bo",
+      "title": {
+        "english": "Shield",
+        "ancient_greek": "Ἀσπίς"
+      },
+      "url_slug": "menander-of-athens-shield-hps-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/shield",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.json"
+      }
+    },
+    {
+      "eul_wid": "fcs-aa",
+      "title": {
+        "english": "Sympotic Fragments of Nicochares",
+        "ancient_greek": "Ἀποσπάσματα Νικοχάρους Συμποτικά"
+      },
+      "url_slug": "nicochares-the-comic-poet-sympotic-fragments-aa-fcs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aa",
+      "title": {
+        "english": "Women at the Thesmophoria",
+        "ancient_greek": "Θεσμοφοριάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-thesmophoria-daw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dioxippus-the-comic-poet/food-drink",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/food-drink.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/food-drink.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/food-drink.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/food-drink.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

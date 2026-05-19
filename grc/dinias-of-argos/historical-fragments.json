@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bta-aa",
+  "eul_aid": "bta",
+  "author_slug": "dinias-of-argos",
+  "work_slug": "historical-fragments",
+  "url_slug": "dinias-of-argos-historical-fragments-bta-aa",
+  "author": {
+    "english": "Dinias of Argos",
+    "ancient_greek": "Δινίας ὁ Ἀργεῖος"
+  },
+  "title": {
+    "english": "Argive Historical Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Argive History by Dinias of Argos on Eulogikon",
+    "meta_title": "Argive Historical Fragments by Dinias of Argos in Greek",
+    "meta_description": "Surviving fragments of local history from Argos by Dinias. Source for Peloponnesian myths. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Argive Historical Fragments</strong> is a lost prose work of local history attributed to Dinias of Argos. It survives only in scattered quotations preserved by later authors, primarily in the scholia to classical poets and the geographer Pausanias. The work documented the mythological and historical traditions of the Argolid region. The extant fragments cover a range of topics central to Argive identity, including foundation myths involving early kings like Danaus, accounts of heroic deeds such as those of Heracles, details of local religious festivals and rituals, and genealogies tracing lineages to divine or heroic ancestors. As a source for specifically Argive tradition, Dinias’s horography was an important resource for later antiquarians and remains a valuable witness for modern scholarship on Greek local historiography, regional mythography, and the construction of civic identity in the ancient world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΑΡΓΟΛΙΚΑ. ΠΡΩΤΗ ΣΥΝΤΑΞΙΣ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Schol. Apoll. Rhod. II, 789: Ὅτι δὲ τοὺς Παφλαγόνας ὑπέταξεν Ἡρακλῆς τοῖς περὶ Λύκον (Mariandynorum regem), ἱστορεῖ Δεινίας ἐν πρώτῳ Ἀργολικῶν καὶ Ἀσκληπιάδης ὁ Μυρλεανὸς ἐν δεκάτῳ Βιθυνιακῶν. E LIBRO SEPTIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "Schol. Sophocl. Electr. 281, ad verba poetae, [Εὑροῦς’ (Clytaemnestra) ἐκείνην ἡμέραν, ἐν ᾗ τότε Πατέρα τὸν ἀμὸν ἐκ δόλου κατέκτανεν, Ταύτῃ χοροὺς ἵστησι καὶ μηλοσφαγεῖ Θεοῖσιν ἔμμην’ ἱερὰ τοῖς σωτηρίοις]: Οἱ Ἀργολικοὶ συγγραφεῖς ιγʹ εἶναί φασι μηνὸς Γαμηλιῶνος, ὡς Δεινίας ἐν ζʹ Ἀργολικῶν. E LIBRO NONO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t)",
+      "text": "Schol. Eur. Orest. 861: [ Ἄκρα ν ] τόπος οὕτω καλούμενος· λέγει δὲ τὸν Πρῶνα ... ὅπου φασὶ πρῶτον τὸν Δαναὸν μετὰ θάνατον υἱῶν Αἰγύπτου δοῦναι δίκας, Αὐτὸς γὰρ ὁ Αἴγυπτος ἧκεν εἰς Ἄργος τιμωρήσων τῷ φόνῳ. Δαναὸς δὲ μαθὼν ἐξῆγεν εἰς ὅπλα τοὺς Ἀργείους, ἀλλὰ Λυγκεὺς πείθει λόγοις λῦσαι τὴν ἔχθραν. Καὶ καθιστῶσι δικαστὰς αὐτοῖς Αἰγυπτίων καὶ Ἀργείων τοὺς ἀρίστους. Ὁ δὲ τόπος ἔνθα ἡ δίκη συνήχθη, περὶ τὴν μεγίστην ἄκραν, ἔνθα καὶ Ἴναχος ἁλίσας τὸν λαὸν, συνεβούλευσεν οἰκίζειν τὸ πεδίον. Ὁ δὲ τόπος ἐξ ἐκείνου Ἁλιαία καλεῖται ἡ νῦν Ἡλιαία λεγομένη. Ἄλλω ς . Ἡ πολλὴ δόξα κατέχει μὴ ἐλθεῖν τὸν Αἴγυπτον εἰς Ἄργος, καθάπερ ἄλλοι τέ φασι καὶ Ἑκαταῖος γράφων οὕτως· «Ὁ δὲ Αἴγυπτος αὐτὸς μὲν οὐκ ἦλθεν εἰς Ἄργος.» [Φρύνιχος δὲ ὁ τραγικός φησι σὺν Αἰγυπτίοις τὸν Αἴγυπτον ἥκειν εἰς Ἄργος.] Λέγεται δέ τις ἐν Ἄργει Πρών, ὅπου δικάζουσιν Ἀργεῖοι. Ἱστορεῖ δὲ περὶ τοῦ χωρίου Δεινίας [ἐν θʹ τῆς πρώτης συντάξεως, ἐκδόσεως δὲ δευτέρας,] γράφων οὕτως· «Ταχέως δὲ κυριεύσαντες τὸν Μέλαγχρον καὶ τὴν Κλεομήτραν βάλλοντες λίθοις ἀπέκτειναν. Καὶ τὸν τάφον αὐτοῦ δεικνύουσιν ἔτι καὶ νῦν ὑπεράνω τοῦ καλουμένου Πρῶνος, χῶμα παντελῶς, οὗ συμβαίνει τοὺς Ἀργείους δικάζειν.» E LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Agatharchides De mari Rubr. ap. Phot. cod. 250.: Οἱ δὲ περὶ Κλεινίαν (Δεινίαν em. Reines.) ἱστορικοί φασιν, ἀπὸ τῆς ποιητικῆς ἐξουσίας καὶ αὐτοὶ ἄδειαν λαβόντες, ἐξ Ἄργους εἰς Αἰθιοπίαν (ἐκαλεῖτο δὲ τότε Κηφηνία) παραγεγονότα ἐπὶ λύσει τῆς Κηφέως θυγατρὸς τὸν Περσέα, ἐκεῖθεν δὲ εἰς Πέρσας μεταστάντα, Πέρσαις μὲν ἀπό τινος τῶν ἐγγόνων τῆς κλήσεως μεταδοῦναι, Ἐρύθραν δὲ γεννῆσαι υἱὸν, καὶ ἐξ ἐκείνου τῇ θαλάσσῃ τὴν κλῆσιν παρασχεῖν. Τοιοῦτος μὲν καὶ ὁ Ἀργολικὸς περὶ τῆς Ἐρυθρᾶς θαλάσσης σχεδιασμός. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Pind. Nem. III, 104: Δεινίας δὲ ὁ Ἀργεῖος (Herculis e Megara filios esse dicit) Θηρίμαχον, Κρεοντιάδην, Δηϊκόωντα, Δηΐονα. Idem Olymp.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "VII, 49: Τὸν Ἀλκμήνης νόθον ἀδελφὸν Λικύμνιον ῥοπάλῳ ἐλαίας τύπτων ἀπέκτεινε ἐν τῇ Τίρυνθι παραγενόμενον ἐκ τῆς οἰκίας τῆς ἑαυτοῦ μητρὸς Μιδέας ὁ Τληπόλεμος ὁ παλαιὸς οἰκιστὴς τῆς χώρας ... Αἰτία δὲ τῆς ἀναιρέσεως ἐγένετο περί τινων τιμῶν. Οἱ δὲ περὶ Δεινίαν καὶ Δερκύλλον φασὶν ἀκούσιον τὸν φόνον γενέσθαι. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Theocrit. XIV, 48: Ἱστορεῖ γὰρ Δεινίας, ὅτι οἱ Μεγαρεῖς φρονηματισθέντες ποτὲ, ὅτι κράτιστοι τῶν Ἑλλήνων εἰσὶν, ἐπύθοντο τοῦ θεοῦ, τίνες κρείττονες τυγχάνοιεν. Ὁ δὲ ἔφη· Γαίης μὲν πάσης τὸ Πελασγικὸν Ἄργος ἄμεινον, ἵπποι Θρηίκιαι, Λακεδαιμόνιαι δὲ γυναῖκες, ἄνδρες δ’ οἳ πίνουσιν ὕδωρ καλῆς Ἀρεθούσης. Ἀλλ’ ἔτι καὶ τῶνδ’ εἰσὶν ἀμείνονες, οἵτε μεσηγὺ Τίρυνθος ναίουσι καὶ Ἀρκαδίης πολυμήλου, Ἀργεῖοι λινοθώρηκες, κέντρα πτολέμοιο. Ὑμεῖς δ’, ὧ Μεγαρεῖς, οὔτε τρίτοι οὔτε τέταρτοι, οὔτε δυωδέκατοι, οὔτ’ ἐν λόγῳ, οὔτ’ ἐν ἀριθμῷ. Herodian.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Περὶ μον. λεξ.: Μοῖρ α . Οὐδὲν εἰς ρα λῆγον συνεσταλμένον θηλυκὸν δισύλλαβον τῇ οι διφθόγγῳ παραλήγεται, ἀλλὰ μόνον τὸ μοῖρα ἀπηνέγκατο τήνδε παράληξιν. Τὸ γὰρ χοίρα ἐκτείνεται κατὰ τὸ ἐπώνυμον, ὥσπερ καὶ παρὰ Δεινίᾳ· «Λέγεται δὲ τοὺς Λακεδαιμονίους, καθ’ ὃν ἐν Τεγέᾳ χρόνον ἦσαν αἰχμάλωτοι, δεδεμένους ἐργάζεσθαι διὰ τοῦ πεδίου τὸν Λαχᾶν ποταμὸν, Περιμήδας ἐν Τεγέᾳ δυναστευούσης, ἣν οἱ πλεῖστοι καλοῦσι Χοίραν.» Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Arat. c. 29: Γενομένης δὲ τῆς διώξεως ἄχρι Μυκηνῶν, ὁ μὲν τύραννος ὑπὸ Κρητός τινος, ὡς Δεινίας ἱστορεῖ, τοὔνομα Τραγίσκου, καταληφθεὶς ἀποσφάττεται, τῶν δὲ ἄλλων ἔπεσον ὑπὲρ χιλίους πεντακοσίους.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bta-ab",
+      "title": {
+        "english": "Fragments on the Orestes Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Μύθου Ὀρέστου"
+      },
+      "url_slug": "dinias-of-argos-orestes-fragments-bta-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/orestes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/orestes-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jmy-aa",
+      "title": {
+        "english": "Fragments on Corinthian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Κορινθίων Ἱστορίας"
+      },
+      "url_slug": "theseus-the-historian-corinthian-history-jmy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theseus-the-historian/corinthian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theseus-the-historian/corinthian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theseus-the-historian/corinthian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theseus-the-historian/corinthian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theseus-the-historian/corinthian-history.json"
+      }
+    },
+    {
+      "eul_wid": "jwo-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "eudoxus-of-rhodes-geography-jwo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eudoxus-of-rhodes/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudoxus-of-rhodes/geography.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ag",
+      "title": {
+        "english": "On Friends",
+        "ancient_greek": "Περὶ φίλων"
+      },
+      "url_slug": "paradoxographer-anon-friends-jre-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.json"
+      }
+    },
+    {
+      "eul_wid": "gdq-aa",
+      "title": {
+        "english": "On Heraclea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "promathidas-of-heraclea-text-gdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/promathidas-of-heraclea/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/promathidas-of-heraclea/text.json"
+      }
+    },
+    {
+      "eul_wid": "nxy-aa",
+      "title": {
+        "english": "Phoenician History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "claudius-iolaus-phoenician-history-nxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/claudius-iolaus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.json"
+      }
+    },
+    {
+      "eul_wid": "cvm-ab",
+      "title": {
+        "english": "Phoronis: Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hellanicus-of-lesbos-phoronis-mythological-fragments-cvm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellanicus-of-lesbos/phoronis-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellanicus-of-lesbos/phoronis-mythological-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gok-aa",
+      "title": {
+        "english": "Regional Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dercyllus-the-historian-regional-histories-myths-gok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.json"
+      }
+    },
+    {
+      "eul_wid": "dca-aa",
+      "title": {
+        "english": "Scythian and Egyptian Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathon-of-samos-scythian-egyptian-histories-dca-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathon-of-samos/scythian-egyptian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dinias-of-argos/historical-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

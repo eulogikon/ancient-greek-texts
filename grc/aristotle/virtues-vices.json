@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hgw-at",
+  "eul_aid": "hgw",
+  "author_slug": "aristotle",
+  "work_slug": "virtues-vices",
+  "url_slug": "aristotle-virtues-vices-hgw-at",
+  "author": {
+    "english": "Aristotle",
+    "ancient_greek": "Ἀριστοτέλης"
+  },
+  "title": {
+    "english": "On Virtues and Vices",
+    "ancient_greek": "περὶ Ἀρετῶν καὶ Κακιῶν"
+  },
+  "seo": {
+    "browser_title": "On Virtues and Vices by Aristotle on Eulogikon Archive",
+    "meta_title": "On Virtues and Vices by Aristotle in Ancient Greek",
+    "meta_description": "An ethical treatise on moral character attributed to Aristotle, examining virtues and vices. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Virtues and Vices</strong> is a brief ethical treatise preserved within the Aristotelian corpus but now widely regarded by scholars as a spurious work not authored by Aristotle himself. Written in Attic Greek, this systematic text functions as a concise catalog of moral character, structured around the core Aristotelian doctrine that virtue constitutes a mean between two opposing vices of excess and deficiency. The work methodically lists and defines thirteen ethical virtues, including courage, temperance, and justice, alongside their corresponding vicious extremes, and concludes with a shorter examination of intellectual virtues. Its schematic, handbook-like style indicates a pedagogical purpose, likely designed to provide students of the Peripatetic school with a clear and organized summary of key ethical concepts. Although its exact date of composition remains uncertain, linguistic and doctrinal evidence suggests it was produced by a later Aristotelian philosopher, possibly during the early Hellenistic period. The treatise survives in its complete form as part of the medieval manuscript tradition of Aristotle&#x27;s works. While it exerted limited direct influence compared to Aristotle&#x27;s major ethical writings, its preservation offers valuable insight into how his ethical philosophy was systematized and taught in the ancient world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "VV 1249a (t)",
+      "text": "ΠΕΡΙ ΑΡΕΤΩΝ ΚΑΙ ΚΑΚΙΩΝ. Ἐπαινετὰ μέν ἐστι τὰ καλά, ψεκτὰ δὲ τὰ αἰσχρά. καὶ τῶν μὲν καλῶν ἡγοῦνται αἱ ἀρεταί, τῶν δ’ αἰσχρῶν αἱ κακίαι. ἐπαινετὰ δ’ ἐστὶ καὶ τὰ αἴτια τῶν ἀρετῶν καὶ τὰ παρεπόμενα ταῖς ἀρεταῖς καὶ τὰ γινόμενα ἀπ’ αὐτῶν καὶ τὰ ἔργα αὐτῶν, ψεκτὰ δὲ τὰ ἐναντία. τριμεροῦς δὲ τῆς ψυχῆς λαμβανομένης κατὰ Πλάτωνα, τοῦ μὲν λογιστικοῦ ἀρετή ἐστιν ἡ φρόνησις, τοῦ δὲ θυμοειδοῦς ἥ τε πραότης καὶ ἡ ἀνδρεία, τοῦ δὲ ἐπιθυμητικοῦ ἥ τε σωφροσύνη καὶ ἡ ἐγκράτεια, ὅλης δὲ τῆς ψυχῆς ἥ τε δικαιοσύνη καὶ ἡ ἐλευθεριότης καὶ ἡ μεγαλοψυχία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "VV 1249b (26)",
+      "text": "κακία δ’ ἐστὶ τοῦ μὲν λογιστικοῦ ἡ ἀφροσύνη, τοῦ δὲ θυμοειδοῦς ἥ τε ὀργιλότης καὶ ἡ δειλία, τοῦ δὲ ἐπιθυμητικοῦ ἥ τε ἀκολασία καὶ ἡ ἀκράτεια, ὅλης δὲ τῆς ψυχῆς ἥ τε ἀδικία καὶ ἀνελευθεριότης καὶ μικροψυχία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "VV 1250a",
+      "text": "Ἔστι δὲ φρόνησις μὲν ἀρετὴ τοῦ λογιστικοῦ, παρασκευαστικὴ τῶν πρὸς εὐδαιμονίαν συντεινόντων. πραότης δ’ ἐστὶν ἀρετὴ τοῦ θυμοειδοῦς, καθ’ ἣν ὑπὸ ὀργῆς γίνονται δυσκίνητοι. ἀνδρεία δ’ ἐστὶν ἀρετὴ τοῦ θυμοειδοῦς, καθ’ ἣν δυσέκπληκτοί εἰσιν ὑπὸ φόβων τῶν περὶ θάνατον. σωφροσύνη δ’ ἐστὶν ἀρετὴ τοῦ ἐπιθυμητικοῦ, καθ’ ἣν ἀνόρεκτοι γίνονται περὶ τὰς ἀπολαύσεις τῶν φαύλων ἡδονῶν. ἐγκράτεια δ’ ἐστὶν ἀρετὴ τοῦ ἐπιθυμητικοῦ, καθ’ ἣν κατέχουσι τῷ λογισμῷ τὴν ἐπιθυμίαν ὁρμῶσαν ἐπὶ τὰς φαύλας ἡδονάς. δικαιοσύνη δ’ ἐστὶν ἀρετὴ ψυχῆς διανεμητικὴ τοῦ κατ’ ἀξίαν. ἐλευθεριότης δ’ ἐστὶν ἀρετὴ ψυχῆς εὐδάπανος εἰς τὰ καλά. μεγαλοψυχία δ’ ἐστὶν ἀρετὴ ψυχῆς, καθ’ ἣν δύναται φέρειν εὐτυχίαν καὶ ἀτυχίαν καὶ τιμὴν καὶ ἀτιμίαν. Ἀφροσύνη δ’ ἐστὶ κακία τοῦ λογιστικοῦ, αἰτία τοῦ ζῆν κακῶς. ὀργιλότης δ’ ἐστὶ κακία τοῦ θυμοειδοῦς, καθ’ ἣν εὐκίνητοι γίνονται πρὸς ὀργήν. δειλία δ’ ἐστὶ κακία τοῦ θυμοειδοῦς, καθ’ ἣν ἐκπλήττονται ὑπὸ φόβων, καὶ μάλιστα τῶν περὶ θάνατον. ἀκολασία δ’ ἐστὶ κακία τοῦ ἐπιθυμητικοῦ, καθ’ ἣν αἱροῦνται τὰς φαύλας ἡδονάς. [περὶ μὲν τῆς ἀκρατείας οὐδέν· οὕτω δὲ σὺ δύνασαι ὁρίζειν.] ἀκράτεια δ’ ἐστὶ κακία τοῦ ἐπιθυμητικοῦ, καθ’ ἣν παρασύρουσι τῇ ἀλογίᾳ τὴν ἐπιθυμίαν ὠθοῦσαν ἐπὶ τὰς τῶν φαύλων ἡδονῶν ἀπολαύσεις. ἀδικία δ’ ἐστὶ κακία ψυχῆς, καθ’ ἣν πλεονεκτικοὶ γίνονται παρὰ τὴν ἀξίαν. ἀνελευθερία δ’ ἐστὶ κακία ψυχῆς, καθ’ ἣν ὀρέγονται τοῦ πανταχόθεν κέρδους. μικροψυχία δ’ ἐστὶ κακία ψυχῆς, καθ’ ἣν ἀδύνατοί εἰσι φέρειν εὐτυχίαν καὶ ἀτυχίαν καὶ τιμὴν καὶ ἀτιμίαν. Τῆς δὲ φρονήσεώς ἐστι τὸ βουλεύσασθαι, τὸ κρῖναι τὰ ἀγαθὰ καὶ τὰ κακὰ καὶ πάντα τὰ ἐν τῷ βίῳ αἱρετὰ καὶ φευκτά, τὸ χρῆσθαι πᾶσι καλῶς τοῖς ὑπάρχουσιν ἀγαθοῖς, τὸ ὁμιλῆσαι ὀρθῶς, τὸ συνιδεῖν τοὺς καιρούς, τὸ ἀγχίνως χρήσασθαι καὶ λόγῳ καὶ ἔργῳ, τὸ τὴν ἐμπειρίαν ἔχειν τῶν χρησίμων πάντων. ἡ μνήμη δὲ καὶ ἐμπειρία καὶ ἀγχίνοια ἤτοι ἀπὸ τῆς φρονήσεως ἑκάστη αὐτῶν ἐστίν, ἢ παρέπεται τῇ φρονήσει· ἢ τὰ μὲν αὐτῶν οἷον συναίτια τῆς φρονήσεώς ἐστι, καθάπερ ἐμπειρία καὶ ἡ μνήμη, τὰ δὲ οἷον μέρη αὐτῆς, οἷον εὐβουλία καὶ ἀγχίνοια. πραότητος δ’ ἐστὶ τὸ δύνασθαι φέρειν μετρίως ἐγκλήματα καὶ ὀλιγωρίας, καὶ τὸ μὴ ταχέως ὁρμᾶν ἐπὶ τὰς τιμωρίας, καὶ τὸ μὴ εὐκίνητον εἶναι πρὸς τὰς ὀργάς, ἄπικρον δὲ τῷ ἤθει καὶ ἀφιλόνεικον, ἔχοντα τὸ ἠρεμαῖον ἐν τῇ ψυχῇ καὶ στάσιμον. ἀνδρείας δ’ ἐστὶ τὸ δυσέκπληκτον ὑπὸ φόβων τῶν περὶ θάνατον, καὶ τὸ εὐθαρσῆ ἐν τοῖς δεινοῖς, καὶ τὸ εὔτολμον πρὸς τοὺς κινδύνους, καὶ τὸ μᾶλλον αἱρεῖσθαι τεθνάναι καλῶς ἢ αἰσχρῶς σωθῆναι, καὶ τὸ νίκης αἴτιον εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "VV 1250b",
+      "text": "ἔτι δὲ ἀνδρείας ἐστὶ καὶ τὸ πονεῖν καὶ καρτερεῖν καὶ αἱρεῖσθαι ἀνδραγαθίζεσθαι. παρέπεται δὲ τῇ ἀνδρείᾳ καὶ ἡ εὐτολμία καὶ ἡ εὐψυχία καὶ τὸ θάρσος καὶ τὸ θράσος, ἔτι δὲ καὶ ἡ φιλοπονία καὶ ἡ καρτερία. σωφροσύνης δ’ ἐστὶ τὸ μὴ θαυμάζειν τὰς ἀπολαύσεις τῶν σωματικῶν ἡδονῶν, καὶ τὸ εἶναι πάσης ἀπολαύσεως αἰσχρᾶς ἡδονῆς ἀνόρεκτον, καὶ τὸ φοβεῖσθαι καὶ τὴν δικαίαν ἄδειαν, καὶ τὸ τετάσθαι περὶ τὸν βίον ὁμοίως ἔν τε μικροῖς καὶ μεγάλοις. παρέπεται δὲ τῇ σωφροσύνῃ εὐταξία, κοσμιότης, αἰδώς, εὐλάβεια. ἐγκρατείας δ’ ἐστὶ τὸ δύνασθαι κατασχεῖν τῷ λογισμῷ τὴν ἐπιθυμίαν ὁρμῶσαν ἐπὶ φαύλας ἀπολαύσεις καὶ ἡδονάς, καὶ τὸ καρτερεῖν, καὶ τὸ ὑπομονητικὸν εἶναι τῆς κατὰ φύσιν ἐνδείας καὶ λύπης. δικαιοσύνης δ’ ἐστὶ τὸ διανεμητικὸν εἶναι τοῦ κατ’ ἀξίαν, καὶ σώζειν τὰ πάτρια ἔθη καὶ τὰ νόμιμα, καὶ τὸ σώζειν τοὺς γεγραμμένους νόμους, καὶ τὸ ἀληθεύειν ἐν τῷ διαφέροντι, καὶ τὸ διαφυλάττειν τὰς ὁμολογίας. ἔστι δὲ πρώτη τῶν δικαιοσυνῶν πρὸς τοὺς θεούς, εἶτα πρὸς δαίμονας, εἶτα πρὸς πατρίδα καὶ γονεῖς, εἶτα πρὸς τοὺς κατοιχομένους· ἐν οἷς ἐστὶν ἡ εὐσέβεια, ἤτοι μέρος οὖσα δικαιοσύνης ἢ παρακολουθοῦσα. ἀκολουθεῖ δὲ τῇ δικαιοσύνῃ καὶ ὁσιότης καὶ ἀλήθεια καὶ ἡ πίστις καὶ ἡ μισοπονηρία. ἐλευθεριότητος δ’ ἐστὶ τὸ προετικὸν εἶναι χρημάτων εἰς τὰ ἐπαινετά, καὶ δαψιλῆ ἐπὶ τῷ εἰς τὰ δέοντα ἀναλωθῆναι, καὶ τὸ βοηθητικὸν εἶναι ἐν τῷ διαφόρῳ, καὶ τὸ μὴ λαβεῖν ὅθεν μὴ δεῖ. ἔστι δὲ ὁ ἐλευθέριος καὶ περὶ ἐσθῆτα καθαρὸς καὶ περὶ οἴκησιν, καὶ κατασκευαστικὸς τῶν περιττῶν καὶ καλῶν καὶ διαγωγὴν ἐχόντων ἡδεῖαν ἄνευ τοῦ λυσιτελοῦντος, καὶ θρεπτικὸς τῶν ζῴων τῶν ἴδιον ἐχόντων τι ἢ θαυμαστόν. ἀκολουθεῖ δὲ τῇ ἐλευθεριότητι τοῦ ἤθους ὑγρότης καὶ εὐαγωγία καὶ φιλανθρωπία καὶ τὸ εἶναι ἐλεητικὸν καὶ φιλόφιλον καὶ φιλόξενον καὶ φιλόκαλον. μεγαλοψυχίας δ’ ἐστὶ τὸ καλῶς ἐνεγκεῖν καὶ εὐτυχίαν καὶ ἀτυχίαν καὶ τιμὴν καὶ ἀτιμίαν, καὶ τὸ θαυμάζειν μήτε τρυφὴν μήτε θεραπείαν μήτε ἐξουσίαν μήτε τὰς νίκας τὰς ἐναγωνίους, ἔχειν δέ τι βάθος τῆς ψυχῆς καὶ μέγεθος. ἔστι δὲ μεγαλόψυχος οὔθ’ ὁ τὸ ζῆν περὶ πολλοῦ ποιούμενος οὔθ’ ὁ φιλόζωος. ἁπλοῦς δὲ τῷ ἤθει καὶ γενναῖος, ἀδικεῖσθαι δυνάμενος, καὶ οὐ τιμωρητικός. ἀκολουθεῖ δὲ τῇ μεγαλοψυχίᾳ ἁπλότης καὶ ἀλήθεια. Ἀφροσύνης δ’ ἐστὶ τὸ κρίνειν κακῶς τὰ πράγματα, τὸ βουλεύσασθαι κακῶς, τὸ ὁμιλῆσαι κακῶς, τὸ χρήσασθαι κακῶς τοῖς παροῦσιν ἀγαθοῖς, τὸ ψευδῶς δοξάζειν περὶ τῶν εἰς τὸν βίον καλῶν καὶ ἀγαθῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "VV 1251a",
+      "text": "παρακολουθεῖ δὲ τῇ ἀφροσύνῃ ἀπειρία, ἀμαθία, ἀκρασία, ἐπαριστερότης, ἀμνημοσύνη. ὀργιλότητος δ’ ἐστὶν εἴδη τρία, ἀκροχολία πικρία βαρυθυμία. ἔστι δὲ τοῦ ὀργίλου μὴ δύνασθαι φέρειν μήτε τὰς μικρὰς ὀλιγωρήσεις μήτε ἐλαττώσεις, εἶναι δὲ κολαστικὸν καὶ τιμωρητικὸν καὶ εὐκίνητον πρὸς ὀργὴν καὶ ὑπὸ ἔργου καὶ ὑπὸ λόγου τοῦ τυχόντος. ἀκολουθεῖ δὲ τῇ ὀργιλότητι τὸ παροξυντικὸν τοῦ ἤθους καὶ εὐμετάβολον, καὶ ἡ πικρολογία, καὶ τὸ ἐπὶ μικροῖς λυπεῖσθαι, καὶ τὸ ταῦτα πάσχειν ταχέως καὶ παρὰ βραχὺν καιρόν. δειλίας δ’ ἐστὶ τὸ ὑπὸ τῶν τυχόντων φόβων εὐκίνητον εἶναι, καὶ μάλιστα τῶν περὶ θάνατον καὶ τὰς σωματικὰς πηρώσεις, καὶ τὸ ὑπολαμβάνειν κρεῖττον εἶναι ὁπωσοῦν σωθῆναι ἢ τελευτῆσαι καλῶς. ἀκολουθεῖ δὲ τῇ δειλίᾳ μαλακία, ἀνανδρία, ἀπονία, φιλοψυχία. ὕπεστι δέ τις εὐλάβεια καὶ τὸ ἀφιλόνεικον τοῦ ἤθους. ἀκολασίας δ’ ἐστὶ τὸ αἱρεῖσθαι τὰς ἀπολαύσεις τῶν ἡδονῶν τῶν βλαβερῶν καὶ αἰσχρῶν, καὶ τὸ ὑπολαμβάνειν εὐδαιμονεῖν μάλιστα τοὺς ἐν ταῖς τοιαύταις ἡδοναῖς ὄντας, καὶ τὸ φιλογέλοιον εἶναι καὶ τὸ φιλοσκώπτην καὶ φιλευτράπελον, καὶ τὸ ῥᾳδιουργὸν εἶναι ἐν τοῖς λόγοις καὶ ἐν τοῖς ἔργοις. ἀκολουθεῖ δὲ τῇ ἀκολασίᾳ ἀταξία, ἀναίδεια, ἀκοσμία, τρυφή, ῥᾳθυμία, ἀμέλεια, ὀλιγωρία, ἔκλυσις. ἀκρασίας δ’ ἐστὶ τὸ κωλύοντος τοῦ λογισμοῦ τὰς ἀπολαύσεις τῶν ἡδονῶν αἱρεῖσθαι, καὶ τὸ ὑπολαμβάνοντα κρεῖττον εἶναι μὴ μετασχεῖν μὲν αὐτῶν, μετέχειν δὲ μηδὲν ἧττον, καὶ τὸ οἴεσθαι μὲν δεῖν πράττειν καὶ τὰ καλὰ καὶ τὰ συμφέροντα, ἀφίστασθαι δὲ αὐτῶν διὰ τὰς ἡδονάς. ἀκολουθεῖ δὲ τῇ ἀκρασίᾳ μαλακία καὶ μεταμέλεια καὶ τὰ πλεῖστα ταὐτὰ ἃ καὶ τῇ ἀκολασίᾳ. ἀδικίας δ’ ἐστὶν εἴδη τρία, ἀσέβεια πλεονεξία ὕβρις. ἀσέβεια μὲν ἡ περὶ θεοὺς πλημμέλεια καὶ περὶ δαίμονας ἢ καὶ περὶ τοὺς κατοιχομένους, καὶ περὶ γονεῖς καὶ περὶ πατρίδα· πλεονεξία δὲ περὶ τὰ συμβόλαια, παρὰ τὴν ἀξίαν αἱρουμένη τὸ διάφορον· ὕβρις δέ, καθ’ ἣν τὰς ἡδονὰς αὑτοῖς παρασκευάζουσιν, εἰς ὄνειδος ἀγαγόντες ἑτέρους, ὅθεν Εὔηνος περὶ αὐτῆς λέγει “ἥτις κερδαίνους’ οὐδὲν ὅμως ἀδικεῖ.” ἔστι δὲ τῆς ἀδικίας τὸ παραβαίνειν τὰ πάτρια ἔθη καὶ τὰ νόμιμα, καὶ τὸ ἀπειθεῖν τοῖς νόμοις καὶ τοῖς ἄρχουσι, τὸ ψεύδεσθαι, τὸ ἐπιορκεῖν, τὸ παραβαίνειν τὰς ὁμολογίας καὶ τὰς πίστεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "VV 1251b",
+      "text": "ἀκολουθεῖ δὲ τῇ ἀδικίᾳ συκοφαντία, ἀλαζονεία, φιλανθρωπία προσποίητος, κακοήθεια, πανουργία. ἀνελευθερίας δ’ ἐστὶν εἴδη τρία, αἰσχροκερδία φειδωλία κιμβεία. αἰσχροκερδία μέν, καθ’ ἣν κερδαίνειν ζητοῦσι πανταχόθεν, καὶ τὸ κέρδος τῆς αἰσχύνης περὶ πλείονος ποιοῦνται· φειδωλία δ’ ἐστὶ καθ’ ἣν ἀδάπανοι γίνονται τῶν χρημάτων εἰς τὸ δέον· κιμβεία δ’ ἐστὶ καθ’ ἣν δαπανῶσι μέν, κατὰ μικρὸν δὲ καὶ κακῶς, καὶ πλέον βλάπτονται τῷ μὴ κατὰ καιρὸν ποιεῖσθαι τὸ διάφορον. ἔστι δὲ τῆς ἀνελευθερίας τὸ περὶ πλείστου ποιεῖσθαι χρήματα, καὶ τὸ μηδὲν ὄνειδος ἡγεῖσθαι τῶν ποιούντων τὸ κέρδος, βίος θητικὸς καὶ δουλοπρεπὴς καὶ ῥυπαρός, φιλοτιμίας καὶ ἐλευθερίας ἀλλότριος. ἀκολουθεῖ δὲ τῇ ἀνελευθεριότητι μικρολογία, βαρυθυμία καὶ μικροψυχία, ταπεινότης, ἀμετρία, ἀγένεις, μισανθρωπία. μικροψυχίας δ’ ἐστὶ τὸ μήτε τιμὴν μήτε ἀτιμίαν μήτε εὐτυχίαν μήτε ἀτυχίαν δύνασθαι φέρειν, ἀλλὰ τιμώμενον μὲν χαυνοῦσθαι, μικρὰ δὲ εὐτυχήσαντα ὑπεξαίρεσθαι, ἀτιμίαν δὲ μηδὲ τὴν ἐλαχίστην ἐνεγκεῖν δύνασθαι, ἀπότευγμα δ’ ἄτην καὶ ἀτυχίαν κρίνειν μεγάλην, ὀδύρεσθαι δ’ ἐπὶ πᾶσι καὶ δυσφορεῖν. ἔτι δὲ τοιοῦτός ἐστιν ὁ μικρόψυχος οἷος πάντα τὰ ὀλιγωρήματα καλεῖν ὕβριν καὶ ἀτιμίαν, καὶ τὰ δι’ ἄγνοιαν ἢ λήθην γιγνόμενα. ἀκολουθεῖ δὲ τῇ μικροψυχίᾳ μικρολογία, μεμψιμοιρία, δυσελπιστία, ταπεινότης. Καθόλου δὲ τῆς μὲν ἀρετῆς ἐστὶ τὸ ποιεῖν σπουδαίαν τὴν διάθεσιν περὶ τὴν ψυχήν, ἠρεμαίαις καὶ τεταγμέναις κινήσεσι χρωμένην, συμφωνοῦσαν κατὰ πάντα τὰ μέρη· διὸ καὶ δοκεῖ παράδειγμα πολιτείας ἀγαθῆς εἶναι ψυχῆς σπουδαία διάθεσις. ἔστι δὲ ἀρετῆς καὶ τὸ εὐεργετεῖν τοὺς ἀξίους, καὶ τὸ φιλεῖν τοὺς ἀγαθούς, καὶ τὸ μήτε κολαστικὸν εἶναι μήτε τιμωρητικόν, ἀλλὰ ἵλεων καὶ εὐμενικὸν καὶ συγγνωμονικόν. ἀκολουθεῖ δὲ τῇ ἀρετῇ χρηστότης, ἐπιείκεια, εὐγνωμοσύνη, ἐλπὶς ἀγαθή. ἔτι δὲ καὶ τὰ τοιαῦτα οἷον φίλοικον εἶναι καὶ φιλόφιλον, φιλέταιρον, φιλόξενον, φιλάνθρωπον καὶ φιλόκαλον· ἃ δὴ πάντα τῶν ἐπαινουμένων ἐστίν. τῆς δὲ κακίας ἐστὶ τὰ ἐναντία.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hgw-an",
+      "title": {
+        "english": "Aristotelian Divisions",
+        "ancient_greek": "Διαιρέσεις Ἀριστοτελικαί"
+      },
+      "url_slug": "aristotle-divisions-hgw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-cb",
+      "title": {
+        "english": "Aristotle's Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "aristotle-letters-philip-hgw-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-aa",
+      "title": {
+        "english": "Aristotle's Natural Problems by Type",
+        "ancient_greek": "᾿Αριστοτέλους φυσικά προβλήματα κατ᾿ εἶδος"
+      },
+      "url_slug": "aristotle-natural-problems-hgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bp",
+      "title": {
+        "english": "Categories",
+        "ancient_greek": "Κατηγορίαι"
+      },
+      "url_slug": "aristotle-categories-hgw-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-br",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικά"
+      },
+      "url_slug": "aristotle-economics-hgw-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ba",
+      "title": {
+        "english": "Eudemian Ethics",
+        "ancient_greek": "Ἠθικὰ Εὐδήμεια"
+      },
+      "url_slug": "aristotle-eudemian-ethics-hgw-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ad",
+      "title": {
+        "english": "Fragments of Lost First Part",
+        "ancient_greek": "Ἀθηναίων πολιτεία"
+      },
+      "url_slug": "aristotle-lost-first-part-hgw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/lost-first-part",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ar",
+      "title": {
+        "english": "From-Things Heard",
+        "ancient_greek": "Ἐκ τοῦ περὶ ἀκουστῶν"
+      },
+      "url_slug": "aristotle-things-heard-hgw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/things-heard",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bg",
+      "title": {
+        "english": "Great Ethics",
+        "ancient_greek": "Μεγάλα Ἠθικά"
+      },
+      "url_slug": "aristotle-great-ethics-hgw-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/great-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "slg-aa",
+      "title": {
+        "english": "Comparison of Menander and Philistion",
+        "ancient_greek": "Σύγκρισις Μενάνδρου καὶ Φιλίστιωνος"
+      },
+      "url_slug": "menander-and-philistion-comparison-slg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-and-philistion/comparison",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/comparison.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/comparison.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/comparison.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-and-philistion/comparison.json"
+      }
+    },
+    {
+      "eul_wid": "sys-aj",
+      "title": {
+        "english": "Dion",
+        "ancient_greek": "Δίων"
+      },
+      "url_slug": "synesius-of-cyrene-dion-sys-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/dion.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ae",
+      "title": {
+        "english": "Fragment from Alanic History",
+        "ancient_greek": "Ἀποσπάσματα Ἀλανικῆς Ἱστορίας"
+      },
+      "url_slug": "arrian-of-nicomedia-alanic-history-pcs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/alanic-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bs",
+      "title": {
+        "english": "On Common Notions to the Stoics",
+        "ancient_greek": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς"
+      },
+      "url_slug": "plutarch-of-chaeronea-common-notions-okg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/common-notions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/common-notions.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-as",
+      "title": {
+        "english": "On the Virtues",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-as-lgi-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-as.json"
+      }
+    },
+    {
+      "eul_wid": "aeg-aa",
+      "title": {
+        "english": "Preamble to the Laws",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zaleucus-of-locri-preamble-laws-aeg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zaleucus-of-locri/preamble-laws",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zaleucus-of-locri/preamble-laws.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-aa",
+      "title": {
+        "english": "Sayings, from the Collection of Demetrius Phalereus",
+        "ancient_greek": "Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως"
+      },
+      "url_slug": "seven-sages-of-greece-demetrius-phalereus-ayq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.json"
+      }
+    },
+    {
+      "eul_wid": "ies-aa",
+      "title": {
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-citium-testimonies-fragments-ies-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-citium/testimonies-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium/testimonies-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium/testimonies-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium/testimonies-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-citium/testimonies-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristotle/virtues-vices",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtues-vices.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtues-vices.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtues-vices.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtues-vices.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

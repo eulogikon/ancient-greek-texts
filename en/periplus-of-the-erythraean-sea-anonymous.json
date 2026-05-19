@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oga",
+  "auth_slug": "periplus-of-the-erythraean-sea-anonymous",
+  "name": {
+    "english": "Periplus of the Erythraean Sea Anonymous",
+    "ancient_greek": "Περίπλους τῆς Ἐρυθρᾶς Θαλάσσης"
+  },
+  "seo_h1": "Trade Routes Described in the Periplus of the Erythraean Sea",
+  "seo": {
+    "browser_title": "Periplus of the Erythraean Sea on Eulogikon Greek Archive",
+    "meta_title": "Periplus of the Erythraean Sea Ancient Greek Geography",
+    "meta_description": "Anonymous 1st century CE Roman geography text detailing trade routes of the Red Sea and Indian Ocean. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Periplus of the Erythraean Sea is anonymous but was clearly a Greek-speaking merchant from Roman Egypt, likely based at Berenice on the Red Sea. He demonstrates first-hand, practical knowledge of navigation, ports, and commodities along trade routes from Egypt to East Africa and western India. Internal references to King Malichus II and the Saka satrap Nahapana date the text to the mid-1st century CE.</p>\n<p class=\"research-text\">The Periplus of the Erythraean Sea is an extant, practical guide to trade and navigation in the Red Sea, Gulf of Aden, and Indian Ocean, written in straightforward Koine Greek.</p>\n<p class=\"research-text\">This work is a historical document of exceptional importance, providing a contemporary snapshot of 1st-century CE maritime commerce connecting the Roman Empire with Arabia, Africa, and India. It details ports, political conditions, and commodities, offering a crucial ground-level view of ancient economic networks and early globalization.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "oga-aa",
+      "title": {
+        "english": "Periplus of the Erythraean Sea",
+        "ancient_greek": "Ἀνώνυμος Περίπλους τῆς Ἐρυθρᾶς Θαλάσσης"
+      },
+      "url_slug": "periplus-of-the-erythraean-sea-anonymous-navigation-guide-oga-aa",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/periplus-of-the-erythraean-sea-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-erythraean-sea-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-erythraean-sea-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-erythraean-sea-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-erythraean-sea-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

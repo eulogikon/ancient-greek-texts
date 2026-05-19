@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pci",
+  "auth_slug": "tatian-the-assyrian",
+  "name": {
+    "english": "Tatian the Assyrian",
+    "ancient_greek": "Τατιανὸς ὁ Ἀσσύριος"
+  },
+  "seo_h1": "Tatian the Assyrian and the Oration to the Greeks",
+  "seo": {
+    "browser_title": "Tatian the Assyrian on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Tatian the Assyrian Ancient Greek Christian Works",
+    "meta_description": "Tatian was a 2nd century Christian theologian. Two surviving works including Address to the Greeks. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Christian",
+      "href": "/affiliations/christian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Tatian was a Christian theologian and writer of the 2nd century CE in the Roman Empire. Ancient sources consistently identify him as an &quot;Assyrian,&quot; a term likely indicating an origin in Syria or Mesopotamia, though its precise meaning remains debated. He studied in Rome under Justin Martyr. Following Justin&#x27;s death around 165 CE, Tatian is said to have returned to the eastern provinces, where he reportedly founded a strict ascetic sect known as the Encratites. This group rejected marriage, wine, and meat, and later orthodox Christian writers condemned his teachings as heretical.</p>\n<p class=\"research-text\">Only one of his works survives in complete form: the Address to the Greeks. This text is a forceful apology for Christian thought that attacks Greek philosophy, culture, and religion, arguing for the superior antiquity and truth of what he terms &quot;barbarian&quot; wisdom. His most influential work, however, was the Diatessaron, a seamless narrative created by weaving the four Gospels into a single continuous story. It does not survive in its original form but is known from fragments, translations, and citations. The Diatessaron served as the standard gospel text in many Syriac-speaking churches for centuries before being replaced.</p>\n<p class=\"research-text\">Modern scholars view Tatian as occupying a complex position in early Christian history. He is recognized as an important apologist whose writings illuminate the intellectual conflict between early Christianity and Greco-Roman culture. Simultaneously, his association with extreme asceticism and his foundational role for the Encratite sect led to his condemnation by the developing orthodox tradition. His Diatessaron remains his most enduring legacy, representing a major early attempt to harmonize the gospel narrative.</p>\n</div>",
+  "affiliation_label": "Christian",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pci-aa",
+      "title": {
+        "english": "Oration to the Greeks",
+        "ancient_greek": "Λόγος πρὸς τοὺς Ἕλληνας"
+      },
+      "url_slug": "tatian-the-assyrian-oration-greeks-pci-aa",
+      "passages": 109,
+      "links": {
+        "html": "https://eulogikon.org/grc/tatian-the-assyrian/oration-greeks",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tatian-the-assyrian/oration-greeks.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tatian-the-assyrian/oration-greeks.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tatian-the-assyrian/oration-greeks.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tatian-the-assyrian/oration-greeks.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "tfg",
+      "name": {
+        "english": "Aeneas of Gaza",
+        "ancient_greek": "Αἰνείας ὁ Γαζαῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aeneas-of-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-gaza.json"
+      }
+    },
+    {
+      "eul_aid": "uak",
+      "name": {
+        "english": "Anatolius of Alexandria",
+        "ancient_greek": "Ἀνατόλιος Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anatolius-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anatolius-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "qwc",
+      "name": {
+        "english": "Athenagoras of Athens",
+        "ancient_greek": "Ἀθηναγόρας ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/athenagoras-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athenagoras-of-athens.json"
+      }
+    },
+    {
+      "eul_aid": "rqw",
+      "name": {
+        "english": "Butherus",
+        "ancient_greek": "Βούθηρος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/butherus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/butherus.json"
+      }
+    },
+    {
+      "eul_aid": "qya",
+      "name": {
+        "english": "Clement of Alexandria",
+        "ancient_greek": "Κλήμης ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/clement-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clement-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "tva",
+      "name": {
+        "english": "Eusebius of Caesarea",
+        "ancient_greek": "Εὐσέβιος ὁ Καίσαρειας"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-caesarea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-caesarea.json"
+      }
+    },
+    {
+      "eul_aid": "qsg",
+      "name": {
+        "english": "Hippolytus of Rome",
+        "ancient_greek": "Ἱππόλυτος ὁ Ῥωμαῖος"
+      },
+      "work_count": 13,
+      "links": {
+        "html": "https://eulogikon.org/en/hippolytus-of-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippolytus-of-rome.json"
+      }
+    },
+    {
+      "eul_aid": "uxc",
+      "name": {
+        "english": "John Philoponus of Alexandria",
+        "ancient_greek": "Ἰωάννης ὁ Φιλόπονος"
+      },
+      "work_count": 11,
+      "links": {
+        "html": "https://eulogikon.org/en/john-philoponus-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-philoponus-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "sxe",
+      "name": {
+        "english": "Nemesius of Emesa",
+        "ancient_greek": "Νεμέσιος ὁ Ἐμέσης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/nemesius-of-emesa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nemesius-of-emesa.json"
+      }
+    },
+    {
+      "eul_aid": "uhs",
+      "name": {
+        "english": "Origen of Alexandria",
+        "ancient_greek": "Ὠριγένης ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 25,
+      "links": {
+        "html": "https://eulogikon.org/en/origen-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/origen-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "pxc",
+      "name": {
+        "english": "Sententiae Sexti",
+        "ancient_greek": "Σεντεντιῶν Σέκστου"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/sententiae-sexti",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sententiae-sexti.json"
+      }
+    },
+    {
+      "eul_aid": "tds",
+      "name": {
+        "english": "Theodoret of Cyrus",
+        "ancient_greek": "Θεοδώρητος ὁ Κύρρου"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/theodoret-of-cyrus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodoret-of-cyrus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/tatian-the-assyrian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/tatian-the-assyrian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mna",
+  "auth_slug": "greek-geographer-anonymous",
+  "name": {
+    "english": "Greek Geographer  Anonymous",
+    "ancient_greek": "Ἀνώνυμος γεωγράφος ὁ καλούμενος Ψευδοσκύμνος"
+  },
+  "seo_h1": "Pseudo-Scymnus the Greek Geographer on the Mediterranean Coast",
+  "seo": {
+    "browser_title": "Pseudo-Scymnus Anonymous Geographer Eulogikon Greek Archive",
+    "meta_title": "Pseudo-Scymnus Ancient Greek Geography Works Author",
+    "meta_description": "Anonymous Hellenistic geographer known as Pseudo-Scymnus from the 2nd century BCE. Two surviving works. Free to read and download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Scymnus is the conventional name for an anonymous Greek geographer who lived and worked in the 2nd century BCE. His true identity is unknown because later manuscript copies incorrectly credited his work to an earlier geographer named Scymnus of Chios.</p>\n<p class=\"research-text\">He dedicated his work to a King Nicomedes, which is the key clue to his era. According to modern scholars, this patron was most likely Nicomedes III of Bithynia, who ruled from approximately 127 to 94 BCE, placing the author&#x27;s activity in the late Hellenistic period. His surviving work is the Periodos to Nicomedes, a prose guide describing the coastlines of the known world. A second, fragmentary geographical text is sometimes attributed to the same anonymous author. These works belong to a tradition of descriptive geography known as periegesis.</p>\n<p class=\"research-text\">Written in the common Koine Greek, his prose style was a departure from the poetic forms used by some earlier geographical writers. Pseudo-Scymnus is significant as a compiler and transmitter of geographical knowledge. His work is a valuable source for historical place names, local myths, and the foundation stories of Greek colonies, preserving information not found in other texts. While he relied on earlier authorities, his systematic compilation reflects the scholarly interests of the Hellenistic age. The dedication to a Bithynian king also illustrates the practical role of geography in the political and intellectual world of the time. Modern scholarship has disentangled his work from the misattribution, establishing him as a distinct figure in the history of ancient geography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "mna-aa",
+      "title": {
+        "english": "Ut fertur, Periegesis, Scymnus of Chios, Itinerary",
+        "ancient_greek": "Περιήγησις Σκύμνου Χίου"
+      },
+      "url_slug": "greek-geographer-anonymous-periegesis-itinerary-mna-aa",
+      "passages": 67,
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-geographer-anonymous/periegesis-itinerary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/periegesis-itinerary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/periegesis-itinerary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/periegesis-itinerary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/periegesis-itinerary.json"
+      }
+    },
+    {
+      "eul_wid": "mna-ab",
+      "title": {
+        "english": "Vv. 722–1026, To King Nicomedes",
+        "ancient_greek": "Πρὸς Νικομήδην Βασιλέα"
+      },
+      "url_slug": "greek-geographer-anonymous-king-nicomedes-mna-ab",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-geographer-anonymous/king-nicomedes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/greek-geographer-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/greek-geographer-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/greek-geographer-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/greek-geographer-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/greek-geographer-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

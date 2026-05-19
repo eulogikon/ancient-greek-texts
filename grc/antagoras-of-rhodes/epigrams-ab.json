@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jco-ab",
+  "eul_aid": "jco",
+  "author_slug": "antagoras-of-rhodes",
+  "work_slug": "epigrams-ab",
+  "url_slug": "antagoras-of-rhodes-epigrams-ab-jco-ab",
+  "author": {
+    "english": "Antagoras of Rhodes",
+    "ancient_greek": "Ἀνταγόρας ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Antagoras of Rhodes on Eulogikon Archive",
+    "meta_title": "Classical Epigrams by Antagoras of Rhodes in Ancient Greek",
+    "meta_description": "Epigrams are short poems by Hellenistic poet Antagoras of Rhodes. Read free and download these Greek verse Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Epigrams</strong> constitute the surviving poetic fragments of Antagoras of Rhodes, a Hellenistic poet, philosopher, and epicist active in the early 3rd century BCE. Composed in Greek verse, these short poems belong to the literary epigram tradition, which had evolved from its origins as commemorative inscription into a refined genre for personal and artistic expression. The extant corpus is limited to ten fragments preserved through quotation by later authors, primarily the Byzantine encyclopedia <strong>Suda</strong> and the <strong>Palatine Anthology</strong>. These pieces indicate a thematic range typical of the period, encompassing dedicatory verses for religious statues and poems suitable for symposia, the latter likely containing erotic elements. Antagoras, who was associated with the court of King Antigonus II Gonatas in Macedon, exemplifies the learned court intellectual of the early Hellenistic era. His epigrams are thus interpreted as products of an elite literary culture, crafted for fellow scholars and aristocratic patrons. While the original structure and full scope of his epigram collection are lost, the surviving fragments provide a valuable, if partial, insight into the diverse poetic practices of his time.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 103.1.1",
+      "text": "〈Μνήματι τῷδε Κράτητα θεουδέα καὶ Πολέμωνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103.1.2",
+      "text": "ἔννεπε κρύπτεσθαι, ξεῖνε, παρερχόμενος,〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103.1.3",
+      "text": "ἄνδρας ὁμοφροσύνῃ μεγαλήτορας, ὧν ἀπὸ μῦθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103.1.4",
+      "text": "ἱερὸς ἤισσεν δαιμονίου στόματος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103.5",
+      "text": "καὶ βίοτος καθαρὸς σοφίας ἐπὶ θεῖον ἐκόσμει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 103",
+      "text": "αἰῶν’ ἀστρέπτοις δόγμασι πειθόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147.1.1",
+      "text": "Ὦ ἴτε Δήμητρος πρὸς ἀνάκτορον, ὦ ἴτε, μύσται,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147.1.2",
+      "text": "μηδ’ ὕδατος προχοὰς δείδιτε χειμερίους·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147.1.3",
+      "text": "τοῖον γὰρ Ξενοκλῆς ὁ Ξείνιδος ἀσφαλὲς ὔμμιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147",
+      "text": "ζεῦγμα διὰ πλατέος τοῦδ’ ἔβαλεν ποταμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jco-aa",
+      "title": {
+        "english": "Epigrams (Hymn-Fragments)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "antagoras-of-rhodes-epigrams-aa-jco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kjq-am",
+      "title": {
+        "english": "Ethopoeic Exercise",
+        "ancient_greek": "Ἠθοποιία"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-am-kjq-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.json"
+      }
+    },
+    {
+      "eul_wid": "jvk-aa",
+      "title": {
+        "english": "Fragments on Thessalian Aleuas",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου"
+      },
+      "url_slug": "hegemon-of-alexandria-thessalian-aleuas-jvk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegemon-of-alexandria/thessalian-aleuas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/thessalian-aleuas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/thessalian-aleuas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/thessalian-aleuas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegemon-of-alexandria/thessalian-aleuas.json"
+      }
+    },
+    {
+      "eul_wid": "gbi-aa",
+      "title": {
+        "english": "Fragments on the Hyperboreans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὑπερβορέων"
+      },
+      "url_slug": "pherenicus-of-heraclea-hyperboreans-gbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherenicus-of-heraclea/hyperboreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea/hyperboreans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea/hyperboreans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea/hyperboreans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherenicus-of-heraclea/hyperboreans.json"
+      }
+    },
+    {
+      "eul_wid": "usc-aa",
+      "title": {
+        "english": "Hero and Leander",
+        "ancient_greek": "Ἡρῴ καὶ Λέανδρος"
+      },
+      "url_slug": "musaeus-the-grammarian-hero-leander-usc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/musaeus-the-grammarian/hero-leander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian/hero-leander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian/hero-leander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian/hero-leander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-the-grammarian/hero-leander.json"
+      }
+    },
+    {
+      "eul_wid": "tns-aa",
+      "title": {
+        "english": "Paraphrase of the Gospel of John",
+        "ancient_greek": "Παράφρασις εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον"
+      },
+      "url_slug": "nonnus-of-panopolis-gospel-john-tns-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnus-of-panopolis/gospel-john",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ae",
+      "title": {
+        "english": "Praises of Theon the Gymnasiarch",
+        "ancient_greek": "Ἐγκώμια Θεῶνος τοῦ Γυμνασιάρχου"
+      },
+      "url_slug": "epic-fragments-anonymous-theon-gymnasiarch-kjq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/theon-gymnasiarch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.json"
+      }
+    },
+    {
+      "eul_wid": "uge-aa",
+      "title": {
+        "english": "Sack of Ilium",
+        "ancient_greek": "Ἅλωσις Ἰλίου"
+      },
+      "url_slug": "tryphiodorus-of-egypt-sack-of-ilium-uge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.json"
+      }
+    },
+    {
+      "eul_wid": "pge-ab",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "pancrates-of-egypt-testimony-pge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-egypt/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-egypt/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

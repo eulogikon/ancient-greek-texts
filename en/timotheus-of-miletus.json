@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dhk",
+  "auth_slug": "timotheus-of-miletus",
+  "name": {
+    "english": "Timotheus of Miletus",
+    "ancient_greek": "Τιμόθεος ὁ Μιλήσιος"
+  },
+  "seo_h1": "Timotheus of Miletus and the Ionic Historical Tradition",
+  "seo": {
+    "browser_title": "Timotheus of Miletus on Eulogikon Greek Texts Archive",
+    "meta_title": "Timotheus of Miletus Ancient Greek Historical Works",
+    "meta_description": "Timotheus of Miletus, a classical Greek historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timotheus of Miletus was a Greek historian of the late fifth and early fourth centuries BCE. A contemporary of the historian Androtion, he lived during the reign of the Persian king Artaxerxes II Mnemon. A native of Miletus, he wrote in the Ionic dialect.</p>\n<p class=\"research-text\">His known work is <strong>On Kings</strong>, a history of the Persian Empire in at least ten books that spanned from Cyrus the Great to at least Artaxerxes II. The work is now lost, surviving only in fragments cited by later authors like Plutarch, who used it for details on Persian customs and history.</p>\n<p class=\"research-text\">Timotheus represents the Ionian tradition of ethnography and Near Eastern history. His <strong>On Kings</strong> was a significant source on Persia for later classical writers, contributing to the Greek understanding of the Achaemenid Empire alongside figures like Ctesias of Cnidus.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dhk-aa",
+      "title": {
+        "english": "Dionysian and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timotheus-of-miletus-dionysian-mythology-dhk-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-of-miletus/dionysian-mythology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timotheus-of-miletus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-of-miletus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-of-miletus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-of-miletus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timotheus-of-miletus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

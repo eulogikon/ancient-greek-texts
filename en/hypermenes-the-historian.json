@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "puu",
+  "auth_slug": "hypermenes-the-historian",
+  "name": {
+    "english": "Hypermenes the Historian",
+    "ancient_greek": "Ὑπερμένης ὁ ἱστορικός"
+  },
+  "seo_h1": "Hypermenes the Historian on the History of Chios",
+  "seo": {
+    "browser_title": "Hypermenes the Historian on Eulogikon Greek Archive",
+    "meta_title": "Hypermenes the Historian Ancient Greek Historical Works",
+    "meta_description": "Hypermenes the Historian, a 2nd century CE Roman era Greek historian. Surviving historical works in Koine Greek. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hypermenes the Historian</p>\n<p class=\"research-text\">Life\nNo biographical details for a historian named Hypermenes from the 2nd century CE are attested. The name appears in earlier contexts, such as a son of Aegyptus in Apollodorus’s Bibliotheca and as an Olympic victor in 472 BCE, but these refer to distinct mythological and early historical figures.</p>\n<p class=\"research-text\">Works\nHe is credited with one historical work, but no title, fragment, or citation survives. Standard reference works, including the Oxford Classical Dictionary and Brill’s New Pauly, do not list him.</p>\n<p class=\"research-text\">Significance\nHypermenes the Historian lacks any secure place in the historical record. He is never cited by later ancient authors and plays no role in modern discussions of Greek historiography under the Roman Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "puu-aa",
+      "title": {
+        "english": "Fragments on Chios",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χίου"
+      },
+      "url_slug": "hypermenes-the-historian-chios-fragments-puu-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/hypermenes-the-historian/chios-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian/chios-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian/chios-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian/chios-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypermenes-the-historian/chios-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hypermenes-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypermenes-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypermenes-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypermenes-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hypermenes-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

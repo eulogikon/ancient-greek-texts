@@ -1,0 +1,447 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tqu-ax",
+  "eul_aid": "tqu",
+  "author_slug": "anonymous-medical-writer",
+  "work_slug": "humors",
+  "url_slug": "anonymous-medical-writer-humors-tqu-ax",
+  "author": {
+    "english": "Medical Writer  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἰατρικός συγγραφεύς (ψευδο-Γαληνός)"
+  },
+  "title": {
+    "english": "On Humors",
+    "ancient_greek": "Περὶ Χυμῶν"
+  },
+  "seo": {
+    "browser_title": "On Humors by Medical Writer Anonymous on Eulogikon",
+    "meta_title": "On Humors by Medical Writer Anonymous in Ancient Greek",
+    "meta_description": "This medical treatise explores the theory of four humors and their relationships to natural elements and seasonal Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Humors</strong> is a concise medical treatise from ancient Greece, traditionally but erroneously attributed to Hippocrates. Modern scholarship identifies it as an anonymous work, likely composed by a physician in the late fifth or early fourth century BCE, and it is preserved as a core text of the Hippocratic Corpus. Written in Ionic Greek, the work systematically expounds the theory of the four bodily humors: blood, phlegm, yellow bile, and black bile. It posits that health is a state of equilibrium among these humors, while disease arises from their imbalance. The treatise elaborates a comprehensive correspondence between each humor, a fundamental element (air, fire, water, earth), a season of the year, and a pair of primary qualities (hot, cold, wet, dry). This framework provides the rationale for its practical guidance, which offers dietary and lifestyle advice tailored to the seasons to maintain humoral balance and prevent illness. Structured in twelve succinct passages, the text served as a practical manual for physicians and students, emphasizing natural causation and preventive care. Its formulation of humoral theory proved profoundly influential, providing the foundational concepts that were later expanded by Galen and which dominated Western medical thought for nearly two millennia.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "19 485 (t)",
+      "text": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΧΥΜΩΝ. Ὅπερ ἐν κόσμῳ στοιχεῖον, τοῦτο ἐν ζώοις χυμὸς, ὥσπερ δὴ καὶ ἐν χρόνῳ καιρός. οὐ παντελῆ ταυτότητα ἢ ὁμοιότητα ἔχοντα. ἀλλὰ μὲν ταυτὰ ταῖς δραστικαῖς τε καὶ παθητικαῖς ποιότησιν, αἷς ταῦτα τὸ εἶναι ἔχει καὶ συντεθέντα ἐστὶ καὶ ἀρχαὶ τῶν ἐν ἡμῖν, διενηνοχότα δὲ ἀλλήλων καὶ πολλοῖς μὲν ἄλλοις καὶ αὐτοῖς ὀνόμασιν. αὐτίκα γὰρ στοιχεῖα μὲν ὁ κόσμος ἐξ ὧν ἀήρ τε καὶ πῦρ καὶ ὕδωρ καὶ γῆ. καιροὶ δὲ δι’ ὧν ὁ χρόνος ἔαρ καὶ θέρος καὶ χειμὼν καὶ φθινόπωρον. χυμοὶ δὲ χολὴ καὶ αἷμα φλέγμα τε καὶ ἡ μέλαινα, ἐξ ὧν τὰ ζῶα συνέστηκε καὶ ὁ ἄνθρωπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 486",
+      "text": "ὑγρότητι δὲ πάντα συγκέκραται καὶ θερμότητι, ξηρότητί γε καὶ ψυχρότητι. αἷμα γὰρ μὲν καὶ ἀὴρ καὶ μὲν δὴ καὶ τὸ ἔαρ ὑγρὰ καὶ θερμὰ, κἂν ἄλλοις ἄλλως περὶ τοῦ ἀέρος δοκῇ. χολῶν δὲ ἡ ξανθὴ καὶ θέρος καὶ πῦρ θερμὰ καὶ ξηρά. μέλαινα δὲ καὶ γῆ καὶ φθινόπωρον ξηρὰ καὶ ψυχρά. φλέγμα δὲ καὶ ὕδωρ ἀλλὰ δὴ καὶ χειμὼν ψυχρὰ καὶ ὑγρά. ἑνοῦται δὲ καὶ πρὸς ἑαυτὰ χυμὸς καὶ στοιχεῖον καὶ καιρὸς καὶ διίσταται. ἀὴρ γὰρ καὶ πῦρ διενήνοχε τῇ ξηρότητι καὶ ὑγρότητι, ἑνοῦται δὲ θερμότητι. πῦρ δὲ καὶ γῆ τῇ ψυχρότητι καὶ θερμότητι. ξηρὰ δὲ πάντως ἀμφότερα. ὥσπερ γῆ καὶ ὕδωρ ψυχρὰ, διίσταται δὲ ξηρότητι καὶ ὑγρότητι. ὕδωρ καὶ ἀὴρ, ὑγρὰ μὲν, θερμότητι δὲ καὶ ψυχρότητι διαφέρετον. οὕτω καὶ χυμοὶ καὶ καιροὶ συνίστανται καὶ ἀλλήλων διίστανται. καὶ τὴν καλουμένην φίλεχθρον μίξιν ἀποτελοῦσιν. ἀλλὰ τὰ μὲν στοιχεῖα τὰ αὐτὰ πάντως εἰσὶ καὶ ἐπὶ τῷ αὐτῷ ἕκαστον μένει τόπῳ· καὶ τῇ πρὸς ἄλληλα μεταβολῇ τὴν διαμονὴν ἔχει καὶ τῇ ἀναλόγῳ τροφῇ προνοητικῷ τινι λόγῳ τρεφομένων καὶ καιρὸς ὡσαύτως ταῖς πρὸς νότον καὶ βοῤῥᾶν τοῦ ἡλίου κινήσεσι γίνεται καὶ λέγεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 487",
+      "text": "χυμοὶ δὲ οὐχ ὡσαύτως οὐδ’ οἱ αὐτοὶ πάντῃ εἰσὶν, ἀλλὰ διενηνόχασιν ἀλλήλων καὶ τόπῳ καὶ χροίᾳ καὶ δυνάμει συστάσει τε καὶ ποιότητι. καὶ μεταβάλλειν μὲν ἀνάγκη καὶ τοὺς χυμοὺς, ὥσπερ δὴ καὶ τὰ στοιχεῖα μεταβάλλειν πρὸς ἄλληλα, οὐκ ἀεὶ δὲ τὸν αὐτὸν διατηρεῖν τρόπον τῆς μεταβολῆς οὐδ’ ἐπίσης αὔξιν αὐτοὺς, ἀλλ’ ἐνίοις μὲν ἀπὸ τοῦ γεώδους εἰς τὸν ὑδατώδη τάξει τινὶ καὶ ἀπ’ ἐκείνου εἰς τὸν ἀερώδη, ἀφ’ οὗ εἰς τὸν πυρώδη γίνεται ἡ μεταβολὴ, ἐνίοις δὲ ἀτάκτως ἀπὸ τοῦ φλέγματος εἰς ξανθὴν καὶ ἀπὸ τοῦ αἵματος εἰς τὴν μέλαιναν. μαρτύρια δὲ τοῦ λόγου τὸ γεῶδες αἷμα καὶ μελαγχολικὸν, τὸ ἁλικὸν φλέγμα ἐγγύς που τῆς ἰσατώδους τυγχάνον χολῆς καὶ ῥᾳδίως εἰς αὐτὴν μεταβαλλόμενον. φαίνεται δὲ καὶ φλεγματώδης χολὴ καὶ μυξώδης καὶ αἷμα τοιοῦτο, καθάπερ κἀπὶ τῶν ὑδαλέων καὶ καχεκτικῶν, ὥσπερ δῆτα κἀπὶ τῶν θερμοτέρων καὶ ξηροτέρων ἀμιγὴς ξανθή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 488",
+      "text": "καὶ τούτων αὐτῶν ἀπεπτησάντων ἡ πρασώδης ἐμουμένη τε καὶ διαχωρουμένη φαίνεται. τῇ μὲν οὖν τάξει τῶν μεταβολῶν καὶ ἡ τάξις πρόεισι τῆς ἐπικρατήσεως, τοὐναντίον δὲ τοῖς κατ’ αὐτὴν μεταβάλλουσιν. αὔξει δὲ ἄλλῳ ἄλλος ἄλλοτε χυμὸς κράσει καὶ ὥρᾳ καὶ χώρᾳ καὶ ἡλικίᾳ καὶ διαίτῃ γεννώμενος, ὥσπερ ἅπασιν ἅπαντες τεταγμέναις περιόδοις καὶ καιροῖς τοῖς ἑαυτῶν γεννώμενοί τε καὶ ἐπίδοσιν ἔχοντες. θέρει γὰρ αὔξει πικρὰ, ἡλικίᾳ δὲ καὶ κράσει καὶ διαίτῃ παραπλησία καὶ μάλιστα, ἔτι τε καὶ τοῖς ἔξωθεν. καὶ γὰρ καὶ φροντίδες καὶ θυμοὶ καὶ λῦπαι καὶ πόνοι καὶ γυμνάσια καὶ ἀγρυπνίαι καὶ ἀσιτίαι καὶ ἔνδειαι πλείονα τὸν τῆς ξανθῆς χολῆς ἀθροίζουσι χυμόν. ὥσπερ δῆτα ὕπνοι καὶ ὑδροποσίαι καὶ ἡ τῶν θαλασσίων καὶ τῶν ὑγροτέρων πάντων καὶ παχυμερῶν καὶ γλίσχρων ἐδωδὴ τὸν φλεγματικόν. κρέα τε καὶ πτηνῶν σάρκες καὶ ὠὰ καὶ εὔπεπτα πάντα καὶ εὔχυμα τὸν αἱματικὸν, εἰ μή πού τις ἰδιότης μετατρέπει τὸ προσφερόμενον. ὡσαύτως καὶ τὸν μελαγχολικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 489",
+      "text": "ἀλλὰ δὴ καὶ συμπεπλεγμένως. ὀρθῶς καὶ ὅτε συμπεπλεγμέναις χρώμεθα ταῖς τροφαῖς καὶ τὰ ἀκόλουθα ἕπεται. αὔξει δὲ μειρακίῳ μὲν τὸ αἷμα. διὸ καὶ χαρίεντες οἱ τοιοῦτοι καὶ μανικῶς περὶ τὸ παίζειν διακείμενοι. χολὴ δὲ τῷ νεανίσκῳ ὀργίλον αὐτὸν καὶ θυμώδη καὶ πικρὸν παρασκευάζουσα. τῷ ὑπερήβῳ δὲ μέλαινα· χείριστος οὗτος ὁ χυμὸς καὶ ὅπου ἂν ὁρμήσῃ δυσκάθεκτος τυγχάνων καὶ δυσμετάστρεπτος. ὕφαλόν τε τὴν ἑαυτοῦ ἡλικίαν καὶ μνησίκακον καί πως δυσδιόρθωτον ἐργαζόμενος. ἔστι δὲ καὶ τῷ γέροντι φλέγμα. νωθρὰ ἡλικία αὐτὴ καὶ ληθαργικὴ καὶ κωματώδης. ὑγρὰ γὰρ καὶ ψυχρά· ὥσπερ ἡ παρηβῶσα ξηρὰ καὶ ψυχρά. καὶ ἡ μειρακιώδης θερμὴ καὶ ὑγρά· καὶ τῶν νεανίσκων ἡ τοῦ ἀναλογοῦντος χυμοῦ καὶ ἀμείνονος. τόποι δὲ αὐτῶν γεννήσεώς τε καὶ διαμονῆς καὶ κινήσεως, αἵματος μὲν ἧπαρ καὶ φλέβες καὶ ἀμφότεραι τῶν ῥινῶν. ξανθῆς δὲ κύστις ἡ ἰδία καὶ περὶ τὸ ἧπαρ καὶ δι’ ὤτων, ὅπερ καὶ φαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 490",
+      "text": "φλέγματος δὲ στόμαχος καὶ ψόαι καὶ διὰ στόματος. ὥσπερ τῆς μελαίνης ὑπὸ τὸ ἧπαρ καὶ σπλῆνα καὶ δι’ ὀφθαλμῶν ὥσπερ λέγεται. χροιὰ δὲ αὐτῶν αἵματος μὲν ἐρυθρὰ, φλέγματος δὲ λευκή. ξανθῆς δ’ εἴδη ἑπτά. ἡ μὲν γάρ τίς ἐστι ξανθὴ, ἥτις καὶ στοιχειώδης λέγεται, ἡ δὲ ὠχρὰ, ἡ δ’ ἐρυθρὰ, ἡ δὲ πρασώδης, ἡ δὲ λεκιθώδης, ἡ δὲ ἰώδης, ἡ δὲ ἰσατώδης. μελαίνης τὸ ἐλαιῶδες χρῶμα οἰκεῖον καὶ τοῦθ’ ὅπερ λέγεται μέλαινα. ἔστι δὲ καὶ κατὰ τὴν γεῦσιν τὸ αἷμα γλυκύ. πικρὰ ἡ ξανθὴ καὶ ὀξεῖα ἡ μέλαινα. τὸ δὲ φλέγμα ἄποιον μὲν πρώτως, εἶθ’ ἁλυκὸν, εἶτ’ ὀξὺ καὶ προσέτι γλυκύ. εἰσὶ δὲ καὶ τῆς μελαίνης τέσσαρες αἱ διαφοραί. ἡ μὲν γάρ ἐστιν ἀπὸ τῆς τρυγίας τοῦ αἵματος, ἡ δὲ ἐξ ὑπεροπτήσεως τῆς ξανθῆς, ἡ δ’ ἀσφαλτώδης διὰ τὸ στίλβειν ἀσφάλτου δίκην, ἡ δὲ αἱματώδης. ἔστι δ’ ἐπὶ τούτοις τόθ’ αἷμα τότε φλέγμα παχέα τὴν σύστασιν καὶ ἡ μέλαινα. λεπτὴ δὲ καὶ κουφὴ καὶ ἀνωφερὴς ἡ ξανθὴ, ὥσπερ οἱ ἕτεροι δύο χυμοὶ βαρεῖς. τὸ δὲ αἷμα μεσάζει τῷ μετέχειν θερμότητος. ἔοικε δὲ τὴν ὑγίειαν χαρακτηρίζεσθαι τῇ τούτων ἰσότητί τε καὶ συμμετρότητι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 491",
+      "text": "ἐνδεόντων δὲ αὐτῶν ἢ πληθυνόντων παρὰ τὸ δέον ἢ ποσότητι ἢ ποιότητι ἢ τόπων μεταστάσει ἢ συμπλοκῇ ἀτάκτῳ ἢ σήψει κακωθέντων αἱ νόσοι συμβαίνουσιν. ὥσπερ καὶ λέγεται τὰς νόσους συμβαίνειν τῇ τῶν χυμῶν ἀμετρίᾳ· καθὰ καὶ τὴν ὑγίειαν ἐπανέρχεσθαι ἀφαιρέσει καὶ προσθέσει καὶ λεπτότητι καὶ παχύτητι τῶν χυμῶν καὶ ἁπλῶς τῇ εὐκρασίᾳ καὶ συμμετρίᾳ αὐτῶν. ὡς ἐν τῷ ἕκτῳ τῶν ἐπιδημιῶν τῷ Ἱπποκράτει ἄριστα λέγεται· χυμοὺς τοὺς μὲν ἐξῶσαι, τοὺς δὲ εὐθεῖναι, λεπτῦναι κατακεράσαι τῇ μὲν, τῇ δὲ μή. κατὰ γάρ τοι τὴν αἰτίαν τῶν παθῶν τὴν ἀκολουθίην τῶν βοηθημάτων πορίζονται. χρὴ γὰρ ἀκριβῶς εἶναι κεκραμένους ποιότητι καὶ ἴσους ποσότητι τοὺς χυμοὺς, ἵν’ ὑγίειά τε διαμένῃ καὶ μὴ οὖσα ἐπανελεύσηται. ὅθεν καὶ τῆς ὀνομασίας ἔτυχον ὄντες χυμοὶ παρὰ τὸ χεῖσθαι ἅμα λεγόμενοι. δῆλον γὰρ ὡς εἰ τοῦτο ὑγίεια, τὸ μὴ τοιοῦτο νόσος ἂν εἴη, ὥσπερ καὶ δέδεικται. ἐπεὶ δὲ ἡ νόσος γένος εἰς διάφορα εἴδη διαιρουμένη, ἀνάγκη τὰς διαφορὰς ἀπό τινων διαφορῶν αἰτιῶν προβαίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 492",
+      "text": "αἰτία δὲ χυμοὶ καὶ συμπτώματα. τὰ μὲν τοῖς ἔξωθεν ἐπισυμβαίνουσιν· οἱ δὲ ταῖς αὐξήσεσι καὶ μειώσεσιν ἐπί τε ἡλικίαις καὶ καιροῖς καὶ διαίτης καὶ κράσεσιν, ἐξαλλαττόμενοι, ὡς προείρηται. τοῦτο δὲ καὶ Ἱπποκράτης σημαίνειν ἔοικεν, ἄλλους κατ’ ἄλλην ὥραν ἀνθεῖν τε καὶ δυναστεύειν τοῖς σώμασι χυμοὺς, καὶ τὰ χρώματα διάφορα εἶναι λέγων τοῖς ἀνθρώποις κατὰ τὴν ἐπικράτειαν τῶν ἐν τῇ κράσει δυναστευόντων χυμῶν, καὶ τὰ νοσήματα κατὰ τὴν τοῦ πλεονάζοντος χυμοῦ φύσιν πεφυκότα γίγνεσθαι. καὶ μὲν δὴ καὶ ἐν προοιμίῳ τοῦ περὶ χυμῶν. τὸ χρῶμα, φησὶ, τῶν χυμῶν, ὅπου οὐκ ἔστι ταραχὴ αὐτῶν ὥσπερ τῶν ἀνθῶν, κατ’ ἐπικράτειαν τῶν χυμῶν εἴωθεν ἐν τῇ διαδοχῇ τῶν ἡλικιῶν ὑπαλλάττεσθαι τοῖς ἀνθρώποις, καθάπερ ἄρα καὶ τὰ ἤθη τῆς ψυχῆς. ἠθοποιοῦσι γὰρ οἱ χυμοὶ καὶ ταύτην. καὶ τὸ μὲν αἷμα ἱλαρωτέραν ἀπεργάζεται, ἡ δὲ ξανθὴ ὀργιλωτέραν ἢ θρασυτέραν ἢ γοργοτέραν ἢ καὶ ἀμφότερα. τὸ δὲ φλέγμα ἀργοτέραν καὶ ἠλιθιωτέραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 493",
+      "text": "ἡ δὲ μέλαινα ὀργιλωτέραν καὶ ἰταμωτέραν. ὑπαλλάττεται δὲ τὸ τῆς ψυχῆς ἦθος καὶ ἐν ταῖς νόσοις πρὸς τὸ εἶδος τοῦ περιττεύοντος χυμοῦ, ὡς ἐπὶ τῶν παρακοπῶν. ὅσαι γὰρ αὐτῶν εἰσιν ἐφ’ αἵματος μετ’ ᾠδῆς προσπίπτουσί τε καὶ γέλωτος, ὅσαι δ’ ἀπὸ ξανθῆς θρασύτεραι καὶ πικρότεραι. διὰ τοῦτο καὶ Ἱπποκράτης φησὶν, αἱ μὲν μετὰ γέλωτος γινόμεναι παραφροσύναι ἀσφαλέστεραι, αἱ δὲ μετὰ σπουδῆς ἐπισφαλέστεραι, σπουδὴν τὴν θρασύτητα λέγων. ὅσαι δ’ αὖ ἀπὸ μελαίνης σκυθρωπότεραι καὶ σιωπηλότεραι καὶ ἀστειότεραι. ὅσαι δ’ αὖ ἀπὸ φλέγματος ληρώδεις καὶ ἀσταταίνουσαι. καὶ ἀλλαχῆ αὐτὸς μαρτυρεῖ, ὡς ἐν τῷ πρώτῳ τῶν ἐπιδημιῶν φησι. Σειλήνου μὲν παρακόψαντος μετ’ ᾠδῆς καὶ γέλωτος. ἐπὶ δὲ Φιλίσκου ἐν τῇ τρίτῃ ἐπιδημίᾳ γενέσθαι θρασεῖαν τὴν παρακοπήν· ἐξεμάνη γὰρ, φησὶ, περὶ τὸ μέσον τῆς ἡμέρας. ξανθὴ γὰρ ἦν ἡ πρόφασις τῆς νόσου. ἐν Κυζικῷ δὲ τὰς Διδύμου θυγατέρας τικτούσας μανῆναί φησιν, εἶναι δὲ σκύθρωπον καὶ δύσθυμον τὸ εἶδος τῆς παρακοπῆς. σιωπῶσα γὰρ ἦν καὶ οὐδενὸς πυθομένη· μέλαινα δὲ ἦν αἰτία τῆς νόσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 494",
+      "text": "Πιθίωνα δὲ τὸν παρὰ τὸ τῆς γῆς ἱερὸν οἰκοῦντα λῆρον, γενέσθαι μανέντα. φλεγματικὴ ἥδε ἦν ἐκείνῃ πρόφασις τοῦ πάθους. ἐπὶ τούτοις δεῖ καὶ τὸν θεραπεύσοντα τὰς ποικιλίας τῶν νοσημάτων προγινώσκειν τὰς αἰτίας αὐτῶν. ἢν γάρ τις, ὡς Ἱπποκράτης λέγει, τὴν αἰτίαν τοῦ νοσήματος εἰδοίη, οἷός τ’ ἂν εἴη τὰ ξυμφέροντα προσάγειν τῷ σώματι ἐκ τῶν ἐναντίων ἱστάμενος τῷ νοσήματι. καὶ ἐν τῷ περὶ νούσων ὃς ἂν περὶ ἰήσεως ἐθέλῃ ἐρωτᾷν τε ὀρθῶς καὶ ἐρωτῶντι ἀποκρίνεσθαι καὶ ἀντιλέγειν ὀρθῶς, ἐνθυμέεσθαι χρὴ τάδε. πρῶτον ἀφ’ ὧν αἱ νοῦσοι γένονται τοῖσιν ἀνθρώποις πᾶσι. γνωρίζονται τοίνυν αἱ τῶν νοσημάτων προφάσεις. πρῶτον μὲν ἀπὸ τῆς ἡλικίας. εἰ γὰρ μειράκιον τὸ νοσοῦν, μάλιστα ἂν ἀφ’ αἵματος νοσοίη, ὥς γε ἀνωτέρω δεδήλωται καὶ ἑξῆς ὁμοίως. δεύτερον ἀπὸ τῶν ὡρῶν. εἰ γὰρ ἐαρινὴ ἦν ὥρα αἷμα μάλιστα τὸ λυποῦν. τρίτον ἀπὸ τῆς διαίτης. τῶν γὰρ βρωτῶν καὶ ποτῶν ἄλλο ἄλλου χυμοῦ ποιητικόν ἐστι καὶ ταῖς οἰνοφλυγίαις καὶ ἀδηφαγίαις αἱματικαὶ διαθέσεις παρέπονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 495",
+      "text": "οὕτω διέγνω Ἱπποκράτης τὸν Σειληνὸν ἐκ ποτοῦ μαθὼν αὐτὸν νενοσηκότα. καὶ τὴν τοῦ κηπωροῦ γυναῖκα κρύψεως γεγεννημένης αὐτῇ ἐπιμηνίων. ἄφθονον γὰρ εἶχε τὴν πολυφαγίαν. τέταρτον ἀπὸ τῆς χώρας. εἴ γε θερμὴ θερμότερα προξενοῦσα πάθη. πέμπτον ἀπὸ τῶν ἐξανθημάτων. τὰ γὰρ ἐρυθρὰ καὶ στρογγύλα αἱματώδη· τὰ δὲ πλατέα φλεγματώδη καὶ ἄλλως ἄλλα, ὥσπερ ἐν ἀφορισμοῖς δείκνυσιν ἱδρωτήρια ἔαρος καὶ θέρους γινόμενα λέγων, ὡς ἀφ’ αἵματος καὶ χολῆς ὄντα. καὶ μὲν δὴ καὶ ἀπὸ τοῦ χρώματος ὥσπερ ἐπὶ τοῦ χυμοῦ ἐπικράτεια, οὕτω καὶ τοῦ νοσήματος διαγινώσκεται. ἔστι δὲ καὶ αὕτη οὐδὲν ἧττον τῶν μεγίστων διαγνώσεων ἀκριβεστάτη καὶ Διογένει καὶ τοῖς κατ’ ἐκείνου καιροῦ σοφοῖς ὡς μαντική τις νομιζομένη. πολὺν μὲν γὰρ οἱ ἄνδρες ἐκεῖνοι περὶ χρωμάτων ἐποιήσαντο λόγον, ταῖς διαφοραῖς αὐτῶν καὶ τὰ νοσήματα μεριζόμενοι ἐρυθρόχρους τε τοὺς αἱματώδεις καὶ πυρόχρους, οἷς ὁ πικρὸς πλεονάζει χυμὸς, καὶ μελανόχρους οἷς μέλας καὶ λευκόχρους τοὺς φλεγματίας ἀποκαλοῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 496",
+      "text": "ἐρυθρόχροά τε καὶ πυρόχροα τὰ ἐπὶ τούτοις νοσήματα καὶ μελανόχροα καὶ λευκόχροα λέγοντες, οὐκ οἶδα ἄνθ’ ὅπου τὰ πολλὰ τῆς τέχνης καταλιπόντες μαρτύρια κᾀκεῖνα μᾶλλον ἀδύναται τοῦ νοσήματος τὴν ἀκριβῆ διάκρισιν παρασχεῖν, τοῖς χρώμασι μόνοις τὴν ἐντελῆ διάκρισιν τῆς ἀσθενείας ἀνέθεντο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tqu-aq",
+      "title": {
+        "english": "A Compendium-Urine",
+        "ancient_greek": "Σύνοψις Περὶ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-compendium-urine-tqu-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/compendium-urine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/compendium-urine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/compendium-urine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/compendium-urine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/compendium-urine.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-af",
+      "title": {
+        "english": "Entirely True and Experienced Prediction",
+        "ancient_greek": "Παντελῶς Ἀληθὴς καὶ Ἐμπειρικὴ Προγνώσις"
+      },
+      "url_slug": "anonymous-medical-writer-true-prediction-tqu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/true-prediction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-al",
+      "title": {
+        "english": "Introduction or Physician",
+        "ancient_greek": "Εἰσαγωγὴ ἢ Ἰατρός"
+      },
+      "url_slug": "anonymous-medical-writer-introduction-tqu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ar",
+      "title": {
+        "english": "Medical Definitions",
+        "ancient_greek": "Ἰατρικαὶ Ὁρισμοί"
+      },
+      "url_slug": "anonymous-medical-writer-definitions-tqu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/definitions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/definitions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/definitions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/definitions.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-aw",
+      "title": {
+        "english": "On Bandages",
+        "ancient_greek": "Περὶ Ἐπιδέσμων"
+      },
+      "url_slug": "anonymous-medical-writer-bandages-tqu-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/bandages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/bandages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/bandages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/bandages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/bandages.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ae",
+      "title": {
+        "english": "On Diet in Acute Diseases According to Hippocrates",
+        "ancient_greek": "Περὶ Διαιτῆς ἐν Ὀξέσι Κατὰ Ἱπποκράτην"
+      },
+      "url_slug": "anonymous-medical-writer-acute-diseases-diet-tqu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/acute-diseases-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/acute-diseases-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/acute-diseases-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/acute-diseases-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/acute-diseases-diet.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ao",
+      "title": {
+        "english": "On Obtainable Remedies",
+        "ancient_greek": "Περὶ Παρασκευαστῶν Θεραπευμάτων"
+      },
+      "url_slug": "anonymous-medical-writer-remedies-tqu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/remedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/remedies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/remedies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/remedies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/remedies.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ap",
+      "title": {
+        "english": "On Parts of Philosophy",
+        "ancient_greek": "Περὶ Μερῶν Φιλοσοφίας"
+      },
+      "url_slug": "anonymous-medical-writer-parts-philosophy-tqu-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/parts-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/parts-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/parts-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/parts-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/parts-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-am",
+      "title": {
+        "english": "On Philosophical History",
+        "ancient_greek": "Περὶ Φιλοσοφικῆς Ἱστορίας"
+      },
+      "url_slug": "anonymous-medical-writer-philosophical-history-tqu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/philosophical-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/philosophical-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/philosophical-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/philosophical-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/philosophical-history.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ac",
+      "title": {
+        "english": "On Pulses to Antonius, Student of Discipline and Philosopher",
+        "ancient_greek": "Περὶ Σφυγμῶν πρὸς Ἀντώνιον Μαθητὴν καὶ Φιλόσοφον"
+      },
+      "url_slug": "anonymous-medical-writer-pulses-antonius-tqu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/pulses-antonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-as",
+      "title": {
+        "english": "On Signs from Urine",
+        "ancient_greek": "Περὶ Σημείων ἐξ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-urine-signs-tqu-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/urine-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-au",
+      "title": {
+        "english": "On Substitutes",
+        "ancient_greek": "Περὶ Ἀντικαταστάσεων"
+      },
+      "url_slug": "anonymous-medical-writer-substitutes-tqu-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/substitutes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hai-aa",
+      "title": {
+        "english": "Medical Oath",
+        "ancient_greek": "Ὅρκος Ἰατρικός"
+      },
+      "url_slug": "hippocratic-oath-anon-medical-hai-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocratic-oath-anon/medical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bi",
+      "title": {
+        "english": "On Affections",
+        "ancient_greek": "Περὶ παθῶν"
+      },
+      "url_slug": "hippocrates-affections-bww-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/affections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.json"
+      }
+    },
+    {
+      "eul_wid": "bww-by",
+      "title": {
+        "english": "On Birth",
+        "ancient_greek": "Περὶ Γενέσεως"
+      },
+      "url_slug": "hippocrates-birth-bww-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bk",
+      "title": {
+        "english": "On Dentition",
+        "ancient_greek": "Περὶ ὀδοντοφυΐας"
+      },
+      "url_slug": "hippocrates-dentition-bww-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/dentition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cu",
+      "title": {
+        "english": "On Diagnosis from Dreams",
+        "ancient_greek": "Περὶ τῆς διγνώσεως ἐξ ἐνυπνίων"
+      },
+      "url_slug": "galen-of-pergamon-diagnosis-dreams-qmm-cu",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosis-dreams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-dreams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-dreams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-dreams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-dreams.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bc",
+      "title": {
+        "english": "On the Method of Healing by Venesection",
+        "ancient_greek": "Περὶ τῆς θεραπευτικῆς μεθόδου διὰ φλεβοτομίας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-venesection-qmm-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-venesection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-venesection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-venesection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-venesection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-venesection.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bo",
+      "title": {
+        "english": "To Glaucthe Method of Healing",
+        "ancient_greek": "Πρὸς Γλαύκωνα περὶ τῆς μεθόδου θεραπείας"
+      },
+      "url_slug": "galen-of-pergamon-method-healing-bo-qmm-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/method-healing-bo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/method-healing-bo.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ac",
+      "title": {
+        "english": "To Leucippus",
+        "ancient_greek": "Πρὸς Λεύκιππον"
+      },
+      "url_slug": "bolus-of-mendes-leucippus-kzk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/leucippus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-medical-writer/humors",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/humors.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

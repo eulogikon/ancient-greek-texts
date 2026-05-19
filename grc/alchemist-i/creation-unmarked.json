@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rrg-av",
+  "eul_aid": "rrg",
+  "author_slug": "alchemist-i",
+  "work_slug": "creation-unmarked",
+  "url_slug": "alchemist-i-creation-unmarked-rrg-av",
+  "author": {
+    "english": "Alchemist I",
+    "ancient_greek": "Χρυσοποιὸς Αʹ"
+  },
+  "title": {
+    "english": "On the Creation of the Unmarked",
+    "ancient_greek": "Περὶ ποιήσεως ἀσήμου"
+  },
+  "seo": {
+    "browser_title": "On the Creation of the Unmarked by Alchemist I on Eulogikon",
+    "meta_title": "On the Creation of the Unmarked by Alchemist I in Greek",
+    "meta_description": "This Roman-period alchemical treatise describes metallurgical techniques for producing unmarked substances through Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On the Creation of the Unmarked_ is a brief pseudepigraphical Greek alchemical treatise attributed to the pseudonymous author designated by modern scholars as Alchemist I. The title refers to the production of &quot;the unmarked,&quot; a technical term within the tradition denoting a base metal or an unrefined silver intended for subsequent transmutation. The text consists of three passages describing the sequential stages of an alchemical procedure, detailing the purification and treatment of metals such as lead and tin through repeated melting and the addition of specific substances like glass and asphalt. It exemplifies the practical and theoretical aspects of Greco-Egyptian alchemy, including laboratory processes involving specific substances and apparatus, and employs the symbolic or coded language characteristic of the esoteric tradition. The work survives within the Byzantine manuscript tradition, notably preserved complete in the anthology contained in the tenth- or eleventh-century codex <strong>Marcianus graecus</strong> 299, alongside works by authors such as Zosimus of Panopolis. As part of the foundational corpus of Greek alchemy, this treatise contributed to a technical tradition that was later transmitted to the Islamic world and medieval Europe, holding historical significance for understanding the development of alchemical theory and practice which informed the emergence of early modern chemistry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΠΕΡΙ ΠΟΙΗΣΕΟΣ ΑΣΗΜΟΥ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.37",
+      "text": "Περὶ ποήσεως ἀσήμου. —Δεῖ λαβεῖν μόλυβδον χυτὸν ἐκ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.37",
+      "text": "τῶν ἀμμοπλύτων (ἔστιν γὰρ ὁ χυτὸς μόλυβδος πυκνότατος), καὶ χωνεῦσαι αὐτὸν πολλάκις, ἕως ἂν γένηται ἄσημος. Μετὰ δὲ τὸ ἐκβαλεῖν αὐτὸν τὸν ἄσημον, ἐὰν βούλῃ καθαρίσαι αὐτὸν, πρόσβαλε εἰς τὴν χώνην ὕελον κλεοπατρινὸν, καὶ ἕξεις ἄσημον καθαρόν. Ὁ γὰρ χυτὸς μόλυβδος πολὺν ἄσημον ἐκβάλλει. Ἡ δὲ χώνη αὐτοῦ μέσοις φωσὶ πυρούτω, καὶ μὴ σφοδροῖς. Περὶ ποιήσεως ἀσήμου. —Λαβὼν κασσίτερον, χώνευσον καὶ μετὰ πέντε χωνείας ἐπίβαλλε εἰς τὸ πρόσωπον αὐτοῦ εἰς τὴν χώνην ἄσφαλτον· καὶ ὁσάκις ἀποχύσεις αὐτὸ, εἰς ἅλας αὐτὸ κένωσον κοινὸν, ἕως ἂν γένηται ἄσημος τέλειος καὶ πολύς. Εἰ δὲ βούλει εἰς ἔργον ἐκκλησίας ποιῆσαι ἐξ αὐτοῦ ἀφ’ οὗ χωνεύσεις, καὶ γένηται σκληρὸν, ποίησον. Περὶ ποιήσεως ἀσήμου. —Ἀπὸ κοινοῦ μολύβδου καθαροῦ εἰς τὴν ἀνωτέραν στήλην γέγραπται. Δεῖ γινώσκειν ὅτι ἐκβάλλει ὁ κοινὸς μόλυβδος εἰς τὰς ἑκατὸν λίτρας τοῦ μολύβδου, ἀσήμου λίτρας δέκα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rrg-bq",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bq-rrg-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bq.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-br",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-br-rrg-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-br",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-br.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bs",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bs-rrg-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bs.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bt",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bt-rrg-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bt.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bu",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bu-rrg-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bu",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bu.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bv",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bv-rrg-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bv.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bw",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Ἀλχημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bw-rrg-bw",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bw.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bx",
+      "title": {
+        "english": "Alchemical Fragment",
+        "ancient_greek": "Χημικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "alchemist-i-fragment-bx-rrg-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/fragment-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/fragment-bx.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-cb",
+      "title": {
+        "english": "Alchemical Lexicon",
+        "ancient_greek": "Λεξικὸν κατὰ στοιχεῖον τῆς"
+      },
+      "url_slug": "alchemist-i-lexicon-rrg-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/lexicon.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-by",
+      "title": {
+        "english": "Alchemical Treatise (Recension A)",
+        "ancient_greek": "Χημικὸν Σύγγραμμα"
+      },
+      "url_slug": "alchemist-i-treatise-by-rrg-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/treatise-by",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-by.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bz",
+      "title": {
+        "english": "Alchemical Treatise (Recension B)",
+        "ancient_greek": "Χημικὸν Σύγγραμμα"
+      },
+      "url_slug": "alchemist-i-treatise-bz-rrg-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/treatise-bz",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/treatise-bz.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bl",
+      "title": {
+        "english": "Conclusion of the Poem",
+        "ancient_greek": "Συμπέρασμα τῆς ποιήσεως"
+      },
+      "url_slug": "alchemist-i-poem-conclusion-rrg-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/poem-conclusion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "odi-ao",
+      "title": {
+        "english": "Dioptra",
+        "ancient_greek": "Διόπτρα"
+      },
+      "url_slug": "hero-of-alexandria-dioptra-odi-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/dioptra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.json"
+      }
+    },
+    {
+      "eul_wid": "hte-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "aratus-of-soli-epigrams-hte-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-of-soli/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-br",
+      "title": {
+        "english": "Excerpt-Bronze Men",
+        "ancient_greek": "περὶ χαλκανθρώπων"
+      },
+      "url_slug": "zosimus-of-panopolis-bronze-men-tyc-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-ah",
+      "title": {
+        "english": "First Book of the Last Abstinence of Zosimus the Theban",
+        "ancient_greek": "Τὸ πρῶτον βιβλίον τῆς τελευταίας ἀποχῆς Ζωσίμου"
+      },
+      "url_slug": "zosimus-of-panopolis-first-book-of-the-last-abstinence-of-zosimus-the-theban-tyc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/first-book-of-the-last-abstinence-of-zosimus-the-theban.json"
+      }
+    },
+    {
+      "eul_wid": "smk-ac",
+      "title": {
+        "english": "Magical Papyri, Tablets",
+        "ancient_greek": "Μαγικὰ Πάπυροι"
+      },
+      "url_slug": "magical-treatises-anon-papyri-tablets-smk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/magical-treatises-anon/papyri-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.json"
+      }
+    },
+    {
+      "eul_wid": "nuw-ac",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ παλμῶν ἀρχομένου ἀπὸ κεφαλῆς ἕως ποδῶν"
+      },
+      "url_slug": "melampus-the-diviner-pulses-nuw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/melampus-the-diviner/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melampus-the-diviner/pulses.json"
+      }
+    },
+    {
+      "eul_wid": "uka-aa",
+      "title": {
+        "english": "On Stones",
+        "ancient_greek": "Περὶ Λίθων"
+      },
+      "url_slug": "damigeron-the-magus-stones-uka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damigeron-the-magus/stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damigeron-the-magus/stones.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damigeron-the-magus/stones.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damigeron-the-magus/stones.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damigeron-the-magus/stones.json"
+      }
+    },
+    {
+      "eul_wid": "jhe-aa",
+      "title": {
+        "english": "Preparations and Siegecraft",
+        "ancient_greek": "Προπαρασκευαὶ καὶ πολιορκητικά"
+      },
+      "url_slug": "philo-of-byzantium-preparations-siegecraft-jhe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-byzantium/preparations-siegecraft",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium/preparations-siegecraft.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium/preparations-siegecraft.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium/preparations-siegecraft.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-byzantium/preparations-siegecraft.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alchemist-i/creation-unmarked",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/creation-unmarked.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/creation-unmarked.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/creation-unmarked.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/creation-unmarked.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

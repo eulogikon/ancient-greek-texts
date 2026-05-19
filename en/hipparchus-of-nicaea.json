@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lyk",
+  "auth_slug": "hipparchus-of-nicaea",
+  "name": {
+    "english": "Hipparchus of Nicaea",
+    "ancient_greek": "Ἵππαρχος ὁ Νικαεύς"
+  },
+  "seo_h1": "Hipparchus of Nicaea and the Commentary on Aratus",
+  "seo": {
+    "browser_title": "Hipparchus of Nicaea on Eulogikon Greek Archive Library",
+    "meta_title": "Hipparchus of Nicaea Ancient Greek Scientific Works",
+    "meta_description": "Hipparchus of Nicaea, Hellenistic astronomer of the 2nd century BCE. Surviving astronomical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hipparchus of Nicaea was a Greek astronomer, geographer, and mathematician of the 2nd century BCE. He conducted his recorded astronomical observations, primarily from Rhodes, between 162 and 127 BCE. His work marks a decisive shift from speculative cosmology to a rigorous, mathematical, and observation-based science.</p>\n<p class=\"research-text\">His original writings are almost entirely lost, known chiefly through later sources like Ptolemy’s Almagest. One surviving work is his Commentary on the Phaenomena of Aratus and Eudoxus, which critiques the astronomical inaccuracies in those earlier texts. Lost contributions, known by reference, include the first comprehensive star catalog, studies on trigonometry, solar and lunar theory, and the discovery of the precession of the equinoxes.</p>\n<p class=\"research-text\">Hipparchus established astronomy as a precise, predictive mathematical science. His trigonometric models and systematic observations set the standard for antiquity, making him a foundational figure upon whom Ptolemy heavily relied. He is often considered the true founder of systematic astronomy.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "lyk-ab",
+      "title": {
+        "english": "Geographical Fragments",
+        "ancient_greek": "Γεωγραφικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hipparchus-of-nicaea-geographical-fragments-lyk-ab",
+      "passages": 44,
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea/geographical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/geographical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/geographical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/geographical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/geographical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lyk-aa",
+      "title": {
+        "english": "On the Phenomena of Aratus and Eudoxus, Commentary Books III",
+        "ancient_greek": "Περὶ τῶν Φαινομένων Ἀράτου καὶ Εὐδόξου"
+      },
+      "url_slug": "hipparchus-of-nicaea-phenomena-aratus-eudoxus-lyk-aa",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-of-nicaea/phenomena-aratus-eudoxus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hipparchus-of-nicaea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-of-nicaea.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-of-nicaea.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-of-nicaea.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-of-nicaea.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

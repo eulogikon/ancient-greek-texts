@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iam",
+  "auth_slug": "maeandrius-of-miletus",
+  "name": {
+    "english": "Maeandrius of Miletus",
+    "ancient_greek": "Μαίανδριος ὁ Μιλήσιος"
+  },
+  "seo_h1": "Maeandrius of Miletus on the History of His City",
+  "seo": {
+    "browser_title": "Maeandrius of Miletus on Eulogikon Greek Texts Archive",
+    "meta_title": "Maeandrius of Miletus Ancient Greek Historical Works",
+    "meta_description": "Maeandrius of Miletus, a Hellenistic historian writing in Ionic Greek. His surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Maeandrius of Miletus was a Greek historian from Miletus, active in the early Hellenistic period during the late fourth and early third centuries BCE. He is cited by later authors writing on Miletus and the sanctuary of Apollo at Didyma. The epithet &quot;of Miletus&quot; distinguishes him from other individuals of the same name.</p>\n<p class=\"research-text\">He is known for a single, lost work, a local history of Miletus generally referred to as the Milesiaka or History of Miletus. It survives only in fragments, which provide information on the city’s early history, myths, and the oracle at Didyma.</p>\n<p class=\"research-text\">Maeandrius served as an important source for later writers like Athenaeus and Strabo. Strabo relied on him for Miletus’s foundation myths and the history of Didyma. His fragments are crucial for understanding Hellenistic local historiography and the preservation of Ionian regional traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "iam-aa",
+      "title": {
+        "english": "Historical Fragments on Miletus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου"
+      },
+      "url_slug": "maeandrius-of-miletus-historical-fragments-iam-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/maeandrius-of-miletus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maeandrius-of-miletus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maeandrius-of-miletus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maeandrius-of-miletus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maeandrius-of-miletus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nck",
+  "auth_slug": "strabo-of-amasia",
+  "name": {
+    "english": "Strabo of Amasia",
+    "ancient_greek": "Στράβων ὁ Ἀμασεύς"
+  },
+  "seo_h1": "Strabo of Amasia and the Geography of the Known World",
+  "seo": {
+    "browser_title": "Strabo of Amasia Geographer on Eulogikon Greek Archive",
+    "meta_title": "Strabo Ancient Greek Geography and Historical Works",
+    "meta_description": "Strabo of Amasia, Hellenistic geographer. Surviving works include his extensive Geography. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Strabo of Amasia was a Greek geographer, historian, and philosopher born around 64 or 63 BCE in Pontus. He lived until at least 23 CE. Born into a prominent family, he received an extensive education. He studied in Rome under figures like the geographer Tyrannion and the Peripatetic philosopher Xenarchus, and was influenced by Stoicism.</p>\n<p class=\"research-text\">He traveled widely across the eastern Mediterranean and Egypt, utilizing the library at Alexandria. He wrote during the pivotal transition from the Roman Republic to the Empire under Augustus. His major surviving work is the Geographica, a 17-book descriptive geography of the Roman world. He also composed the Historical Sketches in 47 books, which continued the history of Polybius, but this work is now lost except for fragments.</p>\n<p class=\"research-text\">Strabo’s significance rests on the Geographica. It synthesizes earlier Greek geographical knowledge with his own observations and contemporary Roman sources. Blending history, ethnography, and myth, it served as a valuable resource for Roman administration and later geographers. The work provides an indispensable historical record of the ancient Mediterranean world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "nck-aa",
+      "title": {
+        "english": "Chrestomathies from Strabo's Geographical Books",
+        "ancient_greek": "Χρηστομάθειαι ἐκ τῶν Γεωγραφικῶν Στράβωνος"
+      },
+      "url_slug": "strabo-of-amasia-chrestomathies-geography-nck-aa",
+      "passages": 1667,
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/chrestomathies-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.json"
+      }
+    },
+    {
+      "eul_wid": "nck-ac",
+      "title": {
+        "english": "Fragments on Parthian Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Παρθικῶν Ἐθῶν"
+      },
+      "url_slug": "strabo-of-amasia-parthian-customs-nck-ac",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/parthian-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/parthian-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/parthian-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/parthian-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/parthian-customs.json"
+      }
+    },
+    {
+      "eul_wid": "nck-ad",
+      "title": {
+        "english": "Geography",
+        "ancient_greek": "Γεωγραφικά"
+      },
+      "url_slug": "strabo-of-amasia-geography-nck-ad",
+      "passages": 96,
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.json"
+      }
+    },
+    {
+      "eul_wid": "nck-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "strabo-of-amasia-testimonies-nck-ab",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/strabo-of-amasia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strabo-of-amasia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strabo-of-amasia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strabo-of-amasia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strabo-of-amasia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

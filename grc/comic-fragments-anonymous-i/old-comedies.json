@@ -1,0 +1,445 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kfk-ad",
+  "eul_aid": "kfk",
+  "author_slug": "comic-fragments-anonymous-i",
+  "work_slug": "old-comedies",
+  "url_slug": "comic-fragments-anonymous-i-old-comedies-kfk-ad",
+  "author": {
+    "english": "Comic Fragments Anonymous I",
+    "ancient_greek": "Κωμικὰ ἀποσπάσματα"
+  },
+  "title": {
+    "english": "Anonymous Old Comedies",
+    "ancient_greek": "Ἀνώνυμοι Παλαιαὶ Κωμῳδίαι"
+  },
+  "seo": {
+    "browser_title": "Fragments from Anonymous Old Comedies on Eulogikon",
+    "meta_title": "Fragments of Anonymous Old Comedies in Ancient Greek",
+    "meta_description": "Surviving fragments from anonymous Greek Old Comedies. Comic verses from lost Athenian theater. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Anonymous Old Comedies are a collection of thirty-one fragmentary passages from otherwise lost plays of Old Comedy, the dominant form of Athenian comedy in the fifth century BCE. These fragments, classified as <strong>adespota</strong> or works of unknown authorship, do not constitute a single play but are quotations preserved by later Greek and Roman authors, such as Athenaeus and various lexicographers, as well as on papyri recovered from Egypt. The definitive modern scholarly edition for this material is found in <strong>Poetae Comici Graeci (PCG)</strong>, Volume VIII. The surviving lines reflect the genre&#x27;s hallmark characteristics, including political and personal satire of contemporary Athenian figures, social commentary on daily life and law, parody of mythology and tragic conventions, and humor derived from food, drink, and bodily functions. Although the complete plays are lost, these fragments offer invaluable evidence for the language, performance conventions, and social history of Classical Athens. The genre of Old Comedy itself was profoundly influential, shaping the development of later Greek comedy and, through Roman adaptation, the broader European comic tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "δέcποτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Πλούτων μελανοπτερύγων— τουτὶ δεινόν· π〈υρ〉ροπτερύγων αὐτὸ ποίηcον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "cκανδικοπώλην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ἄγε δἀνδρείωc ὥcπερ πύκτηc ἀφίδρωcον καὶ πιτύλευcον ⏒⏒–⏒⏒– τὴν ῥῆcιν ὅλην καὶ κίνηcον τὸ θέατρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4,I",
+      "text": "]ι̣c’ ἢ μὴ ’μνβάλω· ]ἐξ ὑπτίαc [para]]..ινων̣ [para]]τι δὴ μαθὼν[ln_5]ἐκ]λ̣έ̣γειν ]οτι [para]] [para]]οτ̣αc̣ ].τ̣άτων[ln_10]τοcο]υτουῒ χρόνου· [para]] χρόνοc [para]] Βυζαντίου [para]]ι̣α̣ πόλιc [para]]τ̣οc ἦρξ’ ἐγώ·[ln_15]]λλ..ι̣ου· ]οῦντά̣ cε· ]ι̣ μάρτυραc ]νιεῖ ἐφη]μερῶ[ln_20]]τ̣[ε]ῖ̣cθαί μ’ αὐτίκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4,II",
+      "text": "δεῖ τὴν γραφὴ[ν ἀλλ’ ἐκκαλῶ γο[ ὃν ἐγὼ φιλῶ μ[ ὃc καίπερ ὄντα[[ln_5]παῖ παῖ· τ̣ο[ ....]ο̣[.... . . . . . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[spk_—]ὑβριζόμεναι. — Β. μὰ Δί’ ἀλλ’ ἐγὼ [⏓–⏑– ἢν νοῦν ἔχωμεν, cκεψ[όμεθα ⏓– ὅπωc μηδὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "πλέον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τούτου cθ̣[ένωcιν –⏑–",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[spk_β]τί οὖν γένοιτ’ ἄν; Β. ἔχ’, ἀ[πόκριναί μοι τόδε·[ln_5]τί ἐcτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τοῦθ’ ὃ λέγουcι τ[ὰc ⏓–⏑– παίζειν ἐχούcαc, ἀντιβολῶ, [τὸ –⏑–; φλυαρία καὶ λῆροc ὕβρε[ωc ἔκγονοc (?) κἄλλωc ὄνειδοc καὶ κατ[άγελωc –⏑–. το̣[ύτ]ωι γὰρ ὥcπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "τοῖcι[ν ᾠοῖc χρηcτέον[ln_10]τ[οῖc] ἀνεμιαίοιc, ὅτι νεοτ[τί’ οὐκ ἔνι. ε̣ὐ̣[χὴ] δὲ καὶ τοῦτ’ ἔcτιν· ευ[⏓–⏑– ἐc [τοῦ]το",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.4",
+      "text": "χρήcει· καὶ πονο[⏓–⏑–",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[spk_—]κα[ὶ μ]ὴν λέγεταί γ’ ὥc ἐcθ’ [ὅμοιον –⏑– ἀλη[θ]ινῷ κ[αὶ τ]οῦτο. — Α. νὴ Δ[ί’, ὦ φίλη (?)[ln_15]ὥcπερ [c]ελήνη γ’ ἡλίῳ· τὴν μ[ὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "χρόαν ἰδεῖν ὅμοιόν ἐcτι, θάλπει δ’ οὐ[δαμῶc·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[spk_α]οὐκ ἄξιον γάρ ἐcτι. Α. διὰ τοὐπὸν [⏑– φέρ’, εἰ̣ [δ]ὲ τοῖc θεράπουcι κοινωc̣[αίμεθα τὸ πρ[ᾶ]γμα, τί ἂν εἴη; λάθραι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τε̣πια[[ln_20]ἐγὼ μ[ὲ]ν οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "πι̣ότερον (aut πρότερον pap.) [αὐτῆc ⏑–.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "κυcόχωλοc—ἐγκυcόχωλοc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "θῦcαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "ἐκ Δελφῶν δ’ ἔχων ἥκει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "τι κακὸν ἄφωνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "μετέωρον αἴρουc’ αἱ πτέρυγεc τὴν ναῦν ⏑–, ἕωc ἂν ἐμπέcωcιν εἰc τὸν οὐρανόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "καὶ τριβώνιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "πονηρὸν οἷον ἐνριγιcκάνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "χεζητιᾷ εἰc τοὺc βαθεῖc πώγωναc ὁ χρόνοc βλέπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "αὗται λαλοῦcαι τὸν [ τρύχουcι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "πολλοῖc τ[ κακουμέναιc γὰρ ν̣[ ὑπὸ μητρυῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "τε κα[ὶ[ln_5]οὐκ ἦλθ’ ἀρήξων, ἀλ[λὰ νῦν οὖν ἄποινα τ[ κατὰ τὴν Μελανίπ[πην[ln_7]ἀλλὰ ξεcτῶν ε̣τ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12a",
+      "text": "ε[....]ο̣.[....]χ[...] δὲ Σοφοκλ[έα] λαβών, πα[ρ’ Αἰ]cχύλου ν̣[...]ρ ὅcον ..[.].εcθ’, ὅλον Εὐριπίδην, πρὸc τοιcίδ’ ἐμβαλεῖν ἅλαc, μ[εμ]νημένοc δ’ ὅπωc ἅλαc καὶ μὴ λάλαc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12b",
+      "text": "[ο]ὐχὶ τ[ο]ῦτον τ[ὸν τ]ρόπον, ἀλλ’ ο[ὐδὲ τ]ῇ πονηρ[ίᾳ] π̣[ρ]ο̣cχρώμεθα, [ὅτ]ε τ̣ῳ μάλιc[θ’ ὅc’] ἂν λέγ̣ῃ πιc[τεύ]ομεν λέγ[οντ]εc οὐ πονή[ρ’, ἁπ]α̣λ̣ο̣[ῖc] δὲ χρώ[μενοι,][ln_5]κἄπειτ[α τῆc] ἐκκληcία[c κα]τηγορεῖ ἕκαc[τοc] ἡμῶν, ἧc ἕκαc[τοc] αὐτὸc ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kfk-ac",
+      "title": {
+        "english": "Anonymous New Comedies",
+        "ancient_greek": "Ἀνώνυμοι Νέαι Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-i-new-comedies-kfk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/new-comedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.json"
+      }
+    },
+    {
+      "eul_wid": "kfk-ab",
+      "title": {
+        "english": "Dubious Anonymous Works",
+        "ancient_greek": "Ἀμφίβολα Ἀνώνυμα Ἔργα"
+      },
+      "url_slug": "comic-fragments-anonymous-i-dubious-kfk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/dubious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/dubious.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/dubious.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/dubious.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/dubious.json"
+      }
+    },
+    {
+      "eul_wid": "kfk-aa",
+      "title": {
+        "english": "Fragments of Uncertain Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Κωμῳδίας"
+      },
+      "url_slug": "comic-fragments-anonymous-i-uncertain-kfk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/uncertain",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "cwq-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+      },
+      "url_slug": "epilycus-the-comic-poet-comic-food-feasting-cwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epilycus-the-comic-poet/comic-food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "ksm-ab",
+      "title": {
+        "english": "Fragments of a Comic Feast",
+        "ancient_greek": "Ἀποσπάσματα Συμποσίου Κωμικοῦ"
+      },
+      "url_slug": "aristomenes-of-alyzeia-comic-feast-ksm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristomenes-of-alyzeia/comic-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia/comic-feast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia/comic-feast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia/comic-feast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristomenes-of-alyzeia/comic-feast.json"
+      }
+    },
+    {
+      "eul_wid": "eco-ac",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "strattis-the-comic-poet-virtue-fragments-eco-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/strattis-the-comic-poet/virtue-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/virtue-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/virtue-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/virtue-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strattis-the-comic-poet/virtue-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lxg-aa",
+      "title": {
+        "english": "Generational Conflict Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timostratus-the-comic-poet-generational-conflict-lxg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ab",
+      "title": {
+        "english": "Longer Fragments Preserved by Other Authors",
+        "ancient_greek": "Μακρότερα Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-longer-fragments-hps-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/longer-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bh",
+      "title": {
+        "english": "Misumenus",
+        "ancient_greek": "Μισούμενος"
+      },
+      "url_slug": "menander-of-athens-misumenus-hps-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.json"
+      }
+    },
+    {
+      "eul_wid": "gpo-ab",
+      "title": {
+        "english": "Parasite's Shame",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dromo-comicus-parasites-shame-gpo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dromo-comicus/parasites-shame",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dromo-comicus/parasites-shame.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/old-comedies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/old-comedies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

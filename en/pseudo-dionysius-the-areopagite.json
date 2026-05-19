@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "urs",
+  "auth_slug": "pseudo-dionysius-the-areopagite",
+  "name": {
+    "english": "Pseudo-Dionysius the Areopagite",
+    "ancient_greek": "Ψευδο-Διονύσιος ὁ Ἀρεοπαγίτης"
+  },
+  "seo_h1": "Pseudo-Dionysius the Areopagite on Divine Names and Celestial Hierarchy",
+  "seo": {
+    "browser_title": "Pseudo-Dionysius the Areopagite on Eulogikon Greek Archive",
+    "meta_title": "Pseudo-Dionysius the Areopagite Ancient Greek Treatises",
+    "meta_description": "Pseudo-Dionysius the Areopagite, a late antique Christian theologian. Five theological treatises in Greek. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Χριστιανική",
+      "english": "Byzantine Christian",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pseudo-Dionysius the Areopagite is the name given to an unknown Christian theologian who wrote in Greek, most likely in the late 5th or early 6th century CE. The author deliberately wrote under the pseudonym of Dionysius the Areopagite, an Athenian mentioned in the New Testament as a convert of Saint Paul. This successful disguise led his works to be accepted as genuine apostolic writings for nearly a thousand years.</p>\n<p class=\"research-text\">The author&#x27;s surviving works consist of four treatises and ten letters. The major treatises are On the Celestial Hierarchy, On the Ecclesiastical Hierarchy, On the Divine Names, and Mystical Theology. According to modern scholars, these texts represent a profound synthesis of Christian doctrine with the philosophy of late Neoplatonism.</p>\n<p class=\"research-text\">The author introduced systematic concepts of angelic and church order that became foundational for medieval theology. His approach of &quot;apophatic&quot; or negative theology, which describes God by denying all human attributes, and his writings on mystical union had a deep and lasting influence on both Eastern and Western Christian thought. Because his works were believed to be ancient, they carried immense authority and were extensively commented on by major medieval figures such as Maximus the Confessor, John Scotus Eriugena, and Thomas Aquinas.</p>\n<p class=\"research-text\">The recognition of his true, later date is a result of Renaissance and modern scholarship, but his corpus remains a central subject for the study of Christian mysticism and the interaction between philosophy and theology.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "urs-ae",
+      "title": {
+        "english": "Fragments on Divine Knowledge",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Γνώσεως"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-divine-knowledge-urs-ae",
+      "passages": 27,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-knowledge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-knowledge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-knowledge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-knowledge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-knowledge.json"
+      }
+    },
+    {
+      "eul_wid": "urs-ad",
+      "title": {
+        "english": "On Divine Names",
+        "ancient_greek": "Περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-divine-names-urs-ad",
+      "passages": 125,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "urs-aa",
+      "title": {
+        "english": "On Ecclesiastical Hierarchy",
+        "ancient_greek": "Περὶ τῆς Ἐκκλησιαστικῆς Ἱεραρχίας"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-ecclesiastical-hierarchy-urs-aa",
+      "passages": 70,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/ecclesiastical-hierarchy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/ecclesiastical-hierarchy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/ecclesiastical-hierarchy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/ecclesiastical-hierarchy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/ecclesiastical-hierarchy.json"
+      }
+    },
+    {
+      "eul_wid": "urs-ac",
+      "title": {
+        "english": "On Mystical Theology",
+        "ancient_greek": "Περὶ Μυστικῆς Θεολογίας"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-mystical-theology-urs-ac",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/mystical-theology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/mystical-theology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/mystical-theology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/mystical-theology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/mystical-theology.json"
+      }
+    },
+    {
+      "eul_wid": "urs-ab",
+      "title": {
+        "english": "On the Celestial Hierarchy",
+        "ancient_greek": "Περὶ τῆς Οὐρανίας Ἱεραρχίας"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-celestial-hierarchy-urs-ab",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/celestial-hierarchy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/celestial-hierarchy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/celestial-hierarchy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/celestial-hierarchy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/celestial-hierarchy.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.json"
+      }
+    },
+    {
+      "eul_aid": "uyg",
+      "name": {
+        "english": "Damascius of Damascus",
+        "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/damascius-of-damascus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/pseudo-dionysius-the-areopagite",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-dionysius-the-areopagite.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-dionysius-the-areopagite.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-dionysius-the-areopagite.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pseudo-dionysius-the-areopagite.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

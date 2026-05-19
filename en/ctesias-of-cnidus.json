@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ehy",
+  "auth_slug": "ctesias-of-cnidus",
+  "name": {
+    "english": "Ctesias of Cnidus",
+    "ancient_greek": "Κτησίας ὁ Κνίδιος"
+  },
+  "seo_h1": "Ctesias of Cnidus at the Persian Court",
+  "seo": {
+    "browser_title": "Ctesias of Cnidus on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Ctesias of Cnidus Ancient Greek Works and Texts",
+    "meta_description": "Ctesias of Cnidus was a Greek physician and historian. His surviving works include historical texts. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ctesias of Cnidus was a Greek physician and historian. He served as personal physician to the Persian king Artaxerxes II Mnemon for seventeen years, including during the Battle of Cunaxa in 401 BCE, where he claimed to have treated the king’s wound. After his service, he returned to Greece and wrote historical works based on his unique access to the Persian court and archives, though his reliability was questioned even in antiquity.</p>\n<p class=\"research-text\">His major works, written in Ionic Greek, include the Persica, a 23-book history of Assyria and Persia preserved in fragments; the Indica, a fragmentary account of India’s geography and marvels; and the lost geographical work Periodos or Periplous.</p>\n<p class=\"research-text\">Ctesias is a significant though controversial source for the Greek understanding of the Near East and India. His Persica was a major source for later historians, while his Indica founded a Western literary tradition of describing India. His works provide valuable evidence for Greek perceptions and the transmission of knowledge, blending possible Persian traditions with Greek literary tropes.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "ehy-ab",
+      "title": {
+        "english": "Fragments on Assyrian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀσσυρικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesias-of-cnidus-assyrian-history-ehy-ab",
+      "passages": 184,
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/assyrian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.json"
+      }
+    },
+    {
+      "eul_wid": "ehy-ac",
+      "title": {
+        "english": "On the Colaxaeans",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "ctesias-of-cnidus-colaxaeans-ehy-ac",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/colaxaeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.json"
+      }
+    },
+    {
+      "eul_wid": "ehy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ctesias-of-cnidus-testimonies-ehy-aa",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ctesias-of-cnidus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesias-of-cnidus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesias-of-cnidus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesias-of-cnidus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesias-of-cnidus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rnu",
+  "auth_slug": "seniores-alexandrini",
+  "name": {
+    "english": "Seniores Alexandrini",
+    "ancient_greek": "Σενιόρες Ἀλεξανδρινοί"
+  },
+  "seo_h1": "Seniores Alexandrini: Exegetical Fragments on Psalms",
+  "seo": {
+    "browser_title": "Seniores Alexandrini on Eulogikon Greek Archive Collection",
+    "meta_title": "Seniores Alexandrini Ancient Christian Greek Works",
+    "meta_description": "The Seniores Alexandrini were anonymous Christian teachers. Their theological treatise is preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Seniores Alexandrini, or Alexandrian Elders, were a group of anonymous Christian teachers active in Alexandria, Egypt, during the late second and early third centuries CE. They were not a single author but a collective of respected figures within the early Christian community, likely holding teaching or leadership roles, though their precise identities and number remain unknown.</p>\n<p class=\"research-text\">Operating in Alexandria, a major intellectual center, they engaged with Greek philosophy and Jewish traditions to interpret Christian scripture. Their teachings represent an early phase of the Alexandrian theological tradition, which became known for its allegorical interpretation of the Bible and its dialogue with Greco-Roman thought. The Seniores Alexandrini left no surviving books of their own. Their ideas are preserved only as fragments quoted or referenced by later theologians, most notably Clement of Alexandria and Origen, who cited them as important authorities.</p>\n<p class=\"research-text\">Modern scholars regard the Seniores Alexandrini as a significant foundational link in the development of early Christian theology. They represent the intellectual tradition that existed before the formal catechetical school of Alexandria rose to prominence. Through their influence on Clement and Origen, their ideas indirectly helped shape later Christian thought on scripture, creation, and the nature of God, establishing Alexandria as a leading center for Christian learning.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rnu-aa",
+      "title": {
+        "english": "Exegetical Fragments on Psalms",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ψαλμῶν"
+      },
+      "url_slug": "seniores-alexandrini-exegetical-psalms-rnu-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/seniores-alexandrini/exegetical-psalms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seniores-alexandrini/exegetical-psalms.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/seniores-alexandrini",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seniores-alexandrini.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seniores-alexandrini.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seniores-alexandrini.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/seniores-alexandrini.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "adw-ab",
+  "eul_aid": "adw",
+  "author_slug": "alcman-lacedaemonius",
+  "work_slug": "poetry-fragments",
+  "url_slug": "alcman-lacedaemonius-poetry-fragments-adw-ab",
+  "author": {
+    "english": "Alcman Lacedaemonius",
+    "ancient_greek": "Ἀλκμάν ὁ Λακεδαιμόνιος"
+  },
+  "title": {
+    "english": "Fragments on Poetry",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ποίησεως"
+  },
+  "seo": {
+    "browser_title": "Alcman's Fragments on Poetry by Alcman on Eulogikon",
+    "meta_title": "The Fragments on Poetry by Alcman in Ancient Greek",
+    "meta_description": "Verses by the 7th-century BCE poet Alcman on poetry. Choral lyric fragments in Doric dialect. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Poetry</strong> constitute the extant corpus of the 7th-century BCE Spartan poet Alcman, a principal figure of early Greek choral lyric. Composed in the Doric dialect for public performance, often by choruses of young women at Spartan religious festivals, these surviving verses are preserved not as a single work but as a modern scholarly compilation. The fragments derive from two primary sources: quotations by later ancient authors and, most significantly, papyrus discoveries at Oxyrhynchus in Egypt. No complete poem survives intact; the collection consists of disparate passages that collectively illuminate Alcman&#x27;s artistry. The content encompasses mythological allusions, vivid depictions of the natural world, and reflections on human experience. Of particular note are metapoetic passages in which the poet contemplates the essence of song and the source of poetic inspiration. These fragments provide crucial evidence for Spartan culture prior to its later militaristic emphasis, revealing a society where choral poetry held a central civic and religious function. Alcman&#x27;s personal voice and descriptive power influenced subsequent lyric poetry and secured his position among the canonical Nine Lyric Poets of antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book S1.1",
+      "text": "χρυσοκόμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S1.2",
+      "text": "φιλόμολπε·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S2",
+      "text": "κύκνος ὑπὸ πτερύγων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S3",
+      "text": ". . .[ln_1][ ].[ [ ]..[ ]..[ [ ] ἐπακουσομε̣[ [ ]άλος οἷά τ’ α[]...[[ln_5][] ὑμνίομες ἀπίαισ̣[ [ ].π̣ον.ς ευρ[[ln_6]. . .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S4",
+      "text": "[ ]..μος [ ].αι Ἀλκμὰ(ν) [πε]ρ̣ὶ τοῦ γα‐ [ ο]ὐκ ἦνθεν[ln_10][ ].ναφιο̣[ [ ].σ̣τρα[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S5.1",
+      "text": ". . .[ln_1][ ]...[ [ ]η̣ρω̣.[ [ ].υ. φληναφ..[ [ ]νος ἐν γ π(ερὶ) ε[[ln_5][ ]τ̣ι β Ἀλκμα[ν(‐) [ ]..υτέρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S5.2",
+      "text": "περ[ [ ].τερος ὁ δ(ὲ) ν[ [ ]νηρω αυ[ [ ]ο̣υ μ(ὲν) πρεσ[βυτερ‐[ln_10][ ].ρ̣τ̣ω̣.ρακ.[ [ μ]ε̣ι̣κρὸν ἀπω[ [ ]λ̣ουμενου[ [ ]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book S5.3",
+      "text": "πατρίδος αὐτοῦ [ [ ]ω̣ν καθ’ οὓς ἐγένε‐[ln_15][το ] π̣αιδείας δ(έ) φη(σιν) αρη‐ [ ]τικὴν ἱστορίας [ Ἀλκ]μὰν ὥστε μου‐ [ π]ρὸ αὐτοῦ πολὺ γε‐ [ ]τερος δ(ὲ) τ( ) μετ..[[ln_20][ ]αξαπαντ( ) μετρα̣[ [ ] ἐποίησεν̣.[..]..[ [ ]ρτ.ε̣τ̣( )ψυ̣....ρ[ [ ].[].[]..[]....[ [ ]ε̣ινα[].[[ln_25][ ]ομο[ [ ]τ....[ [ ].σ̣εχ[ [ ]ασο̣ε[ [ ]τ̀().[[ln_29]. . .",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "adw-aa",
+      "title": {
+        "english": "Hymn to the Dioscuri and Heroes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcman-lacedaemonius/hymn-dioscuri-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/hymn-dioscuri-heroes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/hymn-dioscuri-heroes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/hymn-dioscuri-heroes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/hymn-dioscuri-heroes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fle-ac",
+      "title": {
+        "english": "Banquet of Xenocles",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "matron-of-pitane-banquet-of-xenocles-fle-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-of-xenocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.json"
+      }
+    },
+    {
+      "eul_wid": "bfy-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "anacreon-of-teos-epigrams-bfy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "dzc-aa",
+      "title": {
+        "english": "Fragments on Galatea and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γαλατείας καὶ Ἔρωτος"
+      },
+      "url_slug": "philoxenus-of-cythera-galatea-desire-dzc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-cythera/galatea-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.json"
+      }
+    },
+    {
+      "eul_wid": "upu-aq",
+      "title": {
+        "english": "Hymn 18 To Hermes",
+        "ancient_greek": "Ὕμνος εἰς Ἑρμῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hermes-aq-upu-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hermes-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bd",
+      "title": {
+        "english": "Hymn 23 To Zeus",
+        "ancient_greek": "Ὕμνος εἰς Δία"
+      },
+      "url_slug": "homeric-hymns-anonymous-zeus-upu-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.json"
+      }
+    },
+    {
+      "eul_wid": "afu-aa",
+      "title": {
+        "english": "Lyric Fragments",
+        "ancient_greek": "Λυρικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "archilochus-of-paros-lyric-fragments-afu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archilochus-of-paros/lyric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "crg-aa",
+      "title": {
+        "english": "On the Flute and Musical Rivalry",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telestes-of-selinus-flute-rivalry-crg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telestes-of-selinus/flute-rivalry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telestes-of-selinus/flute-rivalry.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ak",
+      "title": {
+        "english": "encoms",
+        "ancient_greek": "Ἐγκώμια"
+      },
+      "url_slug": "bacchylides-of-ceos-encoms-brw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/encoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alcman-lacedaemonius/poetry-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcman-lacedaemonius/poetry-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lta",
+  "auth_slug": "pittacus-letters",
+  "name": {
+    "english": "Pittacus Letters",
+    "ancient_greek": "Πιττάκου Ἐπιστολή"
+  },
+  "seo_h1": "Pittacus Letters and the Pseudepigraphical Sages",
+  "seo": {
+    "browser_title": "Pittacus Letters Author on Eulogikon Greek Archive",
+    "meta_title": "Classical Pittacus Letters Ancient Greek Epistolary Works",
+    "meta_description": "Pittacus Letters, Hellenistic epistolary texts from the 3rd century BCE to 3rd century CE. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pittacus is primarily associated with Pittacus of Mytilene, who lived from approximately 640 to 568 BCE and was counted among the Seven Sages of Greece. No biographical information exists for a later author of this name. This indicates that the Letters of Pittacus are a pseudepigraphical work, composed under the sage&#x27;s authoritative name during the Hellenistic or Roman Imperial period, likely between the 3rd century BCE and the 3rd century CE.</p>\n<p class=\"research-text\">The sole known work attributed to this name is the pseudepigraphical Letters of Pittacus, a collection written in an epistolary format. The available sources do not detail its specific content or the precise number of individual letters it contained.</p>\n<p class=\"research-text\">The work is a clear example of pseudepigraphy, a common literary practice for engaging with classical authority. Its classification under rhetoric suggests it served as a model for epistolary style or as a rhetorical exercise. Its significance lies in illustrating the later reception of the Seven Sages tradition and the enduring conventions of pseudepigraphical literature in antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lta-aa",
+      "title": {
+        "english": "Letter to Croesus",
+        "ancient_greek": "Ἐπιστολή"
+      },
+      "url_slug": "pittacus-letters-croesus-lta-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/pittacus-letters/croesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pittacus-letters/croesus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pittacus-letters/croesus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pittacus-letters/croesus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pittacus-letters/croesus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pittacus-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pittacus-letters.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pittacus-letters.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pittacus-letters.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pittacus-letters.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

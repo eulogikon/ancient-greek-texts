@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lpy",
+  "auth_slug": "alexarchus-of-macedon",
+  "name": {
+    "english": "Alexarchus of Macedon",
+    "ancient_greek": "Ἀλέξαρχος ὁ Μακεδών"
+  },
+  "seo_h1": "Alexarchus of Macedon on Italy",
+  "seo": {
+    "browser_title": "Alexarchus of Macedon on Eulogikon Greek Text Archive",
+    "meta_title": "Alexarchus of Macedon Ancient Greek Historical Works",
+    "meta_description": "Alexarchus of Macedon, a Hellenistic historian of the 4th-3rd century BCE. Surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alexarchus of Macedon was a historian active in the late 4th and early 3rd centuries BCE. He was the brother of King Cassander of Macedon and a son of the regent Antipater, placing him within the Macedonian elite during the Wars of the Diadochi. No further biographical details survive.</p>\n<p class=\"research-text\">He authored a now-lost history of India titled <strong>Indica</strong>. This work survives only in a single citation by the Roman author Aulus Gellius, who references Alexarchus for a story about a talking snake.</p>\n<p class=\"research-text\">Alexarchus’s significance stems from his aristocratic lineage and his contribution to the Hellenistic genre of Indica. His work represents the literary interest in India following Alexander the Great&#x27;s expedition, alongside authors like Megasthenes. The surviving fragment suggests his history included ethnographic marvels typical of the period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lpy-aa",
+      "title": {
+        "english": "Historical Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλίας"
+      },
+      "url_slug": "alexarchus-of-macedon-historical-italy-lpy-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexarchus-of-macedon/historical-italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon/historical-italy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon/historical-italy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon/historical-italy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexarchus-of-macedon/historical-italy.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/alexarchus-of-macedon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexarchus-of-macedon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexarchus-of-macedon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexarchus-of-macedon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexarchus-of-macedon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

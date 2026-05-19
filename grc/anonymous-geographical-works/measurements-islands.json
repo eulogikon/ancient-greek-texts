@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mbm-aa",
+  "eul_aid": "mbm",
+  "author_slug": "anonymous-geographical-works",
+  "work_slug": "measurements-islands",
+  "url_slug": "anonymous-geographical-works-measurements-islands-mbm-aa",
+  "author": {
+    "english": "Geographical Works Anonymous",
+    "ancient_greek": "Γεωγραφικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Geographical Measurements of Islands",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Geographical Measurements Islands by Anonymous on Eulogikon",
+    "meta_title": "Geographical Measurements of Islands in Ancient Greek",
+    "meta_description": "This Hellenistic geographical work preserves ancient measurements of Mediterranean and Atlantic islands including Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Geographical Measurements of Islands</strong> is an anonymous, fragmentary Greek geographical text preserved only as four brief passages within the <strong>Ethnica</strong>, the 6th-century CE geographical lexicon of Stephanus of Byzantium. The work provides the lengths and breadths of various islands in a technical, non-narrative style, exemplified by its surviving data on the dimensions of Corcyra, recorded as 600 stades in length and 30 stades in breadth at its narrowest point. The text functions as a concise catalog of such metrological information. Lost as an independent treatise, its content is known exclusively from these verbatim quotations in Stephanus&#x27;s compilation. Its significance lies in exemplifying a granular, data-driven genre of ancient technical geography, while its fragmentary survival solely within a later scholarly work illustrates the transmission and utility of such specialized literature for later compendia.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "T",
+      "text": "ΑΠΟΣΠΑΣΜΑΤΑ. Τῶν δ’ εὐμεγεθῶν νήσων Σαρδὼ μὲν τὴν περίμετρον ἔχει σταδίων ͵ δυμʹ, μιλίων φ[ϙβʹ], Κύρνος δὲ, ἣν Κορσικὴν οἱ ἐπιχώριοι καλοῦσι, τὰ κύκλῳ ἔχει σταδίων ͵ δυμʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Τῆς δὲ Κρήτης τὰ κύκλῳ ἐστὶ σταδίων ͵ δτʹ. Ἡ δὲ Κύπρος σταδίων ͵ γ. Τῶν δὲ Βρεττανικῶν νήσων ἡ μεγίστη καλουμένη Ἀλβίων τὴν περίμετρον ἔχει σταδίων τρισμυρίων ἐννακισχιλίων, ἡ δὲ Ἰέρνη ἀναλόγως ταύτης μείζων * . Ἡ δὲ Πελοπόννησος σταδίων ἐστὶ τετρακισχιλίων πεντακοσίων. Ῥόδου δὲ ἡ περίμετρος σταδίων ωκεʹ, Κῶ δὲ νήσου σταδίων ωʹ. Χίος δὲ σταδίων ͵ αχʹ. Λέσβου δὲ τὰ κύκλῳ ͵ αρπʹ. Ἡ δὲ Σαμία νῆσος σταδίων ωʹ. Μῆκος τῆς ὅλης γῆς ἀπὸ ἀνατολῶν εἰς δυσμάς φασι σταδίους ὀκτακισμυρίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Τῆς δ’ ὅλης γῆς τὸ μέγιστον ἐχούσης κύκλῳ εἰς μυριάδας σταδίων κεʹ, τὴν σύμπασαν αὐτῆς ἐπιφάνειαν λογιζόμενοι, τίθεμεν εἰς [μυριάδων] μυριάδας διακοσίας· ὧν τὸ τῆς ἡμετέρας οἰκουμένης ὡς τέταρτόν ἐστι τούτου. Μῆκος δὲ τοῦ παντὸς χύματος ἀφ’ Ἡρακλείων στηλῶν ἕως τῆς πρὸς ἀνατολαῖς Συρίας οὐ πολὺ λείπει τρισμυρίων σταδίων. Νάξος νῆσος * .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "—Ἡ Μαραθὼν τῆς Ἀττικῆς σταδίους τριακοσίους ἀπέχουσα τῆς πόλεως. Ἔστι δὲ ὁ Ἑλλήσποντος πορθμὸς, φερόμενος ἀπὸ τῆς Προποντίδος ἐπὶ τὸ Αἰγαῖον πέλαγος, ἔχων τὸ πλάτος σταδίων ζʹ, ὃν ἔζευξε Ξέρξης. Ἔστι δὲ ἡ Σικελία νῆσος σταδίων τετρακισχιλίων ὀκτακοσίων ἔχουσα τὴν περίμετρον, μιλίων χμεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vbi-aa",
+      "title": {
+        "english": "Christian Topography",
+        "ancient_greek": "Χριστιανικὴ Τοπογραφία"
+      },
+      "url_slug": "cosmas-indicopleustes-topography-vbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cosmas-indicopleustes/topography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes/topography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes/topography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes/topography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cosmas-indicopleustes/topography.json"
+      }
+    },
+    {
+      "eul_wid": "mhg-aa",
+      "title": {
+        "english": "Chronological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenagoras-the-historian-chronological-fragments-mhg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenagoras-the-historian/chronological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenagoras-the-historian/chronological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenagoras-the-historian/chronological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenagoras-the-historian/chronological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenagoras-the-historian/chronological-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kpu-ab",
+      "title": {
+        "english": "Fragments on Europe and Judea",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐρώπης καὶ Ἰουδαίας"
+      },
+      "url_slug": "mnaseas-of-patara-europe-judea-kpu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/mnaseas-of-patara/europe-judea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara/europe-judea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara/europe-judea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara/europe-judea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnaseas-of-patara/europe-judea.json"
+      }
+    },
+    {
+      "eul_wid": "bhw-ac",
+      "title": {
+        "english": "Geographical and Botanical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "scylax-of-caryanda-geographical-botanical-bhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/scylax-of-caryanda/geographical-botanical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.json"
+      }
+    },
+    {
+      "eul_wid": "rna-aa",
+      "title": {
+        "english": "Ixeuticon or-Hunting, Paraphrase",
+        "ancient_greek": "Ἰξευτικόν ἢ Περὶ Κυνηγεσίας"
+      },
+      "url_slug": "dionysius-of-alexandria-ixeuticon-hunting-rna-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-alexandria/ixeuticon-hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/ixeuticon-hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/ixeuticon-hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/ixeuticon-hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-alexandria/ixeuticon-hunting.json"
+      }
+    },
+    {
+      "eul_wid": "oga-aa",
+      "title": {
+        "english": "Periplus of the Erythraean Sea",
+        "ancient_greek": "Ἀνώνυμος Περίπλους τῆς Ἐρυθρᾶς Θαλάσσης"
+      },
+      "url_slug": "periplus-of-the-erythraean-sea-anonymous-navigation-guide-oga-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-erythraean-sea-anonymous/navigation-guide.json"
+      }
+    },
+    {
+      "eul_wid": "lzo-aa",
+      "title": {
+        "english": "Periplus of the Two Pontic Seas",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menippus-of-pergamon-two-pontic-seas-lzo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menippus-of-pergamon/two-pontic-seas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-pergamon/two-pontic-seas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-pergamon/two-pontic-seas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-pergamon/two-pontic-seas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menippus-of-pergamon/two-pontic-seas.json"
+      }
+    },
+    {
+      "eul_wid": "mna-ab",
+      "title": {
+        "english": "Vv. 722–1026, To King Nicomedes",
+        "ancient_greek": "Πρὸς Νικομήδην Βασιλέα"
+      },
+      "url_slug": "greek-geographer-anonymous-king-nicomedes-mna-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-geographer-anonymous/king-nicomedes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-geographer-anonymous/king-nicomedes.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-geographical-works/measurements-islands",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

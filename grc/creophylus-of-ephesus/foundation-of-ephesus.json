@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hbc-aa",
+  "eul_aid": "hbc",
+  "author_slug": "creophylus-of-ephesus",
+  "work_slug": "foundation-of-ephesus",
+  "url_slug": "creophylus-of-ephesus-foundation-of-ephesus-hbc-aa",
+  "author": {
+    "english": "Creophylus of Ephesus",
+    "ancient_greek": "Κρεώφυλος ὁ Ἐφέσιος"
+  },
+  "title": {
+    "english": "Foundation of Ephesus",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "The Foundation of Ephesus by Creophylus on Eulogikon",
+    "meta_title": "The Ancient Foundation of Ephesus by Creophylus in Greek",
+    "meta_description": "The Foundation of Ephesus by Creophylus, a historical account of the city's legendary origins. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_The Foundation of Ephesus_ is a lost prose foundation narrative attributed to Creophylus of Ephesus, which detailed the mythical and early historical origins of the Ionian city of Ephesus. Classified as fragment 448 in the standard collection of Greek historical fragments, the work is known only by its title and a single surviving excerpt. This excerpt preserves a foundation oracle and etiological tale: the city&#x27;s founders, instructed by a god to settle where a fish would show them and a wild boar would lead them, eventually founded the settlement after a fish, leaping from a fire, ignited a thicket and startled a boar, which was then slain on the spot where the temple of Athena would later stand. As a typical foundation account, or <strong>ktisis</strong>, the complete work likely treated subjects such as the city&#x27;s mythical origins involving figures like Androclus or the Amazons, the Ionian migration, the establishment of civic institutions, and the foundation of the paramount cult of Artemis Ephesia, alongside descriptions of local topography. The work was transmitted in antiquity under the title &quot;Extract,&quot; indicating it was preserved as a fragment within the text of a later author. Such local histories were instrumental in shaping civic identity and prestige, and Creophylus&#x27;s narrative would have provided source material for later historians and geographers like Strabo, contributing to the corpus of Ionian historical tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΕΦΕΣΙΩΝ ΩΡΟΙ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus VII: Κρεόφυλος δ’ ἐν τοῖς Ἐφεσίων Ὥροις «Οἱ τὴν Ἔφεσον (φησὶ) κτίζοντες, πολλὰ ταλαιπωρηθέντες ἀπορίᾳ τόπου, τὸ τελευταῖον πέμψαντες εἰς θεοῦ, ἠρώτων, ὅπου τὸ πόλισμα θῶνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ὁ δ’ αὐτοῖς ἔχρησεν, ἐνταῦθα οἰκίζειν πόλιν, ᾗ ἂν ἰχθὺς δείξῃ, καὶ ὗς ἄγριος ὑφηγήσηται. Λέγεται οὖν, ὅπου νῦν ἡ κρήνη ἐστὶν Ὑπέλαιος καλουμένη, καὶ ὁ ἱερὸς λιμὴν, ἁλιέας ἀριστοποιεῖσθαι, καὶ τῶν ἰχθύων τινὰ ἀποθορόντα σὺν ἀνθρακιᾷ εἰσπεσεῖν εἰς φορυτὸν, καὶ ἁφθῆναι ὑπ’ αὐτοῦ λόχμην, ἐν ᾗ ἔτυχεν ὗς ἄγριος ὤν· ὃς, ὑπὸ τοῦ πυρὸς θορυβηθεὶς, ἐπέδραμε τοῦ ὄρους ἐπὶ πολὺ, ὃ δὴ καλεῖται Τρηχεῖα, καὶ πίπτει ἀκοντισθεὶς, ὅπου καὶ νῦν ἐστιν ὁ τῆς Ἀθηνᾶς ναός. Καὶ διαβάντες οἱ Ἐφέσιοι ἐκ τῆς νήσου, ἔτεα εἴκοσιν ἓν οἰκήσαντες, τῷ εἰκοστῷ δευτέρῳ κτίζουσι Τρηχεῖαν καὶ τὰ ἐπὶ Κόρησσον, καὶ ἱερὸν Ἀρτέμιδος ἐπὶ τῇ ἀγορᾷ ἱδρύσαντο, Ἀπόλλωνός τε τοῦ Πυθίου ἐπὶ τῷ λιμένι.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-az",
+      "title": {
+        "english": "Anonymous Milesian",
+        "ancient_greek": "Ἀνώνυμος Μιλήσιος"
+      },
+      "url_slug": "historical-fragments-anonymous-milesian-mmg-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/milesian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.json"
+      }
+    },
+    {
+      "eul_wid": "bbs-ad",
+      "title": {
+        "english": "Elegies",
+        "ancient_greek": "Ἐλεγείαι"
+      },
+      "url_slug": "theognis-of-megara-elegies-bbs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-megara/elegies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/elegies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/elegies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/elegies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/elegies.json"
+      }
+    },
+    {
+      "eul_wid": "lbs-ab",
+      "title": {
+        "english": "Historical Excerpts and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-lembus-historical-excerpts-lbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ak",
+      "title": {
+        "english": "Mithridatic",
+        "ancient_greek": "Μιθριδάτειος"
+      },
+      "url_slug": "appian-of-alexandria-mithridatic-pdc-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/mithridatic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/mithridatic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/mithridatic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/mithridatic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/mithridatic.json"
+      }
+    },
+    {
+      "eul_wid": "ple-ac",
+      "title": {
+        "english": "On the Olympic Games",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phlegon-of-tralles-olympic-games-ple-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/olympic-games",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-an",
+      "title": {
+        "english": "Oxyrhynchus Chronicle",
+        "ancient_greek": "Ὀξυρρύγχιος Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/oxyrhynchus-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "ubo-aa",
+      "title": {
+        "english": "Symposium or Banquet of Ten Virgins",
+        "ancient_greek": "Συμπόσιον ἢ Δεῖπνον Δέκα Παρθένων"
+      },
+      "url_slug": "anonymous-historical-work-symposium-virgins-ubo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/symposium-virgins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.json"
+      }
+    },
+    {
+      "eul_wid": "hxk-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "timaeus-of-tauromenium-testimonies-hxk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/creophylus-of-ephesus/foundation-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/creophylus-of-ephesus/foundation-of-ephesus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/creophylus-of-ephesus/foundation-of-ephesus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/creophylus-of-ephesus/foundation-of-ephesus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/creophylus-of-ephesus/foundation-of-ephesus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

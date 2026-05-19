@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "knw-aa",
+  "eul_aid": "knw",
+  "author_slug": "autocrates-the-historian",
+  "work_slug": "achaean-cults",
+  "url_slug": "autocrates-the-historian-achaean-cults-knw-aa",
+  "author": {
+    "english": "Autocrates the Historian",
+    "ancient_greek": "Αὐτοκράτης ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Achaean Cults",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀχαιϊκῶν Ἱερῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Autocrates the Historian on Eulogikon",
+    "meta_title": "Fragments by Autocrates the Historian in Ancient Greek",
+    "meta_description": "Fragments on Achaean religious practices by Autocrates. Source for regional Greek cultic history. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Achaean Cults</strong> is a lost antiquarian prose work attributed to Autocrates the Historian. It survives only through a handful of brief fragments preserved as quotations in later authors. Based on its title and extant passages, the work documented the religious customs, temples, and cult practices of the Achaean region in the northern Peloponnese. The fragments indicate the work focused on regional cult practices and festivals, temple foundations and their associated myths, and explanations of local religious terminology and divine epithets. One preserved example describes the cult of Demeter Poteriophoros, or Cup-Bearer, in the territory of Antheia. Another recounts a myth in which Zeus transformed himself into a dove out of love for a maiden named Phthia in the city of Aegium. The text is preserved indirectly via citation in two later works: the geographer Pausanias’s <strong>Description of Greece</strong> and the lexicographer Harpocration’s <strong>Lexicon of the Ten Orators</strong>. There is no direct manuscript tradition for Autocrates’ original work. Its primary importance lies in its contribution to Pausanias’s description of Greek sanctuaries, thereby preserving specific local Achaean traditions within the broader record of Greek religion. It exemplifies the many lost local histories that served as essential source material for surviving imperial-era syntheses.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "ΑΧΑΙΚΑ E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "Athenaeus XI: Τιμᾶται δὲ καὶ ἐν Ἀχαΐᾳ Δημήτηρ ποτηριοφόρος, κατὰ τὴν Ἀνθέων χώραν, ὡς Αὐτοκράτης ἱστορεῖ ἐν δευτέρῳ Ἀχαϊκῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem IX: Αὐτοκράτης δ’ ἐν τοῖς Ἀχαϊκοῖς καὶ τὸν Δία ἱστορεῖ μεταβαλεῖν τὴν μορφὴν εἰς πε ριστερὰν, ἐρασθέντα παρθένου Φθίας ὄνομα ἐν Αἰγίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-av",
+      "title": {
+        "english": "Anonymous Periegete",
+        "ancient_greek": "Ἀνώνυμος Περιηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-periegete-mmg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/periegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.json"
+      }
+    },
+    {
+      "eul_wid": "clw-aa",
+      "title": {
+        "english": "Fragments on Athenian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας"
+      },
+      "url_slug": "demon-of-athens-fragments-history-clw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demon-of-athens/fragments-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demon-of-athens/fragments-history.json"
+      }
+    },
+    {
+      "eul_wid": "lbs-ab",
+      "title": {
+        "english": "Historical Excerpts and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-lembus-historical-excerpts-lbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "ecy-ab",
+      "title": {
+        "english": "Historical Fragments on Greek Affairs",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα περὶ Ἑλληνικῶν Πραγμάτων"
+      },
+      "url_slug": "hellenica-anon-historical-fragments-ecy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "nmu-aa",
+      "title": {
+        "english": "Historical Memoranda Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pamphila-of-epidaurus-historical-memoranda-nmu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pamphila-of-epidaurus/historical-memoranda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.json"
+      }
+    },
+    {
+      "eul_wid": "psm-aa",
+      "title": {
+        "english": "Historical and Rhetorical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "potamon-of-mytilene-historical-rhetorical-psm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/potamon-of-mytilene/historical-rhetorical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene/historical-rhetorical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene/historical-rhetorical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene/historical-rhetorical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/potamon-of-mytilene/historical-rhetorical.json"
+      }
+    },
+    {
+      "eul_wid": "uws-aa",
+      "title": {
+        "english": "Origins of Constantinople (Long)",
+        "ancient_greek": "Ἱστορία Κωνσταντινουπόλεως"
+      },
+      "url_slug": "hesychius-of-miletus-history-constantinople-aa-uws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/history-constantinople-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.json"
+      }
+    },
+    {
+      "eul_wid": "unc-aa",
+      "title": {
+        "english": "Speeches in Defense of the Wars",
+        "ancient_greek": "Ὑπὲρ τῶν Πολέμων Λόγοι"
+      },
+      "url_slug": "procopius-of-caesarea-defense-wars-unc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/procopius-of-caesarea/defense-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/autocrates-the-historian/achaean-cults",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

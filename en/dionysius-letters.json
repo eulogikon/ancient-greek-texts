@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mdk",
+  "auth_slug": "dionysius-letters",
+  "name": {
+    "english": "Dionysius Letters",
+    "ancient_greek": "Διονυσίου Ἐπιστολαί"
+  },
+  "seo_h1": "Rhetoric and Recommendation in the Dionysius Letters",
+  "seo": {
+    "browser_title": "Dionysius Letters Author on Eulogikon Greek Archive",
+    "meta_title": "The Dionysius Letters Ancient Greek Epistles Works",
+    "meta_description": "Dionysius Letters, Hellenistic rhetorical epistles. Surviving works include one letter. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ λογοτεχνική",
+      "english": "Literary Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Dionysius Letters are a pseudepigraphical collection attributed to, but not authored by, the historian Dionysius of Halicarnassus. The actual author is an unknown scholar or teacher of rhetoric, likely operating between the 1st century BCE and the 3rd century CE. The letters are addressed to classical figures like Demosthenes, Thucydides, and Plato, and their content focuses on literary criticism and rhetorical theory.</p>\n<p class=\"research-text\">The sole known work is the Epistulae, or Letters, a collection of rhetorical and critical essays. Their disputed authorship places them within the Hellenistic or early Imperial tradition of rhetorical education.</p>\n<p class=\"research-text\">The collection is a significant document of ancient literary criticism, providing insight into how later scholars analyzed canonical Greek authors. It reflects contemporary rhetorical methods, discussing style, diction, and composition. Its pseudepigraphical nature illustrates a common strategy to lend authority to pedagogical texts and highlights the post-classical reception of classical literature.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mdk-aa",
+      "title": {
+        "english": "Letters of Recommendation",
+        "ancient_greek": "Ἐπιστολαὶ περὶ Συστατικῶν"
+      },
+      "url_slug": "dionysius-letters-recommendations-mdk-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-letters/recommendations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-letters/recommendations.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-letters.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-letters.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-letters.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-letters.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

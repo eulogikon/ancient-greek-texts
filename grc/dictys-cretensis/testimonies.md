@@ -1,0 +1,55 @@
+---
+title: Testimonies
+title_greek: Μαρτυρίαι
+author: Dictys Cretensis
+eul_wid: otc-aa
+eul_aid: otc
+canonical: "https://eulogikon.org/grc/dictys-cretensis/testimonies"
+period: Roman
+dialect: Koine
+domain: History
+format: Collection
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Testimonies
+
+*Μαρτυρίαι*
+
+**Author:** Dictys Cretensis
+
+**eul_wid:** `otc-aa` · [HTML page](https://eulogikon.org/grc/dictys-cretensis/testimonies)
+
+## Text
+
+### 1a,49,T 1
+
+SUID. s. Δίκτυς· ἱστορικός. ἔγραψεν Ἐφημερίδα (ἔστι δὲ τὰ μεθ’ Ὅμηρον καταλογάδην ἐν βιβλίοις θ Ἰλιακά) Τρωικοῦ διακόσμου. οὗτος ἔγραψε τὰ περὶ τῆς ἁρπαγῆς Ἑλένης καὶ περὶ Μενελάου καὶ πάσης Ἰλιακῆς ὑποθέσεως.
+
+### 1a,49,T 2a
+
+JOHANN. MALALAS Chronogr. V p. 107, 1 ed. Bonn. (TZETZ. Chil. V 834ff. KEDREN. Hist. comp. 223, 4ff.): Δίκτυς ὁ ἐκ τῆς Κρήτης ὑπεμνημάτισε μετὰ ἀληθείας τὰ προγεγραμμένα καὶ τὰ λοιπὰ πάντα τῶν ἐπὶ τὸ Ἴλιον ἐπιστρατευσάντων Ἑλλήνων· ἦν γὰρ μετὰ τοῦ Ἰδομενέως τοῦ προμάχου τῶν Δαναῶν τοῦ κατελθόντος εἰς τὸν πόλεμον ἅμα τοῖς ἄλλοις Ἀχαιοῖς. ὑπογραφεὺς γὰρ αὐτοῦ τοῦ Ἰδομενέως ἐτύγχανεν ὁ αὐτὸς Δίκτυς καὶ ἑωρακὼς ἀκριβῶς τὰ τοῦ πολέμου καὶ συγγραψάμενος, ὡς παρὼν τότε ἐν τοῖς χρόνοις ἐκείνοις μετὰ Ἑλλήνων (F 4).
+
+### 1a,49,T 2b
+
+——p. 132, 22 (EKL. IST. Cram. An. Par. II 221, 18): ἅτινα καὶ ἐν ταῖς τοῦ Δίκτυος ἐμφέρεται συγγραφαῖς, ὅπερ πόνημα μετὰ πολλὰ ἔτη Ὁμήρου τελευτῆς καὶ Βεργιλλίου εὑρέθη ἐπὶ Κλαυδίου Νέρωνος βασιλέως ἐν 〈κασσιτερίνωι〉 κιβωτίωι (s. F 7b).
+
+### 1a,49,T 2c
+
+——p. 250, 1 (SUID. gl. 2): τῶι δὲ ιγ ἔτει τῆς βασιλείας ... Κλαυδίου Καίσαρος ἔπαθεν ὑπὸ θεομηνίας ἡ Κρήτη νῆσος πᾶσα· ἐν οἷς χρόνοις ηὑρέθη ἐν τῶι μνήματι τοῦ Δίκτυος ἐν κασσιτερίνωι κιβωτίωι ἡ ἔκθεσις τοῦ Τρωικοῦ πολέμου μετὰ ἀληθείας παρ’ αὐτοῦ συγγραφεῖσα πᾶσα. ἔκειτο δὲ προσκέφαλα τοῦ λειψάνου τοῦ Δίκτυος· καὶ νομίσαντες τὸ αὐτὸ κιβώτιον θησαυρὸν εἶναι προσήνεγκαν αὐτὸ τῶι βασιλεῖ Κλαυδίωι· καὶ ἐκέλευσε μετὰ τὸ ἀνοῖξαι καὶ γνῶναι τί ἐστι μεταγραφῆναι αὐτὰ καὶ ἐν τῆι δημοσίαι βιβλιοθήκηι ἀποτεθῆναι αὐτά.
+
+### 1a,49,T 3
+
+ARETHAS zu Dio Chrys. or. XI 92: οὐκ ὄντων δὲ ἑτέρων ποιητῶν οὐδὲ συγγραφέων ..... ἀλλ’ αὐτὸς πρῶτος ἐπιθέμενος (sc. Ὅμηρος) ὑπὲρ τούτων γράφειν] ποιητὴς μὲν οὐδείς ἐστι τούτων πρὸ Ὁμήρου μεμνημένος· Δίκτυς δὲ ὄνομα Κρής, ὃς παρατυχὼν τῶι Τρωικῶι πολέμωι γράφει τε τὰ πραχθέντα ἐκεῖ χαλκοῖς πίναξι καὶ ἑαυτῶι συνθάπτει· οἳ καὶ εὑρέθησαν χρόνωι μακρῶι ὕστερον ἐπὶ Νέρωνος, ἐξ ὧν καὶ βιβλίοις κατετέθησαν συμφώνοις κατὰ πάντα Ὁμήρωι.
+
+### 1a,49,T 4
+
+DICTYS LAT. prolog. p. 2 Meister: Dictys Cretensis genere, Gnosso civitate, isdem temporibus quibus et Atridae fuit, peritus vocis ac litteris Phoenicum, quae a Cadmo in Achaiam fuerant delatae. hic fuit socius Idomenei Deucalionis filii et Merionis ex Molo, qui duces cum exercitu contra Ilium venerant, a quibus ordinatus est, ut annales belli Troiani conscriberet. (2) igitur de toto bello sex volumina in tilias digessit Phoeniceis litteris, quae iam reversus senior in Cretam praecepit moriens, ut secum sepelirentur. itaque ut ille iusserat memoratas tilias in stannea arcula repositas eius tumulo condiderunt. (3) verum secutis temporibus, tertio decimo anno Neronis imperii, in Gnosso civitate terrae motus facti cum multa, tum etiam sepulchrum Dictys ita patefecerunt, ut a transeuntibus arcula viseretur. pastores itaque praetereuntes cum hanc vidissent, thesaurum rati sepulchro abstulerunt, et aperta ea invenerunt tilias incognitis sibi litteris conscriptas continuoque ad suum dominum Eupraxidem quendam nomine pertulerunt, qui agnitas quaenam essent litteras Rutilio (?) Rufo, illius insulae tunc consulari, obtulit. ille cum ipso Eupraxide ad Neronem oblata sibi transmisit existimans quaedam in his secretiora contineri. (4) haec igitur cum Nero accepisset advertissetque Punicas esse litteras harum peritos ad se evocavit: qui cum venissent, interpretati sunt omnia. cumque Nero cognosset antiqui viri, qui apud Ilium fuerat, haec esse: monumenta, iussit in Graecum sermonem ista transferri, e quibus Troiani belli verior textus cunctis innotuit. (5) tunc Eupraxidem muneribus et Romana civitate donatum ad propria remisit; annales vero nomine Dictys inscriptos in Graecam bibliothecam recepit, quorum seriem qui sequitur textus ostendit.
+
+### 1a,49,T 5
+
+DICTYS LAT. epist. ded. p. 1 Mei: L. Septimius Q. Aradio S. D. Ephemerida belli Troiani Dictys Cretensis, qui in ea militia cum Idomeneo meruit, conscripsit litteris Punicis, quae tum Cadmo et Agenore auctoribus per Graeciam frequentabantur. (2) dein post multa saecula conlapso per vetustatem apud Gnoson ... sepulchro eius, pastores ... forte inter ceteram ruinam loculum stanno affabre clausum offendere ac thesaurum rati mox dissolvunt, non aurum nec aliud quicquam praedae, sed libros ex philyra in lucem prodituri. (3) at ubi spes frustrata est, ad Praxim dominum loci eos deferunt, qui commutatos litteris Atticis —nam oratio Graeca fuerat—Neroni Romano Caesari obtulit, pro quo plurimis ab eo donatus est. (4) nobis cum in manus forte libelli venissent, avidos verae historiae cupido incessit ea uti erant Latine disserere ..... itaque priorum quinque voluminum, quae bello contracta gestaque sunt, eundem numerum servavimus; residua quinque (?) de reditu Graecorum in unum redegimus atque ad te misimus. tu Rufine mi, ut par est, fave coeptis.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: otc-aa`.

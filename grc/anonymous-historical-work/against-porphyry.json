@@ -1,0 +1,507 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ubo-ab",
+  "eul_aid": "ubo",
+  "author_slug": "anonymous-historical-work",
+  "work_slug": "against-porphyry",
+  "url_slug": "anonymous-historical-work-against-porphyry-ubo-ab",
+  "author": {
+    "english": "Historical Work  Anonymous",
+    "ancient_greek": "Ἄγνωστος ἱστορικός"
+  },
+  "title": {
+    "english": "Against Porphyry",
+    "ancient_greek": "Κατὰ Πορφυρίου"
+  },
+  "seo": {
+    "browser_title": "Against Porphyry by Anonymous on Eulogikon Archive",
+    "meta_title": "The Against Porphyry by Anonymous in Ancient Greek",
+    "meta_description": "Anonymous Christian apologetic work refuting philosopher Porphyry. Important historical text from late antiquity. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Against Porphyry_ is a lost Christian apologetic treatise, one of several composed in response to the Neoplatonist philosopher Porphyry&#x27;s major polemic, _Against the Christians_. Structured in 42 passages, this anonymous work offered point-by-point refutations of Porphyry&#x27;s criticisms of Christian scripture, doctrine, and practice. Based on the genre and Porphyry&#x27;s known arguments, the text likely defended scriptural authority against charges of contradiction, presented Christological arguments countering Porphyry&#x27;s denial of Jesus&#x27;s divinity, justified Christian belief from philosophical perspectives, and attempted to reconcile Christian doctrine with elements of Greek philosophy. The work is not extant, and knowledge of it derives solely from indirect references; any fragments likely survive only as quotations embedded within later Christian writings. This transmission mirrors that of Porphyry&#x27;s own treatise, which was ordered destroyed and is preserved solely in fragments cited by his opponents. As part of the broader anti-Porphyrian apologetic corpus, this anonymous refutation contributed to the Christian intellectual effort to neutralize the most sophisticated pagan critique of the era. This collective project helped shape patristic theology and marked a significant transition in the late Roman Empire toward Christian intellectual dominance.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "Ἐπεδήμησεν ὁ υἱὸς τοῦ θεοῦ Χριστὸς ταγαῖς τοῦ πατρὸς τῇ ὁρατῇ κτίσει, ἵνα δὴ τὰ κράτη τῶν τυραννούντων ἀνατρέψας δαιμόνων ἐξέληται τῆς πικρᾶς τἀς ψυχὰς δουλείας, ἀνθ᾿ ὧν φύσις ταῖς προποσίαις τῆς ἀδικίας γεγοητευμένη θορύβου τε καὶ ἀταξίας ἐπεπλήρωτο, οὐκ ἔτι τῶν συμφερόντων εἰς ἀνάμνησιν ἀναδραμεῖν οὐδαμῶς δυναμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "διόπερ καὶ πρὸς τὰ εἴδωλα ῥᾳδίως εἵλκετο, ἅτε ἐπικλύσαντος πάντα τοῦ κακοῦ καὶ πάσας ἐπινενεμημένου τὰς γενεάς, κατὰ τὴν ἀλλοίωσιν τὴν ἐκ τῆς παρακοῆς προσηεγενημένην ταῖς ἐνσάρκοις ἡμῶν σκηναῖς, ἕως ὁ κύριος Χριστὸς δι’ ἧς ἐπεφάνη κὸς τῷ βίῳ ἀμυδρώσας τῶν ἡδονῶν τὰς ἐπιβολάς, αἷς αἱ κάτω δυνάμεις καθ’ ἡμῶν ὡπλίζοντο καταδουλῶσαι τὸ διανοητικόν, ἐλεύθερον πάντων τὸν ἄνθρωπον διέδειξε κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "τούτου γὰρ ἕνεκα καὶ σάρκα ἐφόρεσεν ὁ κύριος Ἰησοῦς, καὶ ἄνθρωπος ἐγέν·ετο καὶ προσηλώθη τῷ σταυρῶ̣ οἰκονομούμενος, ὅπως δι' ἡς σαρκὸς οἱ δαίμονες ἀναδεῖξαι θεοὺς ἠλαζονεύσαντο, πρὸς θάνατον τὰς ψυχὰς μεθόδοις ἀπάτης ἀγκιστρευσάμενοι, διὰ ταύτης ἀνατραπέντες κατοπτευθῶσιν οὐκ ὄντες θεοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "κωλύων γὰρ ἐπὶ πλέον άρθῆναι τὴν μεγαλάύχησιν αὐτῶν ἄνθρωπος ἐγένετο, ἵνα δὴ δι᾿ οὗ σώματος τὸ λογικὸν γένος τῆς ὄντος ἀπαλλοτριώσαντες θεοῦ θρησκείας ἐλυμήναντο, διὰ τούτου ἀρρήτοις τέχναις σοφίας τὸν λόγον χωρήσαντος ὀλετῆρες ἐλεγχθῶσιν, ἀλλ’ οὐκ εὐεργέται τῶν ψυχῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "Οὐκ ἠν μὲν οὐν οὐδὲν θαυμαστὸν τῷ Χριστῷ τοῦ θεοῦ καταπλήξει > δυνάμεως ἀτρέπτου μεγέθει τὰς ἀντιστατικὰς φύσεις τῶν δαιμόνων. ἀλλ᾿ ἐπειδὴ ἄχος αὐτοῖς δὴ καὶ τοῦτο προσέφερεν νικηθῆναι γὰρ ὑπὸ τοῦ κρείττονος μᾶλλον ἂν εἵλοντο), διὰ τοῦτο δἰ ἀνθρώπου τὴν ἐπὶ σωτηρίᾳ πάντων ᾠκονομήσατο ἔκβασιν, ὅπως οἱ μέν, τῆς ζωῆς αὑτοῖς αὐτῆς σωματικῶς καὶ τῆς ἀληθείας ἐνσκηψάσης, οἱ ἄνθρωποι πρὸς τὴν μόρφωσιν ἀναδραμεῖν καὶ τὸν φωτισμὸν ἐπέσχωσιν τοῦ λόγου, τὰ τῆς ἁμαρτίας θέλγητρα, οἱ δὲ πρὸς τοῦ ἀσθενεστέρου νικηθέντες καὶ καταπεφρονημένοι οἱ δαίμονες λήξωσι τοῦ θράσους, τῆς κατὰ τὸν Τυφῶνα δεθέντες φλεγμονῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.6",
+      "text": "διὰ τοῦτο γὰρ μάλιστα εἰσήχθη καὶ ὁ σταυρός, τρόπαιον κατὰ τῆς ἀδικίας καὶ ἔκπληγμα τεθείς, ὥστε μηκέτι τῇ ὀργῇ ὑπεύθυνον εἶναι ἀπεντεῦθεν τὸν ἄνθρωπον, ἀναπαλαίσαντα μὲν τὸ κατὰ τὴν παρακοὴν ἥττημα, νικήσαντα δὲ τὰς κάτω δυνάμεις ἐννόμως καὶ ἐλεύθερον ὀφλήματος παντὸς δωρεαῖς ἀναδειχθέντα θεοῦ, ἐπειδὴ οὕτω γε ὁ πρωτόγονος λόγος τοῦ θεοῦ δικαιοσύνης φράξας τὸν ἄνθρωπον ὅπλοις , ἐν ᾧ ἐσκήνωσεν, τὰς δουλωσαμένας ἡμᾶς δυνάμεις κατηγωνίσατο διὰ τοῦ σταυροειδοῦς, ὡς εἴρηται, σχήματος. τὸν τῇ φθορᾷ δεδυναστευμένον ἄνθρωπον δείξας ἐλεύθερον χερσὶν ἡπλωμέναις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.7",
+      "text": "Ἔστι γὰρ τοῦτο, εἰ χρὴ ὁριστικῶς εἰπεῖν, τὸ σχῆμα νίκης κραταίωμα, θεοῦ κάθοδος ἐπ’ ἄνθρωπον , τρόπαιον κατὰ τῶν ὑλικῶν πνευμάτων, ἀπαλλαγὴ θανάτου, ὑπόθεσις ἀνόδου πρὸς ἀληθινὴν ἡμέραν καὶ διαβάθρα τῶν ἐπειγομένων ἀπολαῦσαι τοῦ ἐκεῖ φωτός, μηχανὴ δἰ ἡς οἱ εἰς τὴν οἰκοδομὴν εὐθετοῦντες τῆς ἐκκλησίας κάτωθεν, λίθου τετραγώνου δίκην, ἀνέλκονται ἐναρμοσθησόμενοι τῷ θείῳ λόγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.8",
+      "text": "ἐντεῦθεν οἱ τῇδε βασιλεῖς, πάσης πονηρᾶς ἕξεως ἐπὶ σκεδασμῷ τὸ σταυροειδὲς παραλαμβάνεσθαι αἰσθόμενοι σχῆμα, τὰ καλούμενα τῇ Ρωμαïkῇ διαλέκτῳ βήξιλλα ἐμηχανήσαντο. ἔνθεν εἴκουσα τούτῳ ἡ θάλασσα τῷ σχήματι πλωτὴν ἑαυτὴν ἀνθρώποις παρέχει. ὅλη γάρ, ὡς εἰπεῖν, τούτω ἡ κτίσις πρὸς ἐλευθερίαν ἐνδέδυται τῷ σημείῳ· τά τε γὰρ ὄρνεα ὑψιπετοῦντα τὸ σταυροειδὲς κατὰ τὴν ἔκτασιν 3 vgl. Symp. S. 33, 9ff. De autex. 20, 2 S. 200, 6ff — 12 vgl. Symp. S. 33, 13 — 26 De res. II, 3, 5 S. 334, 21 — 28 Justin, I Apol. 55. Tert. Apol. 16. Ad nat. I, 12. Minuc. Octav. 29, 7. 8 — 31 Tert. De orat. 29 11 Athan. De incarn. 25 2 καὶ < Μ 3 αὐχος Μ | αὐτοῖς Md: αὐτῶν M | σφαδἱσμον 5 εἵλαντο Μ (in εἵλοντο corr. D) | σωτηρία M 10 λή|ξουσι M ν 11 δεθέντες] etwa μνησθέντες vermutet Md 21 ὀριστικῶς D 715 26 in λίθων τετραγόνων corr. D πτερύγων σχῆμα αἰνίσσονται, αὐτός τε ὁ ἄνθρωπος τὰς χεῖρας πετάσας οὐδὲν ἄλλο ὑπάρχων φαίνεται ἢ τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.9",
+      "text": "ὅθεν αὐτῷ δὴ τούτῳ, ᾧπερ ἐκ κατασκευῆς κεκόσμητο, σχηματισάμενος αὐτὸν ὁ κύριος θεότητι ἐκέρασεν, ἵνα ὄργανον ἠ λοιπὸν τοῦ θεοῦ ἱερόν, πάσης ἀσυμφωνίας τε καὶ ἀρρυθμίας ἀπηλλαγμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.10",
+      "text": "οὐδὲ γὰρ ἔτι μετὰ τὸ ἀρμοσθῆναι τὸν ἄνθρωπον πρὸς θεοσέβειαν καὶ τὸ τῆς ἀλληθείας ἀκήρατον μέλος ἐνηρμοκέναι, δι’ οὗ τὴν θεότητα κεχώρηκε τῷ ξύλῳ τῆς ζωῆς καθάπερ χορδαί τε καὶ τόνοι προσηρμοσμένον, εἰς ἀσυμμετρίαν καὶ φθορὰν χωρῆσαι δυνατόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.1",
+      "text": "Ἐπεδήμησεν ὁ υἱὸς τοῦ θεοῦ Χριστὸς ταγαῖς τοῦ πατρὸς τῇ ὁρατῇ κτίσει, ἵνα δὴ τὰ κράτη τῶν τυραννούντων ἀνατρέψας δαιμόνων ἐξέληται τῆς πικρᾶς τἀς ψυχὰς δουλείας, ἀνθ᾿ ὧν φύσις ταῖς προποσίαις τῆς ἀδικίας γεγοητευμένη θορύβου τε καὶ ἀταξίας ἐπεπλήρωτο, οὐκ ἔτι τῶν συμφερόντων εἰς ἀνάμνησιν ἀναδραμεῖν οὐδαμῶς δυναμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.2",
+      "text": "διόπερ καὶ πρὸς τὰ εἴδωλα ῥᾳδίως εἵλκετο, ἅτε ἐπικλύσαντος πάντα τοῦ κακοῦ καὶ πάσας ἐπινενεμημένου τὰς γενεάς, κατὰ τὴν ἀλλοίωσιν τὴν ἐκ τῆς παρακοῆς προσηεγενημένην ταῖς ἐνσάρκοις ἡμῶν σκηναῖς, ἕως ὁ κύριος Χριστὸς δι’ ἧς ἐπεφάνη κὸς τῷ βίῳ ἀμυδρώσας τῶν ἡδονῶν τὰς ἐπιβολάς, αἷς αἱ κάτω δυνάμεις καθ’ ἡμῶν ὡπλίζοντο καταδουλῶσαι τὸ διανοητικόν, ἐλεύθερον πάντων τὸν ἄνθρωπον διέδειξε κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.3",
+      "text": "τούτου γὰρ ἕνεκα καὶ σάρκα ἐφόρεσεν ὁ κύριος Ἰησοῦς, καὶ ἄνθρωπος ἐγέν·ετο καὶ προσηλώθη τῷ σταυρῶ̣ οἰκονομούμενος, ὅπως δι' ἡς σαρκὸς οἱ δαίμονες ἀναδεῖξαι θεοὺς ἠλαζονεύσαντο, πρὸς θάνατον τὰς ψυχὰς μεθόδοις ἀπάτης ἀγκιστρευσάμενοι, διὰ ταύτης ἀνατραπέντες κατοπτευθῶσιν οὐκ ὄντες θεοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.4",
+      "text": "κωλύων γὰρ ἐπὶ πλέον άρθῆναι τὴν μεγαλάύχησιν αὐτῶν ἄνθρωπος ἐγένετο, ἵνα δὴ δι᾿ οὗ σώματος τὸ λογικὸν γένος τῆς ὄντος ἀπαλλοτριώσαντες θεοῦ θρησκείας ἐλυμήναντο, διὰ τούτου ἀρρήτοις τέχναις σοφίας τὸν λόγον χωρήσαντος ὀλετῆρες ἐλεγχθῶσιν, ἀλλ’ οὐκ εὐεργέται τῶν ψυχῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.5",
+      "text": "Οὐκ ἠν μὲν οὐν οὐδὲν θαυμαστὸν τῷ Χριστῷ τοῦ θεοῦ καταπλήξει > δυνάμεως ἀτρέπτου μεγέθει τὰς ἀντιστατικὰς φύσεις τῶν δαιμόνων. ἀλλ᾿ ἐπειδὴ ἄχος αὐτοῖς δὴ καὶ τοῦτο προσέφερεν νικηθῆναι γὰρ ὑπὸ τοῦ κρείττονος μᾶλλον ἂν εἵλοντο), διὰ τοῦτο δἰ ἀνθρώπου τὴν ἐπὶ σωτηρίᾳ πάντων ᾠκονομήσατο ἔκβασιν, ὅπως οἱ μέν, τῆς ζωῆς αὑτοῖς αὐτῆς σωματικῶς καὶ τῆς ἀληθείας ἐνσκηψάσης, οἱ ἄνθρωποι πρὸς τὴν μόρφωσιν ἀναδραμεῖν καὶ τὸν φωτισμὸν ἐπέσχωσιν τοῦ λόγου, τὰ τῆς ἁμαρτίας θέλγητρα, οἱ δὲ πρὸς τοῦ ἀσθενεστέρου νικηθέντες καὶ καταπεφρονημένοι οἱ δαίμονες λήξωσι τοῦ θράσους, τῆς κατὰ τὸν Τυφῶνα δεθέντες φλεγμονῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.6",
+      "text": "διὰ τοῦτο γὰρ μάλιστα εἰσήχθη καὶ ὁ σταυρός, τρόπαιον κατὰ τῆς ἀδικίας καὶ ἔκπληγμα τεθείς, ὥστε μηκέτι τῇ ὀργῇ ὑπεύθυνον εἶναι ἀπεντεῦθεν τὸν ἄνθρωπον, ἀναπαλαίσαντα μὲν τὸ κατὰ τὴν παρακοὴν ἥττημα, νικήσαντα δὲ τὰς κάτω δυνάμεις ἐννόμως καὶ ἐλεύθερον ὀφλήματος παντὸς δωρεαῖς ἀναδειχθέντα θεοῦ, ἐπειδὴ οὕτω γε ὁ πρωτόγονος λόγος τοῦ θεοῦ δικαιοσύνης φράξας τὸν ἄνθρωπον ὅπλοις , ἐν ᾧ ἐσκήνωσεν, τὰς δουλωσαμένας ἡμᾶς δυνάμεις κατηγωνίσατο διὰ τοῦ σταυροειδοῦς, ὡς εἴρηται, σχήματος. τὸν τῇ φθορᾷ δεδυναστευμένον ἄνθρωπον δείξας ἐλεύθερον χερσὶν ἡπλωμέναις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.7",
+      "text": "Ἔστι γὰρ τοῦτο, εἰ χρὴ ὁριστικῶς εἰπεῖν, τὸ σχῆμα νίκης κραταίωμα, θεοῦ κάθοδος ἐπ’ ἄνθρωπον , τρόπαιον κατὰ τῶν ὑλικῶν πνευμάτων, ἀπαλλαγὴ θανάτου, ὑπόθεσις ἀνόδου πρὸς ἀληθινὴν ἡμέραν καὶ διαβάθρα τῶν ἐπειγομένων ἀπολαῦσαι τοῦ ἐκεῖ φωτός, μηχανὴ δἰ ἡς οἱ εἰς τὴν οἰκοδομὴν εὐθετοῦντες τῆς ἐκκλησίας κάτωθεν, λίθου τετραγώνου δίκην, ἀνέλκονται ἐναρμοσθησόμενοι τῷ θείῳ λόγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.8",
+      "text": "ἐντεῦθεν οἱ τῇδε βασιλεῖς, πάσης πονηρᾶς ἕξεως ἐπὶ σκεδασμῷ τὸ σταυροειδὲς παραλαμβάνεσθαι αἰσθόμενοι σχῆμα, τὰ καλούμενα τῇ Ρωμαïkῇ διαλέκτῳ βήξιλλα ἐμηχανήσαντο. ἔνθεν εἴκουσα τούτῳ ἡ θάλασσα τῷ σχήματι πλωτὴν ἑαυτὴν ἀνθρώποις παρέχει. ὅλη γάρ, ὡς εἰπεῖν, τούτω ἡ κτίσις πρὸς ἐλευθερίαν ἐνδέδυται τῷ σημείῳ· τά τε γὰρ ὄρνεα ὑψιπετοῦντα τὸ σταυροειδὲς κατὰ τὴν ἔκτασιν 3 vgl. Symp. S. 33, 9ff. De autex. 20, 2 S. 200, 6ff — 12 vgl. Symp. S. 33, 13 — 26 De res. II, 3, 5 S. 334, 21 — 28 Justin, I Apol. 55. Tert. Apol. 16. Ad nat. I, 12. Minuc. Octav. 29, 7. 8 — 31 Tert. De orat. 29 11 Athan. De incarn. 25 2 καὶ < Μ 3 αὐχος Μ | αὐτοῖς Md: αὐτῶν M | σφαδἱσμον 5 εἵλαντο Μ (in εἵλοντο corr. D) | σωτηρία M 10 λή|ξουσι M ν 11 δεθέντες] etwa μνησθέντες vermutet Md 21 ὀριστικῶς D 715 26 in λίθων τετραγόνων corr. D πτερύγων σχῆμα αἰνίσσονται, αὐτός τε ὁ ἄνθρωπος τὰς χεῖρας πετάσας οὐδὲν ἄλλο ὑπάρχων φαίνεται ἢ τοῦτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.9",
+      "text": "ὅθεν αὐτῷ δὴ τούτῳ, ᾧπερ ἐκ κατασκευῆς κεκόσμητο, σχηματισάμενος αὐτὸν ὁ κύριος θεότητι ἐκέρασεν, ἵνα ὄργανον ἠ λοιπὸν τοῦ θεοῦ ἱερόν, πάσης ἀσυμφωνίας τε καὶ ἀρρυθμίας ἀπηλλαγμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.10",
+      "text": "οὐδὲ γὰρ ἔτι μετὰ τὸ ἀρμοσθῆναι τὸν ἄνθρωπον πρὸς θεοσέβειαν καὶ τὸ τῆς ἀλληθείας ἀκήρατον μέλος ἐνηρμοκέναι, δι’ οὗ τὴν θεότητα κεχώρηκε τῷ ξύλῳ τῆς ζωῆς καθάπερ χορδαί τε καὶ τόνοι προσηρμοσμένον, εἰς ἀσυμμετρίαν καὶ φθορὰν χωρῆσαι δυνατόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "... ἐπειδὴ γὰρ δύναμις αὐτῷ τοῦτο ἠν· δυνάμεως γὰρ τὸ συστέλλεσθαι μὲν ἐν τοῖς ὀλίγοις καὶ βραχύνεσθαι , χεῖσθαι ἐν τοῖς μεγάλοις καὶ μεγεθύνεσθαι. εἰ δὲ τὸ συνεκτείνεσθαι μὲν τοῖς μεγάλοις καὶ συνεξισάζεσθαι δυνατὸν αὐτῷ, τὸ δὲ βραχύνεσθαι ἐν τοῖο μικροῖς καὶ συστέλλεσθαι ἀδύνατον, οὐκ ἦν δύναμις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "δυνάμει γὰρ ἐὰν τόδε μὲν δυνατὸν εἶναι φῄς, τόδε δὲ ἀδύνατον, τοῦ εῖναι αὐτὴν δύναμιν παραγράφῃ, ἀσθενοῦσαν περὶ ἃ μὴ δύναται. οὐ μὴν δέ, ἀλλ’ οὐδὲ ὑπεροχήν τινα ἔτι θεότητος ἕξει πρὸς τὰ μεταβαλλόμενα· καὶ γὰρ οἱ ἄνθρωποι καὶ τὰ ἐρχόμενα τῶν ζῴων χαμαί, ἐφ’ ὧν μὲν ἂν δύνωνταί τι δρᾶσαι ἐνεργοῦσιν, ἐφ' ὧν δ' ἂν μὴ δύνωνται φθίνουσιν. διόπερ ταύτῃ μᾶλλον κεχώρηται ἐν ἀνθρώπῳ ὁ υἱὸς τοῦ θεοῦ, ὅτι μὴ ἦν αὐτῷ τοῦτο ἀδύνατον· ὅτι δυνάμει καὶ ἔπαθεν ἀπαθὴς μένων, καὶ ἔθανεν ἀθανασίαν τῷ θνητῷ ποριζόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "σῶμα μὲν γὰρ ὑπὸ σώματος τυπτόμενον ἢ τεμνόμενον τοσοῦτον τύπτεται ἢ τέμνεται, ὅσον ἂν τὸ τύπτον τύπτῃ καὶ τὸ τέμνον τέμνῃ. κατὰ ἀντιτύπησιν γὰρ τοῦ ὑποκειμένου τῷ τύπτοντι ἡ πληγὴ γίνεται, ἐν ἴσῳ πάθει τῶν ἑκατέρων ὄντων, καὶ τοῦ δρῶντος καὶ τοῦ δρωμένου. ἀμέλει ἐὰν μὴ τὸ τεμνόμενον μετὰ ὀλίγης ἕξεως ἀντιτονήσῃ τῷ τέμνοντι, τὸ τέμνον τέμνειν οὐ δυνήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "τῇ γὰρ φορᾷ τοῦ ξίφους οὐκ ἀντιπαραμείναντος τοῦ ὑποκειμένου σώματος, ἀλλὰ συνείξαντος μᾶλλον, ἄπρακτος γίνεται ἡ ἐνέργεια, οἷον καθάπερ καὶ ἐπὶ τῶν λεπτομερεστέρων σωμάτων πυρός ἢ ἀέρος· ἐκλύεται γὰρ ἐν τοῖς τοιούτοις ἀνενέργητος τῶν στερεωτέρων ὁρμὴ σωμάτων. εἰ δὲ πῦρ ἢ ἀέρα λίθος ἢ σίδηρος ἢ ξύλον ἢ ἄλλο , οἷς οἱ ἄνθρωποι χρώμενοι καθ’ 11 vgl. Tert. De bapt. 2 — 21 vgl. De res. III, 23, 4 S. 420, 26 ff 2 αὐτοδὴ M, αὐτὸς δὴ D 3 ὅπερ M Ι σχημ.] σταυρούμενος übergeschr. D 5 ἀρυθμίας M 7 θειότητα M 8 προσηρμοσμένος M 9 ἀδυνατόν Μ 10 M 81 v. Überschrift Τοῦ αὐτοῦ Μεθοδίου, πῶς ὁ τοῦ θεοῦ υἱὸς ὁ Χριστὸς ἐν βραχεῖ τε καὶ περιωρισμένῳ χρόνῳ διαστολαῖς σώματι ἐκεχώρητο (vgl. S. 387, 1 f); καὶ πῶς ἀπαθὴς ὢν ἤγετοὑπ ὑπὸ πάθους; Ι ἐπειδὴ D 715 v 17 θειότητος M 19 φθίνωσιν M 24 τύπτει u. τέμνει M 27 ἐὰν] aus ἐστι corr. in D, da abgekürzt in M Ι ἀντιτορήση M 30 ἐνέργεια D 716 32 ὁρμῆς Μ ἑαυτῶν ἀλληλοφονοῦσι, τρῶσαί τε καὶ διελεῖν οὐ δύνανται, παρὰ τὸ εἰκτικῆς τε αὐτὸ καὶ λεπτομερεστέρας φύσεως τυγχάνειν, χῶς οὐ μᾶλλον ἄτρωτός γε ἔμεινεν ἡ σοφία καὶ ἀπαθής, οὐδὲν πρὸς οὐδενὸς κακυνομένη, κἂν τεμνομένῳ συνῆν καὶ προσηλωμένῳ τῷ σώματι, βελτίων καὶ καθαρωτέρα φύσεως πάσης μετὰ τὸν γεννησάμενον αὐτὴν θεὸν ὑπάρχουσα; .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "... ἐπειδὴ γὰρ δύναμις αὐτῷ τοῦτο ἠν· δυνάμεως γὰρ τὸ συστέλλεσθαι μὲν ἐν τοῖς ὀλίγοις καὶ βραχύνεσθαι , χεῖσθαι ἐν τοῖς μεγάλοις καὶ μεγεθύνεσθαι. εἰ δὲ τὸ συνεκτείνεσθαι μὲν τοῖς μεγάλοις καὶ συνεξισάζεσθαι δυνατὸν αὐτῷ, τὸ δὲ βραχύνεσθαι ἐν τοῖο μικροῖς καὶ συστέλλεσθαι ἀδύνατον, οὐκ ἦν δύναμις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.2",
+      "text": "δυνάμει γὰρ ἐὰν τόδε μὲν δυνατὸν εἶναι φῄς, τόδε δὲ ἀδύνατον, τοῦ εῖναι αὐτὴν δύναμιν παραγράφῃ, ἀσθενοῦσαν περὶ ἃ μὴ δύναται. οὐ μὴν δέ, ἀλλ’ οὐδὲ ὑπεροχήν τινα ἔτι θεότητος ἕξει πρὸς τὰ μεταβαλλόμενα· καὶ γὰρ οἱ ἄνθρωποι καὶ τὰ ἐρχόμενα τῶν ζῴων χαμαί, ἐφ’ ὧν μὲν ἂν δύνωνταί τι δρᾶσαι ἐνεργοῦσιν, ἐφ' ὧν δ' ἂν μὴ δύνωνται φθίνουσιν. διόπερ ταύτῃ μᾶλλον κεχώρηται ἐν ἀνθρώπῳ ὁ υἱὸς τοῦ θεοῦ, ὅτι μὴ ἦν αὐτῷ τοῦτο ἀδύνατον· ὅτι δυνάμει καὶ ἔπαθεν ἀπαθὴς μένων, καὶ ἔθανεν ἀθανασίαν τῷ θνητῷ ποριζόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.3",
+      "text": "σῶμα μὲν γὰρ ὑπὸ σώματος τυπτόμενον ἢ τεμνόμενον τοσοῦτον τύπτεται ἢ τέμνεται, ὅσον ἂν τὸ τύπτον τύπτῃ καὶ τὸ τέμνον τέμνῃ. κατὰ ἀντιτύπησιν γὰρ τοῦ ὑποκειμένου τῷ τύπτοντι ἡ πληγὴ γίνεται, ἐν ἴσῳ πάθει τῶν ἑκατέρων ὄντων, καὶ τοῦ δρῶντος καὶ τοῦ δρωμένου. ἀμέλει ἐὰν μὴ τὸ τεμνόμενον μετὰ ὀλίγης ἕξεως ἀντιτονήσῃ τῷ τέμνοντι, τὸ τέμνον τέμνειν οὐ δυνήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "τῇ γὰρ φορᾷ τοῦ ξίφους οὐκ ἀντιπαραμείναντος τοῦ ὑποκειμένου σώματος, ἀλλὰ συνείξαντος μᾶλλον, ἄπρακτος γίνεται ἡ ἐνέργεια, οἷον καθάπερ καὶ ἐπὶ τῶν λεπτομερεστέρων σωμάτων πυρός ἢ ἀέρος· ἐκλύεται γὰρ ἐν τοῖς τοιούτοις ἀνενέργητος τῶν στερεωτέρων ὁρμὴ σωμάτων. εἰ δὲ πῦρ ἢ ἀέρα λίθος ἢ σίδηρος ἢ ξύλον ἢ ἄλλο , οἷς οἱ ἄνθρωποι χρώμενοι καθ’ 11 vgl. Tert. De bapt. 2 — 21 vgl. De res. III, 23, 4 S. 420, 26 ff 2 αὐτοδὴ M, αὐτὸς δὴ D 3 ὅπερ M Ι σχημ.] σταυρούμενος übergeschr. D 5 ἀρυθμίας M 7 θειότητα M 8 προσηρμοσμένος M 9 ἀδυνατόν Μ 10 M 81 v. Überschrift Τοῦ αὐτοῦ Μεθοδίου, πῶς ὁ τοῦ θεοῦ υἱὸς ὁ Χριστὸς ἐν βραχεῖ τε καὶ περιωρισμένῳ χρόνῳ διαστολαῖς σώματι ἐκεχώρητο (vgl. S. 387, 1 f); καὶ πῶς ἀπαθὴς ὢν ἤγετοὑπ ὑπὸ πάθους; Ι ἐπειδὴ D 715 v 17 θειότητος M 19 φθίνωσιν M 24 τύπτει u. τέμνει M 27 ἐὰν] aus ἐστι corr. in D, da abgekürzt in M Ι ἀντιτορήση M 30 ἐνέργεια D 716 32 ὁρμῆς Μ ἑαυτῶν ἀλληλοφονοῦσι, τρῶσαί τε καὶ διελεῖν οὐ δύνανται, παρὰ τὸ εἰκτικῆς τε αὐτὸ καὶ λεπτομερεστέρας φύσεως τυγχάνειν, χῶς οὐ μᾶλλον ἄτρωτός γε ἔμεινεν ἡ σοφία καὶ ἀπαθής, οὐδὲν πρὸς οὐδενὸς κακυνομένη, κἂν τεμνομένῳ συνῆν καὶ προσηλωμένῳ τῷ σώματι, βελτίων καὶ καθαρωτέρα φύσεως πάσης μετὰ τὸν γεννησάμενον αὐτὴν θεὸν ὑπάρχουσα; .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "Οἴονταί τινες καὶ τὸν θεόν, πρὸς τὸ τῆς οἰκείας διαθέσεως μέτρον ἰσάζοντες αὐτόν, τὰ αὐτὰ τοῖς φαύλοις ἢ ἐπαινετέα ἢ ψεκτέα ἡγεῖσθαι, ὥσπερ κανόνι καὶ μέτρῳ χρώμενον ταῖς δόξαις τῶν ἀνθρώπων οὐ συννοήσαντες διὰ τὴν οὐσαν ἐν αὐτοῖς ἄγνοιαν, ὅτι πᾶσα δήπουθεν ἡ κτίσις ἐνδεής ἐστι τοῦ κάλλους τοῦ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.2",
+      "text": "αὐτὸς γὰρ ἐξ ὅλης τῆς πάσης οὐσίας τε καὶ φύσεως τῷ ἑαυτοῦ τὰ πάντα εἰς τὸ ζῆν ἐφέλκεται λόγῳ. εἴτε γὰρ τὸ ἀγαθὸν θέλει, αὐτὸς ὢν τὸ ἀγαθὸν ἐν ἑαυτῷ μένει· μένει· τὸ καλὸν ὑπάρχειν ἐραστὸν αὐτῷ, αὐτὸς ὢν τὸ μόνον καλὸν εἰς ἑαυτὸν βλέπει, ἐν οὐδενὶ τὰ πρὸς τῶν ἀνθρώπων θαυμαζόμενα τιθέμενος. κάλλιστον γὰρ ταῖς ἀληθείαις καὶ ἐπαινετὸν κλητέον τοῦτο, ὅπερ ἂν αὐτὸς εἶναι ὁ θεὸς ἡγήσηται καλόν, κἂν ὑπὸ Πάντων ἐξουθενῆταί τε καὶ χλευάζηται, ἀλλ’ οὐχ ὅπερ οἱ ἄνθρωποι νομίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.3",
+      "text": "ὅθεν, εἰ καὶ διὰ τούτου τοῦ σχήματος τῶν θυμοφθόρων ἐλευθερῶσαι τὰς ψυχὰς παθῶν ἐβουλήθη καταισχύνων τὰ πλήθη τῶν δαιμόνων, ἀποδέχεσθαι ἐχρῆν, ἀλλὰ μὴ δυσφημεῖν, ἐλευθεοπο αὐτὸ καὶ λυτήριον τῶν ἐκ τῆς παρακοῆς κατασκευασθέντων ἡμῖν δεσμῶν ὁρῶντες δοθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.4",
+      "text": "ἔπαθε γὰρ σαρκὶ τῷ σταυρῷ προσπαγεὶς ὁ λόγος, ἵνα ἁπλώσῃ ἀπονεναρκωμένον πλάνῃ τὸν ἄνθρωπον, πρὸς τὸ ἄνω τε καὶ θεῖον μέγεθος τῷ ξύλῳ ἐξισώσας τῆς ζωῆς αὐτὸν οὑ πρόσθεν ἀπήλαστο, ὅτι τούτῳ τὰ πάθη τῷ σχήματι ἤμβλυνται, πάθος παθῶν 26 s. zu De res. III, 23, 4 S. 420, 26 ff (vgl. auch z. B. Epiph. Ancor. 93) 16–19 19 S. Parall. 454 S. 208 Holl — 19— S. 507, 4 Pitra, Anal. s. IV, 295. 438 1 ἀλληλοφωνουσι Μ Ι τε] δὲ M 2 θικτικῆς M 3 γε] τε M 4 προσηλυμένω Μ 5 βελτίω M, βελτίων 2. Hd. D Ι γιναμένην M (1. Hd. D) 7 Μ Bl. 82 πρός τοὺς ἐπαισχυνομένους ἐπὶ τῷ σταυρῷ τοῦ Χριστοῦ 11 f ἐξ ὅλης καὶ πάσης τῆς οὐσ. Ausgg. 14 ὑπάρχει? Ι αὐτὸ M 16 — 19 κάλλιστον — νομ. S. Parall. in R Bl. 145 v; Lemma τοῦ ἁγίου Μεθοδίου ἐκ τῶν κατὰ Πορφυρίου 16 γὰρ < R 17 εἶναι < M Ι ἡγήσεται θεὸς Μ 18 τε < R 19 νομίζουσιν] es endet R Ι διὰ — ἀθάνατος S. 507, 4 Syr in Brit. Mus. Add. 12156 Bl. 70 rb; Lemma Ex tractatu in illud loannis evangelistae dictum Joh. 9, 4 Ι τοῦ σχήμ. < Syr Ι θυμοφθόρων: hominum furore abreptorum Syr in Martins Übersetzung 20 πλήθη] πάθη Syr 23 γὰρ σαρκὶ < Syr 24 ἀπονεναρκημένον M 24 f ἄνωθεν Jülicher 25 μέγεθος < Syr Ι ξύλω] θείω M Ι τούτῳ . . τῷ σχήματι: tanti supplicii Martin διὰ τοῦ παθεῖν γενόμενος καὶ θάνατος διὰ τοῦ θανεῖν θανάτου , οὐ χειρωθεὶς ὺπὀ θανάτου, οὐδὲ ἀλγυνθεὶς ὑπὸ πάθους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.5",
+      "text": "οὔτε γὰρ πάθος ὅλως αὐτὸν ἐξέστησεν οὔτε θάνατος ἐλυμήνατο, ἀλλ’ ἦν έν τῷ παθητῷ μένων ἀπαθὴς καὶ ἐν τῷ θνητῷ ἀθάνατος, πᾶν ὅσον ἀὴρ καὶ μέσον καὶ ἄνω κατειληφὼς καὶ τὸ θνητὸν θεότητι κεράσας ἀθανάτῳ, ἡττήθη τε τελέως ὁ θάνατος εἰς ἀφθαρσίας ἐκτύπωμα ἀνασταυρωθείσης τῆς σαρκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.1",
+      "text": "Οἴονταί τινες καὶ τὸν θεόν, πρὸς τὸ τῆς οἰκείας διαθέσεως μέτρον ἰσάζοντες αὐτόν, τὰ αὐτὰ τοῖς φαύλοις ἢ ἐπαινετέα ἢ ψεκτέα ἡγεῖσθαι, ὥσπερ κανόνι καὶ μέτρῳ χρώμενον ταῖς δόξαις τῶν ἀνθρώπων οὐ συννοήσαντες διὰ τὴν οὐσαν ἐν αὐτοῖς ἄγνοιαν, ὅτι πᾶσα δήπουθεν ἡ κτίσις ἐνδεής ἐστι τοῦ κάλλους τοῦ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.2",
+      "text": "αὐτὸς γὰρ ἐξ ὅλης τῆς πάσης οὐσίας τε καὶ φύσεως τῷ ἑαυτοῦ τὰ πάντα εἰς τὸ ζῆν ἐφέλκεται λόγῳ. εἴτε γὰρ τὸ ἀγαθὸν θέλει, αὐτὸς ὢν τὸ ἀγαθὸν ἐν ἑαυτῷ μένει· μένει· τὸ καλὸν ὑπάρχειν ἐραστὸν αὐτῷ, αὐτὸς ὢν τὸ μόνον καλὸν εἰς ἑαυτὸν βλέπει, ἐν οὐδενὶ τὰ πρὸς τῶν ἀνθρώπων θαυμαζόμενα τιθέμενος. κάλλιστον γὰρ ταῖς ἀληθείαις καὶ ἐπαινετὸν κλητέον τοῦτο, ὅπερ ἂν αὐτὸς εἶναι ὁ θεὸς ἡγήσηται καλόν, κἂν ὑπὸ Πάντων ἐξουθενῆταί τε καὶ χλευάζηται, ἀλλ’ οὐχ ὅπερ οἱ ἄνθρωποι νομίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.3",
+      "text": "ὅθεν, εἰ καὶ διὰ τούτου τοῦ σχήματος τῶν θυμοφθόρων ἐλευθερῶσαι τὰς ψυχὰς παθῶν ἐβουλήθη καταισχύνων τὰ πλήθη τῶν δαιμόνων, ἀποδέχεσθαι ἐχρῆν, ἀλλὰ μὴ δυσφημεῖν, ἐλευθεοπο αὐτὸ καὶ λυτήριον τῶν ἐκ τῆς παρακοῆς κατασκευασθέντων ἡμῖν δεσμῶν ὁρῶντες δοθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.4",
+      "text": "ἔπαθε γὰρ σαρκὶ τῷ σταυρῷ προσπαγεὶς ὁ λόγος, ἵνα ἁπλώσῃ ἀπονεναρκωμένον πλάνῃ τὸν ἄνθρωπον, πρὸς τὸ ἄνω τε καὶ θεῖον μέγεθος τῷ ξύλῳ ἐξισώσας τῆς ζωῆς αὐτὸν οὑ πρόσθεν ἀπήλαστο, ὅτι τούτῳ τὰ πάθη τῷ σχήματι ἤμβλυνται, πάθος παθῶν 26 s. zu De res. III, 23, 4 S. 420, 26 ff (vgl. auch z. B. Epiph. Ancor. 93) 16–19 19 S. Parall. 454 S. 208 Holl — 19— S. 507, 4 Pitra, Anal. s. IV, 295. 438 1 ἀλληλοφωνουσι Μ Ι τε] δὲ M 2 θικτικῆς M 3 γε] τε M 4 προσηλυμένω Μ 5 βελτίω M, βελτίων 2. Hd. D Ι γιναμένην M (1. Hd. D) 7 Μ Bl. 82 πρός τοὺς ἐπαισχυνομένους ἐπὶ τῷ σταυρῷ τοῦ Χριστοῦ 11 f ἐξ ὅλης καὶ πάσης τῆς οὐσ. Ausgg. 14 ὑπάρχει? Ι αὐτὸ M 16 — 19 κάλλιστον — νομ. S. Parall. in R Bl. 145 v; Lemma τοῦ ἁγίου Μεθοδίου ἐκ τῶν κατὰ Πορφυρίου 16 γὰρ < R 17 εἶναι < M Ι ἡγήσεται θεὸς Μ 18 τε < R 19 νομίζουσιν] es endet R Ι διὰ — ἀθάνατος S. 507, 4 Syr in Brit. Mus. Add. 12156 Bl. 70 rb; Lemma Ex tractatu in illud loannis evangelistae dictum Joh. 9, 4 Ι τοῦ σχήμ. < Syr Ι θυμοφθόρων: hominum furore abreptorum Syr in Martins Übersetzung 20 πλήθη] πάθη Syr 23 γὰρ σαρκὶ < Syr 24 ἀπονεναρκημένον M 24 f ἄνωθεν Jülicher 25 μέγεθος < Syr Ι ξύλω] θείω M Ι τούτῳ . . τῷ σχήματι: tanti supplicii Martin διὰ τοῦ παθεῖν γενόμενος καὶ θάνατος διὰ τοῦ θανεῖν θανάτου , οὐ χειρωθεὶς ὺπὀ θανάτου, οὐδὲ ἀλγυνθεὶς ὑπὸ πάθους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.5",
+      "text": "οὔτε γὰρ πάθος ὅλως αὐτὸν ἐξέστησεν οὔτε θάνατος ἐλυμήνατο, ἀλλ’ ἦν έν τῷ παθητῷ μένων ἀπαθὴς καὶ ἐν τῷ θνητῷ ἀθάνατος, πᾶν ὅσον ἀὴρ καὶ μέσον καὶ ἄνω κατειληφὼς καὶ τὸ θνητὸν θεότητι κεράσας ἀθανάτῳ, ἡττήθη τε τελέως ὁ θάνατος εἰς ἀφθαρσίας ἐκτύπωμα ἀνασταυρωθείσης τῆς σαρκος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.1",
+      "text": "Μετάνοια τότε ἁμαρτήματος παντὸς γίνεται ἀπαλειπτική, ὅταν ἐπὶ τῷ γενομένω ψυχῆς σφάλματι ἀναβολὴν μὴ δέξηται, μηδὲ παραπέμψῃ τὸ πάθος εἰς χρονικὸν διάστημα · οὕτω γὰρ οὐχ ἕξει καταλεῖψαι ἴχνος ἐν ἡμῖν τὸ κακόν, ἅτε ἅμα τῷ ἐπιβῆναι ἀποσπασθὲν δίκην φυτοῦ ἀρτισυστάτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.1",
+      "text": "Μετάνοια τότε ἁμαρτήματος παντὸς γίνεται ἀπαλειπτική, ὅταν ἐπὶ τῷ γενομένω ψυχῆς σφάλματι ἀναβολὴν μὴ δέξηται, μηδὲ παραπέμψῃ τὸ πάθος εἰς χρονικὸν διάστημα · οὕτω γὰρ οὐχ ἕξει καταλεῖψαι ἴχνος ἐν ἡμῖν τὸ κακόν, ἅτε ἅμα τῷ ἐπιβῆναι ἀποσπασθὲν δίκην φυτοῦ ἀρτισυστάτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.1",
+      "text": "Ἡμέτερον μὲν ὄντως ἐστὶ κακὸν ἡ πρὸς τὸν θεὸν ἀνομοιότης τε καὶ ἄγνοια· ἀγαθὸν δὲ ἔμπαλιν πηλίκον ἡ πρὸς αὐτὸν ἐξομοίωσις; φαίνεται γοῦν οἰκεῖον μὲν ἀληθῶς ἀγαθὸν ἡ περὶ τὸ ἄφθαρτόν τε καὶ θεῖον ἐπιστροφὴ καὶ πίστις , κακὸν δὲ ἡ περὶ αὐτὸ ἄγνοια καὶ ῥᾳθυμία, εἴ γε τὰ ἐν ἡμῖν καὶ ἐξ ἡμῶν φυόμενα, ταῦτα ἡμέτερα τυγχάνουσι, κακοποιητικὰ ὄντα πονηρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.1",
+      "text": "Ἡμέτερον μὲν ὄντως ἐστὶ κακὸν ἡ πρὸς τὸν θεὸν ἀνομοιότης τε καὶ ἄγνοια· ἀγαθὸν δὲ ἔμπαλιν πηλίκον ἡ πρὸς αὐτὸν ἐξομοίωσις; φαίνεται γοῦν οἰκεῖον μὲν ἀληθῶς ἀγαθὸν ἡ περὶ τὸ ἄφθαρτόν τε καὶ θεῖον ἐπιστροφὴ καὶ πίστις , κακὸν δὲ ἡ περὶ αὐτὸ ἄγνοια καὶ ῥᾳθυμία, εἴ γε τὰ ἐν ἡμῖν καὶ ἐξ ἡμῶν φυόμενα, ταῦτα ἡμέτερα τυγχάνουσι, κακοποιητικὰ ὄντα πονηρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ubo-ac",
+      "title": {
+        "english": "Methodius",
+        "ancient_greek": "Μεθόδιος"
+      },
+      "url_slug": "anonymous-historical-work-methodius-ubo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/methodius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.json"
+      }
+    },
+    {
+      "eul_wid": "ubo-aa",
+      "title": {
+        "english": "Symposium or Banquet of Ten Virgins",
+        "ancient_greek": "Συμπόσιον ἢ Δεῖπνον Δέκα Παρθένων"
+      },
+      "url_slug": "anonymous-historical-work-symposium-virgins-ubo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/symposium-virgins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/symposium-virgins.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pdc-af",
+      "title": {
+        "english": "From the Italian",
+        "ancient_greek": "ἐκ τῆς Ἰταλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-italian-pdc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/italian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.json"
+      }
+    },
+    {
+      "eul_wid": "fyg-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diyllus-of-athens-historical-fragments-fyg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lfe-aa",
+      "title": {
+        "english": "Historical Fragments on the Getae",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γετῶν"
+      },
+      "url_slug": "crito-of-pieria-historical-fragments-getae-lfe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-pieria/historical-fragments-getae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria/historical-fragments-getae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria/historical-fragments-getae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria/historical-fragments-getae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-pieria/historical-fragments-getae.json"
+      }
+    },
+    {
+      "eul_wid": "kwi-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "vatican-paradoxographer-marvels-kwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/vatican-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.json"
+      }
+    },
+    {
+      "eul_wid": "cdk-aa",
+      "title": {
+        "english": "On Rhodian Sacrifices",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "gorgon-the-historian-rhodian-sacrifices-cdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.json"
+      }
+    },
+    {
+      "eul_wid": "hwq-aa",
+      "title": {
+        "english": "On the Cities in Asia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philostephanus-of-cyrene-cities-asia-hwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/cities-asia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ab",
+      "title": {
+        "english": "On the Idioms of Thucydides to Ammonius",
+        "ancient_greek": "Περὶ τῶν Θουκιδίδου ἰδιωμάτων πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-idioms-ammonius-ndy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/idioms-ammonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ak",
+      "title": {
+        "english": "Roman Histories, Version 3 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-3-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-historical-work/against-porphyry",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

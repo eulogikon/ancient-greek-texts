@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "veu",
+  "auth_slug": "olympiodorus-the-alchemist-of-alexandria",
+  "name": {
+    "english": "Olympiodorus the Alchemist of Alexandria",
+    "ancient_greek": "Ὀλυμπιόδωρος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Olympiodorus the Alchemist of Alexandria on Sacred Art",
+  "seo": {
+    "browser_title": "Olympiodorus the Alchemist on Eulogikon Greek Archive",
+    "meta_title": "The Olympiodorus the Alchemist Ancient Greek Works",
+    "meta_description": "Olympiodorus the Alchemist was a 6th century CE Greek writer on alchemy. Two surviving works on alchemical processes. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Olympiodorus the Alchemist was a Greek writer on alchemy active in Alexandria during the 6th century CE. He is a different figure from the well-known philosopher of the same name who wrote commentaries on Plato and Aristotle. Almost nothing is known about his personal life.</p>\n<p class=\"research-text\">His work places him in the final era of Alexandria as a major center of learning, a time when alchemy was practiced as a blend of craft, natural philosophy, and mystical thought. He is credited with an alchemical treatise addressed to a man named Petasius, and a second work titled On the Sacred Art. These surviving texts are technical manuals that also explain the philosophical principles behind transforming materials.</p>\n<p class=\"research-text\">Olympiodorus the Alchemist is a significant source for understanding late antique alchemy. His writings preserve and explain the ideas of earlier practitioners, showing how alchemy was viewed as a sacred art connected to cosmology. According to modern scholars, his work provides a crucial link in transmitting alchemical knowledge from the Greek tradition to later Byzantine and Arabic cultures, documenting the endurance of this technical and philosophical pursuit in the early Christian era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "veu-ab",
+      "title": {
+        "english": "On Sacred Art",
+        "ancient_greek": "Περὶ Ἱερᾶς Τέχνης"
+      },
+      "url_slug": "olympiodorus-the-alchemist-of-alexandria-sacred-art-veu-ab",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/sacred-art.json"
+      }
+    },
+    {
+      "eul_wid": "veu-aa",
+      "title": {
+        "english": "To the Active Zosimus, What Was Said by Hermes and the Philosophers",
+        "ancient_greek": "Εἰς τὸ κατ’ ἐνέργειαν ζωσίμου ὅσα ἀπὸ Ἑρμοῦ καὶ"
+      },
+      "url_slug": "olympiodorus-the-alchemist-of-alexandria-active-zosimus-hermes-veu-aa",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-alchemist-of-alexandria/active-zosimus-hermes.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/olympiodorus-the-alchemist-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-alchemist-of-alexandria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-alchemist-of-alexandria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-alchemist-of-alexandria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/olympiodorus-the-alchemist-of-alexandria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

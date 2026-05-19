@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "goa",
+  "auth_slug": "democles-the-historian",
+  "name": {
+    "english": "Democles the Historian",
+    "ancient_greek": "Δημοκλῆς ὁ ἱστορικός"
+  },
+  "seo_h1": "Democles the Historian on Natural Phenomena in Attica",
+  "seo": {
+    "browser_title": "The Democles the Historian on Eulogikon Greek Archive",
+    "meta_title": "Democles the Historian Ancient Greek Works Archive",
+    "meta_description": "Democles the Historian, a 4th century BCE Attic historian. Surviving works include historical fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Democles was a historian of Attica active in the 4th century BCE. He is known only from a reference in the Bibliotheca of the Byzantine scholar Photius, which identifies him as an Atthidographer, a writer of local Athenian history. No biographical details survive.</p>\n<p class=\"research-text\">His sole known work is titled <strong>Attica</strong>, a history of Athenian antiquities. The text is lost and survives only as a testimonium in Photius; no direct fragments are extant.</p>\n<p class=\"research-text\">Democles’ significance rests entirely on his inclusion among the Atthidographers, whose works preserved details of Athenian institutions and local history. Due to the complete loss of his writing, his individual contribution cannot be evaluated beyond this generic classification.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "goa-aa",
+      "title": {
+        "english": "Fragments on Natural Phenomena",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυσικῶν Φαινομένων"
+      },
+      "url_slug": "democles-the-historian-natural-phenomena-goa-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/democles-the-historian/natural-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/democles-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democles-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democles-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democles-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democles-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

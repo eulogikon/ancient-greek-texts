@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rus",
+  "auth_slug": "ulpian-the-grammarian",
+  "name": {
+    "english": "Ulpian the Grammarian",
+    "ancient_greek": "Οὐλπιανὸς ὁ Γραμματικός"
+  },
+  "seo_h1": "Ulpian the Grammarian on Demosthenes' Orations",
+  "seo": {
+    "browser_title": "Ulpian the Grammarian Works on Eulogikon Greek Archive",
+    "meta_title": "Ulpian the Grammarian Ancient Greek Works Collection",
+    "meta_description": "Ulpian the Grammarian was a Roman era scholar of the 2nd to 3rd century CE. Works include grammatical texts. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ulpian the Grammarian was a Greek sophist and grammarian of the Roman Imperial period, active in the 2nd and 3rd centuries CE. He is distinct from the jurist of the same name. Sources identify him as a native of either Ascalon or Emesa and place him during the reign of Emperor Severus Alexander. His epithet and work situate him within the Second Sophistic movement, which focused on Greek rhetoric and literary education.</p>\n<p class=\"research-text\">His sole surviving work is <strong>On the Words of Demosthenes</strong>, a lexicon explaining difficult vocabulary in the speeches of the orator Demosthenes. Ulpian’s significance lies in his contribution to Imperial-era philology. His lexicon exemplifies the scholarly activity of grammarians who produced reference works to aid students in mastering the classical Attic Greek central to elite education. The work offers insight into how Demosthenes was studied during the Roman period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rus-aa",
+      "title": {
+        "english": "Introduction to Demosthenes' Olynthiac and Philippic Orations",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὰς Δημοσθένους Ὀλυνθιακὰς καὶ"
+      },
+      "url_slug": "ulpian-the-grammarian-demosthenes-orations-rus-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/ulpian-the-grammarian/demosthenes-orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ulpian-the-grammarian/demosthenes-orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ulpian-the-grammarian/demosthenes-orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ulpian-the-grammarian/demosthenes-orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ulpian-the-grammarian/demosthenes-orations.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ulpian-the-grammarian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ulpian-the-grammarian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ulpian-the-grammarian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ulpian-the-grammarian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ulpian-the-grammarian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

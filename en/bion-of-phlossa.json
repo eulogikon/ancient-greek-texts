@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mvw",
+  "auth_slug": "bion-of-phlossa",
+  "name": {
+    "english": "Bion of Phlossa near Smyrna",
+    "ancient_greek": "Βίων ὁ Φλοσσαῖος"
+  },
+  "seo_h1": "Bion of Phlossa and the Geography of Ethiopia",
+  "seo": {
+    "browser_title": "Bion of Phlossa Bucolic Poet on Eulogikon Greek Archive",
+    "meta_title": "Bion of Phlossa Ancient Greek Bucolic Poetry Works",
+    "meta_description": "Bion of Phlossa, Hellenistic bucolic poet in Doric dialect. Fragments of his pastoral poetry survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Bion of Phlossa near Smyrna was a Hellenistic Greek bucolic poet of the early 3rd century BCE, traditionally considered a follower of Theocritus. A native of Phlossa near Smyrna, he was later associated with a Locrian city and spent time in Sicily. The Suda lexicon places his floruit during the reign of Ptolemy II Philadelphus (285–246 BCE) and records a tradition that he was poisoned by enemies.</p>\n<p class=\"research-text\">His most famous and only substantially preserved work is the pastoral dirge Lament for Adonis. While approximately 100 fragments and 17 complete poems have been attributed to him, his authorship of most is disputed, with only the Lament being securely attributed.</p>\n<p class=\"research-text\">Bion is a significant figure in the development of the Hellenistic bucolic tradition. His Lament for Adonis, with its themes of mourning and vivid natural imagery, was influential on later pastoral poetry, including the works of Virgil. The tradition of his tragic death further solidified his posthumous reputation as a poet of sorrow.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mvw-aa",
+      "title": {
+        "english": "Geographical Fragments on Ethiopia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰθιοπίας"
+      },
+      "url_slug": "bion-of-phlossa-geographical-ethiopia-mvw-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-phlossa/geographical-ethiopia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/bion-of-phlossa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-phlossa.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-phlossa.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-phlossa.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-phlossa.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gzo-ab",
+  "eul_aid": "gzo",
+  "author_slug": "autocrates-the-comic-poet",
+  "work_slug": "lydian-maidens-ab",
+  "url_slug": "autocrates-the-comic-poet-lydian-maidens-ab-gzo-ab",
+  "author": {
+    "english": "Autocrates the Comic Poet",
+    "ancient_greek": "Αὐτοκράτης ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Lydian Maidens",
+    "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Autocrates the Comic Poet on Eulogikon",
+    "meta_title": "Fragments of Autocrates the Comic Poet in Ancient Greek",
+    "meta_description": "Surviving fragments of Autocrates on Lydian maidens. Ancient Greek comedy from the Classical period. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Lydian Maidens</strong> is a modern descriptive title for seven brief excerpts preserved from comedies by Autocrates, an Athenian comic poet of the 5th century BCE. These fragments, quoted by later grammarians, are not from a single continuous play but reference Lydian maidens as characters or a chorus. They consist of short lines or phrases mentioning Lydian customs, clothing, or instruments like the magadis, a type of harp or lute, and their primary value is lexicographical. The fragments reflect Athenian comic engagement with Eastern stereotypes, depicting Lydians as embodiments of luxury and exoticism. They reference the magadis and the so-called Lydian harmony, and focus on maidens in a potential choral or ritual context. No complete play by Autocrates survives. The seven fragments are transmitted indirectly through the works of later scholars, primarily the <strong>Lexicon</strong> of Hesychius of Alexandria from the 5th or 6th century CE and the <strong>Deipnosophistae</strong> of Athenaeus from approximately the 3rd century CE. Autocrates is a minor figure, but these fragments help reconstruct the broader landscape of Attic Old Comedy beyond major authors like Aristophanes. They provide evidence for Athenian perceptions of foreign cultures and the technical vocabulary of ancient music.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Οἷα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παίζουσιν φίλαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρθένοι Λυδῶν κόραι, κοῦφα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πηδῶσαι κόμαν, κἀνακρούουσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χεροῖν,[ln_5]Ἐφεσίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παρ’ Ἄρτεμιν κάλλιστ’ ἄν, καὶ τοῖν ἰσχίοιν τὸ μὲν κάτω τὸ δ’ αὖ εἰς ἄνω ἐξαίρουσα, οἷα κίγκλος ἅλλεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἀμνοὶ δὲ βληχάζουσιν ὑπ’ ἀγαλακτίας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gzo-aa",
+      "title": {
+        "english": "Fragments on Lydian Maidens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδῶν Κορῶν"
+      },
+      "url_slug": "autocrates-the-comic-poet-lydian-maidens-aa-gzo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-aa.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efg-ab",
+      "title": {
+        "english": "Comic Fragments of Domestic Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ Κωμικά"
+      },
+      "url_slug": "theopompus-the-comic-poet-domestic-life-efg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/domestic-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/domestic-life.json"
+      }
+    },
+    {
+      "eul_wid": "eem-ab",
+      "title": {
+        "english": "Fragments on Banquets and Merriment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας"
+      },
+      "url_slug": "apollophanes-of-athens-banquets-merriment-eem-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-of-athens/banquets-merriment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/banquets-merriment.json"
+      }
+    },
+    {
+      "eul_wid": "cgm-ab",
+      "title": {
+        "english": "Fragments on Love and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐωχίας"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "gcw-ab",
+      "title": {
+        "english": "Fragments on Rhetoric and Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων"
+      },
+      "url_slug": "philiscus-of-athens-rhetoric-cities-gcw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.json"
+      }
+    },
+    {
+      "eul_wid": "gli-ab",
+      "title": {
+        "english": "On Parasites and Tantalus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-tantalus-gli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-tantalus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.json"
+      }
+    },
+    {
+      "eul_wid": "ery-aa",
+      "title": {
+        "english": "Seven Gastronomic Sages",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euphro-of-sicyon-seven-gastronomic-sages-ery-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphro-of-sicyon/seven-gastronomic-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.json"
+      }
+    },
+    {
+      "eul_wid": "evu-ac",
+      "title": {
+        "english": "Uninvited Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-uninvited-guest-evu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/uninvited-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aa",
+      "title": {
+        "english": "Women at the Thesmophoria",
+        "ancient_greek": "Θεσμοφοριάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-thesmophoria-daw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/autocrates-the-comic-poet/lydian-maidens-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-comic-poet/lydian-maidens-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

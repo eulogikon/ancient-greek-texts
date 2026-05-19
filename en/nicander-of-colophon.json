@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lcw",
+  "auth_slug": "nicander-of-colophon",
+  "name": {
+    "english": "Nicander of Colophon",
+    "ancient_greek": "Νίκανδρος ὁ Κολοφώνιος"
+  },
+  "seo_h1": "Nicander of Colophon on Poisons, Nature, and the Trojan Cycle",
+  "seo": {
+    "browser_title": "Nicander of Colophon on Eulogikon Greek Text Archive",
+    "meta_title": "Nicander of Colophon Ancient Greek Poetry and Works",
+    "meta_description": "Nicander of Colophon, Hellenistic poet of the 2nd century BCE. Didactic poems on toxicology and remedies. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nicander of Colophon was a Hellenistic didactic poet of the 2nd century BCE. A citizen of Claros near Colophon, he served as a priest of Apollo at the oracle there, a role attested by Delphic inscriptions. He was active at the court of Attalus III of Pergamum, to whom he likely dedicated a work.</p>\n<p class=\"research-text\">His surviving hexameter poems are the <strong>Theriaca</strong>, on venomous animals and their bites, and the <strong>Alexipharmaca</strong>, on poisons and antidotes. Major lost works include the <strong>Heteroeumena</strong>, a poem on metamorphoses used by Ovid; the <strong>Georgica</strong>, on farming, which influenced Virgil; and the <strong>Melissourgica</strong>, on beekeeping.</p>\n<p class=\"research-text\">Nicander is a key figure in Hellenistic didactic poetry. While his surviving works are more valuable for toxicological folklore than scientific accuracy, his literary influence was profound. His lost <strong>Heteroeumena</strong> and <strong>Georgica</strong> were direct models for Ovid’s <strong>Metamorphoses</strong> and Virgil’s <strong>Georgics</strong>, respectively.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "lcw-ab",
+      "title": {
+        "english": "Alexipharmaca",
+        "ancient_greek": "Αλεξιφάρμακα"
+      },
+      "url_slug": "nicander-of-colophon-alexipharmaca-lcw-ab",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/alexipharmaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/alexipharmaca.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/alexipharmaca.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/alexipharmaca.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/alexipharmaca.json"
+      }
+    },
+    {
+      "eul_wid": "lcw-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "nicander-of-colophon-epigrams-lcw-ae",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "lcw-ac",
+      "title": {
+        "english": "Fragments on Sea and Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Φύσεως"
+      },
+      "url_slug": "nicander-of-colophon-sea-nature-lcw-ac",
+      "passages": 207,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/sea-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/sea-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/sea-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/sea-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/sea-nature.json"
+      }
+    },
+    {
+      "eul_wid": "lcw-ad",
+      "title": {
+        "english": "Fragments on the Trojan Cycle",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Κύκλου"
+      },
+      "url_slug": "nicander-of-colophon-trojan-cycle-lcw-ad",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/trojan-cycle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.json"
+      }
+    },
+    {
+      "eul_wid": "lcw-aa",
+      "title": {
+        "english": "On Wild Animals",
+        "ancient_greek": "Θηριακά"
+      },
+      "url_slug": "nicander-of-colophon-wild-animals-lcw-aa",
+      "passages": 68,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/wild-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/wild-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/wild-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/wild-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/wild-animals.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nicander-of-colophon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicander-of-colophon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicander-of-colophon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicander-of-colophon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicander-of-colophon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

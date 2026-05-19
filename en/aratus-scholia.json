@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ngq",
+  "auth_slug": "aratus-scholia",
+  "name": {
+    "english": "Aratus Scholia",
+    "ancient_greek": "Ἄρατου Σχόλια"
+  },
+  "seo_h1": "Aratus Scholia and the Ancient Commentaries on the Phaenomena",
+  "seo": {
+    "browser_title": "Aratus Scholia Commentaries on Eulogikon Greek Archive",
+    "meta_title": "Classical Aratus Scholia Ancient Greek Commentary Works",
+    "meta_description": "Aratus Scholia are ancient commentaries on the Phaenomena. Six works of grammatical analysis. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Aratus Scholia are a collection of ancient commentaries on the didactic poem <strong>Phaenomena</strong> by Aratus of Soli. They represent the accumulated work of multiple, mostly anonymous, grammarians and astronomers from the Hellenistic period through late antiquity, spanning from the 2nd century BCE to the 6th century CE. Notable early contributors include the astronomer Hipparchus of Nicaea and the grammarian Theon of Alexandria.</p>\n<p class=\"research-text\">These are not standalone works but scholiastic collections, consisting of annotations and explanations transmitted within the manuscript tradition of Aratus&#x27;s poem. They encompass critical, grammatical, and astronomical notes on the <strong>Phaenomena</strong>, with significant early layers of commentary attributed to Hipparchus and Theon.</p>\n<p class=\"research-text\">The scholia are historically vital for understanding the reception of Aratus&#x27;s poem, which was a standard school text. They served as essential tools for teaching grammar, poetry, and astronomy, preserving a wealth of information on Hellenistic astronomy, star myths, and ancient scholarly methods. Their transmission ensured the survival of this knowledge into the medieval period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "ngq-ac",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ac-ngq-ac",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ad",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ad-ngq-ad",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ab",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ab-ngq-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-aa",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-aa-ngq-aa",
+      "passages": 1001,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-af",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-af-ngq-af",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ae",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ae-ngq-ae",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aratus-scholia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-scholia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-scholia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-scholia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aratus-scholia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

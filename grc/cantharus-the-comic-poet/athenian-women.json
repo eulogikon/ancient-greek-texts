@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dxo-aa",
+  "eul_aid": "dxo",
+  "author_slug": "cantharus-the-comic-poet",
+  "work_slug": "athenian-women",
+  "url_slug": "cantharus-the-comic-poet-athenian-women-dxo-aa",
+  "author": {
+    "english": "Cantharus the Comic Poet",
+    "ancient_greek": "Κάνθαρος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Athenian Women",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Γυναικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Cantharus on Athenian Women on Eulogikon",
+    "meta_title": "Ancient Fragments on Athenian Women by Cantharus in Greek",
+    "meta_description": "Fragments from Cantharus on Athenian women. Ancient Greek comedy from the Classical period. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Fragments on Athenian Women_ is a modern descriptive title for eleven fragmentary passages attributed to the Athenian Old Comic poet Cantharus. These verses survive not as a continuous play but as quotations preserved in the works of later lexicographers and grammarians, such as Athenaeus and Pollux, who cited them for their unusual vocabulary or references to social customs. The fragments indicate the original comedy featured female characters and themes related to women’s lives in classical Athens. The extant lines suggest the play engaged with typical subjects of Old Comedy, including satire of domestic life and gender roles, social commentary on Athenian customs, and details of material culture such as food and household objects; there are also indications of possible parody of mythological figures. The complete work is lost, with the fragments transmitted indirectly through the scholarly tradition and compiled in modern editions such as Kassel-Austin’s <strong>Poetae Comici Graeci</strong>. While the play’s direct influence is untraceable, Cantharus was a significant figure in Old Comedy, having defeated Aristophanes at the City Dionysia in 422 BCE. These fragments provide valuable evidence for the language, material culture, and thematic scope of Athenian comedy beyond the fully preserved plays of the major authors.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "κιθαρῳδὸν ἐξηγείρατ’ Ἀράβιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χορόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "βαρύσταθμον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "βαυβήσομεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ἐλᾶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "γυναῖκ’ Ἀθηναίαν καλήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τε κἀγαθήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Κυδωνίοις μήλοισιν εἰς τὰ τιτθία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "ἀναπεῖσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "[spk_β]οὐκοῦν ἀκρατισώμεθ’ αὐτοῦ. Β. μηδαμῶς· Ἰσθμοῖ γὰρ ἀριστήσομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "λέκιθος",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dxo-ab",
+      "title": {
+        "english": "Athenian Woman and the Chorus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cantharus-the-comic-poet-athenian-woman-and-the-chorus-dxo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-woman-and-the-chorus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kpk-ab",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ab-kpk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ai",
+      "title": {
+        "english": "Doubts",
+        "ancient_greek": "Ἀμφιβολίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-doubts-kfu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/doubts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.json"
+      }
+    },
+    {
+      "eul_wid": "lli-aa",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-aa-lli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "gcm-ab",
+      "title": {
+        "english": "Fragments on Health and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὑγιείας καὶ Ἡδονῆς"
+      },
+      "url_slug": "philetaerus-the-comic-poet-health-pleasure-gcm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetaerus-the-comic-poet/health-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetaerus-the-comic-poet/health-pleasure.json"
+      }
+    },
+    {
+      "eul_wid": "cxa-aa",
+      "title": {
+        "english": "Fragments on Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου"
+      },
+      "url_slug": "magnes-the-comic-poet-life-fragments-cxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/magnes-the-comic-poet/life-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magnes-the-comic-poet/life-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jjw-aa",
+      "title": {
+        "english": "Fragments on Philosophy and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μωρίας"
+      },
+      "url_slug": "theognetus-the-comic-poet-philosophy-folly-jjw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognetus-the-comic-poet/philosophy-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.json"
+      }
+    },
+    {
+      "eul_wid": "evu-aa",
+      "title": {
+        "english": "Pretentious Dinner Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-pretentious-dinner-guest-evu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/pretentious-dinner-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.json"
+      }
+    },
+    {
+      "eul_wid": "djs-ac",
+      "title": {
+        "english": "Satirical Cityscape Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermippus-the-comic-poet-satirical-cityscape-djs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/satirical-cityscape",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/satirical-cityscape.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-women",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

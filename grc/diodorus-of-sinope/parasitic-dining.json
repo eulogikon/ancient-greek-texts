@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jdi-ab",
+  "eul_aid": "jdi",
+  "author_slug": "diodorus-of-sinope",
+  "work_slug": "parasitic-dining",
+  "url_slug": "diodorus-of-sinope-parasitic-dining-jdi-ab",
+  "author": {
+    "english": "Diodorus of Sinope",
+    "ancient_greek": "Διόδωρος ὁ Σινωπεύς"
+  },
+  "title": {
+    "english": "On Parasitic Dining",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Parasitic Dining by Diodorus of Sinope on Eulogikon",
+    "meta_title": "On Parasitic Dining by Diodorus of Sinope in Greek",
+    "meta_description": "Fragments of the comedy On Parasitic Dining by Diodorus of Sinope. Ancient Greek verse comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;On Parasitic Dining&quot; is a lost comedic work attributed to the poet Diodorus of Sinope, a figure associated with the period of Middle Comedy in ancient Greece. Known only by its title and a brief entry in the tenth-century Byzantine encyclopedia known as the Suda, the work is also referenced under the alternate title &quot;Apospasmata,&quot; meaning &quot;Extracts.&quot; This designation, along with a notation that it consisted of forty-eight verse passages, strongly suggests the text was not a complete play but rather a collection of excerpts compiled from a longer comedy. No direct quotations from the work survive in the extant literary record.</p>\n<p class=\"research-text\">As a product of Middle Comedy, which flourished roughly between 400 and 323 BCE, the subject matter would have centered on the stock character of the parasite, a familiar comic type who secured meals and patronage through flattery and wit. The treatise-like title implies a humorous, perhaps even mock-scholarly, examination of this social role. Thematically, the work would have explored the parasite&#x27;s strategies for survival, the dynamics of dependency and patronage in Athenian society, and the comedic potential of hunger and gluttony, while often offering a satirical critique of social hypocrisy and pretense. Diodorus of Sinope himself remains a shadowy figure; the Suda credits him with thirty comedies, though &quot;On Parasitic Dining&quot; is among only a few specific titles that have been preserved. While the work&#x27;s direct influence cannot be traced, its thematic focus exemplifies the formalization of the parasite character during Middle Comedy, a type that would later be inherited and refined by Roman playwrights such as Plautus and Terence.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐπὰν κυάθους πίνῃ τις, ὦ Κρίτων, δέκα, ἀεὶ παρ’ ἕκαστον ἐνδελεχῶς τὸ ποτήριον, πίνει τὸ λοιπόν, τοὺς λογισμοὺς δ’ ἐξεμεῖ. ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σκόπει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "σαυτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Βούλομαι δεῖξαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σαφῶς ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σεμνόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῦτο καὶ νενομισμένον καὶ τῶν θεῶν εὕρημα, τὰς δ’ ἄλλας τέχνας οὐδεὶς θεῶν κατέδειξεν, ἀλλ’ ἄνδρες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "σοφοί.[ln_5]τὸ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παρασιτεῖν εὗρεν ὁ Ζεὺς ὁ φίλιος, ὁ τῶν θεῶν μέγιστος ὁμολογουμένως. οὗτος γὰρ εἰς τὰς οἰκίας εἰσέρχεται οὐχὶ διακρίνας τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πενιχρὰν ἢ πλουσίαν, οὗ δ’ ἂν καλῶς ἐστρωμένην κλίνην ἴδῃ[ln_10]παρακειμένην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τε τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τράπεζαν πάνθ’ ἃ δεῖ ἔχουσαν, ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "συγκατακλιθεὶς κοσμίως ἀριστίσας ἑαυτόν, ἐντραγών, πιών, ἀπέρχετ’ οἴκαδ’ οὐ καταβαλὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "συμβολάς. κἀγὼ ποιῶ νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "τοῦτ’· ἐπὰν κλίνας ἴδω[ln_15]ἐστρωμένας καὶ τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "τραπέζας εὐτρεπεῖς καὶ τὴν θύραν ἀνεῳγμένην, εἰσέρχομαι ἐνθάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.14",
+      "text": "σιωπῇ καὶ ποιήσας εὐσταλῆ ἐμαυτόν, ὥστε μὴ ’νοχλεῖν τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.15",
+      "text": "συμπότην. πάντων ἀπολαύσας τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.16",
+      "text": "παρατεθέντων, πιών,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_20]ἀπέρχομ’ οἴκαδ’ ὥσπερ ὁ Ζεὺς ὁ φίλιος. ὅτι δ’ ἦν τὸ πρᾶγμ’ ἔνδοξον ἀεὶ καὶ καλόν, ἐκεῖθεν ἂν γνοίη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τις ἔτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σαφέστερον. τὸν Ἡρακλέα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τιμῶσα λαμπρῶς ἡ πόλις ἐν ἅπασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοῖς δήμοις θυσίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "ποιουμένη,[ln_25]εἰς τὰς θυσίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "ταύτας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "παρασίτους τῷ θεῷ οὐ πώποτ’ ἀπεκλήρωσεν, οὐδὲ παρέλαβεν εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "τυχόντας, ἀλλὰ κατέλεγεν ἐκ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "πολιτῶν δώδεκ’ ἄνδρας ἐπιμελῶς ἐκλεξαμένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "τοὺς ἐκ δυναστῶν γεγονότας,[ln_30]ἔχοντας οὐσίας, καλῶς βεβιωκότας. εἶθ’ ὕστερον τὸν Ἡρακλέα μιμούμενοι τῶν εὐπόρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.14",
+      "text": "τινὲς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.15",
+      "text": "παρασίτους ἑλόμενοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.16",
+      "text": "τρέφειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.17",
+      "text": "παρεκάλουν, οὐχὶ τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.18",
+      "text": "χαριεστάτους ἐκλεγόμενοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.19",
+      "text": "τοὺς δὲ κολακεύειν δυναμένους[ln_35]καὶ πάντ’ ἐπαινεῖν, οἷς ἐπειδὴ προσερύγοι, ῥαφανῖδας ἢ σαπρὸν σίλουρον καταφαγών, ἴα καὶ ῥόδ’ ἔφασαν αὐτὸν ἠριστηκέναι. ἐπεὶ δ’ ἀποπάρδοι μετά τινος κατακείμενος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.20",
+      "text": "τούτων, προσάγων τὴν ῥῖν’ ἐδεῖτ’ αὐτοῦ φράσαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_40]πόθεν τὸ θυμίαμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦτο λαμβάνεις; διὰ τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοιούτους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοὺς ἀσελγῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χρωμένους τὸ τίμιον καὶ τὸ καλὸν αἰσχρόν ἐστι νῦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐγὼ μὲν οὖν τὸν νόμον ἐμαυτῷ τουτονὶ τίθεμαι δοκιμάζων, ὥσπερ εἴρηται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ποιεῖν· κρεῖττον γάρ ἐστιν εὖ τεθραμμένην λαβεῖν γυναῖκ’ ἄπροικον ἢ κακῶς μετὰ χρημάτων,[ln_5]τὴν ἐσομένην καὶ ταῦτα μέτοχον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῦ βίου.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jdi-aa",
+      "title": {
+        "english": "On Parasites and Drinking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasites-drinking-jdi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasites-drinking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasites-drinking.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bhm-ad",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ad-bhm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-ac",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ac-hcq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "ery-ab",
+      "title": {
+        "english": "Fragments on Cooks and Deceit",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἀπάτης"
+      },
+      "url_slug": "euphro-of-sicyon-cooks-deceit-ery-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphro-of-sicyon/cooks-deceit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ad",
+      "title": {
+        "english": "Fragments on the Judgment of Paris",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Πάριδος Κρίσεως"
+      },
+      "url_slug": "cratinus-the-comic-poet-judgment-paris-czs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/judgment-paris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.json"
+      }
+    },
+    {
+      "eul_wid": "jzq-ab",
+      "title": {
+        "english": "King's Gift at Thuria",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-at-thuria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.json"
+      }
+    },
+    {
+      "eul_wid": "daw-af",
+      "title": {
+        "english": "Marketplace and Domestic Scenes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-marketplace-domestic-daw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/marketplace-domestic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/marketplace-domestic.json"
+      }
+    },
+    {
+      "eul_wid": "hrg-aa",
+      "title": {
+        "english": "Miser's Dinner Party",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archedicus-the-comic-poet-misers-dinner-party-aa-hrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hps-au",
+      "title": {
+        "english": "Uncertain Fable",
+        "ancient_greek": "Ἄδηλος Μῦθος"
+      },
+      "url_slug": "menander-of-athens-uncertain-fable-hps-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/uncertain-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

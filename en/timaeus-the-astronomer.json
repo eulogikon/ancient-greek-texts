@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lky",
+  "auth_slug": "timaeus-the-astronomer",
+  "name": {
+    "english": "Timaeus the Astronomer",
+    "ancient_greek": "Τίμαιος ὁ Πραξίδας ὁ ἀστρολόγος"
+  },
+  "seo_h1": "Timaeus the Astronomer on Fugitives and Thieves",
+  "seo": {
+    "browser_title": "Timaeus the Astronomer on eulogikon.org Greek Archive",
+    "meta_title": "Timaeus the Astronomer Ancient Greek Works On Eulogikon",
+    "meta_description": "Timaeus the Astronomer was a Hellenistic scientific writer of the 3rd-2nd centuries BCE.Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timaeus the Astronomer was a Hellenistic astronomer and mathematician active in the 3rd–2nd centuries BCE. He is known only through later doxographical references, which preserve his patronymic, Praxidas, but no specific biographical details. His work places him within the tradition of mathematical astronomy that developed after Eudoxus and before Ptolemy.</p>\n<p class=\"research-text\">His only attested work is <strong>On the Planets</strong>, which is not extant. It is known through later summaries, particularly in Simplicius’s 6th-century CE commentary on Aristotle’s <strong>De Caelo</strong>. The treatise dealt with the motions and orbital periods of the planets.</p>\n<p class=\"research-text\">Timaeus is a significant figure for his contribution to pre-Ptolemaic planetary theory. His system modified Eudoxus’s approach using concentric spheres. His ideas were later engaged with and critiqued by major astronomers like Hipparchus and Ptolemy, indicating his work was part of the serious technical discourse of ancient astronomy.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lky-aa",
+      "title": {
+        "english": "Fragments on Fugitives and Thieves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δραπέτων καὶ Κλεπτῶν"
+      },
+      "url_slug": "timaeus-the-astronomer-fugitives-thieves-lky-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-the-astronomer/fugitives-thieves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-astronomer/fugitives-thieves.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-astronomer/fugitives-thieves.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-astronomer/fugitives-thieves.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-astronomer/fugitives-thieves.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timaeus-the-astronomer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timaeus-the-astronomer.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timaeus-the-astronomer.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timaeus-the-astronomer.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timaeus-the-astronomer.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

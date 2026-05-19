@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gya",
+  "auth_slug": "lyric-poets-anonymous",
+  "name": {
+    "english": "Lyric Poets Anonymous",
+    "ancient_greek": "Ἀδήσποτα Λυρικά"
+  },
+  "seo_h1": "Lyric Fragments from Anonymous Greek Poets",
+  "seo": {
+    "browser_title": "Lyric Poets Anonymous Works on Eulogikon Greek Archive",
+    "meta_title": "Classical Lyric Poets Anonymous Ancient Greek Lyric Works",
+    "meta_description": "Anonymous classical Greek lyric poets from the 8th to 4th centuries BCE. Their surviving works of mixed dialect. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lyric Poets Anonymous is a collective designation for the unnamed authors of early Greek lyric poetry, composed from the 8th to the 4th century BCE. These poets originated from regions across the Greek world, including Ionia, Aeolia, and the Dorian Peloponnese. They operated as skilled artisans within civic and ritual frameworks, creating verse intended for musical performance at symposia, religious festivals, and public ceremonies.</p>\n<p class=\"research-text\">The surviving corpus consists of fragmentary pieces preserved through later quotations, papyrus scraps, and inscriptions. These fragments represent various sub-genres such as skolia, or drinking songs, partheneia, or maiden songs, hymns, and threnoi, or laments. Scholars designate this body of work as the Lyrica Adespota, which includes examples like the &quot;Linos-song&quot; fragment.</p>\n<p class=\"research-text\">These anonymous fragments are crucial for understanding the breadth and social function of early Greek poetry beyond major named figures. They provide direct evidence for popular, ritual, and symposiastic culture, revealing widespread themes of love, death, celebration, and myth. The mixed dialects within the corpus reflect the panhellenic diffusion of poetic forms and their local origins.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gya-aa",
+      "title": {
+        "english": "Lyric Fragments",
+        "ancient_greek": "Λυρικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "lyric-poets-anonymous-fragments-gya-aa",
+      "passages": 217,
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poets-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lyric-poets-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyric-poets-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyric-poets-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyric-poets-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyric-poets-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

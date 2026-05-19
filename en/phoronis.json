@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "axw",
+  "auth_slug": "phoronis",
+  "name": {
+    "english": "Phoronis",
+    "ancient_greek": "Φορωνίς"
+  },
+  "seo_h1": "The Argive Myth in the Fragments of Phoronis",
+  "seo": {
+    "browser_title": "Phoronis Epic Poet on Eulogikon Greek Archive of Texts",
+    "meta_title": "The Phoronis Ancient Greek Epic Poem and Fragments",
+    "meta_description": "Phoronis, the conventional name for the poet of a lost archaic Greek epic. Surviving fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author known as &quot;Phoronis&quot; is the conventional name given to the otherwise unknown poet of a lost archaic Greek epic. The poem itself, titled the Phoronis, was composed in the 7th or 6th century BCE in the epic dialect used by Homer. No details about the poet&#x27;s life survive.</p>\n<p class=\"research-text\">The work was an Argive epic, focusing on the myths and early history of the city-state of Argos. Its narrative centered on the deeds of the primordial king Phoroneus, a culture-hero considered a foundational figure for the Argive people. The poem does not survive intact; modern knowledge of it comes only from fragments and references in other ancient writings.</p>\n<p class=\"research-text\">According to modern scholars, the Phoronis is a significant example of the diverse regional epic traditions that existed alongside the more famous Homeric poems. It represents a local tradition of heroic poetry that celebrated a specific city&#x27;s origins and genealogy. Its fragments are important for understanding the broader landscape of early Greek epic and the development of Argive mythology, much of which was later overshadowed by the Panhellenic fame of Homer and Hesiod.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "axw-aa",
+      "title": {
+        "english": "Phoronis, Fragments",
+        "ancient_greek": "Φορωνίς"
+      },
+      "url_slug": "phoronis-fragments-axw-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/phoronis/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phoronis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoronis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoronis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoronis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoronis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ojm",
+  "auth_slug": "periplus-of-the-euxine-sea-anonymous",
+  "name": {
+    "english": "Voyage Round the Euxine Sea",
+    "ancient_greek": "Ὁ Περίπλους τοῦ Εὐξείνου Πόντου (ἀνώνυμος)"
+  },
+  "seo_h1": "Voyage Around the Black Sea, Author Anonymous",
+  "seo": {
+    "browser_title": "Anonymous Euxine Sea Author on Eulogikon Greek Archive",
+    "meta_title": "Anonymous Euxine Sea Author Ancient Greek Geography",
+    "meta_description": "Anonymous author of a 1st century BCE periplus of the Black Sea. A detailed coastal navigation guide. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Periplus of the Euxine Sea is anonymous, and no personal details about their life are known. The work was composed in the 1st century BCE, during the early Roman period, a dating derived from its descriptions of rulers and political conditions around the Black Sea. The writer was likely a Greek-speaking sailor or merchant with direct nautical experience, compiling practical information for maritime use.</p>\n<p class=\"research-text\">This single surviving work is a periplus, a coastal sailing guide written in straightforward Koine Greek prose. It systematically describes the shores of the Black Sea, listing ports, landmarks, sailing distances, and notes on local peoples.</p>\n<p class=\"research-text\">The text’s significance lies in its value as a historical document. It provides a snapshot of the Black Sea region’s political geography, settlements, and economic activities at a specific time. As a practical manual, it represents the applied, everyday geographical knowledge used by mariners, offering a useful contrast to the more theoretical geographical works of the ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ojm-aa",
+      "title": {
+        "english": "Voyage Around the Black Sea",
+        "ancient_greek": "Ἀνωνύμου Περίπλους τοῦ Εὐξείνου Πόντου"
+      },
+      "url_slug": "periplus-of-the-euxine-sea-anonymous-black-sea-ojm-aa",
+      "passages": 71,
+      "links": {
+        "html": "https://eulogikon.org/grc/periplus-of-the-euxine-sea-anonymous/black-sea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-euxine-sea-anonymous/black-sea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-euxine-sea-anonymous/black-sea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-euxine-sea-anonymous/black-sea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periplus-of-the-euxine-sea-anonymous/black-sea.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/periplus-of-the-euxine-sea-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-euxine-sea-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-euxine-sea-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-euxine-sea-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/periplus-of-the-euxine-sea-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

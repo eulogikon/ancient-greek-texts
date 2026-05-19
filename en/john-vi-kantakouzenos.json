@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rxk",
+  "auth_slug": "john-vi-kantakouzenos",
+  "name": {
+    "english": "John VI Kantakouzenos",
+    "ancient_greek": "Ἰωάννης ὁ Καντακουζηνός"
+  },
+  "seo_h1": "John VI Kantakouzenos as Emperor, General, and Historian",
+  "seo": {
+    "browser_title": "John VI Kantakouzenos on Eulogikon Greek Texts Archive",
+    "meta_title": "John VI Kantakouzenos Ancient Byzantine Greek Works",
+    "meta_description": "John VI Kantakouzenos, Byzantine emperor and historian. Surviving historical works in Greek prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">John VI Kantakouzenos was a Byzantine emperor, statesman, and general who lived from approximately 1292 to 1383 CE. He served as a close advisor to Emperor Andronikos III Palaiologos and later became regent. A civil war resulted in his coronation as co-emperor in 1346, and he ruled as the senior emperor John VI until 1354. His reign was marked by financial crisis, the Black Death, and the growing influence of the Ottoman Turks. Following his abdication, he retired to a monastery, taking the monastic name Joasaph Christodoulos. There he composed his historical memoirs and various theological works.</p>\n<p class=\"research-text\">His major literary work is the <strong>Histories</strong>, a four-book prose account covering the period from 1320 to 1356. Written during his monastic retirement, it provides a detailed, first-person narrative of the Byzantine civil wars and the political history of the fourteenth century.</p>\n<p class=\"research-text\">Kantakouzenos is a significant historian. His <strong>Histories</strong> is an invaluable, though partisan, primary source for the empire&#x27;s decline, detailing internal civil conflicts, the rise of Serbia, and Ottoman expansion. His political policies, particularly his reliance on Ottoman military aid, are often viewed as having accelerated Byzantine subordination to Ottoman power. As a monk, he was also an active defender of hesychast theology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rxk-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "john-vi-kantakouzenos-histories-rxk-aa",
+      "passages": 1513,
+      "links": {
+        "html": "https://eulogikon.org/grc/john-vi-kantakouzenos/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/john-vi-kantakouzenos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-vi-kantakouzenos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-vi-kantakouzenos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-vi-kantakouzenos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-vi-kantakouzenos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

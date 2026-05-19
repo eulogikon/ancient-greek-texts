@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hdu",
+  "auth_slug": "anaxilas-the-comic-poet",
+  "name": {
+    "english": "Anaxilas the Comic Poet",
+    "ancient_greek": "Ἀναξίλας ὁ κωμικός (ὁ Ῥηγῖνος)"
+  },
+  "seo_h1": "Anaxilas the Comic Poet on Rural and Daily Life",
+  "seo": {
+    "browser_title": "Anaxilas the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Anaxilas Ancient Greek Comedy Fragments and Works",
+    "meta_description": "Anaxilas was a 4th century BCE Athenian comic poet. Fragments from his comedies are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Anaxilas the Comic Poet was a poet of Middle Comedy active in Athens during the 4th century BCE. A native of Rhegium in southern Italy, he was also called an Athenian, possibly indicating he had been granted citizenship. He won first prize at the Lenaea festival, with his period of greatest activity placed around 350 BCE.</p>\n<p class=\"research-text\">Titles for approximately 34 of his comedies are known, including <strong>Calypso</strong>, <strong>Circe</strong>, <strong>The Treasure</strong>, and <strong>The Harp-Girl</strong>. All of his works are lost except for about 42 fragments preserved by later authors such as Athenaeus.</p>\n<p class=\"research-text\">Anaxilas is a key figure of the transitional Middle Comedy, illustrating the genre&#x27;s shift from political satire toward mythological parody and social themes involving domestic character types, which prefigured New Comedy. His fragments provide valuable evidence for the evolution of Athenian comic theater.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "hdu-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-comic-fragments-hdu-ab",
+      "passages": 98,
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/comic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hdu-aa",
+      "title": {
+        "english": "Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "anaxilas-the-comic-poet-rural-life-hdu-aa",
+      "passages": 106,
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxilas-the-comic-poet/rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxilas-the-comic-poet/rural-life.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anaxilas-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxilas-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxilas-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxilas-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxilas-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

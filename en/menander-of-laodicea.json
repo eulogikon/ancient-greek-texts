@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ufu",
+  "auth_slug": "menander-of-laodicea",
+  "name": {
+    "english": "Menander the Rhetorician of Laodicea",
+    "ancient_greek": "Μένανδρος ὁ Λαοδικεύς Ῥήτωρ"
+  },
+  "seo_h1": "Menander the Rhetorician of Laodicea on Demonstratives",
+  "seo": {
+    "browser_title": "Menander the Rhetorician on Eulogikon Greek Archive",
+    "meta_title": "Menander the Rhetorician Ancient Greek Oratory Works",
+    "meta_description": "Menander the Rhetorician of Laodicea, a Late Antique orator of the 3rd–4th century. Two orations survive. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menander the Rhetorician of Laodicea was a Greek rhetorician of the late third or early fourth century CE. He is distinguished from other historical figures named Menander, such as the comic playwright. His origin is specified as Laodicea, though the precise city remains unclear.</p>\n<p class=\"research-text\">He is the attributed author of two surviving instructional treatises on epideictic oratory: the Division of Epideictic Speeches and On Epidictic Speeches. These works provide detailed guidance for composing ceremonial speeches for various occasions, including imperial panegyrics, addresses to cities, and speeches for weddings or funerals.</p>\n<p class=\"research-text\">Menander’s significance lies in his systematization of epideictic rhetoric from the Second Sophistic. His treatises are crucial historical sources for understanding the highly formalized conventions of ceremonial oratory in the Roman Imperial era, serving as a link between earlier theorists and the later Byzantine rhetorical tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ufu-aa",
+      "title": {
+        "english": "Division of Demonstratives",
+        "ancient_greek": "Διαίρεσις τῶν ἐπιδεικτικῶν"
+      },
+      "url_slug": "menander-of-laodicea-demonstratives-aa-ufu-aa",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-laodicea/demonstratives-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ufu-ab",
+      "title": {
+        "english": "On Demonstratives",
+        "ancient_greek": "Περὶ ἐπιδεικτικῶν"
+      },
+      "url_slug": "menander-of-laodicea-demonstratives-ab-ufu-ab",
+      "passages": 78,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-laodicea/demonstratives-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-laodicea/demonstratives-ab.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menander-of-laodicea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-laodicea.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-laodicea.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-laodicea.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-laodicea.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

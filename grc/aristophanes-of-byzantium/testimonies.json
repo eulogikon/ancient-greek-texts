@@ -1,0 +1,347 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "klo-ai",
+  "eul_aid": "klo",
+  "author_slug": "aristophanes-of-byzantium",
+  "work_slug": "testimonies",
+  "url_slug": "aristophanes-of-byzantium-testimonies-klo-ai",
+  "author": {
+    "english": "Aristophanes of Byzantium",
+    "ancient_greek": "Ἀριστοφάνης ὁ Βυζάντιος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Aristophanes of Byzantium on Eulogikon",
+    "meta_title": "Ancient Testimonies by Aristophanes of Byzantium in Greek",
+    "meta_description": "The Testimonies is a lost scholarly collection of literary citations by Aristophanes of Byzantium. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a lost scholarly compilation by the Hellenistic grammarian Aristophanes of Byzantium, who served as head of the Library of Alexandria in the early second century BCE. The work functioned as a repository of literary citations, systematically gathering authoritative passages from earlier Greek poets and playwrights to serve as exemplars for grammatical analysis, textual criticism, and literary interpretation. Only two fragments of the collection survive, transmitted by later authors. One, preserved by the second-century CE grammarian Aelius Herodianus, quotes a line from the comic poet Eupolis. The other, found in a sixth-century CE commentary by John Philoponus, quotes a line from Sophocles’s tragedy <strong>Tyro</strong>. These scant remains indicate the original was an organized anthology of excerpts, though its complete structure and total scope are unrecoverable. The work is a quintessential product of the Alexandrian scholarly tradition, which methodically collected and analyzed classical texts to establish authoritative readings and elucidate linguistic difficulties. As a leading figure in this enterprise, Aristophanes of Byzantium likely designed the <strong>Testimonies</strong> as a practical reference tool for librarians, educators, and commentators, embodying the Library’s central role in philological research. While the compilation itself is lost, its methodological principle of using literary &quot;testimonies&quot; as evidence exerted a lasting influence on subsequent grammatical and exegetical scholarship.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3b,347,T 1",
+      "text": "ATHEN. 13, 21 p. 567 A: τοιαυτὶ βιβλία Ἀριστοφάνους καὶ Ἀπολλοδώρου (244 T 17) καὶ Ἀμμωνίου (350) καὶ Ἀντιφάνους (349), ἔτι δὲ Γοργίου τοῦ Ἀθηναίου (351), πάντων τούτων συγγεγραφότων περὶ τῶν Ἀθήνησι ἑταιρίδων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b,347,T 2",
+      "text": "ATHEN. 13, 46 p. 583 DE: αἱ γὰρ καλαὶ ἡμῶν Ἀθῆναι τοσοῦτον πλῆθος ἤνεγκαν ἑταιρῶν, περὶ ὧν ἐπεξελεύσομαι ὅσον γε δύναμαι, ὅσον ὄχλον εὐανδροῦσα πόλις οὐκ ἔσχεν. ἀναγέγραφε γοῦν Ἀριστοφάνης μὲν ὁ Βυζάντιος ἑκατὸν καὶ λε , Ἀπολλόδωρος δὲ τούτων πλείους, ὁ Γοργίας δ’ ἔτι πλέονας, περιλειφθῆναι φάσκοντες ὑπὸ Ἀριστοφάνους μετὰ ἑταιρῶν πλειόνων καὶ τάσδε· ** τὴν Πάροινον ἐπικληθεῖσαν καὶ Λαμπυρίδα καὶ Εὐφροσύνην (αὕτη δὲ ἦν γναφέως θυγάτηρ). ἄγραφοι δ’ εἰσὶν αὐτῶι Μεγίστη, Ἀγαλλίς, Θαυμάριον, Θεόκλεια (αὕτη δ’ ἐπεκαλεῖτο Κορώνη), Ληναιτόκυστος, Ἄστρα, Γνάθαινα καὶ ταύτης θυγατριδῆ Γναθαίνιον, καὶ Σιγὴ καὶ Συνωρὶς ἡ Λύχνος ἐπικαλουμένη καὶ Εὔκλεια καὶ Γρυμέα καὶ Θρυαλλίς, ἔτι Χίμαιρα καὶ Λαμπάς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "klo-ae",
+      "title": {
+        "english": "Arguments of Aristophanes' Plays",
+        "ancient_greek": "Ὑποθέσεις τῶν Ἀριστοφάνους Δραμάτων"
+      },
+      "url_slug": "aristophanes-of-byzantium-arguments-plays-klo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/arguments-plays",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/arguments-plays.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/arguments-plays.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/arguments-plays.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/arguments-plays.json"
+      }
+    },
+    {
+      "eul_wid": "klo-aa",
+      "title": {
+        "english": "Commentary-Callimachus' Pinakes, Fragments",
+        "ancient_greek": "Ὑπόμνημα εἰς Καλλιμάχου Πίνακας"
+      },
+      "url_slug": "aristophanes-of-byzantium-callimachus-pinakes-klo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/callimachus-pinakes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ac",
+      "title": {
+        "english": "Epitome of the Histories of Animals",
+        "ancient_greek": "Ἐπιτομὴ τῶν περὶ τὰ ζῷα Ἱστοριῶν"
+      },
+      "url_slug": "aristophanes-of-byzantium-epitome-animals-klo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/epitome-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/epitome-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/epitome-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/epitome-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/epitome-animals.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ag",
+      "title": {
+        "english": "Names of Ages Fragments",
+        "ancient_greek": "Ὀνόματα Ἐποχῶν Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-byzantium-ages-fragments-klo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/ages-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/ages-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/ages-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/ages-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/ages-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "klo-af",
+      "title": {
+        "english": "Names of Ages Parisian Fragment",
+        "ancient_greek": "Ὀνόματα Ἐποχῶν Παρισινὸν Ἀπόσπασμα"
+      },
+      "url_slug": "aristophanes-of-byzantium-names-ages-klo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/names-ages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ak",
+      "title": {
+        "english": "On Courtesans and Their Names",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-byzantium-courtesans-names-klo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/courtesans-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/courtesans-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/courtesans-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/courtesans-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/courtesans-names.json"
+      }
+    },
+    {
+      "eul_wid": "klo-aj",
+      "title": {
+        "english": "On Human Development and Aging",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-byzantium-human-development-aging-klo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/human-development-aging",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/human-development-aging.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/human-development-aging.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/human-development-aging.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/human-development-aging.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ad",
+      "title": {
+        "english": "On Suspect Words Among the Ancients",
+        "ancient_greek": "Περὶ τῶν ὑπόπτων λέξεων παρὰ τοῖς ἀρχαίοις"
+      },
+      "url_slug": "aristophanes-of-byzantium-suspect-words-klo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/suspect-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/suspect-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/suspect-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/suspect-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/suspect-words.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ab",
+      "title": {
+        "english": "Other Books of Aristophanes, Fragments",
+        "ancient_greek": "Ἄλλα Βιβλία Ἀριστοφάνους"
+      },
+      "url_slug": "aristophanes-of-byzantium-fragments-klo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ah",
+      "title": {
+        "english": "Proverbs, Fragments",
+        "ancient_greek": "Παροιμίαι"
+      },
+      "url_slug": "aristophanes-of-byzantium-proverbs-klo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/proverbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/proverbs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/proverbs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/proverbs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/proverbs.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-ab",
+      "title": {
+        "english": "Allegories-Hesiod's Theogony",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Θεογονίαν τοῦ Ἡσιόδου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-theogony-piw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-theogony.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-aa",
+      "title": {
+        "english": "Byzantine Little Commentary",
+        "ancient_greek": "Μικρὸν Βυζαντινὸν Ὑπόμνημα"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-little-commentary-lvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/little-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "tom-aa",
+      "title": {
+        "english": "Exegesis-Oppian's Halieutica",
+        "ancient_greek": "Ἐξήγησις εἰς τὰ Ἁλιευτικά τοῦ Ὀππιανοῦ"
+      },
+      "url_slug": "oppian-commentary-anonymous-exegesis-halieutica-tom-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-commentary-anonymous/exegesis-halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-al",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-al-tqa-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-al.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-aa",
+      "title": {
+        "english": "Hephaestion Fragments",
+        "ancient_greek": "Ἡφαιστίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "hephaestion-of-alexandria-fragments-oqa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-aa",
+      "title": {
+        "english": "Narratives-Hymns I and II Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Ὕμνους Α' καὶ Β' Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-hymns-vmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-am",
+      "title": {
+        "english": "Scholia on Hymn III (Manuscript)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-am-vmw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.json"
+      }
+    },
+    {
+      "eul_wid": "tro-aj",
+      "title": {
+        "english": "Scholia-Eumenides",
+        "ancient_greek": "Σχόλια εἰς Εὐμενίδας"
+      },
+      "url_slug": "aeschylus-scholia-eumenides-tro-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/eumenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/eumenides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/eumenides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/eumenides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/eumenides.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

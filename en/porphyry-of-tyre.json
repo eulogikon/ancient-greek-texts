@@ -1,0 +1,675 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "udm",
+  "auth_slug": "porphyry-of-tyre",
+  "name": {
+    "english": "Porphyry of Tyre",
+    "ancient_greek": "Πορφύριος ὁ Τύριος"
+  },
+  "seo_h1": "Porphyry of Tyre on Abstinence and Neoplatonic Philosophy",
+  "seo": {
+    "browser_title": "Porphyry of Tyre Ancient Works on Eulogikon Greek Archive",
+    "meta_title": "Porphyry of Tyre Ancient Greek Philosophical Works",
+    "meta_description": "Porphyry of Tyre was a major Neoplatonic philosopher of the late Roman Empire. Twenty seven treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Porphyry of Tyre was a philosopher of the late Roman Empire, active in the 3rd and 4th centuries CE. He was a major figure in the Neoplatonic school of thought. Born in the city of Tyre, he studied in Athens before moving to Rome to join the circle of the philosopher Plotinus, becoming his devoted disciple.</p>\n<p class=\"research-text\">After Plotinus&#x27;s death, Porphyry performed crucial work by editing and publishing his teacher&#x27;s writings as the Enneads and composing a biography of him. Porphyry was a prolific writer across many formats. His surviving works include the Isagoge, an introduction to logic that became a standard textbook for centuries, the Life of Plotinus, a treatise On Abstinence from Animal Food, and allegorical interpretations of Homeric poetry. Many of his other works, including extensive commentaries and a major polemic Against the Christians, are lost, surviving only in fragments quoted by his opponents.</p>\n<p class=\"research-text\">Modern scholars regard Porphyry as a central figure in systematizing and transmitting Neoplatonism. His editorial work preserved Plotinus&#x27;s ideas, and his own writings sought to harmonize the philosophies of Plato and Aristotle. His logical works, especially the Isagoge, had a profound influence on medieval philosophy in the Byzantine, Arabic, and Latin traditions. His forceful critiques of Christianity also made him a significant, though controversial, intellectual opponent of the early Church.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 27,
+  "works": [
+    {
+      "eul_wid": "udm-ar",
+      "title": {
+        "english": "Against the Christians",
+        "ancient_greek": "Κατὰ Χριστιανῶν"
+      },
+      "url_slug": "porphyry-of-tyre-against-christians-udm-ar",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/against-christians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/against-christians.json"
+      }
+    },
+    {
+      "eul_wid": "udm-af",
+      "title": {
+        "english": "Book I of Homeric Questions Version B",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Β"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-b-udm-af",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-b.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ag",
+      "title": {
+        "english": "Book I of Homeric Questions Version T",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Τ"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ag-udm-ag",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ah",
+      "title": {
+        "english": "Book I of Homeric Questions Version V",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ah-udm-ah",
+      "passages": 133,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ah.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ai",
+      "title": {
+        "english": "Book I of Homeric Questions Version X",
+        "ancient_greek": "Ἰλιακῶν προβλημάτων βιβλίον α (ἔκδοσις Χ)"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-udm-ai",
+      "passages": 127,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ay",
+      "title": {
+        "english": "Chronicles",
+        "ancient_greek": "Χρονικά"
+      },
+      "url_slug": "porphyry-of-tyre-chronicles-udm-ay",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/chronicles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/chronicles.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ak",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἀριστοτέλην Ἑλληνιστί"
+      },
+      "url_slug": "porphyry-of-tyre-commentaries-aristotle-udm-ak",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ao",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Book I)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-ao-udm-ao",
+      "passages": 73,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.json"
+      }
+    },
+    {
+      "eul_wid": "udm-an",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Fragment)",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-an-udm-an",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-an.json"
+      }
+    },
+    {
+      "eul_wid": "udm-am",
+      "title": {
+        "english": "Commentary-Plato's Parmenides",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Πλάτωνος Παρμενίδην"
+      },
+      "url_slug": "porphyry-of-tyre-plato-parmenides-commentary-udm-am",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/plato-parmenides-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/plato-parmenides-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ae",
+      "title": {
+        "english": "Fragments of the History of Philosophy",
+        "ancient_greek": "Ἀποσπάσματα τῆς ἱστορίας τῆς φιλοσοφίας"
+      },
+      "url_slug": "porphyry-of-tyre-history-philosophy-udm-ae",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/history-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/history-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ba",
+      "title": {
+        "english": "Fragments on the Seven Sages",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἑπτὰ Σοφῶν"
+      },
+      "url_slug": "porphyry-of-tyre-seven-sages-udm-ba",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/seven-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/seven-sages.json"
+      }
+    },
+    {
+      "eul_wid": "udm-at",
+      "title": {
+        "english": "Letter to Anebon",
+        "ancient_greek": "Πρὸς Ἀνεβῶνα ἐπιστολή"
+      },
+      "url_slug": "porphyry-of-tyre-letter-anebon-udm-at",
+      "passages": 50,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/letter-anebon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/letter-anebon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/letter-anebon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/letter-anebon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/letter-anebon.json"
+      }
+    },
+    {
+      "eul_wid": "udm-au",
+      "title": {
+        "english": "Life of Plotinus",
+        "ancient_greek": "Βίος Πλωτίνου"
+      },
+      "url_slug": "porphyry-of-tyre-life-plotinus-udm-au",
+      "passages": 34,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/life-plotinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-plotinus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-plotinus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-plotinus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-plotinus.json"
+      }
+    },
+    {
+      "eul_wid": "udm-as",
+      "title": {
+        "english": "Life of Pythagoras",
+        "ancient_greek": "Βίος Πυθαγόρου"
+      },
+      "url_slug": "porphyry-of-tyre-life-pythagoras-udm-as",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/life-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.json"
+      }
+    },
+    {
+      "eul_wid": "udm-av",
+      "title": {
+        "english": "On Abstinence",
+        "ancient_greek": "Περὶ Ἀποχῆς"
+      },
+      "url_slug": "porphyry-of-tyre-abstinence-udm-av",
+      "passages": 182,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/abstinence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.json"
+      }
+    },
+    {
+      "eul_wid": "udm-aa",
+      "title": {
+        "english": "On Aristotle's Categories, Exposition by Question and Answer",
+        "ancient_greek": "Περὶ Κατηγοριῶν Ἀριστοτέλους"
+      },
+      "url_slug": "porphyry-of-tyre-categories-qa-udm-aa",
+      "passages": 837,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/categories-qa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/categories-qa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/categories-qa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/categories-qa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/categories-qa.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ap",
+      "title": {
+        "english": "On Philosophy from Oracles",
+        "ancient_greek": "Περὶ φιλοσοφίας ἐκ χρησμῶν"
+      },
+      "url_slug": "porphyry-of-tyre-philosophy-oracles-udm-ap",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/philosophy-oracles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/philosophy-oracles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/philosophy-oracles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/philosophy-oracles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/philosophy-oracles.json"
+      }
+    },
+    {
+      "eul_wid": "udm-az",
+      "title": {
+        "english": "On Statues",
+        "ancient_greek": "Περὶ ἀγαλμάτων"
+      },
+      "url_slug": "porphyry-of-tyre-statues-udm-az",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/statues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/statues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/statues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/statues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/statues.json"
+      }
+    },
+    {
+      "eul_wid": "udm-aq",
+      "title": {
+        "english": "On the Cave of the Nymphs",
+        "ancient_greek": "Περὶ τοῦ Νυμφῶν Ἄντρου"
+      },
+      "url_slug": "porphyry-of-tyre-cave-nymphs-udm-aq",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/cave-nymphs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/cave-nymphs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/cave-nymphs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/cave-nymphs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/cave-nymphs.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ad",
+      "title": {
+        "english": "On the Harmonics of Ptolemy, Commentary",
+        "ancient_greek": "Εἰς τὰ ἁρμονικὰ Πτολεμαίου ὑπόμνημα"
+      },
+      "url_slug": "porphyry-of-tyre-harmonics-commentary-udm-ad",
+      "passages": 172,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/harmonics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/harmonics-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/harmonics-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/harmonics-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/harmonics-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "udm-aj",
+      "title": {
+        "english": "On the Vatican Codex",
+        "ancient_greek": "Ζητήματα τοῦ Βατικανοῦ κώδικος"
+      },
+      "url_slug": "porphyry-of-tyre-vatican-codex-udm-aj",
+      "passages": 88,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/vatican-codex",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/vatican-codex.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/vatican-codex.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/vatican-codex.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/vatican-codex.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ac",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Iliad",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ἰλιάδα"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-iliad-udm-ac",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ab",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "passages": 311,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.json"
+      }
+    },
+    {
+      "eul_wid": "udm-al",
+      "title": {
+        "english": "Sentences Leading to Intelligibles",
+        "ancient_greek": "Ἀποφθέγματα πρὸς Νοητά"
+      },
+      "url_slug": "porphyry-of-tyre-intelligibles-udm-al",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/intelligibles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/intelligibles.json"
+      }
+    },
+    {
+      "eul_wid": "udm-aw",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "porphyry-of-tyre-testimonies-udm-aw",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ax",
+      "title": {
+        "english": "To Marcella",
+        "ancient_greek": "Πρὸς Μάρκελλαν"
+      },
+      "url_slug": "porphyry-of-tyre-marcella-udm-ax",
+      "passages": 35,
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/marcella",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/marcella.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/marcella.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/marcella.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/marcella.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.json"
+      }
+    },
+    {
+      "eul_aid": "uyg",
+      "name": {
+        "english": "Damascius of Damascus",
+        "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/damascius-of-damascus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/porphyry-of-tyre",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/porphyry-of-tyre.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/porphyry-of-tyre.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/porphyry-of-tyre.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/porphyry-of-tyre.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

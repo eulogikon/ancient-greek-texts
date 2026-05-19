@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pnc-aa",
+  "eul_aid": "pnc",
+  "author_slug": "aelius-aristides-of-smyrna",
+  "work_slug": "philosophical-fragments",
+  "url_slug": "aelius-aristides-of-smyrna-philosophical-fragments-pnc-aa",
+  "author": {
+    "english": "Aelius Aristides of Smyrna",
+    "ancient_greek": "Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος"
+  },
+  "title": {
+    "english": "Philosophical Fragments",
+    "ancient_greek": "Φιλοσοφικὰ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Aelius Aristides on Eulogikon Archive",
+    "meta_title": "Philosophical Fragments by Aelius Aristides in Greek",
+    "meta_description": "Aelius Aristides of Smyrna explores theological and philosophical questions in these surviving fragments from the Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Philosophical Fragments</strong> are two brief passages of theological philosophy attributed to the 2nd-century CE Greek orator Aelius Aristides. While Aristides is primarily celebrated for his elaborate orations and prose hymns, these surviving fragments attest to his engagement with Platonic metaphysics. The text discusses the divine craftsman, or Demiurge, as the father of creation and distinguishes this active, shaping principle from the eternal, intelligible model upon which it draws. The work does not survive as an independent treatise; the fragments are preserved exclusively through quotation by the 5th-century Neoplatonist philosopher Proclus in his commentary on Plato’s <strong>Timaeus</strong>. Their content, which aligns Platonic doctrine with theological exposition, illustrates how sophists of the Roman imperial period frequently integrated rigorous philosophical study with rhetorical artistry. The fragments’ preservation by Proclus further demonstrates their perceived value in late antiquity as a connective thread between classical Platonic thought and the systematic theology of the Neoplatonic tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "n",
+      "text": "(a) Il testo del Pap. Ox. 1778—ARIST. 5,3; 6,1. Cfr. GRENFELL—HUNT, Ox. Pap. XV (1922), n. 1778.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "fol2,v",
+      "text": "6 lines lost μιαιρος ζοντες την τω[ν] α[νε] μων πνοην θν ειναι [πλανω]νται φανερα [γαρ] εστιν ημιν οτι [δο]υλευει ετερω ποτε [μεν γαρ] α̣[υ]ξ̣ε[ι ποτε] δε ληγει ουκουν αναγ [κα]ζεται ϋπο τινος . [ ...... ] . [ .. ] .. [ . ] ξ̣ε̣ι̣ . [ ...... ] ν̣ω̣ν̣α̣ .. [ . ] α̣ . [ ...... ]λ̣ ... [ . ] .. 4 lines lost [ ....... ] . ε̣λ ... ι̣ [ ...... ] ν̣των τ̣ων [ ....... ] νων̣τ [ . ] [ση]μ[ε]ιου εις σημειον καθ’ ημεραν φερομε νον δυνοντα τε και ανατελλοντα του θερμαινειν τα βλα στα και τα φυτα εις την χρησιν των αν θρωπων επει και[]με ρισμους εχ[οντα μ]ε τα των λο[ιπων ασ]τε ρων και ε[λαττον]α οντα του [ουρανου] π[ο]λου αυ[ξει δε και] μειουται [και εκλιψις] εχει και μ[ηδεμιαν] αυτοκρ[ατειαν εχον] τα διο ου ν[ενομισται] [το]ν ηλιον [ειναι θν ]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pnc-ab",
+      "title": {
+        "english": "Christian Apologetic Fragments",
+        "ancient_greek": "Ἀπολογητικὰ Χριστιανικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "aelius-aristides-of-smyrna-christian-apologetic-pnc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-aristides-of-smyrna/christian-apologetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/christian-apologetic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/christian-apologetic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/christian-apologetic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/christian-apologetic.json"
+      }
+    },
+    {
+      "eul_wid": "pnc-ac",
+      "title": {
+        "english": "On the Nature of God and Humanity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aelius-aristides-of-smyrna-nature-god-humanity-pnc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-aristides-of-smyrna/nature-god-humanity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/nature-god-humanity.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/nature-god-humanity.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/nature-god-humanity.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/nature-god-humanity.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uhs-cs",
+      "title": {
+        "english": "Against Celsus",
+        "ancient_greek": "Κατὰ Κέλσου"
+      },
+      "url_slug": "origen-of-alexandria-against-celsus-uhs-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/against-celsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/against-celsus.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-ar",
+      "title": {
+        "english": "Against the Heresy of Noetus",
+        "ancient_greek": "Κατὰ τῆς Νοήτου Αἱρέσεως"
+      },
+      "url_slug": "hippolytus-of-rome-against-noetus-qsg-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/against-noetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/against-noetus.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-cc",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονικόν"
+      },
+      "url_slug": "hippolytus-of-rome-chronicle-qsg-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-bo",
+      "title": {
+        "english": "Commentaries-Genesis",
+        "ancient_greek": "Ὑπομνήματα εἰς Γένεσιν"
+      },
+      "url_slug": "origen-of-alexandria-genesis-commentary-uhs-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/genesis-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/genesis-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "qya-ae",
+      "title": {
+        "english": "Excerpts from Theodotus",
+        "ancient_greek": "Ἐκλογαὶ ἐκ Θεοδότου"
+      },
+      "url_slug": "clement-of-alexandria-theodotus-excerpts-qya-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/clement-of-alexandria/theodotus-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clement-of-alexandria/theodotus-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "urs-ad",
+      "title": {
+        "english": "On Divine Names",
+        "ancient_greek": "Περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "pseudo-dionysius-the-areopagite-divine-names-urs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dionysius-the-areopagite/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dionysius-the-areopagite/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "uhs-ap",
+      "title": {
+        "english": "On the Resurrection, Two Books, Fragments",
+        "ancient_greek": "Περὶ Ἀναστάσεως"
+      },
+      "url_slug": "origen-of-alexandria-resurrection-fragments-uhs-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/origen-of-alexandria/resurrection-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/resurrection-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/resurrection-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/resurrection-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/origen-of-alexandria/resurrection-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "qsg-bx",
+      "title": {
+        "english": "On the Universe (Treatise)",
+        "ancient_greek": "Περὶ τοῦ Κόσμου"
+      },
+      "url_slug": "hippolytus-of-rome-universe-bx-qsg-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippolytus-of-rome/universe-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippolytus-of-rome/universe-bx.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aelius-aristides-of-smyrna/philosophical-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-aristides-of-smyrna/philosophical-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

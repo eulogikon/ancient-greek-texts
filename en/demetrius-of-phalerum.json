@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hnk",
+  "auth_slug": "demetrius-of-phalerum",
+  "name": {
+    "english": "Demetrius of Phalerum",
+    "ancient_greek": "Δημήτριος ὁ Φαληρεύς"
+  },
+  "seo_h1": "Demetrius of Phalerum on Interpretation and Rhetoric",
+  "seo": {
+    "browser_title": "Demetrius of Phalerum on Eulogikon Greek Text Archive",
+    "meta_title": "Demetrius of Phalerum Ancient Greek Orations Works",
+    "meta_description": "Demetrius of Phalerum was an Athenian orator and statesman. Surviving works include his orations. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demetrius of Phalerum was an Athenian orator, statesman, and philosopher who lived from approximately 350 to 280 BCE. A student of Theophrastus, the successor to Aristotle, he belonged to the Peripatetic school of philosophy. His career marks the transition from Classical Greece to the Hellenistic era.</p>\n<p class=\"research-text\">After Athens came under Macedonian influence, Demetrius served as its governor from 317 to 307 BCE, supported by the Macedonian ruler Cassander. His decade in power is often described as a period of moderate, oligarchic rule, featuring legal reforms and peace, but with a reduced democracy. When a rival Macedonian leader captured Athens, Demetrius was sentenced to death and fled. He found refuge in Egypt at the court of Ptolemy I. Later sources credit him with proposing the creation of the famous Library of Alexandria and its Museum, though modern scholars debate the precise extent of his role. He fell from favor under the next ruler and died around 280 BCE.</p>\n<p class=\"research-text\">Although prolific, his works survive only in fragments. He wrote speeches, like On Fortune, and treatises on philosophy, politics, and rhetoric. He is also credited with a significant literary achievement: compiling the first written collection of Aesop&#x27;s Fables in Greek prose, which helped preserve and transmit these stories.</p>\n<p class=\"research-text\">Demetrius is considered a pivotal figure. His life exemplifies the new model of the philosopher-statesman operating under royal patronage, which became common in the Hellenistic world. His intellectual legacy, from political theory to the collection of Aesop, makes him a crucial source for understanding the early Hellenistic period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hnk-aa",
+      "title": {
+        "english": "On Interpretation",
+        "ancient_greek": "Περὶ ἑρμηνείας"
+      },
+      "url_slug": "demetrius-of-phalerum-interpretation-hnk-aa",
+      "passages": 234,
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-phalerum/interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demetrius-of-phalerum",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-phalerum.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-phalerum.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-phalerum.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demetrius-of-phalerum.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,200 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ibg",
+  "auth_slug": "carneiscus-the-epicurean",
+  "name": {
+    "english": "Carneiscus the Epicurean",
+    "ancient_greek": "Καρνεῖσκος ὁ Ἐπικούρειος"
+  },
+  "seo_h1": "Friendship and Epicurean Community in Carneiscus",
+  "seo": {
+    "browser_title": "Carneiscus the Epicurean on Eulogikon Greek Archive",
+    "meta_title": "Carneiscus Ancient Greek Philosophical Works and Texts",
+    "meta_description": "Carneiscus, a 3rd century BCE Epicurean philosopher. Two surviving treatises are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Epicurean",
+      "href": "/affiliations/epicurean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Carneiscus was an Epicurean philosopher who lived in the 3rd century BCE during the Hellenistic period. He was a member of the Epicurean school, a community founded by Epicurus that taught the pursuit of tranquility through the study of nature and the moderation of desires. Carneiscus was a contemporary of other early Epicurean thinkers, such as Polystratus. No details about his birthplace or personal life survive.</p>\n<p class=\"research-text\">His significance rests on a single, partially preserved work titled <strong>Philistas</strong>. This treatise is a philosophical consolation written to a woman grieving the death of her friend. It was recovered from the library of carbonized papyrus scrolls at Herculaneum, which were buried by the eruption of Mount Vesuvius in 79 CE.</p>\n<p class=\"research-text\">According to modern scholars, the survival of <strong>Philistas</strong> is important because it provides a direct window into the internal discussions and practical ethics of the early Epicurean community. The work illustrates how Epicurean doctrines about friendship, grief, and the management of emotions were applied to real-life situations. It stands as a key source for understanding the development of Epicurean thought beyond the writings of its most famous founders.</p>\n</div>",
+  "affiliation_label": "Epicurean",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ibg-ab",
+      "title": {
+        "english": "Fragments on Friendship",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλίας"
+      },
+      "url_slug": "carneiscus-the-epicurean-friendship-ibg-ab",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/friendship.json"
+      }
+    },
+    {
+      "eul_wid": "ibg-aa",
+      "title": {
+        "english": "Philistas, Book II",
+        "ancient_greek": "Φιλίστας Βιβλίον Βʹ"
+      },
+      "url_slug": "carneiscus-the-epicurean-philistas-ii-ibg-aa",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "peg",
+      "name": {
+        "english": "Diogenes of Oenoanda",
+        "ancient_greek": "Διογένης ὁ Οἰνοανδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-oenoanda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.json"
+      }
+    },
+    {
+      "eul_aid": "jtm",
+      "name": {
+        "english": "Epicurean Anonymous",
+        "ancient_greek": "Ἀνώνυμος Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurean-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.json"
+      }
+    },
+    {
+      "eul_aid": "hui",
+      "name": {
+        "english": "Epicurus the Philosopher",
+        "ancient_greek": "Ἐπίκουρος ὁ φιλόσοφος"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.json"
+      }
+    },
+    {
+      "eul_aid": "jbk",
+      "name": {
+        "english": "Hermarchus of Mytilene",
+        "ancient_greek": "Ἕρμαρχος ὁ Μυτιληναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hermarchus-of-mytilene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.json"
+      }
+    },
+    {
+      "eul_aid": "coe",
+      "name": {
+        "english": "Metrodorus of Lampsacus the Elder",
+        "ancient_greek": "Μητρόδωρος ὁ Λαμψακηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/metrodorus-of-lampsacus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.json"
+      }
+    },
+    {
+      "eul_aid": "msu",
+      "name": {
+        "english": "Philodemus of Gadara",
+        "ancient_greek": "Φιλόδημος ὁ Γαδαρεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/philodemus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.json"
+      }
+    },
+    {
+      "eul_aid": "jss",
+      "name": {
+        "english": "Polystratus the Epicurean",
+        "ancient_greek": "Πολύστρατος ὁ Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/polystratus-the-epicurean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/carneiscus-the-epicurean",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

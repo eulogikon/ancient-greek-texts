@@ -1,0 +1,416 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fim-ab",
+  "eul_aid": "fim",
+  "author_slug": "alcaeus-the-comic-poet",
+  "work_slug": "daily-life-ab",
+  "url_slug": "alcaeus-the-comic-poet-daily-life-ab-fim-ab",
+  "author": {
+    "english": "Alcaeus the Comic Poet",
+    "ancient_greek": "Ἀλκαῖος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Daily Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments on Daily Life by Alcaeus on Eulogikon",
+    "meta_title": "Ancient Comic Fragments on Daily Life by Alcaeus in Greek",
+    "meta_description": "Surviving comic fragments by Alcaeus offering humorous glimpses of daily life in antiquity. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Daily Life is a modern thematic compilation of twenty-nine passages attributed to the poet Alcaeus, who was active during the period of Middle Comedy in the fourth century BCE. These excerpts are not derived from a single, continuous ancient text but are instead gathered from citations found in later scholarly works, most notably Athenaeus&#x27;s <strong>Deipnosophistae</strong>, where they were preserved for their illustrative value regarding social customs, cuisine, and colloquial speech. The fragments collectively offer a vivid, if piecemeal, portrait of Athenian daily life, reflecting the characteristic concerns of Middle Comedy. Their subjects range from domestic affairs and culinary indulgence, including mentions of luxurious bread and festive preparations, to the parody of mythological figures and the deployment of stock character types. As with most work from this transitional comic period, the complete plays of Alcaeus are lost, making these fragments an essential resource for understanding the evolution of Athenian comedy between the political satire of Aristophanes and the domestic focus of Menander. They provide significant insight into non-elite social history and the vernacular language of the time.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἠλίθιον εἶναι νοῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε πουλύποδος ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Κατάχωλε θᾶσσον ἢ κεραυνοπλὴξ ἔσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἔοικεν αἰγίθαλλος διακωλύειν τὸ πρᾶγμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[spk_β]Διπύρους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τε θερμούς. Β. οἱ δίπυροι δ’ εἰσὶν τίνες;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[spk_α]Α. ἄρτοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τρυφῶντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁτιὴ σχεδόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τι μῆνας ἐγγὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τρεῖς ὅλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φρουρῶ τὸν Ἐνδυμίωνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἀνδράποδα πέντε, πωλικὸν ζεῦγος βοῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Κεραννύουσιν ἀφανίζουσί τε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Κορίαννον εἰς τί λεπτόν; Β. ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοὺς δασύποδας οὓς ἂν λάβωμεν ἁλσὶ διαπάττειν ἔχῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐτύγχανον μὲν ἄγροθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πλείστους φέρων εἰς τὴν ἑορτὴν ὅσον οἷον εἴκοσι, ὁρῶ δ’ ἄνωθεν γάργαρ’ ἀνθρώπων κύκλῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁδὶ γὰρ αὐτός ἐστιν· εἴ τι γρύξομαι ὧν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σοι λέγω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πλέον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τι γαλαθηνοῦ μυός—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Μυρίσασα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "συγκατέκλεισεν ἀνθ’ αὑτῆς λάθρᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Νῦν οὖν γένοιτ’ ἀστεῖος οἰκῶν ἐν πόλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Καὶ ναὶ μὰ Δί’ ἄλλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σκευάρι’ οἰκητήρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἔδω δ’ ἐμαυτὸν ὥσπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πουλύπους.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fim-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-aa-fim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.json"
+      }
+    },
+    {
+      "eul_wid": "fim-ac",
+      "title": {
+        "english": "On Homeric Parody",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "alcaeus-the-comic-poet-homeric-parody-fim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/homeric-parody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/homeric-parody.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lok-ab",
+      "title": {
+        "english": "Comic Fragments on Feasts and Fools",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρῶν"
+      },
+      "url_slug": "diphilus-of-sinope-comic-feasts-fools-lok-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diphilus-of-sinope/comic-feasts-fools",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.json"
+      }
+    },
+    {
+      "eul_wid": "bou-ab",
+      "title": {
+        "english": "Comic Fragments on Guard Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυλακῆς Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-guard-duty-bou-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.json"
+      }
+    },
+    {
+      "eul_wid": "lig-aa",
+      "title": {
+        "english": "Culinary and Medical Dialogues",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-the-younger-culinary-medical-dialogues-aa-lig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-the-younger/culinary-medical-dialogues-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-the-younger/culinary-medical-dialogues-aa.json"
+      }
+    },
+    {
+      "eul_wid": "cks-aa",
+      "title": {
+        "english": "Fragments on Healing",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰάσεως"
+      },
+      "url_slug": "antidotus-the-comic-poet-healing-cks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/healing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.json"
+      }
+    },
+    {
+      "eul_wid": "ihu-aa",
+      "title": {
+        "english": "Fragments on Life and Old Age",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Γήρως"
+      },
+      "url_slug": "apollodorus-of-carystus-ii-life-old-age-ihu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-ii/life-old-age",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.json"
+      }
+    },
+    {
+      "eul_wid": "ebk-ac",
+      "title": {
+        "english": "Fragments on Love and Persuasion",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Πειθοῦς"
+      },
+      "url_slug": "archippus-the-comic-poet-love-persuasion-ebk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/love-persuasion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/love-persuasion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/love-persuasion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/love-persuasion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/love-persuasion.json"
+      }
+    },
+    {
+      "eul_wid": "atg-aa",
+      "title": {
+        "english": "On the Nature of Women",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-nature-women-atg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/nature-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/nature-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/nature-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/nature-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/nature-women.json"
+      }
+    },
+    {
+      "eul_wid": "fdm-ab",
+      "title": {
+        "english": "Symposium and Philosophical Banter",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heniochus-the-comic-poet-symposium-fdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heniochus-the-comic-poet/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heniochus-the-comic-poet/symposium.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

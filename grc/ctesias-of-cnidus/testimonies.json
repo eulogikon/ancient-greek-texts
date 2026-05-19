@@ -1,0 +1,465 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ehy-aa",
+  "eul_aid": "ehy",
+  "author_slug": "ctesias-of-cnidus",
+  "work_slug": "testimonies",
+  "url_slug": "ctesias-of-cnidus-testimonies-ehy-aa",
+  "author": {
+    "english": "Ctesias of Cnidus",
+    "ancient_greek": "Κτησίας ὁ Κνίδιος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Testimonies by Ctesias of Cnidus on Eulogikon.",
+    "meta_title": "Classical Testimonies by Ctesias of Cnidus in Ancient Greek",
+    "meta_description": "Testimonies is a medical collection by Ctesias of Cnidus. It presents observations and medical accounts. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a work attributed to Ctesias of Cnidus, a Greek physician and historian who served at the Persian court of Artaxerxes II in the late fifth and early fourth centuries BCE. While Ctesias is principally known for his extensive historical and ethnographic writings, the <strong>Persica</strong> and the <strong>Indica</strong>, the <strong>Testimonies</strong> represents a more obscure facet of his literary output. Unlike his major works, it is not discussed in standard ancient testimonia or modern reference entries for the author. Given that the work is associated with the domain of medicine, it is plausible that it constituted a medical collection, a genre consistent with Ctesias&#x27;s profession as a physician. His other writings demonstrate a documented interest in foreign materia medica, drugs, and diseases, suggesting the <strong>Testimonies</strong> may have compiled similar observations or remedies.</p>\n<p class=\"research-text\">The work survives, if at all, only indirectly. The writings of Ctesias are preserved fragmentarily through citations by later authors such as Photius, Diodorus Siculus, and Nicolaus of Damascus, but these sources exclusively reference his historical narratives. There is no extant mention of the <strong>Testimonies</strong> in these transmissions, leaving its content and structure entirely speculative. Consequently, its historical and scholarly significance remains obscure. It represents a potential but lost dimension of Ctesias&#x27;s intellectual activity, one that would have showcased his medical expertise separately from the often-criticized historical and ethnographic accounts for which he is primarily remembered.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,688,T 1",
+      "text": "SUDA s.v. Κτησίας (TZETZ. Chil. 1, 82/6)· Κτησιάρχου ἢ Κτησιόχου, Κνίδιος· ἰατρός, ὃς ἰάτρευσεν ἐν Πέρσαις Ἀρταξέρξην τὸν Μνήμονα κληθέντα (a. 405 ff.), καὶ συνέγραψε Περσικὰ ἐν βιβλίοις κ καὶ γ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 2",
+      "text": "STRABON 14, 2, 15: Κνίδος ..... ἐντεῦθεν δὲ καὶ Κτησίας ὁ ἰατρεύσας μὲν Ἀρταξέρξην, συγγράψας δὲ τὰ Ἀσσυρικὰ καὶ τὰ Περσικά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 3",
+      "text": "DIODOR. 2, 32, 4 (TZETZ. Chil. 1, 82/6): Κτησίας δὲ ὁ Κνίδιος τοῖς μὲν χρόνοις ὑπῆρξε κατὰ τὴν Κύρου στρατείαν ἐπὶ Ἀρταξέρξην τὸν ἀδελφόν, γενόμενος δ’ αἰχμάλωτος, καὶ διὰ τὴν ἰατρικὴν ἐπιστήμην ἀναληφθεὶς ὑπὸ τοῦ βασιλέως, ἑπτακαίδεκα (†) ἔτη διετέλεσε τιμώμενος ὑπ’ αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 4",
+      "text": "GALEN. Zu Hippokrat. Π. ἀρθρ. ἐμβολ. 70 (XVIII A p. 731 Kühn): Κτησίας ὁ Κνίδιος, συγγενὴς αὐτοῦ (scil. Ἱπποκράτους)· καὶ γὰρ αὐτὸς ἦν Ἀσκληπιάδης τὸ γένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 5a",
+      "text": "EUSEB. Chron. ol. 95, 1: Xenofon, filius Grylli, et Ctesias clari habentur.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 5b",
+      "text": "PHOT. Bibl. 72 p. 36 a 6: (T 8) ἤκμασε δὲ ἐν τοῖς χρόνοις Κύρου τοῦ ἐκ Δαρείου καὶ Παρυσάτιδος, ὃς ἀδελφὸς Ἀρτοξέρξου, εἰς ὃν ἡ Περσικὴ βασιλεία κατῆλθεν, ἐτύγχανεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 6a",
+      "text": "PLUTARCH. Artox. 11, 3 (= F 20): ὁ μὲν ἀναστὰς μετ’ ὀλίγων, ἐν οἷς καὶ Κτησίας ἦν, λόφον τινὰ πλησίον καταλαβὼν ἡσύχαζε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 6b",
+      "text": "——14, 1: μετὰ δὲ τὴν μάχην ... καλῶς δὲ καὶ Κτησίαν καὶ τοὺς ἄλλους ἐτίμησε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 7a",
+      "text": "PHOT. Bibl. 72 p. 44 a 31: ὡς Κτησίας αὐτός, ἰατρὸς ὢν Παρυσάτιδος, πολλὰ Κλεάρχωι ἐν τῶι δεσμωτηρίωι ὄντι πρὸς ἡδονὴν καὶ θεραπείαν δι’ αὐτῆς ἔπραξε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 7b",
+      "text": "PLUTARCH. Artox. 13, 7: (F 23) ἀλλὰ δαιμονίως ὁ Κτησίας, ὡς ἔοικε, φιλότιμος ὤν, καὶ οὐχ ἧττον φιλολάκων καὶ φιλοκλέαρχος, ἀεί τινας ἐν τῆι διηγήσει χώρας ἑαυτῶι δίδωσιν, ἐν αἷς γενόμενος πολλὰ καὶ καλὰ μεμνήσεται Κλεάρχου καὶ τῆς Λακεδαίμονος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 7c",
+      "text": "PHOT. Bibl. 72 p. 44 b 20: αἰτίαι δι’ ἃς Εὐαγόραι βασιλεῖ Σαλαμῖνος βασιλεὺς Ἀρτοξέρξης διηνέχθη. καὶ ἄγγελοι Εὐαγόρα πρὸς Κτησίαν ... Κτησίου πρὸς αὐτὸν ἐπιστολή ... Κόνωνος πρὸς Κτησίαν ἐπιστολή ... Κτησίου λόγος πρὸς βασιλέα περὶ Κόνωνος· καὶ ἐπιστολὴ πρὸς αὐτόν ... ὡς ἐτηρήθησαν οἱ παρὰ Λακεδαιμονίων ἄγγελοι πεμφθέντες πρὸς βασιλέα· βασιλέως ἐπιστολὴ πρὸς Κόνωνα καὶ Λακεδαιμονίους, ἃς Κτησίας αὐτὸς ἐκόμισεν ... Κτησίου εἰς Κνίδον τὴν πατρίδα ἄφιξις, καὶ εἰς Λακεδαίμονα· καὶ κρίσις πρὸς τοὺς Λακεδαιμονίων ἀγγέλους ἐν Ῥόδωι, καὶ ἄφεσις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 7d",
+      "text": "PLUTARCH. Artox. 21, 2: ὁρῶν δὲ καὶ τοὺς ἑαυτοῦ λογισμοὺς δυνάμεως καὶ τὴν βασιλέως δύναμιν ἀνδρὸς ἔμφρονος δεομένην, ἔπεμψεν ἐπιστολὴν βασιλεῖ περὶ ὧν διενοεῖτο. (3) καὶ ταύτην ἐκέλευσε τὸν κομίζοντα μάλιστα μὲν ἀποδοῦναι διὰ Ζήνωνος τοῦ Κρητὸς (F 31) ἢ Πολυκρίτου τοῦ Μενδαίου (τούτων δ’ ἦν ὁ μὲν Ζήνων ὀρχηστής, ὁ δὲ Πολύκριτος ἰατρός), ἂν δ’ οὗτοι μὴ παρῶσι, διὰ Κτησίου τοῦ ἰατροῦ. (4) λέγεται δ’ ὁ Κτησίας τὴν ἐπιστολὴν λαβὼν παρεγγράψαι τοῖς ὑπὸ τοῦ Κόνωνος ἐπεσταλμένοις, ὅπως καὶ Κτησίαν ἀποστείληι πρὸς αὐτόν, ὡς ὠφέλιμον ὄντα ταῖς ἐπὶ θαλάσσηι πράξεσιν· ὁ δὲ Κτησίας (F 32) αὐτὸν ἀφ’ ἑαυτοῦ βασιλέα φησὶ προσθεῖναι τὴν λειτουργίαν αὐτῶι ταύτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 8",
+      "text": "PHOT. Bibl. 72 p 35 b 35: ἀνεγνώσθη βιβλίον Κτησίου τοῦ Κνιδίου τὰ Περσικὰ ἐν βιβλίοις κγ . ἀλλ’ ἐν μὲν τοῖς πρώτοις ϛ τά τε Ἀσσύρια διαλαμβάνει καὶ ὅσα πρὸ τῶν Περσικῶν, ἀπὸ μέντοι τοῦ ζ τὰ Περσικὰ διεξέρχεται. καὶ ἐν μὲν τῶι ζ καὶ η καὶ 〈 θ καὶ〉 ι καὶ ια καὶ ιβ καὶ ιγ διέξεισι τὰ περὶ Κύρου καὶ Καμβύσου καὶ τοῦ μάγου, Δαρείου τε καὶ τοῦ Ξέρξου, σχεδὸν ἐν ἅπασιν ἀντικείμενα Ἡροδότωι ἱστορῶν, ἀλλὰ καὶ ψεύστην αὐτὸν ἀπελέγχων ἐν πολλοῖς, καὶ λογοποιὸν ἀποκαλῶν· καὶ γὰρ νεώτερος μέν ἐστιν αὐτοῦ. φησὶ δὲ αὑτὸν τῶν πλειόνων ἃ ἱστορεῖ αὐτόπτην γενόμενον ἢ παρ’ αὐτῶν Περσῶν, ἔνθα τὸ ὁρᾶν μὴ ἐνεχώρει, αὐτήκοον καταστάντα, οὕτω τὴν ἱστορίαν συγγράψαι. οὐχ Ἡροδότωι δὲ μόνωι τἀναντία ἱστορεῖ, ἀλλὰ καὶ πρὸς Ξενοφῶντα τὸν Γρύλλου ἐπ’ ἐνίων διαφωνεῖ. ἤκμασε δὲ (T 5b) ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 9",
+      "text": "DIODOR. 14, 46, 6: Κτησίας δ’ ὁ συγγραφεὺς τὴν τῶν Περσικῶν ἱστορίαν εἰς τοῦτον τὸν ἐνιαυτὸν κατέστροφεν, ἀρξάμενος ἀπὸ Νίνου καὶ Σεμιράμεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 10",
+      "text": "PHOT. Bibl. 72 p. 45 a 20: ἀνεγνώσθη δὲ αὐτοῦ καὶ τὰ Ἰνδικὰ ἐν ἑνὶ βιβλίωι, ἐν οἷς μᾶλλον ἰωνίζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11a",
+      "text": "STRABON 11, 6, 3: (696 F 1) ῥᾶιον δ’ ἄν τις Ἡσιόδωι καὶ Ὁμήρωι πιστεύσειεν ἡρωολογοῦσι καὶ τοῖς τραγικοῖς ποιηταῖς ἢ Κτησίαι τε καὶ Ἡροδότωι καὶ Ἑλλανίκωι (687 a T 3) καὶ ἄλλοις τοιούτοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11b",
+      "text": "—1, 2, 35: Θεόπομπος (115 F 381) δὲ ἐξομολογεῖται φήσας ὅτι καὶ μύθους ἐν ταῖς ἱστορίαις ἐρεῖ κρεῖττον ἢ ὡς Ἡρόδοτος καὶ Κτησίας καὶ Ἑλλάνικος καὶ οἱ τὰ Ἰνδικὰ συγγράψαντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11c",
+      "text": "ANTIGON. Hist. mir. 15: (F 36) διὰ δὲ τὸ αὐτὸν πολλὰ ψεύδεσθαι παρελείπομεν τὴν ἐκλογήν· καὶ γὰρ ἐφαίνετο τερατώδης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11d",
+      "text": "PLUTARCH. Artox. 1, 4 (F 15a): ἀλλὰ τὸν Κτησίαν εἰ καὶ τἆλλα μύθων ἀπιθάνων καὶ παραφόρων ἐμβέβληκεν εἰς τὰ βιβλία παντοδαπὴν πυλαίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11e",
+      "text": "——6, 9 (F 29a): ἐκ τοῦ χρόνου μεταστῆσαι τὸ ἔργον ... οἷα πάσχει πολλάκις ὁ λόγος αὐτοῦ, πρὸς τὸ μυθῶδες καὶ δραματικὸν ἐκτρεπόμενος τῆς ἀληθείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11f",
+      "text": "ARISTOT. H.A. 8, 28 p. 606a 8: ἐν δὲ τῆι Ἰνδικῆι, ὥς φησι Κτησίας (F 45kα), οὐκ ὢν ἀξιόπιστος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11g",
+      "text": "ARRIAN. Anab. 5, 4, 2 (F 45a): εἰ δή τωι ἱκανὸς καὶ Κτησίας ἐς τεκμηρίωσιν. AELIAN. N.A. 4, 21 (F 45dβ).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 11h",
+      "text": "LUKIAN. Verae narr. 1, 3: Κτησίας ὁ Κτησιόχου ὁ Κνίδιος, ὃς συνέγραψεν περὶ τῆς Ἰνδῶν χώρας καὶ τῶν παρ’ αὐτοῖς ἃ μήτε αὐτὸς εἶδεν μήτε ἄλλου ἀληθεύοντος ἤκουσεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 12",
+      "text": "DIONYS. HAL. De comp. verb. 10: ἡ γάρ τοι Θουκυδίδου λέξις καὶ ἡ Ἀντιφῶντος τοῦ Ῥαμνουσίου καλῶς μὲν σύγκειται .... οὐ μὴν ἡδέως γε πάνυ· ἡ δέ γε τοῦ Κνιδίου συγγραφέως Κτησίου καὶ ἡ τοῦ Σωκρατικοῦ Ξενοφῶντος ἡδέως μὲν ὡς ἔνι μάλιστα, οὐ μὴν καλῶς γ’ ἐφ’ ὅσον ἔδει (λέγω δὲ κοινότερον ἀλλ’ οὐχὶ καθάπαξ, ἐπεὶ καὶ παρ’ ἐκείνοις ἥρμοσταί τινα ἡδέως, καὶ παρὰ τούτοις καλῶς)· ἡ δὲ Ἡροδότου σύνθεσις ἀμφότερα ταῦτα ἔχει, καὶ γὰρ ἡδεῖά ἐστι καὶ καλή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 13",
+      "text": "PHOT. Bibl. 72 p. 45a 5: ἔστι δὲ οὗτος ὁ συγγραφεὺς σαφής τε καὶ ἀφελὴς λίαν, διὸ καὶ ἡδονῆι αὐτῶι σύγκρατός ἐστιν ὁ λόγος. κέχρηται δὲ τῆι Ἰωνικῆι διαλέκτωι, εἰ καὶ μὴ δι’ ὅλου, καθάπερ Ἡρόδοτος, ἀλλὰ κατ’ ἐνίας τινὰς λέξεις (T 10)· οὐδὲ πρὸς ἐκτροπὰς δέ τινας ἀκαίρους, ὥσπερ ἐκεῖνος, ἀπάγει τὸν λόγον. τῶν μέντοι γε μύθων, ἐν οἷς ἐκείνωι λοιδορεῖται, οὐδ’ οὗτος ἀφίσταται (T 11), καὶ μάλιστα ἐν τοῖς ἐπιγραφομένοις αὐτῶι ‘Ἰνδικά‘. ἡ δὲ ἡδονὴ τῆς ἱστορίας αὐτοῦ τὸ πλεῖστον ἐν τῆι τῶν διηγημάτων αὐτοῦ γίνεται διασκευῆι, τὸ παθητικὸν καὶ ἀπροσδόκητον ἐχούσηι πολὺ καὶ τὸ ἐγγὺς τοῦ μυθώδους αὐτὴν διαποικίλλειν. καὶ διαλελυμένος δέ ἐστι πλέον τι τοῦ δέοντος αὐτῶι ὁ λόγος, ὡς καὶ εἰς ἰδιωτισμὸν ἐκπίπτειν. ὁ δὲ τοῦ Ἡροδότου λόγος ταύτηι τε καὶ τῆι ἄλληι τοῦ ἔπους δυνάμει καὶ τέχνηι κανών ἐστιν Ἰωνικῆς διαλέκτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 14a",
+      "text": "DEMETR. De eloc. 209: πρῶτον δὲ περὶ ἐναργείας· γίνεται δ’ ἡ ἐνάργεια πρῶτα μὲν ἐξ ἀκριβολογίας καὶ τοῦ παραλείπειν μηδὲν μηδ’ ἐκτέμνειν .... (210) .... τῶν τε συμβαινόντων καὶ συμβάντων, (211) ὥστε πολλάκις καὶ ἡ διλογία ἐνάργειαν ποιεῖ μᾶλλον ἢ τὸ ἅπαξ λέγειν .... (212) ὅπερ δὲ τῶι Κτησίαι ἐγκαλοῦσιν ὡς ἀδολεσχοτέρωι διὰ τὰς διλογίας, πολλαχῆ μὲν ἴσως ἐγκαλοῦσιν ὀρθῶς, πολλαχῆ δὲ οὐκ αἰσθάνονται τῆς ἐναργείας τοῦ ἀνδρός· τίθεται γὰρ ταὐτὸ δὶς αὐτῶι πολλάκις, ποιοῦν ἔμφασιν πλείονα, (213) οἷα τὰ τοιάδε (F 8a) ..... (215) καὶ ὅλως δὲ ὁ ποιητὴς οὗτος—ποιητὴν γὰρ 〈ἂν〉 αὐτὸν καλοίη τις εἰκότως—ἐναργείας δημιουργός ἐστιν ἐν τῆι γραφῆι συμπάσηι, (216) οἷον καὶ ἐν τοῖς τοιοῖσδε· δεῖ τὰ γινόμενα οὐκ εὐθὺς λέγειν ὅτι ἐγένετο, ἀλλὰ κατὰ μικρόν, κρεμῶντα τὸν ἀκροατὴν καὶ ἀναγκάζοντα συναγωνιᾶν. τοῦτο ὁ Κτησίας ἐν τῆι ἀγγελίαι τῆι περὶ Κύρου τεθνεῶτος (F 24) ποιεῖ ..... καὶ οὕτω κατὰ μικρὸν καὶ κατὰ βραχὺ προιών, μόλις τὸ δὴ λεγόμενον ἀπέρρηξεν αὐτό, μάλα ἠθικῶς καὶ ἐναργῶς τόν τε ἄγγελον ἐμφήνας ἀκουσίως ἀγγελοῦντα τὴν συμφοράν, καὶ τὴν μητέρα εἰς ἀγωνίαν ἐμβαλὼν καὶ τὸν ἀκούοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 14b",
+      "text": "PLUTARCH. Artox. 11, 11: (F 20 c. 11, 10) τοιοῦτος μὲν ὁ Κτησίου λόγος, ὧι καθάπερ ἀμβλεῖ ξιφιδίωι μόλις ἀναιρῶν τὸν ἄνθρωπον ἀνήιρηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 15",
+      "text": "PLUTARCH. Artox. 13, 6: (F 23) ὁ γὰρ Ξενοφῶν ἠπίστατο συνδιατρίβοντα βασιλεῖ Κτησίαν· μέμνηται γὰρ αὐτοῦ (Anab. 1, 8, 26/7), καὶ τοῖς βιβλίοις τούτοις ἐντετυχηκὼς δῆλός ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 16",
+      "text": "SUDA s.v. Παμφίλη· ... θυγάτηρ Σωτηρίδου, οὗ λέγεται εἶναι καὶ τὰ συντάγματα .... Ἐπιτομὴν τῶν Κτησίου ἐν βιβλίοις γ ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 17",
+      "text": "PORPHYR. b. EUSEB. P.E. 10, 3, 23: Πολλίωνος δὲ ἐπιστολὴ πρὸς Σωτηρίδαν Περὶ τῆς Κτησίου κλοπῆς· τοῦ δ’ αὐτοῦ καὶ Περὶ τῆς Ἡροδότου κλοπῆς ἐστι βιβλίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 18a",
+      "text": "PLIN. N.H. 1, 2: ... miracula ... ex auctoribus ... externis ... Herodoto, Aristotele, Ctesia, Artemidoro Ephesio (V) ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 18b",
+      "text": "——1, 7: ... gentium mirabiles figurae ... quae quis in vita invenerit ... ex ... Megasthene (715), Ctesia, Taurone (VI), Eudoxo (V), Onesicrito (134), Clitarcho (137) ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 18c",
+      "text": "——1, 8: ... terrestria animalia ... Indiae .... ex auctoribus ... externis Juba rege (275) ... Ctesia ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 18d",
+      "text": "——1, 31: ... aquarum differentiae ... miracula .... ex ... Callimacho, Ctesia, Eudico ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 18e",
+      "text": "——1, 37: ... de sucino ... externis: Juba rege ... Ctesia ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,688,T 19",
+      "text": "GELLIUS N.A. 9, 4, 1: fasces librorum venalium expositos vidimus (in Brundisium) ... (3) erant autem isti omnes libri Graeci miraculorum fabularumque pleni, res inauditae, incredulae, scriptores veteres non parvae auctoritatis: Aristeas Proconnesius (35) et Isigonus Nicaeensis (IV) et Ctesias et Onesicritus (134) et Philostephanus (IV) et Hegesias (142). (4) ipsa autem volumina ex diutino situ squalebant.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ehy-ab",
+      "title": {
+        "english": "Fragments on Assyrian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀσσυρικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesias-of-cnidus-assyrian-history-ehy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/assyrian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.json"
+      }
+    },
+    {
+      "eul_wid": "ehy-ac",
+      "title": {
+        "english": "On the Colaxaeans",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "ctesias-of-cnidus-colaxaeans-ehy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/colaxaeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "omy-ac",
+      "title": {
+        "english": "Four Books-Women",
+        "ancient_greek": "Γυναικείων Βιβλία Δ'"
+      },
+      "url_slug": "soranus-of-ephesus-four-books-women-omy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/four-books-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ac",
+      "title": {
+        "english": "Fragments of Anatolius-Horses",
+        "ancient_greek": "Ἀποσπάσματα Ἀνατολίου περὶ ἵππων"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-anatolius-ac-vjk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.json"
+      }
+    },
+    {
+      "eul_wid": "qig-aa",
+      "title": {
+        "english": "From the Work-Enemas, That They are Taken for Three Reasons",
+        "ancient_greek": "Ἐκ τοῦ περὶ κλυσμῶν ὅτι διὰ τρεῖς αἰτίας"
+      },
+      "url_slug": "antyllus-the-surgeon-work-enemas-three-reasons-qig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antyllus-the-surgeon/work-enemas-three-reasons",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antyllus-the-surgeon/work-enemas-three-reasons.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-ab",
+      "title": {
+        "english": "Medical Book XIII",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον ΙΓʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-13-vhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-13",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-13.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-13.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-13.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-13.json"
+      }
+    },
+    {
+      "eul_wid": "bww-af",
+      "title": {
+        "english": "On Diet in Acute Diseases",
+        "ancient_greek": "Περὶ διαίτης ἐν τοῖς ὀξέσιν"
+      },
+      "url_slug": "hippocrates-diet-acute-diseases-bww-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/diet-acute-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-diseases.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-diseases.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-diseases.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-diseases.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cl",
+      "title": {
+        "english": "On Hippocrates' Prognostic",
+        "ancient_greek": "Περὶ Ἱπποκράτους Προγνωστικοῦ"
+      },
+      "url_slug": "galen-of-pergamon-prognostic-qmm-cl",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-af",
+      "title": {
+        "english": "On Seven-Month Birth",
+        "ancient_greek": "Περὶ ἑπταμηνιαίου τόκου"
+      },
+      "url_slug": "pseudo-hippocrates-seven-month-birth-oyw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bz",
+      "title": {
+        "english": "That Qualities are Incorporeal",
+        "ancient_greek": "Ὅτι τὰ ποιοῦντα ἀσώματα"
+      },
+      "url_slug": "galen-of-pergamon-qualities-incorporeal-qmm-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/qualities-incorporeal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/qualities-incorporeal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/qualities-incorporeal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/qualities-incorporeal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/qualities-incorporeal.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ctesias-of-cnidus/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cps",
+  "auth_slug": "neophron-of-sicyon",
+  "name": {
+    "english": "Neophron of Sicyon",
+    "ancient_greek": "Νεόφρων ὁ Σικυώνιος"
+  },
+  "seo_h1": "Medea's Revenge in the Fragments of Neophron",
+  "seo": {
+    "browser_title": "Neophron of Sicyon Tragedian on Eulogikon Greek Archive",
+    "meta_title": "Classical Neophron of Sicyon Ancient Greek Drama Fragments",
+    "meta_description": "Neophron of Sicyon, a 5th century BCE Attic dramatist. Surviving fragments of his dramatic works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (dr, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Neophron of Sicyon was a 5th-century BCE Greek tragedian and a contemporary of Euripides. The Suda credits him with 120 plays and claims he first introduced the paidagogos character to the stage. He is primarily known for a single significant work, and ancient sources record a controversy alleging either that Euripides plagiarized Neophron&#x27;s Medea or that Neophron plagiarized Euripides.</p>\n<p class=\"research-text\">His only definitively attributed play is the tragedy Medea, which survives only in fragments. Its existence and its contested relationship with Euripides&#x27; more famous version are well-documented in ancient scholarship. Neophron&#x27;s significance stems entirely from this ancient controversy. Aristotle cites a speech from &quot;the Medea&quot; in his Rhetoric, and a later commentator identifies this as a reference to Neophron&#x27;s version, indicating its notable reputation. This dispute establishes him as a minor but historically intriguing figure in the development of Attic tragedy and the handling of the Medea myth.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cps-aa",
+      "title": {
+        "english": "Medea's Revenge Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "neophron-of-sicyon-medea-revenge-cps-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/neophron-of-sicyon/medea-revenge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neophron-of-sicyon/medea-revenge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neophron-of-sicyon/medea-revenge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neophron-of-sicyon/medea-revenge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neophron-of-sicyon/medea-revenge.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/neophron-of-sicyon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neophron-of-sicyon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neophron-of-sicyon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neophron-of-sicyon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/neophron-of-sicyon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

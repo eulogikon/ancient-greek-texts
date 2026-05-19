@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "etw-aa",
+  "eul_aid": "etw",
+  "author_slug": "amasis-letters",
+  "work_slug": "fortune-rule",
+  "url_slug": "amasis-letters-fortune-rule-etw-aa",
+  "author": {
+    "english": "Amasis Letters",
+    "ancient_greek": "Ἀμάσιδος Ἐπιστολαί"
+  },
+  "title": {
+    "english": "Amasis on Fortune and Rule",
+    "ancient_greek": "Ἐπιστολαί"
+  },
+  "seo": {
+    "browser_title": "On Fortune and Rule by Amasis Letters on Eulogikon",
+    "meta_title": "On Fortune and Rule by Amasis Letters in Ancient Greek",
+    "meta_description": "Epistolary text on fortune governance by Amasis. Philosophical letter on rulership and chance. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as <strong>Amasis on Fortune and Rule</strong> is a pseudepigraphical text attributed to the 26th Dynasty Egyptian pharaoh Amasis. It survives only in two brief fragments quoted by the 6th-century CE Byzantine historian John the Lydian in his antiquarian treatise <strong>De magistratibus</strong>. Presented as excerpts from letters, one fragment offers a meditation on the inconstant and potentially envious nature of divine fortune, advising the recipient to deliberately sacrifice a valued possession to avert future catastrophe. The other fragment presents a king seeking counsel on a matter of statecraft. Modern scholarship considers these letters a Hellenistic or later fabrication, part of a broader literary tradition that ascribed political and philosophical wisdom to legendary Eastern rulers as a means of authorizing common Greco-Roman ethical themes. The work has no independent manuscript tradition and is transmitted solely through its incidental preservation in John the Lydian&#x27;s text. While its direct influence is untraceable, the fragments exemplify the pseudepigraphical attribution of political advice to ancient monarchs, a practice that helped transmit and legitimize Hellenistic ideas about fortune and kingship into the Roman and Byzantine periods, as evidenced by John the Lydian&#x27;s reuse of the material for his own bureaucratic context.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἄμασις Πολυκράτει ὧδε λέγει. Ἡδὺ μὲν πυνθάνεσθαι ἄνδρα φίλον καὶ ξεῖνον εὖ πρήσσοντα, ἐμοὶ δὲ αἱ σαὶ μεγάλαι εὐτυχίαι οὐχ ἀρέσκουσι ἐπισταμένῳ τὸ θεῖον ὡς ἔστι φθονερόν· καί κως βού λομαι καὶ αὐτὸς καὶ τῶν ἂν κήδωμαι τὸ μέν τι εὐτυχέειν τῶν πρηγμάτων, τὸ δὲ προσπταίειν, καὶ οὕτω διαφέρειν τὸν αἰῶνα ἐναλλὰξ πρήσσων, ἢ εὐτυχέειν τὰ πάντα. οὐδένα γάρ κω λόγῳ οἶδα ἀκούσας ὅστις ἐς τέλος οὐ κακῶς ἐτελεύτησε πρόρριζος, εὐτυχέων τὰ πάντα. σὺ ὦν νῦν ἐμοὶ πειθόμενος ποίησον πρὸς τὰς εὐτυχίας τοιάδε· φροντίσας τὸ ἂν εὕρῃς ἐόν τοι πλείστου ἄξιον, καὶ ἐπ’ ᾧ σὺ ἀπολομένῳ μάλιστα τὴν ψυχὴν ἀλγήσεις, τοῦτο ἀπόβαλε οὕτω ὅκως μηκέτι ἥξει ἐς ἀνθρώπους. ἤν τε μὴ ἐναλλὰξ ἤδη τὠπὸ τούτου αἱ εὐτυχίαι τοι τῇσι πάθῃσι προσπίπτωσι, τρόπῳ τῷ ἐξ ἐμεῦ ὑποκειμένῳ ἀκέο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Βασιλεὺς Αἰγυπτίων Ἄμασις λέγει Βίαντι σοφωτάτῳ. Ἑλλήνων. Βασιλεὺς Αἰθιόπων ἔχει πρὸς ἐμὲ σοφίας ἅμιλλαν, ἡττώμενος δὲ τοῖς ἄλλοις ἐπὶ πᾶσι συντέθεικεν ἄτοπον ἐπίταγμα καὶ δεινόν, ἐκ πιεῖν με κελεύων τὴν θάλασσαν. ἔστι δὲ λύσαντι μὲν ἔχειν κώμας τε πολλὰς καὶ πόλεις τῶν ἐκείνου, μὴ λύσαντι δὲ ἄστεων τῶν περὶ Ἐλεφαντίνην ἀποστῆναι. Σκεψάμενος οὖν εὐθὺς ἀπόπεμπε Νειλόξενον. Ἃ δὲ δεῖ φίλοις σοῖς ἢ πολίταις γενέσθαι παρ’ ἡμῶν, οὐ τἀμὰ κωλύσει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [],
+  "links": {
+    "html": "https://eulogikon.org/grc/amasis-letters/fortune-rule",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

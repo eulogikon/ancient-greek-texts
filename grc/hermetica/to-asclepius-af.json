@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oqk-af",
+  "eul_aid": "oqk",
+  "author_slug": "hermetica",
+  "work_slug": "to-asclepius-af",
+  "url_slug": "hermetica-to-asclepius-af-oqk-af",
+  "author": {
+    "english": "Hermetica ",
+    "ancient_greek": "Ἑρμητικά"
+  },
+  "title": {
+    "english": "Hermes Trismegistus, To Asclepius, Be Well",
+    "ancient_greek": "Ἀσκληπιῷ εὖ φρονεῖν"
+  },
+  "seo": {
+    "browser_title": "To Asclepius Be Well by Hermes Trismegistus on Eulogikon",
+    "meta_title": "Classical Hermes Trismegistus To Asclepius in Ancient Greek",
+    "meta_description": "This Hermetic treatise explores the divine nature of the cosmos through philosophical dialogue between Hermes Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Hermetic",
+      "href": "/affiliations/hermetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_To Asclepius, Be Well_ is a philosophical and religious treatise attributed to the legendary sage Hermes Trismegistus, a syncretic figure embodying both Greek and Egyptian wisdom traditions. Composed in Greek between the first and third centuries CE, it forms part of the larger body of writings known as the Hermetic corpus. The work is presented as a didactic discourse from Hermes to his disciple Asclepius, distilling essential teachings originally delivered to Hermes&#x27;s son, Tat. It explores foundational Hermetic doctrines concerning a transcendent, unbegotten God as the sole creator of the cosmos, the nature of generated beings, and the path to human salvation through spiritual knowledge, or gnosis. The original Greek text is only partially extant; its content is primarily known through its incorporation as chapters 21–29 of a later, predominantly Latin work titled the _Asclepius_. Additional fragments of the Greek original are preserved in the anthology compiled by the fifth-century writer Stobaeus. Modern scholarship interprets the treatise as a product of the syncretic intellectual environment of Roman Egypt, blending Middle Platonic philosophical concepts with Egyptian religious thought. It is considered a text intended for small circles of spiritual initiates, offering a contemplative path for the soul to recognize its divine origin and achieve liberation from the material world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ἙΡΜΟΥ ΤΡΙΣΜΕΓΙΣΤΟΥ ΑΣΚΛΗΠΙΩΙ ΕΥ ΦΡΟΝΕΙΝ Ἐπεὶ ὁ υἱός μου Τὰτ ἀπόντος σοῦ τὴν τῶν ὅλων ἠθέλησε φύσιν μαθεῖν, ὑπερθέσθαι δέ μοι οὐκ ἐπέτρεπεν, ὡς υἱὸς καὶ νεώτερος ἄρτι παρελθὼν ἐπὶ τὴν γνῶσιν τῶν περὶ ἑνὸς ἑκάστου, ἠναγκάσθην πλείονα εἰπεῖν, ὅπως εὐπαρακολούθητος αὐτῷ γένηται ἡ θεωρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "σοὶ δὲ ἐγὼ τῶν λεχθέντων τὰ κυριώτατα κεφάλαια ἐκλεξάμενος δι’ ὀλίγων ἠθέλησα ἐπιστεῖλαι, μυστικώτερον αὐτὰ ἑρμηνεύσας, ὡς ἂν τηλικούτῳ καὶ ἐπιστήμονι τῆς φύσεως. εἰ τὰ φαινόμενα πάντα γέγονε καὶ γίνεται, τὰ δὲ γεννητὰ οὐχ ὑφ’ ἑαυτῶν ἀλλ’ ὑφ’ ἑτέρου γίνεται, πολλὰ δὲ γεννητά, μᾶλλον δὲ πάντα τὰ φαινόμενα καὶ πάντα τὰ διάφορα καὶ οὐχ ὅμοια, γίνεται δὲ ὑφ’ ἑτέρου τὰ γινόμενα, ἔστι τις ὁ ταῦτα ποιῶν καὶ οὗτος ἀγέννητος, ἵν’ ᾖ πρεσβύτερος τῶν γεννητῶν· τὰ γὰρ γεννητά φημι ὑφ’ ἑτέρου γίνεσθαι· τῶν δὲ γεννητῶν ὄντων ἀδύνατόν τι πρεσβύτερον πάντων εἶναι, ἢ μόνον τὸ ἀγέννητον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "οὗτος δὲ καὶ κρείττων καὶ εἷς καὶ μόνος ὄντως σοφὸς τὰ πάντα, ὡς μὴ ἔχων μηδὲν πρεσβύτερον ἄρχει γὰρ καὶ τῷ πλήθει καὶ τῷ μεγέθει καὶ τῇ διαφορᾷ τῶν γενομένων καὶ τῇ συνεχείᾳ τῆς ποιήσεως. ἔπειτα δὲ τὰ γεννητὰ ὁρώμενά ἐστιν, ἐκεῖνος δὲ ἀόρατος. διὰ τοῦτο γὰρ ποιεῖ, ἵνα ὁρατὸς ᾖ. ἀεὶ οὖν ποιεῖ· ὁρατὸς τοιγαροῦν ἐστιν. οὕτως ἐστὶν ἄξιον νοῆσαι καὶ νοήσαντα θαυμάσαι καὶ θαυμάσαντα ἑαυτὸν μακαρίσαι, τὸν πατέρα γνωρίσαντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "τί γὰρ γλυκύτερον πατρὸς γνησίου; τίς οὖν ἐστιν οὗτος καὶ πῶς αὐτὸν γνωρίσομεν; ἢ τούτῳ τὴν τοῦ θεοῦ προσηγορίαν μόνῳ δίκαιον ἀνάκεισθαι, ἢ τὴν τοῦ ποιητοῦ, ἢ τὴν τοῦ πατρός, ἢ καὶ τὰς τρεῖς; θεὸν μὲν διὰ τὴν δύναμιν, ποιητὴν δὲ διὰ τὴν ἐνέργειαν, πατέρα δὲ διὰ τὸ ἀγαθόν. δύναμις γάρ ἐστι, διάφορος τῶν γενομένων, ἐνέργεια δὲ ἐν τῷ πάντα γίνεσθαι. διὸ τῆς πολυλογίας τε καὶ ματαιολογίας ἀπαλλαγέντας χρὴ νοεῖν δύο ταῦτα, τὸ γινόμενον καὶ τὸν ποιοῦντα· μέσον γὰρ τούτων οὐδὲν οὐδὲ τρίτον τι. πάντα οὖν νοῶν, καὶ πάντα ἀκούων, τῶν δύο τούτων μέμνησο καὶ ταῦτα εἶναι νόμιζε τὰ πάντα, μηδὲν ἐν ἀπορίᾳ τιθέμενος, μὴ τῶν ἄνω, μὴ τῶν κάτω, μὴ τῶν θείων, μὴ τῶν μεταβλητῶν, ἢ τῶν ἐν μυχῷ· δύο γάρ ἐστι τὰ πάντα, τὸ γινόμενον καὶ τὸ ποιοῦν, καὶ διαστῆναι τὸ ἕτερον τοῦ ἑτέρου ἀδύνατον· οὐδὲ γὰρ τὸν ποιοῦντα χωρὶς τοῦ γινομένου δυνατὸν εἶναι· ἑκάτερος γὰρ αὐτῶν αὐτὸ τοῦτό ἐστι· διὸ οὐκ ἔστι τὸ ἕτερον τοῦ ἑτέρου χωρισθῆναι, ἀλλ’ 〈οὐδὲ〉 αὐτὸ ἑαυτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "εἰ γὰρ ὁ ποιῶν ἄλλο οὐδέν ἐστιν ἢ τὸ ποιοῦν, μόνον, ἁπλοῦν, ἀσύνθετον, ποιεῖν ἀνάγκη τοῦτο αὐτὸ ἑαυτῷ, ὡς γένεσίς ἐστι τὸ ποιεῖν τοῦ ποιοῦντος καὶ πᾶν τὸ γινόμενον ἀδύνατον ὑφ’ ἑαυτοῦ γινόμενον εἶναι, γινόμενον δὲ ὑφ’ ἑτέρου ἀνάγκη γίνεσθαι· τοῦ δὲ ποιοῦντος ἄνευ τὸ γεννητὸν οὔτε γίνεται οὔτε ἔστι. τὸ γὰρ ἕτερον τοῦ ἑτέρου ἄνευ ἀπώλεσε τὴν ἰδίαν φύσιν, στερήσει τοῦ ἑτέρου. εἰ τοίνυν δύο ὡμολόγηται τὰ ὄντα, τό τε γινόμενον καὶ τὸ ποιοῦν, ἕν ἐστι τῇ ἑνώσει, τὸ μὲν προηγούμενον τὸ δὲ ἑπόμενον· προηγούμενον μέν, ὁ ποιῶν θεός, ἑπόμενον δὲ τὸ γινόμενον, ὁποῖον ἐὰν ᾖ. καὶ μὴ διὰ τὴν ποικιλίαν τῶν γινομένων φυλάξῃ, φοβούμενος ταπεινότητα καὶ ἀδοξίαν τῷ θεῷ περιάψαι· μία γάρ ἐστιν αὐτῷ δόξα, τὸ ποιεῖν τὰ πάντα, καὶ τοῦτό ἐστι τοῦ θεοῦ ὥσπερ σῶμα, ἡ ποίησις· αὐτῷ δὲ τῷ ποιοῦντι οὐδὲν κακὸν οὐδ’ αἰσχρὸν νομιζόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ταῦτα γάρ ἐστι τὰ πάθη τὰ τῇ γενέσει παρεπόμενα, ὥσπερ ὁ ἰὸς τῷ χαλκῷ καὶ ὁ ῥύπος τῷ σώματι. ἀλλ’ οὔτε ἰὸν ὁ χαλκουργὸς ἐποίησεν, οὔτε τὸν ῥύπον οἱ γεννήσαντες, οὔτε τὴν κακίαν ὁ θεός. ἡ δὲ τῆς γενέσεως ἐπιδιαμονὴ καθάπερ ἐξανθεῖν ποιεῖ καὶ διὰ τοῦτο ἐποίησε τὴν μεταβολὴν ὁ θεός, ὥσπερ ἀνακάθαρσιν τῆς γενέσεως. εἶτα τῷ μὲν αὐτῷ ζωγράφῳ ἔξεστι καὶ οὐρανὸν ποιῆσαι καὶ θεοὺς καὶ γῆν καὶ θάλασσαν καὶ ἀνθρώπους καὶ τὰ ἄλογα πάντα καὶ ἄψυχα, τῷ δὲ θεῷ οὐ δυνατὸν ταῦτα ποιεῖν; ὧ τῆς πολλῆς ἀνοίας καὶ ἀγνωσίας τῆς περὶ τὸν θεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "τὸ γὰρ πάντων καινότατον πάσχουσιν οἱ τοιοῦτοι· τὸν γὰρ θεὸν φάσκοντες εὐσεβεῖν τε καὶ εὐλογεῖν, τῷ μὴ τὴν τῶν πάντων ποίησιν αὐτῷ ἀνατιθέναι, οὔτε τὸν θεὸν οἴδασι, πρὸς δὲ τῷ μὴ εἰδέναι, καὶ τὰ μέγιστα εἰς αὐτὸν ἀσεβοῦσι, πάθη αὐτῷ περιτιθέντες ὑπεροψίαν ἢ ἀδυναμίαν. εἰ γὰρ μὴ πάντα ποιεῖ, ὑπερηφανῶν οὐ ποιεῖ ἢ μὴ δυνάμενος· ὅπερ ἐστὶν ἀσεβές. ὁ γὰρ θεὸς ἓν μόνον πάθος ἔχει, τὸ ἀγαθόν, ὁ δὲ ἀγαθὸς οὔτε ὑπερήφανος οὔτε ἀδύνατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "τοῦτο γάρ ἐστιν ὁ θεός, τὸ ἀγαθόν, ἡ πᾶσα δύναμις τοῦ ποιεῖν τὰ πάντα, πᾶν δὲ τὸ γεννητὸν ὑπὸ τοῦ θεοῦ γέγονεν, ὅπερ ἐστὶν ὑπὸ τοῦ ἀγαθοῦ καὶ τοῦ τὰ πάντα δυναμένου ποιεῖν. εἰ δὲ πῶς μὲν αὐτὸς ποιεῖ, πῶς δὲ τὰ γινόμενα γίνεται βούλει μαθεῖν, ἔξεστί σοι· ἴδε εἰκόνα καλλίστην καὶ ὁμοιοτάτην, ἴδε γεωργὸν σπέρμα καταβάλλοντα εἰς τὴν γῆν, ὅπου μὲν πυρόν, ὅπου δὲ κριθήν, ὅπου δὲ ἄλλο τι τῶν σπερμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἴδε τὸν αὐτὸν ἄμπελον φυτεύοντα καὶ μηλέαν καὶ τὰ ἄλλα τῶν δένδρων. οὕτω καὶ ὁ θεὸς ἐν μὲν οὐρανῷ ἀθανασίαν σπείρει, ἐν δὲ γῇ μεταβολήν, ἐν δὲ τῷ παντὶ ζωὴν καὶ κίνησιν. ταῦτα δὲ οὐ πολλά ἐστιν, ἀλλ’ ὀλίγα καὶ εὐαρίθμητα· τὰ γὰρ πάντα τέσσαρά ἐστι καὶ αὐτὸς ὁ θεὸς καὶ ἡ γένεσις, ἐν οἷς τὰ ὄντα ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oqk-an",
+      "title": {
+        "english": "Asclepius Greek Words Only",
+        "ancient_greek": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν"
+      },
+      "url_slug": "hermetica-asclepius-words-oqk-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/asclepius-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-as",
+      "title": {
+        "english": "Dialogue Untitled",
+        "ancient_greek": "Διάλογος"
+      },
+      "url_slug": "hermetica-dialogue-oqk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-am",
+      "title": {
+        "english": "From the Hymn to the Almighty",
+        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
+      },
+      "url_slug": "hermetica-hymn-almighty-oqk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/hymn-almighty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ao",
+      "title": {
+        "english": "Hermes Trismegistus Key",
+        "ancient_greek": "Κλείς"
+      },
+      "url_slug": "hermetica-key-oqk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/key",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ak",
+      "title": {
+        "english": "Hermes Trismegistus to Asclepius",
+        "ancient_greek": "Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "hermetica-to-asclepius-ak-oqk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aa",
+      "title": {
+        "english": "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth",
+        "ancient_greek": "Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ"
+      },
+      "url_slug": "hermetica-to-tat-rebirth-oqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-tat-rebirth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ac",
+      "title": {
+        "english": "Hermes Trismegistus, Greatest Evil is Ignorance of God",
+        "ancient_greek": "Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ"
+      },
+      "url_slug": "hermetica-greatest-evil-ignorance-oqk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/greatest-evil-ignorance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ah",
+      "title": {
+        "english": "Hermes Trismegistus-Common Mind to Tat",
+        "ancient_greek": "Περὶ νοῦ κοινοῦ πρὸς Τάτ"
+      },
+      "url_slug": "hermetica-common-mind-oqk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/common-mind",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ae",
+      "title": {
+        "english": "Hermes Trismegistus-Thought and Perception",
+        "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+      },
+      "url_slug": "hermetica-thought-perception-oqk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/thought-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ab",
+      "title": {
+        "english": "Hermes to His Son Tat, That the Invisible God is Most Manifest",
+        "ancient_greek": "Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν"
+      },
+      "url_slug": "hermetica-invisible-god-manifest-oqk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/invisible-god-manifest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aq",
+      "title": {
+        "english": "Hermes to Tat, The Cup",
+        "ancient_greek": "Πρὸς Τάτ ὁ κρατήρ ἡ μονάς"
+      },
+      "url_slug": "hermetica-cup-oqk-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/cup",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-at",
+      "title": {
+        "english": "Hermetic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "hermetica-fragments-oqk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffk-bn",
+      "title": {
+        "english": "Meno",
+        "ancient_greek": "Μένων"
+      },
+      "url_slug": "plato-meno-ffk-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/meno",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/meno.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/meno.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/meno.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/meno.json"
+      }
+    },
+    {
+      "eul_wid": "uqo-ac",
+      "title": {
+        "english": "On Aristotle's Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "ammonius-of-alexandria-phil-categories-commentary-uqo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ammonius-of-alexandria-phil/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/categories-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/categories-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/categories-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ammonius-of-alexandria-phil/categories-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ag",
+      "title": {
+        "english": "On Speaking or How the Philosopher Should Speak",
+        "ancient_greek": "〈Ὑπὲρ τοῦ λέγειν ἢ πῶς τῷ φιλοσόφῳ λεκτέον〉"
+      },
+      "url_slug": "themistius-speaking-philosopher-rye-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/speaking-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/speaking-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/speaking-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/speaking-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/speaking-philosopher.json"
+      }
+    },
+    {
+      "eul_wid": "kkk-ab",
+      "title": {
+        "english": "On the Comparison of Poverty and Wealth",
+        "ancient_greek": "Περὶ συγκρίσεως πενίας καὶ πλούτου"
+      },
+      "url_slug": "teles-of-megara-poverty-wealth-ab-kkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/poverty-wealth-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/poverty-wealth-ab.json"
+      }
+    },
+    {
+      "eul_wid": "sno-ac",
+      "title": {
+        "english": "On the Emperor's Deeds or-Kingship",
+        "ancient_greek": "Περὶ τῶν τοῦ αὐτοκράτορος πράξεων ἢ περὶ βασιλείας"
+      },
+      "url_slug": "julian-the-apostate-deeds-kingship-sno-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/deeds-kingship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/deeds-kingship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/deeds-kingship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/deeds-kingship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/deeds-kingship.json"
+      }
+    },
+    {
+      "eul_wid": "bue-ac",
+      "title": {
+        "english": "On the Soul and the Cosmos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philolaus-of-croton-soul-cosmos-bue-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philolaus-of-croton/soul-cosmos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/soul-cosmos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/soul-cosmos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/soul-cosmos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philolaus-of-croton/soul-cosmos.json"
+      }
+    },
+    {
+      "eul_wid": "die-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "empedocles-of-acragas-testimonies-die-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/empedocles-of-acragas/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermetica/to-asclepius-af",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

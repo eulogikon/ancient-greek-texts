@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kku-aa",
+  "eul_aid": "kku",
+  "author_slug": "antigonus-of-carystus-ii",
+  "work_slug": "italic-history",
+  "url_slug": "antigonus-of-carystus-ii-italic-history-kku-aa",
+  "author": {
+    "english": "Antigonus of Carystus II",
+    "ancient_greek": "Ἀντίγονος ὁ Καρύστιος"
+  },
+  "title": {
+    "english": "Fragments on Italic History",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Antigonus of Carystus on Eulogikon",
+    "meta_title": "Fragments by Antigonus of Carystus in Ancient Greek",
+    "meta_description": "Fragments of Antigonus of Carystus on Italic history. Hellenistic biographical compilation. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Italic History</strong> is a lost prose work attributed to the Hellenistic biographer and paradoxographer Antigonus of Carystus. Surviving only as a handful of excerpts preserved by later authors, the work contained biographical and historical notes on figures associated with Italy, consistent with Antigonus’s known interest in philosophical and intellectual lives. The extant fragments indicate a focus on biographical sketches of philosophers, artists, and other notable individuals connected to Italy, particularly within the context of Greek intellectual history in Magna Graecia. The content likely also encompassed elements of cultural geography and paradoxical anecdotes, aligning with the author’s other known works. The text is preserved indirectly through fragmentary citations in later compilers such as Diogenes Laërtius or Athenaeus, with no independent manuscript tradition. While its direct influence is obscured by its fragmentary state, Antigonus’s biographical collections were important sources for later doxographers. Material from works like this one was incorporated into the mainstream of ancient biographical writing, most notably by Diogenes Laërtius in his compendium of philosophical lives.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΙΤΑΛΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Festus: Antigonus, Italicae historiae scriptor, ait Rhomum quendam nomine Jove conceptum urbem condidisse in Palatio, Romae eique dedisse nomen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Plutarch. Romul. c. 17, 11, de Tarpeia Capitolium Sabinis prodente: Ἀπίθανοι μέν εἰσιν οἱ Τατίου θυγατέρα τοῦ ἡγεμόνος τῶν Σαβίνων οὖσαν αὐτὴν, Ῥωμύλῳ δὲ βίᾳ συνοικοῦσαν ἱστοροῦντες ταῦτα ποιῆ σαι καὶ παθεῖν ὑπὸ τοῦ πατρός· ὧν καὶ Ἀντίγονός ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t3",
+      "text": "ΜΑΚΕΔΟΝΙΚΗ ΠΕΡΙΗΓΗΣΙΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Stephan. Byz. v. Ἀβάντις: Δοκεῖ δ’ ἀπὸ τοῦ Ἀβάντιος εἶναι τὸ Ἀβαντιάς ... Μαρτυρεῖ δὲ τῷ προτέρῳ λόγῳ ἀπὸ τοῦ Ἀβάντιος Ἀβαντιὰς τὸ Ἀβαντία θηλυκόν· ὅπερ που κατὰ βαρβαρικὴν τροπὴν τοῦ β εἰς μ Ἀμαντία ἐλέχθη παρὰ Ἀντιγόνῳ ἐν Μακεδονικῇ περιηγήσει. Καλλίμαχος δὲ Ἀμαντίνην, ὡς Λεοντίνην, αὐτὴν ἔφη· «Καὶ Ἀμαντίνην ᾤκισαν Ὠρικίην.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "knc-aa",
+      "title": {
+        "english": "Collection of Marvelous Histories",
+        "ancient_greek": "Συναγωγὴ Θαυμασίων Ἱστοριῶν"
+      },
+      "url_slug": "antigonus-of-carystus-marvelous-histories-knc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antigonus-of-carystus/marvelous-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus/marvelous-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus/marvelous-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus/marvelous-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus/marvelous-histories.json"
+      }
+    },
+    {
+      "eul_wid": "rlw-aa",
+      "title": {
+        "english": "Images",
+        "ancient_greek": "Εἰκόνες"
+      },
+      "url_slug": "philostratus-athenian-images-rlw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostratus-athenian/images",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-athenian/images.json"
+      }
+    },
+    {
+      "eul_wid": "iru-al",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἄρατου"
+      },
+      "url_slug": "aratus-lives-life-al-iru-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-al.json"
+      }
+    },
+    {
+      "eul_wid": "jii-aa",
+      "title": {
+        "english": "Life of Euripides",
+        "ancient_greek": "Βίος Εὐριπίδου"
+      },
+      "url_slug": "satyrus-of-oxyrhynchus-life-of-euripides-jii-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/satyrus-of-oxyrhynchus/life-of-euripides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus/life-of-euripides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus/life-of-euripides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus/life-of-euripides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/satyrus-of-oxyrhynchus/life-of-euripides.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-ad",
+      "title": {
+        "english": "Life of Gerasimus",
+        "ancient_greek": "Βίος Γερασίμου"
+      },
+      "url_slug": "cyril-of-scythopolis-gerasimus-vbs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/gerasimus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/gerasimus.json"
+      }
+    },
+    {
+      "eul_wid": "vmc-aa",
+      "title": {
+        "english": "Life of Thucydides",
+        "ancient_greek": "Βίος Θουκυδίδου"
+      },
+      "url_slug": "marcellinus-the-biographer-life-of-thucydides-vmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellinus-the-biographer/life-of-thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.json"
+      }
+    },
+    {
+      "eul_wid": "rjo-aab",
+      "title": {
+        "english": "Lives and Opinions: Book II (Socratics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Βʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-socratics-rjo-aab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-socratics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-socratics.json"
+      }
+    },
+    {
+      "eul_wid": "iru-an",
+      "title": {
+        "english": "Sphere",
+        "ancient_greek": "Σφαῖρα"
+      },
+      "url_slug": "aratus-lives-sphere-iru-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/sphere",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antigonus-of-carystus-ii/italic-history",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

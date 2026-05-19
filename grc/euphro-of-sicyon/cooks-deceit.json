@@ -1,0 +1,716 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ery-ab",
+  "eul_aid": "ery",
+  "author_slug": "euphro-of-sicyon",
+  "work_slug": "cooks-deceit",
+  "url_slug": "euphro-of-sicyon-cooks-deceit-ery-ab",
+  "author": {
+    "english": "Euphro of Sicyon the Comic Poet",
+    "ancient_greek": "Εὔφρων ὁ Σικυώνιος"
+  },
+  "title": {
+    "english": "Fragments on Cooks and Deceit",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἀπάτης"
+  },
+  "seo": {
+    "browser_title": "Fragments on Cooks and Deceit by Euphro Sicyon on Eulogikon",
+    "meta_title": "Fragments on Cooks and Deceit by Euphro of Sicyon in Greek",
+    "meta_description": "Fragments from the comedy on cooks and deceit by Euphro of Sicyon. Comic verses on culinary arts. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The comedic work <strong>Fragments on Cooks and Deceit</strong> by Euphro of Sicyon is known solely by its title and the notation that it originally consisted of seventy-four passages. No direct quotations or summaries of its content survive. Its existence is recorded only in the Suda&#x27;s entry for Euphro, which lists his play titles; the reference to a specific number of passages suggests the work was cataloged by an ancient scholar, but no fragments are preserved elsewhere. The title indicates it treated the common comic pairing of cooks and deception, likely as a play or collection of comic verses. This implies standard comedic themes such as the boastful, professional cook as a stock character, plots involving trickery, and social satire centered on banquets and culinary pretension. While its direct influence is untraceable, the work confirms the productivity of comic poets from outside Athens, such as Sicyon, and illustrates the persistence of the cook-deceit trope in the broader Greek comic tradition, serving as a data point for the thematic range of Hellenistic or later comedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πολλῶν μαθητῶν γενομένων ἐμοί, Λύκε, διὰ τὸ νοεῖν ἀεί τι καὶ ψυχὴν ἔχειν, ἄπει γεγονὼς μάγειρος ἐκ τῆς οἰκίας ἐν οὐχ ὅλοις δέκα μησί, πολὺ νεώτατος.[ln_5]Ἆγις Ῥόδιος ὤπτηκεν ἰχθὺν μόνος ἄκρως· Νηρεὺς δ’ ὁ Χῖος γόγγρον ἧψε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῖς θεοῖς· θρῖον τὸ λευκὸν οὑξ Ἀθηνῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "Χαριάδης. ζωμὸς μέλας ἐγένετο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρώτῳ Λαμπρίᾳ. ἀλλᾶντας Ἀφθόνητος, Εὔθυνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "φακῆν,[ln_10]ἀπὸ συμβολῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "συνάγουσιν ἀρίστων πόρους[ln_10]* * * * οὗτοι μετ’ ἐκείνους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "σοφιστὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τοὺς πάλαι γεγόνασιν ἡμῶν ἑπτὰ δεύτεροι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "σοφοί. ἐγὼ δ’ ὁρῶν τὰ πολλὰ προκατειλημμένα, εὗρον τὸ κλέπτειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "πρῶτος, ὥστε μηδένα[ln_15]μισεῖν με διὰ τοῦτ’, ἀλλὰ πάντας λαμβάνειν. ὑπ’ ἐμοῦ δ’ ὁρῶν σὺ τοῦτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "προκατειλημμένον ἴδιον ἐφεύρηκάς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "τι, καὶ τοῦτ’ ἐστὶ σόν. πέμπτην ἔθυον ἡμέραν οἱ Τήνιοι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "πολιοὶ γέροντες, πλοῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολὺν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πεπλευκότες,[ln_20]λεπτὸν ἔριφον καὶ μικρόν. οὐκ ἦν ἐκφορά Λύκῳ κρεῶν τότ’, οὐδὲ τῷ διδασκάλῳ. ἑτέρους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πορίσασθαι δύ’ ἐρίφους ἠνάγκασας· τὸ γὰρ ἧπαρ αὐτῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πολλάκις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "σκοπουμένων, καθεὶς κάτω τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "χεῖρα τὴν μίαν λαθών[ln_25]ἔρριψας εἰς τὸν λάκκον ἰταμῶς τὸν νεφρόν. πολὺν ἐποίησας θόρυβον. οὐκ ἔχει νεφρόν, ἔλεγον. ἔκυπτον οἱ παρόντες ἀποβολῇ. ἔθυσαν ἕτερον. τοῦ δὲ δευτέρου πάλιν τὴν καρδίαν εἶδόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "σε καταπίνοντ’ ἐγώ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[ln_30]πάλαι μέγας εἶ, γίγνωσκε· τοῦ γὰρ μὴ χανεῖν λύκον διακενῆς σὺ μόνος εὕρηκας τέχνην. χορδῆς ὀβελίσκους ἡμέρας ζητουμένους δύ’ ἐχθὲς ὠμοὺς εἰς τὸ πῦρ ἀποσβέσας, καὶ πρὸς τὸ δίχορδον ἐτερέτιζες. ᾐσθόμην[ln_35]ἐκεῖνο δρᾶμα, τοῦτο δ’ ἐστὶ παίγνιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Μίδας δὲ κεστρεύς ἐστι· νῆστις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "περιπατεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ἐπὰν δὲ καλέσῃ ψυγέα τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ψυκτηρίαν, τὸ τευτλίον δὲ σεῦτλα, φακέαν τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φακῆν, τί δεῖ ποιεῖν; σὺ γὰρ εἶπον. Β. ὥσπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χρυσίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "φωνῆς ἀπότισον, Πυργόθεμι, καταλλαγήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁ γὰρ τὸν ἴδιον οἰκονομῶν κακῶς βίον, πῶς οὗτος ἂν σώσειε τῶν ἔξω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τινά;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὦ Ζεῦ, τί ποθ’ ἡμῖν δοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "χρόνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τοῦ ζῆν βραχύν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "πλέκειν ἀλύπως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "τοῦτον ἡμᾶς οὐκ ἐᾷς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Καινοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πορίζου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρός με θεῶν θεούς, ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παλαιοὺς μὴ ’πιορκῇς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πολλάκις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Λοβός τίς ἐστι καὶ ψύαι καλούμεναι· ταύτας ἐπιτεμὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρὶν θεωρῆσαι μαθών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Φοινικίδης δ’ ὡς εἶδεν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πλήθει νέων μεστὴν ζέουσαν λοπάδα Νηρείων τέκνων, ἐπίσχετ’ ὀργῇ χεῖρας ἠρεθισμένας· τίς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φησιν εἶναι δεινὸς ἐκ κοινοῦ φαγεῖν;[ln_5]τίς ἐκ μέσου τὰ θερμὰ δεινὸς ἁρπάσαι; ποῦ Κόρυδος, ἢ Φυρόμαχος, ἢ Νείλου βία; ἴτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρὸς ἡμᾶς, καὶ τάχ’ οὐδὲν μεταλάβοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Οὑμὸς διδάσκαλος δὲ μήτραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σκευάσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρέθηκε Καλλιμέδοντι, κἀσθίονθ’ ἅμα ἐποίησε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πηδᾶν, ὅθεν ἐκλήθη Κάραβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὅταν ἐρανισταῖς, Καρίων, διακονῇς, οὐκ ἔστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παίζειν, οὐδ’ ἃ μεμάθηκας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποιεῖν. ἐχθὲς κεκινδύνευκας· οὐδεὶς εἶχέ σοι κωβιὸς ὅλως γὰρ ἧπαρ, ἀλλ’ ἦσαν κενοί·[ln_5]ἐγκέφαλος ἠλλοίωτο. δεῖ δέ, Καρίων, ὅταν μὲν ἔλθῃς εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοιοῦτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "συρφετόν, Δρόμωνα καὶ Κέρδωνα καὶ Σωτηρίδην, μισθὸν διδόντας ὅσον ἂν αἰτήσῃς, ἁπλῶς εἶναι δίκαιον, οὗ δὲ νῦν βαδίζομεν,[ln_10]εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τοὺς γάμους, ἀνδροφόνον. ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοῦτ’ αἰσθάνῃ, ἐμὸς εἶ μαθητὴς καὶ μάγειρος οὐ κακός. ὁ καιρὸς εὐκτός· ὠφελοῦ. φιλάργυρος ὁ γέρων. ὁ μισθὸς μικρός. εἴ σε λήψομαι νῦν μὴ κατεσθίοντα καὶ τοὺς ἄνθρακας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[ln_15]ἀπόλωλας. εἴσω πάραγε. καὶ γὰρ οὑτοσί προσέρχεθ’ ὁ γέρων. ὡς δὲ καὶ γλίσχρον βλέπει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐγὼ μαθητὴς ἐγενόμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Σωτηρίδου, ὃς ἀπὸ θαλάττης Νικομήδει δώδεκα ὁδὸν ἀπέχοντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρῶτος ἡμερῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποτε ἀφύης ἐπιθυμήσαντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χειμῶνος μέσου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_5][spk_β]παρέθηκε νὴ Δί’ ὥστε πάντας ἀνακραγεῖν. Β. πῶς δὲ δυνατὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦτ’ ἐστί; Α. θήλειαν λαβών γογγυλίδα, ταύτην ἔτεμε λεπτὰ καὶ μακρά, τὴν ὄψιν αὐτῆς τῆς ἀφύης μιμούμενος· ἀποζέσας, ἔλαιον ἐπιχέας, ἅλας[ln_10]δοὺς μουσικῶς, μήκωνος ἐπιπάσας ἄνω κόκκους μελαίνης τὸν ἀριθμὸν δώδεκα, περὶ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "Σκυθίαν ἔπαυσε τὴν ἐπιθυμίαν. καὶ Νικομήδης, γογγυλίδα μασώμενος, ἀφύης τότ’ ἔλεγε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῖς φίλοις ἐγκώμιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]οὐδὲν ὁ μάγειρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦ ποιητοῦ διαφέρει· ὁ νοῦς γάρ ἐστιν ἑκατέρῳ τούτων τέχνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Οὐκ ἔστι μοιχοῦ μεῖζον οὐδὲ ἓν κακόν· ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ταῖς γὰρ ἑτέρων βούλετ’ ἀτυχίαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τρυφᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ery-aa",
+      "title": {
+        "english": "Seven Gastronomic Sages",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euphro-of-sicyon-seven-gastronomic-sages-ery-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphro-of-sicyon/seven-gastronomic-sages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/seven-gastronomic-sages.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hvw-ab",
+      "title": {
+        "english": "Cook's Art and Death",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxippus-the-comic-poet-cooks-art-and-death-hvw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxippus-the-comic-poet/cooks-art-and-death",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxippus-the-comic-poet/cooks-art-and-death.json"
+      }
+    },
+    {
+      "eul_wid": "khs-aa",
+      "title": {
+        "english": "Cook's Boastful Fragments",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demetrius-the-younger-cooks-boastful-fragments-khs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-younger/cooks-boastful-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-younger/cooks-boastful-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ad",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ad-bhm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "kfk-aa",
+      "title": {
+        "english": "Fragments of Uncertain Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Κωμῳδίας"
+      },
+      "url_slug": "comic-fragments-anonymous-i-uncertain-kfk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/uncertain",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.json"
+      }
+    },
+    {
+      "eul_wid": "fpk-aa",
+      "title": {
+        "english": "Fragments on Pythagorean Sacrifice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πυθαγορικῆς Θυσίας"
+      },
+      "url_slug": "mnesimachus-the-comic-poet-pythagorean-sacrifice-fpk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mnesimachus-the-comic-poet/pythagorean-sacrifice.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ad",
+      "title": {
+        "english": "Lysistrata",
+        "ancient_greek": "Λυσιστράτη"
+      },
+      "url_slug": "aristophanes-of-athens-lysistrata-daw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lysistrata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.json"
+      }
+    },
+    {
+      "eul_wid": "gmm-ab",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-ab-gmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-ab.json"
+      }
+    },
+    {
+      "eul_wid": "gtk-aa",
+      "title": {
+        "english": "On the Origins of Cookery",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "athenion-the-comic-poet-origins-cookery-gtk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenion-the-comic-poet/origins-cookery",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/origins-cookery.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/origins-cookery.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/origins-cookery.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenion-the-comic-poet/origins-cookery.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/euphro-of-sicyon/cooks-deceit",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphro-of-sicyon/cooks-deceit.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

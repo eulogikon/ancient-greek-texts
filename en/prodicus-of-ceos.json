@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dpw",
+  "auth_slug": "prodicus-of-ceos",
+  "name": {
+    "english": "Prodicus of Ceos",
+    "ancient_greek": "Πρόδικος ὁ Κεῖος"
+  },
+  "seo_h1": "Prodicus of Ceos and Heracles at the Crossroads",
+  "seo": {
+    "browser_title": "Prodicus of Ceos Sophist on Eulogikon Greek Archive",
+    "meta_title": "Prodicus of Ceos Ancient Greek Philosophical Works",
+    "meta_description": "Prodicus of Ceos, a 5th century BCE Sophist. Fragments of his philosophical and rhetorical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Prodicus of Ceos was a Greek intellectual and teacher, active in the latter half of the 5th century BCE. He is classified among the Sophists, a group of professional educators in classical Athens. A native of the island of Ceos, he traveled frequently to Athens on official business and became famous for delivering public lectures and offering private lessons for high fees. He was a contemporary of Socrates and is portrayed in Plato&#x27;s dialogues as a well-known, if sometimes pedantic, figure in Athenian intellectual life. The exact dates of his birth and death are unknown.</p>\n<p class=\"research-text\">None of Prodicus&#x27;s own writings survive complete. His work is known only through summaries and quotations by later authors like Plato and Xenophon. He was particularly renowned for his precise studies of language, making careful distinctions between the meanings of similar words, a practice known as orthoepeia, or correctness of words. His most famous surviving work is the allegory &quot;The Choice of Heracles,&quot; preserved by Xenophon. This story depicts the young hero at a crossroads, being urged toward a life of virtue or a life of vice by two personified women, and it became a classic model for stories about ethical choice.</p>\n<p class=\"research-text\">According to modern scholars, Prodicus&#x27;s significance lies in his contributions to the Sophistic movement&#x27;s focus on language, rhetoric, and ethics. His semantic studies are seen as a precursor to later philosophical work on definition and meaning. While comic playwrights like Aristophanes satirized him for his high fees, and Plato often used him as a character to critique Sophistic methods, his allegory of Heracles remained widely admired in antiquity for its clear moral message.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "dpw-ab",
+      "title": {
+        "english": "Heracles at the Crossroads",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "prodicus-of-ceos-herakles-crossroads-dpw-ab",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/prodicus-of-ceos/herakles-crossroads",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/herakles-crossroads.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/herakles-crossroads.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/herakles-crossroads.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/herakles-crossroads.json"
+      }
+    },
+    {
+      "eul_wid": "dpw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "prodicus-of-ceos-testimonies-dpw-aa",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/prodicus-of-ceos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/prodicus-of-ceos/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/prodicus-of-ceos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/prodicus-of-ceos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/prodicus-of-ceos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/prodicus-of-ceos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/prodicus-of-ceos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

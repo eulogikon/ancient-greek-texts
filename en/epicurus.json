@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hui",
+  "auth_slug": "epicurus",
+  "name": {
+    "english": "Epicurus the Philosopher",
+    "ancient_greek": "Ἐπίκουρος ὁ φιλόσοφος"
+  },
+  "seo_h1": "Letters and Maxims in the Works of Epicurus",
+  "seo": {
+    "browser_title": "Epicurus the Philosopher on Eulogikon Greek Archive",
+    "meta_title": "The Epicurus Ancient Greek Philosophical Treatises",
+    "meta_description": "Epicurus, Hellenistic philosopher and founder of Epicureanism. Treatises on pleasure and nature. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Epicurean",
+      "href": "/affiliations/epicurean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Epicurus was a philosopher of the Hellenistic period, living from 341 to 270 BCE. He was born on the island of Samos to an Athenian family and began studying philosophy as a teenager. After teaching in several cities, he moved to Athens and founded his own school in a house with a garden, known simply as The Garden. This community was notable for including women and slaves among its members. Epicurus taught there until his death, emphasizing friendship and a simple life.</p>\n<p class=\"research-text\">Although he was a prolific writer, most of Epicurus&#x27;s works are lost. His core philosophy survives primarily through three summary letters and a collection of sayings preserved by the ancient biographer Diogenes Laertius. These texts include the Letter to Herodotus on physics, the Letter to Pythocles on celestial phenomena, and the Letter to Menoeceus on ethics. Fragments of his larger work, On Nature, have also been recovered from papyrus scrolls found at Herculaneum.</p>\n<p class=\"research-text\">Epicurus founded the school of thought known as Epicureanism, which became one of the major philosophies of the ancient world. His system combined a materialist view of the universe, based on atomism, with an ethical goal of achieving tranquility, or ataraxia. According to modern scholars, he defined pleasure not as indulgence but as the absence of physical pain and mental disturbance. A central and controversial part of his teaching was that the gods do not interfere in human life and that death is nothing to fear because it is the end of sensation. His philosophy flourished for centuries and was famously expounded by the Roman poet Lucretius, remaining a significant rival to Stoicism.</p>\n</div>",
+  "affiliation_label": "Epicurean",
+  "works_count": 8,
+  "works": [
+    {
+      "eul_wid": "hui-af",
+      "title": {
+        "english": "Established Opinions",
+        "ancient_greek": "Κύριαι Δόξαι"
+      },
+      "url_slug": "epicurus-established-opinions-hui-af",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/established-opinions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ag",
+      "title": {
+        "english": "Fragments of Letters",
+        "ancient_greek": "Ἀποσπάσματα Ἐπιστολῶν"
+      },
+      "url_slug": "epicurus-letters-fragments-hui-ag",
+      "passages": 89,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/letters-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letters-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letters-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letters-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letters-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hui-aa",
+      "title": {
+        "english": "Fragments of Uncertain Position",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Θέσεως"
+      },
+      "url_slug": "epicurus-uncertain-fragments-hui-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ah",
+      "title": {
+        "english": "Letter to Herodotus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἡρόδοτον"
+      },
+      "url_slug": "epicurus-herodotus-letter-hui-ah",
+      "passages": 47,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/herodotus-letter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/herodotus-letter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/herodotus-letter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/herodotus-letter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/herodotus-letter.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ae",
+      "title": {
+        "english": "Remains of Lost Books",
+        "ancient_greek": "Λείψανα Ἀπολωλότων Βιβλίων"
+      },
+      "url_slug": "epicurus-lost-books-hui-ae",
+      "passages": 421,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/lost-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ac",
+      "title": {
+        "english": "Second Letter to Pythocles",
+        "ancient_greek": "Δευτέρα Ἐπιστολὴ πρὸς Πυθόκλεα"
+      },
+      "url_slug": "epicurus-letter-pythocles-hui-ac",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/letter-pythocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-pythocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-pythocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-pythocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-pythocles.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ad",
+      "title": {
+        "english": "Third Letter to Menoeceus",
+        "ancient_greek": "Τρίτη Ἐπιστολὴ πρὸς Μενοικέα"
+      },
+      "url_slug": "epicurus-letter-menoeceus-hui-ad",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/letter-menoeceus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-menoeceus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-menoeceus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-menoeceus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/letter-menoeceus.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ab",
+      "title": {
+        "english": "Vatican Epicurean Gnomology",
+        "ancient_greek": "Γνωμολόγιον Βατικανὸν Ἐπικούρειον"
+      },
+      "url_slug": "epicurus-vatican-gnomology-hui-ab",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/vatican-gnomology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "ibg",
+      "name": {
+        "english": "Carneiscus the Epicurean",
+        "ancient_greek": "Καρνεῖσκος ὁ Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/carneiscus-the-epicurean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/carneiscus-the-epicurean.json"
+      }
+    },
+    {
+      "eul_aid": "peg",
+      "name": {
+        "english": "Diogenes of Oenoanda",
+        "ancient_greek": "Διογένης ὁ Οἰνοανδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-oenoanda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-oenoanda.json"
+      }
+    },
+    {
+      "eul_aid": "jtm",
+      "name": {
+        "english": "Epicurean Anonymous",
+        "ancient_greek": "Ἀνώνυμος Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/epicurean-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurean-anon.json"
+      }
+    },
+    {
+      "eul_aid": "jbk",
+      "name": {
+        "english": "Hermarchus of Mytilene",
+        "ancient_greek": "Ἕρμαρχος ὁ Μυτιληναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hermarchus-of-mytilene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hermarchus-of-mytilene.json"
+      }
+    },
+    {
+      "eul_aid": "coe",
+      "name": {
+        "english": "Metrodorus of Lampsacus the Elder",
+        "ancient_greek": "Μητρόδωρος ὁ Λαμψακηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/metrodorus-of-lampsacus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/metrodorus-of-lampsacus.json"
+      }
+    },
+    {
+      "eul_aid": "msu",
+      "name": {
+        "english": "Philodemus of Gadara",
+        "ancient_greek": "Φιλόδημος ὁ Γαδαρεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/philodemus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/philodemus-of-gadara.json"
+      }
+    },
+    {
+      "eul_aid": "jss",
+      "name": {
+        "english": "Polystratus the Epicurean",
+        "ancient_greek": "Πολύστρατος ὁ Ἐπικούρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/polystratus-the-epicurean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/polystratus-the-epicurean.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/epicurus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epicurus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

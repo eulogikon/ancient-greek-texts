@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gli",
+  "auth_slug": "nicolaus-the-comic-poet",
+  "name": {
+    "english": "Nicolaus the Comic Poet",
+    "ancient_greek": "Νικόλαος ὁ κωμικός"
+  },
+  "seo_h1": "Nicolaus the Comic Poet on Parasites and Tantalus",
+  "seo": {
+    "browser_title": "Nicolaus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Nicolaus the Comic Poet Ancient Greek Fragments",
+    "meta_description": "Nicolaus was a 4th century BCE Attic comic poet. Surviving fragments of his comedies are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nicolaus was an Athenian comic poet of the 4th century BCE, active during the period of Middle Comedy. Beyond his identification as a writer of comedies, almost no biographical details survive. The 10th-century Suda encyclopedia credits him with seven plays, though only two titles are corroborated elsewhere.</p>\n<p class=\"research-text\">Only two play titles are attested: Pandora and Sosipolis. Both works are lost, and his output survives only in fragments, primarily preserved through later authors like Athenaeus.</p>\n<p class=\"research-text\">Nicolaus is a minor figure whose significance lies in illustrating the breadth of comic production in the 4th century BCE. The titles of his plays suggest engagement with mythological and civic themes typical of Middle Comedy, the transitional period between Old Comedy and New Comedy. His inclusion in ancient catalogs confirms his place within the tradition, despite the loss of his work.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "gli-aa",
+      "title": {
+        "english": "On Parasites and Flatterers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-flatterers-gli-aa",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-flatterers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-flatterers.json"
+      }
+    },
+    {
+      "eul_wid": "gli-ab",
+      "title": {
+        "english": "On Parasites and Tantalus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "nicolaus-the-comic-poet-parasites-tantalus-gli-ab",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-the-comic-poet/parasites-tantalus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-the-comic-poet/parasites-tantalus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nicolaus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aqo-af",
+  "eul_aid": "aqo",
+  "author_slug": "aesop",
+  "work_slug": "fables-af",
+  "url_slug": "aesop-fables-af-aqo-af",
+  "author": {
+    "english": "Aesop the Fabulist",
+    "ancient_greek": "Αἴσωπος ὁ μυθολόγος"
+  },
+  "title": {
+    "english": "Aesop's Fables",
+    "ancient_greek": "Μῦθοι Δίωνι Χρυσόστομῳ ἀνατιθέμενοι"
+  },
+  "seo": {
+    "browser_title": "Aesop's Fables by Aesop the Fabulist on Eulogikon Archive",
+    "meta_title": "Aesop's Fables by Aesop the Fabulist in Ancient Greek",
+    "meta_description": "Aesop's Fables are moral tales featuring animals. This collection presents traditional wisdom. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μυθιστορία",
+      "english": "Fiction",
+      "href": "/domains/fiction"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aesop&#x27;s Fables is a renowned corpus of concise, didactic tales, predominantly featuring anthropomorphized animals, which conclude with explicit moral lessons. Although traditionally ascribed to Aesop, a semi-legendary figure reputed to have been a slave in the sixth century BCE, the work is more accurately understood as a cumulative product of oral tradition. These stories circulated widely for centuries before being systematically compiled in written form by various editors during the Hellenistic and Roman eras. The fables are known not from a single authoritative text but from multiple manuscript traditions, citations in earlier authors such as Aristophanes and Aristotle, and later poetic adaptations in both Greek and Latin. Their transmission is notably fluid, with narratives and their attached morals often varying significantly across different historical collections; a principal version is the Byzantine &quot;Augustana&quot; compilation. Thematically, the fables offer pragmatic wisdom, frequently critiquing hubris and the abuse of power while providing counsel on everyday social conduct. Their enduring role in education and their profound influence on subsequent Western literature stem from this complex, evolving tradition rather than a fixed original text.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ὅθεν οἶμαι καὶ τὸν μῦθον Αἴσωπος ξυνέστησεν ὅτι σοφὴ οὖσα (scil. ἡ γλαῦξ) ξυνεβούλευε τοῖς ὀρνέοις τῆς δρυὸς ἐν ἀρχῇ φυομένης μὴ ἐᾶσαι, ἀλλ’ ἀνελεῖν πάντα τρόπον· ἔσεσθαι γὰρ φάρμακον ἀπ’ αὐτῆς ἄφυκτον, ὑφ’ οὗ ἁλώσονται, τὸν ἰξόν. πάλιν δὲ τὸ λίνον τῶν ἀνθρώπων σπειρόντων, ἐκέλευε καὶ τοῦτο ἐκλέγειν τὸ σπέρμα· μὴ γὰρ ἐπ’ ἀγαθῷ φυήσεσθαι. τρίτον δὲ ἰδοῦσα τοξευτήν τινα ἄνδρα προέλεγεν ὅτι οὗτος ὁ ἀνὴρ φθάσει ὑμᾶς τοῖς ὑμετέροις πτεροῖς, πεζὸς ὢν αὐτὸς πτηνὰ ἐπιπέμπων βέλη. τὰ δὲ ἠπίστει τοῖς λόγοις καὶ ἀνόητον αὐτὴν ἡγοῦντο καὶ μαίνεσθαι ἔφασκον· ὕστερον δὲ πειρώμενα ἐθαύμαζε καὶ τῷ ὄντι σοφωτάτην ἐνόμιζεν. καὶ διὰ τοῦτο, ἐπὰν φανῇ, πρόσεισιν ὡς πρὸς ἅπαντα ἐπισταμένην· ἡ δὲ συμβουλεύει μὲν αὐτοῖς οὐδὲν ἔτι, ὀδύρεται δὲ μόνον. ἐφ’ ᾧ καὶ ξυνετίθει λόγον Αἴσωπος τοιοῦτον, ὡς τὰ ὄρνεα ξυνῆλθε πρὸς τὴν γλαῦκα καὶ ἐδεῖτο τῆς μὲν ἀπὸ τῶν οἰκοδομημάτων σκέπης ἀπανίστασθαι, πρὸς δὲ τὰ δένδρα τὴν καλιάν, ὥσπερ καὶ αὐτά, καὶ τοὺς τούτων μεταπήγνυσθαι κλῶνας, ἀφ’ ὧν καὶ ᾄδειν ἔστιν εὐσημότερον· καὶ δὴ καὶ πρὸς δρῦν ταυτηνὶ ἄρτι φυομένην, ἐπειδὰν πρὸς ὥραν ἀφίκηται, ἑτοίμως ἔχειν ἱζάνειν καὶ τῆς χλοερᾶς κόμης ἀπόνασθαι, ἀλλ’ οὖν τήν γε γλαῦκα μὴ τοῦτο τοῖς ὀρνέοις ποιεῖν παραινεῖν μηδὲ φυτοῦ βλάστῃ ἐφήδεσθαι ‘ἰξὸν πεφυκότος φέρειν, πτηνοῖς ὄλεθρον‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "τὰ δὲ μήτε τῆς ξυμβουλῆς ἀπεδέχετο τὴν γλαῦκα, τοὐναντίον δὲ ἔχαιρε τῇ δρυῒ φυομένῃ, ἐπειδή τε ἱκανὴ ἦν, καθίσαντα ἐπ’ αὐτὴν ᾖδεν. γενομένου δὲ τοῦ ἰξοῦ ῥᾳδίως ἤδη ὑπὸ τῶν ἀνθρώπων ἁλισκόμενα μετενόουν καὶ τὴν γλαῦκα ἐθαύμαζον ἐπὶ τῇ ξυμβουλῇ. καὶ νῦν ἔτι οὕτως ἔχουσιν, ὡς δεινῆς καὶ σοφῆς οὔσης αὐτῆς, καὶ διὰ τοῦτο ἐθέλουσι πλησιάζειν, ἡγούμενα ἀγαθόν τι ἀπολαύειν τῆς ξυνουσίας· ἔπειτα οἶμαι προσίασι μάτην ἐπὶ κακῷ. ἡ μὲν γὰρ ἀρχαία γλαῦξ τῷ ὄντι φρονίμη τε ἦν καὶ ξυμβουλεύειν ἐδύνατο. αἱ δὲ νῦν μόνον τὰ πτερὰ ἔχουσιν ἐκείνης καὶ τοὺς ὀφθαλμοὺς καὶ τὸ ῥάμφος, τὰ δὲ ἄλλα ἀφρονέστεραί εἰσι τῶν ἄλλων ὀρνέων. οὐκοῦν οὐδὲ ἑαυτὰς δύνανται οὐδὲν ὠφελεῖν· οὐ γὰρ ἂν παρὰ τοῖς ὀρνιθοθήραις ἐτρέφοντο δεδεμέναι καὶ δουλεύουσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aqo-aq",
+      "title": {
+        "english": "Aesopic Fables (Anonymous Collection)",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-fables-aq-aqo-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-aq.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ap",
+      "title": {
+        "english": "Aesopic Fables (Augustana Collection)",
+        "ancient_greek": "Αισώπειων μύθων συναγωγή"
+      },
+      "url_slug": "aesop-fables-ap-aqo-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ap.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-am",
+      "title": {
+        "english": "Aesopic Proverbs",
+        "ancient_greek": "Μῦθοι"
+      },
+      "url_slug": "aesop-proverbs-am-aqo-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/proverbs-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/proverbs-am.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ao",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "aesop-epigrams-aqo-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ai",
+      "title": {
+        "english": "Fable of Nicephorus",
+        "ancient_greek": "Μῦθος Νικηφόρου"
+      },
+      "url_slug": "aesop-nicephorus-fable-aqo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/nicephorus-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/nicephorus-fable.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ab",
+      "title": {
+        "english": "Fables Preserved-Assendelftian Wax Tablets",
+        "ancient_greek": "Μῦθοι ἐν δέλτοις Ἀσσενδελφτίοις σωθέντες"
+      },
+      "url_slug": "aesop-preserved-wax-tablets-aqo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/preserved-wax-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/preserved-wax-tablets.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ah",
+      "title": {
+        "english": "Fables in Dodecasyllables",
+        "ancient_greek": "Μῦθοι ἐν Δωδεκασυλλάβοις"
+      },
+      "url_slug": "aesop-fables-dodecasyllables-aqo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-dodecasyllables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-dodecasyllables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ad",
+      "title": {
+        "english": "Fables of Aphthonius the Rhetorician",
+        "ancient_greek": "Μῦθοι Ἀφθονίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-aphthonius-fables-aqo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/aphthonius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/aphthonius-fables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-aj",
+      "title": {
+        "english": "Fables of Dositheus",
+        "ancient_greek": "Μῦθοι Δοσιθέου"
+      },
+      "url_slug": "aesop-dositheus-fables-aqo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/dositheus-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/dositheus-fables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ak",
+      "title": {
+        "english": "Fables of Libanius",
+        "ancient_greek": "Μῦθοι Λιβανίου"
+      },
+      "url_slug": "aesop-fables-ak-aqo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/fables-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-ak.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ag",
+      "title": {
+        "english": "Fables of Syntipas the Philosopher",
+        "ancient_greek": "Μῦθοι Συντίπα τοῦ Φιλοσόφου"
+      },
+      "url_slug": "aesop-syntipas-fables-aqo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/syntipas-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/syntipas-fables.json"
+      }
+    },
+    {
+      "eul_wid": "aqo-ae",
+      "title": {
+        "english": "Fables of Themistius the Rhetorician",
+        "ancient_greek": "Μῦθοι Θεμιστίου τοῦ Ῥήτορος"
+      },
+      "url_slug": "aesop-themistius-fables-aqo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop/themistius-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/themistius-fables.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "sru-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "heliodorus-of-emesa-epigrams-sru-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/heliodorus-of-emesa/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heliodorus-of-emesa/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "skw-aa",
+      "title": {
+        "english": "Fragments Possibly Part of Chione or Ninus",
+        "ancient_greek": "Ἀποσπάσματα Ἴσως Μέρος Χιόνης ἢ Νίνου"
+      },
+      "url_slug": "anonymous-erotic-narrative-chione-ninus-skw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/chione-ninus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/chione-ninus.json"
+      }
+    },
+    {
+      "eul_wid": "skw-as",
+      "title": {
+        "english": "Fragments of a Nocturnal Escape",
+        "ancient_greek": "Ἀποσπάσματα Νυκτερινῆς Δραπέτιδος"
+      },
+      "url_slug": "anonymous-erotic-narrative-nocturnal-escape-skw-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/nocturnal-escape",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nocturnal-escape.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nocturnal-escape.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nocturnal-escape.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/nocturnal-escape.json"
+      }
+    },
+    {
+      "eul_wid": "pqy-ad",
+      "title": {
+        "english": "Life G",
+        "ancient_greek": "Βίος Γ"
+      },
+      "url_slug": "aesop-life-anonymous-life-g-pqy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aesop-life-anonymous/life-g",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-g.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-g.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-g.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop-life-anonymous/life-g.json"
+      }
+    },
+    {
+      "eul_wid": "skw-ad",
+      "title": {
+        "english": "Metiochus and Parthenope (Fragment A)",
+        "ancient_greek": "Μετίοχος καὶ Παρθενόπη"
+      },
+      "url_slug": "anonymous-erotic-narrative-metiochus-parthenope-ad-skw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-erotic-narrative/metiochus-parthenope-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/metiochus-parthenope-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/metiochus-parthenope-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/metiochus-parthenope-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-erotic-narrative/metiochus-parthenope-ad.json"
+      }
+    },
+    {
+      "eul_wid": "qhw-aa",
+      "title": {
+        "english": "On Incredible Things or Herpyllis",
+        "ancient_greek": "Περὶ Ἀπίστων ἢ Ἑρπυλλίδος"
+      },
+      "url_slug": "antonius-diogenes-incredible-things-aa-qhw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antonius-diogenes/incredible-things-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antonius-diogenes/incredible-things-aa.json"
+      }
+    },
+    {
+      "eul_wid": "qek-aa",
+      "title": {
+        "english": "Phoenician Matters (Main Papyrus Fragment)",
+        "ancient_greek": "Φοινικικά"
+      },
+      "url_slug": "lollianus-the-erotic-writer-phoenician-matters-aa-qek-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lollianus-the-erotic-writer/phoenician-matters-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-aa.json"
+      }
+    },
+    {
+      "eul_wid": "qek-ac",
+      "title": {
+        "english": "Phoenician Matters (Minor Fragment)",
+        "ancient_greek": "Φοινικικά"
+      },
+      "url_slug": "lollianus-the-erotic-writer-phoenician-matters-ac-qek-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lollianus-the-erotic-writer/phoenician-matters-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lollianus-the-erotic-writer/phoenician-matters-ac.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aesop/fables-af",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aesop/fables-af.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

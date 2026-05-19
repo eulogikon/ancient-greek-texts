@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cje",
+  "auth_slug": "dialexeis",
+  "name": {
+    "english": "Dialexeis",
+    "ancient_greek": "Διαλέξεις"
+  },
+  "seo_h1": "Dialexeis on Good and Evil",
+  "seo": {
+    "browser_title": "The Dialexeis Dissoi Logoi on Eulogikon Greek Archive",
+    "meta_title": "Classical Dialexeis Ancient Greek Philosophical Arguments",
+    "meta_description": "Dialexeis, an anonymous sophist author of the late Classical period. The surviving work presents twofold arguments. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς λογοτεχνική",
+      "english": "Literary Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Dialexeis, also commonly known as the Dissoi Logoi, is an anonymous philosophical text from the late Classical period of ancient Greece. It was likely composed in the late 5th or early 4th century BCE, based on its style and content. The author is completely unknown, and no biographical details survive.</p>\n<p class=\"research-text\">The work is a primary example of Sophistic literature, written in a style that reflects the methods taught by the professional educators and rhetoricians known as the Sophists. The treatise is a short, surviving work that systematically presents opposing arguments on a series of important topics. These include debates on good and bad, just and unjust, true and false, and whether virtue can be taught. This structure demonstrates the core Sophistic practice of &quot;antilogic&quot;—the technique of arguing both sides of a question, which was a fundamental exercise in rhetorical training.</p>\n<p class=\"research-text\">The historical importance of the Dialexeis lies in its status as a rare, surviving example of a direct Sophistic teaching text. It provides valuable insight into the practical methods of the movement, complementing the more famous fragments of thinkers like Protagoras and Gorgias. The text also includes an early discussion on the nature of the mind, making it a document of interest for the history of psychology and epistemology. The work survives in a single manuscript, preserving a direct window into the competitive, relativistic style of argument that characterized Sophistic thought.</p>\n</div>",
+  "affiliation_label": "Sophist",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cje-aa",
+      "title": {
+        "english": "On Good and Evil",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dialexeis-good-evil-cje-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/dialexeis/good-evil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis/good-evil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis/good-evil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis/good-evil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dialexeis/good-evil.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "que",
+      "name": {
+        "english": "Achilles Tatius of Alexandria",
+        "ancient_greek": "Ἀχιλλεὺς ὁ Τατίος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/achilles-tatius-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/achilles-tatius-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "ria",
+      "name": {
+        "english": "Aelian of Praeneste",
+        "ancient_greek": "Κλαύδιος Αἰλιανός"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/aelian-of-praeneste",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelian-of-praeneste.json"
+      }
+    },
+    {
+      "eul_aid": "pnc",
+      "name": {
+        "english": "Aelius Aristides of Smyrna",
+        "ancient_greek": "Πόπλιος Αἴλιος Ἀριστείδης Θεόδωρος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-aristides-of-smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-aristides-of-smyrna.json"
+      }
+    },
+    {
+      "eul_aid": "psw",
+      "name": {
+        "english": "Aelius Dionysius of Halicarnassus",
+        "ancient_greek": "Αἴλιος Διονύσιος ὁ Ἁλικαρνασσεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-dionysius-of-halicarnassus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dionysius-of-halicarnassus.json"
+      }
+    },
+    {
+      "eul_aid": "nxo",
+      "name": {
+        "english": "Aelius Theon the Sophist",
+        "ancient_greek": "Αἴλιος Θέων ὁ σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aelius-theon-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-theon-the-sophist.json"
+      }
+    },
+    {
+      "eul_aid": "dkm",
+      "name": {
+        "english": "Alcidamas of Elaea",
+        "ancient_greek": "Ἀλκιδάμας ὁ Ἐλαεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alcidamas-of-elaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alcidamas-of-elaea.json"
+      }
+    },
+    {
+      "eul_aid": "quo",
+      "name": {
+        "english": "Alciphron the Sophist",
+        "ancient_greek": "Ἀλκίφρων ὁ Σοφιστής"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alciphron-the-sophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alciphron-the-sophist.json"
+      }
+    },
+    {
+      "eul_aid": "qko",
+      "name": {
+        "english": "Alexander Son of Numenius",
+        "ancient_greek": "Ἀλέξανδρος ὁ τοῦ Νουμήνιου"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-son-of-numenius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-son-of-numenius.json"
+      }
+    },
+    {
+      "eul_aid": "lfy",
+      "name": {
+        "english": "Alexander the Ephesian Poet",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἐφέσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-ephesus-poet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-ephesus-poet.json"
+      }
+    },
+    {
+      "eul_aid": "ejw",
+      "name": {
+        "english": "Amphicrates Atheniensis",
+        "ancient_greek": "Ἀμφικράτης Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amphicrates-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amphicrates-of-athens.json"
+      }
+    },
+    {
+      "eul_aid": "vng",
+      "name": {
+        "english": "Anonymous Commentary on Aphthonius",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς Ἀφθόνιον"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aphthonius-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aphthonius-commentary-anonymous.json"
+      }
+    },
+    {
+      "eul_aid": "bqs",
+      "name": {
+        "english": "Antiphon of Athens",
+        "ancient_greek": "Ἀντιφῶν ὁ Ἀθηναῖος"
+      },
+      "work_count": 9,
+      "links": {
+        "html": "https://eulogikon.org/en/antiphon-of-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiphon-of-athens.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/dialexeis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dialexeis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dialexeis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dialexeis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dialexeis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

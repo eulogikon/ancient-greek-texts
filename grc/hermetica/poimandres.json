@@ -1,0 +1,537 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oqk-aj",
+  "eul_aid": "oqk",
+  "author_slug": "hermetica",
+  "work_slug": "poimandres",
+  "url_slug": "hermetica-poimandres-oqk-aj",
+  "author": {
+    "english": "Hermetica ",
+    "ancient_greek": "Ἑρμητικά"
+  },
+  "title": {
+    "english": "Poimandres of Hermes Trismegistus",
+    "ancient_greek": "Ποιμάνδρης"
+  },
+  "seo": {
+    "browser_title": "Poimandres of Hermes Trismegistus on the Eulogikon",
+    "meta_title": "Poimandres by Hermes Trismegistus in Ancient Greek",
+    "meta_description": "Poimandres presents a divine revelation on the nature of reality and the cosmos through Hermetic philosophy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Hermetic",
+      "href": "/affiliations/hermetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Poimandres is the inaugural and most renowned treatise of the Corpus Hermeticum, a body of Greek philosophical works ascribed to the mythical figure Hermes Trismegistus. Composed in Koine Greek, most probably in Roman Egypt between the 1st and 3rd centuries CE, the text presents itself as a 24-part revelatory dialogue. It begins with the narrator recounting a visionary encounter with a vast divine entity named Poimandres, who proceeds to disclose the fundamental nature of existence. This revelation includes a cosmogony in which the universe emanates from a primal divine light and a creative Word or Logos. The narrative further describes the descent of a celestial archetype, the Primal Man, into the material realm and his subsequent entanglement with it, symbolizing the human condition. The treatise culminates by charting the soul’s redemptive journey of ascent through the celestial spheres, a process of purification and enlightenment that leads to its ultimate reunion with the divine source.</p>\n<p class=\"research-text\">Scholarly analysis identifies the work as a sophisticated synthesis, blending elements of Greek philosophical traditions—notably Platonism and Stoicism—with Egyptian religious concepts. It appears intended for a literate audience pursuing personal spiritual insight, or gnosis, which it posits as the essential means of salvation. The complete text of the Poimandres survives as an integral part of the Corpus Hermeticum, transmitted chiefly through Byzantine manuscripts such as the 14th-century Parisinus Graecus 1220. Its translation into Latin during the Renaissance period exerted a significant and lasting influence on the development of Western esoteric thought and philosophical speculation.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ἙΡΜΟΥ ΤΡΙΣΜΕΓΙΣΤΟΥ ΠΟΙΜΑΝΔΡΗΣ Ἐννοίας μοί ποτε γενομένης περὶ τῶν ὄντων καὶ μετεωρισθείσης μοι τῆς διανοίας σφόδρα, κατασχεθεισῶν μου τῶν σωματικῶν αἰσθήσεων, καθάπερ οἱ ὕπνῳ βεβαρημένοι ἐκ κόρου τροφῆς ἢ ἐκ κόπου σώματος, ἔδοξά τινα ὑπερμεγέθη μέτρῳ ἀπεριορίστῳ τυγχάνοντα καλεῖν μου τὸ ὄνομα καὶ λέγοντά μοι, Τί βούλει ἀκοῦσαι καὶ θεάσασθαι, καὶ νοήσας μαθεῖν καὶ γνῶναι; — φημὶ ἐγώ, Σὺ γὰρ τίς εἶ; — Ἐγὼ μέν, φησίν, εἰμὶ ὁ Ποιμάνδρης, ὁ τῆς αὐθεντίας νοῦς· οἶδα ὃ βούλει, καὶ σύνειμί σοι πανταχοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "— φημὶ ἐγώ, Μαθεῖν θέλω τὰ ὄντα καὶ νοῆσαι τὴν τούτων φύσιν καὶ γνῶναι τὸν θεόν· πῶς, ἔφην, ἀκοῦσαι βούλομαι. — φησὶν ἐμοὶ πάλιν, Ἔχε νῷ σῷ ὅσα θέλεις μαθεῖν, κἀγώ σε διδάξω. τοῦτο εἰπὼν ἠλλάγη τῇ ἰδέᾳ, καὶ εὐθέως πάντα μοι ἤνοικτο ῥοπῇ, καὶ ὁρῶ θέαν ἀόριστον, φῶς δὲ πάντα γεγενημένα, εὔδιόν τε καὶ ἱλαρόν, καὶ ἠράσθην ἰδών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "καὶ μετ’ ὀλίγον σκότος κατωφερὲς ἦν, ἐν μέρει γεγενημένον, φοβερόν τε καὶ στυγνόν, σκολιῶς ἐσπειραμένον, ὡς 〈ὄφει〉 εἰκάσαι με· εἶτα μεταβαλλόμενον τὸ σκότος εἰς ὑγρᾶν τινα φύσιν, ἀφάτως τεταραγμένην καὶ καπνὸν ἀποδιδοῦσαν, ὡς ἀπὸ πυρός, καί τινα ἦχον ἀποτελοῦσαν ἀνεκλάλητον γοώδη· εἶτα βοὴ ἐξ αὐτῆς ἀσυνάρθρως ἐξεπέμπετο, ὡς εἰκάσαι φωνῇ πυρός, ἐκ δὲ φωτὸς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": ".... λόγος ἅγιος ἐπέβη τῇ φύσει, καὶ πῦρ ἄκρατον ἐξεπήδησεν ἐκ τῆς ὑγρᾶς φύσεως ἄνω εἰς ὕψος· κοῦφον δὲ ἦν καὶ ὀξύ, δραστικὸν δὲ ἅμα, καὶ ὁ ἀὴρ ἐλαφρὸς ὢν ἠκολούθησε τῷ πνεύματι, ἀναβαίνοντος αὐτοῦ μέχρι τοῦ πυρὸς ἀπὸ γῆς καὶ ὕδατος, ὡς δοκεῖν κρέμασθαι αὐτὸν ἀπ’ αὐτοῦ· γῆ δὲ καὶ ὕδωρ ἔμενε καθ’ ἑαυτὰ συμμεμιγμένα, ὡς μὴ θεωρεῖσθαι 〈τὴν γῆν〉 ἀπὸ τοῦ ὕδατος· κινούμενα δὲ ἦν διὰ τὸν ἐπιφερόμενον πνευματικὸν λόγον εἰς ἀκοήν. ὁ δὲ Ποιμάνδρης ἐμοί, Ἐνόησας, φησί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "τὴν θέαν ταύτην ὅ τι καὶ βούλεται; καὶ, Γνώσομαι, ἔφην ἐγώ. — Τὸ φῶς ἐκεῖνο, ἔφη, ἐγὼ Νοῦς ὁ σὸς θεός, ὁ πρὸ φύσεως ὑγρᾶς τῆς ἐκ σκότους φανείσης· ὁ δὲ ἐκ Νοὸς φωτεινὸς Λόγος υἱὸς θεοῦ. — Τί οὖν; φημί. — Οὕτω γνῶθι· τὸ ἐν σοὶ βλέπον καὶ ἀκοῦον, λόγος κυρίου, ὁ δὲ νοῦς πατὴρ θεός. οὐ γὰρ διίστανται ἀπ’ ἀλλήλων· ἕνωσις γὰρ τούτων ἐστὶν ἡ ζωή. — Εὐχαριστῶ σοι, ἔφην ἔγω. — Ἀλλὰ δὴ νόει τὸ φῶς καὶ γνώριζε τοῦτο. εἰπόντος ταῦτα ἐπὶ πλείονα χρόνον ἀντώπησέ μοι, ὥστε με τρέμειν αὐτοῦ τὴν ἰδέαν· ἀνανεύσαντος δέ, θεωρῶ ἐν τῷ νοΐ μου τὸ φῶς ἐν δυνάμεσιν ἀναριθμήτοις ὄν, καὶ κόσμον ἀπεριόριστον γεγενημένον, καὶ περιίσχεσθαι τὸ πῦρ δυνάμει μεγίστῃ, καὶ στάσιν ἐσχηκέναι κρατούμενον· ταῦτα δὲ ἐγὼ διενοήθην ὁρῶν διὰ τὸν τοῦ Ποιμάνδρου λόγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ὡς δὲ ἐν ἐκπλήξει μου ὄντος, φησὶ πάλιν ἐμοί, Εἶδες ἐν τῷ νῷ τὸ ἀρχέτυπον εἶδος, τὸ προάρχον τῆς ἀρχῆς τῆς ἀπεράντου· ταῦτα ὁ Ποιμάνδρης ἐμοί. — Τὰ οὖν, ἐγώ φημι, στοιχεῖα τῆς φύσεως πόθεν ὑπέστη; — πάλιν ἐκεῖνος πρὸς ταῦτα, Ἐκ βουλῆς θεοῦ, ἥτις λαβοῦσα τὸν Λόγον καὶ ἰδοῦσα τὸν καλὸν κόσμον ἐμιμήσατο, κοσμοποιηθεῖσα διὰ τῶν ἑαυτῆς στοιχείων καὶ γεννημάτων ψυχῶν. ὁ δὲ Νοῦς ὁ θεός, ἀρρενόθηλυς ὤν, ζωὴ καὶ φῶς ὑπάρχων, ἀπεκύησε λόγῳ ἕτερον Νοῦν δημιουργόν, ὃς θεὸς τοῦ πυρὸς καὶ πνεύματος ὤν, ἐδημιούργησε διοικητάς τινας ἑπτά, ἐν κύκλοις περιέχοντας τὸν αἰσθητὸν κόσμον, καὶ ἡ διοίκησις αὐτῶν εἱμαρμένη καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἐπήδησεν εὐθὺς ἐκ τῶν κατωφερῶν στοιχείων [τοῦ θεοῦ] ὁ τοῦ θεοῦ Λόγος εἰς τὸ καθαρὸν τῆς φύσεως δημιούργημα, καὶ ἡνώθη τῷ δημιουργῷ Νῷ (ὁμοούσιος γὰρ ἦν), καὶ κατελείφθη [τὰ] ἄλογα τὰ κατωφερῆ τῆς φύσεως στοιχεῖα, ὡς εἶναι ὕλην μόνην. ὁ δὲ δημιουργὸς Νοῦς σὺν τῷ Λόγῳ, ὁ περιίσχων τοὺς κύκλους καὶ δινῶν ῥοίζῳ, ἔστρεψε τὰ ἑαυτοῦ δημιουργήματα καὶ εἴασε στρέφεσθαι ἀπ’ ἀρχῆς ἀορίστου εἰς ἀπέραντον τέλος· ἄρχεται γάρ, οὗ λήγει· ἡ δὲ τούτων περιφορά, καθὼς ἠθέλησεν ὁ Νοῦς, ἐκ τῶν κατωφερῶν στοιχείων ζῷα ἤνεγκεν ἄλογα (οὐ γὰρ ἐπεῖχε τὸν Λόγον), ἀὴρ δὲ πετεινὰ ἤνεγκε, καὶ τὸ ὕδωρ νηκτά· διακεχώρισται δὲ ἀπ’ ἀλλήλων ἥ τε γῆ καὶ τὸ ὕδωρ, καθὼς ἠθέλησεν ὁ Νοῦς, καὶ 〈ἡ γῆ〉 ἐξήνεγκεν ἀπ’ αὐτῆς ἃ εἶχε ζῷα τετράποδα 〈καὶ〉 ἑρπετά, θηρία ἄγρια καὶ ἥμερα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ὁ δὲ πάντων πατὴρ ὁ Νοῦς, ὢν ζωὴ καὶ φῶς, ἀπεκύησεν Ἄνθρωπον αὐτῷ ἴσον, οὗ ἠράσθη ὡς ἰδίου τόκου· περικαλλὴς γάρ, τὴν τοῦ πατρὸς εἰκόνα ἔχων· ὄντως γὰρ καὶ ὁ θεὸς ἠράσθη τῆς ἰδίας μορφῆς, παρέδωκε τὰ ἑαυτοῦ πάντα δημιουργήματα, καὶ κατανοήσας δὲ τὴν τοῦ Δημιουργοῦ κτίσιν ἐν τῷ πυρί, ἠβουλήθη καὶ αὐτὸς δημιουργεῖν, καὶ συνεχωρήθη ἀπὸ τοῦ πατρός· γενόμενος ἐν τῇ δημιουργικῇ σφαίρᾳ, ἕξων τὴν πᾶσαν ἐξουσίαν, κατενόησε τοῦ ἀδελφοῦ τὰ δημιουργήματα, οἱ δὲ ἠράσθησαν αὐτοῦ, ἕκαστος δὲ μετεδίδου τῆς ἰδίας τάξεως· καὶ καταμαθὼν τὴν τούτων οὐσίαν καὶ μεταλαβὼν τῆς αὐτῶν φύσεως ἠβουλήθη ἀναρρῆξαι τὴν περιφέρειαν τῶν κύκλων, καὶ τὸ κράτος τοῦ ἐπικειμένου ἐπὶ τοῦ πυρὸς κατανοῆσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "καὶ ὁ τοῦ τῶν θνητῶν κόσμου καὶ τῶν ἀλόγων ζῴων ἔχων πᾶσαν ἐξουσίαν διὰ τῆς ἁρμονίας παρέκυψεν, ἀναρρήξας τὸ κύτος, καὶ ἔδειξε τῇ κατωφερεῖ φύσει τὴν καλὴν τοῦ θεοῦ μορφὴν, ὃν ἰδοῦσα ἀκόρεστον κάλλος 〈καὶ〉 πᾶσαν ἐνέργειαν ἐν ἑαυτῷ ἔχοντα τῶν διοικητόρων τήν τε μορφὴν τοῦ θεοῦ ἐμειδίασεν ἔρωτι, ὡς ἅτε τῆς καλλίστης μορφῆς τοῦ Ἀνθρώπου τὸ εἶδος ἐν τῷ ὕδατι ἰδοῦσα καὶ τὸ σκίασμα ἐπὶ τῆς γῆς. ὁ δὲ ἰδὼν τὴν ὁμοίαν αὐτῷ μορφὴν ἐν αὐτῇ οὖσαν ἐν τῷ ὕδατι, ἐφίλησε καὶ ἠβουλήθη αὐτοῦ οἰκεῖν· ἅμα δὲ τῇ βουλῇ ἐγένετο ἐνέργεια, καὶ ᾤκησε τὴν ἄλογον μορφήν· ἡ δὲ φύσις λαβοῦσα τὸν ἐρώμενον περιεπλάκη ὅλη καὶ ἐμίγησαν· ἐρώμενοι γὰρ ἦσαν. καὶ διὰ τοῦτο παρὰ πάντα τὰ ἐπὶ γῆς ζῷα διπλοῦς ἐστιν ὁ ἄνθρωπος, θνητὸς μὲν διὰ τὸ σῶμα, ἀθάνατος δὲ διὰ τὸν οὐσιώδη ἄνθρωπον· ἀθάνατος γὰρ ὢν καὶ πάντων τὴν ἐξουσίαν ἔχων, τὰ θνητὰ πάσχει ὑποκείμενος τῇ εἱμαρμένῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ὑπεράνω οὖν ὢν τῆς ἁρμονίας ἐναρμόνιος γέγονε δοῦλος ἀρρενόθηλυς δὲ ὤν, ἐξ ἀρρενοθήλεος ὢν πατρὸς καὶ ἄϋπνος ἀπὸ ἀΰπνου ..... κρατεῖται. καὶ μετὰ ταῦτα, Νοῦς ὁ ἐμός· καὶ αὐτὸς γὰρ ἐρῶ τοῦ λόγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "ὁ δὲ Ποιμάνδρης εἶπε, Τοῦτό ἐστι τὸ κεκρυμμένον μυστήριον μέχρι τῆσδε τῆς ἡμέρας. ἡ γὰρ φύσις ἐπιμιγεῖσα τῷ Ἀνθρώπῳ ἤνεγκέ τι θαῦμα θαυμασιώτατον· ἔχοντος γὰρ αὐτοῦ τῆς ἁρμονίας τῶν ἑπτὰ τὴν φύσιν, οὓς ἔφην σοι ἐκ πυρὸς καὶ πνεύματος, οὐκ ἀνέμενεν ἡ φύσις, ἀλλ’ εὐθὺς ἀπεκύησεν ἑπτὰ ἀνθρώπους, πρὸς τὰς φύσεις τῶν ἑπτὰ διοκητόρων, ἀρρενοθήλεας καὶ μεταρσίους. καὶ μετὰ ταῦτα, Ὦ Ποιμάνδρη, εἰς μεγάλην γὰρ νῦν ἐπιθυμίαν ἦλθον καὶ ποθῶ ἀκοῦσαι· μὴ ἔκτρεχε. καὶ ὁ Ποιμάνδρης εἶπεν, Ἀλλὰ σιώπα. οὔπω γάρ σοι ἀνήπλωσα τὸν πρῶτον λόγον. — Ἰδοὺ σιωπῶ, ἔφην ἐγώ. Ἐγένετο οὖν, ὡς ἔφην, τῶν ἑπτὰ τούτων ἡ γένεσις τοιῷδε τρόπῳ· θηλυκὴ γὰρ 〈γῆ〉 ἦν καὶ ὕδωρ ὀχευτικόν, τὸ δὲ ἐκ πυρὸς πέπειρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "ἐκ δὲ αἰθέρος τὸ πνεῦμα ἔλαβε καὶ ἐξήνεγκεν ἡ φύσις τὰ σώματα πρὸς τὸ εἶδος τοῦ Ἀνθρώπου. ὁ δὲ Ἄνθρωπος ἐκ ζωῆς καὶ φωτὸς ἐγένετο εἰς ψυχὴν καὶ νοῦν, ἐκ μὲν ζωῆς ψυχήν, ἐκ δὲ φωτὸς νοῦν, καὶ ἔμεινεν οὕτω τὰ πάντα τοῦ αἰσθητοῦ κόσμου μέχρι περιόδου τέλους 〈καὶ〉 ἀρχῶν γενῶν. ἄκουε λοιπόν, ὃν ποθεῖς λόγον ἀκοῦσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "τῆς περιόδου πεπληρωμένης ἐλύθη ὁ πάντων σύνδεσμος ἐκ βουλῆς θεοῦ· πάντα γὰρ ζῷα ἀρρενοθήλεα ὄντα διελύετο ἅμα τῷ ἀνθρώπῳ καὶ ἐγένετο τὰ μὲν ἀρρενικὰ ἐν μέρει, τὰ δὲ θηλυκὰ ὁμοίως. ὁ δὲ θεὸς εὐθὺς εἶπεν ἁγίῳ λόγῳ, Αὐξάνεσθε ἐν αὐξήσει καὶ πληθύνεσθε ἐν πλήθει πάντα τὰ κτίσματα καὶ δημιουργήματα, καὶ ἀναγνωρισάτω 〈ὁ〉 ἔννους ἑαυτὸν ὄντα ἀθάνατον, καὶ τὸν αἴτιον τοῦ θανάτου ἔρωτα, καὶ πάντα τὰ ὄντα. τοῦτο εἰπόντος, ἡ πρόνοια διὰ τῆς εἱμαρμένης καὶ ἁρμονίας τὰς μίξεις ἐποιήσατο, καὶ τὰς γενέσεις κατέστησε, καὶ ἐπληθύνθη κατὰ γένος τὰ πάντα καὶ ὁ ἀναγνωρίσας ἑαυτὸν ἐλήλυθεν εἰς τὸ περιούσιον ἀγαθόν, ὁ δὲ ἀγαπήσας τὸ ἐκ πλάνης ἔρωτος σῶμα, οὗτος μένει ἐν τῷ σκότει πλανώμενος, αἰσθητῶς πάσχων τὰ τοῦ θανάτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "— Τί τοσοῦτον ἁμαρτάνουσιν, ἔφην ἐγώ, οἱ ἀγνοοῦντες, ἵνα στερηθῶσι τῆς ἀθανασίας; — Ἔοικας, ὦ οὗτος, τούτων μὴ πεφροντικέναι ὧν ἤκουσας. οὐκ ἔφην σοι νοεῖν; — Νοῶ καὶ μιμνήσκομαι, εὐχαριστῶ δὲ ἅμα. — Εἰ ἐνόησας, εἰπέ μοι, διὰ τί ἄξιοί εἰσι τοῦ θανάτου οἱ ἐν τῷ θανάτῳ ὄντες; — Ὅτι προκατάρχεται τοῦ οἰκείου σώματος τὸ στυγνὸν σκότος, ἐξ οὗ ἡ ὑγρὰ φύσις, ἐξ ἧς τὸ σῶμα συνέστηκεν ἐν τῷ αἰσθητῷ κόσμῳ, ἐξ οὗ θάνατος ἀρδεύεται. — Ἐνόησας ὀρθῶς, ὦ οὗτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "κατὰ τί δὲ «ὁ νοήσας ἑαυτὸν εἰς αὐτὸν χωρεῖ», ὅπερ ἔχει ὁ τοῦ θεοῦ λόγος; — φημὶ ἐγώ, Ὅτι ἐκ φωτὸς καὶ ζωῆς συνέστηκεν ὁ πατὴρ τῶν ὅλων, ἐξ οὗ γέγονεν ὁ Ἄνθρωπος. — Εὖ φῂς λαλῶν· φῶς καὶ ζωή ἐστιν ὁ θεὸς καὶ πατήρ, ἐξ οὗ ἐγένετο ὁ Ἄνθρωπος. ἐὰν οὖν μάθῃς αὐτὸν ἐκ ζωῆς καὶ φωτὸς ὄντα καὶ ὅτι ἐκ τούτων τυγχάνεις, εἰς ζωὴν πάλιν χωρήσεις. ταῦτα ὁ Ποιμάνδρης εἶπεν. — Ἀλλ’ ἔτι μοι εἰπέ, πῶς εἰς ζωὴν χωρήσω ἐγώ, ἔφην, ὦ Νοῦς ἐμός; φησὶ γὰρ ὁ θεός· «ὁ ἔννους ἄνθρωπος ἀναγνωρισάτω ἑαυτόν». οὐ πάντες γὰρ ἄνθρωποι νοῦν ἔχουσιν; — Εὐφήμει, ὦ οὗτος, λαλῶν· παραγίνομαι αὐτὸς ἐγὼ ὁ Νοῦς τοῖς ὁσίοις καὶ ἀγαθοῖς καὶ καθαροῖς καὶ ἐλεήμοσι, τοῖς εὐσεβοῦσι, καὶ ἡ παρουσία μου γίνεται βοήθεια, καὶ εὐθὺς τὰ πάντα γνωρίζουσι καὶ τὸν πατέρα ἱλάσκονται ἀγαπητικῶς καὶ εὐχαριστοῦσιν εὐλογοῦντες καὶ ὑμνοῦντες τεταγμένως πρὸς αὐτὸν τῇ στοργῇ, καὶ πρὸ τοῦ παραδοῦναι τὸ σῶμα ἰδίῳ θανάτῳ μυσάττονται τὰς αἰσθήσεις, εἰδότες αὐτῶν τὰ ἐνεργήματα· μᾶλλον δὲ οὐκ ἐάσω αὐτὸς ὁ Νοῦς τὰ προσπίπτοντα ἐνεργήματα τοῦ σώματος ἐκτελεσθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "πυλωρὸς ὢν ἀποκλείσω τὰς εἰσόδους τῶν κακῶν καὶ αἰσχρῶν ἐνεργημάτων, τὰς ἐνθυμήσεις ἐκκόπτων. τοῖς δὲ ἀνοήτοις καὶ κακοῖς καὶ πονηροῖς καὶ φθονεροῖς καὶ πλεονέκταις καὶ φονεῦσι καὶ ἀσεβέσι πόρρωθέν εἰμι, τῷ τιμωρῷ ἐκχωρήσας δαίμονι, ὅστις τὴν ὀξύτητα τοῦ πυρὸς προσβάλλων † θρώσκει αὐτὸν † αἰσθητικῶς καὶ μᾶλλον ἐπὶ τὰς ἀνομίας αὐτὸν ὁπλίζει, ἵνα τύχῃ πλείονος τιμωρίας, καὶ οὐ παύεται ἐπ’ ὀρέξεις ἀπλέτους τὴν ἐπιθυμίαν ἔχων, ἀκορέστως σκοτομαχῶν, καὶ † τοῦτον † βασανίζει, καὶ ἐπ’ αὐτὸν πῦρ ἐπὶ τὸ πλεῖον αὐξάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "— Εὖ μοι πάντα, ὡς ἐβουλόμην, ἐδίδαξας, ὦ Νοῦς, ἔτι δέ μοι εἰπὲ 〈περὶ〉 τῆς ἀνόδου τῆς γινομένης. — πρὸς ταῦτα ὁ Ποιμάνδρης εἷπε, Πρῶτον μὲν ἐν τῇ ἀναλύσει τοῦ σώματος τοῦ ὑλικοῦ παραδίδως αὐτὸ τὸ σῶμα εἰς ἀλλοίωσιν, καὶ τὸ εἶδος ὃ εἶχες ἀφανὲς γίνεται, καὶ τὸ ἦθος τῷ δαίμονι ἀνενέργητον παραδίδως, καὶ αἱ αἰσθήσεις τοῦ σώματος εἰς τὰς ἑαυτῶν πηγὰς ἐπανέρχονται, μέρη γινόμεναι καὶ πάλιν συνανιστάμεναι εἰς τὰς ἐνεργείας. καὶ ὁ θυμὸς καὶ ἡ ἐπιθυμία εἰς τὴν ἄλογον φύσιν χωρεῖ. καὶ οὕτως ὁρμᾷ λοιπὸν ἄνω διὰ τῆς ἁρμονίας, καὶ τῇ πρώτῃ ζώνῃ δίδωσι τὴν αὐξητικὴν ἐνέργειαν καὶ τὴν μειωτικήν, καὶ τῇ δευτέρᾳ τὴν μηχανὴν τῶν κακῶν, δόλον ἀνενέργητον, καὶ τῇ τρίτῃ τὴν ἐπιθυμητικὴν ἀπάτην ἀνενέργητον, καὶ τῇ τετάρτῃ τὴν ἀρχοντικὴν προφανίαν ἀπλεονέκτητον, καὶ τῇ πέμπτῃ τὸ θράσος τὸ ἀνόσιον καὶ τῆς τόλμης τὴν προπέτειαν, καὶ τῇ ἕκτῃ τὰς ἀφορμὰς τὰς κακὰς τοῦ πλούτου ἀνενεργήτους, καὶ τῇ ἑβδόμῃ ζώνῃ τὸ ἐνεδρεῦον ψεῦδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "καὶ τότε γυμνωθεὶς ἀπὸ τῶν τῆς ἁρμονίας ἐνεργημάτων γίνεται ἐπὶ τὴν ὀγδοατικὴν φύσιν, τὴν ἰδίαν δύναμιν ἔχων, καὶ ὑμνεῖ σὺν τοῖς οὖσι τὸν πατέρα· συγχαίρουσι δὲ οἱ παρόντες τῇ τούτου παρουσίᾳ, καὶ ὁμοιωθεὶς τοῖς συνοῦσιν ἀκούει καί τινων δυνάμεων ὑπὲρ τὴν ὀγδοατικὴν φύσιν φωνῇ τινι ἡδείᾳ ὑμνουσῶν τὸν θεόν· καὶ τότε τάξει ἀνέρχονται πρὸς τὸν πατέρα, καὶ αὐτοὶ εἰς δυνάμεις ἑαυτοὺς παραδιδόασι, καὶ δυνάμεις γενόμενοι ἐν θεῷ γίνονται. τοῦτό ἐστι τὸ ἀγαθὸν τέλος τοῖς γνῶσιν ἐσχηκόσι, θεωθῆναι. λοιπόν, τί μέλλεις; οὐχ ὡς πάντα παραλαβὼν καθοδηγὸς γίνῃ τοῖς ἀξίοις, ὅπως τὸ γένος τῆς ἀνθρωπότητος διὰ σοῦ ὑπὸ θεοῦ σωθῇ; ταῦτα εἰπὼν ὁ Ποιμάνδρης ἐμοὶ ἐμίγη ταῖς δυνάμεσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "ἐγὼ δὲ εὐχαριστήσας καὶ εὐλογήσας τὸν πατέρα τῶν ὅλων ἀνείθην ὑπ’ αὐτοῦ δυναμωθεὶς καὶ διδαχθεὶς τοῦ παντὸς τὴν φύσιν καὶ τὴν μεγίστην θέαν, καὶ ἦργμαι κηρύσσειν τοῖς ἀνθρώποις τὸ τῆς εὐσεβείας καὶ γνώσεως κάλλος, Ὦ λαοί, ἄνδρες γηγενεῖς, οἱ μέθῃ καὶ ὕπνῳ ἑαυτοὺς ἐκδεδωκότες καὶ τῇ ἀγνωσίᾳ τοῦ θεοῦ, νήψατε, παύσασθε δὲ κραιπαλῶντες, θελγόμενοι ὕπνῳ ἀλόγῳ. Οἱ δὲ ἀκούσαντες παρεγένοντο ὁμοθυμαδόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "ἐγὼ δέ φημι, Τί ἑαυτούς, ὦ ἄνδρες γηγενεῖς, εἰς θάνατον ἐκδεδώκατε, ἔχοντες ἐξουσίαν τῆς ἀθανασίας μεταλαβεῖν; μετανοήσατε, οἱ συνοδεύσαντες τῇ πλάνῃ καὶ συγκοινωνήσαντες τῇ ἀγνοίᾳ· ἀπαλλάγητε τοῦ σκοτεινοῦ φωτός, μεταλάβετε τῆς ἀθανασίας, καταλείψαντες τὴν φθοράν. καὶ οἱ μὲν αὐτῶν καταφλυαρήσαντες ἀπέστησαν, τῇ τοῦ θανάτου ὁδῷ ἑαυτοὺς ἐκδεδωκότες, οἱ δὲ παρεκάλουν διδαχθῆναι, ἑαυτοὺς πρὸ ποδῶν μου ῥίψαντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "ἐγὼ δὲ ἀναστήσας αὐτοὺς καθοδηγὸς ἐγενόμην τοῦ γένους, τοὺς λόγους διδάσκων, πῶς καὶ τίνι τρόπῳ σωθήσονται, καὶ ἔσπειρα αὐτοῖς τοὺς τῆς σοφίας λόγους καὶ ἐτράφησαν ἐκ τοῦ ἀμβροσίου ὕδατος. ὀψίας δὲ γενομένης καὶ τῆς τοῦ ἡλίου αὐγῆς ἀρχομένης δύεσθαι ὅλης, ἐκέλευσα αὐτοῖς εὐχαριστεῖν τῷ θεῷ καὶ ἀναπληρώσαντες τὴν εὐχαριστίαν ἕκαστος ἐτράπη εἰς τὴν ἰδίαν κοίτην. ἐγὼ δὲ τὴν εὐεργεσίαν τοῦ Ποιμάνδρου ἀνεγραψάμην εἰς ἐμαυτόν, καὶ πληρωθεὶς ὧν ἤθελον ἐξηυφράνθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "ἐγένετο γὰρ ὁ τοῦ σώματος ὕπνος τῆς ψυχῆς νῆψις, καὶ ἡ κάμμυσις τῶν ὀφθαλμῶν ἀληθινὴ ὅρασις, καὶ ἡ σιωπή μου ἐγκύμων τοῦ ἀγαθοῦ, καὶ ἡ τοῦ λόγου ἐκφορὰ γεννήματα ἀγαθῶν. τοῦτο δὲ συνέβη μοι λαβόντι ἀπὸ τοῦ νοός μου, τουτέστι τοῦ Ποιμάνδρου, τοῦ τῆς αὐθεντίας λόγου. θεόπνους γενόμενος τῆς ἀληθείας ἦλθον. διὸ δίδωμι ἐκ ψυχῆς καὶ ἰσχύος ὅλης εὐλογίαν τῷ πατρὶ θεῷ. ἅγιος ὁ θεὸς καὶ πατὴρ τῶν ὅλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "ἅγιος ὁ θεὸς, οὗ ἡ βουλὴ τελεῖται ἀπὸ τῶν ἰδίων δυνάμεων. ἅγιος ὁ θεός, ὃς γνωσθῆναι βούλεται καὶ γινώσκεται τοῖς ἰδίοις. ἅγιος εἶ, ὁ λόγῳ συστησάμενος τὰ ὄντα. ἅγιος εἶ, οὗ πᾶσα φύσις εἰκὼν ἔφυ. ἅγιος εἶ, ὃν ἡ φύσις οὐκ ἐμόρφωσεν. ἅγιος εἶ, ὁ πάσης δυνάμεως ἰσχυρότερος. ἅγιος εἶ, ὁ πάσης ὑπεροχῆς μείζων. ἅγιος εἶ, ὁ κρείττων τῶν ἐπαίνων. δέξαι λογικὰς θυσίας ἁγνὰς ἀπὸ ψυχῆς καὶ καρδίας πρὸς σὲ ἀνατεταμένης, ἀνεκλάλητε, ἄρρητε, σιωπῇ φωνούμενε. αἰτουμένῳ τὸ μὴ σφαλῆναι τῆς γνώσεως τῆς κατ’ οὐσίαν ἡμῶν ἐπίνευσόν μοι καὶ ἐνδυνάμωσόν με, καὶ τῆς χάριτος ταύτης φωτίσω τοὺς ἐν ἀγνοίᾳ τοῦ γένους, μοῦ ἀδελφούς, υἱοὺς δὲ σοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "διὸ πιστεύω καὶ μαρτυρῶ· εἰς ζωὴν καὶ φῶς χωρῶ. εὐλογητὸς εἶ, πάτερ. ὁ σὸς ἄνθρωπος συναγιάζειν σοι βούλεται, καθὼς παρέδωκας αὐτῷ τὴν πᾶσαν ἐξουσίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oqk-an",
+      "title": {
+        "english": "Asclepius Greek Words Only",
+        "ancient_greek": "Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν"
+      },
+      "url_slug": "hermetica-asclepius-words-oqk-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/asclepius-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/asclepius-words.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-as",
+      "title": {
+        "english": "Dialogue Untitled",
+        "ancient_greek": "Διάλογος"
+      },
+      "url_slug": "hermetica-dialogue-oqk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-am",
+      "title": {
+        "english": "From the Hymn to the Almighty",
+        "ancient_greek": "Ἐκ τοῦ ὕμνου πρὸς τὸν παντοκράτορα"
+      },
+      "url_slug": "hermetica-hymn-almighty-oqk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/hymn-almighty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/hymn-almighty.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ao",
+      "title": {
+        "english": "Hermes Trismegistus Key",
+        "ancient_greek": "Κλείς"
+      },
+      "url_slug": "hermetica-key-oqk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/key",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/key.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ak",
+      "title": {
+        "english": "Hermes Trismegistus to Asclepius",
+        "ancient_greek": "Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "hermetica-to-asclepius-ak-oqk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aa",
+      "title": {
+        "english": "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth",
+        "ancient_greek": "Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ"
+      },
+      "url_slug": "hermetica-to-tat-rebirth-oqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-tat-rebirth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ac",
+      "title": {
+        "english": "Hermes Trismegistus, Greatest Evil is Ignorance of God",
+        "ancient_greek": "Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ"
+      },
+      "url_slug": "hermetica-greatest-evil-ignorance-oqk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/greatest-evil-ignorance",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/greatest-evil-ignorance.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-af",
+      "title": {
+        "english": "Hermes Trismegistus, To Asclepius, Be Well",
+        "ancient_greek": "Ἀσκληπιῷ εὖ φρονεῖν"
+      },
+      "url_slug": "hermetica-to-asclepius-af-oqk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-af.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ah",
+      "title": {
+        "english": "Hermes Trismegistus-Common Mind to Tat",
+        "ancient_greek": "Περὶ νοῦ κοινοῦ πρὸς Τάτ"
+      },
+      "url_slug": "hermetica-common-mind-oqk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/common-mind",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/common-mind.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ae",
+      "title": {
+        "english": "Hermes Trismegistus-Thought and Perception",
+        "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+      },
+      "url_slug": "hermetica-thought-perception-oqk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/thought-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ab",
+      "title": {
+        "english": "Hermes to His Son Tat, That the Invisible God is Most Manifest",
+        "ancient_greek": "Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν"
+      },
+      "url_slug": "hermetica-invisible-god-manifest-oqk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/invisible-god-manifest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/invisible-god-manifest.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aq",
+      "title": {
+        "english": "Hermes to Tat, The Cup",
+        "ancient_greek": "Πρὸς Τάτ ὁ κρατήρ ἡ μονάς"
+      },
+      "url_slug": "hermetica-cup-oqk-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/cup",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/cup.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uim-aa",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Books II–V",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια Βιβλία Β'-Ε'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.json"
+      }
+    },
+    {
+      "eul_wid": "lya-aa",
+      "title": {
+        "english": "Fragments on Stoic Logic",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Στωικῆς Λογικῆς"
+      },
+      "url_slug": "crinis-the-stoic-logic-fragments-lya-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crinis-the-stoic/logic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crinis-the-stoic/logic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aq",
+      "title": {
+        "english": "Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "arrian-of-nicomedia-cynegeticus-pcs-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cynegeticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dr",
+      "title": {
+        "english": "On Inactivity",
+        "ancient_greek": "Περὶ ἀοπγησίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-inactivity-okg-dr",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/inactivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/inactivity.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/inactivity.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/inactivity.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/inactivity.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bc",
+      "title": {
+        "english": "On the Proverbs of the Alexandrians",
+        "ancient_greek": "Περὶ τῶν Ἀλεξανδρέων παροιμιῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-proverbs-alexandrians-okg-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/proverbs-alexandrians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/proverbs-alexandrians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/proverbs-alexandrians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/proverbs-alexandrians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/proverbs-alexandrians.json"
+      }
+    },
+    {
+      "eul_wid": "ibg-aa",
+      "title": {
+        "english": "Philistas, Book II",
+        "ancient_greek": "Φιλίστας Βιβλίον Βʹ"
+      },
+      "url_slug": "carneiscus-the-epicurean-philistas-ii-ibg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/carneiscus-the-epicurean/philistas-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/carneiscus-the-epicurean/philistas-ii.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-an",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "arrian-of-nicomedia-testimonies-pcs-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "lcc-aa",
+      "title": {
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "antipater-of-sidon-testimonies-lcc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antipater-of-sidon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermetica/poimandres",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

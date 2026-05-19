@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jns",
+  "auth_slug": "hipparchus-the-comic-poet",
+  "name": {
+    "english": "Hipparchus the Comic Poet",
+    "ancient_greek": "Ἵππαρχος ὁ κωμικός"
+  },
+  "seo_h1": "Hipparchus the Comic Poet on Art, Wealth, and Fortune",
+  "seo": {
+    "browser_title": "Hipparchus Ancient Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Hipparchus Ancient Greek Comic Poet and Works",
+    "meta_description": "Hipparchus, a Hellenistic comic poet. Two surviving works from this 3rd century BCE Attic author. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hipparchus was a comic poet who lived and worked during the Hellenistic period in the 3rd century BCE. He wrote in the tradition of Attic comedy, following the style of earlier Athenian playwrights. The primary record of his life comes from the Byzantine encyclopedia called the Suda, which lists him as a comic poet but does not specify his hometown. Some scholars suggest this may indicate he was not from Athens himself, though he wrote within its comedic tradition.</p>\n<p class=\"research-text\">According to the Suda, Hipparchus wrote two comedies: Amphitryon and Philopator. Both plays are now lost, and no fragments of his writing survive. The title Philopator, meaning &quot;Father-Loving,&quot; was a common royal title in his era. Modern academics suggest this may indicate the play engaged with contemporary politics or referenced the Hellenistic kings of the time.</p>\n<p class=\"research-text\">Hipparchus represents the many comic poets who continued writing after the famous era of New Comedy, led by Menander. While his existence and his plays&#x27; titles are recorded, the complete loss of his texts means his specific style or contribution to comedy cannot be evaluated. He remains a minor figure, known only through later historical catalogs, illustrating how much of Hellenistic drama has not survived.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "jns-aa",
+      "title": {
+        "english": "Fragments on Art and Wealth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτου"
+      },
+      "url_slug": "hipparchus-the-comic-poet-art-wealth-jns-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/art-wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.json"
+      }
+    },
+    {
+      "eul_wid": "jns-ab",
+      "title": {
+        "english": "Fragments on Craft and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Τύχης"
+      },
+      "url_slug": "hipparchus-the-comic-poet-craft-fortune-jns-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/craft-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hipparchus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hipparchus-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

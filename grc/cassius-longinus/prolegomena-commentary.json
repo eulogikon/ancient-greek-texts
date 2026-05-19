@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rmq-aa",
+  "eul_aid": "rmq",
+  "author_slug": "cassius-longinus",
+  "work_slug": "prolegomena-commentary",
+  "url_slug": "cassius-longinus-prolegomena-commentary-rmq-aa",
+  "author": {
+    "english": "Cassius Longinus the Philosopher",
+    "ancient_greek": "Κάσσιος Λογγῖνος"
+  },
+  "title": {
+    "english": "Prolegomena Longinus, Commentary Remains",
+    "ancient_greek": "Προλεγόμενα Λογγίνου"
+  },
+  "seo": {
+    "browser_title": "Prolegomena Longinus by Cassius Longinus on Eulogikon",
+    "meta_title": "Ancient Prolegomena Longinus by Cassius Longinus in Greek",
+    "meta_description": "The Prolegomena Longinus is an introductory commentary on Hephaestion's metrical handbook. This philosophical oration discusses poetic meter rhythm."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Prolegomena Longinus</strong>, also known as the <strong>Commentary Remains</strong>, comprises eleven fragments attributed to the third-century philosopher and rhetorician Cassius Longinus. Preserved not as an independent work but within the medieval scholia on Plato&#x27;s dialogues, these passages are written in Attic Greek and represent the surviving portions of what was likely a broader introductory lecture series or commentary on Plato. The text serves as a philosophical prolegomena, offering structured guidance for students embarking on the study of Plato&#x27;s complex corpus. Its content addresses foundational scholarly questions, including the recommended sequence for reading the dialogues, their classification by literary form such as dramatic or narrative, and methodologies for discerning the principal aim or subject matter of each work. This systematic approach reflects the formalized, scholastic pedagogical traditions of late antique Platonic schools, where such frameworks were deemed essential for advanced philosophical instruction. The work engages directly with contemporary interpretive debates surrounding Plato, indicating its original audience consisted of dedicated students within this academic milieu. The fragments survive exclusively through indirect transmission, embedded in the marginal annotations of Plato manuscripts like the codex Parisinus graecus 1807; none of Longinus&#x27;s original writings exist in complete form. Consequently, the full scope and arrangement of his original commentary remain uncertain. Despite its fragmentary state, the <strong>Prolegomena Longinus</strong> provides significant insight into ancient scholarly practices and exerted a discernible influence on later Neoplatonic commentators, including Proclus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΕΚ ΤΩΝ ΛΟΓΓΙΝΟΥ ΤΟΥ ΦΙΛΟΣΟΦΟΥ Τὰ προλεγόμενα εἰς τὸ τοῦ Ἡφαιστίωνος ἐγχειρίδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1",
+      "text": "Ἀλλ’ εἴτε νέα τῶν μέτρων ἡ θεωρία εἴτε Μούσης εὕρημα παλαιᾶς ἑκάτερον ἕξει καλῶς. ἀρχαία μὲν γὰρ οὖσα ἐκ τῆς παλαιότητος ἕξει τὴν σεμνότητα, νέα δὲ οὖσα ποθεινοτέρα καθ’ Ὅμηρον (α 351)· τὴν γὰρ ἀοιδὴν πάντες ἐπικλείους’ ἄνθρωποι, ἥτις ἀϊόντεσσι νεωτάτη ἀμφιπέληται. Μέτρου δὲ πατὴρ ῥυθμὸς καὶ θεός· ἀπὸ ῥυθμοῦ γὰρ ἔσχε τὴν ἀρχήν, θεὸς δὲ τὸ μέτρον ἀνεφθέγξατο. Τοῦ δὲ περὶ μέτρων λόγου πολλοὶ πολλαχῶς ἤρξαντο, οἱ μὲν ἀπὸ στοιχείων ὡς Φιλόξενος, οἱ δὲ ἀπὸ τοῦ μέτρων ὅρου ὡς Ἡλιόδωρος· ἡμεῖς δὲ Ἡφαιστίωνι κατακολουθήσομεν ἀπὸ συλλαβῆς ἀρξάμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2",
+      "text": "πρῶτον δὲ ὀλίγα προειπεῖν δίκαιον. Κριτήριον μέτρου ἀκοή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3",
+      "text": "ἔνιοι γοῦν οὕτως ὡρίσαντο· μέτρον ἐστὶ ποδῶν ἢ βάσεων σύνταξις αἰσθήσει τῇ δι’ ἀκοῆς παραλαμβανομένη. εἰ δὲ τὸ κρῖνόν ἐστιν ἀκοή, τὸ κοσμοῦν ἐστι φωνή. ὡς γὰρ τὸν ἦχον τῆς εὐρυθμίας ἐκτείνουσά τε καὶ συστέλλουσα 〈ἡ〉 φωνὴ σχηματίζει τὰς συλλαβάς, οὕτως εἰσδεξαμένη κρίνει ἡ ἀκοή. διὰ τοῦτο πολλὰ τῶν μέτρων συμβέβηκεν ἀποκρύπτεσθαι σιωπώμενα ἐν τῇ κατὰ πεζὸν ῥήσει· καὶ αὖ πάλιν πολλὰς συνεμπτώσεις ἔχει πρὸς ἄλλα μέτρα. εὕροι γοῦν ἄν τις παρὰ Δημοσθένει τῷ ῥήτορι στίχον ἡρωϊκὸν κεκρυμμένον, ὃς ἠδυνήθη λαθεῖν διὰ τὸ πεζὴν οὖσαν τὴν προφορὰν συναρπάσαι τῷ λόγῳ τὴν ἀκοήν. φησὶ γοῦν (de cor. 143) τὸν γὰρ ἐν Ἀμφίσσῃ πόλεμον, δι’ ὃν εἰς Ἐλάτειαν ἦλθε Φίλιππος. στίχος ἐστὶν ἡρῷος· ἀλλὰ μὴν καὶ Ἰωνικόν, ὅταν λέγῃ (Ol. III 4) πολλῶν δὲ λόγων καὶ θορύβου γιγνομένου παρ’ ὑμῖν. τοῦτο γὰρ ἄντικρυς Ἰωνικόν ἐστιν ἀπὸ μείζονος ὅμοιον τῷ (Sapph. 76 = Heph. 36, 17) εὐμορφοτέρα Μνασιδίκα τᾶς ἁπαλᾶς Γυρίννως. τὰς δὲ τῶν μέτρων συνεμπτώσεις ἐν τοῖς ἑξῆς ἐπιδείξομεν. Διαφέρει δὲ μέτρον ῥυθμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4",
+      "text": "ὕλη μὲν γὰρ τοῖς μέτροις ἡ συλλαβὴ καὶ χωρὶς συλλαβῆς οὐκ ἂν γένοιτο μέτρον, ὁ δὲ ῥυθμὸς γίνεται μὲν καὶ ἐν συλλαβαῖς, γίνεται δὲ καὶ χωρὶς συλλαβῆς· καὶ γὰρ ἐν κρότῳ· ὅταν μὲν γὰρ τοὺς χαλκέας ἴδωμεν τὰς σφύρας καταφέροντας, ἅμα τινὰ καὶ ῥυθμὸν ἀκούομεν. καὶ ἵππων δὲ πορεία ῥυθμὸς ἐνομίσθη καὶ κίνησις δακτύλων καὶ μελῶν σχήματα καὶ χορδῶν κινήματα καὶ τῶν ὀρνίθων τὰ πτερυγίσματα. μέτρον δὲ οὐκ ἂν γένοιτο χωρὶς λέξεως ποιᾶς καὶ ποσῆς. Ἔτι τοίνυν διαφέρει ῥυθμοῦ τὸ μέτρον, ᾗ τὸ μὲν μέτρον πεπηγότας ἔχει τοὺς χρόνους, μακρόν τε καὶ βραχὺν καὶ τὸν μεταξὺ τούτων τὸν κοινὸν καλούμενον, ὃς καὶ αὐτὸς πάντως μακρός ἐστιν ἢ βραχύς· ὁ δὲ ῥυθμὸς ὡς βούλεται ἕλκει τοὺς χρόνους. πολλάκις γοῦν καὶ τὸν βραχὺν χρόνον ποιεῖ μακρόν. Ὅτι δὲ τοῦτο οὕτως ἔχει καὶ τὴν διαφορὰν ἴσασιν οἱ ποιηταί, λάβωμεν παράδειγμα ἀπὸ παιζούσης κωμῳδίας ἐν σπουδαζούσῃ φιλοσοφίᾳ· ὁ γοῦν [Ἀριστοφάνης] ἐν ταῖς Νεφέλαις (638) φησὶ Σωκράτης, εἰ καὶ τωθάζει Ἀριστοφάνης· πότερον περὶ μέτρων ἢ περὶ ἐπῶν ἢ ῥυθμῶν· ἀντιδιέστειλε γὰρ ἐκεῖνος ἀπὸ ῥυθμῶν τὰ μέτρα· εἰς ἑκάτερον γοῦν τὸ παράδειγμα σημειωτέον, ὅτι τε ῥυθμὸς μέτρου διαφέρει καὶ ὅτι ἴσασιν ἐν διδασκαλίᾳ οἱ παλαιοὶ τὴν τῶν μέτρων θεωρίαν. Τὸ δὲ μέτρον λέγεται πολλαχῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5",
+      "text": "καὶ γὰρ τὴν εὐμετρίαν μέτρον προσαγορεύομεν ὡς ὁ εἰπὼν μέτρον ἄριστον —εἴτε σοφὸν ἀπόφθεγμα εἴτε θεῖον ἀνάθημα. Ἀπόλλωνι μὲν γὰρ ἁρμοδιώτατον, ἐπεὶ καὶ μέτρων εὑρετής. —Λέγεται δὲ μέτρον καὶ αὐτὸ τὸ μετροῦν καὶ τὸ μετρούμενον· ὡς ὅταν εἴπωμεν τὸν μέδιμνον μέτρον καὶ τὸ ἐν αὐτῷ μετρηθὲν [μέτρον], ἀμφότερα δὲ καλεῖται μέδιμνος· καὶ αὖ πάλιν εἰ εἴποιμι χόα τὸ σκεῦος, ἐν ᾧ μετρῶ ποσότητά τινα, καὶ [αὖ πάλιν] αὐτὴν τὴν ποσότητα χόα [προσαγορεύομεν]· —καὶ αὖ πάλιν αὐτὸ τὸ ξύλον, ὃ μόνον ἔχει πῆχυν, πῆχυν προσαγορεύομεν· —οὕτως μὲν οὖν καὶ ἐπὶ ταύτης τῆς θεωρίας πολλαχόθεν λέγεται μέτρον· Μέτρον τε γὰρ καλοῦμεν πᾶν τὸ μὴ πεζό ν, ὡς ὅταν εἴπω τὰ μὲν Πλάτωνος πεζά, τὰ δὲ Ὁμήρου μέτρα. μέτρον καλεῖται καὶ εἶδος ἕκαστον, ὡς ὅταν εἴπω μέτρον ἰωνικὸν καὶ μέτρον ἰαμβικὸν καὶ μέτρον τροχαϊκόν. μέτρον καλεῖται καὶ στίχος ἕκαστος, ὡς ὅταν εἴπω· ἡ πρώτη Ὁμήρου ῥαψῳδία μέτρα ἔχει ἑξακόσια 〈καὶ δέκα〉 —τοῦτο δὲ Ὀδυσσεὺς ὁ μετρικὸς ἐσημειώσατο· —ἔτι τοίνυν μέτρον καλοῦμεν τὴν συζυγία ν, τουτέστι τὴν διποδίαν, ὡς ὅταν τὸ ἰαμβικὸν τὸ ἀπὸ ἓξ ποδῶν συγκείμενον τρίμετρον καλῶμεν. 〈μέτρον καλοῦμεν καὶ τὸν πόδα ......〉. μέτρον καλοῦμεν καὶ τὸν χρόνο ν, ὅν τινες τῶν ῥυθμικῶν σημεῖον προσαγορεύουσιν. ὅτι δὲ τοῦτο οὕτως ἔχει, παράδειγμα τεθήσεται, ὅ τινες μὲν Ὀρφέως, τινὲς δὲ τῆς Πυθίας ὑπολαμβάνουσι· περὶ γὰρ τῶν ἐπῶν λέγων ἢ λέγουσα ὄρθιον ἑξαμερὲς τετόρων καὶ εἴκοσι μέτρων. Καὶ ταῦτα οὕτως ἔχει ὥσπερ εἴρηκα. μέτρον γὰρ καὶ τὸ μετροῦν καὶ τὸ μετρούμενον· οὕτως καὶ ἐπὶ τῶν προειρημένων αὐτὸ τὸ μετρούμενον τουτέστι τὸ ποίημα μέτρον προσαγορεύεται, καὶ ἕκαστον τῶν μετρούντων τῆς ὁμοίας τετύχηκεν ὀνομασίας. χρόνος γὰρ συλλαβὴν ποιεῖ, συλλαβὴ δὲ πόδα, ποὺς δὲ συζυγίαν, συζυγία δὲ στίχον, στίχος δὲ ποίημα. πάντα οὖν εἰκότως μέτρα προσαγορεύεται. Γέγονε δὲ ἀπὸ τοῦ μείρω ῥήματος, ὅ ἐστι μερίζω, ἀφ’ οὗ παρὰ τῷ ποιητῇ (Ι 612) ἶσον ἐμοὶ βασίλευε καὶ ἥμισυ μείρεο τιμῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 6",
+      "text": "ὡς γὰρ παρὰ τὸ σείω σεῖστρον γίνεται καὶ παρὰ τὸ δέρω δέρτρον καὶ παρὰ τὸ φέρω φέρτρον, οὕτω καὶ παρὰ τὸ μείρω 〈μέρτρον καὶ〉 μέτρον. ὄνομα γοῦν ἐστὶ καὶ ἐκ τῆς ἐτυμολογίας τοῦ μερισμοῦ. — Περὶ δὲ ὅρου μέτρου νῦν εἰπεῖν οὐκ ἀναγκαῖον· αὐτὸς γὰρ ὁ Ἡφαιστίων αἰτιᾶται τὸν Ἡλιόδωρον, ὅτι τοῖς ὑπαρχομένοις γράφει· τοῖς γὰρ ἀπείροις καὶ [τοῖς] μήπω τῆς μετροποιίας γεγευμένοις ἀδύνατον νοῆσαι τὸν ὅρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8",
+      "text": "Ἐπιγέγραπται δὲ ἐγχειρίδιον, οὐχ ὥς τινες ᾠήθησαν παρὰ τὸ ξίφος διὰ τὸ ὀξύνειν τῶν μετιόντων τὰς ψυχάς, ἀλλὰ διὰ τὸ ἐν χερσὶν ἔχειν τοὺς βουλομένους τὰ κεφάλαια τῶν μετρικῶν παραγγελμάτων. ὅτι δὲ ταῦτα οὕτως ἔχει, Ἡλιόδωρος τοῦ ἐγχειριδίου ἀρχόμενος οὕτως λέγει· τοῖς βουλομένοις ἐν χερσὶν ἔχειν τὰ κεφαλαιωδέστατα τῆς μετρικῆς γέγραπται τὸ βιβλίον τοῦτο. Ἤρξατο δὲ αὐτὸς ὁ Ἡφαιστίων, ὡς ἔφην, ἀπὸ συλλαβῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 9",
+      "text": "ὕλη γὰρ τοῖς μέτροις ἡ συλλαβή, καὶ ἄνευ ταύτης οὐκ ἂν συσταίη τὸ μέτρον· τὸ 〈δὲ〉 ποιοῦν πρὸ τοῦ ποιηθέντος, ὅθεν 〈ἀπὸ συλλαβῆσ〉 ἄρξασθαι δίκαιον. οὐκ ἀπὸ τοῦ γένους δὲ ἤρξατο, ἀλλ’ ἀπὸ τοῦ εἴδους. διαφέρει δὲ εἶδος καὶ γένος, ᾗ γένος μέν ἐστι τὸ πρωτότυπον εἰς εἴδη διαιρεθῆναι δυνάμενον, εἶδος δὲ τὸ ἀπὸ τοῦ γένους διῃρημένον, οἷον εἴ τις λέγοι ζῷον γένος, εἴδη δὲ αὐτοῦ ἄνθρωπον ἵππον καὶ τὰ λοιπά. οὐκοῦν γένος μέν ἐστιν ἡ συλλαβή, εἴδη δὲ αὐτῆς βραχεῖα καὶ μακρὰ καὶ 〈ἡ〉 κοινὴ καλουμένη. οὐκ ἔδοξεν οὖν αὐτῷ ἀπὸ τοῦ γένους ποιήσασθαι τὴν ἀρχὴν (τεχνικὸς γὰρ οὗτος ὁ λόγος καὶ οὐ πάνυ τοῖς μέτροις συμβάλλεται) οὐδὲ ὅρῳ τὴν συλλαβὴν περιλαβεῖν οὐδὲ τὸν περὶ αὐτῆς εἰπεῖν λόγον τῆς ἐτυμολογίας· καὶ γὰρ ἐν τοῖς τεχνικοῖς ἔλεγχον ἔσχεν ὁ ὅρος, ὅτι ἡ συλλαβὴ παρὰ τοῦτο ὠνόμασται, παρὰ τὸ ποσότητα στοιχείων εἰς ταὐτὸν συλλαμβάνειν ὧν ἔξεστιν ὑφ’ ἕνα φθόγγον παραλαβεῖν· 〈οὐχ γὰρ〉 ἂν εἴποι τις τὰς μονογραμμάτους. ἀλλὰ ταῦτα μὲν ζητείτωσαν οἱ τεχνικοί. — Ἐν δὲ τοῖς μετρικοῖς εἰδέναι δεῖ, ὅτι πᾶσα βραχεῖα ἴση καὶ πᾶσα μακρὰ ἴση· καθόλου γὰρ αἱ μέν εἰσι δίχρονοι, αἱ δὲ μονόχρονοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10",
+      "text": "ἐντεῦθεν τὸν μὲν δάκτυλον καλοῦμεν τετράχρονον, τὸν δὲ πυρρίχιον δίχρονον, οὐ πολυπραγμονοῦντες τῆς ποιητικῆς λέξεως ἢ συλλαβῆς τὰ στοιχεῖα οὐδὲ ἐν ποσότητι καταμετροῦντες τοὺς χρόνους ἀλλ’ ἐν δυνάμει [τῆς ποσότητος]. Περὶ βραχείας συλλαβῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 1",
+      "text": "Ἀρκτέον δὲ ἀπὸ βραχείας. οὕτω τοίνυν ὁ Ἡφαιστίων αὐτὴν ὁρίζεται· Βραχεῖά ἐστι συλλαβὴ ἡ ἔχουσα βραχὺ φωνῆεν ἢ βραχυνόμενο ν , μὴ ἐπὶ τέλους λέξεω ς , οὕτως ὡς μεταξὺ αὐτοῦ καὶ τοῦ ἐν τῇ ἑξῆς συλλαβῇ φωνήεντος μὴ ὑπάρχειν σύμφωνα πλείονα ἑνὸς ἁπλο ῦ , ἀλ λ ’ ἤτοι ἓν ἢ μηδὲ ἕ ν. —Πάνυ οὖν ἐπαίνου ἄξιος ὁ ὅρος ὡς πάντα ἔχων ὅσα δεῖ ὑγιῆ ὅρον ἔχειν. ὑγιὴς γὰρ ὅρος καὶ τοῖς φιλοσόφοις εἶναι δοκεῖ ὁ μηδὲν ἔξωθεν τῶν ὁριζομένων συμπεριλαμβάνων καὶ [ὁ] μηδὲν τῶν ὁριζομένων καταλιπών, ὃς ἀντιστρέφει πρὸς τὸ κεφαλαιῶδες. ὁ μὲν οὖν μὴ † συμπεριλαμβάνων παραγγελίαν τοιαύτην οὐ καλῶς ἔχει, οἷον εἴ τις τὸν ἄνθρωπον ὁρίζοιτο † μηκέτι ... τὸν θεὸν τῷ ὅρῳ συμπεριλαμβάνων. ἑκάτερον δὲ ὑπάρξει, ἐὰν ἀντιστρέφῃ πρὸς τὸ κεφαλαιῶδες, τουτέστιν ἐὰν ἀλλήλων ὑπάρχωσιν ὅροι αὐτός τε ὁ ὅρος καὶ τὸ ὁριζόμενον, οὕτως ὡς ἐπὶ τοιοῦδε παραδείγματος· ἄνθρωπός ἐστι ζῷον λογικὸν θνητὸν νοῦ καὶ ἐπιστήμης δεκτικόν. εἴ τι οὖν ἐστὶ ζῷον λογικὸν θνητὸν νοῦ καὶ ἐπιστήμης δεκτικόν, τοῦτό ἐστιν ἄνθρωπος πάντως. καὶ αὖ πάλιν· φωνή ἐστιν ἀὴρ πεπληγμένος. εἴ τι οὖν ἐστὶν ἀὴρ πεπληγμένος, τοῦτο φωνὴ πάντως· οὕτως οὖν καὶ ἐπὶ τοῦ προκειμένου ὅρου ἴδωμεν τὸ ἀντιστρέφον· εἴ τι ἐστὶ βραχὺ φωνῆεν, μὴ ἐπὶ τέλους λέξεως κείμενον, μετα〈ξὺ ἑαυτοῦ καὶ〉 τῆς ἄλλης συλλαβῆς οὐκ ἔχον σύμφωνα ἑνὸς πλείονα, τοῦτο πάντως ἐστὶ συλλαβὴ βραχεῖα. —Πρόσκειται δὲ τὸ μὴ ἐπὶ τέλους λέξεως κείμενον διὰ τὴν κοινὴν λεγομένην. ἐὰν γὰρ εἰς μέρος ἀπαρτίζῃ λόγου, τῷ τῆς κοινῆς ὑποπίπτει λόγῳ, οἷον ἡ τα συλλαβὴ βραχεῖά ἐστιν, ἐπὶ 〈δὲ〉 τέλους λέξεως κειμένη ἐνομίσθη ποτὲ μακρὰ ὡς παρὰ τῷ ποιητῇ (Φ 352) τὰ περὶ καλὰ ῥέεθρα. καὶ αὖ πάλιν ἡ προς συλλαβὴ βραχεῖά ἐστιν, ἀλλ’ ἐν τόπῳ κεῖται μακρᾶς, ὅταν Ὅμηρος εἴπῃ (Ι 147) πρὸς οἶκον Πηλῆος· σπονδεῖον γὰρ δεῖ εἶναι τὸν πόδα „πρὸς οἶ“. —Ἔτι δέ φησι μὴ ἔχειν σύμφωνα μεταξὺ —ἕν διὰ τὴν 〈θέσει〉 μακράν· εἰ γὰρ συμβαίη βραχεῖ ἢ βραχυνομένῳ φωνήεντι δύο σύμφωνα ἐπενεχθῆναι, μακρὰν ποιήσει τὴν συλλαβήν, οἷον ἡ ε συλλαβή ἐστι βραχεῖα, ἀλλ’ ἐὰν δύο σύμφωνα ἐπενεχθῇ ὡς ἐν τῷ Ἕκτωρ, μακρὰν ποιήσει τὴν συλλαβήν. διὰ τοῦτο προσέθηκε μὴ δεῖν ὑπάρχειν σύμφωνα δύ ο , ἀλ λ ’ ἓν ἁπλοῦν ἢ μηδὲ ἕ ν. καὶ γὰρ ἐὰν διπλοῦν προσενεχθῇ, μακρὰν ποιήσει τὴν συλλαβὴν ὡς ἐν τῷ (Α 139) ἄξω ἑλών.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rmq-ac",
+      "title": {
+        "english": "Excerpts",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "cassius-longinus-excerpts-rmq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-longinus/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rmq-ab",
+      "title": {
+        "english": "Rhetorical Art",
+        "ancient_greek": "Τέχνη Ῥητορική"
+      },
+      "url_slug": "cassius-longinus-rhetoric-rmq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-longinus/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uim-ac",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-in-greek-uim-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/in-greek",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-as",
+      "title": {
+        "english": "Dialogue Untitled",
+        "ancient_greek": "Διάλογος"
+      },
+      "url_slug": "hermetica-dialogue-oqk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/dialogue.json"
+      }
+    },
+    {
+      "eul_wid": "udw-af",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "iamblichus-of-chalcis-exhortation-udw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "msa-ab",
+      "title": {
+        "english": "Fragments on Ocean Tides",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας"
+      },
+      "url_slug": "posidonius-of-apameia-rhodes-ocean-tides-msa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/ocean-tides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.json"
+      }
+    },
+    {
+      "eul_wid": "uxc-ad",
+      "title": {
+        "english": "On Aristotle's Books-the Soul, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-on-soul-commentary-uxc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/on-soul-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-bg",
+      "title": {
+        "english": "On Special Laws",
+        "ancient_greek": "Περὶ τῶν Εἰδικῶν Νόμων"
+      },
+      "url_slug": "philo-of-alexandria-special-laws-lgi-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/special-laws",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bv",
+      "title": {
+        "english": "On the Face in the Moon's Orb",
+        "ancient_greek": "Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-face-moon-okg-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/face-moon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.json"
+      }
+    },
+    {
+      "eul_wid": "hfs-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "chares-of-mytilene-text-hfs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chares-of-mytilene/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/text.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cassius-longinus/prolegomena-commentary",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qmm-dx",
+  "eul_aid": "qmm",
+  "author_slug": "galen-of-pergamon",
+  "work_slug": "melancholy",
+  "url_slug": "galen-of-pergamon-melancholy-qmm-dx",
+  "author": {
+    "english": "Galen of Pergamon",
+    "ancient_greek": "Γαληνὸς ὁ Περγαμηνός"
+  },
+  "title": {
+    "english": "On Melancholy",
+    "ancient_greek": "Περὶ μελαγχολίας"
+  },
+  "seo": {
+    "browser_title": "On Melancholy by Galen of Pergamon on Eulogikon Archive",
+    "meta_title": "On Melancholy by Galen of Pergamon in Ancient Greek",
+    "meta_description": "Galen's treatise on melancholy and black bile. Foundational ancient pathology on mental health. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Melancholy</strong> is a medical treatise by the 2nd-century Roman physician Galen, originally composed in Greek. It addresses the condition of melancholy, which Galen defines as an illness arising from an excess of black bile, one of the four bodily humors central to ancient medical theory. The work systematically examines the etiology, symptoms, and therapeutic management of the disorder, distinguishing it from other forms of mental disturbance. Galen posits that when black bile inundates the seat of the rational soul, it induces a pervasive darkness analogous to physical gloom, thereby generating irrational fears, despondency, and a fixation on death. The treatise explores a range of psychological symptoms, from groundless anxieties to specific delusions, such as a patient believing himself to be made of pottery, which Galen attributes to the cold and dry qualities of the pathogenic humor.</p>\n<p class=\"research-text\">The text does not survive as an independent, unified book. What circulates under the title <strong>On Melancholy</strong> is a modern compilation of three significant excerpts, principally drawn from Galen’s larger works <strong>On the Affected Parts</strong> and <strong>On Black Bile</strong>. These passages were later grouped together by editors in the medieval and early modern periods to form a coherent, focused discussion on the subject. Written during the High Roman Empire, the treatise synthesizes foundational Hippocratic concepts with Galen’s own clinical observations and rigorous anatomical knowledge, representing a key component of his ambitious project to systematize all medical doctrine within a humoral framework. Intended for a professional medical audience, it became a canonical text that defined the pathological understanding of melancholy for more than a millennium, profoundly influencing subsequent medical traditions in the Byzantine, Islamic, and later European worlds.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "6 9 (56)",
+      "text": "τὸ μὲν οὖν ἐπὶ μελαίνῃ χολῇ καταλαβούcῃ τὰc ἀρχὰc τῆc λογικῆc ψυχῆc φόβουc τε γίγνεcθαι καὶ δυcθυμίαc καὶ θανάτου προcδοκίαc οὐδὲν θαυμαcτόν· ὁρῶμεν γὰρ καὶ τῶν ἔξωθεν τοῦ cώματοc οὐδὲν οὕτωc ἡμῖν φοβερὸν ὡc τὸ cκότοc. ὅταν οὖν οἷον ζόφοc τιc περιcχεθῇ τὸ λογικὸν μόριον ὃ τῆc ψυχῆc, ἀναγκαῖον ἀεὶ φοβεῖcθαι τὸν ἄνθρωπον, ὡc ἂν τὴν αἰτίαν τοῦ φόβου cυμπεριφέροντα τῷ cώματι· ὡc γὰρ ἐν cκότῳ βαθεῖ τὰ παιδία φοβεῖται καὶ τῶν τελείων οἱ ἀπαίδευτοι, οὕτωc καὶ τῆc μελαίνηc χολῆc τὸ χρῶμα παραπληcίωc cκότῳ τὸν φρονοῦντα τόπον ἐπιcκιάζον ἐργάζεται τοὺc φόβουc. Πάντων μὲν οὖν τῶν παρεπομένων ἑκάcτῳ cυμπτωμάτων τὰc αἰτίαc εἰπεῖν ἀδύνατον· ἀπορίαν γὰρ πολλὴν ἔχει τὰ πλεῖcτα, οἷον διὰ τί τὰ μὲν φεύγουcιν ὡc δεινὰ μὴ ὄντα δεινά, τὰ δὲ διώκουcιν ὡc χρηcτὰ μὴ ὄντα χρηcτά, καὶ διὰ τί ὁ μὲν τοὺc οἰκείουc φοβεῖται, ὁ δὲ ὅλουc ἀνθρώπουc καὶ τὰ τοιαῦτα. τῶν πλείcτων δὲ cυμπτωμάτων εἰπεῖν τὰc αἰτίαc τὸν ἰατρὸν οὐ χαλεπόν, οἷον ὁ δοκῶν ἑαυτὸν κέραμον εἶναι, διὰ τὴν ξηρότητα τοῦτο πάcχει· ψυχρὸc γὰρ καὶ ξηρὸc ὁ μελαγχολικὸc χυμόc. ὁμοίωc δὲ καὶ ὁ τὸ ἑαυτοῦ δέρμα δοκῶν εἶναι ταῖc ξηραῖc διφθέραιc ὅμοιον. ὁ δὲ οἰόμενοc μὴ ἔχειν κεφαλὴν ἴcωc διὰ κουφότητα τῆc κεφαλῆc τοῦτο ᾤετο, τὴν δὲ κουφότητα τὸ ἀναφερόμενον πνεῦμα παρεῖχεν αὐτῇ. διὰ τί δὲ ὀρέγονται οἱ μελαγχολικοὶ πλειόνων cιτίων, ἢ ὅτι ψύχεται αὐτοῖc τὸ cτόμα τῆc γαcτρόc; διὰ τί δὲ ἔνιοι αὐτῶν οἰνοπόται, ἢ ὅτι ψυχρὸν ὂν θερμανθῆναι χρῄζει; διὰ τί δὲ ἀποκτενοῦcι cφᾶc αὐτῶν, ἢ ὅτι μειζόνων κακῶν ὑπολαμβάνουcιν ἀπαλλάττεcθαι; εἰ μὴ ἄρα δόξα τοιαύτη ὑπογίγνεται αὐτοῖc, ἢ ὅτι τὸ ἀποθνήcκειν ἐcτὶ καλόν, ὥcπερ τῶν βαρβάρων ἐνίοιc; διὰ τί δὲ ἀπεψίαι cυνεχεῖc αὐτοῖc γίγνονται, ἢ ὅτι θολερὸν καὶ περιττωμάτων μεcτόν ἐcτιν αὐτῶν τὸ cῶμα καὶ διὰ τοῦτο καὶ δύcκρατοc ἡ γαcτὴρ ψυχομένη διὰ παντὸc ἐκ τοῦ μελαγχολικοῦ χυμοῦ; διὰ τί δὲ αἱ κοιλίαι ὡc ἐπίπαν αὐτοῖc ξηραίνονται, ἢ ὅτι τὸ πνεῦμα τοῖc ἄνω περὶ τὰ ὑποχόνδρια προίcταται καὶ οὐ πάνυ κάτω διαχωρεῖ; ἀνάγκη τοίνυν δι’ αὐτὸ τοῦτο καὶ τὰc γαcτέραc εἶναι ξηράc· ἐκ δὲ πολλῆc τῆc ἐπιcχέcεωc ἀθρόα ποτὲ καὶ περιτετηκότα διαχωροῦcι. cκαρδαμυκταὶ δὲ καὶ ἐξόφθαλμοι καὶ παχύχειλοι ὡc ἐπίπαν γίγνονται διὰ τὸ παχὺ πνεῦμα, μελανόχροεc δὲ διὰ τὴν φύcιν τοῦ χυμοῦ. δαcεῖc δὲ οἱ πλείουc αὐτῶν διὰ τὸ πλῆθοc τῶν παχέων περιττωμάτων, ταχύγλωccοι δ’ ὡc ἐπίπαν εἰcὶ καὶ τραυλοὶ καὶ ἰcχνόφωνοι τῷ ἀκρατεῖ τῆc γλώττηc. αἱ γὰρ cυντονίαι τῆc κινήcεωc κατὰ τὸ πνεῦμα γίγνονται· πᾶν δὲ τὸ cυντόνωc κινηθὲν ἀπορρεῖ ταχέωc. εὐπετὲc μὲν τῷ βουλομένῳ καὶ τῶν λοιπῶν cυμπτωμάτων ἀποδοῦναι τὰc αἰτίαc ἐκ τούτων ὁρμωμένῳ. μελαίνεται δὲ ὁ χυμὸc οὗτοc ποτὲ μὲν ὑπερθερμαινόμενοc, ποτὲ δὲ ὑπερψυχόμενοc· οἷον γάρ τι πάcχουcι οἱ καιόμενοι ἄνθρακεc, διαυγέcτατοι μὲν ὄντεc τῇ φλογί, cβεννυμένηc δὲ τῆc φλογὸc ἀπομελαίνονται, τοιοῦτόν τι καὶ ἡ ψῦξιc περὶ τὸ φαιδρὸν χρῶμα τοῦ αἵματοc ἐργάζεται. ὁρῶμεν γὰρ κἀπὶ τῶν ἐκτὸc πελιδνὰ γιγνόμενά τινα τῶν cωμάτων καὶ μελαινόμενα ὑπὸ ψύξεωc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 9 (100)",
+      "text": "ἡ δὲ ὑπερβολὴ τοῦ θερμοῦ πάλιν ξηράναcα καὶ δαπανήcαcα τὰc ὑγρότηταc, ὑφ’ ὧν τρέφεται τὸ θερμόν, μελαίνει τοὺc χυμούc, ὥcπερ καὶ ὁ ἥλιοc τοὺc καρποὺc καὶ τὰ τῶν ἀνθρώπων cώματα. γινώcκειν τοίνυν χρὴ ὡc διττὸν τὸ εἶδοc τῆc μελαγχολίαc. τινὲc μὲν γὰρ αὐτῶν ἐκ φύcεωc καὶ τῆc ἐξ ἀρχῆc κράcεωc ἔχουcι τὸ μελαγχολικόν, τινὲc δὲ ἐκ διαίτηc φαύληc εἰc ὕcτερον τὴν κρᾶcιν ταύτην ἐπεκτήcαντο. καί ἐcτι τὸ εἶδοc τοῦτο νωθρὸν καὶ κατηφὲc ἀεί. ὅτι δὲ ἐξ ὑπεροπτήcεωc τῆc ξανθῆc χολῆc τῇ παραφροcύνῃ περιπίπτουcι, θραcύτεροι καὶ ὀργιλώτεροι τῶν ἄλλων εἰcὶ καὶ πλῆκται καὶ τὰ πάνδεινα πράττοντεc κατὰ τὸν καιρὸν ἐκεῖνον μάλιcτα, ἐν ᾧ ὑπεροπτᾶται ἡ χολή· τῷ χρόνῳ δὲ ὅταν καὶ αὐτὴ ἀποcβεcθῇ, κατηφεῖc καὶ ἐπίλυποι καὶ ἐπίφοβοι γίγνονται. τὰ μὲν οὖν πρὸ τῆc θεραπείαc εἰc τοcοῦτον διεγνωκέναι χρὴ τὸν ἰατρόν· ἃ δ’ ἄν τιc μαθὼν ἔχοι βοηθεῖν τοῖc οὕτω νοcοῦcιν, ἤδη καιρὸc ἐκτίθεcθαι. διαφέρει δὲ εἰc τὴν θεραπείαν οὐ cμικρὰ τὸ εἰδέναι ὅθεν τὴν ἀρχὴν ἔcχε τὸ νόcημα. Γαληνοῦ. ὅταν μὲν γὰρ ὅλον τὸ cῶμα μελαγχολικὸν ἔχῃ τὸ αἷμα, τὴν ἀρχὴν τῆc θεραπείαc ἀπὸ φλεβοτομίαc ποιεῖcθαι προcῆκον· ὅταν δὲ τὰ κατὰ μόνον τὸν ἐγκέφαλον οὐ χρῄζει φλεβοτομίαc ὁ κάμνων, εἰ μήτι γε πολύαιμοc εἴη καὶ χάριν προφυλακῆc τὴν ἀφαίρεcιν ποιούμεθα. ἡ δ’ οὖν διάγνωcιc ἀπὸ τῶνδέ cοι γιγνέcθω, πότερον ὅλον τὸ cῶμα μελαγχολικὸν ἔχει τὸ αἷμα ἢ κατὰ τὸν ἐγκέφαλον μόνον ἤθροιcταί τιc τοιοῦτοc. οἱ 〈μὲν〉 μελάντεροι καὶ δαcεῖc καὶ φλέβαc εὐρείαc ἔχοντεc ἐπιτηδειότατοι πρὸc τὴν τοῦ μελαγχολικοῦ χυμοῦ γένεcιν, ἔcθ’ ὅτε δὲ καὶ οἱ ἐξέρυθροι τὴν χρόαν ἄνθρωποι μεταπίπτουcιν ἀθρόωc εἰc τὴν μελαγχολικὴν κρᾶcιν· ἐφεξῆc δὲ αὐτῶν οἱ ξανθοὶ καὶ μάλιcθ’ ὅταν ἀγρυπνίαιc καὶ πόνοιc πλείοcι καὶ φροντίcι καὶ λεπτῇ διαίτῃ ἢ μελαγχολικοῖc ἐδέcμαcι διῃτημένοι τύχωcιν ὄντεc· πρὸc τούτοιc εἰ ἐπέcχηταί τιc αἱμορροῒc ἐν ἕδρᾳ ἢ ἄλλη τιc cυνήθηc κένωcιc αἵματοc ἢ καταμήνια ταῖc γυναιξίν. οὐ μικρὰ δὲ cυντελεῖ καὶ ἡ ὥρα τοῦ ἔτουc καὶ ἡ κατάcταcιc τοῦ ἀέροc καὶ τὸ χωρίον ἥ τε τοῦ κάμνοντοc ἡλικία καὶ τὸ ἐπιτήδευμα. ταῦτα δὲ πάντα προcδιαcκεψάμενοc, ὅταν ἐλπίcῃc ἐν ταῖc καθ’ ὅλον τὸ cῶμα φλεψὶ μελαγχολικὸν αἷμα περιέχεcθαι, τὴν βεβαιοτάτην ἐπάγειν διάγνωcιν ἐκ τοῦ τεμεῖν τὴν κατ’ ἀγκῶνα φλέβα· βέλτιον δὲ τὴν μέcην τέμνειν· εἶτα εἰ μὴ φαίνοιτο μελαγχολικὸν εἶναι τὸ ῥέον αἷμα, ἐπίcχειν εὐθέωc· εἰ δὲ τοιοῦτον φαίνοιτο, κένωcον ὅcον ἂν ὑπολάβοιc ἄνταρκεc ἔcεcθαι τῇ τοῦ κάμνοντοc cώματοc ἕξει. ἡ δὲ τρίτη διαφορὰ τῆc μελαγχολίαc, ἧc τὴν ἀρχὴν ἀπὸ τῆc κοιλίαc ἴcχειν ἐλέγομεν, ὑποχονδριακὸν πάθοc ὀνομαζομένη, διαγιγνώcκεται ἐκ τῶν προειρημένων πολλάκιc. πρῶτον γὰρ ἄρχεται τὰ κατὰ τὴν γαcτέρα cυμπτώματα, οἷον ἐμπνευματώcειc βορβορυγμοὶ ἐρυγαὶ [ὀρέξειc] ὀξώδειc καὶ βρομώδειc καὶ τὸ ἐπιξηραίνεcθαι τὴν γαcτέρα καὶ τὸ ἐπὶ ταῖc διαχωρήcεcι καὶ τοῖc ἐμέτοιc καὶ ταῖc ἐρυγαῖc ἐπικουφίζεcθαι καὶ τὸ τοὺc κάμνονταc αὐτοὺc cυναιcθάνεcθαι τῶν ὀχληρῶν πάντων περὶ τὰ ὑποχόνδρια cυνεδρευόντων. ὥcπερ οὖν τιcι πολλάκιc ἀναφερομένηc ἐκ τῆc γαcτρὸc αἰθαλώδουc τινὸc ἢ καπνώδουc ἀναθυμιάcεωc ἢ ὅλωc ἀτμῶν τινων παχέων, ὅμοια τοῖc τῶν ὑποχεομένων δοκεῖ φαίνεcθαι πρὸ τῶν ὀφθαλμῶν, κατὰ τὸν αὐτὸν λόγον καὶ νῦν, ἐπὶ τὸν ἐγκέφαλον ἀναφερομένηc τῆc μελαγχολικῆc ἀναθυμιάcεωc, οἷον αἰθάλη ἢ καπνὸc τὰ μελαγχολικὰ γενήcεται περὶ τὴν διάνοιαν cυμπτώματα. ὅταν μὲν οὖν τὰ τῆc μελαγχολικῆc παρανοίαc ἴδια cημεῖα φαίνηται μεγάλα, κατὰ δὲ τὴν κοιλίαν ἤτοι μηδὲν ὀχλεῖν ἢ cμικρότατον τοῦτο εἴη, τὸν ἐγκέφαλον ἡγητέον ἐπὶ τούτων πρωτοπαθεῖν, καθὼc προείρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 10",
+      "text": "Θεραπεία μελαγχολικῶν Γαληνοῦ. τὴν μὲν οὖν ἐξ ἐγκεφάλου πρωτοπαθοῦντοc cυνιcταμένην μελαγχολίαν διά τε λουτρῶν cυνεχῶν καὶ διαίτηc εὐχύμου τε καὶ ὑγρᾶc καὶ ἀφύcου ἐκθεραπεύειν χωρὶc ἑτέρου δραcτικοῦ βοηθήματοc, ὅταν γε μήπω διὰ χρόνου μῆκοc δυcκένωτοc ᾖ ὁ λυπῶν χυμόc, ἡνίκα ποικιλωτέραc καὶ ἰcχυροτέραc προcάγειν χρὴ τὰc ἰάcειc. ἀρχόμενον δὲ τὸ πάθοc θεραπεύειν προcήκει. χρονίcαν γὰρ καὶ αὐξηθὲν δυcμεταχείριcτον γίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aj",
+      "title": {
+        "english": "Against What Julian Said-Hippocrates' Aphorisms",
+        "ancient_greek": "Κατὰ τῶν ὑπὸ Ἰουλιανοῦ περὶ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ax",
+      "title": {
+        "english": "Commentary on Plato's Timaeus",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμαίου ἀποσπάσματα"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ax-qmm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-as",
+      "title": {
+        "english": "Explanation of Obsolete Words of Hippocrates",
+        "ancient_greek": "Ἐξήγησις τῶν παλαιῶν λέξεων τοῦ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-explanation-obsolete-words-qmm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/explanation-obsolete-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ef",
+      "title": {
+        "english": "Galen",
+        "ancient_greek": "Γαληνὸς περὶ δίαιτας ἀδυνατίζουσας"
+      },
+      "url_slug": "galen-of-pergamon-text-qmm-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vjk-ae",
+      "title": {
+        "english": "Fragments of Timotheus of Gaza",
+        "ancient_greek": "Ἀποσπάσματα Τιμοθέου τοῦ Γάζης"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.json"
+      }
+    },
+    {
+      "eul_wid": "bww-by",
+      "title": {
+        "english": "On Birth",
+        "ancient_greek": "Περὶ Γενέσεως"
+      },
+      "url_slug": "hippocrates-birth-bww-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/birth.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ax",
+      "title": {
+        "english": "On Diet",
+        "ancient_greek": "Περὶ Διαιτῆς"
+      },
+      "url_slug": "medical-writers-anonymous-diet-umi-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cd",
+      "title": {
+        "english": "On Diet",
+        "ancient_greek": "Περὶ διαίτης"
+      },
+      "url_slug": "hippocrates-diet-bww-cd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ac",
+      "title": {
+        "english": "On Pulses to Antonius, Student of Discipline and Philosopher",
+        "ancient_greek": "Περὶ Σφυγμῶν πρὸς Ἀντώνιον Μαθητὴν καὶ Φιλόσοφον"
+      },
+      "url_slug": "anonymous-medical-writer-pulses-antonius-tqu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/pulses-antonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/pulses-antonius.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ab",
+      "title": {
+        "english": "On the Difference of Foods to Ptolemy",
+        "ancient_greek": "Περὶ διαφορᾶς τροφῶν πρὸς Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-foods-difference-oyw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods-difference",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ac",
+      "title": {
+        "english": "Summary to Eustathius the Son",
+        "ancient_greek": "Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν"
+      },
+      "url_slug": "oribasius-of-pergamon-summary-eustathius-soi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/summary-eustathius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ac",
+      "title": {
+        "english": "To Leucippus",
+        "ancient_greek": "Πρὸς Λεύκιππον"
+      },
+      "url_slug": "bolus-of-mendes-leucippus-kzk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/leucippus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/galen-of-pergamon/melancholy",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/melancholy.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/melancholy.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/melancholy.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/melancholy.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

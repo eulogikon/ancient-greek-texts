@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ino",
+  "auth_slug": "epigenes-of-byzantium",
+  "name": {
+    "english": "Epigenes of Byzantium",
+    "ancient_greek": "Ἐπιγένης ὁ Βυζάντιος"
+  },
+  "seo_h1": "Banquets and Drinking Vessels in Epigenes of Byzantium",
+  "seo": {
+    "browser_title": "Epigenes of Byzantium on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Epigenes of Byzantium Ancient Greek Comedy Works",
+    "meta_description": "Epigenes of Byzantium was a Hellenistic comic poet. Two fragmentary works survive from the 3rd century BCE. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Epigenes of Byzantium was a Hellenistic comic poet of the 3rd century BCE. The Byzantine encyclopedia Suda identifies him as a comic poet from Byzantium and states he was a son of the tragedian Antiphon, attributing to him the composition of 15 comedies. No further biographical details are extant.</p>\n<p class=\"research-text\">Only two comedic titles are preserved in the fragmentary record: <strong>Bacchae</strong> and <strong>The Letter</strong>. The Suda’s claim of 15 works cannot be verified against other sources, leaving the total number of his comedies uncertain.</p>\n<p class=\"research-text\">As a minor figure of New Comedy, Epigenes represents the geographical dissemination of Athenian literary culture in the Hellenistic period. His inclusion in ancient catalogs helps map the spread of comic poetry, and his scant surviving fragments contribute to the study of post-classical comedic themes and language.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ino-ab",
+      "title": {
+        "english": "Fragments on Banquets and Vessels",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Σκευῶν"
+      },
+      "url_slug": "epigenes-of-byzantium-banquets-vessels-ino-ab",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/epigenes-of-byzantium/banquets-vessels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.json"
+      }
+    },
+    {
+      "eul_wid": "ino-aa",
+      "title": {
+        "english": "Fragments on Drinking Vessels",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποτηρίων"
+      },
+      "url_slug": "epigenes-of-byzantium-drinking-vessels-ino-aa",
+      "passages": 23,
+      "links": {
+        "html": "https://eulogikon.org/grc/epigenes-of-byzantium/drinking-vessels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/drinking-vessels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/drinking-vessels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/drinking-vessels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/drinking-vessels.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/epigenes-of-byzantium",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epigenes-of-byzantium.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epigenes-of-byzantium.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epigenes-of-byzantium.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epigenes-of-byzantium.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

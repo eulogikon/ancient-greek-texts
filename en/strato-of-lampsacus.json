@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ipc",
+  "auth_slug": "strato-of-lampsacus",
+  "name": {
+    "english": "Strato of Lampsacus",
+    "ancient_greek": "Στράτων ὁ Λαμψακηνός"
+  },
+  "seo_h1": "Strato of Lampsacus and the Peripatetic Philosophy of Nature",
+  "seo": {
+    "browser_title": "Strato of Lampsacus on Eulogikon Greek Archive and Library",
+    "meta_title": "Strato of Lampsacus Ancient Greek Philosophical Works",
+    "meta_description": "Strato of Lampsacus, Hellenistic Peripatetic philosopher and third head of Lyceum. Philosophical works and fragments. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Strato of Lampsacus was a Greek philosopher of the 3rd century BCE. He was the third head of the Peripatetic school in Athens, succeeding Theophrastus and leading the school for about eighteen years until his death around 269 BCE. Before this role, he was a tutor to Ptolemy II Philadelphus in Alexandria. He was known by the nickname &quot;the Physicist&quot; for his primary focus on natural philosophy.</p>\n<p class=\"research-text\">He was a prolific writer, but none of his works survive intact. They are known only through fragments and reports by later ancient authors. His lost treatises covered a wide range of scientific topics, including On the Void, On Nature, On Motion, On the Soul, and On Animals.</p>\n<p class=\"research-text\">Strato is historically significant for developing a more rigorously naturalistic and mechanistic approach within the Peripatetic tradition, often departing from Aristotle&#x27;s teachings. According to modern scholars, his theory of motion argued that all bodies have weight and fall downward, rejecting Aristotle&#x27;s concept of natural places. In psychology, he proposed a materialist view of the soul, locating its command center in the head and attributing all thought to a single faculty of intellect. His work emphasized physical explanations over divine causes, marking a distinct phase in Hellenistic thought.</p>\n</div>",
+  "affiliation_label": "Peripatetic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ipc-aa",
+      "title": {
+        "english": "Fragments on Philosophy and Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Φύσεως"
+      },
+      "url_slug": "strato-of-lampsacus-philosophy-nature-ipc-aa",
+      "passages": 84,
+      "links": {
+        "html": "https://eulogikon.org/grc/strato-of-lampsacus/philosophy-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus/philosophy-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus/philosophy-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus/philosophy-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strato-of-lampsacus/philosophy-nature.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "lue",
+      "name": {
+        "english": "Agatharchides of Cnidus",
+        "ancient_greek": "Ἀγαθαρχίδης ὁ Κνίδιος"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/agatharchides-of-cnidus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.json"
+      }
+    },
+    {
+      "eul_aid": "ree",
+      "name": {
+        "english": "Alexander of Aphrodisias II",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-aphrodisias-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.json"
+      }
+    },
+    {
+      "eul_aid": "nbq",
+      "name": {
+        "english": "Andronicus of Rhodes",
+        "ancient_greek": "Ἀνδρόνικος ὁ Ῥόδιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/andronicus-of-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.json"
+      }
+    },
+    {
+      "eul_aid": "koq",
+      "name": {
+        "english": "Aristo of Ceos",
+        "ancient_greek": "Ἀρίστων ὁ Κεῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristo-of-ceos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.json"
+      }
+    },
+    {
+      "eul_aid": "lbi",
+      "name": {
+        "english": "Aristobulus the Jewish Philosopher",
+        "ancient_greek": "Ἀριστόβουλος ὁ Ἰουδαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristobulus-the-jewish-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "lfo",
+      "name": {
+        "english": "Aristocles of Messene",
+        "ancient_greek": "Ἀριστοκλῆς ὁ Μεσσήνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristocles-of-messene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.json"
+      }
+    },
+    {
+      "eul_aid": "clc",
+      "name": {
+        "english": "Aristombrotus the Philosopher",
+        "ancient_greek": "Ἀριστόμβροτος ὁ φιλόσοφος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristombrotus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "kpa",
+      "name": {
+        "english": "Ariston of Ceos",
+        "ancient_greek": "Ἀρίστων ὁ Κεῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-ceos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.json"
+      }
+    },
+    {
+      "eul_aid": "pms",
+      "name": {
+        "english": "Aspasius the Peripatetic",
+        "ancient_greek": "Ἀσπάσιος ὁ Περιπατητικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aspasius-the-peripatetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.json"
+      }
+    },
+    {
+      "eul_aid": "naw",
+      "name": {
+        "english": "Boethus of Sidon",
+        "ancient_greek": "Βοηθὸς ὁ Σιδώνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/boethus-of-sidon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.json"
+      }
+    },
+    {
+      "eul_aid": "gww",
+      "name": {
+        "english": "Chamaeleon of Heraclea Pontica",
+        "ancient_greek": "Χαμαιλέων ὁ Ἡρακλεώτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/chamaeleon-of-heraclea-pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.json"
+      }
+    },
+    {
+      "eul_aid": "hki",
+      "name": {
+        "english": "Clearchus of Soli",
+        "ancient_greek": "Κλέαρχος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/clearchus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/strato-of-lampsacus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strato-of-lampsacus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strato-of-lampsacus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strato-of-lampsacus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/strato-of-lampsacus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

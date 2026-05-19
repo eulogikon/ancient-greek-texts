@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nru",
+  "auth_slug": "didymus-on-measures",
+  "name": {
+    "english": "Didymus the Writer on Measures",
+    "ancient_greek": "Δίδυμος ὁ περὶ μέτρων συγγραφεύς"
+  },
+  "seo_h1": "Didymus the Writer on Measures and Marble",
+  "seo": {
+    "browser_title": "Didymus the Writer on Measures on Eulogikon Greek Archive",
+    "meta_title": "Didymus the Writer Ancient Greek Technical Treatise",
+    "meta_description": "Didymus the Writer was a Greek scholar of the Roman Imperial period. His treatise on measures is extant. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Didymus the Writer on Measures was a Greek scholar who lived during the Roman Imperial period, likely between the 1st and 3rd centuries CE. He is known only for a single surviving work, a technical treatise titled <strong>On Measures</strong>. His precise identity and dates are uncertain, and he is distinguished from the more famous Alexandrian scholar Didymus Chalcenterus by his specific focus on metrology, the study of weights and measures.</p>\n<p class=\"research-text\">As a grammarian and metrologist, his role was part of a tradition of specialized scholarship that sought to systematize knowledge. His work <strong>On Measures</strong> explains the systems of measurement found in older Greek texts, such as those of Homer. This type of treatise was important for accurately interpreting classical literature, as well as for legal and commercial understanding.</p>\n<p class=\"research-text\">According to modern scholars, his significance lies in preserving this specialized technical knowledge. His work exemplifies the cataloging and explanatory efforts of Roman-era grammarians who worked to clarify details of Greek language and culture for contemporary audiences. While an obscure figure, he contributes to our understanding of the practical, systematizing branches of ancient scholarship.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nru-aa",
+      "title": {
+        "english": "Measurements of Marbles",
+        "ancient_greek": "Μέτρα μαρμάρων"
+      },
+      "url_slug": "didymus-on-measures-marbles-nru-aa",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/didymus-on-measures/marbles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-on-measures/marbles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-on-measures/marbles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-on-measures/marbles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/didymus-on-measures/marbles.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/didymus-on-measures",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/didymus-on-measures.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/didymus-on-measures.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/didymus-on-measures.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/didymus-on-measures.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

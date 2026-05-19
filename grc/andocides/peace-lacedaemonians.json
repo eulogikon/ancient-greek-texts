@@ -1,0 +1,516 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eym-aa",
+  "eul_aid": "eym",
+  "author_slug": "andocides",
+  "work_slug": "peace-lacedaemonians",
+  "url_slug": "andocides-peace-lacedaemonians-eym-aa",
+  "author": {
+    "english": "Andocides",
+    "ancient_greek": "Ἀνδοκίδης"
+  },
+  "title": {
+    "english": "On Peace with the Lacedaemonians",
+    "ancient_greek": "Περὶ τῆς πρὸς Λακεδαιμονίους εἰρήνης"
+  },
+  "seo": {
+    "browser_title": "On Peace with the Lacedaemonians by Andocides on Eulogikon",
+    "meta_title": "On Peace with the Lacedaemonians by Andocides in Greek",
+    "meta_description": "Andocides urges Athens to accept peace with Sparta. Athenian oratory from the Corinthian War. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Peace with the Lacedaemonians</strong> is a political oration delivered by the Athenian statesman Andocides to the citizen assembly in 391 BCE. The speech presents a comprehensive and urgent argument for Athens to accept a specific set of peace terms offered by Sparta, aiming to end the ongoing Corinthian War. Andocides opens by asserting the universal preference for just peace over war, then directly confronts the central objection of his political opponents: the fear that making peace with Sparta would destabilize the Athenian democracy. He counters this by appealing to historical precedent, reminding the audience that the democracy had previously made treaties with Sparta without suffering internal collapse.</p>\n<p class=\"research-text\">The orator systematically outlines the severe dangers of continuing the costly and indecisive war, including the financial drain on the city and the constant threat to its commerce and security. In contrast, he highlights the tangible benefits of the proposed agreement, which would essentially freeze existing territorial holdings, providing Athens with a period of stability to recover its strength. The speech is grounded in the immediate context of a diplomatic stalemate, following Andocides&#x27; own participation in an embassy to Sparta. It reflects the pragmatic rhetoric of a seasoned politician advocating for a realistic, if unpopular, course of action. The assembly ultimately rejected his advice, choosing to prolong the conflict. Preserved in full through the medieval manuscript tradition of the Attic orators, the speech stands as an authentic and valuable document for understanding the intense diplomatic negotiations and contentious public debate in Athens during the later stages of the Corinthian War.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "De pac t",
+      "text": "ΠΕΡΙ ΤΗΣ ΠΡΟΣ ΛΑΚΕΔΑΙΜΟΝΙΟΥΣ ΕΙΡΗΝΗΣ Ὅτι μὲν εἰρήνην ποιεῖσθαι δικαίαν ἄμεινόν ἐστιν ἢ πολεμεῖν, δοκεῖτέ μοι, ὦ Ἀθηναῖοι, πάντες γιγνώσκειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 1",
+      "text": "ὅτι δὲ οἱ ῥήτορες τῷ μὲν ὀνόματι τῆς εἰρήνης συγχωροῦσι, τοῖς δ’ ἔργοις ἀφ’ ὧν ἂν ἡ εἰρήνη γένοιτο ἐναντιοῦνται, τοῦτο δὲ οὐ πάντες αἰσθάνεσθε. Λέγουσι γὰρ ὡς ἔστι δεινότατον τῷ δήμῳ, γενομένης εἰρήνης, ἡ νῦν οὖσα πολιτεία μὴ καταλυθῇ. Εἰ μὲν οὖν μηδεπώποτε πρότερον ὁ δῆμος ὁ [τῶν] Ἀθηναίων εἰρήνην ἐποιήσατο πρὸς Λακεδαιμονίους, εἰκότως ἂν ἐφοβούμεθα αὐτὸ διά τε τὴν ἀπειρίαν τοῦ ἔργου διά τε τὴν ἐκείνων ἀπιστίαν· ὅπου δὲ πολλάκις ἤδη πρότερον εἰρήνην ἐποιήσασθε δημοκρατούμενοι, πῶς οὐκ εἰκὸς ὑμᾶς πρῶτον ἐκεῖνα σκέψασθαι τὰ τότε γενόμενα; χρὴ γὰρ, ὦ Ἀθηναῖοι, τεκμηρίοις χρῆσθαι τοῖς πρότερον γενομένοις περὶ τῶν μελλόντων ἔσεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 3",
+      "text": "Ἡνίκα τοίνυν ἦν μὲν ὁ πόλεμος ἡμῖν ἐν Εὐβοίᾳ, Μέγαρα δὲ εἴχομεν καὶ Πηγὰς καὶ Τροζῆνα, εἰρήνης ἐπεθυμήσαμεν, καὶ Μιλτιάδην τὸν Κίμωνος ὠστρακισμένον καὶ ὄντα ἐν Χερρονήσῳ κατεδεξάμεθα δι’ αὐτὸ τοῦτο, πρόξενον ὄντα Λακεδαιμονίων, ὅπως πέμψαιμεν εἰς Λακεδαίμονα προκηρυκευσόμενον περὶ σπονδῶν. Καὶ τότε ἡμῖν εἰρήνη ἐγένετο πρὸς Λακεδαιμονίους ἔτη πεντήκοντα, καὶ ἐνεμείναμεν ἀμφότεροι ταύταις ταῖς σπονδαῖς ἔτη τριακαίδεκα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 4",
+      "text": "Ἓν δὴ τοῦτο, ὦ Ἀθηναῖοι, πρῶτον σκεψώμεθα. Ἐν ταύτῃ τῇ εἰρήνῃ ὁ δῆμος ὁ [τῶν] Ἀθηναίων ἔσθ’ ὅπου κατελύθη; οὐδεὶς ἀποδείξει. Ἀγαθὰ δὲ ὅσα ἐγένετο διὰ ταύτην τὴν εἰρήνην, ἐγὼ ὑμῖν φράσω. Πρῶτον μὲν τὸν Πειραιᾶ ἐτειχίσαμεν ἐν τούτῳ τῷ χρόνῳ, εἶτα τὸ μακρὸν τεῖχος τὸ βόρειον· ἀντὶ δὲ τῶν τριήρων αἳ τότε ἡμῖν ἦσαν παλαιαὶ καὶ ἄπλοι, αἷς βασιλέα καὶ τοὺς βαρβάρους καταναυμαχήσαντες ἠλευθερώσαμεν τοὺς Ἕλληνας, ἀντὶ τούτων τῶν νεῶν ἑκατὸν τριήρεις ἐναυπηγησάμεθα, καὶ πρῶτον τότε τριακοσίους ἱππέας κατεστησάμεθα, καὶ τοξότας τριακοσίους Σκύθας ἐπριάμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 5",
+      "text": "[Καὶ] Ταῦτα ἐκ τῆς εἰρήνης τῆς πρὸς Λακεδαιμονίους ἀγαθὰ τῇ πόλει καὶ δύναμις τῷ δήμῳ τῷ Ἀθηναίων ἐγένετο. Μετὰ δὲ ταῦτα δι’ Αἰγινήτας εἰς πόλεμον κατέστημεν, καὶ πολλὰ κακὰ παθόντες πολλὰ δὲ ποιήσαντες ἐπεθυμήσαμεν πάλιν τῆς εἰρήνης, καὶ ᾑρέθησαν δέκα ἄνδρες ἐξ Ἀθηναίων ἁπάντων πρέσβεις εἰς Λακεδαίμονα περὶ εἰρήνης αὐτοκράτορες, ὧν ἦν καὶ Ἀνδοκίδης ὁ πάππος ὁ ἡμέτερος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 6",
+      "text": "Οὗτοι ἡμῖν εἰρήνην ἐποίησαν πρὸς Λακεδαιμονίους ἔτη τριάκοντα. Καὶ ἐν τοσούτῳ χρόνῳ ἔστιν ὅπου, ὦ Ἀθηναῖοι, ὁ δῆμος κατελύθη; τί δέ; πράττοντές τινες δήμου κατάλυσιν ἐλήφθησαν; οὐκ ἔστιν ὅστις ἀποδείξει. Ἀλλ’ αὐτὸ τὸ ἐναντιώτατον· αὕτη γὰρ ἡ εἰρήνη τὸν δῆμον τὸν Ἀθηναίων ὑψηλὸν ἦρε καὶ κατέστησεν ἰσχυρὸν οὕτως, ὥστε πρῶτον μὲν ἐν τούτοις τοῖς ἔτεσιν εἰρήνην λαβόντες ἀνηνέγκαμεν χίλια τάλαντα εἰς τὴν ἀκρόπολιν, καὶ νόμῳ κατεκλῄσαμεν ἐξαίρετα εἶναι τῷ δήμῳ, τοῦτο δὲ τριήρεις ἄλλας ἑκατὸν ἐναυπηγησάμεθα, καὶ ταύτας ἐξαιρέτους ἐψηφισάμεθα εἶναι, νεωσοίκους τε ᾠκοδομησάμεθα, χιλίους τε καὶ διακοσίους ἱππέας καὶ τοξότας τοσούτους ἑτέρους κατεστήσαμεν, καὶ τὸ τεῖχος τὸ μακρὸν τὸ νότιον ἐτειχίσθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 7",
+      "text": "Ταῦτα ἐκ τῆς εἰρήνης τῆς πρὸς Λακεδαιμονίους ἀγαθὰ τῇ πόλει καὶ δύναμις τῷ δήμῳ τῷ Ἀθηναίων ἐγένετο. Πάλιν δὲ διὰ Μεγαρέας πολεμήσαντες καὶ τὴν χώραν τμηθῆναι προέμενοι, πολλῶν ἀγαθῶν στερηθέντες αὖθις τὴν εἰρήνην ἐποιησάμεθα, ἣν ἡμῖν Νικίας ὁ Νικηράτου κατηργάσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 8",
+      "text": "Οἶμαι δ’ ὑμᾶς ἅπαντας εἰδέναι τοῦτο, ὅτι διὰ ταύτην τὴν εἰρήνην ἑπτακισχίλια μὲν τάλαντα νομίσματος εἰς τὴν ἀκρόπολιν ἀνηνέγκαμεν, ναῦς δὲ πλείους ἢ τετρακοσίας ἐκτησάμεθα, καὶ φόρος προσῄει κατ’ ἐνιαυτὸν πλέον ἢ διακόσια καὶ χίλια τάλαντα, καὶ Χερρόνησόν τε εἴχομεν καὶ Νάξον καὶ Εὐβοίας πλέον ἢ τὰ δύο μέρη· τάς τε ἄλλας ἀποικίας καθ’ ἕκαστον διηγεῖσθαι μακρὸς ἂν εἴη λόγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 9",
+      "text": "Ταῦτα δ’ ἔχοντες τὰ ἀγαθὰ πάλιν κατέστημεν εἰς πόλεμον πρὸς Λακεδαιμονίους, πεισθέντες καὶ τότε ὑπ’ Ἀργείων. Πρῶτον μὲν οὖν, ὦ Ἀθηναῖοι, τούτου ἀναμνήσθητε, τί ὑμῖν ἐξ ἀρχῆς ὑπεθέμην τῷ λόγῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 10",
+      "text": "Ἄλλο τι ἢ τοῦτο, ὅτι διὰ τὴν εἰρήνην οὐδεπώποτε ὁ δῆμος ὁ [τῶν] Ἀθηναίων κατελύθη; οὐκοῦν ἀποδέδεικται. Καὶ οὐδεὶς ἐξελέγξει με ὡς οὐκ ἔστι ταῦτ’ ἀληθῆ. Ἤδη δέ τινων ἤκουσα λεγόντων, ὡς ἐκ τῆς τελευταίας εἰρήνης τῆς πρὸς Λακεδαιμονίους οἵ τε τριάκοντα κατέστησαν, πολλοί τε Ἀθηναίων κώνειον πιόντες ἀπέθανον, οἱ δὲ φεύγοντες ᾤχοντο. Ὁπόσοι οὖν ταῦτα λέγουσιν, οὐκ ὀρθῶς γιγνώσκουσιν· εἰρήνη γὰρ καὶ σπονδαὶ πολὺ διαφέρουσι σφῶν αὐτῶν· εἰρήνην μὲν γὰρ ἐξ ἴσου ποιοῦνται πρὸς ἀλλήλους ὁμολογήσαντες περὶ ὧν ἂν διαφέρωνται· σπονδὰς δέ, ὅταν κρατήσωσιν κατὰ τὸν πόλεμον, οἱ κρείττους τοῖς ἥττοσιν ἐξ ἐπιταγμάτων ποιοῦνται, ὥσπερ ἡμῶν κρατήσαντες Λακεδαιμόνιοι τῷ πολέμῳ ἐπέταξαν ἡμῖν καὶ 〈τὰ〉 τείχη καθαιρεῖν καὶ τὰς ναῦς παραδιδόναι καὶ τοὺς φεύγοντας καταδέχεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 12",
+      "text": "Τότε μὲν οὖν σπονδαὶ κατ’ ἀνάγκην ἐξ ἐπιταγμάτων ἐγένοντο, νῦν δὲ περὶ εἰρήνης βουλεύεσθε. Σκέψασθε δὲ ἐξ αὐτῶν τῶν γραμμάτων, ἅ τε ἡμῖν ἐν τῇ στήλῃ γέγραπται, ἐφ’ οἷς τε νῦν ἔξεστι τὴν εἰρήνην ποιεῖσθαι. Ἐκεῖ μὲν γὰρ γέγραπται τὰ τείχη καθαιρεῖν, ἐν δὲ τοῖσδε ἔξεστιν οἰκοδομεῖν· ναῦς ἐκεῖ μὲν δώδεκα κεκτῆσθαι, νῦν δ’ ὁπόσας ἂν βουλώμεθα· Λῆμνον δὲ καὶ Ἴμβρον καὶ Σκῦρον τότε μὲν ἔχειν τοὺς ἔχοντας, νῦν δὲ ἡμετέρας εἶναι· καὶ φεύγοντας νῦν μὲν οὐκ ἐπάναγκες οὐδένα καταδέχεσθαι, τότε δ’ ἐπάναγκες, ἐξ ὧν ὁ δῆμος κατελύθη. Τί ταῦτα ἐκείνοις ὁμολογεῖ; τοσοῦτον οὖν ἔγωγε, ὦ Ἀθηναῖοι, διορίζομαι περὶ τούτων, τὴν μὲν εἰρήνην σωτηρίαν εἶναι τῷ δήμῳ καὶ δύναμιν, τὸν δὲ πόλεμον δήμου κατάλυσιν γίγνεσθαι. Περὶ μὲν οὖν τούτων ταῦτα λέγω. Φασὶ δέ τινες ἀναγκαίως νῦν ἡμῖν ἔχειν πολεμεῖν· σκεψώμεθα οὖν πρῶτον, ὦ ἄνδρες Ἀθηναῖοι, διὰ τί καὶ πολεμήσωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 13",
+      "text": "Οἶμαι γὰρ ἂν πάντας ἀνθρώπους ὁμολογῆσαι διὰ τάδε δεῖν πολεμεῖν, ἢ ἀδικουμένους ἢ βοηθοῦντας ἠδικημένοις. Ἡμεῖς τοίνυν αὐτοί τε ἠδικούμεθα, Βοιωτοῖς τε ἀδικουμένοις ἐβοηθοῦμεν. Εἰ τοίνυν ἡμῖν τέ ἐστι τοῦτο παρὰ Λακεδαιμονίων, τὸ μηκέτι ἀδικεῖσθαι, Βοιωτοῖς τε δέδοκται ποιεῖσθαι τὴν εἰρήνην ἀφεῖσιν Ὀρχομενὸν αὐτόνομον, τίνος ἕνεκα πολεμήσωμεν; ἵνα ἡ πόλις ἡμῶν ἐλευθέρα ᾖ; ἀλλὰ τοῦτό γε αὐτῇ ὑπάρχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 14",
+      "text": "Ἀλλ’ ὅπως ἡμῖν τείχη γένηται; ἔστι καὶ ταῦτα ἐκ τῆς εἰρήνης. Ἀλλ’ ἵνα τριήρεις ἐξῇ ναυπηγεῖσθαι καὶ τὰς οὔσας ἐπισκευάζειν καὶ κεκτῆσθαι; καὶ τοῦτο ὑπάρχει· τὰς γὰρ πόλεις αὐτονόμους αἱ συνθῆκαι ποιοῦσιν. Ἀλλ’ ὅπως τὰς νήσους κομισώμεθα, Λῆμνον καὶ Σκῦρον καὶ Ἴμβρον; οὐκοῦν διαρρήδην γέγραπται ταύτας Ἀθηναίων εἶναι. Φέρε, ἀλλὰ Χερρόνησον καὶ τὰς ἀποικίας καὶ τὰ ἐγκτήματα καὶ τὰ χρέα ἵνα ἀπολάβωμεν; ἀλλ’ οὔτε βασιλεὺς οὔτε οἱ σύμμαχοι συγχωροῦσιν ἡμῖν, μεθ’ ὧν αὐτὰ δεῖ πολεμοῦντας κτήσασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 15",
+      "text": "Ἀλλὰ νὴ Δία ἕως ἂν Λακεδαιμονίους καταπολεμήσωμεν καὶ τοὺς συμμάχους αὐτῶν, μέχρι τούτου δεῖ πολεμεῖν; ἀλλ’ οὔ μοι δοκοῦμεν οὕτω παρεσκευάσθαι. Ἐὰν δ’ ἄρα κατεργασώμεθα, τί ποτε αὐτοὶ πείσεσθαι δοκοῦμεν ὑπὸ τῶν βαρβάρων, ὅταν ταῦτα πράξωμεν; εἰ τοίνυν περὶ τούτου μὲν ἔδει πολεμεῖν, χρήματα δὲ ὑπῆρχεν ἡμῖν ἱκανά, τοῖς δὲ σώμασιν ἦμεν δυνατοί, οὐδὲ οὕτως ἔδει πολεμεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 16",
+      "text": "Εἰ δὲ μήτε δι’ ὅ τι μήτε ὅτοισι μήτε ἀφ’ ὅτου πολεμήσωμεν ἔστι, πῶς οὐκ ἐκ παντὸς τρόπου τὴν εἰρήνην ποιητέον ἡμῖν; Σκέψασθε δ’, ὦ Ἀθηναῖοι, καὶ τόδε, ὅτι νυνὶ πᾶσι τοῖς Ἕλλησι κοινὴν εἰρήνην καὶ ἐλευθερίαν πράττετε, καὶ μετέχειν ἅπασι πάντων ἐξουσίαν ποιεῖτε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 17",
+      "text": "Ἐνθυμήθητε οὖν τῶν πόλεων τὰς μεγίστας, τίνι τρόπῳ τὸν πόλεμον καταλύονται. Πρῶτον μὲν Λακεδαιμονίους, οἵτινες ἀρχόμενοι μὲν ἡμῖν καὶ τοῖς συμμάχοις πολεμεῖν ἦρχον καὶ κατὰ γῆν καὶ κατὰ θάλατταν, νῦν δ’ αὐτοῖς ἐκ τῆς εἰρήνης οὐδέτερον τούτων ὑπάρχει. Καὶ οὐχ ὑφ’ ἡμῶν ἀναγκαζόμενοι ταῦτ’ ἀφιᾶσιν, ἀλλ’ ἐπ’ ἐλευθερίᾳ πάσης τῆς Ἑλλάδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 18",
+      "text": "Νενικήκασι γὰρ τρὶς ἤδη μαχόμενοι, τοτὲ μὲν ἐν Κορίνθῳ πάντας πανδημεὶ τοὺς συμμάχους παρόντας, οὐχ ὑπολιπόντες πρόφασιν οὐδεμίαν, ἀλλ’ ἐν τῷ κρατιστεύειν μόνοι πάντων, αὖθις δ’ ἐν Βοιωτοῖς, ὅτ’ αὐτῶν Ἀγησίλαος ἡγεῖτο, τὸν αὐτὸν τρόπον καὶ τότε τὴν νίκην ἐποιήσαντο, τρίτον δ’ ἡνίκα Λέχαιον ἔλαβον, Ἀργείους μὲν ἅπαντας καὶ Κορινθίους, ἡμῶν δὲ καὶ Βοιωτῶν τοὺς παρόντας. Τοιαῦτα δ’ ἔργα ἐπιδειξάμενοι [τοῖς Ἕλλησι], τὴν εἰρήνην εἰσὶν ἕτοιμοι ποιεῖσθαι τὴν ἑαυτῶν ἔχοντες, οἳ ἐνίκων μαχόμενοι, καὶ τὰς πόλεις αὐτονόμους εἶναι καὶ τὴν θάλατταν κοινὴν ἐῶντες τοῖς ἡττημένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 19",
+      "text": "Καίτοι ποίας τινὸς ἂν ἐκεῖνοι παρ’ ἡμῶν εἰρήνης ἔτυχον, εἰ μίαν μόνον μάχην ἡττήθησαν; Βοιωτοὶ δ’ αὖ πῶς τὴν εἰρήνην ποιοῦνται; οἵτινες τὸν μὲν πόλεμον ἐποιήσαντο ἕνεκα Ὀρχομενοῦ, ὡς οὐκ ἐπιτρέψοντες αὐτόνομον εἶναι, νῦν δὲ τεθνεώτων μὲν αὐτοῖς ἀνδρῶν τοσούτων τὸ πλῆθος, τῆς δὲ γῆς ἐκ μέρους τινὸς τετμημένης, χρήματα δ’ εἰσενηνοχότες πολλὰ καὶ ἰδίᾳ καὶ δημοσίᾳ, ὧν στέρονται, πολεμήσαντες δ’ ἔτη τέτταρα, ὅμως Ὀρχομενὸν ἀφιέντες αὐτόνομον τὴν εἰρήνην ποιοῦνται καὶ ταῦτα μάτην πεπόνθασιν· ἐξῆν γὰρ αὐτοῖς καὶ τὴν ἀρχὴν ἐῶσιν Ὀρχομενίους αὐτονόμους εἰρήνην ἄγειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 20",
+      "text": "Οὗτοι δ’ αὖ τούτῳ 〈τῷ〉 τρόπῳ τὸν πόλεμον καταλύονται. Ἡμῖν δὲ, ὦ Ἀθηναῖοι, πῶς ἔξεστι τὴν εἰρήνην ποιήσασθαι; ποίων τινῶν Λακεδαιμονίων τυγχάνοντας; καὶ γὰρ εἴ τις ὑμῶν ἀχθεσθήσεται παραιτοῦμαι· 〈τὰ〉 γὰρ ὄντα λέξω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 21",
+      "text": "Πρῶτον μὲν γὰρ ἡνίκα ἀπωλέσαμεν τὰς ναῦς ἐν Ἑλλησπόντῳ καὶ τειχήρεις ἐγενόμεθα, τίνα γνώμην ἔθεντο περὶ ἡμῶν οἱ νῦν μὲν ἡμέτεροι τότε δὲ Λακεδαιμονίων ὄντες σύμμαχοι; οὐ τὴν πόλιν ἡμῶν ἀνδραποδίζεσθαι καὶ τὴν χώραν ἐρημοῦν; οἱ δὲ διακωλύσαντες ταῦτα μὴ γενέσθαι τίνες ἦσαν; οὐ Λακεδαιμόνιοι, τοὺς μὲν συμμάχους ἀποτρέψαντες τῆς γνώμης, αὐτοὶ δ’ οὐδ’ ἐπιχειρήσαντες διαβουλεύσασθαι περὶ τοιούτων ἔργων; μετὰ δὲ τοῦτο ὅρκους ὀμόσαντες αὐτοῖς καὶ τὴν στήλην εὑρόμενοι 〈παρ’〉 αὐτῶν στῆσαι, κακὸν ἀγαπητὸν ἐν ἐκείνῳ τῷ χρόνῳ, σπονδὰς ἤγομεν ἐπὶ ῥητοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 22",
+      "text": "Εἶτα δὲ συμμαχίαν ποιησάμενοι Βοιωτοῖς καὶ Κορινθίους ἀποστήσαντες αὐτῶν, Ἀργείους δὲ ἀγαγόντες εἰς τὴν ποτὲ φιλίαν, αἴτιοι τῆς ἐν Κορίνθῳ μάχης ἐγενόμεθα αὐτοῖς. Τίνες δὲ βασιλέα πολέμιον αὐτοῖς ἐποίησαν, καὶ Κόνωνι τὴν ναυμαχίαν παρεσκεύασαν, δι’ ἣν ἀπώλεσαν τὴν ἀρχὴν τῆς θαλάττης; ὅμως τοίνυν ταῦτα πεπονθότες ὑφ’ ἡμῶν συγχωροῦσι ταὐτὰ ἅπερ οἱ σύμμαχοι, καὶ διδόασιν ἡμῖν τὰ τείχη καὶ τὰς ναῦς καὶ τὰς νήσους ἡμῶν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 23",
+      "text": "Ποίαν τιν’ οὖν χρὴ εἰρήνην πρεσβεύοντας ἥκειν; οὐ ταὐτὰ παρὰ τῶν πολεμίων εὑρομένους, ἅπερ οἱ φίλοι διδόασι, καὶ δι’ ἅπερ ἠρξάμεθα πολεμεῖν, ἵνα ἡμῶν γένηται τῇ πόλει, ταῦτα; οἱ μὲν τοίνυν ἄλλοι τὴν εἰρήνην ποιοῦνται τῶν ὑπαρχόντων ἀφιέντες, ἡμεῖς δὲ προσλαμβάνοντες αὐτὰ ὧν μάλιστα δεόμεθα. Τί οὖν ἐστιν ὑπόλοιπον περὶ ὅτου δεῖ βουλεύεσθαι; περὶ Κορίνθου καὶ περὶ ὧν [ἂν] ἡμᾶς Ἀργεῖοι προκαλοῦνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 24",
+      "text": "Πρῶτον μὲν περὶ Κορίνθου διδαξάτω μέ τις, Βοιωτῶν μὴ συμπολεμούντων, εἰρήνην δὲ ποιουμένων πρὸς Λακεδαιμονίους, τίνος ἐστὶν ἡμῖν ἀξία Κόρινθος. Ἀναμνήσθητε, γὰρ, ὦ Ἀθηναῖοι, τῆς ἡμέρας ἐκείνης, ὅτε Βοιωτοῖς τὴν συμμαχίαν ἐποιούμεθα, τίνα γνώμην ἔχοντες ταῦτα ἐπράττομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 25",
+      "text": "Οὐχ ὡς ἱκανὴν οὖσαν τὴν Βοιωτῶν δύναμιν μεθ’ ἡμῶν γενομένην κοινῇ πάντας ἀνθρώπους ἀμύνασθαι; νῦν δὲ βουλευόμεθα, Βοιωτῶν εἰρήνην ποιουμένων πῶς δυνατοὶ Λακεδαιμονίοις πολεμεῖν ἐσμεν ἄνευ Βοιωτῶν. Ναί, φασί τινες, ἂν Κόρινθόν τε φυλάττωμεν καὶ συμμάχους ἔχωμεν Ἀργείους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 26",
+      "text": "Ἰόντων δὲ Λακεδαιμονίων εἰς Ἄργος πότερον βοηθήσομεν αὐτοῖς ἢ οὔ; πολλὴ γὰρ ἀνάγκη ὁπότερον τούτων ἑλέσθαι. Μὴ βοηθούντων μὲν οὖν ἡμῶν οὐδὲ λόγος ὑπολείπεται μὴ οὐκ ἀδικεῖν καὶ ποιεῖν Ἀργείους ὁποῖον ἄν τι βούλωνται δικαίως· βοηθούντων δὲ ἡμῶν εἰς Ἄργος οὐχ ἕτοιμον μάχεσθαι Λακεδαιμονίοις; ἵνα ἡμῖν τί γένηται; ἵνα ἡττώμενοι μὲν καὶ τὴν οἰκείαν χώραν ἀπολέσωμεν πρὸς τῇ Κορινθίων, νικήσαντες δὲ τὴν Κορινθίων Ἀργείων ποιήσωμεν. Οὐχ ἕνεκα τούτων πολεμήσομεν; Σκεψώμεθα δὴ καὶ τοὺς Ἀργείων λόγους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 27",
+      "text": "Κελεύουσι γὰρ ἡμᾶς κοινῇ μετὰ σφῶν καὶ μετὰ Κορινθίων πολεμεῖν, αὐτοὶ δ’ ἰδίᾳ εἰρήνην ποιησάμενοι τὴν χώραν οὐ παρέχουσιν ἐμπολεμεῖν. Καὶ μετὰ μὲν πάντων τῶν συμμάχων τὴν εἰρήνην ποιουμένους οὐκ ἐῶσιν ἡμᾶς οὐδὲν πιστεύειν Λακεδαιμονίοις· ἃ δὲ πρὸς τούτους μόνους ἐκεῖνοι συνέθεντο, ταῦτα δ’ οὐδεπώποτ’ αὐτούς φασι παραβῆναι. Πατρίαν τε εἰρήνην ὀνομάζοντες ᾗ χρῶνται, τοῖς [δὲ] ἄλλοις Ἕλλησιν οὐκ ἐῶσι πατρίαν γενέσθαι τὴν εἰρήνην· ἐκ γὰρ τοῦ πολέμου χρονισθέντος Κόρινθον ἑλεῖν προσδοκῶσι, κρατήσαντες δὲ τούτων ὑφ’ ὧν ἀεὶ κρατοῦνται, καὶ τοὺς συννικῶντας ἐλπίζουσι παραστήσεσθαι. Τοιούτων δ’ ἐλπίδων μετασχόντας ἡμᾶς δεῖ δυοῖν θάτερον ἑλέσθαι, ἢ πολεμεῖν μετὰ Ἀργείων Λακεδαιμονίοις, ἢ μετὰ Βοιωτῶν κοινῇ τὴν εἰρήνην ποιεῖσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 28",
+      "text": "Ἐγὼ μὲν οὖν ἐκεῖνο δέδοικα μάλιστα, ὦ Ἀθηναῖοι, τὸ εἰθισμένον κακόν, ὅτι τοὺς κρείττους φίλους ἀφιέντες ἀεὶ τοὺς ἥττους αἱρούμεθα, καὶ πόλεμον ποιούμεθα δι’ ἑτέρους, ἐξὸν δι’ ἡμᾶς αὐτοὺς εἰρήνην ἄγειν· οἵτινες πρῶτον μὲν βασιλεῖ τῷ μεγάλῳ (χρὴ γὰρ ἀναμνησθέντας τὰ γεγενημένα καλῶς βουλεύσασθαι) σπονδὰς ποιησάμενοι καὶ συνθέμενοι φιλίαν εἰς τὸν ἅπαντα χρόνον, ἃ ἡμῖν ἐπρέσβευσεν Ἐπίλυκος 〈ὁ〉 Τεισάνδρου, τῆς μητρὸς τῆς ἡμετέρας ἀδελφός, 〈μετὰ〉 ταῦτα Ἀμόργῃ πειθόμενοι τῷ δούλῳ τῷ βασιλέως καὶ φυγάδι τὴν μὲν βασιλέως δύναμιν ἀπεβαλόμεθα ὡς οὐδενὸς οὖσαν ἀξίαν, τὴν δὲ Ἀμόργου φιλίαν εἱλόμεθα, κρείττω νομίσαντες εἶναι· ἀνθ’ ὧν βασιλεὺς ὀργισθεὶς ἡμῖν, σύμμαχος γενόμενος Λακεδαιμονίοις, παρέσχεν αὐτοῖς εἰς τὸν πόλεμον πεντακισχίλια τάλαντα, ἕως κατέλυσαν ἡμῶν τὴν δύναμιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 29",
+      "text": "Ἓν μὲν βούλευμα τοιοῦτον ἐβουλευσάμεθα· Συρακόσιοι δ’ ὅτε ἦλθον ἡμῶν δεόμενοι, φιλότητα μὲν ἀντὶ διαφορᾶς ἐθέλοντες εἰρήνην δ’ ἀντὶ πολέμου ποιεῖσθαι, τήν τε συμμαχίαν ἀποδεικνύντες ὅσῳ κρείττων ἡ σφετέρα εἴη τῆς Ἐγεσταίων καὶ Καταναίων, εἰ βουλοίμεθα πρὸς αὐτοὺς ποιεῖσθαι, ἡμεῖς τοίνυν εἱλόμεθα καὶ τότε πόλεμον μὲν ἀντὶ εἰρήνης, Ἐγεσταίους δὲ ἀντὶ Συρακοσίων, στρατεύεσθαι δ’ εἰς Σικελίαν ἀντὶ τοῦ μένοντες οἴκοι συμμάχους ἔχειν Συρακοσίους· ἐξ ὧν πολλοὺς μὲν Ἀθηναίων ἀπολέσαντες ἀριστίνδην καὶ τῶν συμμάχων, πολλὰς δὲ ναῦς καὶ χρήματα καὶ δύναμιν ἀποβαλόντες, αἰσχρῶς διεκομίσθησαν οἱ σωθέντες αὐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 31",
+      "text": "Ὕστερον δὲ ὑπ’ Ἀργείων ἐπείσθημεν, οἵπερ νῦν ἥκουσι πείθοντες πολεμεῖν, πλεύσαντες ἐπὶ τὴν Λακωνικὴν εἰρήνης ἡμῖν οὔσης πρὸς Λακεδαιμονίους ἐντεῖναι 〈αὐτῶν〉 τὸν θυμόν, ἀρχὴν πολλῶν κακῶν· ἐξ οὗ πολεμήσαντες ἠναγκάσθημεν τὰ τείχη κατασκάπτειν καὶ τὰς ναῦς παραδιδόναι καὶ τοὺς φεύγοντας καταδέχεσθαι. Ταῦτα δὲ πασχόντων ἡμῶν οἱ πείσαντες ἡμᾶς πολεμεῖν Ἀργεῖοι τίνα ὠφέλειαν παρέσχον ἡμῖν; τίνα δὲ κίνδυνον ὑπὲρ [τῶν] Ἀθηναίων ἐποιήσαντο; νῦν οὖν τοῦτο ὑπόλοιπόν ἐστιν ἡμῖν, πόλεμον μὲν ἑλέσθαι καὶ νῦν ἀντ’ εἰρήνης, τὴν δὲ συμμαχίαν τὴν Ἀργείων ἀντὶ τῆς Βοιωτῶν, Κορινθίων δὲ τοὺς νῦν ἔχοντας τὴν πόλιν ἀντὶ Λακεδαιμονίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 32",
+      "text": "Μὴ δῆτα, ὦ Ἀθηναῖοι, μηδεὶς ἡμᾶς ταῦτα πείσῃ· τὰ γὰρ παραδείγματα τὰ γεγενημένα τῶν ἁμαρτημάτων ἱκανὰ τοῖς σώφροσι τῶν ἀνθρώπων ὥστε μηκέτι ἁμαρτάνειν. Εἰσὶ δέ τινες ὑμῶν οἳ τοσαύτην ὑπερβολὴν τῆς ἐπιθυμίας ἔχουσιν εἰρήνην ὡς τάχιστα γενέσθαι· φασὶ γὰρ καὶ τὰς τετταράκονθ’ ἡμέρας ἐν αἷς ὑμῖν ἔξεστι βουλεύεσθαι περίεργον εἶναι, καὶ τοῦτο ἀδικεῖν ἡμᾶς· αὐτοκράτορας γὰρ πεμφθῆναι εἰς Λακεδαίμονα διὰ ταῦθ’, ἵνα μὴ πάλιν ἐπαναφέρωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 33",
+      "text": "Τήν τε ἀσφάλειαν ἡμῶν τῆς ἐπαναφορᾶς δέος ὀνομάζουσι, λέγοντες ὡς οὐδεὶς πώποτε τὸν δῆμον τὸν Ἀθηναίων ἐκ τοῦ φανεροῦ πείσας ἔσῳσεν, ἀλλὰ δεῖ λαθόντας ἢ ἐξαπατήσαντας αὐτὸν εὖ ποιῆσαι. Τὸν λόγον οὖν τοῦτον οὐκ ἐπαινῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 34",
+      "text": "Φημὶ γὰρ, ὦ Ἀθηναῖοι, πολέμου μὲν ὄντος ἄνδρα στρατηγὸν τῇ πόλει τε εὔνουν εἰδότα τε ὅ τι πράττῃ, λανθάνοντα δεῖν τοὺς πολλοὺς τῶν ἀνθρώπων καὶ ἐξαπατῶντα ἄγειν ἐπὶ τοὺς κινδύνους, εἰρήνης δὲ πέρι πρεσβεύοντας κοινῆς τοῖς Ἕλλησιν, ἐφ’ οἷς ὅρκοι τε ὀμοσθήσονται στῆλαί τε σταθήσονται γεγραμμέναι, ταῦτα δὲ οὔτε λαθεῖν οὔτε ἐξαπατῆσαι δεῖν, ἀλλὰ πολὺ μᾶλλον ἐπαινεῖν ἢ ψέγειν, εἰ πεμφθέντες αὐτοκράτορες ἔτι ἀποδώσομεν ὑμῖν περὶ αὐτῶν σκέψασθαι. Βουλεύσασθαι μὲν οὖν ἀσφαλῶς χρὴ κατὰ δύναμιν, οἷς δ’ ἂν ὀμόσωμεν καὶ συνθώμεθα, τούτοις ἐμμένειν. Οὐ γὰρ μόνον, ὦ Ἀθηναῖοι, πρὸς γράμματα τὰ γεγραμμένα δεῖ βλέποντας πρεσβεύειν ἡμᾶς, ἀλλὰ καὶ πρὸς τοὺς τρόπους τοὺς ὑμετέρους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 35",
+      "text": "Ὑμεῖς γὰρ περὶ μὲν τῶν ἑτοίμων ὑμῖν ὑπονοεῖν εἰώθατε καὶ δυσχεραίνειν, τὰ δ’ οὐκ ὄντα λογοποιεῖν ὡς ἔστιν ὑμῖν ἕτοιμα· κἂν μὲν πολεμεῖν δέῃ, τῆς εἰρήνης ἐπιθυμεῖτε, ἐὰν δέ τις ὑμῖν τὴν εἰρήνην πράττῃ, λογίζεσθε τὸν πόλεμον ὅσα ἀγαθὰ ὑμῖν κατηργάσατο. Ὅπου καὶ νῦν ἤδη τινὲς λέγουσιν οὐ γιγνώσκειν τὰς διαλλαγὰς αἵτινές εἰσι, τείχη καὶ νῆες εἰ γενήσονται τῇ πόλει· τὰ γὰρ ἴδια τὰ σφέτερ’ αὐτῶν ἐκ τῆς ὑπερορίας οὐκ ἀπολαμβάνειν, ἀπὸ δὲ τῶν τειχῶν οὐκ εἶναι σφίσι τροφήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 36",
+      "text": "Ἀναγκαίως οὖν ἔχει καὶ πρὸς ταῦτ’ ἀντειπεῖν. Ἦν γάρ ποτε χρόνος, ὦ Ἀθηναῖοι, ὅτε τείχη καὶ ναῦς οὐκ ἐκεκτήμεθα· γενομένων δὲ τούτων τὴν ἀρχὴν ἐποιησάμεθα τῶν ἀγαθῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 37",
+      "text": "Ὧν εἰ καὶ νῦν ἐπιθυμεῖτε, ταῦτα κατεργάσασθε. Ταύτην δὲ λαβόντες ἀφορμὴν οἱ πατέρες ἡμῶν κατηργάσαντο τῇ πόλει δύναμιν τοσαύτην ὅσην οὔπω τις ἄλλη πόλις ἐκτήσατο, τὰ μὲν πείσαντες τοὺς Ἕλληνας, τὰ δὲ λαθόντες, τὰ δὲ πριάμενοι, τὰ δὲ βιασάμενοι· πείσαντες μὲν οὖν Ἀθήνησι ποιήσασθαι τῶν κοινῶν χρημάτων Ἑλληνοταμίας, καὶ τὸν σύλλογον τῶν νεῶν παρ’ ἡμῖν γενέσθαι, ὅσαι δὲ τῶν πόλεων τριήρεις μὴ κέκτηνται, ταύταις ἡμᾶς παρέχειν· λαθόντες δὲ Πελοποννησίους τειχισάμενοι τὰ τείχη· πριάμενοι δὲ παρὰ Λακεδαιμονίων μὴ δοῦναι τούτων δίκην· βιασάμενοι δὲ τοὺς ἐναντίους τὴν ἀρχὴν τῶν Ἑλλήνων κατηργασάμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 38",
+      "text": "Καὶ ταῦτα τὰ ἀγαθὰ ἐν ὀγδοήκοντα καὶ πέντε ἡμῖν ἔτεσιν ἐγένετο. Κρατηθέντες δὲ τῷ πολέμῳ τά τε ἄλλα ἀπωλέσαμεν καὶ τὰ τείχη καὶ τὰς ναῦς ἔλαβον ἡμῶν ἐνέχυρα Λακεδαιμόνιοι, τὰς μὲν παραλαβόντες, τὰ δὲ καθελόντες, ὅπως μὴ πάλιν ταύτην ἔχοντες ἀφορμὴν 〈τὴν〉 δύναμιν τῇ πόλει κατασκευάσαιμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 39",
+      "text": "Πεισθέντες τοίνυν ὑφ’ ἡμῶν Λακεδαιμόνιοι πάρεισι νυνὶ πρέσβεις αὐτοκράτορες, τά τε ἐνέχυρα ἡμῖν ἀποδιδόντες, καὶ τὰ τείχη καὶ 〈τὰσ〉 ναῦς ἐῶντες κεκτῆσθαι, τάς τε νήσους ἡμετέρας εἶναι. Τὴν αὐτὴν τοίνυν ἀρχὴν ἀγαθῶν λαμβάνοντας, ἥνπερ ἡμῶν ἐλάμβανον οἱ πρόγονοι, ταύτην οὐκ ἀκτέον φασὶ τὴν εἰρήνην τινὲς εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 40",
+      "text": "Παριόντες οὖν αὐτοὶ διδασκόντων ὑμᾶς (ἐξουσίαν δ’ αὐτοῖς ἡμεῖς ἐποιήσαμεν, προσθέντες τετταράκοντα ἡμέρας βουλεύσασθαι) τοῦτο μὲν τῶν γεγραμμένων εἴ τι τυγχάνει μὴ καλῶς ἔχον (ἔξεστι γὰρ ἀφελεῖν) τοῦτο δ’ εἴ 〈τί〉 τις προσθεῖναι βούλεται, πείσας ὑμᾶς προσγραψάτω. Πᾶσί τε τοῖς γεγραμμένοις χρωμένοις ἔστιν εἰρήνην ἄγειν. Εἰ δὲ μηδὲν ἀρέσκει τούτων, πολεμεῖν ἕτοιμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "De pac 41",
+      "text": "Καὶ ταῦτ’ ἐφ’ ὑμῖν πάντ’ ἐστίν, ὦ Ἀθηναῖοι· τούτων ὅ τι ἂν βούλησθε ἕλεσθε. Πάρεισι μὲν γὰρ Ἀργεῖοι καὶ Κορίνθιοι διδάξοντες ὡς ἄμεινόν ἐστι πολεμεῖν, ἥκουσι δὲ Λακεδαιμόνιοι πείσοντες ὑμᾶς εἰρήνην ποιήσασθαι. Τούτων δ’ ἐστὶ τὸ τέλος παρ’ ὑμῖν, ἀλλ’ οὐκ ἐν Λακεδαιμονίοις, δι’ ἡμᾶς. Πρεσβευτὰς οὖν πάντας ὑμᾶς ἡμεῖς οἱ πρέσβεις ποιοῦμεν· ὁ γὰρ τὴν χεῖρα μέλλων ὑμῶν αἴρειν, οὗτος ὁ πρεσβεύων ἐστίν, ὁπότερ’ ἂν αὐτῷ δοκῇ, καὶ τὴν εἰρήνην καὶ τὸν πόλεμον [ποιεῖν]. Μέμνησθε μὲν οὖν, ὦ Ἀθηναῖοι, τοὺς ἡμετέρους λόγους, ψηφίσασθε δὲ τοιαῦτα, ἐξ ὧν ὑμῖν μηδέποτε μεταμελήσει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eym-ab",
+      "title": {
+        "english": "Against Alcibiades",
+        "ancient_greek": "Κατὰ Ἀλκιβιάδου"
+      },
+      "url_slug": "andocides-against-alcibiades-eym-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/against-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/against-alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/against-alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/against-alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/against-alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "eym-ae",
+      "title": {
+        "english": "Fragments of Political Speeches",
+        "ancient_greek": "Ἀποσπάσματα πολιτικῶν λόγων"
+      },
+      "url_slug": "andocides-political-speeches-eym-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/political-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/political-speeches.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/political-speeches.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/political-speeches.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/political-speeches.json"
+      }
+    },
+    {
+      "eul_wid": "eym-ac",
+      "title": {
+        "english": "On His Own Descent",
+        "ancient_greek": "Περὶ τῆς ἑαυτοῦ καθόδου"
+      },
+      "url_slug": "andocides-descent-eym-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/descent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/descent.json"
+      }
+    },
+    {
+      "eul_wid": "eym-ad",
+      "title": {
+        "english": "On the Mysteries",
+        "ancient_greek": "Περὶ τῶν μυστηρίων"
+      },
+      "url_slug": "andocides-mysteries-eym-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/andocides/mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/mysteries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/mysteries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/mysteries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/mysteries.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-aq",
+      "title": {
+        "english": "Against Alcibiades for Desertion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου λιποταξίου"
+      },
+      "url_slug": "lysias-against-alcibiades-aq-ejc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ap",
+      "title": {
+        "english": "Against Eratosthenes of the Thirty",
+        "ancient_greek": "κατὰ Ερατοσθένους τοῦ γενομένου τῶν τριάκοντα,"
+      },
+      "url_slug": "lysias-against-eratosthenes-ejc-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ai",
+      "title": {
+        "english": "Against Nicomachus Secretary-Accounts",
+        "ancient_greek": "κατὰ Νικομάχου γραμματέως εὐθυνῶν κατηγορία"
+      },
+      "url_slug": "lysias-against-nicomachus-ejc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-nicomachus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.json"
+      }
+    },
+    {
+      "eul_wid": "qko-ab",
+      "title": {
+        "english": "On Rhetorical Topics",
+        "ancient_greek": "Περὶ ῥητορικῶν ἀφορμῶν"
+      },
+      "url_slug": "alexander-son-of-numenius-rhetorical-topics-qko-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-son-of-numenius/rhetorical-topics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/rhetorical-topics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/rhetorical-topics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/rhetorical-topics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/rhetorical-topics.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-aq",
+      "title": {
+        "english": "On the Book-Ideas",
+        "ancient_greek": "περὶ ἰδεῶν"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-book-ideas-rhg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/book-ideas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/book-ideas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/book-ideas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/book-ideas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/book-ideas.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ax",
+      "title": {
+        "english": "Scythian or the Envoy",
+        "ancient_greek": "Σκύθης ἢ Πρόξενος"
+      },
+      "url_slug": "lucian-of-samosata-scythian-envoy-pfk-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/scythian-envoy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bm",
+      "title": {
+        "english": "To the Aegean Sea",
+        "ancient_greek": "Εἰς τὸ Αἰγαῖον πέλαγος"
+      },
+      "url_slug": "aristides-the-orator-aegean-sea-qwm-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/aegean-sea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/aegean-sea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/aegean-sea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/aegean-sea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/aegean-sea.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ay",
+      "title": {
+        "english": "Unmarked Defense of Bribery",
+        "ancient_greek": "ἀπολογία δωροδοκίας ἀπαράσημος"
+      },
+      "url_slug": "lysias-defense-bribery-ejc-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-bribery",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/andocides/peace-lacedaemonians",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andocides/peace-lacedaemonians.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

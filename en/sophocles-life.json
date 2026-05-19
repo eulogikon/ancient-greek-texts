@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "eom",
+  "auth_slug": "sophocles-life",
+  "name": {
+    "english": "Sophocles Life",
+    "ancient_greek": "Σοφοκλέους Βίος"
+  },
+  "seo_h1": "Life of Sophocles by an Anonymous Biographer",
+  "seo": {
+    "browser_title": "Sophocles Ancient Greek Tragedian on Eulogikon Greek Archive",
+    "meta_title": "Classical Sophocles Ancient Greek Tragedies and Biography",
+    "meta_description": "Sophocles, the great Athenian tragedian of the 5th century BCE. Works include Oedipus and Antigone. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα λογοτεχνική",
+      "english": "Atticizing Literary",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Life</p>\n<p class=\"research-text\">The anonymous prose work Sophocles Life is a later biographical compilation, likely composed between the 1st and 10th centuries CE, concerning the Athenian tragedian Sophocles. It records that he was born in Colonus to a wealthy family, was active in Athenian public and military life, and served as a priest. The biography describes him as pious and graceful, and recounts anecdotes of his dramatic career. It notes he defeated Aeschylus in his first competition in 468 BCE, won at least 18 victories, and was a prolific innovator in tragedy.</p>\n<p class=\"research-text\">Works</p>\n<p class=\"research-text\">The biographical text itself is a single work. Sophocles is credited with over 120 plays, but only seven complete tragedies survive: Ajax, Antigone, Women of Trachis, Oedipus Tyrannus, Electra, Philoctetes, and Oedipus at Colonus. A large fragment of the satyr play Ichneutae and fragments of other lost plays also exist.</p>\n<p class=\"research-text\">Significance</p>\n<p class=\"research-text\">The Life is a key, though variably reliable, source for the ancient biographical tradition surrounding Sophocles, blending fact with legend. The seven extant tragedies are masterpieces of Greek literature, with profound influence on Western drama and thought through their exploration of fate, divine law, and human suffering.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "eom-aa",
+      "title": {
+        "english": "Life of Sophocles",
+        "ancient_greek": "Βίος Σοφοκλέους"
+      },
+      "url_slug": "sophocles-life-life-eom-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles-life/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life/life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life/life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life/life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles-life/life.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sophocles-life",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophocles-life.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophocles-life.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophocles-life.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophocles-life.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,291 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rmq",
+  "auth_slug": "cassius-longinus",
+  "name": {
+    "english": "Cassius Longinus the Philosopher",
+    "ancient_greek": "Κάσσιος Λογγῖνος"
+  },
+  "seo_h1": "Cassius Longinus the Philosopher on Rhetoric and Platonism",
+  "seo": {
+    "browser_title": "Cassius Longinus Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Cassius Longinus Ancient Greek Philosophical Works",
+    "meta_description": "Cassius Longinus, 3rd century CE Platonist philosopher. Three surviving philosophical orations. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cassius Longinus was a Greek philosopher, rhetorician, and literary critic of the 3rd century CE. His birthplace is uncertain, with sources suggesting either Emesa in Syria or Athens. He studied under prominent teachers in Alexandria and Athens, becoming a leading Platonist philosopher and a renowned teacher of rhetoric in Athens. His students included the important Neoplatonist philosopher Porphyry.</p>\n<p class=\"research-text\">Beyond his academic life, Longinus served as the chief counselor to Queen Zenobia of Palmyra. After the Roman Emperor Aurelian defeated Palmyra, Longinus was executed for his role in drafting the queen&#x27;s defiant letters. In antiquity, he was celebrated as a scholar of immense learning, earning nicknames like &quot;a living library.&quot;</p>\n<p class=\"research-text\">He was a prolific writer on philosophy, rhetoric, and literary criticism, but nearly all of his works are lost. These lost titles include On the Chief End, Art of Rhetoric, and several studies on Homer. A significant point of clarification concerns the famous treatise On the Sublime. For centuries, this work was attributed to him, but according to modern scholarly consensus, the text dates to the 1st century CE and its author remains unknown; Cassius Longinus is no longer considered its writer.</p>\n<p class=\"research-text\">His historical importance lies in his role as a major intellectual bridge. He represents a strand of Platonism focused on literature and philology that existed before the more metaphysical Neoplatonism of Plotinus became dominant. His influence flowed through students like Porphyry, and his life ended as part of the political upheaval of Rome&#x27;s Crisis of the Third Century. Because his own writings are lost, scholars must reconstruct his ideas from fragments and the reports of later authors.</p>\n</div>",
+  "affiliation_label": "Platonist",
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "rmq-ac",
+      "title": {
+        "english": "Excerpts",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "cassius-longinus-excerpts-rmq-ac",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-longinus/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rmq-aa",
+      "title": {
+        "english": "Prolegomena Longinus, Commentary Remains",
+        "ancient_greek": "Προλεγόμενα Λογγίνου"
+      },
+      "url_slug": "cassius-longinus-prolegomena-commentary-rmq-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-longinus/prolegomena-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/prolegomena-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "rmq-ab",
+      "title": {
+        "english": "Rhetorical Art",
+        "ancient_greek": "Τέχνη Ῥητορική"
+      },
+      "url_slug": "cassius-longinus-rhetoric-rmq-ab",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-longinus/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-longinus/rhetoric.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "qhm",
+      "name": {
+        "english": "Albinus the Platonist",
+        "ancient_greek": "Ἀλβῖνος ὁ Πλατωνικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/albinus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.json"
+      }
+    },
+    {
+      "eul_aid": "ufa",
+      "name": {
+        "english": "Alexander of Lycopolis",
+        "ancient_greek": "Ἀλέξανδρος Λυκοπολίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-lycopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.json"
+      }
+    },
+    {
+      "eul_aid": "lgs",
+      "name": {
+        "english": "Anonymous Commentary on Plato",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.json"
+      }
+    },
+    {
+      "eul_aid": "ddo",
+      "name": {
+        "english": "Arimnestus the Philosopher",
+        "ancient_greek": "Ἀρίμνηστος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/arimnestus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "rai",
+      "name": {
+        "english": "Atticus the Philosopher",
+        "ancient_greek": "Ἀττικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/atticus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "quy",
+      "name": {
+        "english": "Celsus the Platonist",
+        "ancient_greek": "Κέλσος ὁ Πλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/celsus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.json"
+      }
+    },
+    {
+      "eul_aid": "hhq",
+      "name": {
+        "english": "Crantor of Soli",
+        "ancient_greek": "Κράντωρ ὁ Σολεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/crantor-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.json"
+      }
+    },
+    {
+      "eul_aid": "nso",
+      "name": {
+        "english": "Eudromus the Philosopher",
+        "ancient_greek": "Εὔδρομος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eudromus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "fdw",
+      "name": {
+        "english": "Heraclides of Pontus",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.json"
+      }
+    },
+    {
+      "eul_aid": "fve",
+      "name": {
+        "english": "Heraclides of Pontus II",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.json"
+      }
+    },
+    {
+      "eul_aid": "feg",
+      "name": {
+        "english": "Heraclides of Pontus III",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.json"
+      }
+    },
+    {
+      "eul_aid": "uuk",
+      "name": {
+        "english": "Introduction Platonism Anonymous",
+        "ancient_greek": "Ἀνώνυμος Προλεγόμενα εἰς τὴν Πλατωνικὴν Φιλοσοφίαν"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-introduction-to-platonism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-introduction-to-platonism.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/cassius-longinus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

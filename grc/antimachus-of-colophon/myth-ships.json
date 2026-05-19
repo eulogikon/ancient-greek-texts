@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ehe-aa",
+  "eul_aid": "ehe",
+  "author_slug": "antimachus-of-colophon",
+  "work_slug": "myth-ships",
+  "url_slug": "antimachus-of-colophon-myth-ships-ehe-aa",
+  "author": {
+    "english": "Antimachus of Colophon",
+    "ancient_greek": "Ἀντίμαχος ὁ Κολοφώνιος"
+  },
+  "title": {
+    "english": "Fragments on Myth and Ships",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μύθων καὶ Νεῶν"
+  },
+  "seo": {
+    "browser_title": "Poetic Fragments of Antimachus of Colophon on Eulogikon",
+    "meta_title": "Fragments by Antimachus of Colophon in Ancient Greek",
+    "meta_description": "Poetic fragments on mythology ships by Antimachus of Colophon. Hellenistic verse from epic tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Myth and Ships</strong> is a modern descriptive title for a collection of eighteen surviving excerpts attributed to the poet Antimachus of Colophon. Preserved through citations by later Greek authors, most notably the grammarian Athenaeus in his <strong>Deipnosophistae</strong>, these fragments treat mythological narratives and contain precise, technical descriptions of maritime subjects, particularly ship construction. They exemplify the poet’s characteristically learned, allusive, and sometimes obscure style, and may originate from a larger, now-lost epic or a scholarly poetic compilation. The fragments display a deep engagement with Homeric material, elaborating on its themes and style while infusing the epic form with erudition. Antimachus was a pivotal figure in adapting epic poetry to scholarly tastes; though his difficult style drew early criticism, he later became a major model for Hellenistic poets like Callimachus and Apollonius Rhodius, who saw in him a precursor to their own learned aesthetic. His dual legacy as both a poet and an early textual critic of Homer secured his enduring importance in the history of philology as well as poetry. The standard modern edition of these fragments is found in the work of V.J. Matthews, <strong>Antimachus of Colophon: Text and Commentary</strong> (1996).</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 57.1",
+      "text": "ἐν δ’ ἱστὸν θῆκεν, λαίφεσι δὲ λινέοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57.2",
+      "text": "σοῦς’ ἐτίθει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57.3",
+      "text": "παντοῖα θεά, πόδας ἠδὲ κάλωας, ἐν δ’ ὑπέρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57.4",
+      "text": "στρεπτάς, ὅπλά τε πάντα νεώς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 66",
+      "text": "τότε δὴ χρυσέωι ἐν δέπαϊ Ἠέλιον πόμπευεν ἀγακλυμένη Ἐρύθεια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 67",
+      "text": "†γενεᾷ Καβάρνους θῆκεν ἀβακλέας ὀργειῶνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.1",
+      "text": "εἶπε δὲ φωνήσας· “Πόλυβε, θρεπτήρια τάσδε [para]ἵππους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 70.2",
+      "text": "τοι δώσω δυσμενέων ἐλάσας.”",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 72",
+      "text": "φεύγοντας γαίης ἔκτοθι Δωτιάδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "τῶν μεγάλων ἔρκτορές εἰσι κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93",
+      "text": "Τήνου τ’ ὀφιοέσσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 99.1",
+      "text": "κὰδ δὲ Πύδην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 99.2",
+      "text": "τε ῥέοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 100",
+      "text": "Πύδητος κούρη, τηλεκλειτοῦ ποταμοῖο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 102",
+      "text": "[ εἶ‐ τά τε [Ἀφροδίτην ἀν]αισ[χύντως ἐρᾶν ἀνθρώ[πων, ὡς Ἀδώ‐[ln_5]νιδο[ς, φασὶν Καλλίμα‐ χος καὶ Π̣[ανύασσις καὶ Ἡ̣σ̣ίοδ̣[ος καὶ πλείους ἄλ[λοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 191",
+      "text": "Πακτωλοῦ χρυς͜έοι͜σιν ἐπ’ ἀνδήροισι θάασσον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 192.1",
+      "text": "Μιμνέρμου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 192.2",
+      "text": "τοῦ Κολοφωνιακοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ehe-ad",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "antimachus-of-colophon-epigram-ehe-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "ehe-ab",
+      "title": {
+        "english": "Fragments of the Thebaid",
+        "ancient_greek": "Ἀποσπάσματα τῆς Θηβαΐδος"
+      },
+      "url_slug": "antimachus-of-colophon-thebaid-fragments-ehe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/thebaid-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ehe-ac",
+      "title": {
+        "english": "Fragments on Thebes and Titans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θηβῶν καὶ Τιτάνων"
+      },
+      "url_slug": "antimachus-of-colophon-thebes-titans-ehe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/thebes-titans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "keg-aa",
+      "title": {
+        "english": "Anonymous-Shameful Profit",
+        "ancient_greek": "Ἄδηλον Περὶ Αἰσχροκερδείας"
+      },
+      "url_slug": "choliambica-adespota-shameful-profit-keg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choliambica-adespota/shameful-profit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.json"
+      }
+    },
+    {
+      "eul_wid": "knm-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archimelus-the-epigrammatist-epigram-knm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "kza-ab",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "lobon-of-argos-fragments-kza-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lobon-of-argos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "its-aa",
+      "title": {
+        "english": "Fragments of Myth and Exile",
+        "ancient_greek": "Ἀποσπάσματα Μύθου καὶ Φυγῆς"
+      },
+      "url_slug": "sotades-of-maroneia-grammarian-myth-exile-its-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-grammarian/myth-exile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-grammarian/myth-exile.json"
+      }
+    },
+    {
+      "eul_wid": "dfw-aa",
+      "title": {
+        "english": "Fragments on the Galatian War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Γαλατικοῦ Πολέμου"
+      },
+      "url_slug": "elegiac-fragments-anonymous-ii-galatian-war-dfw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/elegiac-fragments-anonymous-ii/galatian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.json"
+      }
+    },
+    {
+      "eul_wid": "asw-aa",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "ibycus-of-rhegium-trojan-war-aa-asw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ibycus-of-rhegium/trojan-war-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-aa.json"
+      }
+    },
+    {
+      "eul_wid": "upu-au",
+      "title": {
+        "english": "Hymn 28 To Athena",
+        "ancient_greek": "Ὕμνος εἰς Ἀθηνᾶν"
+      },
+      "url_slug": "homeric-hymns-anonymous-athena-au-upu-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/athena-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ak",
+      "title": {
+        "english": "encoms",
+        "ancient_greek": "Ἐγκώμια"
+      },
+      "url_slug": "bacchylides-of-ceos-encoms-brw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/encoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antimachus-of-colophon/myth-ships",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

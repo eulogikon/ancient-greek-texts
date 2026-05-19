@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ftq",
+  "auth_slug": "aeneas-of-stymphalus",
+  "name": {
+    "english": "Aeneas of Stymphalus",
+    "ancient_greek": "Αἰνείας ὁ Στυμφάλιος"
+  },
+  "seo_h1": "Aeneas of Stymphalus on Siege Warfare",
+  "seo": {
+    "browser_title": "Aeneas of Stymphalus on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Aeneas of Stymphalus Ancient Greek Military Works",
+    "meta_description": "Aeneas of Stymphalus, 4th century BCE military writer. His treatise covers tactics and strategy. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aeneas of Stymphalus was a Greek military writer from the city of Stymphalus in Arcadia, active in the mid-4th century BCE. No details of his personal life survive, but his work indicates practical military experience, suggesting he served as a soldier or commander.</p>\n<p class=\"research-text\">His only known work is the Poliorketika, or On the Defence of Fortified Positions, a treatise on siegecraft and military strategy that survives, though possibly incomplete. Aeneas is the earliest Greek military writer whose work survives to any substantial extent.</p>\n<p class=\"research-text\">His treatise provides crucial, practical evidence for 4th-century BCE warfare, fortification, and siege tactics prior to the Hellenistic period. It covers sentry duties, cryptography, signaling, and defense against siege engines, serving as a key primary source for the realities of Greek warfare beyond pitched battle.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ftq-aa",
+      "title": {
+        "english": "On How Those Under Siege Should Resist",
+        "ancient_greek": "Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν"
+      },
+      "url_slug": "aeneas-of-stymphalus-under-siege-resist-ftq-aa",
+      "passages": 236,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeneas-of-stymphalus/under-siege-resist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-stymphalus/under-siege-resist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-stymphalus/under-siege-resist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-stymphalus/under-siege-resist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeneas-of-stymphalus/under-siege-resist.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aeneas-of-stymphalus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-stymphalus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-stymphalus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-stymphalus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeneas-of-stymphalus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mvc",
+  "auth_slug": "aelius-dius-the-historian",
+  "name": {
+    "english": "Aelius Dius the Historian",
+    "ancient_greek": "Αἰλίους Δῖος"
+  },
+  "seo_h1": "Aelius Dius on Alexandria and Alexander's Campaigns",
+  "seo": {
+    "browser_title": "Aelius Dius the Historian on Eulogikon Greek Archive",
+    "meta_title": "Aelius Dius Ancient Greek Historical Works and Fragments",
+    "meta_description": "Aelius Dius, a Hellenistic Greek historian of the 1st century BCE. His surviving historical work is fragmentary. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aelius Dius was a Greek historian believed to have lived during the 1st century BCE. No details about his life, origins, or education have survived.</p>\n<p class=\"research-text\">He is known only as the author of a single work, a History of Alexander, which focused on the campaigns of Alexander the Great. This work is now lost and survives only in a handful of brief fragments. These fragments are preserved almost entirely by the later Roman writer Athenaeus in his work The Learned Banqueters.</p>\n<p class=\"research-text\">According to modern scholars, Athenaeus quotes Aelius Dius not for major political or military events, but for colorful details about banquets, luxurious objects, and unusual customs within Alexander’s court and army. This suggests his history may have emphasized anecdotal and cultural material.</p>\n<p class=\"research-text\">Aelius Dius is considered a very minor source in the vast tradition of histories about Alexander. His primary significance for scholars today is as an example of the many lost works that were used as sources by later compilers. He is occasionally listed in catalogs of fragmentary Greek historians but is not regarded as a crucial authority for understanding Alexander’s reign.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mvc-aa",
+      "title": {
+        "english": "Fragments on Alexandria",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀλεξανδρείας"
+      },
+      "url_slug": "aelius-dius-the-historian-alexandria-mvc-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-dius-the-historian/alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aelius-dius-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dius-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dius-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dius-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aelius-dius-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

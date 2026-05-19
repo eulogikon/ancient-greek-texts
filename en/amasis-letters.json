@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "etw",
+  "auth_slug": "amasis-letters",
+  "name": {
+    "english": "Amasis Letters",
+    "ancient_greek": "Ἀμάσιδος Ἐπιστολαί"
+  },
+  "seo_h1": "Amasis Letters on Fortune and Rule",
+  "seo": {
+    "browser_title": "Amasis Letters Author Works on Eulogikon Greek Archive",
+    "meta_title": "Classical Amasis Letters Ancient Greek Epistolary Works",
+    "meta_description": "Amasis Letters is a classical epistolary work in Koine Greek from the 5th century BCE or later. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Amasis Letters are a pseudepigraphical collection of fictional letters attributed to the Egyptian pharaoh Amasis II, a contemporary of Polycrates of Samos. The work is a product of Greek literary tradition, composed as a rhetorical exercise, though its precise date of compilation remains uncertain.</p>\n<p class=\"research-text\">The sole known work is the fragmentary Amasis Letters, preserved primarily through citations in later authors such as Athenaeus.</p>\n<p class=\"research-text\">This collection is a significant early example of Greek fictional epistolography, part of a broader tradition of pseudonymous letters attributed to figures like Phalaris or Socrates used for rhetorical education. It contributes to the Greek literary portrayal of Amasis as a wise ruler, an image also found in Herodotus, and offers insight into the practice of composing such rhetorical exercises in the Hellenistic period and later.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "etw-aa",
+      "title": {
+        "english": "Amasis on Fortune and Rule",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "amasis-letters-fortune-rule-etw-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/amasis-letters/fortune-rule",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amasis-letters/fortune-rule.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/amasis-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amasis-letters.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amasis-letters.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amasis-letters.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amasis-letters.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

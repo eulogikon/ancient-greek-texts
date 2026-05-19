@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dse",
+  "auth_slug": "diagoras-of-melos",
+  "name": {
+    "english": "Diagoras of Melos",
+    "ancient_greek": "Διαγόρας ὁ Μήλιος"
+  },
+  "seo_h1": "Diagoras of Melos on the Nature of the Gods",
+  "seo": {
+    "browser_title": "Diagoras of Melos on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Diagoras of Melos Ancient Greek Poetry and Works",
+    "meta_description": "Diagoras of Melos was a 5th century BCE poet writing in Doric dialect. Surviving poetic works in verse. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diagoras of Melos was a 5th-century BCE Greek lyric poet from the island of Melos, infamous in antiquity as an atheist. Ancient sources report he was prosecuted for impiety in Athens, likely around 415 BCE, and fled the city to avoid punishment. The charges stemmed from his alleged revelation of the Eleusinian Mysteries and his expressed disbelief in the gods. Later tradition claims his atheism was a reaction to unpunished injustice.</p>\n<p class=\"research-text\">His poetic output is almost entirely lost. He is credited with a work titled Apopyrgizontes Logoi, or &quot;Arguments that Knock Down Fortresses,&quot; a title suggestive of polemical content consistent with his reputation.</p>\n<p class=\"research-text\">Diagoras is a significant figure in intellectual history as one of the earliest and most notorious individuals accused of atheism. His case is crucial for understanding Athenian impiety laws and the limits of religious criticism in Classical Greece. He became an archetypal atheist for later philosophical and religious writers, a reputation preserved for centuries.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dse-aa",
+      "title": {
+        "english": "On the Nature of the Gods",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diagoras-of-melos-nature-gods-dse-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/diagoras-of-melos/nature-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diagoras-of-melos/nature-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diagoras-of-melos/nature-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diagoras-of-melos/nature-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diagoras-of-melos/nature-gods.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diagoras-of-melos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diagoras-of-melos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diagoras-of-melos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diagoras-of-melos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diagoras-of-melos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

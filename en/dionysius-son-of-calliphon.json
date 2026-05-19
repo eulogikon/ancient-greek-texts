@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jkg",
+  "auth_slug": "dionysius-son-of-calliphon",
+  "name": {
+    "english": "Dionysius son of Calliphon",
+    "ancient_greek": "Διονύσιος ὁ τοῦ Καλλίφωντος (γεωγράφος)"
+  },
+  "seo_h1": "Dionysius Son of Calliphon and the Description of Greece",
+  "seo": {
+    "browser_title": "Dionysius Son of Calliphon on Eulogikon Greek Archive",
+    "meta_title": "The Dionysius Son of Calliphon Ancient Greek Works",
+    "meta_description": "Dionysius son of Calliphon, 2nd century BCE geographer. Surviving geographical works in Attic prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius, son of Calliphon, was a Greek geographer of the Hellenistic period. No biographical details about his life are preserved beyond his name and his single known work. His activity is dated to the 2nd century BCE based on internal evidence from his writing.</p>\n<p class=\"research-text\">His only attested work is the Periegesis of the Inhabited World, a didactic poem composed in Homeric hexameters that describes the known world.</p>\n<p class=\"research-text\">Dionysius’s significance rests on his Periegesis, which exemplifies the popularization of geographical knowledge in verse. Written as a versified textbook, it was widely used in Roman and Late Antique education for its accessible format. Its enduring influence is shown by its translation into Latin by Priscian in the 4th century CE, and it remains a key source for understanding the transmission of Greek geographical thought.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jkg-aa",
+      "title": {
+        "english": "Description of Greece by Dionysius Son of Calliphon",
+        "ancient_greek": "Περιγραφὴ τῆς Ἑλλάδος Διονυσίου τοῦ Καλλιφῶντος"
+      },
+      "url_slug": "dionysius-son-of-calliphon-description-greece-jkg-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-son-of-calliphon/description-greece",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-son-of-calliphon/description-greece.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-son-of-calliphon/description-greece.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-son-of-calliphon/description-greece.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-son-of-calliphon/description-greece.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-son-of-calliphon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-son-of-calliphon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-son-of-calliphon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-son-of-calliphon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-son-of-calliphon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

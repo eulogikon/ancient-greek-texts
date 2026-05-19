@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ugy",
+  "auth_slug": "the-naturalist",
+  "name": {
+    "english": "The Naturalist",
+    "ancient_greek": "Ὁ Φυσιολόγος"
+  },
+  "seo_h1": "The Naturalist and the Physiologus",
+  "seo": {
+    "browser_title": "The Naturalist Physiologus on Eulogikon Greek Archive",
+    "meta_title": "Classical Physiologus Ancient Greek Naturalist Treatise",
+    "meta_description": "Physiologus, a late antique author writing in Christian Koine. Treatise on natural science from antiquity. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">No biographical information exists for an author known as The Naturalist in standard classical or late antique references. The proposed dating of the 2nd to 4th centuries CE and the use of Christian Koine Greek suggest a context of early Christian engagement with natural philosophy.</p>\n<p class=\"research-text\">This figure is associated with a single treatise, though its title and contents remain unspecified in the sources.</p>\n<p class=\"research-text\">If genuine, a scientific treatise by The Naturalist would belong to the Late Antique tradition of synthesizing classical natural knowledge with Christian theology, exemplified by works like Basil of Caesarea&#x27;s Hexaemeron. Its specific contribution cannot be assessed without the text.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ugy-aa",
+      "title": {
+        "english": "Physiologus, First Redaction",
+        "ancient_greek": "Φυσιολόγος"
+      },
+      "url_slug": "the-naturalist-physiologus-first-ugy-aa",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/the-naturalist/physiologus-first",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/the-naturalist/physiologus-first.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/the-naturalist/physiologus-first.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/the-naturalist/physiologus-first.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/the-naturalist/physiologus-first.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/the-naturalist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/the-naturalist.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/the-naturalist.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/the-naturalist.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/the-naturalist.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

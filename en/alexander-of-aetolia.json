@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "iuc",
+  "auth_slug": "alexander-of-aetolia",
+  "name": {
+    "english": "Alexander of Aetolia",
+    "ancient_greek": "Ἀλέξανδρος ὁ Αἰτωλός"
+  },
+  "seo_h1": "Alexander of Aetolia on Helios, Heroes, and Epigrams",
+  "seo": {
+    "browser_title": "Alexander of Aetolia Poet on Eulogikon Greek Archive",
+    "meta_title": "Alexander of Aetolia Ancient Greek Poetry Fragments",
+    "meta_description": "Alexander of Aetolia, a Hellenistic poet of the 3rd century BCE. Surviving fragments of his verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alexander of Aetolia was a Hellenistic poet and scholar, a native of Pleuron in Aetolia who flourished around 280 BCE. He was invited to Alexandria by Ptolemy II Philadelphus to work on editing the texts of tragic and satyr plays for the Library, alongside figures like Lycophron. He later spent the remainder of his life at the court of Antigonus II Gonatas in Macedonia.</p>\n<p class=\"research-text\">His work survives only in fragments. The most notable is the Cabeiri, a hexameter poem in at least two books on the Argonauts and the Samothracian mysteries. Another titled work, Apollo, is known only by name. He is also credited with elegiac, iambic, and lyric poems in scant fragments, while attribution of tragedies to him is considered doubtful.</p>\n<p class=\"research-text\">Alexander exemplifies the dual poet-scholar role of the early Hellenistic period. His editorial commission reflects the systematic literary scholarship of Alexandria, and his epic Cabeiri represents the learned, allusive poetry of the age. His career movement between rival courts illustrates the mobility of intellectuals within Hellenistic patronage networks.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "iuc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "alexander-of-aetolia-epigrams-iuc-ab",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "iuc-aa",
+      "title": {
+        "english": "Fragments on Helios and Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων"
+      },
+      "url_slug": "alexander-of-aetolia-helios-heroes-iuc-aa",
+      "passages": 48,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/helios-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/alexander-of-aetolia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aetolia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aetolia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aetolia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aetolia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

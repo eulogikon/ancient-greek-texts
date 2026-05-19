@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lou-ab",
+  "eul_aid": "lou",
+  "author_slug": "aristonous-of-corinth",
+  "work_slug": "hymn-vesta",
+  "url_slug": "aristonous-of-corinth-hymn-vesta-lou-ab",
+  "author": {
+    "english": "Aristonous of Corinth",
+    "ancient_greek": "Ἀριστόνους ὁ Κορίνθιος"
+  },
+  "title": {
+    "english": "Hymn to Vesta",
+    "ancient_greek": "Ὕμνος πρὸς Ἑστίαν"
+  },
+  "seo": {
+    "browser_title": "Hymn to Vesta by Aristonous of Corinth on Eulogikon",
+    "meta_title": "Ancient Hymn to Vesta by Aristonous of Corinth in Greek",
+    "meta_description": "A cult hymn to the hearth goddess by Aristonous of Corinth. This Greek poem praises Vesta. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς λογοτεχνική",
+      "english": "Literary Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Hymn to Vesta by Aristonous of Corinth is a cult hymn preserved on a marble stele discovered at Delphi. This inscription contains the complete poetic text, a dedicatory statement, and, most significantly, the ancient Greek musical notation written above the verses, making it one of the very few surviving examples of notated ancient Greek music. The stele bypasses the medieval manuscript tradition, offering an unaltered text and musical score from antiquity. The inscription indicates it was dedicated to Apollo by Aristonous, likely as a votive offering for performance at the sanctuary, and the artifact is now housed in the Delphi Archaeological Museum.</p>\n<p class=\"research-text\">The hymn is a ritual invocation to Hestia, goddess of the hearth. It opens with praise for the goddess, describing her sacred domain over Olympus and the earth and her presence at Delphi, where she rejoices in the oracular tripods. The text emphasizes her ritual primacy and honors her as the daughter of Cronus and Rhea, the sole attendant of the immortal altars of fire. The poet presents the musical and poetic composition itself as an act of piety, a prayer for the favor that will allow the worshippers to continue dancing around her gleaming altar.</p>\n<p class=\"research-text\">The hymn’s primary importance is musicological. As a complete notated piece, it serves as a crucial primary source for understanding ancient Greek musical scales, rhythm, and the performance practice of cult song, particularly for the singer-lyre player. Its value lies in providing direct evidence for the actual sound of Greek religious music.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ἱερὰν ἱερῶν ἄνασσαν Ἑστίαν ὑμνήσομεν, ἃ καὶ Ὄλυμπον καὶ μυχὸν γαίας μεσόμφαλον ἀεὶ Πυθίαν τε δάφναν κατέχουσα ναὸν ἀν’ ὑψίπυλον Φοίβου χορεύεις τερπομένα τριπόδων θεσπίσμασι, καὶ χρυσέαν φόρμιγγ’ Ἀπόλλων ὁπηνίκ’ ἂν ἑπτάτονον κρέκων μετὰ σοῦ θαλιάζον‐ τας θεοὺς ὕμνοισιν αὔξῃ. Χαῖρε Κρόνου θύγατερ καὶ Ῥέας, μούνα πυρὸς ἀμφιέπουσα βωμοὺς ἀθανάτων ἐριτίμους, Ἑστία, δίδου δ’ ἀμοιβὰς ἐξ ὁσίων πολὺν ἡμᾶς ὄλβον ἔχοντας ἀεὶ λιπαρόθρονον ἀμφὶ σὰν θυμέλαν χορεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lou-aa",
+      "title": {
+        "english": "Paean to Apollo",
+        "ancient_greek": "Παιὰν πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "aristonous-of-corinth-paean-lou-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonous-of-corinth/paean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fle-ac",
+      "title": {
+        "english": "Banquet of Xenocles",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "matron-of-pitane-banquet-of-xenocles-fle-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-of-xenocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-of-xenocles.json"
+      }
+    },
+    {
+      "eul_wid": "hwg-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "posidippus-of-pella-fragments-hwg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-pella/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dsy-aa",
+      "title": {
+        "english": "Fragments of a Luxurious Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνου Τρυφεροῦ"
+      },
+      "url_slug": "philoxenus-of-leucas-luxurious-banquet-dsy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-leucas/luxurious-banquet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.json"
+      }
+    },
+    {
+      "eul_wid": "puk-ab",
+      "title": {
+        "english": "Fragments on Sea and Nile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου"
+      },
+      "url_slug": "song-of-the-sailors-sea-nile-puk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/sea-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.json"
+      }
+    },
+    {
+      "eul_wid": "bfy-aa",
+      "title": {
+        "english": "Fragments on Wine and Love",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἴνου καὶ Ἔρωτος"
+      },
+      "url_slug": "anacreon-of-teos-wine-love-bfy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/wine-love",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ba",
+      "title": {
+        "english": "Hymn 30 To Earth",
+        "ancient_greek": "Ὕμνος εἰς Γῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-earth-upu-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/earth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.json"
+      }
+    },
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.json"
+      }
+    },
+    {
+      "eul_wid": "ahi-aa",
+      "title": {
+        "english": "Spartan Constitution (Papyrus Fragments)",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας"
+      },
+      "url_slug": "tyrtaeus-of-sparta-constitution-aa-ahi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrtaeus-of-sparta/constitution-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-aa.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristonous-of-corinth/hymn-vesta",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

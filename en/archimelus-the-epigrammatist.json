@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "knm",
+  "auth_slug": "archimelus-the-epigrammatist",
+  "name": {
+    "english": "Archimelus the Epigrammatist",
+    "ancient_greek": "Ἀρχίμηλος ὁ ἐπιγραμματοποιός"
+  },
+  "seo_h1": "Archimelus the Epigrammatist and the Ship of Hiero II",
+  "seo": {
+    "browser_title": "Archimelus the Epigrammatist on Eulogikon Greek Archive",
+    "meta_title": "Classical Archimelus Ancient Greek Epigrams and Verse Works",
+    "meta_description": "Archimelus, Hellenistic epigrammatist of the 3rd century BCE. Two surviving epigrams in Koine Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Archimelus the Epigrammatist was a Greek poet of the Hellenistic period, generally placed in the 3rd century BCE based on stylistic evidence. No biographical details are recorded; his existence is known solely from his inclusion in the Greek Anthology.</p>\n<p class=\"research-text\">His two surviving works are dedicatory epigrams preserved in that collection. One is a two-line verse dedicating a bow to Apollo, and the other is a four-line epigram offering a fishing net to Poseidon.</p>\n<p class=\"research-text\">Archimelus exemplifies the tradition of minor Hellenistic epigrammatists. His brief, elegant poems are typical of the genre and contribute to understanding the period&#x27;s cultural and religious practices. His preservation within the Greek Anthology constitutes his primary historical significance.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "knm-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archimelus-the-epigrammatist-epigram-knm-ab",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "knm-aa",
+      "title": {
+        "english": "Fragment-the Ship of Hiero II",
+        "ancient_greek": "Ἀπόσπασμα περὶ τοῦ πλοίου Ἱέρωνος Β'"
+      },
+      "url_slug": "archimelus-the-epigrammatist-ship-hiero-ii-knm-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/ship-hiero-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/archimelus-the-epigrammatist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archimelus-the-epigrammatist.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archimelus-the-epigrammatist.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archimelus-the-epigrammatist.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archimelus-the-epigrammatist.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "emo-ai",
+  "eul_aid": "emo",
+  "author_slug": "aeschylus",
+  "work_slug": "epigrams",
+  "url_slug": "aeschylus-epigrams-emo-ai",
+  "author": {
+    "english": "Aeschylus the Tragedian",
+    "ancient_greek": "Αἰσχύλος ὁ τραγικός"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Aeschylus the Tragedian on Eulogikon Archive",
+    "meta_title": "Epigrams by Aeschylus the Tragedian in Ancient Greek",
+    "meta_description": "Greek poems by tragedian Aeschylus, written in elegiac meter. Poetic fragments from Athens. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams are a collection of seven short Greek poems traditionally ascribed to the Athenian tragedian Aeschylus. Composed in the elegiac meter characteristic of the genre, they function primarily as funerary epitaphs and dedicatory inscriptions. One commemorates the Athenian dead at the Battle of Marathon, and another serves as a dedication for a statue of Eros. These verses do not survive on physical monuments but are transmitted through later literary anthologies, most notably the Greek Anthology. Their authenticity has been contested since antiquity. While a tenth-century Byzantine source records that Aeschylus began his literary career by writing elegies and epigrams, modern scholarship generally considers these specific poems to be later compositions, likely from the Hellenistic period, attributed to the famous playwright to lend them greater authority.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 255.1.1",
+      "text": "Κυανέη καὶ τούσδε μενεγχέας ὤλεσεν ἄνδρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 255.1.2",
+      "text": "Μοῖρα πολύρρηνον πατρίδα ῥυομένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 255.1.3",
+      "text": "ζωὸν δὲ φθιμένων πέλεται κλέος, οἵ ποτε γυίοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 255.1.4",
+      "text": "τλήμονες Ὀσσαίαν ἀμφιέσαντο κόνιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110.1.1",
+      "text": "Οὐ χρὴ λέοντος σκύμνον ἐν πόλει τρέφειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110.1.2",
+      "text": "μάλιστα μὲν λέοντα μὴ πόλει τρέφειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 110",
+      "text": "ἢν δ’ ἐκτραφῇ τις, τοῖς τρόποις ὑπηρετεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "emo-ae",
+      "title": {
+        "english": "Agamemnon",
+        "ancient_greek": "Ἀγαμέμνων"
+      },
+      "url_slug": "aeschylus-agamemnon-emo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/agamemnon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/agamemnon.json"
+      }
+    },
+    {
+      "eul_wid": "emo-af",
+      "title": {
+        "english": "Eumenides",
+        "ancient_greek": "Εὐμενίδες"
+      },
+      "url_slug": "aeschylus-eumenides-emo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/eumenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/eumenides.json"
+      }
+    },
+    {
+      "eul_wid": "emo-ag",
+      "title": {
+        "english": "Fragments of the Oresteia",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ὀρεστείας"
+      },
+      "url_slug": "aeschylus-oresteia-fragments-emo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/oresteia-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/oresteia-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/oresteia-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/oresteia-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/oresteia-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "emo-ah",
+      "title": {
+        "english": "Fragments on the Palici and Thebes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παλικῶν καὶ Θηβῶν"
+      },
+      "url_slug": "aeschylus-palici-thebes-emo-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/palici-thebes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/palici-thebes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/palici-thebes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/palici-thebes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/palici-thebes.json"
+      }
+    },
+    {
+      "eul_wid": "emo-ab",
+      "title": {
+        "english": "Libation Bearers",
+        "ancient_greek": "Χοηφόροι"
+      },
+      "url_slug": "aeschylus-libation-bearers-emo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/libation-bearers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/libation-bearers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/libation-bearers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/libation-bearers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/libation-bearers.json"
+      }
+    },
+    {
+      "eul_wid": "emo-aj",
+      "title": {
+        "english": "Persians",
+        "ancient_greek": "Πέρσαι"
+      },
+      "url_slug": "aeschylus-persians-emo-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/persians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/persians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/persians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/persians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/persians.json"
+      }
+    },
+    {
+      "eul_wid": "emo-ac",
+      "title": {
+        "english": "Prometheus Bound",
+        "ancient_greek": "Προμηθεὺς Δεσμώτης"
+      },
+      "url_slug": "aeschylus-prometheus-bound-emo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/prometheus-bound",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/prometheus-bound.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/prometheus-bound.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/prometheus-bound.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/prometheus-bound.json"
+      }
+    },
+    {
+      "eul_wid": "emo-aa",
+      "title": {
+        "english": "Seven-Thebes",
+        "ancient_greek": "Ἑπτὰ ἐπὶ Θήβας"
+      },
+      "url_slug": "aeschylus-seven-thebes-emo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/seven-thebes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/seven-thebes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/seven-thebes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/seven-thebes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/seven-thebes.json"
+      }
+    },
+    {
+      "eul_wid": "emo-ad",
+      "title": {
+        "english": "Supplicants",
+        "ancient_greek": "Ἱκέτιδες"
+      },
+      "url_slug": "aeschylus-supplicants-emo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus/supplicants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/supplicants.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/supplicants.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/supplicants.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/supplicants.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "buy-aa",
+      "title": {
+        "english": "Fragments of Antaeus",
+        "ancient_greek": "Ἀποσπάσματα Ἀνταίου"
+      },
+      "url_slug": "aristias-of-phlius-fragments-antaeus-buy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristias-of-phlius/fragments-antaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristias-of-phlius/fragments-antaeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristias-of-phlius/fragments-antaeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristias-of-phlius/fragments-antaeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristias-of-phlius/fragments-antaeus.json"
+      }
+    },
+    {
+      "eul_wid": "bjk-aa",
+      "title": {
+        "english": "Fragments on Heracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+      },
+      "url_slug": "phrynichus-the-tragic-poet-heracles-fragments-bjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dbg-aa",
+      "title": {
+        "english": "Fragments on Meleager and the Hunt",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μελεάγρου καὶ τῆς Κυνηγίας"
+      },
+      "url_slug": "antiphon-of-rhamnus-meleager-hunt-dbg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-rhamnus/meleager-hunt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus/meleager-hunt.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus/meleager-hunt.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus/meleager-hunt.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-rhamnus/meleager-hunt.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ad",
+      "title": {
+        "english": "Iphigenia at Aulis",
+        "ancient_greek": "Ἰφιγένεια ἐν Αὐλίδι"
+      },
+      "url_slug": "euripides-iphigenia-aulis-cbm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/iphigenia-aulis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-aulis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-aulis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-aulis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/iphigenia-aulis.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ac",
+      "title": {
+        "english": "Oedipus at Colonus",
+        "ancient_greek": "Οἰδίπους ἐπὶ Κολωνῷ"
+      },
+      "url_slug": "sophocles-oedipus-colonus-buo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/oedipus-colonus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/oedipus-colonus.json"
+      }
+    },
+    {
+      "eul_wid": "mjo-aa",
+      "title": {
+        "english": "On the Nature of Evil",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "isidorus-the-tragedian-nature-of-evil-mjo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isidorus-the-tragedian/nature-of-evil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.json"
+      }
+    },
+    {
+      "eul_wid": "gmc-aa",
+      "title": {
+        "english": "On the Vicissitudes of Fate",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "patrocles-of-thurii-vicissitudes-fate-gmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/patrocles-of-thurii/vicissitudes-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii/vicissitudes-fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii/vicissitudes-fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii/vicissitudes-fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/patrocles-of-thurii/vicissitudes-fate.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ai",
+      "title": {
+        "english": "Trackers",
+        "ancient_greek": "Ἰχνευταί"
+      },
+      "url_slug": "sophocles-ichneutae-buo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/ichneutae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeschylus/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/epigrams.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/epigrams.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/epigrams.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus/epigrams.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

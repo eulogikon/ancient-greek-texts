@@ -1,0 +1,1192 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pfk",
+  "auth_slug": "lucian-of-samosata",
+  "name": {
+    "english": "Lucian of Samosata",
+    "ancient_greek": "Λουκιανὸς ὁ Σαμοσατεύς"
+  },
+  "seo_h1": "Lucian of Samosata on Gods, Sophists, and Shams",
+  "seo": {
+    "browser_title": "Lucian of Samosata on Eulogikon Greek Archive and Library",
+    "meta_title": "Lucian of Samosata Ancient Greek Orations and Dialogues",
+    "meta_description": "Lucian of Samosata, 2nd century CE Roman era satirist. Surviving works include numerous orations. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lucian was born in Samosata, the capital of the Roman province of Commagene in northern Syria. A native Syriac speaker who mastered Attic Greek, he abandoned an early apprenticeship in sculpting to become a traveling lecturer and professional rhetorician throughout the Roman Empire. His career peaked during the Second Sophistic, a second-century CE revival of classical Greek culture. Late in life he held an administrative post in Roman Egypt.</p>\n<p class=\"research-text\">His approximately 80 surviving prose works blend satire, dialogue, and parody. Major titles include the parody of travel tales <strong>True History</strong>; the satirical <strong>Dialogues of the Dead</strong> and <strong>Dialogues of the Gods</strong>; <strong>The Sale of Lives</strong>, which auctions off philosophical schools; and polemical exposes like <strong>Alexander the False Prophet</strong>.</p>\n<p class=\"research-text\">Lucian is a central figure of the Second Sophistic, renowned for his Attic style and satirical critique of contemporary intellectual, religious, and social conventions. His inventive dialogues profoundly influenced later European literature, from Erasmus and Shakespeare to the development of satirical and science-fiction narratives.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 71,
+  "works": [
+    {
+      "eul_wid": "pfk-ag",
+      "title": {
+        "english": "Alexander Or The False Prophet",
+        "ancient_greek": "Ἀλέξανδρος ἢ Ψευδόμαντις"
+      },
+      "url_slug": "lucian-of-samosata-false-prophet-pfk-ag",
+      "passages": 57,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/false-prophet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-am",
+      "title": {
+        "english": "Anacharsis Or-Gymnasia",
+        "ancient_greek": "Ἀνάχαρσις ἢ Περὶ Γυμνασίων"
+      },
+      "url_slug": "lucian-of-samosata-anacharsis-gymnasia-pfk-am",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/anacharsis-gymnasia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cm",
+      "title": {
+        "english": "Apology",
+        "ancient_greek": "Ἀπολογία"
+      },
+      "url_slug": "lucian-of-samosata-apology-pfk-cm",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-az",
+      "title": {
+        "english": "Assembly of the Gods",
+        "ancient_greek": "Θεῶν Ἐκκλησία"
+      },
+      "url_slug": "lucian-of-samosata-assembly-gods-pfk-az",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/assembly-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ba",
+      "title": {
+        "english": "Charon or Inspectors",
+        "ancient_greek": "Χάρων ἢ Ἐπισκοποῦντες"
+      },
+      "url_slug": "lucian-of-samosata-charon-inspectors-pfk-ba",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/charon-inspectors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bd",
+      "title": {
+        "english": "Companion Dialogues",
+        "ancient_greek": "Ἑταιρικοὶ Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-companion-dialogues-pfk-bd",
+      "passages": 60,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/companion-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cn",
+      "title": {
+        "english": "Demonax",
+        "ancient_greek": "Δημώναξ"
+      },
+      "url_slug": "lucian-of-samosata-demonax-pfk-cn",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/demonax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-an",
+      "title": {
+        "english": "Descent to the Underworld",
+        "ancient_greek": "Κατάπλους"
+      },
+      "url_slug": "lucian-of-samosata-descent-underworld-pfk-an",
+      "passages": 30,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/descent-underworld",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bj",
+      "title": {
+        "english": "Dialogue to Hesiod",
+        "ancient_greek": "Διάλογος πρὸς Ἡσίοδον"
+      },
+      "url_slug": "lucian-of-samosata-hesiod-pfk-bj",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/hesiod",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-at",
+      "title": {
+        "english": "Dialogues of the Dead",
+        "ancient_greek": "Νεκρικοὶ Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-dialogues-dead-pfk-at",
+      "passages": 113,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dialogues-dead",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-au",
+      "title": {
+        "english": "Dialogues of the Gods",
+        "ancient_greek": "Θεῶν Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-dialogues-gods-pfk-au",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dialogues-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ao",
+      "title": {
+        "english": "Dispute of the Consonants",
+        "ancient_greek": "Κατάπλους ἢ Τύραννος"
+      },
+      "url_slug": "lucian-of-samosata-dispute-consonants-pfk-ao",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dispute-consonants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ch",
+      "title": {
+        "english": "Electrum",
+        "ancient_greek": "Ἠλέκτρον"
+      },
+      "url_slug": "lucian-of-samosata-electrum-pfk-ch",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/electrum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/electrum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/electrum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/electrum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/electrum.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ai",
+      "title": {
+        "english": "encom of the Fatherland",
+        "ancient_greek": "Ἐγκώμιον Πατρίδος"
+      },
+      "url_slug": "lucian-of-samosata-encom-fatherland-pfk-ai",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/encom-fatherland",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encom-fatherland.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encom-fatherland.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encom-fatherland.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encom-fatherland.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-be",
+      "title": {
+        "english": "encom of the Fly",
+        "ancient_greek": "Ἐγκώμιον Μύσκης"
+      },
+      "url_slug": "lucian-of-samosata-encomium-fly-pfk-be",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/encomium-fly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encomium-fly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encomium-fly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encomium-fly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/encomium-fly.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-co",
+      "title": {
+        "english": "Eunuch",
+        "ancient_greek": "Εὐνοῦχος"
+      },
+      "url_slug": "lucian-of-samosata-eunuch-pfk-co",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/eunuch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/eunuch.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/eunuch.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/eunuch.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/eunuch.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bn",
+      "title": {
+        "english": "For the Images",
+        "ancient_greek": "Ὑπὲρ τῶν Εἰκόνων"
+      },
+      "url_slug": "lucian-of-samosata-images-bn-pfk-bn",
+      "passages": 30,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/images-bn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cp",
+      "title": {
+        "english": "Gallus",
+        "ancient_greek": "Ὄνειρος ἢ Ἀλεκτρυών"
+      },
+      "url_slug": "lucian-of-samosata-gallus-pfk-cp",
+      "passages": 34,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/gallus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cs",
+      "title": {
+        "english": "Gout",
+        "ancient_greek": "Ποδάγρα"
+      },
+      "url_slug": "lucian-of-samosata-gout-pfk-cs",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/gout",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gout.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gout.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gout.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gout.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cb",
+      "title": {
+        "english": "Harmonides",
+        "ancient_greek": "Ἁρμονίδης"
+      },
+      "url_slug": "lucian-of-samosata-harmonides-pfk-cb",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/harmonides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ci",
+      "title": {
+        "english": "Hercules",
+        "ancient_greek": "Ἡρακλῆς"
+      },
+      "url_slug": "lucian-of-samosata-hercules-pfk-ci",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/hercules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hercules.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hercules.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hercules.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hercules.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-as",
+      "title": {
+        "english": "Hermotimus or-Sects",
+        "ancient_greek": "Ἑρμότιμος ἢ Περὶ Αἱρέσεων"
+      },
+      "url_slug": "lucian-of-samosata-hermotimus-pfk-as",
+      "passages": 85,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/hermotimus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hermotimus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hermotimus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hermotimus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hermotimus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bf",
+      "title": {
+        "english": "Herodotus or Aetion",
+        "ancient_greek": "Ἡρόδοτος ἢ Ἀετίων"
+      },
+      "url_slug": "lucian-of-samosata-aetion-pfk-bf",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/aetion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bg",
+      "title": {
+        "english": "Hippias or The Bath",
+        "ancient_greek": "Ἱππίας ἢ Βαλανεῖον"
+      },
+      "url_slug": "lucian-of-samosata-hippias-bath-pfk-bg",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/hippias-bath",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hippias-bath.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hippias-bath.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hippias-bath.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hippias-bath.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bb",
+      "title": {
+        "english": "How to Write History",
+        "ancient_greek": "Πῶς δεῖ Ἱστορίαν συγγράφειν"
+      },
+      "url_slug": "lucian-of-samosata-how-to-write-history-pfk-bb",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/how-to-write-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/how-to-write-history.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bq",
+      "title": {
+        "english": "Icaromenippus",
+        "ancient_greek": "Ἰκαρομένιππος ἢ Ὑπερνέφελος"
+      },
+      "url_slug": "lucian-of-samosata-icarus-mennipus-pfk-bq",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/icarus-mennipus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/icarus-mennipus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/icarus-mennipus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/icarus-mennipus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/icarus-mennipus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cq",
+      "title": {
+        "english": "Images",
+        "ancient_greek": "Εἰκόνες"
+      },
+      "url_slug": "lucian-of-samosata-images-cq-pfk-cq",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/images-cq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-cq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-cq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-cq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-cq.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ad",
+      "title": {
+        "english": "In Defense of the Addressed Fault",
+        "ancient_greek": "Ὑπὲρ τοῦ ἐν τῇ Προσαγορεύσει Πταίσματος"
+      },
+      "url_slug": "lucian-of-samosata-defense-fault-pfk-ad",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/defense-fault",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/defense-fault.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/defense-fault.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/defense-fault.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/defense-fault.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bc",
+      "title": {
+        "english": "Judgment of the Gods",
+        "ancient_greek": "Θεῶν Κρίσις"
+      },
+      "url_slug": "lucian-of-samosata-judgment-gods-pfk-bc",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/judgment-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/judgment-gods.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cc",
+      "title": {
+        "english": "Lexiphanes",
+        "ancient_greek": "Λεξιφάνης"
+      },
+      "url_slug": "lucian-of-samosata-lexiphanes-pfk-cc",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/lexiphanes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cj",
+      "title": {
+        "english": "Macrobii",
+        "ancient_greek": "Μακρόβιοι"
+      },
+      "url_slug": "lucian-of-samosata-macrobii-pfk-cj",
+      "passages": 27,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/macrobii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bm",
+      "title": {
+        "english": "Marine Dialogues",
+        "ancient_greek": "Ἐνάλιοι Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-marine-dialogues-pfk-bm",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/marine-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/marine-dialogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/marine-dialogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/marine-dialogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/marine-dialogues.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-aj",
+      "title": {
+        "english": "Menippus or the Necromancy",
+        "ancient_greek": "Μένιππος ἢ Νεκυομαντεία"
+      },
+      "url_slug": "lucian-of-samosata-menippus-necromancy-pfk-aj",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/menippus-necromancy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/menippus-necromancy.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bv",
+      "title": {
+        "english": "On Astrology",
+        "ancient_greek": "Περὶ τῆς Ἀστρολογίας"
+      },
+      "url_slug": "lucian-of-samosata-astrology-pfk-bv",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/astrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cd",
+      "title": {
+        "english": "On Dancing",
+        "ancient_greek": "Περὶ Ὀρχήσεως"
+      },
+      "url_slug": "lucian-of-samosata-dancing-pfk-cd",
+      "passages": 66,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dancing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dancing.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dancing.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dancing.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dancing.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bz",
+      "title": {
+        "english": "On Mourning",
+        "ancient_greek": "Περὶ πένθους"
+      },
+      "url_slug": "lucian-of-samosata-mourning-pfk-bz",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/mourning",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/mourning.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/mourning.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/mourning.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/mourning.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ae",
+      "title": {
+        "english": "On Not Easily Believing Slander",
+        "ancient_greek": "Περὶ τοῦ μὴ ῥᾳδίως πιστεύειν Διαβολῇ"
+      },
+      "url_slug": "lucian-of-samosata-slander-pfk-ae",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/slander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/slander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/slander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/slander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/slander.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-br",
+      "title": {
+        "english": "On Sacrifices",
+        "ancient_greek": "Περὶ Θυσιῶν"
+      },
+      "url_slug": "lucian-of-samosata-sacrifices-pfk-br",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/sacrifices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sacrifices.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sacrifices.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sacrifices.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sacrifices.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ak",
+      "title": {
+        "english": "On the Death of Peregrinus",
+        "ancient_greek": "Περὶ τῆς Περεγρίνου Τελευτῆς"
+      },
+      "url_slug": "lucian-of-samosata-death-peregrinus-pfk-ak",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/death-peregrinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/death-peregrinus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/death-peregrinus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/death-peregrinus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/death-peregrinus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ah",
+      "title": {
+        "english": "On the Dream or Life of Lucian",
+        "ancient_greek": "Περὶ τοῦ Ἐνυπνίου ἤτοι Βίος Λουκιανοῦ"
+      },
+      "url_slug": "lucian-of-samosata-dream-life-pfk-ah",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dream-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dream-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dream-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dream-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dream-life.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bw",
+      "title": {
+        "english": "On the House",
+        "ancient_greek": "Περὶ Οἴκου"
+      },
+      "url_slug": "lucian-of-samosata-house-pfk-bw",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/house",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/house.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/house.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/house.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/house.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ab",
+      "title": {
+        "english": "On the Parasite, that Parasite is an Art",
+        "ancient_greek": "Περὶ τοῦ Παρασίτου ὅτι Τέχνη ἡ Παρασιτική"
+      },
+      "url_slug": "lucian-of-samosata-parasite-art-pfk-ab",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/parasite-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/parasite-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/parasite-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/parasite-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/parasite-art.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-av",
+      "title": {
+        "english": "On the Syrian Goddess",
+        "ancient_greek": "Περὶ τῆς Συρίης Θεοῦ"
+      },
+      "url_slug": "lucian-of-samosata-syrian-goddess-pfk-av",
+      "passages": 56,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/syrian-goddess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/syrian-goddess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/syrian-goddess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/syrian-goddess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/syrian-goddess.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bo",
+      "title": {
+        "english": "On the Thirsty",
+        "ancient_greek": "Περὶ τῶν Διψάδων"
+      },
+      "url_slug": "lucian-of-samosata-thirsty-pfk-bo",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/thirsty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/thirsty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/thirsty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/thirsty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/thirsty.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-al",
+      "title": {
+        "english": "On Those Living in Misthos",
+        "ancient_greek": "Περὶ τῶν ἐν Μισθῷ συνόντων"
+      },
+      "url_slug": "lucian-of-samosata-living-misthos-pfk-al",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/living-misthos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/living-misthos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/living-misthos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/living-misthos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/living-misthos.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ck",
+      "title": {
+        "english": "Phalaris",
+        "ancient_greek": "Φάλαρις"
+      },
+      "url_slug": "lucian-of-samosata-phalaris-pfk-ck",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/phalaris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-af",
+      "title": {
+        "english": "Philopseudes or The Incredulous",
+        "ancient_greek": "Φιλοψευδὴς ἢ Ἀπιστῶν"
+      },
+      "url_slug": "lucian-of-samosata-philopseudes-pfk-af",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/philopseudes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/philopseudes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/philopseudes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/philopseudes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/philopseudes.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-aq",
+      "title": {
+        "english": "Philosophy of Nigrianus",
+        "ancient_greek": "Νιγρίνου Φιλοσοφία"
+      },
+      "url_slug": "lucian-of-samosata-nigrianus-philosophy-pfk-aq",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/nigrianus-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/nigrianus-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/nigrianus-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/nigrianus-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/nigrianus-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bk",
+      "title": {
+        "english": "Prologue, Dionysus",
+        "ancient_greek": "Προλαλιά. Διόνυσος"
+      },
+      "url_slug": "lucian-of-samosata-dionysus-pfk-bk",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ce",
+      "title": {
+        "english": "Prometheus",
+        "ancient_greek": "Προμηθεύς"
+      },
+      "url_slug": "lucian-of-samosata-prometheus-pfk-ce",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/prometheus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bx",
+      "title": {
+        "english": "Pseudologist",
+        "ancient_greek": "Ψευδολογιστής"
+      },
+      "url_slug": "lucian-of-samosata-pseudologist-pfk-bx",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/pseudologist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudologist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudologist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudologist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudologist.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ap",
+      "title": {
+        "english": "Pseudosophist or Solecist",
+        "ancient_greek": "Ψευδοσοφιστής ἢ Σολοικιστής"
+      },
+      "url_slug": "lucian-of-samosata-pseudosophist-pfk-ap",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/pseudosophist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudosophist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudosophist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudosophist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/pseudosophist.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bt",
+      "title": {
+        "english": "Renounced",
+        "ancient_greek": "Ἀποκηρυττόμενος"
+      },
+      "url_slug": "lucian-of-samosata-renounced-pfk-bt",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/renounced",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/renounced.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-aw",
+      "title": {
+        "english": "Reviving or Fisherman",
+        "ancient_greek": "Ἀναβιοῦντες ἢ Ἁλιεύς"
+      },
+      "url_slug": "lucian-of-samosata-reviving-fisherman-pfk-aw",
+      "passages": 52,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/reviving-fisherman",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/reviving-fisherman.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cl",
+      "title": {
+        "english": "Runaways",
+        "ancient_greek": "Δραπέται"
+      },
+      "url_slug": "lucian-of-samosata-runaways-pfk-cl",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/runaways",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/runaways.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/runaways.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/runaways.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/runaways.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bs",
+      "title": {
+        "english": "Sale of Lives",
+        "ancient_greek": "Βίων Πρᾶσις"
+      },
+      "url_slug": "lucian-of-samosata-sale-of-lives-pfk-bs",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/sale-of-lives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sale-of-lives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sale-of-lives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sale-of-lives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/sale-of-lives.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ax",
+      "title": {
+        "english": "Scythian or the Envoy",
+        "ancient_greek": "Σκύθης ἢ Πρόξενος"
+      },
+      "url_slug": "lucian-of-samosata-scythian-envoy-pfk-ax",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/scythian-envoy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/scythian-envoy.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bh",
+      "title": {
+        "english": "Ship or Prayers",
+        "ancient_greek": "Πλοῖον ἢ Εὐχαί"
+      },
+      "url_slug": "lucian-of-samosata-ship-or-prayers-pfk-bh",
+      "passages": 46,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/ship-or-prayers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/ship-or-prayers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/ship-or-prayers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/ship-or-prayers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/ship-or-prayers.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cf",
+      "title": {
+        "english": "Symposium",
+        "ancient_greek": "Συμπόσιον ἢ Λαπίθαι"
+      },
+      "url_slug": "lucian-of-samosata-symposium-pfk-cf",
+      "passages": 46,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/symposium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/symposium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/symposium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/symposium.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ar",
+      "title": {
+        "english": "Teacher of Rhetoricians",
+        "ancient_greek": "Ῥητόρων Διδάσκαλος"
+      },
+      "url_slug": "lucian-of-samosata-rhetoricians-pfk-ar",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/rhetoricians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cr",
+      "title": {
+        "english": "Timon",
+        "ancient_greek": "Τίμων"
+      },
+      "url_slug": "lucian-of-samosata-timon-pfk-cr",
+      "passages": 57,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/timon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/timon.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cg",
+      "title": {
+        "english": "To Cronus",
+        "ancient_greek": "Τὰ πρὸς Κρόνον"
+      },
+      "url_slug": "lucian-of-samosata-to-cronus-pfk-cg",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/to-cronus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/to-cronus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/to-cronus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/to-cronus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/to-cronus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-aa",
+      "title": {
+        "english": "To the One Who Said, Prometheus If You Are in Words",
+        "ancient_greek": "Πρὸς τὸν εἰπόντα Προμηθεὺς εἶ ἐν λόγοις"
+      },
+      "url_slug": "lucian-of-samosata-prometheus-words-pfk-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/prometheus-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/prometheus-words.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ac",
+      "title": {
+        "english": "To the Uneducated Man Buying Many Books",
+        "ancient_greek": "Πρὸς τὸν ἀπαίδευτον καὶ πολλὰ βιβλία ὠνούμενον"
+      },
+      "url_slug": "lucian-of-samosata-uneducated-man-books-pfk-ac",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/uneducated-man-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ay",
+      "title": {
+        "english": "Toxaris or Friendship",
+        "ancient_greek": "Τόξαρις ἢ Φιλία"
+      },
+      "url_slug": "lucian-of-samosata-toxaris-friendship-pfk-ay",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/toxaris-friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bp",
+      "title": {
+        "english": "True Histories",
+        "ancient_greek": "Ἀληθεῖς Ἱστορίαι"
+      },
+      "url_slug": "lucian-of-samosata-true-histories-pfk-bp",
+      "passages": 89,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/true-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bu",
+      "title": {
+        "english": "Twice Accused",
+        "ancient_greek": "Δὶς κατηγορούμενος"
+      },
+      "url_slug": "lucian-of-samosata-twice-accused-pfk-bu",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/twice-accused",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/twice-accused.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/twice-accused.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/twice-accused.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/twice-accused.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ca",
+      "title": {
+        "english": "Tyrannicide",
+        "ancient_greek": "Τυραννοκτόνος"
+      },
+      "url_slug": "lucian-of-samosata-tyrannicide-pfk-ca",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/tyrannicide",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-by",
+      "title": {
+        "english": "Zeus Refuted",
+        "ancient_greek": "Ζεὺς ἐλεγχόμενος"
+      },
+      "url_slug": "lucian-of-samosata-zeus-refuted-pfk-by",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/zeus-refuted",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-refuted.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-refuted.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-refuted.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-refuted.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bl",
+      "title": {
+        "english": "Zeus the Tragedian",
+        "ancient_greek": "Ζεὺς Τραγῳδός"
+      },
+      "url_slug": "lucian-of-samosata-zeus-tragedian-pfk-bl",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/zeus-tragedian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-tragedian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-tragedian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-tragedian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeus-tragedian.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bi",
+      "title": {
+        "english": "Zeuxis or Antiochus",
+        "ancient_greek": "Ζεύξις ἢ Ἀντίοχος"
+      },
+      "url_slug": "lucian-of-samosata-zeuxis-antiochus-pfk-bi",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/zeuxis-antiochus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeuxis-antiochus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeuxis-antiochus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeuxis-antiochus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/zeuxis-antiochus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lucian-of-samosata",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lucian-of-samosata.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lucian-of-samosata.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lucian-of-samosata.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lucian-of-samosata.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

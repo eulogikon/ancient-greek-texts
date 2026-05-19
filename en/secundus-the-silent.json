@@ -1,0 +1,245 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pzk",
+  "auth_slug": "secundus-the-silent",
+  "name": {
+    "english": "Secundus the Silent",
+    "ancient_greek": "Σεκούνδος ὁ Σιωπηλός"
+  },
+  "seo_h1": "Silence and the Cynic Life of Secundus",
+  "seo": {
+    "browser_title": "Secundus the Silent on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Secundus the Silent Ancient Greek Works and Texts",
+    "meta_description": "Secundus the Silent was a Cynic philosopher of the 2nd century CE. Two surviving works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Secundus the Silent was a Cynic philosopher who lived in the 2nd century CE during the reign of the Roman emperor Hadrian. He is famous for taking a lifelong vow of silence. According to the legend of his life, this vow resulted from a tragic personal test. After disguising himself to proposition his own mother, and her agreeing, he revealed his identity. This caused her such shame that she took her own life. In remorse, Secundus resolved never to speak again.</p>\n<p class=\"research-text\">His reputation for silence eventually led Emperor Hadrian to summon him. The emperor, unable to make Secundus speak even under threat of death, instead engaged him through written questions. This encounter produced the work for which Secundus is known, <strong>Secundus the Silent Philosopher</strong>. The text combines the story of his life with twenty short, aphoristic answers to Hadrian’s philosophical questions on topics like the universe, God, and death. According to modern scholars, the legend presents Secundus as a model of Cynic integrity, demonstrating steadfastness and moral courage through silence in the face of power.</p>\n<p class=\"research-text\">A second work, a Greek translation of the fables of Phaedrus, is sometimes attributed to him, but this attribution is generally considered spurious by academics. Secundus’s primary text became a popular ethical work in antiquity and was translated into several languages, including Syriac, Armenian, and Arabic. Its wide dissemination into the Middle Ages highlights the enduring appeal of the silent sage as a figure of popular philosophy.</p>\n</div>",
+  "affiliation_label": "Cynic",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "pzk-aa",
+      "title": {
+        "english": "Life of Secundus",
+        "ancient_greek": "Βίος Σεκούνδου"
+      },
+      "url_slug": "secundus-the-silent-life-pzk-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.json"
+      }
+    },
+    {
+      "eul_wid": "pzk-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "secundus-the-silent-sentences-pzk-ab",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "frs",
+      "name": {
+        "english": "Antisthenes of Athens I",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.json"
+      }
+    },
+    {
+      "eul_aid": "dhu",
+      "name": {
+        "english": "Antisthenes of Athens II",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.json"
+      }
+    },
+    {
+      "eul_aid": "hks",
+      "name": {
+        "english": "Bion of Borysthenes",
+        "ancient_greek": "Βίων ὁ Βορυσθενίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/bion-of-borysthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.json"
+      }
+    },
+    {
+      "eul_aid": "gwc",
+      "name": {
+        "english": "Crates of Thebes I",
+        "ancient_greek": "Κράτης ὁ Θηβαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/crates-of-thebes-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.json"
+      }
+    },
+    {
+      "eul_aid": "ogu",
+      "name": {
+        "english": "Demonax of Cyprus",
+        "ancient_greek": "Δημώναξ ὁ Κύπριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/demonax-of-cyprus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.json"
+      }
+    },
+    {
+      "eul_aid": "fak",
+      "name": {
+        "english": "Diogenes of Sinope",
+        "ancient_greek": "Διογένης ὁ Σινωπεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-sinope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.json"
+      }
+    },
+    {
+      "eul_aid": "ejm",
+      "name": {
+        "english": "Diotogenes the Philosopher",
+        "ancient_greek": "Διοτογένης ὁ φιλόσοφος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diotogenes-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "fpu",
+      "name": {
+        "english": "Monimus of Syracuse",
+        "ancient_greek": "Μόνιμος ὁ Συρακόσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/monimus-of-syracuse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.json"
+      }
+    },
+    {
+      "eul_aid": "pak",
+      "name": {
+        "english": "Oenomaus of Gadara",
+        "ancient_greek": "Οἰνόμαος ὁ Γαδαρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/oenomaus-of-gadara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.json"
+      }
+    },
+    {
+      "eul_aid": "kkk",
+      "name": {
+        "english": "Teles of Megara",
+        "ancient_greek": "Τέλης ὁ Μεγαρεύς"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/teles-of-megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/secundus-the-silent",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

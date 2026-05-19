@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ocy",
+  "auth_slug": "nicolaus-of-damascus",
+  "name": {
+    "english": "Nicolaus of Damascus",
+    "ancient_greek": "Νικόλαος ὁ Δαμασκηνός"
+  },
+  "seo_h1": "Nicolaus of Damascus on the Life of Antipater",
+  "seo": {
+    "browser_title": "Nicolaus of Damascus on Eulogikon Greek Archive Library",
+    "meta_title": "Nicolaus of Damascus Ancient Greek Historical Works",
+    "meta_description": "Nicolaus of Damascus, a Roman era historian writing in Koine Greek. Surviving historical texts. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nicolaus of Damascus was a Greek historian and philosopher of the 1st century BCE and early 1st century CE. Born in Damascus to a distinguished family, he received a thorough Greek education, studying Peripatetic philosophy in Athens.</p>\n<p class=\"research-text\">His career centered on the court of Herod the Great, whom he served as secretary, diplomat, and tutor. This role also brought him into the circle of the emperor Augustus as a friend and advisor. His prolific output, largely preserved in fragments, includes a monumental 144-book Universal History covering events to 4 BCE, and a Life of Augustus, a crucial biographical source for the emperor.</p>\n<p class=\"research-text\">Other works encompass an Aristotelian compendium titled On the Philosophy of Aristotle, an ethnographic Collection of Remarkable Customs, an autobiography, and dramatic works. Nicolaus is a significant figure at the intersection of Greek, Jewish, and Roman cultures. His unique position granted him exceptional access to contemporary events and power, making his historical works important sources for later historians, particularly regarding the Near East and the Augustan age.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ocy-aa",
+      "title": {
+        "english": "On the Life of Antipater",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicolaus-of-damascus-life-antipater-ocy-aa",
+      "passages": 210,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-damascus/life-antipater",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-damascus/life-antipater.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-damascus/life-antipater.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-damascus/life-antipater.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-damascus/life-antipater.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nicolaus-of-damascus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-damascus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-damascus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-damascus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicolaus-of-damascus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

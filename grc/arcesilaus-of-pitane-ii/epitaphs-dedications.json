@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jem-aa",
+  "eul_aid": "jem",
+  "author_slug": "arcesilaus-of-pitane-ii",
+  "work_slug": "epitaphs-dedications",
+  "url_slug": "arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa",
+  "author": {
+    "english": "Arcesilaus of Pitane II",
+    "ancient_greek": "Ἀρκεσίλαος ὁ Πιτανεύς"
+  },
+  "title": {
+    "english": "Epitaphs and Dedications",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Epitaphs and Dedications by Arcesilaus Pitane on Eulogikon",
+    "meta_title": "Epitaphs and Dedications by Arcesilaus of Pitane in Greek",
+    "meta_description": "Epitaphs and Dedications, fragments by Arcesilaus of Pitane reflecting Academic Skeptic thought. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Academic Skeptic",
+      "href": "/affiliations/academic-skeptic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work conventionally titled &quot;Epitaphs and Dedications&quot; is not a formal treatise by Arcesilaus of Pitane but a modern designation for two poetic epigrams preserved anecdotally. Arcesilaus, who lived from approximately 316 to 241 BCE and founded the skeptical Middle Academy, wrote no philosophical texts. These verses survive as biographical fragments recorded by Diogenes Laertius: an epitaph for his colleague Crantor and a dedication to the Muses. The epigrams illustrate conventional Hellenistic literary practices among philosophers, serving to commemorate and praise a fellow scholar, express piety toward divine sources of inspiration, and highlight the personal bonds within the Academy. Arcesilaus’s philosophical arguments were transmitted orally and through later critics; the epigrams themselves survive solely as quotations in Diogenes Laertius’s biography, with no independent manuscript tradition. While the poems hold no philosophical weight, they provide valuable biographical color, illustrating the social and literary customs of Hellenistic intellectuals. Arcesilaus’s significant and lasting influence derives entirely from his oral skeptical teachings, which shaped the direction of the Academy for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "122.(t)",
+      "text": "εἰς Ἄτταλον Πέργαμος οὐχ ὅπλοις κλεινὴ μόνον, ἀλλὰ καὶ ἵπποις πολλάκις αὐδᾶται Πῖσαν ἀνὰ ζαθέην. εἰ δὲ τὸν ἐκ Διόθεν θεμιτὸν θνητῷ νόον εἰπεῖν, ἔσσεται εἰσαῦτις πολλὸν ἀοιδοτέρη. * εἰς Μηνόδωρον (epitaphium) τηλοῦ μὲν Φρυγίη, τηλοῦ δ’ ἱερὴ Θυάτειρα, ὦ Μηνόδωρε, σὴ πατρίς, Καδαυάδη. ἀλλὰ γὰρ εἰς Ἀχέροντα τὸν οὐ φατὸν ἶσα κέλευθα, ὡς αἶνος ἀνδρῶν, πάντοθεν μετρεύμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "122.(t)",
+      "text": "σῆμα δέ τοι τόδ’ ἔρεξεν ἀριφραδὲς Εὔδαμος, ᾧ σὺ πολλῶν πενεστέων ἦσθα προσφιλέστερος. *",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffk-ao",
+      "title": {
+        "english": "Clitophon",
+        "ancient_greek": "Κλειτοφῶν"
+      },
+      "url_slug": "plato-clitophon-ao-ffk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/clitophon-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/clitophon-ao.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bk",
+      "title": {
+        "english": "Comparison of Pericles and Fabius",
+        "ancient_greek": "Περικλέους καὶ Φαβίου σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-pericles-fabius-okg-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/pericles-fabius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/pericles-fabius.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bh",
+      "title": {
+        "english": "How One Might Benefit from Enemies",
+        "ancient_greek": "Πῶς ἄν τις ἀπ ἐχθρῶν ὠφελοῖτο"
+      },
+      "url_slug": "plutarch-of-chaeronea-benefit-from-enemies-okg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/benefit-from-enemies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/benefit-from-enemies.json"
+      }
+    },
+    {
+      "eul_wid": "kly-aa",
+      "title": {
+        "english": "On the Adornment of Stars and Their Etymology",
+        "ancient_greek": "Περὶ Κόσμου Ἀστέρων καὶ Ἐτυμολογίας"
+      },
+      "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-aj",
+      "title": {
+        "english": "On the Life of Moses, Books I-II",
+        "ancient_greek": "Περὶ τοῦ Βίου Μωυσέως"
+      },
+      "url_slug": "philo-of-alexandria-life-of-moses-lgi-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/life-of-moses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/life-of-moses.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-bc",
+      "title": {
+        "english": "Plato's Political Letters",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "plato-political-letters-ffk-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/political-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-ag",
+      "title": {
+        "english": "Republic",
+        "ancient_greek": "Πολιτεία"
+      },
+      "url_slug": "plato-republic-ffk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/republic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/republic.json"
+      }
+    },
+    {
+      "eul_wid": "axc-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "xuthus-the-philosopher-testimony-axc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xuthus-the-philosopher/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xuthus-the-philosopher/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/arcesilaus-of-pitane-ii/epitaphs-dedications",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

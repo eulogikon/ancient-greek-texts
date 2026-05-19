@@ -1,0 +1,439 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hgw-al",
+  "eul_aid": "hgw",
+  "author_slug": "aristotle",
+  "work_slug": "sleep-wakefulness",
+  "url_slug": "aristotle-sleep-wakefulness-hgw-al",
+  "author": {
+    "english": "Aristotle",
+    "ancient_greek": "Ἀριστοτέλης"
+  },
+  "title": {
+    "english": "On Sleep and Wakefulness",
+    "ancient_greek": "Περὶ Ὕπνου καὶ Ἐγρηγόρσεως"
+  },
+  "seo": {
+    "browser_title": "On Sleep and Wakefulness by Aristotle on Eulogikon",
+    "meta_title": "On Sleep and Wakefulness by Aristotle in Ancient Greek",
+    "meta_description": "Aristotle's scientific treatise on sleep and wakefulness from his Parva Naturalia. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Sleep and Wakefulness</strong> is a scientific treatise by Aristotle, composed in the mid-4th century BCE. It belongs to his series of investigations on the phenomena of life known collectively as the <strong>Parva Naturalia</strong>. In this concise work, Aristotle undertakes a systematic inquiry into the nature, causes, and purpose of sleep and wakefulness. He defines sleep as a state of immobilization affecting the primary sensory organ, which he locates in the region of the heart. This condition, he argues, is induced by the physiological processes of digestion, which generate vaporous heat that ascends and temporarily overwhelms the sensory faculty. Consequently, Aristotle posits that sleep is a necessary state for all animals possessing the sense of touch. The treatise also explores related phenomena, including the occurrence and potential causes of dreams, questioning whether they can ever be prophetic. The complete text, conventionally divided into three chapters, survives through the medieval manuscript tradition.</p>\n<p class=\"research-text\">Likely intended for use within Aristotle&#x27;s school, the Lyceum, the treatise exemplifies his empirical method, drawing upon biological observation to explain the interaction between the physical body and the faculties of the soul. Modern scholarship regards it as a foundational application of Aristotle&#x27;s hylomorphic theory, which understands living beings as a compound of matter and form, or body and soul. The analysis proceeds according to his system of four causes, ultimately presenting sleep not as a mere negation of wakefulness but as a purposeful state with a final cause: the preservation of the animal&#x27;s life by providing essential rest for recuperation. The work proved highly influential, translated into Arabic and later Latin, and it shaped scientific and philosophical theories of sleep from antiquity through the Middle Ages.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "SomnVig 453b (t)",
+      "text": "ΠΕΡΙ ΥΠΝΟΝ ΚΑΙ ΕΓΡΗΓΟΡΣΕΩΣ Περὶ δὲ ὕπνου καὶ ἐγρηγόρσεως ἐπισκεπτέον τίνα τε τυγχάνει ὄντα, καὶ πότερον ἴδια τῆς ψυχῆς ἢ τοῦ σώματος ἢ κοινά, καὶ εἰ κοινά, τίνος μορίου τῆς ψυχῆς ἢ τοῦ σώματος, καὶ διὰ τίν’ αἰτίαν ὑπάρχει τοῖς ζῴοις· καὶ πότερον ἅπαντα κεκοινώνηκεν ἀμφοτέρων, ἢ τὰ μὲν θατέρου τὰ δὲ θατέρου μόνον, ἢ τὰ μὲν οὐδετέρου τὰ δὲ ἀμφοτέρων· πρὸς δὲ τούτοις τί ἐστι τὸ ἐνύπνιον, καὶ διὰ τίνα αἰτίαν οἱ καθεύδοντες ὁτὲ μὲν ὀνειρώττουσιν ὁτὲ δὲ οὔ, ἢ συμβαίνει μὲν ἀεὶ τοῖς καθεύδουσιν ἐνυπνιάζειν, ἀλλ’ οὐ μνημονεύουσιν, καὶ εἰ τοῦτο γίγνεται, διὰ τίνα αἰτίαν γίγνεται· καὶ πότερον ἐνδέχεται τὰ μέλλοντα προορᾶν ἢ οὐκ ἐνδέχεται, καὶ τίνα τρόπον εἰ ἐνδέχεται· καὶ πότερον τὰ μέλλοντα ὑπ’ ἀνθρώπου πράσσεσθαι μόνον, ἢ καὶ ὧν τὸ δαιμόνιον ἔχει τὴν αἰτίαν, καὶ φύσει γίγνεται ἢ ἀπὸ ταὐτομάτου. πρῶτον μὲν οὖν τοῦτό γε φανερόν, ὅτι τῷ αὐτῷ τοῦ ζῴου ἥ τε ἐγρήγορσις ὑπάρχει καὶ ὁ ὕπνος· ἀντίκεινται γάρ, καὶ φαίνεται στέρησίς τις ὁ ὕπνος τῆς ἐγρηγόρσεως· ἀεὶ γὰρ τὰ ἐναντία καὶ ἐπὶ τῶν ἄλλων καὶ ἐν τοῖς φυσικοῖς ἐν τῷ αὐτῷ δεκτικῷ φαίνεται γιγνόμενα, καὶ τοῦ αὐτοῦ ὄντα πάθη, λέγω δ’ οἷον ὑγίεια καὶ νόσος, καὶ κάλλος καὶ αἶσχος, καὶ ἰσχὺς καὶ ἀσθένεια, καὶ ὄψις καὶ τυφλότης, καὶ ἀκοὴ καὶ κωφότης. ἔτι δὲ καὶ ἐκ τῶνδε δῆλον· ᾧ γὰρ τὸν ἐγρηγορότα γνωρίζομεν, τούτῳ καὶ τὸν καθυπνοῦντα· τὸν δὲ αἰσθανόμενον ἐγρηγορέναι νομίζομεν, καὶ τὸν ἐγρηγορότα πάντα ἢ τῶν ἔξωθέν τινος αἰσθάνεσθαι ἢ τῶν ἐν αὑτῷ κινήσεων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 454a",
+      "text": "εἰ τοίνυν τὸ ἐγρηγορέναι ἐν μηδενὶ ἄλλῳ ἐστὶν ἢ τῷ αἰσθάνεσθαι, δῆλον ὅτι ᾧ περ αἰσθάνεται, τούτῳ καὶ ἐγρήγορε τὰ ἐγρηγορότα καὶ καθεύδει τὰ καθεύδοντα. ἐπεὶ δὲ οὔτε τῆς ψυχῆς ἴδιον τὸ αἰσθάνεσθαι οὔτε τοῦ σώματος (οὗ γὰρ ἡ δύναμις, τούτου καὶ ἡ ἐνέργεια· ἡ δὲ λεγομένη αἴσθησις ὡς ἐνέργεια κίνησίς τις διὰ τοῦ σώματος τῆς ψυχῆς ἐστι), φανερὸν ὡς οὔτε τῆς ψυχῆς τὸ πάθος ἴδιον, οὔτ’ ἄψυχον σῶμα δυνατὸν αἰσθάνεσθαι. διωρισμένων δὲ πρότερον ἐν ἑτέροις περὶ τῶν λεγομένων ὡς μορίων τῆς ψυχῆς, καὶ τοῦ μὲν θρεπτικοῦ χωριζομένου τῶν ἄλλων ἐν τοῖς ἔχουσι σώμασι ζωήν, τῶν δ’ ἄλλων οὐδενὸς ἄνευ τούτου, δῆλον ὡς ὅσα μὲν αὐξήσεως καὶ φθίσεως μετέχει μόνον τῶν ζώντων, [ὅτι] τούτοις οὐχ ὑπάρχει ὕπνος οὐδὲ ἐγρήγορσις, οἷον τοῖς φυτοῖς (οὐ γὰρ ἔχουσι τὸ αἰσθητικὸν μόριον, οὔτε εἰ χωριστόν ἐστιν οὔτε εἰ μὴ χωριστόν· τῇ γὰρ δυνάμει καὶ τῷ εἶναι χωριστόν ἐστιν)· ὁμοίως δὲ καὶ ὅτι οὐδέν ἐστιν ὃ ἀεὶ ἐγρήγορεν ἢ ἀεὶ καθεύδει, ἀλλὰ τοῖς αὐτοῖς ὑπάρχει τῶν ζῴων ἀμφότερα τὰ πάθη ταῦτα. οὐ γάρ, εἴ τι ἔστι ζῷον 〈μὴ〉 ἔχον αἴσθησιν, τοῦτ’ ἐνδέχεται οὔτε καθεύδειν οὔτε ἐγρηγορέναι (ἄμφω γάρ ἐστι τὰ πάθη ταῦτα περὶ αἴσθησιν τοῦ πρώτου αἰσθητικοῦ)· οὐκ ἐνδέχεται δὲ οὐδὲ θάτερον τούτων ἀεὶ ὑπάρχειν τῷ αὐτῷ, οἷον ἀεί τι γένος ζῴων καθεύδειν ἢ ἀεί τι ἐγρηγορέναι. ἔτι ὅσων ἔστι τι ἔργον κατὰ φύσιν, ὅταν ὑπερβάλλῃ τὸν χρόνον ὅσον δύναταί τι ποιεῖν, ἀνάγκη ἀδυνατεῖν, οἷον τὰ ὄμματα ὁρῶντα, καὶ παύεσθαι τοῦτο ποιοῦντα, ὁμοίως δὲ καὶ χεῖρα καὶ ἄλλο πᾶν οὗ ἔστι τι ἔργον. εἰ δή τινός ἐστιν ἔργον τὸ αἰσθάνεσθαι, καὶ τοῦτο, ἂν ὑπερβάλλῃ ὅσον ἦν χρόνον δυνάμενον αἰσθάνεσθαι συνεχῶς, ἀδυνατήσει καὶ οὐκέτι τοῦτο ποιήσει. εἰ τοίνυν τὸ ἐγρηγορέναι ὥρισται τῷ λελύσθαι τὴν αἴσθησιν, τῶν δ’ ἐναντίων τῶν μὲν ἀνάγκη θάτερον ἀεὶ παρεῖναι τῶν δ’ οὔ, τῷ δ’ ἐγρηγορέναι τὸ καθεύδειν ἐναντίον, καὶ ἀναγκαῖον ἅπαντι θάτερον ὑπάρχειν, ἀναγκαῖον ἂν εἴη καθεύδειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 454b",
+      "text": "εἰ οὖν τὸ τοιοῦτον πάθος ὕπνος, τοῦτο δ’ ἐστὶν ἀδυναμία δι’ ὑπερβολὴν τοῦ ἐγρηγορέναι, ἡ δὲ τοῦ ἐγρηγορέναι ὑπερβολὴ ὁτὲ μὲν νοσώδης ὁτὲ δὲ ἄνευ νόσου γίγνεται, ὥστε καὶ ἡ ἀδυναμία καὶ ἡ διάλυσις ὡσαύτως ἔσται, ἀνάγκη πᾶν τὸ ἐγρηγορὸς ἐνδέχεσθαι καθεύδειν· ἀδύνατον γὰρ ἀεὶ ἐνεργεῖν. ὁμοίως δὲ οὐδὲ καθεύδειν οὐδὲν ἀεὶ ἐνδέχεται. ὁ γὰρ ὕπνος πάθος τι τοῦ αἰσθητικοῦ μορίου ἐστίν, οἷον δεσμός τις καὶ ἀκινησία, ὥστ’ ἀνάγκη πᾶν τὸ καθεῦδον ἔχειν τὸ αἰσθητικὸν μόριον. αἰσθητικὸν δὲ τὸ δυνατὸν αἰσθάνεσθαι κατ’ ἐνέργειαν· ἐνεργεῖν δὲ τῇ αἰσθήσει κυρίως καὶ ἁπλῶς ἀδύνατον καθεῦδον ἅμα· διὸ ἀναγκαῖον ὕπνον πάντα ἐγερτὸν εἶναι. τὰ μὲν οὖν ἄλλα σχεδὸν ἅπαντα δῆλα κοινωνοῦνθ’ ὕπνου, καὶ πλωτὰ καὶ πτηνὰ καὶ πεζά· καὶ γὰρ τὰ τῶν ἰχθύων γένη πάντα καὶ τὰ τῶν μαλακίων ὦπται καθεύδοντα, καὶ τἆλλα πάντα ὅσαπερ ἔχει ὀφθαλμούς· καὶ γὰρ τὰ σκληρόφθαλμα φανερὰ καὶ τὰ ἔντομα κοιμώμενα· βραχύυπνα δὲ τὰ τοιαῦτα πάντα, διὸ καὶ λάθοι ἄν τινα πολλάκις πότερον μετέχουσι τοῦ καθεύδειν ἢ οὔ. τῶν δ’ ὀστρακοδέρμων κατὰ μὲν τὴν αἴσθησιν οὐδέ πω γέγονε φανερὸν εἰ καθεύδουσιν· εἰ δέ τῳ πιθανὸς ὁ λεχθεὶς λόγος, τοῦτο πεισθήσεται. ὅτι μὲν οὖν ὕπνου κοινωνεῖ τὰ ζῷα πάντα, φανερὸν ἐκ τούτων. τῷ γὰρ αἴσθησιν ἔχειν ὥρισται τὸ ζῷον, τῆς δ’ αἰσθήσεως τρόπον τινὰ τὴν μὲν ἀκινησίαν καὶ οἷον δεσμὸν τὸν ὕπνον εἶναί φαμεν, τὴν δὲ λύσιν καὶ τὴν ἄνεσιν ἐγρήγορσιν. τῶν δὲ φυτῶν οὐδὲν οἷόν τε κοινωνεῖν οὐδετέρου τούτων τῶν παθημάτων· ἄνευ μὲν γὰρ αἰσθήσεως οὐχ ὑπάρχει οὔτε ὕπνος οὔτε ἐγρήγορσις· οἷς δ’ αἴσθησις ὑπάρχει, καὶ τὸ λυπεῖσθαι καὶ τὸ χαίρειν· οἷς δὲ ταῦτα, καὶ ἐπιθυμία· τοῖς δὲ φυτοῖς οὐδὲν ὑπάρχει τούτων. σημεῖον δ’ ὅτι καὶ τὸ ἔργον τὸ αὑτοῦ ποιεῖ τὸ θρεπτικὸν μόριον ἐν τῷ καθεύδειν μᾶλλον ἢ ἐν τῷ ἐγρηγορέναι· τρέφεται γὰρ καὶ αὐξάνεται τότε μᾶλλον, ὡς οὐδὲν προσδεόμενα πρὸς ταῦτα τῆς αἰσθήσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 455a",
+      "text": "Διὰ τί δὲ καθεύδει καὶ ἐγρήγορε καὶ διὰ ποίαν τινὰ αἴσθησιν ἢ ποίας, εἰ διὰ πλείους, σκεπτέον. ἐπεὶ δ’ ἔνια μὲν τῶν ζῴων ἔχει τὰς αἰσθήσεις πάσας, ἔνια δ’ οὐκ ἔχει, οἷον ὄψιν, τὴν δ’ ἁφὴν καὶ τὴν γεῦσιν ἅπαντα ἔχει, πλὴν εἴ τι τῶν ζῴων ἀτελές (εἴρηται δὲ περὶ αὐτῶν ἐν τοῖς Περὶ ψυχῆς), ἀδύνατον δ’ ἐστὶν ἁπλῶς ὁποιανοῦν αἴσθησιν αἰσθάνεσθαι τὸ καθεῦδον ζῷον, φανερὸν ὅτι πάσαις ἀναγκαῖον ὑπάρχειν τὸ αὐτὸ πάθος ἐν τῷ καλουμένῳ ὕπνῳ· εἰ γὰρ τῇ μέν, τῇ δὲ μή, ταύτῃ καθεῦδον αἰσθήσεται, τοῦτο δ’ ἀδύνατον. ἐπεὶ δ’ ὑπάρχει καθ’ ἑκάστην αἴσθησιν τὸ μέν τι ἴδιον, τὸ δέ τι κοινόν, ἴδιον μὲν οἷον τῇ ὄψει τὸ ὁρᾶν, τῇ δ’ ἀκοῇ τὸ ἀκούειν, καὶ ταῖς ἄλλαις ἑκάστῃ κατὰ τὸν αὐτὸν τρόπον, ἔστι δέ τις καὶ κοινὴ δύναμις ἀκολουθοῦσα πάσαις, ᾗ καὶ ὅτι ὁρᾷ καὶ ἀκούει αἰσθάνεται (οὐ γὰρ δὴ τῇ γε ὄψει ὁρᾷ ὅτι ὁρᾷ, καὶ κρίνει δὴ καὶ δύναται κρίνειν ὅτι ἕτερα τὰ γλυκέα τῶν λευκῶν οὔτε γεύσει οὔτε ὄψει οὔτε ἀμφοῖν, ἀλλά τινι κοινῷ μορίῳ τῶν αἰσθητηρίων ἁπάντων· ἔστι μὲν γὰρ μία αἴσθησις, καὶ τὸ κύριον αἰσθητήριον ἕν, τὸ δ’ εἶναι αἰσθήσει τοῦ γένους ἑκάστου ἕτερον, οἷον ψόφου καὶ χρώματος), τοῦτο δ’ ἅμα τῷ ἁπτικῷ μάλιστα ὑπάρχει (τοῦτο μὲν γὰρ χωρίζεται τῶν ἄλλων αἰσθητηρίων, τὰ δ’ ἄλλα τούτου ἀχώριστα, εἴρηται δὲ περὶ αὐτῶν ἐν τοῖς Περὶ ψυχῆς θεωρήμασιν), φανερὸν τοίνυν ὅτι τούτου ἐστὶ πάθος ἡ ἐγρήγορσις καὶ ὁ ὕπνος. διὸ καὶ πᾶσιν ὑπάρχει τοῖς ζῴοις· καὶ γὰρ ἡ ἁφὴ μόνη πᾶσιν· εἰ γὰρ τῷ πάσας τι πεπονθέναι τὰς αἰσθήσεις ἐγίγνετο τὸ καθεύδειν, ἄτοπον εἰ αἷς οὔτε ἀνάγκη οὔτε δυνατὸν τρόπον τινὰ ἐνεργεῖν ἅμα, ταύτας ἀναγκαῖον ἀργεῖν ἅμα καὶ ἀκινητίζειν· τοὐναντίον γὰρ εὐλογώτερον συνέβαινεν ἂν αὐταῖς, τὸ μὴ ἅμα ἠρεμεῖν. ὡς δὲ νῦν λέγομεν, εὐλόγως ἔχει καὶ περὶ τούτων· τοῦ γὰρ κυρίου τῶν ἄλλων πάντων αἰσθητηρίου, καὶ πρὸς ὃ συντείνει τἆλλα, πεπονθότος τι συμπάσχειν ἀναγκαῖον καὶ τὰ λοιπὰ πάντα, ἐκείνων δέ τινος ἀδυνατοῦντος οὐκ ἀνάγκη τοῦτ’ ἀδυνατεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 455b",
+      "text": "φανερὸν δὲ ἐκ πολλῶν ὅτι οὐκ ἐν τῷ τὰς αἰσθήσεις ἀργεῖν καὶ μὴ χρῆσθαι αὐταῖς ὁ ὕπνος, οὐδ’ ἐν τῷ μὴ δύνασθαι αἰσθάνεσθαι (καὶ γὰρ ἐν ταῖς λειποψυχίαις τοιοῦτόν τι συμβαίνει· ἀδυναμία γὰρ αἰσθήσεως ἡ λειποψυχία, γίγνονται δὲ καὶ ἔκνοιαί τινες τοιαῦται· ἔτι δ’ οἱ τὰς ἐν τῷ αὐχένι φλέβας καταλαμβανόμενοι ἀναίσθητοι γίγνονται), ἀλλ’ ὅταν ἡ ἀδυναμία τῆς χρήσεως μήτ’ ἐν τῷ τυχόντι αἰσθητηρίῳ, μήτε δι’ ἣν ἔτυχεν αἰτίαν, ἀλλά, καθάπερ εἴρηται νῦν, ἐν τῷ πρώτῳ ᾧ αἰσθάνεται πάντων· ὅταν μὲν γὰρ τοῦτ’ ἀδυνατήσῃ, ἀνάγκη καὶ τοῖς αἰσθητηρίοις πᾶσιν ἀδυνατεῖν αἰσθέσθαι, ὅταν δ’ ἐκείνων τι, οὐκ ἀνάγκη τούτῳ. δι’ ἣν δ’ αἰτίαν συμβαίνει τὸ καθεύδειν, καὶ ποῖόν τι τὸ πάθος ἐστί, λεκτέον. ἐπεὶ δὲ τρόποι πλείους τῆς αἰτίας (καὶ γὰρ τὸ τίνος ἕνεκεν, καὶ ὅθεν ἡ ἀρχὴ τῆς κινήσεως, καὶ τὴν ὕλην καὶ τὸν λόγον αἴτιον εἶναί φαμεν), πρῶτον μὲν οὖν ἐπειδὴ λέγομεν τὴν φύσιν ἕνεκά του ποιεῖν, τοῦτο δὲ ἀγαθόν τι, τὴν δ’ ἀνάπαυσιν παντὶ τῷ πεφυκότι κινεῖσθαι, μὴ δυναμένῳ δ’ ἀεὶ καὶ συνεχῶς κινεῖσθαι μεθ’ ἡδονῆς, ἀναγκαῖον εἶναι καὶ ὠφέλιμον, τῷ δὲ ὕπνῳ αὐτῇ τῇ ἀληθείᾳ προσάπτουσι τὴν μεταφορὰν ταύτην ὡς ἀναπαύσει ὄντι— ὥστε σωτηρίας ἕνεκα τῶν ζῴων ὑπάρχει. ἡ δ’ ἐγρήγορσις τέλος· τὸ γὰρ αἰσθάνεσθαι καὶ τὸ φρονεῖν πᾶσι τέλος οἷς ὑπάρχει θάτερον αὐτῶν. βέλτιστα γὰρ ταῦτα, τὸ δὲ τέλος βέλτιστον. ἔτι δὲ ἀναγκαῖον ἑκάστῳ τῶν ζῴων ὑπάρχειν τὸν ὕπνον. λέγω δ’ ἐξ ὑποθέσεως τὴν ἀνάγκην, ὅτι εἰ ζῷον ἔσται ἔχον τὴν αὑτοῦ φύσιν, ἐξ ἀνάγκης τινὰ ὑπάρχειν αὐτῷ δεῖ, καὶ τούτων ὑπαρχόντων ἕτερα ὑπάρχειν. ἔτι δὲ ποίας κινήσεως καὶ πράξεως ἐν τοῖς σώμασι γιγνομένης συμβαίνει τό τε ἐγρηγορέναι καὶ τὸ καθεύδειν τοῖς ζῴοις, μετὰ ταῦτα λεκτέον. τοῖς μὲν οὖν ἄλλοις ζῴοις καθάπερ τοῖς ἐναίμοις ὑποληπτέον εἶναι τὰ αἴτια τοῦ πάθους ἢ ταὐτὰ ἢ τὰ ἀνάλογον, τοῖς δ’ ἐναίμοις ἅπερ τοῖς ἀνθρώποις· ὥστε ἐκ τούτων πάντα θεωρητέον. ὅτι μὲν οὖν ἡ τῆς αἰσθήσεως ἀρχὴ γίγνεται ἀπὸ τοῦ αὐτοῦ μέρους τοῖς ζῴοις ἀφ’ οὗπερ καὶ ἡ τῆς κινήσεως, διώρισται πρότερον ἐν ἑτέροις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 456a",
+      "text": "αὕτη δέ ἐστι τριῶν διωρισμένων τόπων ὁ μέσος κεφαλῆς καὶ τῆς κάτω κοιλίας. τοῖς μὲν οὖν ἐναίμοις τοῦτ’ ἐστὶ τὸ περὶ τὴν καρδίαν μέρος. πάντα γὰρ τὰ ἔναιμα καρδίαν ἔχει, καὶ ἡ ἀρχὴ τῆς κινήσεως καὶ τῆς αἰσθήσεως τῆς κυρίας ἐντεῦθέν ἐστιν. τῆς μὲν οὖν κινήσεως φανερὸν ὅτι καὶ ἡ τοῦ πνεύματος ἀρχὴ καὶ ὅλως ἡ τῆς καταψύξεώς ἐστιν ἐνταῦθα, καὶ τὸ ἀναπνεῖν τε καὶ τὸ τῷ ὑγρῷ καταψύχεσθαι πρός γε τὴν σωτηρίαν τοῦ ἐν τούτῳ μορίῳ θερμοῦ ἡ φύσις πεπόρικεν· ῥηθήσεται δὲ περὶ αὐτῆς ὕστερον καθ’ αὑτήν. τοῖς δὲ ἀναίμοις καὶ τοῖς ἐντόμοις καὶ μὴ δεχομένοις πνεῦμα ἐν τῷ ἀνάλογον τὸ σύμφυτον πνεῦμα ἀναφυσώμενον καὶ συνιζάνον φαίνεται. δῆλον δὲ τοῦτο ἐπὶ τῶν ὁλοπτέρων, οἷον σφηκῶν καὶ μελιττῶν, καὶ ἐν ταῖς μυίαις καὶ ὅσα τοιαῦτα. ἐπεὶ δὲ κινεῖν μέν τι ἢ ποιεῖν ἄνευ ἰσχύος ἀδύνατον, ἰσχὺν δὲ ποιεῖ ἡ τοῦ πνεύματος κάθεξις, τοῖς μὲν εἰσφερομένοις ἡ θύραθεν, τοῖς δὲ μὴ ἀναπνέουσιν ἡ σύμφυτος (διὸ καὶ βομβοῦντα φαίνεται τὰ πτερωτά, ὅταν κινῆται, τῇ τρίψει τοῦ πνεύματος προσπίπτοντος πρὸς τὸ ὑπόζωμα τῶν ὁλοπτέρων), κινεῖται δὲ πᾶν αἰσθήσεώς τινος γενομένης, ἢ οἰκείας ἢ ἀλλοτρίας, ἐν τῷ πρώτῳ αἰσθητηρίῳ—εἰ δή ἐστιν ὁ ὕπνος καὶ ἡ ἐγρήγορσις πάθη τοῦ μορίου τούτου, ἐν ᾧ μὲν τόπῳ καὶ ἐν ᾧ μορίῳ πρώτῳ γίγνεται ὁ ὕπνος καὶ ἡ ἐγρήγορσις, φανερόν. κινοῦνται δ’ ἔνιοι καθεύδοντες καὶ ποιοῦσι πολλὰ ἐγρηγορικά, οὐ μέντοι ἄνευ φαντάσματος καὶ αἰσθήσεώς τινος· τὸ γὰρ ἐνύπνιόν ἐστιν αἴσθημα τρόπον τινά· λεκτέον δὲ περὶ αὐτῶν ὕστερον. διότι δὲ τὰ μὲν ἐνύπνια μνημονεύουσιν ἐγερθέντες, τὰς δ’ ἐγρηγορικὰς πράξεις ἀμνημονοῦσιν, ἐν τοῖς Προβληματικοῖς εἴρηται. Ἐχόμενον δὲ τῶν εἰρημένων ἐστὶν ἐπελθεῖν τίνων γιγνομένων καὶ πόθεν ἡ ἀρχὴ τοῦ πάθους γίγνεται, τοῦ τ’ ἐγρηγορέναι καὶ τοῦ καθεύδειν. φανερὸν δὴ ὅτι ἐπεὶ ἀναγκαῖον τῷ ζῴῳ, ὅταν αἴσθησιν ἔχῃ, τότε πρῶτον τροφήν τε λαμβάνειν καὶ αὔξησιν, τροφὴ δ’ ἐστὶ πᾶσιν ἡ ἐσχάτη τοῖς μὲν ἐναίμοις ἡ τοῦ αἵματος φύσις, τοῖς δ’ ἀναίμοις τὸ ἀνάλογον, τόπος δὲ τοῦ αἵματος αἱ φλέβες, τούτων δ’ ἀρχὴ ἡ καρδία (φανερὸν δὲ τὸ λεχθὲν ἐκ τῶν ἀνατομῶν)—τῆς μὲν οὖν θύραθεν τροφῆς εἰσιούσης εἰς τοὺς δεκτικοὺς τόπους γίγνεται ἡ ἀναθυμίασις εἰς τὰς φλέβας, ἐκεῖ δὲ μεταβάλλουσα ἐξαιματοῦται καὶ πορεύεται ἐπὶ τὴν ἀρχήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 456b",
+      "text": "εἴρηται δὲ περὶ τούτων ἐν τοῖς Περὶ τροφῆς· νῦν δὲ ἀναληπτέον ὑπὲρ αὐτῶν τούτου χάριν, ὅπως τὰς ἀρχὰς τῆς κινήσεως θεωρήσωμεν, καὶ τί πάσχοντος τοῦ μορίου τοῦ αἰσθητικοῦ συμβαίνει ἡ ἐγρήγορσις καὶ ὁ ὕπνος. οὐ γάρ ἐστιν ὁ ὕπνος ἡτισοῦν ἀδυναμία τοῦ αἰσθητικοῦ, καθάπερ εἴρηται· καὶ γὰρ ἔκνοια καὶ πνιγμός τις καὶ λειποψυχία ποιεῖ τὴν τοιαύτην ἀδυναμίαν. ἤδη δὲ γεγένηταί τισι καὶ φαντασία λειποψυχήσασιν ἰσχυρῶς. τοῦτο μὲν οὖν ἔχει τινὰ ἀπορίαν· εἰ γὰρ ἐνδέχεται καταδαρθεῖν τὸν λειποψυχήσαντα, ἐνδέχοιτ’ ἂν ἐνύπνιον εἶναι καὶ τὸ φάντασμα. πολλὰ δ’ ἐστὶν ἃ λέγουσιν οἱ σφόδρα λειποψυχήσαντες καὶ δόξαντες τεθνάναι· περὶ ὧν τὸν αὐτὸν λόγον ὑποληπτέον εἶναι πάντων. ἀλλὰ γάρ, ὥσπερ εἴπομεν, οὐκ ἔστιν ὁ ὕπνος ἀδυναμία πᾶσα τοῦ αἰσθητικοῦ, ἀλλ’ ἐκ τῆς περὶ τὴν τροφὴν ἀναθυμιάσεως γίγνεται τὸ πάθος τοῦτο· ἀνάγκη γὰρ τὸ ἀναθυμιώμενον μέχρι του ὠθεῖσθαι, εἶτ’ ἀντιστρέφειν καὶ μεταβάλλειν καθάπερ εὔριπον. τὸ δὲ θερμὸν ἑκάστου τῶν ζῴων πρὸς τὸ ἄνω πέφυκε φέρεσθαι· ὅταν δ’ ἐν τοῖς ἄνω τόποις γένηται, ἀθρόον πάλιν ἀντιστρέφει καὶ καταφέρεται. διὸ μάλιστα γίγνονται ὕπνοι ἀπὸ τῆς τροφῆς· ἀθρόον γὰρ πολὺ τό τε ὑγρὸν καὶ τὸ σωματῶδες ἀναφέρεται. ἱστάμενον μὲν οὖν βαρύνει καὶ ποιεῖ νυστάζειν· ὅταν δὲ ῥέψῃ κάτω καὶ ἀντιστρέψαν ἀπώσῃ τὸ θερμόν, τότε γίγνεται ὁ ὕπνος καὶ τὸ ζῷον καθεύδει. σημεῖον δὲ τούτων καὶ τὰ ὑπνωτικά· πάντα γὰρ καρηβαρίαν ποιεῖ, καὶ τὰ ποτὰ καὶ τὰ βρωτά, μήκων, μανδραγόρας, οἶνος, αἶραι. καὶ καταφερόμενοι καὶ νυστάζοντες τοῦτο δοκοῦσι πάσχειν, καὶ ἀδυνατοῦσιν αἴρειν τὴν κεφαλὴν καὶ τὰ βλέφαρα. καὶ μετὰ τὰ σιτία μάλιστα τοιοῦτος ὁ ὕπνος· πολλὴ γὰρ ἡ ἀπὸ τῶν σιτίων ἀναθυμίασις. ἔτι δ’ ἐκ κόπων ἐνίων· ὁ μὲν γὰρ κόπος συντηκτικόν, τὸ δὲ σύντηγμα γίγνεται ὥσπερ τροφὴ ἄπεπτος, ἂν μὴ ψυχρὸν ᾖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 457a",
+      "text": "καὶ νόσοι δέ τινες τὸ αὐτὸ τοῦτο ποιοῦσιν, ὅσαι ἀπὸ περιττώματος ὑγροῦ καὶ θερμοῦ, οἷον συμβαίνει τοῖς πυρέττουσι καὶ ἐν τοῖς ληθάργοις. ἔτι δ’ ἡ πρώτη ἡλικία· τὰ γὰρ παιδία καθεύδει σφόδρα διὰ τὸ τὴν τροφὴν ἄνω φέρεσθαι πᾶσαν. σημεῖον δὲ τὸ ὑπερβάλλειν τὸ μέγεθος τῶν ἄνω πρὸς τὰ κάτω κατὰ τὴν πρώτην ἡλικίαν, διὰ τὸ ἐπὶ ταῦτα γίγνεσθαι τὴν αὔξησιν. διὰ ταύτην δὲ τὴν αἰτίαν καὶ ἐπιληπτικὰ γίγνεται· ὅμοιον γὰρ ὁ ὕπνος ἐπιλήψει, καὶ ἔστιν τρόπον τινὰ ὁ ὕπνος ἐπίληψις. διὸ καὶ συμβαίνει τισὶν ἡ ἀρχὴ τούτου τοῦ πάθους καθεύδουσιν, καὶ καθεύδοντες μὲν ἁλίσκονται, ἐγρηγορότες δ’ οὔ· ὅταν γὰρ πολὺ φέρηται τὸ πνεῦμα ἄνω, καταβαῖνον πάλιν τὰς φλέβας ὀγκοῖ, καὶ συνθλίβει τὸν πόρον δι’ οὗ ἡ ἀναπνοὴ γίγνεται. διὸ τοῖς παιδίοις οὐ συμφέρουσιν οἱ οἶνοι, οὐδὲ ταῖς τίτθαις (διαφέρει γὰρ ἴσως οὐδὲν αὐτὰ πίνειν ἢ τὰς τίτθας), ἀλλὰ δεῖ πίνειν ὑδαρῆ καὶ ὀλίγον· πνευματῶδες γὰρ ὁ οἶνος καὶ τούτου μᾶλλον ὁ μέλας. οὕτω δὲ τὰ ἄνω πλήρη τροφῆς τοῖς παιδίοις, ὥστε πέντε μηνῶν οὐδὲ στρέφουσι τὸν αὐχένα· ὥσπερ γὰρ τοῖς σφόδρα μεθύουσιν, ὑγρότης ἀναφέρεται πολλή. εὔλογον δὲ τοῦτ’ εἶναι τὸ πάθος αἴτιον καὶ τοῦ ἠρεμεῖν ἐν ταῖς μήτραις τὰ ἔμβρυα τὸ πρῶτον. καὶ τὸ ὅλον δὲ φίλυπνοι οἱ ἀδηλόφλεβοι καὶ οἱ νανώδεις καὶ οἱ μεγαλοκέφαλοι· τῶν μὲν γὰρ αἱ φλέβες στεναί, ὥστ’ οὐ ῥᾴδιον διαρρεῖν κατιὸν τὸ ὑγρόν, τοῖς δὲ νανώδεσι καὶ μεγαλοκεφάλοις ἡ ἄνω ὁρμὴ πολλὴ καὶ ἀναθυμίασις. οἱ δὲ φλεβώδεις οὐχ ὑπνωτικοὶ δι’ εὔροιαν τῶν πόρων, ἂν μή τι ἄλλο πάθος ἔχωσιν ὑπεναντίον. οὐδ’ οἱ μελαγχολικοί· κατέψυκται γὰρ ὁ εἴσω τόπος, ὥστ’ οὐ γίγνεται πλῆθος αὐτοῖς ἀναθυμιάσεως. διὰ τοῦτο γὰρ καὶ βρωτικοί, σκληφροὶ ὄντες· ὥσπερ γὰρ οὐδὲν ἀπολελαυκότα διάκειται τὰ σώματα αὐτοῖς. ἡ δὲ μέλαινα χολὴ φύσει ψυχρὰ οὖσα καὶ τὸν θρεπτικὸν τόπον ψυχρὸν ποιεῖ καὶ τὰ ἄλλα μόρια, ὅπου ἂν ὑπάρχῃ δυνάμει τὸ τοιοῦτον περίττωμα. ὥστε φανερὸν ἐκ τῶν εἰρημένων ὅτι ὁ ὕπνος ἐστὶ σύνοδός τις τοῦ θερμοῦ εἴσω καὶ ἀντιπερίστασις φυσικὴ διὰ τὴν εἰρημένην αἰτίαν· διὸ πολλὴ ἡ κίνησις τοῦ ὑπνοῦντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 457b",
+      "text": "ὅθεν δ’ ἐκλείπει, καταψύχεται καὶ διὰ ψῦξιν καταπίπτει τὰ βλέφαρα, καὶ τὰ μὲν ἄνω κατέψυκται καὶ τὰ ἔξω, τὰ δ’ ἔντος καὶ τὰ κάτω θερμά, οἷον τὰ περὶ τοὺς πόδας καὶ τὰ εἴσω. καίτοι τοῦτό τις ἀπορήσειεν ἄν, ὅτι μετὰ τὰ σιτία ἰσχυρότατος ὁ ὕπνος γίγνεται, καὶ ἔστιν ὑπνωτικὰ οἶνος καὶ ἄλλα θερμότητα ἔχοντα τοιαῦτα, ἔστι δ’ οὐκ εὔλογον τὸν μὲν ὕπνον εἶναι κατάψυξιν, τὰ δ’ αἴτια τοῦ καθεύδειν θερμά. πότερον οὖν τοῦτο συμβαίνει ὅτι ὥσπερ ἡ κοιλία κενὴ μὲν οὖσα θερμή ἐστιν, ἡ δὲ πλήρωσις αὐτὴν καταψύχει διὰ τὴν κίνησιν, οὕτω καὶ οἱ ἐν τῇ κεφαλῇ πόροι καὶ τόποι καταψύχονται ἀναφερομένης τῆς ἀναθυμιάσεως; ἢ ὥσπερ τοῖς προσχεομένοις τὸ θερμὸν ἐξαίφνης φρίκη γίγνεται, κἀκεῖ ἀνιόντος τοῦ θερμοῦ ἀθροιζόμενον τὸ ψυχρὸν καταψύχει, καὶ τὸ κατὰ φύσιν θερμὸν ποιεῖ ἐξαδυνατεῖν καὶ ὑποχωρεῖν; ἔτι δὲ πολλῆς ἐμπιπτούσης τροφῆς, ἣν ἀνάγει τὸ θερμόν, ὥσπερ τὸ πῦρ ἐπιτιθεμένων τῶν ξύλων, καταψύχεται, ἕως ἂν καταπεφθῇ. γίγνεται γὰρ ὁ ὕπνος, ὥσπερ εἴρηται, τοῦ σωματώδους ἀναφερομένου ὑπὸ τοῦ θερμοῦ διὰ τῶν φλεβῶν πρὸς τὴν κεφαλήν· ὅταν δὲ μηκέτι δύνηται, ἀλλὰ τῷ πλήθει ὑπερβάλλῃ τὸ ἀναχθέν, πάλιν ἀνταπωθεῖται καὶ κάτω ῥεῖ (διὸ καὶ πίπτουσί γε ὑποσπωμένου τοῦ θερμοῦ τοῦ ἀνάγοντος οἱ ἄνθρωποι· μόνον γὰρ ὀρθὸν τῶν ζῴων), καὶ ἐπιπεσὸν μὲν ἔκνοιαν ποιεῖ, ὕστερον δὲ φαντασίαν. ἢ αἱ μὲν νῦν λεγόμεναι λύσεις ἐνδεχόμεναι μέν εἰσι τοῦ γίγνεσθαι τὴν κατάψυξιν, οὐ μὴν ἀλλὰ κύριός γ’ ἐστὶν ὁ τόπος ὁ περὶ τὸν ἐγκέφαλον, ὥσπερ ἐν ἄλλοις εἴρηται. πάντων δ’ ἐστὶ τῶν ἐν τῷ σώματι ψυχρότατον ὁ ἐγκέφαλος, τοῖς δὲ μὴ ἔχουσι τὸ ἀνάλογον τούτῳ μόριον. ὥσπερ οὖν τὸ ἀπατμίζον ὑγρὸν ὑπὸ τῆς τοῦ ἡλίου θερμότητος, ὅταν ἔλθῃ εἰς τὸν ἄνω τόπον, διὰ τὴν ψυχρότητα αὐτοῦ καταψύχεται καὶ συστὰν καταφέρεται γενόμενον πάλιν ὕδωρ, οὕτως ἐν τῇ ἀναφορᾷ τοῦ θερμοῦ τῇ πρὸς τὸν ἐγκέφαλον ἡ μὲν περιττωματικὴ ἀναθυμίασις εἰς φλέγμα συνίσταται (διὸ καὶ οἱ κατάρροι φαίνονται γιγνόμενοι ἐκ τῆς κεφαλῆς), ἡ δὲ τρόφιμος καὶ μὴ νοσώδης καταφέρεται συνισταμένη καὶ καταψύχει τὸ θερμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "SomnVig 458a",
+      "text": "πρὸς δὲ τὸ καταψύχεσθαι καὶ μὴ δέχεσθαι ῥᾳδίως τὴν ἀναθυμίασιν συμβάλλεται καὶ ἡ λεπτότης καὶ [ἡ] στενότης τῶν περὶ τὸν ἐγκέφαλον φλεβῶν. τῆς μὲν οὖν καταψύξεως τοῦτ’ ἐστὶν αἴτιον, καίπερ τῆς ἀναθυμιάσεως ὑπερβαλλούσης τῇ θερμότητι. ἐγείρεται δ’ ὅταν πεφθῇ καὶ κρατήσῃ ἡ συνεωσμένη θερμότης ἐν ὀλίγῳ πολλὴ ἐκ τοῦ περιεστῶτος, καὶ διακριθῇ τό τε σωματωδέστερον αἷμα καὶ τὸ καθαρώτερον. ἔστι δὲ λεπτότατον μὲν αἷμα καὶ καθαρώτατον τὸ ἐν τῇ κεφαλῇ, παχύτατον δὲ καὶ θολερώτατον τὸ ἐν τοῖς κάτω μέρεσιν. παντὸς δὲ τοῦ αἵματος ἀρχή, ὥσπερ εἴρηται καὶ ἐνταῦθα καὶ ἐν ἄλλοις, ἡ καρδία. τῶν δ’ ἐν τῇ καρδίᾳ ἑκατέρας τῆς θαλάμης κοινὴ ἡ μέση· ἐκείνων δ’ ἑκατέρα δέχεται ἐξ ἑκατέρας τῆς φλεβός, τῆς τε μεγάλης καλουμένης καὶ τῆς ἀορτῆς· ἐν δὲ τῇ μέσῃ γίγνεται ἡ διάκρισις. ἀλλὰ τὸ μὲν διορίζειν περὶ τούτων ἑτέρων ἐστὶ λόγων οἰκειότερον· διὰ δὲ τὸ γίγνεσθαι ἀδιακριτώτερον τὸ αἷμα μετὰ τὴν τῆς τροφῆς προσφορὰν ὕπνος γίγνεται, ἕως ἂν διακριθῇ τοῦ αἵματος τὸ μὲν καθαρώτερον εἰς τὰ ἄνω, τὸ δὲ θολερώτερον εἰς τὰ κάτω· ὅταν δὲ τοῦτο συμβῇ, ἐγείρονται ἀπολυθέντα τοῦ ἐκ τῆς τροφῆς βάρους. τί μὲν οὖν τὸ αἴτιον τοῦ καθεύδειν εἴρηται, ὅτι ἡ [ὑπὸ] τοῦ σωματώδους τοῦ ἀναφερομένου ὑπὸ τοῦ συμφύτου θερμοῦ ἀντιπερίστασις ἀθρόως ἐπὶ τὸ πρῶτον αἰσθητήριον· καὶ τί ἐστιν ὁ ὕπνος, ὅτι τοῦ πρώτου αἰσθητηρίου κατάληψις πρὸς τὸ μὴ δύνασθαι ἐνεργεῖν, ἐξ ἀνάγκης μὲν γινόμενος (οὐ γὰρ ἐνδέχεται ζῷον εἶναι μὴ συμβαινόντων τῶν ἀπεργαζομένων αὐτό), ἕνεκα δὲ σωτηρίας· σῴζει γὰρ ἡ ἀνάπαυσις.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hgw-an",
+      "title": {
+        "english": "Aristotelian Divisions",
+        "ancient_greek": "Διαιρέσεις Ἀριστοτελικαί"
+      },
+      "url_slug": "aristotle-divisions-hgw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-cb",
+      "title": {
+        "english": "Aristotle's Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "aristotle-letters-philip-hgw-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-aa",
+      "title": {
+        "english": "Aristotle's Natural Problems by Type",
+        "ancient_greek": "᾿Αριστοτέλους φυσικά προβλήματα κατ᾿ εἶδος"
+      },
+      "url_slug": "aristotle-natural-problems-hgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bp",
+      "title": {
+        "english": "Categories",
+        "ancient_greek": "Κατηγορίαι"
+      },
+      "url_slug": "aristotle-categories-hgw-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-br",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικά"
+      },
+      "url_slug": "aristotle-economics-hgw-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ba",
+      "title": {
+        "english": "Eudemian Ethics",
+        "ancient_greek": "Ἠθικὰ Εὐδήμεια"
+      },
+      "url_slug": "aristotle-eudemian-ethics-hgw-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ad",
+      "title": {
+        "english": "Fragments of Lost First Part",
+        "ancient_greek": "Ἀθηναίων πολιτεία"
+      },
+      "url_slug": "aristotle-lost-first-part-hgw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/lost-first-part",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ar",
+      "title": {
+        "english": "From-Things Heard",
+        "ancient_greek": "Ἐκ τοῦ περὶ ἀκουστῶν"
+      },
+      "url_slug": "aristotle-things-heard-hgw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/things-heard",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bg",
+      "title": {
+        "english": "Great Ethics",
+        "ancient_greek": "Μεγάλα Ἠθικά"
+      },
+      "url_slug": "aristotle-great-ethics-hgw-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/great-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lea-ab",
+      "title": {
+        "english": "Astrological Fragment",
+        "ancient_greek": "Ἀστρολογικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "orphic-poems-astrological-fragment-lea-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/astrological-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/astrological-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "uxc-ah",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως ζῴων Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "sys-ab",
+      "title": {
+        "english": "Egyptians or-Providence",
+        "ancient_greek": "Αἰγύπτιοι ἢ Περὶ Προνοίας"
+      },
+      "url_slug": "synesius-of-cyrene-egyptians-providence-sys-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/synesius-of-cyrene/egyptians-providence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/synesius-of-cyrene/egyptians-providence.json"
+      }
+    },
+    {
+      "eul_wid": "bgs-ac",
+      "title": {
+        "english": "Golden Poem",
+        "ancient_greek": "Χρυσοῦν Ποίημα"
+      },
+      "url_slug": "pythagoras-of-samos-golden-poem-bgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythagoras-of-samos/golden-poem",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythagoras-of-samos/golden-poem.json"
+      }
+    },
+    {
+      "eul_wid": "reo-ae",
+      "title": {
+        "english": "On Aristotle's Metaphysics, Commentary",
+        "ancient_greek": "Εἰς τὰ Μετὰ τὰ Φυσικὰ Ἀριστοτέλους Ὑπομνήματα"
+      },
+      "url_slug": "alexander-of-aphrodisias-metaphysics-commentary-reo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/metaphysics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/metaphysics-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/metaphysics-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/metaphysics-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/metaphysics-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "reo-ap",
+      "title": {
+        "english": "On Fate",
+        "ancient_greek": "Περὶ Εἱμαρμένης"
+      },
+      "url_slug": "alexander-of-aphrodisias-on-fate-reo-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/on-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/on-fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/on-fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/on-fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/on-fate.json"
+      }
+    },
+    {
+      "eul_wid": "okg-au",
+      "title": {
+        "english": "On Those Punished Slowly by the Divine",
+        "ancient_greek": "Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων"
+      },
+      "url_slug": "plutarch-of-chaeronea-divine-punishment-slow-okg-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/divine-punishment-slow",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/divine-punishment-slow.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/divine-punishment-slow.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/divine-punishment-slow.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/divine-punishment-slow.json"
+      }
+    },
+    {
+      "eul_wid": "aqy-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "epimenides-of-crete-testimonies-aqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epimenides-of-crete/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epimenides-of-crete/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristotle/sleep-wakefulness",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/sleep-wakefulness.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

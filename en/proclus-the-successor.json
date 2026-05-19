@@ -1,0 +1,563 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uqy",
+  "auth_slug": "proclus-the-successor",
+  "name": {
+    "english": "Proclus the Successor",
+    "ancient_greek": "Πρόκλος ὁ Διάδοχος"
+  },
+  "seo_h1": "Proclus the Successor and the Neoplatonic Academy at Athens",
+  "seo": {
+    "browser_title": "The Proclus the Successor on Eulogikon Greek Archive",
+    "meta_title": "Classical Proclus the Successor Ancient Greek Treatises",
+    "meta_description": "Proclus, 5th century CE Neoplatonist philosopher. Surviving works include philosophical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Proclus was a philosopher of the 5th century CE, living from 412 to 485. He was the last major head of the Platonic Academy in Athens, a role that earned him the title &quot;the Successor.&quot; A devout follower of traditional Greek religion, he lived and taught during a period of growing Christian dominance in the Roman Empire.</p>\n<p class=\"research-text\">He was an exceptionally systematic and prolific writer. His surviving works include comprehensive treatises on metaphysics, such as the Elements of Theology and Platonic Theology, as well as detailed commentaries on the works of Plato and the first book of Euclid&#x27;s Elements. He also composed philosophical hymns. According to modern scholars, his work represents the final, mature synthesis of the ancient Platonic tradition.</p>\n<p class=\"research-text\">Proclus&#x27;s historical importance is immense. His systematic theology, which details how all reality emanates from a single supreme principle, became highly influential far beyond pagan circles. Through later adaptations and translations, his ideas profoundly shaped medieval Christian, Islamic, and Jewish philosophical thought. During the Renaissance, the recovery of his original texts made him a central figure in the revival of Platonic philosophy.</p>\n</div>",
+  "affiliation_label": "Neoplatonist",
+  "works_count": 20,
+  "works": [
+    {
+      "eul_wid": "uqy-aq",
+      "title": {
+        "english": "Chrestomathy",
+        "ancient_greek": "Χρηστομάθεια"
+      },
+      "url_slug": "proclus-the-successor-chrestomathy-uqy-aq",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/chrestomathy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chrestomathy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chrestomathy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chrestomathy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chrestomathy.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ag",
+      "title": {
+        "english": "Commentary-Plato's Cratylus",
+        "ancient_greek": "Σχόλια εἰς τὸν Πλάτωνος Κρατύλον"
+      },
+      "url_slug": "proclus-the-successor-cratylus-commentary-uqy-ag",
+      "passages": 147,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/cratylus-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/cratylus-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/cratylus-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/cratylus-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/cratylus-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ah",
+      "title": {
+        "english": "Commentary-Plato's Timaeus",
+        "ancient_greek": "Σχόλια εἰς τὸν Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "proclus-the-successor-timaeus-commentary-uqy-ah",
+      "passages": 1134,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/timaeus-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ab",
+      "title": {
+        "english": "Commentary-the First Book of Euclid's Elements",
+        "ancient_greek": "Σχόλια εἰς τὸ πρῶτον βιβλίον τῶν Εὐκλείδου"
+      },
+      "url_slug": "proclus-the-successor-euclid-elements-commentary-uqy-ab",
+      "passages": 434,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/euclid-elements-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/euclid-elements-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/euclid-elements-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/euclid-elements-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/euclid-elements-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-at",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "proclus-the-successor-epigrams-at-uqy-at",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/epigrams-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-at.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-at.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-at.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-at.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-as",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "proclus-the-successor-epigrams-as-uqy-as",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/epigrams-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ac",
+      "title": {
+        "english": "Excerpts from Platonic Theology of Proclus",
+        "ancient_greek": "Ἐκλογαὶ ἐκ τῆς Πλατωνικῆς Θεολογίας τοῦ Πρόκλου"
+      },
+      "url_slug": "proclus-the-successor-platonic-theology-uqy-ac",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/platonic-theology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/platonic-theology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/platonic-theology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/platonic-theology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/platonic-theology.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ar",
+      "title": {
+        "english": "Hymns 1–7",
+        "ancient_greek": "Ὕμνοι Α'-Ζ'"
+      },
+      "url_slug": "proclus-the-successor-hymns-uqy-ar",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/hymns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/hymns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/hymns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/hymns.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ak",
+      "title": {
+        "english": "On Plato's Alcibiades I",
+        "ancient_greek": "Περὶ τοῦ Πλάτωνος Ἀλκιβιάδου Α'"
+      },
+      "url_slug": "proclus-the-successor-plato-alcibiades-uqy-ak",
+      "passages": 339,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/plato-alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-an",
+      "title": {
+        "english": "On Plato's Parmenides",
+        "ancient_greek": "Περὶ τοῦ Πλάτωνος Παρμενίδου"
+      },
+      "url_slug": "proclus-the-successor-plato-parmenides-uqy-an",
+      "passages": 631,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/plato-parmenides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-parmenides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-parmenides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-parmenides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/plato-parmenides.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-aa",
+      "title": {
+        "english": "On Providence, Fate, and What is Within Us to Theodorus the Mechanic",
+        "ancient_greek": "Περὶ προνοίας"
+      },
+      "url_slug": "proclus-the-successor-providence-fate-theodorus-uqy-aa",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/providence-fate-theodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/providence-fate-theodorus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/providence-fate-theodorus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/providence-fate-theodorus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/providence-fate-theodorus.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-am",
+      "title": {
+        "english": "On Sacrifice and Magic",
+        "ancient_greek": "Περὶ θυσίας καὶ μαγείας"
+      },
+      "url_slug": "proclus-the-successor-sacrifice-magic-uqy-am",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/sacrifice-magic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/sacrifice-magic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/sacrifice-magic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/sacrifice-magic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/sacrifice-magic.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ad",
+      "title": {
+        "english": "On Ten Doubts Concerning Providence",
+        "ancient_greek": "Περὶ δέκα ἀποριῶν περὶ προνοίας"
+      },
+      "url_slug": "proclus-the-successor-ten-doubts-providence-uqy-ad",
+      "passages": 62,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/ten-doubts-providence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/ten-doubts-providence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/ten-doubts-providence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/ten-doubts-providence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/ten-doubts-providence.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-aj",
+      "title": {
+        "english": "On the Existence of Evils",
+        "ancient_greek": "Περὶ τοῦ εἶναι τὰ κακά"
+      },
+      "url_slug": "proclus-the-successor-existence-of-evils-uqy-aj",
+      "passages": 43,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/existence-of-evils",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-af",
+      "title": {
+        "english": "Outline of Astronomical Positions",
+        "ancient_greek": "Σύνοψις τῶν ἀστρονομικῶν θέσεων"
+      },
+      "url_slug": "proclus-the-successor-astronomical-positions-uqy-af",
+      "passages": 372,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/astronomical-positions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/astronomical-positions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/astronomical-positions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/astronomical-positions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/astronomical-positions.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ao",
+      "title": {
+        "english": "Physical Instruction",
+        "ancient_greek": "Φυσικὴ Διδασκαλία"
+      },
+      "url_slug": "proclus-the-successor-physical-instruction-uqy-ao",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/physical-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/physical-instruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/physical-instruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/physical-instruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/physical-instruction.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ai",
+      "title": {
+        "english": "Platonic Theology Books 1–5",
+        "ancient_greek": "Πλατωνικὴ Θεολογία Βιβλία Α'-Ε'"
+      },
+      "url_slug": "proclus-the-successor-theology-books-1-5-uqy-ai",
+      "passages": 560,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/theology-books-1-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theology-books-1-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theology-books-1-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theology-books-1-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theology-books-1-5.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ap",
+      "title": {
+        "english": "Proclus Diadochus",
+        "ancient_greek": "Σχόλια εἰς τὴν Πλάτωνος Πολιτείαν"
+      },
+      "url_slug": "proclus-the-successor-diadochus-uqy-ap",
+      "passages": 662,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/diadochus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/diadochus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/diadochus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/diadochus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/diadochus.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ae",
+      "title": {
+        "english": "Selections-Chaldaean Philosophy",
+        "ancient_greek": "Ἐκλογαὶ περὶ Χαλδαϊκῆς φιλοσοφίας"
+      },
+      "url_slug": "proclus-the-successor-chaldaean-philosophy-uqy-ae",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/chaldaean-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chaldaean-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chaldaean-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chaldaean-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/chaldaean-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-al",
+      "title": {
+        "english": "Theological Instruction",
+        "ancient_greek": "Θεολογικὴ Διδασκαλία"
+      },
+      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
+      "passages": 212,
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "rrq",
+      "name": {
+        "english": "Amelius Letters",
+        "ancient_greek": "Ἀμελίου Ἐπιστολή"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/amelius-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/amelius-letters.json"
+      }
+    },
+    {
+      "eul_aid": "uqo",
+      "name": {
+        "english": "Ammonius of Alexandria Phil",
+        "ancient_greek": "Ἀμμώνιος ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 5,
+      "links": {
+        "html": "https://eulogikon.org/en/ammonius-of-alexandria-phil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ammonius-of-alexandria-phil.json"
+      }
+    },
+    {
+      "eul_aid": "uyg",
+      "name": {
+        "english": "Damascius of Damascus",
+        "ancient_greek": "Δαμάσκιος ὁ Δαμασκηνός"
+      },
+      "work_count": 7,
+      "links": {
+        "html": "https://eulogikon.org/en/damascius-of-damascus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damascius-of-damascus.json"
+      }
+    },
+    {
+      "eul_aid": "vcm",
+      "name": {
+        "english": "David the Invincible",
+        "ancient_greek": "Δαβίδ ὁ Ἀνίκητος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/david-the-invincible",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/david-the-invincible.json"
+      }
+    },
+    {
+      "eul_aid": "sfw",
+      "name": {
+        "english": "Dexippus the Neoplatonist",
+        "ancient_greek": "Δέξιππος ὁ Νεοπλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/dexippus-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dexippus-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "vgs",
+      "name": {
+        "english": "Elias the Neoplatonist",
+        "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/elias-the-neoplatonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/elias-the-neoplatonist.json"
+      }
+    },
+    {
+      "eul_aid": "sio",
+      "name": {
+        "english": "Eusebius of Myndus",
+        "ancient_greek": "Εὐσέβιος ὁ Μύνδιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eusebius-of-myndus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eusebius-of-myndus.json"
+      }
+    },
+    {
+      "eul_aid": "tbu",
+      "name": {
+        "english": "Hierocles of Alexandria",
+        "ancient_greek": "Ἱεροκλῆς ὁ Ἀλεξανδρεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/hierocles-of-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hierocles-of-alexandria.json"
+      }
+    },
+    {
+      "eul_aid": "chq",
+      "name": {
+        "english": "Iamblichus Anonymous",
+        "ancient_greek": "Ἰάμβλιχος ὁ Ἀνώνυμος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-anon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-anon.json"
+      }
+    },
+    {
+      "eul_aid": "udw",
+      "name": {
+        "english": "Iamblichus of Chalcis",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis.json"
+      }
+    },
+    {
+      "eul_aid": "rvw",
+      "name": {
+        "english": "Iamblichus of Chalcis II",
+        "ancient_greek": "Ἰάμβλιχος ὁ Χαλκιδεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/iamblichus-of-chalcis-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iamblichus-of-chalcis-ii.json"
+      }
+    },
+    {
+      "eul_aid": "sno",
+      "name": {
+        "english": "Julian the Apostate",
+        "ancient_greek": "Ἰουλιανὸς ὁ Ἀποστάτης"
+      },
+      "work_count": 20,
+      "links": {
+        "html": "https://eulogikon.org/en/julian-the-apostate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-apostate.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/proclus-the-successor",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proclus-the-successor.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proclus-the-successor.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proclus-the-successor.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/proclus-the-successor.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

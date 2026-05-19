@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gae",
+  "auth_slug": "menetor-the-historian",
+  "name": {
+    "english": "Menetor the Historian",
+    "ancient_greek": "Μενέτωρ ὁ Ἱστορικός"
+  },
+  "seo_h1": "Menetor the Historian on Dedications",
+  "seo": {
+    "browser_title": "Menetor the Historian on Eulogikon Greek Text Archive",
+    "meta_title": "Menetor the Historian Ancient Greek Historical Works",
+    "meta_description": "Menetor the Historian, a Greek historian of the Classical period. His surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menetor the Historian is a figure of uncertain historicity. The name appears in ancient sources, but not clearly attached to a historian. Athenaeus cites a Menetor as the author of a culinary work, On the Art of Cooking, while the Suda mentions a Menetor of Athens without providing detail. Proposed dates for his life range from the 3rd century BCE to the 2nd century CE, but these lack corroboration from existing sources.</p>\n<p class=\"research-text\">No historical works are verifiably attributed to Menetor. The sole extant attribution is the gastronomic treatise On the Art of Cooking. Consequently, Menetor the Historian holds no established significance in the field of Greek historiography. The figure is significant only indirectly, as a name preserved in relation to a minor work on cookery.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gae-aa",
+      "title": {
+        "english": "Fragments on Dedications",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναθημάτων"
+      },
+      "url_slug": "menetor-the-historian-dedications-gae-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/menetor-the-historian/dedications",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menetor-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menetor-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menetor-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menetor-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menetor-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

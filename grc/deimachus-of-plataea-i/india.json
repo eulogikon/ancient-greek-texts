@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ine-aa",
+  "eul_aid": "ine",
+  "author_slug": "deimachus-of-plataea-i",
+  "work_slug": "india",
+  "url_slug": "deimachus-of-plataea-i-india-ine-aa",
+  "author": {
+    "english": "Deimachus of Plataea I",
+    "ancient_greek": "Δείμαχος ὁ Πλαταιεύς"
+  },
+  "title": {
+    "english": "On India",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Deimachus of Plataea on India on Eulogikon",
+    "meta_title": "Fragments on India by Deimachus of Plataea in Ancient Greek",
+    "meta_description": "Fragments from Deimachus of Plataea on India. Early Hellenistic account of geography and customs. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On India_ is a lost historical and ethnographic work by the Seleucid ambassador Deimachus of Plataea. Written in the early 3rd century BCE, it described the geography, customs, and natural history of India based on the author&#x27;s diplomatic mission to the Mauryan court of King Bindusāra at Pāṭaliputra. The work survives only in fragments preserved by later authors, most notably the geographer Strabo. The extant passages address various subjects, including Indian social customs with an early reference to the practice of widow self-immolation, descriptions of Indian geography and climate, and observations on local fauna. Strabo, however, grouped Deimachus with other early writers on India whom he considered unreliable, criticizing their accounts for containing fables and geographical inaccuracies. The work is known through approximately seven identifiable fragments, chiefly quoted in Strabo’s <strong>Geographica</strong>. The alternative title <strong>Apospasmata</strong>, meaning &quot;Extracts,&quot; likely reflects its fragmentary transmission as excerpts rather than being the original title. Despite ancient criticisms of its reliability, Deimachus’s work was a key early source of Greek knowledge about India. Alongside accounts like that of Megasthenes, it helped shape Hellenistic and Roman perceptions of the subcontinent as a land of exotic wonder. The fragments remain valuable for studying early Indo-Greek contact and the transmission of ethnographic information in antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t2-4a",
+      "text": "ΙΝΔΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Strabo II: Πάλιν δ’ ἐκείνου τὸν Δηίμαχον ἰδιώτην ἐνδείξασθαι βουλομένου (sc. Ἐρατοσθένους) καὶ ἄπειρον τῶν τοιούτων· οἴεσθαι γὰρ τὴν Ἰνδικὴν μεταξὺ κεῖσθαι τῆς τε φθινοπωρινῆς ἰσημερίας καὶ τῶν τροπῶν τῶν χειμερινῶν, Μεγασθένει τε ἀντιλέγειν φήσαντι ἐν τοῖς νοτίοις μέρεσι τῆς Ἰνδικῆς τάς τε ἄρκτους ἀποκρύπτεσθαι καὶ τὰς σκιὰς ἀντιπίπτειν· μηδέτερον γὰρ τούτων μηδαμοῦ τῆς Ἰνδικῆς συμβαίνειν· ταῦτα δὴ φάσκοντος ἀμαθῶς λέγεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Athenaeus IX: Δαΐμαχος δ’ ἐν τοῖς Ἰνδικοῖς ἱστορεῖ περιστερὰς μηλίνας γίνεσθαι ἐν Ἰνδοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.(t)",
+      "text": "E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.(t)",
+      "text": "Harpocratio v. Ἐγγυθήκη: Εἴη δ’ ἂν σκεῦός τι πρὸς τὸ κρατῆρας ἢ λέβητας ἤ τι τοιούτων οὐκ ἀλλότριον ἐπικεῖσθαι ἐπιτήδειον [εἶναι], ὡς Καλλίξενός τε ἐν δʹ περὶ Ἀλεξανδρείας ὑποσημαίνει καὶ Δαΐμαχος ὁ Πλα ταιεὺς ἐν βʹ Περὶ Ἰνδικῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4a.(t)",
+      "text": "(E LIBRO DECIMO?).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4a.(t)",
+      "text": "Plutarch. De fluv. 4, 3: Παράκειται δ’ αὐτῷ (τῷ Γάγγῃ) ὄρος Ἀνατολὴ καλούμενον δι’ αἰτίαν τοιαύτην. τῷ Ἀναξιβίαν νύμφην Ἥλιος θεασάμενος χωρίοις προσευκαιροῦσαν, εἰς ἐπιθυμίαν αὐτῆς ἐνέπεσε, καὶ μὴ στέ γων τοὺς ἔρωτας, ἀπεδίωξε τὴν προειρημένην βιάσασθαι βουλόμενος· ἡ δὲ περικατάληπτος γενομένη, κατέφυγεν ἐπὶ τὸ τῆς Ὀρθίας Ἀρτέμιδος τέμενος, ὅπερ ἦν ἐν ὄρει, Κορυφὴ καλουμένῳ, καὶ ἀφανὴς ἐγένετο· κατόπιν δ’ ἀκολουθήσας ὁ θεὸς, καὶ μηδαμοῦ τὴν ἀγαπωμένην εὑρὼν, διὰ λύπης ὑπερβολὴν ἐκεῖθεν ἀνέτειλεν· οἱ δὲ ἐγχώριοι τὴν ἀκρώρειαν Ἀνατολὴν μετωνόμασαν ἀπὸ τοῦ συγκυρήματος· καθὼς ἱστορεῖ Καιμάρων ἐν δε κάτῳ Ἰνδικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "giq-aa",
+      "title": {
+        "english": "Egyptian Affairs",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "lyceas-of-naucratis-egyptian-affairs-giq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyceas-of-naucratis/egyptian-affairs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyceas-of-naucratis/egyptian-affairs.json"
+      }
+    },
+    {
+      "eul_wid": "clm-aa",
+      "title": {
+        "english": "Fragments on Boeotian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βοιωτικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesiphon-the-historian-boeotian-history-clm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesiphon-the-historian/boeotian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.json"
+      }
+    },
+    {
+      "eul_wid": "hxk-ac",
+      "title": {
+        "english": "Fragments on Heracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+      },
+      "url_slug": "timaeus-of-tauromenium-heracles-fragments-hxk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/heracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/heracles-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/heracles-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/heracles-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/heracles-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "qzy-aa",
+      "title": {
+        "english": "From the Death of Divine Marcus",
+        "ancient_greek": "Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου"
+      },
+      "url_slug": "herodian-of-antioch-death-marcus-qzy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-antioch/death-marcus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.json"
+      }
+    },
+    {
+      "eul_wid": "hiu-aa",
+      "title": {
+        "english": "Historical and Natural Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristobulus-of-cassandreia-historical-natural-fragments-hiu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristobulus-of-cassandreia/historical-natural-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bi",
+      "title": {
+        "english": "On Hannibal",
+        "ancient_greek": "Περὶ Ἁννίβα"
+      },
+      "url_slug": "historical-fragments-anonymous-hannibal-mmg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/hannibal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/hannibal.json"
+      }
+    },
+    {
+      "eul_wid": "jre-af",
+      "title": {
+        "english": "On the Impious",
+        "ancient_greek": "Περὶ τῶν ἀσεβῶν"
+      },
+      "url_slug": "paradoxographer-anon-impious-jre-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/impious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.json"
+      }
+    },
+    {
+      "eul_wid": "ple-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "phlegon-of-tralles-testimonies-ple-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/deimachus-of-plataea-i/india",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i/india.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i/india.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i/india.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deimachus-of-plataea-i/india.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

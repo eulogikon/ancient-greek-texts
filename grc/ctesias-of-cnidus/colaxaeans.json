@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ehy-ac",
+  "eul_aid": "ehy",
+  "author_slug": "ctesias-of-cnidus",
+  "work_slug": "colaxaeans",
+  "url_slug": "ctesias-of-cnidus-colaxaeans-ehy-ac",
+  "author": {
+    "english": "Ctesias of Cnidus",
+    "ancient_greek": "Κτησίας ὁ Κνίδιος"
+  },
+  "title": {
+    "english": "On the Colaxaeans",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Colaxaeans by Ctesias of Cnidus on Eulogikon",
+    "meta_title": "Ancient On the Colaxaeans by Ctesias of Cnidus in Greek",
+    "meta_description": "On the Colaxaeans is a lost treatise by Ctesias blending medical and ethnographic themes. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Colaxaeans is a lost treatise by the Greek physician and historian Ctesias of Cnidus, composed in Ionic Greek around 400 BCE. The work blended medical and ethnographic themes, focusing on peoples and lands at the eastern fringes of the Persian Empire. Only two fragmentary passages survive through quotation by later authors. One fragment describes a medicinal &quot;Indian stone&quot; used as an antidote and a treatment for eye ailments, while the other records a fantastical account of a people in India possessing backwards-turned feet. Scholars interpret this combination of practical pharmacology and marvels as characteristic of Ctesias&#x27;s writings, which catered to contemporary Greek curiosity about the exotic East. The treatise was likely based on stories he collected during his service as a physician at the Persian court. No manuscript of the original survives, and its content is known solely through these later quotations.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "66bis.(l1)",
+      "text": "PAP. OX. 2389 fr. 6 col. 1, 16—19 (s. 1 II p.; vol. 24, 1957, 37f.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66bis.(l1)",
+      "text": "[Taf. 5]; Schol. B Alkm. F 1, 59 Page [Lyrica Graeca selecta, 1958, 7]) ... περὶ δὲ τῶ[ν Κολαξαί]ων ˈ [ Κτησί α ]ς ὁ Κν [ ίδ ι ]ος δια[ ]νεαμ[ ]ˈ[ ] .. ι̣ω̣ς γρ[ ]δε . [ ]ˈ[ ] τὸν πόντον τοῦτο[ν]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ehy-ab",
+      "title": {
+        "english": "Fragments on Assyrian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀσσυρικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesias-of-cnidus-assyrian-history-ehy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/assyrian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/assyrian-history.json"
+      }
+    },
+    {
+      "eul_wid": "ehy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ctesias-of-cnidus-testimonies-ehy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ae",
+      "title": {
+        "english": "Medical Questions",
+        "ancient_greek": "Ἰατρικαὶ Ζητήσεις"
+      },
+      "url_slug": "rufus-of-ephesus-medical-questions-ojc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/medical-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.json"
+      }
+    },
+    {
+      "eul_wid": "nyi-ad",
+      "title": {
+        "english": "On Simple Medicines",
+        "ancient_greek": "Περὶ ἀπλῶν φαρμάκων"
+      },
+      "url_slug": "dioscorides-of-anazarbus-simple-medicines-nyi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscorides-of-anazarbus/simple-medicines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus/simple-medicines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus/simple-medicines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus/simple-medicines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscorides-of-anazarbus/simple-medicines.json"
+      }
+    },
+    {
+      "eul_wid": "rsu-aa",
+      "title": {
+        "english": "On Venomous Animals and Their Remedies",
+        "ancient_greek": "Περὶ Δηλητηριωδῶν Ζῴων καὶ Ἰαμάτων"
+      },
+      "url_slug": "philumenus-the-physician-venomous-animals-remedies-rsu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philumenus-the-physician/venomous-animals-remedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philumenus-the-physician/venomous-animals-remedies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philumenus-the-physician/venomous-animals-remedies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philumenus-the-physician/venomous-animals-remedies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philumenus-the-physician/venomous-animals-remedies.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-au",
+      "title": {
+        "english": "On the Dissection of Muscles for Beginners",
+        "ancient_greek": "Περὶ τῆς τῶν μυῶν ἀνατομῆς πρὸς τοὺς νεοφύτους"
+      },
+      "url_slug": "galen-of-pergamon-dissection-muscles-qmm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/dissection-muscles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-muscles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-muscles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-muscles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/dissection-muscles.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ad",
+      "title": {
+        "english": "On the Nature of the Child",
+        "ancient_greek": "Περὶ τῆς φύσεως τοῦ παιδίου"
+      },
+      "url_slug": "hippocrates-nature-child-bww-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nature-child",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.json"
+      }
+    },
+    {
+      "eul_wid": "umi-at",
+      "title": {
+        "english": "Physiognomics",
+        "ancient_greek": "Φυσιογνωμονικά"
+      },
+      "url_slug": "medical-writers-anonymous-physiognomics-umi-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/physiognomics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/physiognomics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/physiognomics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/physiognomics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/physiognomics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bp",
+      "title": {
+        "english": "Prognostic",
+        "ancient_greek": "Προγνωστικόν"
+      },
+      "url_slug": "hippocrates-prognostic-bww-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/prognostic.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ctesias-of-cnidus/colaxaeans",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

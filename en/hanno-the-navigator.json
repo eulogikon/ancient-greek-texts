@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ens",
+  "auth_slug": "hanno-the-navigator",
+  "name": {
+    "english": "Voyage of Hanno the Navigator",
+    "ancient_greek": "Ὁ περίπλους Ἁννῶνος τοῦ Ναυάρχου"
+  },
+  "seo_h1": "The Periplus of Hanno the Navigator",
+  "seo": {
+    "browser_title": "Hanno the Navigator on Eulogikon Greek Archive and Library",
+    "meta_title": "Hanno the Navigator Ancient Greek Geographical Works",
+    "meta_description": "Hanno the Navigator, Carthaginian explorer of the 5th century BCE. Author of the Periplus. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Voyage of Hanno the Navigator</p>\n<p class=\"research-text\">Life</p>\n<p class=\"research-text\">No biographical details survive for the anonymous Greek translator of the Periplus of Hanno. The text is a Greek adaptation of a Punic inscription that recorded the expedition of the Carthaginian magistrate and explorer Hanno, who navigated the Atlantic coast of Africa in the sixth or fifth century BCE. The original was displayed in the temple of Ba&#x27;al Hammon in Carthage. The work&#x27;s existence demonstrates cultural transmission between the Punic and Greek worlds.</p>\n<p class=\"research-text\">Works</p>\n<p class=\"research-text\">The Periplus of Hanno is a concise prose account of a Carthaginian voyage along northwestern Africa, representing the sole surviving work of this tradition.</p>\n<p class=\"research-text\">Significance</p>\n<p class=\"research-text\">The Periplus is a historical document of primary importance, offering a rare firsthand glimpse into Carthaginian maritime exploration and Atlantic colonization. Its descriptions of indigenous peoples, wildlife, and volcanic phenomena have provoked extensive scholarly analysis regarding their identification and the journey&#x27;s southern limit. As a Greek translation of a lost Punic original, it is crucial evidence for cross-cultural knowledge exchange and a definitive example of the ancient periplus genre.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ens-aa",
+      "title": {
+        "english": "Periplus of Hanno",
+        "ancient_greek": "Περίπλους Ἄννωνος"
+      },
+      "url_slug": "hanno-the-navigator-periplus-ens-aa",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/hanno-the-navigator/periplus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hanno-the-navigator/periplus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hanno-the-navigator/periplus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hanno-the-navigator/periplus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hanno-the-navigator/periplus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hanno-the-navigator",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hanno-the-navigator.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hanno-the-navigator.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hanno-the-navigator.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hanno-the-navigator.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

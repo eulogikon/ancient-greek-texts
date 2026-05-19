@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "clm",
+  "auth_slug": "ctesiphon-the-historian",
+  "name": {
+    "english": "Ctesiphon Historicus",
+    "ancient_greek": "Κτησιφῶν ὁ Ἱστορικός"
+  },
+  "seo_h1": "Ctesiphon on Boeotian History",
+  "seo": {
+    "browser_title": "Ctesiphon Historicus on Eulogikon Greek Text Archive",
+    "meta_title": "Ctesiphon Historicus Ancient Greek Historical Works",
+    "meta_description": "Ctesiphon Historicus, a 4th century BCE Attic historian. Historical fragments from the Classical period. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ctesiphon the Historian was a Greek historian of the 4th century BCE. No biographical details about his life survive. The epithet &quot;the Historian&quot; serves to distinguish him from other figures named Ctesiphon, such as the Athenian politician referenced by Demosthenes.</p>\n<p class=\"research-text\">He is known solely for one work: the <strong>Sikelika</strong> or <strong>Sicilian History</strong>. This history of Sicily survives only in a single fragment preserved by the later writer Athenaeus. The fragment describes the luxurious drinking vessels owned by Dionysius I, the tyrant of Syracuse.</p>\n<p class=\"research-text\">Ctesiphon is a minor figure in Greek historiography, representing the genre of local Sicilian history. His surviving fragment is valued not for its historical narrative but for its anecdotal depiction of Syracusan courtly excess. It illustrates the diverse and fragmentary nature of Greek historical writing that exists beyond the works of the major authors.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "clm-aa",
+      "title": {
+        "english": "Fragments on Boeotian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βοιωτικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesiphon-the-historian-boeotian-history-clm-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesiphon-the-historian/boeotian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ctesiphon-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesiphon-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesiphon-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesiphon-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ctesiphon-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

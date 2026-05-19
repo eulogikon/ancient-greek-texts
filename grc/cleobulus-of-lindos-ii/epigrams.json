@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "asc-ab",
+  "eul_aid": "asc",
+  "author_slug": "cleobulus-of-lindos-ii",
+  "work_slug": "epigrams",
+  "url_slug": "cleobulus-of-lindos-ii-epigrams-asc-ab",
+  "author": {
+    "english": "Cleobulus of Lindos II",
+    "ancient_greek": "Κλεόβουλος ὁ Λίνδιος"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "The Epigrams by Cleobulus of Lindos on Eulogikon Archive",
+    "meta_title": "Classical Epigrams by Cleobulus of Lindos in Ancient Greek",
+    "meta_description": "Epigrams by Cleobulus of Lindos, one of the Seven Sages. Short poetic inscriptions. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams constitute a collection of short, elegiac verse attributed to Cleobulus of Lindos, one of the Seven Sages of Greece. As gnomic poetry, these epigrams offered concise moral and practical advice, aligning with the tradition of archaic wisdom literature through maxims on virtue, moderation, and social conduct. The work survives only as a title and through possible fragments; the notation of eight passages refers to testimonia collected from later sources rather than a continuous, preserved text. No independent manuscript tradition exists for Cleobulus’s epigrams. Any surviving lines are preserved doxographically within the broader tradition of the Sayings of the Seven Sages, quoted by later authors such as Plato and Diogenes Laertius. As part of the Seven Sages corpus, the reputed epigrams contributed to the foundation of Greek ethical thought. This tradition of concise, memorable wisdom was extensively reproduced and debated, ensuring its profound influence on subsequent philosophy and literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 153.1.1",
+      "text": "Χαλκῆ παρθένος εἰμί, Μίδα δ’ ἐπὶ σήματι κεῖμαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153.1.2",
+      "text": "ἔστ’ ἂν ὕδωρ τε νάῃ καὶ δένδρεα μακρὰ τεθήλῃ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153.1.3",
+      "text": "αὐτοῦ τῇδε μένουσα πολυκλαύτῳ ἐπὶ τύμβῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 153.1.4",
+      "text": "ἀγγελέω παριοῦσι, Μίδας ὅτι τῇδε τέθαπται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.1",
+      "text": "Εἷς ὁ πατήρ, παῖδες δυοκαίδεκα· τῶν δὲ ἑκάστῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.2",
+      "text": "παῖδες 〈δὶσ〉 τριάκοντα διάνδιχα εἶδος ἔχουσαι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101.1.3",
+      "text": "αἱ μὲν λευκαὶ ἔασιν ἰδεῖν, αἱ δ’ αὖτε μέλαιναι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 101",
+      "text": "ἀθάνατοι δέ τ’ ἐοῦσαι ἀποφθινύθουσιν ἅπασαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "asc-aa",
+      "title": {
+        "english": "Fragments of Gnomic Wisdom",
+        "ancient_greek": "Ἀποσπάσματα Γνωμικῆς Σοφίας"
+      },
+      "url_slug": "cleobulus-of-lindos-ii-gnomic-wisdom-asc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleobulus-of-lindos-ii/gnomic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/gnomic-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/gnomic-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/gnomic-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/gnomic-wisdom.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fle-aa",
+      "title": {
+        "english": "Attic Banquet",
+        "ancient_greek": "Δεῖπνον Ἀττικόν"
+      },
+      "url_slug": "matron-of-pitane-banquet-aa-fle-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.json"
+      }
+    },
+    {
+      "eul_wid": "uri-aa",
+      "title": {
+        "english": "Cyrillian Anthology",
+        "ancient_greek": "Κυρίλλειος Ἀνθολογία"
+      },
+      "url_slug": "florilegium-cyrillianum-anonymous-anthology-uri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/florilegium-cyrillianum-anonymous/anthology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.json"
+      }
+    },
+    {
+      "eul_wid": "vfo-aa",
+      "title": {
+        "english": "Description of Hagia Sophia",
+        "ancient_greek": "Περὶ τῆς Ἁγίας Σοφίας"
+      },
+      "url_slug": "paul-the-silentiary-hagia-sophia-vfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paul-the-silentiary/hagia-sophia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.json"
+      }
+    },
+    {
+      "eul_wid": "ehe-aa",
+      "title": {
+        "english": "Fragments on Myth and Ships",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μύθων καὶ Νεῶν"
+      },
+      "url_slug": "antimachus-of-colophon-myth-ships-ehe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/myth-ships",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/myth-ships.json"
+      }
+    },
+    {
+      "eul_wid": "ale-aa",
+      "title": {
+        "english": "Fragments on Ninus the Assyrian",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νίνου τοῦ Ἀσσυρίου"
+      },
+      "url_slug": "phoenix-of-colophon-ninus-fragments-ale-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenix-of-colophon/ninus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gya-aa",
+      "title": {
+        "english": "Lyric Fragments",
+        "ancient_greek": "Λυρικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "lyric-poets-anonymous-fragments-gya-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poets-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poets-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "tpq-aa",
+      "title": {
+        "english": "Teliambic Fragment",
+        "ancient_greek": "Τηλιαμβικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "teliambic-fragment-anonymous-fragment-tpq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/teliambic-fragment-anonymous/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous/fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous/fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous/fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teliambic-fragment-anonymous/fragment.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ai",
+      "title": {
+        "english": "Victory Odes",
+        "ancient_greek": "Νίκαι Ὠδαί"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ai-brw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cleobulus-of-lindos-ii/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

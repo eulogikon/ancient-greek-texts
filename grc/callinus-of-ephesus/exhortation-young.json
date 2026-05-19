@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ago-aa",
+  "eul_aid": "ago",
+  "author_slug": "callinus-of-ephesus",
+  "work_slug": "exhortation-young",
+  "url_slug": "callinus-of-ephesus-exhortation-young-ago-aa",
+  "author": {
+    "english": "Callinus of Ephesus",
+    "ancient_greek": "Καλλῖνος ὁ Ἐφέσιος"
+  },
+  "title": {
+    "english": "Exhortation to the Young",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Exhortation to the Young by Callinus of Ephesus on Eulogikon",
+    "meta_title": "Exhortation to the Young by Callinus in Ancient Greek",
+    "meta_description": "Fragments of the Exhortation to the Young by Callinus. Early Greek elegiac poetry from the 7th century BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (el, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Exhortation to the Young</strong> is a collection of poetic fragments attributed to Callinus of Ephesus, one of the earliest known Greek elegiac poets. Composed in the mid-7th century BCE in epic Ionic Greek, the work is a prime example of martial exhortation poetry. Its most substantial and famous fragment directly addresses the young men of Ephesus, urging them to rouse their courage and defend their city from an imminent attack, which scholars associate with the invading Cimmerians. The poem argues that an honorable death in battle brings eternal glory to the individual and his family, while cowardice leads only to shame and a miserable, forgotten end. Other surviving fragments briefly explore supporting themes of inescapable fate, the will of the gods, and the inherent fragility of human life.</p>\n<p class=\"research-text\">The work survives not as a complete, continuous poem but as a series of approximately fifteen fragments, the longest of which extends to twenty-one lines. These pieces were preserved solely through quotation by later ancient authors such as Stobaeus and Strabo, with no independent manuscript tradition. Modern interpretation views the <strong>Exhortation</strong> as a clear example of civic poetry with a practical function, designed to bolster the morale of citizen-soldiers during a period of military crisis in Archaic Greece. Callinus’s adaptation of the elegiac couplet—a meter previously associated with lament—for public, martial themes established a influential model that was later refined by poets such as the Spartan Tyrtaeus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "μέχρις τ͜έο͜ κατάκεισθε; κότ’ ἄλκιμον ἕξετε θυμόν, ὦ νέοι; οὐδ’ αἰδεῖσθ’ ἀμφιπερικτίονας ὧδε λίην μεθιέντες; ἐν εἰρήνηι δὲ δοκεῖτε ἧσθαι, ἀτὰρ πόλεμος γαῖαν ἅπασαν ἔχει[ln_5].........[ln_5]καί τις ἀποθνήσκων ὕστατ’ ἀκοντισάτω. τιμῆέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε γάρ ἐστι καὶ ἀγλαὸν ἀνδρὶ μάχεσθαι γῆς πέρι καὶ παίδων κουριδίης τ’ ἀλόχου δυσμενέσιν· θάνατος δὲ τότ’ ἔσσεται, ὁππότε κεν δὴ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Μοῖραι ἐπικλώσως’. ἀλλά τις ἰθὺς ἴτω[ln_10]ἔγχος ἀνασχόμενος καὶ ὑπ’ ἀσπίδος ἄλκιμον ἦτορ ἔλσας, τὸ πρῶτον μειγνυμένου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολέμου. οὐ γάρ κως θάνατόν γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φυγεῖν εἱμαρμένον ἐστὶν ἄνδρ’, οὐδ’ εἰ προγόνων ἦι γένος ἀθανάτων. πολλάκι δηϊοτῆτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φυγὼν καὶ δοῦπον ἀκόντων[ln_15]ἔρχεται, ἐν δ’ οἴκωι μοῖρα κίχεν θανάτου, ἀλλ’ ὁ μὲν οὐκ ἔμπης δήμωι φίλος οὐδὲ ποθεινός· τὸν δ’ ὀλίγος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "στενάχει καὶ μέγας ἤν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τι πάθηι· λαῶι γὰρ σύμπαντι πόθος κρατερόφρονος ἀνδρὸς θνήσκοντος, ζώων δ’ ἄξιος ἡμιθέων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_20]ὥσπερ γάρ μιν πύργον ἐν ὀφθαλμοῖσιν ὁρῶσιν· ἔρδει γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολλὼν ἄξια μοῦνος ἐών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Σμυρναίους δ’ ἐλέησον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2a",
+      "text": "μνῆσαι δ’, εἴ κοτέ τοι μηρία καλὰ βοῶν 〈Σμυρναῖοι κατέκηαν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Τρήερας ἄνδρας ἄγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5a.1",
+      "text": "νῦν δ’ ἐπὶ Κιμμερίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5a.2",
+      "text": "στρατὸς ἔρχεται ὀβριμοεργῶν,",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "auu-aa",
+      "title": {
+        "english": "Elegiac Fragment",
+        "ancient_greek": "Ἐλεγειακὸν Ἀπόσπασμα"
+      },
+      "url_slug": "asius-of-samos-elegiac-fragment-auu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/asius-of-samos/elegiac-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "kmi-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "theodoridas-of-syracuse-fragments-kmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "brw-aa",
+      "title": {
+        "english": "Fragments from Uncertain Works",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-uncertain-works-brw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/uncertain-works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.json"
+      }
+    },
+    {
+      "eul_wid": "brw-af",
+      "title": {
+        "english": "Fragments of Hymns",
+        "ancient_greek": "Ἀποσπάσματα Ὕμνων"
+      },
+      "url_slug": "bacchylides-of-ceos-hymns-fragments-brw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hymns-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ehe-ab",
+      "title": {
+        "english": "Fragments of the Thebaid",
+        "ancient_greek": "Ἀποσπάσματα τῆς Θηβαΐδος"
+      },
+      "url_slug": "antimachus-of-colophon-thebaid-fragments-ehe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/thebaid-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebaid-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ajq-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "iambic-fragments-anon-geography-ajq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iambic-fragments-anon/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iambic-fragments-anon/geography.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ai",
+      "title": {
+        "english": "Hymn 22 To Poseidon",
+        "ancient_greek": "Ὕμνος εἰς Ποσειδῶνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-poseidon-upu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/poseidon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/poseidon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/poseidon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/poseidon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/poseidon.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ai",
+      "title": {
+        "english": "Victory Odes",
+        "ancient_greek": "Νίκαι Ὠδαί"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ai-brw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/callinus-of-ephesus/exhortation-young",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinus-of-ephesus/exhortation-young.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinus-of-ephesus/exhortation-young.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinus-of-ephesus/exhortation-young.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callinus-of-ephesus/exhortation-young.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

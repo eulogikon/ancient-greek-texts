@@ -1,0 +1,229 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pak",
+  "auth_slug": "oenomaus-of-gadara",
+  "name": {
+    "english": "Oenomaus of Gadara",
+    "ancient_greek": "Οἰνόμαος ὁ Γαδαρεύς"
+  },
+  "seo_h1": "Oenomaus of Gadara and the Fragments Against Oracles",
+  "seo": {
+    "browser_title": "Oenomaus Gadara Cynic Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Oenomaus of Gadara Ancient Greek Philosophical Works",
+    "meta_description": "Oenomaus of Gadara was a Cynic philosopher of the 2nd century CE. Surviving philosophical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Cynic",
+      "href": "/affiliations/cynic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Oenomaus of Gadara was a Cynic philosopher who lived in the 2nd century CE during the Roman Empire. He came from the city of Gadara, a Hellenistic cultural center in the Decapolis region. Beyond this, few specific details of his life are known.</p>\n<p class=\"research-text\">His significance lies primarily in his written attack on traditional Greek religion. His major work was titled Goētes, or The Charlatans, a polemical treatise criticizing oracular divination. In it, he argued that the famous oracles, particularly that of Apollo at Claros, were not divine but were run by human fraudsters who gave ambiguous and misleading prophecies. This vigorous critique of religious institutions and practices was characteristic of the Cynic school&#x27;s challenge to social conventions.</p>\n<p class=\"research-text\">The survival of his ideas is largely due to the Christian writer Eusebius of Caesarea, who quoted long fragments of Oenomaus&#x27;s work in the 4th century CE. Eusebius used these excerpts to support early Christian arguments against pagan religion. Consequently, Oenomaus&#x27;s philosophical critique later served as a source for Christian apologetics, preserving his thought for later generations.</p>\n</div>",
+  "affiliation_label": "Cynic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pak-aa",
+      "title": {
+        "english": "Fragments Against Oracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χρηστηρίων"
+      },
+      "url_slug": "oenomaus-of-gadara-against-oracles-pak-aa",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/oenomaus-of-gadara/against-oracles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oenomaus-of-gadara/against-oracles.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "frs",
+      "name": {
+        "english": "Antisthenes of Athens I",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-i.json"
+      }
+    },
+    {
+      "eul_aid": "dhu",
+      "name": {
+        "english": "Antisthenes of Athens II",
+        "ancient_greek": "Ἀντισθένης ὁ Ἀθηναῖος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/antisthenes-of-athens-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antisthenes-of-athens-ii.json"
+      }
+    },
+    {
+      "eul_aid": "hks",
+      "name": {
+        "english": "Bion of Borysthenes",
+        "ancient_greek": "Βίων ὁ Βορυσθενίτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/bion-of-borysthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bion-of-borysthenes.json"
+      }
+    },
+    {
+      "eul_aid": "gwc",
+      "name": {
+        "english": "Crates of Thebes I",
+        "ancient_greek": "Κράτης ὁ Θηβαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/crates-of-thebes-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crates-of-thebes-i.json"
+      }
+    },
+    {
+      "eul_aid": "ogu",
+      "name": {
+        "english": "Demonax of Cyprus",
+        "ancient_greek": "Δημώναξ ὁ Κύπριος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/demonax-of-cyprus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demonax-of-cyprus.json"
+      }
+    },
+    {
+      "eul_aid": "fak",
+      "name": {
+        "english": "Diogenes of Sinope",
+        "ancient_greek": "Διογένης ὁ Σινωπεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diogenes-of-sinope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-sinope.json"
+      }
+    },
+    {
+      "eul_aid": "ejm",
+      "name": {
+        "english": "Diotogenes the Philosopher",
+        "ancient_greek": "Διοτογένης ὁ φιλόσοφος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/diotogenes-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diotogenes-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "fpu",
+      "name": {
+        "english": "Monimus of Syracuse",
+        "ancient_greek": "Μόνιμος ὁ Συρακόσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/monimus-of-syracuse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/monimus-of-syracuse.json"
+      }
+    },
+    {
+      "eul_aid": "pzk",
+      "name": {
+        "english": "Secundus the Silent",
+        "ancient_greek": "Σεκούνδος ὁ Σιωπηλός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/secundus-the-silent",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/secundus-the-silent.json"
+      }
+    },
+    {
+      "eul_aid": "kkk",
+      "name": {
+        "english": "Teles of Megara",
+        "ancient_greek": "Τέλης ὁ Μεγαρεύς"
+      },
+      "work_count": 8,
+      "links": {
+        "html": "https://eulogikon.org/en/teles-of-megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/teles-of-megara.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/oenomaus-of-gadara",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oenomaus-of-gadara.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

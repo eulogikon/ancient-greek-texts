@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fmi-aa",
+  "eul_aid": "fmi",
+  "author_slug": "andron-of-ephesus",
+  "work_slug": "seven-sages-pythagoras",
+  "url_slug": "andron-of-ephesus-seven-sages-pythagoras-fmi-aa",
+  "author": {
+    "english": "Andron of Ephesus the Historian",
+    "ancient_greek": "Ἄνδρων ὁ Ἐφέσιος"
+  },
+  "title": {
+    "english": "On the Seven Sages and Pythagoras",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On Seven Sages and Pythagoras by Andron Ephesus on Eulogikon",
+    "meta_title": "On Seven Sages and Pythagoras by Andron of Ephesus in Greek",
+    "meta_description": "Fragments by Andron of Ephesus on the Seven Sages and Pythagoras. A doxographical work of ancient wisdom. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On the Seven Sages and Pythagoras</strong> by the historian Andron of Ephesus is a lost prose text from the Hellenistic period. It was a doxographical collection, compiling anecdotes, sayings, and biographical material concerning the traditional Seven Sages of Greece and the philosopher Pythagoras. The text, which appears to have been structured in eight distinct passages, is known only through fragmentary citations by later authors. Its content included notable anecdotes, such as the story of a tripod offered as a prize for wisdom and awarded first to the Spartan Aristodemus, who then yielded it to Chilon. It also contained biographical notes on Pythagoras, including the claim that he was the first to call himself a philosopher and an account of his predicting an earthquake after drinking from a well in Metapontum. Andron’s compilation served as an important source for later biographers and doxographers like Diogenes Laërtius, helping to transmit and shape the traditional lore surrounding these foundational figures of Greek wisdom. The work exemplifies the Hellenistic antiquarian interest in preserving philosophical and cultural heritage through systematic collection.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-7",
+      "text": "ΤΡΙΠΟΥΣ. Diogen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "L. I, 31: Ἄνδρων δ’ ἐν τῷ Τρίποδι, Ἀργείους ἆθλον ἀρετῆς τῷ σοφωτάτῳ τῶν Ἑλλήνων τρίποδα θεῖναι· κριθῆναι δὲ Ἀριστόδημον Σπαρτιάτην, ὃν παραχωρῆσαι Χείλωνι. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Pind. Isthm. II, 17: Σπαρτιάτην δὲ Ἀριστόδημον ἐν τοῖς ἑπτὰ σοφοῖς ἀναγράφεται καὶ Ἄνδρων ὁ Ἐφέσιος. Clemens Alex.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Strom. I: Συνεχρόνισαν οἱ συγκαταλεγέντες σοφοὶ τῷ Θαλεῖ, ὥς φησιν Ἄνδρων ἐν τῷ Τρίποδι. Aristides tom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "III: Οὐχ Ἡρόδοτος Σόλωνα σοφιστὴν κέκληκεν; οὐ Πυθαγόραν πάλιν; οὐκ Ἀνδροτίων τοὺς ἑπτὰ σοφιστὰς προσείρηκε; λέγω δὴ τοὺς σοφούς. Diogenes L.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "I, 119: Ἄνδρων δ’ ὁ Ἐφέσιος δύο φησὶ γεγονέναι Φερεκύδας Συρίους· τὸν μὲν ἀστρολόγον· τὸν δὲ θεολόγον υἱὸν Βάβυος, ᾧ καὶ Πυθαγόραν σχολάσαι. Ἐρατοσθένης δ’ ἕνα μόνον, καὶ ἕτερον Ἀθηναῖον γενεαλόγον. Eusebius P.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "E. X (ex Porphyrio): Ἄνδρωνος ἐν τῷ Τρίποδι περὶ Πυθαγόρου τοῦ φιλοσόφου τὰ περὶ τὰς προρρήσεις ἱστορηκότος εἰπόντος τε, ὡς διψήσας ποτὲ ἐν Μεταποντίῳ καὶ ἔκ τινος φρέατος ἀνιμήσας καὶ πιὼν προεῖπεν, ὡς εἰς τρίτην ἡμέραν ἔσοιτο σεισμὸς, καὶ ἕτερά τινα τούτοις ἐπαγαγὼν ἐπιλέγει· ταῦτ’ οὖν τοῦ Ἄνδρωνος περὶ Πυθαγόρου ἱστορηκότος, πάντα ὑφείλετο Θεόπομπος. Εἰ μὲν γὰρ περὶ Πυθαγόρου λέγων, τάχα [ἃ] ἂν καὶ ἕτεροι ἠπίσταντο περὶ αὐτοῦ καὶ ἔλεγον, ταῦτα καὶ αὐτὸς ἂν εἶπον [l. εἶπεν]· νῦν δὲ τὴν κλοπὴν δήλην πεποίηκεν ἡ τοῦ ὀνόματος μετάθεσις. Τοῖς μὲν γὰρ πράγμασι κέχρηται τοῖς αὐτοῖς, ἕτερον δ’ ὄνομα μετενήνοχε· Φερεκύδην γὰρ τὸν Σύριον πεποίηκε ταῦτα προλέγοντα. Οὐ μόνον δὲ τούτῳ τῷ ὀνόματι ἀποκρύπτει τὴν κλοπὴν, ἀλλὰ καὶ τόπων μεταθέσει· τό τε γὰρ περὶ τῆς προρρήσεως τοῦ σεισμοῦ ἐν Μεταποντίῳ ὑπ’ Ἄνδρωνος ῥηθὲν, ἐν Συρίᾳ (Σύρῳ?) εἰρῆσθαί φησιν ὁ Θεόπομπος· τό τε περὶ τὸ πλοῖον οὐκ ἀπὸ Μεγάρων τῆς Σικελίας, ἀπὸ δὲ Σάμου φησὶ θεωρηθῆναι· καὶ τὴν Συβάρεως ἅλωσιν ἐπὶ τὴν Μεσσήνης μετατέθεικεν· ἵνα δέ τι δοκῇ λέγειν περιττὸν, καὶ τοῦ ξένου προτέθεικε τοὔνομα, Περίλαον αὐτὸν καλεῖσθαι λέγων. Suidas: Σαμίων ὁ δῆμος ὡς πολυγράμματος .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": ".. ὅτι παρὰ Σαμίοις εὑρέθη πρώτοις τὰ κδʹ γράμματα ὑπὸ Καλλιστράτου, ὡς Ἄνδρων ἐν Τρίποδι. Τοὺς δὲ Ἀθηναίους ἔπεισε χρῆσθαι τοῖς τῶν Ἰώνων γράμμασιν Ἀρχῖνος ὁ Ἀθηναῖος ἐπ’ ἄρχοντος Εὐκλείδου· τοὺς δὲ Βαβυλωνίους ἐδίδαξε διὰ Καλλιστράτου Ἀριστοφάνης ἔτεσι πρὸ τοῦ Εὐκλείδου κδʹ ἐπὶ Εὐκλέους. Περὶ δὲ τοῦ πείσαντος ἱστορεῖ Θεόπομπος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "aws-aa",
+      "title": {
+        "english": "Argolic Histories and Genealogies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "socrates-of-argos-histories-genealogies-aws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-of-argos/histories-genealogies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.json"
+      }
+    },
+    {
+      "eul_wid": "epq-aa",
+      "title": {
+        "english": "Fragments on Cyzicus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κυζίκου"
+      },
+      "url_slug": "deiochus-the-historian-cyzicus-fragments-epq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/deiochus-the-historian/cyzicus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "myo-aa",
+      "title": {
+        "english": "Fragments on Greek Toponymy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑλληνικῆς Τοπωνυμίας"
+      },
+      "url_slug": "teucer-of-cyzicus-greek-toponymy-myo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/teucer-of-cyzicus/greek-toponymy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus/greek-toponymy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus/greek-toponymy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus/greek-toponymy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-cyzicus/greek-toponymy.json"
+      }
+    },
+    {
+      "eul_wid": "bqi-aa",
+      "title": {
+        "english": "Fragments on Spartan Helots",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱλώτων Σπαρτιατῶν"
+      },
+      "url_slug": "myron-of-eleutherae-spartan-helots-bqi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myron-of-eleutherae/spartan-helots",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae/spartan-helots.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae/spartan-helots.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae/spartan-helots.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myron-of-eleutherae/spartan-helots.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ah",
+      "title": {
+        "english": "On Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "xenophon-of-athens-hunting-ezq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-af",
+      "title": {
+        "english": "On the History of the Successors",
+        "ancient_greek": "Περὶ τῆς Ἱστορίας τῶν Διαδόχων"
+      },
+      "url_slug": "historical-fragments-anonymous-successors-mmg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/successors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/successors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/successors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/successors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/successors.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ae",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-rhq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.json"
+      }
+    },
+    {
+      "eul_wid": "bli-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hecataeus-of-miletus-testimonies-bli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

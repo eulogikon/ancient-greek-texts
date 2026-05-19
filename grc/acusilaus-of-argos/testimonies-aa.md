@@ -1,0 +1,79 @@
+---
+title: Testimonies 1
+title_greek: "Μαρτυρίαι Α'"
+author: Acusilaus of Argos
+eul_wid: bls-aa
+eul_aid: bls
+canonical: "https://eulogikon.org/grc/acusilaus-of-argos/testimonies-aa"
+period: Archaic
+dialect: Ionic (frg)
+domain: History
+format: Collection
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Testimonies 1
+
+*Μαρτυρίαι Α'*
+
+**Author:** Acusilaus of Argos
+
+**eul_wid:** `bls-aa` · [HTML page](https://eulogikon.org/grc/acusilaus-of-argos/testimonies-aa)
+
+## Text
+
+### 1a,2,T 1
+
+SUID. s. Ἀκουσίλαος· Κάβα υἱός· Ἀργεῖος ἀπὸ Κερκάδος πόλεως οὔσης Αὐλίδος πλησίον. ἱστορικὸς πρεσβύτατος. ἔγραψε δὲ Γενεαλογίας ἐκ δέλτων χαλκῶν, ἃς λόγος εὑρεῖν τὸν πατέρα αὐτοῦ ὀρύξαντά τινα τόπον τῆς οἰκίας αὐτοῦ.
+
+### 1a,2,T 2
+
+DIONYS. HAL. De Thuc. 5: ἀρχαῖοι μὲν οὖν συγγραφεῖς ... πρὸ τοῦ Πελοποννησιακοῦ πολέμου· ... ὅ τε Ἀργεῖος Ἀκουσίλαος·
+
+### 1a,2,T 3
+
+JOSEPH. c. Apion. I 13 (EUSEB. PE X 7 p. 478 AB): οἱ μέντοι τὰς ἱστορίας ἐπιχειρήσαντες συγγράφειν παρ’ αὐτοῖς, λέγω δὲ τοὺς περὶ Κάδμον τε τὸν Μιλήσιον (III) καὶ τὸν Ἀργεῖον Ἀκουσίλαον καὶ μετὰ τοῦτον εἴ τινες ἄλλοι λέγονται γενέσθαι, βραχὺ τῆς Περσῶν ἐπὶ τὴν Ἑλλάδα στρατείας τῶι χρόνωι προύλαβον.
+
+### 1a,2,T 4
+
+MENAND. Π. ἐπιδεικτ. 6. III 338, 4 Sp: οἱ μέν γε νομίζοντες οὐδὲν διαφέρειν καὶ τὰς γενεαλογίας μύθους εἶναί φασιν, οἷον εἰ βούλει, ὅσα γε Ἀκουσίλεως καὶ Ἡσίοδος καὶ Ὀρφεὺς ἐν ταῖς Θεογονίαις εἰρήκασιν. εἰσὶ μὲν γὰρ γενεαλογικαὶ αὗται, οὐδὲν δὲ ἧττον μυθικαί.
+
+### 1a,2,T 5
+
+CLEM. ALEX. Strom. VI 2, 26, 7 p. 443, 2 Stäh: τὰ δὲ Ἡσιόδου μετήλλαξαν εἰς πεζὸν λόγον καὶ ὡς ἴδια ἐξήνεγκαν Εὔμηλός (III) τε καὶ Ἀκουσίλαος οἱ ἱστοριογράφοι.
+
+### 1a,2,T 6
+
+JOSEPH. c. Apion. I 16 (EUSEB. PE X 7 p. 478 D): περίεργος δ’ ἂν εἴην ἐγὼ τοὺς ἐμοῦ μᾶλλον ἐπισταμένους διδάσκων ὅσα μὲν Ἑλλάνικος (4 T 18) Ἀκουσιλάωι περὶ τῶν γενεαλογιῶν διαπεφώνηκεν, ὅσα δὲ διορθοῦται τὸν Ἡσίοδον Ἀκουσίλαος.
+
+### 1a,2,T 7
+
+SUID. s. Ἑκαταῖος Μιλήσιος (1 T 1)· ... πρῶτος δὲ ἱστορίαν πεζῶς ἐξήνεγκε, συγγραφὴν δὲ Φερεκύδης (I 3). τὰ γὰρ Ἀκουσιλάου νοθεύεται.
+
+### 1a,2,T 8
+
+CICERO De or. II 53: hanc similitudinem scribendi multi secuti sunt, qui sine ullis ornamentis monumenta solum temporum hominum locorum gestarumque rerum reliquerunt; itaque qualis apud Graecos Pherecydes (3 T 8) Hellanicus (4 T 14) Acusilas fuit aliique permulti, talis noster Cato et Pictor et Piso ...
+
+### 1a,2,T 9
+
+DIONYS. HAL. De Thuc. 5.
+
+### 1a,2,T 10
+
+CLEM. ALEX. Strom. I 21, 103, 1 p. 66, 10 Stäh.: ὁ Πλάτων ἐν Τιμαίωι κατακολουθήσας Ἀκουσιλάωι ...
+
+### 1a,2,T 11a
+
+DIOG. LAERT. I 41: Δικαίαρχος (IV) δὲ τέσσαρας ὡμολογημένους (sc. σοφούς) ἡμῖν παραδίδωσιν· Θαλῆν Βίαντα Πιττακόν Σόλωνα. ἄλλους δὲ ὀνομάζει ἕξ, ὧν ἐκλέξασθαι τρεῖς· Ἀριστόδημον Πάμφυλον Χίλωνα Λακεδαιμόνιον Κλεόβουλον Ἀνάχαρσιν Περίανδρον. ἔνιοι προστιθέασιν Ἀκουσίλαον Κάβα ἢ Σκάβρα Ἀργεῖον. (42) Ἕρμιππος δ’ ἐν τῶι Περὶ τῶν σοφῶν (IV) ἑπτακαίδεκά φησιν ... Σόλωνα Θαλῆν Πιττακόν Βίαντα Χίλωνα 〈Μύσωνα〉 Κλεόβουλον Περίανδρον Ἀνάχαρσιν Ἀκουσίλαον Ἐπιμενίδην Λεώφαντον Φερεκύδην Ἀριστόδημον Πυθαγόραν Λᾶσον ... Ἀναξαγόραν.
+
+### 1a,2,T 11b
+
+CLEM. ALEX. Strom. I 14, 59, 5 p. 38, 7 Stäh (THEODORET. Graec. aff. curr. 5, 63): οἱ δὲ Ἀκουσίλαον τὸν Ἀργεῖον ἐγκατέλεξαν τοῖς ἑπτὰ σοφοῖς· ἄλλοι δὲ Φερεκύδην τὸν Σύριον.
+
+### 1a,2,T 12
+
+SUID. s. Σαβῖνος· σοφιστής· γεγονὼς ἐπὶ Ἀδριανοῦ Καίσαρος. ἔγραψεν ... εἰς Θουκυδίδην καὶ Ἀκουσίλαον καὶ ἄλλους ὑπομνήματα.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: bls-aa`.

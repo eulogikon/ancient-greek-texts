@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vmm",
+  "auth_slug": "meters-treatise",
+  "name": {
+    "english": "Meters Treatise",
+    "ancient_greek": "Μετρικὸν σύγγραμμα"
+  },
+  "seo_h1": "Meters Treatise and the Fragments on Poetic Form",
+  "seo": {
+    "browser_title": "Anonymous Meter Treatise on Eulogikon Greek Archive",
+    "meta_title": "Anonymous Meter Treatise Ancient Greek Grammar Works",
+    "meta_description": "Anonymous author of a handbook on Greek poetic meters. Analyzes metrical patterns in Greek poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Meters Treatise is an anonymous technical handbook on Greek poetic meters, composed sometime between the 2nd and 6th centuries CE. It belongs to the late antique tradition of grammatical scholarship, which included the systematic study of poetry&#x27;s formal structures. No details about the author&#x27;s life are known, a common circumstance for such specialized educational texts.</p>\n<p class=\"research-text\">The work is a representative example of the metrical treatises used in advanced ancient education. These handbooks analyzed the complex rhythmic patterns of Greek poetry, serving as essential tools for students and scholars engaged in literary criticism, rhetoric, and the preservation of classical texts. The treatise survives only in fragments, and its text shows signs of having been copied and compiled over centuries, a typical feature for this type of technical manual.</p>\n<p class=\"research-text\">According to modern scholars, its significance lies in its role as a bridge between classical literary culture and later periods. It illustrates how knowledge of poetic form was standardized and transmitted throughout the Roman Imperial and late antique eras, contributing to the survival of Greek literary heritage into the Byzantine age.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vmm-aa",
+      "title": {
+        "english": "Fragments on Poetic Meters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέτρων Ποιητικῶν"
+      },
+      "url_slug": "meters-treatise-poetic-fragments-vmm-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/meters-treatise/poetic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/meters-treatise/poetic-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/meters-treatise",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/meters-treatise.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/meters-treatise.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/meters-treatise.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/meters-treatise.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

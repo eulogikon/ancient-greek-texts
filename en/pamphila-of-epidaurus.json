@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nmu",
+  "auth_slug": "pamphila-of-epidaurus",
+  "name": {
+    "english": "Pamphila of Epidaurus",
+    "ancient_greek": "Παμφίλη Ἐπιδαυρία"
+  },
+  "seo_h1": "Pamphila of Epidaurus and Historical Memoranda",
+  "seo": {
+    "browser_title": "Pamphila of Epidaurus on Eulogikon Greek Text Archive",
+    "meta_title": "Pamphila of Epidaurus Ancient Greek Historical Works",
+    "meta_description": "Pamphila of Epidaurus was a 1st century CE historian. Her historical miscellany is available. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pamphila of Epidaurus was a Greek historian active during the reign of Nero. According to the 10th-century Byzantine encyclopedia the Suda, she was the daughter of Soteridas and was educated by her husband and his circle, devoting herself to scholarship. Beyond this, few details of her personal life are known.</p>\n<p class=\"research-text\">Her major work was the Historical Commentaries, a miscellany in 33 books now preserved only in fragments. It compiled historical anecdotes and biographical notes drawn from her reading and discussions within her learned domestic circle. Pamphila is a significant, rare example of a female scholar from antiquity whose work received recognition. Later authors such as Aulus Gellius and Diogenes Laërtius cited her Historical Commentaries as a source, with Gellius praising it and using it for details on Sophocles and Euripides.</p>\n<p class=\"research-text\">Her work demonstrates that women could contribute to antiquarian scholarship in the Roman Imperial period, albeit within a constrained domestic context.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nmu-aa",
+      "title": {
+        "english": "Historical Memoranda Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pamphila-of-epidaurus-historical-memoranda-nmu-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/pamphila-of-epidaurus/historical-memoranda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pamphila-of-epidaurus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pamphila-of-epidaurus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pamphila-of-epidaurus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pamphila-of-epidaurus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pamphila-of-epidaurus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

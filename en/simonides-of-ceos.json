@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "big",
+  "auth_slug": "simonides-of-ceos",
+  "name": {
+    "english": "Simonides of Ceos",
+    "ancient_greek": "Σιμωνίδης ὁ Κεῖος"
+  },
+  "seo_h1": "Simonides of Ceos on Victory, Loss, and Human Hope",
+  "seo": {
+    "browser_title": "Simonides of Ceos on Eulogikon Greek Archive and Library",
+    "meta_title": "Simonides of Ceos Ancient Greek Lyric Poetry Works",
+    "meta_description": "Simonides of Ceos was a professional lyric poet of the Archaic period. Surviving works include fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Simonides of Ceos was a Greek lyric poet who lived from approximately 556 to 468 BCE. His long life spanned the transition from the Archaic to the Classical period. He worked as a professional, traveling poet, finding patronage at various courts across the Greek world, including Athens, Thessaly, and Sicily. He was the uncle of the poet Bacchylides and a contemporary and rival of Pindar. Simonides lived through the Persian Wars and died at an advanced age in Syracuse, Sicily.</p>\n<p class=\"research-text\">His poetry was vast and varied, but survives today almost entirely in fragments. According to modern scholars, his works included victory odes for athletes, dirges or laments, praise poems, hymns to the gods, and dithyrambs. He was particularly famous in antiquity for the emotional power of his dirges. He also composed celebrated epigrams, including concise verses commemorating the Greek warriors who fell at the battles of Marathon and Thermopylae.</p>\n<p class=\"research-text\">Simonides is considered one of the most influential lyric poets of ancient Greece. Academics note his technical skill and his frequent themes on the fragility of human life and fortune. His epigrams helped shape the historical memory of the Persian Wars. His model of a professional, itinerant poet is seen as emblematic of the changing role of the poet in his era. He is also remembered for a famous saying, quoted by later philosophers, that compared poetry to painting.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "big-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "simonides-of-ceos-epigrams-big-ae",
+      "passages": 261,
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "big-ab",
+      "title": {
+        "english": "Fragments on Athletic Victory",
+        "ancient_greek": "Ἀποσπάσματα περὶ Νίκης Γυμνικῆς"
+      },
+      "url_slug": "simonides-of-ceos-athletic-victory-big-ab",
+      "passages": 314,
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/athletic-victory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/athletic-victory.json"
+      }
+    },
+    {
+      "eul_wid": "big-ac",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "simonides-of-ceos-genealogy-big-ac",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "big-aa",
+      "title": {
+        "english": "Fragments on Life and Hope",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἐλπίδος"
+      },
+      "url_slug": "simonides-of-ceos-life-hope-big-aa",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/life-hope",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/life-hope.json"
+      }
+    },
+    {
+      "eul_wid": "big-ad",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "simonides-of-ceos-testimony-big-ad",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/testimony.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/simonides-of-ceos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simonides-of-ceos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simonides-of-ceos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simonides-of-ceos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/simonides-of-ceos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

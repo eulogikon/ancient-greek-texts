@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cjy",
+  "auth_slug": "diogenes-of-athens",
+  "name": {
+    "english": "Diogenes of Athens",
+    "ancient_greek": "Διογένης ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Diogenes of Athens and the Fragments on Foreign Rites",
+  "seo": {
+    "browser_title": "Diogenes of Athens Dramatist on Eulogikon Greek Archive",
+    "meta_title": "Classical Diogenes of Athens Ancient Greek Dramatic Works",
+    "meta_description": "Diogenes of Athens was a classical Attic dramatist of the late 5th century BCE. Fragments are preserved. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (dr, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diogenes of Athens was an Athenian tragic poet active in the late 5th and early 4th centuries BCE. He is a minor figure, known primarily from a reference in Aristotle’s Poetics and an entry in the Byzantine encyclopedia, the Suda, which identifies him as the son of a musician named Melesias. His career followed that of the great 5th-century tragedians.</p>\n<p class=\"research-text\">The only securely attributed work is the lost tragedy Semele. The Suda also lists a Medea, though this attribution is less certain. All of his works survive only in fragments.</p>\n<p class=\"research-text\">Diogenes is significant as a case study in early literary criticism. Aristotle cites an implausible scene from his Semele—involving an unjustified resurrection—as an example of faulty plot construction and misuse of the irrational. This mention preserves his role in the critical history of drama, though his works otherwise exerted little lasting influence.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cjy-aa",
+      "title": {
+        "english": "Fragments on Foreign Rites",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ξένων Ἱερῶν"
+      },
+      "url_slug": "diogenes-of-athens-foreign-rites-cjy-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-athens/foreign-rites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-athens/foreign-rites.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diogenes-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diogenes-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

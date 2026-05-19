@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "puk",
+  "auth_slug": "song-of-the-sailors",
+  "name": {
+    "english": "Song of the Sailors",
+    "ancient_greek": "Ναυτῶν Καντιονκύλη"
+  },
+  "seo_h1": "Song of the Sailors and the Winds of Rhodes",
+  "seo": {
+    "browser_title": "Song of the Sailors Poet on Eulogikon Greek Archive",
+    "meta_title": "Song of the Sailors Ancient Greek Poetry and Works",
+    "meta_description": "Song of the Sailors, Roman era Koine poet of the 2nd-3rd century CE. Two surviving nautical poems. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nauton Kantionkyle, meaning &quot;Song of the Sailors,&quot; is a title rather than a personal name. No biographical information exists for the poet designated by this name. Standard scholarly references and digital libraries contain no record of an author by this title.</p>\n<p class=\"research-text\">The author is associated with two works, but their titles and content are unattested in extant ancient literature or the consulted sources.</p>\n<p class=\"research-text\">If genuine, these poems could represent a form of popular nautical song from the second or third century CE, potentially offering insight into the language and culture of Eastern Mediterranean sailors. However, without any surviving fragments or reliable mentions, their historical and literary significance cannot be assessed.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "puk-ab",
+      "title": {
+        "english": "Fragments on Sea and Nile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου"
+      },
+      "url_slug": "song-of-the-sailors-sea-nile-puk-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/sea-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.json"
+      }
+    },
+    {
+      "eul_wid": "puk-aa",
+      "title": {
+        "english": "To the Winds of Rhodes",
+        "ancient_greek": "Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου"
+      },
+      "url_slug": "song-of-the-sailors-winds-rhodes-puk-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/winds-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/song-of-the-sailors",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/song-of-the-sailors.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/song-of-the-sailors.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/song-of-the-sailors.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/song-of-the-sailors.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

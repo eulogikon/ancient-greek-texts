@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fuu-aa",
+  "eul_aid": "fuu",
+  "author_slug": "eudemus-of-rhodes-ii",
+  "work_slug": "antidotes",
+  "url_slug": "eudemus-of-rhodes-ii-antidotes-fuu-aa",
+  "author": {
+    "english": "Eudemus of Rhodes II",
+    "ancient_greek": "Εὔδημος ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "Fragments on Antidotes",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀλεξιφαρμάκων"
+  },
+  "seo": {
+    "browser_title": "Fragments on Antidotes by Eudemus of Rhodes on Eulogikon",
+    "meta_title": "Fragments on Antidotes by Eudemus of Rhodes in Greek",
+    "meta_description": "Fragments of Eudemus of Rhodes on antidotes and poisons. A philosophical treatise on toxicology. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Antidotes is a title attributed in some sources to Eudemus of Rhodes II, purportedly a treatise on poisons and their remedies. No such work is attested in the standard scholarly record for the historical Eudemus of Rhodes, a 4th-century BCE Peripatetic philosopher and direct student of Aristotle. The known writings of Eudemus, preserved only in fragments and testimonia by later authors such as Simplicius and Diogenes Laertius, concern logic, physics, astronomy, and the history of science, with no extant references to toxicology or pharmacology. The designation &quot;II&quot; is not applied to the authentic philosopher, and the content implied by the title would be anomalous within his established intellectual corpus. His enduring significance rests instead on his contributions to the development of Aristotelian thought and his pioneering work in the histories of geometry and astronomy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "412A.(t)",
+      "text": "Θηριακὴ Ἀντιόχου τοῦ Φιλομήτορος ἴησιν μάθε τήνδε πρὸς ἑρπετά, ἣν Φιλομήτωρ νικῆσαι πείρᾳ κέκρικεν Ἀντίοχος. μήου ἀπὸ ῥίζης ὁλκὴν δίδραχμον ὀρύξας σὺν τῷ δ’ ἑρπύλλου κλῶνας ἰσορρεπέας σὺν δ’ ὀπὸν ἐκ πάνακος στήσας ἴσον ἠδὲ τριφύλλου καρπὸν ὅσον δραχμῆς σταθμὸν ἄγοντα δίδου, ἀννήσου μαράθρου τε καὶ ἄμμιος ἠδὲ σελίνου ἐξ ἑνὸς ἓν πληρῶν σπέρματος ὀξύβαφον, σὺν δ’ ὀρόβου λείου δύο ὀξύβαφ’ ἔμπας’ ἀλεύρου, πάντα δ’ ὁμοῦ Χίῳ νέκταρι συγκεράσας κυκλοτερεῖς ἀνάπλασσε τροχοὺς ἰσότητι μερίζων ἡμιδράχμοιο ῥοπὴν ὄφρ’ ἂν ἕκαστος ἔχῃ· Χίῳ δ’ ἐγκεράσας τάδε μίγματα πικρὸν ἐχίδνης ἡμίσεως δραχμῆς ἰὸν ἀποσκεδάσεις· τῷ δὲ ποτῷ καὶ δεινὰ φαλάγγια καὶ σκολιοῖο σκορπίου ἐκφεύξῃ κέντρα φέροντ’ ὀδύνας. *",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-fi",
+      "title": {
+        "english": "Cicero",
+        "ancient_greek": "Κικέρων"
+      },
+      "url_slug": "plutarch-of-chaeronea-cicero-okg-fi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cicero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aj",
+      "title": {
+        "english": "Fragments of Parthica",
+        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-parthica-fragments-aj-pcs-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.json"
+      }
+    },
+    {
+      "eul_wid": "udm-as",
+      "title": {
+        "english": "Life of Pythagoras",
+        "ancient_greek": "Βίος Πυθαγόρου"
+      },
+      "url_slug": "porphyry-of-tyre-life-pythagoras-udm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/life-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.json"
+      }
+    },
+    {
+      "eul_wid": "uxc-ad",
+      "title": {
+        "english": "On Aristotle's Books-the Soul, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-on-soul-commentary-uxc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/on-soul-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-aw",
+      "title": {
+        "english": "On the Creation of the World",
+        "ancient_greek": "Περὶ τῆς δημιουργίας τοῦ κόσμου"
+      },
+      "url_slug": "philo-of-alexandria-creation-world-lgi-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/creation-world",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/creation-world.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/creation-world.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/creation-world.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/creation-world.json"
+      }
+    },
+    {
+      "eul_wid": "rqw-aa",
+      "title": {
+        "english": "On the Nature of Numbers",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "butherus-nature-numbers-rqw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/butherus/nature-numbers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/butherus/nature-numbers.json"
+      }
+    },
+    {
+      "eul_wid": "vcm-ab",
+      "title": {
+        "english": "Prolegomena to Philosophy",
+        "ancient_greek": "Προλεγόμενα τῆς φιλοσοφίας"
+      },
+      "url_slug": "david-the-invincible-prolegomena-vcm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/david-the-invincible/prolegomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/david-the-invincible/prolegomena.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ac",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Iliad",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ἰλιάδα"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-iliad-udm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-iliad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-iliad.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eudemus-of-rhodes-ii/antidotes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii/antidotes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii/antidotes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii/antidotes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eudemus-of-rhodes-ii/antidotes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

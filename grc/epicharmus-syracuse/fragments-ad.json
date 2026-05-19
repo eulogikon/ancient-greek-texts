@@ -1,0 +1,539 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bhm-ad",
+  "eul_aid": "bhm",
+  "author_slug": "epicharmus-syracuse",
+  "work_slug": "fragments-ad",
+  "url_slug": "epicharmus-syracuse-fragments-ad-bhm-ad",
+  "author": {
+    "english": "Epicharmus of Syracuse",
+    "ancient_greek": "Ἐπίχαρμος ὁ Συρακόσιος"
+  },
+  "title": {
+    "english": "Fragments of Epicharmus",
+    "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments by Epicharmus of Syracuse on Eulogikon",
+    "meta_title": "Fragments by Epicharmus of Syracuse in Ancient Greek",
+    "meta_description": "Surviving excerpts from the comedies of Epicharmus, written in Doric Greek. Early comic drama. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments of Epicharmus constitute the surviving textual evidence for the comedies of Epicharmus of Syracuse, a playwright active in the early fifth century BCE. Written in Doric Greek, these works represent the first major tradition of comic drama in the Greek West. No complete play has survived; the corpus is known exclusively through several hundred individual lines and short passages preserved as quotations by later Greek authors, grammarians, and in papyrus discoveries. Modern scholarly collections organize these fragments, which collectively attest to the titles of approximately thirty-five to forty plays. The extant pieces reveal a comedy that blended mythological parody, scenes from everyday life, and philosophical discourse, often featuring moralizing maxims, debates on nature and knowledge, and humorous treatments of gods and heroes. A well-known fragment encapsulates this intellectual character with the statement that the mind alone sees and hears, while all else is deaf and blind. Epicharmus flourished during the cultural ascendancy of Syracuse under the tyrants Gelon and Hieron I, and the sophisticated court environment is thought to have influenced the philosophical tenor of his work. His reputation in antiquity was considerable; both Plato and Aristotle acknowledged his significance in the development of comic drama. The preservation of many fragments was aided by a historical misattribution, whereby some of his sententious lines were erroneously credited to a Pythagorean philosopher also named Epicharmus, ensuring their inclusion in later philosophical and ethical texts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": "Ε[ .. [ ΕΠΙΧΑΡΜ[ΟΥ Ἀταλάν[ται Ἀγρωcτ[ῖνοc Ἄμυκοc Ἀλκυονε[ύc Ἀντάνω[ρ Ἁρπαγα[ί Βούcειρ[ιc Ἁρπαγαί[ Γᾶ καὶ Θ[άλαccα Γηραιά Δεξαμ[ενόc Διόνυcο[ι Διονυc[ο— Δίκτυεc Ἐπινίκ[ιοc Ἐπινικ . [ ἢ [ Ἐλπὶc [ἢ Πλοῦτοc Ἥβαc [Γάμοc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "82",
+      "text": "Π]ρομαθέα ἢ Πύρραν· Ὀδυccέα[c δύο ὧν] ἅτεροc μὲν Αὐτόμολοc .. ο̣ ... [ Ναυ]αγόc· ἔτι Μήδειαν [ ] . · Π̣έ̣[ρ]cαc τ’· ἠδ . [ ]πιπαν̣ . [ ἐπ]ὶ τὸν ζω[cτῆρα — — — — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "tit,ante 83",
+      "text": "Ἀγρωcτῖνοc Ἀλκυονεύc Ἄμυκοc Ἀντάνωρ Ἁρπαγαί Ἀταλάνται Βούcειριc Γᾶ καὶ Θάλαccα Γηραιά Δεξαμενόc Διόνυcοι Διονυc[ο— Δίκτυεc Ἐλπὶc ἢ Πλοῦτοc Ἐπινίκιοc Ἥβαc Γάμοc. Μοῦcαι Ἡρακλῆc ὁ ἐπὶ τὸν ζωcτῆρα Ἡρακλῆc ὁ πὰρ Φόλωι Κωμαcταὶ ἢ Ἅφαιcτοc Μήδεια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "83-84 tit",
+      "text": "Ὀδυccεὺc Αὐτόμολοc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "83",
+      "text": "δε]ξ(ιω)τ(έροιc) πα(ρὰ) προcδοκ(ίαν) ὡcεὶ ἔλεγ(ε) κ(αὶ) τοῖc ἐ̣μπ̣λ̣ηττομ(ένοιc) τὸ καθ[ ] . πάλιν πρὸ(c) τοὺc τραγικοὺc λέγετ(αι) ἐπεὶ ἐδόκ(ουν) ἐκεῖνοι ε̣[ ] . η δ(ὲ) παραλέλειπται cτιχίδια δι’ ὧν ἡ cυνάρτηcι[c ]τι μ(ὲν) τῶι Ἀριcτοξένωι προcέχειν, ἀκηκοέναι δ(ὲ) [ ]ομενο( ) ἀναcτρέφειν [ .... ] ὤφειλον· ἤδη τιc λόγο(c) ελ̣[ ]ει τοιοῦτον / μέτριον ἢ ἀνθρώπινο(ν) πρὸ(c) ὃ ἀντι[ ]πόρρω καθεδοῦμ(αι) κ(αὶ) προcποιήcομ(αι) πάντ(α) διαπεπρᾶχθ(αι) [ (ΟΔ.) —ε]νθὼν τεῖδε θωκηcῶ τε καὶ λεξοῦ[μ’ ὅπ]ωc ⸤ ῥάιδιν’ ε ⸥ ἴμειν ταῦτα καὶ τοῖc δεξιωτέροιc ⸤ ἐμεῦ[c. — ( ) ὡc ⸥ ἐμὶν δοκεῖτε πάγχυ καὶ κατὰ τρόπ ⸤ ον ⸥ ⸤ καὶ ἐοικ ⸥ ότωc ἐπεύξαcθ’, αἴ τιc ἐνθυμεῖν γ[α λῆι (ΟΔ.) ]γ’ ὤφειλον ἐνθὲν ὗcπερ ἐκελήc[α ]τ̣ων ἀγαθικῶν κακὰ προτιμάcαι θ[ κίν]δυνον τελέccαι καὶ κλέοc θεῖον λ̣[αβεῖν ]ν μολὼν ἐc ἄcτυ, πάντα δ’ εὖ cαφα[νέωc πυθόμε]νοc δίοιc τ’ Ἀχαιοῖc παιδί τ’ Ἀτρέοc φί[λωι ἂψ ἀπαγ]γ̣εῖλαι τὰ τηνεῖ καὐτὸc ἀcκηθὴc . [ ] ´ ̣ ` ̣ ... ϊ̣ν̣[ — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84",
+      "text": "— — — — — — — — — ] . πλ[ ]η̣ ]φ̣υcιν . [ . ]μ̣εθιcτ̣[ ] νυ]κτὸc οὐ προcεμένων ] . ἡμέρα ἐπιφαίνεται ]υ̣χηματι μετ[ .. ]εμ[]τουc Ἕλλην[αc] ἀπο π]ρ̣οήγαγεν [ ... ]cο ]ε δ’ ἐκ τῶν [Τρω]ικῶν ] .. cπειρα( ) . [ ... ] . φω ]τοcαυτ[ ... ] . ρ ]η̣γοιc: [ ... ] . μαν ] . ονο̣ ... .. η̣τ̣ο̣( ): ]η̣cτηc ] . χρωντο ] . ειν κλο ]ν φορμον ]c ομου ] . οc̣τιτα̣ν( ) ] . τουανα ]ευγε ]τ̣ε̣c — — — — — — — — — — — — — — — — — — — — — — — — — — ]το̣ο̣[ ] . η . ( ) ἀξίου λέγειν[ ]ρατω . [ ]υακ( ) ὁ Ἀριcτόξενοc[ ]τοc δ[ ]α μέcου π̣ . ... . λ̣[ ] ... ρ̣[ ] . ἐπενεγκ[ . ]ν̣ ἀλλ’ ἐ̣γεα̣[ ]αίειν περι . [ ... ]ν̣τω[ κ[ ] ἐπιμελητὴν [c]τυππ .. [ . ] . [ ..... ]κα ἐπὶ τ(ῶν) ἡδομέ̣ν̣[ων πλ[άνον ] πλάνην, φλυαρίαν: του͜τόν͜η οὕ(τωc) ὡc ἐ͜γών͜η καὶ ͜τύν͜η: α̣[ ]ευονθορωc οἷόνπερ ἐπι ... cυντυχών ἀπὸ τῶν ἐ[ν] ταῖc ὁδοῖc κατὰ ἀπαξίωcιν τῆ[ι κι]ν̣ήcει τοῦ ὀφθαλμοῦ ἀcπαζομένων: ἢ ὅτι ἀν(τὶ τοῦ) ἢ τὸ τυχόν. ῥᾶιcτα ἂν τοῦτ’ ἐργαcαί‵ — ′ μην ἢ τὸ τ[υχό]ν: ἀλλ’ ὁρέω· τί ὠιζύρ’ ἀνιῆιc; διὰ μέcου τὸ ‘τί 〈ὠι‐〉 ‵ — ′ ζύρ’ ἀνιῆιc;‘ [‘ο]ὐ γὰρ ἀλλ’ ὁρέω, τοίδε τὠιχαιοὶ πέλαc‘: ὡc ἔω πο‵ — ′νηρότατοc ὁ μ(ὲν) [τὸν ἐπί]πονον cημαίνει ὁ δ(ὲ) τὸν κακοήθη ἐγδέχεται καὶ ε[ ...... ] . λέγει ‘ἁλιδίωc πονηρόc‘, οἷον αὐτάρκωc: ο]ὐ γὰρ ἔμπα[λίν χ’ ἁνύc]αιμ’ οὕτωc ἀλοιῆcθαι κακόν δύναται μ̣εν̣ο̣[ περ]ὶ τὴν διαcτολὴν ἀμφιβολία εἶναι. ἐὰν μὲν [γὰρ μετὰ τὸ ο]ὕ̣[τωc] cτίζηται ἔcται ὁ νοῦ[c]· οὐ γὰρ ἂν οὕτωc ἁνύcαιμι τὴν] ὁδόν. τὸ γὰρ [ἀ]λοιῆcθαι κακόν. [ἐὰν δ]ὲ τὸ ἁνύcαιμι ] ........ [ ... ] οὐ γὰρ ἂν ἁνύcαιμι τὴν ὁδόν. το κατ’ ἀλή]θειαν καὶ μὴ προcποιήτωc ἀλοιῆcθαι κακόν. γράφ(εται) δὲ] κ̣αὶ ‘χανύcαιμι‘ ὅ ἐcτι θρηνήcαιμι θρ]ηνήcαιμι· τὸ γ[ὰρ ἀ]λοιῆcθαι κακόν ]λ̣ηντ[ ... ] .. [ .. ] . [ .. ] οὕτωc ἐγώ: ζή(τει) ⸤ ενθὼν τεῖδε θωκη ⸥ cῶ τε καὶ λεξ ⸤ οῦ[μ’ ὅπ] ωc / ῥάιδιν’ εἴ ⸤ μειν ταῦτα καὶ τοῖc δεξιω ⸥ τέροιc ἐμεῦ[c .... ελ]θών που ]τεc ἐροῦcιν . [ ...... ]τ̣α γίνεcθαι ]τ̣έρων τειν . [ ... ] . [τ]οὺc τραγικοὺc ] . εθνη π̣ .. [ .. ]αcιν η τὸ ‘τοῖc δε‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84 (50)",
+      "text": "ξιωτέροιc ἐμεῦc‘ ] . ἵνα παρὰ προcδοκίαν ἐπενέγκηι: ⸤ ὡc ἐμὶν δοκεῖτε πάγχυ καὶ ⸥ κατὰ τρόπον / καὶ ἐοικότωc ἐ ⸤ πεύξαcθ’, αἴ τιc ἐνθυμεῖν γ[α λῆι τ] οῦθ’ ὁ ἕτεροc τῶν ὑποκριτῶν ]ηι εἰcόδωι εὐξαμένου τινὰ ] . ἐοικότωc ὡc ἐμὶν δοκεῖτε ] . [ ] . — — — — — — — — — — — — — — — — — — — — — — — — — — — — — ] ... [ ... ] .. [ ]ομένουc και[ ] . ικὰ ἀθύρματ[α ]εμοι καὶ ἀνα . [ ]θαccον cτραφ[ ]αλλαγῆναι: ω[ ἀ]ποτρώκτου πρ[ ]αc οἷον χωριο[ ] . λειc̣τεφηνη̣[ ]ν̣ε̣ν̣ ἀριθμω[ ]κουε̣ .. : πα . [ ]ειαν καὶ τὸ cχη[ cυμβολατεύει ⸥ ν μ’ ἔφα τοῖc Ἀχα ⸤ ιοῖcιν ] . ον δ’ ὅτι τοῖc Τρῶ[cι ]κ̣λ̣η̣ ἔϊδεc δυκ̣[ ]θ̣ων η Ϲυρακ[ ]c̣αι . [ .. ]’[ — — — — — — — — — — ] . ατονουcα̣[ β[ ...... ] . όν οιμοι . [ ἱ ... [ .. ]ν: μή τι κερτ[ομ ‵ — ′ ἀcύνδετόν ἐcτι τοῦτ[ο ψηται. καθ’ ἓν οὖν αὐ[ ‵ — ′λα φὰν τιθήμειν παροιμ[ία ‵ — ′μέcου γὰρ οὐδὲ καθ’ Ὅμηρο[ν ξιων ὁ Κάλχαc Ὀδυccει . [ ‵ — ′τοιc ἕπεcθαι τοῖc δόλοιc ἢ τ̣[ πεφυλάχθαι καὶ παρατηρεῖ[ν ‵ — ′ παρ’ Ὁμή(ρωι) ‘μή που τιc καὶ Τρ[ῶαc ται Ϲώφρων ‘μή που τιc καὶ [ ‵ — ′ἐc αἰcχρόν ἀηδῆ ἢ τὸν οὐκ̣[ ἢ καὶ παρὰ προcδοκίαν ἐπή[νεγκε οἶδ’ ὅτι καί κ’ ἄκαcκα μου[ δοκίμων τι διαβο[ — — — — — — — ]ν̣τοcι·[ ] . μν . [ ]cκαι[ ] . ων . [ — — — — — ]τερου . [ ]κωc . [ ]δεπω[ ]τοουδ̣[ ] . οντ . [ ] . η̣τ̣[ — — — — — — — ]τουλο̣χο . [",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "84 (100)",
+      "text": "] . cαμενοι . [ ] . [ — — — — — — ]αιδεκ[ ] . ε . ρ̣ε̣[ — — — — — — — — ] . νε .. [ ] . ιεπιτρα . [ ] . ωδιαιβ .. [ ] . κωc του[ ] . ουcλ̣[ ] ...... [ ] . θεινκαιτ̣[ ]ριcενανα[ ] . ερουοϊ[ ] . ο̣χοροc̣[ ] . [ — — — — — — — — — — ] . [ ]α̣[ ] . ρ̣οχοc . [ ]τ̣α̣ . [ μ]άγειροc εἰμ[ ..... ] .. ου οιλ . [ ] . cιν προcποιοῦνται οὐδενὸc γε . [ ] . υ ἀν(τὶ τοῦ) πλήρηc ὤν: ἄκρωc ἄρ’ ημαιν .. [ ] . cαc οὐκ ἀντέλεγεc: οὔτοι περιδιδ[ ] . c̣ οἱ μέν φαcι περί τινοc ... ων̣[ ] . [ ... ]ιν[ . ] . cοφίζεται πρὸc τ[ο]ὺc cυ . [ ]νταc περί τινοc: τα[ .. ] . ίον̣[ ] . αιουcι ἢ ἐπιλέγου[cι] τὸ ‘ἐc φθόρον‘[ ] . κων Ὁμη(ρ ) ‘οἵην ἐκ ῥάκεων ὁ γ[έρων β]ω̣μολόχοc ἀπ[ . ]ωνίαc η μαχ[ ] . θικὸν περὶ τὴν Ἀτλαντικὴν ω . [ ]παρὰ τὸ Ὁμη(ρικὸν) ‘φρίξαc εὖ λοφιήν‘ ωιδ̣[ ἐπήνε]γκεν ‘ωτεχειμει̣ . ν κακοῖc‘: παίζει δε̣[ ] . οὐδ’ εἷc νιν ἔϊδε πώπο(κα) καὶ τοῦτο παρὰ πρ[οcδοκίαν οὐκ ἀ]cτραγάλοιc φ(ηcὶ) παίζει ἀλλὰ cύκοιc, οἷον οὐδ[ ]δύ[ν]αται δὲ καὶ κατ’ ἀλήθειαν[ ἀcτ]ράγαλοι τ[ῶ]ν̣ cύκων[ ] . οc ειπεν . α̣ν̣υ̣ . [ ] . [ .... ]ε̣ . [ — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "tit,ante 85",
+      "text": "Ὀδυccεὺc Ναυαγόc Πέρcαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 tit",
+      "text": "Προμαθεὺc ἢ Πύρρα (et aliae fabulae?)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "— — — — — — — — — — — — — ]ω̣ . χο̣[ ]λάρνακ’ . [ .. ]εῖ λέγει δ̣[ αἰ] λῆιc, ὀξυμελεϊνοπετ̣[ ἀλλὰ παλίκαν τὸ μ]έγαθοc;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85",
+      "text": "[[—]]\t ἁλίκα χ’ ὕμ’ ἐγχά[δηι κ]αὶ μηνιῆιον ἐφό̣[διον ] . [ . ] .. ε λάρναχ’ οὕτω ποικίλ[αν ] Β ]ε̣ ποικίλαc ἀπόχρη κἀφελ̣[ ]ε̣ν̣ακρι β ἀπ]ο̣χρηcεῖ· cτεγάζειν δεῖ μόνο̣[ν — — — — λά]ρναξ κἠν cτέγαι κήτ . [ ‵ — ′ ]ἐcτ[ ὑ]ποπτεύω γα καὶ δέδοικ’ ἐγὼν μὴ δ[ τ]ὰ cκευάρια πάντα βᾶι φέρω[ν ὁ Προμα[θεὺc ]ήcθαι προμαθεούμενοc κάρτα τ[ ]κ̣όν τε χἀμαρτωλικόν αἰ γένοιθ’ ὃ . ιc[ ] Προμαθέοc μηδαμῶc του̣[ ]ν, ὦ Πύρρα, κακ[ ‵ — ′καίταρ’ οὐκατ[ ]οικειν[ . [ .. ]γυναικὸc κ[ — — — ]ι̣τᾶc λα[ ʽ ̣ . ]ευcυ[ — — — — — — — — — [ ‵ — ′ἀλλα[ ‵ — ′ἀλλ’ ἀλ . [ . ] . [ ‵ — ′ἀλλ’ ἀλ[ε]κτορὶ̣[ ‵ — ′ἢ ψέγοιτέ κ’ . [ ‵ — ′ποτὶ πανω[ ‵ — ′θάcc . [ κη . [ . ] . [ — — — — — — ]εμιν . [ ]ποίητον[ ]υ cτέγα ]ε̣cονδ . [ ἐπ]είγομαι ]λε ] ] Πύρρα[ — — — — — — — — — ]νε· ]α̣γα α̣[ ] . ετε α[ ] ] . α̣ ιμα υ ἦν .. ενακρι β ]κ̣αι ⸒ νᾶ̣ν̣· ] ] κ̣α̣ι̣[ .... ] . υcαυ̣γ ⸒ — — — — — — — — — ‵ — ′ λ[ ‵ — ′αλ̣[ ‵ — ′φ . [ ν[ νυ . [ παν̣[ ‵ — ′ῆρα[ — — — — — — — ] . [ πὸ]τ̣ τὸ κερδ̣[ ]ναιτοcωφ[ ]ν̣ε̣ πλέκειν· α[ ]ζούα· τὺ δ’ ἐϋη̣[ ]ο̣υc· απανταν[ ]ν̣τι κερδανε[ ]θ’ ἁμὲc [ὀ]λίγο[ ]αδικων απ[ ]τε̣ κ̣α[ — — — — — — — ] .. [ . ] . [ ]γὼν π[ ]ηαποπα[ ]α . πωλᾶc φ̣ε̣ρ̣[ ]αccον ἵκειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (50)",
+      "text": "[[—]]\t τ̣[ ]c̣θε τὰ cόφ’· ἀλ̣λ̣[ ]ανδανον[ ]εν̣[ . ] .. φρον[ — — — — — — — — — — ]τ̣α̣c̣εγ κ δυων[ [ .. ]ε̣ν̣α̣κρι β [ ] ] . ]ω̣ρ γλ]υκύν ]ύ γα desunt versus 2 ]πάλιν ]καλώc ] ]ινον ·ουτω· ] . — — — — — ] . [ ]λαπ̣[ ]δ̣επυ[ ] . υ̣ν̣[ — — — — — — — — — ... ] . ακ[ . ] . α̣[ ‵ — ′ο[ . ]δι’· ἀλλ̣ . μεc̣[ θύ̣ετ’· ἐμὲ δὲ χ̣ρ̣[ὴ . ]ί̣ . [ .. ] . ’έ̣[ — — — — — — — — — — ] .. [ ]· δέλ[φ]ακο[c ]νοc βοὸc δ[ ]ντ̣[ . ] . ὸ . [ ]α̣ντ̣[ .. ]ε̣κα[ ]λ̣λαδ’ ουλ . [ ] . cυνεβου[ ]τοῦτο· πω . [ ] .. [ .. ] .. [ — — — — — — — — — ] .. [ ]νὲ ´ ̣[ ]υδιο̣[ ]λαιτα̣[ — — — — — — ]αιτ[ ]υτὸ[ ]α̣λλαλ̣[ ]υδεδ[ ´ ̣]c̣c̣ο̣[ — — — ]α̣μεν . [ ]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (100)",
+      "text": "[[—]]\t ηυκ’ ῶν̣[ ]ὅγ’ ἀνεμ[ ]τοῦθ’ ἱcτ̣[ ] . θ’ ευ[ — — — — ]υνγ’ α̣[ ]ρία[ ]χ· ορ[ — — — — — — ]ρ̣· . [ ] ] . ]νω[ . ]ο[ ]α̣ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (100)",
+      "text": "[[—]]\t ] ]μ̣αν ]ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (100)",
+      "text": "[[—]]\t — — — — — — — ] . [ ]αθια[ ]αιπᾶι· τουτ[ — — — — — — — — ]ν· — — — — — — — — — — ]υ̣[ ...... ]μενοι [ ]γαρ̣α̣[ .... ]πουcε[ ]φατ[ν .... ]μνυ[ ]c ἵπ̣[π]ο̣υ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (100)",
+      "text": "[[—]]\t λῖ καλώc[ ]ν ἵππον̣ εξα[ λα]ψ̣ῆι τεῖδ’ ἔτι ]ειc αὐ̣τ̣ὸν λ[ ]η̣ραίη . [ — — — — — — — — — — ]ε̣[ ] [ αἴ]χ’ ὑμῖν δοκῆ[ι ]μειν οὐδαμώc ἐ]π̣εὶ δέξαιτ[ό] τιc· ]κ̣εντῆν ἀγρίωc ] . κἀφαυρὸν cτύηι ]οὗτοc λέγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (100)",
+      "text": "[[—]]\t ὁ πατὴ[ρ ν]α̣ὶ μὰ τὸν Δία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (100)",
+      "text": "[[—]]\t ο[ ]ον τόκα· ]οὑτῶ λέγειν — — — — — — — — — — — ]η[ ]αν[ ]υμο̣[ ] . τεμ[ ]μοcι̣ων καὶ μ̣[ ]αυτεῖ cαφέωc κη[ ]ρ ἀπώλεcάc μ’ ὦ φιν[ ]ο̣c τύ γ’ εὐφάμει· τί λῆιc; [ ]λ̣ειν· ὅτι δὲ γεγένητ̣[ δε]δοίκω μή τι κακὸν[ ]ατον πρωκτέ[ ]τ̣ον ἵππον εχα . [ ] . κεν τὸ τῆνοc ὡ[ ]αν· ἐνῆκέ γ’ ωη[ ]λ̣ο̣ν γα· κα[ — — — — — — — — — — ] . ν̣[ ] .. [ . ]τ̣ε[ ] . δη̣δ[ ]ε̣μήν[ ]εικαικ̣ . [ ]ρεια̣[ — — — — — ]υcειν . [ ]λαρεύc[ ]η̣τωνπ[ ]τελεγε[ ]υτινι[ ] . νιθυ̣[ ] . ιθυε[ ]θύεα[ ] . · ἀλλ’ εἷα[ ]υ̣c καὶ χα[ ] .. [ ... ] . [ — — — — — — — — — ] .. [ ] . ιν[ . ] . α̣[ ]ληc οκ[ — — — — — — — — — ] . [ . ] . [ c]άφ’ οἶδ’ ὅτ[ι ] . ε̣ιν ἀριcτα . [ ὁ πατὴρ ]ε̣.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (150)",
+      "text": "[[—]]\t καὶ πρόcθα του . [ ] . ἀτενὲc ἐχάροντ[ ] . τοι φορὰν ἠπίcτατ̣[ο ]ερηνταλλ̣[ — — — — — — — — — ]δο[ . ] . [ ]ε̣cμα . [ ]ᾶ μέγ’ ὀ̣ . [ ]τ̣ράβην . [ ]ταγ’ ἀνυο̣[ ]ωνβα[ ʽ ̣] . [ — — — — — — ]μ̣[ ] . [ ] . ο̣θ̣ε̣ . [ ]κ̣αι καὶ κατ̣[ ]δε τῆνοc̣ ἐ̣ν[ ] . ρον λίαν ὑα[νία ]ε̣υγωναυτ[ ]φθεγξα[ ] . εῖτ’· οὐ γα . [ ]δοι τοῦτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (200)",
+      "text": "[[—]]\t . [ ]μ̣αλλον ητο̣[ ] .. ώτα[ . ]τε . [ — — — — — — — — — — — — ]c̣ε̣ . [ ἄν]θ̣ρακε[c ]ντίμα . [ ] . ειcάκα . [ ἄ]νθρα̣κε[c ]όμε[ ]ρ̣ι̣c̣τ̣α[ ]φ̣ο̣ιc̣[ ] . τοc· ου . [ ]Π̣οτειδᾶ[ν ]ε̣δ̣οντα[ ] . [ . ]υπ̣[ — — — — — — — — — — ] . ωπακοc[ ]τ τεὶ δὴ λέγω[ ]α̣cεν ἀλλετ̣[ — — — — — ]ε̣νο[ ]αμεc γαν̣ . [ ]ωλιcκάνω[ ]α̣μαν δοκέε[ι ]έ̣cτερον[ — — — — — — — ]ν̣ . [ ὄ]λ̣εθρ̣ο̣c̣ η̣[ ]δ̣ομεc [ . ]κ[ — — — — — ]ν Ἁφαιcτ̣[ ]νεc τουτεῖ γ̣ . [ ]μάλιcτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (200)",
+      "text": "[[—]]\t κ . [ ] . ’ οὕνεκ’ ἐc[ ]ἵ̣κω δ[ — — — — — — ]κα[ ]άρ’ ε[ ]κ . ουδ’[ — — — — — — — — — — — — ] ... [ ] . [ ] . ὅμωροc οὐδέ χ’ ἡμιά[ρ]τιον ] . ἰ̣αίνει θυμὸν εὐωχεουμένων ] . καc ὀπτῆν φαντι καὶ πὸτ τὰν ἕλαν ]θ’, ἐπεί νιν φαῦλον εἴμειν κα δοκέω ]ι̣ cελάναν ὑγρὸν ἐκψύχων νάκοc ]τιc· οὑτῶ δ’ οἴομαι πὸτ τὰν ἕλαν ]κ̣’ εἴμειν, ἢ πονηρότερον ἔτι ] . ωc λέγω τὰν [ε]ἰ̣κόνα ]ν̣ ὄλεθρον καὶ τὰ χρέα τοῦ Λευκάρου . αντ ... ... [ ] .. με̣νον γα τάχ’ ἀπό κ’ ὤμοcαc θεόν ] . ὦν· χρὴ δὲ τῶν [ἐ]ccουμένων τι καὶ λέγειν· ]α̣ τὰ λοιπὰ λέξον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (250)",
+      "text": "[[—]]\t ὕδατι θερμῶι κ’ οὔποκα ] . [ .. ] . τα βαλανῆια κ’ ἦc ἄνευ πυρόc καταν̣τληcε . [ . ] . ε . [ οὕ(τωc) κ(αὶ) Ἀττικοὶ — — — . [ ‵ — ′ῆ[ ‵ — ′τ[ . ] . [ ‵ — ′ηυδ[ ‵ — ′ναιτ[ ]ι̣θ’ ἀπιωντο̣[ ]ν̣ διεκροτε[ ]λ̣λαποτο̣[ ] . [ . ]α τεῖδ[ ]τίcαι̣τ̣ήc̣α̣[ ]ετὶ . ῶ . [ — — — — — — — — — — — ]ο . [ ] . [ ]εόντινα[ ]των προτ[ ]τ̣ερα[ ]ψ̣’ ἰδε[ ]ε̣ν[ — — — — — — — — ] ... δειν ]νίων ] . α βο]ρβόρωι ] .. [ . ] . ε̣ν̣α̣[ ]· ]ν Θ̣έ(ων) ]τ̣ε — — — — — — — — ]ε̣να̣[ ἀμυ]γδάλαc· δ[ ] . ιεῖν· ´ ̣]α· — — — — — — — ‵ — ′ ηικ’ εν[ ‵ — ′ καίτα̣[ ἐμεπ̣[ ‵ — ′]μαν . [ .. ]το . [ ‵ — ′ ἀλλ’ ἕπ[ οὐδεπ[ ποτιθε[ ‵ — ′ ἴθι νυν[ ‵ — ′ μηδαμ̣[ ‵ — ′ καιτιδ[ ‵ — ′— — — — — — — — ]ι̣τουτ[ ]αρ, τοιῆ[ ]άρα καὶ τρ ... [ ] . αμαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (250)",
+      "text": "[[—]]\t ]λιπάρει ]πίθοιc· — — — — — — ] .. [ ]υ χρηιζ[ ]κελομ[ ]β̣οc γα̣[ — — — — — — — ]κ̣[ ] . ανδρ[ ]κ̣’ έδε̣ιc . [ ] . ν̣γ̣ῶ̣[ — — — — — — — ]εν — — — ] . [ ]λαζ[ ]π̣οττ̣[ — — — — — — — — ]οcπα[ ] . · ... [ ] δοκ̣[ — — — — — — — — — ] . ρ̣[ ] ·cφῦ̣ραν·[ ] . ανλ[ ... ]ν ]ό̣τι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (300)",
+      "text": "[[—]]\t ]τερων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (300)",
+      "text": "[[—]]\t ] ] . · ]ανεφα . [ — — — — — — — — . [ ‵ — ′ω̣[ .. ] . [ ‵ — ′οὐδὲ ποτθ[ ἔcτε κ’ ἀμ[ ‵ — ′α . [ ... ]κ̣ . [ κω̣[ ‵ ⸐ ′— — — — — — — — — — ] ʽ ̣ φ[ ] ἄν ω̣ [ ‵ .. [ ′ ]ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (300)",
+      "text": "[[—]]\t δ ... [ ]ν φ’ μήποτ[ε ] ] . ·ποτιθι̣[ πο]τιθιγὼν ενα[ ] . [ . ] . ι̣τ̣ε̣ . οὕ(τωc) η[ ]τουc ´ ̣[ ´ ̣]κ̣α̣τ̣α̣[ — — — — — — — — ‵ — ′ητο . [ ‵ — ′ἐ̣χαδ[ ‵ — ′και τι . [ ‵ — ′ὡc ἐγὼ[ ‵ — ′οὐ μὰ[ ἀλλα τ̣[ ‵ — ′ ] ... [ — — — — — — — — ] . εν ]βᾶτεκα[ ] . αιδεπα[ ] . οκη[ — — — — — — — ]π̣άϊλλα . [ ] ´ ̣νητ’ εκ[ ] . c̣το παιδίο[ ]λ̣υππαμ̣[ ]φίλιον ι . [ — — — — — — — — ] . ολ[ ]μα· . [ ] . ῦμ̣ιν[ ]ηc[ — — — — — — ] . ι̣τε[ ]ατ̣α[ ]μεγω . [ ] . φ̣[ ´ ̣ — — — — — — — ]α̣[ ]ν̣ουτα[ ]γ̣άρ μ’ . [ ]ο̣[ . ] . ν̣ιο̣[ ] . [ — — — — — — — ]μου̣κο[ ] Θ̣έ(ων) ... [ ]οναυχ[ . ]α̣.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t ἀν]θ̣ρ̣ώ̣που θ̣εόc ] . []ἀνθρ[ . ]· ο[ ]τ̣ο παιδίον ] . ε̣ι[ .´ ̣]μαι̣ ]τ̣ηνοc καθ[ ]άμ̣[ .. ]ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t — — — — — — — — ] .. [ .. ] .. [ ]λαcερωcμ[ ]μ̣εcαμε̣[ ]δεφορ[ — — — — — — ]τ̣άρα[ ]χ . [ — — — — — — ] .. [ ]μ’ ελευ[ ]θέρα . [ — — — ]ιν ψ’ ἀκούω[ ]α̣χεccαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t π̣[ ] . ι̣τοιc· ἀλλ’ ὁπεῖ κ .. [ ]ἀκούcηι κεῖcε κιν . [ ]τ’ ἀε[ίc]αι λῆν· ἀτὰρ .. [ ] . κατέκανε· τοῦδε ν[ — — — ] . ξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t τίc γὰρ ἐγεν[ ].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t [ ]ν̣ερμᾶ̣[ ]α̣ν . [ ] .. ον ναὸc εξ[ ] . [ . ]αc τε]λ̣ευτᾶc’ ὁλκὰc ε[ ]η.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t τί .. ]κ̣ύνεc τῶν ῥῖν[εc ]αναιόλαι ]ρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (350)",
+      "text": "[[—]]\t .. γαδη̣[ ]αματι ] . ὄν̣α̣ιcτα τ[ ]τηνᾶc πολὺ ]ἱκομι . τ . [ ]δενα ·ουνεχ· ω ] .. [ ´ ̣]ανπ[ ]ν τρόπιν ·εκειτό ὺ ҅ c·[ ] ´ ̣νουc . [ ]α̣c κακώc ] . οιcκ[ ] . περιπλέαc· — — — — τ]ὤδαφοc ]α· τὴν[ ]χετο ·κ ]ζωναcε[ ] .. λειν θρακιαν ]π̣ρ[ . ] .. [ ] . [ ] . . [ ]ρευω .. [ ]α̣νπλαντ . [ ]οιητέα[ ]λεγε̣ι̣[ ]νοc ]c ] . λα[ — — — — — — — — — — — ]πατ̣ . [ ] . ηκ[ ]νουτῶ[ . ] . [ ]ονη[ ] . οcευχαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (400)",
+      "text": "[[—]]\t [ ]μ̣ω̣cεωντοι .. [ ]ε[ . ] . ανδρ[ ο]ὐδαμὼc ουτ[ ]υc· αἴ γ’ εc[ ἀφρ]άτωρ ἀθέμ[ιcτοc ἀ]νίcτιοc· α[ ]οημενκλα[ ]υδ’ ἀλλᾶc[ ν]αὶ μὰ Δία . [ ]πεμνα . [ ]αλω[ ]εμναcα . [ — — — ] . ιηιc· ουδ[ ]εινν[ ]ω̣[ — — — — — ]α[ ]θάτω[ ]τιδι[ ] . δ . [ — — — — — — — — ]ραι ] ] ]υ̣ . ομεc ] . κω . ]με[ ] οὐκ ἦν τὸ χ ἐν τοῖc Θέ(ωνοc) ] . χεαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (400)",
+      "text": "[[—]]\t — — — — — — — . [ ‵ — ′α[ ‵ — ′ — — — — — — ]ν̣ . α̣[ ]υγίον . [ οὕ]νεκ’ ο[ ‵ — ′ἢ οὐδὲ το[ ‵ — ′ἀλλανα[ ‵ — ′ναὶ μὰ Δ[ία τ̣ί δ’ ἀγα . [ — — — ‵ — ′παντα . [ ]νουδαμ[ ‵ — ′ουδιουκ[ ]ταδε τοδεκακ[ ]ων θαυ[ τωκα̣κ̣ ` ̣[ ]α̣τινα̣[ ‵ — ′τ[ . ] . [ ]ζε[ ἀλ . [ ] ... [ — — — — ]πολὺ ] ] . ε͂ ί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (450)",
+      "text": "[[—]]\t ] ]ωι κατ ω ]εν· ]νῦ(ν) μὴ διαιρεῖcθ(αι) τὸ αχαμιεργ( ) ]ἀλλὰ ὅλον ... νῦ(ν) λέγειν οὕ(τω) μ ] ναcει: ἀλλὰ Θέ(ων) οὕ(τωc) ]ν — — — — — — — — ] . α[ ]δ̣ηλον[ ‵ — ′ ]ταcδεκ[ ]τωννε . [ ο]ἰνοχοα[ α̣[ ] . ίπατε[ ‵ — ′ . [ ]δέγυδ[ — — ]με[ ]ccέιτ̣[ κ]ύλικ[α ]ανιcκ[ ]cεχο[ ]εκαικα[ — — — — — — ]ν̣οc̣ . [ ] . μι . [ ]λ̣εγειν[ ]μεc̣· ε̣[ ]διδα[ — — — — ] . ανε̣ . [ ]τονδε̣ . [ ] . γατω[ ]καττ . [ ]λ̣αμφ[ — — — ] . τ[ ]δετ[ ] . μ[ ]μ[ ]ξ̣[ — — — — — — — — — ] . [ ]ευc ὁ cτρ[ ]δ̣οκ’ οἴ[ο]μαι ] . π .. οκα· ]ν̣ παλίγκοτ[ο]ν ]αφηιc — — — — ]ό̣c εἰμ’ ἐγών· τη . [ ] ῀ ̣[ . ] . ὄναιcτον[ ] . ντεcμ[ — — — — — — — ] . ίοι ] . α̣ν[ . ] . cκάρ . [ ]χειλ[ . ]ι̣· — — — — — — — ] . [ ]λαc . [ ] . γεκ[ — — — — — — — ] . ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "85 (500)",
+      "text": "[[—]]\t κατ[ ] . ἵκω χ[ ] .. [ — — — — — — ] . τε . [ ]ξοcτ[ ]άγ’ υμ . [ ]αίοιδ’ ε[ ]νε[ ] . [ — — — — — — ]οικι . [ ]λ̣αυρ̣[ — — — Ϲφίγξ Incertae fabulae fragmentum | ἐκ τᾶc τοῦ Διόc φαντι κεφαλᾶc | ἀπολέcαι πράτιcτα πάντων | ἐμ μάχαι τᾶι γενομέναι κα|τὰ Κρόνον Πάλλαντα, τὸ δὲ τού|τω δέροc πὸτ τὸ φοβερὰν εὐ|θὺc εἶμεν περιβαλεῖν αὐτᾶc κύ|κλωι· διόπερ αὐτὰν Παλλάδ’ ὀνο|μαcθῆμεν ὑπὸ πάντων τόκα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bhm-af",
+      "title": {
+        "english": "Fragments of Comic Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμικῆς Σοφίας"
+      },
+      "url_slug": "epicharmus-syracuse-comic-wisdom-bhm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-aa",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-aa-bhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ab",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-ab-bhm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ag",
+      "title": {
+        "english": "Gnomic and Comic Wisdom Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/gnomic-comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gzy-aa",
+      "title": {
+        "english": "Boeotian Banquet",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "demonicus-the-comic-poet-boeotian-banquet-aa-gzy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demonicus-the-comic-poet/boeotian-banquet-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demonicus-the-comic-poet/boeotian-banquet-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-ad",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ad-hcq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "jsi-ab",
+      "title": {
+        "english": "Fragments on Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας"
+      },
+      "url_slug": "phoenicides-the-comic-poet-feasting-jsi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.json"
+      }
+    },
+    {
+      "eul_wid": "lhc-ab",
+      "title": {
+        "english": "Fragments on Parasites and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "crobylus-the-comic-poet-parasites-excess-lhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crobylus-the-comic-poet/parasites-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.json"
+      }
+    },
+    {
+      "eul_wid": "hps-al",
+      "title": {
+        "english": "Girl with Her Hair Cut Short",
+        "ancient_greek": "Ἡ Κομψικεκαρμένη"
+      },
+      "url_slug": "menander-of-athens-girl-with-her-hair-cut-short-hps-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/girl-with-her-hair-cut-short",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.json"
+      }
+    },
+    {
+      "eul_wid": "gmm-aa",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-aa-gmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ae",
+      "title": {
+        "english": "Theophorumenae Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-fragments-hps-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "evu-ac",
+      "title": {
+        "english": "Uninvited Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-uninvited-guest-evu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/uninvited-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ad",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

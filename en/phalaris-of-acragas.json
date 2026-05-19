@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "auk",
+  "auth_slug": "phalaris-of-acragas",
+  "name": {
+    "english": "Phalaris of Acragas",
+    "ancient_greek": "Φάλαρις ὁ Ἀκραγαντῖνος"
+  },
+  "seo_h1": "Ethical Letters Attributed to Phalaris of Acragas",
+  "seo": {
+    "browser_title": "Phalaris of Acragas on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Phalaris of Acragas Ancient Greek Epistles Works",
+    "meta_description": "Phalaris of Acragas, 6th century BCE Doric tyrant of Sicily. Epistles attributed to the ruler. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phalaris was the tyrant of the Greek colony of Acragas in Sicily during the sixth century BCE, seizing power around 570 BCE. His reign, reportedly lasting sixteen years, was characterized by exceptional cruelty, most infamously associated with the Brazen Bull execution device. He was eventually overthrown by a popular uprising led by Telemachus. The primary historical sources are Herodotus and Polyaenus.</p>\n<p class=\"research-text\">A collection of 148 letters attributed to Phalaris, known as the Epistles, is a later literary forgery likely composed in the second century CE. Richard Bentley definitively exposed them as pseudepigraphic in his 1699 dissertation, a landmark in textual criticism.</p>\n<p class=\"research-text\">Phalaris is historically significant as an archetypal brutal tyrant in Greek tradition, his name proverbial for cruelty. The forged letters attributed to him and their exposure by Bentley represent a major case study in ancient literary forgery and the development of modern scholarly analysis.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "auk-aa",
+      "title": {
+        "english": "Ethical Letters",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "phalaris-of-acragas-ethical-letters-auk-aa",
+      "passages": 200,
+      "links": {
+        "html": "https://eulogikon.org/grc/phalaris-of-acragas/ethical-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phalaris-of-acragas/ethical-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phalaris-of-acragas/ethical-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phalaris-of-acragas/ethical-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phalaris-of-acragas/ethical-letters.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phalaris-of-acragas",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phalaris-of-acragas.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phalaris-of-acragas.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phalaris-of-acragas.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phalaris-of-acragas.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

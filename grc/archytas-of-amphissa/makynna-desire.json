@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kaa-aa",
+  "eul_aid": "kaa",
+  "author_slug": "archytas-of-amphissa",
+  "work_slug": "makynna-desire",
+  "url_slug": "archytas-of-amphissa-makynna-desire-kaa-aa",
+  "author": {
+    "english": "Archytas of Amphissa",
+    "ancient_greek": "Ἀρχύτας ὁ Ἀμφισσεύς"
+  },
+  "title": {
+    "english": "Fragments on Makynna and Desire",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μακύννης καὶ Ἔρωτος"
+  },
+  "seo": {
+    "browser_title": "Fragments on Makynna and Desire by Archytas on Eulogikon",
+    "meta_title": "Fragments on Makynna and Desire by Archytas in Greek",
+    "meta_description": "Surviving fragments of the epic poem on Makynna and Desire by Archytas. Explore themes of longing. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Makynna and Desire is a lost epic poem attributed to Archytas of Amphissa, an obscure figure distinct from the more famous philosopher Archytas of Tarentum. The work is known solely by its title, which indicates it consisted of poetic fragments concerning a figure named Makynna, who is otherwise unattested in surviving literature, and the theme of Eros, or desire. No direct quotations or descriptions of its content have been preserved. The poem is classified as fragmentary, with some metadata suggesting it originally comprised six poetic passages, though no source for these fragments is identified and no manuscript tradition is recorded. Due to its fragmentary state and the obscurity of its author, the work has no documented literary influence and survives only as a bibliographical attestation to a lost poetic tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Τὰν βοτρυοστέφανον μυρίπνουν Μάκυνναν ἐραννάν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_1]Ὥριον οἷά τε μῆλον, ὅ τ’ ἀργιλώδεσιν ὄχθαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πορφύρεον ἐλαχείῃ ἐνιτρέφεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "Σιδόεντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Χρειὼ πάντ’ ἐδίδαξε· τί δ’ οὐ χρειώ κεν ἀνεύροι;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ὀρθοῦ· καὶ γὰρ μᾶλλον ἐπωδίνουσι μέριμναι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "adm-aa",
+      "title": {
+        "english": "Cypria",
+        "ancient_greek": "Κύπρια"
+      },
+      "url_slug": "epic-work-anonymous-ii-cypria-adm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-work-anonymous-ii/cypria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.json"
+      }
+    },
+    {
+      "eul_wid": "tns-ab",
+      "title": {
+        "english": "Dionysiaca",
+        "ancient_greek": "Διονυσιακά"
+      },
+      "url_slug": "nonnus-of-panopolis-dionysiaca-tns-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnus-of-panopolis/dionysiaca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/dionysiaca.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ap",
+      "title": {
+        "english": "Epic Fragment",
+        "ancient_greek": "Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-fragment-kjq-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.json"
+      }
+    },
+    {
+      "eul_wid": "alo-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "peisander-of-camirus-epigram-alo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-camirus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-camirus/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "aak-aa",
+      "title": {
+        "english": "Fragments on Hermes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ"
+      },
+      "url_slug": "epic-fragments-anonymous-ii-hermes-aak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-ii/hermes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ah",
+      "title": {
+        "english": "Historical Epic Fragment B",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ah-kjq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.json"
+      }
+    },
+    {
+      "eul_wid": "fjq-ab",
+      "title": {
+        "english": "Historical Epitome Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theopompus-of-chios-historical-epitome-fjq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/historical-epitome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/historical-epitome.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/historical-epitome.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/historical-epitome.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/historical-epitome.json"
+      }
+    },
+    {
+      "eul_wid": "gwm-ab",
+      "title": {
+        "english": "On Mortality and Transience",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "choerilus-of-iasus-mortality-transience-gwm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archytas-of-amphissa/makynna-desire",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

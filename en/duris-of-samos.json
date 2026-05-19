@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lju",
+  "auth_slug": "duris-of-samos",
+  "name": {
+    "english": "Duris of Samos",
+    "ancient_greek": "Δοῦρις ὁ Σάμιος"
+  },
+  "seo_h1": "Duris of Samos on Agathocles and Historical Fragments",
+  "seo": {
+    "browser_title": "Duris of Samos Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Duris of Samos Ancient Greek Historical Works",
+    "meta_description": "Duris of Samos was a Hellenistic historian and tyrant. His surviving historical works are fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Duris of Samos was a Greek historian and tyrant of his native island, born around 340 BCE and a descendant of Alcibiades. He studied under Theophrastus in Athens before returning to Samos after Alexander the Great’s death, where he seized power and ruled as a reportedly harsh tyrant from before 300 BCE until at least 281 BCE. He was also an Olympic victor in boys&#x27; boxing.</p>\n<p class=\"research-text\">His historical works survive only in fragments. The major ones are the Histories, also known as the Macedonica, covering the period from 371 to 281 BCE, and the Annals of Samos, a local history of the island. A biography of Agathocles of Syracuse and a work on the dramatists Euripides and Sophocles are less securely attributed to him.</p>\n<p class=\"research-text\">Duris is a significant, though fragmentary, source for early Hellenistic history. Ancient critics such as Plutarch and Dionysius of Halicarnassus accused him of prioritizing sensational, tragic narrative over accuracy—a style later labeled &quot;tragic history&quot;. Modern scholarship debates whether this represents a distinct historiographical school or a broader literary trend. His surviving fragments provide valuable details on the Diadochi, the successors of Alexander, and Hellenistic court culture.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "lju-aa",
+      "title": {
+        "english": "Fragments on Agathocles' Campaign",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀγαθοκλέους Στρατηγίας"
+      },
+      "url_slug": "duris-of-samos-agathocles-campaign-lju-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/agathocles-campaign",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.json"
+      }
+    },
+    {
+      "eul_wid": "lju-ab",
+      "title": {
+        "english": "Historical Fragments of Duris",
+        "ancient_greek": "Ἀποσπάσματα Δούριδος"
+      },
+      "url_slug": "duris-of-samos-historical-fragments-lju-ab",
+      "passages": 92,
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/duris-of-samos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/duris-of-samos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/duris-of-samos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/duris-of-samos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/duris-of-samos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

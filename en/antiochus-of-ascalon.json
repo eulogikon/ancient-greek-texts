@@ -1,0 +1,124 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "msk",
+  "auth_slug": "antiochus-of-ascalon",
+  "name": {
+    "english": "Antiochus of Ascalon",
+    "ancient_greek": "Ἀντίοχος ὁ Ἀσκαλώνιος"
+  },
+  "seo_h1": "Antiochus of Ascalon and the Eclectic Philosophical Fragments",
+  "seo": {
+    "browser_title": "Antiochus of Ascalon on Eulogikon Greek Archive Library",
+    "meta_title": "Antiochus of Ascalon Ancient Greek Philosophical Works",
+    "meta_description": "Antiochus of Ascalon was a Hellenistic eclectic philosopher. Philosophical works.  Read Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Antiochus of Ascalon was a Greek philosopher of the late Hellenistic period, active in the 2nd and 1st centuries BCE. Originally from Ascalon, he moved to Athens to study under Philo of Larissa, the head of the Platonic Academy. He initially followed the Academy&#x27;s skeptical tradition, which doubted the possibility of certain knowledge. However, he later broke with this view and founded his own school, which he called the &quot;Old Academy.&quot; His goal was to revive the doctrinal philosophy of early Platonism while blending it with ideas from Stoicism and Aristotelian thought.</p>\n<p class=\"research-text\">His career was closely connected to the Roman elite. He was part of the circle of the Roman general Lucullus, accompanying him on military campaigns, and he also taught in Alexandria and Rome. The Roman orator Cicero studied with him in Athens and later used Antiochus&#x27;s ideas extensively in his own philosophical writings, making him a key source for understanding this period of philosophy.</p>\n<p class=\"research-text\">None of Antiochus&#x27;s own writings survive intact; they are known only through fragments and discussions in later authors like Cicero. The only title recorded is the Sosus, a work criticizing his former teacher Philo. According to modern scholars, Antiochus is a pivotal figure for effectively ending the skeptical era of the Platonic Academy. By arguing that the core teachings of Plato, Aristotle, and the Stoics were in harmony, he created an eclectic, dogmatic system that appealed to Roman intellectuals. Through Cicero&#x27;s works, his synthesis significantly influenced the transmission of Greek philosophy to the Roman world and helped shape later Platonic thought.</p>\n</div>",
+  "affiliation_label": "Eclectic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "msk-aa",
+      "title": {
+        "english": "Fragments on Antiochus of Ascalon",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀντιόχου τοῦ Ἀσκαλωνίτου"
+      },
+      "url_slug": "antiochus-of-ascalon-fragments-msk-aa",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/antiochus-of-ascalon/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-ascalon/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-ascalon/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-ascalon/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-ascalon/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "ovu",
+      "name": {
+        "english": "Aetius the Doxographer",
+        "ancient_greek": "Ἀέτιος ὁ Δοξογράφος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/aetius-the-doxographer",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aetius-the-doxographer.json"
+      }
+    },
+    {
+      "eul_aid": "tni",
+      "name": {
+        "english": "John Stobaeus of Stobi",
+        "ancient_greek": "Ἰωάννης ὁ Στοβαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/john-stobaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/john-stobaeus.json"
+      }
+    },
+    {
+      "eul_aid": "rye",
+      "name": {
+        "english": "Themistius the Philosopher",
+        "ancient_greek": "Θεμίστιος ὁ Εὐφραδής"
+      },
+      "work_count": 41,
+      "links": {
+        "html": "https://eulogikon.org/en/themistius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/themistius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/antiochus-of-ascalon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antiochus-of-ascalon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

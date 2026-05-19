@@ -1,0 +1,587 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pdc-af",
+  "eul_aid": "pdc",
+  "author_slug": "appian-of-alexandria",
+  "work_slug": "italian",
+  "url_slug": "appian-of-alexandria-italian-pdc-af",
+  "author": {
+    "english": "Appian of Alexandria",
+    "ancient_greek": "Ἀππιανὸς Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "From the Italian",
+    "ancient_greek": "ἐκ τῆς Ἰταλικῆς"
+  },
+  "seo": {
+    "browser_title": "From the Italian by Appian of Alexandria on Eulogikon",
+    "meta_title": "Ancient From the Italian by Appian of Alexandria in Greek",
+    "meta_description": "Appian of Alexandria preserves this fragment on Roman diplomatic missions to foreign nations. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>From the Italian</strong> is a fragmentary historical work composed in Greek by Appian of Alexandria during the mid-2nd century CE. It served as the introductory book to his comprehensive <strong>Roman History</strong>, intended to narrate the early history of Rome and its subjugation of the Italian peninsula before proceeding to accounts of Rome&#x27;s foreign wars. The complete original text is lost; the work survives only in 32 disconnected passages preserved within thematic collections compiled by order of the 10th-century Byzantine emperor Constantine VII Porphyrogennetos. These excerpts, gathered under headings such as &quot;On Embassies,&quot; capture moments from Appian&#x27;s narrative, including episodes from the early Roman monarchy, the establishment of the Republic, and conflicts with neighboring peoples such as the Sabines and Volscians.</p>\n<p class=\"research-text\">The surviving fragments, though disjointed, provide valuable insight into Appian&#x27;s historiographical method. <strong>From the Italian</strong> functioned as the essential preface to his innovative project, which organized Roman history not annalistically but around the narratives of the peoples Rome conquered. Writing as a Greek provincial and imperial official for a Greek-speaking audience within the Roman Empire, Appian used this introductory book to explain the origins of Roman power and the consolidation of Italy, reflecting a provincial perspective during a period of imperial stability. The selective nature of the preserved excerpts means the work remains a tantalizing, piecemeal record of how a 2nd-century author presented Rome&#x27;s foundational myths and the early stages of its expansion.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Ital 1 1",
+      "text": "ὁ δὲ δῆμος τὸν Μάρκιον μετιόντα τὴν ὑπατείαν οὐκ ἐχειροτόνησεν, οὐ τὸν ἄνδρα ἀπαξιῶν, ἀλλὰ τὸ φρόνημα δεδιὼς αὐτοῦ. Suid. v. ἀπαξιῶν. ὁ Μάρκιος, πιμπράμενος ἐπὶ Ῥωμαίοις φυγὴν καταδικασθεὶς καὶ μικρὸν ἐς αὐτοὺς οὐδὲν ἐπινοῶν, ἐς Βολούσκους ἐτράπετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 2 1",
+      "text": "Suid. v. πίμπραται. ὅτι πατρίδα καὶ γένος ἀλλαξάμενος ἥκοι, 〈ταῦτα〉 τὸ μηδὲν ἡγησάμενος καὶ τὰ τῶν Οὐολούσκων ἀντὶ τῆς πατρίδος αἱρήσεσθαι βουληθείς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 3 1",
+      "text": "Suid. v. ἀλλαξάμενος. Βολοῦσκοι δὲ τοῖς πταίσμασι τῶν γειτόνων οὐ καταπλαγέντες ἐστράτευον ἐπὶ Ῥωμαίους καὶ ἐπολιόρκουν τοὺς αὐτῶν κληρούχους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 4 1",
+      "text": "Suid. v. κληροῦχον. Περὶ πρέσβεων Ῥωμαίων πρὸς ἐθνικού ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 1",
+      "text": "Ἐκ τῆς ἱστορίας Ἀππιανοῦ τῆς ἐπιγραφομένης Ἰταλικῆ ς . ὅτι τοῦ Μαρκίου φυγαδευθέντος καὶ ἐς Βολούσκους καταφυγόντος καὶ κατὰ Ῥωμαίων ἐκστρατεύσαντος καὶ μʹ σταδίους ἀποσχόντος ἀπὸ τοῦ ἄστεος καὶ στρατοπεδεύσαντος ὁ δῆμος ἠπείλει τῇ βουλῇ παραδώσειν τὰ τείχη τοῖς πολεμίοις, εἰ μὴ πρεσβεύσοιντο περὶ διαλλαγῶν πρὸς Μάρκιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 2",
+      "text": "ἣ δὲ μόλις ἐξέπεμψεν αὐτοκράτορας εἰρήνης πέρι Ῥωμαίοις πρεπούσης, οἳ παρελθόντες εἰς τὸ Βολούσκων στρατόπεδον Μαρκίῳ μετὰ Βολούσκων ἀκροωμένῳ προύτειναν ἀμνηστίαν καὶ κάθοδον, εἰ καταλύσει τὸν πόλεμον, τῆς τε βουλῆς αὐτὸν ὑπεμίμνησκον ὡς οὐχ ἁμαρτούσης ἐς αὐτόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 3",
+      "text": "ὃ δὲ πολλὰ τοῦ δήμου κατηγορήσας περὶ ὧν ἐς αὐτὸν καὶ Βολούσκους ἐξημαρτήκεσαν, ἐπηγγέλλετο ὅμως Βολούσκους αὐτοῖς διαλλάξειν, ἂν ἥν τε γῆν ἔχουσι Βολούσκων καὶ τὰς πόλεις ἀποδῶσι καὶ ποιήσωνται πολίτας ὥσπερ Λατίνους· ἕως δ’ ἂν ἔχωσι τὰ τῶν κρατούντων οἱ κρατούμενοι, οὐχ ὁρᾶν, τίνες αὐτοῖς ἔσονται διαλύσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 4",
+      "text": "ταῦτα μετοίσοντας ἀπέλυε τοὺς πρέσβεις καὶ λʹ ἡμέρας ἐς τὴν σκέψιν ἐδίδου. τραπεὶς δ’ ἐπὶ τοὺς ἄλλους Λατίνους ἑπτὰ πόλεις αὐτῶν εἷλε ταῖς λʹ ἡμέραις καὶ ἧκεν ἐπὶ τὰς ἀποκρίσεις. οἳ δὲ ἀπεκρίναντο, ἐὰν ἐκ τῆς Ῥωμαίων γῆς ἀπαγάγῃ τὸν στρατόν, πέμψειν τοὺς συνθησομένους αὐτῷ τὰ πρέποντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 5",
+      "text": "πάλιν δ’ ἀντειπόντος ἔπεμπον ἑτέρους ιʹ δεησομένους μηδὲν ἀνάξιον ποιεῖν τῆς πατρίδος μηδ’ ἐξ ἐπιτάγματος, ἀλλ’ ἑκουσίους ἐᾶν γίγνεσθαι τὰς συνθήκας, αἰδούμενόν τε τὴν πατρίδα καὶ τὸ τῶν προγόνων ἀξίωμα τιμῶντα τῶν ἐς αὐτὸν οὐχ ἁμαρτόντων. ὃ δὲ τοσοῦτον αὐτοῖς ἀπεκρίνατο, τριῶν ἄλλων ἡμερῶν ἥκειν βουλευσαμένους τι κάλλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 6",
+      "text": "οἳ μὲν δὴ τοὺς ἱερέας ἔπεμπον ταῖς ἱεραῖς ἐσθῆσιν ἐσταλμένους, ταὐτὰ τοῦ Μαρκίου δεησομένους· ὃ δὲ καὶ τούτοις ἔφη δεῖν ἢ τὰ κελευόμενα ποιεῖν ἢ μηδ’ ἂν ἀφικνεῖσθαι πρὸς αὐτόν. ἐς οὖν πολιορκίαν καθίσταντο καὶ τὸ τεῖχος ἐπλήρουν λίθων καὶ βελῶν ὡς ἄνωθεν ἀμυνούμενοι Μάρκιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 7",
+      "text": "Βαλερία δ’, ἡ Ποπλικόλα θυγάτηρ, πολλὰς ἀγομένη γυναῖκας ἐπί τε τὴν μητέρα τοῦ Μαρκίου Βετουρίαν καὶ ἐπὶ τὴν γυναῖκα Βολουμνίαν, πένθιμα ἠμφιεσμέναι πᾶσαι καὶ τὰ παιδία ταῖς ἱκεσίαις ἐπιφέρουσαι, συνεξελθεῖν αὑταῖς πρὸς Μάρκιον ἠξίουν αὐτὰς καὶ δεηθῆναι φείσασθαι σφῶν τε αὐτῶν καὶ τῆς πατρίδος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 8",
+      "text": "αἳ μὲν δὴ τῆς βουλῆς ἐπιτρεπούσης ἐξῄεσαν, μόναι γυναῖκες, ἐς ἐχθρῶν στρατόπεδον. ὁ δὲ Μάρκιος, θαυμάζων τῆς εὐτολμίας τὴν πόλιν, οἷα Ῥωμαίων ἐστὶ καὶ τὰ γύναια, προσιούσαις ἀπήντα καὶ τὰς ῥάβδους καθῄρει καὶ τοὺς πελέκεας διὰ τὴν μητέρα προσδραμών τε ἠσπάζετο καὶ ἦγεν ἐπὶ τὸ συνέδριον τῶν Βολούσκων καὶ λέγειν ἐκέλευσεν, ὅ τι χρῄζοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 9",
+      "text": "ἣ δὲ συνηδικῆσθαι μὲν ἐξελαυνομένῳ τῆς πόλεως οὖσα μήτηρ ἔφη, ὁρᾶν δ’, ὅτι Ῥωμαῖοι πολλὰ πρὸς αὐτοῦ πεπόνθασιν ἤδη καὶ τίσιν ἔτισαν ἱκανήν, ὧν χώρα τε τοσαύτη διέφθαρται καὶ πόλεις ἀπολώλασι πολλαὶ καί, τὸ Ῥωμαίοις ἔσχατον, παρακαλοῦσι καὶ πρέσβεις πέμπουσιν ὑπάτους καὶ ἱερέας καὶ μητέρα καὶ γυναῖκα τό τε ἀδίκημα ἰῶνται ἀμνηστίᾳ καὶ καθόδῳ. “σὺ δὲ μὴ ἀνιάτῳ κακῷ τὸ κακὸν ἰῶ μηδὲ συμφοραῖς ἐπιχείρει κοιναῖς αὐτοῦ τε σοῦ καὶ τῶν ἀδικούντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 10",
+      "text": "ποῖ φέρων οἴσεις τὸ πῦρ; μετὰ τὴν χώραν ἐπὶ τὴν πόλιν; 〈μετὰ τὴν πόλιν〉 ἐπὶ τὴν ἑστίαν τὴν σήν; μετὰ τὴν ἑστίαν ἐπὶ τὰ ἱερά; δὸς χάριν, ὦ παῖ, κἀμοὶ καὶ τῇ πατρίδι παρακαλούσαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 11",
+      "text": "” ἣ μὲν δὴ τοσαῦτα εἶπεν, ὁ δὲ Μάρκιος οὐκ εἶναι πατρίδα τὴν ἐκβαλοῦσαν, ἀλλὰ τὴν ὑποδεδεγμένην· οὐδὲν γὰρ εἶναι φίλιον, ἂν ἀδικῇ, οὐδὲ ἐχθρὸν εὖ ποιοῦν. καὶ τὸ τῶν παρόντων ἐκέλευεν ὁρᾶν, πίστιν τε δόντων αὐτῷ καὶ λαβόντων καὶ πολίτην πεποιημένων καὶ στρατηγὸν ἀποφηνάντων καὶ τὰ ἴδια ἐπιτρεψάντων, τιμάς τε, ὅσων ἠξίωτο, καὶ ὅρκους, οὓς ὤμοσεν αὐτοῖς, ἐπεξῄει καὶ παρεκάλει τὴν μητέρα τοὺς αὐτοὺς ἐκείνοις τίθεσθαι πολεμίους καὶ φίλους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 12",
+      "text": "ἣ δὲ ἔτι λέγοντος ἀγανακτήσασα καὶ τὰς χεῖρας εἰς τὸν οὐρανὸν ἀνασχοῦσα θεοὺς γενεθλίους ἐμαρτύρατο δύο μὲν ἤδη πρεσβείας γυναικῶν ἀπὸ Ῥώμης ἐν μεγάλοις ἐστάλθαι κακοῖς, ἐπὶ Τατίου βασιλέως καὶ Γαΐου Μαρκίου, τούτοιν δὲ Τάτιον μὲν ὄντα ξένον καὶ ἀληθῆ πολέμιον ἐνδοῦναι ταῖς γυναιξὶν αἰδούμενον, Μάρκιον δ’ ὑπερορᾶν πρεσβείας γυναικῶν τοσῶνδε, καὶ τῆς γεγαμημένης καὶ μητρὸς ἐπὶ ταύταις. “ἄλλη μὲν οὖν”, ἔφη, “μηδεμία μήτηρ, ἀτυχοῦσα παιδός, ἐς ἀνάγκην ἀφίκοιτο προσπεσεῖν αὐτῷ· ἐγὼ δ’, εἰ καὶ τοῦτο ὑφίστασαι, προκυλίσομαί σου.” καὶ λέγουσα ἐς τὸ ἔδαφος ἑαυτὴν ἐρρίπτει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5 13",
+      "text": "ὃ δὲ ἐδάκρυσέ τε καὶ ἀνεπήδα καὶ ἀντείχετο αὐτῆς ὑπό τε τοῦ πάθους ἐξεφώνησεν· “νικᾷς, ὦ μῆτερ, ἀλλὰ νίκην, ἐξ ἧς τὸν υἱὸν ἀπολεῖς.” ταῦτα εἰπὼν ἀπῆγε τὴν στρατιὰν ὡς λόγον ἀποδώσων Βολούσκοις καὶ τὰ ἔθνη συναλλάξων· ἐλπίς τε ἦν, ὅτι καὶ ταῦτα πείσει Βολούσκους. κατελεύσθη δὲ φθονούμενος παρὰ τοῦ στρατηγοῦ Ἀττιδίου. Exc. de leg. Rom. 1, p. 65. ὁ δὲ Μάρκιος ἀντιλέγειν μὲν πρὸς οὐδὲ ἓν αὐτῶν ἐδικαίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 5b 1",
+      "text": "Suid. v. ἐδικαίου. ἐλεεινοὶ τοῦ πάθους, ἀξιέπαινοι τῆς ἀρετῆς γενόμενοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 6 1",
+      "text": "μέγα γὰρ πάθος Ῥωμαίοις τοῦτο ἐγένετο, καὶ πλήθους ἕνεκα καὶ ἀξιώματος εὐγενοῦς οἴκου καὶ πανωλεθρίας. καὶ τὴν ἡμέραν ἀποφράδα τίθενται. Suid. v. ἐλεεινός et (inde a μέγα, l. 17) v. ἀποφράδες ἡμέραι. τῷ δὲ στρατηγῷ στρατὸς δυσπειθὴς ἦν ὑπὸ μνησικακίας, ἐθελοκάκως τε ἠγωνίζοντο καὶ ἔφευγον ἐπιδησάμενοι τὰ σώματα ὡς τετρωμένοι καὶ τὰς σκηνὰς διέλυον καὶ ἀναχωρεῖν ἐπεχείρουν, ἀπειρίαν ἐπικαλοῦντες τῷ στρατηγῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 7 1",
+      "text": "Suid. v. ἐθελοκάκως. ὅτι σημείων γενομένων ἐκ Διὸς ἀηδῶν μετὰ τὴν Βηϊεντίας ἅλωσιν οἱ μάντεις ἔλεγον ἐκλειφθῆναί τινα πρὸς εὐσέβειαν, καὶ ὁ Κάμιλλος ἀνήνεγκεν, ὅτι τὴν δεκάτην τῆς λείας ἐκλάθοιτο τῷ θεῷ τῷ χρήσαντι περὶ τῆς λίμνης ἐξελέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 8 2",
+      "text": "ἡ 〈μὲν〉 οὖν βουλὴ τοὺς λαβόντας ὁτιοῦν ἐκ τῆς Βηϊέντης ἐκέλευσεν ἀποτιμήσασθαι καθ’ αὑτοὺς καὶ σὺν ὅρκῳ τὸ δέκατον ἐσενεγκεῖν, ὑπὸ δὲ εὐσεβείας οὐκ ὤκνησεν καὶ τῆς γῆς ἤδη πεπραμένης ὡς λαφύρου τὸ δέκατον ἀναθεῖναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 8 3",
+      "text": "κρατήρ τε ἀπὸ τῶνδε τῶν χρημάτων ἐν Δελφοῖς ἔκειτο χρύσεος ἐπὶ χαλκῆς βάσεως ἐν τῷ Ῥωμαίων καὶ Μασσαλιητῶν θησαυρῷ, μέχρι τὸν μὲν χρυσὸν Ὀνόμαρχος ἐν τῷ Φωκικῷ πολέμῳ κατεχώνευσε, κεῖται δ’ ἡ βάσις. αὐτὸν δὲ Κάμιλλον ἐν τῷ δήμῳ τις ἐδίωκεν ὡς αἴτιον γεγονότα τῇ πόλει φασμάτων καὶ τεράτων χαλεπῶν, καὶ ὁ δῆμος ἐκ πολλοῦ τὸν ἄνδρα ἀποστρεφόμενος ἐζημίωσε πεντήκοντα μυριάσιν, οὐκ ἐπικλασθεὶς οὐδ’ ὅτι πρὸ τῆς δίκης αὐτῷ παῖς ἐτεθνήκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 8 5",
+      "text": "τὰ μὲν οὖν χρήματα οἱ φίλοι συνήνεγκαν, ἵνα μὴ ὑβρισθείη τὸ σῶμα τοῦ Καμίλλου· αὐτὸς δὲ βαρυθυμῶν ἐς τὴν Ἀρδεατῶν πόλιν μετῴκησεν, εὐξάμενος τὴν Ἀχίλλειον εὐχήν, ἐπιποθῆσαι Ῥωμαίους Κάμιλλον ἐν καιρῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 8 6",
+      "text": "καὶ ἀπήντησεν αὐτῷ καὶ τόδε οὐ πολὺ ὕστερον· Κελτῶν γὰρ τὴν πόλιν καταλαβόντων ὁ δῆμος ἐπὶ Κάμιλλον κατέφυγεν καὶ δικτάτωρα αὖθις εἵλετο, ὡς ἐν ταῖς Κελτικαῖς πράξεσιν συγγέγραπται. Exc. de virt. 2, p. 216. ὅτι Μᾶρκος Μάλλιος εὐπατρίδης, Κελτῶν ἐπελθόντων τῇ Ῥώμῃ, ταύτην περιέσωσε καὶ τιμῶν μεγίστων ἠξιώθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 9 1",
+      "text": "ὕστερον δὲ πρεσβύτην πολλάκις ἐστρατευμένον ἀγόμενον ἐς δουλείαν ὑπὸ τοῦ δανειστοῦ γνωρίσας ἀπέδωκε τὸ χρέος ὑπὲρ αὐτοῦ καὶ ἐπὶ τῷδε εὐφημούμενος πᾶσιν ἠφίει τοῖς ἑαυτοῦ χρήσταις τὰ ὀφλήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 9 2",
+      "text": "προϊὼν δὲ τῇ δόξῃ καὶ ὑπὲρ ἄλλων ἀπεδίδου καὶ ταῖς δημοκοπίαις ἐπαιρόμενος ἐβούλευσεν ἤδη χρεῶν ἀποκοπὰς κοινὰς ἢ τὸν δῆμον ἠξίου τοῖς δανείσασιν ἀποδοῦναι, τὴν γῆν ἐς τοῦτο ἀποδόμενον, ἔτι οὖσαν ἀνέμητον. Exc. de virt. 3, p. 217 (unde Suid. v. Μάρκος Μάλλιος). ἀπέδοτο εὐτελεστάτης τιμῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 10 1",
+      "text": "Anecd. Bekk. p. 120, 19. λιμὸς ὁμοῦ καὶ λοιμὸς ἐπέλαβε Ῥωμαίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 11 1",
+      "text": "Anecd. Bekk. p. 146, 7. ἀναπείθει θανάτῳ ζημιοῦσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 12 1",
+      "text": "Anecd. Bekk. p. 146, 24. ἀμφοτέροις τοῖς γονεῦσι θάλλοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 13 1",
+      "text": "Anecd. Bekk. p. 149, 5. πραθῆναι πάντα τοσοῦδε, ὅσου τὸν ἐκ τυραννίας ἐώνητο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 14 1",
+      "text": "Anecd. Bekk. p. 170, 29. ὅθεν ἐσπάνιζε τροφῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Ital 15 1",
+      "text": "Anecd. Bekk. p. 174, 7.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ab",
+      "title": {
+        "english": "Fragments of Roman History",
+        "ancient_greek": "Ἀποσπάσματα Ῥωμαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "appian-of-alexandria-roman-history-pdc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ai",
+      "title": {
+        "english": "From the Celtic",
+        "ancient_greek": "ἐκ τῆς Κελτῖκης"
+      },
+      "url_slug": "appian-of-alexandria-celtic-pdc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/celtic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ag",
+      "title": {
+        "english": "From the Nomadic",
+        "ancient_greek": "ἐκ τῆς Νομαδικῆς"
+      },
+      "url_slug": "appian-of-alexandria-nomadic-pdc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/nomadic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aj",
+      "title": {
+        "english": "From the Royal",
+        "ancient_greek": "ἐκ τῆς βασιλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-from-royal-pdc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/from-royal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ae",
+      "title": {
+        "english": "From the Saunitic",
+        "ancient_greek": "ἐκ τῆς Σαυνιτικῆς"
+      },
+      "url_slug": "appian-of-alexandria-saunitic-pdc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/saunitic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aa",
+      "title": {
+        "english": "From the Sicilian and Island",
+        "ancient_greek": "ἐκ τῆς Σικελῖκης καὶ νησιωτικής"
+      },
+      "url_slug": "appian-of-alexandria-sicily-islands-pdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/sicily-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-al",
+      "title": {
+        "english": "Hannibalic",
+        "ancient_greek": "Ἀννιβαϊκή"
+      },
+      "url_slug": "appian-of-alexandria-hannibalic-pdc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/hannibalic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ao",
+      "title": {
+        "english": "Iberian",
+        "ancient_greek": "Ιβηρική"
+      },
+      "url_slug": "appian-of-alexandria-iberian-pdc-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/iberian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-an",
+      "title": {
+        "english": "Illyrian",
+        "ancient_greek": "Ἰλλυρική"
+      },
+      "url_slug": "appian-of-alexandria-illyrian-pdc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/illyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ac",
+      "title": {
+        "english": "Letter of Appian to Fronto",
+        "ancient_greek": "Ἐπιστολὴ Ἀππιανοῦ πρὸς Φρόντωνα"
+      },
+      "url_slug": "appian-of-alexandria-letter-fronto-pdc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/letter-fronto",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/letter-fronto.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/letter-fronto.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/letter-fronto.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/letter-fronto.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ezq-ai",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "xenophon-of-athens-agesilaus-ezq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "dwu-aa",
+      "title": {
+        "english": "Chronicles of Peoples and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hippys-of-rhegium-chronicles-myths-dwu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippys-of-rhegium/chronicles-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium/chronicles-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium/chronicles-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium/chronicles-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippys-of-rhegium/chronicles-myths.json"
+      }
+    },
+    {
+      "eul_wid": "lls-aa",
+      "title": {
+        "english": "Fragments on Cretan Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κρητικῶν Πόλεων"
+      },
+      "url_slug": "xenion-the-historian-cretan-cities-lls-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenion-the-historian/cretan-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.json"
+      }
+    },
+    {
+      "eul_wid": "qzy-aa",
+      "title": {
+        "english": "From the Death of Divine Marcus",
+        "ancient_greek": "Ἀπὸ τοῦ θανάτου τοῦ θεῖου Μάρκου"
+      },
+      "url_slug": "herodian-of-antioch-death-marcus-qzy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-antioch/death-marcus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-antioch/death-marcus.json"
+      }
+    },
+    {
+      "eul_wid": "hoe-ad",
+      "title": {
+        "english": "On the Hyperboreans",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hecataeus-of-abdera-hyperboreans-hoe-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/hyperboreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.json"
+      }
+    },
+    {
+      "eul_wid": "iiy-aa",
+      "title": {
+        "english": "Phrygian Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-cyprus-histories-myths-iiy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-cyprus/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.json"
+      }
+    },
+    {
+      "eul_wid": "nlg-aa",
+      "title": {
+        "english": "Roman History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "juba-ii-of-mauretania-roman-history-nlg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/juba-ii-of-mauretania/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.json"
+      }
+    },
+    {
+      "eul_wid": "jre-aa",
+      "title": {
+        "english": "Which Houses Were Ruined by Women",
+        "ancient_greek": "Τίνες οἶκοι ἀνάστατοι διὰ γυναῖκας ἐγένοντο"
+      },
+      "url_slug": "paradoxographer-anon-ruined-houses-jre-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/ruined-houses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/appian-of-alexandria/italian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

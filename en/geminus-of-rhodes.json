@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nwa",
+  "auth_slug": "geminus-of-rhodes",
+  "name": {
+    "english": "Geminus of Rhodes",
+    "ancient_greek": "Γεμῖνος ὁ Ῥόδιος"
+  },
+  "seo_h1": "Geminus of Rhodes on the Elements of Astronomy",
+  "seo": {
+    "browser_title": "Geminus Rhodes Scientific Writer on Eulogikon Greek Archive",
+    "meta_title": "Classical Geminus of Rhodes Ancient Greek Scientific Works",
+    "meta_description": "Geminus of Rhodes, a 1st century BCE scientific writer. Works include astronomy and mathematics. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Geminus of Rhodes was a Greek astronomer and mathematician active in the first century BCE, approximately between 70 and 50 BCE. He was a pupil of the Stoic philosopher Posidonius on Rhodes, and his work reflects this philosophical influence. Primarily a compiler and systematizer of existing astronomical knowledge rather than an original observer, his only surviving complete work is the <strong>Introduction to the Phenomena</strong>, an astronomical textbook. He is also credited with a lost <strong>Theory of the Mathematical Sciences</strong> and a lost commentary on the mathematical sections of Posidonius&#x27;s <strong>Meteorology</strong>.</p>\n<p class=\"research-text\">Geminus’s significance lies in his <strong>Introduction to the Phenomena</strong>, which became a standard astronomical primer. It systematically explains the celestial sphere, constellations, and planetary motions, preserving crucial details of Greek astronomy from the era of Hipparchus. The work also demonstrates the application of Stoic philosophy to the classification of mathematical sciences, illustrating the integration of philosophy and science in the Hellenistic period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "nwa-ac",
+      "title": {
+        "english": "Calendar",
+        "ancient_greek": "Ἡμερολόγιον"
+      },
+      "url_slug": "geminus-of-rhodes-calendar-nwa-ac",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/geminus-of-rhodes/calendar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/calendar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/calendar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/calendar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/calendar.json"
+      }
+    },
+    {
+      "eul_wid": "nwa-aa",
+      "title": {
+        "english": "Elements of Astronomy",
+        "ancient_greek": "Στοιχεῖα Ἀστρονομίας"
+      },
+      "url_slug": "geminus-of-rhodes-astronomy-nwa-aa",
+      "passages": 342,
+      "links": {
+        "html": "https://eulogikon.org/grc/geminus-of-rhodes/astronomy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/astronomy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/astronomy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/astronomy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/astronomy.json"
+      }
+    },
+    {
+      "eul_wid": "nwa-ab",
+      "title": {
+        "english": "Optical Fragments",
+        "ancient_greek": "Ὀπτικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "geminus-of-rhodes-optical-fragments-nwa-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/geminus-of-rhodes/optical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/geminus-of-rhodes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/geminus-of-rhodes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/geminus-of-rhodes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/geminus-of-rhodes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/geminus-of-rhodes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

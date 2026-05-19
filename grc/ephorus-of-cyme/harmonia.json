@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fbe-ac",
+  "eul_aid": "fbe",
+  "author_slug": "ephorus-of-cyme",
+  "work_slug": "harmonia",
+  "url_slug": "ephorus-of-cyme-harmonia-fbe-ac",
+  "author": {
+    "english": "Ephorus of Cyme",
+    "ancient_greek": "Ἔφορος ὁ Κυμαῖος"
+  },
+  "title": {
+    "english": "Fragments on Harmonia",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἁρμονίας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Harmonia by Ephorus of Cyme on Eulogikon",
+    "meta_title": "Ancient Fragments on Harmonia by Ephorus of Cyme in Greek",
+    "meta_description": "Fragments from Ephorus on musical harmony from his lost Histories. Prose on Greek music theory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Harmonia</strong> consist of surviving excerpts attributed to the fourth-century BCE historian Ephorus of Cyme. These prose passages, which concern the mythological figure Harmonia, were not an independent work but originated within Ephorus’s lost universal history, the <strong>Histories</strong>. The fragments present an alternative genealogical tradition, identifying Harmonia—the wife of the Theban founder Cadmus—as a daughter of Zeus and Electra, rather than of Ares and Aphrodite as in more common versions. The text may also have referenced the ill-fated necklace that became central to the tragedies of her descendants.</p>\n<p class=\"research-text\">Only a handful of these fragments are extant, preserved entirely through citation by later authors such as the geographer Strabo and the mythographer Apollodorus. Scholars view these passages as representative of Ephorus’s methodological approach, which sought to systematize and occasionally rationalize mythical narratives within a coherent historical framework. Composed for an audience receptive to a historical treatment of legendary material, the fragments now survive solely due to the selective quotation practices of later compilers who valued Ephorus as an authoritative source.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "120b1",
+      "text": "SCHOL. N HESIOD. THEOG. 937 p. 117, 7 Di Gregorio: ‘Ἁρμονίην‘] τὴν κόλλησιν τῶν σωμάτων. Ἔφορος ἐν ὧι τὴν Ἁρμονίαν Διὸς καὶ Ἠλέκτρας φησί ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120b2",
+      "text": "SCHOL. X ebd. p. 117, 10: ‘Ἁρμονία‘ δὲ ἡ κόλλησις τῶν σωμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "120b2",
+      "text": "Ἔφορος δὲ τὴν Ἁρμονίαν Ἠλέκτρας καὶ Διός φησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fbe-ab",
+      "title": {
+        "english": "Fragments on Homer's Origins",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὁμήρου Γενέσεως"
+      },
+      "url_slug": "ephorus-of-cyme-homer-origins-fbe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/homer-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/homer-origins.json"
+      }
+    },
+    {
+      "eul_wid": "fbe-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "ephorus-of-cyme-testimonies-fbe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "aby-aa",
+      "title": {
+        "english": "Argolic Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agias-of-troezen-histories-myths-aby-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agias-of-troezen/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.json"
+      }
+    },
+    {
+      "eul_wid": "fvy-aa",
+      "title": {
+        "english": "Atthid Fragments on Athenian Lore",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναϊκῶν Παραδόσεων"
+      },
+      "url_slug": "phanodemus-of-athens-atthid-lore-fvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phanodemus-of-athens/atthid-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.json"
+      }
+    },
+    {
+      "eul_wid": "bvi-aa",
+      "title": {
+        "english": "Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου"
+      },
+      "url_slug": "pherecydes-of-athens-dionysus-bvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecydes-of-athens/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "bpe-aa",
+      "title": {
+        "english": "Fragments on Genealogies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογιῶν"
+      },
+      "url_slug": "andron-of-halicarnassus-i-genealogies-bpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-halicarnassus-i/genealogies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.json"
+      }
+    },
+    {
+      "eul_wid": "lju-ab",
+      "title": {
+        "english": "Historical Fragments of Duris",
+        "ancient_greek": "Ἀποσπάσματα Δούριδος"
+      },
+      "url_slug": "duris-of-samos-historical-fragments-lju-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ktq-aa",
+      "title": {
+        "english": "Historical Fragments on Hannibal",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀννίβα"
+      },
+      "url_slug": "silenus-of-caleacte-historical-fragments-hannibal-ktq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/silenus-of-caleacte/historical-fragments-hannibal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte/historical-fragments-hannibal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte/historical-fragments-hannibal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte/historical-fragments-hannibal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/silenus-of-caleacte/historical-fragments-hannibal.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aq",
+      "title": {
+        "english": "Libyan",
+        "ancient_greek": "Λιβυκή"
+      },
+      "url_slug": "appian-of-alexandria-libyan-pdc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/libyan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.json"
+      }
+    },
+    {
+      "eul_wid": "otc-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "dictys-cretensis-testimonies-otc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dictys-cretensis/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ephorus-of-cyme/harmonia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

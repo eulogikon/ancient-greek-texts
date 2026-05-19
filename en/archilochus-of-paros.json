@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "afu",
+  "auth_slug": "archilochus-of-paros",
+  "name": {
+    "english": "Archilochus of Paros",
+    "ancient_greek": "Ἀρχίλοχος ὁ Πάριος"
+  },
+  "seo_h1": "Iambic Warfare in the Fragments of Archilochus",
+  "seo": {
+    "browser_title": "Archilochus of Paros on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Archilochus Ancient Greek Iambic Poetry Fragments",
+    "meta_description": "Archilochus of Paros, 7th century BCE iambic poet. Surviving fragments of his influential Ionic verse. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Archilochus of Paros was a Greek lyric poet of the 7th century BCE. He was the son of Telesicles, a colonist, and a slave woman named Enipo. Archilochus himself participated in the colonization of Thasos and served as a soldier, experiences central to his poetry.</p>\n<p class=\"research-text\">Later tradition recounts his broken engagement to Neobule, daughter of Lycambes, and his subsequent poetic invectives which were said to have driven the family to suicide. His work survives only in fragments, primarily categorized as iambic poetry, which includes his famous attacks on Lycambes; elegiac poetry on themes of war and personal experience; and trochaic verses.</p>\n<p class=\"research-text\">Archilochus is foundational for moving Greek poetry away from the heroic ethos of epic towards personal, cynical, and emotionally direct expression. He perfected the iambic trimeter and elegiac couplet, influencing later poets from Hipponax to Roman satirists. The story of his feud with Lycambes became proverbial for the power of invective poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "afu-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "archilochus-of-paros-epigrams-afu-ac",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/archilochus-of-paros/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "afu-aa",
+      "title": {
+        "english": "Lyric Fragments",
+        "ancient_greek": "Λυρικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "archilochus-of-paros-lyric-fragments-afu-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/archilochus-of-paros/lyric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/lyric-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "afu-ab",
+      "title": {
+        "english": "Warrior's Life and Wine",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archilochus-of-paros-life-wine-afu-ab",
+      "passages": 464,
+      "links": {
+        "html": "https://eulogikon.org/grc/archilochus-of-paros/life-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/life-wine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/life-wine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/life-wine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archilochus-of-paros/life-wine.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/archilochus-of-paros",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archilochus-of-paros.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archilochus-of-paros.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archilochus-of-paros.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archilochus-of-paros.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

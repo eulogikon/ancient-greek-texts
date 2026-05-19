@@ -1,0 +1,507 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iie-ab",
+  "eul_aid": "iie",
+  "author_slug": "apollodorus-of-carystus-i",
+  "work_slug": "life-pleasure",
+  "url_slug": "apollodorus-of-carystus-i-life-pleasure-iie-ab",
+  "author": {
+    "english": "Apollodorus of Carystus I",
+    "ancient_greek": "Ἀπολλόδωρος ὁ Καρύστιος"
+  },
+  "title": {
+    "english": "Fragments on Life and Pleasure",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς"
+  },
+  "seo": {
+    "browser_title": "The Fragments of Apollodorus of Carystus on Eulogikon",
+    "meta_title": "Fragments by Apollodorus of Carystus in Ancient Greek",
+    "meta_description": "Surviving fragments from Apollodorus of Carystus. Hellenistic comedy on life and pleasure. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Life and Pleasure</strong> is a modern thematic collection of passages attributed to the New Comedy playwright Apollodorus of Carystus. This compilation, comprising forty-two excerpts, does not originate from a single work but gathers surviving lines from his lost comedies, preserved through quotation by later authors. The title is a descriptive modern label for fragments that address the genre&#x27;s central concerns of daily life and hedonistic pleasure. The content of these fragments is consistent with the conventions of New Comedy, exploring romantic and familial complications, social morality, domestic life, and the pursuit and consequences of pleasure. They feature standard character types such as the cunning slave and the lovesick youth, and they frequently examine the role of fortune in human affairs.</p>\n<p class=\"research-text\">Apollodorus&#x27;s works survive only in this fragmentary state, cited by later grammarians and anthologists, most notably Athenaeus of Naucratis in his <strong>Deipnosophistae</strong>. These fragments are collected in modern scholarly editions such as <strong>Poetae Comici Graeci</strong>; no papyri or medieval manuscripts preserving his complete plays are known. Despite the fragmentary transmission, Apollodorus was a significant figure in the development of New Comedy and exerted a direct influence on Roman drama. The Roman playwright Terence adapted two of his plays, <strong>Hecyra</strong> and <strong>Phormio</strong>, thereby channeling Apollodorus&#x27;s plots and themes into the Western comic tradition and helping to disseminate the Hellenistic focus on private life and character psychology.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐμβαλόντες, ὦ πονηρὲ σύ, εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σακκοπήραν αὐτὸν ἐπιθήσουσί που ἐφ’ ὑποζύγιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τὴν ἐπωμίδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πτύξας διπλῆν ἄνωθεν ἐνεκομβωσάμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὦ πάντες ἄνθρωποι, τί τὸ ζῆν ἡδέως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παρέντες ἐπιμελεῖσθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῦ κακῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποιεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πολεμοῦντες ἀλλήλους; πότερα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πρὸς τῶν θεῶν ἐπιστατεῖ τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοῦ βίου νυνὶ τύχη[ln_5]ἄγροικος ἡμῶν, οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "παιδείαν ὅλως εἰδυῖα, τί τὸ κακόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "ποτ’ ἢ τί τἀγαθόν ἔστ’ ἀγνοοῦσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "παντελῶς εἰκῆ τέ πως ἡμᾶς κυλίνδους’ ὅντιν’ ἂν τύχῃ τρόπον; οἶμαί γε· πῶς γὰρ μᾶλλον ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "προείλετο[ln_10]Ἕλλην ἀληθῶς οὖσα λεπομένους ὁρᾶν αὐτοὺς ὑφ’ αὑτῶν καὶ καταπίπτοντας νεκρούς, ἐξὸν ἱλαροὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "παίζοντας ὑποπεπωκότας αὐλουμένους ὡδί; λέγ’ αὐτή, γλυκυτάτη, ἔλεγχ’ ἄγροικον οὖσαν ἡμῶν τὴν τύχην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_14]* * * *[ln_15]Οὐ τοῦτο τὸ ζῆν ἐστι τὸν καλούμενον θεῶν ἀληθῶς βίον. ὅσῳ δ’ ἡδίονα τὰ πράγματ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ταῖς πόλεσιν ἦν ἂν ἢ τὰ νῦν, εἰ μεταβαλόντες τὸν βίον διήγομεν; πίνειν Ἀθηναίους ἅπαντας, τοὺς μέχρι[ln_20]ἐτῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τριάκοντ’ ἐξιέναι, τοὺς δ’ ἱππέας ἐπὶ κῶμον εἰς Κόρινθον ἡμέρας δέκα, στεφάνους ἔχοντας καὶ μύρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρὸ ἡμέρας, τοὺς τὴν ῥάφανον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πωλοῦντας ἕψειν Μεγαρέων, εἰς τὸ βαλανεῖον ἀπιέναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "συμμάχους,[ln_25]κεραννύναι τὸν οἶνον Εὐβοῆς. τρυφή καὶ βίος ἀληθῶς. ἀλλ’ ἀπαιδεύτῳ τύχῃ δουλεύομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Καὶ κλείεθ’ ἡ θύρα μοχλοῖς· ἀλλ’ οὐδὲ εἷς τέκτων ὀχυρὰν οὕτως ἐποίησεν θύραν, δι’ ἧς γαλῆ καὶ μοιχὸς οὐκ εἰσέρχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Μέγα, ὦ Φορμίων, γλωττόκομον, οὐκ ὀφθαλμιῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ὀλίγαις ἐραστὴς γέγον’ ἑταίραις, ὦ Σύρα, βέβαιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Σύ με",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παντάπασιν ἡγεῖ λίθον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Οὕτως ἕκαστός ἐστι διὰ τὰ πράγματα ἢ σεμνὸς ἢ ταπεινός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "* * * μόνος ἐπίσταται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "φιλεῖν φίλους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "ἐγὼ γάρ εἰμι τῶν ἐμῶν ἐμὸς μόνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Καινόν γέ φασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Χαιρεφῶντ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖς γάμοις ὡς τὸν Ὀφέλαν ἄκλητον εἰσδεδυκέναι. σπυρίδα λαβὼν γὰρ καὶ στέφανον, ὡς ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "σκότος, φάσκων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παρὰ τῆς νύμφης ὁ τὰς ὄρνεις φέρων[ln_5]ἥκειν, δεδείπνηχ’, ὡς ἔοικεν, εἰσπεσών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πλὴν τό γ’ οἰνάριον πάνυ ἦν ὀξὺ καὶ πονηρόν, ὥστ’ ᾐσχυνόμην. τὰ λοιπὰ μὲν γὰρ ὀξαλείους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χωρία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "συκᾶς φέρει, τοὐμὸν δὲ καὶ τὰς ἀμπέλους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Καλῶ δ’ Ἄρη Νίκην τ’ ἐπ’ ἐξόδοις ἐμαῖς, καλῶ δὲ Χαιρεφῶντα· κἂν γὰρ μὴ καλῶ, ἄκλητος ἥξει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Οἶδ’ ὅτι καλοῦμεν ῥάφανον, ὑμεῖς δ’ οἱ ξένοι κράμβην· γυναιξὶ διαφέρειν οἴει δὲ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iie-aa",
+      "title": {
+        "english": "Fragments on Life and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Τύχης"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-fortune-iie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-fortune.json"
+      }
+    },
+    {
+      "eul_wid": "iie-ac",
+      "title": {
+        "english": "On Household Harmony",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "apollodorus-of-carystus-i-household-harmony-iie-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/household-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/household-harmony.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfu-ab",
+      "title": {
+        "english": "Anonymous Comedies of the Dorians",
+        "ancient_greek": "Ἀνώνυμοι Δωρικαὶ Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-dorians-kfu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/dorians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/dorians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/dorians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/dorians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/dorians.json"
+      }
+    },
+    {
+      "eul_wid": "jns-aa",
+      "title": {
+        "english": "Fragments on Art and Wealth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτου"
+      },
+      "url_slug": "hipparchus-the-comic-poet-art-wealth-jns-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/art-wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.json"
+      }
+    },
+    {
+      "eul_wid": "czs-aa",
+      "title": {
+        "english": "Fragments on Cimon and Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κίμωνος καὶ τοῦ Ἀθηναίων Βίου"
+      },
+      "url_slug": "cratinus-the-comic-poet-athenian-life-aa-czs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.json"
+      }
+    },
+    {
+      "eul_wid": "cgm-ab",
+      "title": {
+        "english": "Fragments on Love and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐωχίας"
+      },
+      "url_slug": "timotheus-the-comic-poet-of-athens-love-feasting-cgm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-comic-poet-of-athens/love-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-comic-poet-of-athens/love-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "lxg-aa",
+      "title": {
+        "english": "Generational Conflict Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timostratus-the-comic-poet-generational-conflict-lxg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.json"
+      }
+    },
+    {
+      "eul_wid": "gmm-aa",
+      "title": {
+        "english": "On Boeotia and Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "laon-the-comic-poet-boeotia-character-aa-gmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/laon-the-comic-poet/boeotia-character-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/laon-the-comic-poet/boeotia-character-aa.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ae",
+      "title": {
+        "english": "On Slavery and Human Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-slavery-nature-lpe-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/slavery-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/slavery-nature.json"
+      }
+    },
+    {
+      "eul_wid": "lpe-ab",
+      "title": {
+        "english": "On Solon's Public Brothels",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philemon-syracusius-solon-brothels-lpe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philemon-syracusius/solon-brothels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philemon-syracusius/solon-brothels.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-pleasure",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

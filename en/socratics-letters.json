@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ciu",
+  "auth_slug": "socratics-letters",
+  "name": {
+    "english": "Socratics Letters",
+    "ancient_greek": "Σωκρατικῶν Ἐπιστολαί"
+  },
+  "seo_h1": "Philosophy Through the Socratic Letters",
+  "seo": {
+    "browser_title": "Socratic Letters Pseudonymous on Eulogikon Greek Archive",
+    "meta_title": "Socratic Letters Ancient Greek Epistles Collection",
+    "meta_description": "Pseudonymous philosophical letters from the 4th century BCE attributed to Socrates and his circle. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Socratic Letters is a collection of pseudonymous writings from the 4th century BCE, not the work of a single author. Created after the death of Socrates in 399 BCE, these letters belong to a flourishing genre of Socratic literature. They are attributed to various famous figures from Socrates&#x27; circle, including Plato, Xenophon, and Aristippus.</p>\n<p class=\"research-text\">Modern scholars classify the collection as a form of philosophical forgery common in antiquity, where works were ascribed to famous thinkers to lend authority to ideas. The letters likely aimed to dramatize philosophical debates, provide ethical examples, and contribute to the biographical legends surrounding Socrates and his students. Their dramatic settings often involve key events such as Socrates&#x27; trial. The exact size of the preserved collection and the authenticity of individual letters remain subjects of ongoing scholarly discussion.</p>\n<p class=\"research-text\">The significance of the Socratic Letters lies in their role as a primary example of ancient pseudepigraphy. They offer valuable insight into how different philosophical groups in the decades after Socrates used his legacy to promote their own views. The collection is important for understanding the development of Socratic literary traditions, the history of the letter as a philosophical format, and ancient concepts of authorship and intellectual authority.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ciu-aa",
+      "title": {
+        "english": "Socratic Letters on Philosophy",
+        "ancient_greek": "Ἐπιστολαὶ περὶ Φιλοσοφίας Σωκρατικαί"
+      },
+      "url_slug": "socratics-letters-philosophy-ciu-aa",
+      "passages": 59,
+      "links": {
+        "html": "https://eulogikon.org/grc/socratics-letters/philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters/philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters/philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters/philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socratics-letters/philosophy.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/socratics-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socratics-letters.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socratics-letters.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socratics-letters.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/socratics-letters.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

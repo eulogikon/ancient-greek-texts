@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bgi",
+  "auth_slug": "anacreon-of-teos-ii",
+  "name": {
+    "english": "Anacreon of Teos II",
+    "ancient_greek": "Ἀνακρέων ὁ Τήϊος"
+  },
+  "seo_h1": "Anacreon of Teos and the Lyric Poetry of Patronage Courts",
+  "seo": {
+    "browser_title": "Anacreon of Teos Lyric Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Anacreon Ancient Greek Lyric Poetry and Fragments",
+    "meta_description": "Anacreon, Greek lyric poet of the 6th century BCE from Teos. Fragments of his verse on love and wine. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Anacreon was a Greek lyric poet who lived during the late 6th and early 5th centuries BCE. Originally from the city of Teos on the coast of Asia Minor, he left after the Persian conquest and spent much of his career under the patronage of powerful rulers. He first worked at the court of the tyrant Polycrates on the island of Samos and later was invited to Athens by Hipparchus, son of the Athenian tyrant Peisistratus.</p>\n<p class=\"research-text\">His poetry, composed for performance with the lyre, focused on themes of love, wine, and the pleasures of the symposium, or drinking party. Although his works were collected into several books in antiquity, they survive today only in fragments quoted by later authors or found on papyri. A large collection of later imitative poems, known as the Anacreontea, was mistakenly attributed to him and helped shape his legendary reputation.</p>\n<p class=\"research-text\">In ancient times, Anacreon was honored as one of the nine great lyric poets. His refined and often playful style, written in the Ionic dialect, was highly influential. His focus on personal enjoyment and elegant expression served as a model for later Hellenistic and Roman poets. The later, false attributions further cemented his image as the classic poet of conviviality, ensuring his fame continued for centuries.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bgi-aa",
+      "title": {
+        "english": "Lover of Mirmillo",
+        "ancient_greek": "Ὁ Ἐραστὴς τοῦ Μιρμίλλου"
+      },
+      "url_slug": "anacreon-of-teos-ii-lover-of-mirmillo-bgi-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos-ii/lover-of-mirmillo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos-ii/lover-of-mirmillo.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anacreon-of-teos-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreon-of-teos-ii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreon-of-teos-ii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreon-of-teos-ii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anacreon-of-teos-ii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

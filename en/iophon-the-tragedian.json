@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dvg",
+  "auth_slug": "iophon-the-tragedian",
+  "name": {
+    "english": "Iophon the Tragedian",
+    "ancient_greek": "Ἰοφῶν ὁ τραγῳδιοποιός"
+  },
+  "seo_h1": "Iophon the Tragedian on Divine Knowledge",
+  "seo": {
+    "browser_title": "The Iophon the Tragedian on Eulogikon Greek Archive",
+    "meta_title": "The Classical Iophon Ancient Greek Tragedies and Fragments",
+    "meta_description": "Iophon, 5th century BCE Athenian tragedian and son of Sophocles. Surviving fragments of his dramatic works. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Iophon was an Athenian tragic poet of the 5th century BCE and the son of Sophocles. Ancient anecdote recounts that he brought a lawsuit against his aging father, alleging incompetence. Sophocles reportedly refuted the charge by reciting from his Oedipus at Colonus. This story places Iophon’s activity around the time of Sophocles’ death in 406/5 BCE, and he is noted as a rival of Euripides.</p>\n<p class=\"research-text\">Though his works are lost, Iophon was a productive author of approximately 50 plays who won at least one victory at the City Dionysia. Known titles from fragments include Achilles, Bacchae, Dexamenus, Pentheus, and Telephus, along with a satyr play, The Birth of Apollo.</p>\n<p class=\"research-text\">Iophon was a significant tragedian in the generation following Aeschylus, Sophocles, and Euripides. His Dionysian victory confirms his contemporary reputation, though ancient critics like Aristotle noted he did not equal his father’s stature. His career exemplifies the competitive world of Athenian drama and the legacy of famous literary families.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dvg-aa",
+      "title": {
+        "english": "Fragments on Divine Knowledge",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Γνώσεως"
+      },
+      "url_slug": "iophon-the-tragedian-divine-knowledge-dvg-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/iophon-the-tragedian/divine-knowledge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian/divine-knowledge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian/divine-knowledge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian/divine-knowledge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iophon-the-tragedian/divine-knowledge.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/iophon-the-tragedian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iophon-the-tragedian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iophon-the-tragedian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iophon-the-tragedian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/iophon-the-tragedian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

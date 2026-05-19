@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kly-ad",
+  "eul_aid": "kly",
+  "author_slug": "eratosthenes-of-cyrene",
+  "work_slug": "hermes-zeus",
+  "url_slug": "eratosthenes-of-cyrene-hermes-zeus-kly-ad",
+  "author": {
+    "english": "Eratosthenes of Cyrene",
+    "ancient_greek": "Ἐρατοσθένης ὁ Κυρηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Hermes and Zeus",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ καὶ Διός"
+  },
+  "seo": {
+    "browser_title": "Fragments of Eratosthenes on Hermes and Zeus on Eulogikon",
+    "meta_title": "Fragments of Eratosthenes on Hermes and Zeus in Greek",
+    "meta_description": "Fragments of Eratosthenes on Hermes and Zeus from his lost treatise. Hellenistic analysis. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Hermes and Zeus</strong> is a modern designation for a collection of excerpts concerning the mythological and astronomical associations of the gods Hermes and Zeus. These fragments are attributed to the Hellenistic scholar Eratosthenes of Cyrene, who served as head of the Library of Alexandria. While no ancient source directly attests a standalone treatise by this title, the fragments are believed to derive from Eratosthenes’s broader scholarly output on mythology, chronology, and astronomy. His known works in these areas include the systematic chronology <strong>Chronographiai</strong> and an astronomical poem titled <strong>Hermes</strong>, which treated the planet Mercury. The content of these specific fragments likely involved the compilation and comparison of variant myths, their placement within a historical framework, and possibly rationalizing or allegorical interpretations, reflecting Eratosthenes’s characteristically encyclopedic and systematizing approach to knowledge. Like most of his corpus, these fragments survive only through indirect transmission, potentially preserved in the citations of later authors such as Strabo or compilers like John Stobaeus. Their significance lies in their representation of the Hellenistic scholarly endeavor to organize and analyze mythological tradition, an effort that profoundly influenced subsequent Greek and Roman scholarship.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "399",
+      "text": "Ἑρμῆς ] . ]αντες ἡ νῆσος ⟦ Πάφοσ ⟧ ] ἐ̣ρ̣ιούνης Κύπρος, ἡ μη[]νι καλόν τρόπολις Πάφος ]ατε πολλά ]σαντες ]ύ̣σσωι·[ ] . [ ] .. ω̣ ]ν̣ιακυ̣π̣ ... ] .. [ ] [ ] . ως ] ] [ ]ἐπι̣θ̣(ετικῶς) οἱ δὲ ἀλωμένη οἷον πλανωμέν̣[η ]σ̣υ̣ν̣ί̣σ̣τ̣ησιν τὸ ἱερὸν ]α̣ὐ̣τ̣ὸν μὴ ὑόμενον ]ὁπηνίκα ἐὰν βρέχῃ ὁ Ζεύς ]νηλ ( ) ἀν— νήλιπος ]υπόδετ̣ο̣ς̣ [ ] ] ]ΔΩ . ΟΡ . [ ....... ] ]ς . []ωμ ... ] ] ] ]πλάθανος ἄγγος τι ]παραπλήσιον σκαφάβ̣ακι ] οὗ αἱ μᾶζαι φυρῶνται ] ... ]ανθεμ() α α . θ ... [ ] ] ........ [] γ̣λ̣ῶσσα πέλει διερη[ γραπτῦς ἀνθρώπω . [ * ΓΡΑΠΤΥΕΣ ΑΝΘ(ΡΩΠ ) Ἑρμῆς Ἐρατοσθένο[υς ἀριθμ(ὸς) Χ .... [ ὀκτὼ δὴ τάδε πάντα σὺν ἁρμονίῃσιν ἀρήρει, ὀκτὼ δ’ ἐν σφαίρῃσι κυλίνδετο κύκλῳ ἰόντα †εννεατην περὶ γαῖαν, ἰῆς δείκηλα χορείης αἰχμαῖος ἥτις ἀεὶ δᾷδας κατέχει",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kly-ab",
+      "title": {
+        "english": "Catasterisms",
+        "ancient_greek": "Καταστερισμοί"
+      },
+      "url_slug": "eratosthenes-of-cyrene-catasterisms-kly-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/catasterisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.json"
+      }
+    },
+    {
+      "eul_wid": "kly-ac",
+      "title": {
+        "english": "Fragments on Cosmic Order",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κόσμου Διατάξεως"
+      },
+      "url_slug": "eratosthenes-of-cyrene-cosmic-order-kly-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/cosmic-order",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.json"
+      }
+    },
+    {
+      "eul_wid": "kly-aa",
+      "title": {
+        "english": "On the Adornment of Stars and Their Etymology",
+        "ancient_greek": "Περὶ Κόσμου Ἀστέρων καὶ Ἐτυμολογίας"
+      },
+      "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "xenophanes-of-colophon-epigram-beu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "hks-ab",
+      "title": {
+        "english": "Fragments on Archytas",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bion-of-borysthenes-archytas-fragments-hks-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "akk-ab",
+      "title": {
+        "english": "Fragments on Theogony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεογονίας"
+      },
+      "url_slug": "musaeus-of-eleusis-theogony-fragments-akk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/musaeus-of-eleusis/theogony-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/musaeus-of-eleusis/theogony-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "okg-db",
+      "title": {
+        "english": "Marriage Precepts",
+        "ancient_greek": "Γαμικὰ παραγγέλματα"
+      },
+      "url_slug": "plutarch-of-chaeronea-marriage-precepts-okg-db",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/marriage-precepts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/marriage-precepts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/marriage-precepts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/marriage-precepts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/marriage-precepts.json"
+      }
+    },
+    {
+      "eul_wid": "udw-ac",
+      "title": {
+        "english": "On Common Mathematical Knowledge",
+        "ancient_greek": "Περί της κοινής μαθηματικής επιστήμης"
+      },
+      "url_slug": "iamblichus-of-chalcis-common-mathematics-udw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/common-mathematics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/common-mathematics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/common-mathematics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/common-mathematics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/common-mathematics.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cy",
+      "title": {
+        "english": "On Virtue and Vice",
+        "ancient_greek": "Περὶ ἀρετῆς καὶ κακιάς"
+      },
+      "url_slug": "plutarch-of-chaeronea-virtue-vice-okg-cy",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/virtue-vice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.json"
+      }
+    },
+    {
+      "eul_wid": "qpy-aa",
+      "title": {
+        "english": "To Himself",
+        "ancient_greek": "Τὰ εἰς ἑαυτόν"
+      },
+      "url_slug": "marcus-aurelius-to-himself-qpy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcus-aurelius/to-himself",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcus-aurelius/to-himself.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/hermes-zeus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

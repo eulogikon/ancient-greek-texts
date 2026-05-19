@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vig",
+  "auth_slug": "agathias-the-scholastic",
+  "name": {
+    "english": "Agathias the Scholastic",
+    "ancient_greek": "Ἀγαθίας ὁ Σχολαστικός"
+  },
+  "seo_h1": "Agathias the Scholastic on History and the Epigrammatic Tradition",
+  "seo": {
+    "browser_title": "Agathias the Scholastic on Eulogikon Greek Archive",
+    "meta_title": "Agathias the Scholastic Ancient Greek Historical Verse",
+    "meta_description": "Agathias the Scholastic, a 6th century CE historian writing in Koine Greek. Surviving works include historical verse. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agathias the Scholastic was a Byzantine poet, historian, and lawyer of the sixth century CE. Born around 532 CE in Myrina, Asia Minor, he studied in Alexandria and law in Constantinople, where he practiced as an advocate. A contemporary of Emperor Justinian I, he was part of a Constantinopolitan literary circle and lived through major events like the plague and the empire&#x27;s wars.</p>\n<p class=\"research-text\">His principal surviving work is the Histories, a prose account in five books covering 552–558 CE that continues the narrative of Procopius. He also compiled the Cycle, an anthology of contemporary epigrams preserved in the later Greek Anthology, and wrote the Daphniaca, a lost collection of love poems.</p>\n<p class=\"research-text\">Agathias is a significant primary source for the military and diplomatic history of Justinian&#x27;s later reign. His epigrams provide valuable insight into sixth-century literary culture, and his historical work represents a continuation of classical Greek tradition within the Christian Byzantine Empire.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "vig-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "agathias-the-scholastic-epigrams-vig-ab",
+      "passages": 108,
+      "links": {
+        "html": "https://eulogikon.org/grc/agathias-the-scholastic/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "vig-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "agathias-the-scholastic-histories-vig-aa",
+      "passages": 598,
+      "links": {
+        "html": "https://eulogikon.org/grc/agathias-the-scholastic/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agathias-the-scholastic",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathias-the-scholastic.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathias-the-scholastic.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathias-the-scholastic.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathias-the-scholastic.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

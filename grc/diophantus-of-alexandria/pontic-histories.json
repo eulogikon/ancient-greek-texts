@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rqc-aa",
+  "eul_aid": "rqc",
+  "author_slug": "diophantus-of-alexandria",
+  "work_slug": "pontic-histories",
+  "url_slug": "diophantus-of-alexandria-pontic-histories-rqc-aa",
+  "author": {
+    "english": "Diophantus of Alexandria",
+    "ancient_greek": "Διόφαντος ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Fragments on Pontic Histories",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ποντικῶν Ἱστοριῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Diophantus of Alexandria on Eulogikon",
+    "meta_title": "The Fragments on Pontic Histories in Ancient Greek",
+    "meta_description": "Surviving fragments of Diophantus of Alexandria's geographical work on Black Sea region. These fragments preserve historical mythological references."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">No historical work titled <strong>Fragments on Pontic Histories</strong> is authentically attributed to Diophantus of Alexandria, a figure known exclusively for his contributions to mathematics. His surviving corpus consists of the <strong>Arithmetica</strong>, a foundational series of books on algebraic problem-solving and number theory, and a fragment of a treatise <strong>On Polygonal Numbers</strong>. The <strong>Arithmetica</strong> is primarily concerned with seeking rational solutions to determinate and indeterminate equations, themes entirely inconsistent with the geographical and mythological content suggested by the title <strong>Pontic Histories</strong>. The transmission of Diophantus&#x27;s work is solely mathematical; six of the original thirteen books of the <strong>Arithmetica</strong> survive in Greek, with four additional books preserved in an Arabic translation, alongside the extant fragment on polygonal numbers. No historical fragments are recorded in the manuscript tradition. Diophantus&#x27;s enduring significance lies in his mathematical legacy. The <strong>Arithmetica</strong> was profoundly influential in the development of algebra, studied intensively by later scholars such as Pierre de Fermat, whose famous marginal note on a problem in the text led to Fermat&#x27;s Last Theorem. The work gives its name to the field of Diophantine equations, which concern integer solutions to polynomial equations.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΠΟΝΤΙΚΑΙ ΙΣΤΟΡΙΑΙ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Schol. Apoll. Rh. III, 242: Διοφάνης (l. Διόφαντος) ἐν τῇ αʹ τῶν Ποντικῶν ἱστοριῶν Ἀντιόπην φησὶν Αἰήτου μητέρα. Προγενέστερον δέ φασι τὸν Ἄψυρτον Μηδείας γενέσθαι ἐξ Ἀστεροδείης τῆς Ὠκεανοῦ καὶ Τηθύος θυγατρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Stephan. Byz.: Λιβυστῖνοι, ἔθνος παρακείμενον Κόλχοις, ὡς Διόφαντος ἐν Πολιτικοῖς (l. Ποντικοῖς).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Idem: Ἄβιοι, ἔθνος Σκυθικόν ... Ἀλέξανδρος ἐν τῷ Περὶ Εὐξείνου Πόντου, ὡς Διόφαντος, εἶπεν οὕτω λέ γεσθαι αὐτοὺς διὰ τὸ τὸν Ἀβιανὸν ποταμὸν κατοικεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "phs-ah",
+      "title": {
+        "english": "Appearances",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "ptolemy-of-alexandria-appearances-phs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/appearances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ae",
+      "title": {
+        "english": "Geography Books 1–3",
+        "ancient_greek": "Γεωγραφία Βιβλία Α΄-Γ΄"
+      },
+      "url_slug": "ptolemy-of-alexandria-geography-1-3-phs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-1-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ad",
+      "title": {
+        "english": "Inscription of Canopus",
+        "ancient_greek": "Ἐπιγραφή τοῦ Κανώπου"
+      },
+      "url_slug": "ptolemy-of-alexandria-canopus-inscription-phs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/canopus-inscription",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-an",
+      "title": {
+        "english": "On Archimedean Polyhedra",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archimedes-of-syracuse-polyhedra-ixo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ag",
+      "title": {
+        "english": "On Divisions of Figures",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euclid-of-alexandria-divisions-figures-iaw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/divisions-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.json"
+      }
+    },
+    {
+      "eul_wid": "phs-aa",
+      "title": {
+        "english": "On the Faculty of Judgment and Sovereignty of the Soul",
+        "ancient_greek": "Περὶ τῆς κριτικῆς δυνάμεως καὶ τῆς ψυχῆς ἡγεμονίας"
+      },
+      "url_slug": "ptolemy-of-alexandria-judgment-sovereignty-phs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/judgment-sovereignty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ac",
+      "title": {
+        "english": "On the Ready Rules",
+        "ancient_greek": "Εἰς τοὺς προχείρους κανόνας"
+      },
+      "url_slug": "theon-of-alexandria-ready-rules-spw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/ready-rules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/ready-rules.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/ready-rules.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/ready-rules.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/ready-rules.json"
+      }
+    },
+    {
+      "eul_wid": "vju-aa",
+      "title": {
+        "english": "Optics",
+        "ancient_greek": "Ὀπτικά"
+      },
+      "url_slug": "damianus-of-larissa-optics-vju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damianus-of-larissa/optics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diophantus-of-alexandria/pontic-histories",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria/pontic-histories.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria/pontic-histories.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria/pontic-histories.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria/pontic-histories.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

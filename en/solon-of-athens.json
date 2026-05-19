@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ari",
+  "auth_slug": "solon-of-athens",
+  "name": {
+    "english": "Solon of Athens",
+    "ancient_greek": "Σόλων ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Solon's Salamis Elegy and Athenian Reform",
+  "seo": {
+    "browser_title": "Solon of Athens Ancient Statesman on Eulogikon Greek Archive",
+    "meta_title": "The Solon Ancient Greek Poetry and Political Works",
+    "meta_description": "Solon, Athenian statesman and lawgiver of the 6th century BCE. Poetic fragments on politics and justice. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Solon was an Athenian statesman, lawgiver, and poet who lived and worked in the early 6th century BCE. He is traditionally dated to around 594 BCE, when he was appointed to a special leadership role to resolve a severe social crisis in Athens. At the time, many poor citizens were enslaved due to debt, and political power was held exclusively by a hereditary aristocracy.</p>\n<p class=\"research-text\">To address this, Solon enacted a sweeping set of reforms. His most famous measure canceled all existing debts and freed those enslaved because of them. He also reorganized Athenian society into four new classes based on wealth rather than birth, granting political rights according to class. He established a popular court for citizens and published a new, more accessible law code. After creating these laws, Solon left Athens for a decade to prevent anyone from pressuring him to change them.</p>\n<p class=\"research-text\">Solon was also a poet, and fragments of his verses survive. He used poetry to explain his political reforms, defend his actions, and reflect on themes of justice, moderation, and the dangers of greed. This poetry provides a direct, contemporary window into his thoughts and the crisis he aimed to solve.</p>\n<p class=\"research-text\">Solon is considered a foundational figure in the development of Athenian democracy. His reforms broke the aristocracy&#x27;s monopoly on power and introduced legal protections for ordinary citizens. Although later reformers would expand democratic institutions, Solon&#x27;s constitutional framework remained their acknowledged basis. He was later counted among the legendary Seven Sages of Greece for his wisdom as a lawgiver.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ari-aa",
+      "title": {
+        "english": "Solon's Salamis Elegy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "solon-of-athens-salamis-elegy-ari-aa",
+      "passages": 188,
+      "links": {
+        "html": "https://eulogikon.org/grc/solon-of-athens/salamis-elegy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-of-athens/salamis-elegy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-of-athens/salamis-elegy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-of-athens/salamis-elegy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/solon-of-athens/salamis-elegy.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/solon-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/solon-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/solon-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/solon-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/solon-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

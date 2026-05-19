@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ktg",
+  "auth_slug": "leon-of-pella",
+  "name": {
+    "english": "Leon of Pella",
+    "ancient_greek": "Λέων ὁ Πελλαῖος"
+  },
+  "seo_h1": "Leon of Pella on the Gods of Egypt",
+  "seo": {
+    "browser_title": "Leon of Pella on Eulogikon Greek Archive and Library",
+    "meta_title": "Leon of Pella Ancient Greek Historical Works and Texts",
+    "meta_description": "Leon of Pella, a 4th century BCE Hellenistic historian. Surviving works include his historical texts. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Leon of Pella was a Greek writer from the Macedonian city of Pella, active in the 4th century BCE. Beyond his origin, no details of his life are recorded.</p>\n<p class=\"research-text\">His only known work is <strong>On the Gods in Egypt</strong>, which is now lost and survives only in fragments cited by later authors. Leon’s significance rests on this lost treatise, which applied a euhemeristic interpretation to Egyptian religion, arguing the gods were deified human kings.</p>\n<p class=\"research-text\">His work was cited by Josephus in <strong>Against Apion</strong> and by the Christian writer Tatian. Through these references, Leon represents an early Hellenistic effort to rationalize non-Greek mythologies.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ktg-aa",
+      "title": {
+        "english": "On the Egyptian Gods",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "leon-of-pella-egyptian-gods-ktg-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/leon-of-pella/egyptian-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leon-of-pella/egyptian-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leon-of-pella/egyptian-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leon-of-pella/egyptian-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leon-of-pella/egyptian-gods.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/leon-of-pella",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leon-of-pella.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leon-of-pella.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leon-of-pella.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leon-of-pella.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

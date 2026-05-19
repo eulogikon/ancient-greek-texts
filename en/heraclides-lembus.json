@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lbs",
+  "auth_slug": "heraclides-lembus",
+  "name": {
+    "english": "Heraclides Lembus the Historian",
+    "ancient_greek": "Ἡρακλείδης ὁ Λέμβος"
+  },
+  "seo_h1": "Heraclides Lembus and the Excerpts from Ancient Constitutions",
+  "seo": {
+    "browser_title": "Heraclides Lembus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Heraclides Lembus Ancient Greek Historical Works",
+    "meta_description": "Heraclides Lembus was a 2nd century BCE historian. Surviving works include historical excerpts. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heraclides Lembus was a Greek statesman and writer of the 2nd century BCE who served as an ambassador for Ptolemy VI Philometor of Egypt. His epithet &quot;Lembus,&quot; meaning &quot;skiff,&quot; is of uncertain origin. He is often distinguished from other figures named Heraclides, particularly the philosopher Heraclides Ponticus.</p>\n<p class=\"research-text\">His known works are epitomes of earlier historical and biographical texts. According to the Suda, he produced summaries of Sotion’s Histories, Hermippus of Smyrna’s Successions of Philosophers, and Satyrus’s Lives. He is also credited with an epitome of the Aristotelian Constitutions, itself a summary of a compilation by Theophrastus. These works are now lost, surviving only in fragments.</p>\n<p class=\"research-text\">Heraclides is significant as an intermediary source for lost Hellenistic literature. His epitomes preserved summaries of philosophical biographies used by later writers like Diogenes Laërtius. His summary of the Constitutions provides valuable, if indirect, evidence for the Aristotelian school’s research into Greek governments.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "lbs-aa",
+      "title": {
+        "english": "Excerpts-Constitutions",
+        "ancient_greek": "Ἐκλογαὶ περὶ Πολιτειῶν"
+      },
+      "url_slug": "heraclides-lembus-constitutions-lbs-aa",
+      "passages": 72,
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/constitutions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/constitutions.json"
+      }
+    },
+    {
+      "eul_wid": "lbs-ab",
+      "title": {
+        "english": "Historical Excerpts and Anecdotes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-lembus-historical-excerpts-lbs-ab",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-lembus/historical-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-lembus/historical-excerpts.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/heraclides-lembus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-lembus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-lembus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-lembus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-lembus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ewy",
+  "auth_slug": "hicetas-of-syracuse",
+  "name": {
+    "english": "Hicetas of Syracuse",
+    "ancient_greek": "Ἱκέτας ὁ Συρακόσιος"
+  },
+  "seo_h1": "Hicetas of Syracuse and Pythagorean Testimonies",
+  "seo": {
+    "browser_title": "Hicetas of Syracuse on Eulogikon Greek Texts Archive",
+    "meta_title": "Hicetas of Syracuse Ancient Greek Philosophical Works",
+    "meta_description": "Hicetas of Syracuse, a 4th century BCE Pythagorean philosopher. Surviving philosophical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hicetas of Syracuse was a Pythagorean philosopher active in the 4th century BCE in Sicily. He belonged to the later Pythagorean tradition within the Greek communities of southern Italy and Sicily. No details of his personal life, education, or any authored texts survive. His ideas are known only through reports by later ancient writers.</p>\n<p class=\"research-text\">His historical significance rests primarily on a single cosmological theory attributed to him. According to the Roman philosopher Cicero, Hicetas proposed that the Earth rotates daily on its own axis from west to east, while the celestial sphere of the fixed stars remains motionless. This same concept is also credited by ancient sources to other Pythagoreans, such as Ecphantus of Syracuse and Philolaus of Croton.</p>\n<p class=\"research-text\">Hicetas’s theory represents an early challenge to the more prevalent ancient view of a completely stationary Earth. Modern scholars regard him as part of a minor but significant strand of pre-modern astronomical thought that considered terrestrial motion, long before the Copernican revolution. His existence also illustrates the geographical spread and enduring activity of Pythagorean philosophy in the western Greek world during the Classical period.</p>\n</div>",
+  "affiliation_label": "Pythagorean",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ewy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hicetas-of-syracuse-testimonies-ewy-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/hicetas-of-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hicetas-of-syracuse/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hicetas-of-syracuse/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hicetas-of-syracuse/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hicetas-of-syracuse/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "dei",
+      "name": {
+        "english": "Apollodorus of Cyzicus",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Κυζικηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.json"
+      }
+    },
+    {
+      "eul_aid": "nxe",
+      "name": {
+        "english": "Apollonius of Tyana",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.json"
+      }
+    },
+    {
+      "eul_aid": "nwu",
+      "name": {
+        "english": "Apollonius of Tyana II",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.json"
+      }
+    },
+    {
+      "eul_aid": "faa",
+      "name": {
+        "english": "Archytas of Tarentum",
+        "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archytas-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.json"
+      }
+    },
+    {
+      "eul_aid": "dck",
+      "name": {
+        "english": "Aresas of Lucania",
+        "ancient_greek": "Ἀρέσας ὁ Λευκανός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aresas-of-lucania",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.json"
+      }
+    },
+    {
+      "eul_aid": "dcu",
+      "name": {
+        "english": "Athamas of Posidonia",
+        "ancient_greek": "Ἀθάμας ὁ Ποσειδωνιάτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athamas-of-posidonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.json"
+      }
+    },
+    {
+      "eul_aid": "azu",
+      "name": {
+        "english": "Brontinus of Metapontum",
+        "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/brontinus-of-metapontum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.json"
+      }
+    },
+    {
+      "eul_aid": "bay",
+      "name": {
+        "english": "Cercops the Orphic",
+        "ancient_greek": "Κέρκωψ ὁ Ὀρφικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cercops-the-orphic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.json"
+      }
+    },
+    {
+      "eul_aid": "hcg",
+      "name": {
+        "english": "Clinias of Tarentum",
+        "ancient_greek": "Κλεινίας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/clinias-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.json"
+      }
+    },
+    {
+      "eul_aid": "gqi",
+      "name": {
+        "english": "Damon and Phintias",
+        "ancient_greek": "Δάμων καὶ Φιντίας"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/damon-and-phintias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.json"
+      }
+    },
+    {
+      "eul_aid": "ffa",
+      "name": {
+        "english": "Echecrates of Phlius",
+        "ancient_greek": "Ἐχεκράτης ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/echecrates-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.json"
+      }
+    },
+    {
+      "eul_aid": "gqs",
+      "name": {
+        "english": "Ecphantus the Pythagorean",
+        "ancient_greek": "Ἔκφαντος ὁ Πυθαγόρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/ecphantus-the-pythagorean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/hicetas-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hicetas-of-syracuse.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hicetas-of-syracuse.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hicetas-of-syracuse.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hicetas-of-syracuse.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

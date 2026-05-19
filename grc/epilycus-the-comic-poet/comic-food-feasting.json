@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cwq-aa",
+  "eul_aid": "cwq",
+  "author_slug": "epilycus-the-comic-poet",
+  "work_slug": "comic-food-feasting",
+  "url_slug": "epilycus-the-comic-poet-comic-food-feasting-cwq-aa",
+  "author": {
+    "english": "Epilycus the Comic Poet",
+    "ancient_greek": "Ἐπίλυκος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Comic Fragments on Food and Feasting",
+    "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+  },
+  "seo": {
+    "browser_title": "Comic Fragments by Epilycus the Comic Poet on Eulogikon",
+    "meta_title": "Fragments by Epilycus the Comic Poet in Ancient Greek",
+    "meta_description": "A collection of 11 comic fragments on food and feasting from 5th-century BCE Athenian Old Comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Food and Feasting is a modern compilation of eleven brief passages attributed to the fifth-century BCE Athenian poet Epilycus, a practitioner of Old Comedy. The collection does not represent a surviving play but rather a series of poetic excerpts whose original dramatic context—including plot, characters, and play titles—is almost entirely lost. These fragments uniformly center on culinary themes, addressing subjects such as gluttony, the customs of the symposium, and specific foods and dishes, thereby providing insight into the social satire and material culture of classical Athens. The text survives only in part, preserved not through manuscripts of Epilycus&#x27;s comedies but through quotation by later authors, most notably the scholar Athenaeus, who incorporated these lines into his own expansive work on banqueting centuries later. The fragments themselves are concise, often comprising merely a line or two of Attic Greek verse, which precludes any comprehensive reconstruction of their original settings. Scholars regard these remnants as valuable evidence for the diversity of comic poetry beyond canonical figures like Aristophanes and as a source for details pertaining to ancient Greek daily life and humor.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "βάκκαρίς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε καὶ σάγδας ὁμοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "μῆλα καὶ ῥόας λέγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "ποττὰν κοπίδ’, οἰῶ, σώμαι· ἐν Ἀμύκλαισιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "παρ’ Ἀπέλλω βαράκες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "πολλοὶ κἄρτοι καὶ δωμός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τοι μάλα ἁδύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἀντλίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Χῖος καὶ Θάσιος ἠθημένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "ὀστολόγος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "ψωμός",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fkk-ab",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-ab-fkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.json"
+      }
+    },
+    {
+      "eul_wid": "dkc-ab",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "callias-the-comic-poet-daily-life-dkc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callias-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callias-the-comic-poet/daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "fpa-aa",
+      "title": {
+        "english": "Fragments on Feasts and Festivals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑορτῶν καὶ Ἑορτασμῶν"
+      },
+      "url_slug": "eubulus-the-comic-poet-feasts-festivals-fpa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eubulus-the-comic-poet/feasts-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet/feasts-festivals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet/feasts-festivals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet/feasts-festivals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eubulus-the-comic-poet/feasts-festivals.json"
+      }
+    },
+    {
+      "eul_wid": "daw-am",
+      "title": {
+        "english": "Knights",
+        "ancient_greek": "Ἱππῆς"
+      },
+      "url_slug": "aristophanes-of-athens-knights-daw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/knights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.json"
+      }
+    },
+    {
+      "eul_wid": "bju-aa",
+      "title": {
+        "english": "Letters to Heraclitus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἡράκλειτον"
+      },
+      "url_slug": "heraclitus-of-ephesus-iii-letters-bju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bj",
+      "title": {
+        "english": "Single-Line Sentences (Long Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bj-hps-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.json"
+      }
+    },
+    {
+      "eul_wid": "hps-au",
+      "title": {
+        "english": "Uncertain Fable",
+        "ancient_greek": "Ἄδηλος Μῦθος"
+      },
+      "url_slug": "menander-of-athens-uncertain-fable-hps-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/uncertain-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aa",
+      "title": {
+        "english": "Women at the Thesmophoria",
+        "ancient_greek": "Θεσμοφοριάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-thesmophoria-daw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epilycus-the-comic-poet/comic-food-feasting",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epilycus-the-comic-poet/comic-food-feasting.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

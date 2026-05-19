@@ -1,0 +1,211 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "azu-ab",
+  "eul_aid": "azu",
+  "author_slug": "brontinus-of-metapontum",
+  "work_slug": "mind-thought",
+  "url_slug": "brontinus-of-metapontum-mind-thought-azu-ab",
+  "author": {
+    "english": "Brontinus of Metapontum",
+    "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+  },
+  "title": {
+    "english": "On Mind and Thought",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On Mind and Thought by Brontinus of Metapontum on Eulogikon",
+    "meta_title": "On Mind and Thought by Brontinus of Metapontum in Greek",
+    "meta_description": "A philosophical fragment by the early Pythagorean Brontinus. Presocratic text from the 6th century BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (phi, frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On Mind and Thought</strong> is attributed to the early Pythagorean philosopher Brontinus of Metapontum. No continuous text of the treatise survives; it is known only by its title from later doxographical sources, and it likely represented a collection of sayings or doctrines preserved under his name. Based on its title and the Pythagorean intellectual context, the text presumably addressed core philosophical concepts concerning the nature of the intellect and its relation to the cosmic order, as well as the pursuit of wisdom as a path to human happiness. The work is entirely lost and is referenced only in secondary sources, such as the 10th-century Byzantine encyclopedia known as the <strong>Suda</strong>. Any doctrines credited to Brontinus survive solely as fragments or testimonia within later accounts of Pythagorean thought. While its direct influence is untraceable, the attribution of such a work reflects the later perception of early Pythagoreans as deeply engaged with psychological and epistemological questions. Brontinus, as a figure within this tradition, was seen as contributing to a body of thought that would later profoundly influence Plato and the subsequent development of Western philosophy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "55 (19t)",
+      "text": "Περὶ νοῦ καὶ διανοίας Iambl. De comm. math. sc. p. 34 Festa (also Sophon. CAG 23.1 p.130 Hayd.) διόπερ καὶ Βροτῖνος ἐν τῷ Περὶ νοῦ καὶ διανοίας χωρίζων αὐτὰ ἀπ’ ἀλλήλων (sc. τὰ διανοητὰ ἀπὸ τῶν νοητῶν) τάδε λέγει· ἁ δὲ διάνοια τῶ νῶ μεῖζόν ἐστι, καὶ τὸ διανοατὸν τῶ νοατῶ· ὁ μὲν γὰρ νόος ἐστὶ τό τε ἁπλόον καὶ τὸ ἀσύνθετον καὶ τὸ πρᾶτον νοέον καὶ τὸ νοεόμενον (τοιοῦτον δ’ ἐστὶ τὸ εἶδος· καὶ γὰρ ἀμερὲς καὶ ἀσύνθετον καὶ πρᾶτόν ἐστι τῶν ἄλλων), ἁ δὲ διάνοια τό τε πολλαπλόον καὶ μεριστὸν καὶ τὸ δεύτερον νοέον (ἐπιστάμαν γὰρ καὶ λόγον [τὸν] προσείληφε)· παραπλησίως δὲ καὶ τὰ διανοητά· ταῦτα δ’ ἐντὶ τὰ ἐπιστατὰ καὶ τὰ ἀποδεικτὰ καὶ τὰ καθόλω τὰ ὑπὸ τῶ νόω διὰ τῶ λόγω καταλαμβανόμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "azu-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "brontinus-of-metapontum-testimonies-azu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/brontinus-of-metapontum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "utq-ad",
+      "title": {
+        "english": "Commentary-Plato's Gorgias",
+        "ancient_greek": "Σχόλια εἰς τὸν Γοργίαν Πλάτωνος"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-plato-gorgias-commentary-utq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/plato-gorgias-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "bmw-ab",
+      "title": {
+        "english": "Fragments on Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως"
+      },
+      "url_slug": "alcmaeon-of-croton-nature-bmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.json"
+      }
+    },
+    {
+      "eul_wid": "ega-ab",
+      "title": {
+        "english": "Fragments on Philosophers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσόφων"
+      },
+      "url_slug": "speusippus-of-athens-philosophers-ega-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/philosophers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.json"
+      }
+    },
+    {
+      "eul_wid": "jzg-aa",
+      "title": {
+        "english": "Fragments on Physics and Perception",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυσικῆς καὶ Αἰσθήσεως"
+      },
+      "url_slug": "apollophanes-the-stoic-physics-perception-jzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-the-stoic/physics-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-au",
+      "title": {
+        "english": "On Parts of Animals",
+        "ancient_greek": "Περὶ Ζῴων Μορίων"
+      },
+      "url_slug": "aristotle-parts-animals-hgw-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/parts-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/parts-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/parts-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/parts-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/parts-animals.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ad",
+      "title": {
+        "english": "On the Contemplative Life",
+        "ancient_greek": "Περὶ τοῦ Θεωρητικοῦ Βίου"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aj",
+      "title": {
+        "english": "Poimandres of Hermes Trismegistus",
+        "ancient_greek": "Ποιμάνδρης"
+      },
+      "url_slug": "hermetica-poimandres-oqk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/poimandres",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/poimandres.json"
+      }
+    },
+    {
+      "eul_wid": "sno-af",
+      "title": {
+        "english": "To Themistius the Philosopher",
+        "ancient_greek": "Θεμιστίῳ φιλοσόφῳ"
+      },
+      "url_slug": "julian-the-apostate-to-themistius-sno-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/to-themistius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/to-themistius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/brontinus-of-metapontum/mind-thought",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/mind-thought.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

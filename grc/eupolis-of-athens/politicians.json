@@ -1,0 +1,1307 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dum-ad",
+  "eul_aid": "dum",
+  "author_slug": "eupolis-of-athens",
+  "work_slug": "politicians",
+  "url_slug": "eupolis-of-athens-politicians-dum-ad",
+  "author": {
+    "english": "Eupolis Atheniensis",
+    "ancient_greek": "Εὔπολις ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Athenian Politicians",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτικῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Eupolis on Athenian Politicians on Eulogikon",
+    "meta_title": "Fragments on Athenian Politicians by Eupolis in Greek",
+    "meta_description": "Fragments from Eupolis's comedy satirizing Athenian politicians. Important Old Comedy source. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Athenian Politicians constitute a modern scholarly compilation of 152 surviving passages from the comedies of Eupolis, a leading Athenian poet of Old Comedy during the late 5th century BCE. A contemporary and rival of Aristophanes and Cratinus, Eupolis was celebrated in antiquity for his sharp wit and sophisticated style. These fragments, extracted from lost plays such as <strong>Maricas</strong>, <strong>Demes</strong>, and <strong>Baptae</strong>, consist primarily of verse lampoons directed at prominent political figures of the day, including the demagogue Hyperbolus and the controversial aristocrat Alcibiades. They survive not as a continuous text but through quotations preserved by later Greek authors, grammarians, and lexicographers, most extensively by Athenaeus of Naucratis in his <strong>Deipnosophistae</strong>.</p>\n<p class=\"research-text\">The content of the fragments exemplifies the politically charged satire characteristic of Old Comedy. They deploy personal invective to attack politicians, generals, and demagogues, critiquing populist leadership and Athenian military policy during the Peloponnesian War. The verses scrutinize moral and social corruption among the Athenian elite and occasionally employ fantastical or utopian scenarios as vehicles for political criticism. The transmission of Eupolis&#x27;s work relies entirely on such indirect sources; no complete play survives. The standard modern edition for these and other comic fragments is <strong>Poetae Comici Graeci</strong>, and the corpus remains a subject of ongoing philological study. The historical significance of the fragments is considerable. Eupolis was regarded in antiquity as a canonical master of the genre, and his work provides crucial, if highly partisan, contemporary insight into the public figures and political rhetoric of Athenian democracy during a period of intense crisis and conflict, offering invaluable evidence for both historians and linguists.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "καὶ δὴ δὲ Πείcανδρ[ο]ν διε‐ cτράφθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "χθὲc ἀριcτῶντά φα|c’, ἐπεὶ ξένον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "τιν’ ὄντ’ ἄcι‐ τον | οὐκ ἔφαcκε θρέψειν.[ln_5]Παύcων δὲ προccτὰc Θεογένει δειπνοῦντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "πρὸc τὴν καρδίαν τῶν ὁλκάδων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "τιν’ αὑτοῦ[ln_7]λ̣έψαc ἅπαξ διέcτρεφεν· λ]υτὸc δ’ ἔκειθ’ ὁ Θεογένηc[ln_10]τὴν νύχθ’ ὅλην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.6",
+      "text": "πεπορδώc. δια]cτρέφειν οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.7",
+      "text": "πρῶτα μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.8",
+      "text": "χρὴ Καλλίαν | τοὺc ἐν μακροῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.9",
+      "text": "τειχοῖν θ’ ἅμ’, ἀ|ρ]ιcτητικώ‐ τεροι γάρ εἰcιν ἡμῶν,[ln_15]Νικήρατόν τ’ Ἀχαρνέα ....].ιν διδόντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.10",
+      "text": "χοίνικαc ........]ε̣ον ἑκάcτωι[ln_17]...........].ιη τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.11",
+      "text": "χρημάτων | [..........][ln_20]οὐ]δ̣’ ἂ̣ν̣ τριχὸc πριαίμην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_20]]ν ].οc[ln_22]— — — —[ln_22]desunt versus 12 τ̣ὰ̣c̣ ὀφρῦc ἤδη ’ξ̣επ[α]ί̣ρ̣[ε]ι κἀξιοῖ δημηγορεῖν, χθὲc δὲ καὶ πρώιην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "παρ’ ἡμῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "φρατέρων ἔρημ[οc ἦν·[ln_25]κοὐδ’ ἂν ἠττίκιζεν, εἰ μὴ τοὺc φίλουc ἠιcχύν[ετο, τῶν ἀπραγμόνων γε πόρνων κοὐχὶ τῶν cεμνῶν [ ἀλλ’ ἔδει νεύcαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "χωρεῖν εἰc τὸ κινητήρ[ιον· τῆc ἑταιρίαc δὲ τούτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "τοὺc φίλουc ἐcκ[ ταῖc cτρατηγίαιc δ’ ὑφέρπει καὶ τρυγωιδο̣[[ln_30]εἰc δὲ Μαντίνειαν ὑμᾶc οὗτοc οὐ μέμ[νηcθ’ ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.6",
+      "text": "τοῦ θεοῦ βροντῶντοc ὑμῖν οὐκ ἐῶντ[αc ἐμβαλεῖν εἶπε δήcειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.7",
+      "text": "τοὺc cτρατηγοὺc πρὸc βίαν [ἐν τῶι ξύλωι; ὅcτιc οὖν ἄρχειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.8",
+      "text": "τοιούτουc ἄνδραc α̣[ἱρεῖταί ποτε μήτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.9",
+      "text": "πρόβατ’ αὐτῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.10",
+      "text": "τεκνοῖτο μήτε γῆ κ[αρπὸν φέροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_34][spk_—]‵—′[ln_35]ὦ γῆ πατρώια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "χαῖρε· cὲ γὰρ ...[ παcῶν πόλεων ἐκπαγλ[οτατ ‵—′τόδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "πρᾶγμα τί ἐcτι; [ ‵—′χαίρειν δέ φη[μι πάντα π̣ρ̣ο̣[[ln_40]προ̣[[ln_40]— — —[ln_40]desunt versus fere 10—12 — — — — — — —[ln_41]⸤τὸ χαλκίον⸥ ⸤θέρμαινέ θ’ ἡμῖν καὶ θύη⸥ πέττειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "τι⸤νὰ⸥ ⸤κέλευ’, ἵνα cπλάγχ⸥νοιcι cυγγενώμεθα. ..........]ι̣ ταῦτα καὶ πεπράξεται.[ln_45]......... γν]ώcεcθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "τοὺc δήμουc ὅcωι ........... εἰ]cι νῦν διακείμενοι ........ ἡνί]κ’ ἤρχετον cὺ καὶ Ϲόλων ⸤‘ἥβηc τ’ ἐκείνηc ν⸥οῦ τ’ ἐκείνου καὶ φρενῶν.‘ ]α̣ν̣.ηδ[...]ματων ]ο̣ι[..]α̣ cυχνή ]χεται ]τονη π]ρόcθεν [para]]μὴ προδῶιc[ln_55]]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.6",
+      "text": "προθυμίαν [para]Π]υρωνίδην ]οὓc ἀνήγαγεν ]ἀcπάcαcθαι [para]κ]α̣[ραδ]οκῶ[ln_59]— — — — —[ln_59]desunt versus fere 10—12[ln_60]— — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_60][spk_(χο.)](ΧΟ.) .].τοc γὰρ ωc.[ ἅνδρεc, ὧν κ̣[ιχόν‐ τεc ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "τοίαιcιν ἡ‐ δοναῖcι κείμεθα. ...].ι δοκ̣ῶ τοὺc ἄνδραc ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "τού[cδ’] ἰ[δεῖν[ln_65]καθ]ημένουc, οὕc φαcιν ἥκειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "παρ[ὰ νεκρῶν .....].α μὲν δὴ τῶν φίλων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "προcτ.[ ὡ̣c ὀρθὸc ἑcτηκὼ[c] ....c̣τ’ αὐτῶν .[ Π̣υρωνίδηc, ἐρώμεθ’ [α]ὐτὸ[ν εἰπέ μοι, ὦ[ ἔ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_70][spk_—]μολε̣c ετ[ πρὸc πολιτῶ[ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "φράcον, τί κ[ ‵—′ (ΠΥ.) ὅ]δ’ αὐτόc εἰμ’ ἐκεῖνοc ὃν c[ὺ ὃ]c̣ τὰc Ἀθήναc πόλλ’ ἔτη [[ln_75].].αcτ[’ ἀ]ν̣ά̣ν̣δρουc ἄνδρ[αc ‵—′(ΧΟ.) ἦ καὶ cαφῶc οιδ̣[ ἡμῖν εξ̣[.]η̣ι̣τ̣ρ̣[[ln_77]‵—′— — — — — —[ln_77]quot versus desint non constat — — — — — — — — — — — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_78][spk_(ϲυ.)].............]ι̣ν̣[....]ν̣τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "προc.[.]..[ (ϹΥ.) ....... ]νῦν αὐτίχ’ ἁγνόc εἰμ’ ἐγώ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_80][spk_—]...... δί]καιόc εἰμ’ ἀνήρ. — (ΑΡ.) λέγ’ ὅ τι λέγειc. (ϹΥ.) .......].οc ποτ’ εἰc ἀγο[ρὰ]ν κυκεῶ πιὼν ...... κρ]ίμνων τὴ[ν] ὑπήνην ἀνάπλεωc ....]....ων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "τοῦτ’ ἐννοοῦμαί πωc ἐγώ. ἐλ]θὼν δὲ ταχέωc οἴκαδ’ εὐθὺc τοῦ ξένου·[ln_85]‘τί] ἔδραcαc, ὦ πανοῦργε καὶ κυβευτὰ cύ;‘ ἔφ]ην, κελεύων τὸν ξένον μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "χρυcίου δοῦν]αι cτατ[ῆ]ραc ἑκατόν· ἦν γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "πλούcιοc. .....]ι̣ον ἐκ[έ]λευcέ μ’ εἰπεῖν ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "πιὼν ......]ν̣[....] κἆιτ’ ἔλαβον τὸ χρυcίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_90][spk_(αρ.)]........ ποι]είτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "τιc † ὅ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "ποτε βούλεται. (ΑΡ.) ........... ]τῆc δικαιοcύνηc ὅcη (ϹΥ.) ........]η̣τ̣η̣ν οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "πω διαcτολὰc ........]ων ἔπραξεν οὑπιδαύριοc .......]ρ̣φρ.νων ἀπέ̣κλειc〈 〉 ἐκποδών. /[ln_95](ΑΡ.) .......]ρ̣αν κατέλυcαc ἡττηθεὶc πολύ. (ϹΥ.) ..... ἐπρ]αξάμην δὲ χρήματ’ οὐ λέγω. / (ΑΡ.) .......] θανόντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "ταῦτα χάριτοc ἄξια ...... μᾶ]λ̣λ̣ο̣ν εἰ cαφῶc τιc ἀποθάνοι ]υ̣c̣π̣ουτ̣[[ln_99]— — — —[ln_99]desunt versus fere 10 — — — — — — — — — — — — — — — — .....]c̣ι̣[..]ι̣[.]α̣ι̣τωχει̣.[...]ι̣ι̣ [...]c̣ι̣[ ....]μ̣εδ’ ἢ ταῦτ’ ἂν .π̣οιc̣. χρήμα[τα (ΑΡ.) ⸤‘τί⸥ τοὺc θανόνταc ο⸤ὐ⸥κ ἐᾶιc τεθνηκέν⸤αι;‘⸥ (ϹΥ.) μ]αρτύρομαι· τί δ’ ο̣[ὐ]κ̣ ἀγωνι[ο]ύμ[εθα; κα]λέcαc με cυνδεῖc κἀδικε[ῖ]c. — (ΑΡ.) ἀλλ’ οὐ[κ ἐγὼ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.1",
+      "text": "[ln_105][spk_—]ξυνέδηcά c’, ἀλλ’ ὁ ξένοc ὁ τὸν κυκεῶ πιώ[ν. ‵—′(ϹΥ.) δίκα[ι]α δῆτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.2",
+      "text": "ταῦτα πάcχειν ἦν ἐμέ; ‵—′(ΑΡ.) ἐροῦ βαδίζων ἱερέα τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.3",
+      "text": "τοῦ Διόc. / ‵—′(ϹΥ.) ὕβριζε· ταῦτα δ’ οὖν ἔτ’ ὀφλήcειc ἐμοί. (ΑΡ.) ἔ̣τ̣[ι] γὰρ cὺ τοὐφείλειν λέγειc οὕτωc ἔ[χ]ων;[ln_110]‵—′(ϹΥ.) καὶ ναὶ μὰ Δία κλάοντα καθέcω c’ [ἐ]ν̣ ν̣ε̣κ̣[ροῖc. ‵—′(ΑΡ.) καὶ τοῦτό μου τὸ χρέοc καταψευδ[ ..]α̣γ̣ε̣τ̣’ αὐτὸν καὶ παράδοτ’ ο.[ ......]αρεcτιν τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.4",
+      "text": "τοιούτων δ[ ἐ̣β̣ο̣[υλ]όμην δ’ ἂν καὶ Διόγνητον λαβ̣[εῖν[ln_115]τὸν ἱερόcυλον, ὅc ποτ’ ἦν τῶν ἕνδεκ[α, ὃ̣c̣ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.5",
+      "text": "πανούργων ἐ[c]τὶ τῶν νεωτ[έρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.6",
+      "text": "πολλῶι κράτιcτοc, ὁπόταν εὖ τὸ cῶμ’ ἔχ[ηι. ἐγὼ δὲ πάcηι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 92.7",
+      "text": "προcαγορεύω τῆι πόλ[ει εἶναι δικαίουc, ὡc ὃc ἂν δίκαιοc ἦι[ln_120]]λ̣c̣ι̣κ̣ο̣νη̣μ̣[...]χ̣ων[ln_120]— — — — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93",
+      "text": "— — — —[ln_1][",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93",
+      "text": "[ln_1][spk_—]ἆρ’ οὐχὶ φαν[ερόν ἦ που μέγ’ οι[ ‵—′ζη.[ κόcμοc .[[ln_5][.].[[ln_5]— — — — [ἔ]μβαινε π̣α̣ρ̣[ [para]κώμαζ’ ὁπο̣ι̣ω̣[ [para][......].ιc̣[[ln_8]— — — — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93.1",
+      "text": "[ln_8][spk_ο]ικετηϲ]Ο]ΙΚΕΤΗϹ [[ln_10]]θ̣αι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93.2",
+      "text": "του[[ln_10]— — — — — ἐγὼ δὲ φιλ̣[ καὶ φιλ..[ καὶ νῦν .[ τ̣ο̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 93",
+      "text": "[ln_15][spk_—]‵—′ φέρ’ ἴδω π̣λ̣ακ̣[οῦντα[ln_15]‵—′ — — — — — —[ln_16]][ln_16]]. ] ἐξιόνταc ][ln_18]— — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 94.1",
+      "text": "— — — — — — —[ln_1]]..[ ]δήμου[.......]ηλυc̣[ ]. τοῖc ἐνερ[τέ]ροιc θεοῖc ].κωc οὐκ ἀνεβίων οὐδ’ ἅπαξ[ln_5]]η̣μοι τῆc πόλεωc πλεῖcτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 94.2",
+      "text": "πολύ [para]]αμοι διαφθείρουcι νῦν ]δροί τε καὶ Πάριδεc ὁμοῦ ]των ἐνθάδε· ]παρέλειπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 94.3",
+      "text": "πρὸ τ[ο]ῦ[ln_10]]. εἰc ἀνάκριcιν ].ωc μαχου.[ [para]]τ̣αι̣.θε̣ν̣[ln_12]— — — —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1",
+      "text": "ΕΥΠΟ[ΛΙΔΟϹ[ln_tit 2]Μαρικᾶ[[ln_tit 3][ὑπ(όμνημα)[ln_1][para]]μ̣ηκατα[]αχειαν· 〉 [para]]π̣ατ̣.γα[—]νικαc ἐνίκα· ]τατ̣.τ̣αρτ.[—νι]καc ἐνίκα ]υc[]....[]εν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.2",
+      "text": "ταῦτ’ ἐcτ’[ln_5]].νεβρον[]εωνοc ταῦτα ].....π̣α.[]ε̣μ̣ε.αι ]μαc πάλι[ννοc]ή̣μαθ’ ὑποτροπάζει ]ὑποτροπά[ζουcιχ]ε̣ῖ̣ρον διατιθέαcιν ἐπὶ τῶν ἐπα]ν̣ερχομέ[νων]καταλαμβάνουcιν[ln_10]]..[]μ̣ενα̣[].[].αυτον τ̣[.]ο ]ο̣ν̣[].[]π.[].δ̣[]ηcθενηκυ[ι]νυν πάλιν [para]]φηc[ι] καταπ[ο]νεῖcθαι cυ[μ]βηcε[ πολὺ]ν̣ πολλοῦ χρό[ν]ον καὶ τόν̣[δ’] ἀ̣φ̣ε̣ῖ̣[cθε [para]].τι.[.]π̣αμπ̣[.]υν· ⟦ἡ δὲ μ[ετα]φ̣[ορὰ⟧[ln_15]⟦ἀπὸ τῶν γ]ραμματοδιδ[α]cκάλων .[ ⟧ ⟦].τ̣ι⟧· ἡ δὲ μ[ετ]αφορὰ ἀπ[ὸ τῶ]ν γρα[μ‐ ματοδιδαcκά]λων ‘πολὺν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.3",
+      "text": "χρόνον ἀφεῖcθε‘〉 ]c̣ὺ̣ γοῦν ἀλλ’ ἐξάλειφε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.4",
+      "text": "τοῦτο δ’〉 ὃ λέγει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.5",
+      "text": "τοιοῦτό]ν ἐcτιν· ‘λέαινε τὰc δέλτουc·‘〉[ln_20]]ν[]ον οὕτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.6",
+      "text": "φθέγξεται ε‐ ]. τότε δὴ μεῖζον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.7",
+      "text": "φθε̣.ομ̣α̣ι̣.[ ].τοιc ἐcχάτοιc ενη̣[ [para]]κη καὶ τοῖc ἐcχάτ̣[οιc ][ln_25]].τ̣εδ[ ]ο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.8",
+      "text": "προ̣[cφ ].ν̣τ̣[ε [para]]προcφ[ ].ντε[ ]ο̣νδ[ [para]]μειc κ[ ]νον[ ] ]ετον.´̣ιν̣[.]..οπο[ ]ημα [para]]ἀπὸ τούτου ὅλοc ὁ χορὸc λέγει .[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1",
+      "text": "[ln_30]]ω τέωc καὶ νῦν τὸ τέωc ἀντὶ[ ] ]ω.[]ἅπαcι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.2",
+      "text": "τοῖc κ[ριταῖc ]ουc.[].c[]ν̣τα ἡ δ(ὲ) με[ταφορὰ ]ι̣cθ̣.[]ν[].·εν.[]ζή(τει)[ln_35]]ω[ [para]]..[ [para]]ντ.[ ]α̣ρεικ[— — — ]ην[].ιτη[[ln_40]]ν.[]μιc[ [para]]η[— — —[ln_41]— — — — — — — —[ln_42]desunt lineae 2[ln_42]].α[ καὶ ταῖc ε.[ τοὺc Πέρcαc[[ln_45][para]παρεδέξαντ̣[ [para]γὰρ αὐτοῖc ἐπι[ ‵⸐′ ζητῶν γὰρ ω[ [para]οὐδὲν κενὸν ⸤τρύπημ’ 〈ἂν〉 ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.3",
+      "text": "ταῖc οἰκίαιc ἂν⸥ [para]εὗρεc τούτων[ [para]τοιc ἀγαθοῖc τ[ [para]κενὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.4",
+      "text": "τρύπη̣[μ [para]ο]ὐδεμία κε[νὴ [para].]αcαι λέγει δετ̣[ ‵⸐′π]ε̣ριτμήματα[[ln_55]δερμάτων η[ [para]τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.5",
+      "text": "περιτεμ[νομένων— — — — [para]τοι γὰρ ἀνθρω[]c ζή(τει) κολλητεο[]. ‵⸐′ἕτεροc δε[]ε̣[ln_60][para]κακω.[].η· ‵⸐′αλλεν[ ].[— — — [para]cωμεν αυτη.[ [para]ποιηcωμεν.[ ].τελευτα[[ln_65][para]διδόντεc τ̣.[ [para]ριανικ[].[ [para]καὶ θεὸc[ [para]προcφερο[ ‵⸐′οἵα τ’ ἐcθ’ ἁ[[ln_70]το",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.6",
+      "text": "τοιουτο.[ [para]δεύτερον[ [para]ι.[].νοι....[ [para]αν ἀνθρωπο[ ‵⸐′τί τὸ κακόν; οὐκ̣[[ln_75][para]τοῦτο λέγει μ[ [para]α[ ]ρουc λ.[ [para]ροντο ὡc ἀντι[ ‵⸐′ἀλλ’ ὦτα μὲν μ[ [para]παρὰ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.7",
+      "text": "παρ[οιμίαν[ln_80][para]δῆμοc αυτημ.[ κυδῶντα δ’ οὐ κυ[ἐπὶ δούλ]ων λέγεται [para]τῶν ἀπαρνουμέν[ων δούλων γεγονέναι ἐ]πειδὰν ἐ‐ [para]λεύθεροι γένων[ται] ‵⸐′ἔξαγ̣ε̣ καὶ πρώιρ[α]α̣ν ἀντίπρωι‐[ln_85]ρον τὴν γλῶττα[νῥοθ]ίαζε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.8",
+      "text": "πρὸc τὸ λέγειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.9",
+      "text": "πρώιρα γὰ̣[ρ ἀντὶ το]ῦ[ ῥοθ]ιάζου λέγεται·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1",
+      "text": "‵⸐′καὶ ταῖc οἰκίαιc α[]εἰρηκ[ότο]c ἐκείνου [para]τὰc οἰκίαc ἐπὶ τῶ[ν ἐν α]ὐταῖc οἰκούντων〉 οὗτοc ἐπὶ τῶν οἰκοδομημάτων αὐτὸ τέθεικεν[ln_90]‵⸐′φέρ’ ἴδω τί Ἀλκμέων[α ......] πρόθυρ’ ἐπωφελ(εῖ); ζή(τει) εὐγενήc τιc οὗτοc [Ἀλκμέ]ων· ‵⸐′εἰδὼc ἐφ’ οἵων ῥηγμάτ[ων κα]ὶ̣ cτιγμάτων· παρ̣[ὰ τὰ [para]ῥήγματα λέγει τ(ὰ) ὑπ(ὸ) [το]ῖc ποcί ὀριβατοῦντεc [para]γὰρ κόπτουcι ξύλα ἔcτιν [ ] παρὰ Μενάνδρωι〉[ln_95]τὸ τοιοῦτον ‵⸐′τοῦτ’ ἐκδανείζει καὶ κυκᾶιc [τὸ]ν̣ ναυτικὸν α̣[ [para]ἐπὶ τῶι πέμπτωι μέρε[ι]τοὺc τόκ[ουc οἱ [para]ναυτικοί· ἡμεῖc δ’ ἄρ’ οἴκ[αδ’ ἄπιμ]εν· ὁ τῶν [para]πλουcίων λέγει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.2",
+      "text": "χορόc ‵⸐′καὶ γὰρ αἱ γυναῖκ[ε]c / ὅcαι μ[ὲν ἂν] νεανίαιc ξυνῶc[ι καταγελῶνται, / [ ὅcαι δ’ ὀνηλάται]c̣[ι] καὶ δούλοιcιν [ὠ‐ φελοῦνται· [].[]c̣ι̣c̣υν̣[ [para]νεανιcκο[ ]δ̣ουλο[[ln_105]]ο̣νη[λατ]c ] ] ].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1",
+      "text": "[ln_108]desunt lineae fere 7 [para]]ην[ln_110][para]].α ].αc ζή(τει) ]ξύλωι ] ]ριτωναυ[ln_115][para]].c γνώμην [para]] καὶ οἱ μὲν πένητε̣[c οἱ δὲ πλούcιοι τῶι δεc̣[πότηι κοινῶc ὅτι ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.2",
+      "text": "τοῖc [[ln_120]‵⸐′οὗτοc, τί κέκυφαc; .[ πρὸc τὸν Ὑπέρ‐ —βολον λέγει τὸ ἡμιχόρι[ον ‵[⸐]′Λακεδαιμονίουc μεν.[ ταc· ἀπὸ κοινοῦ τ[.]υ̣λε.[ ‵⸐′ἀπολῶ γὰρ αὐτούc· ω.[[ln_125]ρ̣υ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.3",
+      "text": "προcχωροῦνταcπ̣..[..]..[ἐπὶ δυεῖν τάττεται τ[.]..[].υμν[ ] ·τοεν.[].ουc...[ παραγενέcθαι δεδ[ ουc ἐφ’ ἡμᾶc .[]α.[[ln_130][para]νὴ Δία δεδοι[κ [para]γεμετουτε[ μειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.4",
+      "text": "πρ[ δεπελθο.[ κωcιν ει[[ln_135][para]Κλέων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.5",
+      "text": "παφλ̣[ [para]παφλάζειν[ ‵⸐′ὥcπερ γενη[ [para]κωc ἐνίκα α[ [para]οι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.6",
+      "text": "χοροὶ ὅταν[[ln_140]ἀλλοτρίοιc π[ πον cτρατη[ ελομεν cτ̣[ εcτρατηγη[ ξαc ἀλλα[].[[ln_145][para]].ταλλα[]μοι ἐcτιν ..[ [para]].οπλ[]ὃ μετατιθεc̣θ̣..[ ‵⸐′ ]εγ̣.[ κ]έρδουc ἕνεκα cὺ νῦν· ἐγὼ γὰ̣ρ̣ ..[ [para]εἰc ἐκκληcίαν ἕωc οὗ οἱ cυνα̣.[ [para]ταί μοι, cὺ τὸ cυνέδριον cκεύαζε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.7",
+      "text": "πρὸc τ̣[ὸν [para]δεcπότην ὁ Ὑπέρβολοc. ‵⸐′ἦ μὴν ἐγώ cε cκέψομαι γὰρ ἐ̣ν̣.[ [para]ἦ μὴν ἐγώ cε ὄψομαι ἀξιοῦντα̣[.]..[.].[ [para]δ’ ἂν ἦcθα δεδεμένοc ἐν τῶι ξύλωι· .[ [para]τῶν γνωρίμων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.8",
+      "text": "τινὰ Καλ[[ln_155][para]ἑαυτὸν λέγει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.9",
+      "text": "τοῦ Ὑπερβόλου κε̣[ ‵⸐′ λύω λέcχαc ὁ χορὸc πρὸc τ[ὸ θέατρον ‵—′ πρὸc τὸ θέατρον· ἐν μὲν τῶι ε[ — — — —[ln_158][para]]α̣ι̣δ̣ι̣δ̣ω̣μ̣[ ]γ̣ματα λέγω.[[ln_160]]ν̣υcιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.10",
+      "text": "φανερα.[ δ[]ων κτ̣η̣μ[ οικ.[]να̣.[]ων̣.[ φεινταcοι κ.[]αιταν̣[ τὰ χρυcία τὰ ἀργυρ[ώμ]ατα καὶ τ[[ln_165].]υν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.11",
+      "text": "φηcιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.12",
+      "text": "τωc̣κ̣[].λ.ι̣ὸυτω̣α.[ ‵⸐′]’ ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.13",
+      "text": "πονηρῶν τῶι νόθωι .[ [para]]Ἀcπαcίαc ἐπιcκέψαcθαι δε[ ]ει ἢ Πάραλον· ἀμφότεροι γὰρ[ ]ἕτεροc αὐτῶν μετήλλαχεν[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.1",
+      "text": "[ln_170]οἰc⸥υουργῶι γ’ ἀνδρί, νὴ τὸν Διοκλέα[ κ]λεα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.2",
+      "text": "προcθεὶc Διοκλέα εἴρηκε.[ δίδ]ωμι τῶι καλῶι cαρκάζων α[ [para]].[]νμ[.]ν̣ μακρὸν ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.3",
+      "text": "τοδ[ ]ὑπαλλαγῆι κέχρηται τῶι[[ln_175]— — — —[ln_175]] [ ]c̣κοc[..].[ ]και̣.ω̣ ].τιμην [para]][ln_180]]τινων· ]ιλευc ]α..ο̣ν Λακεδαι‐ μ] ]μηνειcτα[ln_185]ἠκούcατ’, ὦ⸥ ξυνήλικεc ].ο̣ν̣ τ̣ὸ̣ ἡμι‐ χόριονὑμεῖc γά⸥ρ, ὦ φρενοβλα‐ βεῖc] ]....[.....]...με.·[[ln_189]— — — — — — — — —[ln_190][para]— — — — — —[ln_190][para]πρὸc τὸ δι̣δο.[ [para]Κορινθίων .α[ ‵⸐′ὅcτιc προδοcίαc τ̣[ κληθήcομαι εἰc δικ[ ‵—′ἀγοράων τῶν κατα̣[— — — — — — — — —[ln_195]‵—′προτελοῦcι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.4",
+      "text": "προπη[αὐτοκά.δαλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95.5",
+      "text": "τινεc γρά‐ ‵⸐′φουcιν αὐτοκάβδα[λα διὰ τοῦ β, αὐτοκάβ]δαλα λέγεται τὰ ἐπικαθα̣[ἅπερ ε]ἰώθαcι κάπτειν αἱ ἀλετρί[δεc]ἐ̣κ‐ ‵҅′φατνίcματα δὲ τὰ [ἐκ τῆc φάτνηc ἐκβαλλ]ό̣με‐ να, φρυά̣[γμ]..[ τρεφουc̣[— — — θαρτοι[ μ̣η̣.τ.[[ln_203]‵]—′— — — —[ln_203]— — — —[ln_204][para]]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 95",
+      "text": "[ln_205]]οιc ]εcδε [para]] ]ρ̣οcτω ]..[ln_210]]ρ· cαρ ]ε [para]] [para]]των̣ [para]][ln_215]]διπποc ]ν μεγα[ ] ]ε̣ραν[[ln_218]— — — — — — — — — —[ln_219]]υ.[.]..[[ln_219a]] [[ln_220]].η.ιγ̣ωνια[ ].αρ̣[.].c[.]ντε ] ]η̣νπαρα.. ]..η̣ρκεcται·[ln_225]]μαρ.[]..[] [para]]ι.υο[]ι ]υρ ].[ln_228]— — — — — — —[ln_229][para][].[[ln_230]cυ[ ‵—′/ [ ]υποτ[ προ[ .[.].[ ‵—′φ.[[ln_235]το[ []..[[ln_236]— — — — — — — — —[ln_237]].ο.[ ].ωντα[.]χαιρ.[ ]ειν· παρὰ τὸ Ἀρχιλ̣[οχ[ln_240]]κ̣οιcιν...[ [para]].ποκα.[ ].υ̣[[ln_242][para]— — — [para]— — — —[ln_243]]..[.].τ̣[ [para]]εγνω[[ln_245][para]]·[ln_245][para]— — — — — — —[ln_246]]...[ ‵⸐′ η[ .[ τα̣[ ‵⸐′ μ[ [ cτρ̣[ αει[ ‵⸐′ ε̣πε[[ln_255]ο[ ‵⸐′ c[ δε̣[[ln_257]‵⸐′— — — [para]— — —[ln_258]]..ωλ.[ ]νεc..[[ln_260]]...δω̣[ ]ον αιμ̣..[ ]c̣ο.[[ln_262]— — —[ln_262]— — — —[ln_263]].[]ε[ ].[].[[ln_265][para]].ιτ̣η.[ cτρ]ατηγὸc ου[ ].[]ε.υ̣τωι[ ]τ̣η[] [ ]ο̣ληκο.[[ln_270]]εν̣ απροc̣[ ].[.]δανιζω[ [para]]ρτηκοτ[ ]ημειc[ ]ων ο[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1",
+      "text": "— — — — — — ]ωcπ̣[....]ανην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.2",
+      "text": "προ ] (ἔcτι) δη α.[ ] ἀπεcτάληcαν δεη‐ [δη]μ̣ηγορε[]. πρὸc αὐτοῦ νέ‐ ον ἀρ]χ[ο]μ(έν)ου γράφ[ειν] κωμωιδίαν κ(αὶ) ταῦτα[ln_5]]αὐτ(ῶν) οντο.[...]ε̣ιν βιαcάμ(εν)οι η‐ [para][]ο̣ μ(ὲν) τοὺc πολ̣ί̣τ̣αc μὴ γράφειν ἥ]ρωαc δ̣ι̣ω̣[ ]π̣ρο[...]ων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.3",
+      "text": "παλι‐ [para][]οc αὐτο̣ὺ̣c̣ α[ ].ο̣τ̣[...]τ̣ουc ἥρωαc ]δ̣(ὲ) τ(ῶν) πολιτ(ῶν) ἑκ̣αc[τ ] πρ̣οcφυῶc[ln_10]].πων̣αδ̣.αγα[]ο̣ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.4",
+      "text": "πρέcβειc ].μ̣[ ]ο.[ ].[]c̣ ]χ̣[].[].c̣ι̣ δ(ὲ) λ̣ο̣ι̣[]ρ̣[]ωφω̣[ η]ν̣έχθη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.5",
+      "text": "χορὸc δ(ὲ) Πρ[οcπ]αλτίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.6",
+      "text": "παραγίνεται ἀνδ]ρ(ῶν) αἰεὶ δ(ὲ) † ηχθηι.[ ]αι μ(ὲν) υπ.[[ln_15]].ι. Εὐπόλιδοc[]α̣μα [para]].θ̣υc̣.[]cθαι εκ.[ ]ι̣δ’ Εὐπολ[ι ]φα[..]υc[]c δ’ ἔνιοι [para]].cδ(ια)π.[]λυφανου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1",
+      "text": "[ln_20]]..[|]..[].[]νεcθαι ].ε̣ρον[]λ̣[].[ ].c̣θῆναι [para]].ωμ[]ρ̣αc[].[]υ̣γ ].cπ[]ν̣αγ[]ο̣ιcακρο ]κα̣ι[]υδο[]γελωτ’[ln_25]]γελωτ.[]ιμην ]φειδε[].οc ]μ̣εαπο ]ε̣ι̣ηθη ]ν̣π̣ρ̣[].[ln_30]].αcω ].τ̣αιπροε εἰπεῖν μη]δενί γελοίωc ]τι ἠρώτηcέ με ]μηδενὶ [ε]ἰπεῖν ὅτι εc[[ln_35][para]]´̣.c̣.οc κωμωιδία[ ]..[.]c̣τον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.2",
+      "text": "χο(ρὸν) διδάcκει ].. c̣υ̣κο̣φαντ̣ε̣ῖ (ἔcτι) δ(ὲ)[ [para]]. κλ̣οιὸν ἀπ’ ὀβελίcκου[ [para]].η θε̣ρμ[.].ουμη[[ln_40]]c̣επει[ln_40]— — — — γάζει [ η κωμωιδι[λαμ‐ βάνειν αυ[ μ(έν)ουc η ο[[ln_45]δομ(εν)ον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.3",
+      "text": "τρ[ ταc ὄψειc[ πειων μη[ το ἆθλον[ βοὸc τικο̣.[ εν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.4",
+      "text": "τοῖc κακ.[ περὶ ταδ̣ε̣[ .[.].κατα̣[ ]θαικ.[ ]δημ.[[ln_55]]λομα[ ]αλειν[ ]κ̣ουει.[ ]μ(εν)οc[ έφυγε δ(ιὰ) .[[ln_60]βουλεύειν[ κιθαρωιδὸc[ κ(αὶ) μετοικ.[ πρό‐ ξενον κ(αὶ) προ[cτάτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.5",
+      "text": "προ‐ cτάταιc ἐχ[ρ‐[ln_65]πολειτηc.[προ‐ cτάτου cπ[ κουcιμοικο̣[ τῆc γῆc μ(ὲν) ἄχθο[c ἄ‐ χθοc μ(ὲν) ἐπεὶ καμ̣[[ln_70]κουφότηc δ(ὲ) ἐπεὶ .[ ἀλλὰ κοῦφοι κ(αὶ) φ[ Ϲυρακόcιον η.[ είην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.6",
+      "text": "τούτουc[ τιc Ἐξήκεcτον:[[ln_75]ταλου κομίζω.[ π(αρα)γενόμ(εν)ον τ̣α̣υ[ νειν δοκεῖ μο̣.[ μηδ’ ὕθλει μὴ φ[λυάρει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.7",
+      "text": "πεια κλωγμόc .[ ἀν‐[ln_80]θρώπων γ[ γλώττηc[ τραγικὸc η̣[ [para]]δ..παδ̣[[ln_83]— — — —[ln_83]— — — — —[ln_84][para]].εντοιcε[[ln_85]]τ̣ο ἱερεῖον []τ.[ ].λ̣ύ̣ν.[].ο̣τ[ κ]ωμωιδ....[ ]π̣ω̣ο̣ντ(ων) ε̣γ̣.[ [para]]ερματ(ων) α̣.[[ln_90]]νοεδα̣δ̣[ [para]]..[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.1",
+      "text": "[ln_91]— — —[ln_91]— — —[ln_92]].κ[ ]ν̣κ[ [para]]αιδ.[[ln_95][para]].δον̣[ [para]]α̣υπ[[ln_96]— — — — — —[ln_97][para]]α̣, [ [para]]ερωνν[ ].πορευ.[ ].ειμι̣α̣.[ ].ωιεθ̣ειδ̣[ [para]].[[ln_102]— — — ]....[ ]ν̣αc cχ[[ln_105]]ει κ(αὶ) το.[ εὐ]ρύκρειο̣[ν εὖ οἶ]δ’ ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.2",
+      "text": "τι.[ [para]ε]ὖ οἶδ’ ὅτι π̣[ ]εχθραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.3",
+      "text": "πα̣[[ln_110]]ω̣ βόcκειc κ]ωμωιδεῖ θ.[ ]ξε δ(ὲ) ἵνα κακῶc κρ[ ]νωc Φρύγα μὰ Δί.[ ]c̣ Εὐάνδρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.4",
+      "text": "τοῦ Ἀ[ρκάδοc[ln_115]]c̣ μᾶτερ Μεγάλα [ ]ε̣c αὐληταὶ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.5",
+      "text": "ταῖc[ ἀρ]χόμ(εν)οι ἀνακρούεc[θαι ]θει ξυ̣μμαιν.[ ]ρ̣ο̣.[]ν̣ φαῦλον .[]..ρ̣.[[ln_120][para]].υβ̣[] φλαῦρον κακὸν[ ].[ ]ἐπίπονον οὗ γ’ ε[ [para]].κράτηc τοιχωρυχο[ [para]ο]υcιν ἔνδον μετ’ ὀφέω[ν οἱ] ἥρωεc ζωγραφοῦνται α̣.[[ln_125]]εc κἀπικήκαcτον ε̣[ Ϲθενέ]βοια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.6",
+      "text": "Προίτου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.7",
+      "text": "τοῦ Κορι[νθίου ]ν̣ αὐτ(ὴν) λέγει οὗτοc c[ ].[]νοντα αρ.[ ]..κ.φι.[[ln_130][para]]...[ ]..αι.[[ln_131]— — — — —[ln_132]]ερ[ [ κια.[[ln_135]προο̣[ [ κν[[ln_137]— — — — — —[ln_138]]...[ ].ι̣ο̣..[[ln_140]].τ(ων)[[ln_140]— — — — ]είλετο ουχο [ [para]]αφήμ(εν)οc ε̣[.]τω.[ ]β̣αcταcε[ ]ινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.8",
+      "text": "παντ[[ln_144]— — — —[ln_145]— — — —[ln_145][para]].χ̣ην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96.9",
+      "text": "χαλινο[ ]ν̣ τὸν Ὑβάδην[ ]ἀν(τὶ τοῦ) οὐκ ἔπειcεν[ ]υ[[ln_148]— — — — — —[ln_149]]α̣λ̣.ωcπ̣ορ.[ [para]]υ̣cαναρ̣δ̣[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 96",
+      "text": "— — — — — —[ln_151]].αλει[ [para]]μοc ]α̣λαπο ʼ̣.]ρ̣ο[ln_154]— — —[ln_155]— — — — —[ln_155][para]].ανται κ(αὶ) [ ]ἀνάγυρον[ [para]]εχόντ(ων) του[ ´̣].ηc αιτια.[[ln_158]— — — — — — —[ln_159]].[ln_160][para]].ει[ ]ιππ.[ ]´̣ιτου[ [para]]φυ[[ln_163]— — — — — —[ln_164]]κλει.[[ln_165]]ολωιε[ [para]]ρόπω[ ]ερπ̣[[ln_167]— — — — —[ln_168]].[ [para]]υ̣ω[[ln_170]]c̣ ἡ[.]..[ [para]].φ̣ρ̣χ[ ]η̣[[ln_172]— —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1",
+      "text": "— — —[ln_1]]κι ]ερω ]δεc ]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.2",
+      "text": "χορόν[ln_5]]ηι δέοc ]ψειεν ἄν ].βον ].εθη ].αρη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1",
+      "text": "[ln_10][spk_(α)](Α) ἐ]γὼ δ’ ἵν’ εἰcὶν οἱ κακο[ .]....c δε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.2",
+      "text": "χρηcτῶν μ̣.[ ε]ἰ μὴ ποοίην ω....[ ‵—′(Β) βαδίζεθ’ ὑμεῖc ὡc τ̣ά[χι]cτ̣’ ε[ καὶ φράζεθ’ οἷα τἀνθάδ’ ἐcτ[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.1",
+      "text": "[ln_15][spk_—]Προcπαλτίοιcιν ἢ cτρατιὰν̣[ πέμπειν κελεύετ’ ἢ κομίζεcθ[ ἵνα μὴ καθῆcθαι φῶc’ ἀναλίcκ[ ὡc οὗτοc οὐδέν, ὡc ἔοικε, πείcετ[αι. ‵—′(Γ) ἀλλ’ ἐρχόμεcθ’· ἀτὰρ τὸ δεῖνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.2",
+      "text": "χρὴ[[ln_20]πόc’ ἄττα cοι πέμπωcιν. — (Β) εξεcτι[ εἰ δεῖ γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.3",
+      "text": "τοῦτον ἐν κύκλωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.4",
+      "text": "πε̣[ ἀλλ’, ὦγάθ’, ἔτι καὶ νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.5",
+      "text": "πιθοῦ πά[cηι τέχνηι. ὁρᾶιc παρὰ ῥείθροιcιν ὅταν η[...]δ[ ἢν μέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.6",
+      "text": "τιc εἴκηι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.7",
+      "text": "τοῖc λόγοιc ἐκcώιζε[ται,[ln_25]ὁ δ’ ἀντιτείνων αὐτόπρεμνοc οἴχε[ται. αὕτωc δὲ ναόc — (Α) ἀπό μ’ ὀλεῖc, ἄνθρωπ[ε, cύ. ‵—′(Γ) ἅνθρωποc οὗτοc νοῦν ἔχονταc[ ‵—′(Α) ἀλλ’ οὐχὶ δυνάτ’· εἰ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 97.8",
+      "text": "πιθοίμ[ην cοι τάδε, τίν’ ἂν τ[.]χ.ην ε.....[[ln_30]‵—′(Γ?) μέγα cτένοι μέντ̣ἂν ακ[ ἡμεῖc δὲ ναῶν ναυτίλο[",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.1",
+      "text": "— — — — —[ln_1]]..[ ‵—′ πτω[ χρω.[ δελεγ[[ln_5]‵—′ δεινεcτ[ ‵—′ περιc[ ‵—′ τουτου Ϲοφοκλέο[υc προ‐ θ̣είc νιν εἰc φθορ[άν μ̣ενται τὰ δ’ ἄλλα[[ln_10]Ϲοφοκλέουc ἐc[τὶν ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.2",
+      "text": "Τηρέωc δοκῶ [ ‵—′ .]οcαρκετον λόγω[ ἀν‐ ‵—′ τὶ τοῦ ἀμφοτεροι[ οὐ‐ ‵—′ κ̣ οἶcθ’ Ἄρη μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.3",
+      "text": "τοὔνο[‐[ln_15]μ]α; Ἄρηc ὁ Φορμίω[ν ἐ‐ πεκαλεῖτο κόκ[κην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.4",
+      "text": "πρῶ‐ ‵—′ τοι ἀντὶ τοῦ πρὶν [ εἰπεῖν κόκκυ ηδυcτρ[ ‵—′ .]θαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.5",
+      "text": "πλ.ηνεcτι̣[[ln_20]]α̣μιcθον []ἀντ[ὶ τοῦ ‵—′ π̣ο̣φ[[ln_21]— — — — — — — —[ln_22]]μ̣.ν[ [para]].ο̣.[[ln_23]perierunt lineae 4 ]..α̣τι.[[ln_25]]οc ἕcτηκαcηδ[ ].. ξύνθημαν[ [para]]αcον καὶ γνω[ ]πληcίον αν[ [para]].ωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.6",
+      "text": "πληcίον .[[ln_30]]ντο cυνθημα[ [para]]. νὴ τὸν Δίαλ[ [para]]καὶ μιcῶ γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.7",
+      "text": "πρ[ [para]]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.8",
+      "text": "Φορμίωναι̣.[] [para]]τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.9",
+      "text": "πρώτην ελ[[ln_35]]φυλακήν εἰτου ]μ̣ον δῆτ’ ἐγὼ πορ‐ []c ἀντὶ τοῦ χω‐ ρὶc]ηc ἁπλῶc ὅπερ Ἀττικ]οὶ ἀτεχνῶc λέ‐[ln_40]γουcι ]c ἐγ̣ὼ κλ̣α̣ί̣ειν ]ο̣νι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.10",
+      "text": "τούτου μνη‐ μονεύει] καὶ Τηλεκλεί‐ δηc]ὡc λωπο‐ δύτου[ln_45]— — — — —[ln_45]γο.[ πα..ρι̣[ ἀν‐ ‵—′ τὶ τοῦ εμ[ [para]‵—′ γὰρ οὐκ ἐπίcταμαι [παρὰ ‵—′ τὸ πεζῆι βαδίζω [νεῖν γὰρ οὐκ ἐπίcταμα[ι οὐ ‵—′ παύcει ῥαίνων ἡμ[ᾶc, οὑκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.11",
+      "text": "πρώιραc; εἰώθαcι λ[έγειν· ‵—′ ὁ ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98.12",
+      "text": "πρώιραc, μὴ ῥ[αῖνε ‵—′ ἐκτενεῖc οὖν τὸν c[κελί‐[ln_55]cκον ἀντὶ τοῦ τὸ c[κέλοc[ln_55]‵—′ [para]]δ̣ι ]φει ]ν̣υ ].αc̣τ̣αν[ln_60]]κ̣ρι [para]].τ̣ηι ].φηc̣ιν [para]]α [para]].ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98",
+      "text": "[ln_65][para]].γ [para]]εο [para]]α̣ι ].ν [para]]ν[ln_70]].ν ] ] [para]] ].ν[ln_75]]ηι[[ln_75]— — — κακη[ γραψ[ ‵—′ δετη̣[ δεcφ̣[[ln_80]των[ δεδρα[ τωιτη[ ωcοδ̣ε̣[ ‵—′ ξενοκ[[ln_85]τοιδε[ ποιη[ οδ̣ερ[ τωνδε [ ...ι̣ε̣ιρη[[ln_90]‵—′πεπληκτ[ ταπαριcτ[ ‵—′ χροτητ[ ‵—′ τωιμ[ κο.[.]cαι[[ln_95]‵—′ ν[[ln_95]— — — — — —[ln_96]]ειν[ ]ο̣γ.[ ]αυτ[ ].αιτ.[ ]ποτω[ [para]].ει.[ [para]]δ[ ]ε.[ ].υ[[ln_104]— — — —[ln_105]— — — —[ln_105]]ν[]π̣[ ]ντ.[ ]ηcει̣[ ]ε̣.κω[ [para]]τουc[[ln_110]]νοιμω[ ]πον[[ln_111]— — — ]νυμοιλεπτ̣[ ].cφι..[ ].[ ]ντοδ[[ln_115]]ι̣.ε.[ ]ηδημο[].αγνωcτε[ ἂν ]ἄχθοιτ’ εἰ [δ]ι̣αcτρέφ[οιτο ].[ ].οφω̣[].ιοναν̣[ ].[[ln_120][para]].ο̣.[ ]ν̣η[ [para]]α̣[[ln_122]— — — ] []ω[ln_123]].ιιc[ [para]]δα[[ln_125]εγε̣[ π̣ο[ τω.[ τιαικαιαξ̣[ .εγ..[[ln_129]— — —[ln_130]— — —[ln_130]].[]αν ]δε̣δ̣οι [para]]κ̣εφαι ]πληcι ]ηλικην[ln_135]]πλαcι [para]]..c̣δε ]...τ̣ου ].ια̣ξεν [para]].ημου[ln_140]].νcκω [para]]λ̣λευc ]καινε ]νιδοc — — —[ln_144]δα̣[[ln_145]κεκ[ ‵—′ κ[ α̣[ φ.[ ‵—′ κω[ ‵—′[ [ ]....[ θωνιο.[ μεχ̣[ ‵—′ .[[ln_155]— —[ln_155]]. ].ι[ln_156]— — — — —[ln_157]π̣.δ[ η̣[]..[ .[]...[[ln_160]δι̣.[ τραγ.[ γ̣α̣..[[ln_162]— — — — — —[ln_163]].καθ[ ]..νγ̣[[ln_164]— — —[ln_165]— — —[ln_165]].[].ι [para]]. ] ].ων ]κα[ln_170][para]]ο̣ν [para]]υν — —[ln_172]]των ] [para]]ωc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 98",
+      "text": "[ln_175]]c̣ ][ln_176]— —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 99.1",
+      "text": "cαβύττουc· κουρᾶc εἶδόc τι· Εὔπολιc ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 99.2",
+      "text": "Χρυcῶι Γένει· καὶ κ̣αρα̣..η̣c̣ ὡ̣c̣ ἔμ’ ἦλθεc ἐξυρημένοc cαβύττουc[ln_4]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 100.1",
+      "text": "τὸ ῥιψάcπι‐ δοc ἀφ’ οὗ φη(cιν) Εὔπολιc ῥιψάcπιδόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 100.2",
+      "text": "τε χεῖ‐ ρα τὴν Κλεωνύμου[ln_3]‵—′",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dum-ae",
+      "title": {
+        "english": "Athenian Life Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-life-fragments-dum-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/life-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/life-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/life-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/life-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/life-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dum-aa",
+      "title": {
+        "english": "Comic Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "eupolis-of-athens-comic-rural-life-dum-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ac",
+      "title": {
+        "english": "Fragments on Athenian Society",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Κοινωνίας"
+      },
+      "url_slug": "eupolis-of-athens-fragments-society-dum-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/fragments-society",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/fragments-society.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/fragments-society.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/fragments-society.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/fragments-society.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "eds-ab",
+      "title": {
+        "english": "Fragments of a Naval Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+      },
+      "url_slug": "demetrius-the-comic-poet-naval-comedy-ab-eds-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.json"
+      }
+    },
+    {
+      "eul_wid": "efq-aa",
+      "title": {
+        "english": "Fragments on Adonis and Cinyras",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου"
+      },
+      "url_slug": "plato-the-comic-poet-adonis-cinyras-efq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/adonis-cinyras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ab",
+      "title": {
+        "english": "Fragments on Cinyras and Adonis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος"
+      },
+      "url_slug": "plato-the-comic-poet-cinyras-adonis-efq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/cinyras-adonis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.json"
+      }
+    },
+    {
+      "eul_wid": "dxy-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "pherecrates-the-comic-poet-daily-life-dxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "djs-aa",
+      "title": {
+        "english": "Fragments on Gods and Time",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θεῶν καὶ Χρόνου"
+      },
+      "url_slug": "hermippus-the-comic-poet-gods-time-djs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermippus-the-comic-poet/gods-time",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/gods-time.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/gods-time.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/gods-time.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermippus-the-comic-poet/gods-time.json"
+      }
+    },
+    {
+      "eul_wid": "hps-al",
+      "title": {
+        "english": "Girl with Her Hair Cut Short",
+        "ancient_greek": "Ἡ Κομψικεκαρμένη"
+      },
+      "url_slug": "menander-of-athens-girl-with-her-hair-cut-short-hps-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/girl-with-her-hair-cut-short",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bf",
+      "title": {
+        "english": "Menander's Comedic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-comedic-fragments-hps-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/comedic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ao",
+      "title": {
+        "english": "Wealth",
+        "ancient_greek": "Πλοῦτος"
+      },
+      "url_slug": "aristophanes-of-athens-wealth-daw-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/wealth.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eupolis-of-athens/politicians",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

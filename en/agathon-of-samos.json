@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dca",
+  "auth_slug": "agathon-of-samos",
+  "name": {
+    "english": "Agathon of Samos",
+    "ancient_greek": "Ἀγάθων ὁ Σάμιος"
+  },
+  "seo_h1": "Agathon of Samos on Scythian and Egyptian History",
+  "seo": {
+    "browser_title": "Agathon of Samos Greek Historian on Eulogikon Archive",
+    "meta_title": "Classical Agathon of Samos Ancient Greek Historical Works",
+    "meta_description": "Agathon of Samos was a 5th century BCE historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agathon of Samos was a 5th-century BCE historian from the island of Samos. No details of his life or education survive beyond this origin.</p>\n<p class=\"research-text\">His only known work is <strong>On Siphnos</strong>, a historical account of the island of Siphnos. The text is lost, preserved only in fragmentary citations by later authors such as Athenaeus.</p>\n<p class=\"research-text\">Agathon’s significance rests on his place among the early Greek local historians, or horographers, who documented regional myths and antiquities. His fragments contribute to the fragmentary record of Greek historiography preceding Herodotus and Thucydides.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dca-aa",
+      "title": {
+        "english": "Scythian and Egyptian Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathon-of-samos-scythian-egyptian-histories-dca-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/agathon-of-samos/scythian-egyptian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agathon-of-samos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-samos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-samos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-samos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-samos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

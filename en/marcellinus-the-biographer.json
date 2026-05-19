@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vmc",
+  "auth_slug": "marcellinus-the-biographer",
+  "name": {
+    "english": "Marcellinus the Biographer",
+    "ancient_greek": "Μαρκελλῖνος ὁ Βιογράφος"
+  },
+  "seo_h1": "Marcellinus the Biographer and the Life of Thucydides",
+  "seo": {
+    "browser_title": "Marcellinus the Biographer on Eulogikon Greek Archive",
+    "meta_title": "Marcellinus the Biographer Ancient Greek Biography",
+    "meta_description": "Marcellinus the Biographer, a 6th century Byzantine writer. His work is a biography of Thucydides. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Marcellinus the Biographer was a 6th-century CE author writing in Byzantine Greek. His identity remains uncertain due to frequent conflation with other late antique figures named Marcellinus, such as the chronicler Marcellinus Comes and a grammarian who wrote on Hermogenes. The Suda identifies a rhetor named Marcellinus as the author of a life of Thucydides, though this may itself combine multiple individuals. His specific location and background are unknown.</p>\n<p class=\"research-text\">His sole surviving work is the Life of Thucydides, a biography and critical introduction intended to precede editions of the historian’s history. The significance of Marcellinus lies in this biographical essay, which is a key source for the ancient reception of Thucydides. It blends biography with analysis of his style and methodology, reflecting the scholarly prolegomena used in late antique and Byzantine education.</p>\n<p class=\"research-text\">The work is a valuable document for understanding how classical historians were studied in the Byzantine era, while the confusion surrounding its author exemplifies the challenges of distinguishing homonymous figures in late antique textual transmission.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "vmc-aa",
+      "title": {
+        "english": "Life of Thucydides",
+        "ancient_greek": "Βίος Θουκυδίδου"
+      },
+      "url_slug": "marcellinus-the-biographer-life-of-thucydides-vmc-aa",
+      "passages": 44,
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellinus-the-biographer/life-of-thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellinus-the-biographer/life-of-thucydides.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/marcellinus-the-biographer",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcellinus-the-biographer.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcellinus-the-biographer.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcellinus-the-biographer.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/marcellinus-the-biographer.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

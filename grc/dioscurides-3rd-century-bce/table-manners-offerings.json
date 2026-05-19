@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kdm-ab",
+  "eul_aid": "kdm",
+  "author_slug": "dioscurides-3rd-century-bce",
+  "work_slug": "table-manners-offerings",
+  "url_slug": "dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab",
+  "author": {
+    "english": "Dioscurides of the 3rd c. BCE",
+    "ancient_greek": "Διοσκουρίδης"
+  },
+  "title": {
+    "english": "On Table Manners and Offerings",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On Table Manners and Offerings by Dioscurides on Eulogikon",
+    "meta_title": "On Table Manners and Offerings by Dioscurides in Greek",
+    "meta_description": "Hellenistic fragment on conduct and rituals at meals. Insight into ancient Greek social customs. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Apospasma</strong>, attributed to the 3rd-century BCE author Dioscurides, is a lost prose work on table manners and offerings. Its title, meaning &quot;extract,&quot; suggests it may have been a fragment or a short, self-contained didactic essay. The work treated themes central to Hellenistic social and ethical thought, including social etiquette and decorum during meals, the correct manner of making religious offerings, and the cultivation of civilized behavior as a component of cultural identity. The text is known only by its title and description in later catalogs; no fragments survive, though its attribution to a Hellenistic-period Dioscurides is preserved in these secondary references. While the work’s direct influence is untraceable, it exemplifies the Hellenistic period&#x27;s production of specialized literature codifying daily life and social piety, participating in a long tradition of Greco-Roman writing on dining etiquette that informed later social thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3bis",
+      "text": "EUSTATH. Hom. Od. t 92: [‘... ἀναμάξεισ‘] Παυσανίας (α 134 Erbse) δέ φησιν ὅτι ‘ἀπομαγδαλιὰ‘ σταῖς, ὃ ἔφερον ἐπὶ τὸ δεῖπνον, εἰς ὃ τὰς χεῖρας ἀποματτόμενοι εἶτα κυσὶν ἔβαλλον· διὸ ‘κυνά〈δα〉‘, φησί, τὸ τοιοῦτον Διοσκουρίδης προσαγορεύει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kdm-aa",
+      "title": {
+        "english": "Fragments on Spartan Constitution",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακεδαιμονίων Πολιτείας"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-spartan-constitution-kdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/spartan-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fvy-aa",
+      "title": {
+        "english": "Atthid Fragments on Athenian Lore",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναϊκῶν Παραδόσεων"
+      },
+      "url_slug": "phanodemus-of-athens-atthid-lore-fvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phanodemus-of-athens/atthid-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodemus-of-athens/atthid-lore.json"
+      }
+    },
+    {
+      "eul_wid": "bbs-aa",
+      "title": {
+        "english": "Fragments of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα ἀδήλου θέσεως"
+      },
+      "url_slug": "theognis-of-megara-uncertain-fragments-bbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-megara/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "csu-aa",
+      "title": {
+        "english": "Fragments on Divine Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "xenomedes-of-ceos-divine-names-csu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "nes-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timagenes-of-alexandria-historical-fragments-nes-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timagenes-of-alexandria/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagenes-of-alexandria/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aq",
+      "title": {
+        "english": "Libyan",
+        "ancient_greek": "Λιβυκή"
+      },
+      "url_slug": "appian-of-alexandria-libyan-pdc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/libyan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.json"
+      }
+    },
+    {
+      "eul_wid": "hlm-aa",
+      "title": {
+        "english": "Naxian Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aglaosthenes-naxius-mythological-fragments-hlm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaosthenes-naxius/mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaosthenes-naxius/mythological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaosthenes-naxius/mythological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaosthenes-naxius/mythological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaosthenes-naxius/mythological-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mey-aa",
+      "title": {
+        "english": "On Heraclea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callistratus-of-heraclea-on-heraclea-mey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callistratus-of-heraclea/on-heraclea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.json"
+      }
+    },
+    {
+      "eul_wid": "lrw-aa",
+      "title": {
+        "english": "Rhodian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-rhodes-historical-fragments-lrw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-rhodes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

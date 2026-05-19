@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ofq",
+  "auth_slug": "josephus",
+  "name": {
+    "english": "Josephus the Historian",
+    "ancient_greek": "Ἰώσηπος ὁ ἱστορικός"
+  },
+  "seo_h1": "Jewish War and Antiquities in Josephus the Historian",
+  "seo": {
+    "browser_title": "The Josephus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Josephus the Historian Ancient Greek Historical Works",
+    "meta_description": "Josephus, a first-century Roman-era historian writing in Koine Greek. Surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Flavius Josephus was a Jewish priest, military commander, and historian. He was born Yosef ben Matityahu in 37 CE and died around 100 CE. During the First Jewish-Roman War, which began in 66 CE, he commanded Jewish forces in Galilee. After his surrender to the Romans, he prophesied that the Roman general Vespasian would become emperor. When this prophecy was fulfilled, Josephus was spared, granted Roman citizenship, and became a client of the Flavian dynasty, adopting the name Flavius Josephus. He spent the remainder of his life in Rome under imperial patronage, writing historical works that interpreted Jewish history for a Greco-Roman audience.</p>\n<p class=\"research-text\">Four of his works, composed in Koine Greek prose, survive. The Jewish War is a history of the revolt of 66–73 CE. Jewish Antiquities is a twenty-volume history of the Jewish people from the creation of the world to the year 66 CE. Life is an autobiographical text defending his conduct during the war in Galilee. Against Apion is an apologetic work defending the antiquity and value of Jewish law and culture.</p>\n<p class=\"research-text\">Josephus is the principal literary source for Jewish history in the late Second Temple period and for the First Jewish-Roman War. His writings preserve crucial information on historical events, cultural practices, and Jewish sects of the time. They also provide important external testimony for several figures mentioned in the New Testament. His body of work served as a foundational bridge between Jewish tradition and Greco-Roman historiography.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "ofq-ad",
+      "title": {
+        "english": "Jewish Antiquities",
+        "ancient_greek": "Ἰουδαϊκὴ ἀρχαιολογία"
+      },
+      "url_slug": "josephus-antiquities-ofq-ad",
+      "passages": 5548,
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-aa",
+      "title": {
+        "english": "Jewish War-the Romans",
+        "ancient_greek": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους"
+      },
+      "url_slug": "josephus-jewish-war-ofq-aa",
+      "passages": 2757,
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/jewish-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-ac",
+      "title": {
+        "english": "Josephus' Life",
+        "ancient_greek": "Ἰωσήπου βίος"
+      },
+      "url_slug": "josephus-josephus-life-ofq-ac",
+      "passages": 352,
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/josephus-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/josephus-life.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-ab",
+      "title": {
+        "english": "On the Antiquity of the Jews",
+        "ancient_greek": "περὶ ἀρχαιότητος Ἰουδαίων"
+      },
+      "url_slug": "josephus-antiquity-jews-ofq-ab",
+      "passages": 466,
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/antiquity-jews",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquity-jews.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquity-jews.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquity-jews.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquity-jews.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/josephus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/josephus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/josephus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/josephus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/josephus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fnm",
+  "auth_slug": "nicocles-of-salamis",
+  "name": {
+    "english": "Nicocles of Salamis",
+    "ancient_greek": "Νικοκλῆς ὁ Σαλαμίνιος"
+  },
+  "seo_h1": "Nicocles of Salamis on Spartan Customs",
+  "seo": {
+    "browser_title": "Nicocles of Salamis on Eulogikon Greek Archive Collection",
+    "meta_title": "Nicocles of Salamis Ancient Greek Historical Works",
+    "meta_description": "Nicocles of Salamis, a 4th century BCE historian. His surviving works are preserved as fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Nicocles of Salamis was a 4th-century BCE king of Salamis on Cyprus, succeeding his father Evagoras I around 374/373 BCE. A client ruler under Persian authority, he is known principally through the Athenian orator Isocrates, who addressed two treatises to him presenting Nicocles as a model of virtuous kingship. He continued his father’s philhellenic policies and was assassinated around 353/352 BCE.</p>\n<p class=\"research-text\">He is credited with authoring a History of Cyprus, a lost local history surviving only in fragments. Cited by later authors like Athenaeus, it represents an early example of Greek horography focused on a single region. Nicocles is significant both as a historical figure embodying the blend of Persian political control and Greek cultural influence in Cyprus and as an author. His lost work provided an early non-mainland perspective on Cypriot mythology and antiquities, contributing to the development of regional history writing.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fnm-aa",
+      "title": {
+        "english": "Fragments on Spartan Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν"
+      },
+      "url_slug": "nicocles-of-salamis-spartan-customs-fnm-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/nicocles-of-salamis/spartan-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocles-of-salamis/spartan-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocles-of-salamis/spartan-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocles-of-salamis/spartan-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicocles-of-salamis/spartan-customs.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/nicocles-of-salamis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicocles-of-salamis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicocles-of-salamis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicocles-of-salamis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/nicocles-of-salamis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

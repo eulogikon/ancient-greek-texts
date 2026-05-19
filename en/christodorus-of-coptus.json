@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "utg",
+  "auth_slug": "christodorus-of-coptus",
+  "name": {
+    "english": "Christodorus of Coptus",
+    "ancient_greek": "Χριστόδωρος ὁ Κόπτιος"
+  },
+  "seo_h1": "Christodorus of Coptus and the Epic of Anastasius",
+  "seo": {
+    "browser_title": "Christodorus of Coptus on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Christodorus of Coptus Ancient Greek Epic Works",
+    "meta_description": "Christodorus of Coptus was a late antique epic poet writing in Homeric dialect. Three works survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Christodorus of Coptus was a Greek epic poet active during the reign of the Byzantine emperor Anastasius I. A native of Coptus in Upper Egypt, he later worked in Constantinople. The 10th-century encyclopedia Suda records that he was the son of Paniscus and authored an epic, the Isaurica, on Anastasius&#x27;s war against the Isaurians, firmly placing his floruit in the late 5th and early 6th centuries CE.</p>\n<p class=\"research-text\">His known works include the lost six-book epic Isaurica and a lost collection of hexameter poems on various cities titled Patria. His only surviving work is the Ekphrasis of the Statues in the Public Gymnasium of Zeuxippus, preserved in the Greek Anthology. This epyllion of 416 hexameters describes over 80 statues in the Baths of Zeuxippus in Constantinople.</p>\n<p class=\"research-text\">Christodorus is a significant representative of the late antique epic tradition. His surviving Ekphrasis provides valuable insight into the cultural landscape of early Byzantine Constantinople and stands within the important rhetorical tradition of vivid description.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "utg-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "christodorus-of-coptus-epigrams-utg-ab",
+      "passages": 438,
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "utg-ac",
+      "title": {
+        "english": "Fragments on Lydian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας"
+      },
+      "url_slug": "christodorus-of-coptus-lydia-genealogy-utg-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/lydia-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "utg-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "christodorus-of-coptus-testimony-utg-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/christodorus-of-coptus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christodorus-of-coptus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christodorus-of-coptus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christodorus-of-coptus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/christodorus-of-coptus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

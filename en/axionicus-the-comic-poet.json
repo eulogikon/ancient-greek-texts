@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gta",
+  "auth_slug": "axionicus-the-comic-poet",
+  "name": {
+    "english": "Axionicus the Comic Poet",
+    "ancient_greek": "Ἀξιόνικος ὁ Κωμικός"
+  },
+  "seo_h1": "Drunken Revelry and Feasting in Axionicus the Comic Poet",
+  "seo": {
+    "browser_title": "Axionicus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "Axionicus Ancient Greek Comedy Works and Fragments",
+    "meta_description": "Axionicus was a 4th century BCE Attic comic poet. Read his surviving comedy fragments and works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Axionicus was an Athenian comic poet of the Middle Comedy period, active in the 4th century BCE. No biographical details about his life are known. His work belongs to the era following the Peloponnesian War, when comedy transitioned from direct political satire toward more generalized social themes, literary parody, and mythological subjects.</p>\n<p class=\"research-text\">Only two of his comedies are attested by title: <strong>Phileuripides</strong> and <strong>Chalcidian</strong>. The surviving fragments of <strong>Phileuripides</strong> suggest a plot revolving around an admirer of the tragedian Euripides. All of his works exist only in fragments, preserved through quotations by later authors such as Athenaeus.</p>\n<p class=\"research-text\">Though considered a minor figure, Axionicus provides valuable evidence for the trends of Middle Comedy. His play <strong>Phileuripides</strong> exemplifies the period&#x27;s growing interest in literary parody and its movement away from overt political commentary. His inclusion in ancient lists of comic poets and the preservation of his fragments confirm his recognized place within the Athenian comic tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "gta-aa",
+      "title": {
+        "english": "Fragments on Drunken Revelry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέθης"
+      },
+      "url_slug": "axionicus-the-comic-poet-drunken-revelry-gta-aa",
+      "passages": 47,
+      "links": {
+        "html": "https://eulogikon.org/grc/axionicus-the-comic-poet/drunken-revelry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.json"
+      }
+    },
+    {
+      "eul_wid": "gta-ab",
+      "title": {
+        "english": "Fragments on Feasting and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας καὶ Μωρίας"
+      },
+      "url_slug": "axionicus-the-comic-poet-feasting-folly-gta-ab",
+      "passages": 44,
+      "links": {
+        "html": "https://eulogikon.org/grc/axionicus-the-comic-poet/feasting-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/axionicus-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/axionicus-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/axionicus-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/axionicus-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/axionicus-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

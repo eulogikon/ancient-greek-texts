@@ -1,0 +1,39 @@
+---
+title: Fragments on Proper Names
+title_greek: Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων
+author: Echephylidas the Historian
+eul_wid: kic-aa
+eul_aid: kic
+canonical: "https://eulogikon.org/grc/echephylidas-the-historian/proper-names"
+period: Hellenistic
+dialect: Koine (frg)
+domain: History
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Fragments on Proper Names
+
+*Ἀποσπάσματα περὶ Ὀνομάτων Κυρίων*
+
+**Author:** Echephylidas the Historian
+
+**eul_wid:** `kic-aa` · [HTML page](https://eulogikon.org/grc/echephylidas-the-historian/proper-names)
+
+## Text
+
+### 4b
+
+HERODIANOS Καθολικὴ προσωιδία 7, Cod. Vindob. Hist. Gr. 10 fol. 6 v . ed. H. Hunger, Jahrb. Österr. Byz. Gesellsch. 16, 1967, 10f. 17: τὰ εἰς ‘—νοσ‘ λήγοντα καθαρὸν ὑπὲρ δύο συλλαβὰς παραληγόμενα τῶι ‘υ‘ ... συνεσταλμένωι προπαροξύνεται ... ‘Ἀλάσυοσ‘ κύριον ὄνομα Ἐχεφυλίδης Ἠλιακοῖ ς · ‘ Ἀλ{λ}άσυος μὲν Ἱππονόην τοῦ πρότερον ἔχοντος .. .‘ THEOGNOST. Κανόνες 286 Anecd. Oxon. 2, 51, 22 Cramer (vgl. ‘Herodian.‘ I 127, 26 Lentz): τὰ διὰ τοῦ ‘—υοσ‘ καθαροῦ ὑπὲρ δύο συλλαβὰς κύρια προπαροξύτονα διὰ τοῦ ‘υ‘ ψιλοῦ γράφονται, οἷον ... ‘Κάνδυοσ‘, ‘Ἀλάσυοσ‘, ‘Φόγγυοσ‘ ...
+
+### 5a.(l1)
+
+HERODIANOS Καθολικὴ προσωιδία 7, Cod. Vindob. Hist. Gr. 10 fol. 7 r . ed. H. Hunger, Jahrb. Österr. Byz. Gesellsch. 16, 1967, 11. 26: (Margin.: περὶ τῶν εἰς ‘—ανοσ‘ δισυλλάβων ἐπιθετικῶν ἢ προσηγορικῶν ἐχόντων ἀντιδιαστολήν) ... ‘φανόσ‘ ... Ἐχεφυλίδης ...
+
+### 5b
+
+‘HERODIANOS‘ Π. καθολ. προσωιδίας I 175, 31 Lentz: τὰ μέντοι ἐπι θετικὰ ἢ προσηγορικὰ ἔχοντα διαστολὴν ὀξύνεται· ‘φανόσ‘.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: kic-aa`.

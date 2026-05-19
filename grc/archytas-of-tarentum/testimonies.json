@@ -1,0 +1,407 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "faa-aa",
+  "eul_aid": "faa",
+  "author_slug": "archytas-of-tarentum",
+  "work_slug": "testimonies",
+  "url_slug": "archytas-of-tarentum-testimonies-faa-aa",
+  "author": {
+    "english": "Archytas of Tarentum",
+    "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies of Archytas of Tarentum by Archytas on Eulogikon",
+    "meta_title": "Testimonies of Archytas by Archytas in Ancient Greek",
+    "meta_description": "Testimonies collects fragments about Archytas of Tarentum and Pythagorean mathematical doctrines. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a modern scholarly compilation of fragments and reports concerning the Pythagorean philosopher Archytas of Tarentum. It is not an ancient work with this title but a collection of references, quotations from his lost works, and doctrinal summaries preserved by later ancient authors. The standard collection appears in Diels and Kranz’s <strong>Die Fragmente der Vorsokratiker</strong>, which organizes the material into testimonia about his life and genuine fragments. The assembled evidence highlights Archytas’s contributions to several fields. He is renowned for solving the problem of doubling the cube and for his work in harmonics and acoustics, where he analyzed musical intervals mathematically and studied the physics of sound. In philosophy, he applied mathematical principles to topics such as definition and causation. He is also credited with mechanical inventions, such as a mechanical dove. No complete works by Archytas survive. All extant material is transmitted indirectly through later sources like Aristotle, Diogenes Laertius, and Ptolemy. The authenticity of the more extensive philosophical fragments is debated, with some scholars considering them later forgeries, while the biographical testimonia are generally considered reliable. Archytas was a major figure in the Pythagorean tradition whose mathematical work was highly respected. His friendship with Plato and his role as a statesman in Tarentum made him an exemplar of the philosopher-king ideal. His mathematical approach to harmonics influenced later thinkers, and his legacy endured through the Renaissance as a pioneering scientist-engineer.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG. VIII 79 Ἀρχύτας Μνησαγόρου Ταραντῖνος, ὡς δὲ Ἀριστόξενος [fr. 13 FHG II 275 vgl. A 7. 9] Ἑστιαίου, Πυθαγορικὸς καὶ αὐτός. οὗτός ἐστιν ὁ Πλάτωνα ῥυσάμενος δι’ ἐπιστολῆς παρὰ Διονυσίου μέλλοντα ἀναιρεῖσθαι. ἐθαυμάζετο δὲ καὶ παρὰ τοῖς πολλοῖς ἐπὶ πάσηι ἀρετῆι· καὶ δὴ ἑπτάκις πολιτῶν ἐστρατήγησε, τῶν ἄλλων μὴ πλέον ἐνιαυτοῦ στρατηγούντων διὰ τὸ κωλύειν τὸν νόμον. πρὸς τοῦτον καὶ Πλάτων γέγραφεν ἐπιστολὰς δύο, ἐπειδήπερ αὐτῶι πρότερος γεγράφει τοῦτον τὸν τρόπον. γεγόνασι δὲ Ἀρχῦται τέτταρες· πρῶτος αὐτὸς οὗτος, δεύτερος Μιτυληναῖος μουσικός, τρίτος Περὶ γεωργίας συγγεγραφώς, τέταρτος ἐπιγραμματοποιός. ἔνιοι καὶ πέμπτον ἀρχιτέκτονά φασιν, οὗ φέρεται βιβλίον Περὶ μηχανῆς ἀρχὴν ἔχον ταύτην· ‘τάδε περὶ Τεύκρου Καρχηδονίου διήκουσα‘. (περὶ δὲ τοῦ μουσικοῦ φέρεται καὶ τόδε, ὡς ὀνειδιζόμενος ἐπὶ τῶι μὴ ἐξακούεσθαι εἴποι· ‘τὸ γὰρ ὄργανον ὑπὲρ ἐμοῦ διαγωνιζόμενον λαλεῖ‘.) τὸν δὲ Πυθαγορικὸν Ἀριστόξενός φησι [fr. 14] μηδέποτε στρατηγοῦντα ἡττηθῆναι· φθονούμενον δ’ ἅπαξ ἐκχωρῆσαι τῆς στρατηγίας, καὶ τοὺς αὐτίκα ληφθῆναι. οὗτος πρῶτος τὰ μηχανικὰ ταῖς μαθηματικαῖς προσχρησάμενος ἀρχαῖς μεθώδευσε καὶ πρῶτος κίνησιν ὀργανικὴν διαγράμματι γεωμετρικῶι προσήγαγε, διὰ τῆς τομῆς τοῦ ἡμικυλίνδρου δύο μέσας ἀνὰ λόγον λαβεῖν ζητῶν εἰς τὸν τοῦ κύβου διπλασιασμόν. κἀν γεωμετρίαι πρῶτος κύβον εὗρεν, ὥς φησι Πλάτων ἐν Πολιτείαι [VII 528 B ?].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "SUIDAS Ἀρχύτας Ταραντῖνος Ἑστιαίου υἱὸς ἢ Μνησάρχου ἢ Μνασαγέτου ἢ Μνασαγόρου, φιλόσοφος Πυθαγορικός. οὗτος Πλάτωνα ἔσωσε μὴ φονευθῆναι ὑπὸ Διονυσίου τοῦ τυράννου. τοῦ κοινοῦ δὲ τῶν Ἰταλιωτῶν προέστη, στρατηγὸς αἱρεθεὶς αὐτοκράτωρ ὑπὸ τῶν πολιτῶν καὶ τῶν περὶ ἐκεῖνον τὸν τόπον Ἑλλήνων. ἅμα δὲ καὶ φιλοσοφίαν ἐκπαιδεύων μαθητάς τ’ ἐνδόξους ἔσχε καὶ βιβλία συνέγραψε πολλά. τοῦτον φανερῶς γενέσθαι διδάσκαλον Ἐμπεδοκλέους (!). καὶ παροιμία ‘Ἀρχύτου πλαταγή‘, ὅτι Ἀ. πλαταγὴν εὗρεν ἥτις ἐστὶν εἶδος ὀργάνου ἦχον καὶ ψόφον ἀποτελοῦντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "HORAT. c. I 28 te maris et terrae numeroque carentis arenae mensorem cohibent, Archyta, pulveris exigui prope litus parva Matinum munera, nec quicquam tibi prodest aerias temptasse domos animoque rotundum percurrisse polum morituro. occidit et Pelopis genitor, conviva deorum, Tithonusque remotus in auras et Iovis arcanis Minos admissus, habentque Tartara Panthoiden iterum Orco demissum, quamvis clipeo Troiana refixo tempora testatus nihil ultra nervos atque cutem morti concesserat atrae iudice te non sordidus auctor naturae verique. sed omnis una manet nox, et calcanda semel via leti.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "STRABO VI p. 280 ἴσχυσαν δέ ποτε οἱ Ταραντῖνοι καθ’ ὑπερβολὴν πολιτευόμενοι δημοκρατικῶς ... ἀπεδέξαντο δὲ καὶ τὴν Πυθαγόρειον φιλοσοφίαν, διαφερόντως δ’ Ἀ. ὃς καὶ προέστη τῆς πόλεως πολὺν χρόνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "PLATO Ep. VII p. 338 C ὅμως δ’ οὖν ἀσφαλέστερόν μοι ἔδοξε χαίρειν τότε γε πολλὰ καὶ Δίωνα καὶ Διονύσιον ἐᾶν καὶ ἀπηχθόμην ἀμφοῖν ἀποκρινάμενος ὅτι γέρων τε εἴην καὶ κατὰ τὰς ὁμολογίας οὐδὲν γίγνοιτο τῶν τὰ νῦν πραττομένων. ἔοικε δὴ τὸ μετὰ τοῦτο Ἀρχύτης τε παρὰ Διονύσιον ἀφικέσθαι· ἐγὼ γὰρ πρὶν ἀπιέναι ξενίαν καὶ φιλίαν Ἀρχύτηι καὶ τοῖς ἐν Τάραντι καὶ Διονυσίωι ποιήσας ἀπέπλεον ... 339A ἔπεμψε μὲν γὰρ δὴ Διονύσιος τρίτον ἐπ’ ἐμὲ τριήρη ῥαιστώνης ἕνεκα τῆς πορείας, ἔπεμψε δὲ Ἀρχέδημον, ὃν ἡγεῖτό με τῶν ἐν Σικελίαι περὶ πλείστου ποιεῖσθαι τῶν Ἀρχύτηι ξυγγεγονότων ἕνα καὶ ἄλλους γνωρίμους τῶν ἐν Σικελίαι ... ἐπιστολαὶ δὲ ἄλλαι ἐφοίτων παρά τε Ἀρχύτου καὶ τῶν ἐν Τάραντι τήν τε φιλοσοφίαν ἐγκωμιάζουσαι τὴν Διονυσίου, καὶ ὅτι, ἂν μὴ ἀφίκωμαι νῦν, τὴν πρὸς Διονύσιον αὐτοῖς γενομένην φιλίαν δι’ ἐμοῦ οὐ σμικρὰν οὖσαν πρὸς τὰ πολιτικὰ παντάπασι διαβαλοίην. 340A πορεύομαι δὴ ... πολλὰ δεδιὼς μαντευόμενός τε οὐ πάνυ καλῶς. 350A προσιόντες δέ μοι ἄλλοι τε καὶ οἱ τῶν ὑπηρεσιῶν ὄντες Ἀθήνηθεν ἐμοὶ πολῖται ἀπήγγελλον ὅτι διαβεβλημένος εἴην ἐν τοῖς πελτασταῖς καί μοί τινες ἀπειλοῖεν, εἴ που λήψονταί με, διαφθερεῖν. μηχανῶμαι δή τινα τοιάνδε σωτηρίαν· πέμπω παρ’ Ἀρχύτην καὶ τοὺς ἄλλους φίλους εἰς Τάραντα, φράζων ἐν οἷς ὢν τυγχάνω. οἱ δὲ πρόφασίν τινα πρεσβείας πορισάμενοι παρὰ τῆς πόλεως πέμπουσι τριακόντορόν τε καὶ Λαμίσκον αὑτῶν ἕνα, ὃς ἐλθὼν ἐδεῖτο Διονυσίου περὶ ἐμοῦ λέγων, ὅτι βουλοίμην ἀπιέναι καὶ μηδαμῶς ἄλλως ποιεῖν· ὁ δὲ ξυνωμολόγησε καὶ ἀπέπεμψεν ἐφόδια δούς ... ἐλθὼν δὲ εἰς Πελοπόννησον εἰς Ὀλυμπίαν [Ol. 105. 360] Δίωνα καταλαβὼν θεωροῦντα ἤγγελλον τὰ γεγονότα. CIC. de rep. I 10, 16 audisse te credo, Tubero, Platonem Socrate mortuo primum in Aegyptum discendi causa, post in Italiam et in Siciliam contendisse, ut Pythagorae inventa perdisceret, eumque et cum Archyta Tarentino et cum Timaeo Locro multum fuisse et Philoleo commentarios esse nanctum. [ DEMOSTH.] Erotic. or. 61 § 46 ... Ἀρχύταν τὴν Ταραντίνων πόλιν οὕτω καλῶς καὶ φιλανθρώπως διοικήσαντα καὶ κύριον αὐτῆς καταστάντα, ὥστ’ εἰς ἅπαντας τὴν ἐκείνου μνήμην διενεγκεῖν· ὃς ἐν ἀρχῆι καταφρονούμενος ἐκ τοῦ Πλάτωνι πλησιάσαι τοσαύτην ἔλαβεν ἐπίδοσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "PROCL. in Eucl. prol. II 66, 14 ἐν δὲ τούτωι τῶι χρόνωι καὶ Λεωδάμας ὁ Θάσιος ἦν καὶ Ἀ. ὁ Ταραντῖνος καὶ Θεαίτητος ὁ Ἀθηναῖος, παρ’ ὧν ἐπηυξήθη τὰ θεωρήματα καὶ προῆλθεν εἰς ἐπιστημονικωτέραν σύστασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "IAMBL. V. P. 197 Σπίνθαρος γοῦν διηγεῖτο πολλάκις περὶ Ἀρχύτου 〈τοῦ〉 Ταραντίνου ὅτι διὰ χρόνου (τινὸς) εἰς ἀγρὸν ἀφικόμενος ἐκ στρατείας νεωστὶ παραγεγονώς, ἣν ἐστρατεύσατο ἡ πόλις εἰς Μεσσαπίους, ὡς εἶδε τόν τε ἐπίτροπον καὶ τοὺς ἄλλους οἰκέτας οὐκ εὖ τῶν περὶ τὴν γεωργίαν ἐπιμέλειαν πεποιημένους, ἀλλὰ μεγάληι τινὶ κεχρημένους ὀλιγωρίας ὑπερβολῆι, ὀργισθείς τε καὶ ἀγανακτήσας οὕτως, ὡς ἂν ἐκεῖνος, εἶπεν, ὡς ἔοικε (?), πρὸς τοὺς οἰκέτας, ὅτι εὐτυχοῦσιν, ὅτι αὐτοῖς ὤργισται· εἰ γὰρ μὴ τοῦτο συμβεβηκὸς ἦν, οὐκ ἄν ποτε αὐτοὺς ἀθώιους γενέσθαι τηλικαῦτα ἡμαρτηκότας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "ATHEN. XII 519 B καὶ Ἀθηνόδωρος δὲ ἐν τῶι Περὶ σπουδῆς καὶ παιδιᾶς Ἀρχύτην φησὶ τὸν Ταραντῖνον πολιτικὸν ἅμα καὶ φιλόσοφον γενόμενον πλείστους οἰκέτας ἔχοντα αἰεὶ τούτοις παρὰ τὴν δίαιταν ἀφιεμένοις εἰς τὸ συμπόσιον ἥδεσθαι· AEL. V. H. XII 15 ἀλλὰ καὶ Ἀ. ὁ Ταραντῖνος πολιτικός τε καὶ φιλόσοφος ἀνὴρ γενόμενος πολλοὺς ἔχων οἰκέτας τοῖς αὐτῶν παιδίοις πάνυ σφόδρα ἐτέρπετο μετὰ τῶν οἰκοτρίβων παίζων· μάλιστα δὲ ἐφίλει τέρπεσθαι αὐτοῖς ἐν τοῖς συμποσίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ATHEN. XII 545A Ἀριστόξενος δ’ ὁ μουσικὸς ἐν τῶι Ἀρχύτα βίωι [fr. 15 FHG II 276] ἀφικέσθαι φησὶ παρὰ Διονυσίου τοῦ νεωτέρου πρεσβευτὰς πρὸς τὴν Ταραντίνων πόλιν, ἐν οἷς εἶναι καὶ Πολύαρχον τὸν Ἡδυπαθῆ ἐπικαλούμενον, ἄνδρα περὶ τὰς σωματικὰς ἡδονὰς ἐσπουδακότα καὶ οὐ μόνον τῶι ἔργωι ἀλλὰ καὶ τῶι λόγωι. ὄντα δὲ γνώριμον τῶι Ἀρχύται καὶ φιλοσοφίας οὐ παντελῶς ἀλλότριον ἀπαντᾶν εἰς τὰ τεμένη καὶ συμπεριπατεῖν τοῖς περὶ τὸν Ἀρχύταν ἀκροώμενον τῶν λόγων. ἐμπεσούσης δέ ποτε ἀπορίας καὶ σκέψεως περί τε τῶν ἐπιθυμιῶν καὶ τὸ σύνολον περὶ τῶν σωματικῶν ἡδονῶν ἔφη ὁ Πολύαρχος κτλ. CIC. Cat. m. 12, 39 accipite enim, optimi adulescentes, veterem orationem Archytae Tarentini, magni inprimis et praeclari viri, quae mihi tradita est, cum essem adulescens Tarenti cum Q. Maximo. nullam capitaliorem pestem quam voluptatem corporis hominibus dicebat a natura datam, cuius voluptatis avidae libidines temere et ecfrenate ad potiendum incitarentur. (40) hinc patriae proditiones, hinc rerum publicarum eversiones, hinc cum hostibus clandestina colloquia nasci; nullum denique scelus, nullum malum facinus esse, ad quod suscipiendum non libido voluptatis inpelleret: stupra vero et adulteria et omne tale flagitium nullis excitari aliis inlecebris nisi voluptatis. cumque homini sive natura sive quis deus nihil mente praestabilius dedisset, huic divino muneri ac dono nihil tam esse inimicum quam voluptatem. (41) nec enim libidine dominante temperantiae locum esse neque omnino in voluptatis regno virtutem posse consistere. quod quo magis intellegi posset, fingere animo iubebat tanta incitatum aliquem voluptate corporis quanta percipi posset maxima: nemini censebat fore dubium quin tam diu, dum ita gauderet, nihil agitare mente, nihil ratione, nihil cogitatione consequi posset. quocirca nihil esse tam detestabile tamque pestiferum quam voluptatem, si quidem ea, cum maior esset atque longior, omne animi lumen extingueret. haec cum C. Pontio Samnite patre eius, a quo Caudino proelio Sp. Postumius T. Veturius consules [321] superati sunt, locutum Archytam Nearchus Tarentinus, hospes noster, qui in amicitia populi Romani permanserat, se a maioribus natu accepisse dicebat, cum quidem ei sermoni interfuisset Plato Atheniensis, quem Tarentum venisse L. Camillo Appio Claudio consulibus [349!] reperio.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ARISTOT. Pol. Θ 6. 1340b 26 καὶ τὴν Ἀρχύτου πλαταγὴν οἴεσθαι γενέσθαι καλῶς, ἣν διδόασι τοῖς παιδίοις ὅπως χρώμενοι ταύτηι μηδὲν καταγνύωσι τῶν κατὰ τὴν οἰκίαν· οὐ γὰρ δύναται τὸ νέον ἡσυχάζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10a",
+      "text": "GELL. X 12, 8 sed id, quod Archytam Pythagoricum commentum esse atque fecisse traditur, neque minus admirabile neque tamen vanum aeque videri debet. nam et plerique nobilium Graecorum et Favorinus philosophus, memoriarum antiquarum exsequentissimus, affirmatissime scripserunt simulacrum columbae e ligno ab Archyta ratione quadam disciplinaque mechanica factum volasse; ita erat scilicet libramentis suspensum et aura spiritus inclusa atque occulta concitum. libet hercle super re tam abhorrenti a fide ipsius Favorini verba ponere (fr. 62 Marres): Ἀ. Ταραντῖνος τὰ ἄλλα καὶ μηχανικὸς ὢν ἐποίησεν περιστερὰν ξυλίνην πετομένην, 〈ἣν〉 ὁπότε καθίσειεν, οὐκέτι ἀνίστατο. μέχρι γὰρ τούτου ***",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "AELIAN. V. H. XIV 19 Ἀ. τά τε ἄλλα ἦν σώφρων καὶ οὖν καὶ τὰ ἄκοσμα ἐφυλάττετο τῶν ὀνομάτων. ἐπεὶ δέ ποτε ἐβιάζετό τι εἰπεῖν τῶν ἀπρεπῶν, οὐκ ἐξενικήθη, ἀλλ’ ἐσιώπησε μὲν αὐτό, ἐπέγραψε δὲ κατὰ τοῦ τοίχου, δείξας μὲν ὃ εἰπεῖν ἐβιάζετο, οὐ μὴν βιασθεὶς εἰπεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ARISTOT. Rhet. Γ 11. 1412a 12 Ἀ. ἔφη ταὐτὸν εἶναι διαιτητὴν καὶ βωμόν· ἐπ’ ἄμφω γὰρ τὸ ἀδικούμενον καταφεύγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "HESYCH. Katalog der Aristotelischen Schriften [Rose 2 14 n. 83]: περὶ τῆς Ἀρχύτου φιλοσοφίας γ , n. 85 ἐκ τῶν Τιμαίου καὶ Ἀρχύτου α . DIOG. v 25 [R. 6 n. 92] περὶ τῆς Ἀρχυτείου φιλοσοφίας α β γ . Vgl. Damasc. de princ. II 172, 20 Ruelle Ἀριστοτέλης δὲ ἐν τοῖς Ἀρχυτείοις [fr. 207 R.] ἱστορεῖ καὶ Πυθαγόραν ἄλλο τὴν ὕλην καλεῖν ὡς ῥευστὴ καὶ ἀεὶ ἄλλο 〈καὶ ἄλλο〉 γιγνόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "EUTOC. in Archim. sphaer. et cyl. II (III 2 84 Heib.) ἡ Ἀρχύτου εὕρεσις, ὡς Εὔδημος [fr. 90 Speng.] ἱστορεῖ. Ἔστωσαν αἱ δοθεῖσαι δύο εὐθεῖαι αἱ ΑΔ, Γ. δεῖ δὴ τῶν ΑΔ, Γ δύο μέσας ἀνὰ λόγον εὑρεῖν. γεγράφθω περὶ τὴν μείζονα τὴν ΑΔ κύκλος ὁ ΑΒΔΖ, καὶ τῆι Γ ἴση ἐνηρμόσθω ἡ ΑΒ, καὶ ἐκβληθεῖσα συμπιπτέτω τῆι ἀπὸ τοῦ Δ ἐφαπτομένηι τοῦ κύκλου κατὰ τὸ Π. παρὰ δὲ τὴν ΠΔΟ ἤχθω ἡ ΒΕΖ, καὶ νενοήσθω ἡμικυλίνδριον ὀρθὸν ἐπὶ τοῦ ΑΒΔ ἡμικυκλίου, ἐπὶ δὲ τῆς ΑΔ ἡμικύκλιον ὀρθὸν ἐν τῶι τοῦ ἡμικυλινδρίου παραλληλογράμμωι κείμενον, τοῦτο δὴ τὸ ἡμικύκλιον περιαγόμενον ὡς ἀπὸ τοῦ Δ ἐπὶ τὸ Β μένοντος τοῦ Α πέρατος τῆς διαμέτρου τεμεῖ τὴν κυλινδρικὴν ἐπιφάνειαν ἐν τῆι περιαγωγῆι καὶ γράψει ἐν αὐτῆι γραμμήν τινα· πάλιν δέ, ἐὰν τῆς ΑΔ μενούσης τὸ ΑΠΔ τρίγωνον περιενεχθῆι τὴν ἐναντίαν τῶι ἡμικυκλίωι κίνησιν, κωνικὴν ποιήσει ἐπιφάνειαν τῆι ΑΠ εὐθείαι, ἣ δὴ περιαγομένη συμβαλεῖ τῆι κυλινδρικῆι γραμμῆι κατά τι σημεῖον· ἅμα δὲ καὶ τὸ Β περιγράψει ἡμικύκλιον ἐν τῆι τοῦ κώνου ἐπιφανείαι. ἐχέτω δὴ θέσιν κατὰ τὸν τόπον τῆς συμπτώσεως τῶν γραμμῶν τὸ μὲν κινούμενον ἡμικύκλιον ὡς τὴν τοῦ ΔʹΚΑ, τὸ δὲ ἀντιπεριαγόμενον τρίγωνον τὴν τοῦ ΔʹΛΑ, τὸ δὲ τῆς εἰρημένης συμπτώσεως σημεῖον ἔστω τὸ Κ. ἔστω δὲ καὶ τὸ διὰ τοῦ Β γραφόμενον ἡμικύκλιον τὸ ΒΜΖ, κοινὴ δὲ αὐτοῦ τομὴ καὶ τοῦ ΒΔΖΑ κύκλου ἔστω ἡ ΒΖ. καὶ ἀπὸ τοῦ Κ ἐπὶ τὸ τοῦ ΒΔΑ ἡμικυκλίου ἐπίπεδον κάθετος ἤχθω· πεσεῖται δὴ ἐπὶ τὴν τοῦ κύκλου περιφέρειαν διὰ τὸ ὀρθὸν ἑστάναι τὸν κύλινδρον. πιπτέτω καὶ ἔστω ἡ ΚΙ, καὶ ἡ ἀπὸ τοῦ Ι ἐπὶ τὸ Α ἐπιζευχθεῖσα συμβαλέτω τῆι ΒΖ κατὰ τὸ Θ, ἡ δὲ ΑΛ τῶι ΒΜΖ ἡμικυκλίωι κατὰ τὸ Μ. ἐπεζεύχθωσαν δὲ καὶ αἱ ΚΔʹ, ΜΙ, ΜΘ. ἐπεὶ οὖν ἑκάτερον τῶν ΔʹΚΑ, ΒΜΖ ἡμικυκλίων ὀρθόν ἐστι πρὸς τὸ ὑποκείμενον ἐπίπεδον, καὶ ἡ κοινὴ ἄρα αὐτῶν τομὴ ἡ ΜΘ πρὸς ὀρθάς ἐστι τῶι τοῦ κύκλου ἐπιπέδωι· ὥστε καὶ πρὸς τὴν ΒΖ ὀρθή ἐστιν ἡ ΜΘ. τὸ ἄρα ὑπὸ τῶν ΘΒ, ΘΖ, τουτέστι τὸ ὑπὸ ΘΑ, ΘΙ, ἴσον ἐστὶ τῶι ἀπὸ ΜΘ. ὅμοιον ἄρα ἐστὶ τὸ ΑΜΙ τρίγωνον ἑκατέρωι τῶν ΜΙΘ, ΜΑΘ· καὶ ὀρθὴ ἡ ὑπὸ ΙΜΑ. ἔστιν δὲ καὶ ἡ ὑπὸ ΔʹΚΑ ὀρθή. παράλληλοι ἄρα εἰσὶν αἱ ΚΔʹ, ΜΙ, καὶ ἔσται ἀνὰ λόγον ὡς ἡ ΔʹΑ πρὸς ΑΚ, τουτέστιν ἡ ΚΑ πρὸς ΑΙ, οὕτως ἡ ΙΑ πρὸς ΑΜ διὰ τὴν ὁμοιότητα τῶν τριγώνων· τέσσαρες ἄρα αἱ ΔʹΑ, ΑΚ, ΑΙ, ΑΜ ἑξῆς ἀνὰ λόγον εἰσίν. καὶ ἔστιν ἡ ΑΜ ἴση τῆι Γ, ἐπεὶ καὶ τῆι ΑΒ. δύο ἄρα δοθεισῶν τῶν ΑΔ, Γ δύο μέσαι ἀνὰ λόγον ηὕρηνται αἱ ΑΚ, ΑΙ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ERATOSTH. (Eutoc. in Archim sphaer. et cyl. II. III 112, 19 Heib.) μηδὲ σύ γ’ Ἀρχύτεω δυσμήχανα ἔργα κυλίνδρων μηδὲ Μεναιχμείους κωνοτομεῖν τριάδας διζήσηι, μηδ’ εἴ τι θεουδέος Εὐδόξοιο καμπύλον ἐν γραμμαῖς εἶδος ἀναγράφεται. Vgl. PSEUDERATOSTH. das. III 106, 1 Heib. τῶν δὲ φιλοπόνως ἐπιδιδόντων ἑαυτοὺς καὶ ζητούντων δύο τῶν δοθεισῶν δύο μέσας λαβεῖν Ἀ. μὲν ὁ Ταραντῖνος λέγεται διὰ τῶν ἡμικυλίνδρων εὑρηκέναι, Εὔδοξος δὲ διὰ τῶν καλουμένων καμπύλων γραμμῶν. συμβέβηκε δὲ πᾶσιν αὐτοῖς ἀποδεικτικῶς γεγραφέναι, χειρουργῆσαι δὲ καὶ εἰς χρείαν πεσεῖν μὴ δύνασθαι πλὴν ἐπὶ βραχύ τι τοῦ Μεναίχμου καὶ ταῦτα δυσχερῶς. PLUT. Quaest. conv. VIII 2, 1 p. 718E διὸ καὶ Πλάτων αὐτὸς ἐμέμψατο τοὺς περὶ Εὔδοξον καὶ Ἀρχύταν καὶ Μέναιχμον εἰς ὀργανικὰς καὶ μηχανικὰς κατασκευὰς τὸν τοῦ στερεοῦ διπλασιασμὸν ἀπάγειν ἐπιχειροῦντας, ὥσπερ πειρωμένους δι’ ἀλόγου δύο μέσας ἀνὰ λόγον, ἧι παρείκοι, λαβεῖν· ἀπόλλυσθαι γὰρ οὕτω καὶ διαφθείρεσθαι τὸ γεωμετρίας ἀγαθὸν αὖθις ἐπὶ τὰ αἰσθητὰ παλινδρομούσης καὶ μὴ φερομένης ἄνω μηδ’ ἀντιλαμβανομένης τῶν ἀιδίων καὶ ἀσωμάτων εἰκόνων, πρὸς αἷσπερ ὢν ὁ θεὸς ἀεὶ θεός ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "PTOLEM. Harm. I 13 p. 30, 9 Düring Ἀ. δὲ ὁ Ταραντῖνος μάλιστα τῶν Πυθαγορείων ἐπιμεληθεὶς μουσικῆς· πειρᾶται μὲν τὸ κατὰ τὸν λόγον ἀκόλουθον διασώιζειν οὐκ ἐν ταῖς συμφωνίαις μόνον ἀλλὰ καὶ ταῖς τῶν τετραχόρδων διαιρέσεσιν, ὡς οἰκείου τῆι φύσει τῶν ἐμμελῶν ὄντος τοῦ συμμέτρου τῶν ὑπεροχῶν ... τρία μὲν τοίνυν οὗτος ὑφίσταται γένη, τό τε ἐναρμόνιον καὶ τὸ χρωματικὸν καὶ τὸ διατονικόν· ἑκάστου δὲ αὐτῶν ποιεῖται τὴν διαίρεσιν οὕτως· τὸν μὲν γὰρ ἑπόμενον λόγον ἐπὶ τῶν τριῶν γενῶν τὸν αὐτὸν ὑφίσταται καὶ ἐπὶ κζ , τὸν δὲ μέσον ἐπὶ μὲν τοῦ ἐναρμονίου ἐπὶ λε , ἐπὶ δὲ τοῦ διατονικοῦ ἐπὶ ζ , ὥστε καὶ τὸν ἡγούμενον τοῦ μὲν ἐναρμονίου γένους συνάγεσθαι ἐπὶ δ , τοῦ δὲ διατονικοῦ ἐπὶ η . τὸν δὲ ἐν τῶι χρωματικῶι γένει δεύτερον ἀπὸ τοῦ ὀξυτάτου φθόγγου λαμβάνει διὰ τοῦ τὴν αὐτὴν θέσιν ἔχοντος ἐν τῶι διατονικῶι· φησὶ γὰρ λόγον ἔχειν τὸν ἐν τῶι χρωματικῶι δεύτερον ἀπὸ τοῦ ὀξυτάτου πρὸς τὸν ὅμοιον τὸν ἐν τῶι διατονικῶι τὸν τῶν σνϛ πρὸς τὰ σμγ . συνίσταται δὴ τὰ τοιαῦτα τετράχορδα κατὰ τοὺς ἐκκειμένους λόγους ἐν πρώτοις ἀριθμοῖς τούτοις· ἐὰν γὰρ τοὺς μὲν ὀξυτάτους τῶν τετραχόρδων ὑποστησώμεθα, ͵ αφιβ , τοὺς δὲ βαρυτάτους κατὰ τὸν ἐπίτριτον λόγον τῶν αὐτῶν ͵ βιϛ , ταῦτα μὲν ποιήσει ἐπὶ κζ πρὸς τὰ ͵ αϡμδ · καὶ τοσούτων ἔσονται πάλιν ἐν τοῖς τρισὶ γένεσιν οἱ δεύτεροι [näml. λόγοι] ἀπὸ τῶν βαρυτάτων· τῶν δ’ ἀπὸ τοῦ ὀξυτάτου δευτέρων ὁ μὲν τοῦ ἐναρμονίου γένους ἔσται ͵ αωϙ . ταῦτα γὰρ πρὸς μὲν τὰ ͵ αϡμδ ποιεῖ τὸν ἐπὶ λε λόγον, πρὸς δὲ τὰ ͵ αφιβ τὸν ἐπὶ δ · ὁ δὲ τοῦ διατονικοῦ γένους τῶν αὐτῶν ἔσται ͵ αψα · καὶ ταῦτα γὰρ πρὸς μὲν τὰ ͵ αϡμδ τὸν ἐπὶ ζ ποιεῖ λόγον· πρὸς δὲ τὰ ͵ αφιβ τὸν ἐπὶ η · ὁ δὲ τοῦ χρωματικοῦ καὶ αὐτὸς ἔσται τῶν αὐτῶν ͵ αψϙβ · ταῦτα γὰρ λόγον ἔχει πρὸς τὰ ͵ αψα , ὃν τὰ σνϛ πρὸς τὰ σμγ [= fr. 5 Blass].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "PORPHYR. in Ptolem. harm. I 6 p. 107D. τῶν Πυθαγορικῶν τινες, ὡς Ἀ. καὶ Δίδυμος ἱστοροῦσι, μετὰ τὸ καταστήσασθαι τοὺς λόγους τῶν συμφωνιῶν συγκρίνοντες αὐτοὺς πρὸς ἀλλήλους καὶ τοὺς συμφώνους μᾶλλον ἐπιδεικνύναι βουλόμενοι τοιοῦτόν τι ἐποίουν· πρώτους λαβόντες ἀριθμούς, οὓς ἐκάλουν πυθμένα ς, τῶν τοὺς λόγους τῶν συμφωνιῶν ἀποτελούντων ... τούτους οὖν τοὺς ἀριθμοὺς ἀποδόντες ταῖς συμφωνίαις ἐσκόπουν καθ’ ἕκαστον λόγον, τῶν τοὺς ὅρους περιεχόντων ἀριθμῶν ἀφελόντες ἀφ’ ἑκατέρων τῶν ὅρων ἀνὰ μονάδα, τοὺς ἀπολειπομένους ἀριθμοὺς μετὰ τὴν ἀφαίρεσιν οἵτινες εἶεν· οἷον τῶν β α , οἵπερ ἦσαν τῆς διὰ πασῶν, ἀφελόντες ἀνὰ μονάδα ἐσκόπουν τὸ καταλειπόμενον· ἦν δὲ ἕν. τῶν δὲ δ καὶ γ , οἵτινες ἦσαν τῆς διὰ τεσσάρων, ἀφελόντες ἀνὰ μονάδα εἶχον ἐκ μὲν οὖν τῶν τεσσάρων ὑπολειπόμενον τὸν τρία, ἐκ δὲ τῶν τριῶν τὸν δύο· ὥστ’ ἀπὸ συναμφοτέρων τῶν ὅρων μετὰ τὴν ἀφαίρεσιν τὸ ὑπολειπόμενον ἦν πέντε. τῶν δὲ γ καὶ β , οἵτινες ἦσαν τῆς διὰ πέντε, ἀφελόντες ἀνὰ μονάδα εἶχον ἐκ μὲν τῶν τριῶν ὑπολειπόμενα δύο, ἐκ δὲ τῶν δύο ὑπολειπόμενον ἕν, ὥστε τὸ συναμφότερον λειπόμενον εἶναι τρία. ἐκάλουν δὲ τὰς μὲν ἀφαιρουμένας μονάδας ὅμοι α, τὰ δὲ λειπόμενα μετὰ τὴν ἀφαίρεσιν ἀνόμοι α, διὰ δύο αἰτίας, ὅτι ἐξ ἀμφοῖν τῶν ὅρων ὁμοία ἡ ἀφαίρεσις ἐγίνετο καὶ ἴση· ἴση γὰρ ἡ μονὰς τῆι μονάδι· ὧν ἀφαιρουμένων ἐξ ἀνάγκης τὰ ὑπολειπόμενα ἀνόμοια καὶ ἄνισα. ἐὰν γὰρ ἀπὸ ἀνίσων ἴσα ἀφαιρεθῆι, τὰ λοιπὰ ἔσται ἄνισα. οἱ δὲ πολλαπλάσιοι λόγοι καὶ ἐπιμόριοι, ἐν οἷς θεωροῦνται αἱ συμφωνίαι, ἐν ἀνίσοις ὅροις ὑφεστήκασιν, ἀφ’ ὧν ἴσων ἀφαιρουμένων τὰ λοιπὰ πάντως ἄνισα. γίνεται οὖν τὰ ἀνόμοια τῶν συμφωνιῶν συμμιγέντα· συμμίσγειν δὲ λέγουσιν οἱ Πυθαγόρειοι τὸ ἕνα ἐξ ἀμφοτέρων ἀριθμὸν λαβεῖν. ἔσται οὖν τὰ ἀνόμοια συντεθέντα καὶ καθ’ ἑκάστην τῶν συμφωνιῶν τοιαῦτα· τῆς μὲν διὰ πασῶν ἕν, τῆς δὲ διὰ τεσσάρων πέντε, τῆς δὲ διὰ πέντε τρία. ἐφ’ ὧν δ’ ἄν, φασί, τὰ ἀνόμοια ἐλάσσονα ἦι, ἐκεῖνα τῶν ἄλλων εἰσὶ συμφωνότερα· σύμφωνον μέν ἐστιν ἡ διὰ πασῶν, ὅτι ταύτης τὰ ἀνόμοια ἕν· μεθ’ ἣν ἡ διὰ πέντε, ὅτι ταύτης τὰ ἀνόμοια τρία· τελευταία δὲ ἡ διὰ τεσσάρων, ὅτι ταύτης τὰ ἀνόμοια πέντε [= fr. 4 Blass].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "— — p. 104 ἔλεγον δὲ οἱ περὶ τὸν Ἀρχύταν ἑνὸς φθόγγου γίνεσθαι κατὰ τὰς συμφωνίας τὴν ἀντίληψιν τῆι ἀκοῆι [= fr. 3 Bl.].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "BOËTH. de mus. III 11 superparticularis proportio scindi in aequa medio proportionaliter interposita numero non potest ... quam enim demonstrationem ponit Archytas, nimium fluxa est. haec vero est huiusmodi. sit, inquit, superparticularis proportio ·A·B·. sumo in eadem proportione minimos ·C·DE·. quoniam igitur sunt minimi in eadem proportione ·C·DE· et sunt superparticulares, ·DE· numerus ·C· numerum parte una sua eiusque transcendit. sit haec ·D·. dico quoniam ·D· non erit numerus, sed unitas. si enim est numerus ·D· et pars est eius qui est ·DE·, metietur ·D· numerus ·D E· numerum; quocirca et ·E· numerum metietur. quo fit, ut ·C· quoque metiatur. utrumque igitur, ·C· et ·D E·, numeros metietur ·D· numerus, quod est impossibile. qui enim sunt minimi in eadem proportione quibuslibet aliis numeris, hi primi ad se invicem sunt, et solum differentiam retinent unitatem. unitas igitur est ·D·. igitur ·D E· numerus ·C· numerum unitate transcendit. quocirca nullus incidit medius numerus, qui eam proportionem aequaliter scindat [ = fr. 6 Bl.].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19a",
+      "text": "THEO SMYRN. p. 61, 11 Hill. οἱ δὲ περὶ Εὔδοξον καὶ Ἀρχύταν τὸν λόγον τῶν συμφωνιῶν ἐν ἀριθμοῖς ὤιοντο εἶναι ὁμολογοῦντες καὶ αὐτοὶ ἐν κινήσεσιν εἶναι τοὺς λόγους καὶ τὴν μὲν ταχεῖαν κίνησιν ὀξεῖαν εἶναι ἅτε πλήττουσαν συνεχὲς καὶ ὠκύτερον κεντοῦσαν τὸν ἀέρα, τὴν δὲ βραδεῖαν βαρεῖαν ἅτε νωθεστέραν οὖσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19b",
+      "text": "QUINTIL. I 10, 17 A. atque Euenus etiam subiectam grammaticen musicae putaverunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "THEO SMYRN. p. 20. 19 Ἀ. δὲ καὶ Φιλόλαος ἀδιαφόρως τὸ ἓν καὶ μονάδα καλοῦσι καὶ τὴν μονάδα ἕν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "— —p. 22, 5 Ἀριστοτέλης δὲ ἐν τῶι Πυθαγορικῶι [fr. 199 R.] τὸ ἕν φησιν ἀμφοτέρων [Grad und Ungrad] μετέχειν τῆς φύσεως· ἀρτίωι μὲν γὰρ προστεθὲν περιττὸν ποιεῖ, περιττῶι δὲ ἄρτιον, ὃ οὐκ ἂν ἠδύνατο, εἰ μὴ ἀμφοῖν τοῖν φυσέοιν μετεῖχε· διὸ καὶ ἀρτιοπέριττον καλεῖσθαι τὸ ἕν. συμφέρεται δὲ τούτοις καὶ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "ARISTOT. Metaphys. Η 2. 1043a 19 ἔοικε γὰρ ὁ μὲν διὰ τῶν διαφορῶν λόγος τοῦ εἴδους καὶ τῆς ἐνεργείας εἶναι, ὁ δ’ ἐκ τῶν ἐνυπαρχόντων τῆς ὕλης μᾶλλον. ὁμοίως δὲ καὶ οἵους Ἀ. ἀπεδέχετο ὅρους· τοῦ συνάμφω γάρ εἰσιν. οἷον τί ἐστι νηνεμία; ἠρεμία ἐν πλήθει ἀέρος. ὕλη μὲν γὰρ ὁ ἀήρ, ἐνέργεια δὲ καὶ οὐσία ἡ ἠρεμία. τί ἐστι γαλήνη; ὁμαλότης θαλάττης, τὸ μὲν ὑποκείμενον ὡς ὕλη ἡ θάλαττα, ἡ δ’ ἐνέργεια καὶ ἡ μορφὴ ἡ ὁμαλότης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "EUDEM. Phys. fr. 27 (Simpl. Ph. 431, 8) Πλάτων δὲ τὸ μέγα καὶ μικρὸν καὶ τὸ μὴ ὂν καὶ τὸ ἀνώμαλον καὶ ὅσα τούτοις ἐπὶ ταὐτὸ φέρει τὴν κίνησιν λέγει· φαίνεται δὲ ἄτοπον αὐτὸ τοῦτο τὴν κίνησιν λέγειν· παρούσης γὰρ δοκεῖ κινήσεως κινεῖσθαι τὸ ἐν ὧι. ἀνίσου δὲ ὄντος ἢ ἀνωμάλου προσαναγκάζειν ὅτι κινεῖται γελοῖον· βέλτιον γὰρ αἴτια λέγειν ταῦτα ὥσπερ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23a",
+      "text": "[ARISTOT.] Probl. 16, 9. 915a 25 διὰ τί τὰ μόρια τῶν φυτῶν καὶ τῶν ζώιων, ὅσα μὴ ὀργανικά, πάντα περιφερῆ, τῶν μὲν φυτῶν τὸ στέλεχος καὶ οἱ πτόρθοι, τῶν δὲ ζώιων κνῆμαι, μηροί, βραχίονες, θώραξ· τρίγωνον δὲ οὐδὲ πολύγωνον οὔτε ὅλον οὔτε μόριόν ἐστιν; πότερον, ὡς Ἀ. ἔλεγε, διὰ τὸ ἐν τῆι κινήσει τῆι φυσικῆι ἐνεῖναι τὴν τοῦ ἴσου ἀναλογίαν (κινεῖσθαι γὰρ ἀνάλογον πάντα), ταύτην δὲ μόνην εἰς αὑτὴν ἀνακάμπτειν, ὥστε κύκλους ποιεῖν καὶ στρογγύλα, ὅταν ἐγγένηται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "EUDEM. Phys. fr. 30 (Simpl. Ph. 467 26) Ἀ. δὲ, ὥς φησιν Εὔδημος, οὕτως ἠρώτα τὸν λόγον· ‘ ἐν τῶι ἐσχάτωι οἷον τῶι ἀπλανεῖ οὐρανῶι γενόμενος πότερον ἐκτείναιμι ἂν τὴν χεῖρα ἢ τὴν ῥάβδον εἰς τὸ ἔξω ἢ ο ὔ ; ‘ καὶ τὸ μὲν οὖν μὴ ἐκτείνειν ἄτοπον· εἰ δὲ ἐκτείνω, ἤτοι σῶμα ἢ τόπος τὸ ἐκτὸς ἔσται (διοίσει δὲ οὐδέν, ὡς μαθησόμεθα). ἀεὶ οὖν βαδιεῖται τὸν αὐτὸν τρόπον ἐπὶ τὸ ἀεὶ λαμβανόμενον πέρας καὶ ταὐτὸν ἐρωτήσει, καὶ εἰ ἀεὶ ἕτερον ἔσται ἐφ’ ὃ ἡ ῥάβδος, δῆλον ὅτι καὶ ἄπειρον. καὶ εἰ μὲν σῶμα, δέδεικται τὸ προκείμενον· εἰ δὲ τόπος, ἔστι δὲ τόπος τὸ ἐν ὧι σῶμά ἐστιν ἢ δύναιτ’ ἂν εἶναι, τὸ δὲ δυνάμει ὡς ὂν χρὴ τιθέναι ἐπὶ τῶν ἀιδίων, καὶ οὕτως ἂν εἴη σῶμα ἄπειρον καὶ τόπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "APUL. Apol. 15 quid, quod nec ob haec debet tantummodo philosophus speculum invisere; nam saepe oportet non modo similitudinem suam, verum etiam ipsius similitudinis rationem considerare: num, ut ait Epicurus [ fr. 320; p. 221, 22; vgl. p. 10, 2 Usen.], profectae a nobis imagines velut quaedam exuviae iugi fluore a corporibus manantes, cum leve aliquid et solidum offenderunt, illisae reflectantur et retro expressae contraversim respondeant an, ut alii philosophi disputant, radii nostri seu mediis oculis proliquati et lumini extrario mixti atque ita uniti, ut Plato [ Tim. 46A] arbitratur, seu tantum oculis profecti sine ullo foris amminiculo, ut Archytas putat.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "faa-ab",
+      "title": {
+        "english": "Fragments on Mathematics and Harmony",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας"
+      },
+      "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "hhq-ab",
+      "title": {
+        "english": "Commentary on Plato's Atlantis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "hhq-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "crantor-of-soli-fragments-hhq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crantor-of-soli/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ae",
+      "title": {
+        "english": "Fragments of Epigrams",
+        "ancient_greek": "Ἀποσπάσματα Ἐπιγραμμάτων"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-ae-iso-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.json"
+      }
+    },
+    {
+      "eul_wid": "hcg-ab",
+      "title": {
+        "english": "On Piety and Virtue",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clinias-of-tarentum-piety-virtue-hcg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/clinias-of-tarentum/piety-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/piety-virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/piety-virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/piety-virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clinias-of-tarentum/piety-virtue.json"
+      }
+    },
+    {
+      "eul_wid": "msu-ab",
+      "title": {
+        "english": "On Rhetoric",
+        "ancient_greek": "ΠΕΡΙ ΡΗΤΟΡΙΚΗΣ"
+      },
+      "url_slug": "philodemus-of-gadara-rhetoric-msu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philodemus-of-gadara/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/rhetoric.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/rhetoric.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/rhetoric.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/rhetoric.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-aa",
+      "title": {
+        "english": "Sayings, from the Collection of Demetrius Phalereus",
+        "ancient_greek": "Γνῶμαι ἐκ τῆς Συλλογῆς Δημητρίου Φαληρέως"
+      },
+      "url_slug": "seven-sages-of-greece-demetrius-phalereus-ayq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/demetrius-phalereus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/demetrius-phalereus.json"
+      }
+    },
+    {
+      "eul_wid": "lea-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "orphic-poems-testimonies-lea-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archytas-of-tarentum/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

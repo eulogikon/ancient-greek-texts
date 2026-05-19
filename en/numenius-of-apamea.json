@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pyg",
+  "auth_slug": "numenius-of-apamea",
+  "name": {
+    "english": "Numenius of Apamea",
+    "ancient_greek": "Νουμήνιος ὁ ἐξ Ἀπαμείας"
+  },
+  "seo_h1": "Numenius of Apamea on the Good and Middle Platonism",
+  "seo": {
+    "browser_title": "Numenius of Apamea on Eulogikon Greek Digital Archive",
+    "meta_title": "Numenius of Apamea Ancient Greek Philosophical Works",
+    "meta_description": "Numenius of Apamea, a 2nd century Platonist philosopher. Surviving works and fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Διάλογος",
+      "english": "Dialogue",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Numenius of Apamea was a Greek philosopher active in the 2nd century CE during the Roman era. He was a Platonist from the city of Apamea in Syria, working in the period known as Middle Platonism. Beyond this, the specific details of his life and education are not recorded in surviving sources.</p>\n<p class=\"research-text\">His philosophical writings survive only in fragments, quoted by later Neoplatonist and Christian authors. His known works include On the Good, On the Incorruptibility of the Soul, and On the Secrets in Plato, alongside other treatises on topics like numbers and place. He also wrote a dialogue called The Hoopoe, and a work Against the Gnostics is attributed to him, though the content of these is largely lost.</p>\n<p class=\"research-text\">Numenius is a significant figure for his syncretic approach to philosophy. According to modern scholars, he sought to harmonize the teachings of Plato with those of Pythagoras and engaged with other wisdom traditions. His metaphysical system introduced a hierarchy of divine principles, featuring a supreme First God and a creative Second God responsible for the world. This framework is seen as an important precursor to the later developments of Neoplatonism. His allegorical interpretations and ideas were extensively debated and cited by major later thinkers, including Plotinus, Porphyry, and several early Christian writers.</p>\n</div>",
+  "affiliation_label": "Platonist",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pyg-aa",
+      "title": {
+        "english": "On the Good",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "numenius-of-apamea-good-pyg-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/numenius-of-apamea/good",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-apamea/good.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-apamea/good.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-apamea/good.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/numenius-of-apamea/good.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "qhm",
+      "name": {
+        "english": "Albinus the Platonist",
+        "ancient_greek": "Ἀλβῖνος ὁ Πλατωνικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/albinus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.json"
+      }
+    },
+    {
+      "eul_aid": "ufa",
+      "name": {
+        "english": "Alexander of Lycopolis",
+        "ancient_greek": "Ἀλέξανδρος Λυκοπολίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-lycopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.json"
+      }
+    },
+    {
+      "eul_aid": "lgs",
+      "name": {
+        "english": "Anonymous Commentary on Plato",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.json"
+      }
+    },
+    {
+      "eul_aid": "ddo",
+      "name": {
+        "english": "Arimnestus the Philosopher",
+        "ancient_greek": "Ἀρίμνηστος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/arimnestus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "rai",
+      "name": {
+        "english": "Atticus the Philosopher",
+        "ancient_greek": "Ἀττικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/atticus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "rmq",
+      "name": {
+        "english": "Cassius Longinus the Philosopher",
+        "ancient_greek": "Κάσσιος Λογγῖνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/cassius-longinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.json"
+      }
+    },
+    {
+      "eul_aid": "quy",
+      "name": {
+        "english": "Celsus the Platonist",
+        "ancient_greek": "Κέλσος ὁ Πλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/celsus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.json"
+      }
+    },
+    {
+      "eul_aid": "hhq",
+      "name": {
+        "english": "Crantor of Soli",
+        "ancient_greek": "Κράντωρ ὁ Σολεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/crantor-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.json"
+      }
+    },
+    {
+      "eul_aid": "nso",
+      "name": {
+        "english": "Eudromus the Philosopher",
+        "ancient_greek": "Εὔδρομος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eudromus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "fdw",
+      "name": {
+        "english": "Heraclides of Pontus",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.json"
+      }
+    },
+    {
+      "eul_aid": "fve",
+      "name": {
+        "english": "Heraclides of Pontus II",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.json"
+      }
+    },
+    {
+      "eul_aid": "feg",
+      "name": {
+        "english": "Heraclides of Pontus III",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/numenius-of-apamea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/numenius-of-apamea.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/numenius-of-apamea.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/numenius-of-apamea.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/numenius-of-apamea.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

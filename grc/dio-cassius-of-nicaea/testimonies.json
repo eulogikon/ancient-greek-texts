@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rhq-aq",
+  "eul_aid": "rhq",
+  "author_slug": "dio-cassius-of-nicaea",
+  "work_slug": "testimonies",
+  "url_slug": "dio-cassius-of-nicaea-testimonies-rhq-aq",
+  "author": {
+    "english": "Dio Cassius of Nicaea",
+    "ancient_greek": "Δίων ὁ Κάσσιος ὁ Κοκκηϊανός"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimonies by Dio Cassius of Nicaea on Eulogikon",
+    "meta_title": "Testimonies by Dio Cassius of Nicaea in Ancient Greek",
+    "meta_description": "A collection of testimonia fragments concerning lost historical works of Dio Cassius. These references preserve details about his Getica other writings."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a minor collection of five passages attributed to the Roman historian Dio Cassius of Nicaea. It is not enumerated among his principal works and likely represents a fragmentary compilation, possibly consisting of source material or excerpts drawn from his more substantial but now lost writings. Dio Cassius is chiefly renowned for his monumental 80-book <strong>Roman History</strong>, a comprehensive narrative spanning from Rome&#x27;s mythical origins to the early third century CE. The specific thematic content of the <strong>Testimonies</strong> is not recorded, but given the scope of Dio&#x27;s major historical project, it may have touched upon his characteristic interests in political analysis of imperial power, military campaigns, provincial administration, and the biographical treatment of emperors. The precise transmission of this collection is obscure; it likely survives, as with many fragments of Dio&#x27;s larger history, only through preservation within later Byzantine excerpting traditions, such as those of John Xiphilinus and John Zonaras. While the <strong>Testimonies</strong> itself possesses no documented independent influence, the broader historical corpus of Dio Cassius was of fundamental importance to Byzantine chroniclers and remains an indispensable source for modern scholarship on the first two centuries of the Roman Empire, especially regarding the transition from Republic to Principate.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,707,T 1",
+      "text": "SUDA (Σ 1239) s.v. Δίων ὁ Κάσσιος χρηματίσας .... ἔγραψε Ῥωμαικὴν ἱστορίαν ἐν βιβλίοις π (διαιροῦνται δὲ κατὰ δεκάδας)· Περσικά (690 T 1)· Γετικά· Ἐνόδια· Τὰ κατὰ Τραιανόν· Βίον Ἀρριανοῦ τοῦ φιλοσόφου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,707,T 2",
+      "text": "PHILOSTRAT. Vit. Soph. 1, 7 p. 7, 14 Kayser: ὡς δὲ καὶ ἱστορίαν ἱκανὸς ἦν ξυγγράφειν (scil. Δίων ὁ Προυσαῖος), δηλοῖ τὰ Γετικά· καὶ γὰρ δὴ καὶ ἐς Γέτας ἦλθεν, ὁπότε ἠλᾶτο (T 4).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,707,T 3a",
+      "text": "JORDANES Getica 9,58: Dio storicus et antiquitatum diligentissimus inquisitor, qui operi suo Getica titulum dedit (F 2).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,707,T 3b",
+      "text": "——5, 40: Dio, qui historias eorum (scil. Gothorum) annalesque Greco stilo composuit (F 1).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,707,T 4",
+      "text": "DION PRUS. Or. 36 (Βορυσθενιτικός) § 1: ἐτύγχανον μὲν ἐπιδημῶν ἐν Βορυσθένει τὸ θέρος, ὁπότε εἰσέπλευσα μετὰ τὴν φυγήν (a. 82—96), βουλόμενος ἐλθεῖν, ἐὰν δύνωμαι, διὰ Σκυθῶν εἰς Γέτας, ὅπως θεάσωμαι τἀκεῖ πράγματα ὁποῖά ἐστι κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rhq-ao",
+      "title": {
+        "english": "Remains of Uncertain Position",
+        "ancient_greek": "Λείψανα Ἀβέβαιου Θέσεως"
+      },
+      "url_slug": "dio-cassius-of-nicaea-uncertain-remains-rhq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ac",
+      "title": {
+        "english": "Roman Histories, Constantinian Excerpts with Dion's Words",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-ac-rhq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ab",
+      "title": {
+        "english": "Roman Histories, John of Antioch's Excerpts Derived from Dion",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-aa",
+      "title": {
+        "english": "Roman Histories, Peter the Patrician's Vatican or Maian Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-vatican-excerpts-rhq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/vatican-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ad",
+      "title": {
+        "english": "Roman Histories, Photius, Library Code 71",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-ad-rhq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-am",
+      "title": {
+        "english": "Roman Histories, Planudean Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-planudean-excerpts-rhq-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/planudean-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-an",
+      "title": {
+        "english": "Roman Histories, Salmasian Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-an-rhq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ae",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-rhq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-af",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 2",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-2-rhq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ag",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 3",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-3-rhq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ah",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-v2-v1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ai",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 2",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-2-rhq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bta-aa",
+      "title": {
+        "english": "Argive Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dinias-of-argos-historical-fragments-bta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinias-of-argos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinias-of-argos/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ere-aa",
+      "title": {
+        "english": "Fragments on Ethiopia and Libya",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰθιοπίας καὶ Λιβύης"
+      },
+      "url_slug": "aristocreon-the-historian-ethiopia-libya-ere-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocreon-the-historian/ethiopia-libya",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocreon-the-historian/ethiopia-libya.json"
+      }
+    },
+    {
+      "eul_wid": "csk-aa",
+      "title": {
+        "english": "Lydian History and Origins",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xanthus-the-lydian-history-origins-csk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/history-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ac",
+      "title": {
+        "english": "Lysias the Syracusan by Descent",
+        "ancient_greek": "Λυσίας συρακούσιος πατρόθεν"
+      },
+      "url_slug": "dionysius-of-halicarnassus-lysias-syracusan-ndy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/lysias-syracusan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.json"
+      }
+    },
+    {
+      "eul_wid": "gke-aa",
+      "title": {
+        "english": "Mythological Fragments on Ino",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰνοῦς"
+      },
+      "url_slug": "menecrates-of-tyre-mythological-ino-gke-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-tyre/mythological-ino",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.json"
+      }
+    },
+    {
+      "eul_wid": "nbg-aa",
+      "title": {
+        "english": "On Cleopatra's Banquet",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "socrates-of-rhodes-cleopatra-banquet-nbg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-of-rhodes/cleopatra-banquet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.json"
+      }
+    },
+    {
+      "eul_wid": "bfo-aa",
+      "title": {
+        "english": "On Cretan Bees and Migration",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "antenor-of-athens-bees-migration-bfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antenor-of-athens/bees-migration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.json"
+      }
+    },
+    {
+      "eul_wid": "hye-aa",
+      "title": {
+        "english": "Samian Chronicles and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "alexis-of-samos-chronicles-customs-hye-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-of-samos/chronicles-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos/chronicles-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos/chronicles-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos/chronicles-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-of-samos/chronicles-customs.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

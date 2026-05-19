@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jsi",
+  "auth_slug": "phoenicides-the-comic-poet",
+  "name": {
+    "english": "Phoenicides the Comic Poet",
+    "ancient_greek": "Φοινικίδης ὁ κωμῳδιοποιός"
+  },
+  "seo_h1": "Phoenicides the Comic Poet on Feasting and Courtesans",
+  "seo": {
+    "browser_title": "The Phoenicides Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Phoenicides Ancient Greek Comic Poet Fragments",
+    "meta_description": "Phoenicides was a Hellenistic Greek comic poet of New Comedy. Two surviving fragments of his works are preserved. Free to download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phoenicides was a Greek comic poet active during the 3rd century BCE, in the Hellenistic period. He wrote in the style of New Comedy, a popular form that focused on everyday domestic life, romantic plots, and stock characters rather than the political satire of earlier centuries.</p>\n<p class=\"research-text\">Almost nothing is known about his personal life. He is identified as an Athenian poet in later historical sources, but these details are sparse. Two of his play titles survive: The Reveller and The Slave-Dealer. Both works are lost, existing only as fragments quoted by later authors.</p>\n<p class=\"research-text\">These fragments, preserved mainly by the writer Athenaeus, offer brief glimpses of typical New Comedy scenes, such as the antics of a flattering parasite. According to modern scholars, Phoenicides is considered a minor figure within the New Comedy tradition, which was dominated by playwrights like Menander. His fragments are nevertheless valuable for helping academics understand the common themes and character types of Hellenistic comedy beyond the few complete plays that survive.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "jsi-aa",
+      "title": {
+        "english": "Fragments of Comic Courtesans",
+        "ancient_greek": "Ἀποσπάσματα Ἑταιρῶν Κωμικῶν"
+      },
+      "url_slug": "phoenicides-the-comic-poet-comic-courtesans-jsi-aa",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/comic-courtesans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/comic-courtesans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/comic-courtesans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/comic-courtesans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/comic-courtesans.json"
+      }
+    },
+    {
+      "eul_wid": "jsi-ab",
+      "title": {
+        "english": "Fragments on Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας"
+      },
+      "url_slug": "phoenicides-the-comic-poet-feasting-jsi-ab",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/phoenicides-the-comic-poet/feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenicides-the-comic-poet/feasting.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phoenicides-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenicides-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenicides-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenicides-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phoenicides-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

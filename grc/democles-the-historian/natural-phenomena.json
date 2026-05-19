@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "goa-aa",
+  "eul_aid": "goa",
+  "author_slug": "democles-the-historian",
+  "work_slug": "natural-phenomena",
+  "url_slug": "democles-the-historian-natural-phenomena-goa-aa",
+  "author": {
+    "english": "Democles the Historian",
+    "ancient_greek": "Δημοκλῆς ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Natural Phenomena",
+    "ancient_greek": "Ἀποσπάσματα περὶ Φυσικῶν Φαινομένων"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Democles the Historian on Eulogikon",
+    "meta_title": "Fragments of Democles the Historian in Ancient Greek",
+    "meta_description": "Surviving fragments of Democles the Historian on natural phenomena. Historical prose collection. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Natural Phenomena is a lost prose work by the historian Democles, known only through two surviving excerpts preserved by later authors. The original scope and structure of the work are unknown. The first fragment, recorded by Strabo, describes a lethal geothermal vent in Asia Minor known as the Plutonium, a chasm emitting deadly vapors associated with the underworld. The second, preserved by Photius, recounts an anecdote in which the Athenian lawgiver Solon feigned madness to publicly recite a poem about Salamis, thereby inciting Athens to renew its war with Megara for control of the island. These fragments survive solely through this indirect tradition, with no independent manuscript evidence. Their content indicates the work belonged to the Hellenistic genre of paradoxography, which collected marvels of nature and history. The account of the Plutonium contributed to geographical and mythological lore, while the story of Solon provided a notable variant within the biographical tradition surrounding the Athenian statesman.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Strabo I: Μιμνήσκεται δὲ (Δημήτριος ὁ Σκήψιος) πρὸς ταῦτα τῶν ὑπὸ Δημοκλέους λεγομένων, σεισμούς τινας μεγάλους, τοὺς μὲν πάλαι περὶ Λυδίαν γενομένους καὶ Ἰωνίαν μέχρι τῆς Τρῳάδος ἱστο ροῦντος, ὑφ’ ὧν καὶ κῶμαι κατεπόθησαν καὶ Σίπυλος κατεστράφη κατὰ τὴν Ταντάλου βασιλείαν καὶ ἐξ ἑλῶν λίμναι ἐγίνοντο, ** τὴν δὲ Τροίαν ἐπέκλυσε κῦμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Athenaeus IV: Ὀνομάζονται δὲ οἱ αὐλοὶ γίγγροι ὑπὸ τῶν Φοινίκων ἀπὸ τῶν περὶ Ἄδωνιν θρήνων· τὸν γὰρ Ἄδωνιν Γίγγρην καλεῖτε ὑμεῖς οἱ Φοίνι κες, ὡς ἱστορεῖ Δημοκλείδης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-ap",
+      "title": {
+        "english": "Chronicle of Archons",
+        "ancient_greek": "Χρονικὴ Ἀρχόντων"
+      },
+      "url_slug": "historical-fragments-anonymous-chronicle-mmg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "vig-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "agathias-the-scholastic-epigrams-vig-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathias-the-scholastic/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "csu-aa",
+      "title": {
+        "english": "Fragments on Divine Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "xenomedes-of-ceos-divine-names-csu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "evk-aa",
+      "title": {
+        "english": "Fragments on Heracles' Ancestry",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Ἡρακλέους Γενέσεως"
+      },
+      "url_slug": "herodorus-of-heraclea-ancestry-evk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodorus-of-heraclea/ancestry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea/ancestry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea/ancestry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea/ancestry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodorus-of-heraclea/ancestry.json"
+      }
+    },
+    {
+      "eul_wid": "epq-ab",
+      "title": {
+        "english": "Fragments on Samothrace",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σαμοθρᾴκης"
+      },
+      "url_slug": "deiochus-the-historian-samothrace-fragments-epq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/deiochus-the-historian/samothrace-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "fsw-ac",
+      "title": {
+        "english": "Historical and Encomiastic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callisthenes-of-olynthus-historical-encomiastic-fsw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/callisthenes-of-olynthus/historical-encomiastic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.json"
+      }
+    },
+    {
+      "eul_wid": "nbg-aa",
+      "title": {
+        "english": "On Cleopatra's Banquet",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "socrates-of-rhodes-cleopatra-banquet-nbg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/socrates-of-rhodes/cleopatra-banquet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-rhodes/cleopatra-banquet.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ae",
+      "title": {
+        "english": "Treatise-Women",
+        "ancient_greek": "Περὶ γυναικῶν"
+      },
+      "url_slug": "paradoxographer-anon-women-jre-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/democles-the-historian/natural-phenomena",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democles-the-historian/natural-phenomena.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

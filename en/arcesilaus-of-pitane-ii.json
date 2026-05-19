@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jem",
+  "auth_slug": "arcesilaus-of-pitane-ii",
+  "name": {
+    "english": "Arcesilaus of Pitane II",
+    "ancient_greek": "Ἀρκεσίλαος ὁ Πιτανεύς"
+  },
+  "seo_h1": "Arcesilaus of Pitane and Academic Skepticism",
+  "seo": {
+    "browser_title": "Arcesilaus of Pitane on Eulogikon Greek Archive Library",
+    "meta_title": "Arcesilaus of Pitane Ancient Greek Philosophical Works",
+    "meta_description": "Arcesilaus of Pitane was a Hellenistic philosopher and head of Plato's Academy. Philosophical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Academic Skeptic",
+      "href": "/affiliations/academic-skeptic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Arcesilaus was a Greek philosopher active in the early Hellenistic period, from roughly 316 to 241 BCE. Born in Pitane in Asia Minor, he moved to Athens for his education. He initially studied with philosophers from Aristotle&#x27;s school but ultimately joined Plato&#x27;s Academy, becoming its head around 268 BCE.</p>\n<p class=\"research-text\">Under his leadership, the Academy underwent a profound change. Arcesilaus is considered the founder of Academic Skepticism. He broke from the tradition of teaching established doctrines and instead advocated for the suspension of judgment on all matters. He wrote nothing himself; his ideas are known through reports by later philosophers.</p>\n<p class=\"research-text\">His primary philosophical activity was a critical engagement with other schools, especially the Stoics. He targeted their theory of knowledge, arguing that no sense impression could guarantee certain truth. According to modern scholars, his method was dialectical, using rigorous argument to show that for every reason to believe something, an equally persuasive reason against it could be found.</p>\n<p class=\"research-text\">This skeptical stance defined the Academy for generations, making Arcesilaus a pivotal figure who transformed it into a center of critical debate rather than dogmatic teaching.</p>\n</div>",
+  "affiliation_label": "Academic_Skeptic",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jem-aa",
+      "title": {
+        "english": "Epitaphs and Dedications",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "arcesilaus-of-pitane-ii-epitaphs-dedications-jem-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/arcesilaus-of-pitane-ii/epitaphs-dedications",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arcesilaus-of-pitane-ii/epitaphs-dedications.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "ikm",
+      "name": {
+        "english": "Arcesilaus of Pitane I",
+        "ancient_greek": "Ἀρκεσίλαος ὁ Πιτανεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/arcesilaus-of-pitane-i",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-i.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-i.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-i.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-i.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/arcesilaus-of-pitane-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-ii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-ii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-ii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arcesilaus-of-pitane-ii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

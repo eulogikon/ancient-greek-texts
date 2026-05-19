@@ -1,0 +1,895 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "daw-ah",
+  "eul_aid": "daw",
+  "author_slug": "aristophanes-of-athens",
+  "work_slug": "justice-fragments",
+  "url_slug": "aristophanes-of-athens-justice-fragments-daw-ah",
+  "author": {
+    "english": "Aristophanes of Athens",
+    "ancient_greek": "Ἀριστοφάνης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Justice",
+    "ancient_greek": "Ἀποσπάσματα περὶ Δικαιοσύνης"
+  },
+  "seo": {
+    "browser_title": "Justice Fragments by Aristophanes Comic Poet on Eulogikon",
+    "meta_title": "Fragments on Justice by Aristophanes in Ancient Greek",
+    "meta_description": "Surviving comic fragments from Aristophanes exploring themes of justice in Athenian society. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments on Justice is a modern thematic compilation of excerpts from the comedies of Aristophanes of Athens. It assembles seventy-six passages from his eleven surviving plays and from works now lost, all centered on the concept of justice. This collection illustrates the playwright&#x27;s pervasive and critical engagement with legal, social, and political themes in classical Athens. The fragments satirize the Athenian legal system and its endemic litigiousness, a central theme in plays like The Wasps. They critique demagogic politicians such as Cleon and parody contemporary intellectuals, most famously Socrates in The Clouds. Other excerpts explore utopian re-imaginings of justice and property, as seen in The Birds and The Assemblywomen, alongside broader examinations of social and economic equity.</p>\n<p class=\"research-text\">The complete texts of Aristophanes&#x27; surviving plays have been transmitted through a medieval manuscript tradition, chiefly via Byzantine codices like the tenth-century Ravennas manuscript. Fragments from his lost comedies are preserved in quotations by later Greek authors such as Athenaeus and Plutarch. The modern anthology draws upon this combined transmission history to present a consolidated view of the comic poet&#x27;s treatment of justice. Aristophanes&#x27; comedies constitute an invaluable resource for Athenian social history, political satire, and the discourse of democracy. His humorous yet penetrating critiques of justice, law, and governance have exerted a lasting influence on the tradition of satirical literature and remain a primary source for understanding the culture and anxieties of classical Athens.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "ἐμβαλὼν ἀχηνίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "πρῶτον γὰρ ἐπὶ θήραν τὸν ἄνδρ’ ἐξήγαγον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ἀνθρωπικὸc μῦθοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ἐκλιμάκιcεν, ὥcτ’ εἰc μέcην ἔπιπτε τὴν τάφρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "τήνδ’ ἕωλον ἀναβεβραcμένην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "χαίρειν μὲν Ἄλον τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "Φθιώτην, χαίρειν δ’ ἀτεχνῶc Ἀναγυραcίουc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "καὶ τὰc δίκαc οὖν ἔλεγον ᾄδοντεc τότε; νὴ Δία· φράcω δ’ ἐγὼ μέγα cοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "τεκμήριον· ἔτι γὰρ λέγουc’ οἱ πρεcβύτεροι καθήμενοι, ὅταν κακῶc 〈τιc〉 ἀπολογῆται τὴν δίκην·‚ᾄδειc.‛",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "ᾠδικόc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "ἀθάρηc ἀνακαλύψαcα μεcτὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τρύβλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "Καὶ τὴν Ἑκάβην ὀτοτύζουcαν καὶ καιόμενον τὸν ἀχυρμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "ἀνὴρ δὲ φεύγων οὐ μένει λύραc κτύπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "ἀνταναίρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "ἀνεῳγμένηc τῆc θύραc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "οὐκ ἐπιδημεῖ Ἰcθμοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "ὁ μέν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "τιc ἀμπέλουc τρυγῶν ἄν, ὁ δ’ ἀμέργων ἐλάαc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "ἄμυλοc, τάριχοc, πυόc, ἰcχάδεc, φακῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "οὐ γὰρ cὺ παρέχειc ἀμφιέcαcθαι τῷ πατρί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "ἀμφίcβαινα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.1",
+      "text": "⏓–⏑ ‚ὡc πικρόν‛ τιc ἀνέκραγ’ [–⏑⏓ ‚[οὐ δή]ποτ’ ἄλλοc ἐcτὶν ἀντὶ Φ[ιλοκλέουc]. c[υ]ν[ε]χῶc αὐτὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.2",
+      "text": "πικρόν [φαcι— —",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "ο̣ὐκ ἐτόc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.1",
+      "text": "ὡc ἐνῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.2",
+      "text": "τιc ἂν κίc",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.1",
+      "text": "[ὥ]cπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.2",
+      "text": "πελεκᾶc πλατυγ̣ίζω̣ν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "οἴμοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "τοῦ χείλουc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "οἴμοι τῆc ἁλέα̣c, ἣν ἅνθρωπόc μ’ ἀποδύcαc φεύγε̣[ι] cυγκύψαc—",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25.1",
+      "text": "ἀλλὰ δῆτ’ εἰc τοῦ cτρατηγοῦ κωμάcω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25.2",
+      "text": "τοῦ Σκε[λ]λίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26",
+      "text": "φέρε νῦν ἐγ̣[ὼ τ]ὴ̣ν δαίμον’ ἣν ἀνήγαγον, ἐc τὴν [ἀγο]ρ̣ὰν ἄγων ἱδρύcωμαι βοΐ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "δεῦρο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.1",
+      "text": "γενναῖον δέ cοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.2",
+      "text": "ταχέωc ὑπακ̣ούειν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29",
+      "text": "ἐλαφρὸν οἷά τιc μόλυβδοc·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.1",
+      "text": "ἔκυcα νῦν ἐνταῦθ’ ἐγ̣ὼ τ̣αύτην δοκῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.2",
+      "text": "φορμὸνπλέκ[ει]ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31",
+      "text": "ἀμφί μοι αὖτ[ιc ἄνακτ’].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32",
+      "text": "εἶτα μονῳδεῖν ἐκ Μηδείαc καὶ τἀξ αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33",
+      "text": "αὐτοχειρίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33a",
+      "text": "δι’ ἧc τὰ λ̣[επ]τ̣ὰ ῥήματ’ [ἐξεc]μήχετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33b",
+      "text": "ο[ἷ]α μὲν π[οι]εῖ λέγε[ι]ν, τοῖόc ἐcτιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34",
+      "text": "ἀργοὶ κάθηνταί μοι γυναῖκεc τέτταρεc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 35",
+      "text": "ἀγαθόc τε δαίμων κἀγαθὴ cωτηρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 36",
+      "text": "ἀκολαcτότατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 37",
+      "text": "ἀκόλουθον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 38",
+      "text": "ἀκούcεcθε(?).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 39",
+      "text": "ἡ μὲν πόλιc ἐcτὶν Ἀμαλθείαc κέραc, 〈ἀλλ’〉 εὖξαι cὺ μόνον, καὶ πάντα πάρεcται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40",
+      "text": "cαυτὸν δ’ ἀμαυροῖc, ὥcτε λήcει〈c〉 τῷ χρόνῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 41",
+      "text": "κατεcκέδαcέ μου τὴν ἁμίδα κεχηνότοc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 42",
+      "text": "ἀμαλλοφόροc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 43",
+      "text": "ἀμπελουργεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 44",
+      "text": "ἀμυκλᾷδεc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 45",
+      "text": "ἀμφορείδιον, ἀμφορεαφόρουc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 46",
+      "text": "ἐκ τῶν ἀναβαcμῶν ἀπίαcιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 47",
+      "text": "ἀναβιούc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 48",
+      "text": "ἀνακαλπάζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 49",
+      "text": "ἀναcπᾶν βούλευμα.[ln_b]ἀναcπᾶν γνωμίδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 50",
+      "text": "ἀνεπιεικέc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 51",
+      "text": "ἀνηλεήτωc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 52",
+      "text": "ἄνθρωποc οὐ cεμνόc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 53",
+      "text": "ἀνδρόπαιc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 54",
+      "text": "ἁπαλοcώματοc, ἁπαλύνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 55",
+      "text": "πρωτοcελήνουc τυμβογέροντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 56.1",
+      "text": "μολγόν cε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 56.2",
+      "text": "ποιήcω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57",
+      "text": "καλῶc με βεβωλοκόπηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58.1",
+      "text": "πατρὶc δὲ πᾶcα τῷ πένητι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58.2",
+      "text": "προcφιλήc, ἀφ’ ἧc τροφήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 58.3",
+      "text": "τε καὶ τὸ μὴ πεινῆν ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 59",
+      "text": "οὐκ ἀποφθερεῖ, κάθαρμα, κἀκποδὼν ἡμῶν ἄπει;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 60",
+      "text": "ὦ δέcποτ’ Ἀμφιάραε, πολυτίμητ’ ἄναξ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "daw-ac",
+      "title": {
+        "english": "Acharnians",
+        "ancient_greek": "Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-of-athens-acharnians-daw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/acharnians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/acharnians.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ai",
+      "title": {
+        "english": "Aristophanes' Lost Plays Catalogue",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-lost-plays-daw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lost-plays",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lost-plays.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lost-plays.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lost-plays.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lost-plays.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ab",
+      "title": {
+        "english": "Assemblywomen",
+        "ancient_greek": "Ἐκκλησιάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-assemblywomen-daw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/assemblywomen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/assemblywomen.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/assemblywomen.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/assemblywomen.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/assemblywomen.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ap",
+      "title": {
+        "english": "Birds",
+        "ancient_greek": "Ὄρνιθες"
+      },
+      "url_slug": "aristophanes-of-athens-birds-daw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/birds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/birds.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/birds.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/birds.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/birds.json"
+      }
+    },
+    {
+      "eul_wid": "daw-an",
+      "title": {
+        "english": "Clouds",
+        "ancient_greek": "Νεφέλαι"
+      },
+      "url_slug": "aristophanes-of-athens-clouds-daw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/clouds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ag",
+      "title": {
+        "english": "Domestic and Market Scenes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-athens-domestic-market-daw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/domestic-market",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/domestic-market.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/domestic-market.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/domestic-market.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/domestic-market.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aj",
+      "title": {
+        "english": "Fragments on Anaxagoras and Society",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναξαγόρου καὶ Κοινωνίας"
+      },
+      "url_slug": "aristophanes-of-athens-anaxagoras-society-daw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/anaxagoras-society",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ae",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "aristophanes-of-athens-daily-life-daw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ak",
+      "title": {
+        "english": "Fragments on Language and Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γλώσσης καὶ Κωμῳδίας"
+      },
+      "url_slug": "aristophanes-of-athens-language-comedy-daw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/language-comedy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/language-comedy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/language-comedy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/language-comedy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/language-comedy.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aq",
+      "title": {
+        "english": "Frogs",
+        "ancient_greek": "Βάτραχοι"
+      },
+      "url_slug": "aristophanes-of-athens-frogs-daw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/frogs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/frogs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/frogs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/frogs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/frogs.json"
+      }
+    },
+    {
+      "eul_wid": "daw-am",
+      "title": {
+        "english": "Knights",
+        "ancient_greek": "Ἱππῆς"
+      },
+      "url_slug": "aristophanes-of-athens-knights-daw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/knights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ad",
+      "title": {
+        "english": "Lysistrata",
+        "ancient_greek": "Λυσιστράτη"
+      },
+      "url_slug": "aristophanes-of-athens-lysistrata-daw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/lysistrata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/lysistrata.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "dum-aa",
+      "title": {
+        "english": "Comic Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "eupolis-of-athens-comic-rural-life-dum-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.json"
+      }
+    },
+    {
+      "eul_wid": "hps-as",
+      "title": {
+        "english": "Doubtful Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα"
+      },
+      "url_slug": "menander-of-athens-doubtful-fragment-hps-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aa",
+      "title": {
+        "english": "Fragments of the Double Deceiver Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Διπλοῦ Ἀπατεῶνος"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-aa-hps-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.json"
+      }
+    },
+    {
+      "eul_wid": "dso-ab",
+      "title": {
+        "english": "Fragments on Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀθηναϊκοῦ Βίου"
+      },
+      "url_slug": "lysippus-the-comic-poet-athenian-life-dso-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysippus-the-comic-poet/athenian-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysippus-the-comic-poet/athenian-life.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ab",
+      "title": {
+        "english": "Fragments on Cinyras and Adonis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος"
+      },
+      "url_slug": "plato-the-comic-poet-cinyras-adonis-efq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/cinyras-adonis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.json"
+      }
+    },
+    {
+      "eul_wid": "fsc-aa",
+      "title": {
+        "english": "Fragments on Cooking and Strategy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μαγειρικῆς καὶ Στρατηγικῆς"
+      },
+      "url_slug": "dionysius-of-sinope-cooking-strategy-aa-fsc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-sinope/cooking-strategy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-sinope/cooking-strategy-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ihu-aa",
+      "title": {
+        "english": "Fragments on Life and Old Age",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Γήρως"
+      },
+      "url_slug": "apollodorus-of-carystus-ii-life-old-age-ihu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-ii/life-old-age",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-ii/life-old-age.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristophanes-of-athens/justice-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/justice-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/justice-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/justice-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/justice-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

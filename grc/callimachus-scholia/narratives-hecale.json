@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vmw-ad",
+  "eul_aid": "vmw",
+  "author_slug": "callimachus-scholia",
+  "work_slug": "narratives-hecale",
+  "url_slug": "callimachus-scholia-narratives-hecale-vmw-ad",
+  "author": {
+    "english": "Callimachus Scholia",
+    "ancient_greek": "Καλλιμάχου Σχόλια"
+  },
+  "title": {
+    "english": "Narratives-Hecale Ancient Scholia",
+    "ancient_greek": "Διηγήσεις Ἑκάλης Ἀρχαῖα Σχόλια"
+  },
+  "seo": {
+    "browser_title": "Narratives-Hecale Scholia by Callimachus Scholia Eulogikon",
+    "meta_title": "Narratives-Hecale Ancient Scholia in Ancient Greek",
+    "meta_description": "Ancient scholia offer detailed grammatical and literary commentary on Callimachus's Hecale, an Alexandrian Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<h3 class=\"research-heading\">Overview</h3>\n<p class=\"research-text\">The <strong>Narratives-Hecale Ancient Scholia</strong> (Διηγήσεις Ἑκάλης Ἀρχαῖα Σχόλια) are ancient explanatory notes on Callimachus’s fragmentary hexameter poem <strong>Hecale</strong>. As scholia, they comprise a commentary containing glosses, mythological explanations, and interpretive notes compiled from earlier Hellenistic and Roman scholarship. This specific set appears to focus on providing narrative summaries (διηγήσεις) for parts of the poem, with the extant material consisting of two passages.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Content</h3>\n<p class=\"research-text\">The scholia address several exegetical topics:</p>\n<ul class=\"research-list\">\n<li class=\"research-item\">Textual explanation of rare words and grammatical constructions.</li>\n<li class=\"research-item\">Exposition of mythological references within the <strong>Hecale</strong>.</li>\n<li class=\"research-item\">Prose paraphrases or narrative summaries of the poetic text.</li>\n</ul>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Transmission</h3>\n<p class=\"research-text\">The scholia are transmitted within the medieval manuscript tradition of Callimachus’s works, notably in manuscripts such as the 11th-century <strong>codex Laurentianus</strong> (Florence, Biblioteca Medicea Laurenziana, Pluteus 28.32). They survive as prose commentary interspersed with the fragmentary verses of the <strong>Hecale</strong>, which itself is preserved primarily through such scholia and quotations in later authors.</p>\n</div>\n<div class=\"research-section\">\n<h3 class=\"research-heading\">Significance</h3>\n<p class=\"research-text\">These scholia are a crucial philological source for reconstructing the lost text of Callimachus’s <strong>Hecale</strong> and for understanding ancient scholarly reception of Hellenistic poetry. They preserve otherwise unknown fragments and reflect the methods of the Alexandrian grammatical tradition, indirectly shaping later European literary culture through their transmission of Callimachean poetics.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "230 col10 (18)",
+      "text": "Ἑκάλης Ἀκταίη τις ἔναιεν Ἐρεχθέος ἔν ποτε γουνῷ Θησεὺς φυγὼν τὴν ἐκ Μηδείης ἐπιβουλὴν διὰ πάσης ἦν φυλακῆς τῷ πατρὶ Αἰγεῖ, ἅτ’ αἰφνίδιον ἀνακομισθὲν ἐκ Τροιζῆνος μειράκιον αὐτῷ οὐ προσδοκήσαντι. βουλόμενος δ’ ἐπὶ τὸν λυμαινόμενον τὰ περὶ Μαραθῶνα ταῦρον ἐξελθεῖν ὅπως χειρώσαιτο, καὶ εἰργόμενος, κρύφα τῆς οἰκίας ἐξελθὼν περὶ ἑσπέραν ἀπῆρεν. αἰφνίδιον δὲ ὑετοῦ ῥαγέντος κατ’ ἐσχατιὰν οἰκίδιον θεασάμενος Ἑκάλης τινὸς πρεσβύτιδος ἐνταῦθα ἐξενοδοκήθη. πρὸς δὲ τὴν ἕω ἀναστὰς ἐξῄε̣ι ἐπὶ τὴν χώραν, χειρωσάμενος δὲ τὸν ταῦρον ἐπανῄει ὡς τὴν Ἑκάλην· αἰφνίδιο̣ν̣ δὲ̣ ταύτην εὑρὼν τεθνηκυῖαν ἐπιστε[νάξ]ας ὡς ἐψευσμένος τῆς προσδο̣κίας, ὃ ἐφ[ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "230 col11",
+      "text": "... ]εν μετὰ θάνατον εἰς ἀμοιβὴν τῆς ξενίας τ̣α̣ύ̣τῃ παρασχέσθαι, τοῦτο ἐπετέλεσεν δ[ῆ]μ̣ον συνστησάμενος ὃν̣ ἀ̣π’ αὐτῆς ὠνόμα̣[σ]εν, καὶ τέμενος ἱδρύσατο Ἑκαλείου Δι̣[ό]ς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vmw-an",
+      "title": {
+        "english": "Argument of Hecale",
+        "ancient_greek": "Προοίμιον Ἑκάλης"
+      },
+      "url_slug": "callimachus-scholia-hecale-vmw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-aj",
+      "title": {
+        "english": "Commentary-Aetia I",
+        "ancient_greek": "Ὑπόμνημα εἰς Αἴτια Α΄"
+      },
+      "url_slug": "callimachus-scholia-aetia-aj-vmw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/aetia-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ab",
+      "title": {
+        "english": "Fragments of Scholia of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα Σχολίων ἀδήλου θέσεως"
+      },
+      "url_slug": "callimachus-scholia-uncertain-placement-vmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/uncertain-placement",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/uncertain-placement.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ak",
+      "title": {
+        "english": "Narratives of Fables",
+        "ancient_greek": "Διηγήσεις Μύθων"
+      },
+      "url_slug": "callimachus-scholia-narratives-vmw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ag",
+      "title": {
+        "english": "Narratives-Aetia Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Αἴτια Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-aetia-vmw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-aetia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-aetia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-aetia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-aetia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-aetia.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-aa",
+      "title": {
+        "english": "Narratives-Hymns I and II Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Ὕμνους Α' καὶ Β' Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-hymns-vmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hymns.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ae",
+      "title": {
+        "english": "Narratives-Iambos Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Ἴαμβον Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-iambos-vmw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-iambos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-iambos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-iambos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-iambos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-iambos.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-af",
+      "title": {
+        "english": "Narratives-Lyrica Ancient Scholia",
+        "ancient_greek": "Διηγήσεις εἰς Λυρικὰ Ἀρχαῖα Σχόλια"
+      },
+      "url_slug": "callimachus-scholia-narratives-lyrica-vmw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-lyrica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-lyrica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-lyrica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-lyrica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-lyrica.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-am",
+      "title": {
+        "english": "Scholia on Hymn III (Manuscript)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-am-vmw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-al",
+      "title": {
+        "english": "Scholia on Hymn III (P.Oxy. fragments)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-al-vmw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-al.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-as",
+      "title": {
+        "english": "Scholia on Iambi (Marginal)",
+        "ancient_greek": "Σχόλια εἰς Ἴαμβον"
+      },
+      "url_slug": "callimachus-scholia-iambos-as-vmw-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/iambos-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-as.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ar",
+      "title": {
+        "english": "Scholia on Iambi (Narrative Summaries)",
+        "ancient_greek": "Σχόλια εἰς Ἴαμβον"
+      },
+      "url_slug": "callimachus-scholia-iambos-ar-vmw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/iambos-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/iambos-ar.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mus-aa",
+      "title": {
+        "english": "Bithynian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "asclepiades-of-myrlea-historical-fragments-mus-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepiades-of-myrlea/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "tqa-aj",
+      "title": {
+        "english": "Grammatical Fragment",
+        "ancient_greek": "Γραμματικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "anonymous-greek-grammarian-fragment-aj-tqa-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-greek-grammarian/fragment-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-greek-grammarian/fragment-aj.json"
+      }
+    },
+    {
+      "eul_wid": "nkm-aa",
+      "title": {
+        "english": "Mythical Histories and Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sostratus-of-nyssa-mythical-histories-nkm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sostratus-of-nyssa/mythical-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sostratus-of-nyssa/mythical-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sostratus-of-nyssa/mythical-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sostratus-of-nyssa/mythical-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sostratus-of-nyssa/mythical-histories.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bl",
+      "title": {
+        "english": "On Paronyms",
+        "ancient_greek": "Περὶ παρωνύμων"
+      },
+      "url_slug": "herodian-of-alexandria-paronyms-qnq-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/paronyms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/paronyms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/paronyms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/paronyms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/paronyms.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ah",
+      "title": {
+        "english": "On the Corruptions of Speech, Later Part",
+        "ancient_greek": "Περὶ τῶν Διαφθορῶν τοῦ Λόγου"
+      },
+      "url_slug": "herodian-of-alexandria-corruptions-speech-ah-qnq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/corruptions-speech-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/corruptions-speech-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/corruptions-speech-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/corruptions-speech-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/corruptions-speech-ah.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ac",
+      "title": {
+        "english": "On the Difference of Related Words",
+        "ancient_greek": "Περὶ Διαφορᾶς Συγγενῶν Λέξεων"
+      },
+      "url_slug": "philon-of-byblos-difference-words-oow-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/difference-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/difference-words.json"
+      }
+    },
+    {
+      "eul_wid": "pdm-ab",
+      "title": {
+        "english": "Proverbs of Diogenianus",
+        "ancient_greek": "Παροιμίαι δημώδεις ἐκ τῆς Διογενιανοῦ συναγωγῆς"
+      },
+      "url_slug": "diogenianus-of-heraclea-proverbs-ab-pdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenianus-of-heraclea/proverbs-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-ab.json"
+      }
+    },
+    {
+      "eul_wid": "cto-ak",
+      "title": {
+        "english": "Scholia on Euripides (Glosses)",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδην"
+      },
+      "url_slug": "xenophon-scholia-euripides-ak-cto-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/euripides-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/euripides-ak.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/callimachus-scholia/narratives-hecale",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hecale.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hecale.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hecale.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/narratives-hecale.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
