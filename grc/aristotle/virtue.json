@@ -1,0 +1,376 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hgw-by",
+  "eul_aid": "hgw",
+  "author_slug": "aristotle",
+  "work_slug": "virtue",
+  "url_slug": "aristotle-virtue-hgw-by",
+  "author": {
+    "english": "Aristotle",
+    "ancient_greek": "Ἀριστοτέλης"
+  },
+  "title": {
+    "english": "Hymn to Virtue",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Aristotle's Hymn to Virtue by Aristotle on Eulogikon",
+    "meta_title": "Classical Hymn to Virtue by Aristotle in Ancient Greek Text",
+    "meta_description": "A philosophical hymn to Virtue attributed to Aristotle. This poetic fragment explores ethical ideals. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Hymn to Virtue</strong> is a fragmentary poem attributed to Aristotle, preserved exclusively as a quotation within the biographical work <strong>Lives of the Eminent Philosophers</strong> by Diogenes Laertius. It is an encomium that personifies Virtue as a divine figure, addressing her as a goddess for whom mortals must labor. The poem praises Virtue as the noblest pursuit in life, a prize more valuable than gold, parents, or even restful sleep. It illustrates the supreme value of this pursuit through mythological exemplars, noting that for her sake the divine Heracles and the sons of Leda endured great labors, while heroes like Achilles and Ajax descended to the house of Hades. The hymn also serves as a memorial, directly referencing Hermias of Atarneus, Aristotle&#x27;s friend and patron, stating that for love of Virtue&#x27;s form he caused the sun to be bereft of its light—a poetic allusion to his execution. The work concludes by asserting that such virtuous deeds bring immortal fame, which the Muses, daughters of Memory, will forever celebrate. As a rare poetic and personal expression within the Aristotelian corpus, the hymn presents virtue not merely as an ethical concept but as a divine goal worthy of heroic sacrifice. Its conception of virtue as a transcendent ideal later influenced Stoic and Neoplatonic thought, and its explicit connection to Hermias was historically cited in charges of impiety leveled against Aristotle.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἀρετὰ πολύμοχθε γένει βροτείωι, θήραμα κάλλιστον βίωι, σᾶς πέρι, παρθένε, μορφᾶς καὶ θανεῖν ζηλωτὸς ἐν Ἑλλάδι πότμος καὶ πόνους τλῆναι μαλεροὺς ἀκάμαντας· τοῖον ἐπὶ φρένα βάλλεις καρπὸν ἰσαθάνατον χρυσοῦ τε κρείσσω καὶ γονέων μαλακαυγήτοιό θ’ ὕπνου. σεῦ δ’ ἕνεκεν 〈καὶ〉 ὁ δῖος Ἡρακλῆς Λήδας τε κοῦροι πόλλ’ ἀνέτλασαν ἐν ἔργοις σὰν †[ .. ]έποντες δύναμιν†· σοῖς τε πόθοις Ἀχιλεὺς Αἴας τ’ Ἀίδαο δόμους ἦλθον· σᾶς δ’ ἕνεκεν φιλίου μορφᾶς Ἀταρνέος ἔντροφος ἀελίου χήρωσεν αὐγάς. τοιγὰρ ἀοίδιμος ἔργοις, ἀθάνατόν τέ μιν αὐξήσουσι Μοῦσαι, Μναμοσύνας θύγατρες, Δι ὸς ξενίου σέβας αὔξου σαι φιλίας τε γέρας βεβαίου.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hgw-an",
+      "title": {
+        "english": "Aristotelian Divisions",
+        "ancient_greek": "Διαιρέσεις Ἀριστοτελικαί"
+      },
+      "url_slug": "aristotle-divisions-hgw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-cb",
+      "title": {
+        "english": "Aristotle's Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "aristotle-letters-philip-hgw-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-aa",
+      "title": {
+        "english": "Aristotle's Natural Problems by Type",
+        "ancient_greek": "᾿Αριστοτέλους φυσικά προβλήματα κατ᾿ εἶδος"
+      },
+      "url_slug": "aristotle-natural-problems-hgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bp",
+      "title": {
+        "english": "Categories",
+        "ancient_greek": "Κατηγορίαι"
+      },
+      "url_slug": "aristotle-categories-hgw-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-br",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικά"
+      },
+      "url_slug": "aristotle-economics-hgw-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ba",
+      "title": {
+        "english": "Eudemian Ethics",
+        "ancient_greek": "Ἠθικὰ Εὐδήμεια"
+      },
+      "url_slug": "aristotle-eudemian-ethics-hgw-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ad",
+      "title": {
+        "english": "Fragments of Lost First Part",
+        "ancient_greek": "Ἀθηναίων πολιτεία"
+      },
+      "url_slug": "aristotle-lost-first-part-hgw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/lost-first-part",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ar",
+      "title": {
+        "english": "From-Things Heard",
+        "ancient_greek": "Ἐκ τοῦ περὶ ἀκουστῶν"
+      },
+      "url_slug": "aristotle-things-heard-hgw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/things-heard",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bg",
+      "title": {
+        "english": "Great Ethics",
+        "ancient_greek": "Μεγάλα Ἠθικά"
+      },
+      "url_slug": "aristotle-great-ethics-hgw-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/great-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ak",
+      "title": {
+        "english": "Alexander's Anabasis",
+        "ancient_greek": "Ἀλεξάνδρου Ἀνάβασις"
+      },
+      "url_slug": "arrian-of-nicomedia-anabasis-pcs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.json"
+      }
+    },
+    {
+      "eul_wid": "uim-ab",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Book VII",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἠθικὰ Νικομάχεια Βιβλίον Ζ'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cl",
+      "title": {
+        "english": "Consolation to His Wife",
+        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
+      },
+      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/consolation-wife",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ag",
+      "title": {
+        "english": "Epitome of Comparison of Aristophanes and Menander",
+        "ancient_greek": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή"
+      },
+      "url_slug": "plutarch-of-chaeronea-comparison-aristophanes-menander-okg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/comparison-aristophanes-menander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/comparison-aristophanes-menander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/comparison-aristophanes-menander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/comparison-aristophanes-menander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/comparison-aristophanes-menander.json"
+      }
+    },
+    {
+      "eul_wid": "kkk-ad",
+      "title": {
+        "english": "On Seeming and Being",
+        "ancient_greek": "Περὶ τοῦ δοκεῖν καὶ τοῦ εἶναι"
+      },
+      "url_slug": "teles-of-megara-seeming-being-kkk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/seeming-being",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/seeming-being.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/seeming-being.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/seeming-being.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/seeming-being.json"
+      }
+    },
+    {
+      "eul_wid": "jtc-aa",
+      "title": {
+        "english": "Stoic Ethical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "herillus-of-carthage-ethical-fragments-jtc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herillus-of-carthage/ethical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage/ethical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage/ethical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage/ethical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herillus-of-carthage/ethical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "okg-du",
+      "title": {
+        "english": "Themistocles",
+        "ancient_greek": "Θεμιστοκλῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-themistocles-okg-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/themistocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/themistocles.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristotle/virtue",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtue.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtue.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtue.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/virtue.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

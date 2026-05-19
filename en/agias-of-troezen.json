@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aby",
+  "auth_slug": "agias-of-troezen",
+  "name": {
+    "english": "Agias of Troezen",
+    "ancient_greek": "Ἀγίας ὁ Τροιζήνιος"
+  },
+  "seo_h1": "Agias of Troezen and the Argolic Histories",
+  "seo": {
+    "browser_title": "Agias of Troezen Historian on Eulogikon Greek Archive",
+    "meta_title": "Agias of Troezen Ancient Greek Historical Fragments",
+    "meta_description": "Agias of Troezen was a 7th-6th century BCE Greek historian. Read his surviving historical fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agias of Troezen is an obscure figure identified as a prose historian from the Archaic period, likely the 7th or 6th century BCE. No substantive biographical details survive. The name appears elsewhere for a legendary seer, credited by Pausanias with the epic poem Nostoi, and for an Olympic victor from Troezen. Major scholarly encyclopedias contain no entry for a historian of this name.</p>\n<p class=\"research-text\">He is credited with a single historical work, but no title or content is recorded in standard reference sources. The Suda might preserve a mention, but his existence as an author cannot be confirmed from the major sources consulted.</p>\n<p class=\"research-text\">His complete absence from the principal references makes his historical significance unestablished. If he existed as an early prose writer, he would belong to the formative period of Greek historiography, preceding Hecataeus and Herodotus. He may be a conflation with the other known figures from Troezen named Agias.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aby-aa",
+      "title": {
+        "english": "Argolic Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agias-of-troezen-histories-myths-aby-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/agias-of-troezen/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agias-of-troezen",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agias-of-troezen.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agias-of-troezen.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agias-of-troezen.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agias-of-troezen.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

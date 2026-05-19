@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "peq",
+  "auth_slug": "favorinus-of-arelate",
+  "name": {
+    "english": "Favorinus of Arelate",
+    "ancient_greek": "Φαβωρῖνος ὁ Ἀρελάτης"
+  },
+  "seo_h1": "Favorinus of Arelate on Old Age and Pyrrhonian Doubt",
+  "seo": {
+    "browser_title": "Favorinus of Arelate on Eulogikon Greek Archive Collection",
+    "meta_title": "Favorinus of Arelate Ancient Greek Works and Texts",
+    "meta_description": "Favorinus of Arelate, a 2nd-century CE Roman sophist. His surviving philosophical writings. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pyrrhonian",
+      "href": "/affiliations/pyrrhonian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Favorinus of Arelate was a Roman sophist and philosopher of the 2nd century CE, born in Gaul. He was a leading intellectual during the reigns of emperors Trajan and Hadrian. A student of the rhetorician Dio Chrysostom, Favorinus was celebrated for his mastery of Greek rhetoric and became a central figure in the Second Sophistic, a movement reviving Greek learning within the Roman Empire.</p>\n<p class=\"research-text\">His relationship with Emperor Hadrian was fraught, leading to his exile around 130 CE, though he was later recalled. Ancient sources also report he was a hermaphrodite from birth, a condition that led to a notable trial for adultery, from which he was acquitted.</p>\n<p class=\"research-text\">Favorinus was a prolific writer in an elegant, classical Greek style, but his works survive only in fragments. His writings were wide-ranging and included an encyclopedic &quot;Miscellaneous History,&quot; philosophical treatises like &quot;On Exile&quot; and &quot;On Pyrrho&#x27;s Way of Life,&quot; and rhetorical showpieces such as the &quot;Corinthian Oration.&quot; According to modern scholars, his treatise &quot;On Pyrrho&#x27;s Way of Life&quot; confirms his philosophical alignment with Pyrrhonian skepticism. His arguments against Stoic theories of knowledge are considered an important part of ongoing philosophical debates in his era.</p>\n<p class=\"research-text\">His significance lies in his embodiment of the cosmopolitan intellectual culture of the Roman Empire. As a Gaul who became a master of Greek rhetoric and philosophy, he illustrates the fluid exchange of ideas and identity in the period. His career and exile also highlight the precarious position of intellectuals dependent on imperial favor. Although his works are lost, the surviving fragments provide valuable insight into the philosophical and social dynamics of the 2nd century.</p>\n</div>",
+  "affiliation_label": "Pyrrhonian",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "peq-aa",
+      "title": {
+        "english": "Fragments on Old Age and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γήρως καὶ Ἡδονῆς"
+      },
+      "url_slug": "favorinus-of-arelate-old-age-pleasure-peq-aa",
+      "passages": 166,
+      "links": {
+        "html": "https://eulogikon.org/grc/favorinus-of-arelate/old-age-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate/old-age-pleasure.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate/old-age-pleasure.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate/old-age-pleasure.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/favorinus-of-arelate/old-age-pleasure.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "qou",
+      "name": {
+        "english": "Sextus the Empiricist",
+        "ancient_greek": "Σέξτος ὁ Ἐμπειρικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/sextus-empiricus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sextus-empiricus.json"
+      }
+    },
+    {
+      "eul_aid": "hnu",
+      "name": {
+        "english": "Timon of Phlius",
+        "ancient_greek": "Τίμων ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/timon-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timon-of-phlius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/favorinus-of-arelate",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/favorinus-of-arelate.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

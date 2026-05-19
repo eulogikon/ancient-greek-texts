@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hgw-ai",
+  "eul_aid": "hgw",
+  "author_slug": "aristotle",
+  "work_slug": "memory-recollection",
+  "url_slug": "aristotle-memory-recollection-hgw-ai",
+  "author": {
+    "english": "Aristotle",
+    "ancient_greek": "Ἀριστοτέλης"
+  },
+  "title": {
+    "english": "On Memory and Recollection",
+    "ancient_greek": "Περὶ Μνήμης καὶ Ἀναμνήσεως"
+  },
+  "seo": {
+    "browser_title": "On Memory and Recollection by Aristotle on Eulogikon",
+    "meta_title": "On Memory and Recollection by Aristotle in Ancient Greek",
+    "meta_description": "Aristotle's treatise on memory and recollection as mental faculties from his Parva Naturalia. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Memory and Recollection</strong> is a philosophical treatise by Aristotle, composed in the mid-4th century BCE. It forms a concise but integral part of his <strong>Parva Naturalia</strong>, a series of short works examining the interconnected functions of the living being. The treatise offers a systematic analysis of two distinct cognitive faculties. Aristotle first defines memory as a persistent state or impression arising from a past sensory experience, contending that genuine memory is exclusively of the past and inherently involves an awareness of time. He then distinguishes recollection as an active, investigative process of retrieving a memory, which he likens to a kind of reasoning. This process, he argues, operates through natural associative links such as similarity, contrast, and contiguity. The work represents a foundational element of Aristotle&#x27;s scientific project to account for the activities of the soul, providing a rigorous philosophical distinction between passive retention and active recall while integrating this account with a physiological explanation centered on the body&#x27;s primary sensory organ. Its analysis established core concepts that profoundly influenced subsequent developments in philosophy, psychology, and the theory of knowledge.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Mem 449b (t)",
+      "text": "ΠΕΡΙ ΜΝΗΜΗΣ ΚΑΙ ΑΝΑΜΝΗΣΕΩΣ Περὶ μνήμης καὶ τοῦ μνημονεύειν λεκτέον τί ἐστι καὶ διὰ τίν’ αἰτίαν γίγνεται καὶ τίνι τῶν τῆς ψυχῆς μορίων συμβαίνει τοῦτο τὸ πάθος καὶ τὸ ἀναμιμνήσκεσθαι· οὐ γὰρ οἱ αὐτοί εἰσι μνημονικοὶ καὶ ἀναμνηστικοί, ἀλλ’ ὡς ἐπὶ τὸ πολὺ μνημονικώτεροι μὲν οἱ βραδεῖς, ἀναμνηστικώτεροι δὲ οἱ ταχεῖς καὶ εὐμαθεῖς. πρῶτον μὲν οὖν σκεπτέον ποῖά ἐστι τὰ μνημονευτά· πολλάκις γὰρ ἐξαπατᾷ τοῦτο. οὔτε γὰρ τὸ μέλλον ἐνδέχεται μνημονεύειν, ἀλλ’ ἔστι δοξαστὸν καὶ ἐλπιστόν (εἴη δ’ ἂν καὶ ἐπιστήμη τις ἐλπιστική, καθάπερ τινές φασι τὴν μαντικήν), οὔτε τοῦ παρόντος, ἀλλ’ αἴσθησις· ταύτῃ γὰρ οὔτε τὸ μέλλον οὔτε τὸ γενόμενον γνωρίζομεν, ἀλλὰ τὸ παρὸν μόνον. ἡ δὲ μνήμη τοῦ γενομένου· τὸ δὲ παρὸν ὅτε πάρεστιν, οἷον τοδὶ τὸ λευκὸν ὅτε ὁρᾷ, οὐδεὶς ἂν φαίη μνημονεύειν, οὐδὲ τὸ θεωρούμενον, ὅτε θεωρῶν τυγχάνει καὶ νοῶν, ἀλλὰ τὸ μὲν αἰσθάνεσθαί φησι, τὸ δ’ ἐπίστασθαι μόνον· ὅταν δ’ ἄνευ τῶν ἔργων σχῇ τὴν ἐπιστήμην καὶ τὴν αἴσθησιν, οὕτω μέμνηται [τὰς τοῦ τριγώνου ὅτι δύο ὀρθαῖς ἴσαι], τὸ μὲν ὅτι ἔμαθεν ἢ ἐθεώρησεν, τὸ δὲ ὅτι ἤκουσεν ἢ εἶδεν ἤ τι τοιοῦτον· ἀεὶ γὰρ ὅταν ἐνεργῇ κατὰ τὸ μνημονεύειν, οὕτως ἐν τῇ ψυχῇ λέγει, ὅτι πρότερον τοῦτο ἤκουσεν ἢ ᾔσθετο ἢ ἐνόησεν. ἔστι μὲν οὖν ἡ μνήμη οὔτε αἴσθησις οὔτε ὑπόληψις, ἀλλὰ τούτων τινὸς ἕξις ἢ πάθος, ὅταν γένηται χρόνος. τοῦ δὲ νῦν ἐν τῷ νῦν οὐκ ἔστι μνήμη, καθάπερ εἴρηται [καὶ πρότερον], ἀλλὰ τοῦ μὲν παρόντος αἴσθησις, τοῦ δὲ μέλλοντος ἐλπίς, τοῦ δὲ γενομένου μνήμη· διὸ μετὰ χρόνου πᾶσα μνήμη. ὥσθ’ ὅσα χρόνου αἰσθάνεται, ταῦτα μόνα τῶν ζῴων μνημονεύει, καὶ τούτῳ ᾧ αἰσθάνεται. ἐπεὶ δὲ περὶ φαντασίας εἴρηται πρότερον ἐν τοῖς περὶ ψυχῆς, καὶ νοεῖν οὐκ ἔστιν ἄνευ φαντάσματος—συμβαίνει γὰρ τὸ αὐτὸ πάθος ἐν τῷ νοεῖν ὅπερ καὶ ἐν τῷ διαγράφειν· ἐκεῖ τε γὰρ οὐθὲν προσχρώμενοι τῷ τὸ ποσὸν ὡρισμένον εἶναι τοῦ τριγώνου, ὅμως γράφομεν ὡρισμένον κατὰ τὸ ποσόν, καὶ ὁ νοῶν ὡσαύτως, κἂν μὴ ποσὸν νοῇ, τίθεται πρὸ ὀμμάτων ποσόν, νοεῖ δ’ οὐχ ᾗ ποσόν· ἂν δ’ ἡ φύσις ᾖ τῶν ποσῶν, ἀορίστων δέ, τίθεται μὲν ποσὸν ὡρισμένον, νοεῖ δ’ ᾗ ποσὸν μόνον—διὰ τίνα μὲν οὖν αἰτίαν οὐκ ἐνδέχεται νοεῖν οὐδὲν ἄνευ συνεχοῦς, οὐδ’ ἄνευ χρόνου τὰ μὴ ἐν χρόνῳ ὄντα, ἄλλος λόγος· μέγεθος δ’ ἀναγκαῖον γνωρίζειν καὶ κίνησιν ᾧ καὶ χρόνον· [καὶ τὸ φάντασμα τῆς κοινῆς αἰσθήσεως πάθος ἐστίν] ὥστε φανερὸν ὅτι τῷ πρώτῳ αἰσθητικῷ τούτων ἡ γνῶσίς ἐστιν· ἡ δὲ μνήμη, καὶ ἡ τῶν νοητῶν, οὐκ ἄνευ φαντάσματός ἐστιν, 〈καὶ τὸ φάντασμα τῆς κοινῆς αἰσθήσεως πάθος ἐστίν〉· ὥστε τοῦ νοῦ μὲν κατὰ συμβεβηκὸς ἂν εἴη, καθ’ αὑτὸ δὲ τοῦ πρώτου αἰσθητικοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 450a",
+      "text": "διὸ καὶ ἑτέροις τισὶν ὑπάρχει τῶν ζῴων, καὶ οὐ μόνον ἀνθρώποις καὶ τοῖς ἔχουσι δόξαν ἢ φρόνησιν. εἰ δὲ τῶν νοητικῶν τι μορίων ἦν, οὐκ ἂν ὑπῆρχε πολλοῖς τῶν ἄλλων ζῴων, ἴσως δ’ οὐδενὶ τῶν ἀνοήτων, ἐπεὶ οὐδὲ νῦν πᾶσι διὰ τὸ μὴ πάντα χρόνου αἴσθησιν ἔχειν· ἀεὶ γὰρ ὅταν ἐνεργῇ τῇ μνήμῃ, καθάπερ καὶ πρότερον εἴπομεν, ὅτι εἶδε τοῦτο ἢ ἤκουσεν ἢ ἔμαθε, προσαισθάνεται ὅτι πρότερον· τὸ δὲ πρότερον καὶ ὕστερον ἐν χρόνῳ ἐστίν. τίνος μὲν οὖν τῶν τῆς ψυχῆς ἐστι μνήμη, φανερόν, ὅτι οὗπερ καὶ ἡ φαντασία· καί ἐστι μνημονευτὰ καθ’ αὑτὰ μὲν ὧν ἐστι φαντασία, κατὰ συμβεβηκὸς δὲ ὅσα μὴ ἄνευ φαντασίας. ἀπορήσειε δ’ ἄν τις πῶς ποτε τοῦ μὲν πάθους παρόντος τοῦ δὲ πράγματος ἀπόντος μνημονεύεται τὸ μὴ παρόν. δῆλον γὰρ ὅτι δεῖ νοῆσαι τοιοῦτον τὸ γιγνόμενον διὰ τῆς αἰσθήσεως ἐν τῇ ψυχῇ καὶ τῷ μορίῳ τοῦ σώματος τῷ ἔχοντι αὐτήν—οἷον ζωγράφημά τι [τὸ πάθος] οὗ φαμεν τὴν ἕξιν μνήμην εἶναι· ἡ γὰρ γιγνομένη κίνησις ἐνσημαίνεται οἷον τύπον τινὰ τοῦ αἰσθήματος, καθάπερ οἱ σφραγιζόμενοι τοῖς δακτυλίοις. διὸ καὶ τοῖς μὲν ἐν κινήσει πολλῇ διὰ πάθος ἢ δι’ ἡλικίαν οὖσιν οὐ γίγνεται μνήμη, καθάπερ ἂν εἰς ὕδωρ ῥέον ἐμπιπτούσης τῆς κινήσεως καὶ τῆς σφραγῖδος· τοῖς δὲ διὰ τὸ ψήχεσθαι, καθάπερ τὰ παλαιὰ τῶν οἰκοδομημάτων, καὶ διὰ σκληρότητα τοῦ δεχομένου τὸ πάθος οὐκ ἐγγίγνεται ὁ τύπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 450b",
+      "text": "διόπερ οἵ τε σφόδρα νέοι καὶ οἱ γέροντες ἀμνήμονές εἰσιν· ῥέουσι γὰρ οἱ μὲν διὰ τὴν αὔξησιν, οἱ δὲ διὰ τὴν φθίσιν. ὁμοίως δὲ καὶ οἱ λίαν ταχεῖς καὶ οἱ λίαν βραδεῖς οὐδέτεροι φαίνονται μνήμονες· οἱ μὲν γάρ εἰσιν ὑγρότεροι τοῦ δέοντος, οἱ δὲ σκληρότεροι· τοῖς μὲν οὖν οὐ μένει τὸ φάντασμα ἐν τῇ ψυχῇ, τῶν δ’ οὐχ ἅπτεται. ἀλλ’ εἰ δὴ τοιοῦτόν ἐστι τὸ συμβαῖνον περὶ τὴν μνήμην, πότερον τοῦτο μνημονεύει τὸ πάθος, ἢ ἐκεῖνο ἀφ’ οὗ ἐγένετο; εἰ μὲν γὰρ τοῦτο, τῶν ἀπόντων οὐδὲν ἂν μνημονεύοιμεν· εἰ δ’ ἐκεῖνο, πῶς αἰσθανόμενοι τοῦτο μνημονεύομεν οὗ μὴ αἰσθανόμεθα, τὸ ἀπόν; εἴ τ’ ἐστὶν ὅμοιον ὥσπερ τύπος ἢ γραφὴ ἐν ἡμῖν, ἡ τούτου αἴσθησις διὰ τί ἂν εἴη μνήμη ἑτέρου, ἀλλ’ οὐκ αὐτοῦ τούτου; ὁ γὰρ ἐνεργῶν τῇ μνήμῃ θεωρεῖ τὸ πάθος τοῦτο καὶ αἰσθάνεται τούτου. πῶς οὖν τὸ μὴ παρὸν μνημονεύσει; εἴη γὰρ ἂν καὶ ὁρᾶν τὸ μὴ παρὸν καὶ ἀκούειν. ἢ ἔστιν ὡς ἐνδέχεται καὶ συμβαίνειν τοῦτο; οἷον γὰρ τὸ ἐν πίνακι γεγραμμένον ζῷον καὶ ζῷόν ἐστι καὶ εἰκών, καὶ τὸ αὐτὸ καὶ ἓν τοῦτ’ ἐστὶν ἄμφω, τὸ μέντοι εἶναι οὐ ταὐτὸν ἀμφοῖν, καὶ ἔστι θεωρεῖν καὶ ὡς ζῷον καὶ ὡς εἰκόνα, οὕτω καὶ τὸ ἐν ἡμῖν φάντασμα δεῖ ὑπολαβεῖν καὶ αὐτό τι καθ’ αὑτὸ εἶναι καὶ ἄλλου [φάντασμα]. ᾗ μὲν οὖν καθ’ αὑτό, θεώρημα ἢ φάντασμά ἐστιν, ᾗ δ’ ἄλλου, οἷον εἰκὼν καὶ μνημόνευμα. ὥστε καὶ ὅταν ἐνεργῇ ἡ κίνησις αὐτοῦ, ἂν μὲν ᾗ καθ’ αὑτό ἐστι, ταύτῃ αἰσθάνηται ἡ ψυχὴ αὐτοῦ, οἷον νόημά τι ἢ φάντασμα φαίνεται ἐπελθεῖν· ἂν δ’ ᾗ ἄλλου καὶ ὥσπερ ἐν τῇ γραφῇ ὡς εἰκόνα θεωρεῖ καί, μὴ ἑωρακὼς τὸν Κορίσκον, ὡς Κορίσκου, ἐνταῦθά τε ἄλλο τὸ πάθος τῆς θεωρίας ταύτης καὶ ὅταν ὡς ζῷον γεγραμμένον θεωρῇ, ἔν τε τῇ ψυχῇ τὸ μὲν γίγνεται ὥσπερ νόημα μόνον, τὸ δ’ ὡς ἐκεῖ ὅτι εἰκών, μνημόνευμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 451a",
+      "text": "καὶ διὰ τοῦτο ἐνίοτ’ οὐκ ἴσμεν, ἐγγινομένων ἡμῖν ἐν τῇ ψυχῇ τοιούτων κινήσεων ἀπὸ τοῦ αἰσθέσθαι πρότερον, εἰ κατὰ τὸ ᾐσθῆσθαι συμβαίνει, καὶ εἰ ἔστι μνήμη ἢ οὔ, διστάζομεν· ὁτὲ δὲ συμβαίνει ἐννοῆσαι καὶ ἀναμνησθῆναι ὅτι ἠκούσαμέν τι πρότερον ἢ εἴδομεν. τοῦτο δὲ συμβαίνει, ὅταν θεωρῶν ὡς αὐτὸ μεταβάλλῃ καὶ θεωρῇ ὡς ἄλλου. γίγνεται δὲ καὶ τοὐναντίον, οἷον συνέβη Ἀντιφέροντι τῷ Ὠρείτῃ καὶ ἄλλοις ἐξισταμένοις· τὰ γὰρ φαντάσματα ἔλεγον ὡς γενόμενα καὶ ὡς μνημονεύοντες. τοῦτο δὲ γίγνεται ὅταν τις τὴν μὴ εἰκόνα ὡς εἰκόνα θεωρῇ. αἱ δὲ μελέται τὴν μνήμην σῴζουσι τῷ ἐπαναμιμνήσκειν· τοῦτο δ’ ἐστὶν οὐδὲν ἕτερον ἢ τὸ θεωρεῖν πολλάκις ὡς εἰκόνα καὶ μὴ ὡς καθ’ αὑτό. τί μὲν οὖν ἐστι μνήμη καὶ τὸ μνημονεύειν, εἴρηται, ὅτι φαντάσματος, ὡς εἰκόνος οὗ φάντασμα, ἕξις, καὶ τίνος μορίου τῶν ἐν ἡμῖν, ὅτι τοῦ πρώτου αἰσθητικοῦ καὶ ᾧ χρόνου αἰσθανόμεθα. Περὶ δὲ τοῦ ἀναμιμνήσκεσθαι λοιπὸν εἰπεῖν. πρῶτον μὲν οὖν ὅσα ἐν τοῖς ἐπιχειρηματικοῖς λόγοις ἐστὶν ἀληθῆ, δεῖ τιθέναι ὡς ὑπάρχοντα. οὔτε γὰρ μνήμης ἐστὶν ἀνάληψις ἡ ἀνάμνησις οὔτε λῆψις· ὅταν γὰρ τὸ πρῶτον μάθῃ ἢ πάθῃ, οὔτ’ ἀναλαμβάνει μνήμην οὐδεμίαν (οὐδεμία γὰρ προγέγονεν) οὔτ’ ἐξ ἀρχῆς λαμβάνει· ὅταν γὰρ ἐγγένηται ἡ ἕξις ἢ τὸ πάθος, τότε μνήμη ἐστίν, ὥστε μετὰ τοῦ πάθους ἐγγινομένου οὐκ ἐγγίνεται. ἔτι δ’ ὅτε τὸ πρῶτον ἐγγέγονε τῷ ἀτόμῳ καὶ ἐσχάτῳ, τὸ μὲν πάθος ἐνυπάρχει ἤδη τῷ παθόντι καὶ ἡ ἐπιστήμη, εἰ δεῖ καλεῖν ἐπιστήμην τὴν ἕξιν ἢ τὸ πάθος (οὐθὲν δὲ κωλύει κατὰ συμβεβηκὸς καὶ μνημονεύειν ἔνια ὧν ἐπιστάμεθα)· τὸ δὲ μνημονεύειν καθ’ αὑτὸ οὐχ ὑπάρχει πρὶν χρονισθῆναι· μνημονεύει γὰρ νῦν ὃ εἶδεν ἢ ἔπαθε πρότερον, οὐχ ὃ νῦν ἔπαθε, νῦν μνημονεύει. ἔτι δὲ φανερὸν ὅτι μνημονεύειν ἔστι μὴ νῦν ἀναμνησθέντα, ἀλλ’ ἐξ ἀρχῆς αἰσθόμενον ἢ παθόντα· ἀλλ’ ὅταν ἀναλαμβάνῃ ἣν πρότερον εἶχεν ἐπιστήμην ἢ αἴσθησιν ἢ οὗ ποτε τὴν ἕξιν ἐλέγομεν μνήμην, τοῦτ’ ἐστὶ καὶ τότε τὸ ἀναμιμνήσκεσθαι τῶν εἰρημένων τι, τῷ δὲ μνημονεύειν συμβαίνει καὶ μνήμην ἀκολουθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 451b",
+      "text": "οὐδὲ δὴ ταῦτα ἁπλῶς, ἐὰν ἔμπροσθεν ὑπάρξαντα πάλιν ἐγγένηται, ἀλλ’ ἔστιν ὡς, ἔστι δ’ ὡς οὔ. δὶς γὰρ μαθεῖν καὶ εὑρεῖν ἐνδέχεται τὸν αὐτὸν τὸ αὐτό· δεῖ οὖν διαφέρειν τὸ ἀναμιμνήσκεσθαι τούτων, καὶ ἐνούσης πλείονος ἀρχῆς ἢ ἐξ ἧς μανθάνουσιν ἀναμιμνήσκεσθαι. συμβαίνουσι δ’ αἱ ἀναμνήσεις ἐπειδὴ πέφυκεν ἡ κίνησις ἥδε γενέσθαι μετὰ τήνδε· εἰ μὲν ἐξ ἀνάγκης, δῆλον ὡς ὅταν ἐκείνην κινηθῇ, τήνδε κινηθήσεται· εἰ δὲ μὴ ἐξ ἀνάγκης ἀλλ’ ἔθει, ὡς ἐπὶ τὸ πολὺ κινηθήσεται. συμβαίνει δ’ ἐνίας ἅπαξ ἐθισθῆναι μᾶλλον ἢ ἑτέρας πολλάκις κινουμένους· διὸ ἔνια ἅπαξ ἰδόντες μᾶλλον μνημονεύομεν ἢ ἕτερα πολλάκις. ὅταν οὖν ἀναμιμνησκώμεθα, κινούμεθα τῶν προτέρων τινὰ κινήσεων, ἕως ἂν κινηθῶμεν μεθ’ ἣν ἐκείνη εἴωθεν. διὸ καὶ τὸ ἐφεξῆς θηρεύομεν νοήσαντες ἀπὸ τοῦ νῦν ἢ ἄλλου τινός, καὶ ἀφ’ ὁμοίου ἢ ἐναντίου ἢ τοῦ σύνεγγυς. διὰ τοῦτο γίγνεται ἡ ἀνάμνησις· αἱ γὰρ κινήσεις τούτων τῶν μὲν αἱ αὐταί, τῶν δ’ ἅμα, τῶν δὲ μέρος ἔχουσιν, ὥστε τὸ λοιπὸν μικρὸν ὃ ἐκινήθη μετ’ ἐκεῖνο. ζητοῦσι μὲν οὖν οὕτω, καὶ μὴ ζητοῦντες δ’ οὕτως ἀναμιμνήσκονται, ὅταν μεθ’ ἑτέραν κίνησιν ἐκείνη γένηται· ὡς δὲ τὰ πολλὰ ἑτέρων γενομένων κινήσεων οἵων εἴπομεν ἐγένετο ἐκείνη. οὐδὲν δὲ δεῖ σκοπεῖν τὰ πόρρω, πῶς μεμνήμεθα, ἀλλὰ τὰ σύνεγγυς· δῆλον γὰρ ὅτι ὁ αὐτός ἐστι τρόπος. [λέγω δὲ τὸ ἐφεξῆς οὐ προζητήσας οὐδ’ ἀναμνησθείς.] τῷ γὰρ ἔθει ἀκολουθοῦσιν αἱ κινήσεις ἀλλήλαις, ἥδε μετὰ τήνδε, καὶ ὅταν τοίνυν ἀναμιμνήσκεσθαι βούληται, τοῦτο ποιήσει· ζητήσει λαβεῖν ἀρχὴν κινήσεως, μεθ’ ἣν ἐκείνη ἔσται. διὸ τάχιστα καὶ κάλλιστα γίνονται ἀπ’ ἀρχῆς αἱ ἀναμνήσεις· ὡς γὰρ ἔχουσι τὰ πράγματα πρὸς ἄλληλα τῷ ἐφεξῆς, οὕτω καὶ αἱ κινήσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 452a",
+      "text": "καὶ ἔστιν εὐμνημόνευτα ὅσα τάξιν τινὰ ἔχει, ὥσπερ τὰ μαθήματα· τὰ δὲ φαύλως καὶ χαλεπῶς. καὶ τούτῳ διαφέρει τὸ ἀναμιμνήσκεσθαι τοῦ πάλιν μανθάνειν, ὅτι δυνήσεταί πως δι’ αὑτοῦ κινηθῆναι ἐπὶ τὸ μετὰ τὴν ἀρχήν. ὅταν δὲ μή, ἀλλὰ δι’ ἄλλου, οὐκέτι μέμνηται. πολλάκις δ’ ἤδη μὲν ἀδυνατεῖ ἀναμνησθῆναι, ζητῶν δὲ δύναται καὶ εὑρίσκει. τοῦτο δὲ γίγνεται κινοῦντι πολλά, ἕως ἂν τοιαύτην κινήσῃ κίνησιν ᾗ ἀκολουθήσει τὸ πρᾶγμα. τὸ γὰρ μεμνῆσθαί ἐστι τὸ ἐνεῖναι δύναμιν τὴν κινοῦσαν· τοῦτο δέ, ὥστ’ ἐξ αὑτοῦ καὶ ὧν ἔχει κινήσεων κινηθῆναι, ὥσπερ εἴρηται. δεῖ δὲ λαβέσθαι ἀρχῆς· διὸ ἀπὸ τόπων δοκοῦσιν ἀναμιμνήσκεσθαι ἐνίοτε. τὸ δ’ αἴτιον ὅτι ταχὺ ἀπ’ ἄλλου ἐπ’ ἄλλο ἔρχονται, οἷον ἀπὸ γάλακτος ἐπὶ λευκόν, ἀπὸ λευκοῦ δ’ ἐπ’ ἀέρα, καὶ ἀπὸ τούτου ἐφ’ ὑγρόν, ἀφ’ οὗ ἐμνήσθη μετοπώρου, ταύτην ἐπιζητῶν τὴν ὥραν. ἔοικε δὲ καθόλου ἀρχῇ καὶ τὸ μέσον πάντων· εἰ γὰρ μὴ πρότερον, ὅταν ἐπὶ τοῦτο ἔλθῃ μνησθήσεται, ἢ οὐκέτ’ οὐδὲ ἄλλοθεν, οἷον εἴ τις νοήσειεν ἐφ’ ὧν Α Β Γ Δ Ε Ζ Η Θ 〈Ι〉· εἰ γὰρ μὴ ἐπὶ τοῦ Ι μέμνηται, ἐπὶ τοῦ Ε μνησθήσεται· ἐντεῦθεν γὰρ ἐπ’ ἄμφω κινηθῆναι ἐνδέχεται, καὶ ἐπὶ τὸ Δ καὶ ἐπὶ τὸ Ζ. εἰ δὲ μὴ τούτων τι ἐζήτει, ἐπὶ τὸ Γ ἐλθὼν μνησθήσεται, εἰ τὸ Α ἢ τὸ Β ἐπιζητεῖ, εἰ δὲ μή, ἐπὶ τὸ Η· καὶ οὕτως ἀεί. τοῦ δ’ ἀπὸ τοῦ αὐτοῦ ἐνίοτε μὲν μνησθῆναι, ἐνίοτε δὲ μή, αἴτιον ὅτι ἐπὶ πλείω ἐνδέχεται κινηθῆναι ἀπὸ τῆς αὐτῆς ἀρχῆς, οἷον ἀπὸ τοῦ Γ ἐπὶ τὸ Β ἢ τὸ Δ. ἐὰν οὖν διὰ πολλοῦ κινηθῇ, ἐπὶ τὸ συνηθέστερον κινεῖται· ὥσπερ γὰρ φύσις ἤδη τὸ ἔθος. διὸ ἃ πολλάκις ἐννοοῦμεν, ταχὺ ἀναμιμνησκόμεθα· ὥσπερ γὰρ φύσει τόδε μετὰ τόδε ἐστίν, οὕτω καὶ ἐνεργείᾳ· τὸ δὲ πολλάκις φύσιν ποιεῖ. ἐπεὶ δ’ ὥσπερ ἐν τοῖς φύσει γίγνεται καὶ παρὰ φύσιν καὶ ἀπὸ τύχης, ἔτι μᾶλλον ἐν τοῖς δι’ ἔθος, οἷς ἡ φύσις γε μὴ ὁμοίως ὑπάρχει, ὥστε κινηθῆναι ἐνίοτε κἀκεῖ καὶ ἄλλως, ἄλλως τε καὶ ὅταν ἀφέλκῃ 〈τι〉 ἐκεῖθεν αὐτόσε πῃ, διὰ τοῦτο καὶ ὅταν δέῃ ὄνομα μνημονεῦσαι, παρόμοιον 〈εἰ〉 ἴσμεν, εἰς ἐκεῖνο σολοικίζομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 452b",
+      "text": "τὸ μὲν οὖν ἀναμιμνήσκεσθαι τοῦτον συμβαίνει τὸν τρόπον. τὸ δὲ μέγιστον, γνωρίζειν δεῖ τὸν χρόνον, ἢ μέτρῳ ἢ ἀορίστως. ἔστω δέ τι ᾧ κρίνει τὸν πλείω καὶ ἐλάττω· εὔλογον δ’ ὥσπερ τὰ μεγέθη· νοεῖ γὰρ τὰ μεγάλα καὶ πόρρω οὐ τῷ ἀποτείνειν ἐκεῖ τὴν διάνοιαν ὥσπερ τὴν ὄψιν φασί τινες (καὶ γὰρ μὴ ὄντων ὁμοίως νοήσει), ἀλλὰ τῇ ἀνάλογον κινήσει· ἔστι γὰρ ἐν αὐτῇ τὰ ὅμοια σχήματα καὶ κινήσεις. τίνι οὖν διοίσει, ὅταν τὰ μείζω νοῇ, ὅτι ἐκεῖνα νοεῖ ἢ τὰ ἐλάττω; πάντα γὰρ τὰ ἐντὸς ἐλάττω, καὶ ἀνὰ λόγον [καὶ τὰ ἐκτός]. ἔστι δ’ ἴσως ὥσπερ καὶ τοῖς εἴδεσιν ἀνάλογον λαβεῖν ἄλλο ἐν αὑτῷ, οὕτως καὶ τοῖς ἀποστήμασιν. ὥσπερ οὖν εἰ τὴν Α Β Β Ε κινεῖται, ποιεῖ τὴν Γ Δ· ἀνάλογον γὰρ ἡ Α Γ καὶ ἡ Γ Δ. τί οὖν μᾶλλον τὴν Γ Δ ἢ τὴν Ζ Η ποιεῖ; ἢ ὡς ἡ Α Γ πρὸς τὴν Α Β ἔχει, οὕτως ἡ Θ πρὸς τὴν Ι ἔχει; ταύτας οὖν ἅμα κινεῖται. ἂν δὲ τὴν Ζ Η βούληται νοῆσαι, τὴν μὲν Β Ε ὁμοίως νοεῖ, ἀντὶ δὲ τῶν Θ Ι τὰς Κ Λ νοεῖ· αὗται γὰρ ἔχουσιν ὡς Ζ Α πρὸς Β Α. ὅταν οὖν ἅμα ἥ τε τοῦ πράγματος γίγνηται κίνησις καὶ ἡ τοῦ χρόνου, τότε τῇ μνήμῃ ἐνεργεῖ. ἂν δ’ οἴηται μὴ ποιῶν, οἴεται μνημονεύειν· οὐθὲν γὰρ κωλύει διαψευσθῆναί τινα καὶ δοκεῖν μνημονεύειν μὴ μνημονεύοντα. ἐνεργοῦντα δὲ τῇ μνήμῃ μὴ οἴεσθαι ἀλλὰ λανθάνειν μεμνημένον οὐκ ἔστιν· τοῦτο γὰρ ἦν αὐτὸ τὸ μεμνῆσθαι. ἀλλ’ ἐὰν ἡ τοῦ πράγματος γένηται χωρὶς τῆς τοῦ χρόνου ἢ αὕτη ἐκείνης, οὐ μέμνηται. ἡ δὲ τοῦ χρόνου διττή ἐστιν· ὁτὲ μὲν γὰρ μέτρῳ οὐ μέμνηται αὐτόν, οἷον ὅτι τρίτῃ ἡμέρᾳ ὁδήποτε ἐποίησεν, ὁτὲ δὲ καὶ μέτρῳ· ἀλλὰ μέμνηται καὶ ἐὰν μὴ μέτρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 453a",
+      "text": "εἰώθασι δὲ λέγειν ὅτι μέμνηνται μέν, πότε μέντοι οὐκ ἴσασιν, ὅταν μὴ γνωρίζωσι τοῦ πότε τὸ ποσὸν μέτρῳ. ὅτι μὲν οὖν οὐχ οἱ αὐτοὶ μνημονικοὶ καὶ ἀναμνηστικοί, ἐν τοῖς πρότερον εἴρηται. διαφέρει δὲ τοῦ μνημονεύειν τὸ ἀναμιμνήσκεσθαι οὐ μόνον κατὰ τὸν χρόνον, ἀλλ’ ὅτι τοῦ μὲν μνημονεύειν καὶ τῶν ἄλλων ζῴων μετέχει πολλά, τοῦ δ’ ἀναμιμνήσκεσθαι οὐδὲν ὡς εἰπεῖν τῶν γνωριζομένων ζῴων, πλὴν ἄνθρωπος. αἴτιον δ’ ὅτι τὸ ἀναμιμνήσκεσθαί ἐστιν οἷον συλλογισμός τις· ὅτι γὰρ πρότερον εἶδεν ἢ ἤκουσεν ἤ τι τοιοῦτον ἔπαθε, συλλογίζεται ὁ ἀναμιμνησκόμενος, καὶ ἔστιν οἷον ζήτησίς τις. τοῦτο δ’ οἷς καὶ τὸ βουλευτικὸν ὑπάρχει, φύσει μόνοις συμβέβηκεν· καὶ γὰρ τὸ βουλεύεσθαι συλλογισμός τίς ἐστιν. ὅτι δ’ ἐστὶ σωματικόν τι τὸ πάθος, καὶ ἡ ἀνάμνησις ζήτησις ἐν τοιούτῳ φαντάσματος, σημεῖον τὸ παρενοχλεῖν ἐνίους ἐπειδὰν μὴ δύνωνται ἀναμνησθῆναι καὶ πάνυ ἐπέχοντες τὴν διάνοιαν, καὶ οὐκέτ’ ἐπιχειροῦντας ἀναμιμνήσκεσθαι οὐδὲν ἧττον, καὶ μάλιστα τοὺς μελαγχολικούς· τούτους γὰρ φαντάσματα κινεῖ μάλιστα. αἴτιον δὲ τοῦ μὴ ἐπ’ αὐτοῖς εἶναι [τὸ ἀναμιμνήσκεσθαι], ὅτι καθάπερ τοῖς βάλλουσιν οὐκέτι ἐπ’ αὐτοῖς τὸ στῆσαι, οὕτως καὶ ὁ ἀναμιμνησκόμενος καὶ θηρεύων σωματικόν τι κινεῖ, ἐν ᾧ τὸ πάθος. μάλιστα δ’ ἐνοχλοῦνται οἷς ἂν ὑγρότης τύχῃ ὑπάρχουσα περὶ τὸν αἰσθητικὸν τόπον· οὐ γὰρ ῥᾳδίως παύεται κινηθεῖσα, ἕως ἂν ἐπανέλθῃ τὸ ζητούμενον καὶ εὐθυπορήσῃ ἡ κίνησις. διὸ καὶ ὀργαὶ καὶ φόβοι, ὅταν τι κινήσωσιν, ἀντικινούντων πάλιν τούτων οὐ καθίστανται, ἀλλ’ ἐπὶ τὸ αὐτὸ ἀντικινοῦσιν. καὶ ἔοικε τὸ πάθος τοῖς ὀνόμασι καὶ μέλεσι καὶ λόγοις, ὅταν διὰ στόματος γένηταί τι αὐτῶν σφόδρα· παυσαμένοις γὰρ καὶ οὐ βουλομένοις ἐπέρχεται πάλιν ᾄδειν ἢ λέγειν. εἰσὶ δὲ καὶ οἱ τὰ ἄνω μείζω ἔχοντες καὶ οἱ νανώδεις ἀμνημονέστεροι τῶν ἐναντίων διὰ τὸ πολὺ βάρος ἔχειν ἐπὶ τῷ αἰσθητικῷ, καὶ μήτ’ ἐξ ἀρχῆς τὰς κινήσεις δύνασθαι ἐμμένειν ἀλλὰ διαλύεσθαι μήτ’ ἐν τῷ ἀναμιμνήσκεσθαι ῥᾳδίως εὐθυπορεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Mem 453b",
+      "text": "οἱ δὲ πάμπαν νέοι καὶ λίαν γέροντες ἀμνήμονες διὰ τὴν κίνησιν· οἱ μὲν γὰρ ἐν φθίσει, οἱ δ’ ἐν αὐξήσει πολλῇ εἰσίν· ἔτι δὲ τά γε παιδία καὶ νανώδη ἐστὶ μέχρι πόρρω τῆς ἡλικίας. περὶ μὲν οὖν μνήμης καὶ τοῦ μνημονεύειν, τίς ἡ φύσις αὐτῶν καὶ τίνι τῶν τῆς ψυχῆς μνημονεύει τὰ ζῷα, καὶ περὶ τοῦ ἀναμιμνήσκεσθαι, τί ἐστι καὶ πῶς γίγνεται καὶ διὰ τίνας αἰτίας, εἴρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hgw-an",
+      "title": {
+        "english": "Aristotelian Divisions",
+        "ancient_greek": "Διαιρέσεις Ἀριστοτελικαί"
+      },
+      "url_slug": "aristotle-divisions-hgw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-cb",
+      "title": {
+        "english": "Aristotle's Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "aristotle-letters-philip-hgw-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/letters-philip.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-aa",
+      "title": {
+        "english": "Aristotle's Natural Problems by Type",
+        "ancient_greek": "᾿Αριστοτέλους φυσικά προβλήματα κατ᾿ εἶδος"
+      },
+      "url_slug": "aristotle-natural-problems-hgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/natural-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/natural-problems.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bp",
+      "title": {
+        "english": "Categories",
+        "ancient_greek": "Κατηγορίαι"
+      },
+      "url_slug": "aristotle-categories-hgw-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/categories.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-az",
+      "title": {
+        "english": "Dialogic Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-dialogic-fragments-hgw-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/dialogic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/dialogic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-br",
+      "title": {
+        "english": "Economics",
+        "ancient_greek": "Οἰκονομικά"
+      },
+      "url_slug": "aristotle-economics-hgw-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/economics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/economics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ba",
+      "title": {
+        "english": "Eudemian Ethics",
+        "ancient_greek": "Ἠθικὰ Εὐδήμεια"
+      },
+      "url_slug": "aristotle-eudemian-ethics-hgw-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/eudemian-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/eudemian-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ad",
+      "title": {
+        "english": "Fragments of Lost First Part",
+        "ancient_greek": "Ἀθηναίων πολιτεία"
+      },
+      "url_slug": "aristotle-lost-first-part-hgw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/lost-first-part",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/lost-first-part.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ar",
+      "title": {
+        "english": "From-Things Heard",
+        "ancient_greek": "Ἐκ τοῦ περὶ ἀκουστῶν"
+      },
+      "url_slug": "aristotle-things-heard-hgw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/things-heard",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/things-heard.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bg",
+      "title": {
+        "english": "Great Ethics",
+        "ancient_greek": "Μεγάλα Ἠθικά"
+      },
+      "url_slug": "aristotle-great-ethics-hgw-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/great-ethics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/great-ethics.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-av",
+      "title": {
+        "english": "History of Animals",
+        "ancient_greek": "Περὶ Τὰ Ζῷα Ἱστορίαι"
+      },
+      "url_slug": "aristotle-history-animals-hgw-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/history-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/history-animals.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rvw-aa",
+      "title": {
+        "english": "Alchemical Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ἀλχημικά"
+      },
+      "url_slug": "iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis-ii/alchemical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "sno-ap",
+      "title": {
+        "english": "Beard-Hater",
+        "ancient_greek": "Μισοπώγων"
+      },
+      "url_slug": "julian-the-apostate-beard-hater-sno-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/beard-hater",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/beard-hater.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/beard-hater.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/beard-hater.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/beard-hater.json"
+      }
+    },
+    {
+      "eul_wid": "nac-aa",
+      "title": {
+        "english": "Book-the Sects of Philosophers",
+        "ancient_greek": "Περὶ Αἱρέσεων Φιλοσόφων"
+      },
+      "url_slug": "arius-didymus-of-alexandria-sects-philosophers-nac-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/arius-didymus-of-alexandria/sects-philosophers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/sects-philosophers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/sects-philosophers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/sects-philosophers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arius-didymus-of-alexandria/sects-philosophers.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ai",
+      "title": {
+        "english": "Comparison of Agis and Cleomenes and the Gracchi",
+        "ancient_greek": "Σύγκρισις Ἄγιδος καὶ Κλεομένους καὶ Γράκχων"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-gracchi-okg-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes-gracchi.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-as",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "proclus-the-successor-epigrams-as-uqy-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/epigrams-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/epigrams-as.json"
+      }
+    },
+    {
+      "eul_wid": "jow-aa",
+      "title": {
+        "english": "Fragment of a Letter to Cleareta",
+        "ancient_greek": "Ἀπόσπασμα ἐπιστολῆς πρὸς Κλεαρέταν"
+      },
+      "url_slug": "melissa-the-pythagorean-letter-cleareta-jow-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melissa-the-pythagorean/letter-cleareta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.json"
+      }
+    },
+    {
+      "eul_wid": "ifm-aa",
+      "title": {
+        "english": "How a Man Ought to Live Each Month",
+        "ancient_greek": "Πῶς ὀφείλει διαιτᾶσθαι ἄνθρωπος ἐφ ἑκάστῳ μηνί"
+      },
+      "url_slug": "herophilus-the-anatomist-monthly-living-ifm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/monthly-living",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/monthly-living.json"
+      }
+    },
+    {
+      "eul_wid": "kms-ad",
+      "title": {
+        "english": "Poetic Fragments",
+        "ancient_greek": "Ποιητικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "chrysippus-of-soli-poetic-fragments-kms-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/poetic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,685 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pdc-ap",
+  "eul_aid": "pdc",
+  "author_slug": "appian-of-alexandria",
+  "work_slug": "preface",
+  "url_slug": "appian-of-alexandria-preface-pdc-ap",
+  "author": {
+    "english": "Appian of Alexandria",
+    "ancient_greek": "Ἀππιανὸς Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Preface",
+    "ancient_greek": "Προοίμιον"
+  },
+  "seo": {
+    "browser_title": "Ancient Preface by Appian of Alexandria on Eulogikon",
+    "meta_title": "Classical Preface by Appian of Alexandria in Ancient Greek",
+    "meta_description": "Appian's Preface introduces the geographical extent and historical framework of Roman imperial dominion. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Appian of Alexandria’s Preface serves as the introduction to his second-century CE work, the Roman History. Composed in Greek during the 160s CE, this historiographical preface outlines the ambitious and innovative structure of his entire project. Appian explains that his history will not follow a conventional chronological narrative but will instead be organized according to geography and ethnicity. Separate books are dedicated to the wars between Rome and specific nations, such as the Carthaginians, Macedonians, and Celts, with the narrative designed to culminate in the Roman civil wars and the establishment of the imperial monarchy under Augustus. In concise terms, the author argues that this thematic arrangement best allows readers to comprehend the process by which Rome achieved and maintained its vast, enduring empire.</p>\n<p class=\"research-text\">A Greek from Alexandria who rose to high office within the Roman administration, Appian wrote for an educated audience fluent in both Greek and Latin. Modern scholars view his ethnographic and administrative framework as reflecting his professional background and his particular interest in explaining Rome’s territorial expansion and the political transition from republic to principate. The Preface survives intact within the manuscript tradition of Appian’s history. While much of the full Roman History is lost, the Preface and several key books have been preserved primarily in medieval Greek manuscripts dating from the tenth century onward. This introduction remains essential for understanding Appian’s distinctive historical method and his focus on the geopolitical and social forces that shaped the Roman world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Proem 1",
+      "text": "Τὴν Ῥωμαϊκὴν ἱστορίαν ἀρχόμενος συγγράφειν ἀναγκαῖον ἡγησάμην προτάξαι τοὺς ὅρους, ὅσων ἐθνῶν ἄρχουσι Ῥωμαῖοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 2",
+      "text": "εἰσὶ δὲ οἵδε· ἐν μὲν τῷ ὠκεανῷ Βρεττανῶν τοῦ πλείονος μέρους, διὰ δὲ τῶν Ἡρακλείων στηλῶν ἐς τήνδε τὴν θάλασσαν ἐσπλέοντί τε καὶ ἐπὶ τὰς αὐτὰς στήλας περιπλέοντι νήσων ἄρχουσι πασῶν καὶ ἠπείρων, ὅσαι καθήκουσιν ἐπὶ τὴν θάλασσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 3",
+      "text": "ὧν εἰσιν ἐν δεξιᾷ πρῶτοι Μαυρουσίων, ὅσοι περὶ τὴν θάλασσαν, ὅσα τε ἄλλα Λιβύων ἔθνη μέχρι Καρχηδόνος καὶ τούτων ὕπερθε Νομάδες, οὓς Ῥωμαῖοι καλοῦσι Νουμίδας καὶ τὴν χώραν Νουμιδίαν, ἕτεροι δὲ Λίβυες, ὅσοι περιοικοῦσι τὰς Σύρτεις μέχρι Κυρήνης, Κυρήνη τε αὐτὴ καὶ Μαρμαρίδαι καὶ Ἀμμώνιοι καὶ οἳ τὴν Μάρειαν λίμνην κατοικοῦσι, καὶ ἡ μεγάλη πόλις, ἣν Ἀλέξανδρος ἔθηκε πρὸ Αἰγύπτου, Αἴγυπτός τε αὐτὴ μέχρι Αἰθιόπων τῶν ἑῴων ἀνὰ τὸν Νεῖλον πλέοντι καὶ μέχρι Πηλουσίου διὰ θαλάσσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 4",
+      "text": "ἐπιστρέφοντι δὲ τὸν πλοῦν καὶ περιιόντι Συρία τε ἡ Παλαιστίνη καὶ ὑπὲρ αὐτὴν μοῖρα Ἀράβων, ἐχόμενοι δὲ τῶν Παλαιστινῶν Φοίνικες ἐπὶ τῇ θαλάσσῃ καὶ Φοινίκων ὕπερθεν ἥ τε Κοίλη Συρία καὶ μέχρι ἐπὶ ποταμὸν Εὐφράτην ἀπὸ θαλάσσης ἄνω Παλμυρηνοί τε καὶ ἡ Παλμυρηνῶν ψάμμος, ἐπ’ αὐτὸν Εὐφράτην καθήκουσα, Κίλικές τε Σύρων ἐχόμενοι καὶ Καππαδόκαι Κιλίκων ὅμοροι καὶ μέρος Ἀρμενίων, οὓς καλοῦσιν Ἀρμενίαν βραχυτέραν, παρά τε τὸν Εὔξεινον πόντον ἄλλα ὅσα Ποντικὰ Ῥωμαίων ὑπήκοα γένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 5",
+      "text": "Σύροι μὲν δὴ καὶ Κίλικες ἐς τήνδε τὴν θάλατταν ἀφορῶσιν, Ἀρμένιοι δὲ καὶ Καππαδόκαι ἔς τε τὰ Ποντικὰ γένη καθήκουσι καὶ ἀνὰ τὴν μεσόγαιον ἐπὶ τὴν καλουμένην Ἀρμενίαν μείζονα, ἧς Ῥωμαῖοι οὐκ ἄρχουσι μὲν ἐς φόρου κομιδήν, αὐτοὶ δὲ αὐτοῖς ἀποδεικνύουσι τοὺς βασιλέας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 6",
+      "text": "ἀπὸ δὲ Καππαδοκῶν καὶ Κιλίκων ἐς τὴν Ἰωνίαν καταβαίνοντι ἔστιν ἡ μεγάλη χερρόνησος· ὅ τε 〈γὰρ〉 πόντος ὁ Εὔξεινος καὶ ἡ Προποντὶς καὶ ὁ Ἑλλήσποντος ἐπὶ δεξιά, [καὶ τὸ Αἰγαῖον,] ἐκ δὲ λαιᾶς τὸ Παμφύλιον ἢ Αἰγύπτιον πέλαγος (λέγεται γὰρ ἄμφω) ποιεῖ χερρόνησον, καὶ εἰσὶν αὐτῆς οἳ μὲν εἰς τὸ Αἰγύπτιον πέλαγος ἀφορῶντες, Πάμφυλοί τε καὶ Λύκιοι καὶ μετ’ αὐτοὺς Καρία μέχρι Ἰωνίας, οἳ δ’ ἐπὶ τὸν Εὔξεινον καὶ τὴν Προποντίδα καὶ τὸν Ἑλλήσποντον, Γαλάται τε καὶ Βιθυνοὶ καὶ Μυσοὶ καὶ Φρύγες, ἐν δὲ μεσογαίῳ Πισίδαι τε καὶ Λυδοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 7",
+      "text": "τοσαῦτα ἔθνη τὴν χερρόνησον οἰκοῦσιν, καὶ πάντων ἄρχουσι Ῥωμαῖοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 8",
+      "text": "περάσαντες δὲ καὶ ἑτέρων ἐθνῶν ἄρχουσιν ἀμφὶ τὸν Πόντον καὶ Μυσῶν τῶν ἐν Εὐρώπῃ καὶ Θρᾳκῶν ὅσοι περὶ τὸν Εὔξεινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 9",
+      "text": "ἀπὸ δὲ Ἰωνίας κόλπος ἐστὶ θαλάσσης ὁ Αἰγαῖος καὶ ἕτερος Ἰονίου θαλάσσης καὶ ὁ Σικελικὸς πορθμὸς καὶ ἡ Τυρρηνικὴ θάλασσα μέχρι τῶν Ἡρακλείων στηλῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 10",
+      "text": "τοῦτο μῆκός ἐστιν ἀπ’ Ἰωνίας ἐπὶ τὸν ὠκεανόν, καὶ ἐν τῷδε αὖ τῷ παράπλῳ Ῥωμαίων ὑπήκοα τοσαῦτα, ἥ τε Ἑλλὰς πᾶσα καὶ Θεσσαλία καὶ Μακεδόνες καὶ ὅσα πρόσοικα ἄλλα Θρᾳκῶν καὶ Ἰλλυριῶν καὶ Παιόνων ἔθνη, αὐτή τε Ἰταλία μακροτάτη δὴ πάντων ἐθνῶν οὖσα καὶ ἀπὸ τοῦ Ἰονίου παρήκουσα ἐπὶ πλεῖστον τῆς Τυρρηνικῆς θαλάσσης μέχρι Κελτῶν, οὓς αὐτοὶ Γαλάτας προσαγορεύουσι, καὶ Κελτῶν, ὅσα ἔθνη τὰ μὲν ἐς τήνδε τὴν θάλασσαν, τὰ δὲ ἐς τὸν βόρειον ὠκεανὸν ἀφορᾷ, τὰ δὲ παρὰ Ῥῆνον ποταμὸν ᾤκηται, Ἰβηρία τε πᾶσα καὶ Κελτίβηρες, ἐπὶ τὸν ἑσπέριον καὶ βόρειον ὠκεανὸν καὶ τὰς Ἡρακλέους στήλας τελευτῶντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 12",
+      "text": "καὶ τούτων πέρι καὶ ἐφ’ ἑκάστου δηλώσω τὰ ἀκριβέστατα, ὅταν ἐς ἕκαστον ἔθνος ἡ γραφὴ περιίῃ. νῦν δέ, ὅσον ὅροις μεγάλοις τὴν ἀρχὴν περιλαβεῖν, κατὰ μὲν θάλασσαν εἴρηται, κατὰ δὲ γῆν περιοδεύοντι μοῖρά τε Μαυρουσίων ἂν εἴη τῶν παρ’ Αἰθίοψι τοῖς περὶ ἑσπέραν καὶ εἴ τι θερμότερον ἢ θηριῶδες ἄλλο Λιβύης μέχρι Αἰθιόπων τῶν ἑῴων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 14",
+      "text": "ταῦτα μὲν Λιβύης Ῥωμαίοις ὅροι, τῆς δὲ Ἀσίας ποταμός τε Εὐφράτης καὶ τὸ Καύκασον ὄρος καὶ ἡ Ἀρμενίας τῆς μείζονος ἀρχὴ καὶ Κόλχοι παρὰ τὴν Εὔξεινον θάλασσαν ᾠκημένοι καὶ τὰ λοιπὰ τοῦδε τοῦ πελάγους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 15",
+      "text": "ἐν δὲ τῇ Εὐρώπῃ ποταμοὶ δύο, Ῥῆνός τε καὶ Ἴστρος, μάλιστα τὴν Ῥωμαίων ἀρχὴν ὁρίζουσιν, καὶ τούτων Ῥῆνος μὲν ἐς τὸν βόρειον ὠκεανόν, Ἴστρος δὲ εἰς τὸν Εὔξεινον πόντον καταδιδοῖ. περάσαντες δέ πῃ καὶ τούσδε Κελτῶν τῶν ὑπὲρ Ῥῆνον ἄρχουσιν ἐνίων καὶ Γετῶν τῶν ὑπὲρ Ἴστρον, οὓς Δακοὺς καλοῦσιν. ὅροι μὲν οὗτοι κατ’ ἤπειρον, ὡς ἐγγύτατα ἐλθεῖν τοῦ ἀκριβοῦς· νῆσοι δὲ πᾶσαι, ὅσαι τῆς ἐντὸς θαλάσσης εἰσίν, αἵ τε Κυκλάδες καὶ Σποράδες ἢ Ἰάδες ἢ Ἐχινάδες ἢ Τυρρηνίδες ἢ Γυμνησίαι ἢ ὅσας ἄλλας ὀνομάζουσιν ἑτέρως περί τε Λιβύην καὶ τὸ Ἰόνιον ἢ Αἰγύπτιον ἢ Μυρτῷον ἢ Σικελικὸν ἢ ὅσα ἄλλα τῆσδε τῆς θαλάσσης ὀνόματα, ὅσαι τε ἐξαιρέτως ὑπὸ τῶν Ἑλλήνων ὀνομάζονται μεγάλαι νῆσοι, Κύπρος τε καὶ Κρήτη καὶ Ῥόδος καὶ Λέσβος καὶ Εὔβοια καὶ Σικελία καὶ Σαρδὼ καὶ Κύρνος καὶ εἴ τις ἄλλη μικροτέρα τε καὶ μείζων, ἅπαντα ταῦτ’ ἐστὶ Ῥωμαίοις ὑπήκοα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 18",
+      "text": "καὶ τὸν βόρειον ὠκεανὸν ἐς τὴν Βρεττανίδα νῆσον περάσαντες, ἠπείρου μεγάλης μείζονα, τὸ κράτιστον αὐτῆς ἔχουσιν ὑπὲρ ἥμισυ, οὐδὲν τῆς ἄλλης δεόμενοι· οὐ γὰρ εὔφορος αὐτοῖς ἐστιν οὐδ’ ἣν ἔχουσι. τούτων τοσούτων καὶ τηλικούτων ἐθνῶν ὄντων τὸ μέγεθος, Ἰταλίαν μὲν αὐτὴν ἐπιμόχθως τε καὶ μόλις ἐν πεντακοσίοις ἔτεσι κατειργάσαντο βεβαίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 20",
+      "text": "καὶ τούτων τὰ ἡμίσεα βασιλεῦσιν ἐχρῶντο, τὰ δὲ λοιπὰ τοὺς βασιλέας ἐκβαλόντες καὶ ἐπομόσαντες οὐκ ἀνέξεσθαι βασιλέων ἀριστοκρατίᾳ τε ἐχρήσαντο ἀπὸ τοῦδε καὶ προστάταις [ἄρχουσιν] ἐτησίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 21",
+      "text": "διακοσίοις δὲ μάλιστα ἑξῆς ἐπὶ τοῖς πεντακοσίοις ἐπὶ μέγα ἦλθεν ἡ ἀρχή, καὶ ξενικῆς τε δυνάμεως ἐκράτησαν ἀπείρου καὶ τὰ πλεῖστα τῶν ἐθνῶν τότε ὑπηγάγοντο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 22",
+      "text": "Γάιός τε Καῖσαρ, ὑπὲρ τοὺς τότε δυναστεύσας καὶ τὴν ἡγεμονίαν κρατυνάμενός τε καὶ διαθέμενος ἐς φυλακὴν ἀσφαλῆ, τὸ μὲν σχῆμα τῆς πολιτείας καὶ τὸ ὄνομα ἐφύλαξεν, μόναρχον δ’ ἑαυτὸν ἐπέστησε πᾶσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 23",
+      "text": "καὶ ἔστιν ἥδε ἡ ἀρχὴ μέχρι νῦν ὑφ’ ἑνὶ ἄρχοντι, οὓς βασιλέας μὲν οὐ λέγουσιν, ὡς ἐγὼ νομίζω, τὸν ὅρκον αἰδούμενοι τὸν πάλαι, αὐτοκράτορας δὲ ὀνομάζουσιν, ὃ καὶ τῶν προσκαίρων στρατηγῶν ὄνομα ἦν· εἰσὶ δὲ ἔργῳ τὰ πάντα βασιλεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 24",
+      "text": "καὶ ἔστι καὶ τοῖσδε τοῖς αὐτοκράτορσιν ἐς τὸν παρόντα χρόνον ἐγγυτάτω διακοσίων ἐτῶν ἄλλων, ἐν οἷς ἥ τε πόλις μάλιστα κατεκοσμήθη καὶ ἡ πρόσοδος ἐπὶ πλεῖστον ηὐξήθη καὶ πάντα ἐν εἰρήνῃ μακρᾷ καὶ εὐσταθεῖ προῆλθεν εἰς εὐδαιμονίαν ἀσφαλῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 25",
+      "text": "καί τινα καὶ τοῖς προτέροις ἔθνεσιν οἵδε οἱ αὐτοκράτορες ἐς τὴν ἡγεμονίαν προσέλαβον καὶ ἀφιστάμενα ἄλλα ἐκρατύναντο. ὅλως τε δι’ εὐβουλίαν τὰ κράτιστα γῆς καὶ θαλάσσης ἔχοντες σώζειν ἐθέλουσι μᾶλλον ἢ τὴν ἀρχὴν ἐς ἄπειρον ἐκφέρειν ἐπὶ βάρβαρα ἔθνη πενιχρὰ καὶ ἀκερδῆ, ὧν ἐγώ τινας εἶδον ἐν Ῥώμῃ πρεσβευομένους τε καὶ διδόντας ἑαυτοὺς ὑπηκόους εἶναι καὶ οὐ δεξάμενον βασιλέα ἄνδρας οὐδὲν αὐτῷ χρησίμους ἐσομένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 27",
+      "text": "ἔθνεσί τε ἄλλοις, ἀπείροις τὸ πλῆθος, αὐτοὶ διδόασι τοὺς βασιλέας, οὐδὲν αὐτῶν ἐς τὴν ἀρχὴν δεόμενοι· καὶ τῶν ὑπηκόων ἐνίοις προσαναλίσκουσιν, αἰδούμενοι καίπερ ἐπιζημίους ὄντας ἀποθέσθαι. τήν τε ἀρχὴν ἐν κύκλῳ περικάθηνται μεγάλοις στρατοπέδοις καὶ φυλάσσουσι τὴν τοσήνδε γῆν καὶ θάλασσαν ὥσπερ χωρίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 29",
+      "text": "ἀρχή τε οὐδεμία προῆλθέ πω μέχρι νῦν εἰς τοσοῦτο μεγέθους καὶ χρόνου. οὔτε γὰρ τὰ Ἑλλήνων, εἴ τις ὁμοῦ τὰ Ἀθηναίων καὶ Λακεδαιμονίων καὶ Θηβαίων, δυναστευσάντων παρὰ μέρος, ἀπὸ τῆς Δαρείου στρατείας, ὅθεν αὐτοῖς ἐστιν ἐλλαμπρύνεσθαι μάλιστα, ἐς τὴν Φιλίππου τοῦ Ἀμύντου τῆς Ἑλλάδος ἡγεμονίαν συναγάγοι, πολλὰ ἂν ἔτη φανείη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 30",
+      "text": "οἵ τε ἀγῶνες αὐτοῖς ἐγένοντο οὐκ ἐπὶ ἀρχῆς περικτήσει μᾶλλον ἢ φιλοτιμίᾳ πρὸς ἀλλήλους, καὶ οἱ λαμπρότατοι περὶ τῆς αὐτῶν ἐλευθερίας πρὸς ἀρχὰς ἄλλας ἐπιούσας. οἳ δέ τινες αὐτῶν ἐς Σικελίαν πλεύσαντες ἐπὶ ἀρχῆς ἑτέρας ἐλπίδι προσέπταισαν, ἤ, εἴ τις ἐς τὴν Ἀσίαν διῆλθεν, μικρὰ καὶ ὅδε δράσας εὐθὺς ἐπανῄει. ὅλως τε ἡ Ἑλληνικὴ δύναμις, καίπερ ἐκθύμως ὑπὲρ ἡγεμονίας ἀγωνισαμένων, οὐ προῆλθεν ὑπὲρ τὴν Ἑλλάδα βεβαίως, ἀλλὰ δεινοὶ μὲν ἐγένοντο ἀδούλωτον αὐτὴν καὶ ἀήττητον κατασχεῖν ἐπὶ πλεῖστον, ἀπὸ δὲ Φιλίππου τοῦ Ἀμύντου καὶ Ἀλεξάνδρου τοῦ Φιλίππου καὶ πάνυ μοι δοκοῦσι πρᾶξαι κακῶς καὶ ἀναξίως αὐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 32",
+      "text": "ἥ τε τῆς Ἀσίας ἀρχὴ ἔργων μὲν πέρι καὶ ἀρετῆς οὐδ’ ἐς τὰ σμικρότατα τῶν Εὐρωπαίων παραβάλλεται δι’ ἀσθένειαν καὶ ἀτολμίαν τῶν ἐθνῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 33",
+      "text": "καὶ τοῦτο δηλώσει καὶ ἥδε ἡ γραφὴ προϊοῦσα· ὀλίγαις γὰρ μάχαις Ῥωμαῖοι τοσούτων τῆς Ἀσίας ἐθνῶν κατέσχον, ὅσων 〈ἔτι νῦν〉 ἐπικρατοῦσι, καὶ ταῦτα Μακεδόνων αὐτῶν ὑπερμαχομένων, τὰ δὲ πολλὰ περὶ τὴν Λιβύην καὶ τὴν Εὐρώπην ἐξετρίφθησαν. Ἀσσυρίων τε αὖ καὶ Μήδων καὶ Περσῶν, τριῶν τῶνδε μεγίστων ἡγεμονιῶν εἰς Ἀλέξανδρον τὸν Φιλίππου, συντιθεμένων οὔτ’ ἂν ὁ χρόνος ἐφίκοιτο τῶν ἐνακοσίων ἐτῶν, ὅσα ἐστὶ Ῥωμαίοις ἐς τὸν παρόντα χρόνον, τό τε μέγεθος τῆς ἀρχῆς τῆς ἐκείνων οὐδὲ ἐς ἥμισυ νομίζω τῆσδε τῆς ἡγεμονίας ἀπαντᾶν, τεκμαιρόμενος, ὅτι Ῥωμαίοις ἀπό τε δύσεων καὶ τοῦ πρὸς ἑσπέραν ὠκεανοῦ ἐπὶ τὸ Καύκασον ὄρος καὶ ποταμὸν Εὐφράτην καὶ ἐς Αἰθίοπας τοὺς ἄνω Αἰγύπτου καὶ 〈δι’〉 Ἀράβων ἐπὶ τὸν ἑῷον ὠκεανὸν ἡ ἀρχὴ διεξέρχεται, καὶ ὅρος ἐστὶν αὐτοῖς ὁ ὠκεανὸς ἀνερχομένου τε καὶ δυομένου τοῦ θεοῦ, θαλάσσης τε πάσης ἡγεμονεύουσι τῆς ἐντὸς οὔσης καὶ νήσων ἁπασῶν καὶ ἐν τῷ ὠκεανῷ Βρεττανῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 36",
+      "text": "Μήδοις δὲ καὶ Πέρσαις ἥ τε πλείστη θάλασσα [ἢ] ὁ Παμφύλιος κόλπος ἦν καὶ μία νῆσος ἡ Κύπρος ἢ 〈εἰ〉 τί που ἄλλο σμικρὸν τῆς Ἰωνίας ἐν θαλάσσῃ· τοῦ τε Περσικοῦ κόλπου (καὶ γὰρ τοῦδε ἐκράτουν) πόσον τι καὶ τὸ τούτου πέλαγός ἐστιν; τὰ δὲ δὴ Μακεδόνων, τὰ μὲν πρὸ Φιλίππου τοῦ Ἀμύντου καὶ πάνυ σμικρὰ ἦν, καὶ ἔστιν ὧν ὑπήκουσαν· τὰ δὲ αὐτοῦ Φιλίππου πόνου μὲν καὶ ταλαιπωρίας ἔγεμεν οὐ μεμπτῆς, ἀλλὰ καὶ ταῦτα περὶ τὴν Ἑλλάδα καὶ τὰ πρόσχωρα μόνα ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 38",
+      "text": "ἐπὶ δὲ Ἀλεξάνδρου μεγέθει τε καὶ πλήθει καὶ εὐτυχίᾳ καὶ ταχυεργίᾳ διαλάμψασα ἡ ἀρχὴ καὶ ὀλίγου δεῖν εἰς ἄπειρον καὶ ἀμίμητον ἐλθοῦσα διὰ τὴν βραχύτητα τοῦ χρόνου προσέοικεν ἀστραπῇ λαμπρᾷ· ἧς γε καὶ διαλυθείσης ἐς πολλὰς σατραπείας ἐπὶ πλεῖστον ἐξέλαμπε τὰ μέρη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 39",
+      "text": "καὶ τοῖς ἐμοῖς βασιλεῦσι μόνοις ἦν στρατιά τε πεζῶν μυριάδες εἴκοσι καὶ μυριάδες ἱππέων τέσσαρες καὶ ἐλέφαντες πολεμισταὶ τριακόσιοι καὶ ἅρματα ἐς μάχας δισχίλια καὶ ὅπλα ἐς διαδοχὴν μυριάσι τριάκοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 40",
+      "text": "καὶ τάδε μὲν αὐτοῖς ἦν ἐς πεζομαχίαν, ἐς δὲ ναυμαχίας κοντωτὰ καὶ ὅσα σμικρότερα ἄλλα, δισχίλια, τριήρεις δὲ ἀπὸ ἡμιολίας μέχρι πεντήρους πεντακόσιαι καὶ χίλιαι καὶ σκεύη τριηριτικὰ διπλότερα τούτων θαλαμηγά τε χρυσόπρυμνα καὶ χρυσέμβολα ἐς πολέμου πομπήν, οἷς αὐτοὶ διαπλέοντες ἐπέβαινον οἱ βασιλεῖς, ὀκτακόσια, χρημάτων δ’ ἐν τοῖς θησαυροῖς τέσσαρες καὶ ἑβδομήκοντα μυριάδες ταλάντων Αἰγυπτίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 41",
+      "text": "ἐς γὰρ δὴ τοσοῦτο παρασκευῆς τε καὶ στρατιᾶς ἐκ τῶν βασιλικῶν ἀναγραφῶν φαίνεται προαγαγών τε καὶ καταλιπὼν ὁ δεύτερος Αἰγύπτου βασιλεὺς μετ’ Ἀλέξανδρον, ὃς καὶ πορίσαι δεινότατος ἦν βασιλέων καὶ δαπανῆσαι λαμπρότατος καὶ κατασκευάσαι μεγαλουργότατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 42",
+      "text": "φαίνεται δὲ καὶ πολλὰ τῶν ἄλλων σατραπῶν οὐ πολὺ τούτων ἀποδέοντα. ἀλλὰ πάντα ἐς τοὺς ἐπιγόνους αὐτῶν συνετρίφθη, φθαρέντας ἐς ἀλλήλους, ᾧ μόνως ἀρχαὶ μεγάλαι καταλύονται, στασιάσασαι. τὰ δὲ Ῥωμαίων μεγέθει τε καὶ χρόνῳ διήνεγκε δι’ εὐβουλίαν καὶ εὐτυχίαν ἔς τε τὴν περίκτησιν αὐτῶν ἀρετῇ καὶ φερεπονίᾳ καὶ ταλαιπωρίᾳ πάντας ὑπερῆραν, οὔτε ταῖς εὐπραγίαις ἐπαιρόμενοι, μέχρι βεβαίως ἐκράτησαν, οὔτε συστελλόμενοι ταῖς συμφοραῖς· ὧν γε καὶ δύο μυριάδες ἀνδρῶν ἐνίοτε μιᾶς ἡμέρας καὶ ἑτέρας τέσσαρες ἀπώλλυντο καὶ ἄλλης πέντε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 44",
+      "text": "καὶ περὶ τῆς πόλεως αὐτῆς πολλάκις ἐκινδύνευον, καὶ λιμοί τε καὶ λοιμοὶ συνεχεῖς καὶ στάσεις, ὁμοῦ πάντα ἐπιπίπτοντα, οὐκ ἀπέστησε τῆς φιλοτιμίας, ἕως ἑπτακοσίοις ἔτεσιν κακοπαθοῦντές τε καὶ κινδυνεύοντες ἀγχωμάλως τὴν ἀρχὴν ἐς τόδε προήγαγον καὶ τῆς εὐτυχίας ὤναντο διὰ τὴν εὐβουλίαν. καὶ τάδε πολλοὶ μὲν Ἑλλήνων, πολλοὶ δὲ Ῥωμαίων συνέγραψαν, καὶ ἔστιν ἡ ἱστορία τῆς Μακεδονικῆς, μεγίστης δὴ τῶν προτέρων οὔσης, πολὺ μείζων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 46",
+      "text": "ἀλλ’ ἐντυγχάνοντά με καὶ τὴν ἀρετὴν αὐτῶν ἐντελῆ καθ’ ἕκαστον ἔθνος ἰδεῖν ἐθέλοντα ἀπέφερεν ἡ γραφὴ πολλάκις ἀπὸ Καρχηδόνος ἐπὶ Ἴβηρας καὶ ἐξ Ἰβήρων ἐπὶ Σικελίαν ἢ Μακεδονίαν ἢ ἐπὶ πρεσβείας ἢ συμμαχίας ἐς ἄλλα ἔθνη γενομένας, εἶτ’ αὖθις ἐς Καρχηδόνα ἀνῆγεν ἢ Σικελίαν ὥσπερ ἀλώμενον καὶ πάλιν ἐκ τούτων ἀτελῶν ἔτι ὄντων μετέφερεν, ἕως οὗ τὰ μέρη συνήγαγον ἐμαυτῷ, ὁσάκις ἐς Σικελίαν ἐστράτευσαν ἢ ἐπρέσβευσαν ἢ ὁτιοῦν ἔπραξαν [ἐς Σικελίαν], μέχρι κατεστήσαντο αὐτὴν ἐς τὸν κόσμον τὸν παρόντα, ὁσάκις τε αὖ Καρχηδονίους ἐπολέμησαν ἢ ἐσπείσαντο ἢ ἐπρέσβευσαν ἐς αὐτοὺς ἢ πρεσβείας ἐδέξαντο παρ’ ἐκείνων ἢ ἔδρασαν ὁτιοῦν ἢ ἔπαθον πρὸς αὐτῶν, ἕως Καρχηδόνα κατέσκαψαν καὶ τὸ Λιβύων ἔθνος προσέλαβον καὶ αὖθις ᾤκισαν αὐτοῖς Καρχηδόνα καὶ Λιβύην κατέστησαν ἐς τὰ νῦν ὄντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 48",
+      "text": "καὶ τόδε μοι κατὰ ἔθνος ἕκαστον ἐπράχθη, βουλομένῳ τὰ ἐς ἑκάστους ἔργα Ῥωμαίων καταμαθεῖν, ἵνα τὴν τῶν ἐθνῶν ἀσθένειαν ἢ φερεπονίαν καὶ τὴν τῶν ἑλόντων ἀρετὴν ἢ εὐτυχίαν ἢ εἴ τι ἄλλο συγκύρημα συνηνέχθη, καταμάθοιμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 49",
+      "text": "νομίσας δ’ ἄν τινα καὶ ἄλλον οὕτως ἐθελῆσαι μαθεῖν τὰ Ῥωμαίων, συγγράφω κατὰ ἔθνος ἕκαστον· ὅσα δὲ ἐν μέσῳ πρὸς ἑτέρους αὐτοῖς ἐγένετο, ἐξαίρω καὶ εἰς τὰ ἐκείνων μετατίθημι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 50",
+      "text": "τοὺς δὲ χρόνους ἐπὶ μὲν πᾶσιν περισσὸν ἡγούμην καταλέγειν, ἐπὶ δὲ τῶν ἐπιφανεστάτων ἐκ διαστήματος ὑπομνήσω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 51",
+      "text": "καὶ τὰ ὀνόματα Ῥωμαίοις πάλαι μὲν ἦν ἕν, ὥσπερ ἀνθρώποις ἅπασιν, ἑκάστῳ, μετὰ δὲ ἐγένοντο δύο· καὶ οὐ πολὺς χρόνος, ἐξ οὗ καὶ τρίτον ἤρξατό τισιν ἐς ἐπίγνωσιν ἐκ πάθους ἢ ἀρετῆς προστίθεσθαι, καθὰ καὶ τῶν Ἑλλήνων τισὶν ἐπὶ τὰ ὀνόματα ἦσαν ἐπικλήσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 52",
+      "text": "ἐγὼ δὲ ἔστι μὲν ὅπου καὶ πάντων ἐπιμνήσομαι, καὶ μάλιστα ἐπὶ τῶν ἐπιφανῶν, ἐς γνώρισμα τῶν ἀνδρῶν· τὰ δὲ πολλὰ καὶ τούτους καὶ τοὺς ἄλλους, ἃ κυριώτατα ἡγοῦνται, προσαγορεύσω. τριῶν δὲ βίβλων οὐσῶν, αἳ τὰ ἐς τὴν Ἰταλίαν ὄντα αὐτοῖς πολλὰ πεπραγμένα συνάγουσιν, τὰς μὲν τρεῖς ἡγητέον εἶναι Ῥωμαϊκῶν Ἰταλικάς, διὰ δὲ πλῆθος ἔργων διῄρηνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 54",
+      "text": "καὶ δηλοῦσιν ἡ μὲν πρώτη τὰ τῶν βασιλέων ἑπτὰ γενομένων ἔργα, ἐφεξῆς ἅπαντα ἐφ’ ἑαυτῶν, ὡς ἐγένετο· καὶ αὐτὴν ἐπιγράφω Ῥωμαϊκῶν βασιλικήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 55",
+      "text": "ἡ δ’ ἑξῆς τὰ ἐς τὴν ἄλλην Ἰταλίαν, χωρίς γε τῆς παρὰ τὸν κόλπον τὸν Ἰόνιον· ἐς δὲ σύγκρισιν τῆς προτέρας ἥδε λέγεται [ἡ ἑξῆς] Ῥωμαϊκῶν Ἰταλική.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 56",
+      "text": "τελευταίῳ δὲ ἔθνει, Σαυνίταις, οἳ παρὰ τὸν Ἰόνιον ᾤκηνται, μεγάλῳ τε καὶ χαλεπῷ, ὀγδοήκοντα ἔτεσι συνεπλάκησαν, μέχρι καὶ τούσδε καὶ ὅσα σφίσιν ἐγγὺς ἔθνη συνεμάχει, καὶ Ἕλληνας, ὅσοι ὑπὸ τὴν Ἰταλίαν εἰσίν, ὑπηγάγοντο· καὶ ἔστιν ἥδε, τῶν προτέρων εἰς σύγκρισιν, Ῥωμαϊκῶν Σαυνιτική.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 57",
+      "text": "τὰ δὲ λοιπά, τούτων ἑκάστη κατὰ λόγον ἐπιγράφονται, Ῥωμαϊκῶν Κελτική τε καὶ Σικελικὴ καὶ Ἰβηρικὴ καὶ Ἀννιβαϊκὴ καὶ Καρχηδονιακὴ καὶ Μακεδονικὴ καὶ ἐφεξῆς ὁμοίως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 58",
+      "text": "τέτακται δ’ αὐτῶν ἄλλη μετ’ ἄλλην ὡς ἑκάστῳ πολέμῳ τὴν ἀρχὴν πρὸ ἑτέρου λαβεῖν συνέπεσεν, εἰ καὶ τὸ τέλος τῷ ἔθνει μετὰ πολλὰ ἕτερα γεγένηται. ὅσα δ’ αὐτοὶ Ῥωμαῖοι πρὸς ἀλλήλους ἐστασίασάν τε καὶ ἐπολέμησαν ἐμφύλια, φοβερώτερα σφίσι ταῦτα μάλιστα γενόμενα, ἐς τοὺς στρατηγοὺς τῶν στάσεων διῄρηται, τὰ μὲν ἐς Μάριόν τε καὶ Σύλλαν, τὰ δ’ ἐς Πομπήιόν τε καὶ Καίσαρα, τὰ δὲ ἐς Ἀντώνιόν τε καὶ τὸν ἕτερον Καίσαρα, τὸν Σεβαστὸν ἐπίκλην, πρὸς τοὺς ἀνδροφόνους τοῦ προτέρου Καίσαρος, τὰ δὲ ἐς 〈τὰ πρὸσ〉 ἀλλήλους, αὐτῶν Ἀντωνίου τε καὶ Καίσαρος στασιασάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 60",
+      "text": "ᾧ τινι τελευταίῳ τῶν ἐμφυλίων ὄντι καὶ Αἴγυπτος ὑπὸ Ῥωμαίους ἐγένετο καὶ τὰ Ῥωμαίων εἰς μοναρχίαν περιῆλθεν. ὧδε μὲν ἐς βίβλους ἕκαστα τῶν ἐθνῶν ἢ στρατηγῶν τὰ ἐμφύλια διῄρηται· ἡ δὲ τελευταία καὶ τὴν στρατιὰν αὐτῶν, ὅσην ἔχουσιν, ἢ πρόσοδον, ἣν καρποῦνται καθ’ ἕκαστον ἔθνος, ἢ εἴ τι προσαναλίσκουσιν εἰς τὰς ἐπινείους φρουρὰς ὅσα τε τοιουτότροπα ἄλλα ἐπιδείξει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 61",
+      "text": "ἁρμόζει δὲ ἀπὸ τοῦ γένους ἄρξασθαι τὸν περὶ τῆς ἀρετῆς αὐτῶν συγγράφοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Proem 62",
+      "text": "τίς δὲ ὢν ταῦτα συνέγραψα, πολλοὶ μὲν ἴσασι καὶ αὐτὸς προέφηνα, σαφέστερον δ’ εἰπεῖν, Ἀππιανὸς Ἀλεξανδρεύς, ἐς τὰ πρῶτα ἥκων ἐν τῇ πατρίδι καὶ δίκαις ἐν Ῥώμῃ συναγορεύσας ἐπὶ τῶν βασιλέων, μέχρι με σφῶν ἐπιτροπεύειν ἠξίωσαν. καὶ εἴ τῳ σπουδὴ καὶ τὰ λοιπὰ μαθεῖν, ἔστι μοι καὶ περὶ τούτου συγγραφή.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ab",
+      "title": {
+        "english": "Fragments of Roman History",
+        "ancient_greek": "Ἀποσπάσματα Ῥωμαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "appian-of-alexandria-roman-history-pdc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ai",
+      "title": {
+        "english": "From the Celtic",
+        "ancient_greek": "ἐκ τῆς Κελτῖκης"
+      },
+      "url_slug": "appian-of-alexandria-celtic-pdc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/celtic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/celtic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-af",
+      "title": {
+        "english": "From the Italian",
+        "ancient_greek": "ἐκ τῆς Ἰταλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-italian-pdc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/italian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ag",
+      "title": {
+        "english": "From the Nomadic",
+        "ancient_greek": "ἐκ τῆς Νομαδικῆς"
+      },
+      "url_slug": "appian-of-alexandria-nomadic-pdc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/nomadic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aj",
+      "title": {
+        "english": "From the Royal",
+        "ancient_greek": "ἐκ τῆς βασιλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-from-royal-pdc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/from-royal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/from-royal.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ae",
+      "title": {
+        "english": "From the Saunitic",
+        "ancient_greek": "ἐκ τῆς Σαυνιτικῆς"
+      },
+      "url_slug": "appian-of-alexandria-saunitic-pdc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/saunitic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/saunitic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aa",
+      "title": {
+        "english": "From the Sicilian and Island",
+        "ancient_greek": "ἐκ τῆς Σικελῖκης καὶ νησιωτικής"
+      },
+      "url_slug": "appian-of-alexandria-sicily-islands-pdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/sicily-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-al",
+      "title": {
+        "english": "Hannibalic",
+        "ancient_greek": "Ἀννιβαϊκή"
+      },
+      "url_slug": "appian-of-alexandria-hannibalic-pdc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/hannibalic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/hannibalic.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ao",
+      "title": {
+        "english": "Iberian",
+        "ancient_greek": "Ιβηρική"
+      },
+      "url_slug": "appian-of-alexandria-iberian-pdc-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/iberian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-an",
+      "title": {
+        "english": "Illyrian",
+        "ancient_greek": "Ἰλλυρική"
+      },
+      "url_slug": "appian-of-alexandria-illyrian-pdc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/illyrian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/illyrian.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jwe-aa",
+      "title": {
+        "english": "Anecdotes on Plato's Character",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hegesander-delphicus-plato-character-jwe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesander-delphicus/plato-character",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesander-delphicus/plato-character.json"
+      }
+    },
+    {
+      "eul_wid": "bya-aa",
+      "title": {
+        "english": "Chronicles of Athens",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "stesiclides-athens-chronicles-bya-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stesiclides/athens-chronicles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesiclides/athens-chronicles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesiclides/athens-chronicles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesiclides/athens-chronicles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stesiclides/athens-chronicles.json"
+      }
+    },
+    {
+      "eul_wid": "csu-aa",
+      "title": {
+        "english": "Fragments on Divine Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "xenomedes-of-ceos-divine-names-csu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "ecy-ae",
+      "title": {
+        "english": "Fragments on Ephesian Campaign",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἐφεσιακῆς Στρατείας"
+      },
+      "url_slug": "hellenica-anon-ephesian-campaign-ecy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/ephesian-campaign",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/ephesian-campaign.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/ephesian-campaign.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/ephesian-campaign.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/ephesian-campaign.json"
+      }
+    },
+    {
+      "eul_wid": "dji-aa",
+      "title": {
+        "english": "Fragments on Peoples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθνῶν"
+      },
+      "url_slug": "damastes-of-sigeum-peoples-dji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damastes-of-sigeum/peoples",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.json"
+      }
+    },
+    {
+      "eul_wid": "sos-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "eunapius-of-sardis-historical-fragments-sos-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eunapius-of-sardis/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eunapius-of-sardis/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "cfs-aa",
+      "title": {
+        "english": "Lycian Oracle Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polycharmus-the-historian-lycian-oracle-cfs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycharmus-the-historian/lycian-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-be",
+      "title": {
+        "english": "Olympic Victors (Fragment B)",
+        "ancient_greek": "Ὀλυμπιονῖκαι"
+      },
+      "url_slug": "historical-fragments-anonymous-olympic-victors-be-mmg-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/olympic-victors-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-victors-be.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-victors-be.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-victors-be.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/olympic-victors-be.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/appian-of-alexandria/preface",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

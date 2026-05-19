@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ios",
+  "auth_slug": "posidippus-of-cassandreia",
+  "name": {
+    "english": "Posidippus of Cassandreia the Comic Poet",
+    "ancient_greek": "Ποσείδιππος ὁ Κασσανδρεύς"
+  },
+  "seo_h1": "Cooks, Courtesans, and New Comedy in Posidippus of Cassandreia",
+  "seo": {
+    "browser_title": "Posidippus the Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Posidippus of Cassandreia Ancient Greek Comedy",
+    "meta_description": "Posidippus of Cassandreia, Hellenistic comic poet of the 3rd century BCE. Surviving works include fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Posidippus of Cassandreia was a Greek comic poet of the early Hellenistic period, active in the early 3rd century BCE. A native of Cassandreia in Macedonia, he is distinguished from an earlier comic poet, Posidippus of Pella. Ancient sources note he lived to a very old age and was a contemporary of the poet Machon. The Byzantine encyclopedia Suda refers to him as the &quot;New Comic Poet,&quot; placing his career in the period following Menander.</p>\n<p class=\"research-text\">Only a few titles and fragments are securely attributed to Posidippus of Cassandreia due to confusion with his earlier namesake. One certain title is The Woman Made Heiress. Other plays, such as The Youth and The Pimp, may belong to Posidippus of Pella. His surviving fragments are preserved primarily in the works of later grammarians and Athenaeus&#x27; Deipnosophistae.</p>\n<p class=\"research-text\">He represents a later generation of New Comedy, and his fragmentary work contributes to understanding the evolution of comic theater in the Hellenistic age. The biographical confusion between the two poets named Posidippus exemplifies the challenges of attribution within the comic tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "ios-ac",
+      "title": {
+        "english": "Fragments of Apocleiomene",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Ἀποκλειωμένου"
+      },
+      "url_slug": "posidippus-of-cassandreia-apocleiomene-ios-ac",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/apocleiomene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/apocleiomene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/apocleiomene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/apocleiomene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/apocleiomene.json"
+      }
+    },
+    {
+      "eul_wid": "ios-aa",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-aa-ios-aa",
+      "passages": 93,
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ios-ab",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab",
+      "passages": 75,
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/posidippus-of-cassandreia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/posidippus-of-cassandreia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/posidippus-of-cassandreia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/posidippus-of-cassandreia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/posidippus-of-cassandreia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

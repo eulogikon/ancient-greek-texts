@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "swk",
+  "auth_slug": "libanius-of-antioch",
+  "name": {
+    "english": "Libanius of Antioch",
+    "ancient_greek": "Λιβάνιος ὁ Ἀντιοχεύς"
+  },
+  "seo_h1": "Libanius of Antioch and the Orations of Late Antiquity",
+  "seo": {
+    "browser_title": "Libanius of Antioch on Eulogikon Greek Archive and Library",
+    "meta_title": "Libanius Ancient Greek Orations and Speeches Collection",
+    "meta_description": "Libanius, a 4th century CE Greek orator from Antioch. Works include orations and rhetorical exercises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Libanius was a Greek teacher and public speaker in the 4th century CE. He was born in the city of Antioch in 314 CE and died there, likely around 393 CE. A committed pagan, he lived during a time when Christianity was becoming the dominant religion of the Roman Empire. He was a leading figure of the Second Sophistic, a cultural movement focused on reviving classical Greek rhetoric and style.</p>\n<p class=\"research-text\">He founded and ran a highly successful school of rhetoric in his hometown, attracting students from across the eastern empire, including future prominent Christian bishops. Despite his pagan beliefs, he maintained complex relationships with powerful Christian officials and emperors. He was a close friend and supporter of the pagan emperor Julian.</p>\n<p class=\"research-text\">Libanius was an exceptionally prolific writer. A large body of his work survives, including over 1,600 personal letters, 64 formal speeches, and many rhetorical exercises. His speeches cover a wide range of topics, from autobiography and imperial praise to legal petitions and local politics.</p>\n<p class=\"research-text\">Modern scholars consider Libanius a witness of paramount importance. His vast collection of letters and orations provides an unparalleled, detailed view into the social life, education, politics, and religious tensions of the 4th-century eastern Roman Empire. His career demonstrates how classical Greek education remained a powerful source of status and influence, even as the cultural and religious landscape changed around him.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 11,
+  "works": [
+    {
+      "eul_wid": "swk-ac",
+      "title": {
+        "english": "Arguments of Demosthenic Orations",
+        "ancient_greek": "Προοίμια Δημοσθένους Λόγων"
+      },
+      "url_slug": "libanius-of-antioch-demosthenic-orations-swk-ac",
+      "passages": 223,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/demosthenic-orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/demosthenic-orations.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ab",
+      "title": {
+        "english": "Correspondence of Basil and Libanius",
+        "ancient_greek": "Ἀλληλογραφία Βασιλείου καὶ Λιβανίου"
+      },
+      "url_slug": "libanius-of-antioch-correspondence-basil-swk-ab",
+      "passages": 70,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/correspondence-basil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/correspondence-basil.json"
+      }
+    },
+    {
+      "eul_wid": "swk-aa",
+      "title": {
+        "english": "Declamation 3, Embassy of Menelaus, Theorem",
+        "ancient_greek": "Μελέτη γ"
+      },
+      "url_slug": "libanius-of-antioch-embassy-menelaus-swk-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/embassy-menelaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ag",
+      "title": {
+        "english": "Declamations 1–51",
+        "ancient_greek": "Μελέται Αʹ–ΝΑʹ"
+      },
+      "url_slug": "libanius-of-antioch-declamations-ag-swk-ag",
+      "passages": 537,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/declamations-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ag.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ak",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "libanius-of-antioch-virtue-swk-ak",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/virtue.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ad",
+      "title": {
+        "english": "Fragments-Declamations",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μελετῶν"
+      },
+      "url_slug": "libanius-of-antioch-declamations-ad-swk-ad",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/declamations-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/declamations-ad.json"
+      }
+    },
+    {
+      "eul_wid": "swk-aj",
+      "title": {
+        "english": "Orations 1–64",
+        "ancient_greek": "Λόγοι 1–64"
+      },
+      "url_slug": "libanius-of-antioch-orations-swk-aj",
+      "passages": 2934,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/orations.json"
+      }
+    },
+    {
+      "eul_wid": "swk-af",
+      "title": {
+        "english": "Preliminary Exercises",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "libanius-of-antioch-preliminary-exercises-swk-af",
+      "passages": 1107,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/preliminary-exercises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/preliminary-exercises.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ae",
+      "title": {
+        "english": "Pseudepigraphal Letters",
+        "ancient_greek": "Ψευδεπίγραφα Ἐπιστολαί"
+      },
+      "url_slug": "libanius-of-antioch-pseudepigraphal-letters-swk-ae",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/pseudepigraphal-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/pseudepigraphal-letters.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ai",
+      "title": {
+        "english": "Works of Libanius (Epistolary Treatises)",
+        "ancient_greek": "Λιβανίου Ἔργα"
+      },
+      "url_slug": "libanius-of-antioch-works-ai-swk-ai",
+      "passages": 70,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/works-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ai.json"
+      }
+    },
+    {
+      "eul_wid": "swk-ah",
+      "title": {
+        "english": "Works of Libanius (Letters and Orations)",
+        "ancient_greek": "Ἔργα Λιβανίου"
+      },
+      "url_slug": "libanius-of-antioch-works-ah-swk-ah",
+      "passages": 4636,
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/works-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/works-ah.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/libanius-of-antioch",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/libanius-of-antioch.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/libanius-of-antioch.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/libanius-of-antioch.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/libanius-of-antioch.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

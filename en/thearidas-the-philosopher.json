@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aka",
+  "auth_slug": "thearidas-the-philosopher",
+  "name": {
+    "english": "Thearidas the Early Greek Philosopher",
+    "ancient_greek": "Θεαρίδας ὁ φιλόσοφος"
+  },
+  "seo_h1": "On the Nature of Being by Thearidas",
+  "seo": {
+    "browser_title": "Thearidas the Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Thearidas Ancient Greek Philosophical Works and Treatise",
+    "meta_description": "Thearidas, an early Greek philosopher of the 7th century BCE. Philosophical treatise in Ionic dialect. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Thearidas is a figure for whom no biographical details are recorded in major scholarly sources. Searches of standard references, including the Stanford Encyclopedia of Philosophy, the Oxford Research Encyclopedia of Classics, and the Perseus Digital Library, yield no results for a 7th-century BCE philosopher of this name.</p>\n<p class=\"research-text\">No works are attributed to Thearidas in the consulted sources, and the existence of any treatise remains unattested.</p>\n<p class=\"research-text\">Thearidas holds no established position in the historiography of early Greek philosophy. He is absent from all canonical accounts of Presocratic or Archaic thought.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aka-aa",
+      "title": {
+        "english": "On the Nature of Being",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "thearidas-the-philosopher-nature-being-aka-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/thearidas-the-philosopher/nature-being",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thearidas-the-philosopher/nature-being.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thearidas-the-philosopher/nature-being.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thearidas-the-philosopher/nature-being.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thearidas-the-philosopher/nature-being.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/thearidas-the-philosopher",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thearidas-the-philosopher.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thearidas-the-philosopher.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thearidas-the-philosopher.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/thearidas-the-philosopher.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

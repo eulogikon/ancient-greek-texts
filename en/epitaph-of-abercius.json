@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "rcq",
+  "auth_slug": "epitaph-of-abercius",
+  "name": {
+    "english": "Epitaph of Abercius",
+    "ancient_greek": "Ἐπιτάφιον τοῦ Ἀβερκίου"
+  },
+  "seo_h1": "The Epitaph of Abercius and Early Christian Inscription",
+  "seo": {
+    "browser_title": "Abercius Epitaph and Inscription on Eulogikon Greek Archive",
+    "meta_title": "The Abercius Epitaph Ancient Greek Christian Verse",
+    "meta_description": "Abercius, a 2nd century Christian bishop known for his poetic epitaph. Free to read and download from the Eulogikon Greek text library and archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epitaph of Abercius is a late 2nd-century CE Christian funerary inscription commissioned by Abercius, a citizen of Hieropolis in Phrygia Salutaris who died at the age of 72. It is traditionally, though debatably, linked to Avircius Marcellus, a bishop of Hieropolis. The text presents Abercius as a traveler who visited Christian communities in Rome, Syria, and Mesopotamia.</p>\n<p class=\"research-text\">The sole work is the inscribed funerary poem itself, known as the Epitaph of Abercius or the Abercius Inscription. It is a historically crucial, public declaration of Christian faith from the Roman imperial period. The inscription provides early evidence for the geographical spread of Christian communities, their self-conception as a universal church, and their use of symbolic language, such as &quot;the Fish&quot; for Christ and references to the Eucharist. Rediscovered in the late 19th century, a copy is housed in the Lateran Museum.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "rcq-aa",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "Ἐπιτάφιον"
+      },
+      "url_slug": "epitaph-of-abercius-text-rcq-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/epitaph-of-abercius/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/epitaph-of-abercius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epitaph-of-abercius.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epitaph-of-abercius.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epitaph-of-abercius.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/epitaph-of-abercius.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

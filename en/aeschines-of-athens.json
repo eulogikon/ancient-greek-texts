@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hbm",
+  "auth_slug": "aeschines-of-athens",
+  "name": {
+    "english": "Aeschines of Athens",
+    "ancient_greek": "Αἰσχίνης ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Aeschines of Athens Against Ctesiphon and Timarchus",
+  "seo": {
+    "browser_title": "Aeschines of Athens on Eulogikon Greek Archive and Library",
+    "meta_title": "Aeschines of Athens Ancient Greek Orations and Works",
+    "meta_description": "Aeschines was a classical Athenian orator of the 4th century BCE. Three of his speeches remain. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aeschines of Athens was an Athenian orator and a major political figure, renowned as the lifelong rival of Demosthenes. He lived from approximately 390 to 322 BCE. Born to a schoolteacher father and a priestess mother, he served as a soldier and worked as an actor and scribe before his public career. His pro-Macedonian stance, advocating peace with King Philip II, positioned him firmly against the faction led by Demosthenes. He served on the Athenian boule and as an envoy to Delphi.</p>\n<p class=\"research-text\">His political career culminated in his legal defeat by Demosthenes in 330 BCE in the case <strong>Against Ctesiphon</strong>, which resulted in his exile from Athens. He later taught rhetoric on the island of Rhodes.</p>\n<p class=\"research-text\">Three of his authentic judicial speeches survive: <strong>Against Timarchus</strong> from 345 BCE, <strong>On the Embassy</strong> from 343 BCE, and <strong>Against Ctesiphon</strong> from 330 BCE. A collection of letters attributed to him is considered spurious.</p>\n<p class=\"research-text\">As one of the ten canonical Attic orators, Aeschines provides the essential pro-Macedonian counterpoint to Demosthenes. His speeches are valuable historical sources for Athenian law, political rhetoric, social norms, and the diplomatic conflicts preceding Macedonian dominance.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "hbm-aa",
+      "title": {
+        "english": "Against Ctesiphon",
+        "ancient_greek": "Κατά Κτησιφώντος"
+      },
+      "url_slug": "aeschines-of-athens-against-ctesiphon-hbm-aa",
+      "passages": 205,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/against-ctesiphon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.json"
+      }
+    },
+    {
+      "eul_wid": "hbm-ab",
+      "title": {
+        "english": "Against Timarchus",
+        "ancient_greek": "Κατὰ Τιμάρχου"
+      },
+      "url_slug": "aeschines-of-athens-against-timarchus-hbm-ab",
+      "passages": 164,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/against-timarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-timarchus.json"
+      }
+    },
+    {
+      "eul_wid": "hbm-ad",
+      "title": {
+        "english": "Letters from Delos",
+        "ancient_greek": "Ἐπιστολαὶ ἐκ Δήλου"
+      },
+      "url_slug": "aeschines-of-athens-letters-delos-hbm-ad",
+      "passages": 53,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/letters-delos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/letters-delos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/letters-delos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/letters-delos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/letters-delos.json"
+      }
+    },
+    {
+      "eul_wid": "hbm-ac",
+      "title": {
+        "english": "On the Embassy",
+        "ancient_greek": "Περὶ τῆς παραπρεσβείας"
+      },
+      "url_slug": "aeschines-of-athens-embassy-hbm-ac",
+      "passages": 148,
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/embassy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/embassy.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aeschines-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aeschines-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

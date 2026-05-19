@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dam",
+  "auth_slug": "diocles-the-comic-poet",
+  "name": {
+    "english": "Diocles Comicus",
+    "ancient_greek": "Διοκλῆς ὁ Κωμικός"
+  },
+  "seo_h1": "Diocles Comicus and the Fragments of Athenian Old Comedy",
+  "seo": {
+    "browser_title": "Diocles Comicus Comic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Diocles Comicus Ancient Greek Comedy Fragments",
+    "meta_description": "Diocles Comicus, Athenian comic poet of 5th century BCE. Surviving fragments from his comedies. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Diocles Comicus was an Athenian comic poet active in the 5th century BCE during the period of Old Comedy. Very little is known about his life. According to the later Byzantine encyclopedia the Suda, he was credited with writing seven comedies, though it also notes that some of these were alternatively attributed to another poet named Philiscus, leaving his exact output uncertain.</p>\n<p class=\"research-text\">Only two play titles survive from fragments cited by other ancient authors: <strong>Bacchae</strong> and <strong>The Soldiers</strong> (or <strong>Hoplites</strong>). His works are lost except for these fragments, which were preserved by writers such as Athenaeus, who quoted him for details about food and customs.</p>\n<p class=\"research-text\">Diocles is considered a minor figure compared to famous comic playwrights like Aristophanes. His primary significance for modern scholars is as an example of the many lesser-known poets whose works have not survived. The few surviving fragments from his plays contribute to the broader study of Old Comedy’s themes and everyday language. The confusion in ancient sources over attribution between Diocles and Philiscus is a common challenge in reconstructing the history of fragmentary ancient drama.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "dam-aa",
+      "title": {
+        "english": "Domestic Comedy Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diocles-the-comic-poet-domestic-comedy-aa-dam-aa",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.json"
+      }
+    },
+    {
+      "eul_wid": "dam-ab",
+      "title": {
+        "english": "Domestic Comedy Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diocles-the-comic-poet-domestic-comedy-ab-dam-ab",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-ab.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/diocles-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/diocles-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

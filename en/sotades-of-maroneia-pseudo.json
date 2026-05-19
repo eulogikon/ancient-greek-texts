@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "irk",
+  "auth_slug": "sotades-of-maroneia-pseudo",
+  "name": {
+    "english": "Sotades of Maroneia Pseudo",
+    "ancient_greek": "Σωτάδης ὁ Μαρωνεὺς ὁ Ψευδής"
+  },
+  "seo_h1": "Pseudo-Sotades and Fragments of Ethical Maxims",
+  "seo": {
+    "browser_title": "Pseudo Sotades of Maroneia on Eulogikon Greek Archive",
+    "meta_title": "The Pseudo Sotades of Maroneia Ancient Greek Verse",
+    "meta_description": "Pseudo Sotades of Maroneia, a Hellenistic poet writing in Ionic dialect. Surviving verse attributed to this author. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sotades of Maroneia, often called Pseudo-Sotades, was an iambic poet of the early 3rd century BCE. A native of Thrace, he was notorious for obscene and invective poetry during the reign of Ptolemy II Philadelphus. His mockery of the king’s marriage to his sister Arsinoe II led to his execution, with ancient accounts claiming he was imprisoned in a leaden chest and drowned. The epithet &quot;the liar&quot; or &quot;forger&quot; may reflect later confusion with other poets.</p>\n<p class=\"research-text\">No complete works of Sotades survive, only fragments. He is credited with perfecting the catalectic ionic dimeter named after him, the Sotadean meter, which became associated with scurrilous and satirical verse. His significance lies in formalizing this meter, which was adopted by later poets for subversive content. He represents the dangerous continuation of archaic iambic invective within the Hellenistic autocracies, and his fatal defiance made him a symbol of the risks of free speech. His name defined a genre of obscene poetry known as Sotadea.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "irk-aa",
+      "title": {
+        "english": "Fragments of Ethical Maxims",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἠθικῶν Γνωμῶν"
+      },
+      "url_slug": "sotades-of-maroneia-pseudo-ethical-maxims-irk-aa",
+      "passages": 72,
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-pseudo/ethical-maxims",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sotades-of-maroneia-pseudo",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sotades-of-maroneia-pseudo.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sotades-of-maroneia-pseudo.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sotades-of-maroneia-pseudo.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sotades-of-maroneia-pseudo.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

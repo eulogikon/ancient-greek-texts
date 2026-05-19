@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hhg",
+  "auth_slug": "aristoxenus-of-tarentum",
+  "name": {
+    "english": "Aristoxenus of Tarentum",
+    "ancient_greek": "Ἀριστόξενος ὁ Ταραντῖνος"
+  },
+  "seo_h1": "Aristoxenus of Tarentum on Music, Rhythm, and Harmony",
+  "seo": {
+    "browser_title": "Aristoxenus of Tarentum on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristoxenus Ancient Greek Music Theory Treatises",
+    "meta_description": "Aristoxenus, 4th century BCE Greek philosopher and music theorist. Works on harmonics and rhythm. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristoxenus was a Greek philosopher and music theorist from Tarentum in southern Italy, active in the 4th century BCE. He was a student of Aristotle in Athens and belonged to the Peripatetic school of philosophy. Ancient sources credit him with writing hundreds of books on music, philosophy, history, and biography, though only fragments of most survive.</p>\n<p class=\"research-text\">His major contribution is in music theory. His work <strong>Elementa harmonica</strong> survives largely intact and established a systematic science of music based on empirical observation and auditory perception. This approach emphasized the judgment of the ear, positioning him as a critical successor to the earlier Pythagorean school, which focused more on mathematical ratios. A related work, <strong>Elementa rhythmica</strong>, which deals with musical rhythm, also partially survives. According to modern scholars, his theories became the authoritative foundation for Greek musicology in later antiquity and the Renaissance.</p>\n<p class=\"research-text\">Beyond music, Aristoxenus was a prolific biographer and historian of philosophy. He wrote lives of figures like Pythagoras, Socrates, and Plato, though these works are now lost except for fragments. These biographies are noted for their sometimes polemical tone but were important sources for later writers. His writings on Pythagorean ethics and teachings also provide valuable early evidence about that philosophical tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "hhg-ab",
+      "title": {
+        "english": "Elements of Rhythm (Extended)",
+        "ancient_greek": "Στοιχεῖα Ῥυθμικὰ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-rhythm-ab-hhg-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-aa",
+      "title": {
+        "english": "Elements of Rhythm (Short)",
+        "ancient_greek": "Στοιχεῖα Ῥυθμικὰ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-rhythm-aa-hhg-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-af",
+      "title": {
+        "english": "Fragments on Poetic Meter",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέτρου Ποιητικοῦ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-poetic-meter-hhg-af",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/poetic-meter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-ae",
+      "title": {
+        "english": "Fragments on Pythagoras's Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Πυθαγόρου Βίου"
+      },
+      "url_slug": "aristoxenus-of-tarentum-pythagoras-life-hhg-ae",
+      "passages": 144,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/pythagoras-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-ac",
+      "title": {
+        "english": "Harmonic Elements",
+        "ancient_greek": "Ἁρμονικὰ στοιχεῖα"
+      },
+      "url_slug": "aristoxenus-of-tarentum-harmonic-elements-hhg-ac",
+      "passages": 88,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/harmonic-elements",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-ad",
+      "title": {
+        "english": "Paris Fragments",
+        "ancient_greek": "Ἀποσπάσματα Παρισινά"
+      },
+      "url_slug": "aristoxenus-of-tarentum-paris-fragments-hhg-ad",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/paris-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristoxenus-of-tarentum",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristoxenus-of-tarentum.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristoxenus-of-tarentum.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristoxenus-of-tarentum.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristoxenus-of-tarentum.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

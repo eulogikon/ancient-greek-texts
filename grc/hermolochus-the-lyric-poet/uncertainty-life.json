@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "juq-aa",
+  "eul_aid": "juq",
+  "author_slug": "hermolochus-the-lyric-poet",
+  "work_slug": "uncertainty-life",
+  "url_slug": "hermolochus-the-lyric-poet-uncertainty-life-juq-aa",
+  "author": {
+    "english": "Hermolochus the Lyric Poet",
+    "ancient_greek": "Ἑρμόλοχος ὁ λυρικός"
+  },
+  "title": {
+    "english": "On the Uncertainty of Life",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Uncertainty of Life by Hermolochus on Eulogikon",
+    "meta_title": "On the Uncertainty of Life by Hermolochus in Greek",
+    "meta_description": "A lyric poem fragment by Hermolochus on the fleeting nature of human existence and mortality. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The lyric poem <strong>On the Uncertainty of Life</strong> is attributed to the obscure poet Hermolochus. It survives only as a title, which is also recorded as <strong>Apospasma</strong>, meaning &quot;Fragment&quot; or &quot;Extract.&quot; No direct quotations or substantive content from the poem are preserved in the extant record. The sole indicator of its subject is its title, which points to a treatment of the classic Greek theme of life&#x27;s fragility and unpredictability. The work is considered lost, known only by its cited title. The designation <strong>Apospasma</strong> indicates its fragmentary preservation, likely from a mention in a lost ancient source such as a lexicon or a scholiast&#x27;s note. While the theme was ubiquitous in Greek literature, this particular poem by Hermolochus appears to have left no discernible mark on the surviving literary tradition. The poet is absent from canonical lists of lyric poets and cannot be securely identified with known historical figures of the same name.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "ἀτέκμαρτος ὁ πᾶς βίος οὐδὲν ἔχων πιστὸν πλανᾶται συντυχίαις· ἐλπὶς δὲ φρένας παραθαρσύνει· τὸ δὲ μέλλον ἀκριβῶς οἶδεν οὐδεὶς θνατὸς ὅπαι φέρεται· θεὸς δὲ πάντας †ἐν κινδύνοις θνατοὺς† κυβερνᾶι· ἀντιπνεῖ δὲ πολλάκις εὐτυχίαι δεινά τις αὔρα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "kcs-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "athenaeus-the-epigrammatist-epigram-kcs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "aqe-aa",
+      "title": {
+        "english": "Fragments of Sappho and Alcaeus",
+        "ancient_greek": "Ἀποσπάσματα Σαπφοῦς καὶ Ἀλκαίου"
+      },
+      "url_slug": "sappho-and-alcaeus-of-lesbos-fragments-aqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-of-lesbos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dgq-aa",
+      "title": {
+        "english": "Fragments on Cyprus and the Gods",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύπρου καὶ Θεῶν"
+      },
+      "url_slug": "lyric-poetry-anonymous-cyprus-gods-dgq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poetry-anonymous/cyprus-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.json"
+      }
+    },
+    {
+      "eul_wid": "ehe-ac",
+      "title": {
+        "english": "Fragments on Thebes and Titans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θηβῶν καὶ Τιτάνων"
+      },
+      "url_slug": "antimachus-of-colophon-thebes-titans-ehe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/antimachus-of-colophon/thebes-titans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antimachus-of-colophon/thebes-titans.json"
+      }
+    },
+    {
+      "eul_wid": "asm-ab",
+      "title": {
+        "english": "Fragments on War and Exile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πολέμου καὶ Φυγῆς"
+      },
+      "url_slug": "alcaeus-of-mytilene-war-exile-asm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-of-mytilene/war-exile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ar",
+      "title": {
+        "english": "Hymn 2 To Demeter",
+        "ancient_greek": "Ὕμνος εἰς Δημήτρα"
+      },
+      "url_slug": "homeric-hymns-anonymous-demeter-upu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.json"
+      }
+    },
+    {
+      "eul_wid": "rgw-aa",
+      "title": {
+        "english": "Hymn to the Idaean Dactyls",
+        "ancient_greek": "Ὕμνος πρὸς τοὺς Ἰδαίους Δακτύλους"
+      },
+      "url_slug": "anonymous-hymn-to-the-idaean-dactyls-text-rgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-hymn-to-the-idaean-dactyls/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-hymn-to-the-idaean-dactyls/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-hymn-to-the-idaean-dactyls/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-hymn-to-the-idaean-dactyls/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-hymn-to-the-idaean-dactyls/text.json"
+      }
+    },
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermolochus-the-lyric-poet/uncertainty-life",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

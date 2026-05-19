@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mbm",
+  "auth_slug": "anonymous-geographical-works",
+  "name": {
+    "english": "Geographical Works Anonymous",
+    "ancient_greek": "Γεωγραφικὰ Ἀδέσποτα"
+  },
+  "seo_h1": "Anonymous Geographical Measurements of Islands",
+  "seo": {
+    "browser_title": "Anonymous Geographical Works on Eulogikon Greek Archive",
+    "meta_title": "Anonymous Geographical Works Ancient Greek Geography",
+    "meta_description": "Anonymous geographical works from the Hellenistic period. Texts on ancient geography and topography. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Geographical Works Anonymous Life</p>\n<p class=\"research-text\">No biographical details exist for the anonymous compilers of the geographical texts designated Geographica Anonyma. These utilitarian works, produced from the 1st century BCE to the 6th century CE, served travelers, merchants, and administrators. Their anonymity is characteristic of a genre focused on practical data over authorial credit, reflecting the expanded geographical knowledge from the Hellenistic period onward, synthesized from exploration, trade, and Roman administration.</p>\n<p class=\"research-text\">The corpus includes fragmentary treatises, peripli (sailing guides), and compilations, often preserved in later manuscripts. They typically contain lists of place names, ethnic groups, and distances.</p>\n<p class=\"research-text\">These anonymous works are crucial for understanding the practical application and transmission of geographical knowledge. They preserve otherwise lost data, illuminate ancient itineraries and spatial perception, and exemplify the collective, accretive nature of Greco-Roman geographical science.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "mbm-aa",
+      "title": {
+        "english": "Geographical Measurements of Islands",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anonymous-geographical-works-measurements-islands-mbm-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-geographical-works/measurements-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-geographical-works",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-geographical-works.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-geographical-works.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-geographical-works.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-geographical-works.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

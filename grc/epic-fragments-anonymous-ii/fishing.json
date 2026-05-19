@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aak-ab",
+  "eul_aid": "aak",
+  "author_slug": "epic-fragments-anonymous-ii",
+  "work_slug": "fishing",
+  "url_slug": "epic-fragments-anonymous-ii-fishing-aak-ab",
+  "author": {
+    "english": "Epic Fragments Anonymous II",
+    "ancient_greek": "Ἔπη Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Fragments on Fishing",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἁλιείας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Fishing by Anonymous Author on Eulogikon",
+    "meta_title": "Fragments on Fishing by Anonymous in Ancient Greek",
+    "meta_description": "Surviving fragments of an ancient Greek poem on fishing and marine life. Anonymous epic verse. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ λογοτεχνική",
+      "english": "Literary Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Fishing</strong> is a lost didactic epic poem, cataloged by modern scholarship under the designation Epic Fragments Anonymous II. It is known only by its title and a single surviving fragment, which indicates a work that versified technical knowledge on the subject of angling. The extant lines describe a fisherman on a rocky shore preparing his baited hook, situating the poem within the tradition of Greek instructional poetry that treated practical arts. Its focus on fishing, seafaring, and marine life distinguishes it as a precursor to later, more comprehensive works like Oppian’s <strong>Halieutica</strong>. The poem survives solely as a citation, likely preserved within a secondary source such as a lexicon or ancient commentary, with no direct manuscript tradition. Its fragmentary existence attests to the wide range of technical subjects treated within the didactic epic genre and exemplifies the considerable volume of ancient poetic material that persists only through such indirect references.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ὡς δ’ ἁλιεὺς ἀκτῇ ἐν ἁλιρράντῳ ἐπὶ πέτρῃ ἀγ(κ)ίστρου δ’ ἕλικος δελεουχίδα μάστακ’ ἀείρα̣ς, ὧ̣δ’ ..... ο̣ὔ̣[ρ]α̣χος (?) ἐγ̣ λ̣ο[φιῆς ἁ]πα̣λ̣ὴ̣ν τρίχα [– ⏑ ⏑] π̣ῶ̣υ̣.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aak-aa",
+      "title": {
+        "english": "Fragments on Hermes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ"
+      },
+      "url_slug": "epic-fragments-anonymous-ii-hermes-aak-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-ii/hermes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/hermes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "dfm-aa",
+      "title": {
+        "english": "Anonymous Epic Poems",
+        "ancient_greek": "Ἀνώνυμα Ἐπικὰ Ποιήματα"
+      },
+      "url_slug": "epic-fragments-anonymous-i-epic-poems-dfm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-i/epic-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.json"
+      }
+    },
+    {
+      "eul_wid": "jom-aa",
+      "title": {
+        "english": "Aretalogy",
+        "ancient_greek": "Ἀρεταλογία"
+      },
+      "url_slug": "maiistas-the-epic-poet-aretalogy-jom-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maiistas-the-epic-poet/aretalogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet/aretalogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet/aretalogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet/aretalogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maiistas-the-epic-poet/aretalogy.json"
+      }
+    },
+    {
+      "eul_wid": "jco-aa",
+      "title": {
+        "english": "Epigrams (Hymn-Fragments)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "antagoras-of-rhodes-epigrams-aa-jco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-aa.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-am",
+      "title": {
+        "english": "Ethopoeic Exercise",
+        "ancient_greek": "Ἠθοποιία"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-am-kjq-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.json"
+      }
+    },
+    {
+      "eul_wid": "rki-aa",
+      "title": {
+        "english": "Fragments on Mythological Figures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Προσώπων"
+      },
+      "url_slug": "peisander-of-laranda-mythological-figures-rki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-laranda/mythological-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.json"
+      }
+    },
+    {
+      "eul_wid": "axw-aa",
+      "title": {
+        "english": "Phoronis, Fragments",
+        "ancient_greek": "Φορωνίς"
+      },
+      "url_slug": "phoronis-fragments-axw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phoronis/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoronis/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ae",
+      "title": {
+        "english": "Praises of Theon the Gymnasiarch",
+        "ancient_greek": "Ἐγκώμια Θεῶνος τοῦ Γυμνασιάρχου"
+      },
+      "url_slug": "epic-fragments-anonymous-theon-gymnasiarch-kjq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/theon-gymnasiarch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/theon-gymnasiarch.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ad",
+      "title": {
+        "english": "encom-Heraclius the Leader",
+        "ancient_greek": "Ἐγκώμιον εἰς Ἡράκλειον τὸν ἡγεμόνα"
+      },
+      "url_slug": "epic-fragments-anonymous-heraclius-leader-kjq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/heraclius-leader",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/heraclius-leader.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epic-fragments-anonymous-ii/fishing",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/fishing.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/fishing.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/fishing.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-ii/fishing.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

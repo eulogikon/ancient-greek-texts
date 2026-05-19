@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cye",
+  "auth_slug": "melanippides-of-melos",
+  "name": {
+    "english": "Melanippides of Melos",
+    "ancient_greek": "Μελανιππίδης ὁ Μήλιος"
+  },
+  "seo_h1": "Dithyrambs and the Fragments of Melanippides of Melos",
+  "seo": {
+    "browser_title": "Melanippides of Melos on Eulogikon Greek Archive Library",
+    "meta_title": "Classical Melanippides of Melos Ancient Greek Poetry Works",
+    "meta_description": "Melanippides of Melos was a 5th century BCE lyric poet. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς λογοτεχνική",
+      "english": "Literary Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Melanippides of Melos was a Greek lyric poet of the 5th century BCE, renowned as a major composer of dithyrambs. He was active in the latter half of the century, spending time at the court of Perdiccas II of Macedon. The Suda identifies him as the son of Criton and a student of Diagoras of Melos, recording that he died in Macedonia. His career places him within the innovative &quot;New Music&quot; movement in late Classical poetry and music.</p>\n<p class=\"research-text\">His primary surviving work is the fragmentary dithyramb Marsyas. Other attested dithyrambs include The Danaids and Persephone, and he is also credited with a Hymn to Dionysus. All exist only as fragments and testimonia.</p>\n<p class=\"research-text\">Melanippides is a significant figure for his role in the evolution of the dithyramb. Conservative critics like Aristophanes and Plato cited him as an exemplar of the shift from austere styles toward greater complexity and emotionalism. His famous Marsyas provided a mythic etiology for the aulos, reflecting contemporary musical debates, and his innovations helped shape late Classical choral poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cye-aa",
+      "title": {
+        "english": "Fragments on Dionysus and Wine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου καὶ Οἴνου"
+      },
+      "url_slug": "melanippides-of-melos-dionysus-wine-cye-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/melanippides-of-melos/dionysus-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanippides-of-melos/dionysus-wine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanippides-of-melos/dionysus-wine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanippides-of-melos/dionysus-wine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanippides-of-melos/dionysus-wine.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/melanippides-of-melos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanippides-of-melos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanippides-of-melos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanippides-of-melos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melanippides-of-melos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

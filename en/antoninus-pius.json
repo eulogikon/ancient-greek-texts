@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ppk",
+  "auth_slug": "antoninus-pius",
+  "name": {
+    "english": "Antoninus Pius Letters",
+    "ancient_greek": "Ἀντωνίνου Πίου Ἐπιστολαί"
+  },
+  "seo_h1": "Antoninus Pius Letters: Letter to the Community of Asia",
+  "seo": {
+    "browser_title": "Emperor Antoninus Pius on Eulogikon Greek Archive.",
+    "meta_title": "Classical Antoninus Pius Ancient Greek Letters and Epistles",
+    "meta_description": "Antoninus Pius, Roman emperor of the 2nd century CE. Surviving letters and epistles in Koine Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letters of Antoninus Pius are attributed to the Roman emperor Antoninus Pius, who reigned from 138 to 161 CE. Born in 86 CE near Lanuvium, he was adopted by the emperor Hadrian and succeeded him. His reign was characterized by peace and administrative stability, which earned him the epithet &quot;Pius.&quot; He died in 161 CE and was succeeded by Marcus Aurelius and Lucius Verus.</p>\n<p class=\"research-text\">The work, a collection of imperial correspondence titled <strong>Epistulae</strong>, is considered lost, as no complete collection survives. References to his letters or legal rescripts are found only in later legal and historical sources.</p>\n<p class=\"research-text\">The significance of these letters lies in their potential as primary sources for the administrative and legal history of the Roman Empire during the Pax Romana. As imperial correspondence, they would provide direct insight into governance and legal judgments. While no corpus survives, individual citations, particularly in the Digest of Justinian, are crucial for understanding Roman law and administration in the Antonine period. The mild tone of the surviving fragments aligns with his historical reputation for moderation.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ppk-aa",
+      "title": {
+        "english": "Letter to the Community of Asia",
+        "ancient_greek": "Πρὸς τὴν Ἀσίαν Κοινότητα"
+      },
+      "url_slug": "antoninus-pius-asia-letter-ppk-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/antoninus-pius/asia-letter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-pius/asia-letter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-pius/asia-letter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-pius/asia-letter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antoninus-pius/asia-letter.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/antoninus-pius",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-pius.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-pius.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-pius.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antoninus-pius.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

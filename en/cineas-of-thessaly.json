@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ise",
+  "auth_slug": "cineas-of-thessaly",
+  "name": {
+    "english": "Cineas of Thessaly",
+    "ancient_greek": "Κινέας ὁ Θεσσαλός"
+  },
+  "seo_h1": "Cineas of Thessaly as Orator and Diplomat for Pyrrhus",
+  "seo": {
+    "browser_title": "Cineas of Thessaly on Eulogikon Greek Archive and Library",
+    "meta_title": "Cineas of Thessaly Ancient Greek Orations and Works",
+    "meta_description": "Cineas of Thessaly, a Hellenistic orator of the 3rd century BCE. Surviving orations from the ancient Greek tradition. Free to download from the Greek library."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cineas of Thessaly was a Thessalian Greek of the 3rd century BCE who served as the chief diplomat, advisor, and orator for King Pyrrhus of Epirus. Renowned for his eloquence and prodigious memory, he undertook crucial diplomatic missions to Rome following Pyrrhus’s victory at Heraclea in 280 BCE. His legacy is cemented by a recorded philosophical exchange with Pyrrhus, in which he questioned the purpose of the king’s endless military ambitions by advocating for a life of peace.</p>\n<p class=\"research-text\">No writings by Cineas survive. He is credited in tradition with a collection of memorable sayings and a summary of the military tactics of the Thessalian leader Enyalius.</p>\n<p class=\"research-text\">Cineas is significant as the archetypal skilled Hellenistic diplomat and orator. His portrayal in Plutarch’s Life of Pyrrhus provides a philosophical critique of expansionist warfare, positioning Cineas as an advocate for tranquility. His legendary mnemonic and rhetorical abilities underscore the importance of diplomatic persuasion in the period’s political affairs.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ise-aa",
+      "title": {
+        "english": "Thessalian Antiquities and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cineas-of-thessaly-antiquities-myths-ise-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/cineas-of-thessaly/antiquities-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly/antiquities-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly/antiquities-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly/antiquities-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cineas-of-thessaly/antiquities-myths.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cineas-of-thessaly",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cineas-of-thessaly.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cineas-of-thessaly.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cineas-of-thessaly.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cineas-of-thessaly.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

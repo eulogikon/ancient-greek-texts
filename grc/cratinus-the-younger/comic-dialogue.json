@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hmg-ab",
+  "eul_aid": "hmg",
+  "author_slug": "cratinus-the-younger",
+  "work_slug": "comic-dialogue",
+  "url_slug": "cratinus-the-younger-comic-dialogue-hmg-ab",
+  "author": {
+    "english": "Cratinus the Younger",
+    "ancient_greek": "Κρατῖνος ὁ Νεώτερος"
+  },
+  "title": {
+    "english": "Fragments of Comic Dialogue",
+    "ancient_greek": "Ἀποσπάσματα Κωμικοῦ Διαλόγου"
+  },
+  "seo": {
+    "browser_title": "Fragments of Comic Dialogue by Cratinus Younger on Eulogikon",
+    "meta_title": "Fragments of Comic Dialogue by Cratinus the Younger in Greek",
+    "meta_description": "Surviving fragments of comic dialogue by Cratinus the Younger. Ancient Greek comedic verse. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments of Comic Dialogue is a modern descriptive title for a collection of twenty-eight fragmentary passages of verse attributed to the comic poet Cratinus the Younger. These excerpts, consisting of individual lines or short passages, are preserved primarily within the lexicographical work of Athenaeus of Naucratis, the <strong>Deipnosophistae</strong>. The content reflects the conventions of Middle or New Comedy, focusing on daily life and social types rather than the political satire characteristic of earlier Old Comedy. The extant fragments illustrate several characteristic themes of the period, including gastronomy and consumption with references to food, drink, and dining, depictions of contemporary social types like merchants and cooks, and the general practice of mythological parody. The work survives entirely through indirect transmission, having been quoted by later authors like Athenaeus for their illustrative value regarding vocabulary and customs, and is collected in modern scholarly editions. While the fragmentary state obscures his direct influence, Cratinus the Younger operated within Middle Comedy, a transitional period that shaped subsequent New Comedy. The fragments provide valuable evidence for the social history and generic evolution of fourth-century BCE Athenian comedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐνθυμεῖσθε τῆς γῆς ὡς γλυκύ ὄζει, καπνός τ’ ἐξέρχετ’ εὐωδέστερος; οἰκεῖ τις ὡς ἔοικεν ἐν τῷ χάσματι λιβανωτοπώλης ἢ μάγειρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Σικελικός.[ln_5][παραπλησίαν ὀσμὴν λέγεις ἀμφοῖν γλυκύς.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σφοδρῶς Αἰγυπτιώδης, Σωχάρης, Πααμύλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Πίνειν μένοντα τὸν καλῶς εὐδαίμονα κρεῖττον· μάχαι δ’ ἄλλοισι καὶ πόνοι μέλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ὑμεῖς δ’ ἐὰν ἱππίσκον ἢ τρίμιτον ἔχητε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἔθος ἐστὶν αὐτοῖς, ἄν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τιν’ ἰδιώτην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποθέν λάβωσιν εἰσελθόντα, διαπειρώμενον τῆς τῶν λόγων ῥώμης, ταράττειν καὶ κυκᾶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῖς ἀντιθέτοις, τοῖς πέρασι, τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παρισώμασιν,[ln_5]τοῖς ἀποπλάνοις, τοῖς μεγέθεσιν νουβυστικῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Κόρυδον τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χαλκοτύπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πεφύλαξο, ἢν μὴ σοὶ νομιεῖς αὐτὸν μηδὲν καταλείψειν, μηδ’ ὄψον κοινῇ μετὰ τούτου πώποτε δαίσῃ τοῦ Κορύδου· προλέγω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "σοι· ἔχει γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χεῖρα κραταιάν,[ln_5]χαλκῆν, ἀκάματον, πολὺ κρείττω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τοῦ πυρὸς αὐτοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πολλοστῷ δ’ ἔτει ἐκ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πολεμίων οἴκαδ’ ἥκων, ξυγγενεῖς καὶ φράτερας καὶ δημότας εὑρὼν μόλις, εἰς τὸ κυλικεῖον ἐνεγράφην· Ζεὺς ἔστι μοι[ln_5]ἑρκεῖος, ἔστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φράτριος, τὰ τέλη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τελῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ἄνθρωπος εἶ δηλονότι καὶ ψυχὴν ἔχεις; Β. κατὰ μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Πλάτων’ οὐκ οἶδ’, ὑπονοῶ δ’ ὧδ’ ἔχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Εἰς ἐγγύας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τρεῖς εἰσπεσὼν ἀνῃρέθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[spk_β]Β. οὔπω τότ’ ἐν Δελφοῖσιν ἦν τὰ γράμματα τὴν ἐγγύην ἄτην λέγοντ’; Α. ἦν· ἀλλ’ ἐγώ φιλέταιρον εἶχον ἦθος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Καρῖδας ἡ ζὰψ ἐκφέρει κἰχθύδια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Παρ’ Ἀρχεφῶντος ἡδυπότια δώδεκα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hmg-aa",
+      "title": {
+        "english": "Fragments of Comic Banter",
+        "ancient_greek": "Ἀποσπάσματα κωμικῆς σκώψεως"
+      },
+      "url_slug": "cratinus-the-younger-comic-banter-hmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-younger/comic-banter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-banter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-banter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-banter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-banter.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "daw-an",
+      "title": {
+        "english": "Clouds",
+        "ancient_greek": "Νεφέλαι"
+      },
+      "url_slug": "aristophanes-of-athens-clouds-daw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/clouds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/clouds.json"
+      }
+    },
+    {
+      "eul_wid": "hpi-aa",
+      "title": {
+        "english": "Comic Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου Κωμικά"
+      },
+      "url_slug": "rhinthon-of-tarentum-dionysus-fragments-hpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhinthon-of-tarentum/dionysus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum/dionysus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum/dionysus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum/dionysus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhinthon-of-tarentum/dionysus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kpk-ab",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ab-kpk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ab",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-ab-bhm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.json"
+      }
+    },
+    {
+      "eul_wid": "lhc-ab",
+      "title": {
+        "english": "Fragments on Parasites and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "crobylus-the-comic-poet-parasites-excess-lhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crobylus-the-comic-poet/parasites-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bb",
+      "title": {
+        "english": "Fragments on Poverty and Conduct",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Ἀγωγῆς"
+      },
+      "url_slug": "menander-of-athens-poverty-conduct-hps-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-conduct",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.json"
+      }
+    },
+    {
+      "eul_wid": "ivq-ac",
+      "title": {
+        "english": "Fragments on Servants and Masters",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δούλων καὶ Δεσποτῶν"
+      },
+      "url_slug": "alexis-the-comic-poet-servants-masters-ivq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexis-the-comic-poet/servants-masters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexis-the-comic-poet/servants-masters.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aq",
+      "title": {
+        "english": "Misumenus Fragments",
+        "ancient_greek": "Μισούμενος Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-misumenus-fragments-hps-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cratinus-the-younger/comic-dialogue",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-dialogue.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-dialogue.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-dialogue.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-younger/comic-dialogue.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

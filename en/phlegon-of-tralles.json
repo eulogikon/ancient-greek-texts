@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ple",
+  "auth_slug": "phlegon-of-tralles",
+  "name": {
+    "english": "Phlegon of Tralles",
+    "ancient_greek": "Φλέγων ὁ Τραλλιανός"
+  },
+  "seo_h1": "Phlegon of Tralles on Marvels and the Olympic Games",
+  "seo": {
+    "browser_title": "Phlegon of Tralles on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Phlegon of Tralles Ancient Greek Historical Works",
+    "meta_description": "Phlegon of Tralles, 2nd century CE Roman historian. Surviving fragments of his historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Phlegon of Tralles was a Greek writer of the 2nd century CE and a freedman of the emperor Hadrian, originating from the city of Tralles in Lydia. His position as an imperial freedman places him within the network of educated Greek intellectuals serving the Roman imperial court.</p>\n<p class=\"research-text\">His extant work, surviving in fragments, consists primarily of compilations. These include <strong>On Marvels</strong>, a paradoxographical collection of incredible stories about monsters, ghosts, and hermaphrodites; the <strong>Olympiads</strong>, a chronological history from 776 BCE to 137–141 CE; and <strong>On Long-Lived Persons</strong>, a catalog of individuals who achieved extreme old age.</p>\n<p class=\"research-text\">Phlegon is a significant representative of imperial-era paradoxography. His <strong>On Marvels</strong> is a key source for ancient conceptions of the fantastic, while his <strong>Olympiads</strong> provided a chronological framework utilized by later historians like Eusebius. He exemplifies the cultural output of Greek intellectuals integrated into the Roman administrative system.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "ple-ab",
+      "title": {
+        "english": "On Marvels",
+        "ancient_greek": "Περὶ θαυμάτων"
+      },
+      "url_slug": "phlegon-of-tralles-marvels-ple-ab",
+      "passages": 65,
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/marvels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/marvels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/marvels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/marvels.json"
+      }
+    },
+    {
+      "eul_wid": "ple-ac",
+      "title": {
+        "english": "On the Olympic Games",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phlegon-of-tralles-olympic-games-ple-ac",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/olympic-games",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/olympic-games.json"
+      }
+    },
+    {
+      "eul_wid": "ple-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "phlegon-of-tralles-testimonies-ple-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/phlegon-of-tralles/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phlegon-of-tralles/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/phlegon-of-tralles",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phlegon-of-tralles.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phlegon-of-tralles.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phlegon-of-tralles.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/phlegon-of-tralles.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

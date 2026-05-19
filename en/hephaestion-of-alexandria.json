@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oqa",
+  "auth_slug": "hephaestion-of-alexandria",
+  "name": {
+    "english": "Hephaestion of Alexandria",
+    "ancient_greek": "Ἡφαιστίων ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Hephaestion of Alexandria on Poetic Meter",
+  "seo": {
+    "browser_title": "Hephaestion of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "Hephaestion of Alexandria Ancient Greek Grammarian",
+    "meta_description": "Hephaestion of Alexandria, 2nd century CE Greek grammarian. Five works on meter and grammar. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hephaestion of Alexandria was a Greek scholar who lived during the 2nd century CE, a period when Egypt was part of the Roman Empire. He worked in the city of Alexandria, a major center of learning, where he specialized in grammar and the study of poetic meter. Little is known about the specific details of his personal life or education.</p>\n<p class=\"research-text\">His most important surviving work is the Enchiridion, a systematic handbook on the various metrical forms used in Greek poetry. He is also known to have written other works, including one On Poems and another On Signs, but these texts are now lost. The exact subject of On Signs is unclear, though some scholars suggest it may have dealt with the critical symbols used by ancient editors of texts.</p>\n<p class=\"research-text\">Hephaestion’s primary historical importance stems from his role as a compiler and systematizer of knowledge. His Enchiridion became a standard textbook on meter for later generations, used throughout antiquity and the Byzantine period. The work is also a valuable source for modern scholars because it preserves summaries and citations from earlier experts on meter whose own writings have been lost. In this way, Hephaestion’s handbook provides a crucial link in the history of ancient literary scholarship.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 5,
+  "works": [
+    {
+      "eul_wid": "oqa-ac",
+      "title": {
+        "english": "Handbook-Meters",
+        "ancient_greek": "Ἐγχειρίδιον περὶ Μέτρων"
+      },
+      "url_slug": "hephaestion-of-alexandria-handbook-meters-oqa-ac",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/handbook-meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-aa",
+      "title": {
+        "english": "Hephaestion Fragments",
+        "ancient_greek": "Ἡφαιστίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "hephaestion-of-alexandria-fragments-oqa-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-ab",
+      "title": {
+        "english": "Metric Introduction",
+        "ancient_greek": "Μετρικὴ εἰσαγωγή"
+      },
+      "url_slug": "hephaestion-of-alexandria-metric-introduction-oqa-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/metric-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-ad",
+      "title": {
+        "english": "On Poems",
+        "ancient_greek": "Περὶ ποιημάτων"
+      },
+      "url_slug": "hephaestion-of-alexandria-on-poems-oqa-ad",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-ae",
+      "title": {
+        "english": "On Signs",
+        "ancient_greek": "Περὶ Σημείων"
+      },
+      "url_slug": "hephaestion-of-alexandria-signs-oqa-ae",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hephaestion-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-alexandria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-alexandria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-alexandria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hephaestion-of-alexandria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

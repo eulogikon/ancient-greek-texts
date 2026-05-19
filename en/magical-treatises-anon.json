@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "smk",
+  "auth_slug": "magical-treatises-anon",
+  "name": {
+    "english": "Magical Treatises Anonymous",
+    "ancient_greek": "Ἀνώνυμος μαγικὰ συγγράμματα"
+  },
+  "seo_h1": "Magical Papyri and Anonymous Late Antique Ritual Texts",
+  "seo": {
+    "browser_title": "Magical Treatises Anonymous on Eulogikon Greek Archive",
+    "meta_title": "Classical Magical Treatises Anonymous Ancient Greek Works",
+    "meta_description": "Magical Treatises Anonymous, late antique writings from the 2nd to 4th centuries CE. Four works on magical science. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Magical Treatises Anonymous Life</p>\n<p class=\"research-text\">No biographical information exists for the anonymous compilers of the magical treatises from the 2nd to 4th centuries CE. These practical handbooks originate from the Greco-Roman world of Late Antiquity, a period of religious syncretism. The texts imply literate practitioners, such as temple scribes or ritual experts, operating where magic intersected with religion, philosophy, and proto-scientific thought.</p>\n<p class=\"research-text\">Works</p>\n<p class=\"research-text\">The works are corpora of magical recipes and rituals. The primary corpus is the Greek Magical Papyri, a modern collection of papyri from Egypt, with a concentration from the 2nd to 4th centuries CE. Key papyri include the &quot;Eighth Book of Moses,&quot; the &quot;Great Magical Papyrus,&quot; and the &quot;Lithika.&quot; Related collections include the Demotic Magical Papyri and Coptic magical texts.</p>\n<p class=\"research-text\">Significance</p>\n<p class=\"research-text\">These treatises are primary sources for ancient religion, magic, and daily life. They provide direct evidence for ritual practices and syncretic beliefs, blending Egyptian, Greek, Jewish, and early Christian elements. They are crucial for understanding the boundaries between religion, magic, and science in the ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "smk-ad",
+      "title": {
+        "english": "Magical Papyri",
+        "ancient_greek": "Μαγικὰ Πάπυροι"
+      },
+      "url_slug": "magical-treatises-anon-papyri-smk-ad",
+      "passages": 240,
+      "links": {
+        "html": "https://eulogikon.org/grc/magical-treatises-anon/papyri",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri.json"
+      }
+    },
+    {
+      "eul_wid": "smk-aa",
+      "title": {
+        "english": "Magical Papyri Christian Fragments",
+        "ancient_greek": "Μαγικὰ Πάπυροι Χριστιανικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "magical-treatises-anon-christian-fragments-smk-aa",
+      "passages": 32,
+      "links": {
+        "html": "https://eulogikon.org/grc/magical-treatises-anon/christian-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/christian-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/christian-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/christian-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/christian-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "smk-ab",
+      "title": {
+        "english": "Magical Papyri, Ostraca",
+        "ancient_greek": "Μαγικὰ Πάπυροι"
+      },
+      "url_slug": "magical-treatises-anon-papyri-ostraca-smk-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/magical-treatises-anon/papyri-ostraca",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-ostraca.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-ostraca.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-ostraca.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-ostraca.json"
+      }
+    },
+    {
+      "eul_wid": "smk-ac",
+      "title": {
+        "english": "Magical Papyri, Tablets",
+        "ancient_greek": "Μαγικὰ Πάπυροι"
+      },
+      "url_slug": "magical-treatises-anon-papyri-tablets-smk-ac",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/magical-treatises-anon/papyri-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/magical-treatises-anon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/magical-treatises-anon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/magical-treatises-anon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/magical-treatises-anon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/magical-treatises-anon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pmi-ad",
+  "eul_aid": "pmi",
+  "author_slug": "fronto-the-rhetorician",
+  "work_slug": "friends",
+  "url_slug": "fronto-the-rhetorician-friends-pmi-ad",
+  "author": {
+    "english": "Fronto the Rhetorician",
+    "ancient_greek": "Μᾶρκος Κορνήλιος Φρόντων ὁ Ῥήτωρ"
+  },
+  "title": {
+    "english": "To Friends",
+    "ancient_greek": "Πρὸς Φίλους"
+  },
+  "seo": {
+    "browser_title": "Ancient To Friends by Fronto the Rhetorician on Eulogikon",
+    "meta_title": "To Friends by Fronto the Rhetorician in Ancient Greek",
+    "meta_description": "Fronto's oration explores the philosophical foundations of friendship and the rhetorical art of maintaining bonds Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;To Friends&quot; is a brief oration by the Roman rhetorician Marcus Cornelius Fronto. Composed in Greek during the mid-2nd century CE, it exemplifies the refined Attic style he championed. The work, structured in two passages, addresses the theme of friendship. While the complete text does not survive independently, it is believed to have functioned as a model of eloquence or a formal address within Fronto&#x27;s circle of elite students and peers, which included the future emperor Marcus Aurelius, whom he tutored. Fronto&#x27;s works were largely lost after antiquity and only rediscovered in the 19th century through palimpsests—manuscripts where his texts had been erased and written over. &quot;To Friends&quot; is preserved among these fragmentary collections of his letters and rhetorical exercises. Modern scholars view such works as demonstrations of applied rhetorical principles and the cultural significance of friendship as a social and political bond in the High Roman Empire. Its survival offers a valuable glimpse into the pedagogical and literary practices at the heart of the imperial court.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "ΦΡΟΝΤΩΝ ΑΠ. ΑΠΟΛΛΩΝΙΔΗΙ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.1",
+      "text": "Κορνηλιανὸν Σουλπίκιον φιλεῖν ἠρξάμην ἡσθε/ὶς τῷ τε τρόπῳ τἀνδρὸς καὶ τοῖς λόγοις· πέφυκεν γὰρ πρὸς λόγους ἄριστα. οὐκ ἂν δὲ ἔξαρνος εἴην τὰ πρῶτα παρ’ ἐμοὶ φέρεσθαι τὴν ἐκ παιδείας φιλίαν συσταθεῖσαν· παιδείαν δὲ ταύτην λέγω τὴν τῶν ῥητόρων· αὕτη γὰρ δοκεῖ μοι ἀνθρωπίνη τις εἶναι· τῶν φιλοσόφων θεία τις ἔστω. βοήθησον οὖν τὰ δυνατὰ Κορνη λιανῷ ἀγαθῷ ἀνδρὶ κἀμοὶ φίλῳ καὶ 〈λογίῳ〉 καὶ οὐ φιλοσόφῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pmi-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "fronto-the-rhetorician-epigrams-pmi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "pmi-aa",
+      "title": {
+        "english": "Supplement to Headless Letters",
+        "ancient_greek": "Προσθήκη εἰς Ἐπιστολὰς Ἀκέφαλους"
+      },
+      "url_slug": "fronto-the-rhetorician-headless-letters-supplement-pmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/headless-letters-supplement",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.json"
+      }
+    },
+    {
+      "eul_wid": "pmi-ab",
+      "title": {
+        "english": "To Marcus Caesar and Each Other",
+        "ancient_greek": "Πρὸς Μάρκον Καῖσαρα καὶ Ἀλλήλους"
+      },
+      "url_slug": "fronto-the-rhetorician-marcus-caesar-ab-pmi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.json"
+      }
+    },
+    {
+      "eul_wid": "pmi-ac",
+      "title": {
+        "english": "To Marcus Caesar and Each Other",
+        "ancient_greek": "Πρὸς Μάρκον Καῖσαρα καὶ Ἀλλήλους"
+      },
+      "url_slug": "fronto-the-rhetorician-marcus-caesar-ac-pmi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-ak",
+      "title": {
+        "english": "Against Androtion for Illegal Acts",
+        "ancient_greek": "κατὰ Ἀνδροτίωνος παρανόμων"
+      },
+      "url_slug": "demosthenes-of-athens-against-androtion-fsm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-androtion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.json"
+      }
+    },
+    {
+      "eul_wid": "spc-ac",
+      "title": {
+        "english": "Division of Questions",
+        "ancient_greek": "Διαίρεσις ζητημάτων"
+      },
+      "url_slug": "sopater-of-athens-division-questions-spc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sopater-of-athens/division-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens/division-questions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens/division-questions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens/division-questions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sopater-of-athens/division-questions.json"
+      }
+    },
+    {
+      "eul_wid": "mbw-aa",
+      "title": {
+        "english": "Exhortation A",
+        "ancient_greek": "Προτρεπτικὸς Α"
+      },
+      "url_slug": "lesbonax-the-rhetorician-exhortation-mbw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lesbonax-the-rhetorician/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "upa-aa",
+      "title": {
+        "english": "Introduction to Hermogenes' Art of Rhetoric",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν Ἑρμογένους Ῥητορικήν"
+      },
+      "url_slug": "troilus-of-constantinople-hermogenes-rhetoric-upa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/troilus-of-constantinople/hermogenes-rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/troilus-of-constantinople/hermogenes-rhetoric.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/troilus-of-constantinople/hermogenes-rhetoric.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/troilus-of-constantinople/hermogenes-rhetoric.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/troilus-of-constantinople/hermogenes-rhetoric.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-af",
+      "title": {
+        "english": "Leuctrian E. In Favor of Helping Neither",
+        "ancient_greek": "Λευκτρικὸς Ε."
+      },
+      "url_slug": "aristides-the-orator-leuctrian-helping-neither-qwm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/leuctrian-helping-neither",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-helping-neither.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-helping-neither.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-helping-neither.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-helping-neither.json"
+      }
+    },
+    {
+      "eul_wid": "rlm-aa",
+      "title": {
+        "english": "On Formed Problems",
+        "ancient_greek": "Περὶ τῶν ἐσχηματισμένων προβλημάτων"
+      },
+      "url_slug": "valerius-apsines-of-gadara-formed-problems-rlm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/valerius-apsines-of-gadara/formed-problems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/valerius-apsines-of-gadara/formed-problems.json"
+      }
+    },
+    {
+      "eul_wid": "sma-aa",
+      "title": {
+        "english": "Paraphrase of Oppian's Cynegetica",
+        "ancient_greek": "Παράφρασις εἰς τὰ Κυνηγετικά τοῦ Ὀππιανοῦ"
+      },
+      "url_slug": "eutecnius-the-paraphrast-oppian-cynegetica-sma-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutecnius-the-paraphrast/oppian-cynegetica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast/oppian-cynegetica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast/oppian-cynegetica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast/oppian-cynegetica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutecnius-the-paraphrast/oppian-cynegetica.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-bh",
+      "title": {
+        "english": "To Onetor On Eviction A",
+        "ancient_greek": "πρὸς Ὀνήτορα ἐξούλης α΄"
+      },
+      "url_slug": "demosthenes-of-athens-onetor-eviction-bh-fsm-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/onetor-eviction-bh",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bh.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bh.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bh.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bh.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/fronto-the-rhetorician/friends",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iha-aa",
+  "eul_aid": "iha",
+  "author_slug": "hermesianax-of-colophon",
+  "work_slug": "testimonies",
+  "url_slug": "hermesianax-of-colophon-testimonies-iha-aa",
+  "author": {
+    "english": "Hermesianax of Colophon",
+    "ancient_greek": "Ἑρμησιάναξ ὁ Κολοφωνεύς"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Hermesianax of Colophon on Eulogikon",
+    "meta_title": "Testimonies by Hermesianax of Colophon in Ancient Greek",
+    "meta_description": "Surviving fragments of elegiac poetry collection Testimonies. Hellenistic elegiac poetry from 300 BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἐλεγειακή",
+      "english": "Ionic Elegiac",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a collection of elegiac poetry by the Hellenistic poet Hermesianax of Colophon, composed around 300 BCE. The work is almost entirely lost, with its content known only through two quoted passages preserved by later ancient authors. The most substantial surviving fragment is a 98-line poem cited by Athenaeus. This piece takes the form of a mythological catalogue, listing famous love affairs from legend and history as a poetic consolation to the poet&#x27;s beloved, Leontion. It includes a characteristically Hellenistic, playful anachronism in its mention of the philosopher Plato being in love. A second, shorter fragment preserves a couplet on the power of Eros. The original scope and full structure of the collection remain unknown.</p>\n<p class=\"research-text\">Hermesianax was a pupil of the poet Philitas of Cos, and his work exemplifies the learned, allusive style of early Hellenistic poetry. Scholars interpret the <strong>Testimonies</strong> as a key example of erotic catalogue poetry, a genre that blended myth, history, and contemporary reference for a sophisticated, erudite audience. The work exercised an influence on later elegiac poets, and its anecdote concerning Plato was frequently repeated in later antiquity. The surviving fragments are studied primarily for the insight they provide into the thematic concerns and artistic methods of early Hellenistic elegy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,691,T 1",
+      "text": "SCHOL. NIKAND. Ther. 3: φίλ’ Ἑρμησιάναξ, πολέων κυδίστατε παῶν] ὁ Ἑρμησιάναξ οὗτος φίλος τῶι Φιλητᾶι καὶ γνώριμος ἦν· τούτωι δὲ τὰ Περσικὰ γέγραπται καὶ τὰ εἰς Λεόντιον τὴν ἐρωμένην. οὐ δύναται δὲ Νίκανδρος μνημονεύειν τούτου διὰ τῆς προσφωνήσεως διὰ τὸ τὸν Φιλητᾶν πρεσβύτερον εἶναι Νικάνδρου· καὶ αὐτὸς δὲ ὁ Νίκανδρος μέμνηται τοῦ Ἑρμησιάνακτος ὡς πρεσβυτέρου ἐν τῶι Περὶ τῶν ἐκ Κολοφῶνος ποιητῶν (271/2 F 10). ἔστιν οὖν οὗτος ἑταῖρος Νικάνδρου, ὁμώνυμος τῶι πρώτωι. δῆλον δὲ ὅτι συγγενὴς αὐτοῦ ἦν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,691,T 2",
+      "text": "AGATHARCHID. De m. R. 21 (PHOT. Bibl. 250 p. 446 b 33): διὸ καὶ ψυχρότητα ἐσχάτην ἐμφαίνει (Hegesias 142 T 3), ὥσπερ καὶ Ἑρμησιάναξ ὁ τὴν Ἀθηνᾶν ἐγκωμιάσας οὕτως· «ἐκ γὰρ τῆς τοῦ Διὸς γεγενημένη κεφαλῆς εἰκότως ἔχει τῆς εὐδαιμονίας τὸ κεφάλαιον». τοιοῦτον καὶ τὸ «τίς δ’ ἂν δύναιτο ποιῆσαι τὴν Κύρου δόσιν ἄκυρον;» καὶ τόδε δὲ ὅμοιον· «τόπος δὲ πῶς γένοιτ’ ἄβατος, βάτου περικειμένου;»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iha-ac",
+      "title": {
+        "english": "Betrayal of Nanis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-betrayal-of-nanis-iha-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/betrayal-of-nanis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/betrayal-of-nanis.json"
+      }
+    },
+    {
+      "eul_wid": "iha-ab",
+      "title": {
+        "english": "Orphic and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-orphic-mythological-fragments-iha-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vfo-ab",
+      "title": {
+        "english": "Description of the Ambo",
+        "ancient_greek": "Περὶ τοῦ Ἄμβωνος"
+      },
+      "url_slug": "paul-the-silentiary-ambo-vfo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paul-the-silentiary/ambo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/ambo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/ambo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/ambo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/ambo.json"
+      }
+    },
+    {
+      "eul_wid": "grm-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "erinna-of-telos-epigrams-grm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "big-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "simonides-of-ceos-epigrams-big-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "rto-aa",
+      "title": {
+        "english": "Fragments of Uncertain Works",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ἔργων"
+      },
+      "url_slug": "anonymous-parodica-uncertain-fragments-rto-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-parodica/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dgq-aa",
+      "title": {
+        "english": "Fragments on Cyprus and the Gods",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύπρου καὶ Θεῶν"
+      },
+      "url_slug": "lyric-poetry-anonymous-cyprus-gods-dgq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poetry-anonymous/cyprus-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.json"
+      }
+    },
+    {
+      "eul_wid": "big-ac",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "simonides-of-ceos-genealogy-big-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/simonides-of-ceos/genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simonides-of-ceos/genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "mwq-aa",
+      "title": {
+        "english": "Myrson and Lycidas",
+        "ancient_greek": "Μύρσων καὶ Λυκίδας"
+      },
+      "url_slug": "bion-of-smyrna-myrson-lycidas-mwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/myrson-lycidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.json"
+      }
+    },
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hermesianax-of-colophon/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

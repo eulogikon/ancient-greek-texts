@@ -1,0 +1,671 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qnq-bb",
+  "eul_aid": "qnq",
+  "author_slug": "herodian-of-alexandria",
+  "work_slug": "homeric-schemes",
+  "url_slug": "herodian-of-alexandria-homeric-schemes-qnq-bb",
+  "author": {
+    "english": "Herodian of Alexandria",
+    "ancient_greek": "Αἴλιος Ἡρωδιανός"
+  },
+  "title": {
+    "english": "Homeric Schemes",
+    "ancient_greek": "Ὁμηρικὰ Σχήματα"
+  },
+  "seo": {
+    "browser_title": "Homeric Schemes by Herodian of Alexandria on Eulogikon",
+    "meta_title": "Homeric Schemes by Herodian of Alexandria in Greek",
+    "meta_description": "Herodian of Alexandria examines rhetorical devices and grammatical patterns throughout Homer's epic works. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Homeric Schemes is a grammatical treatise by the second-century CE grammarian Herodian of Alexandria. The work collects forty-four passages from the Iliad and Odyssey to illustrate and explain rhetorical or grammatical schemes, defined as stylistic deviations from standard linguistic usage. It systematically identifies and explicates specific figures of speech and linguistic anomalies found in Homeric verse, contributing to the ancient scholarly tradition of interpreting the poet&#x27;s distinctive language. The treatise functioned as a pedagogical tool for advanced grammatical education. The full text is now lost; it survives only in fragments preserved through quotations in later Byzantine grammatical compilations, such as the Ethnika of Stephanus of Byzantium, and within the marginal scholia on Homer&#x27;s poems. Herodian was a profoundly influential figure in the field of grammar, and his technical analyses from Homeric Schemes, along with his other works, became standard references. These analyses were subsequently integrated into the Byzantine scholiastic tradition, thereby shaping the way Homer was read and taught for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἀβάκησα ν , ἠγνόησαν. καθίσταται δὲ ὁ σχηματισμὸς οὗτος οὕτως· ἔστι τὸ ῥῆμα φῶ τὸ λέγω· παράγωγον φάζω καὶ τροπῇ βάζω· ὁ μέλλων βάξω, ὁ παρακείμενος βέβαχα, ὁ παθητικὸς βέβαγμαι, βέβακται. βακτὸς ὡς πρακτὸς καὶ ἀκτὸς ῥεκτός· καὶ ἄβακτος ὡς ἄπρακτος. ὥσπερ οὖν ἀπὸ τοῦ ἄπρακτος ἀπρακτῶ, οὕτω καὶ ἀπὸ τοῦ ἄβακτος ἀβακτῶ, ὡς καὶ ἀπὸ τοῦ ἄβλεπτος ἀβλεπτῶ καὶ ἄπεπτος ἀπεπτῶ καὶ ἄλεπτος ἀλεπτῶ καὶ ἄλλα μυρία. ἀβακτῶ οὖν καὶ κατ’ ἔνδειαν ἀβακῶ, ὅθεν ἄβακας καὶ ἀβακήμονας καλοῦσι τοὺς ἀπαιδεύτους. ὅτι δὲ τὸ ἀβάκησαν σημαίνει τὸ ἠγνόησαν, ἡ ἀντιδιαστολὴ παρίστησιν· «οἱ δ’ ἀβάκησαν πάντες· ἐγὼ δέ μιν οἴη ἀνέγνων» 〈Hom. δ 249 f.〉: Ἀγοστό ς , ἀγκών, ᾧ περιάγεται ἡ χεὶρ καὶ κάμπτεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "τινὲς δὲ κόλπον, ἢ τὸ ἔνδον. γίνεται οὕτως· ἀγῶ ἀγέσω ἀγεστὸς ῥηματικὸν καὶ ἀγοστὸς ὡς τελεστός: Ἁδινόν (ἀδινόν cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "), λεπτόν· καταχρηστικῶς δὲ πυκνόν: Ἀδευκέ ς , ἄδηλον, ἀφανές, ἄμορφον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "δέκω τὸ ἐπιμελῶς βλέπω, καὶ ἐπιτηρῶ. καὶ ὡς ἐκ τοῦ πρέπω ἀπρεπής, σέβω ἀσεβής, οὕτως ἐκ τοῦ δέκω ἀδεκής, καὶ κατὰ παρένθεσιν τοῦ υ ἀδευκής. σημαίνει δὲ τὸ μὴ ὁρώμενον, ἢ τὸ δι’ εὐτέλειαν καὶ δυσμορφίαν παρορώμενον: Ἄητο ν , τὸ μέγα καὶ πολυσχημάτιστον, οὕτως· ἐῶ τὸ πληρῶ, ἔημι ἔσω· ἔτον (so) τὸ πλῆρες καὶ μέγα, καὶ κατὰ ἔκτασιν ἦτον (so), καὶ τὸ α πρόσκειται, σημαῖνον τὸ μέγα καὶ ἀχανὲς πέλαγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "τινὲς δὲ οὕτως· ἄητον (so) ἀντὶ τοῦ ὥρμητο· «δίχα δέ σφι θυμὸς ἄητ ο ν το » (so) 〈Hom. Φ 386〉, ὅθεν καὶ ἀήτης ὁ ἄνεμος ἀπὸ τοῦ ἄω τὸ πνέω: Ἀΐσθω ν , ἐκπνέων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "οἱ δὲ μὴ αἰσθανόμενος, ἢ ἀϊστούμενος καὶ ἀφανιζόμενος, ὃ μᾶλλον ἐγγίζει. καὶ σχηματίζεται οὕτως· εἴδω εἴσω εἶκα εἶσμαι εἶσται ἰστὸς ὁ ὁρατός, ἄιστος ὁ ἀόρατος, καὶ ἀίστω, καὶ τροπῇ τοῦ τ εἰς θ ἀίσθω, μεταβαλόντος τοῦ τόνου διὰ τὸ μὴ ἐγνῶσθαι τὸν σχηματισμόν: Αἰσυητή ρ · οἱ μὲν τὸν κεκινημένον καὶ ἐντρεχῆ, παρὰ τὸ σεύω συῶ συήσω συητήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "οἱ δὲ τὸν νέον· ἴσως καὶ τὸν αἴσιον καὶ κόσμιον περὶ τὴν αἶσαν: Ἀπινύσσει ν , ἀσυνέτως ἔχειν (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "): Ἁλοσύδνη ς · οἱ μὲν τῆς ἐν ἁλὶ τεθραμμένης, παρὰ τὸ ἵζω (am rande 34edw)· οἱ δὲ τῆς τοῦ ἁλὸς ἐμπείρου, παρὰ τὸ εἰδέναι ἴδνη καὶ ὕδνη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "οἱ δὲ παρὰ (so hat die hs.) τὸ σέεσθαι ἢ δονεῖσθαι: Ἀνέεργ ε · εἴργω τὸ θέμα, καὶ ὁ παρατατικὸς εἶργον εἶργες εἶργε, καὶ κατὰ διαίρεσιν ἔεργε καὶ ἀνέεργε: Ἀμολγ ῷ · οἱ μὲν μεσονυκτίῳ, οἱ δὲ ἑσπέρας, οἱ δὲ πρωΐ, οἱ δὲ μεσημβρίας, οἱ πλείους δὲ τὸν καιρὸν σημαίνεσθαι βούλονται, καθ’ ὃν ἀμέλγεται τὰ βοσκήματα: Ἄμνιο ν , ἀγγεῖον, ᾧ ὑποδέχονται τοῦ ἱερείου τὸ αἷμα, αἵμνιον καὶ ἄμνιον: Ἀνόπαι α · οἱ μὲν ἀφανῆ, τινὲς δὲ τὸ ἄνω φέρεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Ἐμπεδοκλῆς· καρπαλίμως δὲ ἀνόπαιαν, ἐπὶ τοῦ πυρός. οἱ δὲ ἀνὰ τὴν ὀπήν· τὴν γὰρ κάπνην ὀπὴν καλοῦσιν· οἱ δὲ γένος ὀρνίθων οὕτω καλουμένων· οἱ δὲ πᾶν ὄρνεον οὕτω λέγεσθαι παρὰ τὸ διατρίβειν ἐν ταῖς ὀπαῖς: Αὐέρυσα ν , ἄνω εἵλκυσαν, καὶ ἐπὶ τῶν ἱερείων καὶ ἐπὶ τοῦ τόξου καὶ ἐφ’ (ὑφ’ cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": ") ὁτουοῦν: Ἀφήτω ρ , ἐπίθετόν ἐστιν Ἀπόλλωνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "καὶ οἱ μὲν ἀπὸ τῆς ἀφέσεως τῶν βελῶν· ἀφίημι ἀφήσω ἀφητὴρ καὶ ἀφήτωρ· οἱ δὲ ἀπὸ τοῦ ὁμοῦ πᾶσι φατίζειν, ὅ ἐστι μαντεύεσθαι: Ἀπεσκοράκιζε ν , ὕβριζεν, ἐξέρριπτεν ἢ ἐχλεύαζεν, εἰς ἐρημίαν ἔπεμπεν· ἀπὸ τοῦ κόραξ κόρακος κορακίζω καὶ ἀποκορακίζω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "σημαίνει δὲ τὸ καταλιμπάνω. λέγουσι γάρ τινες ὅτι ἐδόθη χρησμός τισι παρακαθημένοις πόλει, ἡνίκα ἴδοιεν λευκοὺς κόρακας, λύειν τὴν πολιορκίαν. αἰσθόμενοι δὲ οἱ ἐν τῇ πόλει καὶ κονίᾳ λευκάναντες κόρακας ἀφῆκαν πέτεσθαι. καὶ οὕτως οἱ πολέμιοι τοῦτ’ ἐκεῖνο τὸ μαντευθὲν ὑποτοπάσαντες εἶναι ἀναστρέφειν ἔγνωσαν: Ἁμωσγέπω ς , ὁπωσδήποτε: Ἁμόθε ν , ἀπό τινος μέρους: Ἀπούρα ς · ἀπουρίζω, ὁ μέλλων ἀπουρίσω, ἀπουρίσας καὶ κατὰ συγκοπὴν τοῦ ι καὶ ς ἀπούρας: Ἄρσαντε ς , ἀπὸ τοῦ ἄρω ἀρῶ ἄρσω παρενθέσει τοῦ ς Αἰολικῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "ἡ μετοχὴ ἄρσας: Ἀγηγέρατα ι · ἀγείρω ἀγερῶ ἤγερκα καὶ ἀγήγερκα· ὁ παθητικὸς Ἀττικὸς ἀγήγερμαι ἀγήγερται καὶ ἐπενθέσει τοῦ α ἀγηγέραται: Ἄωρτ ο · αἰωρῶ αἰωρήσω ᾐώρηκα ᾐώρημαι ᾐωρήμην ᾐώρητο καὶ κατὰ συγκοπὴν τοῦ η ἤωρτο, εἶτα Δωρικῶς ἄωρτο: Ἆλτ ο · ἅλλομαι ἧλα ἡλάμην ἥλατο: Ἀμπεπαλώ ν · πάλλω παλῶ ἔπηλα ἔπαλον παλών ὡς τὸ ἔμαθον ἔπαθον μαθών παθών, εἶτα μετὰ προθέσεως κατὰ συγκοπὴν καὶ ἀναδίπλωσιν: Ἀφίκηα ι , μέσος δεύτερος ἀόριστος Ἰωνικὸς ὑποτακτικός· ἵκω, ὅθεν τὸ ἱκάνω ἱκνῶ ἱκνοῦμαι ἀφικνοῦμαι· ὁ δεύτερος ἀόριστος ἵκον (so), ὁ μέσος ἱκόμην, καὶ τὸ ὑποτακτικὸν ἐὰν ἀφίκωμαι, ἐὰν ἀφίκηται, εἶτα ὑποστολῇ Ἰωνικῇ τοῦ τ ἀφίκηαι ὡς πύθηαι λάβηαι δείξηαι: Ἀγήοχ α , παρακείμενος ἔχων πάθος καὶ διάλεκτον Ἀτθίδα· ἄγω ἄξω ἦχα καὶ μετὰ τῆς (τὴν cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": ") σύν μὲν τὸ ξυνῆχα παρὰ Ξενοφῶντι ἀντὶ τοῦ συνήγαγον, καὶ προσθήκῃ δὲ Ἀττικῇ τῶν κατὰ τὴν ἀρχὴν γραμμάτων δύο καὶ πλεονασμῷ τοῦ ο , ἐπεὶ φιλεῖ ὁ τοιοῦτος τὴν τρίτην ἔχειν βραχεῖαν, ἀγήοχα: Βλεμμεαίνε ι , θυμοῦται, γαβριᾷ· ἀπὸ τῆς φλεβός φλεβεαίνει ἤτοι ἀναρρώννυται καὶ προθυμεῖται· εἶτα τῶν στοιχείων γίνεται μετάληψις, ἐντεῦθεν καὶ τὸ νωθρόν ἀφλεβές λέγεται, ὡς ἄσφυγμον καὶ ἀκίνητον κατὰ ἡμιθνῆτας: Βιώτ ω , ἀπὸ τοῦ βιῶ· τὸ προστακτικὸν βιούτω, ὅπερ οἱ Δωριεῖς βιώτω ἐποίησαν: Βεβολήατ ο , παθητικὸς ὑπερσυντέλικος· βολῶ βολήσω βεβόληκα βεβόλημαι ἐβεβολήμην ἐβεβόλητο καὶ Ἰωνικῶς ἐβεβολέατο, εἶτα ἐκβολῇ τῆς ἀρχούσης καὶ τροπῇ τοῦ ε εἰς Β ῆ · βίβημι βήσω ὡς ἵστημι στήσω· ὁ δεύτερος ἀόριστος Ἰωνικὸς βῆ ὡς τὸ στῆ καὶ φῆ: Γλήνε α , τὰς πεπλανημένας (πεπλασμένας coni.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "Sturz)· γλήνη δὲ ὁ ὀφθαλμὸς ἢ ἡ πρόσοψις: Γέντ ο · ἑλῶ ἑλόμην Ἰωνικῶς, ἕλου ἕλετο καὶ συγκοπῇ ἕλτο ὡς ἥλατο ἆλτο· καὶ ἐπεὶ οἱ Δωριεῖς, ὅτε ἐπιφέρεται τῷ λ τὸ τ ἢ τὸ θ , μεταβάλλουσιν εἰς τὸ ν τὸ λ —«ἦνθόν τοι βοῦται» 〈Theokr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "eid. 1, 80〉—, τὸ ἕλτο ἕντο ἐγένετο Δωρικῶς, εἶτα κατ’ ἐπένθεσιν τοῦ γ , ἵνα μὴ συνεμπέσῃ τῷ ἕντο ἀντὶ τοῦ ἐπλήρωσαν 〈Hom. Α 469〉, γέντο: Δενδίλλω ν , ἐννεύων τοῖς ὀφθαλμοῖς κατὰ τὴν ἀναστροφήν: Δέροτρο ν , τὸ δέρμα: Ἔδδεισ α · ἐπένθεσις γίνεται: Δέδοικ α , μέσος παρακείμενος· δέδοιδα ὤφειλεν εἶναι, ἀλλὰ διὰ τὴν εὐφωνίαν δέδοικα ὡς κέκλοφα· κέκλοπα γὰρ ὤφειλεν· ἀλλὰ προὐτιμήθησαν τῶν μέσων οἱ παρακείμενοι: Δειδέχατα ι , ἀπὸ τοῦ δέδεκται· Ἰωνικῶς δεδέκαται ὤφειλεν, ἀλλὰ δι’ εὐφωνίαν τροπὴ γίνεται τοῦ κ , 〈ὡσ〉 ἐν τῷ τετύφαται τοῦ π : Ἐδήδοκ α , ἀπὸ τοῦ ἤδοκον (so) κατὰ ἀναδιπλασιασμόν: Ἐξέσσυτ ο , ἀπὸ τοῦ σεύω· «ὣς εἰπὼν πυλέων ἐξέσσυτο φαίδιμος Ἕκτωρ» 〈Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Η 1〉: Ἔρυτ ο , ἀπὸ τοῦ εἰρύω εἰρύσω εἴρυσα εἰρυσάμην, «εἰρύσατο ζωστήρ τε παναίολος» 〈Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Δ 186〉. ἐκ τούτου γοῦν τοῦ εἰρύω ὁ παρατατικὸς εἰρύετο, ὃς ἐν συναλοιφῇ καὶ ἐνδείᾳ τοῦ ι ἔρυτο. δυνατὸν δὲ καὶ ἀπὸ τῶν εἰς μι σχηματίζειν αὐτό· εἰρύω εἴρυμι, τὸ παθητικὸν εἴρυμαι εἰρύμην: Ἐπενήνοθ ε , ἀπὸ τοῦ θέω, καὶ κατὰ μετάθεσιν ἔθω, ἐνέθω· ὁ μέσος παρακείμενος ἔνηθα καὶ κατὰ ἀναδιπλασιασμὸν ἐνήνοθα: Ἐρηρέδατα ι · ἐρείδω ἐρείσω ἤρεικα ὁ κοινὸς παρακείμενος· ὁ Ἀττικὸς ἐρήρικα ἐρήρισμαι ἐρήρισται, καὶ Ἰωνικῶς ἐρηρίσαται ὤφειλε〈ν〉· ἀλλὰ διὰ τὸ πάθος τοῦ ς πρὸς τὸ δ , καὶ ἄλλως ὅτι τοῦ ἐνεστῶτος ἦν, τροπὴ γίνεται τοῦ ς πρὸς τὸ δ καὶ τοῦ ι δι’ εὐφωνίαν πρὸς τὸ ε : Ἐρράδατα ι · ῥάζω ῥάσω ἔρρακα, ὡς τὸ μιάζω μιάσω μεμίακα, πιάζω πιάσω πεπίακα, κεκοπίακα, τέτακα, ἵλακα, πεπέτακα, ἀπὸ τοῦ κοπιάζω τάζω ἱλάζω πετάζω (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "deutlich, nicht πετάσω)· ὁ μέσος ἔρραδα διὰ τὸ ζ · ἔρρασμαι ὁ παθητικός· τὸ τρίτον ἔρρασται καὶ Ἰακῶς ἐρράδαται: Εἰδώ ς , ἀπὸ τοῦ εἰδηκώς, ὡς ἑστώς ἀπὸ τοῦ ἑστηκώς· οὕτω καὶ τὸ κεχαρηότες (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "fol. 86 r oben ganz deutlich) καὶ τετιηότες (τετιότες cod.) κατὰ συγκοπήν· χαρῶ τιῶ κεχάρηκα τετίηκα κεχαρηκώς τετιηκώς καὶ ἀποβολῇ τοῦ κ κεχαρηώς καὶ τετιηώς (τετιώς cod.): Ἐῳνοχόε ι · τὸ θέμα οἰνοχοῶ (so)· ᾠνοχόουν καὶ ἐῳνοχόουν: Ἕσσατο (ἔσσατο cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": ")· ἕω ἕσω, ὅθεν τὸ ἕσμα καὶ τὸ ἀμφίεσμα καὶ ἔσθος καὶ ἐσθής, τραπέντος τοῦ πνεύματος διὰ τὸ θ . ὁ μέσος ἀόριστος ἑσάμην· ἕσσατο ποιητικῶς διὰ τὸ μέτρον: Ἔμμορε (oder ἔμμορα): über dem worte steht das zeichen ͜.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "..͜, wodurch auf den rand verwiesen wird, wo das gleiche zeichen und ζήτει steht. Ἔοργε (oder ἔοργα) (darüber steht das zeichen:, wodurch wohl auch auf den rand verwiesen werden soll, der aber kein entsprechendes zeichen bietet).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "dann folgt ἔρρεχα ἔργω ἔοργα (über ἔρρεχα scheint ebenfalls das zeichen: zu stehen; nach ἔοργα steht nicht, wie nach den übrigen artikeln ,:, sondern ein punkt oben). Ἐγρήγορθ α , ἀπὸ τοῦ ἐγρήγορα πλεονασμῷ: Ἔπλε υ · ἐπελόμην ἐπέλου καὶ Δωρικῶς ἔπλευ: Ἔλπεαι ὡς πέλεαι Ἰωνικῶς: (über πέλεαι wird durch: auf den rand verwiesen, wo dasselbe zeichen und κέλεαι: steht).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Ἕσσο (ἔσσο cod.), ἐνεδέδυσο· ἕω ἕσω ἧκα· ἕμαι ἕμην ὑπερσυντέλικος· ἕσο καὶ διπλασμῷ ἕσσο: Ἐπώρουσ α · ὄρω (oder ὀρῶ) ὀρύω, ὡς ὄλλω ὀλύω· ὀρούω κατ’ ἐπένθεσιν: Ἔκπεσσο ν , δεύτερος ἀόριστος· πετῶ πεταίω παράγωγον, ὡς λιλῶ λιλαίω, καὶ ἐν συγκοπῇ πταίω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "παρὰ δὲ τὸ πετῶ τὸ προπετής ὁ σφόδρα πίπτων. ὁ μέλλων πετήσω, ὁ ἀόριστος ἐπέτησα, ὁ δεύτερος ἔπετον (allenfalls ἔπεσον), ὡς ὠλίσθησα ὤλισθον, καὶ τροπῇ ἔπεσσον: Εἰλήλουθα ς · ἐλήλυθας, καὶ Βοιώτιον ἐλήλουθα, εἶτα ἐπενθέσει τοῦ ι : Ζωρότερο ν , ἀκρατέστερον ἢ ταχύτερον: Ἠκέστα ς , ἀκεντήτους, ἀδαμάστους: Ἦνι ν , ἀπειρόζυγον, ἢ τὴν τελείαν, ἀπὸ τοῦ ἔνος ὁ ἐνιαυτός: Ἔγερθε ν , ἠγέρθησαν, κατὰ συγκοπήν: Ἠρήριστ ο , ἀπὸ τοῦ ἄρω ἀρῶ ἀρίζω ἀρίσω: Ἠνίπαπε ν · ἐνίπτω, ὁ δεύτερος ἀόριστος ἤνιπον· διπλασιασμὸς ἠνίπαπε〈ν〉, ὡς ἤγαγεν, ἤκαχεν: Ἠλήλουθμε ν , ἐληλύθαμεν, συγκοπὴ καὶ ἐπένθεσις καὶ ἔκτασις τοῦ κατ’ ἀρχὴν ε εἰς η : Ἤκαχε ν · ἄχω τὸ λυποῦμαι, ὅθεν τὸ ἄχος· ὁ δεύτερος ἀόριστος ἦχον καὶ ἤκαχον, ὡς ἤγαγον καὶ ἤραρον: Ἧστ ο · ἕω ἕημι ἕεμαι ἧμαι κάθημαι· ἥμην παρατατικός· ἧτο, ἧστο κατὰ πλεονασμόν· ἢ ἀπὸ ἕζω: Θέμωσ ε , ἠμέλησε, ἢ ἤγγισε, ἢ μᾶλλον ἔοικε: Ἴξαλον (ἴξαλον cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66",
+      "text": "), τὸν τέλειον, ἀπὸ τοῦ ἱκέσθαι καὶ ἅλλεσθαι, ἢ ἐνιαύσιον, ἢ τριετῆ, ἢ τομίαν: Ἰόεντα σίδηρο ν , ἀπὸ τοῦ ἰοῦσθαι, ἢ τὸν εἰς ἀκίδας τετυπωμένον: Ἴδμεν (am rande), ἴσμεν Δωρικῶς, ὡς ὀδμὴ ἡ ὀσμή: Ἴψα ο · ἰάπτω ἰαψάμην ἰάψω ἰάψατο καὶ ὑφαιρέσει τοῦ α καὶ τοῦ τ ἴψαο: Κεκαφηότ α , ἐκπεπνευκότα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "70",
+      "text": "καπῶ τὸ πνέω, ἔνθεν καπνώδης ἡ πυρρώδης πνοή, καὶ κῆπος ὁ περιπνεόμενος τόπος· καπήσω κεκάπηκα κεκαπηκώς· Ἰωνικῶς κεκαπηότα, ὡς κεχαρηότα καὶ τροπῇ: Κέλεα ι , Ἰωνικῶς: Κεκάδοντο (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "72",
+      "text": ", nichts anderes)· χάζω κέχακα κέχαδα, ὡς χέζω κέχοδα· ὁ δεύτερος ἀόριστος ἔχαδον ἔκαδον, καὶ διπλασιασμὸς ἐκέκαδον· ὁ μέσος ἐκεκαδόμην, ἐκεκάδοντο: Κέχανδ α · χάζω· ὁ μέσος παρακείμενος (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "73",
+      "text": "mit dem üblichen compendium) κέχανδα (κεχάνδα cod.) ἐπενθέσει τοῦ ν · ὅθεν τὸ «κεχανδότα πολλὰ [τε] καὶ ἐσθλά» 〈Hom. δ 96〉: Λαισήι α , ἀσπιδίσκια, ἢ πάντα τὰ σκεπαστήρια, διὰ τὸ ἐν τῇ λαιᾶ φέρεσθαι: Λέλογχ α · λήχω λέληχα· τροπῇ τοῦ η εἰς ο λέλοχα, εἰς τύπον τοῦ κέκλοφα, καὶ ἐπενθέσει τοῦ γ , ὡς τὸ ἔνχος ἔγχος (am rande steht: ἐνέχεται γάρ): Μάστα ξ , τὸ στόμα, ἀπὸ τοῦ μασᾶσθαι: Μολοβρό ς , ἢ τὸν ἀδδηφάγον, τὸν εἰς βορὰν προθύμως μολίσκοντα, ἢ τὸν μονοφάγον, ἢ τὸν πτωχὸν καὶ ὑπηρέτῃ μὴ χρώμενον, ἀλλ’ αὐτομολοῦντα ἐπὶ τὴν βοράν: Μέμηλε ν , ἀπὸ τοῦ μελῶ (μο ε λῶ cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "78",
+      "text": "), ὅθεν καὶ τὸ μέλει· μολήσω μεμόληκα μέμολα, καὶ μέμηλα κατὰ τροπὴν τοῦ ο εἰς η , ὡς ἑτέρωθι τοῦ η εἰς ο : Μέμασα ν · μεμῶ μέμακα ἐμεμάκειν ἐμεμάκεισαν ἐμέμασαν: Νέατα ι · νῶ τὸ ὀγκῶ (l.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "80",
+      "text": "οἰκῶ) νήσω, ὅθεν νηός καὶ ναός· νένηκα νένηται, καὶ Ἰωνικὸς (so, nicht Ἰωνικῶς. hat die hs.) νενέαται, καὶ ἄρσει τῆς ἀναδιπλάσεως νέαται: Ὄρσε ο · ὄρω ὀρῶ· οἱ Αἰολεῖς θέλοντες βαρῦναί (βαρύναι cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "81",
+      "text": ") φασιν ὄρσω, ὡς ἐπὶ (ἐπὶ ist aus ἀπὶ corrigiert) τοῦ κερῶ κέρσω, ὅθεν ὁ ἀκερσοκόμης: Ὀρώρε ι · ὄρω ὀρῶ ὦρα· μέσος παρακείμενος διπλασιασμὸς ὄρωρα ὁ ὑπερσυντέλικος ὀρώρειν: Ὄγκιο ν , ἡ σιδηροθήκη, παρὰ τὸν ὄγκον: Πηγό ν · εὐτραφές, πεπυκνωμένον: Πεπίθοιμεν (so)· πίθω, ὅθεν τὸ πιθανός, ὡς ἀπὸ τοῦ ἵκω ἱκανός· ὁ δεύτερος ἀόριστος ἔπιθον, ἐπιθόμην, πιθοίμην, πεπιθοίμην κατὰ ἀναδίπλωσιν: Πεπτηυῖα ι , πεσοῦσαι (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "86",
+      "text": ", nicht πεπτηυῖα, πεποῦσα, das lemma bezieht sich wohl auf Hom. ν 52)· πετῶ πεπέτηκα πέπτηκα, ὅθεν τὸ πέπτωκα· πεπτηκώς, ὡς ἑστηκῶς, καὶ ἀφαιρέσει πεπτηώς πεπτηυῖα, ὡς ἑστηκυῖα, μεμαυῖα: Πέπτωκα ἄλλως· πετῶ πετώσω πεπέτωκα, καὶ πέπτωκα· ἢ ποτῶ ποτήσω πεπότηκα πέπτωκα: Πέφατα ι , πεφόνευται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "88",
+      "text": "φῶ φάζω καὶ σφάζω φάσω πέφασμαι πέφασται, πέφαται καθ’ ὑφαίρεσιν: Πέπονθ α · πήθω πήσω ἔπαθον· πέποθα παρακείμενος μέσος καὶ πέπονθα: Πεφυζότε ς , λελιγμότες, ἀπὸ τοῦ φυζῶ καὶ λιχμῶ, λελιχμηκότες πεφυζηκότες, εἶτα κατὰ συγκρότησιν: Παρμέμβλωκ α · μένω μενῶ μεμένηκα (so)· μεμέμβληκα (so), ὡς ἔρρηγα ἔρρωγα· ἢ ἀπὸ τοῦ μολῶ μεμόληκα μέμολκα· ὑπερθέσει τοῦ λ μέμλοκα, εἶτα τροπῇ τοῦ ο εἰς ω μέγα καὶ [κατὰ] κατ’ ἐπένθεσιν τοῦ β μέμβλωκα: Πόρκις (so), τῆς ἐπιδορατίδος ὁ δακτύλιος: Στίβ η , τὸ ἐκ τῆς πάχνης πάγος, ἐκ τοῦ ἐναντίου κληθὲν τοῦ στίβειν· δυσκίνητα γὰρ ποιεῖ τὰ μέλη: Στεῦτα ι · στέγω, καὶ κατὰ παραγωγὴν στέω στέομαι στέῃ στέεται, συναιρέσει στεῦται: Σῶκο ς , ἐπίθετον Ἑρμοῦ, σάοικος, ὁ τοὺς οἴκους σώζων· ἢ ἀπὸ τοῦ σέσωκα σωκῶ σῶκος: Τήθε α , τὰ ὄστρεα, τὰ παρὰ τὴν θῖνα ἐρριμμένα: Τεῦχ ε · ἀναύξητον· οἱ γὰρ Ἴωνες οὔτε τὴν χρονικὴν οὔτε τὴν συλλαβικὴν ποιοῦσιν αὔξησιν, ἀλλ’ ἀπὸ τοῦ αὐτοῦ ἄρχονται ἐπί τε ἐνεστῶτος καὶ παρατατικοῦ καὶ ἀορίστου καὶ μέλλοντος: Ταφώ ν · θήπω ἔθαπον θαπών, εἶτα καθ’ ὑπαλλαγὴν τῶν στοιχείων εἰς τὰ ἀντίστοιχα ταφών: Τετύκοντ ο · τεύχω ἔτυχον ἔτυκον, καὶ κατὰ ἀναδιπλασιασμὸν ἐτέτυκον ἐτετυκόμην: Τεθναί η · θνῶ τεθνῶ τέθνημι τεθνάς: Ὑπεμνήμυκ α · ἠμύω ἠμύσω· «τῷ κε τάχ’ ἠμύσειε πόλις Πριάμοιο ἄνακτος» 〈Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101",
+      "text": "Β 373. Δ 290〉. ἤμυκα, ἀναδιπλασιασμὸς ἐμήμυκα, ἐμήμνυκα πλεονασμῷ, σημαίνει δὲ τὸ ἐστύγνασε καὶ κατηνέχθη: Χώσετα ι , χολώσεται, καὶ κατὰ συγκοπήν· ἢ ἀπὸ τοῦ χώομαι χωόσομαι χώσομαι: Ὤρεσ ι , γυναιξί· ἀπὸ τοῦ ὀαρίζειν ἤτοι ὁμιλεῖν· ἢ ἀπὸ τοῦ συναρηρέναι, ἔνθεν καὶ ξυνωρίς, παρὰ τὸ συνηρμόσθαι: Ὠλένα ι , (am rande steht κυρίως) αἱ χεῖρες, ἀπὸ ὀλοῦσθαι καὶ πληροῦσθαι ἐνεργημάτων ἀεί: Τετρήχε ι · ταράσσω ταράξω τετάραχα τέτραχα τέτρηχα Ἰωνικῶς, ἐτετρήχει: Τέτληκ α · ταλῶ ταλάσω, ἐξ οὗ ταλάσια ἔργα ταῖς γυναιξὶν οἰκεῖα, τὰ ἀπὸ τῆς ἐρέας καὶ τῶν τοιούτων· τετάλακα τέτλακα, καὶ Ἰωνικὴ ἐπέκτασις τέτληκα: Τεταγώ ν · τάζω τὸ λαμβάνω, ἔταγον, διπλασιασμὸς τέταγον, τεταγών: Ἑαδότα (ἐαδότα cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "108",
+      "text": ")· ἥδω τὸ ἡδονὴν ἐμποιῶ καὶ ἀρέσκω· ὁ μέλλων ἥσω· ἧκα· ἧδα μέσος· κατὰ διαίρεσιν ἔαδα ἐαδώς ἐαδότα (so): Καραδοκεῖ ν , τὸ τοῦ πράγματος κεφάλαιον ἐπιζητεῖν καὶ ἐπιτηρεῖν ὅποι χωρήσει (χωρήση cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "109",
+      "text": ")· παρὰ τὸ κάρα καὶ τὸ δοκῶ τὸ ἐπιτηρῶ: Κομιδ ή , συναγωγή, ἐπιμέλεια, ἀπὸ τῆς τῶν καρπῶν συγκομιδῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "110",
+      "text": "ἀπὸ οὖν τοῦ κομιδή ὀνόματος γίνεται κομιδῇ ἐπίρρημα: Κωμᾶσθα ι , κυρίως τὸ ἐπὶ τοῖς κοιμωμένοις βαδίζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "111",
+      "text": "ἔστιν οὖν κῶμος ὁ καιρὸς ὁ ἀπὸ δείπνων πρὸς ὕπνον καλῶν. ἐκ τούτου καὶ τὸ κωμάζειν τὸ ἐπὶ ὕπνον βαδίζειν. τὸ δὲ κῶμος ἀπὸ τοῦ κοιμῶμαι, ἐξ οὗ καὶ κώμη τὸ χωρίον, ἡ κοιμητηρία καὶ ἀνάπαυσις τῶν ζώων: Καρυκεύουσ α , ἡδύνουσα (so hat die hs.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "112",
+      "text": ")· καρύκη γὰρ βρῶμα Λύδιον ἐκ πολλῶν ἐδεσμάτων συνεστηκός: Κατεκήλησ ε , κατεπράυνε, κατέθελξε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "113",
+      "text": "κηληθμός λέγεται ἡ τῆς ἀκοῆς θέλξις (über diesem worte steht in der hs. τέρψις)· εἴρηται ἀπὸ χαληθυμός τις ὤν, καὶ συγκοπῇ χαληθμός, καὶ τροπῇ κηληθμός. τὸ δὲ κηλῶ παρὰ τὸ χῶ τὸ χαλῶ, ὁ μέλλων χήσω, καὶ ἐξ αὐτοῦ χηλῶ καὶ κηλῶ: Κιγκλίδε ς , τῶν ἐν δικαστηρίοις θυρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "114",
+      "text": "καὶ κιγκλίζειν (so hat die hs. deutlich) τὸ κινεῖν καὶ πειράζειν. καὶ κίγκλος ὄρνις τις, πυκνῶς τὸ οὐράδιον σείουσα, διὰ τοῦτο καὶ σεισοπυγὶς ὀνομάζεται. κιγκλίς οὖν, οἱονεὶ κυκλὶς οὖσα, παρὰ τοὺς γινομένους κύκλους σειομένης αὐτῆς: Καταπροέσθα ι · προίημι· ὁ παθητικὸς παρακείμενος ἕμαι, ὁ ἀόριστος ἕθην· ὁ μέσος ἕμην, τὸ ἀπαρέμφατον ἕσθαι καὶ προέσθαι: Κ Σ αρδαμύττειν (so), σημαίνει τὸ συνεχῶς τὰ βλέφαρα κινεῖν καὶ εἰς ἐπίμυσιν ἄγειν, ἀπὸ τοῦ καρδάμου, ὃ ἄν τις προσενέγκηται, συνεχῶς τὰ βλέφαρα μύει: Ὀν ῶ , σημαίνει τέσσαρα· ὀνῶ τὸ μέμφομαι· «νῦν δέ σευ ὠνοσάμην (ὀνοσάμην cod.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "117",
+      "text": ") πάγχυ φρένας, οἷον ἔειπες» 〈Hom. Ρ 173〉, τρίτης συζυγίας τῶν περισπωμένων. ὀνῶ τὸ ἀπολαύω, συζυγίας δευτέρας τῶν αὐτῶν· «αὐτὰρ (ἀτὰρ cod.) Ἀχιλλεὺς οἶος τῆς (so) ἀρετῆς ἀπονήσεται» 〈Hom. Λ 761 f.〉. ὀνῶ τὸ ὠφελῶ (ὀφελῶ cod.). καὶ ὠνῶ, ὅπερ ὠνοῦμαι γράφεται: Nach diesem artikel folgt in der hs. noch folgendes: μεγίστας ἁπασῶν τιμωρίας ὑπέμενον οἱ ψευσάμενοί τι παρὰ τὸν βίον, καὶ οἱ μὴ τὰ (am rande λν κ’ = Λουκιανός) ἀληθῆ συγγεγραφότες· ἐν οἷς ἦν καὶ Κτησίας ὁ Κνίδιος ἦν (so) καὶ Ἡρόδοτος: sodann a linea: ἀνερπύσαντες δὲ ὅμως κατὰ κρημνοὺς προῄειμεν διά τινος ἀκανθώδους καὶ σκολόπων μεστῆς ἀτραποῦ usw. bis herunter fol. 87 r . auf fol. 87 v steht von neuerer hand: περὶ τοῦ θανάτου τοῦ σοφοκλέους, und nun folgt die bekannte geschichte über das ende des Sophokles: Σοφοκλῆς ῥάγα σταφυλῆς καταπιὼν ἀπεπνίγη εʹ καὶ ρʹ ζήσας ἔτη: οὗτος ἀπὸ (so) ἰοφῶντος τοῦ υἱέος usw., also jedenfalls lauter dinge, die mit den σχηματισμοί in gar keinem zusammenhang stehen.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qnq-al",
+      "title": {
+        "english": "Digressions of the Great Speech",
+        "ancient_greek": "Παρεκβολαὶ τοῦ μεγάλου ῥήματος"
+      },
+      "url_slug": "herodian-of-alexandria-digressions-qnq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/digressions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ar",
+      "title": {
+        "english": "Excerpts from Herodian (Recension A)",
+        "ancient_greek": "Ἐκλογαὶ ἐκ τοῦ Ἡρωδιανοῦ"
+      },
+      "url_slug": "herodian-of-alexandria-excerpts-ar-qnq-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/excerpts-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-ar.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-as",
+      "title": {
+        "english": "Excerpts from Herodian (Recension B)",
+        "ancient_greek": "Ἐκλογαὶ ἐξ Ἡρωδιανοῦ"
+      },
+      "url_slug": "herodian-of-alexandria-excerpts-as-qnq-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/excerpts-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/excerpts-as.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ab",
+      "title": {
+        "english": "Fragment on Ares",
+        "ancient_greek": "Γραμματικὸν ἀπόσπασμα ἀρχόμενον ἀπὸ τῶν λόγων"
+      },
+      "url_slug": "herodian-of-alexandria-ares-fragment-qnq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/ares-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/ares-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-aw",
+      "title": {
+        "english": "Monobiblos-Being",
+        "ancient_greek": "Μονόβιβλον περὶ τοῦ ἦν"
+      },
+      "url_slug": "herodian-of-alexandria-monobiblos-qnq-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/monobiblos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monobiblos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monobiblos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monobiblos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monobiblos.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ac",
+      "title": {
+        "english": "Monobiblos-Not All Verbs Being Conjugated in All Tenses",
+        "ancient_greek": "Μονόβιβλον περὶ τοῦ μὴ πάντα τὰ ῥήματα κλίνεσθαι"
+      },
+      "url_slug": "herodian-of-alexandria-verbs-not-all-tenses-qnq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/verbs-not-all-tenses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verbs-not-all-tenses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verbs-not-all-tenses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verbs-not-all-tenses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/verbs-not-all-tenses.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bp",
+      "title": {
+        "english": "On Adverbs",
+        "ancient_greek": "Περὶ ἐπιρρημάτων"
+      },
+      "url_slug": "herodian-of-alexandria-adverbs-qnq-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/adverbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/adverbs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/adverbs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/adverbs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/adverbs.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-az",
+      "title": {
+        "english": "On Attic Prosody",
+        "ancient_greek": "Περὶ Ἀττικῆς προσῳδίας"
+      },
+      "url_slug": "herodian-of-alexandria-attic-prosody-qnq-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/attic-prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/attic-prosody.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/attic-prosody.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/attic-prosody.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/attic-prosody.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bc",
+      "title": {
+        "english": "On Conjugations",
+        "ancient_greek": "Περὶ συζυγιῶν"
+      },
+      "url_slug": "herodian-of-alexandria-conjugations-qnq-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/conjugations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/conjugations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/conjugations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/conjugations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/conjugations.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-at",
+      "title": {
+        "english": "On Declension of Names",
+        "ancient_greek": "Περὶ κλίσεως ὀνομάτων"
+      },
+      "url_slug": "herodian-of-alexandria-declension-names-qnq-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/declension-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/declension-names.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-bi",
+      "title": {
+        "english": "On Dichronous",
+        "ancient_greek": "Περὶ διχρόνων"
+      },
+      "url_slug": "herodian-of-alexandria-dichronous-qnq-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/dichronous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/dichronous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/dichronous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/dichronous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/dichronous.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-br",
+      "title": {
+        "english": "On Figures (Long)",
+        "ancient_greek": "Περὶ σχημάτων"
+      },
+      "url_slug": "herodian-of-alexandria-figures-br-qnq-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/figures-br",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-br.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-br.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-br.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/figures-br.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vtu-ac",
+      "title": {
+        "english": "Anonymous Anti-Atticist",
+        "ancient_greek": "Ἀνώνυμος Ἀντιαττικιστής"
+      },
+      "url_slug": "lexicographical-anonymous-i-anti-atticist-vtu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/anti-atticist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/anti-atticist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/anti-atticist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/anti-atticist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/anti-atticist.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ad",
+      "title": {
+        "english": "Introductory Canons-Verb Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-verb-inflection-vdq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-verb-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.json"
+      }
+    },
+    {
+      "eul_wid": "pka-ad",
+      "title": {
+        "english": "On Syntax",
+        "ancient_greek": "Περὶ συντάξεως"
+      },
+      "url_slug": "apollonius-grammarian-syntax-pka-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-grammarian/syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/syntax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/syntax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/syntax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/syntax.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ab",
+      "title": {
+        "english": "On the Declension of Words Ending in -on",
+        "ancient_greek": "Περὶ κλίσεως τῶν εἰς ων βαρυτόνων"
+      },
+      "url_slug": "theodosius-of-alexandria-declension-on-words-vdq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/declension-on-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.json"
+      }
+    },
+    {
+      "eul_wid": "oyc-ab",
+      "title": {
+        "english": "On the Difference of Words",
+        "ancient_greek": "Περὶ διαφορᾶς"
+      },
+      "url_slug": "ptolemy-of-ascalon-difference-words-oyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-ascalon/difference-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-ascalon/difference-words.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-am",
+      "title": {
+        "english": "Scholia on Hymn III (Manuscript)",
+        "ancient_greek": "Σχόλια εἰς Ὕμνον Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymn-iii-am-vmw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymn-iii-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymn-iii-am.json"
+      }
+    },
+    {
+      "eul_wid": "oqu-ab",
+      "title": {
+        "english": "Sophistic Preparation, Epitome",
+        "ancient_greek": "Σοφιστικὴ Προπαρασκευή"
+      },
+      "url_slug": "phrynichus-of-bithynia-sophistic-preparation-ab-oqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-of-bithynia/sophistic-preparation-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-of-bithynia/sophistic-preparation-ab.json"
+      }
+    },
+    {
+      "eul_wid": "mui-ac",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "dionysius-the-thracian-testimony-mui-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/herodian-of-alexandria/homeric-schemes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/homeric-schemes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/homeric-schemes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/homeric-schemes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/homeric-schemes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "biq",
+  "auth_slug": "aristagoras-of-miletus",
+  "name": {
+    "english": "Aristagoras the Tyrant of Miletus",
+    "ancient_greek": "Ἀρισταγόρας ὁ Μιλήσιος"
+  },
+  "seo_h1": "Aristagoras of Miletus and Egyptian Geography",
+  "seo": {
+    "browser_title": "Aristagoras Tyrant of Miletus on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristagoras Tyrant of Miletus Ancient Greek Works",
+    "meta_description": "Aristagoras, Ionian tyrant of Miletus who sparked the Ionian Revolt. Accounts of his political actions. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristagoras was the son-in-law and deputy of Histiaeus, the tyrant of Miletus under Persian rule. He acted as tyrant after Histiaeus was detained by the Persian king Darius I. Aristagoras instigated the Ionian Revolt against Persia, which lasted from 499 to 494 BCE. According to the historian Herodotus, his motivations included pressure from exiled aristocrats from Naxos and a fear of Persian reprisal for a failed military expedition against that island.</p>\n<p class=\"research-text\">After securing military aid from Athens and Eretria, the revolt initially met with success but later faltered. Aristagoras then abdicated his position, publicly advocated for a system of equal political rights known as isonomy, and fled to Thrace. He died around 497 BCE while attacking a Thracian city.</p>\n<p class=\"research-text\">The Suda lexicon attributes to Aristagoras a historical work, written in the Ionic dialect, concerning Ionian colonization and the deeds of Histiaeus. This work, which would have provided a history of the Ionian Revolt, is now lost and no fragments survive.</p>\n<p class=\"research-text\">Aristagoras is a pivotal figure as the catalyst for the Ionian Revolt. Herodotus identifies this conflict as the beginning of the larger Greco-Persian Wars, meaning Aristagoras&#x27;s actions directly precipitated the Persian invasions of Greece. His strategic renunciation of tyranny in favor of isonomy represents an early, and arguably cynical, appeal to democratic ideals for immediate political gain.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "biq-aa",
+      "title": {
+        "english": "Egyptian Geographical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristagoras-of-miletus-egyptian-geography-biq-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristagoras-of-miletus/egyptian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristagoras-of-miletus/egyptian-geography.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristagoras-of-miletus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristagoras-of-miletus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristagoras-of-miletus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristagoras-of-miletus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristagoras-of-miletus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

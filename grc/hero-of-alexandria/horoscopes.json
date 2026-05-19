@@ -1,0 +1,650 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "odi-ab",
+  "eul_aid": "odi",
+  "author_slug": "hero-of-alexandria",
+  "work_slug": "horoscopes",
+  "url_slug": "hero-of-alexandria-horoscopes-odi-ab",
+  "author": {
+    "english": "Hero of Alexandria ",
+    "ancient_greek": "Ἥρων ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Fragments-Horoscopes",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ὡροσκοπίων"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Hero of Alexandria on Eulogikon",
+    "meta_title": "Fragments Horoscopes by Hero of Alexandria in Greek",
+    "meta_description": "Hero of Alexandria's fragments on horoscopes reveal ancient methods for measuring time through water clocks and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments-Horoscopes</strong> is a collection of 41 astrological passages in verse, attributed to Hero of Alexandria. Preserved within the 12th-century Byzantine anthology of Joannes Camaterus, the <strong>Introductorius</strong>, these fragments provide interpretations based on celestial positions at birth. This poetic, didactic astrological content contrasts with Hero&#x27;s renowned prose works on mechanics. The verses expound on astrological determinism and the prediction of life events from celestial configurations, detailing the influence of specific planets and zodiac signs on human character and fate while offering technical guidelines for constructing and interpreting horoscopes.</p>\n<p class=\"research-text\">The work survives exclusively as excerpts in Camaterus&#x27;s compilation, with no independent manuscript tradition. The attribution to Hero originates with Camaterus and is unsupported by earlier biographical or bibliographical records, placing it within the pseudepigraphical material associated with Hero&#x27;s name. These fragments are significant for understanding the reception and expansion of Hero&#x27;s corpus beyond engineering, illustrating the common practice of ascribing occult texts to authoritative ancient names. They contributed to the Byzantine astrological tradition and are of interest to historians studying the intersection of technical and divinatory knowledge in antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]... ὅπως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "συμβαίνει καθ’ ὁμαλὴν ῥύσιν ὕδατος ἐκ‐ λαβεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χρόνον, λέγομεν ὅσα καὶ Ἥρων ὁ μηχανικὸς ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "Περὶ ὑδρίων ὡροσκοπείων ἐδίδαξε. [para]‘Κατασκευάζεται γὰρ ἀγγεῖόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τι ἔχον ὀπὴν ὡς ἂν[ln_5]κλεψύδρα, δι’ ἧς ὁμαλῶς, ὡς ἔθος, δύναται τὸ ὕδωρ ἐκρεῖν. ὅπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "προκατασκευάζεται τὴν ἀρχὴν τῆς ἐκρύσεως ἔχον ὅτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "πρῶτον ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τοῦ ὁρίζοντος ὁ ἥλιος τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "πρώτην ἀκτῖνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "προσβάλλει, καὶ τὸ ῥεῦσαν ὕδωρ ἐν ᾧ χρόνῳ ὁ δίσκος ὑπὲρ τὸν ὁρίζοντα γίνεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "φυλάττεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "χωρίς,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_10]εἶτα τὸ ἐφεξῆς ἐν ὅλῳ τῷ νυχθημέρῳ μέχρι τῆς ἑτέρας ἀνατολῆς ὁμαλῶς καὶ ἀνεκλείπτως καὶ ἀπαύστως ῥυὲν ἐν ἑτέρῳ ἀγγείῳ· καὶ τὸ ῥεῦσαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παραμετρεῖται, ποσα‐ πλάσιόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῦ κατὰ τὴν ἀνατολὴν ληφθέντος ὕδατος· καὶ τοῦτό‘ φησιν ‘ἔσται ἀνάλογον τῷ χρόνῳ· καὶ ὡς[ln_15]τὸ ὕδωρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρὸς τὸ ὕδωρ, οὕτως ὁ χρόνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πρὸς τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "χρόνον.‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Οἱ μὲν γὰρ ἀρχαιότεροι τῶν μαθηματικῶν κατα‐ σκευάσαντες ἀγγεῖον καθ’ ὁμαλὴν ῥύσιν ῥέον διὰ τρη‐ ματίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πρὸς τῷ πυθμένι ὄντος καὶ ἔχον τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "χορηγίαν ἔκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τινος ἐπιρρύτου ὕδατος ἅμα τῇ τοῦ ἡλίου ἀνατολῇ[ln_5]πρώτῃ ἐν τῇ ἰσημερινῇ ἡμέρᾳ εἴων φέρεσθαι τὸ ὕδωρ εἴς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "τι περιεχόμενον ἀγγεῖον, ἕως ἂν ὅλον τὸ σῶμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "τοῦ ἡλίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "πρώτως ὑπὲρ τὸν ὁρίζοντα γένηται· καὶ φυλάσσοντες τὸ ἀπορρ〈ε〉ῦσαν ὕδωρ, εἰς ἕτερον ἀγγεῖον εἴων φέρεσθαι τὴν ῥύσιν μέχρι τῆς κατὰ τὴν ἑξῆς[ln_10]ἡμέραν γινομένης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.8",
+      "text": "τοῦ ἡλίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.9",
+      "text": "πρώτης ἀνατολῆς καὶ ἐκμετροῦντες τὸ πᾶν ῥυὲν ὕδωρ ἐν ἀμφοτέροις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.10",
+      "text": "τοῖς ἀγγείοις ἐζήτουν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.11",
+      "text": "τοῦτο, ποσαπλάσιόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.12",
+      "text": "τοῦ κατὰ τὴν ἀνατολὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.13",
+      "text": "τοῦ ἡλίου ληφθέντος ὕδατος. καὶ ὃν λόγον ἔχει τὸ κατὰ τὴν ἀνατολὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.14",
+      "text": "τοῦ ἡλίου ληφθὲν[ln_15][τοῦτο] ὕδωρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.15",
+      "text": "πρὸς τὸ πᾶν τῆς ῥύσεως ὕδωρ, τοῦτον ἔχειν τὸν λόγον ἔφασκον ... τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.16",
+      "text": "χρόνον τῆς ὅλης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.17",
+      "text": "τοῦ ἡλίου ἀνατολῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.18",
+      "text": "πρὸς τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.19",
+      "text": "χρόνον τὸν ἀπὸ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.20",
+      "text": "πρώτης ἀνατολῆς μέχρι τῆς κατὰ τὴν ἑξῆς ἡμέραν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.21",
+      "text": "πρώτης ἀνατολῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[ln_20]... ὅπως δὲ συμβαίνει τὸ ἐν τῷ ἀγγείῳ ὕδωρ καθ’ ὁμαλὴν ῥύσιν ῥεῖν, ὑπέδειξεν Ἥρων ἐν τῷ πρώτῳ τῶν Ὑδρίων ὡροσκοπ〈ε〉ίων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "odi-ad",
+      "title": {
+        "english": "Art of War Machines",
+        "ancient_greek": "Βελοποιικά"
+      },
+      "url_slug": "hero-of-alexandria-war-machines-odi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/war-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ae",
+      "title": {
+        "english": "Book of Agriculture",
+        "ancient_greek": "Γεωπονικόν"
+      },
+      "url_slug": "hero-of-alexandria-agriculture-odi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.json"
+      }
+    },
+    {
+      "eul_wid": "odi-am",
+      "title": {
+        "english": "Catoptrics",
+        "ancient_greek": "Κατοπτρικά"
+      },
+      "url_slug": "hero-of-alexandria-catoptrics-odi-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/catoptrics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.json"
+      }
+    },
+    {
+      "eul_wid": "odi-aa",
+      "title": {
+        "english": "Construction and Symmetry of the Hand Ballista",
+        "ancient_greek": "Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία"
+      },
+      "url_slug": "hero-of-alexandria-hand-ballista-odi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/hand-ballista",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.json"
+      }
+    },
+    {
+      "eul_wid": "odi-aj",
+      "title": {
+        "english": "Definitions",
+        "ancient_greek": "Ὅροι"
+      },
+      "url_slug": "hero-of-alexandria-definitions-odi-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ao",
+      "title": {
+        "english": "Dioptra",
+        "ancient_greek": "Διόπτρα"
+      },
+      "url_slug": "hero-of-alexandria-dioptra-odi-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/dioptra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ac",
+      "title": {
+        "english": "Fragments of Mechanics",
+        "ancient_greek": "Ἀποσπάσματα Μηχανικῶν"
+      },
+      "url_slug": "hero-of-alexandria-mechanics-odi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/mechanics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ap",
+      "title": {
+        "english": "Geodesy",
+        "ancient_greek": "Γεωδαισία"
+      },
+      "url_slug": "hero-of-alexandria-geodesy-odi-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geodesy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ag",
+      "title": {
+        "english": "Geometrical Works",
+        "ancient_greek": "Γεωμετρικά"
+      },
+      "url_slug": "hero-of-alexandria-geometrical-works-odi-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geometrical-works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.json"
+      }
+    },
+    {
+      "eul_wid": "odi-af",
+      "title": {
+        "english": "Heronian Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ἡρωνιακά"
+      },
+      "url_slug": "hero-of-alexandria-fragments-odi-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "odi-an",
+      "title": {
+        "english": "Metrical",
+        "ancient_greek": "Μετρικά"
+      },
+      "url_slug": "hero-of-alexandria-metrical-odi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/metrical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ak",
+      "title": {
+        "english": "On Automata",
+        "ancient_greek": "Περὶ Αὐτοματοποιητικῶν"
+      },
+      "url_slug": "hero-of-alexandria-automata-odi-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/automata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hte-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "aratus-of-soli-fragments-hte-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-of-soli/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-of-soli/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "eni-ab",
+      "title": {
+        "english": "Fragments on Music and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μουσικῆς καὶ Ἀρετῆς"
+      },
+      "url_slug": "damon-the-historian-music-virtue-eni-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/damon-the-historian/music-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-ac",
+      "title": {
+        "english": "If You Want to Make Molds and Casts from Thunderbolt, Do Thus",
+        "ancient_greek": "Εἰ θέλεις ποιῆσαι φούρμας καὶ τύλους ἀπὸ"
+      },
+      "url_slug": "alchemist-i-molds-casts-thunderbolt-rrg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/molds-casts-thunderbolt",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/molds-casts-thunderbolt.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/molds-casts-thunderbolt.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/molds-casts-thunderbolt.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/molds-casts-thunderbolt.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-cf",
+      "title": {
+        "english": "On Divine Water",
+        "ancient_greek": "Περὶ τοῦ θείου ὕδατος"
+      },
+      "url_slug": "zosimus-of-panopolis-divine-water-cf-tyc-cf",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/divine-water-cf",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/divine-water-cf.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/divine-water-cf.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/divine-water-cf.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/divine-water-cf.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-cf",
+      "title": {
+        "english": "On Making Oxysapon",
+        "ancient_greek": "Περὶ τοῦ ποιῆσαι ὀξυγγοσάπουνον"
+      },
+      "url_slug": "alchemist-i-making-oxysapon-rrg-cf",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/making-oxysapon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/making-oxysapon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/making-oxysapon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/making-oxysapon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/making-oxysapon.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-bf",
+      "title": {
+        "english": "On the Tribikos and the Tube",
+        "ancient_greek": "Περὶ τοῦ τριβίκου καὶ τοῦ σωλῆνος"
+      },
+      "url_slug": "zosimus-of-panopolis-tribikos-tube-bf-tyc-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/tribikos-tube-bf",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-bf.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-bf.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-bf.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-bf.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-ah",
+      "title": {
+        "english": "On the Weight of Dyed Wool, Komaros, and Dye-waters",
+        "ancient_greek": "Πόσος ὁ τῶν βαπτομένων ἐρίων σταθμὸς ὤφειλεν καὶ"
+      },
+      "url_slug": "alchemist-i-dyed-wool-komaros-rrg-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/dyed-wool-komaros",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dyed-wool-komaros.json"
+      }
+    },
+    {
+      "eul_wid": "vvi-aa",
+      "title": {
+        "english": "Strategicon",
+        "ancient_greek": "Στρατηγικόν"
+      },
+      "url_slug": "pseudo-maurice-the-tactician-strategicon-vvi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-maurice-the-tactician/strategicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-maurice-the-tactician/strategicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-maurice-the-tactician/strategicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-maurice-the-tactician/strategicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-maurice-the-tactician/strategicon.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hero-of-alexandria/horoscopes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

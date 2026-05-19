@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pri-aa",
+  "eul_aid": "pri",
+  "author_slug": "capito",
+  "work_slug": "geographical-isauria",
+  "url_slug": "capito-geographical-isauria-pri-aa",
+  "author": {
+    "english": "Capito ",
+    "ancient_greek": "Καπίτων"
+  },
+  "title": {
+    "english": "Geographical Fragments on Isauria",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰσαυρίας"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Capito on Isauria on Eulogikon",
+    "meta_title": "Geographical Fragments on Isauria by Capito in Greek",
+    "meta_description": "Capito's geographical fragments preserve detailed descriptions of cities and regions in Isauria and Lycia during Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Geographical Fragments on Isauria</strong> is a lost work of regional geography and history attributed to an author named Capito. It survives only as a series of fifteen brief excerpts preserved within the sixth-century CE geographical lexicon known as the <strong>Ethnica</strong>, compiled by Stephanus of Byzantium. The original work’s full title, scope, and structure are unknown; the modern designation is descriptive, derived from the content of the surviving passages. These fragments primarily document place names within Isauria, a mountainous region in southern Asia Minor, and its bordering territories, including parts of Lycia, Phrygia, and Cappadocia. The entries typically record a settlement’s name, its regional classification, and the demonym for its inhabitants, occasionally noting variant names or forms. The work’s transmission is entirely dependent on Stephanus’s quotations, and the fragments were later systematically collected and numbered by the modern scholar Felix Jacoby in his authoritative collection <strong>Die Fragmente der griechischen Historiker</strong>, where Capito is listed as author 103. Although the original text appears to have had limited direct influence in antiquity, the surviving fragments constitute a valuable, if scant, source for the historical geography of Asia Minor. They provide evidence for the toponymy and perceived cultural boundaries of Isauria, a region historically noted for its rugged terrain and persistent resistance to external control, particularly during the Roman period. As such, the work represents a minor but tangible example of the Hellenistic and Roman tradition of local history and chorography.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-6",
+      "text": "ΙΣΑΥΡΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Stephan. Byz.: Ἐδεβησσὸ ς , πόλις Λυκίας, ὡς Καπίτων ἐν Ἰσαυρικῶν αʹ. Τὸ ἐθνικὸν Ἐδεβησσεὺς καὶ Ἐδεβήσσιος. Κοτράδη ς , πόλις Ἰσαυρίας. Καπίτων Ἰσαυρι κῶν πρώτῳ. Τὸ ἐθνικὸν Κοτραδεώτης, ἀπὸ τῆς γενικῆς τῆς Κοτράδεως. Λαλίσανδ α , πόλις Ἰσαυρικὴ, ὡς Καπίτων Ἰσαυρικῶν πρώτῳ· τὸ ἐθνικὸν Λαλισανδεύς. Οἱ νῦν δὲ Δαλίσανδα καὶ Δαλισανδεώτας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t2",
+      "text": "E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem: Ἀλίμαλ α , χωρίον Λυκίας. Καπίτων ἐν Ἰσαυρικῶν δευτέρῳ. Ο ἐνοικοῦντες Ἀλιμαλεῖς. Ἀρύκανδ α , πόλις Λυκίας, ὡς Καπίτων ἐν Ἰς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "δευτέρῳ. Τὸ ἐθνικὸν Ἀρυκανδεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Σύβρ α , οὐδετέρως, Φρυγίας φρούριον, ὡς Καπίτων ἐν Ἰς. δευτέρῳ. Τὸ ἐθνικὸν Συβριανός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t3",
+      "text": "E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Idem: Ἀρνεα ὶ , πόλις Λυκίας μικρὰ, ὡς Κ. ἐν Ἰς. τρίτῳ. Τὸ ἐθνικὸν Ἀρνεάτης. Μενεδήμιο ν , πόλις Λυκίας. Κ. ἐν Ἰς. τρίτῳ. Τὸ ἐθνικὸν Μενεδήμιος ἢ Μενεδημιεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Σύεδρ α , πόλις Ἰσαυρίας, ὡς Κ. ἐν Ἰς. τρίτῳ. Ὁ πολίτης Συεδρεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t4",
+      "text": "E LIBRO SEXTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Idem: Καυίνδαν α , Ἰσαυρίας κώμη. Κ. Ἰς. ἕκτῳ: Ὁ κωμήτης Καυινδανεώτης. Μούκισσο ς , πόλις Καππαδοκίας δευτέρας. Κ. Ἰς. ἕκτῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t5",
+      "text": "E LIBRO DECIMO QUINTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t6",
+      "text": "Idem: Ψίμαθ α , χωρίον Ἰσαυρίας. Τὸ ἐθνικὸν Ψιμαθεῖς. Καπίτων ἐν πεντεκαιδεκάτῳ· «Κόνωνα δὲ παρόντα Ψιμαδέα μεγάλως ἐφιλοφρονήσατο.» E LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Idem: Ἀκαρασσὸ ς , πόλις Λυκίας, ὡς Καπίτων. Τὸ ἐθνικὸν Ἀκαράσσιος καὶ Ἀκαρασσεὺς, σύνηθες ἀεὶ τοῖς τὴν χώραν οἰκοῦσιν. Ἀμάσει α , πόλις Ποντική ... Ὁ πολίτης Ἀμασεύς, ὡς Στράβων· κατὰ δὲ Καπίτωνα Ἀμασεώτης. Δέρβ η , φρούριον Ἰσαυρίας καὶ λιμήν. Ὁ κατοικῶν Δερβήτης ... Λέγεται δ’ ἴσως καὶ Δέρβεια καὶ τὸ ἐθνικὸν Δερβείτης. Καπίτων δὲ Δέρμην φησί. Τινὲς δὲ Δέλβειαν, ὅ ἐστι τῇ τῶν Λυκαόνων φωνῇ ἄρκευθος· καὶ Ἀρκεύθη ἡ πόλις. Πιτύ η , πόλις Καρίας. Οἱ πολῖται Πιτυᾶται. Καπίτων δ’ αὐτὴν διὰ δύο ς λέγει. Μοναβα ὶ , πόλις Ἰσαυρίας. Καπίτων ἐν Ἰσαυρι κοῖς. Τὸ ἐθνικὸν Μοναβάτης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ubo-ab",
+      "title": {
+        "english": "Against Porphyry",
+        "ancient_greek": "Κατὰ Πορφυρίου"
+      },
+      "url_slug": "anonymous-historical-work-against-porphyry-ubo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/against-porphyry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.json"
+      }
+    },
+    {
+      "eul_wid": "iio-aa",
+      "title": {
+        "english": "Argolic Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxicrates-historicus-argolic-histories-iio-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxicrates-historicus/argolic-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxicrates-historicus/argolic-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxicrates-historicus/argolic-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxicrates-historicus/argolic-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxicrates-historicus/argolic-histories.json"
+      }
+    },
+    {
+      "eul_wid": "bbs-ab",
+      "title": {
+        "english": "Dubious Fragments",
+        "ancient_greek": "Ἀποσπάσματα ἀμφίβολα"
+      },
+      "url_slug": "theognis-of-megara-dubious-bbs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognis-of-megara/dubious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/dubious.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/dubious.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/dubious.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognis-of-megara/dubious.json"
+      }
+    },
+    {
+      "eul_wid": "krs-aa",
+      "title": {
+        "english": "Fragments on Hannibal",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀννίβου"
+      },
+      "url_slug": "eumaeus-the-historian-hannibal-fragments-krs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eumaeus-the-historian/hannibal-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumaeus-the-historian/hannibal-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lju-ab",
+      "title": {
+        "english": "Historical Fragments of Duris",
+        "ancient_greek": "Ἀποσπάσματα Δούριδος"
+      },
+      "url_slug": "duris-of-samos-historical-fragments-lju-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kbe-aa",
+      "title": {
+        "english": "Libyan Myths and Genealogies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agroetas-libyan-myths-kbe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agroetas/libyan-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas/libyan-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas/libyan-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas/libyan-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agroetas/libyan-myths.json"
+      }
+    },
+    {
+      "eul_wid": "eug-aa",
+      "title": {
+        "english": "On the Delphic Oracle and Offerings",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxandridas-the-historian-delphic-oracle-eug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandridas-the-historian/delphic-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandridas-the-historian/delphic-oracle.json"
+      }
+    },
+    {
+      "eul_wid": "ldg-ac",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "polybius-of-megalopolis-testimony-ldg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/polybius-of-megalopolis/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-megalopolis/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/capito/geographical-isauria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

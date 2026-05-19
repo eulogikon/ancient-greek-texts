@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "anc",
+  "auth_slug": "sappho-and-alcaeus-fragments",
+  "name": {
+    "english": "Fragments of Sappho and Alcaeus",
+    "ancient_greek": "Σαπφοῦς καὶ Ἀλκαίου ἀποσπάσματα"
+  },
+  "seo_h1": "Love, Myth, and Lyric in Sappho and Alcaeus",
+  "seo": {
+    "browser_title": "Sappho and Alcaeus Lyric Poets on Eulogikon Greek Archive",
+    "meta_title": "Classical Sappho and Alcaeus Ancient Greek Lyric Poetry",
+    "meta_description": "Sappho and Alcaeus were major lyric poets from Lesbos. Their surviving works include poetic fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sappho and Alcaeus were two major poets from the island of Lesbos who lived and worked in the late 7th and early 6th centuries BCE. They are the foremost representatives of Aeolic lyric poetry, a tradition of song composed for solo or choral performance.</p>\n<p class=\"research-text\">Sappho was a female poet from the city of Mytilene or Eresos. Details of her life are scarce, but ancient sources indicate she was exiled for a time, had a daughter, and led a group of young women involved in cultural and religious activities. Alcaeus was a male poet and citizen of Mytilene from an aristocratic family. He was actively involved in the political conflicts of his city, which led to periods of exile.</p>\n<p class=\"research-text\">Their works survive only in fragments, preserved through quotations by later authors and discoveries on ancient papyri. Sappho’s poetry, originally organized into several books, explores themes of love, desire, friendship, and ritual. Her most famous surviving pieces include an ode to the goddess Aphrodite and a poem on aging. Alcaeus’s surviving fragments come from a collection of political hymns, drinking songs, and hymns to gods. He is known for using the “ship of state” metaphor and for poems composed for social gatherings.</p>\n<p class=\"research-text\">Sappho is celebrated for her intense, personal exploration of emotion, particularly love between women. Her distinctive meter and vivid style led her to be called “the Tenth Muse” in antiquity, and she influenced later Roman poets. Alcaeus is seen as a key figure in the development of political and convivial poetry, offering a direct view of aristocratic life and conflict in his time. His metrical forms also influenced later literature. Together, their fragmentary works provide crucial insight into the diversity and personal voice of early Greek lyric, beyond the epic tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "anc-ab",
+      "title": {
+        "english": "Fragments on Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀρετῆς"
+      },
+      "url_slug": "sappho-and-alcaeus-fragments-virtue-anc-ab",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-fragments/virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/virtue.json"
+      }
+    },
+    {
+      "eul_wid": "anc-aa",
+      "title": {
+        "english": "Lyric Fragments of Love and Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Μύθων"
+      },
+      "url_slug": "sappho-and-alcaeus-fragments-love-myth-anc-aa",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-fragments/love-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/love-myth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/love-myth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/love-myth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-fragments/love-myth.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sappho-and-alcaeus-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

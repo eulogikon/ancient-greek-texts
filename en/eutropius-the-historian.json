@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "spm",
+  "auth_slug": "eutropius-the-historian",
+  "name": {
+    "english": "Eutropius the Historian",
+    "ancient_greek": "Εὐτρόπιος ὁ ἱστορικός"
+  },
+  "seo_h1": "Eutropius the Historian and the Summary from the Founding of the City",
+  "seo": {
+    "browser_title": "Eutropius the Historian on Eulogikon Greek Archive",
+    "meta_title": "Eutropius Ancient Greek Historical Works and Texts",
+    "meta_description": "Eutropius, a 4th century CE historian of Late Antiquity. His surviving works include a compendium. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eutropius was a Roman historian and high-ranking official of the 4th century CE. He served as magister memoriae under Emperor Valens and accompanied Emperor Julian on the Persian campaign of 363 CE, an experience he later referenced. He dedicated his historical work to Valens in 369 or 370 CE, indicating his active role at the imperial court during that period.</p>\n<p class=\"research-text\">His sole surviving work is the Breviarium ab urbe condita, a concise history of Rome from its foundation to the reign of Emperor Jovian in 364 CE. Eutropius’s Breviarium was immensely popular for its clear and accessible Latin prose. It exemplifies a genre of historical writing focused on factual summary for educated readers and administrators.</p>\n<p class=\"research-text\">Translated into Greek and used as a standard text, it became a key source for later historians like Jerome and Orosius, transmitting a condensed version of Roman history for centuries.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "spm-aa",
+      "title": {
+        "english": "Summary from the Founding of the City, Paeanian Translation",
+        "ancient_greek": "Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως"
+      },
+      "url_slug": "eutropius-the-historian-summary-city-spm-aa",
+      "passages": 206,
+      "links": {
+        "html": "https://eulogikon.org/grc/eutropius-the-historian/summary-city",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/eutropius-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eutropius-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eutropius-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eutropius-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eutropius-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

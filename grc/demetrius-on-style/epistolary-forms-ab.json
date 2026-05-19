@@ -1,0 +1,359 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nvg-ab",
+  "eul_aid": "nvg",
+  "author_slug": "demetrius-on-style",
+  "work_slug": "epistolary-forms-ab",
+  "url_slug": "demetrius-on-style-epistolary-forms-ab-nvg-ab",
+  "author": {
+    "english": "Demetrius On Style",
+    "ancient_greek": "Δημήτριος ὁ Περὶ Ἑρμηνείας"
+  },
+  "title": {
+    "english": "Epistolary Forms",
+    "ancient_greek": "Ἐπιστολικὰ Σχήματα"
+  },
+  "seo": {
+    "browser_title": "Epistolary Forms by Demetrius On Style on Eulogikon",
+    "meta_title": "Ancient Epistolary Forms by Demetrius On Style in Greek",
+    "meta_description": "Demetrius examines the distinctive characteristics and conventions of epistolary composition in ancient Greek Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The treatise <strong>Epistolary Forms</strong> constitutes the concluding section of the rhetorical work <strong>On Style</strong> attributed to Demetrius. Preserved as an integral part of the larger manuscript tradition, it occupies the final chapters of the complete text. This section offers a systematic exposition on the theory and practice of letter-writing, defining the epistle as a distinct literary form characterized by concision, artful composition, and a reflection of the writer&#x27;s character, deliberately set apart from genres like dialogue or history. It elaborates on the ideal characteristics of a letter, prioritizing simplicity, clarity, and brevity, while also examining how style must be adapted to suit the specific relationship between the writer and the recipient. The discussion further encompasses the appropriate use of stylistic figures and the expression of character through prose. The complete work, including this epistolary treatise, survives primarily in a tenth- or eleventh-century manuscript, and while its authenticity as a component of Demetrius&#x27;s handbook is generally accepted, the precise dating of the author and text remains a subject of scholarly debate. <strong>On Style</strong>, with its methodical treatment of rhetorical and epistolary theory, proved to be an influential manual, providing a model for later criticism and maintaining a significant place in the study of ancient rhetoric, literary theory, and the art of letter-writing.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Δημητρίου [Φαληρέως] τύποι ἐπιστολικοί. Τῶν ἐπιστολικῶν τύπων, ὦ Ἡρακλείδη, ἐχόντων τὴν θεωρίαν τοῦ συνεστάναι μὲν ἀπὸ πλειόνων εἰδῶν, ἀναβάλλεσθαι δὲ ἐκ τῶν ἀεὶ πρὸς τὸ παρὸν ἁρμοζόντων, καὶ καθηκόντων μὲν ὡς τεχνικώτατα γράφεσθαι, γραφομένων δ’ ὡς ἔτυχεν ὑπὸ τῶν τὰς τοιαύτας τοῖς ἐπὶ πραγμάτων ταττομένοις ὑπουργίας ἀναδεχομένων, θεωρῶν σε φιλοτίμως ἔχοντα πρὸς φιλομάθειαν ἐπραγματευσάμην διά τινων συστήσειν ἰδεῶν καὶ πόσας καὶ ἃς ἔχουσι διαφοράς, καὶ καθάπερ δεῖγμα τῆς ἑκάστου γένους τάξεως ὑποδέδειχα προσεκθέμενος μερικῶς τὸν περὶ ἑκάστου λόγον, ἅμα μὲν ὑπολαμβάνων καὶ σοὶ τοῦτο κεχαρισμένον ὑπάρχειν, εἴ τι τῶν ἄλλων περισσότερον εἰδήσεις τὸ λαμπρὸν τοῦ βίου τιθέμενος οὐκ ἐν τοῖς βρώμασιν, ἀλλ’ ἐν ταῖς ἐπιστήμαις, ἅμα δὲ κἀμὲ νομίζων τοῦ προσήκοντος ἐπαίνου μεθέξειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "p",
+      "text": "οὐ μὴν γένος τι τοιοῦτον καὶ παρὰ τὴν ἡλικίαν ἐφευρίσκων μέθοδον προὐθυμήθην καὶ ταῦτα τῆς περιστάσεως τὸν εὐφυέστατον δυναμένης ἐμποδίζειν. οὐ γὰρ οὕτως ἀποδοχῆς τεύξεται πρεσβύτερος ἀνὴρ πλεῖστον καταναλώσας χρόνον πρὸς μάθησιν, ὡς ὁ τὴν ἐπισφαλῆ καὶ παρακίνδυνον ἡλικίαν πρὸς τὰ κάλλιστα τῶν μαθημάτων καταχρησάμενος; ἴσως μὲν γὰρ αὐτοῖς ὁ χρόνος διαρκῶν εὐχερὴς καθηγητὴς γίνεται τούτων ἐχόντων ποικίλην πειθώ, ὁ δ’ αὖ τῆς νεότητος συνίσταται καιρὸς πολλὰς ἔχων δυσχερείας. Γένη μὲν οὖν ἐστιν, οἷς ἐντετυχήκαμεν, ἓν καὶ εἴκοσι. τάχα δ’ ἂν ἐνέγκοι πολλαπλάσια τούτων ὁ χρόνος. εὐφυὴς γὰρ εὑρετὴς καὶ τεχνῶν καὶ θεωρημάτων οὗτος. ἄλλος δὲ τῶν καθ’ ἡμᾶς οὐδεὶς ἐπίκαιρος εἰς ἐπιστολικὸν τρόπον ἀνήκων τύπος. ἐπονομάζεται δ’ ἕκαστος αὐτῶν ἀφ’ ἧς ἐστιν ἰδέας οὕτως· φιλικός, συστατικός, μεμπτικός, ὀνειδιστικός, παραμυθητικός, ἐπιτιμητικός, νουθετητικός, ἀπειλητικός, ψεκτικός, ἐπαινετικός, συμβουλευτικός, ἀξιωματικός, ἐρωτηματικός, ἀποφαντικός, ἀλληγορικός, αἰτιολογικός, κατηγορικός, ἀπολογητικός, συγχαρητικός, εἰρωνικός, ἀπευχαριστικός. Ὁ μὲν οὖν φιλικός ἐστιν ὁ δοκῶν ὑπὸ φίλου γράφεσθαι πρὸς φίλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "γράφουσι δὲ οὐχ οἱ πάντως φίλοι. πολλάκις γὰρ ἐν ὑπάρχοις κείμενοι πρὸς ὑποδεεστέρους ὑπό τινων ἀξιοῦνται φιλικὰ γράψαι καὶ πρὸς ἄλλους ἴσους, στρατηγούς, ἐπιστρατήγους, διοικητάς. ἔστιν ὅτε καὶ προσγράφουσι τούτους ἀγνοοῦντες. οὐ γὰρ διὰ τὸ συγκεκρᾶσθαι καὶ μίαν ἔχειν αἵρεσιν τοῦτο πράττουσιν, ἀλλ’ οὐδένα νομίζοντες ἀντερεῖν αὐτοῖς φιλικὰ γράφουσιν, 〈ἀλλ’〉 ὑπομενεῖν καὶ ποιήσειν περὶ ὧν γράφουσιν. ὁ μέντοι τύπος καλεῖται τῆς ἐπιστολῆς φιλικὸς ὡς πρὸς φίλον γραφόμενος. ἔστι δὲ τοιοῦτος· Εἰ καὶ πολύ σου διάστημα τυγχάνω κεχωρισμένος, τῷ σώματι μόνον πάσχω τοῦτο. οὐδὲ γὰρ οὐδέποτε δυνατὸν ἐπιλαθέσθαι με σοῦ οὐδὲ τῆς γεγονυίας ἡμῖν ἐκ παίδων ἀνεγκλήτου συνανατροφῆς. εἰδὼς δὲ ἐμαυτὸν τὰ πρὸς σὲ γνησίως διακείμενον καὶ πάνυ τὸ σοὶ συμφέρον ἀπροφασίστως ὑπηρετήσαντα τὴν αὐτὴν ὑπείληφα καὶ σὲ περὶ ἐμοῦ γνώμην ἔχοντα κατὰ μηδὲν ἀντερεῖν πρός με. καλῶς οὖν ποιήσεις πυκνότερον ἐπισκοπῶν τοὺς ἐν οἴκῳ μή τινος ἔχωσι χρείαν καὶ συμπαριστάμενος ἐν οἷς ἂν δέωνται καὶ γράφων ἡμῖν περὶ ὧν αἱρῇ. Ὁ δὲ συστατικό ς , ὃν ὑπὲρ ἄλλου πρὸς ἄλλον γράφομεν ἔπαινον συγκαταπλέκοντες ἅμα καὶ τοὺς πρότερον ἠγνοημένους λέγοντες ὡς ἐγνωσμένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "οὕτως· Τὸν δεῖνα τὸν παρακομίζοντά σοι τὴν ἐπιστολὴν καὶ ἡμῖν κεκριμένον καὶ δι’ ἣν ἔχει πίστιν ἀγαπώμενον καλῶς ποιήσεις ἀποδοχῆς ἀξιώσας καὶ δι’ ἐμὲ καὶ δι’ αὐτόν, ἔτι δὲ καὶ διὰ σαυτόν. οὐ μεταμελήσῃ γὰρ ἐν οἷς θέλεις εἴτε λόγον ἀπόρρητον εἴτε πρᾶξιν εἰπεῖν. ἀλλὰ καὶ σὺ πρὸς ἑτέρους ἐπαινέσεις αὐτὸν αἰσθόμενος ἣν ἐν παντὶ δυνατός ἐστι χρείαν παρασχέσθαι. Μεμπτικὸς δέ ἐστιν ὁ μὴ νομίζεσθαι βαρεῖν προσδεχόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "οἷον· Εἰ μὴ παραδέδωκέ σοι μηδέπω ὁ καιρὸς ὧν εὖ πέπονθας ἐκτῖσαι χάριτας, οὐδὲ αὐτὸ τοῦτό γε καλῶς ἔχειν ὑπείληφα τὸ μὴ μνημονεύειν ὧν ἔπαθες. σὺ δὲ καὶ δυσχερεῖς καθ’ ἡμῶν λόγους προστίθεις. σὲ μὲν οὖν μεμφόμεθα τρόπον ἔχοντα τοιοῦτον, αὑτοὺς δέ, ὅτι σὲ τοιοῦτον ὄντα ἠγνοοῦμεν. Ὀνειδιστικὸς δέ ἐστιν, ὅταν αὖ τὸν ὑφ’ αὑτῶν προευεργετημένον ἐφ’ οἷς ἔπραξε μετ’ ἐγκλημάτων ὀνειδίζωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ἔδει σὲ τὸ γνῶθι σαυτὸν μαθόντα τότε ἑτέροις προσφέρεσθαι δυσκόλως. νῦν δ’ ἀκμὴν ὑφ’ ἡμῶν τρεφόμενος καὶ δι’ ἡμᾶς ἔχων τὸ πνεῦμα μεῖζον φρονεῖς τοῦ δέοντος. ἡμεῖς δὲ τούτου αἴτιοι. σὲ γὰρ ἔδει μὴ τυχεῖν ἐλευθέρου σχήματος. καίπερ οὐδὲ νῦν ἐλεύθερος γέγονας σχῆμα κεκτημένος δουλοπρεπές. Παραμυθητικὸς δέ ἐστιν ὁ γραφόμενος τοῖς ἐπὶ λύπης καθεστηκόσι δυσχεροῦς τινος γεγονότος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἔστι δὲ τοιοῦτος· Ἀκούσας τὰ δεινὰ τῆς ἀχαρίστου σου τύχης ἀπηντημένα καθ’ ὑπερβολὴν ἤλγησα νομίσας οὐ σοὶ μᾶλλον ἢ ἐμοὶ συμβεβηκέναι τὸ γεγονός. ἐκείνην μὲν οὖν τὴν ἡμέραν ἅπαντα ἰδὼν τὰ πρὸς τὸν βίον ἑστῶτα συνεφόραζον, ἐννοηθεὶς δὲ ὅτι τὰ τοιαῦτα πᾶσίν ἐστιν ὑποκείμενα τῆς φύσεως οὔτε χρόνον οὔτε ἡλικίαν ὑφισταμένης, καθ’ ἣν δεῖ τι πάσχειν, ἀλλ’ ἀδήλως μετὰ σκαιότητος οὐκ ἀξίως πολλάκις ἀπαντώσης, ἐπεὶ μὴ παρὼν τετύχηκα παρακαλεῖν σε, δι’ ἐπιστολῆς ἔκρινα τοῦτο ποιῆσαι. φέρε γοῦν τὸ γεγονὸς ὡς δύνῃ κουφότατα καὶ καθὼς ἄλλῳ παρῄνεσας, σαυτῷ παραίνεσον. ἐπίστασαι γὰρ ὅτι τὸ μέλλον χρόνῳ κουφιεῖν σε τοῦτο ὁ λόγος εὐμαρέστερον ποιήσει. Ἐπιτιμητικὸς δέ ἐστιν ὁ ἐφ’ ἁμαρτήμασι προγεγονόσι μετ’ ἐπιπλήξεως γραφόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "οὕτως· Τῶν ἁμαρτημάτων τὰ μὲν ἑκουσίως γίνεται, τὰ δὲ ἀκουσίως, καὶ τὰ μὲν μεγάλα καθέστηκε, τὰ δὲ μικρά, καὶ τὰ μὲν μόνοις βλαβερὰ τοῖς ἁμαρτάνουσι, τὰ δὲ ἑτέροις. σοὶ δὲ καθάπερ ἐπιτήδευμα συμβέβηκεν ὄντα· καὶ γὰρ οὐκ ἄκων μεγάλα καὶ πολλοῖς βλαβερὰ διαπέπραξαι. προσήκει μὲν οὖν σε μείζονος ἐπιτυχεῖν ἐπιπλήξεως, εἰ δὴ κατὰ τὸ παρὸν συντετύχηκε καὶ ἐπὶ ἑτέρων τῶν ἀδικηθέντων. ἀλλ’ ἔτι γε δυνατόν ἐστιν ἰάσεως τυχεῖν 〈τὸ〉 γεγονὸς πλημμέλημα. πρὸς διόρθωσιν γὰρ ἀγαγὼν αὐτὸς αἴτιος γενήσῃ τοῦ μὴ γεγονέναι καθάπερ ἔμπροσθεν τοῦ γεγονέναι. Νουθετητικὸς δέ ἐστιν, ὃς καὶ διὰ τῆς ὀνομασίας ὁποῖός ἐστι δηλοῖ τὸ γὰρ νουθετεῖν ἐστι νοῦν ἐντιθέναι τῷ νουθετουμένῳ καὶ διδάσκειν τί πρακτέον καὶ μή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "οὕτως· Κακῶς ἐποίησας οὕτω χρησάμενος ἀνδρὶ καλῶς ἀνεστραμμένῳ καὶ κατὰ λόγον βεβιωκότι καὶ τὸ ὅλον μηδὲν ἄτοπον εἰς σὲ πεποιηκότι. παραιτήσεως οὖν ἀξίωσον τὸ πρᾶγμα. καὶ γὰρ σὺ πάλιν ὑπ’ ἄλλου παθὼν ῥᾳδίως ἂν ἤνεγκας τόδε ἐπὶ σαυτὸν δικαιῶν. μὴ δόκει οὖν μήτε γονέων μήτε ἀγωγῆς τετυχηκέναι μήτε τὸ πᾶν ἔσχατον συγγενῆ τινα ἢ φίλον ἔχειν τὸν ἐπιτιμήσοντα τοῖς ἁμαρτήμασιν. Ἀπειλητικὸς δέ ἐστιν, ὅταν μετ’ ἐπιτάσεως φόβον τισὶν ἐμποιῶμεν ἐπὶ πεπραγμένοις ἢ πραχθησομένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "οὕτως· Εἰ μὲν ὑπολαμβάνεις μηδεμίαν ὑφέξειν δίκην ἐφ’ οἷς διαπέπραξαι, πρᾶττε. εἴσῃ δὲ ἀκριβῶς ὡς οὔτε ἀναπτησόμενος οὔτε καταδυσόμενος οὐδενὶ τρόπῳ χρόνον ἐπισπᾷ κενόν. ὁδὸν γὰρ οὐκ ἂν εὕροις δι’ ἧς ἀποφύγοις ἅ σε δεῖ παθεῖν. Ψεκτικὸς δέ ἐστιν, ὅταν τρόπου κακίαν ἢ δυσχέρειαν πράξεως κατά τινος ἐξαγγέλλωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "οὕτως· Ὁ δεῖνα ὡς κέχρηται τοῖς ἐγκεχειρισμένοις ἀνελευθέρως καὶ τῆς προαιρέσεως ἀναξίως, κἂν ἐγὼ σιωπῶ, παρ’ ἄλλων ἀκούσῃ· γράφειν γὰρ προσήκει περὶ ὧν ἂν μή τινες ἐπιστῶνται· περὶ δὲ τῶν ἅπασι φανερῶν καὶ ὑπ’ αὐτῆς τῆς φήμης ἀναγγελλομένων περισσόν τι καὶ τὸ μηνύειν ἃ δι’ αὐτῶν ἐλέγχεται σιωπωμένων. Ἐπαινετικὸς δέ ἐστιν, ὅταν ἐφ’ οἷς [ἂν] ἔπραξέ τις ἢ προείλετο, παρακαλῶμεν ἀποδεχόμενοι τὸν τρόπον τοῦτον· Ἐγὼ καὶ πρότερον εἰ ἔγραψας γράμμασι μετειλήφειν τῆς σῆς φιλοκαλίας καὶ νῦν ἐφ’ οἷς πέπραχας ἀποδέχομαί τε καὶ παρακαλῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "συνοίσει γὰρ ἡμῖν ἀμφοτέροις. Συμβουλευτικὸς δέ ἐστιν, ὅταν τὴν ἰδίαν γνώμην προφερόμενοι προτρέπωμεν ἐπί τι ἢ ἀποτρέπωμεν ἀπό τινος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "οἷον οὕτως· Ἐξ ὧν εὐδοκίμησα διὰ τῶν ἀρχομένων κεφαλαιωδῶς ὑποδέδειχά σοι. γινώσκω μὲν οὖν ὅτι καὶ σὺ τῷ τρόπῳ δυνατὸς εἶ τὴν παρὰ τῶν ὑποτεταγμένων εὔνοιαν περιποιεῖσθαι τῶν ὑπηκόων, ἔτι δὲ φίλους πλείστους μὲν οὐ ποιεῖν, πρὸς ἅπαντας δὲ μετρίως ἔχειν καὶ φιλανθρώπως. τοιοῦτος γὰρ ὢν παρὰ τῶν ὄχλων τὴν εὐφημίαν καὶ τὴν ἀρχὴν ἀσάλευτον ἕξεις. Ὁ δὲ ἀξιωματικός ἐστιν ἐν δεήσει κείμενος καὶ ταῖς λιταῖς καὶ ταῖς καλουμέναις λιτανείαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "κεῖται δὲ μετὰ παραιτήσεως ἐνίοτε. οὕτως· Ἐπιτετίμηκα τῷ δεῖνι περὶ ὧν ἔφης αὐτὸν εἰς σὲ διαπεπρᾶχθαι καὶ πικρότερον ἢ προσῆκεν αὐτῷ διηνέχθην καὶ σχεδὸν ἤπερ σὺ ὑπὲρ σεαυτοῦ. ἐμοὶ οὖν τὴν ἀδικίαν ἀνάθες καὶ εἰς τὸ πάλιν. σὲ γὰρ οἶδα καὶ χρηστὸν καὶ τοῖς φίλοις χαριζόμενον. δάμασον τοίνυν καθ’ Ὅμηρον θυμὸν μέγα ν , οὐδέ τί σε χρὴ νηλεὲς ἦτορ ἔχει ν . στρεπτοὶ δέ τε καὶ θεοὶ αὐτο ί . Ἐρωτηματικό ς , ὅταν περί τινος πυνθανόμενοι παρακαλῶμεν ἡμῖν ἀντιφωνῆσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "οἷον· Ἀκούω τὸν δεῖνα ἐπιδεδημηκέναι πρὸς σέ. διασάφησον οὖν μοι πότερον ἔτι πάρεστιν ἢ κεχώρισται. Ἀποφαντικός ἐστι τὸ πρὸς τὸν πυνθανόμενον ἀποφαίνεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "οἷον· Ἔγραψάς μοι πυνθανόμενος εἰ παρ’ ἡμῖν ὁ δεῖνα. πάρεστιν οὖν ἔτι καὶ σὲ προσδεχόμενος ἐπιμενεῖν φησιν. Ἀλληγορικό ς , ὅταν πρὸς ὃν γράφομεν αὐτὸν βουλώμεθα μόνον εἰδέναι καὶ δι’ ἑτέρου πράγματος 〈ἕτερον〉 σημαίνωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "οἷον· Ἀκούω τὸν πρὸς σὲ ἀγωνισόμενον ἀθλητὴν γυμνὸν ἔξω τῶν πυλῶν ἐν σκοτεινῷ κατοικεῖν οἰκήματι. συνήδομαι οὖν, ἀκονιτὶ γὰρ κρατήσεις. —οὐ γὰρ σεσήμαγκεν ὅτι ὑπείληφεν αὐτοῦ τὸν ἀντίδικον ἀπολωλέναι; Καὶ ἕτερος ἀπειλῶν ἔγραψεν· οὐ βούλεσθε παύσασθαι, ἕως ἂν ἴδητε τοὺς τέττιγας ἐπὶ τῶν βώλων ᾄδοντας; —δι’ ἄλλου γὰρ πράγματος ἄλλο ἐσήμανεν. βούλεται γὰρ εἰπεῖν ὅτι οὐ βούλεσθε παύσασθαι, ἕως ἂν ἴδητε τὴν χώραν ὑμῶν κατεσκαμμένην; οὐ γὰρ ἂν ἄλλως οἱ τέττιγες ἐπὶ τῶν βώλων ᾄδοιεν, ἀλλ’ εἰ μήτε δένδρα μήτε τοίχους ἔχοιεν. Αἰτιολογικός ἐστιν, ὅταν τὰς αἰτίας δι’ ἃς οὐ γέγονεν ἢ γενήσεται ὁτιδηποτοῦν, σημαίνωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "οἷον· Ἔγραψάς μοι διὰ τάχους πρὸς σὲ ἐλθεῖν, κἀμοὶ δὲ τοῦτο προέκειτο. πάντα δ’ ἡμῖν τὰ πρὸς τὸν πλοῦν ἀντιπέπτωκεν. οὔτε γὰρ πλοῖόν ἐστιν εὐπορῆσαι πάντων εἱλκυσμένων πρὸς τὰς λειτουργίας, κἂν εὕρωμεν τῶν ἀνέμων ἐναντιουμένων ἀπρακτεῖν ἀνάγκη. ἐν τῷ μεταξὺ δὲ καὶ εἰς κρίσιν ἐμπέπλεγμαι. ἐὰν οὖν ἅπαντα μεταπέσῃ ταῦτα, ἐκδέχου με. Κατηγορικὸς δέ ἐστιν ὁ ἐν καταιτιάσει τινῶν κείμενος παρὰ τὸ δέον ἐνηργημένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "οἷον· Οὐχ ἡδέως μὲν ἔφερον ἀκούων τὰ κατ’ ἐμοῦ λεγόμενα, ἦν γὰρ οὐ τῆς ἀξίας ἀγωγῆς, κακῶς δὲ καὶ σὺ τῷ κατ’ ἐμοῦ λέγοντι σαυτὸν ἐνεχείρισας καίτοι εἰδὼς αὐτὸν καὶ διάβολον καὶ ψευδολόγον. τὸ καθόλου δὲ λυπεῖς φίλον ἔχων, ὃν ᾔδεις ἁπάντων ἐχθρόν, οὐδὲ τοῦτο δοκιμάσας, ὅτι τὸν ἄλλων κατηγοροῦντα πρὸς σὲ καὶ πρὸς ἄλλους εἰκὸς τοῦτο ποιεῖν κατὰ σοῦ. μέμφομαι οὖν ἐκείνῳ μὲν ὅτι ταῦτα πράττει, σοὶ δὲ ὅτι δοκῶν φρονεῖν οὐκ ἔχεις κρίσιν ὑπὲρ φίλων. Ἀπολογητικὸς δέ ἐστιν ὁ πρὸς τὰ κατηγορούμενα τοὺς ἐναντίους λόγους μετ’ ἀποδείξεως εἰσφέρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "οἷον· Καλῶς ἐποίησεν ἡ τύχη μεγάλα μοι πρὸς τὴν ἀπόδειξιν περιποιήσασα. κατὰ γὰρ οὓς χρόνους φασὶ τοῦτο πεποιηκέναι με, καταπλεύσας ἤμην εἰς Ἀλεξάνδρειαν, ὥστε οὔτε συνέβη μοι ἰδεῖν οὔτε συντυχεῖν τὸν περὶ οὗ κατηγοροῦμαι. ἄλογον δὲ καὶ τὸ μηδεμιᾶς γενομένης μοι πρὸς σὲ διαφορᾶς κατηγορεῖν σου τοῦ μηδὲν ἀδικοῦντος. ἀλλὰ φαίνονται οἱ διαβαλόντες αὐτοὶ πεπραχότες τι ἄτοπον καὶ ὑποψίαν ἔχοντες μή τί σοι περὶ αὐτῶν γράψω, προδιαβεβλήκασιν ἐμέ. σὺ δὲ εἰ μὲν κεναῖς φάσεσι πεπίστευκας, εἰπέ· εἰ δὲ διαμένεις οἷον δεῖ πρὸς ἐμέ, παραγενηθέντος μου μαθήσῃ πάντα. καὶ γὰρ εἰ μὲν κατ’ ἄλλων πρὸς σὲ πώποτε εἴρηκα, πιστὸν ἦν ὅτι καὶ κατὰ σοῦ πρὸς ἑτέρους. προσδέχου με οὖν καὶ πάντα πρὸς ἔλεγχον ἐλεύσεται, ἵνα σὺ μὲν γνῷς ὡς καλῶς με κέκρικας φίλον, ἐγὼ δὲ σοῦ πεῖραν ἔργῳ λάβω. σχεδὸν γὰρ οἱ διαβαλόντες ἡμᾶς μᾶλλον ἀλλήλοις προσάξουσιν καὶ ἑαυτοὺς ἀποπνίξουσιν. Συγχαρητικὸς δέ ἐστιν, ὅταν ἐπὶ μεγάλοις τισὶ καὶ παραδόξοις πράγμασι γεγονόσι περί τινα συνηδόμενοι γράφωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "οἷον· Οὐχ ὑπείληφα περὶ σὲ τὸν τοῦ πράγματος κύριον γεγονέναι τοσαύτην χαρὰν ἡλίκην περὶ ἐμὲ πυθόμενον τὰ συμβεβηκότα σοι ἀγαθά. πέποιθα δὲ βουλομένης τῆς τύχης καὶ ἔτι μείζονα γενήσεσθαι. τὸ γὰρ σὸν ἦθος οὐδὲ παρὰ θεοῖς ἀπαρασήμαντόν ἐστι, δι’ ἣν ἔχεις πρὸς μὲν ἀνθρώπους ἀπάντησιν, πρὸς δὲ θεοὺς εὐσέβειαν. Εἰρωνικὸς δέ ἐστιν, ὅταν ἐναντίοις πράγμασιν ἐναντία λέγωμεν καὶ τοὺς κακοὺς καλοὺς καὶ ἀγαθοὺς λέγωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "οἷον· Ἀπέδειξας τὴν πρὸς ἡμᾶς εὔνοιαν, ἣν ἐκ πάλαι εἶχες. οὐ γὰρ λέληθεν ἡ καλὴ κἀγαθή σου προαίρεσις, διότι τὸ κατὰ σαυτὸν μέρος ἀνῄρηκας ἡμᾶς. ἐὰν δὲ τῶν ἴσων τυγχάνῃς, μὴ δυσφορήσῃς. πεπείσμεθα γάρ, ἐὰν οἱ θεοὶ θέλωσι, καιρὸν ἕξειν, οἷον αὐτὸς εὑρήσεις καθ’ ἡμῶν οὐδέποτε. Ἀπευχαριστικός ἐστιν τὸ μνημονεύειν ὀφείλειν χάριν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "οἷον· Ἐφ’ οἷς εὐεργέτησάς με διὰ λόγων, σπουδάσω ἔργῳ δεῖξαι τὴν ἐμαυτοῦ προαίρεσιν, ἣν ἔχω πρὸς σέ. ἔλαττον γὰρ τοῦ καθήκοντος ὑπείληφα τὸ δι’ ἐμοῦ σοι γινόμενον, οὐδὲ γὰρ τὸν βίον ὑπὲρ σοῦ προέμενος ἀξίαν ἀποδώσειν χάριν ὧν εὖ πέπονθα. τῶν κατ’ ἐμὲ δὲ ὅ τι βούλει, μὴ γράφε παρακαλῶν, ἀλλ’ ἀπαιτῶν χάριν. ὀφείλω γάρ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nvg-aa",
+      "title": {
+        "english": "Epistolary Forms, Two Spurious Examples",
+        "ancient_greek": "Ἐπιστολικὰ Σχήματα"
+      },
+      "url_slug": "demetrius-on-style-epistolary-forms-aa-nvg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-on-style/epistolary-forms-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-aa.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-bw",
+      "title": {
+        "english": "Against Philip IV",
+        "ancient_greek": "κατὰ Φιλίππου δ΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-philip-bw-fsm-bw",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-philip-bw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bw.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bw.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bw.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bw.json"
+      }
+    },
+    {
+      "eul_wid": "fci-ae",
+      "title": {
+        "english": "Against Philippides",
+        "ancient_greek": "Κατὰ Φιλιππίδου"
+      },
+      "url_slug": "hypereides-the-orator-philippides-fci-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypereides-the-orator/philippides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/philippides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/philippides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/philippides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypereides-the-orator/philippides.json"
+      }
+    },
+    {
+      "eul_wid": "ria-ad",
+      "title": {
+        "english": "Excerpts",
+        "ancient_greek": "Ἀποσπασμάτια"
+      },
+      "url_slug": "aelian-of-praeneste-excerpts-ria-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bh",
+      "title": {
+        "english": "Fragments on Legal Disputes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δικῶν"
+      },
+      "url_slug": "lysias-legal-disputes-ejc-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/legal-disputes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cj",
+      "title": {
+        "english": "Macrobii",
+        "ancient_greek": "Μακρόβιοι"
+      },
+      "url_slug": "lucian-of-samosata-macrobii-pfk-cj",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/macrobii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/macrobii.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-cf",
+      "title": {
+        "english": "Olynthiac 2",
+        "ancient_greek": "Ὀλυνθιακὸς β΄"
+      },
+      "url_slug": "demosthenes-of-athens-olynthiac-2-fsm-cf",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/olynthiac-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-2.json"
+      }
+    },
+    {
+      "eul_wid": "ugo-aa",
+      "title": {
+        "english": "On the City of Pantikapaion",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "eustochius-of-cappadocia-pantikapaion-ugo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eustochius-of-cappadocia/pantikapaion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eustochius-of-cappadocia/pantikapaion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eustochius-of-cappadocia/pantikapaion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eustochius-of-cappadocia/pantikapaion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eustochius-of-cappadocia/pantikapaion.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ac",
+      "title": {
+        "english": "To the Uneducated Man Buying Many Books",
+        "ancient_greek": "Πρὸς τὸν ἀπαίδευτον καὶ πολλὰ βιβλία ὠνούμενον"
+      },
+      "url_slug": "lucian-of-samosata-uneducated-man-books-pfk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/uneducated-man-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/uneducated-man-books.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/demetrius-on-style/epistolary-forms-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-on-style/epistolary-forms-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

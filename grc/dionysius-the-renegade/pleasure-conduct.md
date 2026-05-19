@@ -1,0 +1,79 @@
+---
+title: Fragments on Pleasure and Conduct
+title_greek: Ἀποσπάσματα περὶ Ἡδονῆς καὶ Ἀγωγῆς
+author: Dionysius the Renegade
+eul_wid: hje-aa
+eul_aid: hje
+canonical: "https://eulogikon.org/grc/dionysius-the-renegade/pleasure-conduct"
+period: Classical
+dialect: "Attic (phi, frg)"
+domain: Philosophy
+format: Collection
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Fragments on Pleasure and Conduct
+
+*Ἀποσπάσματα περὶ Ἡδονῆς καὶ Ἀγωγῆς*
+
+**Author:** Dionysius the Renegade
+
+**eul_wid:** `hje-aa` · [HTML page](https://eulogikon.org/grc/dionysius-the-renegade/pleasure-conduct)
+
+## Text
+
+### 422
+
+Diogenes Laërt. VII 166. Διονύσιος δὲ ὁ Μεταθέμενος τέλος εἶπε τὴν ἡδονὴν διὰ περίστασιν ὀφθαλμίας· ἀλγήσας γὰρ ἐπιπόνως ὤκνησεν εἰπεῖν τὸν πόνον ἀδιάφορον. ἦν δὲ παῖς μὲν Θεοφάντου, πόλεως δὲ Ἡρακλείας. ἤκουσε δέ, καθά φησι Διοκλῆς, πρῶτον μὲν Ἡρακλείδου τοῦ πολίτου, ἔπειτα Ἀλεξίνου καὶ Μενεδήμου, τελευταῖον δὲ Ζήνωνος. καὶ κατ’ ἀρχὰς μὲν φιλογράμματος ὢν παντοδαποῖς ἐπεχείρει ποιήμασιν, ἔπειτα δὲ καὶ Ἄρατον ἀπεδέχετο, ζηλῶν αὐτόν. ἀποστὰς δὲ τοῦ Ζήνωνος πρὸς τοὺς Κυρηναϊκοὺς ἀπετράπη καὶ εἴς τε τὰ χαμαιτυπεῖα εἰσῄει καὶ τἄλλα ἀπαρακαλύπτως ἡδυπάθει. βιοὺς δὲ πρὸς τὰ ὀγδοήκοντα ἀσιτίᾳ κατέστρεψε. Βιβλία δὲ αὐτοῦ φέρεται τάδε· περὶ ἀπαθείας βʹ (n. 434)· περὶ ἀσκήσεως βʹ· περὶ ἡδονῆς δʹ· περὶ πλούτου καὶ χάριτος καὶ τιμωρίας· περὶ ἀνθρώπων χρήσεως· περὶ εὐτυχίας· περὶ ἀρχαίων βασιλέων· περὶ τῶν ἐπαινουμένων· περὶ βαρβαρικῶν ἐθῶν.
+
+### 423
+
+Diogenes Laërt. VII 23 (de Zenone). Διονυσίου δὲ τοῦ Μεταθεμένου εἰπόντος αὐτῷ, διὰ τί αὐτὸν μόνον οὐ κατορθοῖ, ἔφη „οὐ γάρ σοι πιστεύω.“
+
+### 424
+
+Vita Arati: ἦν δὲ ἐπὶ Πτολεμαίου τοῦ Φιλαδέλφου καὶ ἐσχόλασε Διονυσίῳ τῷ Ἡρακλεώτῃ etc.
+
+### 425
+
+Diogenes Laërt. V 92. ἔτι καὶ Διονύσιος ὁ Μεταθέμενος (ἢ Σπίνθαρος, ὡς ἔνιοι) γράψας τὸν Παρθενοπαῖον ἐπέγραψε Σοφοκλέους. ὁ δὲ (scil. Heraclides Ponticus) πιστεύσας εἴς τι τῶν ἰδίων συγγραμμάτων ἐχρῆτο μαρτυρίοις ὡς Σοφοκλέους. αἰσθόμενος δ’ ὁ Διονύσιος ἐμήνυσεν αὐτῷ τὸ γεγονός· τοῦ δ’ ἀρνουμένου καὶ ἀπιστοῦντος ἐπέστειλεν ἰδεῖν τὴν παραστιχίδα· καὶ εἶχε Πάγκαλον. οὗτος δ’ ἦν ἐρώμενος Διονυσίου. ὡς δ’ ἔτι ἀπιστῶν ἔλεγε κατὰ τὴν τύχην ἐνδέχεσθαι οὕτως ἔχειν, πάλιν ἀντεπέστειλεν ὁ Διονύσιος ὅτι „καὶ ταῦτα εὑρήσεις· Α. Γέρων πίθηκος οὐχ ἁλίσκεται πάγῃ. Β. Ἁλίσκεται μέν· μετὰ χρόνον δ’ ἁλίσκεται.“ Καὶ πρὸς τούτοις „Ἡρακλείδης γράμματα οὐκ ἐπίσταται.“ ὁ δ’ ᾐσχύνθη.
+
+### 426
+
+Ind. Stoic. Herc. col. XXIX. (Δ )ιο (ν )ύ̣σ̣ ( ιο ς) τοίν(υν ὁ Μεταθέμενο ς ... col. XXX. εἰς) μέσον μεγάλῃ τῇ φωνῇ, καὶ μάλισθ’ ὅτε σιωπῶντας ἴδοι τοὺς ἄλλους καὶ διοκνοῦν τας. Τὸν αὐτὸν δὲ τρό πον μὴ παυομένων καὶ ταραχμένων etc. Videtur depingi Dionysius acerrimis doloribus cruciatus et fortassesse ab amicis, ut se interficiant, magna voce postulans vel alias voces cum philosophia Zenonis pugnantes edens.
+
+### 427
+
+Ind. Stoic. Herc. col. XXXII. (τὸν) πόνον φευκτὸ(ν εἶν)αι, τὴν δ’ ἡδονὴ(ν σκο)πὸν καὶ τέλος. Ἐγέ (ν)ετο δ’ οὖν καὶ πολυ (γ)ράφος, προαγαγὼν σχεδὸν εἰς τὰς ὀκτὼ (μυ)ριά(δα)ς. Ἐδόκει τε (πολ)λοῖς οὔτ’ ἄστοχος (οὔτ’ ἀδύν)ατος εἶναι (κατὰ τ)ὴν λ(έξ)ιν καὶ ......... τοις συνι .. etc.
+
+### 428
+
+Athenaeus X 437e. Ἀντίγονος δ’ ὁ Καρύστιος ἐν τῷ περὶ τοῦ Διονυσίου βίου τοῦ Ἡρακλεώτου τοῦ ἐπικληθέντος Μεταθεμένου φησὶ (p. 126 Wil.) τὸν Διονύσιον τοῖς οἰκέταις συνεορτάζοντα ἐν τῇ τῶν Χοῶν ἑορτῇ καὶ μὴ δυνάμενον διὰ γῆρας χρῆσθαι ᾗ παρειλήφεσαν ἑταίρᾳ ὑποστρέψαντα εἰπεῖν πρὸς τοὺς συνδειπνοῦντας (φ 152) οὐ δύναμαι τανύσαι, λαβέτω δὲ καὶ ἄλλος.
+
+### 429
+
+Ind. Stoic. Herc. col. XXXIII. (τοὺς) φίλο(υ)ς ἀσπ(α)σάμε νος κα(ὶ) κα(θεὶς) ἑαυτὸν εἰς τὴν μάκ(τ)ραν ἐτε λεύτησεν.
+
+### 430
+
+Athenaeus VII 281d. περὶ δὲ Διονυσίου τοῦ Ἡρακλεώτου τί δεῖ καὶ λέγειν; ὃς ἄντικρυς ἀποδὺς τὸν τῆς ἀρετῆς χιτῶνα ἀνθινὰ μετημφιάσατο καὶ Μεταθέμενος καλούμενος ἔχαιρε, καίτοι γηραιὸς ἀποστὰς τῶν τῆς Στοᾶς λόγων καὶ ἐπὶ τὸν Ἐπίκουρον μεταπηδήσας· περὶ οὗ οὐκ ἀχαρίτως ὁ Τίμων ἔφη· (fr. 59 W.) ἡνίκ’ ἐχρῆν δύνειν, νῦν ἄρχεται ἡδύνεσθαι· ὥρη ἐρᾶν, ὥρη δὲ γαμεῖν, ὥρη δὲ πεπαῦσθαι. Lucianus Bis accus. 20. 21: μέχρι μὲν τῆς νόσου ἤλπιζεν ὠφελήσειν τι αὐτὸν τοὺς περὶ τῆς καρτερίας λόγους, ἐπεὶ δὲ ἤλγησε καὶ ἐνόσησε καὶ ὁ πόνος ἀληθέστερον αὐτοῦ καθίκετο, ἰδὼν τὸ σῶμα τὸ ἑαυτοῦ ἀντιφιλοσοφοῦν τῇ Στοᾷ καὶ τἀναντία δογματίζον, αὐτῷ μᾶλλον ἢ τούτοις ἐπίστευσε etc.
+
+### 431
+
+Cicero de finibus V 94. Nobis Heracleotes Ille Dionysius flagitiose descivisse videtur a Stoicis propter oculorum dolorem. Quasi vero hoc didicisset a Zenone, non dolere, cum doleret! Illud audierat nec tamen didicerat, malum illud non esse, quia turpe non esset, et esse ferendum viro.
+
+### 432
+
+Cicero Tuscul. disput. II 60. ——homo sane levis, Heracleotes Dionysius, cum a Zenone fortis esse didicisset, a dolore dedoctus est. Nam cum ex renibus laboraret, ipso in eiulatu clamitabat falsa esse illa, quae antea de dolore ipse sensisset. Quem cum Cleanthes condiscipulus rogaret, quaenam ratio eum de sententia deduxisset, respondit: „Quia si, cum tantum operae philosophiae dedissem, dolorem tamen ferre non possem, satis esset argumenti malum esse dolorem. Plurimos autem annos in philosophia consumpsi nec ferre possum; malum est igitur dolor.“
+
+### 433
+
+Cicero Acad. Pr. II 71. Dionysius ille Heracleotes utrum comprehendisset————quod multos annos tenuisset Zenonique magistro credidisset, honestum quod esset, id bonum solum esse, an quod postea defensitavisset, honesti inane nomen esse, voluptatem esse summum bonum.
+
+### 434
+
+Cicero Tuscul. disp. III 18. Itaque non inscite heracleotes Dionysius ad ea disputat, quae apud Homerum Achilles queritur hoc, ut opinor modo (Ι 646) Corque meum penitus turgescit tristibus iris, Cum decore atque omni me orbatum laude recordor. 19. Num manus adfecta recte est, cum in tumore est, aut num aliud quodpiam membrum tumidum ac turgidum non vitiose se habet? Sic igitur inflatus et tumens animus in vitio est. Sapientis autem animus semper vacat vitio, numquam turgescit, numquam tumet; at iratus animus eius modi est; numquam igitur sapiens irascitur. Nam si irascitur, etiam concupiscit; proprium est enim irati cuper e , a quo laesus videatu r , ei quam maxumum dolorem inurer e; qui autem id concupierit, eum necesse est, si id consecutus sit, magno opere laetari, ex quo fit, ut alieno malo gaudeat; quod quoniam non cadit in sapientem, ne ut irascatur quidem cadit. Sin autem caderet in sapientem aegritudo, caderet etiam iracundia, qua quoniam vacat, aegritudine etiam vacabit. 20. Etenim si sapiens in aegritudinem incidere posset, posset etiam in misericordiam, posset in invidentiam. 21. Nam qui dolet rebus alicuius adversis, idem alicuius etiam secundis dolet, ut Theophrastus interitum deplorans Callisthenis, sodalis sui, rebus Alexandri prosperis angitur, itaque dicit Callisthenem incidisse in hominem summa potentia summaque fortuna, sed ignarum, quem ad modum rebus secundis uti conveniret. Atqui quem ad modum misericordia aegritudo est ex alterius rebus adversi s , sic invidentia aegritudo est ex alterius rebus secundi s. In quem igitur cadit misereri, in eundem etiam invidere; non cadit autem invidere in sapientem; ergo ne misereri quidem. Quodsi aegre ferre sapiens soleret, misereri etiam soleret. Abest ergo a sapiente aegritudo.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: hje-aa`.

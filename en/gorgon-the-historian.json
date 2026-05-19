@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cdk",
+  "auth_slug": "gorgon-the-historian",
+  "name": {
+    "english": "Gorgon the Historian",
+    "ancient_greek": "Γοργών ὁ ἱστορικός"
+  },
+  "seo_h1": "Gorgon the Historian on Rhodian Sacrifices",
+  "seo": {
+    "browser_title": "Gorgon the Historian on Eulogikon Greek Archive Library",
+    "meta_title": "Gorgon the Historian Ancient Greek Historical Works",
+    "meta_description": "Gorgon the Historian, a 4th to 3rd century BCE Greek historian. Lists his surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Gorgon the Historian was active in the 4th–3rd centuries BCE. No details of his life, including his origins or education, are recorded. He is credited with a single prose work in Koine Greek, but its title, subject, and current status are unknown. Gorgon remains an obscure figure with no documented influence on the subsequent historiographical tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cdk-aa",
+      "title": {
+        "english": "On Rhodian Sacrifices",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "gorgon-the-historian-rhodian-sacrifices-cdk-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/gorgon-the-historian/rhodian-sacrifices",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gorgon-the-historian/rhodian-sacrifices.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/gorgon-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gorgon-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gorgon-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gorgon-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/gorgon-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,155 @@
+---
+title: Fragments on Language and Poetry
+title_greek: Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης
+author: Cratinus the Comic Poet
+eul_wid: czs-ac
+eul_aid: czs
+canonical: "https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry"
+period: Classical
+dialect: "Attic (com, frg)"
+domain: Comedy
+format: Verse
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Fragments on Language and Poetry
+
+*Ἀποσπάσματα περὶ Γλώσσης καὶ Ποίησης*
+
+**Author:** Cratinus the Comic Poet
+
+**eul_wid:** `czs-ac` · [HTML page](https://eulogikon.org/grc/cratinus-the-comic-poet/language-poetry)
+
+## Text
+
+### book 1
+
+ἄκομψον καὶ φαῦλον.
+
+### book 2
+
+–⏑⏑ εἶτ’ ἀμφιετηριζομέναιc ὥραιc τε καὶ χρόνῳ μακρῷ.
+
+### book 3.1
+
+εὐθὺc γὰρ ᾑμῴδειc ἀκούων τῶν ἐπῶν
+
+### book 3.2
+
+τοὺc προcθίουc ὀδόνταc.
+
+### book 4
+
+νικῷ μὲν ὁ τῇδε πόλει λέγων τὸ λῷcτον.
+
+### book 5
+
+ἀμπαλίνωροc.
+
+### book 6
+
+παλινῳδικοὶ ὕμνοι.
+
+### book 7
+
+καὶ πάντ’ ἀναρροφεῖ[ln_a]. . . . . . . . .[ln_b1]ταῦτ’ εὐθὺc ὑποκαθήμενοι[ln_b2]ἀναρροφοῦcιν ἄνδρεc.
+
+### book 8
+
+Μυρτῷον πέλαγοc.
+
+### book 9
+
+λυχνοκαυ(c)τεῖν.
+
+### book 10
+
+βούλει μονῳδήcωμεν αὐτοῖc ἕν γέ τι;[ln_a]. . . . . . . . . . . . .[ln_b]οὐκ ἂν μονῳδήcειεν ἐκπεπληγμένοc.
+
+### book 11
+
+ἀναγωγή.
+
+### book 12
+
+ἀνεκάc.
+
+### book 13
+
+ἀνεφθάρη.
+
+### book 14
+
+ἀντίδοcιc.
+
+### book 15
+
+αὐτόνομοι.
+
+### book 16
+
+λαγοὺc (l. λαγὼc)
+
+### book 17.1
+
+πατρικὸc ὢν ξένοc τάδε
+
+### book 17.2
+
+πυνθάνομαί cου.
+
+### book 18
+
+ἄγουcιν ἑορτὴν οἱ κλέπται.
+
+### book 19
+
+ὥcτε δίκαc τ’ ἀδίκουc νικᾶν ἐπὶ κέρδεcιν αἰcχροῖc.
+
+### book 20
+
+γλῶττάν τέ cοι δίδωcιν ἐν δήμῳ φορεῖν καλῶν λόγων ἀείνων, ᾗ πάντα κινήcειc λέγων.
+
+### book 21
+
+ἀκοῦcαι ὀργῶ.
+
+### book 22
+
+ἄκοc περίαπτον.
+
+### book 23.1
+
+ἄμαχον
+
+### book 23.2
+
+πνῖγοc.
+
+### book 24
+
+ἀναιδὲc καὶ θραcὺ βλέπειν.
+
+### book 25
+
+ἐκcκυζᾶν.
+
+### book 26
+
+ἀνημέρωτοc γῆ.
+
+### book 27
+
+ἄνθρωποc φιλοπραγματίαc.
+
+### book 28
+
+ἀνομίαν.
+
+### book 29
+
+⏑–⏑ τὸν θεὸν δ’ ἐμοῦ κλύων cέβε, ὡc ὄντα –⏒ μάντιν ἀψευδέcτατον.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: czs-ac`.

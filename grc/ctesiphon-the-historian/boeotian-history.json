@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "clm-aa",
+  "eul_aid": "clm",
+  "author_slug": "ctesiphon-the-historian",
+  "work_slug": "boeotian-history",
+  "url_slug": "ctesiphon-the-historian-boeotian-history-clm-aa",
+  "author": {
+    "english": "Ctesiphon Historicus",
+    "ancient_greek": "Κτησιφῶν ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Boeotian History",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βοιωτικῆς Ἱστορίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Ctesiphon Historicus on Boeotia on Eulogikon",
+    "meta_title": "Fragments of Ctesiphon Historicus in Ancient Greek",
+    "meta_description": "Fragments on Boeotian history by Ctesiphon Historicus. Source for ancient Greek historiography. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Boeotian History</strong> is a lost local history of Boeotia attributed to Ctesiphon Historicus. The work is known only by its title and a small number of surviving fragments, preserved not through direct manuscript tradition but as quotations embedded within the texts of later ancient and Byzantine authors. This indirect transmission leaves the original scope, structure, and full content of the history largely a matter of scholarly conjecture. Based on the conventions of Greek local historiography, the work likely contained regional mythology and foundation stories for Boeotian cities, descriptions of local customs, institutions, and religious cults, historical narratives concerning wars and political affairs within the region, and geographical details of the landscape and its sanctuaries. The extant fragments, scattered in citations by later lexicographers, scholiasts, and historians, are collected in modern reference works dedicated to fragmentary historians. Ctesiphon’s compilation served as a specialized source of local knowledge for later compilers. For modern scholarship, these fragments are of primary value to specialists in Boeotian regional history or the study of fragmentary Greek historiography, offering minor but tangible evidence for reconstructing aspects of the region’s past.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΒΟΙΩΤΙΑΚΑ. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Plutarchus Par. min. c. 12: Ἐπαμινώνδα ς , ὁ τῶν Θηβαίων στρατηγὸς, ἔχων πρὸς Λακεδαιμονίους πόλεμον, καὶ ἀρχαιρεσιῶν ἀγομένων, ἧκεν ἐς πατρίδα, παραγγείλας τῷ παιδὶ Στησιμβρότῳ μὴ συμβάλλειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Λακεδαιμόνιοι, μαθόντες τὴν ἀπουσίαν, ἐβλασφήμουν τὸν νεανίαν ὡς ἄνανδρον· ὁ δ’ ἀγανακτήσας καὶ ἐπιλαθόμενος τοῦ πατρὸς, συνέβαλε καὶ ἐνίκησεν· ὁ δὲ πατὴρ βαρέως ἐνέγκας, στεφανώσας ἐτραχηλοκόπησεν, ὡς Κτησιφῶν ἱστορεῖ ἐν τρίτῳ Βοιωτιακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t2",
+      "text": "ΠΕΡΣΙΚΑ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Plutarch. De fluv. 23, 1: Ἀράξης ποταμός ἐστι τῆς Ἀρμενίας, τὴν προσηγορίαν εἰληφὼς ἀπ’ Ἀράξου τοῦ Πύλου· οὗτος γὰρ πρὸς Ἄρβηλον τὸν πάππον ὑπὲρ σκήπτρων ἁμιλλώμενος, αὐτὸν κατετόξευσε· ποινηλα τούμενος δὲ ὑπ’ Ἐριννύων, ἑαυτὸν ἔρριψεν εἰς ποταμὸν Βάκτρον· ὃς ἀπ’ αὐτοῦ Ἀράξης μετωνομάσθη, καθὼς ἱστορεῖ Κτησιφῶν ἐν αʹ Περσικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t3a-3b",
+      "text": "ΠΕΡΙ ΔΕΝΔΡΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a",
+      "text": "Idem ib. c. 18, 11: Φύεται δ’ ἐν αὐτῷ (sc. ἐν τῷ Κοκκυγίῳ ὄρει) δένδρον, Παλίουρος καλούμενον· ἐφ’ ᾧ ἄν τι καθίσῃ τῶν ἀλόγων ζῴων, ὡς ὑπ’ ἰξοῦ κατέχεται, πάρεξ κόκκυγος· τούτου γὰρ φείδεται· καθὼς Κτησιφῶν ἐν αʹ Περὶ δένδρων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3b",
+      "text": "Idem ib. 23, 5: Γεννᾶται δ’ ἐν αὐτῷ (ἐν Ἀράξῃ) δένδρον, ῥοιᾷ παραπλήσιον, καρπὸν δ’ ἄφθονον τρέφει μήλων, τὴν γεῦσιν ἔχοντα σταφυλῇ παρόμοιον. Ἐκ ταύτης τῆς ὀπώρας πέπειρον ἐάν τις καθελὼν ὀνομάσῃ τὸν Ἄρη, γίνεται κρατούμενος χλωρός· καθὼς ἱστορεῖ Κτησιφῶν ἐν ιγʹ Περὶ δένδρων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mnu-aa",
+      "title": {
+        "english": "Fragments on History",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱστορίας"
+      },
+      "url_slug": "metrodorus-of-scepsis-history-mnu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrodorus-of-scepsis/history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-scepsis/history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-scepsis/history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-scepsis/history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrodorus-of-scepsis/history.json"
+      }
+    },
+    {
+      "eul_wid": "bli-ac",
+      "title": {
+        "english": "Geographical Fragments on Europe",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Εὐρώπης"
+      },
+      "url_slug": "hecataeus-of-miletus-geographical-europe-bli-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/geographical-europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/geographical-europe.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/geographical-europe.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/geographical-europe.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/geographical-europe.json"
+      }
+    },
+    {
+      "eul_wid": "rqm-ae",
+      "title": {
+        "english": "Geometric Fragments on Circles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύκλων Γεωμετρικά"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-geometric-circles-rqm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/geometric-circles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/geometric-circles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/geometric-circles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/geometric-circles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/geometric-circles.json"
+      }
+    },
+    {
+      "eul_wid": "iam-aa",
+      "title": {
+        "english": "Historical Fragments on Miletus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου"
+      },
+      "url_slug": "maeandrius-of-miletus-historical-fragments-iam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "moe-aa",
+      "title": {
+        "english": "Historical Fragments on Parthia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρθίας"
+      },
+      "url_slug": "apollodorus-of-artemita-historical-parthia-moe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-artemita/historical-parthia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.json"
+      }
+    },
+    {
+      "eul_wid": "luo-aa",
+      "title": {
+        "english": "Historical Memoirs Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-viii-euergetes-historical-fragments-luo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-an",
+      "title": {
+        "english": "Oxyrhynchus Chronicle",
+        "ancient_greek": "Ὀξυρρύγχιος Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/oxyrhynchus-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-aa",
+      "title": {
+        "english": "Remains of the Second Book-Ancient Orators",
+        "ancient_greek": "Λείψανα Βιβλίου Δευτέρου περὶ ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-second-book-orators-ndy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/second-book-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/second-book-orators.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/second-book-orators.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/second-book-orators.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/second-book-orators.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ctesiphon-the-historian/boeotian-history",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

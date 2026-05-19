@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lou",
+  "auth_slug": "aristonous-of-corinth",
+  "name": {
+    "english": "Aristonous of Corinth",
+    "ancient_greek": "Ἀριστόνους ὁ Κορίνθιος"
+  },
+  "seo_h1": "Aristonous of Corinth and the Paean to Apollo",
+  "seo": {
+    "browser_title": "Aristonous of Corinth on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Aristonous of Corinth Ancient Greek Poetry Works",
+    "meta_description": "Aristonous of Corinth, a Hellenistic poet writing in literary Doric. Two surviving poetic works from 3rd century BCE. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς λογοτεχνική",
+      "english": "Literary Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristonous of Corinth was a Hellenistic poet of the 3rd century BCE. He is known exclusively from two surviving cult hymns preserved as inscriptions at Delphi. No biographical details of his life are recorded beyond his ethnic designation and this epigraphic evidence.</p>\n<p class=\"research-text\">His two extant works are paeans composed in literary Doric verse: a Hymn to Hestia and a Hymn to Apollo. Both texts survive inscribed on stone. Aristonous is significant as a representative composer of ritual poetry for public performance in the Hellenistic period. His hymns provide valuable evidence for the continuation of traditional choral lyric conventions, musical notation, and religious practice at major sanctuaries like Delphi. They contribute to our understanding of the sacred economy and performance culture of the era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "lou-ab",
+      "title": {
+        "english": "Hymn to Vesta",
+        "ancient_greek": "Ὕμνος πρὸς Ἑστίαν"
+      },
+      "url_slug": "aristonous-of-corinth-hymn-vesta-lou-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonous-of-corinth/hymn-vesta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/hymn-vesta.json"
+      }
+    },
+    {
+      "eul_wid": "lou-aa",
+      "title": {
+        "english": "Paean to Apollo",
+        "ancient_greek": "Παιὰν πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "aristonous-of-corinth-paean-lou-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristonous-of-corinth/paean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristonous-of-corinth/paean.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristonous-of-corinth",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonous-of-corinth.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonous-of-corinth.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonous-of-corinth.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristonous-of-corinth.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tuq-aa",
+  "eul_aid": "tuq",
+  "author_slug": "aristotle-lives",
+  "work_slug": "marcian",
+  "url_slug": "aristotle-lives-marcian-tuq-aa",
+  "author": {
+    "english": "Aristotle Lives",
+    "ancient_greek": "Ἀριστοτέλους Βίοι"
+  },
+  "title": {
+    "english": "Life of Marcian",
+    "ancient_greek": "Βίος Μαρκιανοῦ"
+  },
+  "seo": {
+    "browser_title": "Ancient Life of Marcian by Aristotle Lives on Eulogikon",
+    "meta_title": "Life of Marcian by Aristotle Lives in Ancient Greek",
+    "meta_description": "This biographical account chronicles the life of Marcian in ancient Greek prose, offering insights into a Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Life of Marcian is a brief prose biography of the Eastern Roman emperor Marcian, who reigned from 450 to 457 CE. It constitutes a single entry within a larger pseudepigraphical collection commonly known as the Aristotle Lives or the Lives of the Emperors, a work spuriously attributed to the philosopher Aristotle. Composed in the late antique or Byzantine period, the text offers a concise account of Marcian’s rule, organized into twenty-two sections. Its narrative focuses on conventional portrayals of the emperor’s character and virtues, while also touching upon key military, political, and religious events of his reign. The historical reliability of the biography is limited, owing to its late compilation and its place within a corpus of fictionalized imperial lives. The work survives exclusively in Greek as part of the manuscript tradition of the pseudo-Aristotelian collection, its transmission entirely dependent on that larger corpus. As a component of this spurious tradition, the Life of Marcian serves as a minor source for the study of late antique and Byzantine biographical writing. Its principal significance lies in demonstrating the enduring posthumous authority of Aristotle’s name and in exemplifying the standard conventions of imperial biography within the Byzantine literary world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΓΕΝΟΣ ΑΡΙΣΤΟΤΕΛΟΥΣ Ἀριστοτέλης ὁ φιλόσοφος πόλεως μὲν ἦν Σταγείρων, τὰ δὲ Στάγειρα πόλις Θρᾴκης πλησίον Ὀλύνθου καὶ Μεθώνης, υἱὸς δὲ Νικομάχου καὶ Φαιστίδος, ἀμφοῖν ἀπὸ Μαχάονος τοῦ Ἀσκληπιοῦ καταγομένων, ὡς δηλοῖ τὸ εἰς αὐτὸν ἐπίγραμμα· Φαιστίδος ἦν μητρὸς καὶ Νικομάχου γενετῆρος τῶν Ἀσκληπιαδῶν δῖος Ἀριστοτέλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "γέγονε δὲ αὐτῶν οὐ μόνον Ἀριστοτέλης ἀλλὰ καὶ Ἀρίμνηστος καὶ Ἀριμνήστη. ὁ δέ γε Νικόμαχος ἰατρὸς ἦν Ἀμύντου τοῦ Μακεδόνων βασιλέως τοῦ Φιλίππου πατρός, καὶ κατὰ μνήμην τοῦ οἰκείου πατρὸς Ἀριστοτέλης τὸν ἑαυτοῦ παῖδα Νικόμαχον προσηγόρευσεν, ᾧ καὶ τὰ Νικομάχεια Ἠθικὰ ἔγραψε. πατρόθεν ἄρα τῷ Ἀριστοτέλει καὶ ἐκ τῆς ἀνέκαθεν γενεᾶς ἡ περὶ φυσιολογίαν καὶ ἰατρικὴν ἕξις. ὀρφανὸς δὲ γενόμενος ἀνάγεται παρὰ Προξένῳ τῷ Ἀταρνεῖ, οὗ τῆς μνήμης καὶ τροφῆς μνημονεύων τὸν αὐτοῦ υἱὸν Νικάνορα ἔτρεψε καὶ ἐπαίδευσε καὶ υἱὸν ἐποιήσατο καὶ τελευτῶν ἐκέλευσεν ἐν διαθήκαις τὴν ἑαυτοῦ θυγατέρα Πυθιάδα γενομένην αὐτῷ ἀπὸ Πυθιάδος δοῦναι αὐτῷ πρὸς γάμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ἕως μὲν οὖν ἔτι νέος ἦν, τὴν τῶν ἐλευθέρων ἐπαιδεύετο παιδείαν, ὡς δηλοῖ τὰ γεγραμμένα αὐτῷ Ὁμηρικὰ ζητήματα καὶ ἡ τῆς Ἰλιάδος ἔκδοσις ἣν δέδωκε τῷ Ἀλεξάνδρῳ, καὶ ὁ Περὶ ποιητῶν διάλογος καὶ τὸ Περὶ ποιητικῆς σύγγραμμα καὶ αἱ Ῥητορικαὶ τέχναι καὶ τὰ Ἰατρικὰ προβλήματα καὶ τὰ Φυσικὰ προβλήματα ἐν ἑβδομήκοντα βιβλίοις ὄντα καὶ τὰ Ὀπτικὰ προβλήματα καὶ τὰ Μηχανικὰ προβλήματα καὶ τὰ γεγραμμένα αὐτῷ Δικαιώματα Ἑλληνίδων πόλεων ἐξ ὧν Φίλιππος τὰς φιλονεικίας τῶν Ἑλλήνων διέλυσεν, ὡς μεγαλορημονῆσαί ποτε καὶ εἰπεῖν, Ὥρισα γῆν Πέλοπος. γέγραπται δ’ αὐτῷ καὶ ἡ τῶν πολιτειῶν ἱστορία ὕστερον. Ἐτῶν δὲ γενόμενος ἑπτακαίδεκα τοῦ Πυθοῖ θεοῦ χρήσαντος αὐτῷ φιλοσοφεῖν Ἀθήνησι φοιτᾷ Σωκράτει καὶ συνῆν αὐτῷ τὸν μέχρι τελευτῆς αὐτοῦ χρόνον πλὴν ὀλίγον ὄντα· μετὰ δὲ τοῦτον φοιτᾷ Πλάτωνι καὶ συνῆν τούτῳ τὸν μέχρι τελευτῆς αὐτοῦ χρόνον εἰκοσαετῆ τυγχάνοντα, ὡς αὐτὸς ἐπιστέλλων Φιλίππῳ λέγει· καὶ οὕτω φιλοπόνως συνῆν Πλάτωνι ὡς τὴν οἰκίαν αὐτοῦ ἀναγνώστου οἰκίαν προσαγορευθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "θαμὰ γὰρ Πλάτων ἔλεγεν, Ἀπίωμεν εἰς τὴν τοῦ ἀναγνώστου οἰκίαν, καὶ ἀπόντος τῆς ἀκροάσεως ἀνεβόα· Ὁ Νοῦς ἄπεστι, κωφὸν τὸ ἀκροατήριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Ἐπέζησε δὲ Πλάτωνι ἔτη κγ , πῆ μὲν παιδεύων Φιλίππου παῖδα Ἀλέξανδρον, πῆ δὲ συμπεριιὼν αὐτῷ πολλὴν γῆν, πῆ δὲ συγγράφων, πῆ δὲ διδασκαλείου προεστώς. οὐκ ἄρα ἀντῳκοδόμησεν Ἀριστοτέλης Πλάτωνι τὸ Λύκειον, ὡς Ἀριστόξενος πρῶτος ἐσυκοφάντησε καὶ Ἀριστείδης ὕστερον ἠκολούθησεν, εἰ μέχρι τελευτῆς συνῆν Πλάτωνι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "καὶ ὅτι Πλάτων μὲν ἐτέχθη ἐπὶ Διοτίμου ἄρχοντος Ἀθήνησι καὶ βιοὺς ἔτη πβ μετήλλαξε τὸν βίον ἐπὶ Θεοφίλου· Ἀριστοτέλης δὲ τεχθεὶς ἐπὶ Διοτρέφους καὶ βιοὺς ἔτη ξγ τελευτᾷ ἐπὶ Φιλοκλέους, φοιτᾷ δὲ Πλάτωνι Ἀριστοτέλης ἐπὶ Ναυσιγένους καὶ ἀπὸ Θεοφίλου ἐφ’ οὗ τελευτᾷ Πλάτων ἕως Φιλοκλέους ἐφ’ οὗ τελευτᾷ Ἀριστοτέλης ἔτη κγ ἐπέζησε Πλάτωνι· οὐκ ἄρα οὖν, ὡς αὐτοὶ συκοφαντοῦντές φασιν, τεσσαρακοντούτης Ἀριστοτέλης φοιτᾷ Πλάτωνι ἐπὶ Εὐδόξου· τοῦ γὰρ Ἀριστοτέλους ξγ ἔτη βιώσαντος τρία ἔτη ἐστὶν ἀπὸ θανάτου Πλάτωνος ἀφῃρημένων τῶν κ ἐτῶν ἃ ἐσχόλασε Πλάτωνι· ἐν δὲ τοῖς τρισὶν ἔτεσιν οὐ μόνον οὐκ ἦν τοσαῦτα ἐκθέσθαι ἀλλ’ οὐδὲ ῥᾴδιον ἀναγνῶναι· οὕτω Φιλόχωρος ἱστόρησε· καὶ ὅτι οὐδὲ εἰκὸς ἦν Ἀριστοτέλη ξένον ὄντα τοῦτο δύνασθαι ποιεῖν κατὰ Πλάτωνος πολίτου τυγχάνοντος καὶ μέγα δυναμένου διὰ Χαβρίαν καὶ Τιμόθεον τοὺς Ἀθήνησι στρατηγήσαντας καὶ κατὰ γένος αὐτῷ προσήκοντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Μετὰ δὲ τὴν Πλάτωνος τελευτὴν Σπεύσιππος μὲν ὁ Πλάτωνος ἀδελφιδοῦς (ἐτύγχανε γὰρ υἱὸς ὢν Ποντόνης τῆς ἀδελφῆς Πλάτωνος) διαδέχεται τὴν σχολήν. Ἀριστοτέλης δὲ στέλλεται εἰς Μακεδονίαν μεταπεμφθεὶς ὑπὸ Φιλίππου ἐφ’ ᾧ τὸν υἱὸν αὐτοῦ παιδεῦσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Καὶ οὕτως ἦν τίμιος Φιλίππῳ καὶ Ὀλυμπιάδι ὡς ἀναθεῖναι αὐτῷ μεθ’ ἑαυτῶν ἀνδριάντα. ὁ δὲ φιλόσοφος μέγα μέρος ὢν τῆς βασιλείας, φιλοσοφίας ὀργάνῳ τῇ δυνάμει πρὸς εὐποιίαν ἐχρήσατο ἕνα τε ἕκαστον εὐεργετῶν καὶ πόλεις ὅλας καὶ πάντας ἅμα. ὅσα μὲν γὰρ ἕκαστον εὐηργέτησεν, αἱ γεγραμμέναι αὐτῷ κατὰ τοὺς βασιλέας περί τινων ἐπιστολαὶ δηλοῦσιν, ὅσα δὲ πόλεις ὅλας, τὰ Στάγειρα δηλοῖ καὶ Ἐρεσσὸς ἡ Θεοφράστου καὶ Φανίου τῶν αὐτοῦ μαθητῶν πατρίς· τήν τε γὰρ ἑαυτοῦ πατρίδα Στάγειρα κατασκαφεῖσαν ὑπὸ Φιλίππου πείθει τὸν Ἀλέξανδρον δεύτερον κτίσαι καὶ χώρας ἑτέρας αὐτῇ καταδιδόναι, ἀνθ’ ὧν οἱ Σταγειρῖται μῆνα προσηγόρευσαν Σταγειρίτην καὶ ἑορτὴν ἦγον Ἀριστοτέλεια· καὶ ἐν Χαλκίδι τελευτήσαντος μετεπέμψαντο τὸ σῶμα καὶ βωμὸν ἐπέστησαν τῷ τάφῳ καὶ Ἀριστοτέλειον τὸν τόπον ἐκάλεσαν καὶ ἐκεὶ τὴν βουλὴν ἤθροιζον· καὶ Ἐρεσσὸν μέλλουσαν ὑπὸ Φιλίππου πολιορκηθῆναι ἔπεισεν ἀφεθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "πολλὰ δὲ καὶ Ἀθηναίους εὐηργέτησεν ἐν τοῖς κατὰ Φίλιππον γράμμασιν, ὡς Ἀθηναίους ἐν τῇ ἀκροπόλει ἀνδριάντα αὐτῷ ἀναθεῖναι. ἵνα δὲ καὶ πάντας ἀνθρώπους εὐεργετήσῃ, γράφει τῷ Ἀλεξάνδρῳ βιβλίον Περὶ βασιλείας διδάσκων ὅπως βασιλευτέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "(f. 276 b) ὅπερ οὕτως ἔδρασε εἰς τὴν Ἀλεξάνδρου ψυχὴν ὡς λέγειν ὅτε μὴ ὠφέλησέ τινα· Σήμερον οὐκ ἐβασίλευσα, οὐδένα γὰρ εὖ ἐποίησα. ὅπερ ἴσον ἐστὶ τῷ ἐπιχωρίως λεγομένῳ ἐπὶ τῶν ἐπ’ ὀλίγον ἀρρωστούντων, τουτέστιν ἐφήμερον νόσον, Παρὰ μίαν· διὰ γὰρ τὸ μὴ ποιῆσαι τὴν ἡμέραν ἐκείνην τὰς ὑγιαινόντων ἐνεργείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Ἀκμάσαντι δὲ Ἀλεξάνδρῳ καὶ ἐπιστρατεύσαντι κατὰ Περσῶν συνεξῆλθεν οὐδὲ τότε τοῦ φιλοσοφεῖν ἀποσχόμενος. τὴν γὰρ ἱστορίαν τῶν 〈 ςν 〉 πολιτειῶν τότε συνέλεξε. καὶ μέλλοντι συμβάλλειν τῷ Περσικῷ πολέμῳ οὐκ ἔφη τὰ ἱερεῖα τὰ αἴσια γενέσθαι. ὁ δέ γε μὴ πεισθεὶς συνέβαλε καὶ ἐτελεύτησεν. καὶ οὐχ ἧττον δὲ τῶν φθασάντων βασιλέων, Ἀμύντου Φιλίππου Ὀλυμπιάδος Ἀλεξάνδρου, Ἀντίπατρος ὁ διαδεξάμενος τὴν Ἀλεξάνδρου βασιλείαν διὰ τιμῆς εἶχε τὸν Ἀριστοτέλη. Τοῦ δὲ Σπευσίππου τελευτήσαντος οἱ ἀπὸ τῆς σχολῆς μεταπέμπονται τὸν Ἀριστοτέλη· καὶ διαδέχονται αὐτὴν αὐτός τε καὶ Ξενοκράτης σωφρονέστατα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "καὶ Ἀριστοτέλης μὲν ἐν Λυκείῳ, Ξενοκράτης δὲ ἐν Ἀκαδημίᾳ, ἔνθα καὶ Πλάτων, ἐπαίδευσεν. οὐ γὰρ ὡς Ἀριστόξενος καὶ Ἀριστείδης ἱστόρησαν, Πλάτωνος ζῶντος καὶ ἐν Ἀκαδημίᾳ παιδεύοντος ἀντῳκοδόμησεν ὁ Ἀριστοτέλης τὸ Λύκειον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "εἴπερ γάρ τις ἄλλος φαίνεται ὁ Ἀριστοτέλης καταπλαγεὶς Πλάτωνα· ἐπιγράφει γὰρ εἰς αὐτόν· βωμὸν Ἀριστοτέλης ἱδρύσατο τόνδε Πλάτωνι· καὶ ἀλλαχοῦ περὶ αὐτοῦ φησιν· ἀνδρὸς ὃν οὐδ’ αἰνεῖν τοῖσι κακοῖσι θέμις. καὶ φαίνεται ἐν ταῖς ἐπιστολαῖς θαυμάζων Πλάτωνα καὶ συνιστὰς τοῖς βασιλεῦσι τοὺς Πλάτωνι κατὰ γένος κοινωνοῦντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "ἤδη δὲ καὶ ἐν οἷς ἀντιλέγει Πλάτωνι πλατωνίζειν αὐτὸν φήσομεν. Πλάτων γάρ ἐστιν ὁ λέγων Σωκράτους μὲν ὀλίγον φροντίζειν, τῆς δ’ ἀληθείας πολύ· καὶ Ἔγωγε οὐδενὶ ἄλλῳ πρόθυμός εἰμι πείθεσθαι ἢ τῷ λόγῳ ὃς ἄν μοι λογιζομένῳ βέλτιστος καταφαίνηται· καὶ Εἰ μὴ σὺ σαυτοῦ λέγοντος ἀκούῃς, ἄλλου λέγοντος μὴ πιστεύσῃς. ἴσως δ’ οὐδὲ πρὸς τὰ δοκοῦντα Πλάτωνι μάχεται, ἀλλὰ πρὸς τοὺς κακῶς αὐτὰ ἐκλαβόντας, ὡς καὶ τὸ ἀγένητον τοῦ οὐρανοῦ ἐν τῇ Περὶ τοῦ οὐρανοῦ· τινὲς γὰρ κατὰ χρόνον αὐτὸ ἤκουσαν καὶ οὐ κατ’ αἰτίαν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "καὶ τὰς ἰδέας ἐν τοῖς Μετὰ τὰ φυσικά· τινὲς γὰρ ἔξω τοῦ νοῦ αὐτὰς ὑπέθεντο καὶ ἄλλοι ἀίδια αἰσθητὰ ὑπέλαβον αὐτάς, οἷον ἄνθρωπον ἀθάνατον ἢ ἵππον. Ὅτι γὰρ οὐ βούλεται αὐτὰς παντάπασι μὴ εἶναι, δηλοῖ ἐν τοῖς Ἠθικοῖς λέγων διττὴν εἶναι τὴν τάξιν, τὴν μὲν ἐν τῷ στρατηγῷ, τὴν δ’ ἐν τῷ στρατοπέδῳ, καὶ αἰτίαν τὴν ἑτέραν τῆς ἑτέρας· καὶ ἐν τοῖς Περὶ ψυχῆς τὸν κατ’ ἐνέργειαν νοῦν εἶναι τὰ πράγματα. Καὶ μάλα δ’ ὁ Ἀριστοτέλης τὸ ἦθος μέτριος γέγονεν, εἰ ἐν μὲν τοῖς Κατηγορίαις φησὶ μὴ δεῖν προχείρως ἀποφαίνεσθαι ἀλλὰ πολλάκις ἐπεσκεμμένον, καὶ μὴν οὐδὲ διαπορεῖν μόνον ἄχρηστον εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "καὶ ἐν τοῖς Περὶ τοῦ ἀγαθοῦ· Δεῖ μεμνῆσθαι ἄνθρωπον ὄντα οὐ μόνον τὸν εὐτυχοῦντα ἀλλὰ καὶ τὸν ἀποδεικνύντα. Καὶ ἐν τοῖς Ἠθικοῖς Νικομαχείοις· Φίλος μὲν ὁ ἀνήρ, φίλη δ’ ἡ ἀλήθεια· ἀμφοῖν δὲ φίλοιν ὄντοιν, ὅσιον προτιμᾶν τὴν ἀλήθειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "καὶ ἐν τοῖς Μετεώροις· Ὧν τὰ μὲν ἀποροῦμεν, τῶν δ’ ἐφαπτόμεθά τινα τρόπον· καὶ ἐν τοῖς αὐτοῖς· Οὐχ ἅπαξ οὐδὲ δὶς ἀλλ’ ἀπειράκις τὰς αὐτὰς γενέσθαι τοῖς ἀνθρώποις δόξας, ἵνα μὴ μέγα φρονῶμεν ἐφ’ οἷς εὑρίσκειν δοκοῦμεν. Καὶ τοιοῦτος μὲν ὁ φιλόσοφος· προσέθηκε δὲ τῇ φιλοσοφίᾳ πλείω ὧν παρ’ αὐτῆς ἀνελέξατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "τῇ γὰρ Ἠθικῇ τὸ τὴν εὐδαιμονίαν μήτε ἐν τοῖς ἐκτὸς ἀποτίθεσθαι, ὡς ὁ πολὺς ἄνθρωπος, μήτε ἐν τῇ ψυχῇ μόνον, ὡς ὁ Πλάτων, ἀλλ’ ἔχειν μὲν τὸ κῦρος ἐν ψυχῇ, ῥυπαίνεσθαι δὲ καὶ θλίβεσθαι μόνον αὐτὴν ὑπὸ τῶν ἐκτὸς μὴ εὖ ἐχόντων, οἰκείως ταῖς λέξεσι χρησάμενος. Καὶ γὰρ τὰ ῥυπούμενα ἔνδον αὐτὸ τὸ κάλλος ἔχει, κρύπτεται δὲ κατὰ μόνην τὴν ἐπιφάνειαν, καὶ τὰ θλιβόμενα τὸ αὐτὸ μέγεθος ἔχοντα κατ’ ἀλήθειαν, ἐλάττω φαίνεται μόνον. τῇ δὲ φυσιολογίᾳ προσέθηκε τὴν πέμπτην οὐσίαν καὶ τὸ κατ’ εἰσδοχὴν ὁρᾶν· τῇ δὲ μαθηματικῇ τὸ ὀξυγώνιον εἶναι τὸν κῶνον τῶν ὄψεων διὰ τὸ ἐπὶ πλέον προιέναι τὴν ὄψιν οὗ ὁρᾷ μεγέθους· καὶ κατὰ τοῦτο γὰρ οὐδὲν τῶν ὁρωμένων ὅλον ἅμα ὁρᾶται, καὶ ταύτῃ μείζονα γίνεσθαι τὸν ἄξονα τῆς ἐκ τούτου τῆς βάσεως καὶ ὀξυγώνιον τὸν κῶνον ἀποτελεῖσθαι· τῇ δὲ θεολογίᾳ τὸ μὴ τὰ πάντα ἐγκόσμια εἶναι, ὡς τὸ εἰκός, ἀλλ’ εἶναί τι καὶ ὑπερκόσμιον· ἐν γὰρ τῷ πέμπτῳ τῆς φυσιολογικῆς τὸ πρῶτον μηδὲ κατὰ συμβεβηκός φησι κινεῖσθαι, τοῦ ἐγκοσμίου διὰ τὸ ᾧ συντέτακται κατὰ συμβεβηκὸς κινουμένου· καὶ ἐν τῷ ὀγδόῳ τῆς Φυσικῆς τὸ πρώτως κινοῦν ἀκίνητον εἶναι βούλεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "αὐτοῦ δ’ εὕρημά ἐστιν ἡ λογικὴ τὰς συλλογιστικὰς μεθόδους τῶν πραγμάτων ἀποχωρίσαντος. Ἐπαναστάντων δ’ αὐτῷ τῶν Ἀθηναίων ὑπεχώρησεν εἰς Χαλκίδα, τοσοῦτον ὑπειπὼν ὡς· Οὐ συγχωρήσω Ἀθηναίοις δὶς ἁμαρτεῖν εἰς φιλοσοφίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "ἐπεὶ δὲ τὰ αὐτὰ καθήκοντα οὐκ ἦν πολίτῃ καὶ ξένῳ περὶ τὴν τῶν Ἀθηναίων πόλιν, ἐπιστέλλων Ἀντιπάτρῳ γράφει· Τὸ Ἀθήνησι διατρίβειν ἐργῶδες· ὄγχνη γὰρ ἐπ’ ὄγχνῃ γηράσκει, σῦκον δ’ ἐπὶ σύκῳ· τὴν διαδοχὴν τῶν συκοφαντούντων αἰνιττόμενος. Καὶ τελευτᾷ ἐκεῖσε διαθήκην ἔγγραφον καταλιπών, ἣ φέρεται παρά τε Ἀνδρονίκῳ καὶ Πτολεμαίῳ μετὰ τῶν πινάκων τῶν αὐτοῦ συγγραμμάτων, ἐπὶ παισὶ μὲν Νικομάχῳ καὶ Πυθιάδι, γνησίοις δὲ μαθηταῖς Θεοφράστῳ Φανίᾳ Εὐδήμῳ Κλυτῷ Ἀριστοξένῳ Δικαιάρχῳ· συντάγμασι δὲ χιλίοις τὸν ἀριθμόν, πολλὰ μὲν δυνάμενος παρὰ τοῖς τότε βασιλεῦσι Φιλίππῳ Ὀλυμπιάδι Ἀλεξάνδρῳ Ἀντιπάτρῳ, τῇ δὲ δυνάμει ὀργάνῳ φιλοσοφίας χρησάμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "Ἴδιον δὲ τῆς Ἀριστοτέλους φιλοσοφίας τὸ μὴ ἀφίστασθαι τῶν ἐναργῶν· μετὰ γὰρ τὰς ἀποδείξεις καὶ τοὺς πολλοὺς μαρτύρεται· καὶ ἐν τοῖς Περὶ οὐρανοῦ τοὺς πλανήτας ἀνωμάλως κινεῖσθαι λέγει διὰ τὴν ἐνάργειαν, τῶν καλουμένων σφαιρῶν τῶν ἀνελιττουσῶν τὴν ὁμαλὴν κίνησιν σῳζουσῶν· καὶ ἐν ταῖς Κατηγορίαις κατασκευάζει τὰς ἀτόμους οὐσίας καὶ προτάττει τῶν καθόλου διὰ μόνην τὴν ἐνάργειαν: καὶ γὰρ ὅτι τὰ καθόλου οὐκ ἔστιν, καὶ ἐν τοῖς Περὶ ψυχῆς φησί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "τὸ γὰρ ζῷον τὸ καθόλου ἤτοι οὐδέν ἐστιν ἢ ὕστερον· ἀσαφὲς γὰρ τὸ ἐν τοῖς πολλοῖς καθόλου· διὸ καὶ καταναγκάζει πάντας ἐκ τῆς ἐναργείας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tuq-ab",
+      "title": {
+        "english": "Common Life",
+        "ancient_greek": "Κοινὸς Βίος"
+      },
+      "url_slug": "aristotle-lives-common-life-tuq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle-lives/common-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/common-life.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "iru-af",
+      "title": {
+        "english": "Excerpt from Preface-Phenomena",
+        "ancient_greek": "Ἐκλογὴ ἐκ τῆς Προοιμίου Περὶ Φαινομένων"
+      },
+      "url_slug": "aratus-lives-preface-phenomena-iru-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/preface-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/preface-phenomena.json"
+      }
+    },
+    {
+      "eul_wid": "jho-ah",
+      "title": {
+        "english": "Fourth Life",
+        "ancient_greek": "Τέταρτος Βίος"
+      },
+      "url_slug": "homer-life-anonymous-fourth-life-jho-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-life-anonymous/fourth-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fourth-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fourth-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fourth-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-life-anonymous/fourth-life.json"
+      }
+    },
+    {
+      "eul_wid": "iru-ah",
+      "title": {
+        "english": "Introduction to Aratus",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὸν Ἄρατον"
+      },
+      "url_slug": "aratus-lives-introduction-ah-iru-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/introduction-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/introduction-ah.json"
+      }
+    },
+    {
+      "eul_wid": "iru-aj",
+      "title": {
+        "english": "Life of Aratus",
+        "ancient_greek": "Βίος Ἀράτου"
+      },
+      "url_slug": "aratus-lives-life-aj-iru-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/life-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/life-aj.json"
+      }
+    },
+    {
+      "eul_wid": "vbs-aa",
+      "title": {
+        "english": "Life of John the Hesychast",
+        "ancient_greek": "Βίος Ἰωάννου τοῦ Ἡσυχαστοῦ"
+      },
+      "url_slug": "cyril-of-scythopolis-john-hesychast-vbs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cyril-of-scythopolis/john-hesychast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cyril-of-scythopolis/john-hesychast.json"
+      }
+    },
+    {
+      "eul_wid": "rjo-aai",
+      "title": {
+        "english": "Lives and Opinions: Book IX (Atomists and Sceptics)",
+        "ancient_greek": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων, Θʹ"
+      },
+      "url_slug": "diogenes-of-laertia-lives-atomists-sceptics-rjo-aai",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-laertia/lives-atomists-sceptics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-laertia/lives-atomists-sceptics.json"
+      }
+    },
+    {
+      "eul_wid": "iru-ag",
+      "title": {
+        "english": "Prooemium to Aratus' Phenomena",
+        "ancient_greek": "Προοίμιον εἰς τὰ Φαινόμενα τοῦ Ἄρατου"
+      },
+      "url_slug": "aratus-lives-prooemium-phenomena-iru-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/prooemium-phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/prooemium-phenomena.json"
+      }
+    },
+    {
+      "eul_wid": "iru-an",
+      "title": {
+        "english": "Sphere",
+        "ancient_greek": "Σφαῖρα"
+      },
+      "url_slug": "aratus-lives-sphere-iru-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-lives/sphere",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-lives/sphere.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristotle-lives/marcian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-lives/marcian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

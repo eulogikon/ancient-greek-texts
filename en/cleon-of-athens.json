@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "doi",
+  "auth_slug": "cleon-of-athens",
+  "name": {
+    "english": "Cleon of Athens",
+    "ancient_greek": "Κλέων ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Cleon of Athens in Verse and Fragment",
+  "seo": {
+    "browser_title": "Cleon of Athens Attic Poet on Eulogikon Greek Archive",
+    "meta_title": "The Cleon of Athens Ancient Greek Poetry and Verse",
+    "meta_description": "Cleon of Athens was a 5th century BCE Attic poet. Surviving poetic works in verse form. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cleon was a prominent Athenian demagogue and political leader in the 5th century BCE. He rose to power following Pericles’ death in 429 BCE, advocating for an aggressive war policy against Sparta during the Peloponnesian War. Ancient sources, particularly Thucydides and Aristophanes, portray him as a vulgar and manipulative populist.</p>\n<p class=\"research-text\">His notable actions included arguing for the harsh punishment of Mytilene in 427 BCE and capturing Spartan hoplites at Sphacteria in 425 BCE. He was killed at the Battle of Amphipolis in 422 BCE. No poetic or literary works by Cleon are recorded in the historical sources. The available evidence references only his political speeches and military actions.</p>\n<p class=\"research-text\">Cleon represents a critical shift in Athenian democracy from aristocratic leadership to a more direct, populist rhetoric aimed at the citizen assembly. His career, and the hostile depictions by contemporary sources, established him as the archetypal demagogue in Western political thought. His death contributed to the conditions for the Peace of Nicias in 421 BCE.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "doi-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "cleon-of-athens-fragments-doi-aa",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/cleon-of-athens/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleon-of-athens/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleon-of-athens/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleon-of-athens/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleon-of-athens/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cleon-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleon-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleon-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleon-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cleon-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

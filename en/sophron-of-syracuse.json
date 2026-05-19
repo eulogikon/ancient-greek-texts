@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dru",
+  "auth_slug": "sophron-of-syracuse",
+  "name": {
+    "english": "Sophron of Syracuse",
+    "ancient_greek": "Σώφρων ὁ Συρακούσιος"
+  },
+  "seo_h1": "Sophron of Syracuse and the Mime Fragments of Daily Life",
+  "seo": {
+    "browser_title": "Sophron of Syracuse on Eulogikon Greek Archive and Library",
+    "meta_title": "Sophron of Syracuse Ancient Greek Mime Works and Fragments",
+    "meta_description": "Sophron of Syracuse, 5th century BCE writer of Doric mime. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sophron was a fifth-century BCE writer of mimes from Syracuse in Sicily, a contemporary of the tragedian Euripides. Little is known of his personal life, but he was the father of Xenarchus, who also wrote mimes. He composed his works in the local Doric dialect.</p>\n<p class=\"research-text\">His works survive only in fragments, primarily under the titles <strong>Mimes of Men</strong> and <strong>Mimes of Women</strong>. These were prose compositions, possibly rhythmic, depicting realistic scenes from daily life. Surviving fragments portray a range of characters and scenarios, such as a mother scolding her daughter or a fisherman boasting about his catch.</p>\n<p class=\"research-text\">Sophron is a significant pioneer of the literary mime genre. His realistic sketches were highly regarded in antiquity; Plato reportedly admired him and introduced his work to Athens. This admiration indicates Sophron&#x27;s influence on later comic and character-driven literature. His use of the Doric dialect and Sicilian setting provides valuable insight into the language and social milieu of fifth-century Syracuse.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "dru-ab",
+      "title": {
+        "english": "Fragments on Purification Rituals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Καθαρσίων"
+      },
+      "url_slug": "sophron-of-syracuse-purification-rituals-dru-ab",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophron-of-syracuse/purification-rituals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/purification-rituals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/purification-rituals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/purification-rituals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/purification-rituals.json"
+      }
+    },
+    {
+      "eul_wid": "dru-aa",
+      "title": {
+        "english": "Mime Fragments of Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "sophron-of-syracuse-mime-daily-life-dru-aa",
+      "passages": 163,
+      "links": {
+        "html": "https://eulogikon.org/grc/sophron-of-syracuse/mime-daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sophron-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophron-of-syracuse.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophron-of-syracuse.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophron-of-syracuse.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophron-of-syracuse.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

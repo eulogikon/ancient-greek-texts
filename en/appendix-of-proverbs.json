@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "psc",
+  "auth_slug": "appendix-of-proverbs",
+  "name": {
+    "english": "Appendix of Proverbs",
+    "ancient_greek": "Ἡ μαντίσσα τῶν παροιμιῶν"
+  },
+  "seo_h1": "Greek Wisdom in the Appendix of Proverbs",
+  "seo": {
+    "browser_title": "Appendix of Proverbs Author on Eulogikon Greek Archive",
+    "meta_title": "Appendix of Proverbs Ancient Greek Works Collection",
+    "meta_description": "The Mantissa of Proverbs is a Byzantine collection of wise sayings from the 5th to 10th centuries. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Mantissa of Proverbs is not the name of an author but the title of a Byzantine Greek collection of wise sayings. Compiled sometime between the 5th and 10th centuries CE, it belongs to a late Roman and Byzantine tradition of gathering proverbs. The word &quot;mantissa&quot; means a supplement or makeweight, indicating this collection was likely an appendix added to a larger existing work.</p>\n<p class=\"research-text\">The collection falls under the category of gnomological literature—anthologies of maxims and proverbs used for ethical instruction. According to modern scholars, such collections were important tools in Byzantine education, serving as sources of traditional wisdom and rhetorical examples. They show how classical thought and popular morality were preserved and transmitted over centuries.</p>\n<p class=\"research-text\">The very broad date range for the Mantissa suggests it was not a fixed book by a single author, but a fluid collection that was copied and modified over a long period. No specific compiler or author is known. The work survives only through references in manuscript traditions, and its exact contents and size are not detailed in available sources. Its significance lies in its role as a typical example of the supplemental texts that circulated in Byzantine scholarly and educational contexts.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "psc-aa",
+      "title": {
+        "english": "Appendix of Proverbs",
+        "ancient_greek": "Παροιμιῶν Παράρτημα"
+      },
+      "url_slug": "appendix-of-proverbs-text-psc-aa",
+      "passages": 149,
+      "links": {
+        "html": "https://eulogikon.org/grc/appendix-of-proverbs/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appendix-of-proverbs/text.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/appendix-of-proverbs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/appendix-of-proverbs.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/appendix-of-proverbs.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/appendix-of-proverbs.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/appendix-of-proverbs.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

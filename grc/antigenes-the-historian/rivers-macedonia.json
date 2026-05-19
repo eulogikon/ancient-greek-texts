@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lhm-aa",
+  "eul_aid": "lhm",
+  "author_slug": "antigenes-the-historian",
+  "work_slug": "rivers-macedonia",
+  "url_slug": "antigenes-the-historian-rivers-macedonia-lhm-aa",
+  "author": {
+    "english": "Antigenes the Historian",
+    "ancient_greek": "Ἀντιγένης"
+  },
+  "title": {
+    "english": "On the Rivers of Macedonia",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Rivers of Macedonia by Antigenes on Eulogikon",
+    "meta_title": "Ancient On the Rivers of Macedonia by Antigenes in Greek",
+    "meta_description": "A historical geography fragment describing the rivers of Macedonia by Antigenes the Historian. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On the Rivers of Macedonia_ is a lost historical-geographical prose text attributed to Antigenes the Historian. The title indicates a treatise on Macedonian hydrology, a work that would have described the rivers of that region, their courses, and any associated myths or historical details, placing it within the ancient sub-genre of literature known as &quot;On Rivers.&quot; No direct description of its content survives, but based on its title and the conventions of its genre, the work presumably addressed the physical geography of Macedonian rivers, etiological myths linked to specific waterways, historical events such as battles or the founding of cities connected to riverine locations, and perhaps ethnographical observations on neighboring peoples. The work is completely lost, surviving only as a title attributed to Antigenes in the tenth-century Byzantine encyclopedia known as the _Suda_. The author himself is otherwise unknown. While no direct influence is traceable, the work exemplifies the minor, specialized geographical literature that was often used as source material by later compilers such as Strabo or Pliny the Elder. Its specific focus on Macedonia reflects the broader systematization of knowledge about this historically significant region during the Hellenistic period or later antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3.(l1)",
+      "text": "HERODIANOS Καθολικὴ προσωιδία, Cod. Vindob. Hist. Gr. 10 fol. 25 r , 10f. ed. H. Hunger, Jahrb. Österr. Byz. Gesellsch. 16, 1967, 11.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.(l1)",
+      "text": "27: ... ‘Κα̣υ̣ν̣ὸσ‘ ποταμὸς Μακεδονίας· Ἀντιγένης Περὶ τῶν Μακε δονίων ποταμῶν α .",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rqm-ad",
+      "title": {
+        "english": "Astronomical Calculation Methods",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-astronomical-methods-rqm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/astronomical-methods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/astronomical-methods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/astronomical-methods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/astronomical-methods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/astronomical-methods.json"
+      }
+    },
+    {
+      "eul_wid": "kuk-aa",
+      "title": {
+        "english": "Fragments on Cretan Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κρητικῶν Ἐθῶν"
+      },
+      "url_slug": "sosicrates-of-rhodes-cretan-customs-kuk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosicrates-of-rhodes/cretan-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes/cretan-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes/cretan-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes/cretan-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosicrates-of-rhodes/cretan-customs.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.json"
+      }
+    },
+    {
+      "eul_wid": "mvw-aa",
+      "title": {
+        "english": "Geographical Fragments on Ethiopia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰθιοπίας"
+      },
+      "url_slug": "bion-of-phlossa-geographical-ethiopia-mvw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-phlossa/geographical-ethiopia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-phlossa/geographical-ethiopia.json"
+      }
+    },
+    {
+      "eul_wid": "nmu-aa",
+      "title": {
+        "english": "Historical Memoranda Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pamphila-of-epidaurus-historical-memoranda-nmu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pamphila-of-epidaurus/historical-memoranda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pamphila-of-epidaurus/historical-memoranda.json"
+      }
+    },
+    {
+      "eul_wid": "kri-aa",
+      "title": {
+        "english": "Histories Concerning Philopator",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-megalopolis-histories-philopator-kri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.json"
+      }
+    },
+    {
+      "eul_wid": "unc-aa",
+      "title": {
+        "english": "Speeches in Defense of the Wars",
+        "ancient_greek": "Ὑπὲρ τῶν Πολέμων Λόγοι"
+      },
+      "url_slug": "procopius-of-caesarea-defense-wars-unc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/procopius-of-caesarea/defense-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/defense-wars.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ae",
+      "title": {
+        "english": "Treatise-Women",
+        "ancient_greek": "Περὶ γυναικῶν"
+      },
+      "url_slug": "paradoxographer-anon-women-jre-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/antigenes-the-historian/rivers-macedonia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigenes-the-historian/rivers-macedonia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigenes-the-historian/rivers-macedonia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigenes-the-historian/rivers-macedonia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigenes-the-historian/rivers-macedonia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

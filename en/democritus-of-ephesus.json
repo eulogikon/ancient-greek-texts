@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lqs",
+  "auth_slug": "democritus-of-ephesus",
+  "name": {
+    "english": "Democritus of Ephesus",
+    "ancient_greek": "Δημόκριτος ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Democritus of Ephesus on the Temple at Ephesus",
+  "seo": {
+    "browser_title": "Democritus of Ephesus on Eulogikon Greek Text Archive",
+    "meta_title": "Democritus of Ephesus Ancient Greek Historical Works",
+    "meta_description": "Democritus of Ephesus, a Hellenistic historian of the 3rd century BCE. His surviving historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Democritus of Ephesus was a Hellenistic historian from Ephesus in Ionia, active during the 3rd century BCE. He is distinguished from the philosopher Democritus of Abdera. No substantive biographical details survive beyond his authorship of a local history.</p>\n<p class=\"research-text\">His sole known work is a local history of Ephesus, titled <strong>Persika</strong> or <strong>On Ephesus</strong>. The work is now lost, surviving only in fragments which indicate it treated the city’s foundation myths and early history. Democritus represents the Hellenistic tradition of local history, which articulated civic identity through origins and legends. His inclusion in ancient catalogs and citations by later grammarians, such as Athenaeus, confirm his place in the period’s scholarly landscape.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lqs-aa",
+      "title": {
+        "english": "On the Temple at Ephesus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "democritus-of-ephesus-temple-lqs-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/democritus-of-ephesus/temple",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/democritus-of-ephesus/temple.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/democritus-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-ephesus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-ephesus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-ephesus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/democritus-of-ephesus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

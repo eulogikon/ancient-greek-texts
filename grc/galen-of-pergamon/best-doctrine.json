@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qmm-dj",
+  "eul_aid": "qmm",
+  "author_slug": "galen-of-pergamon",
+  "work_slug": "best-doctrine",
+  "url_slug": "galen-of-pergamon-best-doctrine-qmm-dj",
+  "author": {
+    "english": "Galen of Pergamon",
+    "ancient_greek": "Γαληνὸς ὁ Περγαμηνός"
+  },
+  "title": {
+    "english": "On the Best Doctrine",
+    "ancient_greek": "Περὶ τῆς ἀρίστης διδασκαλίας"
+  },
+  "seo": {
+    "browser_title": "On the Best Doctrine by Galen of Pergamon on Eulogikon",
+    "meta_title": "The On the Best Doctrine by Galen in Ancient Greek",
+    "meta_description": "Galen examines the superior methods of medical instruction within the Academic philosophical tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Best Doctrine is a lost medical-philosophical treatise by Galen of Pergamon, known only through fragments preserved by later authors. The work was a polemical text advocating for a rationalist and dogmatic approach to medicine, which Galen identified with the Hippocratic tradition. It criticized rival sects, particularly the Empiricists and Methodists, and argued for a methodology combining logical deduction from first principles with empirical observation. The surviving fragments indicate the treatise addressed the epistemological foundations of medicine, including the criteria for truth and the proper roles of reason and experience. It also contained refutations of skeptical positions that denied the possibility of comprehending the causes of disease, and it emphasized the necessity of philosophical training, derived from Plato and Aristotle, for the competent physician.</p>\n<p class=\"research-text\">The text is preserved indirectly through quotations in later Greek, Arabic, and Latin sources, with the Byzantine compiler John Actuarius providing the most significant fragments in the 13th century. The treatise did not survive into the medieval canonical collections of Galen’s works. While the treatise itself is lost, its arguments are consistent with Galen’s major surviving works. His successful defense of this rationalist, teleological approach fundamentally shaped Western medical theory, marginalizing rival schools and establishing the Galenic paradigm as dominant in Byzantine, Arabic, and Latin traditions for over a millennium.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 t",
+      "text": "ΠΕΡΙ ΤΗΣ ΑΡΙΣΤΗΣ ΔΙΔΑΣΚΑΛΙΑΣ. Τὴν εἰς ἑκάτερα ἐπιχείρησιν ἀρίστην εἶναι διδασκαλίαν ὁ Φαβωρῖνός φησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 40",
+      "text": "Ὀνομάζουσι δ’ οὕτως οἱ Ἀκαδημαϊκοὶ καθ’ ἣν τοῖς ἀντικειμένοις συναγορεύουσιν. Οἱ μὲν οὖν παλαιότεροι τελευτᾶν αὐτὴν εἰς ἐποχὴν ὑπολαμβάνουσιν, ἐποχὴν καλοῦντες τὴν ὡς ἂν εἴποι τις ἀοριστίαν, ὅπερ ἐστὶ περὶ μηδενὸς πράγματος ὁρίσασθαι μηδ’ ἀποφήνασθαι βεβαίως. οἱ νεώτεροι δ’—οὐ γὰρ μόνος ὁ Φαβωρῖνος—ἐνίοτε μὲν εἰς τοσοῦτον προάγουσι τὴν ἐποχήν, ὡς μηδὲ τὸν ἥλιον ὁμολογεῖν εἶναι καταληπτόν, ἐνίοτε δ’ εἰς τοσοῦ‖τον τὴν κρίσιν, ὡς καὶ τοῖς μαθηταῖς ἐπιτρέπειν αὐτὴν ἄνευ τοῦ διδαχθῆναι πρότερον ἐπιστημονικὸν κριτήριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 41",
+      "text": "οὐδὲ γὰρ ἄλλο τί ἐστιν, ὃ Φαβωρῖνος εἴρηκεν ἐν τῷ ‘Περὶ τῆς Ἀκαδημαϊκῆς διαθέσεως‘, ὃ ‘Πλούταρχος‘ ἐπιγέγραπται. λέγει δὲ ταὐτὸν ἐν τῷ ‘Πρὸς Ἐπίκτητον‘, ἐν ᾧ δῆθέν ἐστιν Ὀνήσιμος ὁ Πλουτάρχου δοῦλος Ἐπικτήτῳ διαλεγόμενος. καὶ μέντοι κἀν τῷ μετὰ ταῦτα γραφέντι βιβλίῳ, τῷ ‘Ἀλκιβιάδῃ‘ τοὺς Ἀκαδημαϊκοὺς ἐπαινεῖ συναγορεύοντας μὲν ἑκατέρῳ τῶν ἀντικειμένων ἀλλήλοις λόγων, ἐπιτρέποντας δὲ τοῖς μαθηταῖς αἱρεῖσθαι τοὺς ἀληθεστέρους. Ἀλλ’ ἐν τούτῳ μὲν εἴρηκε πιθανὸν ἑαυτῷ φαίνεσθαι, μηδὲν εἶναι καταληπτόν, ἐν δὲ τῷ Πλουτάρχῳ συγχωρεῖν ἔοικεν εἶναί τι βεβαίως γνωστόν—ἄμεινον γὰρ οὕτως ὀνομάζειν τὸ καταληπτὸν ἀποχωροῦντας ὀνόματος στωικοῦ—. Καὶ ἔγωγ’ ἐθαύμαζον νὴ τοὺς θεούς, ὅπως ὁ Φαβωρῖνος εἰς τὴν τῶν Ἀττικῶν φωνὴν εἰωθὼς μεταλαμβάνειν ἕκαστα τῶν ὀνομάτων οὐ παύεται λέγων οὔτε τὸ καταληπτὸν οὔτε τὴν κατάληψιν οὔτε τὴν καταληπτικὴν φαντασίαν οὔτε τὰ τούτοις ἀντικείμενα, οἷον στερητικῶς λεγόμενα ‖ τὴν ἀκατάληπτον φαντασίαν ἢ τὴν ἀκαταληψίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 42",
+      "text": "Αὐτὸς δὲ καὶ τρία βιβλία γράψας, ἓν μὲν πρὸς Ἀδριανόν, ἕτερον δὲ πρὸς Δρύσωνα καὶ τρίτον πρὸς Ἀρίσταρχον, ἅπαντα ‘Περὶ τῆς καταληπτικῆς φαντασίας‘ ἐπέγραψε, καὶ καθ’ ὅλα γ’ αὐτὰ γενναίως ἀγωνίζεται πειρώμενος ἐπιδεικνύναι τὴν καταληπτικὴν φαντασίαν ἀνύπαρκτον. Ἐγὼ δ’ οὔτ’ ἄλλο τι τὸ καταληπτὸν ἡγοῦμαι σημαίνειν παρὰ τὸ βεβαίως γνωστὸν οὔτ’ ἄλλο τι τὸ καταλαμβάνεσθαι τοῦ βεβαίως γιγνώσκειν, ἀνάλογον δ’ αὐτοῖς λέγεσθαι τήν τε κατάληψιν καὶ τὴν καταληπτικὴν φαντασίαν. Ἐπειδὴ γὰρ ἔνια μὲν οἰόμεθα βλέπειν ἢ ἀκούειν ἢ ὅλως αἰσθάνεσθαι, καθάπερ ἐν ὀνείροις καὶ μανίαις, ἔνια δ’ οὐκ οἰόμεθα μόνον ἀλλὰ καὶ κατ’ ἀλήθειαν ὁρῶμεν ἢ ὅλως αἰσθανόμεθα, ταυτὶ μὲν τὰ δεύτερα πάντες ἄνθρωποι πλὴν Ἀκαδημαϊκῶν τε καὶ Πυρρωνείων εἰς βεβαίαν γνῶσιν ἥκειν νομίζουσιν, ἃ δ’ ὄναρ ἢ παραπαιόντων ἡ ψυχὴ φαντάζεται, ψευδῆ πάνθ’ ὑπάρχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 43",
+      "text": "Εἰ μὲν δὴ ‖ συγχωροῦσιν αὐτὸ τοῦθ’ οὕτως ἔχειν, ἐξαλειψάτωσαν ἐν οἷς γράφουσι, μήτε τοῦ μαινομένου τὸν σωφρονοῦντα μήτε τοῦ νοσοῦντος τὸν ὑγιαίνοντα μήτε τοῦ κοιμωμένου τὸν ἐγρηγορότα πιστότερον ὑπάρχειν εἰς τὴν τῶν πραγμάτων γνῶσιν. εἰ δ’ οὐδὲν μᾶλλον ἐκείνοις ἐστὶν αὐτὰ ἢ τοῖς ἐναντίως διακειμένοις γνωστά, συγκέχυται μὲν δήπου τὰ τῆς ἀληθείας κριτήρια· οὔτ’ αὐτὸς ὁ διδάσκαλος ὁ Ἀκαδημαϊκὸς οὔθ’ ὁ μαθητὴς αὐτοῦ δυνήσεται κρῖναι τοὺς εἰς ἑκάτερα [τῶν ἀντικειμένων] εἰρημένους λόγους. [ἔτι δ’ οὐ δεησόμεθα τὴν ἀρχὴν ἡμεῖς τοιούτων διδασκάλων, δυνάμενοί γε καὶ αὐτοὶ τὰ γεγραμμένα τοῖς ἀπὸ τῶν αἱρέσεων ἀντιδιῃρημένων ἀναγιγνώσκειν καὶ οὐδὲν ἧττον τῶν Ἀκαδημαϊκῶν εἰδέναι, ἐὰν ἀσαφὲς αὐτῶν τι ᾖ, τὸ μὲν παρὰ [τῷ Χρυσίππῳ] τοῖς Στωικοῖς διδασκάλοις, [ἀσφαλέστερον ὀνομάζειν ἐστί] τὸ δὲ παρὰ [Θεοφράστῳ καὶ Ἀριστοτέλει] τοῖς Περιπατητικοῖς. οὕτω δὲ κἀπὶ τῶν ἄλλων, ὥστ’ οὐδὲν ἄν τι λείποιτο πρὸς διδασκαλίαν τοῖς Ἀκαδημαϊκοῖς, ὅσον ἐπὶ τῷ Φαβωρίνου λόγῳ.] Τοῖς μὲν γὰρ πρεσβυτέροις αὐτὸ δὴ τοῦτ’ ἦν δίδαγμα, τὸ μηδὲν εἶναι κριτήριον ἀνθρώπῳ δεδόμενον ὑπὸ τῆς φύσεως, ‖ ᾧ παραβάλλων ἕκαστον τῶν ὄντων ἀκριβῶς διαγνώσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 44",
+      "text": "διὸ μηδ’ ἀποφήνασθαι περὶ μηδενὸς ἠξίουν ἀλλὰ περὶ πάντων ἐπέχειν. [ἀλλ’ εἰ δὴ τοῖς φυσικοῖς κριτηρίοις αἴσθησιν ἱκανῶς συγχωρήσουσιν ἡμῖν, οὐδὲν ἔτι δεησόμεθα τῆς εἰς ἑκάτερα ἐπιχειρήσεως, ἀλλ’ ἑτέρας τινὸς παιδεύσεως μᾶλλον, οἵαν τοὺς τεχνίτας παρέχοντας 〈ὁρῶμεν〉 τοῖς μαθηταῖς, εὐθέως κατὰ τὸ λογίζεσθαι τὸ καλούμενον ὑπὸ τῶν πολλῶν ψηφίζειν. τοῦτο δ’ ἔστι τὸ ἐπιστῆναι τῷ γυμναζομένῳ καὶ τούτοις προσέχειν τὸν νοῦν, ἐν οἷς σφάλλεται καὶ ταῦτα ἐπανορθοῦσθαι μόνα. παραπλησίως δὲ καὶ ὁ παιδοτρίβης ἐπανορθοῦται τὰ τῶν παλαιόντων ἁμαρτήματα καὶ ὁ γραμματικὸς καὶ ὁ ῥήτωρ καὶ ὁ γεωμέτρης καὶ ὁ μουσικὸς οὕτω διδάσκουσιν, οὐ διασείοντες οὐδὲ σαλεύοντες τῶν μαθητῶν ἣν ἔχουσι πίστιν ἐπὶ τοῖς φυσικοῖς κριτηρίοις, ἀλλ’ ἐφεστῶτες αὐτοῖς γυμναζομένοις ἄχρι περ ἂν ἀναμαρτήτους αὐτοὺς ἀποδείξωσιν ἐν ταῖς κατὰ μέρος ἐνεργείαις, ἀλλ’ οὐχὶ τὴν ἐποχὴν εἰσάγοντες. [οὗτοι γάρ εἰσιν οἱ καὶ ταῖς ἐναργέσιν αἰσθήσεσιν ἀπιστεῖν ἀνατιθέντες ἢ τῶν ὑπό ‖ του βεβαίως γιγνωσκομένων καταφρονεῖν]].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 45",
+      "text": "Ὁ γοῦν Καρνεάδης οὐδὲ τούτῳ τῷ πάντων ἐναργεστάτῳ συγχωρεῖ πιστεύειν, ὅτι τὰ ταὐτῷ ἴσα μεγέθη καὶ ἀλλήλοις ἴσα γίγνεται. Καὶ μὲν οὖν λόγους, οἷς ἐπιχειρεῖ καταλύειν ταῦτα καὶ ἄλλα πάμπολλα τῶν ἐναργῶς τ’ εἶναί σοι φαινομένων καὶ πιστευομένων, ἔτι καὶ εἰς τόδε σωζομένους ἔχομεν. ἀπόκεινται γὰρ ἐν γράμμασιν ὑπὸ τῶν μαθητῶν αὐτοῦ θησαυρισθέντες. αἱ λύσεις δ’ οὔθ’ ὑπ’ ἐκείνων οὔθ’ ὑπ’ ἄλλου τινὸς εὕρηνται τῶν μετ’ αὐτὸν Ἀκαδημαϊκῶν. Ἀλλ’ οὖν, εἰ καὶ μηδὲν ἄλλο, τοῦτο γοῦν ἐδήλωσε μόνον, ὅτι σοφίσματ’ εἰσὶν οἱ λόγοι πάντες οὗτοι, καὶ ζητητέον τὴν λύσιν αὐτῶν ὑμῖν, ὦ μαθηταί. μοχθηρὸν μὲν γὰρ τοῦτο, δικαιότερον δ’ ὅμως οὐ πεποιήκασιν οἱ γράψαντες μὲν αὐτούς, μὴ δηλώσαντες δ’ ὑμῖν, ὁποῖοί τινές εἰσιν. Ἡδέως ἂν ἠρόμην, εἰ παρῆν ὁ Φαβωρῖνος, ἆρά γε κελεύει με πείθεσθαι τούτοις ἅπασι τοῖς λόγοις ἢ σκοπεῖσθαι, πότερον ἀληθεῖς εἰσιν ἢ ψευδεῖς; εἰ γὰρ δὴ ‖ σκοπεῖσθαι συνεχώρησεν, ἠρόμην ἂν ἐπὶ τῷδε πάντως, εἰ φύσει πᾶσιν ἀνθρώποις ὑπάρχει διακρίνειν ἀληθεῖς λόγους ψευδῶν ἢ εἰ μέθοδός ἐστι τῆς ἑκατέρων γνώσεως; εἰ μὲν γὰρ φύσει, πῶς οὐχ ὁμολογοῦμεν ἀλλήλοις ἅπαντες οὐδ’ ὡσαύτως ἀποφαινόμεθα περὶ τῶν αὐτῶν; εἰ δὲ μέθοδός τίς ἐστιν, αὐτὴν πρότερον ἂν μαθεῖν ἐδεήθην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 46",
+      "text": "[ἑξῆς δ’ ἐπιστατοῦντας αὐτοὺς γυμνάσασθαι πολυειδῶς ἐπὶ πραγμάτων πλειόνων ὥσπερ τοὺς παλαίειν μανθάνοντας ἢ σκυτοτομεῖν ἢ οἰκοδομεῖν ἢ ναυπηγεῖν ἢ ῥητορεύειν ἢ ἀναγιγνώσκειν ἢ γράφειν ἢ ὅλως ὁτιοῦν ἐνεργεῖν κατὰ τέχνην.] Εἰ μὲν οὖν ἔγραψέ τις τῶν Ἀκαδημαϊκῶν, οἷον μέν τι χρῆμά ἐστιν ἀπόδειξις, οἷον δὲ σόφισμα καὶ ὡς χρὴ διαγιγνώσκειν αὐτὰ [καὶ ὡς χρὴ γυμνάζεσθαι κατ’ αὐτά], προσηκόντως ὁ Φαβωρῖνος ἐπιτρέπει τὴν κρίσιν τοῖς εἰς ἑκάτερα ἐπιχειρουμένοις τῶν μαθητῶν. [πλὴν ὅτι περιττόν ἐστιν, εἰ διδάσκει ὁ Ἀκαδημαϊκὸς ἕκαστον τῶν εἰρημένων, ἐχόντων δὴ ἡμῶν τοὺς ἰδίους τῶν δογμάτων διδασκάλους.] Εἰ δ’ οὐκ ἔγραψέ τις ‖ ὑπὲρ τῆς διαφορᾶς αὐτῶν [οὔτ’ ἐγύμνασεν], ὅμοιόν τι ποιεῖ τέκτονι κελεύοντι τῷ μαθητῇ μετρῆσαί τε καὶ στῆσαι καὶ ἀποτεῖναι καὶ κύκλον γράψαι χωρὶς τοῦ πῆχυν δοῦναι καὶ ζυγὸν καὶ κανόνα καὶ καρκίνον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 47",
+      "text": "[ἀλλ’ ἴσως φησὶ μηδὲν εἶναι τοιοῦτον ἐν φιλοσοφίᾳ καὶ δόγμασι. μὴ τοίνυν ἔτι προσποιοῦ γιγνώσκειν τι μηδ’ ἀποφάναι μηδ’ ἀποδίδρασκε τὴν ὑπὸ τῶν πρεσβυτέρων Ἀκαδημαϊκῶν εἰσαγομένην ἐποχήν, μηδὲ σεμνύνου γραμματικοῦ ποιῶν ἔργον, ἅπερ εἰρήκασιν οἱ πρόσθεν ἐκμεμελετηκώς. ὅτι δ’ αὐτῶν ὑγιές ἐστιν οὐδέν, εὔδηλον ἐννόῳ. οὐδὲ γὰρ διδασκάλου τό γε τοιοῦτόν ἐστιν ἀλλ’ ἀδολεσχία τις ἢ λῆρος.] Πόθεν οὖν ἐλπὶς ὑπολείπεται τῆς τῶν ἀληθῶν εὑρέσεως; ᾧ γὰρ οὐδὲν ὑπάρχει κριτήριον ἀληθῶν καὶ ψευδῶν, ἀνέλπιστος ἡ γνῶσις αὐτῶν. [ἐγχείρησον δὲ διδάξαι μόνον σοφιστὰς μηδὲν ἡμῖν ὑπάρχειν κριτήριον σύμφυτον, ὥστε γε μετὰ τοῦτο τολμηρῶς ... ...... ἡμῖν μέντοι ἴσως φᾶσιν, αἴσθησίν τε καὶ νόησιν ἐναργῆ κριτήρια τοῦ ἀληθοῦς εἶναι συγχωρήσειεν ἄν τις ἐν λογικαῖς ‖ κυλινδεῖσθαι βουλόμενος ἐλπίσι ματαίαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 48",
+      "text": "] Ὅσοι δ’ ἀνῃρήκασιν ὅλην τὴν ἐλπίδα, καθάπερ ἐκεῖνος, μάτην ἐφλυάρουν. Εὔδηλος οὖν ἐστιν ὁ Φαβωρῖνος αἰδούμενος μὲν ἀνατρέπειν πάντα καὶ ἀγνοεῖν ὑπάρχον ὁμολογεῖν, ὃ δῆθεν ὑπάρχειν οἱ πρόσθεν ἔλεγον Ἀκαδημαϊκοί τε καὶ Πυρρώνειοι, προσποιούμενος δ’ ἐπιτρέπειν τὴν κρίσιν τοῖς μαθηταῖς, ἣν οὐδ’ ἑαυτοῖς ἐπέτρεψαν οἱ πρὸ αὐτοῦ. Ὅτι μὲν οὖν ἡ τοιαύτη διδασκαλία τῶν μανθανόντων ὁτιοῦν, οἵαν ἐννοεῖται Φαβωρῖνος, οὐ μόνον οὐκ ἔστιν ἀρίστη τῶν ἄλλων, ἀλλ’ οὐδὲ διδασκαλία, τὴν ἀρχὴν ἐναργῶς οἶμαι δεδιδάχθαι· οἵας δ’ οἱ λοιποὶ πάντες, διδασκαλίαι μέν εἰσιν, εἰ δ’ ἄρισται, σκοπῶμεν, ἐξ ἀρχῆς ἀπὸ τῶν αὐτῶν αὖθις ἀρξάμενοι. Φαίνεται γὰρ ἡμῖν ἐναργῶς τοῦτο, κἂν ὅτι μάλιστ’ αὐτοῖς ἄπιστον ἐργάζεσθαι σπουδάζωσιν οἱ σοφισταί, εἶναι κριτήριον φυσικόν. ὁ μὲν γὰρ καρκίνος γράφει τὸν κύκλον, ὁ δὲ πῆχυς διακρίνει τὰ μήκη καθάπερ τὸ ζυγὸν τὰ βάρη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 49",
+      "text": "Ταῦτα δ’ αὐτὸς κατεσκεύασεν ‖ ὁ ἄνθρωπος ἐκ τῶν φυσικῶν ὀργάνων τε καὶ κριτηρίων ὁρμώμενος, ὧν ἀπωτέρω κριτήριον οὔτε πρεσβύτερον οὔτε σεμνότερον ἔχομεν. Δεῖ τοίνυν ἐντεῦθεν ἄρχεσθαι. λέγει γὰρ πάλιν ὁ νοῦς, ὡς πιστεῦσαι μὲν ἢ ἀπιστῆσαι τῷ φυσικῷ κριτηρίῳ δυνατὸν ἡμῖν ἐστι, κρῖναι δ’ οὐ δυνατὸν αὐτὸ δι’ ἑτέρου τινός. ᾧ γὰρ κρίνεται τἆλλα πάντα, πῶς ἂν τοῦτο πρὸς ἄλλου κριθείη; Πίστευε οὖν, εἰ βούλει, τοῖς ὀφθαλμοῖς ἐναργῶς ὁρῶσι καὶ τῇ γλώττῃ γευομένῃ, τουτὶ μὲν μῆλον εἶναι, τουτὶ δὲ σῦκον, ἢ μὴ πίστευε. [πείσομαι ὃ βούλει ποιεῖν ἐφ’ ἡμῖν.] εἰ μέντοι σπεύδεις διαλέγεσθαί μοι [μὴ πιστεύοντος δὲ ὡς παρὰ φύσιν ἔχοντος ἀφίσταμαι] κείσθω πρότερον ἀπιστεῖν σε, μηδὲν ἔλπιζε μαθήσεσθαι παρ’ ἐμοῦ. τοῦτο γὰρ ἄρτι πέπαυμαι λέγων· ὑποκείσθω δέ σε πιστεύειν, ἐλπίζειν ἔσται μαθήσεσθαι παρ’ ἐμοῦ. Κρίνω δ’ ἐγὼ τὰ μὲν αἰσθητὰ τοῖς ἐναργῶς αἰσθήσει φαινομένοις, τὰ δὲ νοητὰ τοῖς ἐναργῶς νοουμένοις. Ἐπεὶ δ’ ἐκ τῶν φυσικῶν κριτηρίων αἱ τέχναι πᾶσαι κατασκευάζουσιν ὄργανά τε ‖ καὶ κριτήρια τεχνικά, δι’ ὧν τὰ μὲν αὐταὶ συντιθέασι, τὰ δ’ ὑφ’ ἑτέρων συγκείμενα κρίνουσι, κἀγὼ διδάξω ὅλως ὄργανά τε καὶ κριτήρια, τὰ μέν, οἷς κατασκευάσεις τοὺς ἀληθεῖς λόγους, τὰ δ’, οἷς τοὺς ὑφ’ ἑτέρων γεγονότας κρινεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 50",
+      "text": "ἔχει γὰρ οὕτω τὸ πᾶν· εἰ μὲν ἐξ ἑαυτοῦ τι φαίνεται πρὸς αἴσθησιν ἢ νόησιν ἐναργῶς, οὐ χρῄζει τοῦτο ζητήσεως, εἰ δὲ μή τι τοιοῦτον ὑπάρχει, τῆς ἐξ ἑτέρου γε προσδεῖται γνώσεως. Ἐγὼ μὲν ἐπαγγέλλομαί σοι διδάξειν ἔνια μὲν τοῖς κατὰ τὰς τέχνας ὀργάνοις ἀνάλογα, ἐξ ὧν εὑρήσεις τὸ ζητούμενον, ἔνια δὲ τοῖς κριτηρίοις, ἐξ ὧν τὸ δοκοῦν εὑρῆσθαι κρινεῖς. ἐπειδὰν δὲ μάθῃς ταῦτ’, ἐπὶ πολλῶν παραδειγμάτων γυμνάσω σε ταχέως θ’ ἅμα καὶ ἀκριβῶς εὑρίσκειν καὶ κρίνειν τὸ ζητούμενον, ὥστ’ οὔτε βιβλίου δεήσῃ τινὸς ἔτι ἤδη πρὸς τὴν τῶν ἀληθῶν εὕρεσιν οὔτε διδασκαλίας ἑτέρας, εὐθὺς δὲ δήπου καὶ τοὺς ἄλλο τι λέγοντας ὧν εὗρες ἑτοίμως γνωριεῖς. ὥσπερ γὰρ ὁ τὴν εὐθεῖαν ὁδὸν γιγνώσκων μίαν οὖσαν οὐ δεῖται δι‖δασκαλίας ἑτέρας εἰς ἔλεγχον τῶν πεπλανημένων, οὕτως ὁ τὴν εὐθεῖαν ὁδὸν τῆς ἀποδείξεως ἐκμαθὼν εὐθὺς ἅμα ταύτῃ καὶ τὰς πεπλανημένων γνωρίζει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 51",
+      "text": "Φαβωρῖνος δέ μοι δοκεῖ παραπλήσιόν τι ποιεῖν τῷ φάσκοντι τυφλόν σε εἶναι, δύνασθαι δὲ κρῖναι, πότερος ἡμῶν ἐστι ῥυπαρώτερος ἢ λευκότερος, οὐκ ἐννοῶν, ὅτι τῷ μέλλοντι τὰ τοιαῦτα κρίνειν ὑπάρχειν χρὴ πρότερον ὄψιν. οὐ μὴν οὐδὲ διαφέρει πρὸς τὴν κρίσιν ἢ μηδ’ ὅλως ἔχειν ὄψιν ἢ ἔχοντα μὴ πιστεύειν αὐτῇ. κατὰ δὲ τὸν αὐτὸν τρόπον ὅσα νῷ κρίνομεν [ὁποῖόν ἐστί τι, καὶ ὅτι τὰ τῷ αὐτῷ ἴσα καὶ ἀλλήλοις ἴσα ὑπάρχει] καθάπερ τοῖς ὄνοις οὐκ ἄν τις ἐπιτρέψειεν, ὅτι μηδ’ ὅλως ἔχουσι νοῦν, οὕτως οὐδὲ τοῖς ἀνθρώποις, εἰ μηδ’ οὗτοι πιστὸν ἔχουσι τὸν νοῦν· οὐδὲν γὰρ διαφέρει πρὸς τὴν τῶν κρινομένων πίστιν, ἢ μηδ’ ὅλως ἔχειν τι κριτήριον ἢ λαβόντα μὴ πιστεύειν αὐτῷ. Γελοῖος οὖν ἐστιν ὁ Φαβωρῖνος ἐπιτρέπων κρίνειν τοῖς μαθηταῖς ἄνευ τοῦ συγχωρῆσαι τὴν πίστιν τοῖς κριτηρίοις. εἰ γὰρ οὐδέν ἐστιν ἐναργὲς τῷ νῷ ‖ ἢ πιστὸν ἐξ ἑαυτοῦ, διέφθαρται πάντων ἡ κρίσις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 52",
+      "text": "εἰ δ’ ἔστι μὲν οἷός περ ὀφθαλμὸς ἐν σώματι, τοιοῦτος ἐν ψυχῇ νοῦς, οὐ μὴν ἅπασί γ’ ὁμοίως ὀξύς, ἐγχωρεῖ, καθάπερ ὁ βλέπων ὀξύτερον ἐπάγει πρὸς τὸ θέαμα τὸν ἀμβλύτερον ὁρῶντα, κατὰ τὸν αὐτὸν τρόπον κἀπὶ τῶν νοημάτων ὑπὸ τῶν φθασάντων ἰδεῖν ἐναργῶς τὸ νοητὸν ἐπάγεσθαι πρὸς τὴν θέασιν αὐτοῦ τὸν ἀμβλύτερον. καὶ τοῦτ’ ἐστὶν ὁ διδάσκαλος, ὡς ὁ Πλάτων τέ φησι κἀγὼ πείθομαι. καὶ γέγραπταί γέ μοι περὶ τούτων ἐπὶ πλέον ἐν τῇ ‘Περὶ ἀποδείξεως‘ πραγματείᾳ. [ὅτι τοιαύτη τις οὖσα ἦν πρὸς τὴν νόησιν ἐναργῆ ἡ διδασκαλία.] γέγραπται δὲ καὶ ὅπως ἄν τις ὁρμώμενος ἀπὸ τῶν ἐν ἑκάστῳ στοιχείων καὶ ἀρχῶν ἀποδεικνύοι κάλλιστα πᾶν, ὅσον ἀποδειχθῆναι δυνατόν, οὐχ ὡς ὁ θαυμαστὸς Φαβωρῖνος, ὃς ἓν ὅλον γράψας βιβλίον, ἐν ᾧ δείκνυσι, μηδὲ τὸν ἥλιον εἶναι καταληπτόν, ὡς ἐπιλήσμοσιν ἡμῖν ἑτέρωθι διαλέγεται συγχωρεῖ τέ τι βεβαίως εἶναι γνωστὸν καὶ τοῦτ’ ἐπιτρέπει αἱρεῖσθαι τοῖς μαθηταῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aj",
+      "title": {
+        "english": "Against What Julian Said-Hippocrates' Aphorisms",
+        "ancient_greek": "Κατὰ τῶν ὑπὸ Ἰουλιανοῦ περὶ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ax",
+      "title": {
+        "english": "Commentary on Plato's Timaeus",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμαίου ἀποσπάσματα"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ax-qmm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-as",
+      "title": {
+        "english": "Explanation of Obsolete Words of Hippocrates",
+        "ancient_greek": "Ἐξήγησις τῶν παλαιῶν λέξεων τοῦ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-explanation-obsolete-words-qmm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/explanation-obsolete-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ef",
+      "title": {
+        "english": "Galen",
+        "ancient_greek": "Γαληνὸς περὶ δίαιτας ἀδυνατίζουσας"
+      },
+      "url_slug": "galen-of-pergamon-text-qmm-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vjk-aj",
+      "title": {
+        "english": "Lugdunensian Excerpts",
+        "ancient_greek": "Ἐκλογαὶ Λουγδουνησίαι"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-lugdunensian-excerpts-vjk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-ah",
+      "title": {
+        "english": "Medical Book IV",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Δʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-iv-vhc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-iv",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-iv.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-iv.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-iv.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-iv.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-an",
+      "title": {
+        "english": "Medical Book V",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Εʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-v-vhc-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-v",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-v.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-v.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-v.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-v.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-ak",
+      "title": {
+        "english": "Medical Book XI",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον ΙΑʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-xi-vhc-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-xi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xi.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ab",
+      "title": {
+        "english": "Medical Collections, Uncertain Books",
+        "ancient_greek": "Ἰατρικαὶ Συλλογαί"
+      },
+      "url_slug": "oribasius-of-pergamon-medical-collections-ab-soi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.json"
+      }
+    },
+    {
+      "eul_wid": "fws-aa",
+      "title": {
+        "english": "Menecrates the Physician",
+        "ancient_greek": "Μενεκράτης ὁ Ἰατρός"
+      },
+      "url_slug": "menecrates-of-syracuse-physician-fws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-syracuse/physician",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bk",
+      "title": {
+        "english": "On Dentition",
+        "ancient_greek": "Περὶ ὀδοντοφυΐας"
+      },
+      "url_slug": "hippocrates-dentition-bww-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/dentition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/dentition.json"
+      }
+    },
+    {
+      "eul_wid": "nkc-aa",
+      "title": {
+        "english": "Philo's Medicinal Formulary",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "philo-of-tarsus-the-physician-medicinal-formulary-nkc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-tarsus-the-physician/medicinal-formulary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-tarsus-the-physician/medicinal-formulary.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/galen-of-pergamon/best-doctrine",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctrine.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctrine.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctrine.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/best-doctrine.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

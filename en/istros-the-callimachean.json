@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jbu",
+  "auth_slug": "istros-the-callimachean",
+  "name": {
+    "english": "Istros the Callimachean",
+    "ancient_greek": "Ἴστρος ὁ Καλλιμάχειος"
+  },
+  "seo_h1": "Istros the Callimachean on Attic Antiquities and the Olympics",
+  "seo": {
+    "browser_title": "Istros the Callimachean on Eulogikon Greek Archive",
+    "meta_title": "Istros the Callimachean Ancient Greek Historical Works",
+    "meta_description": "Istros the Callimachean, a 3rd century BCE Hellenistic historian. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Istros the Callimachean was a Hellenistic historian and scholar of the 3rd century BCE. He was a pupil of the poet Callimachus at the Library of Alexandria, from which his epithet derives. His floruit is placed in the mid-3rd century BCE, and he is often distinguished from a later historian from the city of Istria.</p>\n<p class=\"research-text\">His prolific output survives only in fragments. Attributed works include the Collection of Attic Myths, Argolica, Cretica, On the Colonisation of Elis, On the Games, On the Sacrifices among the Athenians, and On the Poetical Compositions of Sophocles, alongside histories of Macedonia, Syria, and Piraeus.</p>\n<p class=\"research-text\">Istros exemplifies the antiquarian historiography of the Alexandrian library. His compilations of local myth, history, and cult practice were key sources for later lexicographers like Harpocration and Athenaeus. His work provides valuable insight into regional Greek traditions and early scholarly methods.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "jbu-aa",
+      "title": {
+        "english": "Attic Antiquities and Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "istros-the-callimachean-attica-festivals-jbu-aa",
+      "passages": 67,
+      "links": {
+        "html": "https://eulogikon.org/grc/istros-the-callimachean/attica-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/attica-festivals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/attica-festivals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/attica-festivals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/attica-festivals.json"
+      }
+    },
+    {
+      "eul_wid": "jbu-ab",
+      "title": {
+        "english": "Fragments on the Olympic Region",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὀλυμπικῆς Χώρας"
+      },
+      "url_slug": "istros-the-callimachean-olympic-region-jbu-ab",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/istros-the-callimachean/olympic-region",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/olympic-region.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/olympic-region.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/olympic-region.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/istros-the-callimachean/olympic-region.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/istros-the-callimachean",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/istros-the-callimachean.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/istros-the-callimachean.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/istros-the-callimachean.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/istros-the-callimachean.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lrw",
+  "auth_slug": "zeno-of-rhodes",
+  "name": {
+    "english": "Zeno of Rhodes",
+    "ancient_greek": "Ζήνων ὁ Ῥόδιος"
+  },
+  "seo_h1": "Zeno of Rhodes on the History of the Diadochi",
+  "seo": {
+    "browser_title": "Zeno of Rhodes Ancient Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Zeno of Rhodes Ancient Greek Historical Works",
+    "meta_description": "Zeno of Rhodes was a Hellenistic historian of the 2nd century BCE. Fragments of his historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Zeno of Rhodes was a Hellenistic historian from Rhodes active in the 2nd century BCE. His life is poorly documented, and he is known primarily as a source for later historians like Polybius and Diodorus Siculus. His work focused on the political and military history of the eastern Mediterranean following Alexander the Great’s death.</p>\n<p class=\"research-text\">His only known work is the lost History of Rhodes, preserved only in fragments cited by later authors. Zeno’s significance derives from his use by Polybius, who cited him as an authority on Rhodian affairs while criticizing him and Antisthenes for patriotic bias. Polybius accused them of exaggerating Rhodian contributions in events like the Battle of Lade.</p>\n<p class=\"research-text\">Despite this criticism, his work contributed to the transmitted record of Hellenistic history, particularly concerning Rhodes’s interactions with Macedon and Rome.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lrw-aa",
+      "title": {
+        "english": "Rhodian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-rhodes-historical-fragments-lrw-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-rhodes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/zeno-of-rhodes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-rhodes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-rhodes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-rhodes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/zeno-of-rhodes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

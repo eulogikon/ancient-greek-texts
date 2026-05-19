@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ree",
+  "auth_slug": "alexander-of-aphrodisias-ii",
+  "name": {
+    "english": "Alexander of Aphrodisias II",
+    "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+  },
+  "seo_h1": "Alexander of Aphrodisias on Peripatetic Domestic Life",
+  "seo": {
+    "browser_title": "Alexander of Aphrodisias on Eulogikon Greek Archive",
+    "meta_title": "Alexander of Aphrodisias Ancient Greek Philosophical Works",
+    "meta_description": "Alexander of Aphrodisias was a Roman era Peripatetic philosopher. Two treatises are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alexander of Aphrodisias was a Greek philosopher who lived and worked in the late second and early third centuries CE. He originated from the city of Aphrodisias in Asia Minor but moved to Athens, where he held the state-funded chair in Peripatetic philosophy. This appointment is dated to between 198 and 209 CE. He is best known as the most important ancient commentator on the works of Aristotle, earning him the epithet &quot;the commentator.&quot;</p>\n<p class=\"research-text\">His extensive writings include detailed commentaries on Aristotle&#x27;s Prior Analytics, Topics, Meteorology, and Metaphysics, among other texts. He also authored independent philosophical treatises. Key surviving works include On Fate, a major defense of free will against Stoic determinism, and On the Soul, which explores Aristotle&#x27;s theory of mind. Some works traditionally attributed to him are considered spurious by modern scholars.</p>\n<p class=\"research-text\">Alexander of Aphrodisias played a crucial role in the history of philosophy by reviving and systematizing Aristotelian thought while actively defending it against rival schools like Stoicism. His interpretations became the standard authority for later Greek, Arabic, and medieval Latin philosophers. His arguments concerning fate, the soul, and the nature of intellect were foundational and remained widely debated for centuries after his death.</p>\n</div>",
+  "affiliation_label": "Peripatetic",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ree-aa",
+      "title": {
+        "english": "Fragments on a Satyr Play",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σατυρικοῦ Δράματος"
+      },
+      "url_slug": "alexander-of-aphrodisias-ii-satyr-play-fragments-ree-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/satyr-play-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/satyr-play-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/satyr-play-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/satyr-play-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/satyr-play-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ree-ab",
+      "title": {
+        "english": "Fragments on Domestic Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκιακοῦ Βίου"
+      },
+      "url_slug": "alexander-of-aphrodisias-ii-domestic-life-ree-ab",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias-ii/domestic-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/domestic-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/domestic-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/domestic-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias-ii/domestic-life.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "lue",
+      "name": {
+        "english": "Agatharchides of Cnidus",
+        "ancient_greek": "Ἀγαθαρχίδης ὁ Κνίδιος"
+      },
+      "work_count": 4,
+      "links": {
+        "html": "https://eulogikon.org/en/agatharchides-of-cnidus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agatharchides-of-cnidus.json"
+      }
+    },
+    {
+      "eul_aid": "nbq",
+      "name": {
+        "english": "Andronicus of Rhodes",
+        "ancient_greek": "Ἀνδρόνικος ὁ Ῥόδιος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/andronicus-of-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andronicus-of-rhodes.json"
+      }
+    },
+    {
+      "eul_aid": "koq",
+      "name": {
+        "english": "Aristo of Ceos",
+        "ancient_greek": "Ἀρίστων ὁ Κεῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristo-of-ceos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristo-of-ceos.json"
+      }
+    },
+    {
+      "eul_aid": "lbi",
+      "name": {
+        "english": "Aristobulus the Jewish Philosopher",
+        "ancient_greek": "Ἀριστόβουλος ὁ Ἰουδαῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristobulus-the-jewish-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-the-jewish-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "lfo",
+      "name": {
+        "english": "Aristocles of Messene",
+        "ancient_greek": "Ἀριστοκλῆς ὁ Μεσσήνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristocles-of-messene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristocles-of-messene.json"
+      }
+    },
+    {
+      "eul_aid": "clc",
+      "name": {
+        "english": "Aristombrotus the Philosopher",
+        "ancient_greek": "Ἀριστόμβροτος ὁ φιλόσοφος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristombrotus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristombrotus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "kpa",
+      "name": {
+        "english": "Ariston of Ceos",
+        "ancient_greek": "Ἀρίστων ὁ Κεῖος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/ariston-of-ceos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ariston-of-ceos.json"
+      }
+    },
+    {
+      "eul_aid": "pms",
+      "name": {
+        "english": "Aspasius the Peripatetic",
+        "ancient_greek": "Ἀσπάσιος ὁ Περιπατητικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aspasius-the-peripatetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aspasius-the-peripatetic.json"
+      }
+    },
+    {
+      "eul_aid": "naw",
+      "name": {
+        "english": "Boethus of Sidon",
+        "ancient_greek": "Βοηθὸς ὁ Σιδώνιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/boethus-of-sidon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/boethus-of-sidon.json"
+      }
+    },
+    {
+      "eul_aid": "gww",
+      "name": {
+        "english": "Chamaeleon of Heraclea Pontica",
+        "ancient_greek": "Χαμαιλέων ὁ Ἡρακλεώτης"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/chamaeleon-of-heraclea-pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/chamaeleon-of-heraclea-pontica.json"
+      }
+    },
+    {
+      "eul_aid": "hki",
+      "name": {
+        "english": "Clearchus of Soli",
+        "ancient_greek": "Κλέαρχος ὁ Σολεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/clearchus-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clearchus-of-soli.json"
+      }
+    },
+    {
+      "eul_aid": "kuu",
+      "name": {
+        "english": "Critolaus of Phaselis philosopher",
+        "ancient_greek": "Κριτόλαος ὁ Φασηλίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/critolaus-of-phaselis-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/critolaus-of-phaselis-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/critolaus-of-phaselis-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/critolaus-of-phaselis-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/critolaus-of-phaselis-philosopher.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/alexander-of-aphrodisias-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias-ii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

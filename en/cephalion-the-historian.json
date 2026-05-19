@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qdq",
+  "auth_slug": "cephalion-the-historian",
+  "name": {
+    "english": "Cephalion the Historian",
+    "ancient_greek": "Κεφαλίων ὁ ἱστορικός"
+  },
+  "seo_h1": "Cephalion the Historian and the Muses",
+  "seo": {
+    "browser_title": "Cephalion the Historian on Eulogikon Greek Archive",
+    "meta_title": "Cephalion Ancient Greek Historical Works and Texts",
+    "meta_description": "Cephalion, a 2nd century CE Roman historian. Surviving historical works from the ancient world. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Cephalion was a Greek historian and rhetor from Ionia who lived during the 2nd century CE. The Byzantine scholar Photius is the primary source for his life and work, though no further biographical details survive.</p>\n<p class=\"research-text\">He authored a single, lost work titled <strong>Historiae</strong> or <strong>The Muses</strong>. Photius summarizes it as a universal history in nine books, each named for a Muse, spanning from the Assyrian king Ninus to the death of Alexander the Great. Photius criticized its overly concise and epitomized style as obscure.</p>\n<p class=\"research-text\">Cephalion’s significance lies in his role as a compiler, representing a historiographical conceit of the Imperial period. His structured synthesis of ancient history into a single narrative framework offers insight into Greek historiography under Roman rule.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "qdq-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cephalion-the-historian-historical-fragments-qdq-aa",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/cephalion-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/cephalion-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cephalion-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cephalion-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cephalion-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cephalion-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

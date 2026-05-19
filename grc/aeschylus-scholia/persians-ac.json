@@ -1,0 +1,1714 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tro-ac",
+  "eul_aid": "tro",
+  "author_slug": "aeschylus-scholia",
+  "work_slug": "persians-ac",
+  "url_slug": "aeschylus-scholia-persians-ac-tro-ac",
+  "author": {
+    "english": "Aeschylus Scholia",
+    "ancient_greek": "Αἰσχύλου Σχόλια"
+  },
+  "title": {
+    "english": "Scholia and Glosses-Persians",
+    "ancient_greek": "Σχόλια καὶ Γλῶσσαι εἰς Πέρσας"
+  },
+  "seo": {
+    "browser_title": "Scholia and Glosses-Persians by Aeschylus Scholia Eulogikon",
+    "meta_title": "Scholia and Glosses-Persians by Aeschylus Scholia in Greek",
+    "meta_description": "Late antique grammatical commentary on Aeschylus's Persians explores metrical patterns, lexical meanings, and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Scholia and Glosses on the Persians</strong> is an anonymous compilation of ancient and Byzantine scholarly commentary on Aeschylus’s tragedy <strong>Persians</strong>. This collection consists of explanatory notes on 193 specific passages, providing textual variants, definitions of obscure words, historical context, mythological references, and observations on grammar and meter. The simpler glosses typically offer one-word equivalents for archaic terms. The work was not composed as a unified whole but represents a palimpsest of scholarship accumulated over many centuries, with its earliest layers potentially originating in the Hellenistic period and subsequent additions continuing through the Byzantine era. These notes were originally created by scholars and teachers to elucidate Aeschylus&#x27;s complex and archaic text, which was a staple of the educational curriculum, and were intended for an audience ranging from students to professional grammarians. The scholia survive by being transmitted in the margins and interlinear spaces of medieval manuscripts of the play, most notably within the 10th-century Codex Mediceus Laurentianus. The transmission process was fluid, resulting in a composite text that was often abbreviated or altered through centuries of copying. Modern scholars regard this compilation as a crucial resource for understanding ancient literary criticism and pedagogical methods, although the scholia on Aeschylus are generally considered less extensive than those preserved for other tragedians such as Sophocles and Euripides.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "τάδε μὲν Περσῶν: Dind. 518, 2—17 (2 παρόντος om. FG [Marc. 616]—8 ἰθυφαλικὸν FG—10/11 βραχυκατάληκτα FG —11 ἰθυφαλικὰ FG—13 ἰθυφαλικὸν FG)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "δόξῃ] γνώμῃ· φιλοτιμίᾳ (cf. Dn. v. 28 p. 18; a b p. 19)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30",
+      "text": "καὶ μασίστρης] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31",
+      "text": "φαρανδάκης] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33",
+      "text": "ὑποχείριοι γὰρ Περσῶν ἦσαν Αἰγύπτιοι (Dn. a p. 21 B; cf. Tr. gloss. 34)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 40",
+      "text": "ἀνάριθμοι] ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 44",
+      "text": "περίβλεπτοι (Dind. 425, 30 B)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 49",
+      "text": "πλησιασταὶ (Dind. 426, 12 B)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 50",
+      "text": "δούλειον] κοινή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 52",
+      "text": "καὶ] κοινή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 57",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 60a",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 60b",
+      "text": "οἴχεται] κοινή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 64",
+      "text": "κῶλα ξεʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 65",
+      "text": "† ἀναπαιστικὰ αὖθις ἕτερα κῶλα μζʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 69",
+      "text": "πορθμὸν ἀμείψας] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 71",
+      "text": "ὅδισμα] πορείαν· γρ(άφεται) καὶ ‘ἔρεισμα‘ (cf. Dn. a b p. 35 BGLM)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 73",
+      "text": "θούριος ἄρχων] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 76",
+      "text": "ἔκ τε θαλάσσης] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 78",
+      "text": "δυνατοῖς (Dind. 429, 17 B)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 79",
+      "text": "στυφέλοις ἐφέταις] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 80",
+      "text": "ἰσόθεος] συνίζησις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84a",
+      "text": "Περσικὸν (Dn. a p. 39 B)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 84b",
+      "text": "θ’] καὶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 87",
+      "text": "ἱκανὸς (Dind. 430, 4 B, om. ἔσται) ὑπομείνας τοῦτο (Dind. 430, 4 B)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 112",
+      "text": "ἄλγος] σος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 113",
+      "text": "κῶλα μζʹ τροχαικὰ διὰ τὰ ἑξῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 114",
+      "text": "† τροχαικὰ κῶλα κϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 135",
+      "text": "† ἰθυφαλικὰ ϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 137-8",
+      "text": "ἀναπαιστικὰ διὰ τὰ ἑξῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 139",
+      "text": "κῶλα κϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 140",
+      "text": "† ἀναπαιστικὰ κῶλα ιεʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 141",
+      "text": "στέγος ἀρχαῖον] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 146",
+      "text": "γένος ἁμέτερον] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 147",
+      "text": "ἢ δορικράνου] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 154",
+      "text": "† κῶλα ιεʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 155",
+      "text": "στίχοι τροχαικοὶ τετράμετροι δʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 159",
+      "text": "Dind. 518, 18—20 (19 εἰ δὲ βούλει Dind., F: ἢ G)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 175",
+      "text": "στίχοι ιζʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 176",
+      "text": "†: Dind. 518, 21—23",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 201",
+      "text": "ἀνέσταν] η",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 214",
+      "text": "στίχοι λθʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 215",
+      "text": "†: Dind. 518, 24—26",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 248",
+      "text": "στίχοι λδʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 249",
+      "text": "†: Dind. 518, 27—29",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 256",
+      "text": ": Dind. 519, 1—2 (κῶλα τὰ Dind.: κῶλα δʹ, τὰ F recte)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 260",
+      "text": "ἰαμβικοὶ τρίμετροι βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 262",
+      "text": "ἀντισπαστικὰ κῶλα δʹ ὅμοια τοῖς πρὸ αὐτῶν· ἔοικε δὲ ἀν‐ τιστροφῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 266",
+      "text": "ἰαμβικοὶ βʹ στίχοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 268",
+      "text": "ἀντισπαστικὰ κῶλα δʹ· τὸ αʹ ἡμιόλιον, τὸ βʹ καὶ γʹ δίμε‐ τρα ἀκατάληκτα, τὸ δὲ δʹ ἑφθημιμερές· ἔοικε δὲ ἑτέρᾳ στροφῇ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 272",
+      "text": "ἰαμβικοὶ στίχοι βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 274",
+      "text": "† ἀντισπαστικὰ κῶλα δʹ ὅμοια τοῖς πρὸς αὐτῶν· ἔοικε δὲ ἀντιστρόφῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 278",
+      "text": "ἰαμβικοὶ στίχοι βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 280",
+      "text": "† ἀντισπαστικὰ κῶλα δʹ, τὸ αʹ ἡμιόλιον, τὸ βʹ καὶ γʹ δίμετρα ἀκατάληκτα, τὸ δὲ δʹ ἑφθημιμερές· ἔοικε δὲ ἑτέρᾳ στροφῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 284",
+      "text": "ἰαμβικοὶ στίχοι βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 286",
+      "text": "†: Dind. 519, 3—4",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 290",
+      "text": "†: Dind. 519, 5—8",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 307",
+      "text": "θαλασσόπληκτον] αγ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 336",
+      "text": "συμβολαῖς] ἐμ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 372",
+      "text": "ὑπερθύμου] ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 398",
+      "text": "ἐμφανεῖς] κ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 460",
+      "text": "πέτρῃσιν] οι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 531",
+      "text": "στίχοι σμβʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 532",
+      "text": "† ὦ Ζεῦ βασιλεῦ: Dind. 519, 9—21 (17 Ἰωνίου Dind.: ἰω‐ νικοῦ F recte—20 νᾶσος Dind.: ναῦς F [in textu vero νᾶσος])",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 534",
+      "text": "στρατιὰν ὀλέσας] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 539",
+      "text": "δάκρυσι κόλπους] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 541",
+      "text": "ἁβρογόοι] κ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 542",
+      "text": "ποθέουσαι] κοινή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 547",
+      "text": "ιϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 548a",
+      "text": "χοριαμβικὰ κῶλα λϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 548b",
+      "text": "δίμετρα ἀκατάληκτα δʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 552",
+      "text": "τρίμετρα βραχυκατάληκτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 553",
+      "text": "ἑφθημιμερῆ εʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 558",
+      "text": "δίμετρα ἀκατάληκτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 559",
+      "text": "δίμετρα βραχυκατάληκτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 560",
+      "text": "δίμετρα ἀκατάληκτα βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 562",
+      "text": "τρίμετρον βραχυκατάληκτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 563",
+      "text": "δίμετρα καταληκτικὰ ηʹ ἤτοι ἑφθημιμερῆ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 568",
+      "text": "† τὸ ‘φεῦ‘ καὶ τὸ ‘ἠέ‘ καὶ τὸ ‘ὀά‘ ἰδίως τίθει ἐκτὸς τῶν κώλων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 571",
+      "text": "ἰωνικὰ ἡμιόλια βʹ· τὸ δὲ γʹ χοριαμβικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 573",
+      "text": "ἑφθημιμερῆ βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 576",
+      "text": "προσοδιακὸν δίμετρον ἀκατάληκτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 579",
+      "text": "ἑφθημιμερῆ γʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 580",
+      "text": "ἡμιόλια βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 582",
+      "text": "ἑφθημιμερῆ βʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 583",
+      "text": "κῶλα λϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 584a",
+      "text": "†χοριαμβικὰ προσοδιακὰ καλούμενα ιδʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 584b",
+      "text": "δίμετρα ἀκατάληκτα δʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 588",
+      "text": "ἑφθημιμερῆ γʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 591",
+      "text": "δίμετρα ἀκατάληκτα δʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 595",
+      "text": "ἑφθημιμερῆ γʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 597",
+      "text": "κῶλα ιδʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 598a",
+      "text": "ἔμπορος] ει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 598b",
+      "text": "†: Dind. 519, 22—24 (24 τάσδε om. F; exhibet vero in textu)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 622",
+      "text": "στίχοι κεʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 623",
+      "text": "† βασίλεια γύναι: Dind. 519, 25—31 (26 τὰ πρῶτα Dind.: τὰ μὲν πρῶτα F—τὸ δὲ εʹ Dind.: δὲ in ras. ut videtur F—28 ἐνήλλαξε Dind.: ἐξήλλαξε F—30 μονοστροφικά Dind.: μονόμετρα F—μή Dind.: μηʹ F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 626",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 632a",
+      "text": "κῶλα ιʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 632b",
+      "text": "γρ(άφε) ‘Πέρσαις εἴποι,‘ ἀγνοεῖ τὸ μέτρον (πέρας in textu; correxit igitur scriba, at perperam: cf. Tr. su‐ pra, p. 52, 11 sqq.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 650",
+      "text": "Δαρεῖον] κοινή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 671",
+      "text": "Δαρειᾶν] κοινή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 681",
+      "text": "†: Dind. 519, 32—520, 4 (520, 4 ἐβούλευσε F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 693",
+      "text": "στίχοι ιγʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 694",
+      "text": "ἀναπαιστικὰ γʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 697",
+      "text": "τροχαικὰ τετράμετρα γʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 700",
+      "text": "ἀναπαιστικὰ γʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 703",
+      "text": "οἱ ἑξῆς τροχαικοὶ τετράμετροι νϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 731",
+      "text": "κεδνῆς] γρ(άφε) κενῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 741",
+      "text": "ἐκτελευτήσειν] ~ σαι (i. e. –ῆσαι)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 758",
+      "text": "στίχοι νϛʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 759",
+      "text": "†: Dind. 520, 5—8 (6/7 ἐνενήκοντα τρεῖς Dind.: ϙγʹ F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 778",
+      "text": "σάραφις] μ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 813",
+      "text": "ὡραῖον (Dn. a b p. 227 GLM)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 821",
+      "text": "ὡραῖον (Dn. a p. 229 V)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 827",
+      "text": "ὡραῖον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 851",
+      "text": "στίχοι ϛγʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 852",
+      "text": "†: Dind. 520, 9—15 ὦ πόποι (13 ἰθυφαλικὰ F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 856",
+      "text": "Δαρεῖος ἆρχε χώρας] ἰαμβικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 865",
+      "text": "Ἄλυος ποταμοῦ] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 866",
+      "text": "τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 870",
+      "text": "Θρηίκων ἐπαύλεων] τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 874",
+      "text": "τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 882",
+      "text": "τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 887",
+      "text": "ἄντρος ἀγχιγείτων] τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 890",
+      "text": "τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 895-6",
+      "text": "τῶνδ’ αἰτία στεναγμάτων] ἰαμβικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 908",
+      "text": "†: Dind. 520, 16—24",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 910",
+      "text": "ἀτεκμαρτοτάτας] ης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 916",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 917",
+      "text": "† οἱ τὸ ‘μοῖρα‘ ποιοῦντες δοτικὴν ἀγνοοῦσι τὸ μέτρον, ἀλλ’ ἔστω ‘Ζεῦ‘, καὶ ἔχει ὀρθῶς τὸ ‘μοῖρα‘ εὐθεῖα· εὕ‐ ρηται γὰρ ἔν τι〈νι〉 παλαιῷ οὕτως (cf. Tr. sch. ad v. 915; v. supra, p. 64, 32 sqq.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 920",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 928",
+      "text": "†: Dind. 520, 25—26",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 930",
+      "text": "αἰνῶς αἰνῶς] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 931",
+      "text": "†: Dind. 520, 27—28",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 935",
+      "text": "†: Dind. 520, 29—30",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 940",
+      "text": "†: Dind. 520, 31—32",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 944",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 955",
+      "text": "†: Dind. 520, 33—34",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 962",
+      "text": "†: Dind. 520, 35—36",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 966",
+      "text": "†: Dind. 521, 1—2 (2 δὲ om. F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 973",
+      "text": ": Dind. 521, 3",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 974",
+      "text": "†: Dind. 521, 4—5",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 979",
+      "text": "† ἀναπαιστικὰ ἑφθημιμερῆ ζʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 987",
+      "text": "†: Dind. 521, 6—7",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 993",
+      "text": "†: Dind. 521, 8—9",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 996",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1000",
+      "text": "†: Dind. 521, 10—11 (11 τὸ δὲ δʹ F: δὲ om. Dind.)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1003",
+      "text": "†: Dind. 521, 12—13",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1008",
+      "text": "ἰαμβικὸν τρίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1009",
+      "text": "†: Dind. 521, 14—17 (17 εʹ Dind.: πέμπτον F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1014",
+      "text": "†: Dind. 521, 18—19",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1018",
+      "text": "ἴαμβος τρίμετρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1019",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1020",
+      "text": "δίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1021",
+      "text": "τί τόδε λέγεις] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1022",
+      "text": "ΞΕ. σεσωσμένον θησαυρὸν] ἑφθημιμερές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1023",
+      "text": "†: Dind. 521, 22 (τροχαικὰ ἰθυφαλικὰ βʹ F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1026",
+      "text": "ὡς ποιμανόριον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1030",
+      "text": "ἴαμβος τρίμετρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1031",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1032",
+      "text": "δίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1034",
+      "text": "†: Dind. 521, 23—24",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1037-38",
+      "text": "ἰαμβικὰ τρίμετρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1039",
+      "text": "†: Dind. 521, 26",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1043",
+      "text": "†: Dind. 521, 27",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1044",
+      "text": "Dind. 521, 28",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1046",
+      "text": "†: Dind. 521, 29 (ἴαμβος τρίμετρος F)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1047",
+      "text": "†: Dind. 521, 30",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1051",
+      "text": "†: Dind. 521, 31—32",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1054",
+      "text": "ἰαμβικὸν τρίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1055",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1056a",
+      "text": "τρίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1056b",
+      "text": "πέρθε] † οἱ γράφοντες ‘ὕπερθεν‘ ἀμαθεῖς τῷ μέτρῳ (Dn. v. 1057 p. 270, 4)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1060a",
+      "text": "ἰαμβικὸν τρίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1060b",
+      "text": "ἔρειδε] κ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1061",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1062",
+      "text": "τρίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1063-4",
+      "text": "ἄπριγδ’ ἄπριγδα μάλα γοεδνὰ] δίμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1065",
+      "text": "τροχαικὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1066",
+      "text": "δίμετρον ἰαμβικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1067",
+      "text": "μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1070",
+      "text": "τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1071",
+      "text": "ἑφθημιμερῆ δʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1074a",
+      "text": "ἰὼ ἰὼ] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1074b",
+      "text": "Περσὶς αἶα δύσβατος] τροχαικόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1075a",
+      "text": "ἰὴ] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1075b",
+      "text": "τρισκάλμοισιν] τροχαικὸν μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1076a",
+      "text": "ἰὴ ἰὴ] μονόμετρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1076b",
+      "text": "βάρισιν ὀλόμενοι] τροχαικὸν πενθημιμερές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1077",
+      "text": ": Dind. 521, 34",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tro-aa",
+      "title": {
+        "english": "Argument and Interlinear Glosses-the Persians",
+        "ancient_greek": "Ἐπιχείρημα καὶ Ἐνδιάμεσοι Γλῶσσαι εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-glosses-tro-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-glosses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-glosses.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ak",
+      "title": {
+        "english": "Catalogue of Fables",
+        "ancient_greek": "Κατάλογος Μύθων"
+      },
+      "url_slug": "aeschylus-scholia-catalogue-fables-tro-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/catalogue-fables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/catalogue-fables.json"
+      }
+    },
+    {
+      "eul_wid": "tro-am",
+      "title": {
+        "english": "Later Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-am-tro-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.json"
+      }
+    },
+    {
+      "eul_wid": "tro-af",
+      "title": {
+        "english": "Later Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-af-tro-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-af.json"
+      }
+    },
+    {
+      "eul_wid": "tro-an",
+      "title": {
+        "english": "Magister's Commentary on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-an-tro-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-an.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ao",
+      "title": {
+        "english": "Marginal Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-ao-tro-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ao.json"
+      }
+    },
+    {
+      "eul_wid": "tro-al",
+      "title": {
+        "english": "Old Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-al-tro-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-al.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ae",
+      "title": {
+        "english": "Old Scholia on Prometheus Bound",
+        "ancient_greek": "Σχόλια εἰς Προμηθέα Δεσμώτην"
+      },
+      "url_slug": "aeschylus-scholia-prometheus-bound-ae-tro-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prometheus-bound-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prometheus-bound-ae.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ab",
+      "title": {
+        "english": "Prototriclinian Scholia-Aeschylus",
+        "ancient_greek": "Πρωτοτρικλίνια Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-prototriclinian-tro-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/prototriclinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/prototriclinian.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ag",
+      "title": {
+        "english": "Scholia on Aeschylus (Agamemnon)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ag-tro-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ag.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ai",
+      "title": {
+        "english": "Scholia on Aeschylus (Prometheus and Other Plays)",
+        "ancient_greek": "Σχόλια εἰς Αἰσχύλον"
+      },
+      "url_slug": "aeschylus-scholia-text-ai-tro-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/text-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/text-ai.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ad",
+      "title": {
+        "english": "Scholia-Aeschylus's Meters",
+        "ancient_greek": "Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλου"
+      },
+      "url_slug": "aeschylus-scholia-meters-tro-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jlk-aa",
+      "title": {
+        "english": "Delian Antiquities and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "semus-of-delos-antiquities-customs-jlk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/semus-of-delos/antiquities-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos/antiquities-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos/antiquities-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos/antiquities-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semus-of-delos/antiquities-customs.json"
+      }
+    },
+    {
+      "eul_wid": "vtk-aa",
+      "title": {
+        "english": "Etymology of the Alphabet",
+        "ancient_greek": "Ἐτυμολογία τοῦ Ἀλφαβήτου"
+      },
+      "url_slug": "lexicographic-anonymous-ii-alphabet-etymology-vtk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographic-anonymous-ii/alphabet-etymology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographic-anonymous-ii/alphabet-etymology.json"
+      }
+    },
+    {
+      "eul_wid": "vrw-aa",
+      "title": {
+        "english": "Gnomic Poetry Fragments",
+        "ancient_greek": "Γνωμικῆς Ποιήσεως Ἀποσπάσματα"
+      },
+      "url_slug": "alphabetical-commentary-anonymous-gnomic-poetry-vrw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alphabetical-commentary-anonymous/gnomic-poetry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/gnomic-poetry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/gnomic-poetry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/gnomic-poetry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alphabetical-commentary-anonymous/gnomic-poetry.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ad",
+      "title": {
+        "english": "Introductory Canons-Verb Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-verb-inflection-vdq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-verb-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.json"
+      }
+    },
+    {
+      "eul_wid": "oow-ah",
+      "title": {
+        "english": "Phoenician History (Recension B)",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philon-of-byblos-history-ah-oow-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/philon-of-byblos/history-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philon-of-byblos/history-ah.json"
+      }
+    },
+    {
+      "eul_wid": "tii-ad",
+      "title": {
+        "english": "Scholia-Euclid's Elements",
+        "ancient_greek": "Σχόλια εἰς Εὐκλείδου Στοιχεῖα"
+      },
+      "url_slug": "thucydides-scholia-euclid-elements-tii-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-scholia/euclid-elements",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-elements.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-elements.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-elements.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-elements.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-aa",
+      "title": {
+        "english": "Scholia-Thesmophoriazusae",
+        "ancient_greek": "Σχόλια εἰς Θεσμοφοριάζουσας"
+      },
+      "url_slug": "aristophanes-scholia-thesmophoriazusae-mlw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/thesmophoriazusae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/thesmophoriazusae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/thesmophoriazusae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/thesmophoriazusae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/thesmophoriazusae.json"
+      }
+    },
+    {
+      "eul_wid": "kau-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "dionysius-of-mytilene-testimonies-kau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-mytilene/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-mytilene/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-ac",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-ac.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

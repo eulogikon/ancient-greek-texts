@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gjk",
+  "auth_slug": "melisseus-the-historian",
+  "name": {
+    "english": "Melisseus the Historian",
+    "ancient_greek": "Μελισσεὺς ὁ ἱστορικός"
+  },
+  "seo_h1": "Melisseus the Historian and Delphic Historical Fragments",
+  "seo": {
+    "browser_title": "Melisseus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Melisseus the Historian Ancient Greek Works Archive",
+    "meta_description": "Melisseus the Historian, a 4th century BCE Attic historian. Surviving works in fragmentary form. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Melisseus the Historian was an obscure Greek historian of the 4th century BCE. No biographical details of his life survive. His existence is attested solely through later authors who quote his lost work.</p>\n<p class=\"research-text\">His only known work is a historical text whose title is not preserved. It survives in a few fragments suggesting it contained geographical or ethnographical material. One fragment, preserved by the grammarian Herodian, cites Melisseus on the name of the island of Cephallenia. Another, in Stephanus of Byzantium, mentions the city of Same on Cephallenia, though the attribution is not certain.</p>\n<p class=\"research-text\">His significance lies in being a representative minor source used by later lexicographers for specialized local information. These citations preserve his name within the stream of Greek geographical writing, though the loss of his work prevents any assessment of his methodology or broader influence.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gjk-aa",
+      "title": {
+        "english": "Delphic Historical Fragments",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "melisseus-the-historian-delphic-fragments-gjk-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/melisseus-the-historian/delphic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melisseus-the-historian/delphic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melisseus-the-historian/delphic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melisseus-the-historian/delphic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melisseus-the-historian/delphic-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/melisseus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melisseus-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melisseus-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melisseus-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melisseus-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

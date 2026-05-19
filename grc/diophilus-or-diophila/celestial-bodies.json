@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kdc-aa",
+  "eul_aid": "kdc",
+  "author_slug": "diophilus-or-diophila",
+  "work_slug": "celestial-bodies",
+  "url_slug": "diophilus-or-diophila-celestial-bodies-kdc-aa",
+  "author": {
+    "english": "Diophilus or Diophila",
+    "ancient_greek": "Διοφίλος ἢ Διοφίλα"
+  },
+  "title": {
+    "english": "Fragments on Celestial Bodies",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Οὐρανίων"
+  },
+  "seo": {
+    "browser_title": "Fragments on Celestial Bodies by Diophilus on Eulogikon",
+    "meta_title": "Fragments on Celestial Bodies by Diophilus in Greek",
+    "meta_description": "Poetic fragments on celestial bodies by Diophilus. Ancient Greek astronomical poetry. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as <strong>Fragments on Celestial Bodies</strong> is attributed to an otherwise unknown author named Diophilus or Diophila. No extant ancient sources confirm the existence of this work, leaving its authenticity and precise nature unverified. The title suggests a collection of poetic excerpts focused on astronomical themes. The scant surviving text, as evidenced by the provided Greek fragment, describes celestial observations, including references to the constellation of the Wain, the Virgin, the Lion, and the figure of Boötes. This content indicates a work concerned with the description and mythology of celestial bodies and broader cosmological themes. Described only as fragments, the work’s manuscript tradition and the extent of its preservation are entirely undocumented. While the combination of verse form with astronomical subject matter aligns with the ancient tradition of didactic poetry, this specific text cannot be situated within that literary lineage due to the complete absence of corroborating historical or philological evidence.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 391.1",
+      "text": "[ln_1]..λλ.[ ]ιδε κεῖνο δι’ ἠέρ[ος] ἐ̣μφανὲς ἄ[σ]τρον ὄμματ’ ἐπιστ[ή]σασα κ(α)τ’ ἀστ[ερ]όεσσαν Ἅμαξ[αν]· τ̣ὴν ἄραπαν.[ ] ἀεὶ κ(α)τ(α)κείμενον [...]η ἐκ̣ταδίη κέχυται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 391.2",
+      "text": "πολλοὶ δ’ ὡς ἀσ̣τέρε̣ς ἀμφὶ̣ς̣[ln_5]κ̣α̣ὶ θαμέες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 391.3",
+      "text": "τυπόωσιν ἀτὰρ ..[ ]είδεται ὤμων̣ Παρθένου οὐδὲ Λέοντος ἀπόπροθεν αἰωρεῖται, οὐραν[ί]οιο Λέοντος, ἐπιψαυε[.]...[ [ἰ]ξύος ἀκροτάτ̣η̣ς̣, ἕ̣πεται δέ οἱ ἄγχι Βοώτης Ἄρκτον ἀπο[σ]κοπέων ηοι..εγασχοοπα[",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "kcs-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "athenaeus-the-epigrammatist-epigram-kcs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenaeus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenaeus-the-epigrammatist/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "knm-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archimelus-the-epigrammatist-epigram-knm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "jni-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "hexameter-papyri-anonymous-epigrams-jni-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-ab",
+      "title": {
+        "english": "Eros the Runaway",
+        "ancient_greek": "Ἔρως δραπέτης"
+      },
+      "url_slug": "moschus-of-syracuse-eros-runaway-mdu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/eros-runaway",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-aa",
+      "title": {
+        "english": "Erythraean Paean Found at the City of Dion",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν εὑρεθεὶς ἐν Δίῳ"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-dion-cqc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.json"
+      }
+    },
+    {
+      "eul_wid": "puk-ab",
+      "title": {
+        "english": "Fragments on Sea and Nile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θαλάσσης καὶ Νείλου"
+      },
+      "url_slug": "song-of-the-sailors-sea-nile-puk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/sea-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/sea-nile.json"
+      }
+    },
+    {
+      "eul_wid": "jni-aa",
+      "title": {
+        "english": "Miscellanea",
+        "ancient_greek": "Μικτὰ"
+      },
+      "url_slug": "hexameter-papyri-anonymous-miscellanea-jni-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/miscellanea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/miscellanea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/miscellanea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/miscellanea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/miscellanea.json"
+      }
+    },
+    {
+      "eul_wid": "iha-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hermesianax-of-colophon-testimonies-iha-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diophilus-or-diophila/celestial-bodies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

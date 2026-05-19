@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gmw-ab",
+  "eul_aid": "gmw",
+  "author_slug": "clearchus-the-comic-poet",
+  "work_slug": "symposium-drinking-ab",
+  "url_slug": "clearchus-the-comic-poet-symposium-drinking-ab-gmw-ab",
+  "author": {
+    "english": "Clearchus the Comic Poet",
+    "ancient_greek": "Κλέαρχος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Symposium and Drinking Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Clearchus the Comic Poet on Eulogikon",
+    "meta_title": "Classical Symposium Fragments by Clearchus in Ancient Greek",
+    "meta_description": "Comic fragments on symposia and drinking from Clearchus. Glimpses of Athenian social life. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Symposium and Drinking Fragments</strong> constitute a collection of nineteen brief passages attributed to the Athenian comic poet Clearchus. Preserved not as a continuous text but as quotations within later authors, primarily the grammarian Athenaeus in his <strong>Deipnosophistae</strong>, these fragments derive from lost comedies. They consist of short verses or prose paraphrases featuring jokes, toasts, and commentary on behavior at Greek symposia, or drinking parties. The content offers valuable insights into sympotic culture, detailing the customs and social dynamics of these gatherings. Specific references to food, drink, and contemporary dining practices are frequent, while the humor often targets stereotypical partygoers such as parasites and drunkards. There are also indications that Clearchus employed mythological parody for comic effect. The fragments survive exclusively through this indirect transmission, compiled in modern scholarly editions, though they cannot be assigned with certainty to any of Clearchus’s known play titles. While Clearchus remains a minor figure compared to contemporaries like Aristophanes, these fragments are significant for reconstructing the broader scope of Old Comedy beyond its few complete surviving plays. They also serve as important primary sources for ancient Greek social history, particularly illuminating the cultural institution of the symposium.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τήνδ’ ἐγώ μεστὴν ἅπαξ ἐπονομάσας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "προπίομαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "συγγενέσι πίστωμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "φιλίας, πιὼν δ’ ἐρῶ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[spk_β]τὰ λοιπά· πνίγομαι γάρ. Β. ἀλλ’ ἐπιρρόφει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Γόγγρων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τε λευκῶν πᾶσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "τοῖς κολλώδεσι βρόχθιζε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τούτοις γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "τρέφεται τὸ πνεῦμα καί τὸ φωνάριον ἡμῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "περίσαρκον γίγνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Εἰ τοῖς μεθυσκομένοις ἑκάστης ἡμέρας ἀλγεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "συνέβαινε τὴν κεφαλὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρὸ τοῦ πιεῖν τὸν ἄκρατον, ἡμῶν οὐδὲ εἷς ἔπινεν ἄν. νυνὶ δὲ πρότερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῦ πόνου τὴν ἡδονήν[ln_5]προλαμβάνοντες ὑστεροῦμεν τἀγαθοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Λάβ’ ὕδωρ κατὰ χειρός. Β. μηδαμῶς. καλῶς ἔχει. Α. λάβ’ ὦγάθ’. οὐδὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χεῖρον. ἡ παῖς ἐπιτίθει ἐπὶ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τράπεζαν κάρυα καὶ τραγήματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Οἶνος Λέσβιος, ὃν αὐτὸς ἐποίησεν ὁ Μάρων ἐμοὶ δοκῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gmw-aa",
+      "title": {
+        "english": "Symposium and Drinking Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clearchus-the-comic-poet-symposium-drinking-aa-gmw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-aa.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "efq-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "plato-the-comic-poet-epigram-efq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ad",
+      "title": {
+        "english": "Fragments on Athenian Politicians",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀθηναίων Πολιτικῶν"
+      },
+      "url_slug": "eupolis-of-athens-politicians-dum-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/politicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/politicians.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bb",
+      "title": {
+        "english": "Fragments on Poverty and Conduct",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Ἀγωγῆς"
+      },
+      "url_slug": "menander-of-athens-poverty-conduct-hps-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-conduct",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.json"
+      }
+    },
+    {
+      "eul_wid": "czs-ad",
+      "title": {
+        "english": "Fragments on the Judgment of Paris",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Πάριδος Κρίσεως"
+      },
+      "url_slug": "cratinus-the-comic-poet-judgment-paris-czs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/judgment-paris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/judgment-paris.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bn",
+      "title": {
+        "english": "Georgus",
+        "ancient_greek": "Γεωργός"
+      },
+      "url_slug": "menander-of-athens-georgus-hps-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-an",
+      "title": {
+        "english": "New Fragments of Misumenus",
+        "ancient_greek": "Νέα Ἀποσπάσματα Μισουμένου"
+      },
+      "url_slug": "menander-of-athens-new-misumenus-hps-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/new-misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ap",
+      "title": {
+        "english": "Sentences from Papyrus",
+        "ancient_greek": "Γνῶμαι ἐκ Παπύρου"
+      },
+      "url_slug": "menander-of-athens-papyrus-sentences-hps-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/papyrus-sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/clearchus-the-comic-poet/symposium-drinking-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clearchus-the-comic-poet/symposium-drinking-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

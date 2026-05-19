@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kjq-am",
+  "eul_aid": "kjq",
+  "author_slug": "epic-fragments-anonymous",
+  "work_slug": "ethopoeia-am",
+  "url_slug": "epic-fragments-anonymous-ethopoeia-am-kjq-am",
+  "author": {
+    "english": "Epic Work  Anonymous",
+    "ancient_greek": "Ἐπικά Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Ethopoeic Exercise",
+    "ancient_greek": "Ἠθοποιία"
+  },
+  "seo": {
+    "browser_title": "Ethopoeic Exercise by Anonymous Author on Eulogikon",
+    "meta_title": "Classical Ethopoeic Exercise by Anonymous in Ancient Greek",
+    "meta_description": "An anonymous rhetorical exercise in character portrayal, an ethopoeia. Shows classical technique. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Ethopoeic Exercise is an anonymous example of ethopoeia, a rhetorical exercise from the progymnasmata, the preliminary training in rhetoric. The exercise involves composing a speech in character for a figure from epic poetry, aiming to demonstrate a credible understanding of that character&#x27;s psychology and emotional state. While most surviving progymnasmata are composed in prose, this particular exercise is notably written in verse, a formal choice that aligns it with its epic model. The text presents a dramatic monologue, as evidenced by its opening lines, which feature a speaker directly addressing an audience with questions that convey a sense of grievance and exhaustion from unacknowledged labors.</p>\n<p class=\"research-text\">The exercise demonstrates the core principles of the ethopoeia form, including the credible portrayal of a known literary figure&#x27;s psychology, the maintenance of appropriateness to the person&#x27;s status and the dramatic situation, and the creative engagement with a canonical epic text. A key component is the portrayal of strong emotions, a technique known as pathopoeia, which is immediately apparent in the speaker&#x27;s tone of indignation and weariness. Such school compositions were typically preserved anonymously within manuscripts containing rhetorical handbooks or collections, such as those by Aelius Theon, Hermogenes, and Aphthonius.</p>\n<p class=\"research-text\">The practice of ethopoeia was foundational to rhetorical education, training students in invention, stylistic variation, and decorum. It exerted a significant influence on literary genres that rely heavily on character speech, including tragedy and the ancient novel. The exercise remained a staple of Byzantine education, where the form was later adapted for Christian contexts, demonstrating its enduring pedagogical and literary utility.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Τί βλοσυροῦ κυανωπὸν ὕδωρ ἐπιβαίνετε [πόν]του βύσσινα κολπώσαντες ἐφ’ ὁλκάσι χίλια λαίφη; τί πλόον ἐντύνεσθε ταχεῖς ἐπὶ πάτρια τείχη μηδὲ γέρας νείμαντες ἐς ἀσπίσι πολλὰ καμόντος εἰς ἀρετήν; ποῖον γὰρ ἀτείρεα μόχθον ἀνύσσας οὐκ ἔτλην; ποῖον δὲ δι’ Ἄρεος ἄνδρα κατά[ντη] [ο]ὐ νυχ[ίαν] Πλούτωνος ἐς ἄκριτον [ἤ]λασα μοῖραν;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kjq-ap",
+      "title": {
+        "english": "Epic Fragment",
+        "ancient_greek": "Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-fragment-kjq-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/fragment.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-al",
+      "title": {
+        "english": "Ethopoeic Exercise",
+        "ancient_greek": "Ἠθοποιία"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeic-exercise-kjq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeic-exercise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ak",
+      "title": {
+        "english": "Ethopoeic Exercises",
+        "ancient_greek": "Ἠθοποιίαι"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-ak-kjq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ag",
+      "title": {
+        "english": "Historical Epic Fragment A",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ag-kjq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ah",
+      "title": {
+        "english": "Historical Epic Fragment B",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ah-kjq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ah.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ao",
+      "title": {
+        "english": "Iambic encom",
+        "ancient_greek": "Ἰαμβικὸν Ἐγκώμιον"
+      },
+      "url_slug": "epic-fragments-anonymous-iambic-encom-kjq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/iambic-encom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/iambic-encom.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-an",
+      "title": {
+        "english": "Inaugural Speech",
+        "ancient_greek": "Λόγος ἐπιβατήριος"
+      },
+      "url_slug": "epic-fragments-anonymous-inaugural-speech-kjq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/inaugural-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/inaugural-speech.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/inaugural-speech.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/inaugural-speech.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/inaugural-speech.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ab",
+      "title": {
+        "english": "Mercury the Creator of the World and Hermopolis Magna",
+        "ancient_greek": "Ἑρμῆς ὁ Δημιουργὸς τοῦ Κόσμου καὶ Ἑρμοῦπολις"
+      },
+      "url_slug": "epic-fragments-anonymous-creator-world-hermopolis-kjq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/creator-world-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/creator-world-hermopolis.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ai",
+      "title": {
+        "english": "Poem-the Rising Nile",
+        "ancient_greek": "Ποίημα περὶ τοῦ Νείλου ἀνατέλλοντος"
+      },
+      "url_slug": "epic-fragments-anonymous-rising-nile-kjq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/rising-nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/rising-nile.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-aj",
+      "title": {
+        "english": "Polyxena and Achilles",
+        "ancient_greek": "Πολυξένη καὶ Ἀχιλλεύς"
+      },
+      "url_slug": "epic-fragments-anonymous-polyxena-achilles-kjq-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/polyxena-achilles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/polyxena-achilles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/polyxena-achilles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/polyxena-achilles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/polyxena-achilles.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ac",
+      "title": {
+        "english": "Praise of a Professor Teaching at Berytus University",
+        "ancient_greek": "Ἐγκώμιον Καθηγητοῦ ἐν Βηρύτῳ"
+      },
+      "url_slug": "epic-fragments-anonymous-professor-berytus-kjq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/professor-berytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/professor-berytus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/professor-berytus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/professor-berytus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/professor-berytus.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-aa",
+      "title": {
+        "english": "Praise of a Smyrnaean Professor Teaching at Berytus University",
+        "ancient_greek": "Ἐγκώμιον Σμυρναίου Καθηγητοῦ ἐν Βηρύτῳ"
+      },
+      "url_slug": "epic-fragments-anonymous-smyrnaean-professor-berytus-kjq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/smyrnaean-professor-berytus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/smyrnaean-professor-berytus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/smyrnaean-professor-berytus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/smyrnaean-professor-berytus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/smyrnaean-professor-berytus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uuu-aa",
+      "title": {
+        "english": "Abduction of Helen",
+        "ancient_greek": "Ἁρπαγὴ Ἑλένης"
+      },
+      "url_slug": "colluthus-of-lycopolis-abduction-of-helen-uuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.json"
+      }
+    },
+    {
+      "eul_wid": "dfm-aa",
+      "title": {
+        "english": "Anonymous Epic Poems",
+        "ancient_greek": "Ἀνώνυμα Ἐπικὰ Ποιήματα"
+      },
+      "url_slug": "epic-fragments-anonymous-i-epic-poems-dfm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous-i/epic-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous-i/epic-poems.json"
+      }
+    },
+    {
+      "eul_wid": "utg-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "christodorus-of-coptus-epigrams-utg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "izm-ac",
+      "title": {
+        "english": "Fragments of the Achaean History",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ἀχαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "rhianus-of-crete-achaean-history-izm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/achaean-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/achaean-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/achaean-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/achaean-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/achaean-history.json"
+      }
+    },
+    {
+      "eul_wid": "mfi-ab",
+      "title": {
+        "english": "Geographical Fragments of Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βιθυνίας"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-ab-mfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-ab.json"
+      }
+    },
+    {
+      "eul_wid": "euq-aa",
+      "title": {
+        "english": "Meropis Fragments",
+        "ancient_greek": "Μηροπίδος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-meropis-anonymous-fragments-euq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-meropis-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gwm-ab",
+      "title": {
+        "english": "On Mortality and Transience",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "choerilus-of-iasus-mortality-transience-gwm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.json"
+      }
+    },
+    {
+      "eul_wid": "uge-aa",
+      "title": {
+        "english": "Sack of Ilium",
+        "ancient_greek": "Ἅλωσις Ἰλίου"
+      },
+      "url_slug": "tryphiodorus-of-egypt-sack-of-ilium-uge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-am",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-am.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

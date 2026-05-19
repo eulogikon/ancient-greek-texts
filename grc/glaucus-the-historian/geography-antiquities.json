@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mfs-aa",
+  "eul_aid": "mfs",
+  "author_slug": "glaucus-the-historian",
+  "work_slug": "geography-antiquities",
+  "url_slug": "glaucus-the-historian-geography-antiquities-mfs-aa",
+  "author": {
+    "english": "Glaucus the Historian",
+    "ancient_greek": "Γλαῦκος ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Arab Geography and Antiquities",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Glaucus the Historian on Eulogikon",
+    "meta_title": "Arab Geography and Antiquities by Glaucus in Greek",
+    "meta_description": "Glaucus the Historian documents Arabian geography and antiquities in these preserved fragments from the Hellenistic Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as <strong>Arab Geography and Antiquities</strong>, attributed to the obscure author Glaucus the Historian, survives only in a handful of prose passages. Its Greek title, <strong>Apospasmata</strong>, meaning &quot;Extracts&quot; or &quot;Selections,&quot; strongly suggests the surviving text represents a compilation or epitome of a larger geographical and historical treatise. The content of these fragments is exclusively geographical and ethnographic, focusing on the Arabian Peninsula and adjacent regions. They provide brief entries on various cities, towns, and peoples, such as the Ataphenoi, the city of Dumatha, and the region of Oman, often noting the demonym for their inhabitants. The work represents a Greek scholarly perspective on the topography and populations of the Arab world, though its extreme obscurity and fragmentary state indicate it was a minor text, likely superseded by or absorbed into more comprehensive geographical compilations without direct attribution. Its transmission history is unrecorded in major manuscript traditions, and it survives solely through these isolated excerpts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-4",
+      "text": "ΑΡΑΒΙΚΗ ΑΡΧΑΙΟΛΟΓΙΑ. E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Steph. Byz: Ἀταφηνο ὶ , ἔθνος μέγα Ἀραβίας, περὶ οὗ Γλαῦκος ἐν δευτέρᾳ. Δούμαθ α , πόλις Ἀραβίας. Ὁ πολίτης Δουμαθηνός, ὡς Γλαῦκος ἐν βʹ Ἀραβικῆς ἀρχαιολογίας. Ἔρθ α , πόλις Παρθίας ἐπὶ τῷ Εὐφράτῃ. Τὸ ἐθνικὸν Ἐρθηνός, ὡς Γλαῦκος ἐν Ἀραβικῶν δευτέρῳ. Νέγλ α , πολίχνιον Ἀραβίας. Γλαῦκος δευτέρῳ Ἀραβικῆς ἀρχαιολογίας. Τὸ ἐθνικὸν Νέγλιος ἢ Νεχλίτης τῷ ἔθει τῆς χώρας. Ὄμαν α , πόλις τῆς εὐδαίμονος Ἀραβίας. Γλαῦκος δευτέρῳ Ἀρ. ἀρχ. Τὸ ἐθνικὸν Ὀμανεύς. Εὐαληνο ὶ , ἔθνος περὶ οὗ φησὶ Γλαῦκος ἐν δευτέρῳ Περὶ Ἀραβίας. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem: Ἀΐλανο ν , πόλις Ἀραβίας, ἧς ὁ πολίτης Ἀϊλανίτης. Τινὲς δὲ κόλπον Αἴλα (?) φασί. Γλαῦκος δὲ κώμην αὐτὴν λέγει ἐν Ἀραβικῶν τρίτῳ· «Τὰ πρὸς ἕω τῆς Αΐλας.» Ὁ πολίτης Αἰλανίτης. Βασιννο ὶ, Ἀραβικὸν ἔθνος. Γλαῦκος ἐν τρίτῳ Ἀραβικῆς ἀρχαιολογίας. E LIBRO QUARTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Idem: Γάδδ α , χωρίον Ἀραβίας. Γλαῦκος ἐν τετάρτῳ. Καὶ θηλυκῶς καὶ οὐδετέρως. Τὸ ἐθνικὸν Γαδδηνός. Idem: Χαράκμωβ α , πόλις τῆς νῦν τρίτης Παλαιστίνης ... ὁ πολίτης .. Χαρακμωβηνός ... Γλαῦκος ἐν Ἀραβικῆς ἀρχαιολογίας τετάρτῳ· «Ἡσύχαζον δ’ ἐν τούτοις Χαρακμωβηνοί.» E LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Idem: Σαλμηνο ὶ , ἔθνος νομαδικὸν, ὡς Γλαῦκος ἐν * Ἀραβικῆς ἀρχαιολογίας. Γέ α , πόλις πλησίον Πετρῶν ἐν Ἀραβίᾳ, ὡς Γλαῦκος ἐν Ἀραβικῇ ἀρχαιολογίᾳ. Ἀρίνδηλ α , πόλις Παλαιστίνης, Γλαῦκος δὲ κώμην αὐτὴν καλεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "aby-aa",
+      "title": {
+        "english": "Argolic Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agias-of-troezen-histories-myths-aby-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agias-of-troezen/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agias-of-troezen/histories-myths.json"
+      }
+    },
+    {
+      "eul_wid": "jry-aa",
+      "title": {
+        "english": "Fragments on Delian Legends",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Δηλίων Μύθων"
+      },
+      "url_slug": "phanodicus-delian-legends-jry-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phanodicus/delian-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus/delian-legends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus/delian-legends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus/delian-legends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanodicus/delian-legends.json"
+      }
+    },
+    {
+      "eul_wid": "yfq-aa",
+      "title": {
+        "english": "Fragments on Phoenician History",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας"
+      },
+      "url_slug": "julius-pomponius-laetus-phoenician-history-yfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/julius-pomponius-laetus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.json"
+      }
+    },
+    {
+      "eul_wid": "kdm-aa",
+      "title": {
+        "english": "Fragments on Spartan Constitution",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακεδαιμονίων Πολιτείας"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-spartan-constitution-kdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/spartan-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.json"
+      }
+    },
+    {
+      "eul_wid": "luo-aa",
+      "title": {
+        "english": "Historical Memoirs Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-viii-euergetes-historical-fragments-luo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "cfs-aa",
+      "title": {
+        "english": "Lycian Oracle Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polycharmus-the-historian-lycian-oracle-cfs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polycharmus-the-historian/lycian-oracle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polycharmus-the-historian/lycian-oracle.json"
+      }
+    },
+    {
+      "eul_wid": "ubo-ac",
+      "title": {
+        "english": "Methodius",
+        "ancient_greek": "Μεθόδιος"
+      },
+      "url_slug": "anonymous-historical-work-methodius-ubo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/methodius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.json"
+      }
+    },
+    {
+      "eul_wid": "gvs-aa",
+      "title": {
+        "english": "Peloponnesian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "chrysermos-of-corinth-historical-fragments-gvs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysermos-of-corinth/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysermos-of-corinth/historical-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/glaucus-the-historian/geography-antiquities",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-the-historian/geography-antiquities.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

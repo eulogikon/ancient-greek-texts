@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mui-ab",
+  "eul_aid": "mui",
+  "author_slug": "dionysius-the-thracian",
+  "work_slug": "homeric-pronunciation",
+  "url_slug": "dionysius-the-thracian-homeric-pronunciation-mui-ab",
+  "author": {
+    "english": "Dionysius the Thracian",
+    "ancient_greek": "Διονύσιος ὁ Θρᾷξ"
+  },
+  "title": {
+    "english": "Fragments on Homeric Pronunciation",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ὁμηρικῆς Προφορᾶς"
+  },
+  "seo": {
+    "browser_title": "Fragments Homeric Pronunciation by Dionysius Thracian...",
+    "meta_title": "Fragments on Homeric Pronunciation by Dionysius Thracian...",
+    "meta_description": "Surviving fragments of Dionysius Thracian's grammatical treatise on Homeric pronunciation. These notes discuss accentuation phonetics in Homeric verse."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Homeric Pronunciation is a collection of philological notes attributed to the Hellenistic grammarian Dionysius Thrax. Preserved exclusively through quotations in later sources, these sixty-one fragments apply the grammatical principles outlined in his seminal work, the <strong>Tekhnē Grammatikē</strong>, to specific questions concerning the oral performance of the Homeric epics. The fragments systematically address issues of pronunciation, accentuation, and prosody, focusing on the role of syllable quantity within the Homeric hexameter, the rules governing pitch accents, and phonological peculiarities of the epic dialect. This technical analysis was often employed as a criterion for textual criticism, adjudicating between variant readings based on their conformity to established rules of spoken delivery. The work survives through citations in later ancient and Byzantine grammarians and scholiasts, most notably within the Homeric scholia and the writings of Herodian. As a product of the Alexandrian scholarly tradition, these fragments were instrumental in standardizing the teaching and recitation of Homeric poetry, providing a foundational technical framework that influenced grammatical science and Homeric commentary for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[1]",
+      "text": "Σ Hom. β 96 (= Nikanor p. 26 Carnuth): Διονύσιος ὁ Θρᾷξ ἰδίᾳ μὲν τὸ κοῦροι, ἰδίᾳ δὲ τὸ ἐμοὶ μνηστῆρες διαστέλλει. καὶ ἡμῖν δὲ οὕτω δοκεῖ, ἵν’ ᾖ, ὦ νέοι, ἐμοῖ μνηστῆρες. MQR Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ο 141 (aus Herodian): ... συστέλλει δὲ 〈κακῶσ〉 ὁ Θρᾷξ τὸ ῥῦσθαι· τὸ γὰρ πλῆρές ἐστι ῥύεσθαι. T Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ν 41: Χρύσιππος δὲ ὁ Στωϊκὸς (St. V. Fr. III 773) καὶ Διονύσιος ὁ Θρᾷξ δασύνουσιν τὸ αὐΐαχοι, ἵν’ ᾖ ξηρόφωνοι. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Β 262 (aus Herodian): Διονύσιος δὲ ὁ Θρᾷξ φησι κακῶς ἀνεγνωκέναι τὸν Ἀρίσταρχον κατὰ τὸν περισπώμενον τόνον τὸ μὲν αἰδῶ καὶ ἠῶ, τὰ δὲ ἄλλα κατ’ ὀξεῖαν τάσιν Πυθώ, Λητώ· ἐχρῆν γάρ, φησίν, ὁμοίως ἀνεγνωκέναι. A a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Σ Hom. Μ 158 (aus Herodian): ταρφειά ς : Ἀρίσταρχος ὀξύνει ὡς πυκνάς· ὁ δὲ Θρᾷξ Διονύσιος ὁμοίως προεφέρετο τῷ ταχείας, παρὰ τὸ ταρφύς ἀρσενικόν, οὗ πολλαὶ ἦσαν χρήσεις παρὰ τοῖς παλαιοῖς καὶ παρ’ Ὁμήρῳ. καὶ δῆλον ὅτι ἀναλόγως μὲν ἀναγιγνώσκει ὁ Θρᾷξ, ἐπεκράτησε δὲ ἡ Ἀριστάρχου. A b. Et. Gen. (AB) ταρφειάς· Θρᾶιξ ὁ Διονύσιος βαρύνει ὡς ταχείας. Ἀρίσταρχος δὲ ὀξύνει ὡς τὸ πυκνάς. οὕτως καὶ ἐπεκράτησε ἡ ἀνάγνωσις. c. Et. M. 747, 20: ταρφειάς· Ἀρίσταρχος ὀξύνει ὡς πυκνάς· ὁ δὲ Θρᾷξ Διονύσιος ὁμοίως τῷ ταχείας, παρὰ τὸ ταρφύς ἀρσενικῶς, οὗ πολλαὶ ἦσαν χρήσεις. καὶ δῆλον ὅτι ἀναλόγως μὲν ἀναγιγνώσκει ὁ Θρᾷξ, ἐπεκράτησε δὲ ἡ Ἀριστάρχου ἀνάγνωσις. Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Ν 103: ... τὸ δὲ θώων ἔνιοι περισπῶσιν, ἵν’ ὁμοτονῇ τῷ θηρῶν καὶ κυνῶν†. οὕτως δὲ καὶ Ἀρίσταρχόν φασι προφέρεσθαι. Διοκλῆς δὲ καὶ ὁ Θρᾷξ Διονύσιος ὡς βαρύνοντα τὴν λέξιν τὸν Ἀρίσταρχον διαβάλλουσιν. Κάσσιος δὲ ἀπολογούμενος ὑπὲρ τῆς βαρυτονήσεώς φησιν ὅτι τὰ μονοσύλλαβα, ὅταν μὲν ἔχῃ τὴν πληθυντικὴν ἐπὶ τῆς τελευταίας συλλαβῆς μετὰ συμφώνου λεγομένην, πάντως καὶ κατὰ τὴν γενικὴν περισπᾶται, οἷον θῆρες, κύνες, χεῖρες, ὅταν δὲ ἀπὸ φωνήεντος ἀρχομένην, πάντως βαρυτονουμένην, οἷον Τρῶες, δμῶες, θῶες, λᾶες. ἀντίκειται δὲ αὐτῷ τὸ παίδων καὶ πάντων. Χαῖρις (fr. 5 B.) δέ φησιν οὐκ εἶναι ἐν †δισυλλάβοις ἀναλογίαν. Ah a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Pap. Ox. 221, col. III 21 ff.: [ΕΝΤΑΥΘΟΙ] ΝΥΝ ΗϹΟ ΜΕΤ ΙΧΘΥϹΙΝ [το εν [ταυθοι ο Θρ]αιξ βαρυτονει το γαρ [π]ερισπαν [της νεωτε]ρας Ιαδος οι δε δια το[υ] κ̣εκ’ [ ....... ] . το εκ του ενταυθα [πα]ρ̣α [ ....... ]της εκ του ενταυθ[ι .. ] . την [ .... περι]σπωμενην γεγ̣[ ... ] . αι̣α [ ....... ]ς δε Αττικον β φη[ .... ]στον b. Σ Hom. Φ 122: ἐνταυθο ῖ · Διονύσιος ὁ Θρᾷξ, Τίμαρχος καὶ Ἀριστοτέλης ἐνταῦθοι ὁμοίως τῷ ἐνταῦθα προπερισπωμένως ἀνέγνωσαν. χρὴ δὲ περισπᾶν τὴν προκειμένην λέξιν ἅτε δὴ καὶ τοῦ χαρακτῆρος ἐπικρατοῦντος· τὰ γὰρ εἰς οι λήγοντα τοπικὰ ἐπιρρήματα ὑπὲρ δύο συλλαβὰς πάντα περιεσπάσθη, μεσαβοῖ, πανταχοῖ, Φρεαρροῖ· διὸ καὶ τοῦτο δικαίως περισπασθήσεται τῷ χαρακτῆρι πειθόμενον. h (= M 1 P 11 U 4 ) Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8*",
+      "text": "Β 269 (aus Herodian): ἀχρεῖο ν · Διονύσιος καὶ Τυραννίων (fr. 8 H.) τὴν πρώτην ὀξύνουσιν, ὥσπερ καὶ παρὰ τοῖς Ἀττικοῖς, καὶ ἀναλόγως· παρὰ γὰρ τὸ χρεία τὸ κατὰ στέρησιν ἄχρειος, ὡς μοῦσα ἄμουσος. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9*",
+      "text": "Μ 20: (aus Herodian) Κάρησο ς : Τυραννίων (fr. 29 H.) ὀξύνει τὸ Κάρησος ὡς Παρνασσός· οὕτως γὰρ ὑπὸ Κυζικηνῶν ὀνομάζεσθαι τὸν ποταμόν. ὁ δὲ Ἀρίσταρχος βαρύνει ὡς Κάνωβος. εἴπομεν ἐν ἑτέροις ὅτι οὐ πάντως ἐπικρατεῖ ἡ ἀπὸ τῶν ἐθνῶν χρῆσις καὶ ἐπὶ τὴν Ὁμηρικὴν ἀνάγνωσιν, ὁπότε περὶ τοῦ Γλισᾶντα (B 504) διελάβομεν, εἴγε Διονύσιος ἱστορεῖ τοὺς ἐγχωρίους συστέλλειν τὸ ι καὶ μὴ 〈προ〉περισπᾶν. τό τε Λύκαστος (B 647) ὁ αὐτὸς ἱστορεῖ ὀξύνεσθαι ἡμῶν ἀναγιγνωσκόντων βαρυτόνως. A a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10*",
+      "text": "Σ Hom. Α 607: Ἀρίσταρχος τὸ ἧχι χωρὶς τοῦ ι γράφει, καὶ Διονύσιος. παρατίθεται δὲ ὁ Διονύσιος τοὺς Δωριεῖς λέγοντας ἇχι. A b. Τὸ ἧχι χωρὶς τοῦ ι κελεύει γράφειν Διονύσιος καὶ παρατίθεται τοὺς Δωριεῖς λέγοντας ἇχι. b T Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11*",
+      "text": "Ο 571: Ὅτι τῷ εὐκτικῷ ἀντὶ τοῦ προστακτικοῦ ἐχρήσατο, ὥς φησι Διονύσιος. T Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12*",
+      "text": "Ρ 125 (= Aristonicus p. 274 Friedländer): ... ὁ δὲ Διονύσιος τὸ σημεῖόν φησιν, ὅτι ἤλλακται πτῶσις „Πάτροκλον ἐπεὶ κλυτὰ τεύχε’ ἀπηύρα“ ἀντὶ τοῦ Πατρόκλου. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13*",
+      "text": "Χ 379: Ὅτι τὴν αἰτίαν προτέταχεν, ἐπειδὴ τόνδ’ ἄνδρα θεοί. ἔδει δὲ οὕτως „εἰ δ’ ἄγετ’, ἀμφὶ πόλιν σὺν τεύχεσι πειρηθῶμεν, ὄφρα κ’ ἔτι γνῶμεν Τρώων νόον, ἢ καταλείψουσι πόλιν ἄκρην τοῦδε πεσόντος, ἠὲ μένειν μεμάασιν, ἐπειδὴ τόνδ’ ἄνδρα θεοὶ δαμάσασθαι ἔδωκαν.“ ὁ δὲ Διονύσιος διστάζει μὴ πρὸς τὴν ἀπόλειψιν τοῦ χρόνου· παρασκευάζει γὰρ τὸ „ἐπειδὴ νῆάς τε καὶ Ἑλλήσποντον ἵκοντο“ (Ψ 2) καὶ „ἐπίτονος βέβλητο“ (μ 423)· τὰ γὰρ τοιαῦτα ἐσημειοῦντο πρὸς κρίσιν ποιημάτων, ὅτι σπανίως Ὅμηρος κακομέτρους ποιεῖ. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Β 111 (aus Didymos): Σχολικὸν ἀγνόημα τὸ δοκεῖν Ζηνοδότειον εἶναι τὴν μετὰ τοῦ ς γραφήν. καὶ δόξειεν ἂν ὑπὸ Διονυσίου τοῦ Θρᾳκὸς ταῦτα δεδόσθαι· ἐν γὰρ τῷ Περὶ ποσοτήτων καθάπτεται Ζηνοδότου ὡς ἠγνοηκότος ὅτι τῷ μέγα ἀντὶ τοῦ μεγάλως Ὅμηρος ἀποχρῆται· παρ’ ὃ δὴ καὶ κατά τινα τῶν ὑπομνημάτων μετειλῆφθαι τὸ μέγα ἀντὶ τοῦ μεγάλως. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Ι 464: Διονύσιος AT ὁ Θρᾷξ ἐν τῷ Πρὸς Κράτητα διὰ τῆς ἱπποδρομίας (sc. Ψ 330 vel 393) A φησὶ γεγραμμένου „ἀντιόωντεσ“ μεταθεῖναι τὸν Ἀρίσταρχον ἀμφὶς ἐόντες. AT Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Ο 86 (= Aristonicus p. 241/2 Friedländer): Ὁ δὲ Θρᾷξ Διονύσιος παρακεῖσθαί φησι τὸ σημεῖον, ὅτι διὰ παντὸς τοὺς θεοὺς συνίστησι πίνοντας καὶ ταύτην ἀρίστην διαγωγὴν ἔχοντας, πρὸς τὸ ἐν Ὀδυσσείᾳ „οὐ γὰρ ἔγωγέ τί φημι τέλος χαριέστερον εἶναι ἢ ὅταν εὐφροσύνη μὲν ἔχῃ“ (ι 5f.). A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Ο 741 (= Nikanor p. 239 Friedländer): Ἀρίσταρχος κατὰ δοτικὴν ἔγραφε, συνάπτων δηλονότι ὅλον τὸν στίχον· ἔσται δὲ οὕτως τὸ ἑξῆς, τῶ ἐν χερσίν, οὐ μειλιχίῃ τέλος πολέμοιο, οἷον ἐν τῷ δόρατι, οὐκ ἐν προσηνείᾳ οὐδ’ ἐν ἀγρίᾳ κεῖται ἡ τοῦ πολέμου σωτηρία. Διονύσιος δὲ ὁ Θρᾷξ κατ’ εὐθεῖαν πτῶσιν, ᾧ ἀκόλουθόν ἐστιν στίζειν ἐπὶ τὸ φόως τελείᾳ στιγμῇ· καὶ ἐσται καθ’ ἑαυτὸ ἐκάτερον ἡμιστίχιον. ὁ δὲ λόγος, διόπερ ἐν χερσὶν ἡ σωτηρία, προσήνεια δὲ οὐκ ἔστι πολέμου 〈οἰκεία〉. A a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Σ Hom. Π 93: Τοὺς δ’ ἀθετεῖ Ζηνόδοτος καὶ ἀντ’ αὐτῶν γράφει „μή ς’ ἀπομουνωθέντα λάβῃ κορυθαίολος Ἕκτωρ“, ὃν παρῳδεῖ Διονύσιος ὁ Θρᾷξ ἀντὶ τοῦ „λάβῃ“ ‚δάκῃ‛ λέγων. T b. Σ Hom. Π 93: Ὅτι Ζηνόδοτος κατὰ τὸ ἑξῆς τέσσαρας ἀπὸ τούτου ἦρκε, γράφει δὲ ἀντὶ αὐτῶν τοῦτο〈ν〉· „μή ς’ ἀπογυμνωθέντα λάβῃ κορυθαίολος Ἕκτωρ“. ἔστι δὲ εὐτελὴς καὶ τῇ συνθέσει καὶ τῇ διονοίᾳ. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Σ 207: ὡς δ’ ὅτε καπνὸς ἰὼν ἐξ ἄστεος αἰθέρ’ ἵκηται: Οἱ περὶ Διονύσιον τὸν Θρᾷκά φασιν Ἀρίσταρχον πρώτῃ ταύτῃ χρώμενον τῇ γραφῇ μεταθέσθαι, καὶ γράψαι „ὡς δ’ ὅτε πῦρ ἐπὶ πόντον ἀριπρεπὲς αἰθέρ’ ἵκηται.“ ἐμφατικῶς τὸ ἐν πολέμῳ πῦρ ἐπιτεθὲν τῷ Ἀχιλλεῖ παρέβαλε τῷ ἐν πολεμουμένῃ ἁπτομένῳ. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Ω 110: Ἀπολλόδωρος (FGrHist 244, 268) καὶ Ἀρητάδης καὶ Νεοτέλης καὶ Διονύσιος ὁ Θρᾷξ διὰ τοῦ τ τὴν πρόθεσιν γράφουσι, καὶ δασύνουσι τὸ α, ἵνα ᾖ προσάπτω, ἀνατίθημι· οἱ δὲ χωρὶς τοῦ τ ἔγραψαν καὶ ἐψίλωσαν τὸ α, ἵν’ ταὐτὸν ὑπάρχῃ τῷ προϊάλλω, οἷον δίδωμι, προσπεύδω. οὕτως δὲ καὶ Ζηνόδοτος καὶ Ἀρίσταρχος ἐν τοῖς Πρὸς Κωμανόν. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21*",
+      "text": "Ε 138: (aus Herodian) Ὑπεράλμενο ν · Διονύσιος ἀναστρέφει τὴν ὑπέρ, ὁ δὲ Ἀσκαλωνίτης (p. 45 B.) ἓν ἐποίει, ὃ καὶ πιθανώτερον. A a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22*",
+      "text": "Σ Hom. Ο 656: 〈Τῶν πρωτέων·〉 Μέμφεται Διονύσιος. Οὐ γὰρ περιεσπᾶτο τὸ † . πρῶτον†. κατὰ συνίζησιν δὲ φαίνεται. T b. Ἀπὸ τοῦ πρώτων. Μέμφεται δὲ Διονύσιος· οὐ γὰρ τὸ πρώτων, φησί, περισπᾶται. b Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23*",
+      "text": "Σ 576: ... Φησὶ δὲ Διονύσιος γράφεσθαι καὶ „δονακῆεν“ κατὰ τὸ οὐδέτερον, ὡς καὶ τὸν πευκῶνα πευκᾶεν. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24*",
+      "text": "Ψ 160 (aus Herodian): ... Διονύσιος δ’ ἡγεῖτο πλεονάζειν τόν τε σύνδεσμον, καὶ ἀγοὺς ἡγεῖτο τοὺς ἡγεμόνας. ὁ μέντοι Ἀρίσταρχος ταγοὺς ἐξεδέξατο, καὶ σχεδὸν ἅπαντες παρὰ τὸ τάσσω ῥῆμα τοῦ σχηματισμοῦ γενομένου· διὸ καὶ ἐγὼ συγκατατίθεμαι. A Ap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "S. 91, 24: ... Ἐπὶ δὲ τοῦ ἰόμωροι Διονύσιος ὁ Θρᾷξ οἷον ἰόντες ἐπὶ τὸν μόρον, οἷον εὔψυχοι, ἀπὸ τοῦ προφανῶς ἐπὶ τὴν ἀπώλειαν ἰέναι. a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Σ Hom. Λ 424: Πρότμησιν Διονύσιος ὁ Θρᾷξ τὴν ὀσφύν, Φιλότιμος ἰατρὸς τὸν τράχηλον, Ἀρίσταρχος τὸ ἀπὸ τῆς ἥβης ἕως τοῦ ὀμφαλοῦ, τὸ ἦτρον· Παρμενίσκος (fr. 4 B.) δὲ τὸν ὀμφαλόν, διὰ τὸ τοῦτον πρῶτον ἐκτέμνεσθαι γεννωμένου τοῦ βρέφους, ἢ ὅτι κατ’ αὐτὸν εἰς δύο τέμνεται ἴσα ὁ ἄνθρωπος. A b. Σ Hom. Λ 424: Οἱ μὲν ἀπὸ τῆς ἥβης ἄχρι τοῦ ὀμφαλοῦ, ἐπεὶ καὶ τοῦτο ἱερουργεῖται, οἱ δὲ τὴν ὀσφύν, ἣν οὐδαμοῦ τιτρώσκει ὁ ποιητής, ὅτι τοῖς θεοῖς δίδοται αἴτιον ὂν ζωογονίας καὶ σπερμάτων. T Et.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Gen. (AB) s. v. ἑανό ς · Ὁ δὲ Θρᾷξ ἐξηγεῖται ἑανὸν τὸ λεπτόν· παρὰ τὸ ἕω, τὸ ἀμφίημι, ὡς καὶ τὸ „ἑανοῦ κασσιτέροιο“ (Σ 613) τοῦ ἐπὶ λεπτὸν ἐληλασμένου. Ath.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "XI 501 b: Διονύσιος δ’ ὁ Θρᾷξ τὴν στρογγύλην, τὴν ἀμφιθέουσαν κυκλοτερεῖ τῷ σχήματι (sc. φησὶ τὴν ἀμφίθετον φιάλην). Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Π 106: ... ἡ πήληξ μὲν οὖν εἰς ὃ τὸν λόφον τιθέασι, φάλαρα δὲ τὰ κατὰ τὰς παρειὰς πίπτοντα μέρη διὰ τὸ φανὰ εἶναι καὶ λαμπρά· ὡς δὲ ὁ Θρᾷξ, ὁ ἑκατέρωθεν αὐτῆς κόσμος. b T Pap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29a",
+      "text": "Ox. 221, col. XIV 16—25: [ .... ἐναύλ]ο{υ}ς 〈 ⁚ 〉 χ〈ε〉ιμάρρους ὡς Ἀρίσταρ[χος ...... ] . ν παραμήκεσι τόποις [ .......... ] . νεσαι ἐν τοῖς αὐλῶσιν [ .......... ] αὐλῶνες οἱ στενοὶ καὶ ἐ[πιμήκεις τό]ποι. ὁ δὲ Θρᾶιξ τὰ κοιλώ[ματα ..... α]ἱ ἐκ ⟦ ... ⟧ ρύσεις τῶν πο[ταμῶν πίμπλ]ανται· „καὶ ἐμπί{ν}πλη[θι ῥέεθ]ρα ὕδα[το]ς ⟦ .. ⟧ ἐκ πηγέων, [πάντ]ας δ’ ὀρόθυνον ἐναύλουσ“. αὐ[λὸς δὲ] πᾶν τὸ στενοῦν. Et.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30*",
+      "text": "Gen.: ἐννεσίῃσ ι · διανοήσεσιν, ἐννοίαις, βουλήσεσιν, ὥς φησι Διονύσιος. Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31*",
+      "text": "Ο 633: ἕλικο ς · Τὸ ἁπλοῦν ἀντὶ συνθέτου, ὡς καὶ Διονύσιός φησιν, ἀντὶ τοῦ εἰλίποδος. b T Σ Ο 635: ὁμοστιχάε ι · Συμπορεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32*",
+      "text": "βάρβαρον δέ φησιν εἶναι αὐτὸ Διονύσιος. b Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33*",
+      "text": "Ρ 218 (aus Aristonikos): Ὅτι τὸν ἐν τῷ Διακόσμῳ Χρόμιν εἰρημένον, „Μουσῶν δὲ Χρόμις ἦρχε“ (B 858), νῦν Χρομίον εἴρηκε διὰ τὸ μέτρον. ὁ δὲ Διονύσιος, εἴ τις ζητοίη, φησί, πότερον παραπεποίηται, εἴποιμεν ἂν τὸν Χρομίον· εὔλογον γὰρ ἐκεῖ τὸ ὄνομα πρῶτον. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34*",
+      "text": "Χ 68: ῥεθέω ν · Τῶν μελῶν. δείκνυσι δὲ ὅτι κατὰ παντὸς μέλους τὸ ζωτικὸν καὶ ψυχικόν ἐστιν. ῥέθη δὲ τὰ ζῶντα μέλη, δι’ ὧν ῥέζομέν τι· Αἰολεῖς δὲ τὸ πρόσωπον καὶ ῥεθομαλίδας τοὺς εὐπροσώπους φασίν. Διονύσιος δὲ καὶ νῦν τὸ πρόσωπόν φησι δηλοῦσθαι· διὰ γὰρ μυκτήρων ἢ στόματος ἐκπνέομεν, καίτοι γε τοῦ ποιητοῦ λέγοντος (Il. Ξ 518) „ψυχὴ δὲ κατ’ οὐταμένην ὠτειλὴν ἔσσυτο.“ A b T Pap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35*",
+      "text": "Ox. 1802, Fr. 2, 48: μέροπες· οἱ ἄφρονες ὑπὸ Εὐβοέων. Διονύσιος ἐν [ ... ... ... ] a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Σ Hom. χ 9: Διονύσιος ὁ Θρᾷξ ἐν ταῖς Μελέταις φησὶ τὴν παροιμίαν „πολλὰ μεταξὺ πέλει κύλικος καὶ χείλεος ἄκρου“ ἀπὸ τούτου διαδεδόσθαι. προστιθέμενος γὰρ Ἀντίνοος τὸ ἔκπωμα βάλλεται. V b. Zen. V 71: Πολλὰ μεταξὺ πέλει κύλικος καὶ χείλεος ἄκρο υ : Παροιμία λεχθεῖσα ἐξ αἰτίας τοιαύτης· Ἀγκαῖος παῖς Ποσειδῶνος φυτεύων ἀμπελῶνα βαρέως ἐπέκειτο τοῖς οἰκέταις. εἷς δὲ τῶν οἰκετῶν ἔφη μὴ μεταλήψεσθαι τὸν δεσπότην τοῦ καρποῦ. ὁ δὲ Ἀγκαῖος ἐπειδὴ ὁ καρπὸς ἐφθάκει, χαίρων ἐτρύφα, καὶ τὸν οἰκέτην ἐκέλευσε κεράσαι αὐτῷ. μέλλων δὲ τὴν κύλικα προσφέρειν τῷ στόματι, ὑπεμίμνησκεν αὐτὸν τοῦ λόγου· ὁ δὲ ἔφη τὸν εἰρημένον στίχον. τούτων ἔτι λεγομένων οἰκέτης ἦλθεν ἀπαγγέλλων, ὡς ὑπερμεγέθης σῦς τὸν ὄρχατον λυμαίνεται. ὁ δὲ Ἀγκαῖος ἀποβαλὼν τὴν πόσιν ἐπὶ τὸν σῦν ὥρμησε καὶ πληγεὶς ὑπ’ αὐτοῦ ἐτελεύτησεν. ὅθεν ἡ παροιμία. Διονύσιος δέ φησιν εἰρῆσθαι αὐτὴν ἀπὸ τῆς Ἀντινόου μνηστευσαμένου τὴν Πηνελόπην συμφορᾶς· προσαγόμενος γὰρ τὸ ἔκπωμα ἐτελεύτησε τοξευθεὶς παρὰ τοῦ Ὀδυσσέως. c. Et. M. 365, 22: Ἔνιοι ἐπισχόμενον συσσημαίνειν τὸν προσάγοντα τῷ †ἕρματι τὸ ποτήριον. ἐνταῦθα ὁ Θρᾷξ Διονύσιος φησὶ τὴν παροιμίαν „πολλὰ μεταξὺ κύλικοσ“. Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37*",
+      "text": "Θ 221 (= Aristonicus p. 143/4 Friedländer): Πρὸς τὸ ἔχων ἐν χειρί, τί ποτε σημαίνει. ὁ μὲν Ἀπολλόδωρος (FGrHist 244, 228) ὅτι περιειλήσας εἶχεν ἐν τῇ χειρί· ὁ δὲ Διονύσιος, πρὸς τὸ κατασείειν εὐθέτως λαβόμενος τοῦ φάρους. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38*",
+      "text": "Μ 301 (= Aristonicus p. 211 Friedländer): 〈Ἡ διπλῆ〉, ὅτι πειρήσοντα διάπειραν ληψόμενον, ἐνεδρεύσοντα· καὶ ὅτι ὁ καί περισσός ἐστιν. ὁ δὲ Διονύσιος, ὅτι δύναται σημαίνειν τι πλέον, οὕτως ἐνδεὴς τροφῆς ὥστε καὶ ἐπὶ πεπυκνωμένον καὶ ἠσφαλισμένον δόμον ἐλθεῖν. δόμον δὲ τὴν ἔπαυλιν. A a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39*",
+      "text": "Σ Hom. Ο 712 (= Aristonicus p. 255 Friedländer): Ἀθετεῖται, ὅτι εὐτελὴς ὁ στίχος καὶ ἰδιότης τῆς μάχης οὐ σώζεται· ξίφεσι μὲν γὰρ καὶ ἔγχεσι πάντοτε μάχονται, νῦν δὲ πελέκεσι καὶ ἀξίναις· ὁ δὲ Διονύσιος· „πῶς οὖν ἐπιφέρει ‘πολλὰ δὲ φάσγανα ἄλλα μὲν ἐκ χειρῶν χαμάδις πέσον‘, εἰ μὴ εἶχον ξίφη;“ A b. Σ Hom. Ο 712: Ἀθετεῖ Ἀρίσταρχος· ἐπιφέρει γὰρ περὶ ξιφῶν. φασὶ δὲ πληθύ〈ν〉ειν αὐτὸν τὰς φωνὰς τῶν ὅπλων διὰ τὸ φαντάζειν τὸν ἀκροατήν. b T Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40*",
+      "text": "Π 810 (= Aristonicus p. 271 Friedländer): 〈Ἡ διπλῆ〉, ὅτι σύνηθες ἦν τοῖς ἀρχαίοις ἁρματομαχεῖν, ἐσφαιρωμένοις δόρασι χρωμένους, καὶ ἀνατρέπειν ἐκ τῶν ὀχημάτων. ὁ δὲ Διονύσιος οὐκ ἐπὶ μελέτης, ἀλλ’ ὅτι ἀνεῖλε πρὸ τῶν ἀγώνων καὶ πρώτως εἰς πόλεμον παραγενόμενος. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41*",
+      "text": "Ρ 24 (= Aristonicus p. 272 Friedländer): Τὸ σημεῖον Διονύσιος διὰ τὸν „Ὑπερήνορά“ φησιν· προείρηται γὰρ „Ἀτρείδης δ’ ἄρ’ ἔπειθ’ Ὑπερήνορα ποιμένα λαῶν / οὔτασε“ (Ξ 516), καὶ ἴσως κατὰ τὸ σιωπώμενον ἐκεῖ αὐτὸν ὠνείδισεν. A a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42*",
+      "text": "Σ Hom. Σ 483: Καὶ οἱ μὲν περὶ Διονύσιόν φασιν αὐτοκίνητα αὐτὰ εἶναι ὡς τοὺς τρίποδας (373). οἱ δὲ περὶ Ἀριστόνικον 〈οὐ〉 συντίθενται, ἐπεὶ μή εἰσι παρὰ θεοῖς. T b. Eust. Il. 1148, 14: Διό τις τῶν παλαιῶν. Διονύσιος δὲ ἦν ἐκεῖνος αὐτοκίνητα καὶ τὰ ἐπὶ τῆς Ἀχιλλέως ἀσπίδος ὑπώπτευσεν ἡφαιστότευκτα ζῷα τὰ ἐν τοῖς ἑξῆς δηλωθησόμενα, εἰ καὶ ἀντέλεγέ, φασιν, Ἀριστόνικος. Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43*",
+      "text": "Τ 49 (= Aristonicus p. 292 Friedländer): ... ὁ δὲ Διονύσιος τὸ σημεῖόν φησιν, ὅτι οἷον μυκτηρίζοντός ἐστι τὸ „ἔτι γὰρ ἔχον ἕλκεα λυγρά“. δευτεραῖοι γάρ εἰσι τραυματίαι. τοῦτ’ οὖν λέγεσθαι, ὅτι χρῆσθαι αὐτοῖς μέλλει εἰς τὸν ἐπὶ Πατρόκλῳ ἀγῶνα πρὸς τὰ ἐναντία τοῖς τραύμασιν ἀγωνίσματα. ὑπεξαιρούμενος οὖν λέγει ὡς δὴ πρὸς τὸ ὑγιάσθαι ὄντων. A Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "Ω 514: Ἀθετεῖ ὁ Θρᾷξ· ὁ γὰρ ἵμερος περὶ μόνην τὴν ψυχήν. γυῖα δὲ οὐχ ὅλα τὰ μέλη φησίν. εἰ μὴ λέγοι τις, 〈ὅτι〉 στερνοτυπεῖ. τοῦτο δ’ οὐ γράφει. T Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45*",
+      "text": "ο 31/2: Ὑποπτεύει Διονύσιος, ἐπεὶ τὸ μὲν δισταγμοῦ, τὸ δὲ ἀποφάσεως μετέχει. H Q Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46*",
+      "text": "π 239 (= An. Par. III 498, 20):Ἀθετεῖ Διονύσιος. H a.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "Hom. vita Pseudoplutarchea (p. 25, 7 Wilam.): Οὐκ ὤκνησαν δέ τινες Σαλαμίνιον αὐτὸν (sc. Ὅμηρον) εἰπεῖν ἀπὸ Κύπρου, τινὲς δ’ Ἀργεῖον· Ἀρίσταρχος δὲ καὶ Διονύσιος ὁ Θρᾷξ Ἀθηναῖον. b. Hom. vita Scorial. (S. 29, 4 Wilam.): Ὅμηρος ὁ ποιητὴς ... τὸ γένος κατὰ μὲν Πίνδαρον Σμυρναῖος, ... κατὰ δ’ Ἀρίσταρχον καὶ Διονύσιον τὸν Θρᾷκα Ἀθηναῖος. Σ Hes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "op. 571—577 Pert. ἀλ λ ’ ὁπό τ ’ ἂν φερέοικος ἀπὸ χθονό ς , ἕως τοῦ ἵνα τοι βίος ἄρκιος εἴ η : Ὁ μὲν Θρᾷξ Διονύσιος ἔλεγε φερέοικον τὸν κοχλίαν· ἐπιτιμῆσαι δέ φησιν 〈 *** 〉 αὐτῷ τινα τοῦτο λέγοντι Ἀρκάδα· εἶναι γὰρ ἐν Ἀρκαδίᾳ τὸν φερέοικον ὁρᾶν μελίττῃ ἐοικότα σμικρότατον, κάρφη καὶ συρφετὸν ἑαυτῷ συνάγοντα στεγοποιεῖσθαι διὰ τοὺς χειμῶνας, βαίνειν δὲ ἀνὰ τὰ φυτὰ θέρους, τὸν δὲ κοχλίαν μὴ φαίνεσθαι θέρους, ἀλλ’ ὁπόταν ὄμβρος γένηται ἀναδυόμενον φαίνεσθαι, διὰ τῶν φυτῶν βαίνειν ἕλκοντα τὸ κοῦφον ἐξόπισθεν ὄστρακον .... Σ Hes.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49*",
+      "text": "op. 10 Pert.: Τύνη Ὅτι πρὸς τὸν Δία. Πολύζηλος δὲ ἐν 〈τοῖσ〉 Ῥοδιακοῖς (FGrHist 521, 9) Τύνην ἄρχοντα Χαλκιδέα φησίν, ἐφ’ οὗ κρίνεσθαι τὸν Ἡσίοδον μετὰ τοῦ ἀδελφοῦ, Διονύσιος δὲ Φαίδριστον, ἀγνοοῦντες ὅτι ἀντωνυμία ἐστὶ παράγωγος ἀπὸ τοῦ τύ, ὡς ἐγώνη, τύ τύνη. Pap.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50*",
+      "text": "Ox. 2392: [] [ []διον . σιου επο . [ []αλκμανος [ ] [ [ ] [ ]μελ[ . ]ν δ’[ [ ] [ [ ] Υ [ [ ] [ Suda π 928 (= Phot.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51",
+      "text": "406, 26) πέλανο ι : Πέμματα ἐκ παιπάλης, τουτέστιν ἀλεύρου λεπτοτέρου, εἰς θυσίαν ἐπιτήδεια· ὡς αὐτός φησι, καρποὶ μέλιτι δεδευμένοι. Διονύσιος Θρᾷξ· θεοῖς ἀπαρχαί τινες. λέγεται δὲ πέλανος καὶ ὁ περὶ τῷ στόματι πεπηγὼς ἀφρός. καὶ τὸ περιπεπηγὸς καὶ ἐξηραμμένον ὀπῶδες δάκρυον, οἷον λιβανωτός, κόμμι· καὶ ὁ τῷ μάντει διδόμενος μισθὸς ὀβολός. Herodian, Περὶ καθολ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51a*",
+      "text": "προσῳδίας in Cod. Vindob. Hist. gr. 10, Fol. 7 r ap. H. Hunger, Jahrbuch der Österreich. Byzant. Gesellsch. 16, Vind. 1967, 26: τῷ ἐπιρρήματι μανάκις συστέλλειν ἄξιόν ἐστιν ὡς καὶ Ἐπαφρόδιτος ἐν αʹ Περὶ στοιχείων (fr. 1 L.) καὶ Διονύσιος. κέχρηται (Hunger, καίχρηται cod.) δ’ αὐτῷ Πλάτων ἐν Σύρφακι (fr. 200 K.)· „καὶ ταῦτα μανάκις, μυριάκις τῆς ἡμέρασ“ κτλ. Clem.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Al. Strom. V 8, 45, 4 (p. 356, 9 Stä.): Ἀλλὰ καὶ Διονύσιος ὁ Θρᾷξ ὁ γραμματικὸς ἐν τῷ Περὶ τῆς ἐμφάσεως περὶ τοῦ τῶν τροχίσκων συμβόλου φησὶ κατὰ λέξιν· „ἐσήμαινον γοῦν οὐ διὰ λέξεως μόνον, ἀλλὰ καὶ διὰ συμβόλων ἔνιοι τὰς πράξεις, διὰ λέξεως μὲν ὡς ἔχει τὰ λεγόμενα Δελφικὰ παραγγέλματα, τὸ ‘μηδὲν ἄγαν‘ καὶ τὸ ‘γνῶθι σαυτόν‘ καὶ τὰ τούτοις ὅμοια, διὰ δὲ συμβόλων ὡς ὅ τε τροχὸς ὁ στρεφόμενος ἐν τοῖς τῶν θεῶν τεμένεσιν εἱλκυσμένος παρὰ Αἰγυπτίων καὶ τὸ τῶν θαλλῶν τῶν διδομένων τοῖς προσκυνοῦσι. φησὶ γὰρ Ὀρφεὺς ὁ Θρᾴκιος (fr. 227 K.)· †θαλλῶν δ’ ὅσσα βροτοῖσιν ἐπὶ χθονὸς ἔργα μέμηλεν, οὐδὲν ἔχει μίαν αἶσαν ἐπὶ φρεσὶν, ἀλλὰ κυκλεῖται πάντα πέριξ, στῆναι δὲ καθ’ ἓν μέρος οὐ θέμις ἐστίν, ἀλλ’ ἔχει, ὡς ἤρξαντο, δρόμου μέρος ἶσον ἕκαστος. οἱ θαλλοὶ ἤτοι τῆς πρώτης τροφῆς σύμβολον ὑπάρχουσιν, ἢ ὅπως ἐπιστῶνται οἱ πολλοὶ τοὺς μὲν καρποὺς δι’ ὅλου θάλλειν καὶ αὔξεσθαι διαμένοντας ἐπὶ τὸ πλεῖστον, σφᾶς δὲ αὐτοὺς ὀλίγον εἰληχέναι τὸν τῆς ζωῆς χρόνον, τούτου χάριν δίδοσθαι τοὺς θαλλοὺς βούλονται, ἴσως δὲ καὶ ἵνα ἐπιστῶνται, ὅτι, ὡς οὗτοι {αὖ} καίονται, οὕτως καὶ 〈αὐ〉τοὺς δεῖ τοῦτον τὸν βίον ταχέως ἐκλιπεῖν καὶ πυρὸς ἔργον γενέσθαι.“ Doxopater II 104, 7 (Walz): .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53",
+      "text": ".. ὁρίζεται δὲ πάλιν αὐτὴν Διονύσιος ὁ Θρᾷξ οὕτω· ῥητορική ἐστι δύναμις τεχνικὴ διὰ λόγου ἐν πράγματι πολιτικῷ τέλος ἔχουσα τὸ εὖ λέγειν. ἀλλὰ καὶ οὗτος κακίζεται, διότι τέλος ἐν αὐτῷ ἀποδέδοται τῆς ῥητορικῆς, ὅπερ οὐκ αὐτῆς μόνης ἀλλὰ καὶ τῶν ἄλλων τινῶν, δέον ὂν μήτε ἑνὸς πράγματος πολλὰ τέλη ἀποδίδοσθαι μήτε πολλῶν ἕν ... Σ v Dion.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "Thr. 160, 26 (Hilgard): Ὅτι διεχώριζε τὴν προσηγορίαν ἐκεῖνος (sc. Διονύσιος ὁ Θρᾷξ) ἀπὸ τοῦ ὀνόματος καὶ συνῆπτε τῷ ἄρθρῳ τὴν ἀντωνυμίαν· ... Σ v Dion.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Thr. 161, 6 (Hilgard): ... ὁ δὲ Διονύσιος ὁ Θρᾷξ, ὥς φησιν Ἀπολλώνιος ἐν τῷ Ῥηματικῷ (III p. 71, 29 Sch.), οὕτως ὁρίζεται τὸ ῥῆμα· „ῥῆμά ἐστι λέξις κατηγόρημα σημαίνουσα“. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "Byz. 605, 1 (Mein.) = FGrHist 512, 1: Ταρσό ς , ἐπισημοτάτη πόλις Κιλικίας, ἣν διὰ τοῦ ε ἔλεγον Τερσὸν παρὰ τὸ τερσανθῆναι, ὅ ἐστιν ἀναξηρανθῆναι· τῶν γὰρ ὑδάτων κατὰ τὴν πρώτην σύστασιν προχωρούντων εἰς τὸ νῦν πέλαγος φασὶν ἀναφανθῆναι πρῶτα τὰ Ταυρικὰ ὄρη. Διονύσιος δὲ ὁ Θρᾷξ ἐν τῷ Περὶ Ῥόδου ἀπὸ τῆς τοῦ Βελλεροφόντου πτώσεως· μέρος γάρ τι τοῦ ποδὸς ταρσὸν καλεῖσθαι, τῆς ἐκείνου χωλείας ὑπόμνημα ποιουμένων τῶν ἀρχαίων. Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57**",
+      "text": "γ 230: Τηλέμαχ ε · Οὗτος ὁ στίχος λαγαρός ἐστι· διὸ Ζηνόδοτος ἴσως μετέγραφε· „Τηλέμαχ’ ὑψαγόρη μέγα νήπιε, ποῖον ἔειπες;“. τὸν δὲ δεύτερον περιῄρει τελέως διὰ τὸ μαχόμενον αὐτῷ „εἰ μὴ θεοὶ ὣς ἐτέλοιεν (γ 228).“ H M Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58**",
+      "text": "Β 308 (= FGrHist 15, 15): ἔνθ’ ἐφάνη· Ὅπου ἡμῖν ὤφθη ὁ δράκων· οὗτινος δράκοντος τὸ ὄνομα ὁ Πορφύριος ἐν τοῖς ζητήμασί φησι, λέγων αὐτὸν Σθένιον· οὕτως γὰρ ἱστόρηται Διονυσίῳ ἐν τῇ εʹ τῶν ἀπόρων. D Σ Hom.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59**",
+      "text": "Π 170 (= FGrHist 15, 11): Διονύσιος δὲ τὸν μέγιστον ἀριθμὸν ρκʹ †τίμιον†, τὸν δὲ λοιπὸν ἐν τῷ μεταξὺ τούτων ἄγεσθαι, ὡς φθάνειν πάσας ἀπὸ τε ἀνδρῶν. T",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mui-aa",
+      "title": {
+        "english": "Grammatical Art",
+        "ancient_greek": "Γραμματικὴ Τέχνη"
+      },
+      "url_slug": "dionysius-the-thracian-grammatical-art-mui-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/grammatical-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/grammatical-art.json"
+      }
+    },
+    {
+      "eul_wid": "mui-ad",
+      "title": {
+        "english": "On the Foundation of Tarsus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dionysius-the-thracian-foundation-tarsus-mui-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/foundation-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.json"
+      }
+    },
+    {
+      "eul_wid": "mui-ac",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "dionysius-the-thracian-testimony-mui-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/testimony.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qnq-al",
+      "title": {
+        "english": "Digressions of the Great Speech",
+        "ancient_greek": "Παρεκβολαὶ τοῦ μεγάλου ῥήματος"
+      },
+      "url_slug": "herodian-of-alexandria-digressions-qnq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/digressions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-aq",
+      "title": {
+        "english": "Eustathius-derived Scholia on Clouds",
+        "ancient_greek": "Σχόλια εἰς Νεφέλας"
+      },
+      "url_slug": "aristophanes-scholia-clouds-aq-mlw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/clouds-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/clouds-aq.json"
+      }
+    },
+    {
+      "eul_wid": "kqy-aa",
+      "title": {
+        "english": "Fragments on Chronology",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χρονολογίας"
+      },
+      "url_slug": "sosibius-of-sparta-chronology-kqy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosibius-of-sparta/chronology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/chronology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/chronology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/chronology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosibius-of-sparta/chronology.json"
+      }
+    },
+    {
+      "eul_wid": "oem-ab",
+      "title": {
+        "english": "On the Games Among the Greeks",
+        "ancient_greek": "Περὶ τῶν παρ Ἕλλησι παιδιῶν"
+      },
+      "url_slug": "suetonius-games-greeks-oem-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/suetonius/games-greeks",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/games-greeks.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/games-greeks.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/games-greeks.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/suetonius/games-greeks.json"
+      }
+    },
+    {
+      "eul_wid": "slq-aa",
+      "title": {
+        "english": "Platonic Lexicon",
+        "ancient_greek": "Πλατωνικὸν Λεξικόν"
+      },
+      "url_slug": "timaeus-the-sophist-lexicon-slq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-the-sophist/lexicon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-sophist/lexicon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-sophist/lexicon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-sophist/lexicon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-the-sophist/lexicon.json"
+      }
+    },
+    {
+      "eul_wid": "pdm-aa",
+      "title": {
+        "english": "Proverbs Epitome",
+        "ancient_greek": "Παροιμίαι"
+      },
+      "url_slug": "diogenianus-of-heraclea-proverbs-aa-pdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenianus-of-heraclea/proverbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenianus-of-heraclea/proverbs-aa.json"
+      }
+    },
+    {
+      "eul_wid": "tro-ad",
+      "title": {
+        "english": "Scholia-Aeschylus's Meters",
+        "ancient_greek": "Σχόλια εἰς τοὺς Μέτρους τοῦ Αἰσχύλου"
+      },
+      "url_slug": "aeschylus-scholia-meters-tro-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/meters.json"
+      }
+    },
+    {
+      "eul_wid": "jmo-aa",
+      "title": {
+        "english": "Scholia-Dionysius of Byzantium's Bosporus Navigation",
+        "ancient_greek": "Σχόλια εἰς Διονύσιον Βυζάντιον περὶ Βοσπόρου"
+      },
+      "url_slug": "scholia-on-homer-bosporus-navigation-jmo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/scholia-on-homer/bosporus-navigation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-on-homer/bosporus-navigation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-on-homer/bosporus-navigation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-on-homer/bosporus-navigation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scholia-on-homer/bosporus-navigation.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dionysius-the-thracian/homeric-pronunciation",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/homeric-pronunciation.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

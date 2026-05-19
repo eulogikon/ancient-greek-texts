@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ovk",
+  "auth_slug": "isigonus-of-nicaea",
+  "name": {
+    "english": "Isigonus of Nicaea",
+    "ancient_greek": "Ἰσίγονος ὁ Νικαεύς"
+  },
+  "seo_h1": "Isigonus of Nicaea on Marvelous Peoples and Customs",
+  "seo": {
+    "browser_title": "Isigonus of Nicaea Ancient Works on Eulogikon Greek Archive",
+    "meta_title": "Classical Isigonus of Nicaea Ancient Greek Historical Works",
+    "meta_description": "Isigonus of Nicaea, a Roman era historian of the 1st to 2nd century CE. His surviving historical works. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Isigonus of Nicaea was a paradoxographer from the city of Nicaea in Bithynia. He is dated to the 1st–2nd century CE based on citations by later authors like Phlegon of Tralles. No details of his personal life or education survive.</p>\n<p class=\"research-text\">His only known work is the lost Apista, or &quot;Unbelievable Things.&quot; This collection of marvels belonged to the paradoxographical tradition, cataloging strange phenomena and monstrous creatures. Phlegon of Tralles cites it as a source for tales of hermaphrodites and ghostly apparitions.</p>\n<p class=\"research-text\">Isigonus’s significance lies in his contribution to paradoxography. His Apista served as a source for later compilers, reflecting the period&#x27;s intellectual curiosity about the boundaries of the natural world. The work represents a blend of geography, ethnography, and folklore distinct from mainstream historical writing.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ovk-aa",
+      "title": {
+        "english": "On Marvelous Peoples and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "isigonus-of-nicaea-marvelous-customs-ovk-aa",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/isigonus-of-nicaea/marvelous-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea/marvelous-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea/marvelous-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea/marvelous-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isigonus-of-nicaea/marvelous-customs.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/isigonus-of-nicaea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isigonus-of-nicaea.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isigonus-of-nicaea.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isigonus-of-nicaea.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/isigonus-of-nicaea.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

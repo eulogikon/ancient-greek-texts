@@ -1,0 +1,506 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gta-ab",
+  "eul_aid": "gta",
+  "author_slug": "axionicus-the-comic-poet",
+  "work_slug": "feasting-folly",
+  "url_slug": "axionicus-the-comic-poet-feasting-folly-gta-ab",
+  "author": {
+    "english": "Axionicus the Comic Poet",
+    "ancient_greek": "Ἀξιόνικος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Feasting and Folly",
+    "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας καὶ Μωρίας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Feasting and Folly by Axionicus on Eulogikon",
+    "meta_title": "Fragments on Feasting and Folly by Axionicus in Greek",
+    "meta_description": "Surviving comic fragments exploring themes of celebration and foolishness by Axionicus. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Feasting and Folly</strong> is a modern compilation of excerpts from the lost comedies of Axionicus, an Athenian poet of the Middle Comedy period active in the fourth century BCE. These fragments survive not as a continuous text but through quotations preserved by later authors, most notably the gastronomic writer Athenaeus in his expansive work, the <strong>Deipnosophistae</strong>, composed in the second or third century CE. The thematic title given to the collection accurately reflects its predominant concerns with convivial excess and human absurdity. The extant passages depict vivid scenes of banqueting, with detailed descriptions of food, drink, and the accompanying social rituals. They mock stock characters typical of the era, such as parasites, boastful soldiers, and courtesans, while also engaging in mythological parody and depicting domestic intrigues involving family disputes and romantic entanglements. As no complete play by Axionicus survives, these fragments, collected in modern scholarly editions like <strong>Poetae Comici Graeci</strong>, provide crucial evidence for the style and substance of Middle Comedy. They illustrate the genre&#x27;s evolution away from the direct political satire of Old Comedy toward a more generalized humor focused on social types and everyday situations, a transition that would profoundly influence the subsequent development of New Comedy and, through it, Roman comedy and the wider Western theatrical tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁ Πυθόδηλος οὑτοσὶ ὁ Βαλλίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "προσέρχετ’ ἐπικαλούμενος, μεθύουσά τ’ ἐξόπισθεν ἡ σοφωτάτη ἀποτυμπανισχὰς κατὰ πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πορεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Οἶνος οὐκ ἔνεστι αὐτοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πρὸς ἑταίρους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πρόφασιν ἐπὶ κῶμόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τινας, ὅπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "ποιεῖν εἴωθε Γρυλλίων ἀεί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἄλλον δ’ ἰχθὺν μεγέθει πίσυνόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖσδε τόποις ἥκει κομίσας γλαῦκός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τις ἐν πόντῳ γαλεοὺς[ln_5]σῖτον ὀψοφάγων καὶ λίχνων ἀνδρῶν ἀγάπημα φέρων κατὰ τῶν ὤμων. τίνα τῷδ’ ἐνέπω τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "σκευασίαν; πότερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "χλωρῷ τρίμματι βρέξας, ἢ τῆς ἀγρίας ἅλμης πάσμασι[ln_10]σῶμα λιπάνας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πυρὶ παμφλέκτῳ παραδώσω; ἔφα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τις ὡς ἅλμῃ θερμῇ τοῦτο φάγοι γ’ ἑφθὸν ἀνὴρ Μοσχίων φίλαυλος. βοᾷ δ’ ὄνειδος ἴδιον, ὦ Καλαίδη·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]σὺ μὲν ἀμφὶ σῦκα καὶ ἀμφὶ τάριχ’ ἀγάλλει, τοῦ δ’ ἐν ἅλμῃ παρεόντος οὐ γεύει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χαρίεντος ὄψου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Γυναικὶ δὴ πίστευε μὴ πίνειν ὕδωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὅτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦ παρασιτεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρῶτον ἠράσθην μετὰ Φιλοξένου τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "Πτερνοκοπίδος νέος ἔτ’ ὤν, πληγὰς ὑπέμενον κονδύλων καὶ τρυβλίων ὀστῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τε τὸ μέγεθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τοσαύτας ὥστε με[ln_5]ἐνίοτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοὐλάχιστον ὀκτὼ τραύματα ἔχειν· ἐλυσιτέλει γάρ· ἥττων εἰμὶ γὰρ τῆς ἡδονῆς. ἔπειτα καὶ τρόπον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "τινὰ τὸ πρᾶγμά μοι λυσιτελὲς εἶναι νενόμικα. οἷον φίλερίς τίς ἐστι καὶ μάχεταί τί μοι·[ln_10]μετεβαλόμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "πρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "τοῦτον, ὅσα τ’ εἴρηκέ με κακῶς ὁμολογῶν εὐθέως οὐ βλάπτομαι. πονηρὸς ὤν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "τε χρηστὸς εἶναί φησί τις, ἐγκωμιάζων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "τοῦτον ἀπέλαβον χάριν. γλαύκου βεβρωκὼς τέμαχος ἑφθὸν τήμερον[ln_15]αὔριον ἕωλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.13",
+      "text": "τοῦτ’ ἔχων οὐκ ἄχθομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "τοιοῦτος ὁ τρόπος ἐστὶν ἡ φύσις τέ μου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ζωμὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ποιῶ θερμὸν ἰχθὺν ἐπαναπλάττων, ἡμίβρωτα λείψανα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "συντιθείς, οἴονται ἄνω ἔντερ’ ἁλὶ καὶ σιλφίῳ σφενδονῶν, ἀλλᾶντα τέμνω, παραφέρω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "χορδῆς τόμον,[ln_5]ῥύγχος εἰς ὄξος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "πιέζων, ὥστε πάντας ὁμολογεῖν τῶν γάμων κρείττω γεγονέναι τὴν ἕωλον ἡμέραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Τρύβλια, χύτρα, λοπάδιον, ὀξίς, χοῦς, ἁμίς, λεκάνη, θυΐα, κάνθαρος, σείσων, λύχνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[spk_β]Β. ὑπηρεσία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "παντελής, γραῦ, κεραμίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὅταν δανείζῃ τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πονηρῷ χρήματα ἀνήρ, δικαίως ἀντὶ τῶν τόκων ἔχει λύπας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gta-aa",
+      "title": {
+        "english": "Fragments on Drunken Revelry",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέθης"
+      },
+      "url_slug": "axionicus-the-comic-poet-drunken-revelry-gta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/axionicus-the-comic-poet/drunken-revelry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/drunken-revelry.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kpk-ab",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ab-kpk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ab.json"
+      }
+    },
+    {
+      "eul_wid": "dam-aa",
+      "title": {
+        "english": "Domestic Comedy Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diocles-the-comic-poet-domestic-comedy-aa-dam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diocles-the-comic-poet/domestic-comedy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diocles-the-comic-poet/domestic-comedy-aa.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ai",
+      "title": {
+        "english": "Doubts",
+        "ancient_greek": "Ἀμφιβολίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-doubts-kfu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/doubts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.json"
+      }
+    },
+    {
+      "eul_wid": "eds-aa",
+      "title": {
+        "english": "Fragments of a Naval Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+      },
+      "url_slug": "demetrius-the-comic-poet-naval-comedy-aa-eds-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.json"
+      }
+    },
+    {
+      "eul_wid": "jjw-aa",
+      "title": {
+        "english": "Fragments on Philosophy and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Μωρίας"
+      },
+      "url_slug": "theognetus-the-comic-poet-philosophy-folly-jjw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theognetus-the-comic-poet/philosophy-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theognetus-the-comic-poet/philosophy-folly.json"
+      }
+    },
+    {
+      "eul_wid": "edi-aa",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-aa-edi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-aa.json"
+      }
+    },
+    {
+      "eul_wid": "bju-aa",
+      "title": {
+        "english": "Letters to Heraclitus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἡράκλειτον"
+      },
+      "url_slug": "heraclitus-of-ephesus-iii-letters-bju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.json"
+      }
+    },
+    {
+      "eul_wid": "jdi-ab",
+      "title": {
+        "english": "On Parasitic Dining",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diodorus-of-sinope-parasitic-dining-jdi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sinope/parasitic-dining",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sinope/parasitic-dining.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/axionicus-the-comic-poet/feasting-folly",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/axionicus-the-comic-poet/feasting-folly.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

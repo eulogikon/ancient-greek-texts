@@ -1,0 +1,223 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jzg-aa",
+  "eul_aid": "jzg",
+  "author_slug": "apollophanes-the-stoic",
+  "work_slug": "physics-perception",
+  "url_slug": "apollophanes-the-stoic-physics-perception-jzg-aa",
+  "author": {
+    "english": "Apollophanes the Stoic",
+    "ancient_greek": "Ἀπολλοφάνης ὁ Στωικός"
+  },
+  "title": {
+    "english": "Fragments on Physics and Perception",
+    "ancient_greek": "Ἀποσπάσματα περὶ Φυσικῆς καὶ Αἰσθήσεως"
+  },
+  "seo": {
+    "browser_title": "Philosophical Fragments of Apollophanes Stoic on Eulogikon",
+    "meta_title": "Fragments of Apollophanes the Stoic in Ancient Greek",
+    "meta_description": "Surviving philosophical fragments on physics and perception by Apollophanes the Stoic. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work conventionally titled <strong>Fragments on Physics and Perception</strong> is a modern assemblage attributed to Apollophanes, a Stoic philosopher known primarily through doxographical reports. No ancient source references a single work by this title; instead, the collection consists of disparate testimonia concerning Apollophanes’s doctrines, extracted from later authors. These fragments suggest he engaged with core Stoic physical and epistemological debates. He is reported to have posited nine parts of the soul, in contrast to other Stoic divisions, and to have identified prudence or practical wisdom as the sole virtue. On perception, a fragment from Herculaneum papyri indicates he argued that sensory impressions require the accompaniment of memory and involve a process of analogy to achieve clarity and to render an account of things no longer present. Other references place him in discussions on the void and note his association with the Stoic philosopher Ariston of Chios. The value of these fragments lies in their preservation of minor Stoic perspectives otherwise lost, though the composite nature of the collection and the lack of an original, coherent manuscript tradition mean the work serves primarily as a scholarly convenience for studying post-Chrysippean Stoic thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "404",
+      "text": "Diogenes Laërt. VII 140. φησὶ δὲ περὶ τοῦ κενοῦ Χρύσιππος μὲν ἐν τῷ περὶ κενοῦ καὶ ἐν τῇ πρώτῃ τῶν φυσικῶν τεχνῶν καὶ Ἀπολλοφάνης ἐν τῇ φυσικῇ (placitum vide Chrys. II n. 543).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "405",
+      "text": "Tertullianus de anima 14. Dividitur autem in partes (scil. anima) nunc in duas a Platone————etiam in octo penes Chrysippum, etiam in novem penes Apollophanem.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "406",
+      "text": "Diogenes Laërt. VII 92. ὁ μὲν γὰρ Ἀπολλοφάνης μίαν λέγει (scil. ἀρετήν), τὴν φρόνησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "407",
+      "text": "Fragmenta Herculanensia ed. Scott p. 271 (Pap. 19—698 Scriptor incertus περὶ αἰσθήσεως col. 15) ——χρόνοις, τὴν δ’ αἴσθη σιν τὰ καθ’ ἕνα κ(ρι)νεῖν ἢ μνήμης μεθέξειν. (ὁ δ’) Ἀπολλοφάνη ς, ὑπὸ τοῦ πιθανοῦ ἀπ̣α̣τ̣ηθείς, τὸ μὲν καὶ μνήμην αὐ ταῖς περιάπτειν κατῃ δέσθη, τὸ δ’ ἀναλογίας μετέχειν προσ(ε)δέξα τ̣ο̣, ὅπως καὶ τοῦ μηκέ τ’ ὄντος ἀποδῷ διαίς θησιν αὐτ(αῖς, ὥ)σπερ ἵνα σώσωμεν ἐνάργειαν ἄλλας δέον ἐπ̣ι̣βάλλειν ἐναργείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "408",
+      "text": "Athenaeus VII 281d. καὶ Ἀπολλοφάνης δὲ (γνώριμος δ’ ἦν καὶ οὖτος τοῦ Ἀρίστωνος) ἐν τῷ Ἀρίστων ι, καὶ αὐτὸς οὕτως ἐπιγράψας τὸ σύγγραμμα, ἐμφανίζει τὴν τοῦ διδασκάλου φιληδονίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vgs-ab",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-ah",
+      "title": {
+        "english": "Commentary-Plato's Timaeus",
+        "ancient_greek": "Σχόλια εἰς τὸν Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "proclus-the-successor-timaeus-commentary-uqy-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/timaeus-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/timaeus-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dv",
+      "title": {
+        "english": "Demosthenes",
+        "ancient_greek": "Δημοσθένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-demosthenes-okg-dv",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/demosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/demosthenes.json"
+      }
+    },
+    {
+      "eul_wid": "lmc-aa",
+      "title": {
+        "english": "Fragments on Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
+      },
+      "url_slug": "crito-of-argos-wisdom-fragments-lmc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crito-of-argos/wisdom-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos/wisdom-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos/wisdom-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos/wisdom-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crito-of-argos/wisdom-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ega-ac",
+      "title": {
+        "english": "Letters to Philip",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φίλιππον"
+      },
+      "url_slug": "speusippus-of-athens-letters-philip-ega-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/letters-philip",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/letters-philip.json"
+      }
+    },
+    {
+      "eul_wid": "udm-as",
+      "title": {
+        "english": "Life of Pythagoras",
+        "ancient_greek": "Βίος Πυθαγόρου"
+      },
+      "url_slug": "porphyry-of-tyre-life-pythagoras-udm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/life-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/life-pythagoras.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bs",
+      "title": {
+        "english": "On the Good and Happy Life",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-good-happy-life-hgw-bs",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/good-happy-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/good-happy-life.json"
+      }
+    },
+    {
+      "eul_wid": "udm-ab",
+      "title": {
+        "english": "Remains of Homeric Questions Pertaining to the Odyssey",
+        "ancient_greek": "Λείψανα Ὁμηρικῶν ζητημάτων περὶ τὴν Ὀδύσσειαν"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-odyssey-udm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-odyssey.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/apollophanes-the-stoic/physics-perception",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-the-stoic/physics-perception.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

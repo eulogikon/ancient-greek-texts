@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kza",
+  "auth_slug": "lobon-of-argos",
+  "name": {
+    "english": "Lobon of Argos",
+    "ancient_greek": "Λόβων ὁ Ἀργεῖος"
+  },
+  "seo_h1": "Lobon of Argos on the Poets Before the Alexandrian Age",
+  "seo": {
+    "browser_title": "Lobon of Argos Hellenistic Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Lobon of Argos Ancient Greek Poetry Fragments",
+    "meta_description": "Lobon of Argos was a Hellenistic poet of the 3rd century BCE. Surviving works include fragmentary verse. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lobon of Argos was an epigrammatist from Argos active in the 3rd century BCE. No details of his life beyond his origin and literary activity are recorded. His known works survive only in fragments and later references. These consist of a collection of poetic epigrams and a lost prose work entitled On Poets, both cited by authors such as Diogenes Laërtius.</p>\n<p class=\"research-text\">Lobon holds a minor but notable place due to his reputation for forgery. Diogenes Laërtius reports that Lobon affixed spurious verses to the poets and composed fictitious verses attributed to philosophers. Consequently, while used by later compilers, his works are treated with skepticism, representing a clear example of Hellenistic pseudepigraphical activity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "kza-aa",
+      "title": {
+        "english": "Epigrams-Poets Before Alexandrian Age",
+        "ancient_greek": "Ἐπιγράμματα εἰς Ποιητὰς πρὸ τῆς Ἀλεξανδρινῆς"
+      },
+      "url_slug": "lobon-of-argos-epigrams-before-alexandria-kza-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/lobon-of-argos/epigrams-before-alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/epigrams-before-alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/epigrams-before-alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/epigrams-before-alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/epigrams-before-alexandria.json"
+      }
+    },
+    {
+      "eul_wid": "kza-ab",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "lobon-of-argos-fragments-kza-ab",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/lobon-of-argos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lobon-of-argos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lobon-of-argos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lobon-of-argos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lobon-of-argos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lobon-of-argos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

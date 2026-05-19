@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mvc-aa",
+  "eul_aid": "mvc",
+  "author_slug": "aelius-dius-the-historian",
+  "work_slug": "alexandria",
+  "url_slug": "aelius-dius-the-historian-alexandria-mvc-aa",
+  "author": {
+    "english": "Aelius Dius the Historian",
+    "ancient_greek": "Αἰλίους Δῖος"
+  },
+  "title": {
+    "english": "Fragments on Alexandria",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀλεξανδρείας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Aelius Dius the Historian on Eulogikon",
+    "meta_title": "Ancient Fragments on Alexandria by Aelius Dius in Greek",
+    "meta_description": "Surviving fragments from Aelius Dius's historical work on Alexandria, preserved by later authors. Important source for Phoenician Alexandrian history."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Alexandria</strong> is a lost historical work by Aelius Dius, surviving only through a handful of passages quoted by later authors. The title indicates its focus on the city of Alexandria, though the original scope and structure of the complete text are unknown. Based on its genre of local history, the work likely addressed the foundation and early history of Alexandria, descriptions of its major monuments and urban layout, accounts of significant events within the city, and notable customs of its inhabitants. The text is preserved indirectly via fragmentary transmission, with no independent manuscript tradition; the extant passages are cited in the works of later ancient or Byzantine writers and are collected in modern scholarly compilations. Aelius Dius’s work belongs to the tradition of Hellenistic and Roman-era local historiography. Its citations provided later historians and geographers with authoritative details about Alexandria, and modern scholars value these fragments as rare potential sources of information, though their reliability requires critical assessment.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t1",
+      "text": "ΠΕΡΙ ΑΛΕΞΑΝΔΡΕΙΑΣ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Anonymus De Periplo Scylacis Caryand. in cod. Paris. No. 443 (Supplem.), fol. 62: Αἴλιος Δῖος ἐν τῷ Περὶ Ἀλεξανδρείας βιβλίῳ πρώτῳ φησὶν, ὅτι Δα ρείῳ προσεφώνησε Σκύλαξ τὸ φρόντισμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t2",
+      "text": "ΦΟΙΝΙΚΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Josephus C. Apion. I, 17: Ὅτι δ’ οὐ λόγος ἐστὶν ὑπ’ ἐμοῦ συγκείμενος ὁ περὶ τῶν παρὰ τοῖς Τυρίοις γραμμάτων, παραθήσομαι μάρτυρα Δῖον, ἄνδρα περὶ τὴν Φοινικικὴν ἱστορίαν ἀκριβῆ γεγονέναι πεπιστευμέ νον. Οὗτος τοίνυν ἐν ταῖς Περὶ Φοινίκων ἱστορίαις γράφει τὸν τρόπον τοῦτον· «Ἀβιβάλου τελευτήσαντος, ὁ υἱὸς αὐτοῦ Εἵρωμος ἐβασίλευσεν. Οὗτος τὰ πρὸς ἀνατολὰς μέρη τῆς πόλεως προσέχωσε, καὶ μεῖζον τὸ ἄστυ πεποίηκε, καὶ τοῦ Ὀλυμπίου Διὸς τὸ ἱερὸν καθ’ ἑαυτὸ ὂν ἐν νήσῳ, χώσας τὸν μεταξὺ τόπον, συνῆψε τῇ πόλει, καὶ χρυσοῖς ἀναθήμασιν ἐκόσμησεν· ἀναβὰς δὲ εἰς τὸν Λίβανον ὑλοτόμησε πρὸς τὴν τῶν ναῶν κατασκευήν. Τὸν δὲ τυραννοῦντα Ἱεροσολύμων Σολομῶνα πέμψαι φασὶ πρὸς τὸν Εἵρωμον αἰνίγματα καὶ παρ’ αὐτοῦ λαβεῖν ἀξιοῦν, τὸν δὲ μὴ δυνηθέντα διακρῖναι τῷ λύσαντι χρήματα ἀποτίνειν. Ὁμολογήσαντα δὲ τὸν Εἵρωμον καὶ μὴ δυνηθέντα λῦσαι τὰ αἰνίγματα πολλὰ τῶν χρημάτων εἰς τὸ ἐπιζήμιον ἀναλῶσαι. Εἶτα δὴ Ἀβδήμονόν τινα Τύριον ἄνδρα τὰ προτεθέντα λῦσαι, καὶ αὐτὸν ἄλλα προβαλεῖν· ἃ μὴ λύσαντα τὸν Σολομῶνα πολλὰ τῷ Εἱρώμῳ προσαποτῖσαι χρήματα.» Δῖος μὲν οὕτω περὶ τῶν προειρη μένων ἡμῖν μεμαρτύρηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "guy-aa",
+      "title": {
+        "english": "Chronicles and Homeric Studies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "artemon-of-clazomenae-chronicles-homeric-studies-guy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/artemon-of-clazomenae/chronicles-homeric-studies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.json"
+      }
+    },
+    {
+      "eul_wid": "jcy-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "archelaus-of-chersonesus-epigram-jcy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-of-chersonesus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-of-chersonesus/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "bls-ac",
+      "title": {
+        "english": "Fragments on Rivers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποταμῶν"
+      },
+      "url_slug": "acusilaus-of-argos-rivers-bls-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.json"
+      }
+    },
+    {
+      "eul_wid": "kvo-aa",
+      "title": {
+        "english": "Marvelous Histories",
+        "ancient_greek": "Θαυμασίαι Ἱστορίαι"
+      },
+      "url_slug": "apollonius-the-paradoxographer-marvelous-histories-kvo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-the-paradoxographer/marvelous-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bk",
+      "title": {
+        "english": "Philippics",
+        "ancient_greek": "Φιλιππικοί"
+      },
+      "url_slug": "historical-fragments-anonymous-philippics-mmg-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/philippics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philippics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philippics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philippics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philippics.json"
+      }
+    },
+    {
+      "eul_wid": "unc-ab",
+      "title": {
+        "english": "Secret History",
+        "ancient_greek": "Ἀπόκρυφη Ἱστορία"
+      },
+      "url_slug": "procopius-of-caesarea-secret-history-unc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/procopius-of-caesarea/secret-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/secret-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/secret-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/secret-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/secret-history.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-am",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "appian-of-alexandria-testimony-pdc-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/testimony.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bc",
+      "title": {
+        "english": "Writers-Athens",
+        "ancient_greek": "Συγγραφεῖς περὶ Ἀθηνῶν"
+      },
+      "url_slug": "historical-fragments-anonymous-writers-athens-mmg-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/writers-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/writers-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/writers-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/writers-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/writers-athens.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aelius-dius-the-historian/alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

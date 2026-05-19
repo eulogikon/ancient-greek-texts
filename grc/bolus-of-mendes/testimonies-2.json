@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kzk-af",
+  "eul_aid": "kzk",
+  "author_slug": "bolus-of-mendes",
+  "work_slug": "testimonies-2",
+  "url_slug": "bolus-of-mendes-testimonies-2-kzk-af",
+  "author": {
+    "english": "Bolus of Mendes",
+    "ancient_greek": "Βῶλος ὁ Μενδήσιος"
+  },
+  "title": {
+    "english": "Testimonies 2",
+    "ancient_greek": "Μαρτυρίαι Β'"
+  },
+  "seo": {
+    "browser_title": "Testimonies 2 by Bolus of Mendes on Eulogikon Archive",
+    "meta_title": "Classical Testimonies 2 by Bolus of Mendes in Ancient Greek",
+    "meta_description": "Testimonies 2 is a Hellenistic medical collection attributed to Bolus of Mendes. Read free and download the original ancient Greek text at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Testimonies 2</strong> is a lost technical or medical collection attributed to the Hellenistic writer Bolus of Mendes, who was active around 200 BCE. Known only by its title and its position within the author&#x27;s larger corpus, the work is presumed to have been a compilation of observations or proofs concerning the properties of natural substances, medical remedies, or occult phenomena. Bolus is a significant figure in the pseudepigraphic tradition, with many of his works circulated under the name of the pre-Socratic philosopher Democritus to lend them authority. His known writings synthesize natural philosophy, early alchemical thought, and pharmacology, often exploring concepts of hidden sympathies and antipathies within the natural world. <strong>Testimonies 2</strong> would thus have been a practical resource for contemporary practitioners of these applied sciences. The work does not survive as an independent text but exists only in fragmentary form, preserved through later citations in the works of authors such as Pliny the Elder within the traditions of alchemy, medicine, and natural history.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 (tit1)",
+      "text": "ΠΕΡΙ ΤΩΝ ΕΚ ΤΗΣ ΑΝΑΓΝΩΣΕΩΣ ΤΩΝ ΙΣΤΟΡΙΩΝ ΕΙΣ ΕΠΙΣΤΑΣΙΝ ΗΜΑΣ ΑΓΟΝΤΩΝ. APOLLON. Mirabil. 31 ... ἔστι καὶ εἶδος φυτοῦ περὶ οὗ Βῶλος ὁ Δημοκρίτειος, ὅτι Θεόφραστος ἐν τῶι Περὶ φυτῶν ἐνάτωι· ‘τὰ πρόβατα τὰ ἐν τῶι Πόντωι τὸ ἀψύνθιον νεμόμενα οὐκ ἔχει χολήν‘.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kzk-ae",
+      "title": {
+        "english": "Fragments on Democritus and Magic",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημόκριτου καὶ Μαγικῆς"
+      },
+      "url_slug": "bolus-of-mendes-democritus-magic-kzk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/democritus-magic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ab",
+      "title": {
+        "english": "On Sympathies and Antipathies",
+        "ancient_greek": "Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν"
+      },
+      "url_slug": "bolus-of-mendes-sympathies-antipathies-kzk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/sympathies-antipathies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-aa",
+      "title": {
+        "english": "On the Cheiromekta",
+        "ancient_greek": "Χειρόμηκτα"
+      },
+      "url_slug": "bolus-of-mendes-cheiromekta-kzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/cheiromekta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ad",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "bolus-of-mendes-testimonies-1-kzk-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/testimonies-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ac",
+      "title": {
+        "english": "To Leucippus",
+        "ancient_greek": "Πρὸς Λεύκιππον"
+      },
+      "url_slug": "bolus-of-mendes-leucippus-kzk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/leucippus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-dw",
+      "title": {
+        "english": "On Emaciation",
+        "ancient_greek": "Περὶ μαρασμοῦ"
+      },
+      "url_slug": "galen-of-pergamon-emaciation-qmm-dw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/emaciation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bc",
+      "title": {
+        "english": "On Healthy Diet",
+        "ancient_greek": "Περὶ ὑγιεινῆς διαίτης"
+      },
+      "url_slug": "hippocrates-healthy-diet-bww-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/healthy-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/healthy-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/healthy-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/healthy-diet.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ab",
+      "title": {
+        "english": "On the Diet of Acute Patients",
+        "ancient_greek": "Περὶ διαίτης τῶν ὀξέων"
+      },
+      "url_slug": "hippocrates-diet-acute-patients-bww-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/diet-acute-patients",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bw",
+      "title": {
+        "english": "On the Differences of Diseases",
+        "ancient_greek": "Περὶ τῶν διαφορῶν τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-diseases-differences-qmm-bw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diseases-differences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-differences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-differences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-differences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diseases-differences.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ag",
+      "title": {
+        "english": "On the Doctor's Workshop",
+        "ancient_greek": "Περὶ ἰατρεῖου"
+      },
+      "url_slug": "hippocrates-doctors-workshop-bww-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/doctors-workshop",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.json"
+      }
+    },
+    {
+      "eul_wid": "bww-as",
+      "title": {
+        "english": "On the Nature of Man",
+        "ancient_greek": "Περὶ φύσεως ἀνθρώπου"
+      },
+      "url_slug": "hippocrates-nature-man-bww-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nature-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-man.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-man.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-man.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-man.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ad",
+      "title": {
+        "english": "On the Nature of the Child",
+        "ancient_greek": "Περὶ τῆς φύσεως τοῦ παιδίου"
+      },
+      "url_slug": "hippocrates-nature-child-bww-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nature-child",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-dd",
+      "title": {
+        "english": "On the Powers in Foods",
+        "ancient_greek": "Περὶ τῶν ἐν ταῖς τροφαῖς δυνάμεων"
+      },
+      "url_slug": "galen-of-pergamon-powers-foods-qmm-dd",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/powers-foods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/powers-foods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/powers-foods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/powers-foods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/powers-foods.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bolus-of-mendes/testimonies-2",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

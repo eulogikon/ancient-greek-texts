@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "auu-aa",
+  "eul_aid": "auu",
+  "author_slug": "asius-of-samos",
+  "work_slug": "elegiac-fragment",
+  "url_slug": "asius-of-samos-elegiac-fragment-auu-aa",
+  "author": {
+    "english": "Asius of Samos",
+    "ancient_greek": "Ἄσιος ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Elegiac Fragment",
+    "ancient_greek": "Ἐλεγειακὸν Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Elegiac Fragment by Asius of Samos on Eulogikon Archive",
+    "meta_title": "Elegiac Fragment by Asius of Samos in Ancient Greek",
+    "meta_description": "An elegiac fragment by archaic Greek poet Asius of Samos. Early Greek elegiac tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The elegiac fragment attributed to Asius of Samos is a brief passage of poetry preserved by Athenaeus in his <strong>Deipnosophistae</strong>. Composed in elegiac couplets, this excerpt, whose original poetic context is lost, describes aspects of an aristocratic lifestyle, focusing on elite material culture and luxury. It illustrates social status through details of grooming and accessories, such as long hair bound with golden ornaments and ivory-handled whips. The work survives solely as a quotation within Athenaeus&#x27;s compendium; Asius&#x27;s poetry has no independent manuscript tradition, and his fragments are collected in modern scholarly editions. While the direct influence of this particular fragment is untraceable, Asius was an important source for later mythographers like Pausanias. The excerpt contributes to the understanding of archaic Greek social values and material culture as depicted in poetic texts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "χωλός, στιγματίης, πολυγήραος, ἶσος ἀλήτηι ἦλθε κνισοκόλαξ, εὖτε Μέλης ἐγάμει, ἄκλητος, ζωμοῦ κεχρημένος· ἐν δὲ μέσοισιν ἥρως εἱστήκει βορβόρου ἐξαναδύς·",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "auu-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "asius-of-samos-epic-fragments-auu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/asius-of-samos/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/epic-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uyq-aa",
+      "title": {
+        "english": "Akathist Hymn",
+        "ancient_greek": "Ἀκάθιστος ὕμνος"
+      },
+      "url_slug": "romanos-the-melodist-akathist-uyq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/akathist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/akathist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/akathist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/akathist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/akathist.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ag",
+      "title": {
+        "english": "Dubious Fragments",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-dubious-fragments-brw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dubious-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "asc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "cleobulus-of-lindos-ii-epigrams-asc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleobulus-of-lindos-ii/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "gao-aa",
+      "title": {
+        "english": "Fragments on Divine Vision",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Ὄψεως"
+      },
+      "url_slug": "menophilus-the-poet-divine-vision-gao-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menophilus-the-poet/divine-vision",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.json"
+      }
+    },
+    {
+      "eul_wid": "asm-ab",
+      "title": {
+        "english": "Fragments on War and Exile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πολέμου καὶ Φυγῆς"
+      },
+      "url_slug": "alcaeus-of-mytilene-war-exile-asm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-of-mytilene/war-exile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.json"
+      }
+    },
+    {
+      "eul_wid": "upu-at",
+      "title": {
+        "english": "Hymn 24 To Hestia",
+        "ancient_greek": "Ὕμνος εἰς Ἑστίαν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hestia-at-upu-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-at.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-at.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-at.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-at.json"
+      }
+    },
+    {
+      "eul_wid": "gfe-ab",
+      "title": {
+        "english": "On the Senses and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-elegiac-poet-senses-excellence-gfe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-elegiac-poet/senses-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.json"
+      }
+    },
+    {
+      "eul_wid": "hdk-aa",
+      "title": {
+        "english": "Paean to Dionysus",
+        "ancient_greek": "Παιὰν πρὸς Διόνυσον"
+      },
+      "url_slug": "philodamus-of-scarpheia-paean-dionysus-hdk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philodamus-of-scarpheia/paean-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia/paean-dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia/paean-dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia/paean-dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodamus-of-scarpheia/paean-dionysus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/asius-of-samos/elegiac-fragment",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

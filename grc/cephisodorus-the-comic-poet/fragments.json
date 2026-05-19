@@ -1,0 +1,310 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eec-ab",
+  "eul_aid": "eec",
+  "author_slug": "cephisodorus-the-comic-poet",
+  "work_slug": "fragments",
+  "url_slug": "cephisodorus-the-comic-poet-fragments-eec-ab",
+  "author": {
+    "english": "Cephisodorus the Comic Poet",
+    "ancient_greek": "Κηφισόδωρος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Comedy",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Cephisodorus the Comic Poet on Eulogikon",
+    "meta_title": "Ancient Fragments of Cephisodorus the Comic Poet in Greek",
+    "meta_description": "Surviving fragments from Cephisodorus discussing comedy in ancient Greek poetic verse. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Comedy attributed to Cephisodorus constitute a modern scholarly compilation of surviving quotations from the works of an Athenian poet of Middle Comedy, active circa 400–323 BCE. As his comedies are entirely lost, these fragments are preserved solely through citations in later authors, most notably Athenaeus in his <strong>Deipnosophistae</strong> and the lexicographer Hesychius. Modern editions, such as <strong>Poetae Comici Graeci</strong>, systematically collect and number these remnants. The extant material reveals Cephisodorus&#x27;s engagement with the characteristic themes of his era, including detailed descriptions of gastronomy and symposium culture, mythological parody as suggested by play titles like <strong>Amazons</strong> and <strong>Trophonius</strong>, and humor derived from generalized social types and everyday situations. As a figure of Middle Comedy, Cephisodorus represents a transitional phase between the political satire of Old Comedy and the domestic focus of New Comedy. While his direct literary influence cannot be traced, his fragments provide valuable evidence for the thematic concerns and social history of fourth-century Athenian life, particularly as reflected in the convivial and material culture recorded by later antiquarians.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Σκώπτεις μ’, ἐγὼ δὲ τοῖς λόγοις ὄνος ὕομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Ἔπειτ’ ἀλείφεσθαι τὸ σῶμά μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρίω μύρον ἴρινον καὶ ῥόδινον, ἄγαμαι Ξανθία καὶ τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποσὶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χωρὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πρίω μοι βάκχαριν. Β. ὦ λακκόπρωκτε, βάκχαριν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "σοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "ποσὶν[ln_5]ἐγὼ πρίωμαι; λαικάσομ’ ἄρα. βάκχαριν;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Σανδάλιά τε τῶν λεπτοσχιδῶν, ἐφ’ οἷς τὰ χρυσᾶ ταῦτ’ ἔπεστιν ἄνθεμα· νῦν δ’ ὥσπερ ἡ θεράπαιν’ ἔχω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "περιβαρίδας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ὦ καὶ λέων καὶ μυγαλῆ καὶ σκορπίος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Κρεάδιόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τι φαῦλον ἢ ταρίχιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Οὐδ’ ὀψοφάγος οὐδ’ ἀδολέσχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἄγε δὴ τίς ἀρχὴ τῶν λόγων γενήσεται;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eec-aa",
+      "title": {
+        "english": "Fragments on Xanthias and Luxury",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ξανθίου καὶ Τρυφῆς"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-xanthias-luxury-eec-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/xanthias-luxury",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/xanthias-luxury.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fim-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-ab-fim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-ab.json"
+      }
+    },
+    {
+      "eul_wid": "bou-aa",
+      "title": {
+        "english": "Comic Fragments on Spartan Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ Βίου Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-comic-sparta-bou-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/comic-sparta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.json"
+      }
+    },
+    {
+      "eul_wid": "kfk-aa",
+      "title": {
+        "english": "Fragments of Uncertain Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Κωμῳδίας"
+      },
+      "url_slug": "comic-fragments-anonymous-i-uncertain-kfk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/uncertain",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/uncertain.json"
+      }
+    },
+    {
+      "eul_wid": "fkk-aa",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-aa-fkk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-aa.json"
+      }
+    },
+    {
+      "eul_wid": "gcw-ab",
+      "title": {
+        "english": "Fragments on Rhetoric and Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς καὶ Πόλεων"
+      },
+      "url_slug": "philiscus-of-athens-rhetoric-cities-gcw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philiscus-of-athens/rhetoric-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philiscus-of-athens/rhetoric-cities.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bq",
+      "title": {
+        "english": "Hero",
+        "ancient_greek": "Ἥρως"
+      },
+      "url_slug": "menander-of-athens-hero-hps-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/hero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.json"
+      }
+    },
+    {
+      "eul_wid": "hrg-ab",
+      "title": {
+        "english": "Miser's Dinner Party",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archedicus-the-comic-poet-misers-dinner-party-ab-hrg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-ab.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

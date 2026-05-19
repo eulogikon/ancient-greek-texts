@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ssy",
+  "auth_slug": "council-of-caesarea",
+  "name": {
+    "english": "Synodical Letter of the Council of Caesarea",
+    "ancient_greek": "Ἀπόσπασμα τῆς συνοδικῆς ἐπιστολῆς τῆς ἐν Καισαρείᾳ συνόδου"
+  },
+  "seo_h1": "Synodical Letter of the Council of Caesarea",
+  "seo": {
+    "browser_title": "Council Caesarea Synodical Letter on Eulogikon Greek Archive",
+    "meta_title": "Council of Caesarea Synodical Letter Ancient Greek Works",
+    "meta_description": "The Synodical Letter of the 4th century Council of Caesarea, a Christian theological document. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Synodical Letter of the Council of Caesarea is a 4th-century CE ecclesiastical document, not an individual author. It is a conciliar epistle produced by bishops convened in Caesarea, the metropolitan see of Cappadocia Prima, to announce decisions on doctrine, discipline, or church governance. This period was defined by theological controversy and conciliar activity following Christianity&#x27;s legalization, with Caesarea being a major center associated with figures like Basil the Great.</p>\n<p class=\"research-text\">The work is a fragmentary conciliar epistle, as indicated by the term &quot;excerpt&quot; in its title. The letter exemplifies a key genre of early Christian administrative literature, vital for building networks of communication and doctrinal consensus. Its survival, even as a fragment, provides evidence for the theological and institutional activity within an important 4th-century metropolitan see, illustrating how orthodoxy and church structures were defined through regional councils.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ssy-aa",
+      "title": {
+        "english": "Fragment of a Letter",
+        "ancient_greek": "Ἀπόσπασμα Ἐπιστολῆς"
+      },
+      "url_slug": "council-of-caesarea-fragment-ssy-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/council-of-caesarea/fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/council-of-caesarea/fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/council-of-caesarea/fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/council-of-caesarea/fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/council-of-caesarea/fragment.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/council-of-caesarea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/council-of-caesarea.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/council-of-caesarea.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/council-of-caesarea.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/council-of-caesarea.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

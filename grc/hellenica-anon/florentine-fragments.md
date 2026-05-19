@@ -1,0 +1,79 @@
+---
+title: Florentine Fragments
+title_greek: Φλωρεντινὰ Ἀποσπάσματα
+author: Hellenica  Anonymous
+eul_wid: ecy-ac
+eul_aid: ecy
+canonical: "https://eulogikon.org/grc/hellenica-anon/florentine-fragments"
+period: Classical
+dialect: Attic
+domain: History
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Florentine Fragments
+
+*Φλωρεντινὰ Ἀποσπάσματα*
+
+**Author:** Hellenica  Anonymous
+
+**eul_wid:** `ecy-ac` · [HTML page](https://eulogikon.org/grc/hellenica-anon/florentine-fragments)
+
+## Text
+
+### t 1 1
+
+FRAGMENTA FLORENTINA (PSI 1304) [ [Break in Text (point at which text breaks off for an unknown length)] ] .
+
+### A 1 1
+
+αικ̣α̣[ . ....................... ]ντων [ .. ................... ] . [ .. ] τετρακ[ο] [σι .... .......... ]ν̣ προτρο[πάδ]η̣ν̣ ἐ̣ [τράπησαν, οἱ δὲ] Λακεδαιμό[νιοι . ]ωρι . [ ........... ]ν̣ ὑ[π]εχώρου[ν ἐν] τάξει [πρὸς τοὺς λόφο]υ̣ς. οἱ δὲ στρατιῶ[τα]ι τ̣ω̣ν̣ [Ἀθηναίων το]ύ̣τ̣ο̣υ̣ς̣ μὲν οὐκ ἐδίωξαν, [τοῖς δὲ Μεγαρε]ῦσι〈ν〉 [ἐ]π̣ακολουθοῦντες ἐ [πὶ .......... ] ὁδοῦ τῆς πρὸς τὴν π̣[όλιν φερούσης] καταβάλλουσιν αὐτῶν [ἀριθμὸν πολύ]ν. μετὰ δὲ ταῦτα καταδρα[μόντες τὴν χ]ώραν καὶ τοὺς νεκροὺς [ἀποδόντες ὑπο]σπόνδους τῶν Μεγαρέ[ων] κα[ὶ τοὺς τῶ]ν Λακεδ[α]ιμονίων (ἀ̣π̣έ̣[θα]ν̣ον [δὲ το]ύ̣των ὡς εἴκοσιν) ἱστᾶσιν [τρ]οπαῖ[ον· τ]αῦτα δὲ ποιήσαντες ἀνεχώ[ρ]ησαν πάλιν ἐπ’ οἴκου. Ἀθηναῖοι δὲ πυ [θ]όμενοι τὰ περὶ τῆς μάχης τοῖς μὲν [στ]ρατηγοῖς ὠργίζοντο καὶ χαλεπῶς εἶ[χο]ν ὑπολαμβάνοντες [π]ροπετῶς αὐ[το]ὺς ἀνελέσθαι τὸν κίνδ[υ]νον καὶ κυ[βε]ῦσαι περὶ ὅλης τῆς πόλεως, ἐπὶ δὲ τῇ [νί]κῃ περι[χα]ρεῖ[ς] ἦσαν· ἐ[τ]ύγχανον γὰρ [Λα]κεδαιμον[ίω]ν οὐδέποτε πρότερον κ[ε κρατη]κότες [ .
+
+### A 1 2
+
+..... ] περὶ Π[ύλο]ν̣ .. [ . ]α̣ [ ..... ] .... [ ......... ......... ]αν [ [Break in Text (point at which text breaks off for an unknown length)] ] desunt versus nonnulli []τ[ .
+
+### A 2 1
+
+.... ] .. [ [Break in Text (point at which text breaks off for an unknown length)] ] υ[ .... ]τ . [ . ]ρ̣ . [ [Break in Text (point at which text breaks off for an unknown length)] ] η . [ .. .. ]στρατε[ [Break in Text (point at which text breaks off for an unknown length)] ] π . [ . χ]ρήματα [ [Break in Text (point at which text breaks off for an unknown length)] ] σαν [ἀ]ναγκαζ[ [Break in Text (point at which text breaks off for an unknown length)] ] τυχ[ . ]ν̣ ἰδιωτ[ [Break in Text (point at which text breaks off for an unknown length)] ] οὐδ[ὲ]ν ἧττον [ [Break in Text (point at which text breaks off for an unknown length)] ] τω[ .... ]ις εἰω̣[ [Break in Text (point at which text breaks off for an unknown length)] ] .. [ .. ]ρ̣[ . ]ων κα[ [Break in Text (point at which text breaks off for an unknown length)] ] ἐξ [αὐτ]ῆς τῆς [ [Break in Text (point at which text breaks off for an unknown length)] ] γε[ ..... ]επ̣[ [Break in Text (point at which text breaks off for an unknown length)] ] ως . [ [Break in Text (point at which text breaks off for an unknown length)] ] των̣[ [Break in Text (point at which text breaks off for an unknown length)] ] χου[ . ]ι̣ω . [ [Break in Text (point at which text breaks off for an unknown length)] ] ται π̣ροσ̣[ [Break in Text (point at which text breaks off for an unknown length)] ] χρ̣ω[ [Break in Text (point at which text breaks off for an unknown length)] ] .. [ [Break in Text (point at which text breaks off for an unknown length)] ἐπι] τηδευμ[ [Break in Text (point at which text breaks off for an unknown length)] ] μηνα . [ . ]υ̣[ [Break in Text (point at which text breaks off for an unknown length)] ] τος κατα̣πο[ [Break in Text (point at which text breaks off for an unknown length)] ] ρος αὐτίκα [ [Break in Text (point at which text breaks off for an unknown length)] ] τα κατὰ τὴν̣ [ [Break in Text (point at which text breaks off for an unknown length)] ] οις ὁ Πεδάρι̣[τος [Break in Text (point at which text breaks off for an unknown length)] ] ἀρχὴν ἐπηγα̣[γ [Break in Text (point at which text breaks off for an unknown length)] ] οὔθ̣’ οἵτινες ἐ . [ [Break in Text (point at which text breaks off for an unknown length)] δυ‐] ναστείαν, οὐδ[ [Break in Text (point at which text breaks off for an unknown length)] φι] λοτιμίας ἀπε . [ [Break in Text (point at which text breaks off for an unknown length)] ] νως διέσωσαν τη[ [Break in Text (point at which text breaks off for an unknown length)] ] Ἀθηναίων ητ[ [Break in Text (point at which text breaks off for an unknown length)] ] ατη γενομένη̣ [ [Break in Text (point at which text breaks off for an unknown length)] πε] ρὶ ἧς καὶ Θουκ[υδίδης [Break in Text (point at which text breaks off for an unknown length)] ] Πε{ρι}δαριτο̣[ [Break in Text (point at which text breaks off for an unknown length)] ] μεν τῶν α[ [Break in Text (point at which text breaks off for an unknown length)] ] τες εὐθέως [ [Break in Text (point at which text breaks off for an unknown length)] ] τ̣ατην ν̣α[ [Break in Text (point at which text breaks off for an unknown length)] ] [ ...... ]κ̣[ [Break in Text (point at which text breaks off for an unknown length)] ] [ [Break in Text (point at which text breaks off for an unknown length)] ]ην [ [Break in Text (point at which text breaks off for an unknown length)] ] μεθ’ ἡμέ [ραν [Break in Text (point at which text breaks off for an unknown length)] ] .
+
+### B 3 1
+
+. ατη̣σε [ [Break in Text (point at which text breaks off for an unknown length)] ] .... αι [ [Break in Text (point at which text breaks off for an unknown length)] ] . ν ἡμέραν [ [Break in Text (point at which text breaks off for an unknown length)] ]τ̣ων τὸν [ [Break in Text (point at which text breaks off for an unknown length)] ]ι̣ρας καλου [μεν [Break in Text (point at which text breaks off for an unknown length)] ]ι̣το μὲν [ [Break in Text (point at which text breaks off for an unknown length)] ]ων δὲ προσ [ [Break in Text (point at which text breaks off for an unknown length)] ] ε̣α̣ν̣ε̣υ̣ [ [Break in Text (point at which text breaks off for an unknown length)] ]εκ̣λε [ [Break in Text (point at which text breaks off for an unknown length)] ]π̣λευ [ [Break in Text (point at which text breaks off for an unknown length)] ]ουθ ... [ [Break in Text (point at which text breaks off for an unknown length)] ] ν̣η̣σι [ [Break in Text (point at which text breaks off for an unknown length)] ]ουσας [ [Break in Text (point at which text breaks off for an unknown length)] ]ι̣ ἐρῆμοι [ [Break in Text (point at which text breaks off for an unknown length)] ἀ]φελομε [ν [Break in Text (point at which text breaks off for an unknown length)] ] βασιλέ [ως [Break in Text (point at which text breaks off for an unknown length)] ]α̣σ̣επο [ [Break in Text (point at which text breaks off for an unknown length)] ]ς̣ νήσοις [ [Break in Text (point at which text breaks off for an unknown length)] ]ς ἐκει [ [Break in Text (point at which text breaks off for an unknown length)] ] ταῖς Κλα [ζομεναῖς [Break in Text (point at which text breaks off for an unknown length)] ] . ησος [ [Break in Text (point at which text breaks off for an unknown length)] ] .. [ . ]τ̣ο̣ [ [Break in Text (point at which text breaks off for an unknown length)] ] [ [Break in Text (point at which text breaks off for an unknown length)] ]σον [ [Break in Text (point at which text breaks off for an unknown length)] ]ς ἄριστα [ [Break in Text (point at which text breaks off for an unknown length)] ] .. τ̣ο̣ν̣ [ [Break in Text (point at which text breaks off for an unknown length)] ]υ̣τ̣ῳ ταυ [ [Break in Text (point at which text breaks off for an unknown length)] ] μὴ προσ̣ [ [Break in Text (point at which text breaks off for an unknown length)] ]θ̣ε̣ιρ . [ [Break in Text (point at which text breaks off for an unknown length)] ] desunt versus saltem III [ [Break in Text (point at which text breaks off for an unknown length)] ]νησιω̣[ .
+
+### B 4 1
+
+ὥ]σπερ ε̣ἰ̣ώ̣[θει ............. ] ρας ἐκπ̣[έ]μ̣πειν ν[αῦς .............. ] αὐτάς, πληρώσας τρ[ιήρεις δέκα τὰς ἄριστα] πλεούσας, τὰς μὲν ἑτ̣[έρας ἐκέλευσε ναυ]λοχεῖν ἕως ἂν ἀπάρω[σιν αἱ τῶν πολεμί]ων πόρρω τῆς γῆς, [αὐτὸς δὲ ταῖς δέκα προ]έπλει πρὸς τὴν Ἔφεσ[ον .............. ] προσαξόμενος αὐτά[ς. Λύσανδρος δὲ κατι] δὼν α[ὐ]τοὺς τρεῖς να̣[ῦς εὐθὺς καθεῖλκεν· αἵ] περ κα[ὶ] πρότερον αὐ[τ .
+
+### B 4 2
+
+............ ] καταδύ[ο]υσι τὸν Ἀ[ν]τ̣[ίοχον ......... ] ως καὶ διαφθείρου[σιν ........... τῶν] μὲν Ἀθηναίων φ̣[οβηθέντες οἱ συμπλέον] τες εὐθέως πρὸς τἄ[μπαλιν ἐτράπησαν οὐ] προνοούμενοι τ[ὸ να]υμα[χῆσαι κατὰ κρά]τος· Λύσανδρος δὲ ἀ[ν]αλαβ[ὼν πάσας τὰς τρι]ήρεις ἐδίωκε τοὺς [π]ολεμ[ίους. οἱ δὲ λοιποὶ] τῶν Ἀθηναίων κ[α]τιδόν[τες ἀπηρκότας] τοὺς Λακεδαιμον[ίου]ς καὶ δ̣[ιώκοντας τὴν] αὑτῶν δεκαναΐα[ν] ἐνέβ[ησαν μὲν εὐθέως,] ἐπειγόμενοι βοηθῆσαι τα[ῖς αὑτῶν ναυσίν·] ἐπικειμένων δὲ τῶν ἐν[αντίων ἤδη διὰ] ταχέων πάσας μὲν οὐκ ἠ[δύναντο τὰς] τριήρεις φθῆναι π[λ]ηρώ[σαντες, ταῖς δὲ] πλείσταις αὐτῶν μ[ι]κρὸν [ἐκ τοῦ λιμέ]νος ἀναχθέντες το[ῦ τ]ῶν [Κολοφωνίων] τὰς μὲν προπλευ̣[σά]σας [ .
+
+### B 4 3
+
+.......... ,] αὐτοὶ δὲ ταραχθέντες ἀμα[χεὶ ......... ] καὶ δι’ ἀταξίαν ὑπεχώρη[σαν τοῖς πολε]μίοις. Λακεδαιμόνιοι δὲ κα[τιδόντες φεύ]γον[τα]ς τοὺς Ἀθηνα[ί]ους ἐπε[νεχθέντες δι]αφθείρουσιν αὐτῶν καὶ λα[μβάνουσιν εἴ]κοσι καὶ δύο ναῦς, τὰς δὲ λοιπὰ[ς εἰς τὸ Νότι ο]ν κατέκλεισαν. ἐκεῖνοι μὲν ο[ὖν διαπραξά]μενοι ταῦτα καὶ τροπαῖον στ[ήσαντες] πρὸς τῷ λιμένι τῆς πόλεως εἰς [τἄμπα]λιν ἀπῆλθον· Ἀθηναῖοι δὲ παραυ[τίκα μὲν] ἡ[σ]υχίαν εἶχον, παρελθουσῶ[ν δὲ .
+
+### B 4 4
+
+..... ] τριῶν ἡμερῶν θεραπεύσ[αντες ..... ] [ [Break in Text (point at which text breaks off for an unknown length)] ]α̣[ .
+
+### C 5 1
+
+. ]α̣υ̣τ̣[ .............. ] [ .... ] ....... εἰώθει γ̣ὰ̣[ρ ......... ... ὁ]μολογίας εὐθέως . [ ....... τοὺς] [φυγ]ά̣δας. παρ’ αὐτῷ μὲν γ̣[ὰρ .
+
+### C 5 2
+
+... ]ν̣ ἐ̣ν̣ [τῷ νε]ῲ τῷ τῆς Δήμητρ[ος καὶ Κό]ρης, ὃ̣[ς .... ]γ̣ε τοῖς τείχεσί ἐστι [ ..... ]ου διὰ τὴν [ .... ]ν ἐγεγόνει τῇ [ὕλῃ, νύκ]τ̣ωρ̣ [δ]ὲ κατα[στὰς] τ̣ὸν μὲν 〈ἄλλον〉 χρόνον [ἡσυ]χίαν εἶχεν [ἐγκρ]ύψας αὑτὸν εἰς τὴ[ν] ὕλην· ὅτε δὲ [κατασ]ταίη φύλαξ ὁ Ἀθη̣[ναῖο]ς̣, ἐκεῖνος μὲν καθεὶς ὑπὲρ τοῦ τείχ[ους] σπάρτον ἐποίησεν [ἄ]ν τι σημεῖον ὅτ[ι] παρε[ί‐] ληφεν τὴ[ν φ]υλακήν, ἢ φθεγξάμενο[ς ἢ λί]θῳ βαλών, ὁ δὲ Μύνδ〈ι〉ος ἐξελ[θὼν ἐ]κ τῆς ὕλης πρῶτον μὲν εἴ τι γραμματεῖον εἴη παρ’ ἐκείνου καθειμένον ⟦ τε ⟧ ἐλάμβα[νε]ν καὶ διεφύλαττ[ε]ν, [ἔπειτ]α δὲ προ[σ]ῆψεν αὐτὸς ἂν ἕτερον [τῷ σπάρτῳ γ]ραμμ[α]‖[τεῖον] desunt versus nonnulli [ [Break in Text (point at which text breaks off for an unknown length)] ] ν̣[ [Break in Text (point at which text breaks off for an unknown length)] ] τοντ̣α[ [Break in Text (point at which text breaks off for an unknown length)] ] τὸ τεῖχ[ος [Break in Text (point at which text breaks off for an unknown length)] ] χου εξ[ [Break in Text (point at which text breaks off for an unknown length)] ] νυ .
+
+### C 5 3
+
+[ [Break in Text (point at which text breaks off for an unknown length)] ] φυλ̣[α [Break in Text (point at which text breaks off for an unknown length)] ] . ε̣[ .. ]ρ̣ . [ [Break in Text (point at which text breaks off for an unknown length)] ] τ̣ων οιγ[ [Break in Text (point at which text breaks off for an unknown length)] ] επλη . [ [Break in Text (point at which text breaks off for an unknown length)] ] τερα[ [Break in Text (point at which text breaks off for an unknown length)] ] θ̣εν α̣[ [Break in Text (point at which text breaks off for an unknown length)] ] [ . ] .. [ [Break in Text (point at which text breaks off for an unknown length)] ] [ [Break in Text (point at which text breaks off for an unknown length)] ] []εχοντ[] []ω̣νου[] [τετ]αγμέν[] [] .
+
+### D 5 3 (4)
+
+στης . [] [ὀλ]ίγῳ πλεί[ους] [τ]οῖς ἱπ[πεῦσι] []δυο . [] [ [Break in Text (point at which text breaks off for an unknown length)] ]
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: ecy-ac`.

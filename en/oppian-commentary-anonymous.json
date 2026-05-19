@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "tom",
+  "auth_slug": "oppian-commentary-anonymous",
+  "name": {
+    "english": "Oppian Commentary Anonymous",
+    "ancient_greek": "Ἀνώνυμος εἰς τὰ Ὀππιανοῦ"
+  },
+  "seo_h1": "Anonymous Exegesis on Oppian's Halieutica",
+  "seo": {
+    "browser_title": "Oppian Commentator Anonymous on Eulogikon Greek Archive",
+    "meta_title": "Oppian Commentator Anonymous Ancient Greek Commentary",
+    "meta_description": "Anonymous commentator on Oppian from Late Antiquity. A grammatical commentary on Oppian's works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Anonymous Commentator on Oppian is a figure known only from a single surviving work, written sometime between the 3rd and 5th centuries CE during the Late Antique period. This unknown author was a grammarian, part of a scholarly tradition focused on explaining and preserving classical texts.</p>\n<p class=\"research-text\">Their sole known work is a prose commentary on the Halieutica, a didactic epic poem about fishing written by the earlier poet Oppian of Cilicia. The commentary is a practical scholarly tool. It provides explanations for difficult vocabulary, clarifies mythological references, and elucidates the natural history details found in Oppian&#x27;s poem. Such works were essential for education, helping students and later readers understand complex poetic language.</p>\n<p class=\"research-text\">According to modern scholars, this anonymous text is a representative example of late antique grammatical scholarship. Its primary significance lies in its role within the scholiastic tradition—the body of ancient notes and commentaries written in the margins of texts. It aids in interpreting Oppian&#x27;s original work and contributes to the study of how Hellenistic poetry was studied and understood in later antiquity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "tom-aa",
+      "title": {
+        "english": "Exegesis-Oppian's Halieutica",
+        "ancient_greek": "Ἐξήγησις εἰς τὰ Ἁλιευτικά τοῦ Ὀππιανοῦ"
+      },
+      "url_slug": "oppian-commentary-anonymous-exegesis-halieutica-tom-aa",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-commentary-anonymous/exegesis-halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-commentary-anonymous/exegesis-halieutica.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/oppian-commentary-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oppian-commentary-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oppian-commentary-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oppian-commentary-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oppian-commentary-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

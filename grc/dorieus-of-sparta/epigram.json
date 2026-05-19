@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ahs-aa",
+  "eul_aid": "ahs",
+  "author_slug": "dorieus-of-sparta",
+  "work_slug": "epigram",
+  "url_slug": "dorieus-of-sparta-epigram-ahs-aa",
+  "author": {
+    "english": "Dorieus of Sparta",
+    "ancient_greek": "Δωριεύς ὁ Λακεδαιμόνιος"
+  },
+  "title": {
+    "english": "Epigram",
+    "ancient_greek": "Ἐπίγραμμα"
+  },
+  "seo": {
+    "browser_title": "The Epigram by Dorieus of Sparta on Eulogikon Archive",
+    "meta_title": "Classical Epigram by Dorieus of Sparta in Ancient Greek",
+    "meta_description": "The surviving epigram by Dorieus of Sparta, a short poetic inscription from Greek tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The epigram attributed to Dorieus of Sparta is a short commemorative verse inscription known only from six surviving passages. Dorieus was a historical Spartan prince, an Olympic champion, and the leader of unsuccessful colonial expeditions in the late sixth century BCE. While the specific content and metrical form of the epigram are unattested, its likely function was to honor the prince&#x27;s achievements or memory. Potential subjects, inferred from Dorieus&#x27;s life and the conventions of the genre, include the commemoration of his Olympic athletic victory, the memorialization of his heroic death during a campaign in Sicily, or a celebration of core Spartan values such as courage and glory. The epigram is not preserved in major poetic collections like the Greek Anthology; its transmission path remains unclear, though its survival in six quoted passages suggests it was cited within a later historical or literary source. While the literary influence of the epigram itself is undocumented, the figure of Dorieus holds considerable historical significance, being recorded by authors such as Herodotus and Pausanias for his colonial endeavors and his death. The attribution of the verse offers a potential lens into how his legacy was shaped and perpetuated through commemorative poetry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 396.1",
+      "text": "τοῖος ἔην Μίλων, ὅτ’ ἀπὸ χθονὸς ἤρατο βρῖθος, τετραετῆ δαμάλην ἐν Διὸς εἰλαπίναις, ὤμοις δὲ κτῆνος τὸ πελώριον ὡς νέον ἄρνα ἤνεγκεν δι’ ὅλης κοῦφα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396.2",
+      "text": "πανηγύρεως.[ln_5]καὶ θάμβος μέν, ἀτὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396.3",
+      "text": "τοῦδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396.4",
+      "text": "πλέον ἤνυσε θαῦμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396.5",
+      "text": "πρόσθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 396.6",
+      "text": "Πισαίου, ξεῖνε, θυηπολίου· ὃν γὰρ ἐπόμπευσεν βοῦν ἄζυγον, εἰς κρέα τόνδε κόψας πάντα κατ’ οὖν μοῦνος ἐδαίσατό νιν. *",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "brw-ac",
+      "title": {
+        "english": "Fragments of Dithyrambs",
+        "ancient_greek": "Ἀποσπάσματα Διθυράμβων"
+      },
+      "url_slug": "bacchylides-of-ceos-dithyrambs-ac-brw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dithyrambs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.json"
+      }
+    },
+    {
+      "eul_wid": "brw-af",
+      "title": {
+        "english": "Fragments of Hymns",
+        "ancient_greek": "Ἀποσπάσματα Ὕμνων"
+      },
+      "url_slug": "bacchylides-of-ceos-hymns-fragments-brw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hymns-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ab",
+      "title": {
+        "english": "Fragments of Victory Odes",
+        "ancient_greek": "Ἀποσπάσματα Νικῶν Ὠδῶν"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ab-brw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.json"
+      }
+    },
+    {
+      "eul_wid": "asm-aa",
+      "title": {
+        "english": "Fragments on Marriage and Kingship",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γάμου καὶ Βασιλείας"
+      },
+      "url_slug": "alcaeus-of-mytilene-marriage-kingship-asm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-of-mytilene/marriage-kingship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/marriage-kingship.json"
+      }
+    },
+    {
+      "eul_wid": "vke-aa",
+      "title": {
+        "english": "Hierotheus the Philosopher-the Divine and Sacred Art in Iambic Verses",
+        "ancient_greek": "Ἱεροθέου φιλοσόφου περὶ τῆς θείας καὶ ἱερᾶς τέχνης"
+      },
+      "url_slug": "hierotheus-the-alchemical-poet-divine-sacred-art-vke-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hierotheus-the-alchemical-poet/divine-sacred-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet/divine-sacred-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet/divine-sacred-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet/divine-sacred-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierotheus-the-alchemical-poet/divine-sacred-art.json"
+      }
+    },
+    {
+      "eul_wid": "upu-av",
+      "title": {
+        "english": "Hymn 29 To Hestia",
+        "ancient_greek": "Ὕμνος εἰς Ἑστίαν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hestia-av-upu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bf",
+      "title": {
+        "english": "Hymn 8 To Ares",
+        "ancient_greek": "Ὕμνος εἰς Ἄρην"
+      },
+      "url_slug": "homeric-hymns-anonymous-ares-upu-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/ares",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/ares.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/ares.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/ares.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/ares.json"
+      }
+    },
+    {
+      "eul_wid": "mgm-aa",
+      "title": {
+        "english": "To Rome",
+        "ancient_greek": "Εἰς Ῥώμην"
+      },
+      "url_slug": "melinno-rome-mgm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melinno/rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melinno/rome.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melinno/rome.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melinno/rome.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melinno/rome.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dorieus-of-sparta/epigram",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

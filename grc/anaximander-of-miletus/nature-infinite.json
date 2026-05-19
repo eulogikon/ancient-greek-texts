@@ -1,0 +1,246 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aua-ab",
+  "eul_aid": "aua",
+  "author_slug": "anaximander-of-miletus",
+  "work_slug": "nature-infinite",
+  "url_slug": "anaximander-of-miletus-nature-infinite-aua-ab",
+  "author": {
+    "english": "Anaximander of Miletus",
+    "ancient_greek": "Ἀναξίμανδρος ὁ Μιλήσιος"
+  },
+  "title": {
+    "english": "On the Nature of the Infinite",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "On the Nature of the Infinite by Anaximander on Eulogikon",
+    "meta_title": "On the Nature of the Infinite by Anaximander in Greek",
+    "meta_description": "On the Nature of the Infinite by Anaximander. Early Ionian cosmology on the boundless arche. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Nature of the Infinite</strong> is a seminal but fragmentary philosophical treatise attributed to the 6th-century BCE Milesian thinker Anaximander. Composed in Ionic Greek prose, it represents one of the earliest known attempts to provide a rational, non-mythological account of the cosmos. The work’s central thesis posits the <strong>apeiron</strong>—the boundless, eternal, and indefinite—as the fundamental origin and substance of all things. From this inexhaustible source, the cosmos continually emerges and into it all things ultimately return according to a governing principle of necessity.</p>\n<p class=\"research-text\">The original text is lost, and our knowledge of its contents derives entirely from later ancient commentators and doxographers. These preserved reports and excerpts outline a comprehensive natural philosophy. They describe a cosmogonic process wherein paired opposites, such as hot and cold, separate from the primordial <strong>apeiron</strong> to generate the ordered world, with the Earth conceived as a cylindrical body positioned at the center of the universe. The fragments further suggest an innovative conception of cosmic justice, wherein elemental forces pay penalty and recompense to one another for their transgressions in a perpetual cycle governed by time. The work also ventured into early speculative biology, proposing that animal life first arose from a moist element.</p>\n<p class=\"research-text\">This treatise marks a pivotal transition in Western thought from mythological narrative to systematic philosophical inquiry. It was likely composed for an educated audience in the vibrant intellectual milieu of Miletus, engaging them in novel debates concerning the fundamental principles of nature. Its pioneering concepts, particularly the <strong>apeiron</strong> as an abstract, non-empirical first principle, exerted a profound influence on subsequent pre-Socratic philosophy and were subject to detailed critical analysis by Aristotle in his own physical writings.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "SIMPLIC. Phys. 24, 13 [vgl. A 9] Ἀ. ... ἀρχὴν .... εἴρηκε τῶν ὄντων τὸ ἄπειρον ... . ἐξ ὧν δὲ ἡ γένεσίς ἐστι τοῖς οὖσ ι , καὶ τὴν φθορὰν εἰς ταῦτα γίνεσθαι κατὰ τὸ χρεώ ν · διδόναι γὰρ αὐτὰ δίκην καὶ τίσιν ἀλλήλοις τῆς ἀδικίας κατὰ τὴν τοῦ χρόνου τάξι ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "HIPPOL. Ref. I 6, 1 ταύτην (sc. φύσιν τινὰ τοῦ ἀπείρο υ ) ἀίδιον εἶναι καὶ ἀγήρ ω .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ARIST. Phys. Γ 4 203b 13 ἀθάνατον . . καὶ ἀνώλεθρον ( τὸ ἄπειρον = τὸ θεῖον).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "AËT. II 20, 1 πρηστῆρος αὐλός [vgl. 22 B 31].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "—III 10, 2 λίθωι κίονι τὴν γῆν προσφερῆ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "SCHOL. DIONYS. THRAC. p. 183, 1 Hilg. τῶν στοιχείων εὑρετὴν ἄλλοι τε καὶ Ἔφορος ἐν δευτέρωι [F GrHist. 70 F 105 II 68] Κάδμον φασίν, οἱ δὲ οὐχ εὑρετήν, τῆς δὲ φοινίκων εὑρέσεως πρὸς ἡμᾶς διάκτορον γεγενῆσθαι ... Πυθόδωρος δὲ ... Δαναὸν μετακομίσαι αὐτά φασιν· ἐπιμαρτυροῦσι τούτοις καὶ οἱ Μιλησιακοὶ συγγραφεῖς Ἀναξίμανδρος καὶ Διονύσιος καὶ Ἑκαταῖος [F GrHist. 1 F 20 I 12], οὓς καὶ Ἀπολλόδωρος ἐν Νεῶν καταλόγωι [F GrHist. 244 F 165 II 1092] παρατίθεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aua-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "anaximander-of-miletus-testimonies-aua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximander-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lgs-aa",
+      "title": {
+        "english": "Commentary-Plato's Theaetetus",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Θεαίτητον τοῦ Πλάτωνος"
+      },
+      "url_slug": "anonymous-commentary-on-plato-theaetetus-theaetetus-lgs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-plato-theaetetus/theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-plato-theaetetus/theaetetus.json"
+      }
+    },
+    {
+      "eul_wid": "iso-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.json"
+      }
+    },
+    {
+      "eul_wid": "bzo-ae",
+      "title": {
+        "english": "Fragments on Anacreon and Cotabus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνακρέοντος καὶ Κοτάβου"
+      },
+      "url_slug": "critias-of-athens-anacreon-cotabus-bzo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/critias-of-athens/anacreon-cotabus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/anacreon-cotabus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/anacreon-cotabus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/anacreon-cotabus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critias-of-athens/anacreon-cotabus.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-aa",
+      "title": {
+        "english": "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth",
+        "ancient_greek": "Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ"
+      },
+      "url_slug": "hermetica-to-tat-rebirth-oqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-tat-rebirth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-tat-rebirth.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ai",
+      "title": {
+        "english": "Holy Discourse of Hermes Trismegistus",
+        "ancient_greek": "Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός"
+      },
+      "url_slug": "hermetica-holy-discourse-oqk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/holy-discourse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.json"
+      }
+    },
+    {
+      "eul_wid": "dio-aa",
+      "title": {
+        "english": "On the Honor Due to Parents",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pempelus-pseudo-honor-parents-dio-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pempelus-pseudo/honor-parents",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pempelus-pseudo/honor-parents.json"
+      }
+    },
+    {
+      "eul_wid": "ljk-aj",
+      "title": {
+        "english": "Opinions-Physics",
+        "ancient_greek": "Γνώμαι περὶ φυσικῶν"
+      },
+      "url_slug": "theophrastus-of-eresus-physics-ljk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/physics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/physics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/physics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/physics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/physics.json"
+      }
+    },
+    {
+      "eul_wid": "ceo-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "lyco-of-tarentum-testimonies-ceo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyco-of-tarentum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyco-of-tarentum/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

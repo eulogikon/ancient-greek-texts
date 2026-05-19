@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fby",
+  "auth_slug": "scythinus-of-teos-ii",
+  "name": {
+    "english": "Scythinus of Teos II",
+    "ancient_greek": "Σκυθῖνος ὁ Τήιος"
+  },
+  "seo_h1": "Scythinus of Teos and the Verse of Heraclitus",
+  "seo": {
+    "browser_title": "Scythinus of Teos on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Scythinus of Teos Ancient Greek Iambic Poetry",
+    "meta_description": "Scythinus of Teos, a classical Greek poet of Ionic iambic verse. Three poetic fragments survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνικὴ Ἰαμβική",
+      "english": "Ionic Iambic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Scythinus of Teos was a poet from the Ionian city of Teos, active in the late fifth or early fourth century BCE. He is known primarily for his association with the philosopher Heraclitus of Ephesus. According to Diogenes Laertius, Scythinus attempted to put the doctrines of Heraclitus into verse.</p>\n<p class=\"research-text\">His work is known only through fragments and testimonia. The Suda attributes three works to him: Iamboi, Elegies, and On Nature. All are lost, with his primary known endeavor being the versification of Heraclitus’s philosophy.</p>\n<p class=\"research-text\">Scythinus represents an early effort to present philosophical ideas in poetic form, blending Ionic iambic poetry with Presocratic speculation. His recorded project provides a glimpse into diverse methods of philosophical dissemination in the Classical period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "fby-ab",
+      "title": {
+        "english": "Cosmic Fragments on Apollo",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος"
+      },
+      "url_slug": "scythinus-of-teos-ii-cosmic-fragments-fby-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/scythinus-of-teos-ii/cosmic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/cosmic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/cosmic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/cosmic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/cosmic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "fby-ac",
+      "title": {
+        "english": "On the Heraclea of Trachis",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "scythinus-of-teos-ii-heraclea-trachis-fby-ac",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/scythinus-of-teos-ii/heraclea-trachis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/heraclea-trachis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/heraclea-trachis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/heraclea-trachis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/heraclea-trachis.json"
+      }
+    },
+    {
+      "eul_wid": "fby-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "scythinus-of-teos-ii-testimonies-fby-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/scythinus-of-teos-ii/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scythinus-of-teos-ii/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/scythinus-of-teos-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scythinus-of-teos-ii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scythinus-of-teos-ii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scythinus-of-teos-ii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/scythinus-of-teos-ii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

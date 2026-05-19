@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lvi",
+  "auth_slug": "commentary-on-dionysius-thrax",
+  "name": {
+    "english": "Commentary on Dionysius Thrax",
+    "ancient_greek": "Διονύσιος ὁ Θρᾷξ Τέχνη Γραμματικὴ ὑπόμνησις"
+  },
+  "seo_h1": "Commentary Traditions on Dionysius Thrax",
+  "seo": {
+    "browser_title": "Dionysius Thrax Grammarian on Eulogikon Greek Archive",
+    "meta_title": "The Dionysius Thrax Ancient Greek Grammarian Works",
+    "meta_description": "Dionysius Thrax, Hellenistic grammarian. Commentary and seven grammatical works in Koine prose. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius Thrax was a Greek grammarian who lived and worked during the 2nd century BCE. He was a student of the famous Alexandrian scholar Aristarchus of Samothrace, which placed him at the heart of the Hellenistic world&#x27;s leading center for literary scholarship. His epithet &quot;Thrax&quot; indicates he was from Thrace, though his specific hometown is unknown. After political unrest in Alexandria, he is reported to have taught later in his life on the island of Rhodes.</p>\n<p class=\"research-text\">His lasting importance rests on a single surviving work attributed to him, the Tekhnē Grammatikē, or The Art of Grammar. This concise manual is considered the first systematic grammar of any language in the Western tradition. It defines the study of grammar and outlines its components, with its most influential section establishing the eight parts of speech: noun, verb, participle, article, pronoun, preposition, adverb, and conjunction.</p>\n<p class=\"research-text\">While some modern scholars have debated the authenticity of parts of the text as it survives, its historical impact is unquestioned. The framework of the Tekhnē became the foundational model for Roman, medieval, and Renaissance grammar, shaping the study of language in Europe for centuries. Numerous other scholarly works on poetry and dialects were attributed to him in antiquity, but these are now lost.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 7,
+  "works": [
+    {
+      "eul_wid": "lvi-aa",
+      "title": {
+        "english": "Byzantine Little Commentary",
+        "ancient_greek": "Μικρὸν Βυζαντινὸν Ὑπόμνημα"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-little-commentary-lvi-aa",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/little-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/little-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-af",
+      "title": {
+        "english": "Commentary on Dionysius Thrax (Recension A)",
+        "ancient_greek": "Ὑπόμνημα"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-text-af-lvi-af",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/text-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-af.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-ag",
+      "title": {
+        "english": "Commentary on Dionysius Thrax (Recension B)",
+        "ancient_greek": "Ὑπόμνημα"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-text-ag-lvi-ag",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/text-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/text-ag.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-ae",
+      "title": {
+        "english": "London Scholia",
+        "ancient_greek": "Σχόλια Λονδινά"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-london-lvi-ae",
+      "passages": 125,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/london",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/london.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/london.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/london.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/london.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-ac",
+      "title": {
+        "english": "Marcian Scholia",
+        "ancient_greek": "Σχόλια Μαρκιανά"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-marcian-lvi-ac",
+      "passages": 151,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/marcian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/marcian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/marcian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/marcian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/marcian.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-ab",
+      "title": {
+        "english": "Prolegomena Vossiana",
+        "ancient_greek": "Προλεγόμενα Βοσσιανά"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-prolegomena-vossiana-lvi-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/prolegomena-vossiana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-ad",
+      "title": {
+        "english": "Vatican Scholia",
+        "ancient_greek": "Σχόλια Βατικανά"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-vatican-scholia-lvi-ad",
+      "passages": 188,
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/vatican-scholia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/vatican-scholia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/vatican-scholia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/vatican-scholia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/vatican-scholia.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/commentary-on-dionysius-thrax",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/commentary-on-dionysius-thrax.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/commentary-on-dionysius-thrax.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/commentary-on-dionysius-thrax.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/commentary-on-dionysius-thrax.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,517 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fsm-bg",
+  "eul_aid": "fsm",
+  "author_slug": "demosthenes-of-athens",
+  "work_slug": "against-aphobus-2",
+  "url_slug": "demosthenes-of-athens-against-aphobus-2-fsm-bg",
+  "author": {
+    "english": "Demosthenes of Athens",
+    "ancient_greek": "Δημοσθένης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Against Aphobus, Part 2",
+    "ancient_greek": "κατὰ Ἀφόβου β΄"
+  },
+  "seo": {
+    "browser_title": "Against Aphobus Part 2 by Demosthenes on Eulogikon",
+    "meta_title": "Against Aphobus Part 2 by Demosthenes in Ancient Greek",
+    "meta_description": "Against Aphobus Part 2 is a forensic speech by Demosthenes in a private lawsuit for damages. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Against Aphobus, Part 2 is a forensic oration delivered by Demosthenes of Athens around 363 BCE. It forms the second part of a legal trilogy concerning a private suit for damages, in which the young Demosthenes prosecuted his former guardian, Aphobus, for the mismanagement and embezzlement of his substantial paternal inheritance. This specific speech was presented after Aphobus had been found liable, arguing for the imposition of a severe financial penalty. It systematically dismantles the guardian’s defense and provides a detailed accounting of the dissipated estate. The complete, twenty-two-section speech is composed in Attic Greek and survives within the Demosthenic corpus through medieval manuscript tradition; its authenticity is universally accepted. As Demosthenes’ earliest extant work, reportedly composed with the assistance of the logographer Isaeus when the orator was in his early twenties, it offers invaluable insight into Athenian inheritance law and the fiduciary responsibilities of guardians. Scholars value the oration both for its autobiographical details concerning Demosthenes’ youth and as a formative example of the precise, methodical forensic rhetoric that would characterize his later political career.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Or28 1",
+      "text": "Πολλὰ καὶ μεγάλ’ ἐψευσμένου πρὸς ὑμᾶς Ἀφόβου, τοῦτ’ αὐτὸν ἐλέγξαι πειράσομαι πρῶτον, ἐφ’ ᾧ μάλιστ’ ἠγανάκτησα τῶν ῥηθέντων. εἶπεν γὰρ ὡς ὁ πάππος ὤφειλε τῷ δημοσίῳ, καὶ διὰ ταῦθ’ ὁ πατὴρ οὐκ ἐβούλετο μισθωθῆναι τὸν οἶκον, ἵνα μὴ κινδυνεύσῃ. καὶ τὴν μὲν πρόφασιν ποιεῖται ταύτην, ὡς δ’ ὀφείλων ἐτελεύτησεν ἐκεῖνος, οὐδεμίαν παρέσχετο μαρτυρίαν· ἀλλ’ ὡς μὲν ὦφλεν, ἐνεβάλετο τηρήσας τὴν τελευταίαν ἡμέραν, ταύτην δ’ εἰς τὸν ὕστερον λόγον ὑπελίπετο, ὡς διαβαλεῖν τὸ πρᾶγμ’ ἐξ αὐτῆς δυνησόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 2",
+      "text": "ἐὰν οὖν ἀναγνῷ, προσέχετ’ αὐτῇ τὸν νοῦν· εὑρήσετε γὰρ οὐχ ὡς ὀφείλει μεμαρτυρημένην, ἀλλ’ ὡς ὦφλεν. τοῦτ’ οὖν ἐλέγξαι πειράσομαι πρῶτον, ἐφ’ ᾧ φρονεῖ μάλιστα· ὃ καὶ ἡμεῖς ἀμφισβητοῦμεν. εἰ μὲν οὖν τότ’ ἐξεγένετο καὶ μὴ τῷ χρόνῳ τοῦτ’ ἐνηδρεύθημεν, παρεσχόμεθ’ ἂν μάρτυρας ὡς ἐξετείσθη τὰ χρήματα καὶ πάντ’ αὐτῷ διελέλυτο τὰ πρὸς τὴν πόλιν· νῦν δὲ τεκμηρίοις μεγάλοις ἐπιδείξομεν ὡς οὔτ’ ὤφειλεν οὔτ’ ἦν κίνδυνος οὐδεὶς ἡμῖν φανερὰ κεκτημένοις τὰ ὄντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 3",
+      "text": "πρῶτον μὲν γὰρ Δημοχάρης, ἔχων ἀδελφὴν τῆς ἐμῆς μητρός, θυγατέρα δὲ Γύλωνος, οὐκ ἀποκέκρυπται τὴν οὐσίαν, ἀλλὰ χορηγεῖ καὶ τριηραρχεῖ καὶ τὰς ἄλλας λῃτουργίας λῃτουργεῖ καὶ οὐδὲν τῶν τοιούτων δέδοικεν. ἔπειτ’ αὐτὸς ὁ πατὴρ τήν τ’ ἄλλην οὐσίαν καὶ τέτταρα τάλαντα καὶ τρισχιλίας φανερὰς ἐποίησεν, ἃς οὗτοι γραφῆναί τ’ ἐν ταῖς διαθήκαις καὶ λαβεῖν σφᾶς αὐτοὺς κατ’ ἀλλήλων καταμαρτυροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 4",
+      "text": "ἔτι δὲ καὶ αὐτὸς Ἄφοβος μετὰ τῶν συνεπιτρόπων τῇ πόλει τὸ πλῆθος τῶν καταλειφθέντων χρημάτων ἐμφανὲς ἐποίησεν, ἡγεμόνα με τῆς συμμορίας καταστήσας οὐκ ἐπὶ μικροῖς τιμήμασιν, ἀλλ’ ἐπὶ τηλικούτοις ὥστε κατὰ τὰς πέντε καὶ εἴκοσι μνᾶς πεντακοσίας εἰσφέρειν. καίτοι εἴ τι τούτων ἦν ἀληθές, οὐδὲν ἂν αὐτῶν ἐποίησεν, ἀλλὰ πάντ’ ἂν ηὐλαβήθη. νῦν δὲ καὶ Δημοχάρης καὶ ὁ πατὴρ καὶ αὐτοὶ οὗτοι φαίνονται φανερὰ ποιοῦντες, καὶ οὐδένα τοιοῦτον κίνδυνον δεδιότες. Πάντων δ’ ἀτοπώτατόν ἐστιν, λέγοντας ὡς ὁ πατὴρ οὐκ εἴα μισθοῦν τὸν οἶκον, τὴν μὲν διαθήκην μηδαμοῦ ταύτην ἀποφαίνειν, ἐξ ἧς ἦν εἰδέναι τἀκριβές, τηλικαύτην δ’ ἀνελόντας μαρτυρίαν οὕτως οἴεσθαι δεῖν εἰκῇ πιστεύεσθαι παρ’ ὑμῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 5",
+      "text": "ἀλλ’ ἐχρῆν, ἐπειδὴ τάχιστ’ ἐτελεύτησεν ὁ πατήρ, εἰσκαλέσαντας μάρτυρας πολλοὺς παρασημήνασθαι κελεῦσαι τὰς διαθήκας, ἵν’ εἴ τι ἐγίγνετ’ ἀμφισβητήσιμον, ἦν εἰς τὰ γράμματα ταῦτ’ ἐπανελθεῖν καὶ τὴν ἀλήθειαν πάντων εὑρεῖν. νῦν δ’ ἕτερα μὲν παρασημήνασθαι ἠξίωσαν, ἐν οἷς πολλὰ τῶν καταλειπομένων οὐκ ἐγέγραπτο, ὑπομνήματα δ’ ἦν· αὐτὴν δὲ τὴν διαθήκην, δι’ ἧς τούτων ὧν ἐσημήναντο γραμμάτων καὶ τῶν ἄλλων ἁπάντων χρημάτων ἐγίγνοντο κύριοι, καὶ τοῦ μὴ μισθοῦν τὸν οἶκον τῆς αἰτίας ἀπελέλυντο, ταύτην δ’ οὐκ ἐσημήναντο, οὐδ’ αὐτὴν ἀπέδοσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 6",
+      "text": "ἄξιόν γε πιστεύειν αὐτοῖς ὅ τι ἂν περὶ τούτων λέγωσιν. Ἀλλ’ ἐγὼ οὐκ οἶδ’ ὅ τι τοῦτ’ ἔστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 7",
+      "text": "οὐκ εἴα μισθοῦν τὸν οἶκον οὐδ’ ἐμφανῆ τὰ χρήματα ποιεῖν ὁ πατήρ. πότερον ἐμοί; ἢ τῇ πόλει; φαίνεσθε γὰρ τοὐναντίον ἐκείνῃ μὲν φανερὰ ποιήσαντες, ἐμοὶ δὲ παντάπασιν ἀφανῆ πεποιηκότες, καὶ οὐδὲ ταῦτ’ ἀποφαίνοντες ἐξ ὧν τιμησάμενοι τὰς εἰσφορὰς εἰσεφέρετε. δείξατε γὰρ ταύτην τὴν οὐσίαν, τίς ἦν καὶ ποῦ παρέδοτέ μοι καὶ τίνος ἐναντίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 8",
+      "text": "τὰ μὲν γὰρ δύο τάλαντα καὶ τὰς ὀγδοήκοντα μνᾶς ἀπὸ τῶν τεττάρων ταλάντων καὶ τρισχιλίων ἐλάβετε, ὥστ’ οὐδὲ ταύτας ὑπὲρ ἐμοῦ εἰς τὸ δημόσιον ἐτιμήσασθε· ὑμέτεραι γὰρ ἦσαν ἐν ἐκείνοις τοῖς χρόνοις. ἀλλὰ μὴν ἔκ γε τῆς οἰκίας καὶ τῶν τεττάρων καὶ δέκ’ ἀνδραπόδων καὶ τῶν τριάκοντα μνῶν, ἅ μοι παρεδώκατε, τὴν εἰσφορὰν οὐχ οἷόν τε γενέσθαι τοσαύτην ὅσην ὑμεῖς συνετάξασθε πρὸς τὴν συμμορίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 9",
+      "text": "ἀλλ’ ἀνάγκη μεγάλη τὰ καταλειφθέντα, πολλῷ πλείον’ ὄντα τούτων, πάνθ’ ὑμᾶς ἔχειν ἐστίν, ἃ φανερῶς ὅτι διηρπάκατ’ ἐξελεγχόμενοι τοιαῦτα πλάττεσθαι τολμᾶτε. καὶ τοτὲ μὲν εἰς ἀλλήλους ἀναφέρετε, πάλιν δ’ εἰληφέναι κατ’ ἀλλήλων μαρτυρεῖτε. φάσκοντες δ’ οὐ πολλὰ λαβεῖν μεγάλων ἀναλωμάτων λόγους ἀπενηνόχατε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 10",
+      "text": "πάντες δὲ κοινῇ μ’ ἐπιτροπεύσαντες ἰδίᾳ μετὰ ταῦθ’ ἕκαστος μηχανᾶσθε. καὶ τὴν μὲν διαθήκην ἠφανίκατε, ἐξ ἧς ἦν εἰδέναι περὶ πάντων τὴν ἀλήθειαν, φαίνεσθε δ’ οὐδέποτε ταὐτὰ περὶ ἀλλήλων λέγοντες. Λαβὲ δὴ τὰς μαρτυρίας καὶ ἀνάγνωθ’ αὐτοῖς πάσας ἐφεξῆς, ἵνα μνησθέντες καὶ τῶν μεμαρτυρημένων καὶ τῶν εἰρημένων ἀκριβέστερον διαγιγνώσκωσι περὶ αὐτῶν. ΜΑΡΤΥΡΙΑΙ. Ταῦθ’ οὗτοι πρὸς πεντεκαιδεκαταλάντους οἴκους συνετιμήσανθ’ ὑπὲρ ἐμοῦ· μνῶν δ’ οὐδ’ ἑβδομήκοντ’ ἀξίαν μοι παραδεδώκασι τὴν οὐσίαν τρεῖς ὄντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 11",
+      "text": "λέγε τὰς ἐφεξῆς. ΜΑΡΤΥΡΙΑΙ. Ταύτην τὴν προῖκα οἵ τ’ ἐπίτροποι καταμαρτυροῦσιν αὐτὸν λαβεῖν, ἄλλοι τε πρὸς οὓς ἔχειν ὡμολόγησεν. ταύτην οὔτ’ αὐτὴν οὔτε τὸν σῖτον ἀποδέδωκεν. λαβὲ τὰς ἄλλας καὶ ἀναγίγνωσκε. ΜΑΡΤΥΡΙΑΙ. Δύ’ ἔτη τὸ ἐργαστήριον διοικήσας Θηριππίδῃ μὲν ἀποδέδωκε τὴν μίσθωσιν· ἐμοὶ δέ, δυοῖν ἐτοῖν λαβὼν τὴν πρόσοδον, τριάκοντα μνᾶς, οὔτ’ αὐτὰς οὔτε τὸ ἔργον ἀποδέδωκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 12",
+      "text": "λάβ’ ἑτέραν καὶ ἀνάγνωθι. ΜΑΡΤΥΡΙΑ. Ταῦτα τἀνδράποδ’ ὡς αὑτὸν λαβὼν οὗτος, καὶ τἄλλα τὰ μετὰ τούτων ὑποτεθένθ’ ἡμῖν, ἀνάλωμα μὲν εἰς αὐτὰ τοσοῦτο λελόγισται, λῆμμα δ’ ἀπ’ αὐτῶν οὐδ’ ὁτιοῦν, καὶ αὐτοὺς δὲ τοὺς ἀνθρώπους ἠφάνικεν, οἳ δώδεκα μνᾶς ἀτελεῖς ἑκάστου τοῦ ἐνιαυτοῦ προσέφερον. λέγ’ ἑτέραν. ΜΑΡΤΥΡΙΑ. Τοῦτον τὸν ἐλέφαντα καὶ τὸν σίδηρον πεπρακὼς οὐδὲ καταλειφθῆναί φησιν, ἀλλὰ καὶ τούτων τὴν τιμὴν ἀποστερεῖ με, μάλιστα τάλαντον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 13",
+      "text": "λέγε ταυτασί. ΜΑΡΤΥΡΙΑΙ. Ταῦθ’ οὗτος τρία τάλαντα καὶ χιλίας ἔχει χωρὶς τῶν ἄλλων. τοῦ μὲν οὖν ἀρχαίου πέντε τάλανθ’ ἃ εἴληφεν· σὺν δὲ τοῖς ἔργοις, ἂν ἐπὶ δραχμῇ τις τιθῇ μόνον, πλέον ἢ δέκα τάλαντ’ ἔχει. λέγε τὰς ἐφεξῆς. ΜΑΡΤΥΡΙΑΙ. Ταῦθ’ οὗτοι γραφῆναι μὲν ἐν ταῖς διαθήκαις καὶ λαβεῖν σφᾶς αὐτοὺς κατ’ ἀλλήλων μαρτυροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 14",
+      "text": "οὗτος δὲ καὶ μεταπεμφθῆναι φάσκων ὑπὸ τοῦ πατρός, καὶ ἐλθὼν εἰς τὴν οἰκίαν, εἰσελθεῖν μὲν οὔ φησιν ὡς τὸν μεταπεμψάμενον, οὐδ’ ὁμολογῆσαι περὶ τούτων οὐδέν, Δημοφῶντος δ’ ἀκοῦσαι γραμματεῖον ἀναγιγνώσκοντος καὶ Θηριππίδου λέγοντος ὡς ἐκεῖνος ταῦτα διέθετο, καὶ προεισεληλυθὼς καὶ ἅπαντα διωμολογημένος πρὸς τὸν πατέρα, ὅσαπερ ἐκεῖνος γράψας κατέλιπεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 15",
+      "text": "ὁ γὰρ πατήρ, ὦ ἄνδρες δικασταί, ὡς ᾔσθετο τὴν νόσον οὐκ ἀποφευξόμενος, συγκαλέσας τούτους τρεῖς ὄντας, καὶ συμπαρακαθισάμενος Δήμωνα τὸν ἀδελφόν, τὰ σώμαθ’ ἡμῶν εἰς τὰς χεῖρας ἐνέθηκεν παρακαταθήκην ἐπονομάζων, τὴν μὲν ἀδελφὴν Δημοφῶντι καὶ δύο τάλαντα προῖκα διδοὺς εὐθύς, καὶ γυναῖκ’ αὐτῷ ταύτην ἐγγυῶν, ἐμὲ δὲ πᾶσιν κοινῇ μετὰ τῶν χρημάτων παρακατατιθέμενος, καὶ ἐπισκήπτων μισθῶσαί τε τὸν οἶκον καὶ συνδιασῷσαί μοι τὴν οὐσίαν, διδοὺς ἅμα τε Θηριππίδῃ τὰς ἑβδομήκοντα μνᾶς, καὶ τούτῳ τήν τ’ ἐμὴν μητέρ’ ἐγγυῶν ἐπὶ ταῖς ὀγδοήκοντα μναῖς, κἄμ’ εἰς τὰ τούτου γόνατα τιθείς· ὧν οὗτος ὁ πάντων ἀνθρώπων ἀνοσιώτατος οὐδένα λόγον ἐποιήσατο, κύριος τῶν ἐμῶν γενόμενος ἐπὶ τούτοις, ἀλλὰ τὰ χρήματά με πάντ’ ἀπεστερηκὼς μετὰ τῶν συνεπιτρόπων, ἐλεεῖσθαι νῦν ὑφ’ ὑμῶν ἀξιώσει, μνῶν οὐδ’ ἑβδομήκοντ’ ἄξια τρίτος αὐτὸς ἀποδεδωκώς, εἶτα καὶ τούτοις αὐτοῖς πάλιν ἐπιβεβουλευκώς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 17",
+      "text": "ὡς γὰρ τὰς δίκας ταύτας ἔμελλον εἰσιέναι κατ’ αὐτῶν, ἀντίδοσιν ἐπ’ ἐμὲ παρεσκεύασαν, ἵν’ εἰ μὲν ἀντιδοίην, μὴ ἐξείη μοι πρὸς αὐτοὺς ἀντιδικεῖν, ὡς καὶ τῶν δικῶν τούτων τοῦ ἀντιδόντος γιγνομένων, εἰ δὲ μηδὲν τούτων ποιοίην, ἵν’ ἐκ βραχείας οὐσίας λῃτουργῶν παντάπασιν ἀναιρεθείην. καὶ τοῦτ’ αὐτοῖς ὑπηρέτησε Θρασύλοχος ὁ Ἀναγυράσιος· ᾧ τούτων οὐδὲν ἐνθυμηθεὶς ἀντέδωκα μέν, ἀπέκλεισα δ’ ὡς διαδικασίας τευξόμενος· οὐ τυχὼν δὲ ταύτης, τῶν χρόνων ὑπογύων ὄντων, ἵνα μὴ στερηθῶ τῶν δικῶν, ἀπέτεισα τὴν λῃτουργίαν ὑποθεὶς τὴν οἰκίαν καὶ τἀμαυτοῦ πάντα, βουλόμενος εἰς ὑμᾶς εἰσελθεῖν τὰς πρὸς τουτουσὶ δίκας. Ἆρ’ οὐ μεγάλα μὲν ἐξ ἀρχῆς ἠδίκημαι, μεγάλα δ’, ὅτι δίκην ζητῶ λαβεῖν, νῦν ὑπ’ αὐτῶν βλάπτομαι; τίς δ’ οὐκ ἂν ὑμῶν τούτῳ μὲν φθονήσειε δικαίως, ἡμᾶς δ’ ἐλεήσειεν, ὁρῶν τῷ μὲν πρὸς τῇ οὐσίᾳ τῇ παραδοθείσῃ πλεῖν ἢ δέκα ταλάντων τὴν ἐμὴν τοσαύτην οὖσαν προσγεγενημένην, ἡμᾶς δὲ μὴ μόνον τῶν πατρῴων διημαρτηκότας, ἀλλὰ καὶ τῶν νῦν παραδοθέντων διὰ τὴν τούτων πονηρίαν ἀπεστερημένους; ποῖ δ’ ἂν τραποίμεθα, εἴ τι ἄλλο ψηφίσαισθ’ ὑμεῖς περὶ αὐτῶν; εἰς τὰ ὑποκείμενα τοῖς δανείσασιν; ἀλλὰ τῶν ὑποθεμένων ἐστίν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 18",
+      "text": "ἀλλ’ εἰς τὰ περιόντ’ αὐτῶν; ἀλλὰ τούτου γίγνεται, τὴν ἐπωβελίαν ἐὰν ὄφλωμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 19",
+      "text": "μηδαμῶς, ὦ ἄνδρες δικασταί, γένησθ’ ἡμῖν τοσούτων αἴτιοι κακῶν· μηδὲ τὴν μητέρα κἀμὲ καὶ τὴν ἀδελφὴν ἀνάξια παθόντας περιίδητε, οὓς ὁ πατὴρ οὐκ ἐπὶ ταύταις ταῖς ἐλπίσιν κατέλιπεν, ἀλλὰ τὴν μὲν ὡς Δημοφῶντι συνοικήσουσαν ἐπὶ δυοῖν ταλάντοιν προικί, τὴν δ’ ἐπ’ ὀγδοήκοντα μναῖς τούτῳ τῷ σχετλιωτάτῳ πάντων ἀνθρώπων, ἐμὲ δ’ ὑμῖν διάδοχον ἀνθ’ αὑτοῦ τῶν λῃτουργιῶν ἐσόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 20",
+      "text": "βοηθήσατ’ οὖν ἡμῖν, βοηθήσατε, καὶ τοῦ δικαίου καὶ ὑμῶν αὐτῶν ἕνεκα καὶ ἡμῶν καὶ τοῦ πατρὸς τοῦ τετελευτηκότος. σῴσατε, ἐλεήσατε, ἐπειδή μ’ οὗτοι συγγενεῖς ὄντες οὐκ ἠλέησαν. εἰς ὑμᾶς καταπεφεύγαμεν. ἱκετεύω, ἀντιβολῶ πρὸς παίδων, πρὸς γυναικῶν, πρὸς τῶν ὄντων ἀγαθῶν ὑμῖν. οὕτως ὄναισθε τούτων, μὴ περιίδητέ με, μηδὲ ποιήσητε τὴν μητέρα καὶ τῶν ἐπιλοίπων ἐλπίδων εἰς τὸν βίον στερηθεῖσαν ἀνάξιον αὑτῆς τι παθεῖν· ἣ νῦν μὲν οἴεται τυχόντα με τῶν δικαίων παρ’ ὑμῖν ὑποδέξεσθαι καὶ τὴν ἀδελφὴν ἐκδώσειν· εἰ δ’ ὑμεῖς ἄλλο τι γνώσεσθε, ὃ μὴ γένοιτο, τίν’ οἴεσθ’ αὐτὴν ψυχὴν ἕξειν, ὅταν ἐμὲ μὲν ἴδῃ μὴ μόνον τῶν πατρῴων ἀπεστερημένον, ἀλλὰ καὶ πρὸς ἠτιμωμένον, περὶ δὲ τῆς ἀδελφῆς μηδ’ ἐλπίδ’ ἔχουσαν ὡς τεύξεταί τινος τῶν προσηκόντων διὰ τὴν ἐσομένην ἀπορίαν; οὐκ ἄξιος, ὦ ἄνδρες δικασταί, οὔτ’ ἐγὼ δίκης ἐν ὑμῖν μὴ τυχεῖν, οὔθ’ οὗτος τοσαῦτα χρήματ’ ἀδίκως κατασχεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 22",
+      "text": "ἐμοῦ μὲν γὰρ εἰ καὶ μήπω πεῖραν εἰλήφατε, ποῖός τις ἂν εἰς ὑμᾶς εἴην, ἐλπίζειν προσήκει μὴ χείρω τοῦ πατρὸς ἔσεσθαι. τούτου δὲ πεῖραν ἔχετε, καὶ σαφῶς ἴσθ’ ὅτι πολλὴν οὐσίαν παραλαβὼν οὐ μόνον οὐδὲν πεφιλοτίμηται πρὸς ὑμᾶς, ἀλλὰ καὶ τἀλλότρι’ ἀποστερῶν ἀποδέδεικται. ταῦτ’ οὖν σκοποῦντες καὶ τἄλλα μνησθέντες, ᾗ δίκαιόν ἐστι, ταύτῃ ψηφίσασθε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 23",
+      "text": "πίστεις δ’ ἔχεθ’ ἱκανὰς ἐκ μαρτύρων, ἐκ τεκμηρίων, ἐκ τῶν εἰκότων, ἐξ ὧν οὗτοι λαβεῖν ὁμολογοῦντες ἁθρόα τἀμά, ταῦτ’ ἀνηλωκέναι φασὶν οὐκ ἀνηλωκότες, ἀλλ’ αὐτοὶ πάντ’ ἔχοντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Or28 24",
+      "text": "ὧν ἐνθυμουμένους χρὴ ποιήσασθαί τιν’ ἡμῶν πρόνοιαν, εἰδότας ὅτι ἐγὼ μὲν τἀμαυτοῦ δι’ ὑμῶν κομισάμενος εἰκότως λῃτουργεῖν ἐθελήσω, χάριτας ὀφείλων ὅτι μοι δικαίως ἀπέδοτε τὴν οὐσίαν, οὗτος δ’, ἐὰν αὐτὸν ποιήσητε τῶν ἐμῶν κύριον, οὐδὲν ποιήσει τοιοῦτον. μὴ γὰρ οἴεσθ’ αὐτόν, ὑπὲρ ὧν ἤρνηται μὴ λαβεῖν, ὑπὲρ τούτων ὑμῖν λῃτουργεῖν ἐθελήσειν, ἀλλ’ ἀποκρύψεσθαι μᾶλλον, ἵνα δικαίως ἀποπεφευγέναι δοκῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fsm-ak",
+      "title": {
+        "english": "Against Androtion for Illegal Acts",
+        "ancient_greek": "κατὰ Ἀνδροτίωνος παρανόμων"
+      },
+      "url_slug": "demosthenes-of-athens-against-androtion-fsm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-androtion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-androtion.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-ae",
+      "title": {
+        "english": "Against Aphobus for Guardianship, Part 1",
+        "ancient_greek": "κατὰ Ἀφόβου ἐπιτροπῆς α΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-aphobus-fsm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-aphobus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-bn",
+      "title": {
+        "english": "Against Aristocrates",
+        "ancient_greek": "κατὰ Ἀριστοκράτους"
+      },
+      "url_slug": "demosthenes-of-athens-against-aristocrates-fsm-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-aristocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristocrates.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristocrates.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristocrates.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristocrates.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-at",
+      "title": {
+        "english": "Against Aristogeiton, Part 1",
+        "ancient_greek": "κατὰ Ἀριστογείτονος α΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-aristogeiton-1-fsm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-aristogeiton-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-1.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-au",
+      "title": {
+        "english": "Against Aristogeiton, Part 2",
+        "ancient_greek": "κατὰ Ἀριστογείτονος β΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-aristogeiton-2-fsm-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-aristogeiton-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aristogeiton-2.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-be",
+      "title": {
+        "english": "Against ConAssault",
+        "ancient_greek": "κατὰ Κόνωνος αἰκείας"
+      },
+      "url_slug": "demosthenes-of-athens-against-conassault-fsm-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-conassault",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-conassault.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-conassault.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-conassault.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-conassault.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-am",
+      "title": {
+        "english": "Against Dionysodorus-Damage",
+        "ancient_greek": "κατὰ Διονυσοδώρου βλάβης"
+      },
+      "url_slug": "demosthenes-of-athens-against-dionysodorus-fsm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-dionysodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-dionysodorus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-dionysodorus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-dionysodorus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-dionysodorus.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-ac",
+      "title": {
+        "english": "Against Evergus and Mnesibulus-False Testimony",
+        "ancient_greek": "κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν"
+      },
+      "url_slug": "demosthenes-of-athens-against-evergus-mnesibulus-fsm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-evergus-mnesibulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-ay",
+      "title": {
+        "english": "Against Meidias-The Club",
+        "ancient_greek": "κατὰ Μειδίου περὶ τοῦ Κονδύλου"
+      },
+      "url_slug": "demosthenes-of-athens-against-meidias-fsm-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-meidias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-meidias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-meidias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-meidias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-meidias.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-cb",
+      "title": {
+        "english": "Against Neaera",
+        "ancient_greek": "κατὰ Νεαίρας"
+      },
+      "url_slug": "demosthenes-of-athens-against-neaera-fsm-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-neaera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-neaera.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-neaera.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-neaera.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-neaera.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-an",
+      "title": {
+        "english": "Against Olympiodorus-Damage",
+        "ancient_greek": "κατὰ Ὀλυμπιοδώρου βλάβης"
+      },
+      "url_slug": "demosthenes-of-athens-against-olympiodorus-fsm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-olympiodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-olympiodorus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-olympiodorus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-olympiodorus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-olympiodorus.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-bx",
+      "title": {
+        "english": "Against Philip I",
+        "ancient_greek": "κατὰ Φιλίππου α΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-philip-bx-fsm-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-philip-bx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-philip-bx.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-bc",
+      "title": {
+        "english": "Against Theomnestus B",
+        "ancient_greek": "κατὰ Θεομνήστου Β"
+      },
+      "url_slug": "lysias-theomnestus-ejc-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/theomnestus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ba",
+      "title": {
+        "english": "Charon or Inspectors",
+        "ancient_greek": "Χάρων ἢ Ἐπισκοποῦντες"
+      },
+      "url_slug": "lucian-of-samosata-charon-inspectors-pfk-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/charon-inspectors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.json"
+      }
+    },
+    {
+      "eul_wid": "ufk-aa",
+      "title": {
+        "english": "Descriptions",
+        "ancient_greek": "Ἐκφράσεις"
+      },
+      "url_slug": "callistratus-the-sophist-descriptions-ufk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callistratus-the-sophist/descriptions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ad",
+      "title": {
+        "english": "Festival Speech in Cyzicus-the Temple",
+        "ancient_greek": "Πανηγυρικὸς ἐν Κυζίκῳ περὶ τοῦ ναοῦ"
+      },
+      "url_slug": "aristides-the-orator-festival-speech-cyzicus-qwm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/festival-speech-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.json"
+      }
+    },
+    {
+      "eul_wid": "okq-ab",
+      "title": {
+        "english": "Fragments on Household Management",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκονομίας"
+      },
+      "url_slug": "dio-chrysostom-household-management-okq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-chrysostom/household-management",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/household-management.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/household-management.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/household-management.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/household-management.json"
+      }
+    },
+    {
+      "eul_wid": "rfi-ae",
+      "title": {
+        "english": "Heroicus",
+        "ancient_greek": "Ἡρωικός"
+      },
+      "url_slug": "philostratus-the-athenian-heroicus-rfi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostratus-the-athenian/heroicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/heroicus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/heroicus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/heroicus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/heroicus.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ac",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise A)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.json"
+      }
+    },
+    {
+      "eul_wid": "fge-aa",
+      "title": {
+        "english": "To Xenaenetus-the Lot of Aristarchus",
+        "ancient_greek": "Πρὸς Ξεναίνετον περὶ τοῦ Ἀριστάρχου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-xenaenetus-aristarchus-fge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/xenaenetus-aristarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/xenaenetus-aristarchus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-aphobus-2",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus-2.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus-2.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus-2.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-aphobus-2.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

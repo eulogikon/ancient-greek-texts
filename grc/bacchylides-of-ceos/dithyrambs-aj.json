@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "brw-aj",
+  "eul_aid": "brw",
+  "author_slug": "bacchylides-of-ceos",
+  "work_slug": "dithyrambs-aj",
+  "url_slug": "bacchylides-of-ceos-dithyrambs-aj-brw-aj",
+  "author": {
+    "english": "Bacchylides of Ceos",
+    "ancient_greek": "Βακχυλίδης ὁ Κεῖος"
+  },
+  "title": {
+    "english": "Dithyrambs",
+    "ancient_greek": "Διθύραμβοι"
+  },
+  "seo": {
+    "browser_title": "The Dithyrambs by Bacchylides of Ceos on Eulogikon",
+    "meta_title": "Dithyrambs by Bacchylides of Ceos in Ancient Greek",
+    "meta_description": "Surviving choral lyric poems by Bacchylides of Ceos. Celebratory Athenian festival hymns. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Dithyrambs are a collection of choral lyric poems by the ancient Greek poet Bacchylides of Ceos, who flourished in the fifth century BCE. Composed in a literary Greek dialect with Doric elements, these works were originally performed by a circular chorus at major public festivals, most notably the Great Dionysia in Athens. While the dithyramb originated as a hymn to the god Dionysus, by the classical period it had evolved to encompass narratives drawn from heroic mythology. The surviving collection consists of seventeen fragmentary odes, identified by titles such as &quot;Theseus,&quot; &quot;Heracles,&quot; and &quot;The Sons of Antenor.&quot; Their formal structure adheres to the traditional triadic pattern of strophe, antistrophe, and epode.</p>\n<p class=\"research-text\">These poems represent a vital example of competitive festival poetry, often commissioned by wealthy patrons such as the Sicilian tyrant Hieron I. They are characterized by their lucid and vivid storytelling, employing dramatic dialogue to considerable effect. The &quot;Theseus&quot; ode, in particular, with its extended conversational exchange, is frequently cited by scholars for its potential influence on the subsequent development of Athenian tragedy. The entire corpus was lost after antiquity and remained unknown until its dramatic rediscovery in the late nineteenth century from papyri found in Egypt. As a result, the text survives in a fragmentary condition, with substantial lacunae, and has been painstakingly reconstructed by modern editors from these ancient manuscripts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[Ἀντή]νορος ἀντιθέου [––⏑]ρακοιτις Ἀθάνας πρόσπολος [⏓–⏑––] Παλλάδος ὀρσιμάχου [––⏑––χ]ρυσέας [–⏑–––⏑]ν Ἀργείων Ὀδυσσεῖ [Λαρτιάδᾳ Μενελ]άῳ τ’ Ἀτρεΐδᾳ βασιλεῖ [–⏑–––βαθύ]ζωνος Θεανὼ [––⏑⏑–⏑⏑]ον [––⏑⏑–⏑⏑–]ν προσήνεπεν· [––⏑–––⏑ἐ]ϋκτιμέναν [––⏑–––⏑–] [–⏑–––⏑––]δων τυχόντες [–⏑⏑–⏑⏑–––⏑⏑–]ς̣ †σὺν θεοῖς† [–⏑–––⏑–––⏑–]δ̣ους (deest epodus prima) [––⏑⏑–⏑⏑–] [––⏑⏑–μεσονύ]κτιος κέαρ (desunt cola quinque strophae) (deest antistropha) [––⏑–––⏑⏑–⏑⏑–] ἆγον, πατὴρ δ’ εὔβουλος ἥρως πάντα σάμαινεν Πριάμῳ βασιλεῖ παίδεσσί τε μῦθον Ἀχαι‐ ῶν. Ἔνθα κάρυκες δι’ εὐ‐ [para]ρεῖαν πόλιν ὀρνύμενοι Τρώων ἀόλλιζον φάλαγγας δεξίστρατον εἰς ἀγοράν. Πάντᾳ δὲ διέδραμεν αὐδάεις λόγος·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "θεοῖσ〈ιν〉 δ’ ἀνίσχοντες χέρας ἀθανάτοις εὔχοντο παύσασθαι δυᾶν. Μοῦσα, τίς πρῶτος λόγων ἆρχεν δικαίων; Πλεισθενίδας Μενέλαος γάρυϊ θελξιεπεῖ φθέγξατ’, εὐπέπλοισι κοινώσας Χάρισσιν· «Ὦ Τρῶες ἀρηΐφιλοι, Ζεὺς ὑψ⸤ιμέδων ὃ⸥ς ἅπαντα δέρκεται οὐκ αἴτιος θνατοῖς μεγάλων ἀχέων, ἀλλ’ ἐν ⸤μέσ⸥ῳ κεῖται κιχεῖν πᾶσιν ἀνθρώποις Δίκαν ἰθεῖαν, ἁγνᾶς Εὐνομίας ἀκόλουθον καὶ πινυτᾶς Θέμιτος· ὀλβίων π⸤αῖδέσ⸥ νιν αἱρεῦνται σύνοικον. Ἁ δ’ αἰόλοις κέρδεσσι καὶ ἀφροσύναις ἐξαισίοις θάλλους’ ἀθαμβὴς Ὕβρις, ἃ πλοῦτ[ο]ν δύναμίν τε θοῶς ἀλλότριον ὤπασεν, αὖ‐ [para]τις δ’ ἐς βαθὺν πέμπει φθόρον, [para][κε]ίνα καὶ ὑπερφιάλους [Γᾶς] παῖδας ὤλεσσεν Γίγαντας.»",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[...]ιου . ιο[...]ἐπεὶ [ὁλκ]άδ’ ἔπεμψε̣ν ἐμοὶ χρυσέαν [Πιερ]ίαθεν ἐ[ΰθ]ρονος [Ο]ὐρανία, [πολυ‐ [para]φ]άτων γέμουσαν ὕμνων [–⏑⏑]νειτις ἐπ’ ἀνθεμόεντι Ἕβρῳ [–⏑ ἀ]γάλλεται ἢ δολιχαύχενι κύ[κνῳ] [⏑⏑–⏑]δεϊαν φρένα τερπόμενος [⏑⏑–] [para][–⏑ ]δ’ ἵκῃ παιηόνων ἄνθεα πεδοιχνεῖν, Πύθι’ Ἄπολλον, τόσα χοροὶ Δελφῶν σὸν κελάδησαν παρ’ ἀγακλέα ναόν, πρίν γε κλέομεν λιπεῖν Οἰχαλίαν πυρὶ δαπτομέναν Ἀμφιτρυωνιάδαν θρασυμηδέα φῶθ’, ἵκε‐ [para]το δ’ ἀμφικύμον’ ἀκτάν· ἔνθ’ ἀπὸ λαΐδος εὐρυνεφεῖ Κηναίῳ Ζηνὶ θύεν βαρυαχέας ἐννέα ταύρους δύο τ’ ὀρσιάλῳ δαμασίχθονι μέ[λ]λε κόρᾳ τ’ ὀβριμοδερκεῖ ἄζυγα παρθένῳ Ἀθάνᾳ ὑψικέραν βοῦν. Τότ’ ἄμαχος δαίμων Δαϊανείρᾳ πολύδακρυν ὕφα[νεν] μῆτιν ἐπίφρον’ ἐπεὶ πύθετ’ [para]ἀγγελίαν ταλαπενθέα, Ἰόλαν ὅτι λευκώλενον Διὸς υἱὸς ἀταρβομάχας ἄλοχον λιπαρὸ[ν] [para]ποτὶ δόμον πέμ[π]οι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἆ δύσμορος, ἆ τάλ[αι]ν’, οἷον ἐμήσατ[ο·] φθόνος εὐρυβίας νιν ἀπώλεσεν, δνόφεόν τε κάλυμμα τῶν [para]ὕστερον ἐχομένων, ὅτ’ ἐ‐ [para]πὶ {ποταμῷ} ῥοδόεντι Λυκόρμᾳ δέξατο Νέσσου πάρα δαιμόνιον τέρ[ας.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Κυανόπρῳρα μὲν ναῦς μενέ‐ [para]κτυ[πον] Θησέα δὶς ἑπτ[ά] τ’ ἀγλαοὺς [para]ἄγουσα κούρους Ἰαόνω[ν] Κρητικὸν τάμνε πέλαγος· τηλαυγέϊ γὰρ [ἐν] φάρεϊ βο‐ [para]ρήϊαι πίτνο[ν] αὖραι κλυτᾶς ἕκατι π[ε]λεμαίγιδος Ἀθάν[ας·] κνίσεν τε Μίνῳ κέαρ [para]ἱμεράμπυκος θεᾶς Κύπριδος [ἁ]γνὰ δῶ‐ [para]ρα· χεῖρα δ’ οὐ[κέτι] παρθενικᾶς [para]ἄτερθ’ ἐράτυεν, θίγεν δὲ λευκᾶν παρη‐ [para]ΐδων· βόασέ τ’ Ἐρίβοια χαλκοθώ‐ ρα[κα Π]ανδίονος ἔκγ[ο]νον· ἴδεν δὲ Θησεύς, [para]μέλαν δ’ ὑπ’ ὀφρύων δίνα[σ]εν ὄμμα, καρδίαν [para]τέ οἱ σχέτλιον ἄμυξεν ἄλγος, εἶρέν τε· «Διὸς υἱὲ φερτάτου, ὅσιον οὐκέτι τεᾶν [para]ἔσω κυβερνᾷς φρενῶν θυμ[όν]· ἴσχε μεγάλαυχον ἥρως βίαν. Ὅ τι μ[ὲ]ν ἐκ θεῶν Μοῖρα παγ‐ κρατὴς ἄμμι κατένευσε καὶ Δίκας [para]ῥέπει τάλαντον, πεπρωμέν[α]ν αἶσαν [ἐ]κπλήσομεν, ὅτ[α]ν ἔλθῃ· [σ]ὺ δὲ βαρεῖαν κάτεχε [para]μῆτιν. Εἰ καί σε κεδνὰ τέκεν λέχει Διὸς ὑπὸ κρόταφον Ἴδας μιγεῖσα Φοίνικος ἐρα‐ [para]τώνυμος κόρα βροτῶν Φέρτατον, ἀλλὰ κἀ‐ [para]μὲ Πιτθ[έ]ος θυγάτηρ ἀφνεοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "πλαθεῖσα ποντίῳ τέκεν Ποσειδᾶνι, χρύ‐ [para]σεόν τέ οἱ δόσαν ἰόπλοκοι [para]κάλυμμα Νηρηΐδες. Τῶ σε, πολέμαρχε Κνωσίων, κέλομαι πολύστονον ἐρύκεν ὕβριν· οὐ γὰρ ἂν [para]θέλοιμ’ ἀμβρότοι’ ἐραννὸν Ἀο[ῦς] ἰδεῖν φάος, ἐπεί τιν’ ἠϊθέ[ων] σὺ δαμάσειας ἀέκον‐ τα· πρόσθε χειρῶν βίαν δε[ί]ξομεν· τὰ δ’ ἐπιόντα δα[ίμω]ν κρινεῖ.» Τός’ εἶπεν ἀρέταιχμος ἥ‐ [para]ρως· [τ]άφον δὲ ναυβάται [φ]ωτὸς ὑπεράφανον [θ]άρσος· Ἁλίου τε γαμβρῷ χόλωσεν ἦτορ, ὕφαινέ τε ποταινίαν μῆτιν, εἶπέν τε· «Μεγαλοσθενὲς Ζεῦ πάτερ, ἄκουσον· εἴ πέρ με νύμ[φα] Φοίνισσα λευκώλενος σοὶ τέκεν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "νῦν πρόπεμπ’ ἀπ’ οὐρανοῦ θοὰν πυριέθειραν ἀστραπὰν σᾶμ’ ἀρίγνωτον· εἰ [para]δὲ καὶ σὲ Τροιζηνία σεισίχθονι φύτευσεν Αἴθρα Ποσει‐ δᾶνι τόνδε χρύσεον χειρὸς ἀγλαὸν ἔνεγ‐ [para]κε κόσμον ἐκ βαθείας ἁλός, δικὼν θράσει σῶμα πατρὸς ἐς δόμους. Εἴσεαι δ’ αἴ κ’ ἐμᾶς κλύῃ Κρόνιος εὐχᾶς ἀναξιβρέντας ὁ πάντω[ν με]δ[έω]ν.» Κλύε δ’ ἄμεμπτον εὐχὰν μεγα‐ [para]σθενὴ[ς] Ζεύς, ὑπέροχόν τε Μίνῳ [para]φύτευσε τιμὰν φίλῳ θέλων παιδὶ πανδερκέα θέμεν, ἄστραψέ θ’· ὁ δὲ θυμάρμενον ἰ‐ [para]δὼν τέρας χέρας πέτασσε κλυτὰν ἐς αἰθέρα μενεπτόλεμος ἥρως εἶρέν τε· «Θησεῦ, τάδε μὲν βλέπεις σαφῆ Διὸς δῶρα· σὺ δ’ ὄρνυ’ ἐς [para]βαρύβρομον πέλαγος· Κρονί[δας] [para]δέ τοι πατὴρ ἄναξ τελεῖ Ποσειδὰν ὑπέρ‐ τατον κλέος χθόνα κατ’ εὔδενδρον.» Ὣς [para]εἶπε· τῷ δ’ οὐ πάλιν θυμὸς ἀνεκάμπτετ’, ἀλλ’ εὐ‐ [para]πάκτων ἐπ’ ἰκρίων σταθεὶς ὄρουσε, πόντιόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "τέ νιν δέξατο θελημὸν ἄλσος. Τάφεν δὲ Διὸς υἱὸς ἔνδοθεν κέαρ, κέλευσέ τε κατ’ οὖ‐ [para]ρον ἴσχεν εὐδαίδαλον νᾶα· Μοῖρα δ’ ἑτέραν ἐπόρσυν’ ὁδόν. Ἵετο δ’ ὠκύπομπον δόρυ· [para]σόει νιν βορεὰς ἐξόπιν πνέους’ ἀήτα· τρέσσαν δ’ Ἀθαναίων ἠϊθέων γένος, ἐπεὶ ἥρως θόρεν πόντονδε, κατὰ λειρίων τ’ ὀμμάτων δάκρυ χέον, βαρεῖαν ἐπιδέγμενοι ἀνάγκαν. Φέρον δὲ δελφῖνες {ἐν} ἁλι‐ [para]ναιέται μέγαν θοῶς Θησέα πατρὸς ἱπ‐ πίου δόμον· ἔμολέν τε θεῶν [para]μέγαρον. Τόθι κλυτὰς ἰδὼν ἔδεισε Νηρέος ὀλ‐ [para]βίου κόρας· ἀπὸ γὰρ ἀγλαῶν [para]λάμπε γυίων σέλας ὧτε πυρός, ἀμφὶ χαίταις [para]δὲ χρυσεόπλοκοι δίνηντο ταινίαι· χορῷ [para]δ’ ἔτερπον κέαρ ὑγροῖσιν ἐν ποσίν. Εἶδέν τε πατρὸς ἄλοχον φίλαν σεμνὰν βοῶπιν ἐρατοῖ‐ [para]σιν Ἀμφιτρίταν δόμοις· ἅ νιν ἀμφέβαλεν ἀϊόνα πορφυρέαν, κόμαισί τ’ ἐπέθηκεν οὔ‐ [para]λαις ἀμεμφέα πλόκον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "τόν ποτέ οἱ ἐν γάμῳ δῶκε δόλιος Ἀφροδίτα ῥόδοις ἐρεμνόν. Ἄπιστον ὅ τι δαίμονες θέλωσιν οὐδὲν φρενοάραις βροτοῖς· νᾶα πάρα λεπτόπρυμνον φάνη· φεῦ, οἵαισιν ἐν φροντίσι Κνώσιον ἔσχασεν στραταγέταν, ἐπεὶ μόλ’ ἀδίαντος ἐξ ἁλὸς θαῦμα πάντεσσι, λάμ‐ [para]πε δ’ ἀμφὶ γυίοις θεῶν δῶρ’, ἀγλαόθρονοί τε κοῦραι σὺν εὐ‐ [para]θυμίᾳ νεοκτίτῳ ὠλόλυξαν, ἔκλαγεν [para]δὲ πόντος· ἠίθεοι δ’ ἐγγύθεν νέοι παιάνιξαν ἐρατᾷ ὀπί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Δάλιε, χοροῖσι Κη‐ [para]ΐων φρένα ἰανθεὶς ὄπαζε θεόπομπον ἐσθλῶν τύχαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Βασιλεῦ τᾶν ἱερᾶν Ἀθα‐ [para]νᾶν, τῶν ἁβροβιών ἄναξ Ἰώνων, τί νέον ἔκλαγε χαλκοκώ‐ [para]δων σάλπιγξ πολεμηΐαν ἀοιδάν; Ἦ τις ἁμετέρας χθονὸς [para]δυσμενὴς ὅρι’ ἀμφιβάλ‐ [para]λει στραταγέτας ἀνήρ; ἢ λῃσταὶ κακομάχανοι ποιμένων ἀέκατι μή‐ λων σεύοντ’ ἀγέλας βίᾳ; ἢ τί τοι κραδίαν ἀμύσ‐ [para]σει; Φθέγγευ· δοκέω γὰρ εἴ τινι βροτῶν ἀλκίμων ἐπικουρίαν [para]καὶ τὶν ἔμμεναι νέων, ὦ Πανδίονος υἱὲ καὶ Κρεούσας. Νέον ἦλθε〈ν〉 δολιχὰν ἀμεί‐ [para]ψας κᾶρυξ ποσὶν Ἰσθμίαν κέλευθον· ἄφατα δ’ ἔργα λέγει κραται‐ [para]οῦ φωτός· τὸν ὑπέρβιόν τ’ ἔπεφνεν Σίνιν, ὃς ἰσχύϊ φέρτατος [para]θνατῶν ἦν, Κρονίδα Λυταί‐ [para]ου σεισίχθονος τέκος· σῦν τ’ ἀνδροκτόνον ἐν νάπαις Κρεμμυῶνος ἀτάσθαλόν τε Σκίρωνα κατέκτανεν· τάν τε Κερκυόνος παλαίσ‐ [para]τραν ἔσχεν, Πολυπήμονός τε καρτερὰν σφῦραν ἐξέβαλεν Προκόπ‐ [para]τας, ἀρείονος τυχὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "φωτός. Ταῦτα δέδοιχ’ ὅπᾳ τελεῖται. Τίνα δ’ ἔμμεν πόθεν ἄνδρα τοῦ‐ [para]τον λέγει, τίνα τε στολὰν ἔχοντα; πότερα σὺν πολεμηΐοις [para]ὅπλοισι στρατιὰν ἄγοντα πολλάν; ἢ μοῦνον σὺν ὀπάοσιν [para]στείχειν ἔμπορον οἷ’ ἀλά‐ [para]ταν ἐπ’ ἀλλοδαμίαν, ἰσχυρόν τε καὶ ἄλκιμον ὧδε καὶ θρασύν, ὃς τ〈οσ〉ού‐ των ἀνδρῶν κρατερὸν σθένος ἔσχεν; ἦ θεὸς αὐτὸν ὁρ‐ [para]μᾷ δίκας ἀδίκοισιν ὄφρα μήσεται· οὐ γὰρ ῥᾴδιον αἰὲν ἔρ‐ [para]δοντα μὴ ’ντυχεῖν κακῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Πάντ’ ἐν τῷ δολιχῷ χρόνῳ τελεῖται. Δύο οἱ φῶτε μόνους ἁμαρ‐ [para]τεῖν λέγει, περὶ φαιδίμοισι δ’ ὤμοις ξίφος ἔχειν 〈ἐλεφανόκω‐ [para]πον〉, ξεστοὺς δὲ δύ’ ἐν χέρεσς’ ἄκοντας κηὔτυκτον κυνέαν Λάκαι‐ [para]ναν κρατὸς πέρι πυρσοχαί‐ [para]του· χιτῶνα πορφύρεον στέρνοις τ’ ἀμφί, καὶ οὔλιον Θεσσαλὰν χλαμύδ’· ὀμμάτων δὲ στίλβειν ἄπο Λαμνίαν φοίνισσαν φλόγα· παῖδα δ’ ἔμ‐ [para]μεν πρώθηβον, ἀρηΐων δ’ ἀθυρμάτων μεμνᾶσθαι πολέμου τε καὶ [para]χαλκεοκτύπου μάχας·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "δίζησθαι δὲ φιλαγλάους Ἀθάνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Πάρεστι μυρία κέλευ‐ θος ἀμβροσίων μελέων, ὃς ἂν παρὰ Πιερίδων λάχησι δῶρα Μουσᾶν, ἰοβλέφαροί τε κ〈όρ〉αι [para]φερεστέφανοι Χάριτες [para]βάλωσιν ἀμφὶ τιμὰν ὕμνοισιν· ὕφαινέ νυν ἐν [para]ταῖς πολυηράτοις τι και‐ νὸν ὀλβίαις Ἀθάναις, εὐαίνετε Κηΐα μέριμνα. Πρέπει σε φερτάταν ἴμεν ὁδὸν παρὰ Καλλιόπας [para]λαχοῖσαν ἔξοχον γέρας. †Τιην† Ἄργος ὅθ’ ἵππιον λιποῦ‐ [para]σα φεῦγε χρυσέα βοῦς, εὐρυσθενέος φραδαῖσι φερτάτου Διός, Ἰνάχου ῥοδοδάκτυλος κόρα. Ὅτ’ Ἄργον ὄμμασι βλέπον‐ τα πάντοθεν ἀκαμάτοις μεγιστοάνασσα κέλευ‐ [para]σε χρυσόπεπλος Ἥρα ἄκοιτον ἄϋπνον ἐόν‐ [para]τα καλλικέραν δάμαλιν φυλάσσεν, οὐδὲ Μαίας υἱὸς δύνατ’ οὔτε κατ’ εὐ‐ [para]φεγγέας ἁμέρας λαθεῖν [para]νιν οὔτε νύκτας ἁγν[άς.] Εἴτ’ οὖν γένετ’ ε[⏑–⏑––] ποδαρκέ’ ἄγγελο[ν Διὸς] κτανεῖν τότε [Γᾶς ⏑⏑–] [para][⏑] ὀβριμοσπόρου λ[⏑–] Ἄργον· ἦ ῥα καὶ [–⏑–⏑–] [para][⏑]ἄσπετοι μέριμν[αι·]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἢ Πιερίδες φύτευ[σαν –⏑–⏑–] καδέων ἀνάπαυσ[ιν –⏑⏓] Ἐμοὶ μὲν οὖν ἀσφαλέστατον ἁ προ[ ] ἐπεὶ παρ’ ἀνθεμώ[δεα] Νεῖλον ἀφίκετ’ ο[ἰστρο...] Ἰὼ φέρουσα παῖδ[α...] Ἔπαφον· ἔνθα νι[ν...] λινοστόλων πρύτ[ανιν...] ὑπερόχῳ βρύοντ[α...] μεγίσταν τε θνα[τ...] ὅθεν καὶ Ἀγανορί[δας] ἐν ἑπταπύλοισ[ι Θήβαις] Κάδμος Σεμέλ[αν φύτευσεν,] ἃ τὸν ὀρσιβάκχα[ν] τίκτεν Διόνυσον [....] καὶ χορῶν στεφαν[αφόρων ἄνακτα.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Σπάρτᾳ ποτ’ ἐν ε[ὐρυχόρῳ] ξανθαὶ Λακεδα[ιμονι...] τοιόνδε μέλος κ[...] ὅτ’ ἄγετο καλλιπά[ρᾳον] κόραν θρασυκάρ[διος Ἴδας] Μάρπησσαν ἰοτ[...] φυγὼν θανάτου τ[...] ἀναξίαλος Ποσει[δὰν...] ἵππους τέ οἱ ἰσαν[έμους] Πλευρῶν’ ἐς ἐϋκτ[ιμέναν] χρυσάσπιδος υἱὸ[ν Ἄρηος] (desunt reliqua)",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "brw-ag",
+      "title": {
+        "english": "Dubious Fragments",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-dubious-fragments-brw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dubious-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "brw-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "bacchylides-of-ceos-epigrams-brw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ad",
+      "title": {
+        "english": "Erotic Works Fragments",
+        "ancient_greek": "Ἐρωτικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-erotic-fragments-brw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/erotic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "brw-aa",
+      "title": {
+        "english": "Fragments from Uncertain Works",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-uncertain-works-brw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/uncertain-works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/uncertain-works.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ac",
+      "title": {
+        "english": "Fragments of Dithyrambs",
+        "ancient_greek": "Ἀποσπάσματα Διθυράμβων"
+      },
+      "url_slug": "bacchylides-of-ceos-dithyrambs-ac-brw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dithyrambs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-ac.json"
+      }
+    },
+    {
+      "eul_wid": "brw-af",
+      "title": {
+        "english": "Fragments of Hymns",
+        "ancient_greek": "Ἀποσπάσματα Ὕμνων"
+      },
+      "url_slug": "bacchylides-of-ceos-hymns-fragments-brw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hymns-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hymns-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ab",
+      "title": {
+        "english": "Fragments of Victory Odes",
+        "ancient_greek": "Ἀποσπάσματα Νικῶν Ὠδῶν"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ab-brw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ae",
+      "title": {
+        "english": "Hyporchemata Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ὑπορχημάτων"
+      },
+      "url_slug": "bacchylides-of-ceos-hyporchemata-brw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/hyporchemata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/hyporchemata.json"
+      }
+    },
+    {
+      "eul_wid": "brw-am",
+      "title": {
+        "english": "Paeans",
+        "ancient_greek": "Παιᾶνες"
+      },
+      "url_slug": "bacchylides-of-ceos-paeans-brw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/paeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/paeans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/paeans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/paeans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/paeans.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ah",
+      "title": {
+        "english": "Prosody Fragments",
+        "ancient_greek": "Ἀποσπάσματα Πρὸς τὴν Προσωδίαν"
+      },
+      "url_slug": "bacchylides-of-ceos-prosody-brw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ai",
+      "title": {
+        "english": "Victory Odes",
+        "ancient_greek": "Νίκαι Ὠδαί"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ai-brw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ai.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ak",
+      "title": {
+        "english": "encoms",
+        "ancient_greek": "Ἐγκώμια"
+      },
+      "url_slug": "bacchylides-of-ceos-encoms-brw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/encoms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/encoms.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "dgg-aa",
+      "title": {
+        "english": "Anonymous Fragments from Authors",
+        "ancient_greek": "Ἀνώνυμα Ἀποσπάσματα ἐκ Συγγραφέων"
+      },
+      "url_slug": "greek-lyric-fragments-anonymous-fragments-dgg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-lyric-fragments-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "keg-aa",
+      "title": {
+        "english": "Anonymous-Shameful Profit",
+        "ancient_greek": "Ἄδηλον Περὶ Αἰσχροκερδείας"
+      },
+      "url_slug": "choliambica-adespota-shameful-profit-keg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choliambica-adespota/shameful-profit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choliambica-adespota/shameful-profit.json"
+      }
+    },
+    {
+      "eul_wid": "uri-aa",
+      "title": {
+        "english": "Cyrillian Anthology",
+        "ancient_greek": "Κυρίλλειος Ἀνθολογία"
+      },
+      "url_slug": "florilegium-cyrillianum-anonymous-anthology-uri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/florilegium-cyrillianum-anonymous/anthology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.json"
+      }
+    },
+    {
+      "eul_wid": "mpi-aa",
+      "title": {
+        "english": "Delphic Paean II and Prosodion to Apollo",
+        "ancient_greek": "Δελφικὸς Παιὰν Β' καὶ Προσόδιον πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "limenius-of-athens-delphic-paean-ii-mpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/limenius-of-athens/delphic-paean-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.json"
+      }
+    },
+    {
+      "eul_wid": "iuc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "alexander-of-aetolia-epigrams-iuc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "ttm-aa",
+      "title": {
+        "english": "Fragments on Birdsong",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀρνίθων ᾠδῆς"
+      },
+      "url_slug": "assembly-of-the-birds-fragments-ttm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/assembly-of-the-birds/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/assembly-of-the-birds/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "uyq-ac",
+      "title": {
+        "english": "Genuine Songs",
+        "ancient_greek": "Γνήσιαι ᾨδαί"
+      },
+      "url_slug": "romanos-the-melodist-genuine-songs-uyq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/genuine-songs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/genuine-songs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/genuine-songs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/genuine-songs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/genuine-songs.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ad",
+      "title": {
+        "english": "Hymn 17 To the Dioscuri",
+        "ancient_greek": "Ὕμνος εἰς τοὺς Διοσκούρους"
+      },
+      "url_slug": "homeric-hymns-anonymous-dioscuri-ad-upu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dithyrambs-aj",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-aj.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-aj.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-aj.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dithyrambs-aj.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

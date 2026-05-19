@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "duc-aa",
+  "eul_aid": "duc",
+  "author_slug": "aristippus-of-cyrene",
+  "work_slug": "antiquities-myths",
+  "url_slug": "aristippus-of-cyrene-antiquities-myths-duc-aa",
+  "author": {
+    "english": "Aristippus of Cyrene",
+    "ancient_greek": "Ἀρίστιππος ὁ Κυρηναῖος"
+  },
+  "title": {
+    "english": "Arcadian Antiquities and Myths",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Arcadian Antiquities and Myths by Aristippus on Eulogikon",
+    "meta_title": "Arcadian Antiquities and Myths by Aristippus in Greek",
+    "meta_description": "Fragments of Arcadian Antiquities and Myths. Historical and mythological account of Arcadia. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Arcadian Antiquities and Myths is a prose work attributed to Aristippus of Cyrene, the founder of the Cyrenaic school of philosophy. This attribution is historically problematic, as Aristippus is not otherwise known as a writer of history or antiquities. The work survives only in a handful of fragments preserved by later authors, including Clement of Alexandria and various scholiasts. These fragments suggest the text dealt with Arcadian foundation stories and local legends, touching on figures such as Apis, the king of Argos who founded Memphis, and various traditions surrounding the hero Deucalion. The work&#x27;s title implies a focus on the antiquarian lore of the Peloponnesian region of Arcadia. Its uncertain transmission and the questionable authorship make it a minor but intriguing artifact of Hellenistic interest in local history and mythography. If genuinely by the philosopher Aristippus, it would represent an unusual historiographical departure from his known philosophical pursuits. More likely, it is a later compilation, possibly of excerpts, attributed to him due to the commonality of the name.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-4",
+      "text": "ΑΡΚΑΔΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Clemens Alex. Strom. I: Ἆπίς τε ὁ Ἄργους βασιλεὺς Μέμφιν οἰκίζει, ὥς φησιν Ἀρίστιππος ἐν πρώτῳ Ἀρκαδικῶν. Τοῦτον δὲ ὁ Ἀριστέας ὁ Ἀργεῖος ἐπονομασθῆναί φησι Σάραπιν καὶ τοῦτον εἶναι ὃν Αἰγύ πτιοι σέβουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Schol. Theocrit. I, 3: Ἀρίστιππος δὲ ἐν τῷ α Ἀρκαδικῶν Διὸς καὶ νύμφης Οἰνηΐδος (Πᾶνα εἶναι λέγει).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t3-4",
+      "text": "E LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Schol. Apoll. Rh. III, 1087: Ἐκ τίνος γυναικὸς ὁ Δευκαλίων ἐγένετο Προμηθεῖ, σεσιώπηται. Ἔστι δὲ καὶ ἕτερος Δευκαλίων, περὶ οὗ Ἑλλάνικος ἱστορεῖ· καὶ ἄλλος, ὁ Μίνωος, περὶ οὗ Φερεκύδης· καὶ τέταρτος, ὁ Ἄβαντος, οὗ μνημονεύει Ἀρίστιππος ἐν Ἀρκαδικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Schol. vet. Pind. Ol. XI, 83: Μετὰ τὴν τῆς Ἤλιδος ἅλωσιν εἷς ἦν τῶν ἀγωνισαμένων ὁ Θησεὺς, οὐχ ἅρματι δὲ, ἀλλὰ παγκρατίῳ· ἱστο ρεῖ Ἀρίστιππος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vae-aa",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονολογικόν"
+      },
+      "url_slug": "john-malalas-of-antioch-chronicle-vae-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "mki-aa",
+      "title": {
+        "english": "Cyclical History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-rhodes-cyclical-history-mki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-rhodes/cyclical-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes/cyclical-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes/cyclical-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes/cyclical-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-rhodes/cyclical-history.json"
+      }
+    },
+    {
+      "eul_wid": "nhu-ab",
+      "title": {
+        "english": "Fragments on Cyrenean Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Κυρηναϊκῶν Μύθων"
+      },
+      "url_slug": "akesandros-the-historian-cyrenean-myths-nhu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/akesandros-the-historian/cyrenean-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.json"
+      }
+    },
+    {
+      "eul_wid": "moe-aa",
+      "title": {
+        "english": "Historical Fragments on Parthia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρθίας"
+      },
+      "url_slug": "apollodorus-of-artemita-historical-parthia-moe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-artemita/historical-parthia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-artemita/historical-parthia.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-au",
+      "title": {
+        "english": "History of Alexander (Fragment D)",
+        "ancient_greek": "Ἱστορία Ἀλεξάνδρου"
+      },
+      "url_slug": "historical-fragments-anonymous-alexander-au-mmg-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/alexander-au",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-au.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-au.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-au.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-au.json"
+      }
+    },
+    {
+      "eul_wid": "iqq-aa",
+      "title": {
+        "english": "On Alexandria and Its Monuments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callixenus-of-rhodes-alexandria-monuments-iqq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callixenus-of-rhodes/alexandria-monuments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ab",
+      "title": {
+        "english": "On Brotherly Friends",
+        "ancient_greek": "Περὶ ἀδελφικῶν φίλων"
+      },
+      "url_slug": "paradoxographer-anon-brotherly-friends-jre-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.json"
+      }
+    },
+    {
+      "eul_wid": "nra-aa",
+      "title": {
+        "english": "On the Pallenian Festival",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "themison-the-historian-pallenian-festival-nra-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/themison-the-historian/pallenian-festival",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themison-the-historian/pallenian-festival.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristippus-of-cyrene/antiquities-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene/antiquities-myths.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene/antiquities-myths.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene/antiquities-myths.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristippus-of-cyrene/antiquities-myths.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

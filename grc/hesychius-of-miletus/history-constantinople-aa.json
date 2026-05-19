@@ -1,0 +1,424 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "uws-aa",
+  "eul_aid": "uws",
+  "author_slug": "hesychius-of-miletus",
+  "work_slug": "history-constantinople-aa",
+  "url_slug": "hesychius-of-miletus-history-constantinople-aa-uws-aa",
+  "author": {
+    "english": "Hesychius of Miletus the Illustrious",
+    "ancient_greek": "Ἡσύχιος ὁ Μιλήσιος ὁ Ἰλλουστρίος"
+  },
+  "title": {
+    "english": "History of Constantinople",
+    "ancient_greek": "Ἱστορία Κωνσταντινουπόλεως"
+  },
+  "seo": {
+    "browser_title": "History Constantinople by Hesychius of Miletus on Eulogikon",
+    "meta_title": "History of Constantinople by Hesychius of Miletus in Greek",
+    "meta_description": "Hesychius of Miletus chronicles the founding and early development of Constantinople in this late antique Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>History of Constantinople</strong> is a sixth-century work of historical topography attributed to Hesychius of Miletus, a high-ranking official and historian in the early Byzantine Empire. Written in Greek prose, it is not a chronicle but a descriptive account of the city’s origins, detailing its foundation by Emperor Constantine the Great and cataloguing its major buildings and monuments. The work blends historical fact with foundation myths, connecting the new imperial capital to ancient legends such as the voyage of the Argonauts. The original text does not survive independently but is preserved within a much later tenth-century compilation known as the <strong>Patria of Constantinople</strong>, from which scholars have extracted Hesychius’s contributions. The extant version consists of twenty-eight descriptive passages. Modern scholarship interprets the work as part of a popular Late Antique literary genre known as <strong>patria</strong>, which aimed to furnish the relatively new capital with a deep historical and mythological pedigree, thereby crafting a venerable identity for the New Rome. It is thought to have been composed for the educated elite as a celebration of the city’s physical and legendary heritage.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Πάτρια Κωνσταντινουπόλεως κατὰ Ἡσύχιον Ἰλλούστριον. Δύο καὶ ἑξήκοντα καὶ τριακοσίων ἀπὸ τῆς Αὐγούστου Καίσαρος μοναρχίας διεληλυθότων ἐνιαυτῶν τῇ πρεσβυτέρᾳ Ῥώμῃ καὶ τῶν πραγμάτων αὐτῆς ἤδη πρὸς πέρας ἀφιγμένων Κωνσταντῖνος ὁ Κωνσταντιόυ παῖς ἐπιλαβόμενος τῶν σκήπτρων τὴν νέαν ἀνίστησι Ῥώμην ἴσην αὐτὴν τῇ πρώτῃ χρηματίζειν προστάξας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἤδη μὲν γὰρ καὶ τυράννοις καὶ βασιλεῦσι χρησαμένην πολλάκις ἀριστοκρατίας τε καὶ δημοκρατίας πολιτευσαμένην τρόπῳ τέλος ἐπὶ τὸ προκείμενον 〈συνέβη〉 ἐξενηνοχέναι μέγεθος. Λεκτέον δὲ ἡμῖν, ὅπως τε ἐξ ἀρχῆς γέγονε καὶ ὑπὸ τίνων ἀπῳκίσθη, ἐκ τῶν ἀρχαίων ποιητῶν καὶ συγγραφέων τὴν ὑπόθεσιν ποιουμένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Φασὶ μὲν Ἀργείους πρώτους χρησάσης αὐτοῖς τῆς Πυθίας οὕτως „Ὄλβιοι, οἳ κείνην ἱερὴν πόλιν οἰκήσουσιν ἀκτὴν Θρηικίην στενυγρὸν παρά τε στόμα Πόντου, ἔνθα δύο σκύλακες διερὴν μάρπτουσι θάλασσαν, ἔνθ’ ἰχθὺς ἔλαφός τε νομὸν βόσκονται ἐς αὐτόν“ πήξασθαι τὰς οἰκήσεις ἐν ἐκείνῳ τῷ χωρίῳ, ἐν ᾧ Κύδαρός τε καὶ Βαρβύσης ποταμοὶ τὰς διεξόδους ποιοῦνται, ὁ μὲν τῶν ἀρκτῴων, ὁ δὲ τῶν ἑσπερίων προρρέοντες καὶ κατὰ τὸν τῆς λεγομένης Σεμέστρης νύμφης βωμὸν τῇ θαλάσσῃ μιγνύμενοι. Ἐπεὶ οὖν εἰς τὴν εἱμαρμένην ἀφίκοντο 〈χώραν〉 καὶ θυσίαις τοὺς ἐγχωρίους ἐξιλάσκοντο δαίμονας, κόραξ τῆς ἱερουργίας ὑφαρπάσας βραχύ τι μέρος εἰς ἕτερον μετέθηκε τόπον, ὃς ἔχει τὴν τοῦ Βοσπόρου προσηγορίαν βουκόλου τὴν τοῦ ὄρνιθος ὑποδείξαντος πτῆσιν, ἀφ’ οὗπερ καὶ Βουκόλια ἐκεῖνο τὸ χωρίον ἐκλήθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Ἕτεροι δὲ Μεγαρεῖς ἱστόρησαν ἀπὸ Νίσου τὸ γένος κατάγοντας εἴσπλουν ἐν αὐτῷ ποιησαμένους τῷ τόπῳ ὑφ’ ἡγεμόνι Βύζαντι, οὗπερ τὴν προσηγορίαν μυθεύουσι τῇ πόλει προστεθῆναι. Ἄλλοι δὲ Σεμέστρης τῆς ἐπιχωρίου νύμφης παῖδά τινα γεγονότα τὸν Βύζαντα ἀναπλάττουσιν. Οἱ μὲν οὖν διαφόροις ἐχρήσαντο λόγοις, ἡμεῖς δὲ πιθανὴν τὴν ἱστορίαν τοῖς ἐντυγχάνειν ἐθέλουσιν παραστῆσαι βουλόμενοι ἐκ τῆς Ἰνάχου θυγατρὸς Ἰοῦς τὴν ἀρχὴν προσφόρως ποιούμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Ἰνάχου γὰρ τοῦ Ἀργείων βασιλέως γέγονε θυγάτηρ Ἰώ. Ταύτης τὴν παρθενίαν ἐφύλαττεν Ἄργος, ὃν πολυόμματον λέγουσιν. Ἐπεὶ δὲ Ζεὺς ἐρασθεὶς τῆς κόρης πείθει τὸν Ἑρμῆν δολοφονῆσαι τὸν Ἄργον, λυθείσης δ’ αὐτῇ τῆς παρθενίας ὑπὸ Διὸς εἰς βοῦν μεταβάλλεται. Ἥρα δὲ χολωθεῖσα ἐπὶ τῷ γενομένῳ οἶστρον ἐπιπέμπει τῇ δαμάλει καὶ διὰ πάσης αὐτὴν ἐλαύνει ξηρᾶς τε καὶ ὑγρᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Ἐπειδὴ δὲ πρὸς τὴν Θρᾳκῶν ἀφίκετο χώραν, ὄνομα μὲν τῷ τόπῳ καταλέλοιπε Βόσπορον, αὐτὴ δὲ πρὸς τὸ καλούμενον Κέρας ἐπανελθοῦσα, καθ’ ὃ Κύδαρός τε καὶ Βαρβύσης συμμίσγονται τοῖς ἐνοικοῦσι προθεσπίζοντες τὰ ἐσόμενα, παρὰ τὸν Σεμέστρης βωμὸν τὴν λεγομένην Κερόεσσαν ἀπεκύησε κόρην, ἐξ ἧς καὶ Κέρας ὁ τόπος ὠνόμασται. Ἄλλοι δὲ μᾶλλον τῇ θέσει τοῦ χωρίου τοὔνομα προστιθέασιν, οἱ δὲ τῇ τῶν καρπῶν εὐφορίᾳ τὸ τῆς Ἀμαλθείας αἰγὸς κέρας προσαγορεύουσιν. Ἡ τοίνυν Κερόεσσα παρὰ τῇ Σεμέστρῃ νύμφῃ τραφεῖσα καὶ παραδόξῳ μορφῇ λαμπρυνθεῖσα πολὺ τὰς Θρᾳκικὰς ὑπερέβαλε παρθένους, τῷ τε θαλαττίῳ μιγεῖσα Ποσειδῶνι τίκτει τὸν καλούμενον Βύζαντα, τοὔνομα τοῦτο λαβόντα ἐκ τῆς θρεψάσης αὐτὸν κατὰ τὴν Θρᾴκην νύμφης Βιζύης, ἧς μέχρι καὶ νῦν οἱ πολῖται τῶν ὑδάτων ἀρύονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ὡς οὖν ἐπὶ τὴν ἀκμὴν τῆς ἡλικίας ὁ νέος προέβαινεν καὶ τοῖς Θρᾳκίοις ἐνδιέτριβεν ὄρεσι φοβερῶς πρὸς τοὺς θῆρας καὶ τοὺς βαρβάρους φερόμενος, πρεσβείας ὑπὸ τῶν τοπαρχούντων ἐδέχετο σύμμαχος αὐτοῖς εἶναι καὶ φίλος προτρεπόμενος. Ὡς οὖν καὶ Μελίας αὐτὸν ὁ τῶν Θρᾳκῶν βασιλεὺς ἐπὶ τὸν τοῦ θηρὸς ἆθλον μετεπέμψατο καὶ τὰς ἐξ αὐτοῦ δόξας ὁ Βύζας ἀπηνέγκατο τὸν ὑποταγέντα ταῦρον τῇ ἱερουργίᾳ προσφέρων καὶ τοὺς πατρῴους ἐξιλασκόμενος δαίμονας κατὰ τὴν τῶν εἰρημένων ποταμῶν σύμμιξιν, ἀετὸς ἀθρόως φανεὶς τὴν καρδίαν ὑφαρπάζει τοῦ θύματος καὶ κατὰ τὴν ἄκραν τῆς Βοσπορίας ἀκτῆς 〈ἀποπτὰς ἔστη〉 ἀντικρὺ τῆς καλουμένης Χρυσοπόλεως, ἣν Χρύσης ὁ παῖς ἐκ Χρυσηΐδος γεγονὼς καὶ Ἀγαμέμνονος φεύγων τὴν Κλυταιμνήστρης ἐπιβουλὴν μετὰ τὴν τοῦ πατρὸς ἀναίρεσιν καὶ πρὸς τὴν τῆς Ἰφιγενείας ζήτησιν ἐπειγόμενος μνῆμα τῆς ἑαυτοῦ ταφῆς τοῖς ἐγχωρίοις τοὔνομα τοῦτο κατέλιπε φθασάσης αὐτὸν ἐκεῖ τῆς τοῦ βίου καταστροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Ὁ μὲν οὖν Βύζας κατὰ τὴν ἄκραν τῆς Βοσπορίας ἁλὸς διέγραψεν πόλιν. Ποσειδῶνος δὲ καὶ Ἀπόλλωνος ὥς φασι συνεργούντων ἀνοικοδομεῖ τὰ τείχη λόγου τε παντὸς κρείττονα μηχανώμενος. Τοὺς γὰρ ἐν αὐτοῖς πύργους ἑπτὰ ὄντας ἀντιφθέγγεσθαί τε καὶ διηχεῖν ἀλλήλοις συνήρμοζεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Εἴποτε γὰρ σάλπιγξ ἢ φωνή τις ἑτέρα τοῖς πύργοις ἐπεφοίτα, ἕτερος ἐξ ἑτέρου τὴν ἠχὼ μετελάμβανεν, καὶ τῷ πρὸς τὸ πέρας κειμένῳ παρέπεμπον. Ἀλλὰ μὴν καὶ ἄλλο τι τοῖς ταῦτα συγγράψασιν εἰρημένον οὐ παραλείψομεν· τὸν γὰρ Ἡρακλέους καλούμενον πύργον τὰ τῶν πολεμίων τοῖς ἐντὸς οὖσι τοῦ τείχους μεταδιδόναι μυστήρια λέγουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Μετὰ δὲ τὴν τοῦ τείχους στεφάνην καὶ τὰ τεμένη τῶν θεῶν ἀπειργάζετο· Ῥέας μὲν κατὰ τὸν τῆς Βασιλικῆς λεγόμενον τόπον νεών τε καὶ ἄγαλμα καθιδρύσατο, ὅπερ καὶ Τυχαῖον τοῖς πολίταις τετίμηται. Ποσειδῶνος δὲ τέμενος πρὸς τῇ θαλάττῃ ἀνήγειρεν, ἔνθα νῦν ὁ τοῦ μάρτυρος Μηνᾶ οἶκος διακεκόσμηται, Ἑκάτης δὲ κατὰ τὸν νῦν τοῦ Ἱπποδρομίου τόπον, τῶν δὲ Διοσκούρων, Κάστορός τέ φημι καὶ τοῦ Πολυδεύκους, ἐν τῷ τῆς Σεμέστρης βωμῷ καὶ τῇ τῶν ποταμῶν μίξει, ἐν ᾧ καὶ λύσις τῶν παθῶν τοῖς ἀνθρώποις ἐγίνετο. Ἐγγὺς δὲ τοῦ καλουμένου Στρατηγίου Αἴαντός τε καὶ Ἀχιλλέως βωμοὺς ἀνεθήκατο· ἔνθα καὶ τὸ Ἀχιλλέως χρηματίζει λουτρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Ἀμφιάρεω δὲ τοῦ ἥρωος ἐν ταῖς λεγομέναις Συκαῖς ᾠκοδόμησεν, αἳ τὴν ἐπωνυμίαν ἐκ τῶν συκοφόρων δένδρων ἐδέξαντο. Ἀνωτέρω δὲ μικρὸν τοῦ Ποσειδῶνος ναοῦ καὶ τὸ τῆς Ἀφροδίτης προσαγορεύεται τέμενος Ἀρτέμιδός τε πρὸς τὸ τῆς Θρᾴκης ὄρος. Ἐπεὶ δὲ ταῦτα εἰς τὴν αὑτοῦ διῳκήσατο πόλιν, ἐχρῆν δὲ λοιπὸν τοὺς ἐπιόντας ἀπωθεῖσθαι βαρβάρους, μάλιστα τὸν Αἷμον, ὃς τῆς Θρᾴκης τύραννος ἦν καὶ πρὸς αὐτὴν ἧκεν τὴν τοῦ Βύζαντος πόλιν αὐτόν τε τὸν ἥρωα προκαλούμενος εἰς μάχην καὶ διαπορθεῖν ἅπαντα προθυμούμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "〈Ὁ δὲ〉 οὐχ ὑπομείνας τὴν ἔφοδον τοῦ βαρβάρου μόνος πρὸς μόνον διαγωνίζεται καὶ καταβάλλει τὸν Αἷμον ἐπὶ τὸν ἐπώνυμον αὐτοῦ λόφον. Ὁ μὲν οὖν Βύζας μετὰ τὴν εἰρημένην νίκην ὡς ἐπὶ τὴν Θρᾴκην ἤλαυνε τοὺς πολεμίους, Ὀδρύσης ὁ τῶν Σκυθῶν βασιλεὺς περαιωθεὶς τὸν Ἴστρον καὶ πρὸς αὐτὰ διελθὼν τὰ τῆς πόλεως τείχη ἐπολιόρκει τοὺς ἔνδον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Πρὸς ὃν ἡ τοῦ Βύζαντος γυνή, ἡ θαυμαστὴ Φιδάλεια, μηδέν τι καταπλαγεῖσα τὸ πλῆθος τῶν πολεμίων, ἀλλὰ τῇ γυναικείᾳ χρησαμένη χειρὶ διηγωνίσατο σοφισαμένη τὸν βάρβαρον τῇ τῶν δρακόντων συμμαχίᾳ. Ὡς γὰρ τοὺς κατὰ τὴν πόλιν ὄφεις εἰς ἕν τι χωρίον συλλαβοῦσα ἐφρούρει, ἀθρόως τοῖς ἐναντίοις ἐπιφανεῖσα δίκην βελῶν ἢ ἀκοντίων ἔπεμπε τὰ θηρία καὶ πλείστους λυμηναμένη τούτῳ τῷ τρόπῳ διέσωσε τὴν πόλιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Ἐντεῦθεν τοίνυν ἀρχαῖος μῦθος φέρεται μὴ δεῖν τοὺς κατὰ τὴν πόλιν ἁλισκομένους ἀπολλύειν ὄφεις, οἷα εὐεργέτας αὐτοὺς γενομένους. Οὐ μετὰ πολὺν δὲ χρόνον Στρόμβος ἀνὴρ τοὔνομα καὶ αὐτὸς ἐκ Κεροέσσης τεχθεὶς πόλεμον ἐπιφέρει τῷ Βύζαντι πολλὴν ἐπαγόμενος δύναμιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Ἀνεκινεῖτο τοίνυν ἅπαντα τὰ Σκυθικὰ γένη, συνέτρεχον δὲ καὶ οἱ τῆς Ἑλλάδος κρατοῦντες καὶ Ῥοδίων οὐκ εὐκαταφρόνητος δύναμις ὅ τε τῆς γείτονος Χαλκηδόνος τοπάρχης Δίνεως, ἐκ Μεγαρέων ἄποικος ἐκεῖσε γενόμενος δέκα καὶ ἐννέα ἔμπροσθεν ἔτεσιν τῆς Βύζαντος αὐταρχίας. (Χαλκηδὼν δὲ ὠνόμασται τὸ χωρίον, ὡς μέν τινές φασιν, ἀπὸ τοῦ Χαλκηδόνος ποταμοῦ, ὡς δὲ ἕτεροι, ἀπὸ τοῦ παιδὸς Κάλχαντος τοῦ μάντεως ὕστερον τοῦ Τρωικοῦ πολέμου γενομένου, ὡς δὲ ἄλλοι, ἀπὸ Χαλκίδος πόλεως τῆς Εὐβοίας ἀποίκων ἐκεῖ πεμφθέντων· οὓς δὴ καὶ τυφλοὺς ἀπεκάλεσαν παρεωρακότας τὸ Βυζάντιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": ") Ὡς οὖν σὺν πλείοσι ναυσὶν ὁ Δίνεως εἰς συμμαχίαν ἧκεν τοῦ Βύζαντος, μὴ δυνηθεὶς προσορμῆσαι τῇ πόλει ἄρτι τοῦ βασιλέως αὐτῶν Βύζαντος μεταλλάξαντος καὶ τοῦ δήμου παντὸς ἐν ἀγωνίᾳ τυγχάνοντος πρὸς τὸν καλούμενον Ἀνάπλουν ἀφίκετο, ἔνθα καὶ διατρίψας Ἑστίας τὸν τόπον ὠνόμασεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Μικρῷ γε μὴν ὕστερον διαβὰς ἐν τῇ πόλει καὶ τοὺς βαρβάρους ἀπωσάμενος δεύτερος αὐτὸς ἐστρατήγησε τοῦ δήμου τῶν Βυζαντίων. Καθ’ οὓς δὴ χρόνους καὶ δρακόντων πλεῖστα γένη ἐπεφοίτησεν τῇ πόλει, ὡς τοὺς οἰκοῦντας αὐτὴν διαφθείρεσθαι· οὓς δὴ τῇ τῶν καλουμένων πελαργῶν ὀρνίθων ἐπιφορᾷ διεχρήσαντο Ποσειδῶνος αὐτοῖς ὥς φασι συνεργήσαντος. Οὐ μετὰ πολὺ δὲ καὶ τῶν ὀρνίθων αὐτοῖς ἐναντία φρονούντων καὶ θανάτων αἰτίαν ἐπαγόντων τούς τε ἁλισκομένους αὐτοῖς ὄφεις πρὸς τὰς τῶν ὑδάτων δεξαμενὰς ἀκοντιζόντων καὶ τοῖς γε πολίταις ἐν ταῖς λεωφόροις ἀφανῶς ἐπιβαλλόντων ἐν ἀφασίᾳ διετέλουν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Ἀνὴρ δέ τις τῶν ἐκ Τυάνων, τοὔνομα Ἀπολλώνιος, ἐκ λίθου ξεστοῦ τρεῖς ἀνεστήσατο πελαργοὺς ἀντιπροσώπως ἀλλήλοις ὁρῶντας, οἳ καὶ μέχρι τῶνδε διαμένουσι τῶν χρόνων οὐ συγχωροῦντες ἐπιφοιτῆσαι τῇ πόλει τὸ τῶν πελαργῶν γένος. Ἐπὶ δὲ τοῖς εἰρημένοις Δίνεω τοῦ στρατηγοῦ μεταλλάξαντος Λέων τὴν τῶν Βυζαντίων ἀριστοκρατίαν ἐδέξατο· ἐφ’ οὗπερ Φίλιππος ὁ τῶν Μακεδόνων βασιλεύς, ὁ Ἀμύντου παῖς γεγονώς, πολλὴν ἐπαγόμενος δύναμιν ἐπολιόρκει τὴν πόλιν διώρυξί τε καὶ παντοίοις πολεμικοῖς μηχανήμασι τοῖς τείχεσι προσπελάζων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Καὶ δὴ ἂν ταύτην ἐξεῖλε ῥᾳδίως νυκτὸς ἐπιλαβόμενος ἀσελήνου καὶ ὄμβρου καταρραγέντος ἐξαισίου, εἰ μή τις αὐτοῖς τοῦ θείου γέγονε συμμαχία τοὺς κατὰ τὴν πόλιν κύνας πρὸς ὑλακὴν ἀναστήσαντος καὶ νεφέλας πυρὸς τοῖς ἀρκτῴοις ἐπαγαγόντος μέρεσιν. Ἐξ οὗπερ οἱ δῆμοι διεγερθέντες καὶ θερμῶς τοῖς πολεμίοις συνενεχθέντες ἤδη τὴν πόλιν ὑπὸ τῷ Φιλίππῳ γενομένην ἐρρύσαντο ἀναλαβόντες τοὺς διαφθαρέντας πύργους τοῖς ἐκ τῶν τάφων παρακειμένοις λίθοις καὶ ἀνυφάναντες τὰς ἐπάλξεις τοῦ τείχους· οὗ δὴ χάριν Τυμβοσύνην τὸ τεῖχος ἐκάλεσαν λαμπαδηφόρον Ἑκάτης ἀναστήσαντες ἄγαλμα. Αὖθίς τε πρὸς ναυμαχίας τραπέντες περιφανῶς τοὺς Μακεδόνας ἐνίκησαν. Καὶ τούτῳ τῷ τρόπῳ διαλυθέντος τοῦ πολέμου Φίλιππος παραχωρεῖ Βυζαντίοις. Ἐπειδὴ δὲ καὶ Λέων τὸν βίον μετήλλαξεν, Χάρης ὁ τῶν Ἀθηναίων στρατηγὸς σὺν ναυσὶ τεσσαράκοντα εἰς συμμαχίαν τῶν Βυζαντίων ἐλθὼν πρὸς τὸν κατὰ Φιλίππου πόλεμον κατέλαβε τὴν ἄκραν τῆς Προποντίδος, ἥτις μεταξὺ κεῖται Χρυσοπόλεως καὶ Χαλκηδόνος, καὶ ἐν ἐκείνῳ προσορμήσας τῷ τόπῳ ἀπόπειραν ἐλάμβανε τοῦ πολέμου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Ἔνθα δὴ τὴν ἑπομένην αὐτῷ γυναῖκα νόσῳ βληθεῖσαν ἀποβαλὼν κατέθηκεν ἐν τάφῳ ἀναστήσας αὐτῇ βωμὸν καὶ κίονα σύνθετον, ἐν ᾧ δάμαλις δείκνυται ἐκ ξεστοῦ συγκειμένη λίθου. Οὕτω γὰρ μᾶλλον ἐκείνη τὴν ἐπωνυμίαν ἐκέκλητο, ἥτις διὰ τῶν ἐγγεγραμμένων στίχων μέχρι τῶν καθ’ ἡμᾶς διασώζεται χρόνων. Εἰσὶ δὲ οἱ στίχοι οὗτοι· Ἰναχίης οὐκ εἰμὶ βοὸς τύπος οὐδ’ ἀπ’ ἐμεῖο κλῄζεται ἀντωπὸν Βοσπόριον πέλαγος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Κείνην γὰρ τὸ πάροιθε βαρὺς χόλος ἤλασεν Ἥρης ἐς Φάρον· ἥδε δ’ ἐγὼ Κεκροπίς εἰμι νέκυς. Εὐνέτις ἦν δὲ Χάρητος· ἔπλων δ’ ὅτε πλῶεν ἐκεῖνος τῇδε Φιλιππείων ἀντίπαλος σκαφέων· Βοίδιον οὔνομα δ’ ἦεν ἐμοὶ τότε· νῦν δὲ Χάρητος εὐνέτις ἠπείροις τέρπομαι ἀμφοτέραις. Τοῦ δὲ Χάρητος εἰς Ἀθήνας ἐκπλεύσαντος Πρωτόμαχος τὴν στρατηγικὴν ἀρχὴν διαδέχεται, ὃς τοὺς ἐπαναστάντας Θρᾷκας καταδουλώσας τοῖς ὅπλοις ἐν τῷ καλουμένῳ τῆς πόλεως Μιλίῳ χάλκεα ἀνέθηκε τρόπαια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Κατοιχομένου δὲ καὶ τούτου Τιμήσιος ἀνὴρ τῶν ἐν Ἀργείοις τραφέντων πρῶτον μὲν κατὰ τὸν Εὔξεινον προσαγορευόμενον Πόντον πρὸς τῷ λεγομένῳ Ἐφεσιάτῃ (ἔνθα ποτὲ Ἐφέσιοι ἀποικίας πέμψαντες καὶ πόλιν οἰκοδομεῖν πειραθέντες αὖθις τοῦ Βυζαντίου ὑπήκουσαν λογίου· ἔνθα δύο σκύλακες διερὴν μάρπτουσι θάλασσαν, ἔνθ’ ἰχθὺς ἔλαφός τε νομὸν βόσκονται ἐς αὐτόν) ἀντικαταστῆσαι πόλιν ἐπιχειρήσας καὶ διαμαρτὼν τῆς ἐλπίδος συνοικίζεται Βυζαντίοις· καὶ στρατηγὸς τοῦ παντὸς ἀναδειχθεὶς δήμου πᾶσαν ὁμοῦ τὴν πόλιν εἰς τὸ μεῖζον καὶ ὠφέλιμον μετερρύθμισεν, νόμους τε περὶ τῶν καθ’ ἡμέραν συμβόλαιά τε τιθέμενος καὶ ἔθη καθιστὰς πολιτικά τε καὶ ἥμερα, δι’ ὧν ἀστείους τε καὶ φιλανθρώπους τοὺς πολίτας ἀπέδειξεν· ἱερά τε θεῶν πλεῖστα τὰ μὲν αὐτὸς ἀνεστήσατο, τὰ δὲ καὶ πρὶν ὄντα ἐπεκόσμησεν· τὸν γὰρ πρὸς τῇ ἄκρᾳ τῆς Ποντικῆς θαλάσσης κείμενον ναόν, ὃν Ἰάσων ποτὲ τοῖς δώδεκα θεοῖς καθιέρωσε, κατηρειπωμένον ἀνήγειρε καὶ τὸν ἐπὶ τῷ Φρίξου λεγομένῳ λιμένι τῆς Ἀρτέμιδος οἶκον ἀνεκαίνισεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Ἐπὶ δὲ τούτῳ Καλλιάδης στρατηγῶν τοῦ Βυζαντίου ἄριστά τε πρὸς τοὺς ὀθνείους τε καὶ ἐμφυλίους πολεμίους ἀγωνισάμενος τὸ περιβόητον τοῦ Βύζαντος ἄγαλμα κατὰ τὴν καλουμένην Βασιλικὴν ἀνέθηκε καὶ ἐπέγραψεν οὕτως· Τὸν κρατερὸν Βύζαντα καὶ ἱμερτὴν Φιδάλειαν εἰν ἑνὶ κοσμήσας ἄνθετο Καλλιάδης. Ἀλλὰ ταῦτα μὲν καὶ ἀριστοκρατουμένων καὶ δημοκρατουμένων τῶν Βυζαντίων, ἔτι δὲ καὶ τυραννουμένων κατὰ διαφόρους συμβέβηκε χρόνους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Ὡς δὲ τῇ τῶν ὑπάτων ἐπικρατείᾳ ἡ Ῥωμαίων ἀρχὴ πάσας ὑπερεβάλετο τὰς δυναστείας, κατεδούλωσε δὲ καὶ τὰ τῶν Ἑλλήνων ἔθνη, εἰκότως αὐτῇ καὶ Βυζάντιοι πειθόμενοι διετέλουν. Ἐπειδὴ δὲ μετά τινας χρόνους Σεβήρου βασιλεύσαντος τῆς Ῥώμης αὐτοὶ τὴν τοῦ τυραννήσαντος τῶν ἑῴων Νίγρου προτιμήσαντες ἐλπίδα εἰς χεῖρας ἐλθεῖν ἐτόλμησαν πρὸς τὸν αὐτοκράτορα, ἀφαιρεθέντες παρ’ αὐτοῦ τῶν πολιτικῶν δικαίων καὶ τῆς στεφάνης αὐτοῖς καταλυθείσης τοῦ τείχους Περινθίοις προσετάχθησαν δουλεύειν τοῖς καλουμένοις Ἡρακλεώταις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Παυσαμένου δὲ τῆς ὀργῆς τοῦ Σεβήρου αὖθις εἰς μείζονα κόσμον ἐπανῆλθον λουτρὸν μὲν αὐτοῖς μέγιστον κατὰ τὸν τοῦ Διὸς Ἱππίου βωμόν, ἤτοι τὸ Ἡρακλέους ἄλσος καλούμενον (ἔνθα τὰς Διομήδους αὐτόν φασι δαμάσαντα ἵππους Ζεύξιππον τὸν τόπον ὀνομάσαι), πολυτελῶς ἐγείραντος καὶ τὸν τούτῳ πλησιάζοντα χῶρον τῆς ἱπποδρομίας τοῖς τοῦ Διὸς ἀνακείμενον κούροις ἰκρίοις τε καὶ στοαῖς διακοσμήσαντος (ἔνθα καὶ νῦν οἱ καμπτῆρες δηλοῦσι τὰ τῶν ἐφόρων γνωρίσματα διὰ τῶν ἐπικειμένων ᾠῶν τοῖς χαλκοῖς ὀβελίσκοις), ἐπὶ δὲ τούτοις καὶ στρατιωτικὰ τέλη προσνείμαντος. Μέχρι μὲν οὖν περιῆν Σεβῆρος καὶ ὁ τούτου παῖς Ἀντωνῖνος, ἡ πόλις Ἀντωνίνα προσηγορεύετο· ἐπειδὴ δὲ † τοῖς θείοις τῶν βασιλέων ἀπεδόθη, αὖθις τὸ Βυζάντιον ὠνομάζετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Κωνσταντίνου δὲ τὸ Ῥωμαϊκὸν κῦρος παρειληφότος καὶ αὐτὴ Κωνσταντινούπολις ἐκλήθη, προθύμως ἀνασχομένη τὴν προσηγορίαν ἀνταλλάξαι τῇ ὑπερβαλλούσῃ τοῦ αὐτοκράτορος φιλοτιμίᾳ, θαυμαστὴν μὲν αὐτὴν ἀπεργασαμένου τῷ κάλλει, πόρρω δὲ μεταγαγόντος τὰ τείχη κατὰ τοὺς λεγομένους Τρωαδησίους ἐμβόλους, πρότερον αὐτῶν οὐκ ἔξω τῆς ἐπωνύμου ἀγορᾶς τοῦ βασιλέως κειμένων, λουτροῖς τε καὶ ἱεροῖς οἴκοις ἐπιδείξαντος φαιδροτέραν, δίκαιά τε πάντα πρὸς ζῆλον τῆς πρεσβυτέρας Ῥώμης δωρησαμένου, καθὰ καὶ ἐν τῷ Στρατηγίῳ λεγομένῳ φόρῳ, ἔνθα ποτὲ οἱ στρατηγοῦντες τῆς πόλεως ἄνδρες τὰς τιμὰς ὑπεδέχοντο, ἐπὶ λιθίνης ἀνέγραψε στήλης. Καὶ τῆς ἑαυτοῦ μητρὸς Ἑλένης ἐπὶ κίονος ἀνέστησεν ἄγαλμα καὶ τὸν τόπον ὠνόμασεν Αὐγουσταῖον· καὶ τοῖς ἀκολουθήσασιν αὐτῷ ἀπὸ τῆς μεγάλης Ῥώμης συγκλητικοῖς ἐφιλοτιμήσατο οἴκους, οὓς αὐτὸς κατεσκεύασεν ἐκ χρημάτων ἰδίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "Ἐπὶ δὲ τούτῳ [Κωνσταντίου τὴν ἀρχὴν διαδεξαμένου] καὶ ὁ τῶν ὑδάτων ὁλκὸς προσετέθη τῇ πόλει· ἀνέστησαν δὲ καὶ αἱ δύο ἀψίδες πρὸς τῷ καλουμένῳ φόρῳ καὶ ὁ πορφυροῦς καὶ περίβλεπτος κίων, ἐφ’ οὗπερ ἱδρῦσθαι Κωνσταντῖνον ὁρῶμεν δίκην ἡλίου προλάμποντα τοῖς πολίταις. Ἐπὶ δὲ τούτοις καὶ τοὺς τῆς συγκλήτου βουλῆς ἀνῳκοδόμησεν οἴκους, Σενάτα τούτους ὀνομάσας, ἐν οἷς καὶ τοῦ Δωδωναίου Διὸς ἀνέστησεν ἄγαλμα καὶ δύο τῆς Παλλάδος ἱδρύματα καὶ τὴν τῶν βασιλείων αὐλήν. Πάντα δὲ κατὰ τὸν εἰρημένον τρόπον πληρώσας ὁ Κωνσταντῖνος καὶ τὴν τῶν ἐγκαινίων ἡμέραν κατὰ τὴν ἑνδεκάτην τοῦ Μαΐου μηνὸς ἐπιτελέσας ἐν ἔτει τῆς βασιλείας αὐτοῦ εἰκοστῷ πέμπτῳ ἱπποδρόμιον θεωρήσας διέταξεν οὕτω τὴν αὐτοῦ στήλην ἐπὶ τοὺς ἐφεξῆς χρόνους τῇ τῶν γενεθλίων ἡμέρᾳ ὁρᾶσθαι μετὰ τῆς εἰθισμένης τιμῆς τῷ κατὰ καιρὸν βασιλεύοντι καὶ τῷ δήμῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "Οὕτω μὲν οὖν ἡ Κωνσταντινούπολις πρὸς τόδε τὸ μέγεθος ἐξενήνοχεν ἐκ διαδοχῆς βασιλευομένη μέχρι τῶν καθ’ ἡμᾶς χρόνων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "uws-ad",
+      "title": {
+        "english": "Historical Fragments on Palmatius",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παλματίου"
+      },
+      "url_slug": "hesychius-of-miletus-historical-fragments-uws-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "uws-ab",
+      "title": {
+        "english": "Homily-the Nativity of Christ, Possibly Part of Roman and Universal History",
+        "ancient_greek": "Ὁμιλία εἰς τὴν Γέννησιν τοῦ Χριστοῦ"
+      },
+      "url_slug": "hesychius-of-miletus-nativity-christ-uws-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/nativity-christ",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/nativity-christ.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/nativity-christ.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/nativity-christ.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/nativity-christ.json"
+      }
+    },
+    {
+      "eul_wid": "uws-ac",
+      "title": {
+        "english": "Origins of Constantinople (Excerpt)",
+        "ancient_greek": "Ἱστορία Κωνσταντινουπόλεως"
+      },
+      "url_slug": "hesychius-of-miletus-history-constantinople-ac-uws-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/history-constantinople-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-ac.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "brm-aa",
+      "title": {
+        "english": "Athenian Antiquities and Topography",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cleidemus-of-athens-ii-antiquities-topography-brm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleidemus-of-athens-ii/antiquities-topography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.json"
+      }
+    },
+    {
+      "eul_wid": "dlg-aa",
+      "title": {
+        "english": "Epeirotica: Oracles and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "proxenus-of-boeotia-oracles-myths-dlg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/proxenus-of-boeotia/oracles-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proxenus-of-boeotia/oracles-myths.json"
+      }
+    },
+    {
+      "eul_wid": "dny-ab",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "thucydides-epigram-dny-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "nhu-aa",
+      "title": {
+        "english": "Fragments on Mythological Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογικῆς Γενεαλογίας"
+      },
+      "url_slug": "akesandros-the-historian-mythological-genealogy-nhu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/akesandros-the-historian/mythological-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "yfq-aa",
+      "title": {
+        "english": "Fragments on Phoenician History",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φοινίκης Ἱστορίας"
+      },
+      "url_slug": "julius-pomponius-laetus-phoenician-history-yfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/julius-pomponius-laetus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-pomponius-laetus/phoenician-history.json"
+      }
+    },
+    {
+      "eul_wid": "fau-aa",
+      "title": {
+        "english": "Fragments on Spartan Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν"
+      },
+      "url_slug": "aristocrates-of-sparta-customs-fau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocrates-of-sparta/customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.json"
+      }
+    },
+    {
+      "eul_wid": "dxe-aa",
+      "title": {
+        "english": "On Sicily and Italy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiochus-of-syracuse-sicily-italy-dxe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiochus-of-syracuse/sicily-italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.json"
+      }
+    },
+    {
+      "eul_wid": "lcm-ab",
+      "title": {
+        "english": "On the Gods",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "apollodorus-of-athens-gods-lcm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-athens/gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens/gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens/gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens/gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-athens/gods.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hesychius-of-miletus/history-constantinople-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aqe",
+  "auth_slug": "sappho-and-alcaeus-of-lesbos",
+  "name": {
+    "english": "Sappho and Alcaeus of Lesbos",
+    "ancient_greek": "Σαπφώ καὶ Ἀλκαῖος"
+  },
+  "seo_h1": "Sappho and Alcaeus: Lyric Voices of Lesbos",
+  "seo": {
+    "browser_title": "Sappho and Alcaeus Lyric Poets on Eulogikon Greek Archive",
+    "meta_title": "Classical Sappho and Alcaeus Ancient Greek Lyric Poetry",
+    "meta_description": "Sappho and Alcaeus were lyric poets from Lesbos. Their surviving Aeolic verse fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Sappho and Alcaeus were two celebrated lyric poets from the island of Lesbos who lived and worked in the late seventh and early sixth centuries BCE. They were contemporaries from the city of Mytilene. Both came from aristocratic families and their lives were affected by the political conflicts of their time. Alcaeus was directly involved in struggles against local tyrants and experienced exile. Tradition holds that Sappho was also exiled to Sicily for a period.</p>\n<p class=\"research-text\">They composed their poetry in the Aeolic dialect of Greek for musical performance. According to modern scholars, their social contexts were distinct. Sappho’s poetry is associated with a private circle of women or girls, often interpreted as a ritual or educational community. Her work focuses intensely on personal themes of love, desire, and friendship from a female perspective. Alcaeus’s poetry was designed for the all-male drinking party, or symposion, and addresses politics, war, exile, and camaraderie.</p>\n<p class=\"research-text\">Their works survive only in fragments, recovered from ancient quotations and papyri. Sappho’s poems were once collected into several books; today, only one complete poem, the &quot;Ode to Aphrodite,&quot; and one other nearly complete poem survive, alongside many fragments. Alcaeus’s collected works are also lost, and no complete poem of his remains. He is credited with perfecting the Alcaic stanza, a poetic form later adopted by the Roman poet Horace.</p>\n<p class=\"research-text\">Their historical importance is profound. Sappho and Alcaeus are central figures in the development of ancient Greek lyric poetry. Sappho is renowned for her exploration of individual emotion and was called &quot;the Tenth Muse&quot; in antiquity. Alcaeus provides a vivid, firsthand account of the political strife in archaic Lesbos. Both poets significantly influenced later literature, particularly Roman poets like Horace, who imitated their meters and themes. Sappho’s legacy, in particular, has had an enduring impact on the Western tradition of love poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "aqe-aa",
+      "title": {
+        "english": "Fragments of Sappho and Alcaeus",
+        "ancient_greek": "Ἀποσπάσματα Σαπφοῦς καὶ Ἀλκαίου"
+      },
+      "url_slug": "sappho-and-alcaeus-of-lesbos-fragments-aqe-aa",
+      "passages": 55,
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-and-alcaeus-of-lesbos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-and-alcaeus-of-lesbos/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sappho-and-alcaeus-of-lesbos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-of-lesbos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-of-lesbos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-of-lesbos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sappho-and-alcaeus-of-lesbos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

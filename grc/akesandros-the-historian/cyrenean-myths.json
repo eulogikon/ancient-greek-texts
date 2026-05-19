@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nhu-ab",
+  "eul_aid": "nhu",
+  "author_slug": "akesandros-the-historian",
+  "work_slug": "cyrenean-myths",
+  "url_slug": "akesandros-the-historian-cyrenean-myths-nhu-ab",
+  "author": {
+    "english": "Akesandros the Historian",
+    "ancient_greek": "Ἀκέσανδρος ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Cyrenean Myths",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Κυρηναϊκῶν Μύθων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Akesandros the Historian on Eulogikon",
+    "meta_title": "Fragments on Cyrenean Myths by Akesandros in Greek",
+    "meta_description": "Akesandros the Historian preserves fragmentary accounts of Cyrenean mythology and local traditions from the Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as the Fragments on Cyrenean Myths is a lost text by the historian Akesandros, surviving only in two brief excerpts preserved by later authors. These fragments deal with mythological figures connected to the foundation and early history of the Greek colony of Cyrene in North Africa. The first fragment, preserved by Pseudo-Plutarch in his work <strong>On Rivers</strong>, discusses the river Lathon and provides a mythological explanation for its name. The second fragment, transmitted by the grammarian Herodian, concerns the nymph Cyrene, the city&#x27;s eponymous heroine, and engages with the genealogical lore central to the colony&#x27;s identity. The text is a representative example of Hellenistic local history and mythography, focusing on etiological narratives tied to Cyrene&#x27;s origins and its physical landscape. As a source for specifically Cyrenean legends, Akesandros&#x27;s work was consulted by later antiquarians and mythographers. The surviving fragments are now primarily valuable to scholars for studying the construction of local civic identity in the Hellenistic world and the complex interplay between local traditions and the broader corpus of Panhellenic myth.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "6bis.(l1)",
+      "text": "PAP. OX. 2637 fr. 5 col. 2, 5—15 (s. 2 p.; vol. 32, 1967, 144—146 [Taf. 14]; Schol. ‘Ibyk.‘ S 223a Page [Supplem. Lyr. Graec. 65]): ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6bis.(l1)",
+      "text": "[Ἴ]βυκος ἑ̣τέρωˈ[θι ]αν. [ ‘ἀ]π̣ὸ χθονὸς ἐς ˈ[ .. ] . [ .. ]α̣ν βαθ[ὺν ἀ]έ̣ρα τάμνων‘. Ἀˈ [ κ έ ]σαν̣δρος ἐ [ ν τοῖ ς ] Π̣ερὶ Κυρήνης ˈ τὸν πε[ρὶ] τοῦ τρ[ικ]ε̣φάλου μῦθον ˈ ἀναιρῶ̣[ν] φ̣ησιν̣ [α]ὐτὸν ἐπὶ τεθρίπˈπου ὀχ[ε]ῖσθαι μ̣[ετ]ὰ δύο παραβαˈτῶν ι[ ]νον, Τίμαιος (566 F 88 bis) δὲ ˈ [Χρυσάορι τρεῖς υἱοὺς (o.ä.)] εἶναι, Θεόδωˈ[ρος ]ς ἀλλή λοις ˈ [ ] . [ . ]βριν̣ον ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nhu-aa",
+      "title": {
+        "english": "Fragments on Mythological Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθολογικῆς Γενεαλογίας"
+      },
+      "url_slug": "akesandros-the-historian-mythological-genealogy-nhu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/akesandros-the-historian/mythological-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/mythological-genealogy.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-ao",
+      "title": {
+        "english": "Anonymous Corinthian",
+        "ancient_greek": "Ἀνώνυμος Κορίνθιος"
+      },
+      "url_slug": "historical-fragments-anonymous-corinthian-mmg-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/corinthian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.json"
+      }
+    },
+    {
+      "eul_wid": "cas-aa",
+      "title": {
+        "english": "Atthid Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "amelesagoras-of-chalcedon-atthid-cas-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/amelesagoras-of-chalcedon/atthid",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon/atthid.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon/atthid.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon/atthid.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/amelesagoras-of-chalcedon/atthid.json"
+      }
+    },
+    {
+      "eul_wid": "guy-aa",
+      "title": {
+        "english": "Chronicles and Homeric Studies",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "artemon-of-clazomenae-chronicles-homeric-studies-guy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/artemon-of-clazomenae/chronicles-homeric-studies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemon-of-clazomenae/chronicles-homeric-studies.json"
+      }
+    },
+    {
+      "eul_wid": "vae-ab",
+      "title": {
+        "english": "Chronography, Selections",
+        "ancient_greek": "Χρονογραφία"
+      },
+      "url_slug": "john-malalas-of-antioch-chronography-ab-vae-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.json"
+      }
+    },
+    {
+      "eul_wid": "bpe-aa",
+      "title": {
+        "english": "Fragments on Genealogies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογιῶν"
+      },
+      "url_slug": "andron-of-halicarnassus-i-genealogies-bpe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-halicarnassus-i/genealogies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-i/genealogies.json"
+      }
+    },
+    {
+      "eul_wid": "luo-aa",
+      "title": {
+        "english": "Historical Memoirs Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-viii-euergetes-historical-fragments-luo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ag",
+      "title": {
+        "english": "On Friends",
+        "ancient_greek": "Περὶ φίλων"
+      },
+      "url_slug": "paradoxographer-anon-friends-jre-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.json"
+      }
+    },
+    {
+      "eul_wid": "gea-aa",
+      "title": {
+        "english": "On the Daphne Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/akesandros-the-historian/cyrenean-myths",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/akesandros-the-historian/cyrenean-myths.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

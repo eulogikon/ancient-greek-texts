@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hgm",
+  "auth_slug": "alexander-the-great-letters",
+  "name": {
+    "english": "Alexander the Great Letters",
+    "ancient_greek": "Ἀλεξάνδρου τοῦ Μεγάλου Ἐπιστολαί"
+  },
+  "seo_h1": "Letters of Alexander the Great to Aristotle and Darius",
+  "seo": {
+    "browser_title": "Alexander the Great on Eulogikon Greek Archive Library",
+    "meta_title": "Alexander the Great Ancient Greek Epistles and Works",
+    "meta_description": "Alexander the Great, Macedonian king and conqueror. Surviving epistles attributed to him. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Alexander III of Macedon, known as Alexander the Great, was born in 356 BCE and died in 323 BCE. Tutored by Aristotle and the successor to his father, Philip II, he forged a vast empire stretching from Greece to the Indus Valley. A body of correspondence attributed to him, known as the Letters of Alexander the Great, exists. This epistolary corpus is pseudepigraphical, meaning it was composed by later authors rather than being contemporary historical documents from Alexander&#x27;s own lifetime.</p>\n<p class=\"research-text\">The extant collection is fragmentary, preserved within the works of later historians and through manuscript traditions. It comprises a set of pseudepigraphical letters and is not a single cohesive literary work.</p>\n<p class=\"research-text\">This collection is a key example of ancient pseudepigrapha and forms part of the broader Alexander Romance tradition. The letters were composed between the 3rd century BCE and the 2nd century CE. They were used to lend authority to various narratives or to illustrate and define Alexander&#x27;s character, thereby shaping his posthumous legendary image. Historians like Plutarch and Arrian used these sources cautiously. The corpus remains vital for understanding the literary construction of Alexander&#x27;s myth throughout the Hellenistic, Roman, and medieval periods.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hgm-aa",
+      "title": {
+        "english": "Letters to Aristotle and Darius",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἀριστοτέλην καὶ Δαρεῖον"
+      },
+      "url_slug": "alexander-the-great-letters-aristotle-darius-hgm-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-the-great-letters/aristotle-darius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-the-great-letters/aristotle-darius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-the-great-letters/aristotle-darius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-the-great-letters/aristotle-darius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-the-great-letters/aristotle-darius.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/alexander-the-great-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-the-great-letters.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-the-great-letters.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-the-great-letters.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-the-great-letters.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "afk",
+  "auth_slug": "sack-of-ilium",
+  "name": {
+    "english": "Sack of Ilium",
+    "ancient_greek": "Ἰλίου πέρσις"
+  },
+  "seo_h1": "Fragments of the Anonymous Sack of Ilium",
+  "seo": {
+    "browser_title": "Sack of Ilium Epic Cycle Poem on Eulogikon Greek Archive",
+    "meta_title": "Classical Sack of Ilium Ancient Greek Epic Cycle Poem Works",
+    "meta_description": "Anonymous 7th century BCE epic poem, part of the Epic Cycle. Fragments recount the fall of Troy. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Sack of Ilium is an ancient Greek epic poem from the 7th century BCE. It is not the work of a single known author but an anonymous composition that formed part of the Epic Cycle, a series of poems that told the complete story of the Trojan War. In later antiquity, the poem was attributed to a poet named Arctinus of Miletus, who was said to be a pupil of Homer. However, modern scholars treat the work as anonymous, a product of the same oral and early literary traditions in Ionia that produced the Homeric epics.</p>\n<p class=\"research-text\">The poem itself is now lost, surviving only in a later prose summary and a handful of fragments. It narrated the final chapter of the Trojan War, covering the Greeks&#x27; construction of the Wooden Horse, the subsequent sack of the city of Troy, and the fates of its captured citizens. The Sack of Ilium was historically important for providing the canonical early account of Troy&#x27;s fall. It connected the events at the end of Homer&#x27;s Iliad to the stories of the Greek heroes&#x27; returns home.</p>\n<p class=\"research-text\">The poem established key legendary episodes—like the trick of the Wooden Horse and the death of the Trojan prince Astyanax—that became central to the myth for later Greek and Roman writers. Its plot summary served as a primary source for later adaptations, most famously in Virgil&#x27;s Aeneid, demonstrating how the full story of the Trojan War was once contained in a much broader cycle of epic poetry.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "afk-aa",
+      "title": {
+        "english": "Sack of Ilium Fragments",
+        "ancient_greek": "Ἰλίου Πέρσις Ἀποσπάσματα"
+      },
+      "url_slug": "sack-of-ilium-fragments-afk-aa",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/sack-of-ilium/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/sack-of-ilium",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sack-of-ilium.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sack-of-ilium.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sack-of-ilium.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sack-of-ilium.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

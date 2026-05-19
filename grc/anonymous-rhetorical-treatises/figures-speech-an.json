@@ -1,0 +1,468 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rhg-an",
+  "eul_aid": "rhg",
+  "author_slug": "anonymous-rhetorical-treatises",
+  "work_slug": "figures-speech-an",
+  "url_slug": "anonymous-rhetorical-treatises-figures-speech-an-rhg-an",
+  "author": {
+    "english": "Rhetorical Treatise Anonymous",
+    "ancient_greek": "Ἀνώνυμος ῥητορικὸς λόγος"
+  },
+  "title": {
+    "english": "On the Figures of Speech",
+    "ancient_greek": "Περὶ τῶν σχημάτων τοῦ λόγου"
+  },
+  "seo": {
+    "browser_title": "On the Figures of Speech by Anonymous on Eulogikon",
+    "meta_title": "Classical On the Figures of Speech in Ancient Greek",
+    "meta_description": "This anonymous rhetorical treatise examines the figures of speech employed in both thought and diction. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Figures of Speech is an anonymous Greek rhetorical treatise that systematically catalogs and defines the various figures of speech employed in oratory. Structured as a practical handbook, it classifies these figures into two primary categories: those pertaining to thought and those pertaining to diction. The work proceeds to offer clear definitions and illustrative examples for a wide array of specific techniques, including procorrection, epanaphora, and personification. Its purpose is explicitly instructional, providing students and practitioners of rhetoric with a technical reference for the mechanics of oratorical style, emphasizing the utility of these figures for constructing persuasive and aesthetically effective discourse. As a representative example of a common genre in Hellenistic and later rhetorical education, the treatise transmits an ancient taxonomic system that was subsequently inherited by Roman rhetoricians and continued to exert a profound influence on literary and rhetorical theory well into the early modern period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3.174.(1t)",
+      "text": "ΑΝΩΝΥΜΟΥ ΠΕΡΙ ΤΩΝ ΣΧΗΜΑΤΩΝ ΤΟΥ ΛΟΓΟΥ. Τῶν τοῦ λόγου σχημάτων τὰ μέν εἰσι κατ’ ἔννοιαν, τὰ δὲ κατὰ λέξιν. τὰ μὲν δὴ κατ’ ἔννοιαν σχήματα ταῦτά ἐστι, προδιόρθωσις, ἐπιδιόρθωσις, ἀμφιδιόρθωσις, προκατάληψις, ὑπεξαίρεσις, αἰτιολογία, συναθροισμός, ἐπιμονή, λεπτολογία, ἠθοποιΐα, προσωποποιΐα, ἐπιτροχασμός, ἀποσιώπησις, παράλειψις, ἀποστροφή, διαπόρησις, ἀντεισαγωγή, μετάστασις, διασυρμός, ἐπανάληψις, ἐπαναφορά. αʹ. ΠΡΟΔΙΟΡΘΩΣΙΣ. Ἐστὶ μὲν οὖν ἡ προδιόρθωσις, ἣ θεραπεύει τὸ ῥηθησόμενον, πρὶν ἢ ῥηθῆναι, ὡς δυσπαράδεκτον, ὁποῖόν ἐστὶ τὸ τολμᾷ τι νεανικὸν ὁ λόγο ς , θεὸς θεοῖς ἡγούμενος καὶ γνωριζόμενο ς , τολμηρὸν γὰρ ἦν τοῦτο, διὸ προθεραπεύει οἰκονομικῶς. βʹ. ΕΠΙΔΙΟΡΘΩΣΙΣ. Ἐπιδιόρθωσις δέ ἐστι μὲν τὸ αὐτό, πλὴν ἐπάγει τὴν θεραπείαν ὕστερον, ἀλλ’ οὐ πρότερον, ὡς προδιόρθωσις· ἐμφαίνει γὰρ ἐν μὲν ἐκείνῳ ἡ πρὸ τὸ πρότερον, ἐν δὲ τούτῳ ἡ ἐπὶ τὸ ὕστερον, ὁποῖόν ἐστι τὸ αἰσθάνομαι ἔξω τοῦ καιροῦ καὶ τοῦ μέτρου φερόμενο ς . πρότερον γὰρ τὴν κειμένην ἀφεὶς ὑπόθεσιν καὶ τὸ πανηγυρίζειν ἐπὶ τὸ δογματίζειν καὶ τὸ θεολογεῖν μετέπεσεν, ὃ θεραπεῦσαι ἔγνω διὰ τούτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.175",
+      "text": "γʹ. ΑΜΦΙΔΙΟΡΘΩΣΙΣ. Ἀμφιδιόρθωσις δέ ἐστι μῖξις ἀμφοῖν, ἡ γὰρ ἀμφὶ ἡ αὐτὴ οὖσα τῇ περὶ εἴληπται ἐνταῦθα τὴν κύκλῳ σημαίνουσα σχέσιν· λέγεται οὖν ἀμφιδιόρθωσις ἡ καὶ πρότερον καὶ ὕστερον θεραπεύουσα τὸ λεγόμενον, ἂν δυσπαράδεκτον ᾖ ἢ τῷ μεγέθει ἢ τῷ ἀσυνήθει. δʹ. ΠΡΟΚΑΤΑΛΗΨΙΣ. Προκατάληψις λέγεται ἡ προεκλύουσα τὸν τοῦ ἀντιδίκου λόγον, ὃν εἶπεν ὡς ἰσχυρόν, καὶ οἴεται μηδεμίαν ἔχειν αὐτὸν ἀντιλογίαν, οἷον τίς λόγος αὐτῷ τῶν ἀφύκτω ν ; τά χ ’ ἂν ἐπὶ τόνδε καταφύγοι ἄ ν , ἀλ λ ’ οὐκ ἔστ ι . εʹ. ΥΠΕΞΑΙΡΕΣΙΣ. Ὑπεξαίρεσις δὲ γίνεται, ὅταν ὑπεξελών τις πρόσωπον ἢ πρᾶγμα ὡς μέγα καὶ ὑπεροχικὸν πρὸς τὰ λοιπὰ ποιῆται τὴν σύγκρισιν, οἷον τὸ ὁ μετὰ Ἡλίαν μετάρσιο ς , ὁ μετὰ Μωσέα θεόπτη ς , καὶ ἔτι ὁ μετὰ τὸν ἀποστάτην ἀποστάτη ς , καὶ τὸν διώκτην διώκτη ς . ϛʹ. ΑΙΤΙΟΛΟΓΙΑ. Αἰτιολογία δέ ἐστιν ἡ αἰτίαν ἀποδιδοῦσα καὶ λόγον τοῦ εἰρημένου, οἷον τὸ παρὰ τῷ αὐτῷ, τὸν αὐτὸν πνεῦμα καὶ σάρκ α , πνεῦμα διὰ τὴν χάρι ν , σάρκα κατὰ τὴν ἔπαρσι ν · αἰτίαν γὰρ ἐκφαίνει πάντως τὸ ἐπαγόμενον καὶ οἱονεὶ θεραπείαν τοῦ λόγου, πῶς ὁ αὐτός ἐστι καὶ πνεῦμα καὶ σάρξ. ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.176.(1t)",
+      "text": "ΣΥΝΑΘΡΟΙΣΜΟΣ. Συναθροισμὸς δέ ἐστι συναγωγὴ πραγμάτων πλειόνων εἰς κεφάλαιον ἓν δηλωτικὸν πολλῶν, εἰ καὶ ἑνικῶς λέγεται, ἢ κατ’ ἔμφασιν, οἷον συζυγίαι σχιζόμενα ι , γένη ῥηγνύμεν α · ἰδοὺ γὰρ τὸ συζυγία καὶ τὸ γένος ἔοικεν ἕν τι εἶναι, τὸ δὲ ἕκαστον πολλά ἐστιν. ηʹ. ΕΠΙΜΟΝΗ. Ἐπιμονὴ δὲ ἡ ἐπὶ τοῦ αὐτοῦ καὶ ἑνὸς πράγματος ἀργία καὶ ἀναστροφὴ χάριν αὐξήσεως, οἷον τὸ πόλιν τῆς οἰκουμένης ὀφθαλμό ν , γῆς καὶ θαλάσσης ὅτι κράτιστο ν , ἑῴας καὶ ἑσπερίας λήξεως σύνδεσμο ν · ἰδοὺ γὰρ ὀφθαλμὸν τῆς οἰκουμένης εἰπὼν ἐπέμεινε τῷ λόγῳ καὶ διεῖλε μὲν τὴν οἰκουμένην εἰς γῆν καὶ θάλατταν, καὶ κράτιστον ὠνόμασε κατὰ σύγκρισιν τὴν πόλιν, εἶτα πάλιν ἐπιδιεῖλε τοπικῶς κατὰ τὰς δύο σχέσεις, καὶ αὖθις ἐθαύμασε τὴν πόλιν, σύνδεσμον αὐτὴν εἰπὼν ἑῴας λήξεως καὶ ἑσπερίας μέγιστον εἰς θαῦμα τὸ τοσοῦτον δύνασθαι, ὡς καὶ συνδεῖν ταύτας. θʹ. ΛΕΠΤΟΛΟΓΙΑ. Λεπτολογία δέ ἐστιν ἡ ἕκαστον τῶν συμβαινόντων διεξιοῦσα ἀκριβῶς καὶ λεπτομερῶς, ὡς μονονοὺ δακτυλοδεικτεῖν δοκεῖν τὸ πρᾶγμα ὡς ἄρτι γινόμενον, οἷον ἀνάπτεται πῦ ρ , δαπανᾶται ἡ ναῦ ς , συνδαπανᾶται ὁ φόρτο ς , συναπόλλυται τὰ ἐν αὐτῇ πάντ α , πῦρ ὕδατι μίγνυτα ι , καὶ πυρσὸς ὑπὲρ θαλάττης αἴρεται ξένο ς . ἐνῆν γὰρ ἁπλῶς οὕτω φάναι, ὡς ἡ ναῦς ἔργον πυρὸς ἐγεγόνει, ἀλλ’ οὐκ ἂν ἦν οὕτω φανερὸν τὸ πάθος, διὸ διὰ τῆς ἀκριβείας οἱονεὶ νῦν ἁπτόμενον ἔδειξε τὸ πῦρ, καὶ τὴν ναῦν φλογιζομένην, καὶ τὸν φόρτον συνδαπανώμενον, καὶ πάντα τὰ ἐν αὐτῇ καὶ τὰ ἑξῆς. ιʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.177.(1t)",
+      "text": "ΗΘΟΠΟΙΙΑ. Ἠθοποιΐα ἐστὶν ἡ λόγους ἀψύχοις περιτιθεῖσα πράγμασιν ἢ ἀλόγοις, οἷον τίνας ἂν εἴποι λόγους ναῦς ἐκ κλύδωνος καὶ τρικυμίας ἐλαυνομένη ἐς ἀπορρῶγας πέτρας, καὶ μέλλουσα προσαρράττεσθαί τε καὶ καταποντίζεσθαι, ἢ γῆ ῥηγνυμένη ὑπὸ σεισμῶν βίας· δεῖ γὰρ ἀκριβῶς ἀπομιμεῖσθαι τὸν πλαττόμενον τὰ πράγματα. ιαʹ. ΠΡΟΣΩΠΟΠΟΙΙΑ. Προσωποποιΐα δέ ἐστι προσώπου διάπλασις ἢ μηδέποτε γενομένου, ἢ γενομένου μέν, οὐκέτι δὲ νῦν ὄντος, οἷον τὸ παρὰ τῷ θεολόγῳ ἐν τῷ περὶ φιλοπτωχίας, μέμνηται μήτηρ ὠδίνων καὶ τὰ σπλάγχνα σπαράττετα ι , καὶ ἀνακαλεῖτα ι , λέγουσα λίαν ἐλεεινῶ ς , τέκνον δυστυχέ ς , τέκνον ἐλεεινό ν , καὶ τὰ ἑξῆς· εἰσάγει γὰρ οὐκ οὔσας μὲν πλὴν ὡς οὔσας τὰς μητέρας, ἵνα κατολοφυρομένων ἐκείνων καὶ παθαινομένων, καὶ ἄξια ἐλέου λεγόντων δυνηθῇ τὰς τῶν ἀκουόντων καρδίας πρὸς ἔλεον ἐπισπάσασθαι, ὅπερ ἀδύνατον ἦν ἄλλως δι’ ἑαυτοῦ ποιῆσαι καὶ ἀπρεπές. ιβʹ. ΕΠΙΤΡΟΧΑΣΜΟΣ. Ἐπιτροχασμός ἐστι σχῆμα προσκείμενον τῷ τε συναθροισμῷ καὶ τῇ ἐπιμονῇ· συναθροισμὸς γάρ ἐστιν ἕνωσις πλειόνων πραγμάτων κεφαλαιώδης ἢ λόγων, ἐπιμονὴ δὲ πολλαπλασιασμὸς τοῦ αὐτοῦ νοήματος δι’ ἑτέρων λέξεων σημαινουσῶν τὸ αὐτό· διαφέρει δὲ τούτων ὁ ἐπιτροχασμός, ὅτι τὰ πολὺ διεστῶτα συνάγει, οἷον ὑπεσπῶντο σύνοδο ι , πρόσοδοι διηρπάζοντ ο · συναθροισμὸν γὰρ ἐποίησεν εἰπὼν συνόδους καὶ προσόδους πληθυντικῶς. ἐπέμεινε δὲ τῷ αὐτῷ πράγματι, διάφορα λέγων, εἰ καὶ πρὸς ἓν τέλος ἀφορῶσιν· ἕτερον γὰρ ὑπόσπασις συνόδων, καὶ ἕτερον ἁρπαγὴ προσόδων, καὶ ὅσα τοιαῦτα ἐπάγει ἐν τῷ εἰς τὸν μέγαν Βασίλειον ἐπιταφίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.178",
+      "text": "ιγʹ. ΑΠΟΣΙΩΠΗΣΙΣ. Ἀποσιώπησίς ἐστι λόγος παραλείπων τὸ γινωσκόμενον καὶ σιωπῶν τὸ αἰσχρόν· δεῖ γὰρ μετὰ τῶν ἄλλων καὶ τοῦτο σκοπεῖν τὸν γράφοντα, ὥστε μὴ μολῦναι τὴν γλῶτταν ἢ τὰ γράμματα ἢ τοὺς ἀκούοντας αἰσχροῖς λόγοις, ὁποῖον δή τι συμβαῖνον καὶ ὁ θεολόγος ἐνιδὼν τῷ αὑτοῦ λόγῳ παρέδραμεν οἰκονομικῶς, ἀμυδρῶς ἐμφήνας καὶ τὸ αἶσχος τῶν Ἑλληνικῶν ὕθλων καὶ τὴν νέμεσιν διεκφυγών, οἷον οἶδεν Ἐλευσὶς ταῦτα καὶ οἱ τῶν σιωπωμένων καὶ σιωπῆς ὄντως ἀξίων ἐπόπτα ι · διὰ γὰρ τοῦ εἰπεῖν σιωπῆς ὄντως ἀξίων ὡς πλείστην ὑπέφηνε τὴν ὕβριν καὶ πρεπόντως ἐστηλίτευσε. ιδʹ. ΠΑΡΑΛΕΙΨΙΣ. Παράλειψις δὲ γίνεται, ὅταν προσποιούμενοί τι παραλείπειν καὶ ἐᾶν ἐν τῷ συγγράμματι ἡμεῖς οὐδὲν ἧττον λέγωμεν. οἷον τὸ εἰ μὲν οὖν ἑώρων αὐτὸν γένει καὶ τοῖς ἐκ γένους φιλοτιμούμενο ν , καὶ μετὰ βραχύ, ἄλλος ἂν ἡρώων ὤφθη κατάλογο ς , καὶ μετ’ ὀλίγα, πολλὰ μὲν γὰρ ὁ πόντος ἡμῖν αὐτοῦ προβλύει τὰ διηγήματ α , καὶ ὅσα ἑξῆς φησιν ἐν σχήματι παραλείψεως. καὶ ἀλλαχοῦ, τὸν γὰρ Πρωτέα παρίημι τοῦ μύθο υ , τὸν Αἰγύπτιον σοφιστή ν · παραλείπειν γὰρ λέγων οὐδὲν ἧττον ἡμῖν αὐτὸν ὑπέγραψεν, ὀνομάσας Πρωτέα καὶ σοφιστὴν καὶ Αἰγύπτιον, προσθεὶς δὲ καί, ὡς πλάσμα καὶ μῦθος ὁ περὶ ἐκείνου λόγος καὶ οὐκ ἀληθής. ιεʹ. ΑΠΟΣΤΡΟΦΗ. Ἀποστροφή ἐστιν ἀφ’ ἑτέρου προσώπου πρὸς ἕτερον πρόσωπον νεῦσις καὶ μετάβασις, οἷον ὡς δὲ εἶχον αὐτῷ κατὰ νοῦν τὰ πλησίο ν , καὶ τὰ ἑξῆς, εἶτ’ ἐπάγει, οὕτως ἤδη πειρᾶται εὐηθέστατε σὺ κατὰ τοσούτου κλήρο υ , καὶ ἐν τῷ περὶ τοῦ πάσχα λόγῳ· μετὰ γὰρ τοὺς μακροὺς καὶ λαμπροὺς λόγους ἐπιστραφεὶς πρὸς τὸ ἡμῶν ἁπάντων τῶν Χριστιανῶν ἀληθὲς πάσχα, οὗ τύποι ταῦτα, καθὼς ὁ αὐτὸς θεολόγος διδάσκει, αὐτὸν ἐρωτικῶς ἀνυμνεῖ καὶ θεοπρεπῶς, οἷον ἀλ λ ’ ὦ πάσχα τὸ μέγα καὶ ἱερώτατο ν , Χριστ έ , καὶ τὰ ἑξῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.179",
+      "text": "ιϛʹ. ΔΙΑΠΟΡΗΣΙΣ. Διαπόρησις δέ ἐστιν ἀμφιβολία περί τινος πράγματος, ὅταν διττὰς ἢ καὶ πλείους ἐννοίας ἔχωμεν περὶ αὐτοῦ, ἀμφιβάλλοντες, ὁποτέρα τούτων ἀληθὴς ἀναμφιβόλως, οἷόν τι τῷ αὐτῷ περὶ τοῦ φωτισμοῦ καὶ τῆς τάξεως τῶν ἀγγέλων διηπόρηται, λέγοντι, οὐκ οἶδ α , εἴτε τῇ τάξει τῆς στάσεως μεριζομένη τὸν φωτισμό ν , εἴτε τῷ φωτισμῷ τὴν τάξιν λαμβάνουσ α . ιζʹ. ΕΡΩΤΗΜΑ. Ἐρώτημά ἐστιν, ᾧ ἐπάγεται διὰ κατανεύσεως ἢ ἀπονεύσεως σύντομος ἡ ἀπόκρισις, λέγω ναὶ ἢ οὔ, οἷον τὸ οὐ δέχῃ μετάνοια ν ; ἢ οὐδὲ τὸν ἐν Κορίνθῳ δέχῃ παρανομήσαντ α ; ἐπαχθήσεται γὰρ ἐπιτομωτάτη πάντως ἡ ἀπόκρισις ἢ διὰ συγκαταθέσεως ἢ ἀποφάσεως. ιηʹ. ΠΥΣΜΑ. Πύσμα δέ ἐστιν, ᾧ ἐπάγεται μὲν ἀπόκρισις μακρὰ μέντοι καὶ διὰ πλειόνων τῶν λέξεων, οἷον τὸ ἐπὶ ποίας τοίνυν ἰτέο ν , καὶ τίνας φυλακτέο ν · οὐ γάρ ἐστιν ἐπὶ τῶν τοιούτων ναὶ ἢ οὐ ἀποκρίνασθαι, ἀλλὰ διεξοδικῶς χρεία τὴν ἀπόκρισιν ποιήσασθαι, ἵνα γνώριμος γίνηται τῷ ἐρωτῶντι, οἷον ἐπὶ ταύτης ἰτέον μᾶλλον ἢ ἐπ’ ἐκείνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.180",
+      "text": "ιθʹ. ΔΙΑΤΥΠΩΣΙΣ. Διατύπωσις δέ ἐστι λόγος διηγηματικὸς ὑπ’ ὄψιν ἄγων καὶ οἱονεὶ ζωγραφῶν τὰ πάλαι ποτὲ γενόμενα, ὡς τέμοι μὲν τὴν ἐρυθρὰν Μωυσῆς ῥάβδ ῳ , διέλθοι δ ’ ὁ Ἰσραή λ , καταποντισθείη δὲ σὺν ἱππεῦσιν ὁ Φαρα ώ . ἢ αὖθις, καὶ γὰρ ἦν θρηνῶν καὶ ὀδυρμῶν ὄντως ἄξι α , πῶς δ ’ οὐ τῶν μεγίστω ν , τείχη κατεσκαμμέν α , πόλεις ἠφανισμένα ι , καὶ τὰ ἑξῆς. κʹ. ΑΝΤΕΙΣΑΓΩΓΗ. Ἀντεισαγωγὴ δέ ἐστιν ἡ ἀντεισάγουσα εὐαρμόστως ἀνθ’ ἑτέρου πράγματος ἕτερον πρᾶγμα ἢ κατὰ συμβουλὴν ἢ παραμυθίαν, οἷον τὸ λυπεῖ σε τὸ τῆς διαζεύξεω ς , εὐφραινέτω τὸ τῆς ἐλπίδο ς . καὶ ἔτι ὁμοίως, δριμὺς ὁ χειμώ ν , ἀλλὰ γλυκὺς ὁ παράδεισο ς , ἀλγεινὴ ἡ πῆξι ς , ἀλ λ ’ ἡδεῖα ἡ ἀπόλαυσι ς · ἰδοὺ γὰρ συμβουλευτικῶς καὶ παραμυθητικῶς ἀνθ’ ἑτέρου ἕτερον παρίστησιν, ὥστε πεῖσαι μὴ ἐνδοῦναι. καʹ. ΜΕΤΑΣΤΑΣΙΣ. Μετάστασις δὲ γίνεται, ὅταν ἀφ’ ἑαυτῶν μεθιστῶμεν τὴν αἰτίαν εἰς ἕτερον, οἷον οὐ τοῦ ἀμήσαντος ὁ στάχυ ς , ἀλλὰ τοῦ σπείραντο ς , οὐδὲ τῆς τεκούσης ὁ παῖ ς , ἀλλὰ τοῦ καταβαλόντος τὸ σπέρμ α . ὡς πρώτων αἰτίων ὄντων ἐκείνων τῆς ὑπάρξεως. κβʹ. ΔΙΑΣΥΡΜΟΣ. Διασυρμός ἐστι λόγος διαβάλλων τι οὐκ ἐπὶ τῷ ἀποφαυλίσαι, ἀλλὰ μᾶλλον ὡς ἀξιόπιστον θαυμάζων, οἷον τάχα ἂν ὀνειδίσαις τὸν σταυρὸν καὶ τὸν θάνατο ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.181",
+      "text": "κγʹ. ΕΠΑΝΑΛΗΨΙΣ. Ἐπανάληψις δέ ἐστιν ἀνάληψις προειρημένου τινός, μεταξυλογίας ἐμβεβλημένης, ἵνα τὴν διὰ μεσολαβησάντων λόγων ἐγγενομένην λήθην λήσῃ καὶ πρὸς μνήμην ἀγάγῃ τοῦ πρότερον εἰρημένου, οἷον ἐπειδὴ φθόνῳ διαβόλου καὶ γυναικὸς ἐπηρεί ᾳ , ἥ τε ἔπαθεν ὡς ἁπαλωτέρα καὶ ἣ προσήγαγεν ὡς πιθανωτέρ α , εἶτα διὰ πλειόνων ἐλθὼν ἐπανάληψιν αὖθις ποιησάμενός φησιν, ἐπειδὴ ταῦτα δῆθεν μείζονος ἐδεῖτο βοηθήματο ς , μείζονος καὶ τυγχάνε ι . κδʹ. ΕΠΑΝΑΦΟΡΑ. Ἐπαναφορὰ δὲ κώλων πλειόνων ἢ ῥημάτων ἀπὸ τῆς αὐτῆς λέξεως ἀρχομένων, οἷον Χριστὸς γεννᾶτα ι , δοξάσατ ε , Χριστὸς ἐξ οὐρανῶ ν , ἀπαντήσατ ε . καὶ ἀλλαχοῦ, τί λύετε τάξιν ἐπαινουμένη ν , τί βιάζεσθε γλῶτταν νόμῳ δουλεύουσα ν . γίγνεται δὲ καὶ ἔτι ἐπαναφορά, οἷον τὸ παρὰ τοσούτοις γὰρ οἱ ἡμέτεροι παιδευτα ί , πα ρ ’ ὅσοις Ἀθῆνα ι , παρὰ τοσούτοις δ ’ ἡμεῖ ς , παρὰ ὅσοις οἱ παιδευτα ί . γίγνεται πάλιν ἐπαναφορά, καὶ ὅταν τῇ ἀρχούσῃ λέξει ἕτεραι ἰσοδυναμοῦσαι ληφθεῖεν ἐπὶ τῶν ἄλλων κώλων, οἷον ἡ ἐκ τῆς ἀρχῆς ἀρχ ή , τὸ ἐκ τοῦ φωτὸς φῶ ς . καὶ ἔτι ὁ ἀόρατος ὁρᾶτα ι , ὁ ἀναφὴς ψηλαφᾶτα ι . Τοσαῦτα μὲν οὖν καὶ τοιαῦτα τὰ κατ’ ἔννοιαν σχήματα, τὰ δὲ κατὰ λέξιν ταῦτά ἐστι· ταυτολογία, παλιλλογία, ἀναδίπλωσις, ἀντιστροφή, σύνθεσις, ἐπάνοδος, κλιμακωτόν, προδιασάφησις, ἀλλοίωσις, ἥτις γίνεται ἢ κατὰ γένος ἢ ἀριθμὸν ἢ πτῶσιν, καὶ ἔτι ἐνεργείας καὶ πάθη καὶ χρόνους· πολύπτωτον, μεταβολή, ζεῦγμα, παρήχησις, ὁμοιοτέλευτον, πάρισον, ὁμοιόπτωτον, ἀσύνδετον, ἀντίθετον, σύγκρισις, ἀντεναντίωσις, προαπάντησις, ὑπαλλαγή, περίφρασις καὶ ὑπερβατόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.182",
+      "text": "αʹ. ΤΑΥΤΟΛΟΓΙΑ. Ταυτολογία μὲν οὖν ἐστιν ἐν ταὐτῷ λέξεων παράλληλος θέσις, τὸ αὐτὸ σημαινουσῶν, οἷον ὀξεῖς καὶ ταχεῖς, ἀλλ’ οὐ νωθεῖς καὶ βραδεῖς· πᾶσαι γὰρ ἐν ταὐτῷ τὸ αὐτὸ σημαίνουσιν, ὀξεῖς μὲν καὶ ταχεῖς καταφατικῶς τὸ αὐτὸ σημαίνουσιν, νωθεῖς δὲ καὶ βραδεῖς τοὐναντίον, αἷς συνταχθὲν καὶ τὸ οὐ ἀποφατικὰς ἑαυτῶν ἐποίησε καὶ συμφώνους τοῖς προτέροις. βʹ. ΠΑΛΙΛΛΟΓΙΑ. Παλιλλογία ἐστὶ λέξις ἢ φράσις τοῦ μὲν προηγουμένου κώλου κατάληξις, ἡ αὐτὴ δὲ τοῦ ἑπομένου γενομένη ἀρχή, οἷον τὸ πάλιν Ἰησοῦς ὁ ἐμό ς , καὶ πάλιν μυστήριο ν , μυστήριον οὐκ ἀπατηλό ν , οὐδὲ ἄκοσμο ν . τὸ γὰρ μυστήριον κατάληξις ὂν τοῦ προτέρου κώλου, ἀρχὴ τοῦ δευτέρου ἐγένετο, καὶ δευτερολογίαν ἐποίησεν ἤτοι παλιλλογίαν. γʹ. ΑΝΑΔΙΠΛΩΣΙΣ. Ἀναδίπλωσις δέ ἐστι λέξεως τῆς αὐτῆς ἅμα ἐπάλληλος προφορά, οἷον Κύρι ε , Κύρι ε , μὴ ἀποστῇς ἀ π ’ ἐμο ῦ · εἰ γίνεται ὁ αὐτὸς τύπος καὶ μεταξὺ ἐμβεβλημένης λέξεως, οἷον οὐκ ἔστι ταῦτ α , οὐκ ἔστ ι · τὸ γὰρ ταῦτα μεσολαβοῦν οὐ καταλύει τὸ σχῆμα. δʹ. ΑΝΤΙΣΤΡΟΦΗ. Ἀντιστροφὴ ἐναντία ἐστὶ τῇ ἐπαναφορᾷ, ὅτι εἰς τὸ αὐτὸ καταλήγει, οἷον θελῆσαι δεῖ μόνο ν , ὁρμῆσαι δεῖ μόνο ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.183",
+      "text": "εʹ. ΣΥΜΠΛΟΚΗ. Συμπλοκή ἐστι σύνθεσις ἔκ τε τῆς ἐπαναφορᾶς καὶ τῆς ἐπαναστροφῆς, ὧν ὡραῖοι μὲν οἱ πόδες εὐαγγελιζομένων εἰρήνην καὶ ἀγαθ ά , με θ ’ ὧν ἐληλύθατ ε , ὡραῖοι δὲ τὰ πρὸς ἡμᾶ ς , οἷς εἰς καιρὸν ἐληλύθατ ε . διὰ μὲν γὰρ τῆς τοῦ ὡραῖοι προσθήκης ἐν ταῖς τῶν κώλων ἀρχαῖς ἐποίησεν ἐπαναφοράν, διὰ δὲ τῆς τοῦ ἐληλύθατε διπλῆς καταλήξεως τὴν ἀναστροφήν, καὶ ἐν ἑκατέρῳ γὰρ κώλῳ τὰς αὐτὰς ἔχει ἀρχάς, καὶ ἔτι τὰς αὐτὰς καταλήξεις. ϛʹ. ΕΠΑΝΟΔΟΣ. Ἐπάνοδος γίνεται, ὅταν δύο τινὰ προθέντες κεκρυμμένας ἔτι διανοίας ἔχοντα ἐπανίωμεν εἰς αὐτὰ καὶ σαφηνίζωμεν εὐκρινείας χάριν καὶ ποικιλίας, οἷον διττοῦ δὲ ὄντος λόγου παντό ς , καὶ τοῦ μὲν τὸ οἰκεῖον κατασκευάζοντο ς , τοῦ δὲ τὸ ἀντίπαλον καθαιροῦντος καὶ ἀνατρέποντο ς , καὶ ἡμεῖς τὰ οἰκεῖα ἐκθέμενοι πρότερον οὕτω τὰ τῶν ἐναντίων ἀνατρέψαι πειρασόμεθ α . ζʹ. ΚΛΙΜΑΚΩΤΟΝ. Κλιμακωτὸν δέ ἐστιν ἄριστον καὶ πρόξενον κόσμου τοῖς συγγράμμασι, χρώμεθα δὲ ἅπαξ πρεπόντως· σπανίως γὰρ χρῆσθαι προσήκει τοῖς ξενοπρεπέσιν, ἵνα μὴ τῇ καταχρήσει γίνωνται ὑπερκορῆ. γίνεται δὲ τὸ κλιμακωτόν, ὅταν ἐπὶ τὸ πλέον μηκύνοντες τὸ προκείμενον κεφάλαιον ἕκαστον κόμμα τὸ αὐτὸ τελευτὴν καὶ ἀρχὴν ποιώμεθα. κατάληξιν μὲν πρότερον, ἀρχὴν δὲ τοῦ ἑπομένου, οἷον τὸ ἄληπτον οὖν τὸ θεῖο ν , ἵνα θαυμάζητα ι , θαυμαζόμενον δὲ ποθῆτα ι , ποθούμενον δὲ καθαίρ ῃ , καθαῖρον δὲ θεοειδεῖς ἀπεργάζητα ι .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.184",
+      "text": "ηʹ. ΠΡΟΔΙΑΣΑΦΗΣΙΣ. Προδιασάφησις γίνεται, ὅταν πεπληρωμένῳ λόγῳ ἐπενεχθῇ ὄνομά τι εἰς πλείονα διασάφησιν καὶ ἐντελῆ κατάληψιν τοῦ λεγομένου, οἷον τὸ περινοεῖ τι τῇ διανοίᾳ μεῖζον καὶ ὑψηλότερο ν · πλήρει γὰρ τῷ λόγῳ ἐπῆκται λέξις ἡ διάνοια εἰς ἔμφασιν μείζονα. θʹ. ΑΛΛΟΙΩΣΙΣ. Η ἀλλοίωσις ἤτοι ἡ ἐναλλαγὴ γίνεται κατὰ τρόπους, ὡς ἔφημεν, πλείονας· κατὰ γένος μέν, οἷον τίμιον ἡ ἀρετ ή , ἤτοι ὁ ἐνάρετος· διὰ γὰρ τῆς ἀρετῆς τὸν ἔχοντα τὴν ἀρετὴν ὁ λόγος δεδήλωκεν, ὅς ἐστιν ἑτερογενὴς τῇ ἀρετῇ· κατὰ δὲ τὸν ἀριθμόν, οἷον μέγας ὁ καθελὼν Τροία ν , ἤτοι οἱ καθελόντες· κατὰ πτῶσιν, οἷον μῆνιν ἄειδ ε , θε ά , ἣ μυρία ἄλγ ε ’ Ἀχαιοῖς ἔθηκ ε . μετέβη καὶ γὰρ εἰς εὐθεῖαν ἀπὸ αἰτιατικῆς· ἐνεργείας δὲ καὶ πάθη καὶ χρόνους, ὡς τὸ οὐκέτι μιγνύντες ἀλλήλοι ς , ἤτοι μιγνύμενοι· καὶ οἱ ἐκ γένους Ἡρακλέους κατάγοντε ς , καὶ αὖθις, οἱ τὴν μεσόγεων κατῳκηκότε ς , καὶ παρέξομαι μάρτυρα ς , ἤτοι παρέξω, καὶ ἀπολαύσομαι ἤτοι ἀπόλαυσις, καὶ τὰ τοιαῦτα. ιʹ. ΠΟΛΥΠΤΩΤΟΣ. Πολύπτωτός ἐστι λόγος ὁ πολλῶν ἀντιλαμβανόμενος πτώσεων, οἷον τὸ ἐκείνων ἐσμὲν καὶ γένος καὶ μαθητα ί , οὓς στύλος πυρὸς καὶ νεφέλη ὡδήγου ν . ἐνταῦθα γὰρ ἀπὸ πτώσεως τῆς γενικῆς εἰς πτῶσιν αἰτιατικὴν μετηνέχθη. ιαʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.185.(1t)",
+      "text": "ΜΕΤΑΒΟΛΗ. Μεταβολὴ ἡ τὸ αὐτὸ ὄνομα διαφόρως ἐξαγγέλλουσα, ὡς τὸ τίνος διώκοντος ἢ συναναγκάζοντο ς · τίνων ἱππέων ἢ ποίων κυνῶ ν ; ιβʹ. ΖΕΥΓΜΑ. Ζεῦγμά ἐστι λέξις διάφορα κῶλα συνδέουσα ἢ μετ’ αὐτὰ τιθεῖσα ἢ πρὸ αὐτῶν, οἷον τὸ τῶν μὲν τὸν λόγο ν , τῶν δὲ τὴν πρᾶξι ν , τῶν δὲ τὸ πρᾷον μιμησάμενο ς . ιγʹ. ΠΑΡΟΝΟΜΑΣΙΑ. Παρονομασία γίνεται, ὅταν τι τῶν ληφθέντων εἰς διάνοιαν ὀνομάτων ἢ ῥημάτων βραχὺ μεταποιήσαντες ἑτέραν κινήσωμεν ἔννοιαν, οἷον οὐδὲ τὴν ὑλακή ν , ἀλλὰ τὴν φυλακή ν , ὃ καὶ παρήχησις ὀνομάζεται, οἷον τὸ παρὰ Δημοσθένει, οὐκ αἰσχύνῃ Αἰσχίν η ; καὶ παρὰ Πλάτωνι, Πῶλε λῷστ ε , καὶ Παυσανίου παυσαμένο υ , καὶ πλεῖστα τοιαῦτα. ιδʹ. ΟΜΟΙΟΤΕΛΕΥΤΟΝ. Ὁμοιοτέλευτον δὲ τὸ ὁμοιοκατάληκτον, ὅταν διάφορα κῶλα τὴν αὐτὴν ἔχωσι κατάληξιν, οἷον τὸ Χριστὸς γεννᾶτα ι , δοξάσατ ε , Χριστὸς ἐξ οὐρανῶ ν , ἀπαντήσατ ε · τὸ γὰρ δοξάσατε καὶ ἀπαντήσατε ταὐτοκατάληκτα. ιεʹ. ΠΑΡΙΣΟΝ. Τὸ δὲ πάρισον γίνεται, ὅταν δύο ἢ πλείονα κῶλα μάλιστα μὲν καὶ τὰς συλλαβὰς ἴσας ἔχῃ· εἰ δ’ οὖν ἀλλὰ καὶ τὸ γένος καὶ τὸν ἀριθμὸν καὶ ἔτι τὸν χρόνον καὶ τὸν ῥυθμόν, οἷον τὸ τίνα τῶν ἀνθρώπων κινήματ α , τίνα δὲ τῶν πιθήκων ὁρμήματ α . εἴ τι μὲν οὖν πάρισον, καὶ ὁμοιοκατάληκτον, οὐ μὴν εἴ τι ὁμοιοκατάληκτον, ἤδη καὶ πάρισόν ἐστι· τὸ μὲν γὰρ μόνας τὰς τελευταίας συλλαβὰς ὁμοίας ἔχει, τὸ δὲ ἐν πάσαις ἔχει τὰς συγκρούσεις καὶ ὁμοιώσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.186",
+      "text": "ιϛʹ. ΟΜΟΙΟΠΤΩΤΟΝ. Ὁμοιόπτωτον δέ ἐστι πτῶσις ἡ αὐτὴ κατὰ τοῦ αὐτοῦ ὑποκειμένου διαφόρως λεγομένη, οἷον ὦ περὶ μὲν ἔργων τὰ μεγάλα ἀχρηστότατ ε , πρὸς δὲ τὴν ἐν λόγοις τόλμαν θαυμασιώτατ ε · τὸν γὰρ αὐτὸν καὶ ἕνα διὰ τῆς κλητικῆς περὶ λόγους μὲν θαυμαστόν, περὶ δὲ ἔργα ἀχρεῖον ἐνέφηνεν. ιζʹ. ΑΣΥΝΔΕΤΟΝ. Ἀσύνδετον δέ ἐστι τὸ χωρὶς τῶν συμπλεκτικῶν συνδέσμων ἴδια καθ’ ἑαυτὰ κομματικῶς ἐκφέρεσθαι τὰ κῶλα, ὁποῖον τὸ φθάνει ταχεῖ ς , σφάλλει συνετού ς , συστέλλει ὑψηλού ς . ιηʹ. ΑΝΤΙΘΕΤΟΝ. Τὸ ἀντίθετον κατὰ πλείονας γίνεται τρόπους, ἕνα μέν, ὅτε τὰ ἀντικείμενα ὀνόματα λαμβάνεται, οἷον τὸ τιμῶσι μᾶλλον τοὺς ἀδίκους πλουτοῦντα ς , ἢ τοὺς δικαίους πενομένου ς . καθ’ ἕτερον δὲ τρόπον, ὅτε ἀντιδιαστέλλεται κατάφασις ἀποφάσει, οἷον σὺ μὲν ἔλαβε ς , ἐγὼ δὲ οὐκ ἔλαβο ν · τὸ μὲν γὰρ καταφαίνεταί τις, τὸ δὲ ἀποφαίνεταί τι· καὶ ἔτι πάλιν τὸ σκότος λύετα ι , πάλιν τὸ φῶς ὑφίστατα ι · ἐναντιότης γὰρ ἐντεῦθεν αὖθις φωτὸς πρὸς σκότος. ιθʹ. ΣΥΓΚΡΙΣΙΣ. Σύγκρισις γίνεται, ὅταν ταῖς αὐταῖς λέξεσι χρώμεθα παραβάλλοντες πρόσωπον πρὸς πρόσωπον, ἢ πρᾶγμα πρὸς πρᾶγμα, ὁποῖον τὸ Λώ τ , ὁ Σοδομίτης καὶ οὐ Σοδομίτης τὸν τρόπο ν . τὸ γὰρ Σοδομίτης τέθεικεν ἐνταῦθα δεικτικῶς ὡς τοπικόν, ἀλλ’ ἐπεὶ μόνος τῶν πάντων ἐσώζετο διὰ τὴν ἀρετήν, μέγιστον εἰς θαῦμα δύναται ἡ τοῦ τοπικοῦ προσθήκη, ὅσῳ μόνος ἐν τοσούτοις ἀναστρεφόμενος οὐκ ἐχράνθη, ἀλλὰ πεφύλακται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.187",
+      "text": "τούτῳ τῷ σχήματι ἔοικε καὶ ἡ ἀντίθεσις καὶ ἡ ἀντιβολή, οἷον εἰ μὲν θεό ς , οὐ κτίσμ α , εἰ δὲ κτίσμ α , οὐ θεό ς · ἀντιτίθησι γὰρ ἑκάτερα, καὶ τὰ ἐν πρώτοις κώλοις ἄλλως τεθέντα ὑπεναντίως ἐν τοῖς δευτέροις ἐτέθη. κʹ. ΑΝΤΕΝΑΝΤΙΩΣΙΣ. Ἡ δ’ ἀντεναντίωσις γίνεται, ὅταν εἰπεῖν τι βουλόμενοι διὰ τοῦ ἐναντίου δηλῶμεν. ἴσως οὐ τῶν πολλῶν ἐγενόμην φαυλότερο ς , δηλονότι καὶ μᾶλλον σπουδαιότερος. καὶ ἀλλαχοῦ, ἄληθε ς , καλῶς τυγχάνεις διακείμενος πρὸς ἡμᾶ ς , ἀντὶ τοῦ κακῶς. καʹ. ΠΡΟΑΠΑΝΤΗΣΙΣ. Προαπάντησις δέ, ὅταν δύο τινὰ θέντες πρὸς τὸ λεχθὲν ὑστέρως, ἀπαντήσωμεν πρότερον, οἷον τὸ καλὸν τὸ προσευχὴ καὶ νηστεία καὶ ἀγρυπνί α , καὶ πειθέτω σὲ Ἰησοῦ ς , ἀγρυπνῶν πρὸ τοῦ πάθους καὶ προσευχόμενο ς · πρὸς γὰρ τὸ ὑστέρως ῥηθὲν ὑπήντησε, τὴν ἀγρυπνίαν λέγω. κβʹ. ΥΠΑΛΛΑΓΗ. Ὑπαλλαγὴ δὲ γίνεται, ὅταν ἐπιτιμήσαντες τῷ πρώτῳ ὀνόματι ἕτερον προσλάβωμεν, οἷον εἴ τις τὸν ἐρῶντα φιλάνθρωπον λέγει· ἐρεῖ γάρ τις, ὡς οὐκ ἔστι τόδε φιλανθρωπία, ἀλλ’ ἔρως, καὶ ἔτι οὐκ ὠργίζετο ἀλλ’ ἐμαίνετο, εἴ τις τὸν ἀπόπληκτον λέγει θυμοῦσθαι. κγʹ. ΠΕΡΙΦΡΑΣΙΣ. Περίφρασις δέ, ὅταν τὸ διὰ μιᾶς λέξεως ῥηθῆναι δυνάμενον διὰ πλειόνων ἐκφέρηται, ὅταν βίη Ἡρακληείη δηλονότι ἡ Ἡρακλέους ἰσχύς, καὶ μένος Ἀλκινόοιο, ἤγουν ἡ τοῦ Ἀλκινόοιο προθυμία, καὶ Θηβαίων ἄνοια, ἤγουν οἱ ἄγνωστοι Θηβαῖοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.188",
+      "text": "κδʹ. ΥΠΕΡΒΑΤΟΝ. Ὑπερβατὸν δέ, ὅταν τῆς συνεχείας τοῦ νοήματος διακοπείσης ὑπὸ μεταξυλογίας ἐκβληθείσης ἕτερον ἀποδοθῇ τὸ λεῖπον, οἷον κατὰ ταῦρον ἐδηδώ ς , καὶ ἀνὰ δ ’ ὁ πτολίπορθος Ὀδυσσεὺς ἔστ η · τὸ γὰρ κατὰ ὀφείλει συγκεῖσθαι τῷ ἐδηδώς, ἵνα σημαίνῃ τὸ καταφαγεῖν τὸν ταῦρον, ἐπεὶ οὕτως τὸ ὁμοίως τῷ ταύρῳ τρώγειν ἐμφαίνει. ἐπὶ τοῦ δευτέρου ὡσαύτως ἡ ἀνά τις ἔστη ὀφείλει συγκεῖσθαι, ἵν’ ᾖ, ὅτι ἀνέστη ὁ Ὀδυσσεύς· καὶ ἔτι ἄ π ’ ἐ μ ’ ὀλεῖ ς , ἤγουν ἀπολεῖς ἐμέ· καὶ ἐμοῦ πέρι, ἤγουν περὶ ἐμοῦ· καὶ ἐμοῦ μέτα, ἤγουν μετ’ ἐμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rhg-aa",
+      "title": {
+        "english": "Declamation of Paris to the Trojan Senate",
+        "ancient_greek": "Διατριβὴ Πάριδος πρὸς τὴν Τρωικὴν βουλήν"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/paris-trojan-senate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ah",
+      "title": {
+        "english": "Excerpts-the Art of Rhetoric",
+        "ancient_greek": "Ἐκλογαὶ περὶ τῆς ῥητορικῆς τέχνης"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-excerpts-rhg-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ag",
+      "title": {
+        "english": "Expositithe Art of Rhetoric",
+        "ancient_greek": "Ἔκθεσις τῆς ῥητορικῆς τέχνης"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-exposit-rhg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/exposit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-al",
+      "title": {
+        "english": "Introduction to Invention",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν εὕρεσιν"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-rhg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ac",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise A)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ad",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise B)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ad-rhg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ae",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise C)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ap",
+      "title": {
+        "english": "Notes-Discoveries",
+        "ancient_greek": "Σημειῶδες εἰς τὰς εὑρέσεις"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-notes-discoveries-rhg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/notes-discoveries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-au",
+      "title": {
+        "english": "On Figures",
+        "ancient_greek": "Περὶ σχημάτων"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-figures-rhg-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-am",
+      "title": {
+        "english": "On Figures of Speech (Treatise A)",
+        "ancient_greek": "Περὶ τῶν τοῦ λόγου σχημάτων"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-figures-speech-am-rhg-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures-speech-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ar",
+      "title": {
+        "english": "On Magnificence",
+        "ancient_greek": "Περὶ μεγαλοπρεπείας"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-magnificence-rhg-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/magnificence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-av",
+      "title": {
+        "english": "On Modes",
+        "ancient_greek": "Περὶ τρόπων"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-modes-rhg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/modes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-ac",
+      "title": {
+        "english": "Against Evergus and Mnesibulus-False Testimony",
+        "ancient_greek": "κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν"
+      },
+      "url_slug": "demosthenes-of-athens-against-evergus-mnesibulus-fsm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-evergus-mnesibulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-evergus-mnesibulus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cp",
+      "title": {
+        "english": "Gallus",
+        "ancient_greek": "Ὄνειρος ἢ Ἀλεκτρυών"
+      },
+      "url_slug": "lucian-of-samosata-gallus-pfk-cp",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/gallus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/gallus.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ai",
+      "title": {
+        "english": "On the Lot of Menecles",
+        "ancient_greek": "Περὶ τοῦ Μενεκλέους κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-lot-menecles-fge-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/lot-menecles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/lot-menecles.json"
+      }
+    },
+    {
+      "eul_wid": "hqm-ae",
+      "title": {
+        "english": "Prosecution of Polyεύktos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dinarchus-the-orator-prosecution-polyeuktos-hqm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dinarchus-the-orator/prosecution-polyeuktos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator/prosecution-polyeuktos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator/prosecution-polyeuktos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator/prosecution-polyeuktos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dinarchus-the-orator/prosecution-polyeuktos.json"
+      }
+    },
+    {
+      "eul_wid": "bqs-ae",
+      "title": {
+        "english": "Tetralogy B",
+        "ancient_greek": "Τετραλογία Β΄"
+      },
+      "url_slug": "antiphon-of-athens-tetralogy-b-bqs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-of-athens/tetralogy-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-b.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-b.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-b.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-of-athens/tetralogy-b.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-at",
+      "title": {
+        "english": "To Demosthenes-Exemption",
+        "ancient_greek": "Πρὸς Δημοσθένη περὶ ἀτελείας"
+      },
+      "url_slug": "aristides-the-orator-demosthenes-exemption-qwm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/demosthenes-exemption",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/demosthenes-exemption.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/demosthenes-exemption.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/demosthenes-exemption.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/demosthenes-exemption.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bp",
+      "title": {
+        "english": "True Histories",
+        "ancient_greek": "Ἀληθεῖς Ἱστορίαι"
+      },
+      "url_slug": "lucian-of-samosata-true-histories-pfk-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/true-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/true-histories.json"
+      }
+    },
+    {
+      "eul_wid": "ria-ac",
+      "title": {
+        "english": "Varied History",
+        "ancient_greek": "Ποικίλη ἱστορία"
+      },
+      "url_slug": "aelian-of-praeneste-varied-history-ria-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/varied-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/varied-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/varied-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/varied-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/varied-history.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures-speech-an",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

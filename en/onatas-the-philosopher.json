@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cki",
+  "auth_slug": "onatas-the-philosopher",
+  "name": {
+    "english": "Onatas the Philosopher",
+    "ancient_greek": "Ὀνάτας ὁ Φιλόσοφος"
+  },
+  "seo_h1": "On the Divine and the Cosmos by Onatas the Philosopher",
+  "seo": {
+    "browser_title": "Onatas Pythagorean Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Onatas the Pythagorean Ancient Greek Philosophical Works",
+    "meta_description": "Onatas, a 4th century BCE Pythagorean philosopher. Surviving philosophical treatise in Doric dialect. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (phi, frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Onatas was a Pythagorean philosopher from the 4th century BCE. He is an obscure figure, and no details of his life or birthplace are known. His identification as a Pythagorean comes solely from a single surviving treatise attributed to him.</p>\n<p class=\"research-text\">This work, titled On God and the Divine, is a prose treatise written in the Doric dialect. According to modern scholars, the text is likely pseudepigraphical, meaning it was written by a later author but attributed to the earlier figure of Onatas to lend it authority. It was probably composed in the Hellenistic or early Roman Imperial period.</p>\n<p class=\"research-text\">The treatise presents a Pythagorean system focusing on cosmology and theology, discussing the nature of the divine, the structure of the cosmos, and fundamental principles like the One and the Indefinite Dyad. Onatas’s historical importance lies entirely in this attributed text. It serves as a valuable source for understanding how Pythagorean philosophy was interpreted and systematized centuries after the school&#x27;s founding.</p>\n<p class=\"research-text\">The use of the Doric dialect was a deliberate stylistic choice to evoke the tradition&#x27;s origins in southern Italy. The work contributes to the study of the later Pythagorean tradition, rather than providing information about the historical individual named Onatas.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cki-aa",
+      "title": {
+        "english": "On the Divine and the Cosmos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "onatas-the-philosopher-divine-cosmos-cki-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/onatas-the-philosopher/divine-cosmos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher/divine-cosmos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher/divine-cosmos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher/divine-cosmos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/onatas-the-philosopher/divine-cosmos.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/onatas-the-philosopher",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onatas-the-philosopher.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onatas-the-philosopher.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onatas-the-philosopher.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/onatas-the-philosopher.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

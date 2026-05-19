@@ -1,0 +1,249 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kly-aa",
+  "eul_aid": "kly",
+  "author_slug": "eratosthenes-of-cyrene",
+  "work_slug": "adornment-stars",
+  "url_slug": "eratosthenes-of-cyrene-adornment-stars-kly-aa",
+  "author": {
+    "english": "Eratosthenes of Cyrene",
+    "ancient_greek": "Ἐρατοσθένης ὁ Κυρηναῖος"
+  },
+  "title": {
+    "english": "On the Adornment of Stars and Their Etymology",
+    "ancient_greek": "Περὶ Κόσμου Ἀστέρων καὶ Ἐτυμολογίας"
+  },
+  "seo": {
+    "browser_title": "On Adornment Stars and Etymology by Eratosthenes Eulogikon",
+    "meta_title": "On Adornment of Stars and Etymology by Eratosthenes in Greek",
+    "meta_description": "A Hellenistic treatise on astronomy and star names by Eratosthenes. Work on celestial adornment. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The treatise <strong>On the Adornment of Stars and Their Etymology</strong> is a work attributed to the Hellenistic scholar Eratosthenes of Cyrene, though it is not directly listed under this precise title in ancient bibliographies. The primary source for his astronomical writings, the Byzantine patriarch Photius, records a work titled <strong>Catasterisms</strong>, a collection of myths explaining the origins of the constellations. The title <strong>On the Adornment of Stars and Their Etymology</strong> is therefore considered a descriptive paraphrase of that subject. The surviving text of the <strong>Catasterisms</strong> is likely a later epitome or compilation from the Roman period, based on Eratosthenes&#x27; original, now lost, treatise. The content, as preserved, systematically catalogues the constellations of the northern and southern celestial hemispheres, listing figures such as Ursa Major, Ursa Minor, Orion, and the signs of the zodiac. Its principal themes included the aetiological myths for star patterns, the standardization of disparate mythological narratives, the etymology of stellar names, and the bridging of traditional mythology with the study of the heavens. Eratosthenes&#x27; systematization of these constellation stories became a standard reference work. Its influence was profound and enduring, as later mythographers like Hyginus drew upon this material, ensuring its transmission and shaping the celestial storytelling tradition in Western astronomy and iconography throughout the medieval and Renaissance periods.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "134 (1t)",
+      "text": "ERATOSTHENIS ‘DE CIRCA EXORNATIONESTELLARUM ET ETHYMOLOGIA DE QUIBUS VIDENTUR‘. βόρεια· Ἄρκτος μεγάλη, Ἄρκτος μικρά, Ὄφις ὁ δι’ ἀμφοτέρων τῶν Ἄρκτων, Κηφεύς, Περσεύς, Ἀνδρομέδα, Κασσιέπεια, Ὄρνις, Λύρα, Ἐνγόνασι, Στέφανος, Ἀρκτοφύλαξ, Ἡνίοχος ἐφ’ ὧι Αἲξ Ἔριφο ι , Δελτωτόν, Ἵππος, Ὀιστός, Ἀετός, Ὀφιοῦχος, Προκύων, Καρκίνος, Λέων, Παρθένος, Χηλαί, Σκορπίος, Τοξότης, Αἰγόκερως, Ὑδροχόος, Ἰχθύες, Ταῦρος, Κριό ς , Δίδυμοι. νότια δέ· Ὠρίων, Κῆτος, Δελφίς, Ὕδρος ἐφ’ ὧι Κρατὴρ καὶ ὁ Κόραξ, Κύων, Θυτήριο ν , Κένταυρος ἐφ’ ὧι Θηρίον, Λαγωός, Ἀργώ, Ποταμός, Ἰχθύες, ἀστέρες πέντε πλανῆται:— κεῖται δ ’ ἐν μὲν τῶι βορείωι ἡμισφαιρίωι τάδ ε · Ἄρκτος μείζων, Ἄρκτος ἐλάσσων, Ὄφις δι’ ἀμφοτέρων τῶν Ἄρκτων, Βοώτης, Στέφανος, Ἐνγόνασιν, Ὀφιοῦχος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "136",
+      "text": "ἐν ἀμφοτέροις τοῖς ἡμισφαιρίοι ς · Λύρα, Ὄρνις, Ὀιστός, Αἰετός, Δελφίς, Ἵππος. ἐν ἀμφοτέροις τοῖς ἡμισφαιρίοι ς · Κηφεύς, Κασσιέπεια, Ἀνδρομέδα, Τρίγωνον, Περσεύς, Ἡνίοχος. ἐν δὲ τῶι νοτίωι τοῦ ζωιδιακο ῦ . Ὑδροχόος. ἐν ἀμφοτέροις τοῖς ἡμισφαιρίοι ς · Κρατήρ, Κόραξ, Ἀργώ, Κένταυρος, τὸ θηρίον ὃ ἔχει ὁ Κένταυρος ἐν τῆι δεξιᾶι χειρί, Θυτήριον, ὁ ὑπὸ τὸν Τοξότην Στέφανος [Ἀριάδνης], Ἰχθύς, Κῆτος, Ὠρίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "138",
+      "text": "ἐν ἀμφοτέροις τοῖς ἡμισφαιρίοι ς · Λαγωός, Προκύων. ἐν δὲ τῶι βορείωι τοῦ ζωιδιακοῦ κύκλο υ . βόρει α · Καρκίνος, Λέων, Παρθένος, Κριός, Ταῦρος, Δίδυμοι. νότι α · Χηλαί, Σκορπίος, Τοξότης, Αἰγόκερως, Ὑδροχόος, Ἰχθύες. ἐν ἀμφοτέροις τοῖς ἡμισφαιρίοι ς · ...........",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kly-ab",
+      "title": {
+        "english": "Catasterisms",
+        "ancient_greek": "Καταστερισμοί"
+      },
+      "url_slug": "eratosthenes-of-cyrene-catasterisms-kly-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/catasterisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/catasterisms.json"
+      }
+    },
+    {
+      "eul_wid": "kly-ac",
+      "title": {
+        "english": "Fragments on Cosmic Order",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κόσμου Διατάξεως"
+      },
+      "url_slug": "eratosthenes-of-cyrene-cosmic-order-kly-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/cosmic-order",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/cosmic-order.json"
+      }
+    },
+    {
+      "eul_wid": "kly-ad",
+      "title": {
+        "english": "Fragments on Hermes and Zeus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑρμοῦ καὶ Διός"
+      },
+      "url_slug": "eratosthenes-of-cyrene-hermes-zeus-kly-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/hermes-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/hermes-zeus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "udm-ag",
+      "title": {
+        "english": "Book I of Homeric Questions Version T",
+        "ancient_greek": "Βιβλίον Αʹ Ὁμηρικῶν ζητημάτων ἔκδοσις Τ"
+      },
+      "url_slug": "porphyry-of-tyre-homeric-questions-1-ag-udm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/homeric-questions-1-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/homeric-questions-1-ag.json"
+      }
+    },
+    {
+      "eul_wid": "lbi-aa",
+      "title": {
+        "english": "Exegetical Fragments on Mosaic Law",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Μωσαϊκοῦ Νόμου"
+      },
+      "url_slug": "aristobulus-the-jewish-philosopher-exegetical-mosaic-law-lbi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-the-jewish-philosopher/exegetical-mosaic-law.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cw",
+      "title": {
+        "english": "On Lust and Sorrow",
+        "ancient_greek": "Περὶ ἡδονῆς καὶ λύπης"
+      },
+      "url_slug": "plutarch-of-chaeronea-lust-sorrow-okg-cw",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lust-sorrow",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lust-sorrow.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lust-sorrow.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lust-sorrow.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lust-sorrow.json"
+      }
+    },
+    {
+      "eul_wid": "ifm-ab",
+      "title": {
+        "english": "On the Method of Nourishment",
+        "ancient_greek": "Περὶ μεθόδου τροφῆς"
+      },
+      "url_slug": "herophilus-the-anatomist-method-nourishment-ifm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/herophilus-the-anatomist/method-nourishment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herophilus-the-anatomist/method-nourishment.json"
+      }
+    },
+    {
+      "eul_wid": "lea-ag",
+      "title": {
+        "english": "Orphic Cosmogony and Soul Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "orphic-poems-cosmogony-soul-lea-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/orphic-poems/cosmogony-soul",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orphic-poems/cosmogony-soul.json"
+      }
+    },
+    {
+      "eul_wid": "apa-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "thales-of-miletus-testimonies-apa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thales-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thales-of-miletus/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "lcc-aa",
+      "title": {
+        "english": "Testimonies and Fragments",
+        "ancient_greek": "Μαρτυρίαι καὶ Ἀποσπάσματα"
+      },
+      "url_slug": "antipater-of-sidon-testimonies-lcc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antipater-of-sidon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antipater-of-sidon/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "okg-be",
+      "title": {
+        "english": "Whether Live Unnoticed Is Well Said",
+        "ancient_greek": "Εἰ καλῶς εἴρηται τὸ λάθε βιώτας"
+      },
+      "url_slug": "plutarch-of-chaeronea-live-unnoticed-okg-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/live-unnoticed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/live-unnoticed.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/live-unnoticed.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/live-unnoticed.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/live-unnoticed.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/eratosthenes-of-cyrene/adornment-stars",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eratosthenes-of-cyrene/adornment-stars.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

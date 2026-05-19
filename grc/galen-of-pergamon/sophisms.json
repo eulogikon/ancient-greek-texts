@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qmm-bt",
+  "eul_aid": "qmm",
+  "author_slug": "galen-of-pergamon",
+  "work_slug": "sophisms",
+  "url_slug": "galen-of-pergamon-sophisms-qmm-bt",
+  "author": {
+    "english": "Galen of Pergamon",
+    "ancient_greek": "Γαληνὸς ὁ Περγαμηνός"
+  },
+  "title": {
+    "english": "On Sophisms or Verbal Fallacies",
+    "ancient_greek": "Περὶ σοφισμάτων ἢ λογικῶν παγίδων"
+  },
+  "seo": {
+    "browser_title": "On Sophisms or Verbal Fallacies by Galen on Eulogikon",
+    "meta_title": "Ancient On Sophisms or Verbal Fallacies by Galen in Greek",
+    "meta_description": "Galen's treatise analyzing six types of verbal fallacies based on Aristotle's teachings. A medical philosopher's work on logical traps in language."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Galen’s treatise <strong>On Sophisms or Verbal Fallacies</strong> examines deceptive arguments that arise from linguistic ambiguity, systematically distinguishing verbal fallacies from material errors in reasoning. The work is fragmentary, surviving not as a complete text but through quotations preserved in later Greek and Arabic commentators. Its structure, known primarily from a summary by the 10th-century philosopher al-Farabi, is organized into seventeen passages. Galen begins by outlining Aristotle’s six categories of verbal sophisms—homonymy, amphiboly, prosody, composition, division, and figure of speech—and proceeds to analyze how equivocation in language leads to erroneous conclusions. He emphasizes the critical importance of valid demonstration as the foundation for reliable scientific knowledge, thereby positioning logic as an indispensable tool for rigorous medical and philosophical practice. Composed to equip students with the means to critique rival medical and philosophical schools, the treatise reflects Galen’s syncretic approach to logic. Its influence was particularly notable in medieval Islamic philosophy, where al-Farabi’s detailed engagement with the text played a significant role in the Arabic reception and development of Greek logical theory.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "14 582 (t1)",
+      "text": "ΓΑΛΗΝΟΥ ΠΕΡΙ ΤΩΝ ΠΑΡΑ ΤΗΝ ΛΕΞΙΝ ΣΟΦΙΣΜΑΤΩΝ. Ἀριστοτέλης ὁ φιλόσοφος διδάσκων ἡμᾶς ἐν τῷ περὶ τῶν σοφιστικῶν ἐλέγχων συγγράμματι, παρ’ ὅσους τρόπους γίγνεται τὰ παρὰ τὴν λέξιν σοφίσματα, τρόπους μὲν ἓξ τὸν ἀριθμὸν εἶναί φησιν, ἐκτίθεται δὲ αὐτοὺς οὕτως· παρ’ ὁμωνυμίαν, ἀμφιβολίαν, προσῳδίαν, σύνθεσιν, διαίρεσιν, σχῆμα λέξεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 583",
+      "text": "καλεῖ δὲ παρ’ ὁμωνυμίαν μέν, ὅταν διὰ τῶν ὀνομάτων ἐν τῷ λόγῳ 〈πλείω σημαίνηται〉, καθάπερ ἐν τῷ ‘κύνα τεθήρακα‘· πλείω γὰρ οὗτος ὁ λόγος σημαίνει διὰ τοὔνομα τὸν κύνα. παρ’ ἀμφιβολίαν δέ, ὅταν παρ’ αὐτὸν τὸν λόγον ἐν αὐτῷ τὸ διττὸν ᾖ, καθάπερ ἔχει τὸ ‘γένοιτο καταλαβεῖν τὸν ὗν ἐμέ‘· ἐνταῦθα τῶν μὲν ὀνομάτων οὐδὲν διττόν, αὐτὸς δὲ ὁ λόγος ἐφ’ ἑαυτοῦ σημαίνει τὸ ἑλεῖν τε καὶ ἀναιρεθῆναι. παρὰ δὲ τὴν προσῳδίαν, ὅταν 〈διὰ ταύτην τὸ〉 διττὸν γίγνηται, καθάπερ ἐν τῷ ‘ορος ἕστηκε‘· τὸ γὰρ διπλοῦν παρὰ τὴν δασεῖαν προσῳδίαν, τιθεμένην κατ’ ἀρχὰς ἢ περιαιρουμένην. παρὰ δὲ τὴν σύνθεσιν καὶ διαίρεσιν, ὅταν αὕτη ποιῇ τοῦ σημαινομένου τὴν διαφοράν, ὥσπερ Πεντήκοντ’ ἀνδρῶν ἑκατὸν λίπε δῖος Ἀχιλλεύς· ἡ γὰρ διαφορὰ τοῦ ἀνδρῶν ἢ 〈συντιθεμένου ἢ〉 διαιρουμένου ἀπὸ τῶν νʹ ἐστι. παρὰ δὲ τὸ σχῆμα τῆς λέξεως, ὁπόταν ἕτερον τῷ ὄντι σημαίνῃ, ἕτερον δὲ διὰ τὸ εἶδος καὶ τὸ σχῆμα δοκῇ [δὲ], οἷον τὸ ‘ἀκούω‘ ἔστι μὲν τοῦ πάσχειν, δόξειε δ’ ἂν τοῦ ποιεῖν διὰ τὴν προφοράν, ὅπερ ἐστὶ τὸ σχῆμα † παραπλήσια κρατεῖσθαι τοῖς τοῦ ποιεῖν, τῷ τρέχω καὶ νοῶ· ἑλκύσει γὰρ ἂν ὁ σοφιστικὸς πρὸς ἑκάτερον· πρὸς μὲν τὸ πάσχειν, ὅτι ἔστι, πρὸς δὲ τὸ ποιεῖν, ὅτι φαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 584",
+      "text": "τούτους δ’ ἐξηριθμημένος τοὺς τρόπους ἐφεξῆς δείκνυσιν, ὅτι [τὸ] μηδεὶς ἔστιν, ὃν παραλέλοιπε, μηδὲ οἷόν τέ ἐστι τῶν παρὰ τὴν λέξιν τι σοφισμάτων ἔξω πεσεῖν τῶν εἰρημένων. ὁ δὲ λόγος, δι’ οὗ ταῦτα δείκνυσιν, ἐστὶν οὗτος· ‘ τούτου δὲ πίστις ἡ διὰ τῆς ἐπαγωγῆς καὶ συλλογισμό ς , ἄν τε ληφθῇ τις ἕτερο ς , καὶ ὅτι τοσαυταχῶς ἂν τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις μὴ ταὐτὸν [ μέντο ι ] δηλώσαιμε ν.‘ τὸ μὲν οὖν τῆς ἐπαγωγῆς γνώριμον· εἰ γὰρ καθ’ ἕκαστον εἰπόντι καὶ λαβόντι τῶν παρὰ τὴν λέξιν σοφισμάτων φαίνοιτο μηδὲν πίπτειν ἔξω τῶν εἰρημένων τρόπων, δῆλον ἤδη ταύτῃ γε, ὅτι μηδεὶς παραλέλειπται τρόπος· τὸ δ’ ἐφεξῆς παντάπασιν ἀσαφές ἐστι, τί ποτε βούλεται λέγειν ἐν τῷ ‘ καὶ συλλογισμό ς , ἄν τε ληφθῇ τις ἕτερο ς , 〈καὶ ὅτι τοσαυταχῶς ἂν〉 τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις οὐ ταὐτὰ δηλώσαιμεν ‘· οὐδὲ γὰρ ὅπως ἂν ἕτερόν τινα λάβοιμεν συλλογισμὸν εἴρηται, τὸ δὲ ‘ καὶ ὅτι τοσαυταχῶς ἂν τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις οὐ ταὐτὰ δηλώσαιμεν ‘ συλλογισμοῦ συμπεράσματι μᾶλλον ἔοικεν ἢ συλλογισμῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 585",
+      "text": "σύνηθες δὲ τὸ τοιοῦτον τάχος τῷ φιλοσόφῳ καὶ καθάπερ ἐπὶ σημείων ἐκφέρειν τὰ πολλὰ [καὶ] διὰ τὸ πρὸς τοὺς ἀκηκοότας ἤδη γράφεσθαι. τῶν οὖν ἐξηγησαμένων αὐτὸν οἱ μὲν οὐδ’ ἐπεχείρησαν ταῦτ’ ἀκριβῶσαι τὸν προσήκοντα τρόπον, οἱ δ’ οὐκ ἔτυχον. ἡμεῖς δὲ πειραθῶμεν, οὐκ Ἀριστοτέλους ἕνεκεν οὐδ’ ὡς τῷ λόγῳ βοήθειάν τινα πορίζοντες, ἀλλ’ ἡμῶν αὐτῶν· φιλοσόφου γὰρ οὐ μόνον τὰς προτάσεις λαβόντα συλλογίσασθαι, καθάπερ τοῖς πλείστοις 〈ἔθοσ〉, ἀλλὰ καὶ τοῦ συμπεράσματος κειμένου τὰς προτάσεις κατασκευάσαι. Ἐπεὶ δὲ δεῖξαι πρόκειται τοσαυταχῶς γίγνεσθαι τὰ παρὰ τὴν λέξιν σοφίσματα, ὁσαχῶς Ἀριστοτέλης ἔφη τὰ παρὰ τὸ διττόν, δῆλον ὡς δύο δεικτέον ἡμῖν, ἓν μὲν ὅτι πάντα τὰ παρὰ τὴν λέξιν παρὰ τὸ διττόν ἐστιν, ἕτερον δ’ ὅτι παρὰ τὸ διττὸν τοσαῦτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 586",
+      "text": "δῆλον δ’ ἐκεῖνό γε πᾶσιν, ὅτι πάντα τὰ παρὰ τὴν λέξιν σοφίσματα παρὰ κακίαν αὐτῆς ἀνάγκη συμβαίνειν· ταύτης γὰρ ὥσπερ ἀρχῆς ἐχόμενοι καὶ ἐξαπατῶσιν οἱ σοφισταὶ τοὺς ἀπειροτέρους ἐν τούτοις καὶ μὴ συνορῶντας τὸ κίβδηλον. εἰ δὴ βουλοίμεθα καλῶς λαβεῖν, ὁπόσα παρὰ τὴν λέξιν συμβαίνει σοφίσματα, ληπτέον, πόσαι ποτ’ εἰσὶν 〈αὐτῆς αἱ κακίαι〉· ὃ ἂν συνοφθείη τῆς ἀρετῆς ληφθείσης εἴτε ἐστὶ μία εἴτε πλείους· [ἁπασῶν] ἁμαρτία γὰρ τῆς ἀρετῆς ἔοικεν εἶναι 〈κακία〉 καὶ ταύτης ὀρθῶς ληφθείσης εὐθὺς κἀκείνη γνωρίζεσθαι. ἐπεὶ δέ, καθάπερ 〈ἐν〉 ἑτέροις ἀποδέδεικται λόγοις, τὸ εὖ τε καὶ ἡ ἀρετὴ ἐν ἐκείνῳ, πρὸς ὃ πέφυκεν ἢ γέγονεν, ἀνθρώπου μὲν τὸ ζῆν, μαχαίρας δὲ τὸ τέμνειν, ληπτέον ἂν εἴη τὸ πρὸς τί πέφυκεν ἢ γέγονεν ἡ λέξις. φαίνεται δὲ πρὸς ἕν, τὸ σημαίνειν· δῆλον οὖν ὅτι καὶ 〈τὸ〉 εὖ καὶ κακῶς ἐν τούτῳ. δῆλον δὲ ὅτι καὶ μόνη τῶν ἀρετῶν αὕτη κατ’ αὐτὴν τὴν λέξιν. αἱ δ’ ἄλλαι κατὰ συμβεβηκὸς καὶ ἔξωθεν καὶ οὐ τοῦ πράγματος, οἷον εὐαρμοστία καὶ εὐγραμματία· τοῦτο γὰρ εἰ καὶ φαίνεταί τισιν εὖ, ἀλλ’ οὐ κατὰ τὸ πρᾶγμα, ἀλλ’ ὥσπερ εἰ ξίφος ἐλεφαντόκωπον εἴη ἢ ὀφθαλμὸς ὑπογεγραμμένος· καὶ γὰρ τούτοις ταῦτα ἔξωθεν, τὰ δὲ κατ’ αὐτὰ ἐν τῷ τέμνειν τε καὶ ὁρᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 587",
+      "text": "εἰ δὴ ταύτην ἀρετὴν ἑκάστου τυγχάνειν ὀρθῶς λέγεται, καθ’ ἣν ἕδραν ἔχει, πρὸς ὃ πέφυκεν ἢ γέγονεν, δῆλον ὡς καὶ τὸν ἀριθμὸν τῶν ἀρετῶν ἐντεῦθεν ἄν τις 〈λάβοι〉 ὁπόσος ἐστίν· εἰ μὲν γὰρ πρὸς πολλά, πλείους, εἰ δὲ πρὸς ἕν, μία. φαίνεταί γε μὴν ἡ λέξις πρὸς ἕν, τὸ σημαίνειν· εἴπερ 〈οὖν〉 τὸ καλῶς πρὸς τοῦτο 〈ἀνήκει, κακία τῆς λέξεως ἔσται τὸ〉 μὴ σημαίνειν ἢ μὴ εὖ σημαίνειν. καίτοι ἴσως δεῖται σκέψεως, εἰ θετέον εἶναι λέξιν ἔτι τὴν μὴ σημαίνουσαν· οὐδὲ γὰρ αὐλητὴς ὁ μὴ πεφυκὼς αὐλεῖν ὅλως· οὐκοῦν οὐδὲ κακὸς αὐλητής· οὐδὲ λέξεως ἄρα κακία τὸ μὴ σημαίνειν· τοῦτο δὲ εὐθὺς καὶ σημεῖον τοῦ μόνην τὴν ὑφ’ ἡμῶν [τούτων δὲ] λεγομένην ἀρετὴν εἶναι τῆς λέξεως καθ’ αὑτήν· ἐν ᾧ γὰρ ἑκάστῳ τὸ εἶναι, ἐν τούτῳ καὶ ἡ ἀρετή· ἡ δὲ λέξις ἐν τῷ σημαίνειν, τούτου γέ τοι διαφθαρέντος οὐδὲ λέξις· οὐκοῦν ἐν τούτῳ καὶ ἡ ἀρετή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 588",
+      "text": "διὸ καὶ μόνη συναποβάλλεται, αἱ δ’ ἄλλαι διὰ τὸ μὴ κατ’ αὐτὸ τὸ πρᾶγμα εἶναι οὐδὲν κωλύονται καὶ περὶ τὴν μὴ σημαίνουσαν ὑπάρχειν, οἷον ἡ εὐαρμοστία καὶ ἡ εὐγραμματία. κρείττω γοῦν διὰ ταῦτα καὶ τῶν βαρβαρικῶν διαλέκτων ἑτέραν ἑτέρας φαμέν, οἷον τὴν Περσίδα τῆς Αἰθιοπικῆς, καίτοι μὴ σημαίνουσαν ἡμῖν· τὸ δ’ αἴτιον, ὅτι φωνῆς μᾶλλον 〈ποιοῦμεν κρ〉ίσιν ἢ λέξεως· ἀλλ’ εἴ τῳ καὶ δοκεῖ τοῦτο κακία, τὸ μὴ σημαίνειν, καὶ πλανᾶταί τις 〈τῷ〉 διὰ τὴν ὁμοιότητα 〈κακίαν〉 καὶ τοῦ〈το〉 καλεῖσθαι, ἀλλ’ ἐκεῖνό γε δῆλον, ὡς οὐδὲν ἂν διὰ ταύτην 〈τὴν〉 κακίαν σόφισμα συμβαίη· τίς γὰρ ἂν ὁμολογήσειεν ἢ θείη τι πρὸς ἄσημον καὶ ἀσαφὴ λέξιν; λείπεται δὴ διὰ τὸ 〈μὴ〉 εὖ σημαίνειν· τοῦτο δὲ ὅτι διττῶς· ἐν τούτῳ γὰρ ὑπάρχει μόνῳ τῇ λέξει σημαίνειν μέν τι, μὴ εὖ δὲ σημαίνειν· τὸ γὰρ ‘κύων‘ ὄνομα σημαίνει μέν τι, οὔπω δὲ τόδε τι οὐδὲ ἀφωρισμένον, ὅπερ ἦν τὸ εὔληπτον. κἀκεῖνο δὲ λέγεται καλῶς ὑπὸ Πλάτωνος, ὅτι πάντα, ὅσα φθαρτά, τῇ σφετέρᾳ κακίᾳ φθείρεται· φθείρει δὲ καὶ τοῦτο τὴν λέξιν· ἄγει γὰρ ἀπειρότερόν τινα εἰς ἀσάφειαν, ἀλλ’ οὐχὶ ἁπλῶς, ὥσπερ τὰ μηδὲν σημαίνοντα· ἡ δ’ ἀσάφεια καὶ πρόσθεν ἐλέγετο διαφθορά τις εἶναι παντελὴς τῆς λέξεως· ὥστε πάλιν καὶ διὰ τοῦτο μόνη κακία τὸ διττόν, χωρὶς εἰ μή τις οἴεται κἀκεῖνα κακίας οἷον ἔνδειαν ἢ μακρολογίαν ἢ περιττολογίαν· λανθάνει δὲ τοῦτο, νομίζω, ἀπατώμενος καὶ μὴ συνιείς, ὅτι τούτων οὐδὲν ἁπλῶς κακὸν τῆς λέξεως, εἰ μὴ τὴν ἀσάφειαν ἢ τὸ διττὸν ἐργάζοιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 589",
+      "text": "εἰ δὲ μόνη κακία λέξεως αὕτη καὶ καλῶς τὰ πρόσθεν εἴρηται, πάντα δὲ τὰ παρὰ τὴν λέξιν σοφίσματα παρὰ τὴν κακίαν ταύτην γίγνεται, πάντα τὰ παρὰ τὴν λέξιν ἔσται παρὰ τὸ διττόν. Δεικτέον δὲ τὸ μετὰ τοῦτ’ ἂν εἴη, διὰ τί τὰ παρὰ τὸ διττὸν τοσαυταχῶς, ὁσαχῶς Ἀριστοτέλης φησί, συνίσταται. εἰ δὲ καὶ τοῦτο μέλλει καλῶς εὑρεθήσεσθαι, ληπτέον πρότερον, ὅ,τι ποτέ ἐστι λόγος τε καὶ † ἐκ λόγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 590",
+      "text": "λόγοι γὰρ καὶ αἱ προτάσεις· τούτων 〈δ’ ἔν〉 τινι ἤ τισι διττόν 〈τι〉 ζητοῦμεν. ἔσται δὴ λόγος, ὡς πρὸς τὸ παρὸν ἀποχρώντως εἰπεῖν, σύνθεσις ὀνομάτων· καλῶ δὲ ὀνόματα νῦν καὶ τὰ ῥήματα καὶ ὅλως ὅ,τι σημαίνει, διὰ τὸ γνωριμώτερον. ἀνάγκη 〈δὴ〉 τὸ διττὸν ἢ ἔν τινι τούτων εἶναι τῶν ὀνομάτων ἢ ἐν αὐτῷ τῷ λόγῳ· τρίτον γὰρ οὐδὲν ἔχομεν ὅπως συσταίη ποτ’ ἄν, ὥσπερ οὐδ’ ἄν τις ἔχοι *** παρ’ ἕκαστα τῶν λίθων ἢ τὸ συγκείμενον. καὶ τοῦτο ἢ ἐνεργείᾳ ἢ δυνάμει ἢ φαντασίᾳ· παρὰ ταῦτα γὰρ οὐδὲν 〈ἂν〉 ἕτερόν τις εὕροι ὑπάρχον ἢ λεγόμενον, καθάπερ ἐν ἄλλοις ἀποδέδεικται. πάντα δὲ ταῦτα συλλαβόντες ἔχουσιν οἱ εἰρημένοι τρόποι· ἐνεργείᾳ μὲν γὰρ τὸ διττὸν ἔχουσι παρά τε τὴν ὁμωνυμίαν καὶ τὴν ἀμφιβολίαν, καὶ 〈ἐν〉 ὀνόματι μὲν ὁ παρὰ τὴν ὁμωνυμίαν, ἐν λόγῳ δὲ ὁ παρὰ τὴν ἀμφιβολίαν, ἐνεργείᾳ δέ, ὅτι τῷ ὄντι δύο σημαίνουσι· δυνάμει δ’ ὁπότε τῇ προσῳδίᾳ γίγνονται διττοί, καὶ παρὰ τὴν σύνθεσιν καὶ διαίρεσιν· οὗτοι γὰρ οὐ σημαίνουσι πλείω, ἀλλὰ πάντως ἕν, διὰ δὲ τὸ ἑκάτερον ἐνδέχεσθαι διττοὶ λέγονται· διὸ καὶ δυνάμει φαμὲν αὐτούς, τοιοῦτον γὰρ τὸ δυνάμει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 591",
+      "text": "[οἷον] τοῦτο 〈δ’〉 αὖ πάλιν, ὥσπερ καὶ πρόσθεν διῄρητο, ἢ ἐν ὀνόμασιν ἢ ἐν λόγῳ. ἐν μὲν οὖν ὀνόμασιν ἡ προσῳδία ποιεῖ τὸ διττόν· αὕτη γὰρ ἐφ’ ἑκάτερον ἕλκει τοὔνομα, ὥσπερ ἐν τῷ ‘ορος ἕστηκεν‘ ἡ δασεῖα κατ’ ἀρχὰς τεθεῖσα ἢ μή. ἐν δὲ λόγῳ δηλονότι σύνθεσις καὶ διαίρεσις 〈τὸ〉 διττὸν ποιεῖ· δύναται δὲ κἀν τοῖς συνθέτοις τῶν ὀνομάτων αὕτη, διὰ τὸ προσεικέναι λόγῳ, καθάπερ ἐν τῷ ‘Νεάπολις‘ καὶ ‘καλοσκἀγαθός‘, μεταβάλλειν τι τῶν ἁπλῶν, ἀλλ’ οὐκ εἰς ἕτερον ὄνομα, τοῦτο γὰρ ἡ προσῳδία μόνη ποιεῖ, ἀλλ’ εἰς λόγον, ὥσπερ τὸ ‘αὐλητρὶς‘ δηλονότι, καὶ τὸν λόγον συνθείη ποτ’ ἂν εἰς ὄνομα, ὥσπερ τὸ προκείμενον. δόξει δ’ οὐδὲν 〈ἧττον〉 ἄτοπον ἴσως τὸ φάσκειν διὰ τὴν προσῳδίαν τε καὶ τὴν σύνθεσιν συμβαίνειν τὰ σοφίσματα, εἴπερ ταῦτα μὲν διὰ τὸ διττόν, καθάπερ ἐλέγετο [ταῦτα] πρόσθεν, ἡ δὲ προσῳδία τε καὶ τὰ ὁμογενῆ καὶ τῶν δυνάμει διττῶν ἐξαιρεῖ τὸ διττόν· ποιεῖ γὰρ ἤδη ταῦτα θάτερον σημαίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 592",
+      "text": "καὶ λέγεται ἀληθῶς συμβαίνειν οὐδὲν ἧττον τὰ σοφίσματα διὰ ταῦτα· τῷ γὰρ τὸν λόγον ἐπιδέχεσθαι διὰ τούτων τὸ διττόν, λαβόντες θάτερον κατ’ ἀρχὰς οἱ σοφισταὶ θάτερον συνάγουσι, μεταβάλλοντες μὲν διὰ τούτων τὸν λόγον, πάντως γὰρ οὐκ ἂν ἄλλως τὸ σόφισμα συμβαίη, συλλογιζόμενοι δὲ ὡς ταὐτὸ λαμβάνοντες· ὥσπερ ‘ἕν τι 〈τὸ〉 λογικὸν ὄνομα, καὶ ἴδιον ἀνθρώπου· τὸ λογικὸν ἄρα ἓν ἴδιον ἀνθρώπου‘· καὶ † εἰ ὄρος ἐνταῦθα στήκει ὃ τὸ χωρίον· ὄρος δ’ ἐνταῦθα οὐχ ἕστηκε.‘ καὶ λάθοι μὲν ἂν οὐδένα τὸ κίβδηλον· ἀτὰρ οὐκ ὀκνοῦσιν οἱ σοφισταὶ πανταχῇ σμικρὸν φροντίζειν τοῦ εὐλόγου· ἐπεὶ κἀν τοῖς ἐνεργείᾳ διττοῖς οὗτοί γε ταὐτὸν τοῦτο [ἕτερον] ποιοῦσι· λαβόντες γὰρ ἕτερον 〈ἕτερον〉 συλλογίζονται. ἀλλ’ ἐκεῖ μὲν ἀφανέστερον, ὅτι καθ’ ἑκάτερον σημαινόμενον ἂν ὁ λόγος ὁμολογηθείη, ἐνταῦθα δὲ προδήλως· διὸ καὶ 〈τὸ〉 ‘ τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις ‘ 〈οὐκ ἀκριβῶσ〉 Ἀριστοτέλης ἔφη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 593",
+      "text": "† οἱ μὲν γάρ εἰσιν, οἱ τὸ εἶδος σοφισταὶ βιάζονται. ἐπεὶ δὲ ἔχομεν τὸ ἐνεργείᾳ τε καὶ δυνάμει, λείπεται 〈τὸ〉 φαντασίᾳ· τοῦτο δέ ἐστι τὸ παρὰ τὸ σχῆμα τῆς λέξεως, καθάπερ ἐλέγετο ἔμπροσθεν· φαίνοιτο γὰρ ἄν τι καὶ ὄνομα διττὸν οὐχ οὕτως ἔχον, καὶ ὁ λόγος ὁμοίως [καὶ] οὐ τοιοῦτος 〈ὤν. καὶ〉 καθ’ ἕκαστον τῶν προειρημένων τὰ παραδείγματα λάβοι τις ἂν ἔκ τε τῶν Εὐδήμου κἀξ ἄλλων. ἐπεὶ δ’ οὖν ἔχομεν πάντας κατειλεγμένους τοὺς τρόπους, 〈παρ’ οὓσ〉 ἂν γένοιτό τι διττόν. ἔχομεν πάντα τὰ παρὰ τὴν λέξιν σοφίσματα· ταῦτα γὰρ οὐκ 〈ἂν ἄλλως συμβαίη〉 ἢ παρὰ τὸ διττόν· ἔχομεν δὲ καὶ τὸ [τὴν] ‘ τοσαυταχῶς ἂν τοῖς 〈αὐτοῖσ〉 ὀνόμασι καὶ λόγοις οὐ ταὐτὸν δηλώσαιμεν ‘, ὅτι ἢ ἐνεργείᾳ ἢ δυνάμει ἢ φαντασίᾳ· δῆλον δ’ ὅτι καὶ συλλογισμοῦ τρόπον, ὁποῖόν τις ἂν προέληται, δυνατὸν ποιεῖν, ἅπαξ γε τὴν διαίρεσιν ἔχοντα, καὶ ἐξ εὐθείας καὶ εἰς τὸ ἀδύνατον ἀπάγοντα· εἰ γὰρ δυνατὸν 〈εἴη ὑπάρχειν ἄλλο τι διττόν〉, ἀλλ’ ἔσται οὔτ’ ἐν ὀνόματι οὔτ’ ἐν λόγῳ, οὔτ’ ἐνεργείᾳ οὔτε δυνάμει οὔτε φαντασίᾳ· παρὰ ταῦτα δ’ οὐδὲν ὁ λόγος ἐδείκνυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 594",
+      "text": "—καὶ ταῦτα μὲν ἀφωρίσθω τὸν τρόπον τοῦτον· ὅτι δ’ οὐκ 〈ἐκ〉 ταὐτο〈μάτου〉 τὴν διαίρεσιν εὑρήκαμεν, —οὐ 〈γὰρ〉 Ἀριστοτέλει χαριζόμεθα νῦν—, ἀλλὰ ταῦτα ἅπαντα κατὰ τὴν μέθοδον γέγραπται, δῆλον. τὸ μὲν γὰρ ἢ ἐν ὀνόματι δεῖν ἢ ἐν λόγῳ τὸ διττὸν εἶναι σαφῶς αὐτὸς εἴρηκεν ἐν οἷς φησιν ὅτι ‘ τοῖς αὐτοῖς ὀνόμασι καὶ λόγοις ‘· τὸ 〈δ’〉 ἐνεργείᾳ ἢ δυνάμει ἢ φαντασίᾳ γνώριμον ἐκ τῆς τάξεως· γέγραπται γοῦν ἀφωρισμένα καθ’ ἕκαστον εἶδος ἢ 〈γένοσ〉 τὰ ὁμογενῆ, καὶ πρῶτον μὲν τὰ ἐνεργείᾳ, δεύτερον δὲ τὰ δυνάμει, τρίτον δὲ τὰ φαντασίᾳ, καθάπερ δίκαιον, ἢ διὰ τί ποτ’ οὐ συγκέχυται ταῦτα; ἀλλὰ γελοῖον ἴσως καὶ τὸ τῶν τοιούτων ἑτέραν πίστιν πειρᾶσθαι φέρειν, μὴ τὴν ἐκ τοῦ πράγματος· εἰ γὰρ οὕτως ἔχει, καθάπερ ἡ τέχνη φησί, δηλονότι καὶ γέγονε κατ’ αὐτήν, ὥσπερ ἡ ἰατρικὴ τομήν τινα οὐκ ἂν τύχῃ οὐδὲ 〈ἐκ〉 ταὐτομάτου ἐργάσαιτο. —ταῦτα μὲν οὖν ὑπὲρ τούτων ἱκανὰ πρὸς τὸ παρόν ἐστιν. 〈Ἐπεὶ δ’〉 εἴρηταί τινα καὶ τοῖς Στωϊκοῖς περὶ τούτου 〈τοῦ〉 μέρους, δίκαιον ἐπελθόντα ἰδεῖν, εἴ τις ἔξω πίπτει τρόπος τῶν εἰρημένων· εἴη γὰρ 〈ἂν〉 ἐπαγωγ〈ικ〉ή τις αὕτη πίστις, καὶ δίκαιον ἄλλως μηδεμίαν δόξαν ἀνδρῶν εὐδοκίμων πάρεργον τίθεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 595",
+      "text": "τὸν μὲν οὖν τῆς ἀμφιβολίας ὅρον, εἰ καὶ πρὸς πολλὰ τῶν ἡμετέρων μάχεσθαι δοκεῖ, τό γε νῦν ἐατέον, ἑτέρας γὰρ καὶ ὑπὲρ τούτων [νοσεῖν] σκοπεῖν πραγματείας· τὰς δὲ διαφορὰς τῶν λεγομένων ἀμφιβολιῶν αὐτὰς ληπτέον· εἰσί γε πρὸς τῶν χαριεστέρων λεγόμεναι τὸν ἀριθμὸν ηʹ. μία μέν, ἣν κοινὴν ὀνομάζουσι τοῦ τε εἰρομένου καὶ τοῦ διαιρετοῦ, οἵα ἐστὶν ἡ ‘ΑΥΛΗΤΡΙΣΠΕΣΟΥΣΑ‘· κοινὴ γὰρ αὕτη τοῦ τε αὐλητρὶς ὀνόματος καὶ τοῦ 〈δι〉ῃρημένου. δευτέρα δὲ παρὰ τὴν ἐν τοῖς ἁπλοῖς 〈ὁμωνυμίαν〉, οἷον ‘ἀνδρεῖος‘, ἢ γὰρ χιτὼν ἢ ἄνθρωπος· τρίτη δὲ παρὰ τὴν ἐν τοῖς συνθέτοις ὁμωνυμίαν, οἷον ‘ἄνθρωπός ἐστιν‘· ἀμφίβολος γὰρ ὁ λόγος, εἴτε τὴν οὐσίαν εἴτε τὴν πτῶσιν εἶναι σημαίνει. τετάρτη δέ ἐστι παρὰ τὴν ἔλλειψιν, 〈ὡσ〉 ‘σός ἐστιν [ὡς] υἱός· καὶ γὰρ ἐλλείπει τὸ διὰ μέσου, οἷον δεσπότου ἢ πατρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 596",
+      "text": "πέμπτη δὲ παρὰ τὸν πλεονασμόν, ὥσπερ ἡ τοιαύτη ‘ἀπηγόρευσεν αὐτῷ μὴ πλεῖν‘· τὸ γὰρ ‘μὴ‘ προσκείμενον ἀμφίδοξον ποιεῖ τὸ πᾶν, εἴτε τὸ πλεῖν ἀπηγόρευσεν εἴτε τὸ μὴ πλεῖν. ἕκτην φασὶν εἶναι τὴν μὴ διασαφοῦσαν τί μετὰ τίνος ἄσημον μόριον τέτακται, ὡς ἐν τῷ ‘ΚΑΙΝΥΚΕΝΗΠΑΡΕΛΑΣΣΕΝ.‘ τὸ γὰρ 〈η〉 στοιχεῖον 〈ἢ πρῶτον ἢ τελευταῖον〉 ἂν γένοιτο 〈ἢ〉 διαζευκτικόν. ἑβδόμη δέ ἐστιν ἡ μὴ δηλοῦσα τί μετὰ τίνος τέτακται σημαντικὸν μόριον, ὡς ἐν τῷ ‘Πεντήκοντ’ ἀνδρῶν ἑκατὸν λίπε δῖος Ἀχιλλεύς‘. ὀγδόη 〈δέ ἐστιν ἡ〉 μὴ δηλοῦσα τί ἐπὶ τί ἀναφέρεται, ὡς ἐν τῷ ‘ΔΙΩΝΘΕΩΝΕΣΤΙΝ‘· ἄδηλον γάρ ἐστιν, εἴτε ἐπὶ τὴν ἀμφοτέρων ὕπαρξιν ἀναφέρεται εἴτε ἐπὶ τοιοῦτον οἷον ὁ Δίων Θέων ἐστὶν ἢ πάλιν. οἱ μὲν δὴ τρόποι πρὸς τῶν χαριεστέρων οὗτοι κατηρίθμηνται. δῆλον δέ, ὅστις μὴ παρέργως τῶν ἔμπροσθεν ἤκουσεν, ὅτι πάντες πίπτουσιν εἰς τοὺς κατειλεγμένους ὑφ’ ἡμῶν τρόπους, τὸ δ’ ἀμέθοδόν τε καὶ ἄτεχνον πρόδηλον· οὔτε γὰρ ἐκ τῶν εἰρημένων ἀπόδειξιν 〈ἄν〉 τις λάβοι τοῦ μηδὲ καθ’ ἕνα τρόπον ἕτερον ἀμφίβολόν τι δύνασθαι συστῆναι, τό τε κἀν τοῖς πεπλεγμένοις ὁμωνυμίαν φάσκειν συμβαίνειν παντελῶς οὐδ’ ἀκουόντων ἐστὶν ὀνομάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 597",
+      "text": "ἔτι δὲ πῶς οὐκ εὔηθες ταῖς γενικαῖς διαφοραῖς εἰδικὰς 〈προσ〉καταριθμεῖσθαι, καθάπερ ἐπὶ τῶν κατὰ τὴν διαίρεσιν ποιοῦσιν ἀσήμαντον μόριον 〈καὶ〉 σημαῖνον διαιρούμενοι· λάβοι γὰρ 〈ἄν τισ〉 οὕτως γε πλείους τὰς εἰδικὰς διαφοράς· ἔτι δ’ ἂν τοῦτον τὸν τρόπον τις καὶ τῆς ὁμωνυμίας ποιήσειε [δὲ] πλείους τὰς εἰδικὰς λεγομένας διαφοράς, ὅτι 〈αἱ μὲν〉 αὐτῶν παρὰ τὸ ἀπὸ τύχης, αἱ δὲ παρὰ τὴν ἀναλογίαν ἢ ὁμοιόητα ἢ ἄλλον τινὰ τρόπον συνίστανται. καὶ μὲν 〈δὴ〉 καὶ τῆς ἐν λόγῳ ὁμωνυμίας ὑπ’ αὐτῶν λεγομένης πλείους οἱ τρόποι, 〈ὧν οἱ〉 μὲν τῇ παραθέσει τῶν ὁμοίων πτώσεων γίγνονται, ὡς ἐν τῷ ‘εἴη Μέλητον Σωκράτην νικῆσαι‘· οἱ δ’ ἄλλοι τρόποι 〈 ****** ἀλλὰ〉 ταῦτα μὲν ἐλάττω, ἐκεῖνο δ’ ἄξιον ἀπορίας, πῶς ποτε 〈παραλείπουσι τὰ〉 περὶ τὰς φαντασίας διττά, πολὺ δὲ μᾶλλον ἔτι, πῶς τὰ τῆς προσῳδίας· οἱ γὰρ τιθέμενοι διττοὺς [τοὺς] παρὰ τὴν 〈σύν〉θεσιν, πῶς οὐχὶ καὶ παρὰ τὴν προσῳδίαν; ὥσπερ 〈γὰρ〉 ἐκείνη τῇ διαλήψει τοῦ ὅλου καὶ τῇ μεταξὺ σιωπῇ δύναται πρὸς τὸ διττὸν ἕλκεσθαι, οὕτω δὴ καὶ τὸ ὄνομα τῇ προσῳδίᾳ· 〈καὶ〉 καθάπερ ἔξωθεν ὢν ὁ κενὸς χρόνος τοῦ λόγου καὶ οὐ μόριον αὐτοῦ διττὸν ποιεῖν αὐτὸν πέφυκεν, οὕτω δὴ καὶ ἡ προσῳδία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 598",
+      "text": "ἔτι δὲ καὶ οἱ σοφισταὶ καθάπερ ἐκείνῳ χρῶνται πρὸς τὰς ἔριδας, 〈οὕτω δὴ〉 καὶ ταύτῃ· καὶ μὴν αὐτὸς ἄν τις ἐφ’ ἑαυτοῦ σκοπούμενος ὥσπερ ἂν παρὰ τὴν σύνθεσιν ἢ διαίρεσιν ἀμφισβητοίη, οὕτω δὴ καὶ παρὰ τὴν προσῳδίαν· δῆλον δὲ ἐπὶ τῶν γεγραμμένων λόγων, οἷς μὴ πρόσκειται διακρίνοντα σημεῖα· δεῖται γὰρ ὥσπερ ἐκείνων εἰς τὴν διάκρισιν, οὕτω δὴ καὶ τῆς προσῳδίας, οὐκ ἀεί γε μήν· καὶ δι’ αὐτὴν 〈ἄρ’〉 ἐγίγνετο διττὸς ὁ λόγος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aj",
+      "title": {
+        "english": "Against What Julian Said-Hippocrates' Aphorisms",
+        "ancient_greek": "Κατὰ τῶν ὑπὸ Ἰουλιανοῦ περὶ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-against-julian-hippocrates-aphorisms-qmm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-julian-hippocrates-aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ak",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book III of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Γ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-3-qmm-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aw",
+      "title": {
+        "english": "Commentaries-Hippocrates' Prognostic I",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Προγνωστικὸν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-prognostic-qmm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-prognostic.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ax",
+      "title": {
+        "english": "Commentary on Plato's Timaeus",
+        "ancient_greek": "Ὑπομνήματα εἰς τὰ τοῦ Πλάτωνος Τιμαίου ἀποσπάσματα"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ax-qmm-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ax.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aa",
+      "title": {
+        "english": "Commentary-Hippocrates or Polybius' Work-the Healthy Diet of Individuals",
+        "ancient_greek": "Σχόλια εἰς Ἱπποκράτους ἢ Πολυβίου Περὶ ὑγιεινῆς"
+      },
+      "url_slug": "galen-of-pergamon-healthy-diet-qmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/healthy-diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/healthy-diet.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-as",
+      "title": {
+        "english": "Explanation of Obsolete Words of Hippocrates",
+        "ancient_greek": "Ἐξήγησις τῶν παλαιῶν λέξεων τοῦ Ἱπποκράτους"
+      },
+      "url_slug": "galen-of-pergamon-explanation-obsolete-words-qmm-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/explanation-obsolete-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/explanation-obsolete-words.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ef",
+      "title": {
+        "english": "Galen",
+        "ancient_greek": "Γαληνὸς περὶ δίαιτας ἀδυνατίζουσας"
+      },
+      "url_slug": "galen-of-pergamon-text-qmm-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/text.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mqm-aa",
+      "title": {
+        "english": "Botanical and Medicinal Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crateuas-the-rhizotomist-botanical-medicinal-mqm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crateuas-the-rhizotomist/botanical-medicinal",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist/botanical-medicinal.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist/botanical-medicinal.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist/botanical-medicinal.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crateuas-the-rhizotomist/botanical-medicinal.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ae",
+      "title": {
+        "english": "Medical Questions",
+        "ancient_greek": "Ἰατρικαὶ Ζητήσεις"
+      },
+      "url_slug": "rufus-of-ephesus-medical-questions-ojc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/medical-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bl",
+      "title": {
+        "english": "On Fractures",
+        "ancient_greek": "Περὶ ἀγμῶν"
+      },
+      "url_slug": "hippocrates-fractures-bww-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/fractures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/fractures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/fractures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/fractures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/fractures.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bf",
+      "title": {
+        "english": "On Nourishment",
+        "ancient_greek": "Περὶ τροφῆς"
+      },
+      "url_slug": "hippocrates-nourishment-bww-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nourishment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nourishment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nourishment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nourishment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nourishment.json"
+      }
+    },
+    {
+      "eul_wid": "umi-au",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "medical-writers-anonymous-pulses-umi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.json"
+      }
+    },
+    {
+      "eul_wid": "umi-an",
+      "title": {
+        "english": "On the Power of Foods",
+        "ancient_greek": "Περὶ τροφῶν δυνάμεως"
+      },
+      "url_slug": "medical-writers-anonymous-foods-power-umi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-power",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-power.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-power.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-power.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-power.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ao",
+      "title": {
+        "english": "On the Sacred Disease",
+        "ancient_greek": "Περὶ ἱερῆς νούσου"
+      },
+      "url_slug": "hippocrates-sacred-disease-bww-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/sacred-disease",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/sacred-disease.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/sacred-disease.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/sacred-disease.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/sacred-disease.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ag",
+      "title": {
+        "english": "To Gaurus-How the Fetus is Animated",
+        "ancient_greek": "Πρὸς Γαῦρον Περὶ τοῦ Πῶς Ἔμβρυον Ἐμψυχοῦται"
+      },
+      "url_slug": "anonymous-medical-writer-fetus-animated-tqu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/fetus-animated",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/fetus-animated.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/fetus-animated.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/fetus-animated.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/fetus-animated.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/galen-of-pergamon/sophisms",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

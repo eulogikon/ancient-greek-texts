@@ -1,0 +1,294 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aau-ad",
+  "eul_aid": "aau",
+  "author_slug": "hesiod",
+  "work_slug": "testimonies",
+  "url_slug": "hesiod-testimonies-aau-ad",
+  "author": {
+    "english": "Hesiod",
+    "ancient_greek": "Ἡσίοδος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Fragments and Testimonies of Hesiod by Hesiod on Eulogikon",
+    "meta_title": "The Fragments of Hesiod by Hesiod in Ancient Greek",
+    "meta_description": "Fragments of Hesiod, surviving testimonies of Archaic Greek epic poetry. Preserves early Greek thought. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Testimonies is a lost work attributed to the early Greek poet Hesiod, surviving only as a title and a handful of references in later antiquity. Unlike Hesiod’s major extant epic poems, the <strong>Theogony</strong> and <strong>Works and Days</strong>, it is not discussed as a complete text but exists as a fragmentary collection known through indirect citation. The title suggests a composition of authoritative statements or accounts, though its precise content remains unspecified. Given its attribution to Hesiod and the nature of his other works, it may plausibly have contained mythological genealogies, declarations on divine or heroic subjects, or didactic narratives concerning the origins of the world and the gods. The work is preserved solely through quotations by later grammarians and compilers, with the few surviving passages constituting the entirety of its known tradition. As part of the broader Hesiodic corpus, the Testimonies would have contributed to the poet’s established authority as a foundational source for Greek mythology and cosmological thought, even though its direct influence and specific contents are now irrecoverable.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "PHILIPP. Epinom. 990 A σοφώτατον ἀνάγκη τὸν ἀληθῶς ἀστρονόμον εἶναι, μὴ τὸν καθ’ Ἡσίοδον ἀστρονομοῦντα καὶ πάντας τοὺς τοιούτους οἶον δυσμάς τε καὶ ἀνατολὰς ἐπεσκεμμένον, ἀλλὰ κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "CALLIM. ep. 27 Ἡσιόδου τό τ’ ἄεισμα καὶ ὁ τρόπος· οὐ τὸν ἀοιδῶν ἔσχατον, ἀλλ’ ὀκνέω μὴ τὸ μελιχρότατον τῶν ἐπέων ὁ Σολεὺς ἀπεμάξατο· χαίρετε λεπταὶ ῥήσιες, Ἀρήτου σύντονος ἀγρυπνίη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "PLUT. Pyth. or. 18. 402 F ... ἐν μέτροις πρότερον Εὐδόξου καὶ Ἡσιόδου καὶ Θαλοῦ [11 B 1] γραφόντων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "aau-aa",
+      "title": {
+        "english": "Astronomical Fragments",
+        "ancient_greek": "Ἀστρονομικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hesiod-astronomical-fragments-aau-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/astronomical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/astronomical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/astronomical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/astronomical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/astronomical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "aau-af",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "hesiod-genealogy-fragments-aau-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/genealogy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ae",
+      "title": {
+        "english": "Fragments on Women",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γυναικῶν"
+      },
+      "url_slug": "hesiod-women-aau-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/women.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ab",
+      "title": {
+        "english": "Shield of Heracles",
+        "ancient_greek": "Ἀσπὶς Ἡρακλέους"
+      },
+      "url_slug": "hesiod-shield-aau-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/shield",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/shield.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ag",
+      "title": {
+        "english": "Theogony",
+        "ancient_greek": "Θεογονία"
+      },
+      "url_slug": "hesiod-theogony-aau-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/theogony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/theogony.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ac",
+      "title": {
+        "english": "Works and Days",
+        "ancient_greek": "Ἔργα καὶ Ἡμέραι"
+      },
+      "url_slug": "hesiod-works-days-aau-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/works-days",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jfq-aa",
+      "title": {
+        "english": "Argonautica",
+        "ancient_greek": "Ἀργοναυτικά"
+      },
+      "url_slug": "apollonius-of-rhodes-argonautica-jfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-rhodes/argonautica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica.json"
+      }
+    },
+    {
+      "eul_wid": "adm-aa",
+      "title": {
+        "english": "Cypria",
+        "ancient_greek": "Κύπρια"
+      },
+      "url_slug": "epic-work-anonymous-ii-cypria-adm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-work-anonymous-ii/cypria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-work-anonymous-ii/cypria.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-al",
+      "title": {
+        "english": "Ethopoeic Exercise",
+        "ancient_greek": "Ἠθοποιία"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeic-exercise-kjq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeic-exercise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.json"
+      }
+    },
+    {
+      "eul_wid": "nsy-aa",
+      "title": {
+        "english": "Fragments on Cadmus and Agave",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κάδμου καὶ Ἀγαύης"
+      },
+      "url_slug": "julius-the-epic-poet-cadmus-agave-nsy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/julius-the-epic-poet/cadmus-agave",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julius-the-epic-poet/cadmus-agave.json"
+      }
+    },
+    {
+      "eul_wid": "cee-aa",
+      "title": {
+        "english": "Fragments on Poseidon's Dominion",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ποσειδῶνος Ἀρχῆς"
+      },
+      "url_slug": "hermonax-the-epic-poet-poseidon-dominion-cee-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermonax-the-epic-poet/poseidon-dominion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.json"
+      }
+    },
+    {
+      "eul_wid": "emy-aa",
+      "title": {
+        "english": "Fragments on Wine",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα Χοιρίλου Ἰασίου"
+      },
+      "url_slug": "choerilus-of-samos-wine-fragments-emy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-samos/wine-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mfi-aa",
+      "title": {
+        "english": "Geographical Fragments on Bithynia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βιθυνίας Γεωγραφικά"
+      },
+      "url_slug": "demosthenes-of-bithynia-geographical-fragments-aa-mfi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-bithynia/geographical-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-bithynia/geographical-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ag",
+      "title": {
+        "english": "Historical Epic Fragment A",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ag-kjq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hesiod/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fyg-aa",
+  "eul_aid": "fyg",
+  "author_slug": "diyllus-of-athens",
+  "work_slug": "historical-fragments",
+  "url_slug": "diyllus-of-athens-historical-fragments-fyg-aa",
+  "author": {
+    "english": "Diyllus of Athens",
+    "ancient_greek": "Δίυλλος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Historical Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments by Diyllus of Athens on Eulogikon",
+    "meta_title": "Classical Historical Fragments by Diyllus in Ancient Greek",
+    "meta_description": "Fragments of the lost universal history by Athenian historian Diyllus. A key Hellenistic source. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Historical Fragments</strong> represent the extant portions of a comprehensive universal history composed in Greek prose by the Athenian historian Diyllus around 300 BCE. The original work, now entirely lost, was structured as a continuous narrative spanning twenty-six books. It was conceived as a direct continuation of the history of Ephorus, beginning its account in 341 BCE and extending to at least 297 BCE, thereby encompassing the ascendance of Macedon under Philip II, the vast conquests of Alexander the Great, and the tumultuous wars waged by his successors in the decades following his death. The text survives only through a handful of scattered passages—eight in total—preserved as quotations or summaries within the works of later authors, including the Byzantine scholar Photius. The modern title <strong>Historical Fragments</strong> is thus a descriptive label for these collected excerpts, not the name of an original book. These fragments reveal Diyllus as a significant source for the early Hellenistic period, offering an Athenian perspective on an era marked by the erosion of traditional Greek autonomy. His history, written in a serious style for a learned readership, was later employed as a major source by the historian Diodorus Siculus, thereby influencing the transmission of the historical narrative concerning Alexander&#x27;s successors to later antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΙΣΤΟΡΙΑΙ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Plutarch. De Herodoti mal. c. 26: (Ἡρόδοτος) τὴν διαβολὴν ... ἔχει κολακεύσας τοὺς Ἀθηναίους ἀργύριον πολὺ λαβεῖν παρ’ αὐτῶν ... Ὅτι μέντοι δέκα τάλαντα δωρεὰν ἔλαβεν ἐξ Ἀθηνῶν, Ἀνύτου τὸ ψήφισμα γράψαντος, ἀνὴρ Ἀθηναῖος οὐ τῶν παρημελημένων ἐν ἱστορίᾳ, Δίυλλος, εἴρηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.(t)",
+      "text": "[ΤΡΙΤΗ ΣΥΝΤΑΞΙΣ.] Harpocratio: Ἀριστίων· Ὑπερίδης Κατὰ Δημοσθένους. Οὗτος Σάμιος μέν ἐστιν ἢ Πλαταιεὺς, ὡς Δίυλλός φησιν, ἐκ μειρακυλλίου δ’ ἑταῖρος Δημοσθένους, ἐπέμφθη δ’ ὑπ’ αὐτοῦ πρὸς Ἡφαιστίωνα ἕνεκα διαλλαγῶν, ὥς φησι Μαρσύας ἐν εʹ τῶν Περὶ Ἀλέξανδρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.(t)",
+      "text": "E LIBRO NONO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.(t)",
+      "text": "Athenaeus IV: Δίυλλος δ’ ὁ Ἀθηναῖος ἐν τῇ ἐνάτῃ τῶν ἱστοριῶν φησὶν, ὡς Κάσσανδρος ἐκ Βοιωτίας ἐπανιὼν, καὶ θάψας τὸν βασιλέα καὶ τὴν βασίλισσαν ἐν Αἰγαῖς, καὶ μετ’ αὐτῶν τὴν Κύνναν, τὴν Εὐρυδίκης μητέρα, καὶ τοῖς ἄλλοις τιμήσας, οἷς προσήκει, καὶ μονομαχίας ἀγῶνα ἔθηκεν, εἰς ὃν κατέβησαν τέσσαρες τῶν στρατιωτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t4-5",
+      "text": "DUBIA.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Athenaeus XIII: Δημήτριος δὲ ὁ Φαληρεὺς, Λαμπιτοῦς τῆς Σαμίας ἑταίρας ἐρασθεὶς, ἡδέως δι’ αὐτὴν καὶ Λαμπιτὼ προσηγορεύετο, ὥς φησι Δίυλλος· ἐκαλεῖτο δὲ καὶ Χαριτοβλέφαρος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Etym. M.: [ Κόμαν α] παρὰ τὸ κόμη γίνεται θηλυκὸν κομάνη· τὸ οὐδέτερον, κόμανον, καὶ τὰ Κόμανα· λέγεται γὰρ τὸν Ἀγαμέμνονος υἱὸν Ὀρέστην φεύγοντα μετὰ τῆς ἀδελφῆς ἐκεῖσε τὴν κόμην ἀποκεί ρασθαι. Πόλις Κόμανα Θύιλλις· μεθερμηνεύεται σύ σκια κατὰ τὴν Ἰώνων φωνήν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "uza-aa",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονικόν"
+      },
+      "url_slug": "ephraem-of-aenus-chronicle-uza-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephraem-of-aenus/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephraem-of-aenus/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "vae-aa",
+      "title": {
+        "english": "Chronicle",
+        "ancient_greek": "Χρονολογικόν"
+      },
+      "url_slug": "john-malalas-of-antioch-chronicle-vae-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "tss-ab",
+      "title": {
+        "english": "Chronicle or Greater, Partly by Macarius Melissenus",
+        "ancient_greek": "Χρονικὸν ἢ Μέγα"
+      },
+      "url_slug": "pseudo-sphrantzes-chronicle-greater-tss-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-sphrantzes/chronicle-greater",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes/chronicle-greater.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes/chronicle-greater.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes/chronicle-greater.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-sphrantzes/chronicle-greater.json"
+      }
+    },
+    {
+      "eul_wid": "mvc-aa",
+      "title": {
+        "english": "Fragments on Alexandria",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀλεξανδρείας"
+      },
+      "url_slug": "aelius-dius-the-historian-alexandria-mvc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelius-dius-the-historian/alexandria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelius-dius-the-historian/alexandria.json"
+      }
+    },
+    {
+      "eul_wid": "rjy-ac",
+      "title": {
+        "english": "Letter to Origen",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ὠριγένην"
+      },
+      "url_slug": "sextus-julius-africanus-letter-to-origen-rjy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-julius-africanus/letter-to-origen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-to-origen.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-to-origen.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-to-origen.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/letter-to-origen.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ab",
+      "title": {
+        "english": "On Brotherly Friends",
+        "ancient_greek": "Περὶ ἀδελφικῶν φίλων"
+      },
+      "url_slug": "paradoxographer-anon-brotherly-friends-jre-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.json"
+      }
+    },
+    {
+      "eul_wid": "aic-aa",
+      "title": {
+        "english": "On Spartan Customs and Cuisine",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "molpis-of-elea-sparta-cuisine-aic-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/molpis-of-elea/sparta-cuisine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea/sparta-cuisine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea/sparta-cuisine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea/sparta-cuisine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/molpis-of-elea/sparta-cuisine.json"
+      }
+    },
+    {
+      "eul_wid": "iiy-aa",
+      "title": {
+        "english": "Phrygian Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-cyprus-histories-myths-iiy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-cyprus/histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-cyprus/histories-myths.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

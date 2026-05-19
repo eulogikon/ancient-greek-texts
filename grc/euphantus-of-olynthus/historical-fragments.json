@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hmq-aa",
+  "eul_aid": "hmq",
+  "author_slug": "euphantus-of-olynthus",
+  "work_slug": "historical-fragments",
+  "url_slug": "euphantus-of-olynthus-historical-fragments-hmq-aa",
+  "author": {
+    "english": "Euphantus of Olynthus",
+    "ancient_greek": "Εὔφαντος ὁ Ὀλύνθιος"
+  },
+  "title": {
+    "english": "Historical Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments of Euphantus of Olynthus on Eulogikon",
+    "meta_title": "Fragments by Euphantus of Olynthus in Ancient Greek",
+    "meta_description": "Surviving fragments of Euphantus of Olynthus. Explore his Hellenistic thought. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Megarian",
+      "href": "/affiliations/megarian"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Historical Fragments attributed to Euphantus of Olynthus consist of surviving quotations from his lost historical writings, preserved by later authors such as Diogenes Laertius and Athenaeus. Euphantus was a philosopher-historian active in the late fourth and early third centuries BCE, known to have been a tutor to King Antigonus II Gonatas of Macedon and associated with the Megarian school of philosophy. His historical work, of which no independent manuscript tradition survives, appears to have been a contemporary account of the early Hellenistic period. The extant fragments suggest it addressed political and military events, particularly the complex relationships between the emerging Hellenistic monarchies and philosophical circles. One preserved anecdote, for instance, recounts how a courtier of Ptolemy III of Egypt was so skilled in flattery that he carried an image of Odysseus on his seal and named his children Telegonus and Anticleia. Euphantus&#x27;s significance lies in his role as a connecting figure between philosophy and practical statecraft, embodying the Hellenistic ideal of the philosopher as royal advisor, while his lost history would have provided a valuable eyewitness perspective on the era of the Diadochi.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-2",
+      "text": "ΙΣΤΟΡΙΑΙ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Diog. L. II, 141, de Menedemo Eretriense: Δοκεῖ δ’ ἐμβριθέστατα πρεσβεῦσαι πρὸς Δημήτριον ὑπὲρ τοῦ Ὠρωποῦ, ὡς καὶ Εὔφαντος ἐν Ἱστορίαις μνημονεύει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.(t)",
+      "text": "E LIBRO QUARTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.(t)",
+      "text": "Athenaeus VI: Εὔφαντος δ’ ἐν τετάρτῃ Ἱστοριῶν Πτολεμαίου φησὶ τοῦ τρίτου βασιλεύσαντος Αἰγύπτου κόλακα γενέσθαι Καλλικράτην, ὃς οὕτω δεινὸς ἦν, ὡς μὴ μόνον Ὀδυσσέως εἰκόνα ἐν τῇ σφραγῖδι περιφέρειν, ἀλλὰ καὶ τοῖς τέκνοις ὀνόματα θέσθαι Τη λέγονον καὶ Ἀντίκλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bo",
+      "title": {
+        "english": "Comparison of Lysander and Sulla",
+        "ancient_greek": "Σύγκρισις Λυσάνδρου καὶ Σύλλα"
+      },
+      "url_slug": "plutarch-of-chaeronea-lysander-sulla-okg-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lysander-sulla",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander-sulla.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander-sulla.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander-sulla.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lysander-sulla.json"
+      }
+    },
+    {
+      "eul_wid": "jxi-aa",
+      "title": {
+        "english": "On Beauty and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dius-of-phoenicia-beauty-excellence-jxi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dius-of-phoenicia/beauty-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dius-of-phoenicia/beauty-excellence.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bq",
+      "title": {
+        "english": "On Poetics",
+        "ancient_greek": "Περὶ ποιητικῆς"
+      },
+      "url_slug": "aristotle-poetics-hgw-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/poetics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/poetics.json"
+      }
+    },
+    {
+      "eul_wid": "ljk-aa",
+      "title": {
+        "english": "On Signs of Waters, Winds, Storms, and Fair Weather",
+        "ancient_greek": "Περὶ τῶν Σημείων τῶν Ὑδάτων, Ἀνέμων, Θυελλῶν, καὶ Εὐδίας"
+      },
+      "url_slug": "theophrastus-of-eresus-weather-signs-ljk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/weather-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/weather-signs.json"
+      }
+    },
+    {
+      "eul_wid": "pqo-ab",
+      "title": {
+        "english": "Overview of Medicine",
+        "ancient_greek": "Σύνοψις Ἰατρικῆς"
+      },
+      "url_slug": "leo-of-constantinople-overview-medicine-pqo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/leo-of-constantinople/overview-medicine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-constantinople/overview-medicine.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-ax",
+      "title": {
+        "english": "Phaedrus",
+        "ancient_greek": "Φαῖδρος"
+      },
+      "url_slug": "plato-phaedrus-ffk-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/phaedrus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedrus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedrus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedrus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedrus.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bn",
+      "title": {
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
+      },
+      "url_slug": "themistius-philopolis-rye-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bo",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "aristotle-testimonies-hgw-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

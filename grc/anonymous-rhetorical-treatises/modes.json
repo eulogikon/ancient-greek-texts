@@ -1,0 +1,384 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rhg-av",
+  "eul_aid": "rhg",
+  "author_slug": "anonymous-rhetorical-treatises",
+  "work_slug": "modes",
+  "url_slug": "anonymous-rhetorical-treatises-modes-rhg-av",
+  "author": {
+    "english": "Rhetorical Treatise Anonymous",
+    "ancient_greek": "Ἀνώνυμος ῥητορικὸς λόγος"
+  },
+  "title": {
+    "english": "On Modes",
+    "ancient_greek": "Περὶ τρόπων"
+  },
+  "seo": {
+    "browser_title": "On Modes by Rhetorical Treatise Anonymous on Eulogikon",
+    "meta_title": "On Modes by Rhetorical Treatise Anonymous in Greek",
+    "meta_description": "This anonymous rhetorical treatise systematically classifies tropes and figures of speech essential to oratory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Modes_ is an anonymous Greek rhetorical treatise known only by its title and a notation that it originally comprised three sections, though the specific content and nature of these passages are not detailed in any extant sources. In rhetorical terminology, the Greek word <strong>tropos</strong> primarily denotes a &quot;trope&quot; or figure of speech, but it can also refer to a mode of argumentation or a particular style. Based on its title and the conventions of the genre, the work almost certainly offered a systematic classification and analysis of rhetorical tropes, such as metaphor and metonymy, alongside instruction on their practical application in speech composition. As a technical handbook, it belongs to the widespread tradition of Hellenistic and Roman rhetorical education, focusing on the detailed dissection of language and style that was central to ancient oratorical training. No information survives regarding its manuscript tradition or current preservation status, leaving it a title known only from secondary listings of anonymous rhetorical works.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3.227.(1t)",
+      "text": "ΑΝΩΝΥΜΟΥ ΠΕΡΙ ΤΡΟΠΩΝ. Τρόπος ἐστὶ λέξις ἢ φράσις πεποιημένη ἢ τετραμμένη ἀπὸ τοῦ κυρίου ἐπὶ τὸ μὴ κύριον κατά τινα λόγον εἰς δήλωσιν εὐπρεπεστέραν. τὸ δὲ ὄνομα ῥηματικὸν ὡς παρὰ τὸ λέγω λόγος, καὶ παρὰ τὸ τρέπω τρόπος. λέγεται δὲ τρόπος ἑξαχῶς, τὸ ἑκάστου ἦθος, καθὸ εὔτροπόν τινα καὶ κακότροπόν φαμεν, καὶ σχῆμα λόγου τὸ ἐν διαλεκτικῇ, εἰ ἡμέρα ἐστί, φῶς ἐστιν, ἀλλὰ μὴν ἡμέρα ἐστίν, φῶς ἐστιν ἄρα· καὶ ὁ ἐν μουσικῇ Λύδιος, Φρύγιος, καὶ ἡ ἐπὶ πολλῆς τῆς διανοίας τροπή, καθ’ ὃ σημαινόμενον καὶ ὁ ποιητὴς τὸν Ὀδυσσέα πολύτροπον εἴρηκεν, ἄνδρα μοι ἔννεπε Μοῦσα πολύτροπον· καὶ ἡ αἰτία, ὅτε φαμέν, τίνα τρόπον ἀναπνοή, καὶ ὁ ἐν τῇ φράσει, εἰς ὃν ἐμπίπτει ἡ μεταφορὰ καὶ τὰ λοιπὰ τῶν τροπικῶν ὀνομάτων. τρόποι δέ εἰσι πλείονες, γενικώτατοι μέντοι τάξιν ἔχοντες ιεʹ· μεταφορά, κατάχρησις, συνεκδοχή, μετωνυμία, ἀλληγορία, ὑπερβολή, εἰρωνεία, αἴνιγμα, ὑπερβατόν, ἀντονομασία, ἀντίφρασις, μετάληψις, πεποιημένον, ὀνοματοποιΐα, σύλληψις. Εἰσὶ δ’ οὗτοι κοινοὶ μὲν καὶ τῆς ἡμετέρας συνηθείας, ἐπιπολάζουσι δὲ ἐν ποιητικῇ, διὸ καὶ ποιητικοὶ κέκληνται· παρελήφθησαν δ’ αὐτῶν οἱ μὲν κόσμου χάριν, ὡς ἡ μεταφορά, οἱ δὲ τοῦ ἀναγκαίου, ὡς ἡ κατάχρησις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.228",
+      "text": "Μεταφορά ἐστι λέξις ἀπὸ τοῦ κυρίως ὠνομασμένου ἐφ’ ἕτερον ὠνομασμένον μετενηνεγμένη [ἀπὸ τοῦ κυρίου ἐπὶ τὸ μὴ κύριον] ἢ ὁμοιώσεως ἢ ἐμφάσεως ἕνεκα· ὁμοιώσεως μὲν πάντες δ’ ἐσσείοντο πόδες πολυπιδάκου Ἴδης· ὃν γὰρ ἔχουσιν οἱ πόδες ἐπὶ τοῦ σώματος λόγον, τοῦτον ἐπὶ τοῦ ὄρους ἡ ὑπώρεια. ἐμφάσεως δὲ τὴν δὲ γυναῖκα εὗρον ὅσην τ’ ὄρεος κορυφήν. μεταφορικῶς γὰρ ὄρους ἐξοχὴν εἶπε βουλόμενος ἐμφῆναι τὸ μέγεθος τῆς γυναικός. Ἔτι τῶν μεταφορῶν αἱ μὲν ἀπὸ πράξεως εἰς πράξιν μεταφέρονται, αἱ δὲ ἀπὸ σώματος ἐπὶ σῶμα· ἀπὸ μὲν οὖν σώματος ἐπὶ σῶμα, ὡς τὸ Αἴας δὲ πρῶτος Τελαμώνιος ἕρκος Ἀχαιῶν· ἀπὸ δὲ πράξεως εἰς πρᾶξιν, ὡς τὸ ὑφαίνειν τὸ βουλεύεσθαι. ἔτι τῶν μεταφορῶν αἱ μὲν ἀντιστρέφουσιν, αἱ δὲ οὔ· καὶ ἀντιστρέφουσι μὲν αἱ τοιαῦται, φθέγξατο δ’ ἡνίοχος νηὸς κυανοπρώροιο, καὶ ἵππων κυβερνητῆρες· ἔχουσι γάρ τι μέσον πρὸς ἀλλήλους· ὁ μὲν γὰρ τὴν τῶν ἵππων ἐξιθύνει πορείαν, ὁ δὲ τὴν τῶν νεῶν. οὐκ ἀντιστρέφουσι δὲ αἱ τοιαῦται, νῆσος τὴν περὶ πόντος ἀπείριτος ἐστεφάνωται· ἐστεφανῶσθαι γὰρ εἴρηκε τὴν νῆσον ἀντὶ τοῦ κύκλωθεν περιρρεῖσθαι, ὅπερ οὐκ ἀντιστρέψας εἴποι, ὅτι στέφανος ἡμῶν κύκλῳ τὴν κεφαλὴν περιρρεῖ· τὸ γὰρ τοιοῦτον γελοῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.229",
+      "text": "ἔτι τῶν μεταφορῶν αἱ μὲν ἀπὸ γένους ἐπὶ γένη μεταφέρονται, νηῶν ὠκυπόρων ἐπιβαινέμεν, αἵθ’ ἁλὸς ἵπποι ἀνδράσι γίνονται· περόωσι δὲ πουλὺν ἐφ’ ὑγρήν. ἵππους μὲν εἴρηκε κατὰ μεταφορὰν τὰς ναῦς· ὥσπερ γὰρ ἐπὶ τῆς γῆς διὰ τῶν ἵππων ὀχούμεθα, οὕτως ἐπὶ τῆς θαλάσσης διὰ τῶν νεῶν κουφιζόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rhg-aa",
+      "title": {
+        "english": "Declamation of Paris to the Trojan Senate",
+        "ancient_greek": "Διατριβὴ Πάριδος πρὸς τὴν Τρωικὴν βουλήν"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-paris-trojan-senate-rhg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/paris-trojan-senate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/paris-trojan-senate.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ah",
+      "title": {
+        "english": "Excerpts-the Art of Rhetoric",
+        "ancient_greek": "Ἐκλογαὶ περὶ τῆς ῥητορικῆς τέχνης"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-excerpts-rhg-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ag",
+      "title": {
+        "english": "Expositithe Art of Rhetoric",
+        "ancient_greek": "Ἔκθεσις τῆς ῥητορικῆς τέχνης"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-exposit-rhg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/exposit",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/exposit.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-al",
+      "title": {
+        "english": "Introduction to Invention",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν εὕρεσιν"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-rhg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ac",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise A)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ac-rhg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ac.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ad",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise B)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ad-rhg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ae",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise C)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ae-rhg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ae.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ap",
+      "title": {
+        "english": "Notes-Discoveries",
+        "ancient_greek": "Σημειῶδες εἰς τὰς εὑρέσεις"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-notes-discoveries-rhg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/notes-discoveries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/notes-discoveries.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-au",
+      "title": {
+        "english": "On Figures",
+        "ancient_greek": "Περὶ σχημάτων"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-figures-rhg-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-am",
+      "title": {
+        "english": "On Figures of Speech (Treatise A)",
+        "ancient_greek": "Περὶ τῶν τοῦ λόγου σχημάτων"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-figures-speech-am-rhg-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures-speech-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-am.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-an",
+      "title": {
+        "english": "On Figures of Speech (Treatise B)",
+        "ancient_greek": "Περὶ τῶν σχημάτων τοῦ λόγου"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-figures-speech-an-rhg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/figures-speech-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/figures-speech-an.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ar",
+      "title": {
+        "english": "On Magnificence",
+        "ancient_greek": "Περὶ μεγαλοπρεπείας"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-magnificence-rhg-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/magnificence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/magnificence.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-ar",
+      "title": {
+        "english": "Against Agoratus for Informing",
+        "ancient_greek": "κατὰ Ἀγοράτου ἐνδείξεως"
+      },
+      "url_slug": "lysias-agoratus-ejc-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/agoratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-az",
+      "title": {
+        "english": "Against Ergocles, Epilogue",
+        "ancient_greek": "κατὰ Ἐργοκλέους ἐπίλογος"
+      },
+      "url_slug": "lysias-against-ergocles-ejc-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-ergocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.json"
+      }
+    },
+    {
+      "eul_wid": "ufk-aa",
+      "title": {
+        "english": "Descriptions",
+        "ancient_greek": "Ἐκφράσεις"
+      },
+      "url_slug": "callistratus-the-sophist-descriptions-ufk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callistratus-the-sophist/descriptions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-the-sophist/descriptions.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bz",
+      "title": {
+        "english": "Dionysus",
+        "ancient_greek": "Διόνυσος"
+      },
+      "url_slug": "aristides-the-orator-dionysus-qwm-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "nno-aa",
+      "title": {
+        "english": "On Barbarism and Solecism",
+        "ancient_greek": "Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ"
+      },
+      "url_slug": "polybius-of-sardis-barbarism-solecism-nno-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polybius-of-sardis/barbarism-solecism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ck",
+      "title": {
+        "english": "Phalaris",
+        "ancient_greek": "Φάλαρις"
+      },
+      "url_slug": "lucian-of-samosata-phalaris-pfk-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/phalaris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-be",
+      "title": {
+        "english": "Sacred Words Second",
+        "ancient_greek": "Ἱεροὶ λόγοι δεύτερος"
+      },
+      "url_slug": "aristides-the-orator-sacred-words-be-qwm-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/sacred-words-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-be.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-be.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-be.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-be.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-aw",
+      "title": {
+        "english": "To the Well of Asclepius",
+        "ancient_greek": "Εἰς τὸ φρέαρ τοῦ Ἀσκληπιοῦ"
+      },
+      "url_slug": "aristides-the-orator-well-asclepius-qwm-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/well-asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/well-asclepius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/well-asclepius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/well-asclepius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/well-asclepius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/modes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/modes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

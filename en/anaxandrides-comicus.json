@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hbw",
+  "auth_slug": "anaxandrides-comicus",
+  "name": {
+    "english": "Anaxandrides Comicus",
+    "ancient_greek": "Ἀναξανδρίδης ὁ κωμικός"
+  },
+  "seo_h1": "Anaxandrides the Comic Poet on Drinking and Fate",
+  "seo": {
+    "browser_title": "Anaxandrides Comicus on Eulogikon Greek Archive Collection",
+    "meta_title": "Anaxandrides Ancient Greek Comedy Works and Fragments",
+    "meta_description": "Anaxandrides was a 4th century BCE Athenian comic poet of Middle Comedy. Surviving fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Anaxandrides was a Greek comic playwright active in Athens during the 4th century BCE, a period known as Middle Comedy. Originally from the island of Rhodes, he was granted Athenian citizenship. Ancient records indicate he began producing plays around 368 BCE and won ten victories at Athenian dramatic festivals.</p>\n<p class=\"research-text\">He was a prolific author, though his works survive only in fragments and titles quoted by later writers. Known titles include the prize-winning play <strong>Hērōs</strong>, as well as <strong>Samia</strong> and <strong>Tereus</strong>. His comedies often dealt with mythology, social types, and domestic situations.</p>\n<p class=\"research-text\">Anaxandrides is a significant figure in the history of comedy. His career illustrates the genre&#x27;s evolution away from the political satire of earlier times toward plots focused on general social life and romance. According to ancient testimony, he is credited with being the first comic poet to make love affairs and the seduction of maidens a central plot element, a theme that later became standard in New Comedy. His fragments provide valuable insights into the tastes and daily life of his era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "hbw-aa",
+      "title": {
+        "english": "Fragments on Drinking and Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόσεως καὶ Εἱμαρμένης"
+      },
+      "url_slug": "anaxandrides-comicus-drinking-fate-hbw-aa",
+      "passages": 217,
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandrides-comicus/drinking-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/drinking-fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/drinking-fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/drinking-fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/drinking-fate.json"
+      }
+    },
+    {
+      "eul_wid": "hbw-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "anaxandrides-comicus-fate-hbw-ab",
+      "passages": 194,
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxandrides-comicus/fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxandrides-comicus/fate.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/anaxandrides-comicus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxandrides-comicus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxandrides-comicus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxandrides-comicus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anaxandrides-comicus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

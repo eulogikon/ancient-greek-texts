@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pgy",
+  "auth_slug": "maximus-of-tyre",
+  "name": {
+    "english": "Maximus of Tyre",
+    "ancient_greek": "Μάξιμος ὁ Τύριος"
+  },
+  "seo_h1": "Maximus of Tyre and the Philosophical Conversations",
+  "seo": {
+    "browser_title": "Maximus of Tyre Ancient Greek Orations on Eulogikon Archive",
+    "meta_title": "Classical Maximus of Tyre Ancient Greek Orations and Works",
+    "meta_description": "Maximus of Tyre, a 2nd century CE Greek philosopher. His surviving works explore philosophical themes. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Maximus of Tyre was a Greek philosopher and public speaker who lived and worked in the 2nd century CE, during the Roman Empire. He was from the city of Tyre in the eastern Mediterranean. Described as a traveling lecturer, he was part of the cultural movement known as the Second Sophistic and delivered speeches in Rome and other imperial cities.</p>\n<p class=\"research-text\">As a philosopher, he is considered a Middle Platonist, meaning his thought was based on the teachings of Plato but adapted to the later Roman era. His only surviving works are a collection of 41 short lectures or essays. These orations cover popular ethical and philosophical topics, such as the nature of God, the Socratic method, and how to live a good life.</p>\n<p class=\"research-text\">According to modern scholars, Maximus of Tyre is significant not as an original thinker, but as a clear example of how complex philosophy was communicated to a broad, educated public. His work blends Platonic doctrine with skilled rhetoric, demonstrating how philosophical ideas were popularized in his time. His writing is also noted for its clear and elegant classical Greek style, which was admired in his era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pgy-aa",
+      "title": {
+        "english": "Conversations",
+        "ancient_greek": "Διαλέξεις"
+      },
+      "url_slug": "maximus-of-tyre-conversations-pgy-aa",
+      "passages": 1161,
+      "links": {
+        "html": "https://eulogikon.org/grc/maximus-of-tyre/conversations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-tyre/conversations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-tyre/conversations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-tyre/conversations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-tyre/conversations.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/maximus-of-tyre",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-tyre.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-tyre.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-tyre.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/maximus-of-tyre.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

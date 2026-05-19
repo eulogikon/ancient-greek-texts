@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bay-aa",
+  "eul_aid": "bay",
+  "author_slug": "cercops-the-orphic",
+  "work_slug": "testimony",
+  "url_slug": "cercops-the-orphic-testimony-bay-aa",
+  "author": {
+    "english": "Cercops the Orphic",
+    "ancient_greek": "Κέρκωψ ὁ Ὀρφικός"
+  },
+  "title": {
+    "english": "Testimony",
+    "ancient_greek": "Μαρτυρία"
+  },
+  "seo": {
+    "browser_title": "The Testimony by Cercops the Orphic on Eulogikon Archive",
+    "meta_title": "Classical Testimony by Cercops the Orphic in Ancient Greek",
+    "meta_description": "Theological and poetic work by Cercops the Orphic, representing Orphic religious tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimony</strong> attributed to Cercops the Orphic represents a complex facet of pseudepigraphical Orphic literature. Ancient sources, including Clement of Alexandria and the Suda, identify Cercops, a Pythagorean figure, as a possible author of the core Orphic theogonic poem known as the <strong>Hieros Logos</strong> or Sacred Discourse. This lost hexameter work, which other traditions ascribe to different poets, narrated a distinctive cosmogony beginning with the primordial entities Chronos and Ananke. Its central narrative involved the emergence of the bisexual deity Phanes, or Protogonos, and a cycle of divine succession culminating in Zeus swallowing this primal god to assimilate his creative power and remake the cosmos. The title <strong>Testimony</strong> itself suggests a collection of authoritative doctrinal statements consistent with such Orphic mythological expositions. While no discrete text by that name survives, the theogonic material associated with Cercops encompassed an influential anthropogony describing humanity&#x27;s origin from the ashes of the Titans, thereby explaining the soul&#x27;s divine origin and mortal burden. These Orphic doctrines, transmitted only through fragmentary quotations by later philosophers, Neoplatonists, and Christian apologists, provided a major alternative to the Hesiodic tradition and profoundly impacted Pre-Socratic thought, Plato, and subsequent Gnostic and Neoplatonic systems concerning the nature of the soul and the divine.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "CIC. de n. deor. I 38, 107 Orpheum poetam docet Aristoteles [ fr. 7] numquam fuisse et hoc Orphicum carmen Pythagorei ferunt cuiusdam fuisse Cercopis. CLEM. Str. I 131 (II 81, 11 Stähl.) Ἐπιγένης δὲ ἐν τοῖς Περὶ τῆς εἰς Ὁρφέα 〈ἀναφερομένησ〉 ποιήσεως Κέρκωπος εἶναι λέγει τοῦ Πυθαγορείου τὴν Εἰς Ἅιδου κατάβασιν καὶ τὸν Ἱερὸν λόγον τὸν δὲ Πέπλον καὶ τὰ Φυσικὰ Βροντίνου [c. 17]. SUID. S. V. Ὀρφεύς. Ἱεροὺς λόγους ἐν ῥαψωιδίαις κδ . λέγονται δὲ εἶναι Θεογνήτου τοῦ Θεσσαλοῦ, οἱ δὲ Κέρκωπος τοῦ Πυθαγορείου. DIOG. II 46 [S. I 103, 10ff.] καὶ Κέρκωψ Ἡσιόδωι ζῶντι. [ἐφιλονίκει].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "pcs-ak",
+      "title": {
+        "english": "Alexander's Anabasis",
+        "ancient_greek": "Ἀλεξάνδρου Ἀνάβασις"
+      },
+      "url_slug": "arrian-of-nicomedia-anabasis-pcs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.json"
+      }
+    },
+    {
+      "eul_wid": "aoq-aa",
+      "title": {
+        "english": "Letters of Periander",
+        "ancient_greek": "Ἐπιστολαὶ Περίανδρου"
+      },
+      "url_slug": "periander-of-corinth-letters-aoq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/periander-of-corinth/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth/letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth/letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth/letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/periander-of-corinth/letters.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ez",
+      "title": {
+        "english": "On Fate",
+        "ancient_greek": "Περὶ εἱμαρμένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-on-fate-okg-ez",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/on-fate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/on-fate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/on-fate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/on-fate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/on-fate.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dd",
+      "title": {
+        "english": "On Love of Wealth",
+        "ancient_greek": "Περὶ φιλοπλουτίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-love-wealth-okg-dd",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/love-wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/love-wealth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/love-wealth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/love-wealth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/love-wealth.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bv",
+      "title": {
+        "english": "On the Face in the Moon's Orb",
+        "ancient_greek": "Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς"
+      },
+      "url_slug": "plutarch-of-chaeronea-face-moon-okg-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/face-moon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/face-moon.json"
+      }
+    },
+    {
+      "eul_wid": "pxc-aa",
+      "title": {
+        "english": "Sentences of Sextus",
+        "ancient_greek": "Γνῶμαι Σέξτου"
+      },
+      "url_slug": "sententiae-sexti-sentences-pxc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sententiae-sexti/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sententiae-sexti/sentences.json"
+      }
+    },
+    {
+      "eul_wid": "bdq-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "cleostratus-of-tenedos-testimonies-bdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleostratus-of-tenedos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleostratus-of-tenedos/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "eyw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "eurytus-the-pythagorean-testimonies-eyw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eurytus-the-pythagorean/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eurytus-the-pythagorean/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/cercops-the-orphic/testimony",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic/testimony.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic/testimony.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic/testimony.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercops-the-orphic/testimony.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

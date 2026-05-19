@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "fmi",
+  "auth_slug": "andron-of-ephesus",
+  "name": {
+    "english": "Andron of Ephesus the Historian",
+    "ancient_greek": "Ἄνδρων ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Andron of Ephesus on the Seven Sages and Pythagoras",
+  "seo": {
+    "browser_title": "Andron of Ephesus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Classical Andron of Ephesus Ancient Greek Historical Works",
+    "meta_description": "Andron of Ephesus, a 4th century BCE Ionic historian. Surviving historical fragments from his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Andron of Ephesus was a Greek historian from Ephesus in Ionia, active in the 4th century BCE. No biographical details survive. The epithet &quot;the Historian&quot; distinguishes him from the later Peripatetic philosopher of the same name.</p>\n<p class=\"research-text\">He is known solely for his lost work, the <strong>Tripod</strong>, a chronicle of victors in athletic and musical contests organized around the awarded tripods. Surviving only in fragments, it served as an early source for Greek chronology, particularly for dating events prior to the first Olympiad.</p>\n<p class=\"research-text\">Andron was an important early chronographer. His <strong>Tripod</strong> was used by later historians like Eratosthenes and Apollodorus to establish timelines for Greek mythical and early historical events. His work represents an early systematic attempt at historical chronology based on victor lists.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "fmi-aa",
+      "title": {
+        "english": "On the Seven Sages and Pythagoras",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "andron-of-ephesus-seven-sages-pythagoras-fmi-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/andron-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-ephesus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-ephesus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-ephesus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/andron-of-ephesus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

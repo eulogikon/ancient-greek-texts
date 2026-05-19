@@ -1,0 +1,2869 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "odi-af",
+  "eul_aid": "odi",
+  "author_slug": "hero-of-alexandria",
+  "work_slug": "fragments",
+  "url_slug": "hero-of-alexandria-fragments-odi-af",
+  "author": {
+    "english": "Hero of Alexandria ",
+    "ancient_greek": "Ἥρων ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Heronian Fragments",
+    "ancient_greek": "Ἀποσπάσματα Ἡρωνιακά"
+  },
+  "seo": {
+    "browser_title": "Heronian Fragments by Hero of Alexandria on Eulogikon",
+    "meta_title": "Heronian Fragments by Hero of Alexandria in Ancient Greek",
+    "meta_description": "Hero of Alexandria's geometric writings survive in fragmentary form, preserving ancient mathematical knowledge on Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Heronian Fragments is an anthology of 358 passages of didactic verse attributed to Hero of Alexandria. Written in dactylic hexameter, this encyclopedic compilation covers practical and scientific topics, synthesizing knowledge from earlier poetic sources into a form intended for memorization and application. The fragments encompass a wide range of subjects, including astronomy, astrology, and celestial phenomena; mathematics, geometry, and mechanical principles; natural philosophy, such as weather and animals; and practical lore related to agriculture and daily life. The work survives in medieval manuscripts, primarily the Codex Parisinus suppl. gr. 607. Scholars consider it a Byzantine or late antique compilation of excerpts from earlier poets, assembled and ascribed to Hero of Alexandria to lend it authority. While of limited direct influence, the fragments are a valuable witness to the tradition of scientific didactic poetry. They illustrate what technical knowledge was versified for memorization and preserve excerpts of otherwise lost works. The attribution reflects Hero’s enduring authority in medieval scholarly tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]Ἡ πρώτη γεωμετρία, καθὼς ἡμᾶς ὁ παλαιὸς διδάσκει λόγος, τὰ περὶ τὴν γαιῶν μέτρησιν καὶ δια‐ νομὴν κατησχολεῖτο, ὅθεν καὶ γεωμετρία ἐκλήθη. ἡ γὰρ τῆς μετρήσεως ἐπίνοια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παρ’ Αἰγυπτίοις εὑρέθη[ln_5]διὰ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῦ Νείλου ἀνάβασιν· πολλὰ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χωρία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "φα‐ νερὰ ὄντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πρὸ τῆς ἀναβάσεως τῇ ἀναβάσει ἀφανῆ ἐποίει, πολλὰ δὲ μετὰ τὴν ἀπόβασιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "φανερὰ ἐγίνετο, καὶ οὐκέτι ἦν δυνατὸν ἕκαστον διακρῖναι τὰ ἴδια· ἐξ οὗ ἐπενόησαν οἱ Αἰγύπτιοι τήνδε τὴν μέτρησιν τῆς[ln_10]ἀπολειπομένης ὑπὸ τοῦ Νείλου γῆς· χρῶνται δὲ τῇ μετρήσει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "πρὸς ἑκάστην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "πλευρὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "τοῦ χωρίου ὅτε μὲν τῷ καλουμένῳ σχοινίῳ, ὅτε δὲ καλάμῳ, ὅτε δὲ πή‐ χει, ὅτε δὲ καὶ ἑτέροις μέτροις· χρειώδους δὲ τοῦ πράγματος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "τοῖς ἀνθρώποις ὑπάρχοντος ἐπὶ πλέον[ln_15]προήχθη τὸ γεγονὸς ὥστε καὶ ἐπὶ τὰ στερεὰ σώματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "χωρῆσαι τὴν διοίκησιν τῶν μετρήσεων καὶ τῶν δια‐ νομῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Εἰς οὖν τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "περὶ τῆς μετρήσεως λόγον ἀναγ‐ καῖόν ἐστιν εἰδέναι τὴν τῶν μέτρων ἰδέαν, πρὸς ὃ βούλεταί τις ἀναμετρεῖν, καὶ ἑκάστου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "σχήματος τὸ εἶδος, καὶ πῶς δεῖ ἀναμετρεῖν. ὑποδείξομεν δὲ[ln_5][πρῶτον] τὴν τῶν μέτρων ἰδέαν. Περὶ εὐθυμετρικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Εὐθυμετρικὸν μὲν οὖν ἐστι πᾶν τὸ κατὰ μῆκος μόνον μετρούμενον [ὥσπερ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "ταῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "σκουτλώσεσιν οἱ στροφίολοι καὶ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τοῖς ξυλικοῖς τὰ κυμάτια καὶ ὅσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "πρὸς μῆκος μόνον μετρεῖται].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ἔστι τῶν μέτρων εἴδη τάδε· δάκτυλος, παλαι‐ στής, διχάς, σπιθαμή, πούς, πυγών, πῆχυς, βῆμα, ξύλον, ὀργυιά, κάλαμος, ἄκενα, ἄμμα, πλέθρον, ἰούγερον, στάδιον, δίαυλον, μίλιον, σχοῖνος, παρα‐[ln_5]σάγγης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Ἐλάχιστον δὲ τούτων ἐστὶ δάκτυλος καὶ πάντα τὰ ἐλάττονα μόρια καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Ὁ μὲν οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "παλαιστὴς ἔχει δακτύλους δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ἡ δὲ διχὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "παλαιστὰς βʹ, δακτύλους ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Ἡ σπιθαμὴ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "παλαιστὰς γʹ, δακτύλους ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "Ὁ ποὺς ὁ μὲν βασιλικὸς καὶ Φιλεταίρειος λε‐ γόμενος ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "παλαιστὰς δʹ, δακτύλους ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Ὁ δὲ Ἰταλικὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "ποὺς ἔχει δακτύλους ιγʹ γʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "Ἡ πυγὼν ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "παλαιστὰς εʹ, δακτύλους κʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "Ὁ πῆχυς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "παλαιστὰς ϛʹ, δακτύλους κδʹ. [καλεῖται δὲ καὶ ξυλοπριστικὸς πῆχυς.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "Τὸ βῆμα ἔχει πῆχυν αʹ 𐅷ʹʹ, παλαιστὰς ιʹ, δα‐ κτύλους μʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "Τὸ ξύλον ἔχει πήχεις γʹ, πόδας δʹ𐅶, παλαιστὰς ιηʹ, δακτύλους οβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "Ἡ ὀργυιὰ ἔχει πήχεις δʹ, πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "Φιλεταιρείους ϛʹ, Ἰταλικοὺς ζʹεʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "Ὁ κάλαμος ἔχει πήχεις ϛʹ 𐅷ʹʹ, πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "Φιλεται‐ ρείους ιʹ, Ἰταλικοὺς ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "Τὸ ἄμμα ἔχει πήχεις μʹ, πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "Φιλεταιρείους ξʹ, Ἰταλικοὺς οβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "Τὸ πλέθρον ἔχει ἀκένας ιʹ, πήχεις ξϛʹ 𐅷ʹʹ, πό‐ δας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "Φιλεταιρείους μὲν ρʹ, Ἰταλικοὺς δὲ ρκʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.1",
+      "text": "[Ἡ δὲ ἄκενα ἔχει πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.2",
+      "text": "Φιλεταιρείους ιʹ, ἤτοι δακτύλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.3",
+      "text": "ρξʹ.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.1",
+      "text": "Τὸ ἰούγερον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.2",
+      "text": "πλέθρα βʹ, ἀκένας κʹ, πήχεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.3",
+      "text": "ρλγʹ γʹʹ, πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.4",
+      "text": "Φιλεταιρείους· μῆκος μὲν σʹ, πλάτος δὲ ρʹ, Ἰταλικοὺς δὲ τὸ μὲν μῆκος πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.5",
+      "text": "σμʹ, τὸ δὲ πλάτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.6",
+      "text": "ρκʹ· ὡς γίνεσθαι ἐμβαδικοὺς ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.7",
+      "text": "τετραγώνῳ[ln_5]β̈ ͵ηωʹ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.1",
+      "text": "Τὸ στάδιον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.2",
+      "text": "πλέθρα ϛʹ, ἀκένας ξʹ, πήχεις υʹ, πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.3",
+      "text": "Φιλεταιρείους μὲν χʹ, Ἰταλικοὺς δὲ ψκʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.1",
+      "text": "Τὸ δίαυλον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.2",
+      "text": "πλέθρα ιβʹ, ἤτοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.3",
+      "text": "στάδια βʹ, ἀκένας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.4",
+      "text": "ρκʹ, πήχεις ωʹ, πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.5",
+      "text": "Φιλεταιρείους μὲν ͵αςʹ, Ἰταλικοὺς δὲ πόδας ͵αυμʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "Τὸ μίλιον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "στάδια ἑπτὰ ἥμισυ, πλέθρα μεʹ, ἀκένας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.3",
+      "text": "υνʹ, ὀργυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.4",
+      "text": "ψνʹ, βήματα ͵αωʹ, πήχεις ͵γ, πό‐ δας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.5",
+      "text": "Φιλεταιρείους μὲν ͵δφʹ, Ἰταλικοὺς δὲ ͵ευʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "Ὁ σχοῖνος ἔχει μίλια δʹ, σταδίους λʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25.1",
+      "text": "Ὁ παρασάγγης ἔχει μίλια δʹ, σταδίους λʹ· ἔστι δὲ τὸ μέτρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25.2",
+      "text": "Περσικόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.1",
+      "text": "[Ἀλλὰ ταῦτα μὲν κατὰ τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.2",
+      "text": "παλαιὰν ἔκθεσιν· τὴν δὲ νῦν κρατοῦσαν δύναμιν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.3",
+      "text": "τοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.4",
+      "text": "προοιμίοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.5",
+      "text": "τοῦ λόγου ὑπετάξαμεν.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Τὰ μὲν οὖν εὐθυμετρικὰ εἴδη εἰσὶν ιαʹ, δάκτυ‐ λος, οὐγγία, παλαιστή, σπιθαμή, πούς, πῆχυς, βῆμα, ὀργυιά, ἄκενα, πλέθρον, στάδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἐλάχιστον δὲ τούτων ἐστὶ δάκτυλος, καὶ πάντα τὰ ἐλάττονα μόρια καλεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ἡ οὐγγία ἔχει δακτύλους αʹ γʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ἡ παλαιστὴ ἔχει δακτύλους δʹ, οὐγγίας γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ἡ σπιθαμὴ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "παλαιστὰς γʹ, δακτύλους ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Ὁ ποὺς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "παλαιστὰς δʹ, δακτύλους ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ὁ πῆχυς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "παλαιστὰς ϛʹ, δακτύλους κδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Τὸ βῆμα ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "παλαιστὰς ιʹ, δακτύλους μʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "Ἡ ὀργυιὰ ἔχει δακτύλους Ϟϛʹ, πόδας ϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Ἡ ἄκενα ἔχει δακτύλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "ρξʹ, πόδας ιʹ Φιλεται‐ ρείους, καλεῖται δὲ ῥωμαϊστὶ περτικά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "Τὸ πλέθρον ἔχει τὸ Ἑλληνικὸν πόδας ρʹ τὸ μῆκος καὶ τὸ πλάτος ρʹ, ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "τετραγώνῳ α̈.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "Τὸ ἰούγερον ἔχει [τὸ Ἑλληνικὸν] τὸ μὲν μῆκος πόδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "σμʹ, τὸ δὲ πλάτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "ρκʹ ὡς γίνεσθαι ἐμβαδικοὺς ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.4",
+      "text": "τετραγώνῳ μυριάδας βʹ ͵ηωʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "Τὸ στάδιον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "πλέθρα ϛʹ, ἀκένας ξʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "Τὸ μίλιον ἔχει πόδας ͵ε, βήματα ͵β, ἀκένας φʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "Ἡ οὐγγία ἔχει ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "τετραγώνῳ δάκτυλον αʹ 𐅷ʹʹ θʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "Ἡ παλαιστὴ ἔχει ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "τετραγώνῳ δακτύλους ιϛʹ· ἡ δὲ στερεὰ παλαιστὴ ἔχει οὐγγίας κζʹ, δακτύλους ξδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "Ἡ δὲ τετράγωνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "σπιθαμὴ ἔχει οὐγγίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.3",
+      "text": "παʹ, δακτύλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.4",
+      "text": "ρμδʹ· ἡ δὲ στερεὰ σπιθαμὴ ἔχει οὐγγίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.5",
+      "text": "ψκθʹ, δακτύλους ͵αψκηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "Ὁ ποὺς ὁ τετράγωνος ἔχει οὐγγίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "ρμδʹ, δα‐ κτύλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "σνϛʹ, στερεὸς δὲ οὐγγίας ͵αψκηʹ, δακτύλους ͵δϞϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.1",
+      "text": "... ὁ δὲ στερεὸς πῆχυς ἔχει οὐγγίας ͵εωλβʹ, παλαιστὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.2",
+      "text": "σιϛʹ, δακτύλους α̈ ͵γωκδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.1",
+      "text": "Τὸ βῆμα ἔχει ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20.2",
+      "text": "τετραγώνῳ παλαιστὰς ρʹ, οὐγγίας ϡʹ, δακτύλους ͵αχʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "Ἡ τετράγωνος ὀργυιὰ ἔχει πόδας λϛʹ, ἡ δὲ τετράγωνος ἄκενα ἔχει πόδας ρʹ Φιλεταιρείους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Εἰδέναι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρή, ὅτι δάκτυλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρῶτός ἐστιν ὥσπερ καὶ μονάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἡ παλαιστὴ δακτύλους ἔχει δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ὁ ποὺς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "παλαιστὰς δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ὁ πῆχυς ἔχει πόδας αʹ𐅶, τουτέστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "παλαιστὰς ϛʹ, δακτύλους κδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Τὸ βῆμα ἔχει πῆχυν αʹ καὶ πόδα αʹ, ὅ ἐστι πό‐ δας βʹ𐅶, παλαιστὰς ιʹ, δακτύλους μʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Ἡ ὀργυιὰ ἔχει βήματα βʹ καὶ πόδα αʹ, ὅ ἐστι πήχεις δʹ, τουτέστι πόδας ϛʹ, παλαιστὰς κδʹ, δακτύ‐ λους Ϟϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ἡ ἄκενα ἔχει ὀργυιὰν αʹ 𐅷ʹʹ, ὅ ἐστι βήματα τέσσαρα, τουτέστι πήχεις ϛʹ καὶ πόδα αʹ, τουτέστι πόδας ιʹ, παλαιστὰς μʹ, δακτύλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "ρξʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Τὸ πλέθρον ἔχει ἀκένας ιʹ—γίνονται ὀργυιαὶ ιϛʹ πόδες δʹ—τουτέστι βήματα μʹ, ἢ πήχεις ξϛʹ καὶ πόδα αʹ, πόδας ρʹ, παλαιστὰς υʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "Τὸ στάδιον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "πλέθρα ϛʹ, ἀκένας ξʹ, ὀργυιὰς ρʹ, βήματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "σμʹ, πήχεις υʹ, πόδας χʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Τὸ μίλιον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "στάδια ζʹ ἥμισυ, πλέθρα μεʹ, ἀκένας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "υνʹ, ὀργυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.4",
+      "text": "ψνʹ, βήματα ͵αωʹ, πήχεις ͵γ, πό‐ δας ͵δφʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]Τὸ ἰούγερον ἔχει ἀκαίνας σʹ γεϊκῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ποδῶν ͵βυʹ. μήκους γὰρ ἔχει ἀκαίνας κδʹ, διαιρεῖται δὲ εἰς κʹ μέρη ἀνὰ ιβʹ, γίνονται πόδες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σμʹ. πλάτους δὲ ἔχει δώδεκα ἀκαίνας, γίνονται πόδες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ρκʹ· ἐὰν δὲ τὸ μῆκος ἐπὶ τὸ[ln_5]πλάτος, γίνονται πόδες β̈ ͵ηωʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἡ ἄκαινα πόδας ἔχει ιβʹ, γίνονται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παλαισταὶ μηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ὁ ποὺς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "παλαιστὰς δʹ, δακτύλους ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ὁ πῆχυς ὁ εὐθυμετρικὸς ἔχει πόδα ἕνα 𐅵· ὁ πῆχυς ὁ λιθικὸς ἔχει ὁμοίως πόδα αʹ𐅵, δακτύλους κδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "[Ἐὰν τὸ πλάτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "τοὺς κδʹ ἐπὶ τοὺς κδʹ, γίνονται δάκτυλοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "φοϛʹ· τούτους ἐπὶ τὸ πάχος γίνονται ἀγε‐ λαῖοι δάκτυλοι α̈ ͵γωκδʹ.]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Τὰ δὲ μέτρα ἐξεύρηνται ἐξ ἀνθρωπίνων μελῶν, δακτύλου, [κονδύλου,] παλαιστοῦ, σπιθαμῆς, ποδός, πήχεως, βήματος, ὀργυιᾶς καὶ λοιπῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Πάντων δὲ ἐλαχιστότερός ἐστιν ὁ δάκτυλος, ὅστις καὶ μονὰς καλεῖται· διαιρεῖται δὲ ἔσθ’ ὅτε μὲν καὶ εἰς ἥμισυ καὶ τρίτον καὶ λοιπὰ μόρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Μετὰ δὲ τὸν δάκτυλον, ὅς ἐστι μέρος ἐλάχι‐ στον πάντων, ἔστιν [ὁ κόνδυλος, ὃς ἔχει δακτύλους δύο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Εἶτα] ὁ παλαιστής, ὃν καὶ τέταρτόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "τινες κα‐ λοῦσι διὰ τὸ τέσσαρας ἔχειν δακτύλους, ἢ διὰ τὸ εἶναι δʹʹ τοῦ ποδός, τινὲς δὲ καὶ τρίτον διὰ τὸ εἶναι γʹʹ τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "σπιθαμῆς· ἡ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "σπιθαμὴ τρία τέταρτα ἔχει, ὁ δὲ[ln_5]ποὺς τέσσαρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ἡ διχὰς δὲ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "παλαιστὰς δύο, ἤγουν δακτύ‐ λους ὀκτώ [κονδύλους τέσσαρας], καὶ καλεῖται δίμοι‐ ρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "σπιθαμῆς. λιχὰς δὲ λέγεται τὸ τῶν δύο δακτύ‐ λων ἄνοιγμα, τοῦ ἀντίχειρος λέγω καὶ τοῦ λιχανοῦ·[ln_5]τοῦτο καὶ κυνόστομον καλοῦσί τινες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Ἡ σπιθαμὴ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "παλαιστὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "τρεῖς, ἤγουν δακτύ‐ λους ιβʹ [κονδύλους ἕξ].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "Ὁ ποὺς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "σπιθαμὴν μίαν γʹʹ, ἤγουν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "παλαι‐ στὰς δʹ, [κονδύλους ὀκτώ,] ἤτοι δακτύλους ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Ὁ πῆχυς ἔχει πόδας δύο, ἤγουν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "σπιθαμὰς δύο 𐅷ʹʹ, παλαιστὰς ὀκτώ, [κονδύλους ιϛʹ,] δακτύλους λβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "Τὸ βῆμα τὸ ἁπλοῦν ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "σπιθαμὰς γʹ γʹʹ, ἢ πό‐ δας βʹ𐅶, ἢ παλαιστὰς ιʹ, [ἢ κονδύλους κʹ,] ἢ δακτύ‐ λους μʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "Τὸ βῆμα τὸ διπλοῦν ἔχει πόδας εʹ, ἢ σπιθα‐ μὰς ϛʹ 𐅷ʹʹ, ἢ παλαιστὰς κʹ, [ἢ κονδύλους μʹ,] ἢ δακτύ‐ λους πʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "Ὁ πῆχυς ὁ λιθικὸς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "σπιθαμὰς βʹ, ἢ πόδα ἕνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.3",
+      "text": "πρὸς τῷ ἡμίσει, ἢ παλαιστὰς ϛʹ, [ἢ κονδύλους ιβʹ,] ἢ δακτύλους κδʹ· ὡσαύτως καὶ ὁ τοῦ πριστικοῦ ξύλου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "Ἡ ὀργυιὰ μεθ’ ἧς μετρεῖται ἡ σπόριμος γῆ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "σπιθαμὰς βασιλικὰς θʹ δʹʹ, ἢ πόδας ἓξ καὶ σπιθα‐ μὴν αʹ δʹʹ, ἢ παλαιστὰς ἤγουν γρόνθους κζʹ καὶ ἀντί‐ χειρον· τουτέστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "τοὺς μὲν κϛʹ ἐσφιγμένης οὔσης τῆς[ln_5]χειρός, τὸν δὲ τελευταῖον ἢ πρῶτον ἡπλωμένου καὶ αὐτοῦ τοῦ μεγάλου δακτύλου τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.4",
+      "text": "χειρός, ὃς δὴ καὶ λέγεται τέταρτον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.5",
+      "text": "σπιθαμῆς, ἔχει δὲ δακτύλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.6",
+      "text": "τρεῖς. μεθὸ δὲ ποιήσεις ὀργυιὰν ἐν καλάμῳ ἢ ἔν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.7",
+      "text": "τινι ξύλῳ. μετὰ τοῦτο ὀφείλεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.8",
+      "text": "ποιῆσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.9",
+      "text": "σχοινίον ἤγουν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.10",
+      "text": "σωκάριον[ln_10]δεκαόργυιον καὶ οὕτως μετρεῖν ὃν μέλλεις μετρῆσαι τόπον· τὸ γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.11",
+      "text": "σωκάριον τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.12",
+      "text": "σπορίμου γῆς δέκα ὀρ‐ γυιὰς ὀφείλει ἔχειν, τοῦ δὲ λιβαδίου καὶ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.13",
+      "text": "περιο‐ ρισμῶν ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "Καὶ μετὰ μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "τοῦ δεκαοργυίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.3",
+      "text": "σχοινίου ἔχει ὁ τόπος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.4",
+      "text": "τοῦ μοδίου ὀργυιὰς σʹ μόνας, μετὰ δὲ τοῦ δωδεκαοργυίου ἔχει ὀργυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.5",
+      "text": "σπηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.1",
+      "text": "Πλὴν οἱ βραχύτατοι καὶ πεδινοὶ τόποι μετὰ τοῦ δεκαοργυίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.2",
+      "text": "σχοινίου ὀφείλουσι μετρεῖσθαι· οἱ δὲ περιορισμοὶ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.3",
+      "text": "προαστείων καὶ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.4",
+      "text": "χωρίων τῶν ὁλογύρως μετρουμένων μετὰ τοῦ δωδεκαοργυίου[ln_5]σχοινίου διὰ τὸ εὑρίσκεσθαι ἔσωθεν τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.5",
+      "text": "περιορισμῶν αὐτῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.6",
+      "text": "πολλάκις ξηροχειμάρρους καὶ ῥύακας καὶ λό‐ χμας καὶ ἀχρήστους τόπους. ἂν δὲ καὶ μετὰ τοῦ δε‐ καοργυίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.7",
+      "text": "σχοινίου μετρηθῶσιν, ὀφείλουσιν ὑπεξαι‐ ρεῖσθαι εἴτε ἀπὸ τοῦ ἀναβιβασμοῦ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.8",
+      "text": "σωκαρίων[ln_10]κατὰ ιʹ σωκάρια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.9",
+      "text": "σωκάριον αʹ, εἴτε ἀπὸ τοῦ μοδισμοῦ κατὰ δέκα μόδια μόδιον ἓν διὰ τὰς εἰρημένας αἰτίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "Δεῖ δὲ γινώσκειν, ὅτι ὁ σπόριμος μόδιος ἔχει λίτρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "τεσσαράκοντα· μία δὲ ἑκάστη λίτρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.3",
+      "text": "σπείρει γῆν ὀργυιῶν εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "Πλάτος γὰρ καὶ μῆκος ὀργυιῶν πέντε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "ποιοῦσι λίτραν μίαν. [para]Πλάτος καὶ μῆκος ὀργυιῶν ιʹ ποιοῦσι λίτρας βʹ. [para]Πλάτος καὶ μῆκος ὀργυιῶν ιεʹ ποιοῦσι λίτρας γʹ.[ln_5]Πλάτος καὶ μῆκος ὀργυιῶν ρʹ ποιοῦσι λίτρας κʹ. Πλάτος καὶ μῆκος ὀργυιῶν σʹ ποιοῦσι λίτρας μʹ. Πλάτος καὶ μῆκος ὀργυιῶν ͵α",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.3",
+      "text": "ποιοῦσι λίτρας σʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "Αἱ σʹ ὀργυιαί εἰσι τόπος μοδίου ἑνός. Αἱ τʹ ὀργυιαί εἰσι τόπος μοδίου ἑνὸς 𐅶. Αἱ υʹ ὀργυιαί εἰσι τόπος μοδίων βʹ. Αἱ φʹ ὀργυιαί εἰσι τόπος μοδίων βʹ 𐅶.[ln_5]Αἱ χʹ ὀργυιαί εἰσι τόπος μοδίων γʹ. Αἱ ψʹ ὀργυιαί εἰσι τόπος μοδίων γʹ 𐅶. Αἱ ωʹ ὀργυιαί εἰσι τόπος μοδίων δʹ. Αἱ ϡʹ ὀργυιαί εἰσι τόπος μοδίων δʹ 𐅶. Αἱ ͵α ὀργυιαί εἰσι τόπος μοδίων εʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Εἰσὶ δὲ καὶ μέτρα τάδε· δάκτυλος, κόνδυλος, παλαιστή, διχάς, σπιθαμή, πούς, πῆχυς, βῆμα, ὀρ‐ γυιά, σωκάριον, πλέθρον, ἰούγερον, δίαυλος, στά‐ διον, ἄκαινα, μίλιον, σχοῖνος καὶ παρασάγγης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Τὸ πλέθρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "σωκάριον αʹ𐅶 ϛʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Τὸ ἰούγερον γʹ καὶ γʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ὁ δίαυλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "στάδια βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Τὸ στάδιον ιʹ σωκάρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Ἡ ἄκαινα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "σπιθαμὰς ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "Τὸ μίλιον ζʹ 𐅶 στάδια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Ὁ σχοῖνος μίλια δʹ καὶ ὁ παρασάγγης δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]Τῶν δὲ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῖς μεγέθεσι μετρήσεων μέρη κα‐ ταμετροῦντα τὰ ὅλα ἐστὶ τάδε· δάκτυλος, παλαιστή, σπιθαμή, πούς, πῆχυς, βῆμα, ὀργυιά. πάντων δὲ ἐλαχιστότερόν ἐστι δάκτυλος· διαιρεῖται δὲ καὶ εἰς[ln_5]μέρη ἔσθ’ ὅτε μὲν γὰρ καὶ 𐅶 καὶ γʹʹ καὶ λοιπὰ μόρια. εἰσὶ δὲ καὶ ἕτερα μέρη ἐπινενοημένα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τισὶ τάδε· ἄμπε‐ λος, πάσσον, ἄκενα, πλέθρον, ἰούγερον, στάδιον, μίλιον, σχοῖνος, σχοῖνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "Περσικὴ καὶ σχοῖνος Ἑλλη‐ νικὴ καὶ λοιπά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "[ln_10]Τί τῶν εἰρημένων ἕκαστον δύναται;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Κατὰ μὲν τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παλαιὰν ἔκθεσιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "παραλιπόντες τὰ περισσὰ τὴν νῦν κρατοῦσαν δύναμιν ὑπετάξαμεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ὁ παλαιστὴς ἔχει δακτύλους δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Ἡ σπιθαμὴ ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "παλαιστὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "τρεῖς, δακτύλους ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ὁ ποὺς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "σπιθαμὴν αʹ γʹʹ, παλαιστὰς δʹ, δα‐ κτύλους ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Ὁ πῆχυς ἔχει πόδας βʹ, σπιθαμὰς βʹ 𐅷ʹʹ, δα‐ κτύλους λβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "Τὸ βῆμα ἔχει πῆχυν ἕνα, πόδας βʹ, σπιθαμὰς βʹ 𐅷ʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Ἡ ὀργυιὰ ἔχει βήματα βʹ δʹʹ, πήχεις βʹ δʹʹ, πό‐ δας δʹ 𐅶, σπιθαμὰς ϛʹ, δακτύλους οβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "Ἡ ἄμπελος ἔχει ὀργυιὰν αʹ θʹʹ, βήματα βʹ 𐅶, πόδας εʹ, σπιθαμὰς ϛʹ 𐅷ʹʹ, παλαιστὰς κʹ, δακτύλους πʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10",
+      "text": "Τὸ πάσσον ἔχει ἄμπελον αʹ εʹʹ, ὀργυιὰν αʹ γʹʹ, βήματα γʹ, πήχεις γʹ, πόδας ϛʹ, σπιθαμὰς ηʹ, παλαι‐ στὰς κδʹ, δακτύλους Ϟϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11",
+      "text": "Ἡ ἄκενα ἔχει πάσσα βʹ, ἀμπέλους βʹ γʹʹ ιεʹʹ, ὀργυιὰς βʹ 𐅶 ϛʹʹ, βήματα ϛʹ, πήχεις ϛʹ, πόδας ιβʹ, σπι‐ θαμὰς ιϛʹ, παλαιστὰς μηʹ, δακτύλους ρϞβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "Τὸ πλέθρον ἔχει ἀκένας ρʹ, πάσσα σʹ, ἀμπέ‐ λους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "σμʹ, ὀργυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.3",
+      "text": "σξϛʹ 𐅷ʹʹ, βήματα χʹ, πήχεις χʹ, πό‐ δας ͵ασʹ, σπιθαμὰς ͵αχʹ, παλαιστὰς ͵δωʹ, δακτύλους α̈ ͵θσʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "Τὸ ἰούγερον ἔχει ἀμπέλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "υπʹ, πάσσα υʹ, ὀργυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.3",
+      "text": "φλγʹ γʹʹ, πλέθρα βʹ, ἀκένας σʹ, βήματα ͵ασʹ, πήχεις ͵ασʹ, πόδας ͵βυʹ, σπιθαμὰς ͵γσʹ, παλαιστὰς ͵θχʹ, δακτύλους γ̈ ͵ηυʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.1",
+      "text": "Τὸ στάδιον ἔχει ἀμπέλους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.2",
+      "text": "ρκʹ, πάσσα ρʹ, ὀρ‐ γυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.3",
+      "text": "ρλγʹ γʹʹ, πλέθρου 𐅶, ἀκένας νʹ, βήματα τʹ, πή‐ χεις τʹ, πόδας χʹ, σπιθαμὰς ωʹ, παλαιστὰς ͵βυʹ, δακτύ‐ λους ͵θχʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "Τὸ μίλιον ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "σταδίους ζʹ 𐅶, πλέθρα γʹ 𐅶 δʹʹ, ἀκένας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.3",
+      "text": "τοεʹ, πάσσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.4",
+      "text": "ψνʹ, ἀμπέλια ϡʹ, ὀργυιὰς ͵α, βήματα ͵βσνʹ, πήχεις ͵βσνʹ, πόδας ͵δφʹ, σπιθαμὰς ͵ϛ, παλαιστὰς α̈ ͵η, δακτύλους ζ̈ ͵β.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.1",
+      "text": "Ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.2",
+      "text": "συντόμῳ δὲ ἔχει ἕκαστον οὕτως ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.3",
+      "text": "προ‐ είρηται κατὰ τὴν νῦν κατάστασιν τῆς γεωμετρίας εἴτ‐ ουν τῆς ἀπογραφῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16.4",
+      "text": "τοῦ κίνσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.1",
+      "text": "Μετὰ τὸν δάκτυλον, ὅς ἐστι μέρος ἐλάχιστον πάντων, ἔστιν ὁ παλαιστής, ὃν καὶ τέταρτόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17.2",
+      "text": "τινες καλοῦσι διὰ τὸ τέσσαρας ἔχειν δακτύλους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18",
+      "text": "Μετὰ τοῦτον ἡ σπιθαμὴ παλαιστῶν γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.1",
+      "text": "Εἶτα [ἐν κεφαλαίῳ] ὁ ποὺς ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.2",
+      "text": "παλαιστὰς δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "Εἶτα ὁ πῆχυς ἔχει πόδας βʹ, παλαιστὰς ηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.1",
+      "text": "Βῆμα ἴσον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.2",
+      "text": "τοῦ πήχεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "Ὀργυιὰ ἔχει πόδας δʹ 𐅶, παλαιστὰς ιηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23",
+      "text": "Ἄκενα πόδας ιβʹ, παλαιστὰς μηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "Ἄμπελος ἔχει πόδας εʹ, παλαιστὰς κʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25",
+      "text": "Πάσσον ἔχει πόδας ϛʹ, παλαιστὰς κδʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26",
+      "text": "Πλέθρον πόδας ͵ασʹ, παλαιστὰς ͵δωʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "Ἰούγερον πόδας ͵βυʹ, παλαιστὰς ͵θχʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "Στάδιον πόδας χʹ, παλαιστὰς ͵βυʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29",
+      "text": "Μίλιον πόδας ͵δφʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ὁ παλαιστὴς ἔχει δακτύλους δʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἡ σπιθαμὴ παλαιστὰς γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ὁ ποὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "σπιθαμὴν αʹ γʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "Ὁ πῆχυς πόδας βʹ, σπιθαμὰς βʹ 𐅷ʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "Τὸ βῆμα ἔχει πῆχυν ἕνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "Ἡ ὀργυιὰ βήματα βʹ δʹʹ, πόδας δʹ 𐅶.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "Ἡ ἄμπελος ὀργυιὰν αʹ θʹʹ, βήματα βʹ 𐅶.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8",
+      "text": "Τὸ πάσσον ἄμπελον αʹ εʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "Ἡ ἄκαινα πάσσα βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "Τὸ πλέθρον ἀκαίνας ρʹ, πάσσα σʹ, ὀργυιὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "σξϛʹ 𐅷ʹʹ, βήματα χʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "Τὸ ἰούγερον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "πλέθρα βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.1",
+      "text": "Τὸ στάδιόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12.2",
+      "text": "πλέθρου τὸ 𐅶.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "Τὸ μίλιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "στάδια ζʹ 𐅶, πλέθρα γʹ 𐅶 δʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πλοῖον οὗ τὸ μὲν μῆκος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πηχῶν κδʹ, ἡ δὲ βάσις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πηχῶν ϛʹ, ἡ δὲ κάτω βάσις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πηχῶν δʹ· εὑρεῖν πόσα κεράμια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χωρεῖ· ποίει οὕτως· τὴν βάσιν ἐπὶ τὴν βάσιν γίνονται κδʹ· ταῦτα πάλιν ἐπὶ τὰ κδʹ τοῦ μήκους γί‐[ln_5]νονται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "φοϛʹ· τούτων ἀεὶ τὸ γʹʹ· γίνονται ρϞβʹ· ταῦτα σύνθες μετὰ τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "φοϛʹ· γίνονται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "ψξηʹ, ἅπερ εἰσὶ κε‐ ράμια· χωρεῖ δὲ τὸ κεράμιον μοδίους ιʹ· γίνονται μό‐ διοι ͵ζχπʹ· τοσούτους μοδίους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "χωρεῖ τὸ πλοῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πιθοειδὲς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σχῆμα μετρήσωμεν, οὗ ἡ μὲν μείζων διάμετρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποδῶν δʹ, ἡ δὲ μικροτέρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποδῶν γʹ, τὸ ὕψος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "ποδῶν θʹ. εὑρεῖν πόσους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "χωρήσει ἀμφορέας· ποιῶ οὕτως· συντιθῶ τὰς δύο διαμέτρους· γίνονται[ln_5]ζʹ· ὧν τὸ 𐅶 γίνονται γʹ 𐅶· ταῦτα ἐφ’ ἑαυτὰ γίνονται πόδες ιβʹ δʹʹ· ταῦτα ἑνδεκάκις γίνονται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "ρλεʹ· ὧν τὸ ιδʹʹ γίνονται πόδες θʹ 𐅶 ζʹʹ· ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "πρὸς τὸ ὕψος ἀνα‐ λόγως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τοῦ θʹ γίνονται πϛʹ 𐅶 ζʹʹ ζʹʹ· τοσούτους ἀμφο‐ ρέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "χωρεῖ. ἔχει δὲ ὁ ἀμφορεὺς ξέστας Ἰταλικοὺς[ln_10]ἀριθμῷ μηʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Πίθου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σφαιροειδοῦς ἡ πρὸς τὸ χεῖλος διάμετρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποδῶν εʹ, τὸ δὲ βάθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποδῶν ηʹ. εὑρεῖν πόσους ἀμ‐ φορέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χωρήσει· ποιῶ οὕτως· τῆς διαμέτρου τὸ ἥμισυ γίνονται πόδες βʹ 𐅶· ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "ποιῶ τρισσάκις· γίνονται[ln_5]ζʹ 𐅶· τούτοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "προστιθῶ τὸ βάθος· ὁμοῦ γίνονται πό‐ δες ιεʹ 𐅶· ταῦτα ἐφ’ ἑαυτὰ γίνονται πόδες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "σμʹ δʹʹ· ταῦτα ἑνδεκάκις γίνονται πόδες ͵βχμβʹ 𐅶 δʹʹ· ἄρτι με‐ ρίζω· ὧν καʹʹ γίνονται πόδες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "ρκεʹ 𐅶 γʹʹ πδʹʹ· τοσού‐ τους ἀμφορέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "χωρήσει, διότι ὁ ποὺς ὁ στερεὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "χω‐[ln_10]ρεῖ ἀμφορίσκον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἄλλου πίθου ἡ κάτω διάμετρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ποδῶν βʹ 𐅶, ἡ δὲ ἄνω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποδῶν γʹ, τὸ δὲ βάθος ἔχει πόδας ϛʹ. εὑρεῖν πόσους ἀμφορέας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χωρεῖ· ποίει οὕτως· σύνθες τὰς δύο διαμέτρους· γίνονται πόδες εʹ 𐅶· ὧν τὸ 𐅶 γίνον‐[ln_5]ται βʹ 𐅶 δʹʹ· ταῦτα ἐφ’ ἑαυτὰ γίνονται πόδες ζʹ 𐅶 ιϛʹʹ· ταῦτα ἐπὶ τὸ βάθος, ἐπὶ τοὺς ϛʹ πόδας, γίνονται μεʹ δʹʹ ηʹʹ· ταῦτα ἑνδεκάκις γίνονται υϞθʹ ηʹʹ· ἄρτι με‐ ρίζω· ὧν ιδʹʹ γίνονται πόδες λεʹ 𐅶 ζʹʹ ριβʹʹ· τοσούτους ἀμφορίσκους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χωρήσει. ὁ δὲ ἀμφορίσκος ἔχει πόδα αʹ[ln_10]στερεόν. χωρεῖ δὲ ὁ στερεὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "ποὺς ξέστας Ἰταλικοὺς ἀριθμῷ μηʹ· γίνονται μόδιοι γʹ. ἕκαστος μόδιος ἐκ ξεστῶν Ἰταλικῶν ἀριθμῷ ιϛʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[para]Πλοῖον μετρήσωμεν οὕτως· ἔστω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πλοῖον ἔχον τὸ μῆκος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πηχῶν μʹ, πλάτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πηχῶν ιβʹ, τὸ δὲ βάθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πη‐ χῶν δʹ· εὑρεῖν πόσων μοδίων ἐστὶ τὸ πλοῖον· ποίει[ln_5]οὕτως· πολυπλασίασον τὸ μῆκος ἐπὶ τὸ πλάτος· γί‐ νονται πήχεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "υπʹ· τούτους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "πολυπλασίασον δεκάκις· καὶ τὰ γινόμενα πάλιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "πολλαπλασίασον ἐπὶ τοὺς δʹ πήχεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "τοῦ βάθους· καὶ εὑρήσεις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "χωροῦν τὸ πλοῖον σίτου μοδίους α̈ ͵θσʹ Ἰταλικούς. ἐὰν δέ τις εἰς καστρη‐[ln_10]σίους εἴπῃ μοδίους, ἀνάλυσον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "τοὺς μοδίους εἰς ξέ‐ στας, καὶ ψήφισον τὸν μόδιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "τοῦ σίτου κατὰ δʹ ξέ‐ στας· γίνονται σίτου μόδιοι μυριάδες βʹ ͵ατκʹ. ὁ ποὺς δέχεται μοδίους βʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[para]Πλοῖον μετρήσωμεν οὕτως· ἐὰν ἔχῃ πήχεις μʹ τὸ μῆκος [τὸ βάθος δʹ], ἡ δὲ διάμετρος τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πρώρας πήχεις ϛʹ, τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρύμνης πήχεις ϛʹ, κοιλίας πήχεις ηʹ, ὕψος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πη‐[ln_5]χῶν δʹ· πολυπλασίασον τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πρώραν ἐπὶ τοὺς τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πρύ‐ μνης· γίνονται λϛʹ· σύνθες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "τοὺς ϛʹ καὶ τοὺς ηʹ· γίνον‐ ται ιδʹ· ὧν τὸ ἥμισυ γίνεται ζʹ· τούτους ἐπὶ τὸ βάθος γίνονται πήχεις κηʹ· τούτους ἐπὶ τὸ μῆκος γίνονται πήχεις ͵αρκʹ. ὁ πῆχυς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "χωρεῖ ἀρτάβας γʹ· γίνονται[ln_10]ἀρτάβαι ͵γτξʹ. ἔχει ἡ ἀρτάβα μοδίους βʹ. ὁ πῆχυς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "χωρεῖ μοδίους ιʹ, Ἰταλικοὺς μοδίους ιγʹ 𐅶.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[para]Κόλυμβον μετρήσωμεν οὕτως· ἔστω κόλυμβος ἔχων μῆκος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ποδῶν μʹ, τὸ δὲ πλάτος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ποδῶν κʹ, τὸ δὲ βάθος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποδῶν δʹ· εὑρεῖν πόσους μετρητὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χωρεῖ ὁ[ln_5]κόλυμβος· ποίει οὕτως· πολυπλασίασον τὸ μῆκος ἐπὶ τὸ πλάτος· γίνονται πόδες ωʹ· τούτους",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "πολυπλασία‐ σον ἐπὶ τὸ βάθος· γίνονται πόδες ͵γσʹ· λέγε ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "το‐ σούτους μετρητὰς δέχεται. ὁ δὲ μετρητὴς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "χωρεῖ χόας ηʹ· ὁ δὲ χοῦς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "χωρεῖ ξέστας θʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "* Δέχεται ὁ στερεὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "ποὺς κατὰ τὴν τῶν μηχανι‐ κῶν διατύπωσιν καὶ παράδοσιν μοδίους γʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "odi-ad",
+      "title": {
+        "english": "Art of War Machines",
+        "ancient_greek": "Βελοποιικά"
+      },
+      "url_slug": "hero-of-alexandria-war-machines-odi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/war-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ae",
+      "title": {
+        "english": "Book of Agriculture",
+        "ancient_greek": "Γεωπονικόν"
+      },
+      "url_slug": "hero-of-alexandria-agriculture-odi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.json"
+      }
+    },
+    {
+      "eul_wid": "odi-am",
+      "title": {
+        "english": "Catoptrics",
+        "ancient_greek": "Κατοπτρικά"
+      },
+      "url_slug": "hero-of-alexandria-catoptrics-odi-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/catoptrics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/catoptrics.json"
+      }
+    },
+    {
+      "eul_wid": "odi-aa",
+      "title": {
+        "english": "Construction and Symmetry of the Hand Ballista",
+        "ancient_greek": "Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία"
+      },
+      "url_slug": "hero-of-alexandria-hand-ballista-odi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/hand-ballista",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.json"
+      }
+    },
+    {
+      "eul_wid": "odi-aj",
+      "title": {
+        "english": "Definitions",
+        "ancient_greek": "Ὅροι"
+      },
+      "url_slug": "hero-of-alexandria-definitions-odi-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/definitions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/definitions.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ao",
+      "title": {
+        "english": "Dioptra",
+        "ancient_greek": "Διόπτρα"
+      },
+      "url_slug": "hero-of-alexandria-dioptra-odi-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/dioptra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/dioptra.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ac",
+      "title": {
+        "english": "Fragments of Mechanics",
+        "ancient_greek": "Ἀποσπάσματα Μηχανικῶν"
+      },
+      "url_slug": "hero-of-alexandria-mechanics-odi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/mechanics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ab",
+      "title": {
+        "english": "Fragments-Horoscopes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὡροσκοπίων"
+      },
+      "url_slug": "hero-of-alexandria-horoscopes-odi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/horoscopes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/horoscopes.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ap",
+      "title": {
+        "english": "Geodesy",
+        "ancient_greek": "Γεωδαισία"
+      },
+      "url_slug": "hero-of-alexandria-geodesy-odi-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geodesy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ag",
+      "title": {
+        "english": "Geometrical Works",
+        "ancient_greek": "Γεωμετρικά"
+      },
+      "url_slug": "hero-of-alexandria-geometrical-works-odi-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geometrical-works",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geometrical-works.json"
+      }
+    },
+    {
+      "eul_wid": "odi-an",
+      "title": {
+        "english": "Metrical",
+        "ancient_greek": "Μετρικά"
+      },
+      "url_slug": "hero-of-alexandria-metrical-odi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/metrical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ak",
+      "title": {
+        "english": "On Automata",
+        "ancient_greek": "Περὶ Αὐτοματοποιητικῶν"
+      },
+      "url_slug": "hero-of-alexandria-automata-odi-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/automata",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/automata.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "tco-ae",
+      "title": {
+        "english": "Astrological Excerpt C",
+        "ancient_greek": "Ἐκλογή"
+      },
+      "url_slug": "hephaestion-of-thebes-excerpt-ae-tco-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/excerpt-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/excerpt-ae.json"
+      }
+    },
+    {
+      "eul_wid": "tco-aa",
+      "title": {
+        "english": "Effects, Four Epitomes",
+        "ancient_greek": "Ἐπιπτώσεις"
+      },
+      "url_slug": "hephaestion-of-thebes-four-epitomes-tco-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-thebes/four-epitomes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/four-epitomes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/four-epitomes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/four-epitomes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-thebes/four-epitomes.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-bl",
+      "title": {
+        "english": "InterpretatiLights",
+        "ancient_greek": "Ἑρμηνεία περὶ τῶν φώτων"
+      },
+      "url_slug": "zosimus-of-panopolis-interpretations-tyc-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/interpretations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/interpretations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/interpretations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/interpretations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/interpretations.json"
+      }
+    },
+    {
+      "eul_wid": "smk-ac",
+      "title": {
+        "english": "Magical Papyri, Tablets",
+        "ancient_greek": "Μαγικὰ Πάπυροι"
+      },
+      "url_slug": "magical-treatises-anon-papyri-tablets-smk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/magical-treatises-anon/papyri-tablets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/magical-treatises-anon/papyri-tablets.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-at",
+      "title": {
+        "english": "On the Egg, the Ancients Say Thus",
+        "ancient_greek": "Περὶ τοῦ ὠοῦ οἱ παλαιοί φασιν οὕτως"
+      },
+      "url_slug": "alchemist-i-egg-ancients-say-rrg-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/egg-ancients-say",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/egg-ancients-say.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/egg-ancients-say.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/egg-ancients-say.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/egg-ancients-say.json"
+      }
+    },
+    {
+      "eul_wid": "jgu-aa",
+      "title": {
+        "english": "On the Seven Wonders of the World",
+        "ancient_greek": "Περὶ τῶν Ἑπτὰ Θαυμάτων τοῦ Κόσμου"
+      },
+      "url_slug": "philo-byzantium-seven-wonders-jgu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-byzantium/seven-wonders",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-byzantium/seven-wonders.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-byzantium/seven-wonders.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-byzantium/seven-wonders.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-byzantium/seven-wonders.json"
+      }
+    },
+    {
+      "eul_wid": "nwa-ab",
+      "title": {
+        "english": "Optical Fragments",
+        "ancient_greek": "Ὀπτικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "geminus-of-rhodes-optical-fragments-nwa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/geminus-of-rhodes/optical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/geminus-of-rhodes/optical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "sum-ab",
+      "title": {
+        "english": "Summary",
+        "ancient_greek": "Σύνοψις"
+      },
+      "url_slug": "paul-of-alexandria-summary-sum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paul-of-alexandria/summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria/summary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria/summary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria/summary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-of-alexandria/summary.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hero-of-alexandria/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

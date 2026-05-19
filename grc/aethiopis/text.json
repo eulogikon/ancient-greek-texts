@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aci-aa",
+  "eul_aid": "aci",
+  "author_slug": "aethiopis",
+  "work_slug": "text",
+  "url_slug": "aethiopis-text-aci-aa",
+  "author": {
+    "english": "Aethiopis ",
+    "ancient_greek": "Αἰθιοπίς"
+  },
+  "title": {
+    "english": "Aethiopis",
+    "ancient_greek": "Αἰθιοπίς"
+  },
+  "seo": {
+    "browser_title": "The Aethiopis Epic by Arctinus of Miletus on Eulogikon",
+    "meta_title": "Classical Aethiopis by Arctinus of Miletus in Ancient Greek",
+    "meta_description": "The Aethiopis is a lost epic poem from the Trojan War cycle attributed to Arctinus of Miletus. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Aethiopis is a lost epic poem of ancient Greece, traditionally ascribed to Arctinus of Miletus and dating to the seventh or sixth century BCE. It formed part of the Epic Cycle, a collection of poems that narrated the complete story of the Trojan War. Composed in the same epic Ionic Greek dialect and dactylic hexameter as the Homeric poems, the Aethiopis was designed to continue the narrative directly from the conclusion of the Iliad.</p>\n<p class=\"research-text\">The poem’s plot, preserved only in later summaries and a handful of fragments, centers on the final exploits and death of the hero Achilles. It opens with the arrival of the Amazon queen Penthesilea, who comes as an ally to the Trojans; Achilles defeats and kills her in battle. The Trojan forces are subsequently reinforced by Memnon, the Ethiopian prince and son of the goddess Dawn. After Memnon slays Antilochus, a close companion of Achilles, Achilles takes vengeance by killing Memnon in turn. Achilles then meets his own end, slain by Paris with the direct assistance of the god Apollo. The narrative concludes with the famous contest between Odysseus and Ajax for the armor of Achilles, the madness and suicide of Ajax following his defeat, and the funeral rites for Achilles.</p>\n<p class=\"research-text\">No complete text of the Aethiopis survives. Modern understanding of the work derives entirely from indirect sources, most importantly a prose summary compiled by the later scholar Proclus. Based on this summary, the original poem is believed to have been structured in five books, though this remains uncertain. Scholars regard the Aethiopis as a significant post-Homeric expansion of the Trojan War myth, notable for introducing exotic allies for Troy and for its thematic focus on heroic death and divine intervention. Its dramatic scenes enjoyed great popularity and were frequently depicted in ancient Greek art.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ὣς οἵ γ’ ἀμφίεπον τάφον Ἕκτορος· ἦλθε δ’ Ἀμαζών,[ln_2a]Ἄρηος θυγάτηρ μεγαλήτορος ἀνδροφόνοιο.[ln_2b]Ὀτρήρ[η]〈σ〉 θυγάτηρ ἐυειδὴς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Πενθεσί̣λ〈ε〉ια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[καὶ] σύ, γύναι, τίνος ἔκγον[ος] ε̣ὔ̣χ̣[ε]αι εἶ̣ναι̣;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "uuu-aa",
+      "title": {
+        "english": "Abduction of Helen",
+        "ancient_greek": "Ἁρπαγὴ Ἑλένης"
+      },
+      "url_slug": "colluthus-of-lycopolis-abduction-of-helen-uuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/colluthus-of-lycopolis/abduction-of-helen",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/colluthus-of-lycopolis/abduction-of-helen.json"
+      }
+    },
+    {
+      "eul_wid": "bok-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+      },
+      "url_slug": "panyassis-of-halicarnassus-epic-fragments-ab-bok-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-ab.json"
+      }
+    },
+    {
+      "eul_wid": "jfq-ab",
+      "title": {
+        "english": "Fragments on the Argonautic Voyage",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀργοναυτικῆς Πλόης"
+      },
+      "url_slug": "apollonius-of-rhodes-argonautica-fragments-jfq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-of-rhodes/argonautica-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-of-rhodes/argonautica-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jym-aa",
+      "title": {
+        "english": "Heroic Verses",
+        "ancient_greek": "Ἡρωικοὶ Στίχοι"
+      },
+      "url_slug": "heroic-verses-anon-text-jym-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heroic-verses-anon/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heroic-verses-anon/text.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ag",
+      "title": {
+        "english": "Historical Epic Fragment A",
+        "ancient_greek": "Ἱστορικὸν Ἐπικὸν Ἀπόσπασμα"
+      },
+      "url_slug": "epic-fragments-anonymous-historical-fragment-ag-kjq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/historical-fragment-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/historical-fragment-ag.json"
+      }
+    },
+    {
+      "eul_wid": "euq-aa",
+      "title": {
+        "english": "Meropis Fragments",
+        "ancient_greek": "Μηροπίδος Ἀποσπάσματα"
+      },
+      "url_slug": "epic-meropis-anonymous-fragments-euq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-meropis-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-meropis-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "uge-aa",
+      "title": {
+        "english": "Sack of Ilium",
+        "ancient_greek": "Ἅλωσις Ἰλίου"
+      },
+      "url_slug": "tryphiodorus-of-egypt-sack-of-ilium-uge-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphiodorus-of-egypt/sack-of-ilium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphiodorus-of-egypt/sack-of-ilium.json"
+      }
+    },
+    {
+      "eul_wid": "utg-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "christodorus-of-coptus-testimony-utg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aethiopis/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

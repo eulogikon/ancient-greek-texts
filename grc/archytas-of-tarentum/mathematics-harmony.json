@@ -1,0 +1,281 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "faa-ab",
+  "eul_aid": "faa",
+  "author_slug": "archytas-of-tarentum",
+  "work_slug": "mathematics-harmony",
+  "url_slug": "archytas-of-tarentum-mathematics-harmony-faa-ab",
+  "author": {
+    "english": "Archytas of Tarentum",
+    "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+  },
+  "title": {
+    "english": "Fragments on Mathematics and Harmony",
+    "ancient_greek": "Ἀποσπάσματα περὶ Μαθημάτων καὶ Ἁρμονίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Archytas of Tarentum Pythagorean on Eulogikon",
+    "meta_title": "Fragments of Archytas of Tarentum in Ancient Greek",
+    "meta_description": "A collection of 11 passages by the Pythagorean Archytas on mathematics and harmony. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Mathematics and Harmony</strong> is a collection of eleven passages attributed to the Pythagorean philosopher, mathematician, and statesman Archytas of Tarentum, who lived in the fourth century BCE. Written in Doric Greek, these fragments constitute a philosophical and scientific treatise that argues for the foundational role of mathematical reasoning in understanding the natural world. The central theme posits calculation, or <strong>logismos</strong>, as the supreme intellectual tool for discovering truth and establishing harmony. This principle is applied specifically to the science of music, where fragments demonstrate that fundamental musical intervals, such as the octave and the fifth, are defined by precise numerical ratios. Other passages discuss the classification of the sciences and the theory of mathematical means.</p>\n<p class=\"research-text\">No complete work by Archytas survives. The text is known exclusively through quotations preserved by later authors, most notably the third-century CE philosopher Porphyry and the fifth-century anthologist Stobaeus. Modern scholarship has reconstructed the eleven fragments from these scattered sources. The most extensive and significant fragment establishes <strong>logismos</strong> as the critical method for resolving intellectual disputes and advancing all scientific inquiry. It is believed to have been composed for students and fellow philosophers as a demonstration of the power of mathematical reasoning.</p>\n<p class=\"research-text\">Archytas was a leading figure in the Pythagorean tradition and a friend of Plato. His fragments reflect the core Pythagorean endeavor to discern mathematical order within the cosmos, extending the concept of harmony from musical theory to the fundamental structure of the universe. Scholars regard this work as profoundly influential, providing an early model for the later educational scheme of the quadrivium—the four mathematical arts of arithmetic, geometry, astronomy, and music—and significantly shaping the development of both Platonic philosophy and the history of science.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "tit,1-3",
+      "text": "ΑΡΧΥΤΟΥ ΑΡΜΟΝΙΚΟΣ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "PORPHYR. in Ptolem. Harm. p. 56 Düring παρακείσθω δὲ καὶ νῦν τὰ Ἀρχύτα τοῦ Πυθαγορείου, οὗ μάλιστα καὶ γνήσια λέγεται εἶναι τὰ συγγράμματα· λέγει δ’ ἐν τῶι Περὶ μαθηματικῆς εὐθὺς ἐναρχόμενος τοῦ λόγου τάδε· ‘ καλῶς .. . γέγονεν ‘. NICOM. Inst. Arith. I 3, 4 p. 6, 16 Hoche ἀλλὰ καὶ Ἀ. ὁ Ταραντῖνος ἀρχόμενος τοῦ Ἁρμονικοῦ τὸ αὐτὸ οὕτω πως λέγει· ‘ καλῶς .. . ἀναστροφὰν ἔχει ‘. [IAMBL. Vit. Pythag. 160, in Nic. 6, 20 Pist. τοὶ γὰρ περὶ τῶν καθόλου ( so ! ) .. . καλῶς διαγνόντες .. . καλῶς ὀψεῖσθα ι . IAMBL. in Nic. 9, 1 (d. comm. math. sc. 7 p. 31, 4 Fest.) 1, 14. 15 ταῦτα .. . ἀδελφε ά]. καλῶς μοι δοκοῦντι τοὶ περὶ τὰ μαθήματα διαγνώμενα ι , καὶ οὐθὲν ἄτοπον ὀρθῶς αὐτού ς , οἷά ἐντ ι , περὶ ἑκάστων φρονέει ν · περὶ γὰρ τᾶς τῶν ὅλων φύσιος καλῶς διαγνόντες ἔμελλον καὶ περὶ τῶν κατὰ μέρο ς , οἷά ἐντ ι , καλῶς ὀψεῖσθα ι . περί τε δὴ τᾶς τῶν ἄστρων ταχυτᾶτος καὶ ἐπιτολᾶν καὶ δυσίων παρέδωκαν ἁμῖν σαφῆ διάγνωσιν καὶ περὶ γαμετρίας καὶ ἀριθμῶν καὶ σφαιρικᾶς καὶ οὐχ ἥκιστα περὶ μωσικᾶ ς . ταῦτα γὰρ τὰ μαθήματα δοκοῦντι ἦμεν ἀδελφε ά · περὶ γὰρ ἀδελφεὰ τὰ τῶ ὄντος πρώτιστα δύο εἴδεα τὰν ἀναστροφὰν ἔχε ι . πρᾶτον μὲν οὖν ἐσκέψαντ ο , ὅτι οὐ δυνατόν ἐστιν ἦμεν ψόφον μὴ γενηθείσας πληγᾶς τινων πο τ ’ ἄλλαλ α . πλαγὰν δ ’ ἔφαν γίνεσθα ι , ὅκκα τὰ φερόμενα ἀπαντιάξαντα ἀλλάλοις συμπέτη ι · τὰ μὲν οὖν ἀντίαν φορὰν φερόμενα ἀπαντιάζοντα αὐτὰ αὐτοῖς συγχαλᾶντ α , 〈τὰ〉 δ ’ ὁμοίως φερόμεν α , μὴ ἴσωι δὲ τάχε ι , περικαταλαμβανόμενα παρὰ τῶν ἐπιφερομένων τυπτόμενα ποιεῖν ψόφο ν . πολλοὺς μὲν δὴ αὐτῶν οὐκ εἶναι ἁμῶν τᾶι φύσει οἵους τε γινώσκεσθα ι , τοὺς μὲν διὰ τὰν ἀσθένειαν τᾶς πλαγᾶ ς , τοὺς δὲ διὰ τὸ μᾶκος τᾶς ἀ φ ’ ἁμῶν ἀποστάσιο ς , τινὰς δὲ καὶ διὰ τὰν ὑπερβολὰν τοῦ μεγέθεο ς · οὐ γὰρ παραδύεσθαι ἐς τὰν ἀκοὰν ἁμῖν τὼς μεγάλως τῶν ψόφω ν , ὥσπερ οὐ δ ’ ἐς τὰ σύστομα τῶν τευχέω ν , ὅκκα πολύ τις ἐγχέη ι , οὐδὲν ἐγχεῖτα ι . τὰ μὲν οὖν ποτιπίπτοντα ποτὶ τὰν αἴσθασιν ἃ μὲν ἀπὸ τᾶν πλαγᾶν ταχὺ παραγίνεται καὶ 〈ἰσχυρῶσ 〉 , ὀξέα φαίνετα ι , τὰ δὲ βραδέως καὶ ἀσθενῶ ς , βαρέα δοκοῦντι ἦμε ν . αἰ γάρ τις ῥάβδον λαβὼν κινοῖ νωθρῶς τε καὶ ἀσθενέω ς , τᾶι πλαγᾶι βαρὺν ποιήσει τὸν ψόφο ν · αἰ δέ κα ταχύ τε καὶ ἰσχυρῶ ς , ὀξύ ν . οὐ μόνον δέ κα τούτωι γνοίημε ν , ἀλλὰ καὶ ὅκκα ἄμμες ἢ λέγοντες ἢ ἀείδοντες χρήιζομές τι μέγα φθέγξασθαι καὶ ὀξ ύ , σφοδρῶι τῶι πνεύματι φθεγγόμενοι *** ἔτι δὲ καὶ τοῦτο συμβαίνει ὥσπερ ἐπὶ βελῶ ν · τὰ μὲν ἰσχυρῶς ἀφιέμενα πρόσω φέρετα ι , τὰ δ ’ ἀσθενῶ ς , ἐγγύ ς . τοῖς γὰρ ἰσχυρῶς φερομένοις μᾶλλον ὑπακούει ὁ ἀή ρ · τοῖς δὲ ἀσθενῶ ς , ἧσσο ν . τωὐτὸ δὲ καὶ ταῖς φωναῖς συμβήσετα ι · τᾶι μὲν ὑπὸ [ τ ῶ ] ἰσχυρῶ τῶ πνεύματος φερομέναι μεγάλαι τε ἦμεν καὶ ὀξέα ι , τᾶι δὲ ὑπὸ ἀσθενέος μικρᾶι τε καὶ βαρέα ι . ἀλλὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (50)",
+      "text": "μὰν καὶ τούτωι γά κα ἴδοιμες ἰσχυροτάτωι σαμείω ι , ὅτι τῶ αὐτῶ φθεγξαμένω μέγα μὲν πόρσωθέν κ ’ ἀκούσαιμε ς · μικρὸν δ έ , οὐ δ ’ ἐγγύθε ν . ἀλλὰ μὰν καὶ ἔν γα τοῖς αὐλοῖς τὸ ἐκ τῶ στόματος φερόμενον πνεῦμα ἐς μὲν τὰ ἐγγὺς τῶ στόματος τρυπήματα ἐμπῖπτον διὰ τὰν ἰσχὺν τὰν σφοδρὰν ὀξύτερον ἆχον ἀφίησι ν , ἐς δὲ τὰ πόρσ ω , βαρύτερο ν · ὥστε δῆλον ὅτι ἁ ταχεῖα κίνασις ὀξὺν ποιε ῖ , ἁ δὲ βραδεῖα βαρὺν τὸν ἆχο ν . ἀλλὰ μὰν καὶ τοῖς ῥόμβοις τοῖς ἐν ταῖς τελεταῖς κινουμένοις τὸ αὐτὸ συμβαίνε ι · ἡσυχᾶι μὲν κινούμενοι βαρὺν ἀφιέντι ἆχο ν , ἰσχυρῶς δ έ , ὀξύ ν . ἀλλὰ μὰν καὶ ὅ γα κάλαμο ς , αἴ κά τις αὐτῶ τὸ κάτω μέρος ἀποφράξας ἐμφυσῆ ι , ἀφήσει 〈βαρέαν〉 τινὰ ἁμῖν φωνά ν · αἰ δέ κα ἐς τὸ ἥμισυ ἢ ὁπόστον 〈ὦν〉 μέρος αὐτ ῶ , ὀξὺ φθεγξεῖτα ι · τὸ γὰρ αὐτὸ πνεῦμα διὰ μὲν τῶ μακρῶ τόπω ἀσθενὲς ἐκφέρετα ι , διὰ δὲ τῶ μείονος σφοδρό ν. εἰπὼν δὲ καὶ ἄλλα περὶ τοῦ διαστηματικὴν εἶναι τὴν τῆς φωνῆς κίνησιν συγκεφαλαιοῦται τὸν λόγον ὡς· ὅτι μὲν δὴ τοὶ ὀξεῖς φθόγγοι τάχιον κινέοντα ι , οἱ δὲ βαρεῖς βράδιο ν , φανερὸν ἁμῖν ἐκ πολλῶν γέγονε ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "PORPH. in Ptol. harm. p. 92 καὶ ἄλλοι δὲ πολλοὶ τῶν παλαιῶν οὕτω φέρονται, καθάπερ καὶ Διονύσιος ὁ Ἁλικαρνασσεὺς καὶ Ἀρχύτας ἐν τῶι Περὶ μουσικῆς ... Ἀ. δὲ περὶ τῶν μεσοτήτων λέγων γράφει ταῦτα· μέσαι δέ ἐντι τρῖς τᾶι μουσικᾶ ι , μία μὲν ἀριθμητικ ά , δευτέρα δὲ ἁ γεωμετρικ ά , τρίτα δ ’ ὑπεναντί α , ἃν καλέοντι ἁρμονικά ν . ἀριθμητικὰ μέ ν , ὅκκα ἔωντι τρεῖς ὅροι κατὰ τὰν τοίαν ὑπεροχὰν ἀνὰ λόγο ν · ὧι πρᾶτος δευτέρου ὑπερέχε ι , τούτωι δεύτερος τρίτου ὑπερέχε ι . καὶ ἐν ταύται 〈τᾶι〉 ἀναλογίαι συμπίπτει ἦιμεν τὸ τῶν μειζόνων ὅρων διάστημα μεῖο ν , τὸ δὲ τῶν μειόνων μεῖζο ν . ἁ γεωμετρικὰ δ έ , ὅκκα ἔωντι οἷος ὁ πρᾶτος ποτὶ τὸν δεύτερο ν , καὶ ὁ δεύτερος ποτὶ τὸν τρίτο ν . τούτων δ ’ οἱ μείζονες ἴσον ποιοῦνται τὸ διάστημα καὶ οἱ μείου ς . ἁ δ ’ ὑπεναντί α , ἃν καλοῦμεν ἁρμονικά ν , ὅκκα ἔωντι 〈τοῖο ι · ὧι〉 ὁ πρᾶτος ὅρος ὑπερέχει τοῦ δευτέρου αὐταύτου μέρε ι , τούτωι ὁ μέσος τοῦ τρίτου ὑπερέχει τοῦ τρίτου μέρε ι . γίνεται δ ’ ἐν ταύται τᾶι ἀναλογίαι τὸ τῶν μειζόνων ὅρων διάστημα μεῖζο ν , τὸ δὲ τῶν μειόνων μεῖο ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "STOB. Fl. IV 1, 139 Hense ἐκ τοῦ Ἀρχύτου Περὶ μαθημάτω ν · ‘ δεῖ .. . ἀδικῆσαι ‘. IAMBL. d. comm. math. sc 11 p. 44, 10 Fest. διόπερ ὁ Ἀ. ἐν τῶι Περὶ μαθηματικῶν λέγει ‘ δεῖ .. . ἀδύνατον ‘ . δεῖ γὰρ ἢ μαθόντα πα ρ ’ ἄλλω ἢ αὐτὸν ἐξευρόντ α , ὧν ἀνεπιστάμων ἦσθ α , ἐπιστάμονα γενέσθα ι . τὸ μὲν ὦν μαθὲν πα ρ ’ ἄλλω καὶ ἀλλοτρία ι , τὸ δὲ ἐξευρὲν δ ι ’ αὔταυτον καὶ ἰδία ι · ἐξευρεῖν δὲ μὴ ζατοῦντα ἄπορον καὶ σπάνιο ν , ζατοῦντα δὲ εὔπορον καὶ ῥάιδιο ν , μὴ ἐπιστάμενον δὲ ζητεῖν ἀδύνατο ν . στάσιν μὲν ἔπαυσε ν , ὁμόνοιαν δὲ αὔξησεν λογισμὸς εὑρεθεί ς · πλεονεξία τε γὰρ οὐκ ἔστι τούτου γενομένου καὶ ἰσότας ἔστι ν · τούτωι γὰρ περὶ τῶν συναλλαγμάτων διαλλασσόμεθ α . διὰ τοῦτον οὖν οἱ πένητες λαμβάνοντι παρὰ τῶν δυναμένω ν , οἵ τε πλούσιοι διδόντι τοῖς δεομένοι ς , πιστεύοντες ἀμφότεροι διὰ τούτω τὸ ἶσον ἕξει ν . κανὼν δὲ καὶ κωλυτὴρ τῶν ἀδικούντων 〈ἐὼν〉 τοὺς μὲν ἐπισταμένους λογίζεσθαι πρὶν ἀδικεῖν ἔπαυσ ε , πείσας ὅτι οὐ δυνασοῦνται λαθεῖ ν , ὅταν ἐ π ’ αὐτὸν ἔλθωντ ι · τοὺς δὲ μὴ ἐπισταμένου ς , ἐν αὐτῶι δηλώσας ἀδικοῦντα ς , ἐκώλυσεν ἀδικῆσα ι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (tit)",
+      "text": "ΔΙΑΤΡΙΒΑΙ STOB. I pr. 4 (p. 18, 8 W.) ἐκ τῶν Ἀρχύτου Διατριβῶ ν. καὶ δοκεῖ ἁ λογιστικὰ ποτὶ τὰν σοφίαν τῶν μὲν ἀλλᾶν τεχνῶν καὶ πολὺ διαφέρει ν , ἀτὰρ καὶ τᾶς γεωμετρικᾶς ἐναργεστέρω πραγματεύεσθαι ἃ θέλε ι . *** καὶ ἃ ἐκλείπει αὖ ἁ γεωμετρί α , καὶ ἀποδείξιας ἁ λογιστικὰ ἐπιτελεῖ καὶ ὁμῶ ς , εἰ μὲν εἰδέων τεὰ πραγματεί α , καὶ τὰ περὶ τοῖς εἴδεσιν ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (tit)",
+      "text": "ΠΕΡΙ ΤΗΣ ΔΕΚΑΔΟΣ THEO Smyrn. p. 106, 7 Hill. ἡ μέντοι δεκὰς πάντα περαίνει τὸν ἀριθμὸν ἐμπεριέχουσα πᾶσαν φύσιν ἐντὸς αὑτῆς, ἀρτίου τε καὶ περιττοῦ κινουμένου τε καὶ ἀκινήτου ἀγαθοῦ τε καὶ κακοῦ· περὶ ἧς καὶ Ἀ. ἐν τῶι Περὶ τῆς δεκάδος καὶ Φιλόλαος ἐν τῶι Περὶ φύσιος [44 B 11] πολλὰ διεξίασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (tit)",
+      "text": "ΠΕΡΙ ΑΥΛΩΝ ATHEN. IV 184 E καὶ τῶν Πυθαγορικῶν δὲ πολλοὶ τὴν αὐλητικὴν ἤσκησαν, ὡς Εὐφράνωρ τε καὶ Ἀ. Φιλόλαός τε ἄλλοι τε οὐκ ὀλίγοι. ὁ δ’ Εὐφράνωρ καὶ σύγγραμμα Περὶ αὐλῶν κατέλιπεν· ὁμοίως δὲ καὶ ὁ Ἀ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (tit)",
+      "text": "ΠΕΡΙ ΜΗΧΑΝΗΣ VITRUV. praef. VII 14 non minus de machinationibus [ conscripserunt] uti Diades, Archytas, Archimedes, Ctesibios, Nymphodorus, Philo Byzantius etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (tit)",
+      "text": "ΠΕΡΙ ΓΕΩΡΓΙΑΣ VARRO de r. rust. I 1, 8 qui graece scripserunt [ de re rustica] ... de philosophis Democritus physicus, Xenophon Socraticus, Aristoteles et Theophrastus peripatetici, Archytas Pythagoreus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "1. Περὶ ἀρχᾶν bei Stob. Ecl. I 41, 2 W. 2. Περὶ τοῦ ὄντος bei Stob. Ecl. II 2, 4. 3. Περὶ τοῦ παντός oder Περὶ τῶν καθόλου λόγων oder Περὶ γενῶν oder Πρὸ τῶν τόπων 4. Περὶ ἀντικειμένων bei Simpl. 5. Περὶ νοῦ καὶ αἰσθάσιος bei Stob. Ecl. I 48, 6 (Iambl. Protr. 10 p. 55, 8 Pist.) 6. Περὶ παιδεύσεως ἠθικῆς bei Stob. Ecl. II 31, 120. Flor. III 1, 105. 106 H. (= ὑπὲρ παίδων ἀγωγῆς Philostr. V. Apoll. VI 31 ff.) 7. Περὶ ἀνδρὸς ἀγαθοῦ καὶ εὐδαίμονος bei Stob. Fl. III 1, 107. 3, 65. IV 50, 28. 8. Περὶ σοφίας bei Iambl. Protr. 4 p. 16, 17 ff. Pist. 9. Περὶ νόμου καὶ δικαιοσύνης bei Stob. Flor. IV 1, 135—138 (132?). 5, 61. 10. Περὶ ψυχῆς (?). 11. Ὀψαρτυτικά bei Athen. XII 516C. 12. Briefe an Dionysios und Platon bei Diog. III 22. VIII 80.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "faa-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "archytas-of-tarentum-testimonies-faa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-tarentum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "udm-ao",
+      "title": {
+        "english": "Commentary on Plato's Timaeus (Book I)",
+        "ancient_greek": "Ὑπόμνημα εἰς Πλάτωνος Τίμαιον"
+      },
+      "url_slug": "porphyry-of-tyre-timaeus-commentary-ao-udm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/timaeus-commentary-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/timaeus-commentary-ao.json"
+      }
+    },
+    {
+      "eul_wid": "vls-af",
+      "title": {
+        "english": "Commentary-Aristotle in Greek",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί"
+      },
+      "url_slug": "sophistical-refutations-anonymous-commentary-aristotle-vls-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/commentary-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/commentary-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ak",
+      "title": {
+        "english": "Hermes Trismegistus to Asclepius",
+        "ancient_greek": "Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "hermetica-to-asclepius-ak-oqk-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/to-asclepius-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/to-asclepius-ak.json"
+      }
+    },
+    {
+      "eul_wid": "ejm-aa",
+      "title": {
+        "english": "On Kingship and Rule",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diotogenes-the-philosopher-kingship-rule-ejm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diotogenes-the-philosopher/kingship-rule",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diotogenes-the-philosopher/kingship-rule.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-af",
+      "title": {
+        "english": "On the Generation of Animals",
+        "ancient_greek": "Περὶ Ζῴων Γενέσεως"
+      },
+      "url_slug": "aristotle-generation-animals-hgw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-al",
+      "title": {
+        "english": "Questions on Genesis",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-ad",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "seven-sages-of-greece-sentences-ayq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.json"
+      }
+    },
+    {
+      "eul_wid": "azu-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "brontinus-of-metapontum-testimonies-azu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/brontinus-of-metapontum/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/brontinus-of-metapontum/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/archytas-of-tarentum/mathematics-harmony",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-tarentum/mathematics-harmony.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

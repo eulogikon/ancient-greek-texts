@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bou-aa",
+  "eul_aid": "bou",
+  "author_slug": "chionides-the-comic-poet",
+  "work_slug": "comic-sparta",
+  "url_slug": "chionides-the-comic-poet-comic-sparta-bou-aa",
+  "author": {
+    "english": "Chionides the Comic Poet",
+    "ancient_greek": "Χιονίδης"
+  },
+  "title": {
+    "english": "Comic Fragments on Spartan Life",
+    "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Σπαρτιατικοῦ Βίου Κωμικά"
+  },
+  "seo": {
+    "browser_title": "Fragments of Chionides the Comic Poet on Eulogikon",
+    "meta_title": "Classical Comic Fragments by Chionides in Ancient Greek",
+    "meta_description": "Comic fragments by Chionides, satirical glimpses of Spartan life from early Athenian Old Comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Fragments on Spartan Life comprises twelve brief passages attributed to Chionides, an Athenian poet of Old Comedy active in the early fifth century BCE. Written in Attic Greek verse, these excerpts do not derive from a single surviving play but were preserved by later ancient scholars who quoted them to illustrate rare words or customs. The content humorously references aspects of Spartan life, likely mocking stereotypical traits such as austerity and laconic speech, a common theme in Athenian comedy reflecting the political rivalry between the two city-states. The work survives only in part, with no narrative structure; it is a modern compilation of isolated lines known solely through indirect transmission in the works of later grammarians and encyclopedists like Athenaeus. No complete work by Chionides exists today. Scholars interpret these fragments as among the earliest examples of using comedy for political and cultural satire, offering a valuable glimpse into Athenian perceptions of Sparta during the formative period of Old Comedy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "πολλοὺς ἐγᾦδα κοὐ κατὰ σὲ νεανίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φρουροῦντας ἀτεχνῶς κἀν σάμακι κοιμωμένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "καὶ μὴν μὰ τὸν Δί’ οὐδὲν ἔτι γέ μοι δοκῶ ἄγνου διαφέρειν ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "χαράδρᾳ πεφυκότος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "ἑπτέτης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "ταῦτ’ οὐ μὰ Δία Γνήσιππος οὐδὲ Κλεομένης ἐν ἐννέ’ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "χορδαῖς κατεγλυκήνατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5-6.1",
+      "text": "ἆρ’ ἂν φάγοιτ’ ἂν καὶ ταρίχους, ὦ θεοί; ἐπὶ τῷ ταρίχει τῷδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5-6.2",
+      "text": "τοίνυν κόπτετον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "πυθοῦ χελιδὼν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "πηνίκ’ ἄττα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.3",
+      "text": "φαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bou-ab",
+      "title": {
+        "english": "Comic Fragments on Guard Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυλακῆς Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-guard-duty-bou-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ggs-ab",
+      "title": {
+        "english": "Comic Fragments on Dining and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας"
+      },
+      "url_slug": "theophilus-the-comic-poet-dining-excess-ab-ggs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-comic-poet/dining-excess-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-ab.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aj",
+      "title": {
+        "english": "Fragments on Anaxagoras and Society",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναξαγόρου καὶ Κοινωνίας"
+      },
+      "url_slug": "aristophanes-of-athens-anaxagoras-society-daw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/anaxagoras-society",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/anaxagoras-society.json"
+      }
+    },
+    {
+      "eul_wid": "fim-aa",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "alcaeus-the-comic-poet-daily-life-aa-fim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-the-comic-poet/daily-life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-the-comic-poet/daily-life-aa.json"
+      }
+    },
+    {
+      "eul_wid": "lhc-ab",
+      "title": {
+        "english": "Fragments on Parasites and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "crobylus-the-comic-poet-parasites-excess-lhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crobylus-the-comic-poet/parasites-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.json"
+      }
+    },
+    {
+      "eul_wid": "daw-am",
+      "title": {
+        "english": "Knights",
+        "ancient_greek": "Ἱππῆς"
+      },
+      "url_slug": "aristophanes-of-athens-knights-daw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/knights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.json"
+      }
+    },
+    {
+      "eul_wid": "ilg-ab",
+      "title": {
+        "english": "On the Art of Cooking",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sosipater-the-comic-poet-cooking-ilg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosipater-the-comic-poet/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosipater-the-comic-poet/cooking.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ar",
+      "title": {
+        "english": "Peace",
+        "ancient_greek": "Εἰρήνη"
+      },
+      "url_slug": "aristophanes-of-athens-peace-daw-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/peace",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/peace.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/peace.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/peace.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/peace.json"
+      }
+    },
+    {
+      "eul_wid": "daw-aa",
+      "title": {
+        "english": "Women at the Thesmophoria",
+        "ancient_greek": "Θεσμοφοριάζουσαι"
+      },
+      "url_slug": "aristophanes-of-athens-thesmophoria-daw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/thesmophoria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/thesmophoria.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/chionides-the-comic-poet/comic-sparta",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/comic-sparta.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ivg",
+  "auth_slug": "bato-the-comic-poet",
+  "name": {
+    "english": "Bato the Comic Poet",
+    "ancient_greek": "Βάτων ὁ κωμικός"
+  },
+  "seo_h1": "Bato the Comic Poet on Hedonism and Philosophy",
+  "seo": {
+    "browser_title": "Bato the Comic Poet on Eulogikon Greek Archive Library",
+    "meta_title": "The Bato the Comic Poet Ancient Greek Comedy Works",
+    "meta_description": "Bato was a Hellenistic comic poet of the 3rd century BCE. Two fragmentary works survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Bato was a Greek comic poet of the 3rd century BCE during the Hellenistic period. He is a minor figure known only from the Byzantine encyclopedia known as the Suda. No details about his life, origin, or social background have survived.</p>\n<p class=\"research-text\">He wrote during the era of New Comedy, a style focused on domestic and romantic plots. According to the Suda, Bato was the author of two comedies: <strong>Sybarites</strong> and <strong>Tarentines</strong>. Both plays are now lost, and their content is unknown. Their titles suggest the comedies may have been set in or made use of stereotypes about the Greek colonies of Sybaris and Tarentum in southern Italy.</p>\n<p class=\"research-text\">Bato’s significance lies in being one of many comic poets whose names were preserved in later scholarly works. He represents the broad and varied world of Hellenistic comedy beyond the few major authors whose complete works survive. The titles of his lost plays indicate that humor based on geographical or cultural stereotypes remained a feature of comedy in his time.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "ivg-aa",
+      "title": {
+        "english": "Fragments on Hedonism and Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡδονῆς καὶ Φιλοσοφίας"
+      },
+      "url_slug": "bato-the-comic-poet-hedonism-philosophy-ivg-aa",
+      "passages": 49,
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/hedonism-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/hedonism-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "ivg-ab",
+      "title": {
+        "english": "Fragments on Philosophy and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσοφίας καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "bato-the-comic-poet-philosophy-excess-ivg-ab",
+      "passages": 49,
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-the-comic-poet/philosophy-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/philosophy-excess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/philosophy-excess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/philosophy-excess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-the-comic-poet/philosophy-excess.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/bato-the-comic-poet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bato-the-comic-poet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bato-the-comic-poet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bato-the-comic-poet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/bato-the-comic-poet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

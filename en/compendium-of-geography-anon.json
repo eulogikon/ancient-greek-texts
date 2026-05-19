@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "the",
+  "auth_slug": "compendium-of-geography-anon",
+  "name": {
+    "english": "Compendium of Geography Anonymous",
+    "ancient_greek": "Ἀνωνύμου Γεωγραφίας Ἐξήγησις Σύντομος"
+  },
+  "seo_h1": "The Anonymous Compendium of Byzantine Geography",
+  "seo": {
+    "browser_title": "Anonymous Geographer Author on Eulogikon Greek Archive",
+    "meta_title": "Anonymous Geographer Ancient Greek Geography Works",
+    "meta_description": "Anonymous author of a Late Antique geographical compendium. Contains the Brief Explanation of Geography. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of the Compendium of Geography is anonymous. Based on the work&#x27;s dating to the 4th–6th century CE, the author was likely a scholar or compiler in the Greek-speaking Eastern Roman Empire, operating within a tradition of condensing classical geographical knowledge for contemporary use.</p>\n<p class=\"research-text\">The sole known work is the Geographias Exegesis Syntomos, a concise geographical treatise that epitomizes the works of earlier authorities like Ptolemy and Strabo.</p>\n<p class=\"research-text\">This compendium exemplifies late antique geographical writing and the transmission of classical learning. As a practical handbook, it played a role in preserving geographical concepts through the medieval period, offering insight into educational practices and serving as a link between classical and Byzantine scholarship.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "the-aa",
+      "title": {
+        "english": "Concise Exposition of Geography",
+        "ancient_greek": "Συνοπτικὴ ἔκθεσις γεωγραφίας"
+      },
+      "url_slug": "compendium-of-geography-anon-exposition-the-aa",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/compendium-of-geography-anon/exposition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/compendium-of-geography-anon/exposition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/compendium-of-geography-anon/exposition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/compendium-of-geography-anon/exposition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/compendium-of-geography-anon/exposition.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/compendium-of-geography-anon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/compendium-of-geography-anon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/compendium-of-geography-anon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/compendium-of-geography-anon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/compendium-of-geography-anon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

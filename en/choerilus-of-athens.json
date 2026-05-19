@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "epg",
+  "auth_slug": "choerilus-of-athens",
+  "name": {
+    "english": "Choerilus of Athens",
+    "ancient_greek": "Χοιρίλος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Choerilus of Athens and the Genealogy of Heroes",
+  "seo": {
+    "browser_title": "Choerilus of Athens on Eulogikon Greek Texts Archive",
+    "meta_title": "Classical Choerilus of Athens Ancient Greek Dramatic Works",
+    "meta_description": "Choerilus of Athens, a 5th century BCE Attic dramatist. Surviving fragments of his works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Choerilus of Athens was an early Athenian tragic poet active in the late 6th and early 5th centuries BCE. According to the Byzantine encyclopedia known as the Suda, he lived from the 73rd Olympiad onward, produced 160 plays, won 13 victories, and competed against Aeschylus. He is grouped with pioneers like Thespis and Phrynichus as a precursor to the canonical tragedians.</p>\n<p class=\"research-text\">One tradition in the Suda credits him with introducing the use of masks and verse-speaking satyrs, though these innovations are more commonly ascribed to Thespis. No play by Choerilus survives intact. While the Suda attributes 160 works to him, he is known only through fragments and uncertain titles, such as <strong>Alope</strong>.</p>\n<p class=\"research-text\">Choerilus holds significance as a historical figure in the formative development of Greek tragedy. His prolific output and recorded competition with Aeschylus mark him as a notable transitional dramatist who helped shape the early dramatic competitions at the City Dionysia before the genre reached its classical form.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "epg-aa",
+      "title": {
+        "english": "Genealogical Fragments of Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογιῶν Ἡρώων"
+      },
+      "url_slug": "choerilus-of-athens-genealogical-heroes-epg-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-athens/genealogical-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens/genealogical-heroes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens/genealogical-heroes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens/genealogical-heroes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-athens/genealogical-heroes.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/choerilus-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/choerilus-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,330 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bmw-aa",
+  "eul_aid": "bmw",
+  "author_slug": "alcmaeon-of-croton",
+  "work_slug": "testimonies",
+  "url_slug": "alcmaeon-of-croton-testimonies-bmw-aa",
+  "author": {
+    "english": "Alcmaeon of Croton",
+    "ancient_greek": "Ἀλκμαίων ὁ Κροτωνιάτης"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "The Testimonies by Alcmaeon of Croton on Eulogikon",
+    "meta_title": "Testimonies by Alcmaeon of Croton in Ancient Greek",
+    "meta_description": "Testimonies collects the surviving ideas of Pre-Socratic philosopher Alcmaeon of Croton. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as the Testimonies is a modern scholarly compilation representing the doctrines of the Pre-Socratic philosopher and physician Alcmaeon of Croton, who was active in southern Italy during the late sixth and early fifth centuries BCE. No complete treatise by Alcmaeon survives; his ideas are reconstructed from approximately eighteen fragments and doxographical reports preserved by later ancient authors, including Aristotle, Theophrastus, and Galen. These passages, originally composed in Doric Greek, collectively outline his pioneering contributions to medicine and natural philosophy.</p>\n<p class=\"research-text\">Alcmaeon’s central tenet defines health as a state of equilibrium, or isonomia, among the body’s opposing qualities—such as hot and cold, wet and dry, and bitter and sweet. He posited that disease results from the monarchy, or singular dominance, of any one of these qualities. His investigations extended to human anatomy, where he is credited with identifying the brain as the central organ of sensation and cognition, a conclusion he reportedly reached through dissection. He also provided an early description of the optic nerves. Scholars interpret his application of the term isonomia, a concept drawn from contemporary political discourse meaning “equality of rights,” as an attempt to establish a naturalistic, rather than theological, foundation for physiology. Although he is frequently associated with the Pythagorean intellectual milieu of Croton, ancient sources also note substantive differences between his views and those of the Pythagoreans.</p>\n<p class=\"research-text\">The transmission of Alcmaeon’s work is entirely indirect. All extant knowledge derives from quotations, paraphrases, and critiques embedded within the texts of later philosophers and medical writers. These scattered references were first systematically assembled in modern collections of Pre-Socratic fragments. Consequently, contemporary understanding of his thought remains inherently fragmentary and is inevitably filtered through the interpretive lenses of the authors who preserved it.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "DIOG. VIII 83. Ἀλκμαίων Κροτωνιάτης. καὶ οὗτος Πυθαγόρου διήκουσε. καὶ τὰ πλεῖστά γε [τὰ] ἰατρικὰ λέγει, ὅμως δὲ καὶ φυσιολογεῖ ἐνίοτε λέγων ‘δύο τὰ πολλά ἐστι τῶν ἀνθρωπίνων‘ [vgl. I 211, 18]. δοκεῖ δὲ πρῶτος φυσικὸν λόγον συγγεγραφέναι, καθά φησι Φαβωρῖνος ἐν Παντοδαπῆι ἱστορίαι [FHG III 25]. καὶ τὴν σελήνην καθόλου 〈τε τὰ ὑπὲρ〉 ταύτην ἔχειν ἀίδιον φύσιν. (ἦν δὲ Πειρίθου υἱός, ὡς αὐτὸς ἐναρχόμενος τοῦ συγγράμματός φησιν ‘ Ἀλκμαίων .. . τεκμαίρεσθαι ‘ κτἑ. [Β 1]). ἔφη δὲ καὶ τὴν ψυχὴν ἀθάνατον, καὶ κινεῖσθαι αὐτὴν συνεχὲς ὡς τὸν ἥλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "CLEM. Strom. I 78 (II 51, 1 St.) Ἀ. γοῦν Περίθου Κροτωνιάτης πρῶτος φυσικὸν λόγον συνέταξεν. GAL. de elem. sec. Hipp. I 9. (I 487 K., 54, 18 Helmr.) τὰ γὰρ τῶν παλαιῶν ἅπαντα Περὶ φύσεως ἐπιγέγραπται, τὰ Μελίσσου, τὰ Παρμενίδου, τὰ Ἐμπεδοκλέους Ἀλκμαίωνός τε καὶ Γοργίου καὶ Προδίκου καὶ τῶν ἄλλων ἁπάντων. ISIDOR. Orig. I 40, 1 fabulas poetae a fando nominaverunt, quia non sunt res factae, sed tantummodo loquendo fictae. quae ideo sunt inductae, ut ficto animalium mutorum inter se colloquio imago quaedam hominum vitae nosceretur. has primus invenisse traditur Alcimon [ sic] Crotoniensis, appellanturque Aesopicae, quod is apud Phrygas in hac re polluit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "ARIST. Metaph. A 5 986a 22 ἕτεροι δὲ τῶν αὐτῶν τούτων τὰς ἀρχὰς δέκα λέγουσιν εἶναι τὰς κατὰ συστοιχίαν λεγομένας, πέρας καὶ ἄπειρον, περιττὸν καὶ ἄρτιον, ἓν καὶ πλῆθος, δεξιὸν καὶ ἀριστερόν, ἄρρεν καὶ θῆλυ, ἠρεμοῦν καὶ κινούμενον, εὐθὺ καὶ καμπύλον, φῶς καὶ σκότος, ἀγαθὸν καὶ κακόν, τετράγωνον καὶ ἑτερόμηκες. ὅνπερ τρόπον ἔοικε καὶ Ἀ. ὁ Κροτωνιάτης ὑπολαβεῖν, καὶ ἤτοι οὗτος παρ’ ἐκείνων ἢ ἐκεῖνοι παρὰ τούτου παρέλαβον τὸν λόγον τοῦτον· καὶ γὰρ ἐγένετο τὴν ἡλικίαν Ἀλκμαίων 〈νέοσ〉 ἐπὶ γέροντι Πυθαγόραι, ἀπεφήνατο δὲ παραπλησίως τούτοις· φησὶ γὰρ εἶναι δύο τὰ πολλὰ τῶν ἀνθρωπίνων, λέγων τὰς ἐναντιότητας οὐχ ὥσπερ οὗτοι διωρισμένας ἀλλὰ τὰς τυχούσας, οἷον λευκὸν μέλαν, γλυκὺ πικρόν, ἀγαθὸν κακόν, μέγα μικρόν. οὗτος μὲν οὖν ἀδιορίστως ἀπέρριψε περὶ τῶν λοιπῶν, οἱ δὲ Πυθαγόρειοι καὶ πόσαι καὶ τίνες αἱ ἐναντιώσεις ἀπεφήναντο. παρὰ μὲν οὖν τούτων ἀμφοῖν τοσοῦτον ἔστι λαβεῖν, ὅτι τἀναντία ἀρχαὶ τῶν ὄντων [vgl. Arist. Schrift Πρὸς τὰ Ἀλκμαίωνος α Diog. v 25]. ISOCR. 15, 268 τοὺς λόγους τῶν παλαιῶν σοφιστῶν, ὧν ὁ μὲν ἄπειρον τὸ πλῆθος ἔφησεν εἶναι τῶν ὄντων, Ἐμπεδοκλῆς δὲ τέτταρα καὶ Νεῖκος καὶ Φιλίαν ἐν αὐτοῖς, Ἴων δ’ οὐ πλείω τῶν τριῶν, Ἀλκμέων δὲ δύο μόνα. SCHOL. BASIL. ed. Pasquali n. 3 [ Gött. Nachr. 1910, 196] Ἀ. ἀντιθέσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "AËT. II 16, 2. 3 (D. 345) (τῶν μαθηματικῶν τινες) τοὺς πλανήτας τοῖς ἀπλανέσιν ἀπὸ δυσμῶν ἐπ’ ἀνατολὰς ἀντιφέρεσθαι. τούτωι δὲ συνομολογεῖ καὶ Ἀ. II 22, 4 (D. 352) Ἀ. πλατὺν εἶναι τὸν ἥλιον. 29, 3 (D. 359) Ἀ., Ἡράκλειτος [22 A 12], Ἀντιφῶν [87 B 28] κατὰ τὴν τοῦ σκαφοειδοῦς στροφὴν καὶ τὰς περικλίσεις (ἐκλείπειν τὴν σελήνην).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "THEOPHR. de sens. 25f. (D. 506) τῶν δὲ μὴ τῶι ὁμοίωι ποιούντων τὴν αἴσθησιν Ἀ. μὲν πρῶτον ἀφορίζει τὴν πρὸς τὰ ζῶια διαφοράν. ἄνθρωπον γάρ φησι τῶν ἄλλων διαφέρειν ὅτι μόνον ξυνίησ ι , τὰ δ ’ ἄλλα αἰσθάνεται μέ ν , οὐ ξυνίησι δέ [B 1a], ὡς ἕτερον ὂν τὸ φρονεῖν καὶ αἰσθάνεσθαι, καὶ οὔ, καθάπερ Ἐμπεδοκλῆς, ταὐτόν· ἔπειτα περὶ ἑκάστης λέγει. ἀκούειν μὲν οὖν φησι τοῖς ὠσίν, διότι κενὸν ἐν αὐτοῖς ἐνυπάρχει· τοῦτο γὰρ ἠχεῖν (φθέγγεσθαι δὲ τῶι κοίλωι), τὸν ἀέρα δ’ ἀντηχεῖν. ὀσφραίνεσθαι δὲ ῥισὶν ἅμα τῶι ἀναπνεῖν ἀνάγοντα τὸ πνεῦμα πρὸς τὸν ἐγκέφαλον. γλώττηι δὲ τοὺς χυμοὺς κρίνειν· χλιαρὰν γὰρ οὖσαν καὶ μαλακὴν τήκειν τῆι θερμότητι· δέχεσθαι δὲ καὶ διαδιδόναι διὰ τὴν μανότητα καὶ ἁπαλότητα. (26) ὀφθαλμοὺς δὲ ὁρᾶν διὰ τοῦ πέριξ ὕδατος. ὅτι δ’ ἔχει πῦρ, δῆλον εἶναι· πληγέντος γὰρ ἐκλάμπειν. ὁρᾶν δὲ τῶι στίλβοντι καὶ τῶι διαφανεῖ, ὅταν ἀντιφαίνηι, καὶ ὅσον ἂν καθαρώτερον ἦι, μᾶλλον. ἁπάσας δὲ τὰς αἰσθήσεις συνηρτῆσθαί πως πρὸς τὸν ἐγκέφαλον· διὸ καὶ πηροῦσθαι κινουμένου καὶ μεταλλάττοντος τὴν χώραν· ἐπιλαμβάνειν γὰρ τοὺς πόρους, δι’ ὧν αἱ αἰσθήσεις. περὶ δὲ ἁφῆς οὐκ εἴρηκεν οὔτε πῶς οὔτε τίνι γίνεται. [ἀλλ’] Ἀ. μὲν οὖν ἐπὶ τοσοῦτον ἀφώρικεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "AËT. IV 16, 2 (D. 406) Ἀ. ἀκούειν ἡμᾶς τῶι κενῶι τῶι ἐντὸς τοῦ ὠτός· τοῦτο γὰρ εἶναι τὸ διηχοῦν κατὰ τὴν τοῦ πνεύματος εἰσβολήν· πάντα γὰρ τὰ κοῖλα ἠχεῖ vgl. A 5. Arist. de an. B 8. 419b 34. Hipp. de carn. 15 (VIII 603 L.).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ARIST. Hist. anim. A 11. 492a 13 κεφαλῆς μόριον, δι’ οὗ ἀκούει, ἄπνουν, τὸ οὖς· Ἀ. γὰρ οὐκ ἀληθῆ λέγει, φάμενος ἀναπνεῖν τὰς αἶγας κατὰ τὰ ὦτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "AËT. IV 17, 1 (D. 407) Ἀ. ἐν τῶι ἐγκεφάλωι εἶναι τὸ ἡγεμονικόν· τούτωι οὖν ὀσφραίνεσθαι ἕλκοντι διὰ τῶν ἀναπνοῶν τὰς ὀσμάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "—IV 18, 1 (D. 407) Ἀ. τῶι ὑγρῶι καὶ τῶι χλιαρῶι τῶι ἐν τῆι γλώττηι πρὸς τῆι μαλακότητι διακρίνεσθαι τοὺς χυμούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "—IV 13, 12 (D. 404) Ἀ. κατὰ τὴν τοῦ διαφανοῦς ἀντίληψιν (τὴν ὅρασιν γίνεσθαι). CHALCID. in Tim. p. 279 Wrob. demonstranda igitur oculi natura est, de qua cum plerique alii tum Alcmaeo Crotoniensis in physicis exercitatus quique primus exsectionem adgredi est ausus, et Callisthenes, Aristotelis auditor, et Herophilus multa et praeclara in lucem protulerunt: duas esse angustas semitas, quae a cerebri sede, in qua est sita potestas animae summa ac principalis, ad oculorum cavernas meent naturalem spiritum continentes. quae cum ex uno initio eademque radice progressae aliquantisper coniunctae sint in frontis intimis, separatae bivii specie perveniunt ad oculorum concavas sedes, qua superciliorum obliqui tramites porriguntur, sinuataeque illic tunicarum gremio naturalem umorem recipiente globos complent munitos tegmine palpebrarum, ex quo appellantur orbes. porro quod ex una sede progrediantur luciferae semitae, docet quidem sectio principaliter; nihilo minus tamen intelligitur ex eo quoque, quod uterque oculus moveatur una nec alter sine altero moveri queat. oculi porro ipsius continentiam in quattuor membranis seu tunicis notaverunt disparili soliditate. quarum differentiam proprietatemque si quis persequi velit, maiorem proposita materia suscipiet laborem. Vgl. Hipp. de loc. in hom. 2 (VI 278 L.), de carn. 17 (VIII 606 L.) πολλὰ δὲ ταῦτ’ ἐστὶ τὰ δέρματα πρὸ τοῦ ὁρέοντος διαφανέα ὁκοῖόν περ αὐτό ἐστιν· τούτωι γὰρ τῶι διαφανεῖ ἀνταυγεῖ τὸ φῶς καὶ τὰ λαμπρὰ πάντα. τούτωι οὖν ὁρῆι τῶι ἀνταυγέοντι. ARIST. de gen. anim. B 6. 744a 8 ἀπὸ τῆς περὶ τὸν ἐγκέφαλον ὑγρότητος ἀποκρίνεται τὸ καθαρώτατον διὰ τῶν πόρων, οἳ φαίνονται φέροντες ἀπ’ αὐτῶν πρὸς τὴν μήνιγγα τὴν περὶ τὸν ἐγκέφαλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "PLATO Phaedo p. 96 A B νέος ὢν θαυμαστῶς ὡς ἐπεθύμησα ταύτης τῆς σοφίας ἣν δὴ καλοῦσι περὶ φύσεως ἱστορίαν ... σκοπῶν πρῶτον τὰ τοιάδε· ἆρ’ ἐπειδὰν τὸ θερμὸν καὶ τὸ ψυχρὸν σηπεδόνα τινὰ λάβηι ὥς τινες ἔλεγον, τότε δὴ τὰ ζῶια συντρέφεται; καὶ πότερον τὸ αἷμά ἐστιν ὧι φρονοῦμεν ἢ ὁ ἀὴρ ἢ τὸ πῦρ; ἢ τούτων μὲν οὐδέν, ὁ δ’ ἐγκέφαλός ἐστιν ὁ τὰς αἰσθήσεις παρέχων τοῦ ἀκούειν καὶ ὁρᾶν καὶ ὀσφραίνεσθαι, ἐκ τούτων δὲ γίγνοιτο μνήμη καὶ δόξα, ἐκ δὲ μνήμης καὶ δόξης λαβούσης τὸ ἠρεμεῖν, κατὰ ταῦτα γίγνεσθαι ἐπιστήμην; vgl. A 5 I 212, 6f. Hipp. de morb. sacro 14 ὁκόσον δ’ ἂν ἀτρεμήσηι ὁ ἐγκέφαλος χρόνον, τοσοῦτον καὶ φρονεῖ ἄνθρωπος. 17 διό φημι τὸν ἐγκέφαλον εἶναι τὸν ἑρμηνεύοντα τὴν ξύνεσιν. Arist. Anal. post. B 19. 100a 3ff.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ARIST. de anima A 2. 405a 29 παραπλησίως δὲ τούτοις καὶ Ἀ. ἔοικεν ὑπολαβεῖν περὶ ψυχῆς· φησὶ γὰρ αὐτὴν ἀθάνατον εἶναι διὰ τὸ ἐοικέναι τοῖς ἀθανάτοις· τοῦτο δ’ ὑπάρχειν αὐτῆι ὡς ἀεὶ κινουμένηι· κινεῖσθαι γὰρ καὶ τὰ θεῖα πάντα συνεχῶς ἀεί, σελήνην, ἥλιον, τοὺς ἀστέρας καὶ τὸν οὐρανὸν ὅλον. CIC. de n. d. I 11, 27 Crotoniates autem A., qui soli et lunae reliquisque sideribus omnibus animoque praeterea divinitatem dedit, non sensit sese mortalibus rebus immortalitatem dare. CLEM. Protr. 66 (I 50, 20 St.) ὁ γάρ τοι Κροτωνιάτης Ἀ. θεοὺς ὤιετο τοὺς ἀστέρας εἶναι ἐμψύχους ὄντας. AËT. IV 2, 2 (D. 386 περὶ ψυχῆς) Ἀ. φύσιν αὐτοκίνητον κατ’ ἀίδιον κίνησιν καὶ διὰ τοῦτο ἀθάνατον αὐτὴν καὶ προσεμφερῆ τοῖς θείοις ὑπολαμβάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "AËT. V 3, 3 (D. 417) Ἀ. ἐγκεφάλου μέρος (sc. εἶναι τὸ σπέρμα). CENSOR. 5, 2ff. sed hanc opinionem (sc. e medullis semen profluere) nonnulli refellunt, ut Anaxagoras [ 59 A 107], Democritus [ 68 A 141] et. A. Crotoniates: (3) hi enim post gregum contentionem non medullis modo, verum et adipe multaque carne mares exhauriri respondent. illud quoque ambiguam facit inter auctores opinionem, utrumne ex patris tantummodo semine partus nascatur, ut Diogenes [ 64 A 27] et Hippon [ 38 A 13] Stoicique scripserunt, an etiam ex matris, quod Anaxagorae et Alcmaeoni nec non Parmenidi [ 28 A 54] Empedoclique et Epicuro visum est. de conformatione autem partus nihilo minus definite se scire A. confessus est, ratus neminem posse perspicere quid primum in infante formetur. AËT. V 17, 3 (D. 427) Ἀ. τὴν κεφαλήν, ἐν ἧι ἐστι τὸ ἡγεμονικόν (sc. πρῶτον τελεσιουργεῖσθαι ἐν τῆι γαστρί).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "CENSORIN. 6, 4 ex quo parente seminis amplius fuit, eius sexum repraesentari dixit A.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "ARIST. Hist. anim. Η 1. 581a 12 φέρειν δὲ σπέρμα πρῶτον ἄρχεται τὸ ἄρρεν ὡς ἐπὶ τὸ πολὺ ἐν τοῖς ἔτεσι τοῖς δὶς ἑπτὰ τετελεσμένοις· ἅμα δὲ καὶ τρίχωσις τῆς ἥβης ἄρχεται, καθάπερ καὶ τὰ φυτὰ μέλλοντα σπέρμα φέρειν ἀνθεῖν πρῶτον Ἀ. φησὶν ὁ Κροτωνιάτης [Schol. Plat. Alc. I p. 121 E]. Vgl. Solon 19, 3 D. τοὺς δ’ ἑτέρους ὅτε δὴ τελέσηι θεὸς ἕπτ’ ἐνιαυτούς, ἥβης ἐκφαίνει σήματα γεινομένης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "—de gen. an Γ 2. 752b 22 τοῖς μὲν γὰρ ζωιοτοκουμένοις ἐν ἄλλωι μορίωι γίνεται ἡ τροφή, τὸ καλούμενον γάλα, ἐν τοῖς μαστοῖς· τοῖς δ’ ὄρνισι τοῦτο ποιεῖ ἡ φύσις ἐν τοῖς ὠιοῖς, τοὐναντίον μέντοι ἢ οἵ τε ἄνθρωποι οἴονται καὶ Ἀ. φησὶν ὁ Κροτωνιάτης· οὐ γὰρ τὸ λευκόν ἐστι γάλα, ἀλλὰ τὸ ὠχρόν. τοῦτο γάρ ἐστιν ἡ τροφὴ τοῖς νεοττοῖς· οἱ δ’ οἴονται τὸ λευκὸν διὰ τὴν ὁμοιότητα τοῦ χρώματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "AËT. V 16, 3 (D. 426) Ἀ. δι’ ὅλου τοῦ σώματος τρέφεσθαι (τὰ ἔμβρυα)· ἀναλαμβάνειν γὰρ αὐτῶι ὥσπερ σπογγιᾶι τὰ ἀπὸ τῆς τροφῆς θρεπτικά. Anders RUFUS bei ORIBAS. III 156 CMG VI, 2. 2, 136 ἔνεστι περίττωμα τοῖς τηλικούτοις ἐν τῶι ἐντέρωι ὃ χρὴ ἐξάγειν, οὐχ ὥσπερ Ἀ. οἴεται ὅτι ἐν ταῖς μήτραις ὂν τὸ παιδίον ἤσθιεν στόματι· τοῦτο γὰρ οὐδένα τρόπον δυνατόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "—v 24, 1 (D. 435) Ἀ. ἀναχωρήσει τοῦ αἵματος εἰς τὰς αἱμόρρους φλέβας ὕπνον γίνεσθαί φησι, τὴν δὲ ἐξέγερσιν διάχυσιν, τὴν δὲ παντελῆ ἀναχώρησιν θάνατον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bmw-ab",
+      "title": {
+        "english": "Fragments on Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φύσεως"
+      },
+      "url_slug": "alcmaeon-of-croton-nature-bmw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcmaeon-of-croton/nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/nature.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "lgi-bf",
+      "title": {
+        "english": "Against Flaccus",
+        "ancient_greek": "Κατὰ Φλάκκου"
+      },
+      "url_slug": "philo-of-alexandria-against-flaccus-lgi-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/against-flaccus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/against-flaccus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/against-flaccus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/against-flaccus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/against-flaccus.json"
+      }
+    },
+    {
+      "eul_wid": "iso-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eq",
+      "title": {
+        "english": "Lucullus",
+        "ancient_greek": "Λούκουλλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-lucullus-okg-eq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.json"
+      }
+    },
+    {
+      "eul_wid": "kkk-af",
+      "title": {
+        "english": "On Circumstances",
+        "ancient_greek": "Περὶ περιστάσεων"
+      },
+      "url_slug": "teles-of-megara-circumstances-kkk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/circumstances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/circumstances.json"
+      }
+    },
+    {
+      "eul_wid": "exi-aa",
+      "title": {
+        "english": "On Female Modesty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "phintys-of-sparta-female-modesty-exi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phintys-of-sparta/female-modesty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta/female-modesty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta/female-modesty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta/female-modesty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phintys-of-sparta/female-modesty.json"
+      }
+    },
+    {
+      "eul_wid": "reo-an",
+      "title": {
+        "english": "On Fevers",
+        "ancient_greek": "Περὶ Πυρετῶν"
+      },
+      "url_slug": "alexander-of-aphrodisias-fevers-reo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/fevers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/fevers.json"
+      }
+    },
+    {
+      "eul_wid": "hik-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "nausiphanes-of-teos-testimonies-hik-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nausiphanes-of-teos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nausiphanes-of-teos/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "cty-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hippodamus-of-miletus-testimonies-cty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippodamus-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippodamus-of-miletus/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcmaeon-of-croton/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

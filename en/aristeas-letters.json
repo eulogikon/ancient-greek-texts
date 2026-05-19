@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ltu",
+  "auth_slug": "aristeas-letters",
+  "name": {
+    "english": "Aristeas Letters",
+    "ancient_greek": "Ἀρισταίου Ἐπιστολαί"
+  },
+  "seo_h1": "Letter of Aristeas to Philocrates on the Septuagint",
+  "seo": {
+    "browser_title": "Aristeas Author of the Letter on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristeas Ancient Greek Epistle and Author Works",
+    "meta_description": "Aristeas, a Hellenistic author of the 2nd century BCE. Known for the theological Letter of Aristeas. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Θεολογία",
+      "english": "Theology",
+      "href": "/domains/theology"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Letter of Aristeas is a pseudepigraphical work falsely attributed to a courtier named Aristeas addressing his brother Philocrates. Its actual author was an anonymous Hellenistic Jew, likely writing in Alexandria during the 2nd century BCE. This author skillfully blends knowledge of Jewish tradition with Greek cultural and courtly conventions to present Judaism favorably to a Hellenistic audience.</p>\n<p class=\"research-text\">The sole surviving work is the Letter of Aristeas, a pseudepigraphical epistle. It provides the oldest and most detailed account of the legendary translation of the Hebrew Pentateuch into Greek, known as the Septuagint.</p>\n<p class=\"research-text\">The letter is a foundational document for the history of the Septuagint, which became the standard scriptural text for Greek-speaking Jews and the early Christian church. It is a major example of Jewish apologetic literature, arguing for the wisdom and antiquity of Jewish law. The work also offers an idealized portrayal of Jerusalem, the Jewish priesthood, and the Ptolemaic court in Alexandria.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ltu-aa",
+      "title": {
+        "english": "Letter of Aristeas to Philocrates",
+        "ancient_greek": "Ἐπιστολὴ Ἀριστέου πρὸς Φιλοκράτην"
+      },
+      "url_slug": "aristeas-letters-philocrates-ltu-aa",
+      "passages": 205,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristeas-letters/philocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-letters/philocrates.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-letters/philocrates.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-letters/philocrates.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristeas-letters/philocrates.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristeas-letters",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristeas-letters.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristeas-letters.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristeas-letters.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristeas-letters.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

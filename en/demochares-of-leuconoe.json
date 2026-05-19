@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hqw",
+  "auth_slug": "demochares-of-leuconoe",
+  "name": {
+    "english": "Demochares of Leuconoe",
+    "ancient_greek": "Δημοχάρης ὁ Λευκονοεύς"
+  },
+  "seo_h1": "Demochares of Leuconoe and the Defense of Demosthenes",
+  "seo": {
+    "browser_title": "The Demochares of Leuconoe on Eulogikon Greek Archive",
+    "meta_title": "Demochares of Leuconoe Ancient Greek Historical Works",
+    "meta_description": "Demochares of Leuconoe, a Hellenistic historian writing in Attic Greek. His surviving historical works. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Demochares of Leuconoe was an Athenian orator, statesman, and historian of the early Hellenistic period, active in the late fourth and early third centuries BCE. As the nephew of the famed orator Demosthenes, he was a leading anti-Macedonian politician and general who vigorously defended Athenian autonomy. His political activities resulted in a period of exile at the court of Lysimachus before he was eventually recalled to Athens.</p>\n<p class=\"research-text\">His career was instrumental in the restoration of democracy after 307 BCE and in the city&#x27;s ongoing resistance against Macedonian dominance, a role documented by later historians such as Polybius and Plutarch. Demochares authored a contemporary historical work, now lost but known through fragments. Written in Attic Greek, this <strong>History</strong> covered Athenian and Greek affairs from the death of Alexander the Great into the early third century BCE.</p>\n<p class=\"research-text\">While a significant source for this turbulent era, Demochares&#x27;s history was notably partisan. Later historians, particularly Polybius, cited his work while criticizing its strong anti-Macedonian bias, accusing Demochares of writing as a polemical orator rather than a dispassionate chronicler. Despite this acknowledged bias, his testimony remains a crucial contemporary insight into the political struggles of early Hellenistic Athens.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hqw-aa",
+      "title": {
+        "english": "Historical Fragments on Demosthenes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημοσθένους"
+      },
+      "url_slug": "demochares-of-leuconoe-historical-fragments-hqw-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/demochares-of-leuconoe/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demochares-of-leuconoe/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demochares-of-leuconoe/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demochares-of-leuconoe/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demochares-of-leuconoe/historical-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/demochares-of-leuconoe",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demochares-of-leuconoe.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demochares-of-leuconoe.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demochares-of-leuconoe.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/demochares-of-leuconoe.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

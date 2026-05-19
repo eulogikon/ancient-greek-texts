@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cyo",
+  "auth_slug": "lyrica-adespota",
+  "name": {
+    "english": "Lyrica Adespota",
+    "ancient_greek": "Λυρικά Ἀδέσποτα"
+  },
+  "seo_h1": "Anonymous Lyric Fragments on Apollo and Bacchus",
+  "seo": {
+    "browser_title": "Lyrica Adespota Anonymous Poetry on Eulogikon Greek Archive",
+    "meta_title": "The Lyrica Adespota Ancient Greek Anonymous Poetry",
+    "meta_description": "Lyrica Adespota are anonymous lyric fragments from ancient Greece. Poetic fragments with mixed dialect. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lyrica Adespota is not an author but a collective term for anonymous fragments of Greek lyric poetry. The designation means “lyrics without an owner.” These fragments, transmitted through quotations in later authors, papyri, and inscriptions, date largely from the Archaic and Classical periods, from the 7th to the 5th centuries BCE. The original poets were active across the Greek world, and their works were performed in typical social, religious, and competitive contexts.</p>\n<p class=\"research-text\">No biography exists for this corpus; scholarship focuses on textual reconstruction, metrical analysis, and situating the fragments within the history of Greek lyric. The corpus comprises numerous short, often fragmentary poems compiled in modern editions such as Denys Page’s <strong>Poetae Melici Graeci</strong> and Malcolm Davies’s <strong>Poetarum Melicorum Graecorum Fragmenta</strong>.</p>\n<p class=\"research-text\">Notable examples include the “Linos-song” and the complete inscribed “Song of Seikilos.” These anonymous fragments are significant for revealing the breadth of Greek lyric beyond major figures like Sappho or Pindar. They offer glimpses into popular song, cult practice, and poetic tradition, preserving rare words, mythological references, and metrical forms that supplement the known canon.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cyo-aa",
+      "title": {
+        "english": "Fragments on Apollo and Bacchus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος καὶ Βάκχου"
+      },
+      "url_slug": "lyrica-adespota-apollo-bacchus-cyo-aa",
+      "passages": 231,
+      "links": {
+        "html": "https://eulogikon.org/grc/lyrica-adespota/apollo-bacchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota/apollo-bacchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota/apollo-bacchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota/apollo-bacchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyrica-adespota/apollo-bacchus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lyrica-adespota",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyrica-adespota.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyrica-adespota.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyrica-adespota.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lyrica-adespota.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

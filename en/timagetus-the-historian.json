@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ldq",
+  "auth_slug": "timagetus-the-historian",
+  "name": {
+    "english": "Timagetus Historian",
+    "ancient_greek": "Τιμάγετος ὁ ἱστοριογράφος"
+  },
+  "seo_h1": "Timagetus the Historian on Harbors and Rivers",
+  "seo": {
+    "browser_title": "Timagetus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Timagetus Ancient Greek Historical Works and Fragments",
+    "meta_description": "Timagetus was a Hellenistic historian from the 3rd century BCE. His historical fragments are available. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Timagetus is an obscure historian, with no recorded details of his origin or life. The exceptionally broad suggested date range of the 3rd century BCE to the 2nd century CE indicates profound uncertainty about his floruit. His sole identifier in surviving references is the designation &quot;historian.&quot;</p>\n<p class=\"research-text\">His work is known only through a single fragment cited by Athenaeus of Naucratis in the Deipnosophistae. The title of this historical text is not preserved, and the work is considered lost.</p>\n<p class=\"research-text\">His significance lies in his preservation within the ancient scholarly tradition. Athenaeus’s citation places Timagetus within the network of sources used by later encyclopedic authors, indicating his work was accessible and deemed credible in the Roman Imperial period. He represents the multitude of lost, specialized historians who contributed to broader compilations.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ldq-aa",
+      "title": {
+        "english": "On Harbors and Rivers",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timagetus-the-historian-harbors-rivers-ldq-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/timagetus-the-historian/harbors-rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian/harbors-rivers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian/harbors-rivers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian/harbors-rivers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timagetus-the-historian/harbors-rivers.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/timagetus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagetus-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagetus-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagetus-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/timagetus-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

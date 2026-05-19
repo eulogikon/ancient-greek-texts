@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jce",
+  "auth_slug": "asclepiades-of-samos",
+  "name": {
+    "english": "Asclepiades of Samos",
+    "ancient_greek": "Ἀσκληπιάδης ὁ Σάμιος"
+  },
+  "seo_h1": "Asclepiades of Samos: Epigrams from the Ptolemaic Court",
+  "seo": {
+    "browser_title": "Asclepiades of Samos on Eulogikon Greek Text Archive",
+    "meta_title": "Classical Asclepiades of Samos Ancient Greek Poetry Works",
+    "meta_description": "Asclepiades of Samos, Hellenistic poet of the 3rd century BCE. Works include epigrams and lyric poems. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Asclepiades of Samos was a Greek epigrammatist active in the first half of the 3rd century BCE. He lived in Alexandria during the reign of Ptolemy II Philadelphus and was a contemporary of the poets Callimachus and Theocritus. Ancient sources, including the Greek Anthology and the scholar Suidas, confirm his origin and poetic activity.</p>\n<p class=\"research-text\">Approximately forty of his epigrams survive, preserved primarily in the Greek Anthology. His poems are largely erotic, symposiastic, and dedicatory in theme, and also include epitaphs.</p>\n<p class=\"research-text\">Asclepiades is a foundational figure in the development of the Hellenistic literary epigram. He transformed the form from a simple inscription into a sophisticated genre for personal expression. His concise and elegant poems on themes of love and wine established models that were extensively imitated by later Greek poets, including Meleager, and influenced Roman poets such as Propertius and Ovid. The metrical pattern known as the Asclepiad is named after him.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jce-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "asclepiades-of-samos-epigrams-jce-aa",
+      "passages": 216,
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepiades-of-samos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-samos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-samos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-samos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-samos/epigrams.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/asclepiades-of-samos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-samos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-samos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-samos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/asclepiades-of-samos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

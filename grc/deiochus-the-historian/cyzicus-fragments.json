@@ -1,0 +1,268 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "epq-aa",
+  "eul_aid": "epq",
+  "author_slug": "deiochus-the-historian",
+  "work_slug": "cyzicus-fragments",
+  "url_slug": "deiochus-the-historian-cyzicus-fragments-epq-aa",
+  "author": {
+    "english": "Deiochus the Historian",
+    "ancient_greek": "Δηίοχος ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on Cyzicus",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κυζίκου"
+  },
+  "seo": {
+    "browser_title": "Fragments on Cyzicus by Deiochus the Historian on Eulogikon",
+    "meta_title": "Classical Fragments on Cyzicus by Deiochus in Ancient Greek",
+    "meta_description": "Surviving fragments of Deiochus on Cyzicus. Local history and geography of the ancient settlement. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Cyzicus</strong> by the historian Deiochus is a lost local history of the Greek colony of Cyzicus on the Sea of Marmara. The work survives only through a handful of brief prose fragments preserved by later authors, most notably in the scholia to Apollonius Rhodius’s <strong>Argonautica</strong>. These excerpts provide information on the city’s mythological and historical origins, its regional relations, and associated legendary events. The fragments address the foundation of Cyzicus, local myths connected to its territory, and ethnographic details concerning the city and neighboring peoples. They notably offer variant traditions about the visit of the Argonauts, differing from the canonical poetic account by omitting the Doliones and naming an altar of Jasonian Apollo. Other fragments reference the marriage of King Cyzicus to Cleite and the attempted blocking of the city’s harbor by the Pelasgians. Transmitted entirely through quotations in later antiquarian and lexicographical sources, the fragments are collected in modern editions of Greek historical fragments. Though obscure, Deiochus’s work contributed to the corpus of local historical knowledge in antiquity and remains a valuable source for the regional traditions of the Propontis.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-9",
+      "text": "ΠΕΡΙ ΚΥΖΙΚΟΥ. EX LIBRO PRIMO. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Apoll. Rh. I, 139: Ἄλλοι φασὶ καὶ Θέστορα συμπλεῦσαι τοῖς Ἀργοναύταις· Δηίοχος δὲ καὶ Ἀμφιάραον. Idem I, 961: Argonautas Cyzicum appellentes Cyzicus rex et Doliones [φιλότητι ἀντήσαντες .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": ".. εὐξείνως ἀρέσαντο. Ita Apollonius.] Δηίλοχος τοὺς μὲν Δολίονας οὐκ ὀνομάζει, τὸν δὲ Κύζικον φησὶ πυθόμενον τὴν τῶν ἀριστέων γενεὰν ξενίσαι. Idem I, 966: [Ἔνθ’ οἵ γ’ Ἐκβασίῳ βωμὸν θέσαν Ἀπόλλωνι, Εἱσάμενοι παρὰ θῖνα] Ἀπὸ τῆς ἐκβάσεως τῆς νεὼς ἐπὶ τὴν Δολιονίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Δηίλοχος δὲ τὸ ἱερὸν οὐκ Ἐκβασίου Ἀπόλλωνος φησὶν εἶναι, ἀλλ’ Ἰασονίου Ἀπόλλωνος. Σωκράτης δὲ ἐν ταῖς Ἐπικλήσεσι Κυζικηνοῦ Ἀπόλλωνος φησὶ καλεῖσθαι. Idem I, 976: Κλείτη, θυγάτηρ Μέροπος, Περκωσίου τὸ γένος, μάντεως, ἣν Κύζικος ἔγημεν, ὡς ἱστορεῖ Δηίλοχος καὶ Ἔφορος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5a",
+      "text": "Idem I, 987: Χυτὸς λιμὴν ἐν Κυζίκῳ οὕτω καλούμενος. Ἐπεχείρησαν γὰρ οἱ Πελασγοὶ χῶσαι αὐτὸν, ὥς φησι Δηίλοχο ς, κατὰ ἔχθος τὸ πρὸς τοὺς Θεσσαλοὺς, ὑφ’ ὧν ἐξεβέβληντο. Οὗτος δὲ (sc. Ἀπολλώνιος) ὑπὸ τῶν Γηγενῶν φησι κεχῶσθαι αὐτὸν, ποιητικῶς. Id.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5b",
+      "text": "989: Γηγενέε ς · Δηίλοχος Θετταλοὺς εἶναι φησὶν ἐγχειρογάστορας. Τοὺς δὲ γηγενεῖς (sc. Ἀπολλώνιος) φησὶ τοῖς Ἀργοναύταις ἐπιβουλεῦσαι, δοκοῦντας λῃστὰς εἶναι. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Apoll. Rh. I, 1037: Περὶ τῆς μάχης καὶ Δηίλοχος ἱστορεῖ. Περὶ δὲ τῆς τοῦ Κυζίκου ἀναιρέσεως καὶ τῆς ὅλης μάχης οὐ συμφωνεῖται. Ἔφορος (fr. 104) μὲν γὰρ τοὺς Δολίονας, Πελασγοὺς ὄντας, καὶ ἐχθρωδῶς διακειμένους πρὸς τοὺς τὴν Θεσσαλίαν καὶ Μαγνησίαν κατοικοῦντας, διὰ τὸ ἀπελασθῆναι ὑπ’ αὐτῶν, ἐπιθέσθαι αὐτοῖς νύκτωρ, γράφει ἐν τῇ ἐνάτῃ. Ἠκολούθηκε δὲ Ἀπολλώνιος Δηιλόχ ῳ . Idem I, 1061: Τοῦ δὲ Λειμωνίου πεδίου (in quo Cyzici sepulcrum) μέμνηται Δηιόλοχος, περί τε τοῦ τάφου Κυζίκου ὁ αὐτός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Idem I, 1063: Περὶ δὲ Κλείτης φησὶ Δηιόλοχος ὑπὸ λύπης τελευτῆσαι. Idem I, 1065: Εὐάνθης (Νεάνθης?) δὲ καὶ Δηΐλοχος ἱστοροῦσιν ὅτι ἀπήγξατο ἡ Κλείτη, καὶ ὅτι ἡ ἐκ τῶν δακρύων ταύτης κρήνη ἐν Κυζίκῳ ἐγένετο κληθεῖσα ἐπὶ τῷ ὀνόματι αὐτῆς Κλείτη. Idem II, 98: Ἀπολλώνιος μὲν ἐμφαίνει ὡς ἀνῃρημένον τὸν Ἄμυκον· Ἐπίχαρμος δὲ καὶ Πείσανδρος (fr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "13) φασὶν ὅτι ἔδησεν αὐτὸν ὁ Πολυδεύκης. Δηίλοχος δὲ ἐν πρώτῳ περὶ Κυζίκου καταπυκτευθῆναι φησὶν αὐτὸν ὑπὸ Πολυδεύκους. EX LIBRO INCERTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Stephan. B.: Λάμψακος, πόλις κατὰ τὴν Προποντίδα, ἀπὸ Λαμψάκης ἐπιχωρίας τινὸς κόρης· ἔστι δὲ Φωκαέων κτίσμα, πάλαι Πιτύουσα (Πιτυοῦσσα) λεγομένη, ὡς Δηίλοχος ὁ Κυζικηνός.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "epq-ab",
+      "title": {
+        "english": "Fragments on Samothrace",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σαμοθρᾴκης"
+      },
+      "url_slug": "deiochus-the-historian-samothrace-fragments-epq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/deiochus-the-historian/samothrace-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/samothrace-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pdc-ab",
+      "title": {
+        "english": "Fragments of Roman History",
+        "ancient_greek": "Ἀποσπάσματα Ῥωμαϊκῆς Ἱστορίας"
+      },
+      "url_slug": "appian-of-alexandria-roman-history-pdc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/roman-history.json"
+      }
+    },
+    {
+      "eul_wid": "knw-aa",
+      "title": {
+        "english": "Fragments on Achaean Cults",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀχαιϊκῶν Ἱερῶν"
+      },
+      "url_slug": "autocrates-the-historian-achaean-cults-knw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-historian/achaean-cults",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aa",
+      "title": {
+        "english": "From the Sicilian and Island",
+        "ancient_greek": "ἐκ τῆς Σικελῖκης καὶ νησιωτικής"
+      },
+      "url_slug": "appian-of-alexandria-sicily-islands-pdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/sicily-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ao",
+      "title": {
+        "english": "Iberian",
+        "ancient_greek": "Ιβηρική"
+      },
+      "url_slug": "appian-of-alexandria-iberian-pdc-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/iberian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.json"
+      }
+    },
+    {
+      "eul_wid": "gke-aa",
+      "title": {
+        "english": "Mythological Fragments on Ino",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰνοῦς"
+      },
+      "url_slug": "menecrates-of-tyre-mythological-ino-gke-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-tyre/mythological-ino",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tyre/mythological-ino.json"
+      }
+    },
+    {
+      "eul_wid": "izw-ab",
+      "title": {
+        "english": "On the Pontus River",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "agathocles-of-cyzicus-pontus-river-izw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathocles-of-cyzicus/pontus-river",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathocles-of-cyzicus/pontus-river.json"
+      }
+    },
+    {
+      "eul_wid": "ewo-aa",
+      "title": {
+        "english": "On the River Maeander",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "timolaus-of-cyzicus-river-maeander-ewo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timolaus-of-cyzicus/river-maeander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ap",
+      "title": {
+        "english": "Preface",
+        "ancient_greek": "Προοίμιον"
+      },
+      "url_slug": "appian-of-alexandria-preface-pdc-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/preface",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/preface.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/deiochus-the-historian/cyzicus-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

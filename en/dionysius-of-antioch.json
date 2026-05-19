@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "oug",
+  "auth_slug": "dionysius-of-antioch",
+  "name": {
+    "english": "Dionysius of Antioch",
+    "ancient_greek": "Διονύσιος ὁ Ἀντιοχεύς"
+  },
+  "seo_h1": "Dionysius of Antioch in Letters to Philoxenus",
+  "seo": {
+    "browser_title": "Dionysius of Antioch on Eulogikon Greek Texts Archive",
+    "meta_title": "Classical Dionysius of Antioch Ancient Greek Epistles Works",
+    "meta_description": "Dionysius of Antioch, a 1st-2nd century CE Roman orator. His surviving epistles are preserved in Greek. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius of Antioch was an orator active in the 1st and 2nd centuries CE. His epithet associates him with the major Syrian city of Antioch, a significant cultural center in the Roman East. The characterization of his dialect as &quot;Byzantine Greek&quot; is anachronistic for this period; the contemporary linguistic context was Koine or Imperial Greek.</p>\n<p class=\"research-text\">He is credited with a single surviving work, an epistle. The specific title and content of this letter are not attested in the extant historical record.</p>\n<p class=\"research-text\">Dionysius represents one of many literate figures from the eastern Roman Empire whose works are scarcely preserved. His location in Antioch places him within a vital hub of Hellenistic culture and early Christian development, though his precise contributions remain undefined due to the lack of sources.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "oug-aa",
+      "title": {
+        "english": "Letters to Philoxenus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φιλόξενον"
+      },
+      "url_slug": "dionysius-of-antioch-letters-philoxenus-oug-aa",
+      "passages": 80,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-antioch/letters-philoxenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-of-antioch",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-antioch.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-antioch.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-antioch.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-antioch.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

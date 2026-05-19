@@ -1,0 +1,271 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oqa-ae",
+  "eul_aid": "oqa",
+  "author_slug": "hephaestion-of-alexandria",
+  "work_slug": "signs",
+  "url_slug": "hephaestion-of-alexandria-signs-oqa-ae",
+  "author": {
+    "english": "Hephaestion of Alexandria",
+    "ancient_greek": "Ἡφαιστίων ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "On Signs",
+    "ancient_greek": "Περὶ Σημείων"
+  },
+  "seo": {
+    "browser_title": "On Signs by Hephaestion of Alexandria on Eulogikon",
+    "meta_title": "On Signs by Hephaestion of Alexandria in Ancient Greek",
+    "meta_description": "Hephaestion's treatise on critical signs used by ancient Greek poets in their manuscripts. A grammatical work explaining paragraphos, coronis, asteriskos."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Signs_ is a section from the _Encheiridion_, a comprehensive metrical handbook composed by the second-century CE grammarian Hephaestion of Alexandria. This treatise systematically catalogs the editorial symbols employed by Alexandrian scholars to annotate metrical irregularities or other textual issues in poetic manuscripts. The work survives intact as an integral part of the complete _Encheiridion_. Its content focuses on the apparatus of textual criticism, providing detailed explanations for the use of specific signs—such as the paragraphos, coronis, and asteriskos—in the metric analysis of lyric poetry. Hephaestion codifies earlier Alexandrian philological and metrical scholarship, offering practical, didactic instruction for students and scholars by illustrating how these signs demarcate structural units like strophes, antistrophes, and epodes within the works of poets such as Sappho, Anacreon, and Alcaeus.</p>\n<p class=\"research-text\">The _Encheiridion_ was preserved through extensive manuscript copying in the Byzantine and Renaissance periods, where it remained a standard textbook. Its transmission was further secured by translations into Armenian and Syriac, as well as a tenth-century epitome by Ioannes Geometres. The handbook as a whole became the definitive ancient manual on Greek meter, profoundly influencing subsequent scholarship by standardizing metrical terminology and pedagogical approaches for centuries and shaping Byzantine education. The _On Signs_ section is of particular significance for preserving a detailed record of the sophisticated Alexandrian system of critical annotation, which was fundamental to the scholarly editing and interpretation of classical poetic texts.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[15]",
+      "text": "ΠΕΡΙ ΣΗΜΕΙΩΝ. Τὰ σημεῖα τὰ παρὰ τοῖς ποιηταῖς ἄλλως παρ’ ἄλλοις κεῖται· λέγω δέ, ὁποῖά ἐστιν ἥ τε παράγραφος καὶ ἡ κορωνὶς καὶ ἡ ἔξω νενευκυῖα διπλῆ καὶ ὁ ἀστερίσκος, καὶ εἴ τι ἄλλο τοιοῦτον. Παρὰ μὲν τοῖς λυρικοῖς, ἂν μὲν μονόστροφον τὸ ᾆσμα ᾖ, καθ’ ἑκάστην τίθεται στροφὴν ἡ παράγραφος, εἶτα ἐπὶ τέλους τοῦ ᾄσματος ἡ κορωνίς. ἐὰν δὲ κατὰ περικοπὴν τὰ ᾄσματα ᾖ γεγραμμένα, ὥστε εἶναι στροφὴν καὶ ἀντίστροφον καὶ ἐπῳδόν, ἡ παράγραφος ἐπὶ μὲν τῷ τέλει τῆς τε στροφῆς καὶ ἀντιστρόφου κεῖται, ἐπὶ δὲ τῇ ἐπῳδῷ ἡ κορωνίς· —καὶ οὕτως ἡ παράγραφος, ἣ διορίζει τά τε ὅμοια καὶ τὰ ἀνόμοια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "74",
+      "text": "— Ἐπὶ μέντοι τῷ τέλει ὁ ἀστερίσκος τίθεται, γνώρισμα τοῦ τετελέσθαι τὸ ᾆσμα, ἐπεὶ ἡ κορωνὶς ἐπὶ πασῶν τίθεται τῶν ἐπῳδῶν. Καὶ μάλιστα εἴωθεν ὁ ἀστερίσκος τίθεσθαι, ἐὰν ἑτερόμετρον ᾖ τὸ ᾆσμα τὸ ἑξῆς· ὃ καὶ [μᾶλλον] ἐπὶ τῶν ποιημάτων τῶν μονοστροφικῶν γίνεται Σαπφοῦς τε καὶ Ἀνακρέοντος καὶ Ἀλκαίου· ἐπὶ δὲ τῶν Ἀλκαίου ἰδίως κατὰ μὲν τὴν Ἀριστοφάνειον ἔκδοσιν ἀστερίσκος ἐπὶ ἑτερομετρίας ἐτίθετο μόνης, κατὰ δὲ τὴν νῦν τὴν Ἀριστάρχειον καὶ ἐπὶ ποιημάτων μεταβολῆς. Ἡ δὲ διπλῆ ἡ ἔξω βλέπουσα παρὰ μὲν τοῖς κωμικοῖς καὶ τοῖς τραγικοῖς ἐστι πολλή, παρὰ δὲ τοῖς λυρικοῖς σπανία· παρὰ Ἀλκμᾶνι γοῦν εὑρίσκεται· γράψας γὰρ ἐκεῖνος δεκατεσσάρων στροφῶν ᾄσματα [ὧν] τὸ μὲν ἥμισυ τοῦ αὐτοῦ μέτρου ἐποίησεν ἑπτάστροφον, τὸ δὲ ἥμισυ ἑτέρου· καὶ διὰ τοῦτο ἐπὶ ταῖς ἑπτὰ στροφαῖς ταῖς ἑτέραις τίθεται ἡ διπλῆ σημαίνουσα τὸ μεταβολικῶς τὸ ᾆσμα γεγράφθαι. Τούτοις τοῖς σημείοις τοῖς προειρημένοις πλὴν τοῦ ἀστερίσκου καὶ ἑτέροις τισί, περὶ ὧν λέξομεν, 〈καὶ〉 ἐν τοῖς δράμασι χρώμεθα. Τῇ μὲν οὖν κορωνίδι κατὰ τρόπους τρεῖς· ἤτοι ὅταν τῶν ὑποκριτῶν εἰπόντων τινὰ καὶ ἀπαλλαγέντων καταλείπηται ἡ χορός· ἢ ἔμπαλιν· ἢ ὅταν μετάβασις ἀπὸ τόπου εἰς τόπον γίνεσθαι δοκῇ τῆς σκηνῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75",
+      "text": "Τῇ δὲ παραγράφῳ ἤτοι κατὰ πρόσωπα ἀμοιβαῖα, ἔν τε τοῖς ἰαμβικοῖς καὶ τοῖς χορικοῖς, 〈ἢ〉 μεταξὺ τῆς τε στροφῆς καὶ τῆς ἀντιστρόφου. Ἐὰν μέντοι ἡ στροφὴ ἐξ ἀμοιβαίων τυγχάνῃ συγκειμένη, οὐκ ἐξαρκεῖ πρὸς τὸ δηλῶσαι, ὅτι πεπλήρωται ἡ στροφή, ἡ παράγραφος ἐπιφερομένης ἄλλης στροφῆς, ἐπεὶ καὶ ἐφ’ ἑκάστου κώλου οὐδὲν ἧττον τίθεται· ἀλλὰ κεῖται καὶ ἡ ἔσω νενευκυῖα διπλῆ· τοῦτο δέ, ἐὰν ἀντίστροφος ἐπιφέρηται· ὡς ἐάν γε μεταβολὴ μόνον ᾖ στροφῶν, ἡ ἔξω βλέπουσα τίθεται. Εἰπόντων δὲ ἡμῶν ὅτι ἐστί τινα κατὰ περιορισμοὺς ἀνίσους ἀναπαιστικὰ γεγραμμένα, ἃ δὴ ἐν παρόδῳ ὁ χορὸς λέγει, ἐφ’ ἑκάστου περιορισμοῦ τίθεται ἡ παράγραφος. Τῆς δὲ παραβάσεως μερῶν ὄντων ἑπτά, ἐπὶ ἓν ἕκαστον τῶν ἀπολελυμένων τριῶν τίθεται ἡ παράγραφος, τοῦ κομματίου καὶ τῆς παραβάσεως καὶ τοῦ μακροῦ· οὐδὲν ἧττον δὲ καὶ ἐπὶ τοῦ μέλους καὶ τοῦ ἐπιρρήματος, ἂν μηδὲν ἀνταποδιδῶται. ἐὰν δὲ ἐνῇ τὰ ἀνακυκλούμενα, τό τε ἀντίστροφον τοῦ μέλους καὶ τὸ ἀντεπίρρημα, ἐπὶ τοῦ ἐπιρρήματος τίθεται ἡ ἔσω νενευκυῖα διπλῆ ὑπὲρ τοῦ δηλῶσαι ὅτι ἔστι τὰ ἀνταποδιδόμενα, ἐπὶ δὲ τοῦ ἀντεπιρρήματος ἡ ἔξω νενευκυῖα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "76",
+      "text": "Εἰώθασι τοίνυν αὐτοὶ οἱ δραματοποιοὶ μεταξὺ ἰαμβείων τινῶν γράφειν ἑτέρῳ μέτρῳ ὁποσασοῦν στροφάς· εἶτα πάλιν περάναντες δι’ ἰαμβείων τὸ προκείμενον κατὰ διέχειαν ἀνταποδιδόναι τὰς στροφάς. ἐφ’ ἑκάστης μὲν οὖν στροφῆς τίθεται παράγραφος· ἐν δὲ ταῖς προτέραις στροφαῖς ἐπὶ τοῦ τελευταίου κώλου δύο τίθενται διπλαῖ, ἡ μὲν κατ’ ἀρχὰς ἔξω βλέπουσα, ἡ δὲ κατὰ τὸ τέλος ἔσω νενευκυῖα, δηλούντων ἡμῶν διὰ τῆς ἔσω βλεπούσης, ὅτι ἀνταποδίδοταί τινα αὐτοῖς· ἐν δὲ τοῖς ἀνταποδιδομένοις πάλιν μὲν ἐφ’ ἑκάστης στροφῆς παράγραφος, ἐπὶ δὲ τοῦ τελευταίου κώλου δύο διπλαῖ, ἡ μὲν κατ’ ἀρχάς, ἡ δὲ κατὰ τὸ τέλος, ἀμφότεραι μέντοι ἔξω νενευκυῖαι, διὰ τούτων δηλούντων ἡμῶν, ὅτι ἀνταποδέδοται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oqa-ac",
+      "title": {
+        "english": "Handbook-Meters",
+        "ancient_greek": "Ἐγχειρίδιον περὶ Μέτρων"
+      },
+      "url_slug": "hephaestion-of-alexandria-handbook-meters-oqa-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/handbook-meters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/handbook-meters.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-aa",
+      "title": {
+        "english": "Hephaestion Fragments",
+        "ancient_greek": "Ἡφαιστίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "hephaestion-of-alexandria-fragments-oqa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-ab",
+      "title": {
+        "english": "Metric Introduction",
+        "ancient_greek": "Μετρικὴ εἰσαγωγή"
+      },
+      "url_slug": "hephaestion-of-alexandria-metric-introduction-oqa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/metric-introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/metric-introduction.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-ad",
+      "title": {
+        "english": "On Poems",
+        "ancient_greek": "Περὶ ποιημάτων"
+      },
+      "url_slug": "hephaestion-of-alexandria-on-poems-oqa-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/on-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/on-poems.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "piw-aa",
+      "title": {
+        "english": "Allegories-Homer's Iliad 4.1–4",
+        "ancient_greek": "Ἀλληγορίαι εἰς τὴν Ἰλιάδα τοῦ Ὁμήρου"
+      },
+      "url_slug": "galen-of-pergamon-ii-allegories-iliad-4-piw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon-ii/allegories-iliad-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-iliad-4.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-iliad-4.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-iliad-4.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon-ii/allegories-iliad-4.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-al",
+      "title": {
+        "english": "Digressions of the Great Speech",
+        "ancient_greek": "Παρεκβολαὶ τοῦ μεγάλου ῥήματος"
+      },
+      "url_slug": "herodian-of-alexandria-digressions-qnq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/digressions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/digressions.json"
+      }
+    },
+    {
+      "eul_wid": "sie-aa",
+      "title": {
+        "english": "Grammatical Art",
+        "ancient_greek": "Γραμματικὴ Τέχνη"
+      },
+      "url_slug": "dositheus-the-grammarian-art-sie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dositheus-the-grammarian/art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian/art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian/art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian/art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dositheus-the-grammarian/art.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ac",
+      "title": {
+        "english": "Introductory Canons-Noun Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-noun-inflection-vdq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-noun-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.json"
+      }
+    },
+    {
+      "eul_wid": "klo-af",
+      "title": {
+        "english": "Names of Ages Parisian Fragment",
+        "ancient_greek": "Ὀνόματα Ἐποχῶν Παρισινὸν Ἀπόσπασμα"
+      },
+      "url_slug": "aristophanes-of-byzantium-names-ages-klo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/names-ages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.json"
+      }
+    },
+    {
+      "eul_wid": "ncu-ac",
+      "title": {
+        "english": "On Tropes",
+        "ancient_greek": "Περὶ τρόπων"
+      },
+      "url_slug": "tryphon-the-grammarian-tropes-ncu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/tryphon-the-grammarian/tropes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian/tropes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian/tropes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian/tropes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tryphon-the-grammarian/tropes.json"
+      }
+    },
+    {
+      "eul_wid": "vtu-ad",
+      "title": {
+        "english": "Rhetorical Glosses",
+        "ancient_greek": "Γλωσσῶν Ῥητορικῶν"
+      },
+      "url_slug": "lexicographical-anonymous-i-rhetorical-glosses-vtu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/rhetorical-glosses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetorical-glosses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetorical-glosses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetorical-glosses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/rhetorical-glosses.json"
+      }
+    },
+    {
+      "eul_wid": "cto-ai",
+      "title": {
+        "english": "Scholia-Euripides' Rhesus",
+        "ancient_greek": "Σχόλια εἰς Εὐριπίδου Ῥῆσον"
+      },
+      "url_slug": "xenophon-scholia-rhesus-cto-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-scholia/rhesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-scholia/rhesus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/signs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/signs.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

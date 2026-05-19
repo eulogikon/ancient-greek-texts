@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "emy-ab",
+  "eul_aid": "emy",
+  "author_slug": "choerilus-of-samos",
+  "work_slug": "fragments",
+  "url_slug": "choerilus-of-samos-fragments-emy-ab",
+  "author": {
+    "english": "Choerilus of Samos",
+    "ancient_greek": "Χοιρίλος ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Fragments and Titles",
+    "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+  },
+  "seo": {
+    "browser_title": "Poetic Fragments of Choerilus of Samos on Eulogikon",
+    "meta_title": "Classical Fragments by Choerilus of Samos in Ancient Greek",
+    "meta_description": "Surviving fragments and titles of epic poetry by Choerilus of Samos from early Greek tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments and Titles</strong> of Choerilus of Samos represent the scant surviving evidence of his epic poetry, most notably his historical epic the <strong>Persica</strong>. Active in the late 5th century BCE, Choerilus composed this work on the Persian Wars, an early and ambitious attempt to apply the epic form to recent history rather than mythological tradition. The poem was substantial, with later sources reporting its length as between seven and ten books, though only fragments now remain. The content celebrated the Greek victory over Persia, emphasizing panhellenic unity and heroic action. Choerilus is also notable for a poetic lament preserved in the fragments, in which he bemoans the exhaustion of traditional epic themes and the difficulty of finding new paths for the genre. The fragments survive exclusively through quotations by later ancient authors, grammarians, and commentators such as Athenaeus and Strabo, and are collected in modern scholarly editions. His attempt to innovate within the epic tradition was influential, though it was often criticized by later figures like Aristotle and Horace. The work of Choerilus remains a significant, if poorly preserved, milestone in the evolution of Greek epic between the Homeric age and the Hellenistic period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 314-23.1",
+      "text": "[ln_1]χοιριλου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 314-23.2",
+      "text": "ποιηματα βαρβαρικα· μηδικ̣ περσ[ικα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 316",
+      "text": "[ln_1]ἥγεό μοι λόγον ἄλλον, ὅπως Ἀσίης ἀπὸ γαίης ἦλθεν ἐς Εὐρώπην πόλεμος μέγας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 317.1",
+      "text": "[ln_1]ἆ μάκαρ, ὅστις ἔην κεῖνον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 317.2",
+      "text": "χρόνον ἴδρις ἀοιδῆς, Μουσάων θεράπων, ὅτ’ ἀκήρατος ἦν ἔτι λειμών· νῦν δ’ ὅτε πάντα δέδασται, ἔχουσι δὲ πείρατα τέχναι, ὕστατοι ὥστε δρόμου καταλειπόμεθ’, οὐδέ πῃ ἔστι[ln_5]πάντῃ παπταίνοντα νεοζυγὲς ἅρμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 317.3",
+      "text": "πελάσσαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 318.1",
+      "text": "ἐν α τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 318.2",
+      "text": "Περσικῶν[ln_1]περὶ δὲ κρήνας ἀρεθούσας μυρία φῦλ’ ἐδονεῖτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 318.3",
+      "text": "πολυσμήνοισι μελίσσαις 〈εἴκελα〉",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 319.1",
+      "text": "μηλονόμοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 319.2",
+      "text": "τε Σάκαι, γενεᾷ Σκύθαι· αὐτὰρ ἔναιον Ἀσίδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 319.3",
+      "text": "πυροφόρον· νομάδων γε μὲν ἦσαν ἄποικοι, ἀνθρώπων νομίμων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 320.1",
+      "text": "τῶν δ’ ὄπιθεν διέβαινε γένος θαυμαστὸν ἰδέσθαι, γλῶσσαν μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 320.2",
+      "text": "Φοίνισσαν ἀπὸ στομάτων ἀφιέντες, ᾤκεον δ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 320.3",
+      "text": "Σολύμοις ὄρεσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 320.4",
+      "text": "πλατέῃ παρὰ λίμνῃ, αὐχμαλέοι κορυφάς, τροχοκουράδες, αὐτὰρ ὕπερθεν[ln_5]ἵππων δαρτὰ πρόσωπ’ ἐφόρευν ἐσκληκότα καπνῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 322.1",
+      "text": "νηῦς δέ τις ὠκύπορος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 322.2",
+      "text": "Σαμίη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 322.3",
+      "text": "συὸς εἶδος ἔχουσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323.1",
+      "text": "ὅρκον δ’ οὔτ’ ἄδικον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 323.2",
+      "text": "χρεὼν ἔμμεναι οὔτε δίκαιον",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "emy-ac",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "choerilus-of-samos-epic-fragments-emy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-samos/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/epic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "emy-aa",
+      "title": {
+        "english": "Fragments on Wine",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα Χοιρίλου Ἰασίου"
+      },
+      "url_slug": "choerilus-of-samos-wine-fragments-emy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-samos/wine-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/wine-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "aci-aa",
+      "title": {
+        "english": "Aethiopis",
+        "ancient_greek": "Αἰθιοπίς"
+      },
+      "url_slug": "aethiopis-text-aci-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aethiopis/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aethiopis/text.json"
+      }
+    },
+    {
+      "eul_wid": "bok-aa",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἡρωϊκὰ Ἀποσπάσματα"
+      },
+      "url_slug": "panyassis-of-halicarnassus-epic-fragments-aa-bok-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panyassis-of-halicarnassus/epic-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panyassis-of-halicarnassus/epic-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "qta-aa",
+      "title": {
+        "english": "Fishing",
+        "ancient_greek": "Ἁλιευτικά"
+      },
+      "url_slug": "oppian-of-anazarbus-halieutica-qta-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-of-anazarbus/halieutica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-anazarbus/halieutica.json"
+      }
+    },
+    {
+      "eul_wid": "aau-af",
+      "title": {
+        "english": "Fragments on Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γενεαλογίας"
+      },
+      "url_slug": "hesiod-genealogy-fragments-aau-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/genealogy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/genealogy-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "rki-aa",
+      "title": {
+        "english": "Fragments on Mythological Figures",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μυθικῶν Προσώπων"
+      },
+      "url_slug": "peisander-of-laranda-mythological-figures-rki-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/peisander-of-laranda/mythological-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/peisander-of-laranda/mythological-figures.json"
+      }
+    },
+    {
+      "eul_wid": "fjq-ac",
+      "title": {
+        "english": "Fragments on Naval Preparations",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασκευῆς Ναυτικῆς"
+      },
+      "url_slug": "theopompus-of-chios-naval-preparations-fjq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-of-chios/naval-preparations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-of-chios/naval-preparations.json"
+      }
+    },
+    {
+      "eul_wid": "rje-aa",
+      "title": {
+        "english": "Hunting Matters",
+        "ancient_greek": "Κυνηγετικά"
+      },
+      "url_slug": "oppian-of-apamea-hunting-rje-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oppian-of-apamea/hunting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oppian-of-apamea/hunting.json"
+      }
+    },
+    {
+      "eul_wid": "axm-aa",
+      "title": {
+        "english": "Returns Fragments",
+        "ancient_greek": "Ἀποσπάσματα Νόστων"
+      },
+      "url_slug": "nostoi-anon-fragments-axm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nostoi-anon/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nostoi-anon/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nostoi-anon/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nostoi-anon/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nostoi-anon/fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/choerilus-of-samos/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-samos/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

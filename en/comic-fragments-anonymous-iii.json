@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kge",
+  "auth_slug": "comic-fragments-anonymous-iii",
+  "name": {
+    "english": "Comic Fragments Anonymous III",
+    "ancient_greek": "Κωμικὰ Ἀδέσποτα"
+  },
+  "seo_h1": "Anonymous Comic Fragments on Human Follies",
+  "seo": {
+    "browser_title": "Comic Fragments Anonymous III on Eulogikon Greek Archive",
+    "meta_title": "Comic Fragments Anonymous III Ancient Greek Comedy",
+    "meta_description": "Anonymous Hellenistic comic poet from the 5th to 3rd centuries BCE. Surviving fragments of Attic comedy. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Comic Fragments Anonymous III is a modern designation for a corpus of unattributed Greek comic fragments, known in scholarship as Kōmika adespota. No biographical details exist, as the term describes anonymous works rather than an individual author.</p>\n<p class=\"research-text\">These fragments date from the 5th to the 3rd century BCE, spanning Old, Middle, and New Comedy. They are preserved through quotations in later authors and papyri. The fragments constitute a numerous collection of remnants from lost comedies, cataloged in standard references like Poetae Comici Graeci. No specific play titles can be assigned to this anonymous corpus.</p>\n<p class=\"research-text\">The adespota are crucial for reconstructing the history of Greek comedy, especially for poorly documented periods like Middle Comedy. They provide evidence for comic themes, metrical practice, theatrical conventions, and the evolution of the Attic dialect beyond the surviving complete plays.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "kge-ab",
+      "title": {
+        "english": "Comic Fragments on Human Follies",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνων Μωριῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-human-follies-kge-ab",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/human-follies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/human-follies.json"
+      }
+    },
+    {
+      "eul_wid": "kge-aa",
+      "title": {
+        "english": "Fragments of Anonymous Comedians",
+        "ancient_greek": "Ἀποσπάσματα ἀνωνύμων κωμῳδῶν"
+      },
+      "url_slug": "comic-fragments-anonymous-iii-text-kge-aa",
+      "passages": 91,
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-iii/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-iii/text.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/comic-fragments-anonymous-iii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comic-fragments-anonymous-iii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comic-fragments-anonymous-iii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comic-fragments-anonymous-iii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comic-fragments-anonymous-iii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

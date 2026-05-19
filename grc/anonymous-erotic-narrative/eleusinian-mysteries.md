@@ -1,0 +1,31 @@
+---
+title: Eleusinian Mysteries Fragment
+title_greek: Ἀπόσπασμα
+author: Erotic Narrative Anonymous
+eul_wid: skw-av
+eul_aid: skw
+canonical: "https://eulogikon.org/grc/anonymous-erotic-narrative/eleusinian-mysteries"
+period: Late Antique
+dialect: Koine
+domain: Fiction
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Eleusinian Mysteries Fragment
+
+*Ἀπόσπασμα*
+
+**Author:** Erotic Narrative Anonymous
+
+**eul_wid:** `skw-av` · [HTML page](https://eulogikon.org/grc/anonymous-erotic-narrative/eleusinian-mysteries)
+
+## Text
+
+### 1
+
+[Break in Text (point at which text breaks off for an unknown length)] [ ] . λειμ̣ .. [] [μ]υρρίνην εἱλετ[] [ ]ην· ὦ Τριπτόλεμε σ[] [ ]υ̣ σοι νῦν μεμυηκ[] [ ] τὴν Κόρην εἶδον η[] [μ]ένην, οὐδὲ τὴν Δ[ήμητρα] [λ]ελυπημένην· αλ[] [ν]ικηφόρους βα[] [ ]ν μυστικὸν τ̣[]
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: skw-av`.

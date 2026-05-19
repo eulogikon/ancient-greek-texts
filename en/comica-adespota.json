@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kfa",
+  "auth_slug": "comica-adespota",
+  "name": {
+    "english": "Comica Adespota",
+    "ancient_greek": "Κωμικὰ Ἀδέσποτα"
+  },
+  "seo_h1": "Comica Adespota: Anonymous Fragments of Greek Comedy",
+  "seo": {
+    "browser_title": "Comica Adespota Anonymous Fragments Eulogikon Greek Archive",
+    "meta_title": "Ancient Comica Adespota Anonymous Greek Comedy Fragments",
+    "meta_description": "Comica Adespota are anonymous fragments of ancient Greek comedy from the 5th to 3rd centuries BCE. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Comica Adespota is a scholarly term for anonymous fragments of ancient Greek comedy. These fragments date from the 5th to the 3rd centuries BCE, spanning the periods of Old, Middle, and New Comedy. They survive without attribution to any known playwright.</p>\n<p class=\"research-text\">The fragments are preserved indirectly through quotations in the works of later ancient authors and on recovered papyrus pieces. Modern scholars have compiled them into dedicated collections, such as the Fragmenta Comicorum Graecorum and the Poetae Comici Graeci.</p>\n<p class=\"research-text\">The content of these fragments is varied, encompassing jokes, philosophical remarks, parodies, and glimpses into daily life and mythology. The Comica Adespota are historically important as they provide crucial evidence for Greek comedy beyond the works of major surviving authors like Aristophanes and Menander. They help scholars trace the evolution of comic style and themes across centuries.</p>\n<p class=\"research-text\">These anonymous texts also serve as valuable sources for studying the ancient Greek language in its colloquial and poetic forms. Collectively, they represent the vast, mostly lost world of ancient comic theater, and their study remains a fundamental part of classical philology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "kfa-ab",
+      "title": {
+        "english": "Comic Fragments on Domestic Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Οἰκιακοῦ"
+      },
+      "url_slug": "comica-adespota-domestic-life-kfa-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/comica-adespota/domestic-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/domestic-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/domestic-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/domestic-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/domestic-life.json"
+      }
+    },
+    {
+      "eul_wid": "kfa-aa",
+      "title": {
+        "english": "Fragments of Uncertain Poets",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ποιητῶν"
+      },
+      "url_slug": "comica-adespota-uncertain-poets-kfa-aa",
+      "passages": 1887,
+      "links": {
+        "html": "https://eulogikon.org/grc/comica-adespota/uncertain-poets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comica-adespota/uncertain-poets.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/comica-adespota",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comica-adespota.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comica-adespota.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comica-adespota.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/comica-adespota.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

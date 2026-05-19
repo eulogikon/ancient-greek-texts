@@ -1,0 +1,545 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ngq-ac",
+  "eul_aid": "ngq",
+  "author_slug": "aratus-scholia",
+  "work_slug": "text-ac",
+  "url_slug": "aratus-scholia-text-ac-ngq-ac",
+  "author": {
+    "english": "Aratus Scholia",
+    "ancient_greek": "Ἄρατου Σχόλια"
+  },
+  "title": {
+    "english": "Scholia-Aratus",
+    "ancient_greek": "Σχόλια εἰς Ἄρατον"
+  },
+  "seo": {
+    "browser_title": "Scholia on Aratus by Anonymous Scholiast on Eulogikon",
+    "meta_title": "Classical Scholia on Aratus in Ancient Greek Commentary",
+    "meta_description": "Ancient scholia providing grammatical explanatory notes on Aratus's astronomical poem Phaenomena. Scholarly commentary preserving Hellenistic exegesis."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Scholia-Aratus are a corpus of ancient and medieval explanatory annotations on the <strong>Phaenomena</strong>, the influential astronomical poem by Aratus of Soli. Compiled by later scribes from the work of multiple commentators across many centuries, these scholia form a layered exegetical tradition designed to elucidate the poem&#x27;s challenging vocabulary, complex mythological allusions, and technical astronomical content for students and scholars. Their creation and preservation underscore the poem&#x27;s enduring status as a fundamental educational text in the Greco-Roman world and beyond. The notes primarily engage in textual exegesis, clarifying Aratus&#x27;s archaic diction and grammatical constructions. They also provide detailed astronomical commentary, identifying celestial bodies and explaining phenomena, alongside mythological etiology that expands on the constellation myths referenced in the poem. Further annotations offer literary analysis, often tracing Aratus&#x27;s descriptions back to his chief prose source, the work of the astronomer Eudoxus of Cnidus. Transmitted fragmentarily within the margins of numerous medieval manuscripts of the <strong>Phaenomena</strong>, the scholia were critically consolidated in the modern era by Ernst Maass in his edition <strong>Commentariorum in Aratum reliquiae</strong>. As a critical resource for understanding the reception of Aratus&#x27;s work, the scholia offer essential insight into ancient pedagogical methods, the literary treatment of scientific material, and the state of astronomical and mythological knowledge in antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "ἢ γυρῶσαι, κύκλῳ τῶν φυτῶν τὴν γῆν σω‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "ρεῦσαι (supra versum περισκάψαι καλῶς;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "cf. p. 54, 1—2).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.1",
+      "text": "(πρῶτόν τε καὶ ὕστατον): ἀντὶ τοῦ διὰ παν‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.2",
+      "text": "τὸς χρόνου καθ’ ἑκάστην ὥραν (58, 5—6).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "(τεκμήρατε): πιστώσασθαι ἀπὸ τοῦ τεκ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "μηρίου ἢ εἰς τέλος ἀγάγετε. τὸ γὰρ τέκμωρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "τέλος. ἄλλοι δὲ δείξατε (61, 11—14).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.4",
+      "text": "add. altera manus τὸ γὰρ τέκμαρ καὶ πέρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.5",
+      "text": "ταὐτόν ἐστιν κατὰ τὴν ἀρχαίαν γλῶτταν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 53.1",
+      "text": "ἡ σπεῖρα φέρεται ἄχρι τοῦ ὀπισθίου (95,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 53.2",
+      "text": "13).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 55",
+      "text": "(οἰόθεν): ἐξ ἑνὸς μέρους (96, 7).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109.1",
+      "text": "(διακρίσιος περιμεμφέος): τῆς διακρίσιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 109.2",
+      "text": "ἐχούσης μέμψιν (132, 4—5).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118.1",
+      "text": "(ὑποδείελος): πρὸς ἑσπέραν ὅτε οὐδεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 118.2",
+      "text": "αὐτὴν ἑώρα (134, 12—13).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 217.1",
+      "text": "(εὐαλδέος): ἀπὸ τοῦ ἄλδω τὸ αὐξάνω ἢ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 217.2",
+      "text": "ἐκ τοῦ ἅλλω τὸ πηδῶ πλεονασμῷ τοῦ Δ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 217",
+      "text": "(cf. sch. 394, p. 264, 4).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 270.1",
+      "text": "(ἀπευθέος): ἀπευθέες ἄπειροι ἄτεχνοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 270.2",
+      "text": "ἀπευθὴς ἄφημος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 516",
+      "text": "(ἐληλάμενος): καθήμενος ἀντὶ τοῦ ἐπὶ γόνυ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 600.1",
+      "text": "(παρηορίαι): παρήορος παρειμένος τὰς φρένας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 600.2",
+      "text": "παρήορος ἵππος καὶ παρηορίῃσι (Π 152)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 600.3",
+      "text": "ταῖς ἐξὼ τοῦ ζυγοῦ ἡνίαις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 676.1",
+      "text": "(ἀμαρυγαὶ): ἀμαρυγαὶ ὄψεις. οἱ δὲ ἀκτῖνας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 676.2",
+      "text": "ὄψεως. ἀμαρυγὴ λαμπηδών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "πάνυ πρεπόντως ὁ Ἄρατος τὴν τῶν ἄσ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τρων διεξιέναι μέλλων θέσιν, τούτων τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πατέρα καὶ δημιουργὸν Δία ἐν πρώτοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "προσφωνεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "(γυρῶσαι): ἢ κύκλῳ τῶν φυτῶν γῆν σωρεῦ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "σαι. (54, 1—2)",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11.1",
+      "text": "οἱ ἀκινητοὶ γὰρ οὗτοί εἰσιν οἱ ἀπλανεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11.2",
+      "text": "καθ’ αὑτούς, συμπεριάγονται δὲ τῇ τοῦ οὐ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11.3",
+      "text": "ρανοῦ ῥύμῃ. ἄστρον δέ ἐστι τὸ ἐκ πλείσ‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11.4",
+      "text": "των ἄστρων σύστημα οἷον Καρκίνος, Λέων,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11.5.1",
+      "text": "Κύων καὶ τὰ τούτων παραπλήσια. ὁ δὲ Πίν‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11.5.2",
+      "text": "δαρος ἄστρον λέγει τὸν ἥλιον κατὰ παρά‐",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10-11",
+      "text": "χρησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ngq-aa",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-aa-ngq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ab",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ab-ngq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ad",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ad-ngq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ad.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-ae",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-ae-ngq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ae.json"
+      }
+    },
+    {
+      "eul_wid": "ngq-af",
+      "title": {
+        "english": "Scholia-Aratus",
+        "ancient_greek": "Σχόλια εἰς Ἄρατον"
+      },
+      "url_slug": "aratus-scholia-text-af-ngq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aratus-scholia/text-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-af.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vmw-aj",
+      "title": {
+        "english": "Commentary-Aetia I",
+        "ancient_greek": "Ὑπόμνημα εἰς Αἴτια Α΄"
+      },
+      "url_slug": "callimachus-scholia-aetia-aj-vmw-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/aetia-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/aetia-aj.json"
+      }
+    },
+    {
+      "eul_wid": "vta-af",
+      "title": {
+        "english": "Old Scholia on Iliad",
+        "ancient_greek": "Σχόλια εἰς Ἰλιάδα"
+      },
+      "url_slug": "homer-commentary-anonymous-scholia-iliad-af-vta-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer-commentary-anonymous/scholia-iliad-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer-commentary-anonymous/scholia-iliad-af.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-as",
+      "title": {
+        "english": "Old Scholia on Wealth",
+        "ancient_greek": "Σχόλια εἰς Πλοῦτον"
+      },
+      "url_slug": "aristophanes-scholia-wealth-as-mlw-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/wealth-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/wealth-as.json"
+      }
+    },
+    {
+      "eul_wid": "pka-ac",
+      "title": {
+        "english": "On Adverbs",
+        "ancient_greek": "Περὶ ἐπιρρημάτων"
+      },
+      "url_slug": "apollonius-grammarian-adverbs-pka-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-grammarian/adverbs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/adverbs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/adverbs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/adverbs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/adverbs.json"
+      }
+    },
+    {
+      "eul_wid": "pic-aa",
+      "title": {
+        "english": "On the Usefulness of Mathematics",
+        "ancient_greek": "Περὶ χρησιμότητος μαθηματικῶν"
+      },
+      "url_slug": "theon-of-smyrna-i-mathematics-usefulness-pic-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-smyrna-i/mathematics-usefulness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-i/mathematics-usefulness.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-i/mathematics-usefulness.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-i/mathematics-usefulness.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-i/mathematics-usefulness.json"
+      }
+    },
+    {
+      "eul_wid": "nrk-aa",
+      "title": {
+        "english": "Questions Among the Attic Orators",
+        "ancient_greek": "Παρὰ τοῖς Ἀττικοῖς ῥήτορσι ζητούμενα"
+      },
+      "url_slug": "claudius-casilon-attic-orators-nrk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/claudius-casilon/attic-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-casilon/attic-orators.json"
+      }
+    },
+    {
+      "eul_wid": "tii-aa",
+      "title": {
+        "english": "Scholia-Euclid's Data and Catoptrics",
+        "ancient_greek": "Σχόλια εἰς Εὐκλείδου Δεδομένα καὶ Κατοπτρικά"
+      },
+      "url_slug": "thucydides-scholia-euclid-data-catoptrics-tii-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thucydides-scholia/euclid-data-catoptrics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-data-catoptrics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-data-catoptrics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-data-catoptrics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thucydides-scholia/euclid-data-catoptrics.json"
+      }
+    },
+    {
+      "eul_wid": "ppu-ac",
+      "title": {
+        "english": "Scholia-Nemean and Isthmian Odes",
+        "ancient_greek": "Σχόλια εἰς Νεμεακὰ καὶ Ἰσθμιακά"
+      },
+      "url_slug": "pindar-scholia-nemean-isthmian-ppu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar-scholia/nemean-isthmian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/nemean-isthmian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/nemean-isthmian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/nemean-isthmian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar-scholia/nemean-isthmian.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aratus-scholia/text-ac",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aratus-scholia/text-ac.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

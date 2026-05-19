@@ -1,0 +1,353 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "grm-ac",
+  "eul_aid": "grm",
+  "author_slug": "erinna-of-telos",
+  "work_slug": "epigrams",
+  "url_slug": "erinna-of-telos-epigrams-grm-ac",
+  "author": {
+    "english": "Erinna of Telos",
+    "ancient_greek": "Ἤριννα ἡ Τηλία"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Erinna of Telos, Greek Poet, on Eulogikon",
+    "meta_title": "Epigrams by Erinna of Telos in Ancient Greek Poetry",
+    "meta_description": "Epigrams by Erinna, a 4th century BCE Greek poet. These are her surviving poetic fragments. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epigrams attributed to Erinna of Telos, a Greek poet of the fourth century BCE, represent a poignant though fragmentary body of work. Her most celebrated composition is the <strong>Distaff</strong>, a hexameter lament of approximately three hundred lines composed in memory of her childhood friend Baucis. Only about fifty-four lines of this poem survive, primarily on papyrus. The surviving fragments depict a deeply personal world of female friendship and domestic life, uniquely blending the formal diction of epic with intimate, lyrical subject matter focused on the experiences of young girls. Other extant pieces include a brief, four-line epitaph for Baucis, preserved in later anthologies. Erinna&#x27;s poetry, though scant, was highly regarded in antiquity, where she was frequently compared to Sappho. Her work appears designed for a literate Hellenistic audience conversant with both epic tradition and personal lyric. The primary sources for her fragments are papyri for the <strong>Distaff</strong> and the Byzantine compilation known as the <strong>Greek Anthology</strong> for the shorter epigrams.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 352.1.1",
+      "text": "Ἐξ ἀταλᾶν χειρῶν τάδε γράμματα· λῷστε Προμαθεῦ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352.1.2",
+      "text": "ἔντι καὶ ἄνθρωποι τὶν ὁμαλοὶ σοφίαν·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352.1.3",
+      "text": "ταύταν γοῦν ἐτύμως τὰν παρθένον ὅστις ἔγραψεν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 352.1.4",
+      "text": "αἰ καὐδὰν ποτέθηκ’, ἦς κ’ Ἀγαθαρχὶς ὅλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.1.1",
+      "text": "Στᾶλαι καὶ Σειρῆνες ἐμαὶ καὶ πένθιμε κρωσσέ,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.1.2",
+      "text": "ὅστις ἔχεις Ἀίδα τὰν ὀλίγαν σποδιάν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.1.3",
+      "text": "τοῖς ἐμὸν ἐρχομένοισι παρ’ ἠρίον εἴπατε χαίρειν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.1.4",
+      "text": "αἴτ’ ἀστοὶ τελέθωντ’ αἴθ’ ἑτεροπτόλιες·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.5.1",
+      "text": "χὤτι με νύμφαν εὖσαν ἔχει τάφος, εἴπατε καὶ τό·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.5.2",
+      "text": "χὤτι πατήρ μ’ ἐκάλει Βαυκίδα, χὤτι γένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.5.3",
+      "text": "Τηλία, ὡς εἰδῶντι· καὶ ὅττι μοι ἁ συνεταιρὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 710.5.4",
+      "text": "Ἤρινν’ ἐν τύμβῳ γράμμ’ ἐχάραξε τόδε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712.1.1",
+      "text": "Νύμφας Βαυκίδος εἰμί· πολυκλαύταν δὲ παρέρπων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712.1.2",
+      "text": "στάλαν τῷ κατὰ γᾶς τοῦτο λέγοις Ἀίδᾳ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712.1.3",
+      "text": "„Βάσκανός ἐσς’, Ἀίδα.“ τὰ δέ τοι καλὰ σάμαθ’ ὁρῶντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712",
+      "text": "ὠμοτάταν Βαυκοῦς ἀγγελέοντι τύχαν,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712.5.1",
+      "text": "ὡς τὰν παῖδ’, ὑμέναιος ἐφ’ αἷς ἀείδετο πεύκαις,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712.5.2",
+      "text": "ταῖσδ’ ἐπὶ καδεστὰς ἔφλεγε πυρκαϊᾷ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712.5.3",
+      "text": "καὶ σὺ μέν, ὦ Ὑμέναιε, γάμων μολπαῖον ἀοιδὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 712",
+      "text": "ἐς θρήνων γοερὸν φθέγμα μεθαρμόσαο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "grm-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "erinna-of-telos-fragments-grm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "grm-ab",
+      "title": {
+        "english": "Lament for Baukis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "erinna-of-telos-lament-baukis-grm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/lament-baukis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/lament-baukis.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "apu-aa",
+      "title": {
+        "english": "Addenda to Fragments",
+        "ancient_greek": "Προσθήκαι εἰς τὰ Ἀποσπάσματα"
+      },
+      "url_slug": "sappho-of-lesbos-addenda-apu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sappho-of-lesbos/addenda",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/addenda.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/addenda.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/addenda.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sappho-of-lesbos/addenda.json"
+      }
+    },
+    {
+      "eul_wid": "vfo-aa",
+      "title": {
+        "english": "Description of Hagia Sophia",
+        "ancient_greek": "Περὶ τῆς Ἁγίας Σοφίας"
+      },
+      "url_slug": "paul-the-silentiary-hagia-sophia-vfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paul-the-silentiary/hagia-sophia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paul-the-silentiary/hagia-sophia.json"
+      }
+    },
+    {
+      "eul_wid": "uic-aa",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "Ἐπιτάφιον"
+      },
+      "url_slug": "pectorius-epitaph-text-uic-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pectorius-epitaph/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-ab",
+      "title": {
+        "english": "Erythraean Fragment of a Paean to Apollo",
+        "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "kmi-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "theodoridas-of-syracuse-fragments-kmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kdc-aa",
+      "title": {
+        "english": "Fragments on Celestial Bodies",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Οὐρανίων"
+      },
+      "url_slug": "diophilus-or-diophila-celestial-bodies-kdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophilus-or-diophila/celestial-bodies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophilus-or-diophila/celestial-bodies.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-af",
+      "title": {
+        "english": "Megara",
+        "ancient_greek": "Μεγάρα"
+      },
+      "url_slug": "moschus-of-syracuse-megara-mdu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.json"
+      }
+    },
+    {
+      "eul_wid": "izc-ae",
+      "title": {
+        "english": "Syrinx",
+        "ancient_greek": "Σῦριγξ"
+      },
+      "url_slug": "theocritus-of-syracuse-syrinx-izc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/syrinx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/erinna-of-telos/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

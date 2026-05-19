@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fzk-aa",
+  "eul_aid": "fzk",
+  "author_slug": "aulodia-anon",
+  "work_slug": "text",
+  "url_slug": "aulodia-anon-text-fzk-aa",
+  "author": {
+    "english": "Aulodia  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ὁ Αὐλωδός"
+  },
+  "title": {
+    "english": "Anonymous Aulody",
+    "ancient_greek": "Ἀνώνυμον Αὐλωδία"
+  },
+  "seo": {
+    "browser_title": "The Anonymous Aulody by Anonymous Author on Eulogikon",
+    "meta_title": "The Anonymous Aulody by Anonymous in Ancient Greek",
+    "meta_description": "Anonymous Aulody a surviving ancient Greek poetic work.text represents a piece of classical verse composition. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Anonymous Aulody refers to a lost genre of ancient Greek musical performance rather than a specific surviving text. Aulody, meaning song to the aulos, was a distinct art form in which a vocalist performed poetry accompanied by the aulos, a double-reed instrument. This genre stood in contrast to citharody, which employed the lyre, and was a formal competitive event at major Panhellenic festivals such as the Pythian Games. The aulos itself was deeply associated with Dionysiac worship, the dithyramb, and the musical foundations of tragedy.</p>\n<p class=\"research-text\">While no complete aulodic poem survives, the genre&#x27;s content can be inferred from its cultural context. Performances typically involved mythological narratives, hymns praising deities—especially Dionysus—and convivial or erotic themes suitable for symposium settings. The transmission of specific aulodic works is virtually nonexistent; no manuscript tradition or identifiable fragments for a named &quot;Anonymous Aulody&quot; are known. Our understanding of the genre relies entirely on secondary literary accounts, victor lists from musical contests, and artistic depictions on vases and in sculpture.</p>\n<p class=\"research-text\">The significance of aulody lies in its central role within Greek musical and civic culture. It exemplifies the profoundly performative nature of ancient poetry, where word, melody, and instrumentation were inseparable. The practice of aulody contributed to the development of more complex choral forms, including those in drama, and highlights the integral function of music in both religious ritual and public competition. Its study, though reliant on indirect evidence, offers crucial insight into the auditory and social dimensions of ancient Greek artistic life.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[]κεφαλὴ στεφάνω[] []ν μετὰ τοῦ μέλαν[ος] []κω καὶ κλωνία [] []ω μετά μου δύο κ[][ln_5][]οις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φανερῶ γὰρ ε.[] [].οι καὶ σίσατε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τω[] []κ̣ων ἀνέμων ι̣.[] []ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "περὶ δάκτυλον[] πλοκάμους λευκούς[ln_10][]θ̣ανεῖν ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πα[] []ε γούνατα ν.[] []σ̣σ̣ο̣θε[] [].[][ln_13].....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[]ν [] []ν̣ω []υς αὔλι μο[ι][ln_5][]ω[....]ου [].[...... ] []εσας []η̣ς̣ αὔλι μο[ι][ln_8]........",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[Θ..................][ln_1]μηδ’ ἀδικ〈ε〉ῖν ζήτει, μηδ’, ἂν ἀδι[κῆι, πρ]οσερίσηις· φεῦγε φόνους καὶ φεῦγε μάχας, φ[ῖ]σαι δι̣α̣φ̣ρ̣ο̣νε[ῖ]ν̣. εἰς δ’ ὀλίγον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "πονέσεις, καὶ δεύτερον οὐ μεταμέληι. αὔ[λ〈ε〉ι μοι].[ln_5]Ἶδ{ι}ες ἔαρ, χειμῶνα, θέρος· ταῦτ’ ἐστὶ διόλου· ἥλιος αὐτὸς [ἔδυ], καὶ νὺξ τὰ τεταγμέν’ ἀπέχει· μὴ κοπία ζητεῖν, πόθεν ἥλιος ἢ πό̣θ̣ε̣[ν] ὕδωρ, ἀλλὰ π[ό]θεν τ̣[ὸ] μύρον καὶ τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "στεφάνου[ς] ἀγοράσηις. αὔλ〈ε〉ι μο[ι].[ln_10]Κρήνας αὐτορύ[το]υς μέλ[ιτ]ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "τρ〈ε〉ῖς ἤθελον ἔχειν, πέντε γαλακτορύτους, οἴνου δέκα, δ[ώδε]κα μύρου, καὶ δύο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "πηγαίων ὑδάτων, καὶ τρ〈ε〉ῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.6",
+      "text": "χιονίνων. παῖδα κατὰ κρήνην καὶ παρθένον ἤθελον ἔχειν. αὔλ〈ε〉ι μο[ι].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[ln_15]Λύδιος αὐλὸς ἐμοί, τὰ δὲ Λύδια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "παίγματα λύρας, κα̣[ὶ] Φρύ̣γ̣[ιο]ς κάλαμος, τὰ δὲ τ̣α̣ύρε̣α τύμπανα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "πονεῖ· ταῦτα ζ̣ῶ̣ν̣ αἶσα̣ί̣ τ’ ἔρ〈α〉μαι, καὶ, ὅταν ἀποθάνω, αὐλὸν ὑπὲρ κεφαλῆς θέτε μοι, παρὰ ποσ〈σ〉ὶ δὲ λύρ〈α〉[ν]. αὔλ〈ε〉ι μοι.[ln_20]Μέτρα τί[ς] ἀ̣ν̣ πλούτου, 〈τίσ〉 ἀνεύρατο μέτρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "πενίας, ἢ τίς ἐν ἀνθρώποις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.5",
+      "text": "χρυσοῦ πάλιν εὕρατο μέτρον; νῦν γὰρ ὁ χρήματ’ ἔχων ἔτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.6",
+      "text": "πλε[ί]ονα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.7",
+      "text": "χρήματα θέλει, πλούσιος ὢν δ’ ὁ τάλας βασανίσ[δ]εται ὥσπερ ὁ πένης. αὔλ[〈ε〉ι μοι].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[ln_25]Νεκρὸν ἐάν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "ποθ’ ἴδηις καὶ μνήματα κωφὰ παράγηις, κοινὸν ἔσοπτρον ὁρᾶι〈σ〉· ὁ θανὼν οὕτως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "προσεδόκα. ὁ χρό[ν]ος ἐστὶ δάνος, τὸ ζῆν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.4",
+      "text": "πικρός ἐσθ’ ὁ δανίσας, κἂν τότ’ ἀπαιτῆσαί σε θέληι, κλαίων [ἀ]ποδίδοις. αὔλ〈ε〉ι μοι.[ln_30]Ξέρξης ἦν βασιλε[ὺ]ς ὁ λέγων Διὶ πάντα μερίσαι, ὃς δυσ〈ὶ〉 πηδ̣α̣λ[ί]ο[ι]ς μόνος ἔσχισε Λήμνιον ὕδωρ. Ὄλβι〈ο〉ς ἦν ὁ Μίδας, τρὶς δ’ ὄλβιος ἦ̣ν̣ ὁ [Κ]ι̣ν̣ύ̣ρ̣[α]ς̣, ἀλλὰ̣ τ̣ί̣ς̣ ε̣ἰ̣ς Ἀ̣ΐ̣δ̣α̣ ὀβολοῦ πλέον ἤλυθεν ἔχων;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "αὔλ〈ε〉ι μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "hwg-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "posidippus-of-pella-epigrams-hwg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-pella/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-pella/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "jug-aa",
+      "title": {
+        "english": "Fragment and Title",
+        "ancient_greek": "Ἀπόσπασμα καὶ Τίτλος"
+      },
+      "url_slug": "hedylus-of-samos-fragments-jug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hedylus-of-samos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedylus-of-samos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "tre-aa",
+      "title": {
+        "english": "Fragments P. Heidelberg 222",
+        "ancient_greek": "Ἀποσπάσματα Π. Ἑϊδελβέργ 222"
+      },
+      "url_slug": "fables-of-trees-and-birds-heidelberg-222-tre-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/fables-of-trees-and-birds/heidelberg-222",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds/heidelberg-222.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds/heidelberg-222.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds/heidelberg-222.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fables-of-trees-and-birds/heidelberg-222.json"
+      }
+    },
+    {
+      "eul_wid": "grm-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "erinna-of-telos-fragments-grm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ab",
+      "title": {
+        "english": "Fragments of Victory Odes",
+        "ancient_greek": "Ἀποσπάσματα Νικῶν Ὠδῶν"
+      },
+      "url_slug": "bacchylides-of-ceos-victory-odes-ab-brw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/victory-odes-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/victory-odes-ab.json"
+      }
+    },
+    {
+      "eul_wid": "boa-aa",
+      "title": {
+        "english": "Isthmian Odes",
+        "ancient_greek": "Ἰσθμιονῖκαι"
+      },
+      "url_slug": "pindar-isthmian-odes-boa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar/isthmian-odes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.json"
+      }
+    },
+    {
+      "eul_wid": "pku-aa",
+      "title": {
+        "english": "On Fish",
+        "ancient_greek": "Περὶ Ἰχθύων"
+      },
+      "url_slug": "marcellus-of-side-fish-pku-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcellus-of-side/fish",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.json"
+      }
+    },
+    {
+      "eul_wid": "izc-ae",
+      "title": {
+        "english": "Syrinx",
+        "ancient_greek": "Σῦριγξ"
+      },
+      "url_slug": "theocritus-of-syracuse-syrinx-izc-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-syracuse/syrinx",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-syracuse/syrinx.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aulodia-anon/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon/text.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon/text.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon/text.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aulodia-anon/text.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

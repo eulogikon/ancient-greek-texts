@@ -1,0 +1,623 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ebu-aa",
+  "eul_aid": "ebu",
+  "author_slug": "androtion-of-athens",
+  "work_slug": "fragments",
+  "url_slug": "androtion-of-athens-fragments-ebu-aa",
+  "author": {
+    "english": "Androtion Atheniensis",
+    "ancient_greek": "Ἀνδροτίων ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Athenian History",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Androtion on Athenian History on Eulogikon",
+    "meta_title": "Fragments of Androtion on Athenian History in Ancient Greek",
+    "meta_description": "Surviving fragments of Androtion's local history of Athens and Attica from the 4th century BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Athenian History</strong> constitutes the surviving portions of a local chronicle of Athens and the Attic region, authored in the fourth century BCE by the Athenian politician and orator Androtion. Preserved in 63 separate citations by later Greek and Roman writers, the work was originally organized as a year-by-year narrative using the succession of Athenian archons as its chronological framework, spanning from the city&#x27;s mythical foundations to the author&#x27;s own era. Its content encompassed political and constitutional developments, accounts of religious festivals such as the Panathenaia, and records of significant historical events. Modern scholarship interprets Androtion&#x27;s history as a pragmatic work, informed by his direct political experience and likely composed in part during his exile. It emphasizes institutional and legal history over legendary narrative, providing crucial evidence for Athenian traditions, public offices, and chronology, particularly where it supplements the accounts of major historians like Thucydides. The work was highly influential, serving as a key source for the constitutional research of Aristotle&#x27;s school and for later authors including Plutarch.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t,ante1-59",
+      "text": "ATTHIS. LIBER I.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "ante1",
+      "text": "Fragm. Lexici rhet.: Κήρυκες ** ὡς Ἀνδροτίων ἐν πρώτῃ Ἀτθίδος, Κέκροπος γενέσθαι τρεῖς θυγατέρας, Ἄγραυλον, Ἄρσην καὶ Πανδρόσην, ἀφ’ ἧς ἐγένετο Κῆρυξ, Ἑρμῇ συγγενομένης. Harpocration v.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Παναθήναια: ... ἤγαγε δὲ τὴν ἑορτὴν ὁ Ἐριχθόνιος, ὁ Ἡφαίστου, καθά φασιν Ἑλλάνικός τε καὶ Ἀνδροτίων, ἑκάτερος ἐν πρώτῃ Ἀτθίδος. LIBER II.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Stephan. Byz. v.: Δελφοί. ... Ἔστι καὶ Δελφουσία πόλις Ἀρκαδίας, ὡς Ἀνδροτίων ἐν βʹ Ἀτθίδος. Harpocration: Ἀποδέκται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ἀρχή τις ἐστι παρ’ Ἀθηναίοις οἱ ἀποδέκται. ... Ὅτι δὲ ἀντὶ τῶν κωλακρέτων οἱ ἀποδέκται ὑπὸ Κλεισθένους ἀπεδείχθησαν, Ἀνδροτίων βʹ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "ad Aristoph. Aves 1540: Τὸν κωλακρέτην, τὸν ταμίαν τῶν πολιτικῶν χρημάτων. Ἀριστοφάνης ὁ γραμματικὸς τούτους ταμίας εἶναί φησι τοῦ δικαστικοῦ μισθοῦ, οὐ μόνον δὲ τούτου τὴν ἐπιμέλειαν ἐποιοῦντο, ὥς φησιν, ἀλλὰ καὶ τὰ εἰς θεοὺς ἀναλισκόμενα, διὰ τούτων ἀνηλίσκετο, ὡς Ἀνδροτίων γράφει οὕτως· «Τοῖς δὲ ἰοῦσι Πυθῶδε θεωροῖς τοὺς κωλακρέτας διδόναι ἐκ τῶν ναυκληρικῶν ἐφόδιον ἀργύρια, καὶ εἰς ἄλλο ὅ τι ἂν δέῃ ἀναλῶσαι.» Harpocration: Ἵππαρχος .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": ".. ὁ Χάρμου, ὥς φησι Λυκοῦργος. ... Περὶ δὲ τούτου Ἀνδροτίων ἐν τῇ δευτέρᾳ φησὶν, ὅτι συγγενὴς μὲν ἦν Πεισιστράτου τοῦ τυράννου, καὶ πρῶτος ἐξωστρακίσθη, τοῦ περὶ τὸν ὀστρακισμὸν νόμου τότε πρῶτον τεθέντος, διὰ τὴν ὑποψίαν τῶν περὶ Πεισίστρατον, ὅτι δημαγωγὸς ὢν καὶ στρατηγὸς ἐτυράννησεν. LIBER III.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Stephan. Byzant.: Ἁλικαρνασσός. ... Ὁ πολίτης Ἁλικαρνασσεύς. ... Ἀνδροτίων δ’ ἐν τρίτῃ Ἀτθίδος Ἁλικαρνάσσιός φησι. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Byz.: Κάπαι, πόλις Ἑλλησποντία. Ἀνδροτίων γʹ Ἀτθίδος. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Byz.: Πάνακτον, φρούριον Ἀττικῆς, ὡς Ἀνδροτίων ἐν τρίτῳ Ἀτθίδος. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Byz.: Παρπάρων, χωρίον ἐν Ἀσίᾳ Αἰολικόν. ... Ὁ πολίτης Παρπαρώνιος, ἀπὸ τῆς Παρπάρωνος γενικῆς. ... Ἀνδροτίων δ’ ἐν τρίτῳ Ἀτθίδος Παρπαρωνιώτας φησίν· ἔστι δὲ ὡς ἀπὸ τοῦ Παρπαρωνία, ὡς Θεσσαλία Θεσσαλιώτης. Harpocrat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": ": Δέκα καὶ δεκαδοῦχος. ... Ἦρχον μὲν οἱ δέκα οἱ μετὰ τοὺς τριάκοντα καταστάντες. Περὶ τῶν μετὰ τὴν κατάλυσιν τῶν τριάκοντα Ἀθήνησι χειροτονηθέντων ἀνδρῶν δέκα καὶ τῶν ἑξῆς εἴρηκεν Ἀνδροτίων ἐν τῇ τρίτῃ. Harpocrat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": ": Μόλπις. ... Μόλπις ὁ τῶν ἐν Πειραιεῖ· οἱ δ’ ἄρα μετὰ τοὺς τριάκοντα δέκα ἄρχοντες ἦρχον ἐν Πειραιεῖ, ὧν εἷς ἦν ὁ Μόλπις, ὡς Ἀνδροτίων ἐν τρίτῃ Ἀτθίδος. Harpocrat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": ": Ὀφρύνειον ... πόλις ἐστὶ τῆς Τρωάδος, ὡς δηλοῖ Ἀνδροτίων ἐν τρίτῃ Ἀτθίδος. LIBER IV.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Schol. Arist. Nub. 981: Βουφόνια ἑορτὴ Ἀθηναίων πάνυ ἀρχαία· ἐν γὰρ τοῖς Διιπολίοις φασὶ βοῦν τὸ πόπανον καταφαγεῖν τὸ παρεσκευασμένον πρὸς τὴν θυσίαν· Θαύλωνα δέ τινα ὡς εἶχε πελέκει ἀποκτεῖναι τὸν βοῦν, καθὰ καὶ Ἀνδροτίων μέμνηται διὰ τῆς τετάρτης. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Byz.: Ἀργεννοῦσα, νῆσος πρὸς τῇ ἠπείρῳ τῆς Τρωάδος ... τὸ ἐθνικὸν Ἀργεννούσιος. Ἀνδροτίων ἐν τετάρτῳ τῆς Ἀτθίδος διὰ τοῦ ι. LIBER V.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Steph. Byz.: Μαλιεὺς, πόλις ἐπώνυμος τῶν Μαλιέων. ... Ὁ πολίτης Μαλιεύς. Ἔστι καὶ Μαλιακὸς κόλπος. Λέγεται καὶ Μαλεάτης· Ἀνδροτίων πέμπτῳ. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Byz.: Μεθουριάδες, νῆσοι μεταξὺ Αἰγίνης καὶ Ἀττικῆς πλησίον Τροιζῆνος· Ἀνδροτίων πέμπτῳ Ἀτθίδος. Harpocrat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": ": Κηφισόδοτος ... Ἀνδροτίων ἐν πέμπτῃ Ἀτθίδος ἱστορεῖ, ὡς Ἀλωπεκόννησον πολιορκῶν ἀπεχειροτονήθη, καὶ κριθεὶς ἑάλω, καὶ ἀπέτισε πέντε τάλαντα. LIBER VI.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Steph. Byz.: Αἰραὶ, πόλις Μακεδονίας· ἔστι καὶ ἄλλη Ἰωνίας. Τὸ ἐθνικὸν Αἰρεὺς, τὸ δὲ τῆς Μακεδονίας Αἰραῖος. Ἔστι καὶ παρὰ Ἑλλησπόντῳ, ἧς τὸ ἐθνικὸν Αἰράτης παρὰ Ἀνδροτίωνι ἐν ἕκτῃ Ἀτθίδος. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Byz.: Ἀρκεσίνη, μία τῶν τριῶν πόλεων τῶν ἐν Ἀμοργῷ τῇ νήσῳ. Ἦσαν γὰρ Μελανία, Μινώα, Ἀρκεσίνη. .... Τὸ ἐθνικὸν Ἀρκεσινεύς. Ἀνδροτίων ἕκτῃ Ἀτθίδος· «Ἀμοργίοις, Μινωΐταις, Ἀρκεσινεῦσιν.» Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20",
+      "text": "Byz.: Γρησίνος, πόλις Χεῤῥονήσου. Τὸ ἐθνικὸν Γρησίνιος, ὡς Ἀνδροτίων ἕκτῳ Ἀτθίδος. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Byz.: Κάλυδνα, νῆσος, καὶ πόλις Θήβης. ... Ὁ πολίτης Καλυδναῖος ... καὶ Καλύδνιος, ὡς Ἀνδροτίων ἕκτῃ Ἀτθίδος. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22",
+      "text": "Byz.: Τῆλος, νῆσος τῶν Κυκλάδων μία. .. Τὸ ἐθνικὸν Τήλιος. Ἀνδροτίων ἕκτῳ Ἀτθίδος. Harpocrat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": ": Νεῶσι. ... πόλις ἐστὶν ἐν τῇ Φωκίδι, ἣν Ἡρόδοτος μὲν ἐν ὀγδόῃ Νεῶνα ὀνομάζει, Ἀνδροτίων δ’ ἐν ἕκτῃ Ἀτθίδος Νεῶνας. LIBER VII.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Steph. Byz.: Μετάχοιον, φρούριον Βοιωτίας μεταξὺ Ὀρχομενοῦ καὶ Κορωνείας. ... Τὸ ἐθνικὸν, ἐκ Μεταχοίου ... ἢ Μεταχοιάτης. ... Ἀνδροτίων δὲ ἐν τῷ ζʹ Μεταχοίου ναέτης φησὶ, καὶ ἴσως περιφραστικῶς. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Byz.: Στρύμη, πόλις Θρᾴκης, ὡς Ἀνδροτίων ἑβδόμῳ. LIBER VIII.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26",
+      "text": "Stephanus Byz.: Ἀκόντιον, πόλις Ἀρκαδίας. ... Ἔστι καὶ ἑτέρα Εὐβοίας ὡς Ξεναγόρας, καὶ Ἀνδροτίων ὀγδόῃ. LIBER XII.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Harpocrat.: Ἀμφίπολις. ... Πόλις αὕτη τῆς Θρᾴκης· πρότερον δὲ Ἐννέα ὁδοὶ ἐκαλεῖτο, ὡς Ἀνδροτίων ἐν δωδεκάτῃ Ἀτθίδος. FRAGMENTA INCERTAE SEDIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Scholiastes Pind. Isthm. VII, 13: Ἀνδροτίων δέ φησι φυγόντα ἐκ τῆς Φοινίκης τὸν Κάδμον μετὰ ἱκανῶν σποράδων, κατελθεῖν εἰς Θήβας. Ὅθεν διὰ τὸ συμμιγὲς καὶ σποράδην εἶναι, Σπαρτοὶ ἐκλήθησαν. Οἱ δὲ Θηβαῖοι τὰ περὶ αὐτῶν ψευδῶς ἐτερατούργησαν. Schol Eurip.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29",
+      "text": "Phoen. 674: Ὁ μὲν Στησίχορος ἐν Εὐρωπείᾳ τὴν Ἀθηνᾶν ἐσπαρκέναι τοὺς ὀδόντας φησίν· ὁ δὲ Ἀνδροτίων σπαρτοὺς αὐτοὺς φησί, διὰ τὸ ἀκολουθήσαντας αὐτοὺς ἐκ Φοινίκης Κάδμῳ σποράδην οἰκῆσαι. Tzetz.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "ad Lycophr. 1206: Ἀνδροτίων δὲ ὁ ἱστορικὸς μετὰ σποράδων τινῶν φησὶ τὸν Κάδμον εἰς Θήβας ἐλθεῖν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "31",
+      "text": "ad Homer. Od. Λ, 271: Λάϊος, ὁ Οἰδίποδος πατὴρ, παρὰ Φοίβου μαντείαν λαβὼν, ὅτι τικτόμενος παῖς ἀπ’ αὐτοῦ ἀναιρεῖ αὐτὸν, Ἰοκάστην γήμας, γεννᾷ Οἰδίποδα, καὶ τοῦτον ἐκτίθησι Σικυῶνι. Οἱ δὲ ἱπποφορβοὶ ἀναλαβόντες ἔτρεφον αὐτόν. Ἡλικίας δὲ γενόμενος ὁ Οἰδίπους ἦλθεν εἰς Θήβας, ἐπιζητῶν τοὺς γονέας. Ἀποκτείνας δὲ ἀκουσίως τὸν πατέρα, λαμβάνει πρὸς γάμον, οὐκ εἰδὼς, τὴν μητέρα, ἐπιλυσάμενος τὸ τῆς Σφιγγὸς αἴνιγμα, τὸ λέγον, τί δίπους, τί τρίπους, τί τετράπους. (Καὶ λέγομεν, ὅτι τὸ δίπους ἐστὶν ὁ ἄνθρωπος, τὸ τρίπους γέρων βαστάζων βακτηρίαν, καὶ τὸ τετράπους τὸ νήπιον τὸ συρόμενον.) Γίνεται δὲ ἐκ τούτων Ἐτεοκλῆς καὶ Πολυνείκης, καὶ θυγατέρες Ἀντιγόνη καὶ Ἰσμήνη. Ὕστερον δὲ ἡ Ἰοκάστη ἐπιγνοῦσα, ὅτι τῷ παιδὶ παρεμίγη, ἑαυτὴν ἀνήρτησεν. Ὁ δὲ Οἰδίπους, ἐκπεσὼν ὑπὸ Κρέοντος, ἦλθεν εἰς τὴν Ἀττικὴν, καὶ ᾤκησεν Ἱππέα Κολωνὸν καλούμενον, καὶ ἱκέτευεν ἐν τῷ ἱερῷ τῶν θεῶν, Δήμητρος, καὶ Πολιούχου Ἀθηνᾶς καὶ Διός. Ἀγόμενος (δὲ) ὑπὸ Κρέοντος ἔσχεν ἀπιστεῖν Θησέα. Τελευτῶν δὲ ὁ Οἰδίπους διὰ γῆρας παρεκάλεσε τὸν Θησέα, μηδενὶ τῶν Θηβαίων δεῖξαι τὸν τάφον. Ἐθελῆσαι γὰρ αὐτὸν καὶ νεκρὸν αἰκίσασθαι. Ἡ ἱστορία παρὰ Ἀνδροτίωνι. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Sophocl. Oed. Col. 744: Αὐτόθι φασὶ Ποσειδῶνα πρῶτον ἵππους ζεῦξαι καὶ χαλινῶσαι. ... Ὁ γὰρ Κολωνὸς ἱππεὺς ὠνομάσθη παρ’ ἃς ἐξεθέμην αἰτίας κατὰ Ἀνδροτίωνα. Pausan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "33",
+      "text": "X, 8: Καταστήσασθαι δὲ συνέδριον ἐνταῦθα Ἑλλήνων οἱ μὲν Ἀμφικτύονα τὸν Δευκαλίωνος νομίζουσι, καὶ ἀπὸ τούτου τοῖς συνελθοῦσιν ἐπίκλησιν Ἀμφικτύονας γενέσθαι. Ἀνδροτίων δὲ ἐν τῇ Ἀτθίδι ἔφη συγγραφῇ, ὡς τοεξαρχῆς ἀφίκοντο ἐς Δελφοὺς παρὰ τῶν προσοικούντων συνεδρεύσοντες· καὶ ὀνομασθῆναι μὲν Ἀμφικτίονας τοὺς συνελθόντας, ἐκνικῆσαι δὲ ἀνὰ χρόνον τὸ νῦν σφισιν ὄνομα. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Sophocl. Oed. Col. 1046 (1108): Ἀνδροτίων μὲν οὖν γράφει, οὐ τὸν Εὔμολπον εὑρεῖν [τὴν] μύησιν, ἀλλ’ ἀπὸ τούτου Εὔμολπον πέμπτον γεγονότα. Εὐμόλπου γὰρ γενέσθαι Κήρυκα, τοῦ δὲ Εὔμολπον, τοῦ δὲ Μουσαῖον τὸν ποιητὴν, τοῦ δὲ Εὔμολπον, τὸν καταδείξαντα τὴν μύησιν, καὶ ἱεροφάντην γεγονότα. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "35",
+      "text": "Byz.: Τετράπολις, τῆς Ἀττικῆς ... Ἀνδροτίων δὲ τετραπόλιδός φησι διὰ τοῦ δ. Aelian.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "V. H. VIII, 6: Τῶν ἀρχαίων φασὶ Θρᾳκῶν μηδένα ἐπίστασθαι γράμματα. Ἀλλὰ καὶ ἐνόμιζον αἴσχιστον εἶναι πάντες οἱ τὴν Εὐρώπην οἰκοῦντες βάρβαροι, χρῆσθαι γράμμασιν· οἱ δὲ ἐν τῇ Ἀσίᾳ, ὡς λόγος, ἐχρῶντο αὐτοῖς μᾶλλον. Ἔνθεν τοι καὶ τολμῶσι λέγειν, μηδὲ τὸν Ὀρφέα σοφὸν γεγονέναι Θρᾷκα ὄντα, ἀλλ’ ἄλλως τοὺς μύθους αὐτοῦ κατεψεῦσθαι. Ταῦτα Ἀνδροτίων λέγει, εἴ τῳ πιστὸς ὑπὲρ τῆς ἀγραμματίας καὶ ἀπαιδευσίας Θρᾳκῶν τεκμηριῶσαι. Tzetzes ad Lycophr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "495: Ὁ Αἰγεὺς Ἀθηναῖος καὶ γηγενὴς ἀπὸ Ἐρεχθέως. Τινὲς δὲ καὶ τοῦτον ἕνα λέγουσι τῶν ἀναδοθέντων ἐκ τῶν ὀδόντων τοῦ δράκοντος τοῦ ἐν Θήβαις, ὡς καὶ Ἀνδροτίων. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "38",
+      "text": "Villois. B Iliad. Ν, 685: Ἄλλοι εἰσὶ παρὰ τοὺς Ἴωνας, Ἰάονες. Φησὶ γὰρ Ἀνδροτίων, ὅτι στήλην ἔστησαν ἐπὶ Λακεδαίμονος, διορίσαντες οὕτως· Τάδ’ ἐστὶν οὐχὶ Πελοπόννησος, ἀλλ’ Ἰάονες. Ἴωνες δὲ ἐκ τοῦ ἑτέρου μέρους οὕτως· τάδ’ ἐστὶν οὐκ Ἰάονες, ἀλλὰ Πελοπόννησος. Ὥστε τοὺς μὲν ἔνθεν εἶναι, τοὺς δὲ ἐκεῖθεν. Aristid.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "t. III.: Οὐχ Ἡρόδοτος Σόλωνα σοφιστὴν κέκληκεν; οὐ Πυθαγόραν πάλιν; οὐκ Ἀνδροτίων τοὺς ἑπτὰ σοφιστὰς προσείρηκε; λέγω δὴ τοὺς σοφούς. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Solon. c. 15: Καίτοι τινὲς ἔγραψαν, ὧν ἐστιν Ἀνδροτίων, οὐκ ἀποκοπῇ χρεῶν, ἀλλὰ τόκων μετριότητι κουφισθέντας ἀγαπῆσαι τοὺς πένητας, καὶ σεισάχθειαν ὀνομάσαι τὸ φιλανθρώπευμα τοῦτο, καὶ τὴν ἅμα τούτῳ γενομένην τῶν τε μέτρων ἐπαύξησιν, καὶ τοῦ νομίσματος ἐς τιμήν. Athen.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "IX, 4: Ἦν παλαιὸς νόμος, ὥς φησιν Ἀνδροτίων, τῆς ἐπιγονῆς ἕνεκα τῶν θρεμμάτων, μὴ σφάττειν πρόβατον ἄπεκτον ἢ ἄτοκον· διὸ τὰ ἤδη τέλεια ἤσθιον. ... Καὶ νῦν δὲ τὴν τῆς Ἀθηνᾶς ἱέρειαν ἔθος οὐ θύειν ἀμνήν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "42",
+      "text": "Arist. Acharn. 253: Οἱ Παλληνεῖς δῆμός ἐστι τῆς Ἀττικῆς, ἔνθα Πεισιστράτῳ βουλομένῳ τυραννεῖν, καὶ Ἀθηναίοις ἀμυνομένοις αὐτὸν πόλεμος συνέστη. ... Μέμνηται δὲ τούτου καὶ Ἀνδροτίων καὶ Ἀριστοτέλης ἐν Ἀθηναίων πολιτείᾳ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "43",
+      "text": "Arist. Vesp. 941: Θουκυδίδης Μιλησίου υἱὸς Περικλεῖ ἀντιπολιτευσάμενος. ... Θεόπομπος μέντοι, ὁ ἱστορικὸς, τὸν Πανταίνου φησὶν ἀντιπολιτεύσασθαι Περικλεῖ, ἀλλ’ οὐκ Ἀνδροτίων, ἀλλὰ καὶ αὐτὸς τὸν Μιλησίου. Marcellin.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44",
+      "text": "De vita Thuc.: Τέταρτος ἄλλος Θουκυδίδης, ποιητὴς, τὸν δῆμον Ἀχερούσιος· οὗ μέμνηται Ἀνδροτίων ἐν τῇ Ἀτθίδι, λέγων εἶναι πατρὸς Ἀρίστωνος. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "44a",
+      "text": "Aristid. III, ad verba [ἐπὶ μὲν Σάμῳ δέκατος αὐτὸς στρατηγῶν sc. Περικλῆς]: Τῶν δέκα στρατηγῶν τῶν ἐν Σάμῳ τὰ ὀνόματα κατ’ Ἀνδροτίωνα· Σωκράτης Ἀναγοράσιος, Σοφοκλῆς ἐκ Κολωνοῦ ὁ ποιητὴς, Ἀνδοκίδης Κυδαθηναιεὺς, Κρέων Σκαμβωνίδης, Περικλῆς Χολαργεὺς, Γλαύκων ἐκ Κεραμέων, Καλλίστρατος Ἀχαρνεὺς, Ξενοφῶν Μελιτεύς. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "45",
+      "text": "Sophocl. Oed. Col. 697: Λακεδαιμόνιοι ἐμβαλόντες ἐν τῇ Ἀττικῇ δέκα μυριάσι Πελοποννησίων καὶ Βοιωτῶν, ἡγουμένου Ἀρχιδάμου τοῦ Ζευξιδάμου Λακεδαιμονίων βασιλέως, ἀπέσχοντο τῶν λεγομένων μορίων Ἀθηνᾶς, ὡς καὶ Ἀνδροτίων φησί. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "46",
+      "text": "Arist. Nub. 549 sqq.: Ἀνδροτίων φησὶν αὐτὸν (Κλέωνα) ἐπὶ Ἀλκαίου τεθνάναι. ... Κλέων ἀποθνήσκει ἐπὶ Ἀμινίου. Πρὸ τούτου δὲ Ἴσαρχος, ἐφ’ οὗ αἱ Νεφέλαι εἰσήχθησαν. Ὁ μέντοι Ἀνδροτίων ἐπὶ Ἀλκαίου, τοῦ μετὰ Ἀμινίαν, τὸν Κλέωνα δυσὶν ὕστερον ἔτεσι τεθνάναι τῆς τῶν Νεφελῶν διδασκαλίας. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "47",
+      "text": "Arist. Av. 13: Πρὸ ἐτῶν δύο κακῶς περὶ Μαντίνειαν ἀπήλλαξαν (οἱ Ἀθηναῖοι), ὡς καὶ τοὺς στρατηγοὺς ἀποβαλεῖν Λάχητα καὶ Νικόστρατον Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "48",
+      "text": "Lucian. Tim. 30: Ὑπέρβολος, ὡς Ἀνδροτίων φησὶν, Ἀντιφάνους ἦν, ὃν ὠστρακίσθαι διὰ φαυλότητα. Pausan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49",
+      "text": "VI, 7: Τὰ δὲ ἐς τοῦ Δωριέως τὴν τελευτὴν ἔστιν ἐν τῇ συγγραφῇ τῇ Ἀτθίδι Ἀνδροτίωνι εἰρημένα· εἶναι μὲν τηνικαῦτα ἐν Καύνῳ τὸ βασιλέως ναυτικὸν, καὶ Κόνωνα ἐπ’ αὐτῷ στρατηγὸν, Ῥοδίων τε τὸν δῆμον πεισθέντα ὑπὸ τοῦ Κόνωνος ἀπὸ Λακεδαιμονίων μεταβαλέσθαι σφᾶς ἐς τὴν βασιλέως καὶ Ἀθηναίων συμμαχίαν, Δωριέα δὲ ἀποδημεῖν μὲν τότε ἐκ Ῥόδου περὶ τὰ ἐκτὸς Πελοποννήσου χωρία, συλληφθέντα δὲ ὑπὸ ἀνδρῶν Λακεδαιμονίων αὐτόν· καὶ ἀναχθέντα ἐς Σπάρτην, ἀδικεῖν τε ὑπὸ Λακεδαιμονίων καταγνωσθῆναι, καὶ ἐπιβληθῆναί οἱ θάνατον ζημίαν. Εἰ δὲ τὸν ὄντα εἶπεν Ἀνδροτίων λόγον, ἐθέλειν μοι φαίνεται Λακεδαιμονίους ἐς τὸ ἴσον ἔτι Ἀθηναίοις καταστῆσαι, ὅτι καὶ Ἀθηναίοις ἐς Θράσυλλον καὶ τοὺς ἐν Ἀργινούσαις ὁμοῦ τῷ Θρασύλλῳ στρατηγήσαντας προπετείας ἐστὶν ἔγκλημα. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "49a",
+      "text": "Aristid.: Τριακόσιοι ἦσαν οἱ φυγάδες, ὡς Ἀνδροτίων φησιν. Ulpian.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "50",
+      "text": "ad Demosth. leptin. 41: Περὶ ταύτης τῆς μάχης Ὑπερίδης εἴρηκε. ... Καὶ παρὰ Ἐφόρῳ καὶ Ἀνδροτίωνι ἱστορεῖται, ὡς ἐνίκησαν τοὺς Ἀθναίους Λακεδαιμόνιοι σφόδρα. Pollux VIII, 10: Γνώριμα δικαστήρια ἡ Ἡλιαία .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "51",
+      "text": ".. τὸ Μητίχου κάλλιον, οὗ μνημονεύει Ἀνδροτίων. ... Τὸ δὲ Μητίχου δικαστήριον μέγα οὕτω κληθὲν ἀπὸ ἀρχιτέκτονος Μητίχου, ἐδίκαζον δὲ οἱ ὑπὲρ τριάκοντα ἔτη, ἐκ τῶν ἐπιτίμων καὶ μὴ ὀφειλόντων τῷ δημοσίῳ. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "52",
+      "text": "Byz.: Αἰτωλία. ... Ἔστι καὶ Αἰτωλία πόλις Πελοποννήσου, ἣν συγκαταλέγει ταῖς Λακωνικαῖς πόλεσιν Ἀνδροτίων ἐν Ἀτθίδος. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "53",
+      "text": "Byz.: Βολισσὸς, πόλις Αἰολικὴ ἐπ’ ἄκρου, Χίου πλησίον. ... Ἀνδροτίων δὲ δι’ ἑνὸς ς γράφει. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "Byz.: Ἐπαρίται, ἔθνος Ἀρκαδίας. ... Περὶ δὲ τοῦ ἔθνους Ξενοφῶν καὶ Ἔφορος καὶ Ἀνδροτίων φασίν. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "Byz.: Θυρέα ... Ἔστι καὶ Ἀκαρνανίας Θυρίον διὰ τοῦ ι. Τὸ ἐθνικὸν Θυριεὺς, ὡς Σουνιεύς. Ἀνδροτίων δὲ Θούριός φησι. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "56",
+      "text": "Byz.: Ἰτέα, δῆμος τῆς Ἀκαμαντίδος φυλῆς. Ὁ δημότης Ἰτεαῖος. Ἀνδροτίων δὲ τρισυλλαβῶς ἔφη. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "57",
+      "text": "Byz.: Κρωπία, δῆμος τῆς Λεοντίδος φυλῆς. ... Ἀνδροτίων δὲ Κρῶπάς φησι τὸν δῆμον. Steph.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "Byz.: Οἰνοῦς, πολίχνιον Λακωνικῆς, ὡς Ἀνδροτίων καὶ Δίδυμος. Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "59",
+      "text": "M. v.: Βρισαῖος, οὕτως ὁ Διόνυσος· καὶ εἰ μὲν διὰ τοῦ ι, παρὰ τὸ βρίζειν ἐστὶν, ὁ ὁρμητικός· εἰ δὲ διὰ τοῦ η, ἀπὸ ἄκρας Λεσβιακῆς Βρήσης, ἧς μέμνηται Ἀνδροτίων· ὅτι τὸ ἱερὸν τοῦ θεοῦ ἐν τῇ Βρίσῃ φησὶν ἱδρῦσθαι ὑπὸ Μάκαρος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "knw-aa",
+      "title": {
+        "english": "Fragments on Achaean Cults",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀχαιϊκῶν Ἱερῶν"
+      },
+      "url_slug": "autocrates-the-historian-achaean-cults-knw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-historian/achaean-cults",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.json"
+      }
+    },
+    {
+      "eul_wid": "ihk-aa",
+      "title": {
+        "english": "Fragments on Pallene",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παλλήνης"
+      },
+      "url_slug": "hegesippus-of-mecyberna-pallene-ihk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesippus-of-mecyberna/pallene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippus-of-mecyberna/pallene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippus-of-mecyberna/pallene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippus-of-mecyberna/pallene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesippus-of-mecyberna/pallene.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-af",
+      "title": {
+        "english": "Memorabilia",
+        "ancient_greek": "Κύρου Ἀνάβασις"
+      },
+      "url_slug": "xenophon-of-athens-memorabilia-ezq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/memorabilia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/memorabilia.json"
+      }
+    },
+    {
+      "eul_wid": "iuw-aa",
+      "title": {
+        "english": "On Heraclea Pontica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nymphis-of-heraclea-pontica-pontica-iuw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nymphis-of-heraclea-pontica/pontica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nymphis-of-heraclea-pontica/pontica.json"
+      }
+    },
+    {
+      "eul_wid": "cvc-aa",
+      "title": {
+        "english": "On the Alphabet and Early History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-miletus-alphabet-history-cvc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-miletus/alphabet-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus/alphabet-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus/alphabet-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus/alphabet-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-miletus/alphabet-history.json"
+      }
+    },
+    {
+      "eul_wid": "pvy-aa",
+      "title": {
+        "english": "On the Famous People of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menodotus-the-historian-famous-people-pvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menodotus-the-historian/famous-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ak",
+      "title": {
+        "english": "On the Surveyor of Syria",
+        "ancient_greek": "Περὶ τοῦ Γεωμέτρου Συρίας"
+      },
+      "url_slug": "historical-fragments-anonymous-surveyor-syria-mmg-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/surveyor-syria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/surveyor-syria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/surveyor-syria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/surveyor-syria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/surveyor-syria.json"
+      }
+    },
+    {
+      "eul_wid": "uws-aa",
+      "title": {
+        "english": "Origins of Constantinople (Long)",
+        "ancient_greek": "Ἱστορία Κωνσταντινουπόλεως"
+      },
+      "url_slug": "hesychius-of-miletus-history-constantinople-aa-uws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesychius-of-miletus/history-constantinople-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesychius-of-miletus/history-constantinople-aa.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/androtion-of-athens/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pcs-ab",
+  "eul_aid": "pcs",
+  "author_slug": "arrian-of-nicomedia",
+  "work_slug": "alexander-successors-ab",
+  "url_slug": "arrian-of-nicomedia-alexander-successors-ab-pcs-ab",
+  "author": {
+    "english": "Arrian of Nicomedia",
+    "ancient_greek": "Ἀρριανός ὁ Νικομηδεύς"
+  },
+  "title": {
+    "english": "History of Alexander's Successors",
+    "ancient_greek": "Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου"
+  },
+  "seo": {
+    "browser_title": "History of Alexander's Successors by Arrian on Eulogikon",
+    "meta_title": "History of Alexander's Successors by Arrian in Greek",
+    "meta_description": "Arrian chronicles the fierce conflicts among Alexander's generals as they divided his vast empire into competing Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>History of Alexander&#x27;s Successors</strong> is a lost historical work by the Greek historian and Roman official Arrian of Nicomedia, composed in the second century CE. Written in Attic Greek as a direct sequel to his celebrated <strong>Anabasis of Alexander</strong>, it chronicled the complex wars and political struggles among Alexander the Great’s generals, known as the Diadochi, following the king’s death in 323 BCE. Arrian’s objective was to provide a coherent and authoritative narrative of this turbulent period for an educated Roman and Greek readership, utilizing high-quality contemporary sources that are themselves no longer extant.</p>\n<p class=\"research-text\">The work survives only in a highly fragmentary state. Knowledge of it derives almost entirely from six brief textual fragments and a summary recorded by the ninth-century Byzantine scholar Photius in his <strong>Bibliotheca</strong>. Photius indicates the original was a substantial narrative comprising ten books, though its complete structure and detailed content are now irrecoverable. The extant passages confirm Arrian’s focus on the dissolution of Alexander’s empire, detailing the initial transfer of power to his half-brother Philip III Arrhidaeus and his posthumous son Alexander IV, the regency of Perdiccas, and the subsequent territorial divisions among the leading generals. The narrative traced the military campaigns and the protracted contest for political legitimacy that defined the early Hellenistic age. The loss of this history is considerable, as it would have constituted one of the most detailed and methodical ancient accounts of the pivotal decades following Alexander’s death.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΤΑ ΜΕΤΑ ΑΛΕΞΑΝΔΡΟΝ Photiu s , Bib l .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "cod. 82,1 p. 64a, 11 (F. gr. Hist. II A, p. 461): Ἀνεγνώσθη Δεξίππου Τὰ μετὰ Ἀλέξανδρο ν , ἐν λόγοις τέσσαρσιν ... ἄρχεται δὲ ἐν τοῖς μετὰ Ἀλέξανδρον ἀπ’ αὐτῆς τῆς τοῦ βασιλέως τελευτῆς, καὶ διέξεισιν ὅπως εἰς τὸν ἀδελφὸν Ἀλεξάνδρου τὸν Ἀρριδαῖον, ὃς ἦν ἐκ Φιλίνης τῆς Λαρισαίας τῷ Φιλίππῳ γεγεννημένος, ἡ τῶν Μακεδόνων ἀρχὴ περιέστη, εἰς αὐτόν τε καὶ εἰς τὸν μέλλοντα Ἀλεξάνδρου παῖδα τίκτεσθαι ἐκ Ῥωξάνης (ἐν γαστρὶ γὰρ ἔχουσα καταλέλειπτο) καὶ εἰς τοὺς ἀμφὶ Περδίκκαν, οἳ κρίσει τῶν Μακεδόνων ἐπετρόπευον αὐτοῖς τὴν ἀρχήν. διέξεισι καὶ ὅπως ἡ τοῦ Ἀλεξάνδρου διενεμήθη ἀρχή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "τὰ μὲν οὖν τῆς Ἀσίας οὕτως· Πτολεμαῖος ὁ Λάγου Αἰγύπτου πάσης καὶ Λιβύης καὶ τῆς ἐπέκεινα γῆς, ὁπόση Αἰγύπτῳ συνάπτει, ἄρχειν ἐτάχθη, ὁ δὲ τῷ βασιλεῖ Ἀλεξάνδρῳ ἐπὶ τῇ σατραπείᾳ ταύτῃ τεταγμένος Κλεομένης ὕπαρχος Πτολεμαίῳ ἀποκατέστη. Λαομέδων δὲ ὁ Μιτυληναῖος Σύρων ἡγεῖσθαι ἀπεφάνθη· καὶ Φιλώτας μὲν Κιλικίας, Πείθων δὲ Μηδίας, Εὐμένης δὲ Καππαδοκίας τε καὶ Παφλαγονίας καὶ τῶν ἐπὶ τὸν Εὔξεινον Πόντον κατιόντων μέχρι καὶ ἐς Τραπεζοῦντα, Ἀντίγονος δὲ Παμφύλων καὶ Λυκίων μέχρι Φρυγίας, Καρῶν δὲ Ἄσανδρος, Μένανδρος δὲ Λυδῶν, Λεόννατος δὲ τῆς ἐφ’ Ἑλλησπόντῳ Φρυγίας. καὶ τῶν μὲν Ἀσιανῶν οὕτως· τῶν δ’ Εὐρωπαίων Θρᾴκης μὲν καὶ Χερρονήσου Λυσίμαχος· Ἀντίπατρος δὲ ἐπὶ πᾶσι Μακεδόσι καὶ Ἕλλησι καὶ Ἰλλυριοῖς καὶ Τριβαλλοῖς καὶ Ἀγριᾶσι καὶ ὅσα τῆς Ἠπείρου ἐξέτι Ἀλεξάνδρου στρατηγὸς αὐτοκράτωρ ἐτέτακτο· τὴν δὲ κηδεμονίαν καὶ ὅση προστασία τῆς βασιλείας Κρατερὸς ἐπετράπη, ὃ δὴ πρώτιστον τιμῆς τέλος παρὰ Μακεδόσι· Περδίκκας δὲ τὴν Ἡφαιστίωνος χιλιαρχίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἦσαν δὲ ἄρχοντες Ἰνδῶν μὲν ἁπάντων Πῶρος καὶ Ταξίλης, ἀλλ’ ὁ μὲν Πῶρος οἳ ἐν μέσω Ἰνδοῦ ποταμοῦ καὶ Ὑδάσπου νέμονται, Ταξίλης δὲ τῶν λοιπῶν· Πείθων δέ τις τῶν τούτοις ὁμόρων ἡγεῖτο, πλὴν Παραπαμισαδῶν. οἱ δὲ συνάπτοντες Ἰνδοῖς, ὅσοι ὑπὸ τοῖς Καυκασίοις ὄρεσι νέμονται, Ὀξυάρτῃ τῷ Βακτρίῳ, ὃς ἦν Ῥωξάνης πατήρ, εἰς ἀρχὴν ἀπενεμήθησαν—ἧς ἐτέχθη παῖς μετὰ τὸν τοῦ πατρὸς Ἀλεξάνδρου θάνατον, ᾧ τὸ Μακεδόνων πλῆθος τοῦ πατρὸς τὴν προσηγορίαν Ἀλέξανδρον ἔθεντο. Ἀραχωσίων δὲ καὶ Γαδρωσίων ἐπῆρχε Σιβύρτιος, καὶ Στασάνωρ ὁ Σόλιος Ἀρείων καὶ Δραγγῶν ἡγεῖτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Φιλίππου δὲ ἦν ἀρχὴ 〈Βακτριανοὶ καὶ〉 Σογδιανοί, καὶ Ῥαδαφέρνους Ὑρκάνιοι, καὶ Νεοπτολέμου 〈Ἀρμενία, Τληπολέμου〉 Καρμανία. Πέρσαι δὲ ὑπὸ Πευκέστῃ ἐτάχθησαν. τὴν δὲ Σουσιανῶν βασιλείαν Ὀρώπιος εἶχεν, οὐ πάτριον ἔχων ἀρχήν, ἀλλὰ δόντος αὐτοῦ Ἀλεξάνδρου· ἐπεὶ δὲ τύχη τις αὐτῷ συνέπεσεν ἐπαναστάσεως αἰτίαν φεύγοντι παραλυθῆναι τῆς ἀρχῆς, τότε Κοῖνος αὐτῶν τὴν ἀρχὴν εἶχε. Βαβυλωνίων δὲ καὶ τῆς μέσης τῶν ποταμῶν Τίγρητος καὶ Εὐφράτου τῶν μὲν Σέλευκος, τῆς δὲ Μεσοποταμίας Ἀρχέλαος ἦρχε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "τοσόσδε ἀριθμὸς ἐθνῶν τε καὶ ἔθνεσιν ἀρχόντων ἦν, ὅτε Περδίκκας μετὰ τὴν Ἀλεξάνδρου τελευτὴν τὰς ἀρχὰς ἔνειμε. καὶ τὰ ἄλλα διέξεισι ἐν πολλοῖς, ὡς κἀν τούτοις, Ἀρριανῷ κατὰ τὸ πλεῖστον σύμφωνα γράφων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pcs-ak",
+      "title": {
+        "english": "Alexander's Anabasis",
+        "ancient_greek": "Ἀλεξάνδρου Ἀνάβασις"
+      },
+      "url_slug": "arrian-of-nicomedia-anabasis-pcs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/anabasis.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-am",
+      "title": {
+        "english": "Art of Tactics",
+        "ancient_greek": "Τέχνη τακτική"
+      },
+      "url_slug": "arrian-of-nicomedia-tactics-pcs-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/tactics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/tactics.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ag",
+      "title": {
+        "english": "Battle-the Alans",
+        "ancient_greek": "Ἔκταξις κατὰ Ἀλανῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-battle-alans-pcs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/battle-alans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/battle-alans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/battle-alans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/battle-alans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/battle-alans.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ae",
+      "title": {
+        "english": "Fragment from Alanic History",
+        "ancient_greek": "Ἀποσπάσματα Ἀλανικῆς Ἱστορίας"
+      },
+      "url_slug": "arrian-of-nicomedia-alanic-history-pcs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/alanic-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alanic-history.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ai",
+      "title": {
+        "english": "Fragments of Bithynica",
+        "ancient_greek": "Ἀποσπάσματα Βιθυνικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-bithynica-fragments-pcs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/bithynica-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/bithynica-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aj",
+      "title": {
+        "english": "Fragments of Parthica",
+        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-parthica-fragments-aj-pcs-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aj.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aa",
+      "title": {
+        "english": "Fragments of Parthica, According to John Lydus and Syncellus",
+        "ancient_greek": "Ἀποσπάσματα Παρθικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-parthica-fragments-aa-pcs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/parthica-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/parthica-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ap",
+      "title": {
+        "english": "Fragments on Cavalry Tactics",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἱππικῆς Τακτικῆς"
+      },
+      "url_slug": "arrian-of-nicomedia-cavalry-tactics-pcs-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cavalry-tactics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cavalry-tactics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cavalry-tactics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cavalry-tactics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cavalry-tactics.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ad",
+      "title": {
+        "english": "Fragments-Physical Matters",
+        "ancient_greek": "Ἀποσπάσματα Φυσικῶν"
+      },
+      "url_slug": "arrian-of-nicomedia-physical-matters-pcs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/physical-matters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/physical-matters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/physical-matters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/physical-matters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/physical-matters.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ac",
+      "title": {
+        "english": "History of Alexander's Successors",
+        "ancient_greek": "Ἱστορία τῶν Διαδόχων Ἀλεξάνδρου"
+      },
+      "url_slug": "arrian-of-nicomedia-alexander-successors-ac-pcs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/alexander-successors-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ac.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-aq",
+      "title": {
+        "english": "Hunting",
+        "ancient_greek": "Κυνηγετικός"
+      },
+      "url_slug": "arrian-of-nicomedia-cynegeticus-pcs-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/cynegeticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/cynegeticus.json"
+      }
+    },
+    {
+      "eul_wid": "pcs-ar",
+      "title": {
+        "english": "Indica",
+        "ancient_greek": "Ἰνδική"
+      },
+      "url_slug": "arrian-of-nicomedia-indica-pcs-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/arrian-of-nicomedia/indica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/indica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/indica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/indica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/indica.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-fi",
+      "title": {
+        "english": "Cicero",
+        "ancient_greek": "Κικέρων"
+      },
+      "url_slug": "plutarch-of-chaeronea-cicero-okg-fi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cicero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cicero.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ae",
+      "title": {
+        "english": "Hermes Trismegistus-Thought and Perception",
+        "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+      },
+      "url_slug": "hermetica-thought-perception-oqk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/thought-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cv",
+      "title": {
+        "english": "On Isis and Osiris",
+        "ancient_greek": "Περὶ Ἴσιδος και Ὀσίριδος"
+      },
+      "url_slug": "plutarch-of-chaeronea-isis-osiris-okg-cv",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/isis-osiris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/isis-osiris.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ac",
+      "title": {
+        "english": "On Piety and Festivity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bt",
+      "title": {
+        "english": "On the Inundation of the Nile",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristotle-nile-inundation-hgw-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/nile-inundation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/nile-inundation.json"
+      }
+    },
+    {
+      "eul_wid": "aua-ab",
+      "title": {
+        "english": "On the Nature of the Infinite",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaximander-of-miletus-nature-infinite-aua-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaximander-of-miletus/nature-infinite",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaximander-of-miletus/nature-infinite.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-bb",
+      "title": {
+        "english": "That God is Immutable",
+        "ancient_greek": "Ὅτι ὁ Θεὸς ἄτρεπτος ἐστίν"
+      },
+      "url_slug": "philo-of-alexandria-god-immutable-lgi-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/god-immutable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/god-immutable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/god-immutable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/god-immutable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/god-immutable.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-be",
+      "title": {
+        "english": "Theages",
+        "ancient_greek": "Θεάγης"
+      },
+      "url_slug": "plato-theages-ffk-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/theages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/arrian-of-nicomedia/alexander-successors-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/arrian-of-nicomedia/alexander-successors-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

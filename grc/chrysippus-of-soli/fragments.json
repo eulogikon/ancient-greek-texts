@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kms-ab",
+  "eul_aid": "kms",
+  "author_slug": "chrysippus-of-soli",
+  "work_slug": "fragments",
+  "url_slug": "chrysippus-of-soli-fragments-kms-ab",
+  "author": {
+    "english": "Chrysippus of Soli",
+    "ancient_greek": "Χρύσιππος ὁ Σολεύς"
+  },
+  "title": {
+    "english": "Fragments Related to Individual Books",
+    "ancient_greek": "Ἀποσπάσματα πρὸς ἕκαστον βιβλίον"
+  },
+  "seo": {
+    "browser_title": "Fragments of Chrysippus by Chrysippus of Soli on Eulogikon",
+    "meta_title": "Fragments of Chrysippus by Chrysippus of Soli in Greek",
+    "meta_description": "A collection of 40 fragmentary passages from the lost works of Stoic philosopher Chrysippus. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (phi, frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Fragments Related to Individual Books</strong> is a modern scholarly compilation of surviving quotations and testimonia attributed to Chrysippus of Soli, the third head of the Stoic school in the 3rd century BCE. As none of Chrysippus&#x27;s own prolific written output survives intact, this collection assembles forty fragmentary passages preserved by later Greek and Roman authors who referenced his work, often for purposes of summary or critique. The fragments are organized to correspond to specific, now-lost treatises by Chrysippus, covering the core Stoic divisions of logic, physics, and ethics. The sources for these excerpts include figures such as the biographer Diogenes Laertius, the essayist Plutarch, the physician Galen, and the skeptic Sextus Empiricus. Their polemical or doxographical intentions mean the original context and full development of Chrysippus&#x27;s arguments are largely absent. Nevertheless, the collection serves as an indispensable tool for reconstructing the detailed architecture of early Stoic doctrine, offering crucial insights into the systematic thought of a philosopher so central to the tradition that he was later regarded as its second founder.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "IX t",
+      "text": "Περὶ τῶν Δ ι ’ αὑτὰ Αἱρετῶν Α",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "IX fr 2",
+      "text": "Athenaeus Deipnos. VII 285d. Χρύσιππος δ’ ὁ φιλόσοφος ἐν τῷ περὶ τῶν δι’ αὑτὰ αἱρετῶν „τὴν ἀφύην, φησίν, [τὴν] ἐν Ἀθήναις μὲν διὰ τὴν δαψίλειαν ὑπερορῶσι καὶ πτωχικὸν εἶναί φασιν ὄψον, ἐν ἑτέραις δὲ πόλεσιν ὑπερθαυμάζουσι πολὺ χείρω γενομένην. εἶθ’ οἱ μέν, φησίν, ἐνταῦθα τοὺς ἀδριατικοὺς ὄρνιθας τρέφειν σπεύδουσιν ἀχρειοτέρους ὄντας, ὅτι τῶν παρ’ ἡμῖν πολὺ ἐλάττους εἰσίν· ἐκεῖνοι δὲ τἀναντία μεταπέμπονται τοὺς ἐνθάδε.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "X t",
+      "text": "Περὶ τῶν μὴ Δι’ αὑτὰ Αἱρετῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "X fr 2",
+      "text": "Athenaeus Deipnosoph. IV p. 159a. οἷον ὁ καλὸς Χρύσιππος διαγράφει ἐν τῷ περὶ τῶν μὴ δ ι ’ αὑτὰ αἱρετῶν λέγων ὧδε „ἐπὶ τοσοῦτον τινὲς ἐκπίπτουσι πρὸς τὸ ἀργύριον ὥστε ἱστορῆσθαι πρὸς τῇ τελευτῇ τινὰ μὲν καταπιόντα οὐκ ὀλίγους χρυσοῦς ἀποθανεῖν τὸν δὲ ἕτερον ῥαψάμενον εἴς τινα χιτῶνα καὶ ἐνδύντ’ αὐτὸν ἐπισκῆψαι τοῖς οἰκείοις θάψαι οὕτως, μήτε καύσαντας μήτε θεραπεύσαντας.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XII t",
+      "text": "Περὶ Δικαιοσύνης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XII fr 1",
+      "text": "Cicero de republ. III 8, 12 et reqeriret et tueretur, alter (scil. Aristoteles) autem de ipsa iustitia quattuor implevit sane grandis libros. Nam ab Chrysippo nihil magnum nec magnificum desideravi, qui suo quodam more loquitur, ut omnia verborum momentis, non rerum ponderibus examinet.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XVII t",
+      "text": "Εἰσαγωγὴ τῆς περὶ Ἀγαθῶν καὶ Κακῶν πραγματείας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XVII fr 2",
+      "text": "Athenaeus Deipnos. IV p. 159d. Χρύσιππος δ ’ ἐν τῇ εἰσαγωγῇ τῇ εἰς τὴν περὶ ἀγαθῶν καὶ κακῶν πραγματείαν νεανίσκον φησί τινα ἐκ τῆς Ἰωνίας σφόδρα πλούσιον ἐπιδημῆσαι ταῖς Ἀθήναις πορφυρίδα ἠμφιεσμένον ἔχουσαν χρυσᾶ κράσπεδα. πυνθανομένου δέ τινος αὐτοῦ ποδαπός ἐστιν ἀποκρίνασθαι ὅτι πλούσιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XVII fr 3",
+      "text": "Origenes contra Celsum IV 63 Vol. I p. 334, 15 Kö. (p. 552 Delarue). (Dum refutare studet Celsi opinionem τὰ κακὰ οὔτε πλείονα οὔτε ἐλάττονα γίγνεσθαι) καὶ ἄλλως δ’ ἐλέγχεται ὁ τοῦ Κέλσου περὶ τῶν κακῶν λόγος ἀπὸ τῶν ἐξετασάντων φιλοσόφων τὰ περὶ ἀγαθῶν καὶ κακῶν καὶ παραστησάντων καὶ ἀπὸ τῆς ἱστορίας ὅτι πρῶτον μὲν ἔξω πόλεως καὶ προσωπεῖα περικείμεναι αἱ ἑταῖραι ἐξεμίσθουν ἑαυτὰς τοῖς βουλομένοις· εἶθ’ ὕστερον καταφρονήσασαι ἀπέθεντο τὰ προσωπεῖα καὶ ὑπὸ τῶν νόμων μὴ ἐπιτρεπόμεναι εἰσιέναι εἰς τὰς πόλεις, ἔξω ἦσαν αὐτῶν· πλείονος δὲ τῆς διαστροφῆς γινομένης ὁσημέραι, ἐτόλμησαν καὶ εἰς τὰς πόλεις εἰσελθεῖν. Ταῦτα δὲ Χρύσιππός φησιν ἐν τῇ περὶ ἀγαθῶν καὶ κακῶν εἰσαγωγ ῇ· „Ὅθεν ὡς τῶν κακῶν πλειόνων καὶ ἡττόνων γινομένων, ἔστι λαβεῖν ὅτι οἱ καλούμενοι ἀμφίβολοι ἦσάν ποτε προεστηκότες, πάσχοντες καὶ διατιθέντες καὶ ταῖς ἐπιθυμίαις τῶν εἰσιόντων δουλεύοντες, ὕστερον δὲ οἱ ἀγορανόμοι τούτους ἐξῶσαν.“ Καὶ περὶ μυρίων δ’ ἂν τῶν ἀπὸ κεχυμένης τῆς κακίας ἐπεισελθόντων τῷ βίῳ τῶν ἀνθρώπων ἔστιν εἰπεῖν, ὅτι πρότερον οὐκ ἦν. Αἱ γοῦν ἀρχαιόταται ἱστορίαι, καίτοι γε μυρία ὅσα κατηγοροῦσαι τῶν ἁμαρτανόντων ἀῤῥητοποιοὺς οὐκ ἴσασι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXV t",
+      "text": "Ἠθικῶν Ζητημάτων Ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXV fr 4",
+      "text": "Scholia in Eur. Androm. v. 276 Vol. IV p. 152 Dind. Vol. II p. 274 Schw. Χρύσιππος δὲ ἐν Ἠθικῶν δεκάτῳ λογισάμενον τὸν Πάριν τίνων δεῖ μᾶλλον ἀντέχεσθαι, πολεμικῆς ἀσκήσεως ἢ ἐρωτικῆς ἢ βασιλείας, νεῦσαι [αὐτὸν] μᾶλλον εἰς τὰ ἐρωτικὰ καὶ οὕτως τὸν περὶ τῆς κρίσεως μῦθον συντεθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII t",
+      "text": "Περὶ τοῦ Καλοῦ καὶ τῆς Ἡδονῆς πρὸς Ἀριστοκρέοντα Ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 1",
+      "text": "Gellius N. A. XIV 4. Condigne mepercule et condecore Chrysippus in libroru m , qui inscribuntur περὶ καλοῦ καὶ ἡδονῆ ς, prim o , os et oculos Iustititiae vultumque eius severis atque venerandis verborum coloribus depinxit. Facit quippe imaginem Iustitiae fierique solitam esse dicit a pictoribus rhetoribusque antiquioribus ad hunc ferme modum: „forma atque filo virginali, aspectu vehementi et formidabili, luminibus oculorum acribus, neque humilis neque atrocis, sed reverendae cuiusdam tristitiae dignitate.“ Ex imaginis autem istius significatione intellegi voluit, iudicem, qui Iustitiae antistes est, oportere esse gravem, sanctum, severum, incorruptum, inadulabilem contraque improbos nocentesque immisericordem atque inexorabilem erectumque et arduum ac potentem, vi et maiestate aequitatis veritatisque terrificum. Verba ipsa Chrysippi de Iustitia scripta haec sunt: „Παρθένος δὲ εἶναι λέγεται κατὰ σύμβολον τοῦ ἀδιάφθορος εἶναι καὶ μηδαμῶς ἐνδιδόναι τοῖς κακούργοις, μηδὲ προσίεσθαι μήτε τοὺς ἐπιεικεῖς λόγους μήτε παραίτησιν καὶ δέησιν μήτε κολακείαν μήτε ἄλλο μηδὲν τῶν τοιούτων· οἷς ἀκολούθως καὶ σκυθρωπὴ γράφεται καὶ συνεστηκὸς ἔχουσα τὸ πρόσωπον καὶ ἔντονον καὶ δεδορκὸς βλέπουσα, ὥστε τοῖς μὲν ἀδίκοις φόβον ἐμποιεῖν, τοῖς δὲ δικαίοις θάρσος· τοῖς μὲν προσφιλοῦς ὄντος τοῦ τοιούτου προσώπου, τοῖς δὲ ἑτέροις προσάντους.“ Haec verba Chrysippi eo etiam magis ponenda existimavi, ut prompta ad considerandum iudicandumque sint, quoniam legentibus ea nobis delicatiores quidam disciplinarum philosophi, Saevitiae imaginem istam esse, non Iustitiae, dixerunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 2",
+      "text": "Athenaeus Deipnosoph. XIII p. 565a. τοῦ ξύρεσθαι τὸν πώγωνα κατ’ Ἀλέξανδρον εὑρημένου, ὥς φησιν ὑμῶν ὁ Χρύσιππος ἐν τῷ τετάρτῳ περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆ ς. οὐκ ἀκαίρως δέ, ὡς ἐμαυτὸν πείθω, μεμνήσομαι τῆς λέξεως· χαίρω γὰρ πάνυ τῷ ἀνδρὶ διά τε τὴν πολυμαθίαν καὶ τὴν τοῦ ἤθους ἐπιείκειαν. λέγει δὲ οὕτως ὁ φιλόσοφος „τὸ ξύρεσθαι τὸν πώγωνα κατ’ Ἀλέξανδρον προῆκται, τῶν προτέρων οὐ χρωμένων αὐτῷ. καὶ γὰρ Τιμόθεος ὁ αὐλητὴς πώγωνα μέγαν ἔχων ηὔλει, καὶ ἐν Ἀθήναις διατηροῦσιν οὐ σφόδρα ἀρχαῖον τὸν πρῶτον προσκειράμενον παρωνύμιον ἔχειν Κόρσην. διὸ καὶ Ἄλεξις ἔφη που· ἂν πιττοκοπούμενόν τιν’ ἢ ξυρούμενον ὁρᾶς, δυοῖν τούτων ἔχειν δεῖ θάτερον· ἢ γὰρ στρατεύειν ἐπινοεῖν μοι φαίνεται καὶ πάντα τῷ πώγωνι δρᾶν ἐναντία ἢ πλουσιακὸν τούτῳ τι προσπίπτει κακόν. τί γὰρ αἱ τρίχες λυποῦσιν ἡμᾶς, πρὸς θεῶν, δι’ ἃς ἀνὴρ ἕκαστος ἡμῶν φαίνεται, εἰ μή τι ταύταις ἀντιπράττεσθ’ ὑπονοεῖς. Διογένης δὲ ἰδών τινα οὕτως ἔχοντα τὸ γένειον ἔφησε, „μή τι ἔχεις ἐγκαλεῖν τῇ φύσει ὅτι ἄνδρα ς’ ἐποίησε καὶ οὐ γυναῖκα;“ ἕτερον δέ τινα ἐπὶ ἵππου ἰδὼν παραπλησίως ἔχοντα καὶ μεμυρισμένον καὶ τούτοις ἀκολούθως ἠμφιεσμένον, πρότερον μὲν ἔφησε ζητεῖν τί ἐστιν ὁ ἱππόπορνος, νῦν δὲ εὑρηκέναι. ἐν Ῥόδῳ δὲ νόμου ὄντος μὴ ξύρεσθαι οὐδὲ ὁ ἐπιληψόμενος οὐδείς ἐστι διὰ τὸ πάντας ξύρεσθαι. ἐν Βυζαντίῳ δὲ ζημίας ἐπικειμένης τῷ ἔχοντι κουρεῖ ξυρὸν οὐδὲν ἧττον πάντες χρῶνται αὐτῷ.“ καὶ ταῦτα μὲν ὁ θαυμάσιος εἴρηκε Χρύσιππο ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 3",
+      "text": "Athenaeus Deipnosoph. IV p. 137f. Χρύσιππός τ ’ ἐν τετάρτῳ περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆς φησὶν „ἐν Ἀθήναις δὲ ἱστοροῦσιν οὐ πάνυ ἀρχαίων δυοῖν γενομένων δείπνων, ἐν Λυκείῳ τε καὶ Ἀκαδημείᾳ, τοῦ μὲν εἰς τὴν Ἀκαδήμειαν εἰσενέγκαντος ὀψοποιοῦ λοπάδα πρὸς ἑτέραν τινὰ χρείαν τὸν κέραμον κατᾶξαι πάντα τοὺς ἱεροποιούς, ὡς μακρόθεν οὐκ ἀστείας παρεισδύσεως γινομένης, δέοντος ἀπέχεσθαι τούτων 〈τῶν〉 μακρόθεν· τὸν δ’ ἐν τῷ Λυκείῳ κρέας ταριχηρὸν εἰς τάριχος διασκευάσαντα μαστιγωθῆναι ὡς παρασοφιζόμενον πονηρῶς.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 4",
+      "text": "Athenaeus Deipnosoph. IX p. 373a. καὶ Χρύσιππος δ’ ὁ φιλόσοφος ἐν τῷ πέμπτῳ περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆς γράφει οὕτως „καθάπερ τινὲς τὰς λευκὰς ὄρνιθας τῶν μελαινῶν ἡδίους εἶναι μᾶλλον.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 5",
+      "text": "Athenaeus Deipnosoph. VIII 335b. Χρύσιππον δ’, ἄνδρες φίλοι, τὸν τῆς Στοᾶς ἡγεμόνα κατὰ πολλὰ θαυμάζων ἔτι μᾶλλον ἐπαινῶ, τὸν πολυθρύλητον ἐπὶ τῇ ὀψολογίᾳ Ἀρχέστρατον ἀεί ποτε μετὰ Φιλαινίδος κατατάττοντα, εἰς ἣν ἀναφέρεται τὸ περὶ ἀφροδισίων ἀκόλαστον σύγγραμμα. id. 335a. ἀλλ’ οὖν ὅ γε θαυμασιώτατος Χρύσιππος ἐν τῷ πέμπτῳ περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆς φησί „καὶ βιβλία τά τε Φιλαινίδος καὶ τὴν τοῦ Ἀρχεστράτου Γαστρονομίαν καὶ δυνάμεις ἐρωτικὰς καὶ συνουσιαστικάς, ὁμοίως δὲ καὶ τὰς θεραπαίνας ἐμπείρους τοιῶνδε κινήσεών τε καὶ σχημάτων καὶ περὶ τὴν τούτων μελέτην γινομένας.“ καὶ πάλιν „ἐκμανθάνειν τ’ αὐτοὺς τὰ τοιαῦτα καὶ κτᾶσθαι τὰ περὶ τούτων γεγραμμένα Φιλαινίδι καὶ Ἀρχεστράτῳ καὶ τοῖς τὰ ὅμοια γράψασι.“ κἂν τῷ ἑβδόμῳ δέ φησι „καθάπερ γὰρ οὐκ ἐκμανθάνειν τὰ Φιλαινίδος καὶ τὴν Ἀρχεστράτου Γαστρονομίαν ἔστιν ὡς φέροντά τι πρὸς τὸ ζῆν ἄμεινον.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 6",
+      "text": "Athenaeus Deipnos. I p. 4e. Ἀρχέστρατος ὁ Συρακόσιος ἢ Γελῷος ἐν τῇ ὡς Χρύσιππος ἐπιγράφει Γαστρονομίᾳ, ὡς δὲ Λυγκεὺς καὶ Καλλίμαχος Ἡδυπαθείᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 7",
+      "text": "Athenaeus Deipnosoph. XIV p. 616a. καὶ Χρύσιππος δ’ ὁ φιλόσοφος ἐν πέμπτῳ περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆς περὶ τοῦ Πανταλέοντος τάδε γράφει „ὁ δὲ πλάνος Πανταλέων τελευτᾶν μέλλων ἑκάτερον τῶν υἱῶν κατ’ ἰδίαν ἐξηπάτησε, φήσας μόνῳ αὐτῷ λέγειν, ὅπου κατορωρύχοι τὸ χρυσίον· ὥστε μάτην ὕστερον κοινῇ σκάπτοντας αἰσθέσθαι ἐξηπατημένους.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 8",
+      "text": "Athenaeus Deipnosoph. XIV p. 616b. οὐκ ἠπόρει δ’ ἡμῶν τὸ συμπόσιον οὐδὲ τῶν φιλοσκωπτούντων. περὶ δὲ τοιούτου τινὸς πάλιν ὁ Χρύσιππος ἐν τῷ αὐτῷ (scil. ἐν τῷ πέμπτῳ περὶ τοῦ καλοῦ καὶ τῆς ἡδονῆ ς) γράφει „φιλοσκώπτης μέλλων ὑπὸ τοῦ δημίου σφάττεσθαι εἶπε θέλειν ὥσπερ τὸ κύκνειον ᾄσας ἀποθανεῖν. ἐπιτρέψαντος δ’ ἐκείνου ἔσκωψεν.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 9",
+      "text": "Athenaei Deipnosoph. epit. lib. I p. 9c. τὸ παρὰ πολλοῖς λασταυροκάκκαβον καλούμενον βρῶμα, ὥς φησι Χρύσιππος 〈ἐν τῷ περὶ καλοῦ καὶ ἡδονῆς 〉 οὗ ἡ κατασκευὴ περιεργοτέρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 10",
+      "text": "Athenaeus Deipnosoph. I p. 5e. Ἀπὸ τούτου τοῦ Φιλοξένου καὶ φιλοξένειοί τινες πλακοῦντες ὠνομάσθησαν. περὶ τούτου Χρύσιππός φησιν „ἐγὼ κατέχω τινὰ ὀψοφάγον ἐπὶ τοσοῦτον ἐκπεπτωκότα τοῦ μὴ ἐντρέπεσθαι τοὺς πλησίον ἐπὶ τοῖς γινομένοις, ὥστε φανερῶς ἐν τοῖς βαλανείοις τήν τε χεῖρα συνεθίζειν πρὸς τὰ θερμά, καθιέντα εἰς ὕδωρ θερμόν, καὶ τὸ στόμα ἀναγαργαριζόμενον θερμῷ, ὅπως δηλονότι ἐν τοῖς θερμοῖς δυσκίνητος ᾖ. ἔφασαν γὰρ αὐτὸν καὶ τοὺς ὀψοποιοῦντας ὑποποιεῖσθαι, ἵνα θερμότατα παρατιθῶσι, καὶ μόνος καταναλίσκῃ αὐτός, τῶν λοιπῶν συνακολουθεῖν μὴ δυναμένων.“",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 11",
+      "text": "Athenaeus VIII p. 336a. (ὁ Σαρδανάπαλλος) ἐφ’ οὗ τοῦ τάφου ἐπιγεγράφθαι φησὶ Χρύσιππος τάδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 12",
+      "text": "Athenaeus Deipnosoph. XV p. 686f. καὶ ὁ θαυμασιώτατος δὲ Χρύσιππος τὴν ὀνομασίαν φησὶ λαβεῖν τὰ μύρα ἀπὸ τοῦ μετὰ πολλοῦ μόρου καὶ πόνου ματαίου γίνεσθαι. Λακεδαιμόνιοί τε ἐξελαύνουσι τῆς Σπάρτης τοὺς τὰ μύρα κατασκευάζοντας ὡς διαφθείροντας τοὔλαιον, καὶ τοὺς τὰ ἔρια δὲ βάπτοντας ὡς ἀφανίζοντας τὴν λευκότητα τῶν ἐρίων. Σόλων τε ὁ σοφὸς διὰ τῶν νόμων κεκώλυκε τοὺς ἄνδρας μυροπωλεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 13",
+      "text": "Athenaeus Deipnosoph. XIV p. 659a. ἐκάλουν δ’ οἱ παλαιοὶ τὸν μὲν πολιτικὸν μάγειρον Μαίσωνα τὸν δ’ ἐκτόπιον Τέττιγα. Χρύσιππος δ’ ὁ φιλόσοφος τὸν Μαίσωνα ἀπὸ τοῦ μασᾶσθαι οἴεται κεκλῆσθαι, οἷον τὸν ἀμαθῆ καὶ πρὸς γαστέρα νενευκότα, ἀγνοῶν ὅτι Μαίσων γέγονε κωμῳδίας ὑποκριτὴς Μεγαρεὺς τὸ γένος, ὃς καὶ τὸ προσωπεῖον εὗρε τὸ ἀπ’ αὐτοῦ καλούμενον μαίσωνα, ὡς Ἀριστοφάνης φησὶν ὁ Βυζάντιος ἐν τῷ περὶ προσώπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 14",
+      "text": "Athenaeus Deipnosoph. II p. 67c. κάλλιστον δ’ ὄξος εἶναί φησι Χρύσιππος ὁ φιλόσοφος τό τε Αἰγύπτιον καὶ τὸ Κνίδιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XXVIII fr 15",
+      "text": "Athenaeus Deipnosoph. I p. 8c. Χρύσιππος δέ φησιν· ἀσύμβολον κώθωνα μὴ παραλίμπανε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV t",
+      "text": "Περὶ Παροιμιῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 1",
+      "text": "Diog. Laërt. VII 1. (de Zenone locutus) ὅτι ἰσχνὸς ἦν, ὑπομήκης, μελάγχρως, ὅθεν τις αὐτὸν εἶπεν Αἰγυπτίαν κληματίδα, καθά φησι Χρύσιππος ἐν πρώτῳ Παροιμιῶ ν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 2",
+      "text": "Schol. Pind. Isthm. II 17. Χρήματα χρήματ’ ἀνήρ] τοῦτο ἀναγράφεται μὲν εἰς τὰς παροιμίας ὑπ’ ἐνίων, ἀπόφθεγμα δέ ἐστιν Ἀριστοδήμου, καθάπερ φησὶ Χρύσιππος ἐν τῷ περὶ παροιμιῶ ν. τοῦτον δὲ τὸν Ἀριστόδημον Πίνδαρος μὲν οὐ τίθησιν ἐξ ὀνόματος, ὡς δήλου ὄντος ὅς ἐστιν ὁ τοῦτο εἰπών, μόνον δὲ ἐσημειώσατο τὴν πατρίδα ὅτι Ἀργεῖος etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 3",
+      "text": "Diogenianus Paroemiographus I 62 p. 10. Αἲξ Σκυρία: Χρύσιππός φησιν ἐπὶ τῶν τὰς χάριτας ἀνατρεπόντων τετάχθαι τὴν παροιμίαν, ἐπειδὴ πολλάκις τὰ ἀγγεῖα ἀνατρέπει ἡ αἴξ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 4",
+      "text": "Zenobius V 32. Οὐ νυκτιπλοεῖς: ἐπὶ τῶν μὴ ἀκριβῶς τι ποιούντων. Ἡ γὰρ νὺξ ἀκριβεστέρα τῆς ἡμέρας τοῖς πελαγοδρομοῦσι, διὰ τὰς τῶν ἄστρων σημειώσεις. Ὁ δὲ Χρύσιππος ἀφελὼν τὴν „οὐ“ ἀπόφασιν „νυκτιπλοεῖσ“ εἶπεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 5",
+      "text": "[Plut.] Prov. Alex. I 3 (Cod. VB.—Corp. Par. II p. 321). Ὀπισάμβω[ν]· ταύτην Χρύσιππος τάττει κατὰ τῶν χεῖρον ἐν τοῖς πράγμασι προβαινόντων παρὰ τὸ ἀεὶ ὀπίσω βαίνειν. Μέμνηται τοῦ ὀνόματος Σοφοκλῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 6",
+      "text": "Zenobius Paroemiogr. III 40. Δοῖδυξ αὔξει: ἐπὶ τῶν μὴ αὐξανομένων φησὶν ὁ Χρύσιππο ς, ἀλλὰ καὶ 〈ἐπὶ τῶν〉 μικρῶν μενόντων εἴρηται ἡ παροιμία. Ὁ γὰρ δοῖδυξ μικρός ἐστι καὶ στρογγύλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 7",
+      "text": "Plutarchus vita Arati 1, 1. Παροιμίαν τινὰ παλαιάν, ὦ Πολύκρατες, δείσας μοι δοκεῖ τὸ δύσφημον αὐτῆς, ὁ φιλόσοφος Χρύσιππος οὐχ ὃν ἔχει τρόπον, ἀλλ’ ὡς αὐτὸς ᾤετο βέλτιον εἶναι διατίθεται, τίς πατέρ’ αἰνήσει, εἰ μὴ εὐδαίμονες υἱοί; Διονυσόδωρος δὲ ὁ Τροιζήνιος ἐλέγχων αὐτὸν ἀντεκτίθησι τὴν ἀληθινὴν οὕτως ἔχουσαν· τίς πατέρ’ αἰνήσει, εἰ μὴ κακοδαίμονες υἱοί; etc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLV fr 8",
+      "text": "Suidas s. v. Κέρκωπες (pr.)—ἡ δὲ παροιμία „κερκωπίζειν“ ἣν ὁ Χρύσιππος ἀπὸ τῶν σαινόντων τῇ κέρκῳ ζῴων φησὶ μετενηνέχθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLVII t",
+      "text": "Περὶ Πολιτείας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "XLVII fr 6",
+      "text": "Diogenes Laërt. VII 34. ὅτι δ’ αὐτοῦ ἐστιν ἡ Πολιτεία (scil. Zenonis) καὶ Χρύσιππος ἐν (ὥσπερ ἐν Β) τῷ περὶ Πολιτείας φησί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "LVII t",
+      "text": "Ὑπογραφὴ τοῦ λόγου τοῦ 〈ἠθικοῦ〉 πρὸς Θεόπορον Α",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "LVII fr 1",
+      "text": "Stob. Eclog. II 116, 11 W. Περὶ γὰρ πάντων τῶν παραδόξων δογμάτων ἐν πολλοῖς μὲν καὶ ἄλλοις ὁ Χρύσιππος διελέχθη· καὶ γὰρ ἐν τῷ περὶ δογμάτων καὶ ἐν τῇ ὑπογραφῇ τοῦ λόγου καὶ ἐν ἄλλοις πολλοῖς τῶν κατὰ μέρος συγγραμμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kms-ac",
+      "title": {
+        "english": "Fragments Logical and Physical",
+        "ancient_greek": "Λογικὰ καὶ Φυσικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "chrysippus-of-soli-logical-physical-kms-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/logical-physical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/logical-physical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/logical-physical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/logical-physical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/logical-physical.json"
+      }
+    },
+    {
+      "eul_wid": "kms-aa",
+      "title": {
+        "english": "Fragments of Chrysippus-Homeric Poems",
+        "ancient_greek": "Χρυσίππου Ἀποσπάσματα εἰς Ὁμηρικὰ Ἔπη"
+      },
+      "url_slug": "chrysippus-of-soli-homeric-poems-kms-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/homeric-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/homeric-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/homeric-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/homeric-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/homeric-poems.json"
+      }
+    },
+    {
+      "eul_wid": "kms-af",
+      "title": {
+        "english": "Fragments on Dietary Taboos",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βρωμάτων Ἀποσπασμένων"
+      },
+      "url_slug": "chrysippus-of-soli-dietary-taboos-kms-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/dietary-taboos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/dietary-taboos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/dietary-taboos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/dietary-taboos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/dietary-taboos.json"
+      }
+    },
+    {
+      "eul_wid": "kms-ae",
+      "title": {
+        "english": "Moral Fragments",
+        "ancient_greek": "Ἠθικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "chrysippus-of-soli-moral-fragments-kms-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/moral-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/moral-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/moral-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/moral-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/moral-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kms-ad",
+      "title": {
+        "english": "Poetic Fragments",
+        "ancient_greek": "Ποιητικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "chrysippus-of-soli-poetic-fragments-kms-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/poetic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/poetic-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ey",
+      "title": {
+        "english": "Eumenes",
+        "ancient_greek": "Εὐμένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-eumenes-okg-ey",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/eumenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/eumenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/eumenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/eumenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/eumenes.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ei",
+      "title": {
+        "english": "Fragments on Epaminondas and Scipio",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐπαμεινώνδου καὶ Σκιπίωνος"
+      },
+      "url_slug": "plutarch-of-chaeronea-epaminondas-scipio-okg-ei",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/epaminondas-scipio",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/epaminondas-scipio.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/epaminondas-scipio.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/epaminondas-scipio.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/epaminondas-scipio.json"
+      }
+    },
+    {
+      "eul_wid": "okg-fj",
+      "title": {
+        "english": "Nicias",
+        "ancient_greek": "Νικίας"
+      },
+      "url_slug": "plutarch-of-chaeronea-nicias-okg-fj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/nicias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/nicias.json"
+      }
+    },
+    {
+      "eul_wid": "reo-al",
+      "title": {
+        "english": "On Mixture",
+        "ancient_greek": "Περὶ Μίξεως"
+      },
+      "url_slug": "alexander-of-aphrodisias-mixture-reo-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/mixture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/mixture.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/mixture.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/mixture.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/mixture.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bd",
+      "title": {
+        "english": "On the Heavens",
+        "ancient_greek": "Περὶ Οὐρανοῦ"
+      },
+      "url_slug": "aristotle-heavens-hgw-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/heavens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/heavens.json"
+      }
+    },
+    {
+      "eul_wid": "hyo-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "cleitarchus-the-historian-text-hyo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleitarchus-the-historian/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-be",
+      "title": {
+        "english": "Theages",
+        "ancient_greek": "Θεάγης"
+      },
+      "url_slug": "plato-theages-ffk-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/theages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/theages.json"
+      }
+    },
+    {
+      "eul_wid": "sno-ae",
+      "title": {
+        "english": "encom to Emperor Constantius",
+        "ancient_greek": "Ἐγκώμιον εἰς τὸν αὐτοκράτορα Κωνστάντιον"
+      },
+      "url_slug": "julian-the-apostate-encomium-constantius-sno-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/encomium-constantius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encomium-constantius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encomium-constantius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encomium-constantius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/encomium-constantius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/chrysippus-of-soli/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

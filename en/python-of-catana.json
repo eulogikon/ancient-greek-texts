@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "lja",
+  "auth_slug": "python-of-catana",
+  "name": {
+    "english": "Python of Catana",
+    "ancient_greek": "Πύθων ὁ Καταναῖος"
+  },
+  "seo_h1": "Python of Catana on Harpalus and Athens",
+  "seo": {
+    "browser_title": "Python of Catana Dramatist on Eulogikon Greek Archive",
+    "meta_title": "The Python of Catana Ancient Greek Drama Fragments",
+    "meta_description": "Python of Catana was a Hellenistic dramatist of the 4th century BCE. His works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (dr, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Life Python of Catana was a Greek dramatist from Sicily active in the late 4th century BCE. He is historically recorded for accompanying Alexander the Great on campaign and producing a satyr play, Agen, at a festival in Susa in 324 BCE. No further biographical details survive.</p>\n<p class=\"research-text\">His only known work is the satyr play Agen, performed at Susa. The play survives only in fragmentary form, with a few lines preserved by the historian Athenaeus.</p>\n<p class=\"research-text\">Python’s significance derives from the historical context of his work. The performance at Susa was a deliberate political and cultural event orchestrated by Alexander to promote Hellenic culture within his empire. Python thus represents the use of traditional Athenian dramatic forms in service of the nascent Hellenistic order, providing a datable example of drama produced outside mainland Greece during Alexander’s campaigns.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "lja-aa",
+      "title": {
+        "english": "Fragments on Harpalus and Athens",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἁρπάλου καὶ Ἀθηνῶν"
+      },
+      "url_slug": "python-of-catana-harpalus-athens-lja-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/python-of-catana/harpalus-athens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/python-of-catana/harpalus-athens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/python-of-catana/harpalus-athens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/python-of-catana/harpalus-athens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/python-of-catana/harpalus-athens.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/python-of-catana",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/python-of-catana.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/python-of-catana.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/python-of-catana.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/python-of-catana.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,275 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dno",
+  "auth_slug": "plato-lysis",
+  "name": {
+    "english": "Plato Lysis",
+    "ancient_greek": "Πλάτων, Λύσις"
+  },
+  "seo_h1": "Lysis the Athenian in Plato's Dialogues",
+  "seo": {
+    "browser_title": "Plato Lysis Character on Eulogikon Greek Archive of Texts",
+    "meta_title": "Classical Plato Lysis Ancient Greek Philosophical Works",
+    "meta_description": "Lysis, a young Athenian in Plato's dialogues. Explore surviving works featuring this character. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lysis is a figure from Classical Athens in the late 5th century BCE, known exclusively as a character in a philosophical dialogue by Plato. He is presented as a young Athenian boy, the son of Democrates, and a friend of another youth named Menexenus.</p>\n<p class=\"research-text\">The dialogue named after him, Lysis, is set around 409 BCE and features Lysis and his friend in conversation with Socrates. Lysis is not historically attested as an author or philosopher. His entire significance lies within Plato’s work, where he serves as an interlocutor. The dialogue uses his character to explore the nature of friendship, or philia, examining whether it is based on similarity, opposition, or the pursuit of the good.</p>\n<p class=\"research-text\">According to modern scholars, the Lysis is an important early Platonic text for the study of ethics and personal relationships. No writings are attributed to a historical person named Lysis. The sources confirm he is a literary character created by Plato for philosophical discussion, with no evidence of independent works or a separate philosophical tradition.</p>\n</div>",
+  "affiliation_label": "Platonist",
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "dno-aa",
+      "title": {
+        "english": "Letter to Hipparchus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἵππαρχον"
+      },
+      "url_slug": "plato-lysis-hipparchus-dno-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-lysis/hipparchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.json"
+      }
+    },
+    {
+      "eul_wid": "dno-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "plato-lysis-testimonies-dno-ab",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-lysis/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "qhm",
+      "name": {
+        "english": "Albinus the Platonist",
+        "ancient_greek": "Ἀλβῖνος ὁ Πλατωνικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/albinus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/albinus-the-platonist.json"
+      }
+    },
+    {
+      "eul_aid": "ufa",
+      "name": {
+        "english": "Alexander of Lycopolis",
+        "ancient_greek": "Ἀλέξανδρος Λυκοπολίτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-lycopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-lycopolis.json"
+      }
+    },
+    {
+      "eul_aid": "lgs",
+      "name": {
+        "english": "Anonymous Commentary on Plato",
+        "ancient_greek": "Ἀνώνυμος ὑπόμνημα εἰς τὸν Πλάτωνος Θεαίτητον"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/anonymous-commentary-on-plato-theaetetus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-plato-theaetetus.json"
+      }
+    },
+    {
+      "eul_aid": "ddo",
+      "name": {
+        "english": "Arimnestus the Philosopher",
+        "ancient_greek": "Ἀρίμνηστος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/arimnestus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/arimnestus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "rai",
+      "name": {
+        "english": "Atticus the Philosopher",
+        "ancient_greek": "Ἀττικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/atticus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/atticus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "rmq",
+      "name": {
+        "english": "Cassius Longinus the Philosopher",
+        "ancient_greek": "Κάσσιος Λογγῖνος"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/cassius-longinus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cassius-longinus.json"
+      }
+    },
+    {
+      "eul_aid": "quy",
+      "name": {
+        "english": "Celsus the Platonist",
+        "ancient_greek": "Κέλσος ὁ Πλατωνικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/celsus-the-platonist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/celsus-the-platonist.json"
+      }
+    },
+    {
+      "eul_aid": "hhq",
+      "name": {
+        "english": "Crantor of Soli",
+        "ancient_greek": "Κράντωρ ὁ Σολεύς"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/crantor-of-soli",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/crantor-of-soli.json"
+      }
+    },
+    {
+      "eul_aid": "nso",
+      "name": {
+        "english": "Eudromus the Philosopher",
+        "ancient_greek": "Εὔδρομος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/eudromus-the-philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eudromus-the-philosopher.json"
+      }
+    },
+    {
+      "eul_aid": "fdw",
+      "name": {
+        "english": "Heraclides of Pontus",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus.json"
+      }
+    },
+    {
+      "eul_aid": "fve",
+      "name": {
+        "english": "Heraclides of Pontus II",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-ii.json"
+      }
+    },
+    {
+      "eul_aid": "feg",
+      "name": {
+        "english": "Heraclides of Pontus III",
+        "ancient_greek": "Ἡρακλείδης ὁ Ποντικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/heraclides-of-pontus-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-of-pontus-iii.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/plato-lysis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/plato-lysis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/plato-lysis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/plato-lysis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/plato-lysis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

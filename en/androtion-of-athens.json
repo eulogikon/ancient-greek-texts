@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ebu",
+  "auth_slug": "androtion-of-athens",
+  "name": {
+    "english": "Androtion Atheniensis",
+    "ancient_greek": "Ἀνδροτίων ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Androtion and the Fragments of Athenian History",
+  "seo": {
+    "browser_title": "Androtion the Athenian Historian on Eulogikon Greek Archive",
+    "meta_title": "Androtion Ancient Greek Historical Works and Fragments",
+    "meta_description": "Androtion was a 4th century BCE Athenian historian. His surviving historical works are preserved as fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Androtion was an Athenian politician and historian of the 4th century BCE. The son of Andron, he was a student of Isocrates and became a prominent figure, serving on the Council and as an ambassador. His career was contentious; a leader of the moderate democratic faction associated with Eubulus, he was prosecuted by Demosthenes around 355 BCE in a case that survives. Following this, he was exiled and spent time at the court of Mausolus of Caria.</p>\n<p class=\"research-text\">His only known work is the <strong>Atthis</strong>, a local history of Attica and Athens. The work is fragmentary, preserved through quotations in later authors such as Harpocration and Stephanus of Byzantium. Androtion is significant as one of the Atthidographers, who chronicled the local history and institutions of Attica. His <strong>Atthis</strong> is considered to have been more politically focused than some earlier versions, reflecting his own experiences in Athenian public affairs, and served as an important source for later historians and lexicographers.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "ebu-aa",
+      "title": {
+        "english": "Fragments on Athenian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας"
+      },
+      "url_slug": "androtion-of-athens-fragments-ebu-aa",
+      "passages": 63,
+      "links": {
+        "html": "https://eulogikon.org/grc/androtion-of-athens/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/androtion-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androtion-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androtion-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androtion-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/androtion-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

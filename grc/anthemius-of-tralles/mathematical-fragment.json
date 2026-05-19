@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vdg-aa",
+  "eul_aid": "vdg",
+  "author_slug": "anthemius-of-tralles",
+  "work_slug": "mathematical-fragment",
+  "url_slug": "anthemius-of-tralles-mathematical-fragment-vdg-aa",
+  "author": {
+    "english": "Anthemius of Tralles",
+    "ancient_greek": "Ἀνθέμιος ὁ Τραλλιανός"
+  },
+  "title": {
+    "english": "Mathematical Fragment from Bobbio",
+    "ancient_greek": "Μαθηματικὸν Ἀπόσπασμα ἐκ Βοβίου"
+  },
+  "seo": {
+    "browser_title": "Mathematical Fragment from Bobbio by Anthemius on Eulogikon",
+    "meta_title": "Mathematical Fragment from Bobbio in Ancient Greek",
+    "meta_description": "A surviving mathematical fragment by Anthemius of Tralles concerning conic sections geometric proofs. Technical treatise on parabolic sections reflection."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Mathematical Fragment from Bobbio is a brief Greek mathematical treatise attributed to the 6th-century architect and mathematician Anthemius of Tralles. It survives in a single 9th- or 10th-century manuscript discovered at the monastery of Bobbio and consists of seven passages concerning geometric constructions and optics. The fragment’s practical and theoretical problems include a method for constructing an ellipse using a loop of string, often called the gardener&#x27;s method, and a proof based on the focal properties of the parabola, demonstrating that parallel rays of light reflected by a parabolic mirror converge at its focus. The attribution to Anthemius, based on the manuscript’s title, is generally accepted given his documented expertise in mathematics and mechanics. The fragment illustrates the application of classical Greek geometry, particularly from Archimedes and the theory of conics, to 6th-century engineering and optical problems. It provides direct insight into the advanced mathematical knowledge that underpinned the architectural achievements of late antiquity, such as the Hagia Sophia, which Anthemius co-designed.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "fragmentum Bobiense 〈ἐπεὶ γὰρ ἴσον ἐστὶ τὸ ὑπὸ τῶν ΑΓ, ΑΗ τῷ ἀπὸ τῆσ〉 | ΕΗ, τετραπλασίων δὲ ἡ ΓΑ τῆς ΑΒ, τὸ ἄρα τετράκις ὑπὸ τῶν [Omitted graphic marker] ΒΑΗ, τουτέστι τὸ τετράκις ὑπὸ τῶν ΒΑΔ, ἴσον ἐστὶ τῷ ἀπὸ τῆς ΗΕ, τουτέστι τῷ τετράκις ἀπὸ τῆς ΑΖ· ἴσον ἄρα καὶ τὸ ὑπὸ τῶν ΒΑΔ τῷ ἀπὸ τῆς ΑΖ· 〈ὀρθὴ ἄρα ἡ πρὸσ〉 τῷ Ζ γωνία. καί ἐστιν ἴση ἡ ΔΖ τῇ ΖΕ· ἴση ἄρα καὶ ἡ ΔΒ τῇ ΒΕ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "δεδειγμένου δὲ τούτου ἔστω κώνου τομὴ πάλιν παραβολή, ἧς διάμετρος μὲν ἡ ΑΒ, παρ’ ἣν δὲ δύνανται ἡ ΑΓ, καὶ τῆς ΑΓ τέταρτον ἔστω ἡ ΑΒ, καὶ ἀπὸ τυχόντος σημείου τῶν ἐπὶ τῆς τομῆς τῇ ΑΒ παράλληλος ἤχθω ἡ ΕΖ, καὶ ἐπεζεύχθω ἡ ΕΒ. [Omitted graphic marker] δεικτέον, ὅτι ἡ ΖΕ πρὸς ἴσην γωνίαν ἀνακέκλασται πρὸς τῇ τομῇ. ἤχθω γὰρ ἐφαπτομένη ἡ ΔΕΗ. διὰ δὴ τὸ προδειχθὲν ἴση ἐστὶν ἡ ΔΒ τῇ ΒΕ· ὥστε καὶ αἱ πρὸς τοῖς Δ, Ε σημείοις γωνίαι ἴσαι. καὶ αἱ ὑπὸ τῶν ΔΕΑ, ΗΕΘ ἴσαι. λαμβανέ σθωσαν γωνίαι διάφοροι· λοιπαὶ ἄρα αἱ ὑπὸ τῶν ΒΕΑ, ΘΕΖ γωνίαι ἴσαι. ὁμοίως δὲ δείξομεν, ὅτι καὶ πᾶσαι αἱ τῇ ΑΒ παράλληλοι ἀγόμεναι πρὸς ἴσας γωνίας ἀνακλασθήσονται πρὸς τὸ Β σημεῖον. καὶ τὰ μὲν πρὸς ἐμβολεῖς τῆς ὀρθογωνίου κώνου τομῆς κατασκευαζόμενα πυρία 〈κατὰ〉 τὸν προυποδεδειγμένον τρόπον ῥᾳδίως ἂν ἐξάπτοιτο πρὸς τῷ δεδομένῳ· τὰ δὲ περὶ τὰς τοῦ κύκλου περιφερείας πάλιν ὑποδεικτέον πηλίκῃ τε περιφερείᾳ καὶ ποῦ τὴν ἔξαψιν 〈ποι〉ή〈σε〉ται. οἱ μὲν οὖν παλαιοὶ δ〈ιέ〉λαβον τὴν ἔξαψιν ποιεῖσθαι περὶ τὸ κέντρον τοῦ κατόπτρου, τοῦτο δὲ ψεῦδος Ἀπολλώνιος μάλα δεόν〈τωσ〉 ....... πρὸς τοὺς κατοπτρ〈ικ〉οὺς ἔδειξε〈ν〉, καὶ περὶ τίνα δὲ τόπον ἡ ἐκπύρωσις ἔσται, διασεσάφηκεν ἐν τῷ περὶ τοῦ πυρίου. ὃν δὲ τρόπον ἀποδεικνύουσιν οὐ δια...............δε, ὃ καὶ δυσέργως καὶ διὰ μακροτέρων συνίστησιν. οὐ μὴν ἀλλὰ | τὰς μὲν ὑπ’ αὐτοῦ κομιζομένας ἀποδείξεις παρῶμεν, ἃς δ’ αὐτοὶ προσφέρομεν, ἐκθέσθαι πειραθῶμεν, οὐχ ὡς ἀντιπαρατιθέντες ἐκείναις ταῖς ἀποδείξεσιν· τοῦτο γὰρ ὡς ἀληθῶς κύκνοις χελιδόν〈α〉 εἰς ἴσον ἐλθεῖν· ἀλλ’ ὡς αὐτοὶ δεδυνημένοι προσυποθέσθαι τοῖς χρηστομαθοῦσιν ἐν μαθήμασιν εἰρημένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "ἐκκείσθω κύκλου περιφέρεια ἡ ΑΒΓ, ἐν ᾗ ἡ ΑΓ ἔστω [Omitted graphic marker] τετραγώνου πλευρά, κέντρον δὲ τοῦ κύκλου τὸ Δ, καὶ ἡ ΔΕΒ ἤχθω κάθετος ἐπὶ τὴν ΑΓ, καὶ δίχα ἡ ΒΔ τῷ Θ, καὶ ἀπὸ τυχόντος σημείου τῇ ΔΒ παράλληλος ἤχθω ἡ ΖΗ. λέγω, ὅτι ἡ ΖΗ ἀνακλασθήσεται πρὸς ἴσην γωνίαν μεταξὺ τῶν Ε, Θ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "ἐπεζεύχθωσαν γὰρ αἱ ΔΗ, ΗΘ, ΗΕ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "55",
+      "text": "ἐπεὶ ἡ ΘΒ διὰ τοῦ κέντρου ἐστί, μείζων ἡ ΘΗ τῆς ΘΒ. ἴση δὲ ἡ ΘΒ τῇ ΘΔ· ὑπόκειται γάρ· μείζων ἄρα ἐστὶν ἡ ΗΘ τῆς ΔΘ. μείζων ἄρα ἐστὶν ἡ ὑπὸ τῶν ΘΔΗ γωνία, τουτέστιν ἡ ὑπὸ ΔΗΖ· ἐν γὰρ παραλλήλοις αἱ ἐναλλάξ· τῆς ὑπὸ ΔΗΘ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "ἐπεὶ δὲ μείζων ἐστὶν ἡ ΓΕ τῆς ΕΗ· ἀπώτερον μὲν γὰρ ἡ ΕΓ τῆς διὰ τοῦ κέντρου, ἔγγιον δὲ ἡ ΕΗ· ἴση δὲ ἡ ΓΕ τῇ ΕΔ, ὡς δείξομεν, μείζων ἄρα ἐστὶν ἡ ΕΔ τῆς ΕΗ· μείζων ἄρα καὶ γωνία ἡ ὑπὸ τῶν ΕΗΔ τῆς ὑπὸ ΕΔΗ, τουτέστι τῆς ὑπὸ τῶν ΔΗΖ. ἐλάσσων δὲ ἐδείχθη ἡ ὑπὸ τῶν ΘΗΔ τῆς ὑπὸ ΔΗΖ· ἡ ἄρα ὑπὸ τῶν ΔΗΖ τῆς μὲν ὑπὸ τῶν ΘΗΔ ἐστι μείζων, τῆς δὲ ὑπὸ τῶν ΕΗΔ ἐλάσσων. ἡ ἄρα τῇ ὑπὸ τῶν ΔΗΖ ἴση συνισταμένη μεταξὺ τῶν Ε, Θ σημείων πεσεῖται. ἔστω ἡ ὑπὸ τῶν ΚΗΔ ἴση τῇ ὑπὸ τῶν ΔΗΖ. ἔστι δὲ καὶ ἡ ὑπὸ τῶν ΔΗ〈Β〉 ἴση τῇ ὑπὸ ΔΗΓ· ἡ μὲν γὰρ ΔΗ διὰ τοῦ κέντρου οὖσα 〈ὑπόκειται, αἱ〉 δὲ τοῦ ἡμικυκλίου γωνίαι ἴσαι ἀλλήλαις· λοιπὴ ἄρα ἡ ὑπὸ τῆς ΗΖ εὐθείας καὶ τῆς ΗΓ περιφερείας γωνία ἴση ἐστὶ τῇ ὑπὸ τῆς ΗΚ εὐθείας καὶ τῆς ΗΒ περιφερείας. ὁμοίως δὲ καὶ αἱ λοιπαὶ τῇ ΒΔ παράλληλοι ἀγόμεναι ἀνακλασθήσονται πρὸς ἴσην γωνίαν μεταξὺ τῶν Ε, Θ· καὶ καθ’ ὅλην ἄρα τὴν ΑΒΓ περιφέρειαν παράλληλοι ἀγόμεναι τῇ ΒΔ ἀνακλασθήσονται πρὸς ἴσην γωνίαν μεταξὺ τῶν Ε, Θ. ἐὰν δὴ μεν〈ού〉σης τῆς ΒΔ τὸ ΑΒΓ τμῆμα περιενεχθὲν εἰς τὸ αὐτὸ ἀ〈πο〉κατασταθῇ, ἔσται σφαιρικὴ ἐπιφάνεια, πρὸς ἣν 〈αἱ〉 πρὸς 〈τὰσ〉 ἴσας γωνίας κλώμεναι παράλληλοι τῇ ΒΔ μεταξὺ τῶν Ε, Θ τὴν σύμπτωσιν ποιήσονται. κατασκευασθέντος 〈οὖν〉 κατόπτρου πρὸς τὸν ΑΒΓ ἐμβολέα καὶ τεθέντος οὕτως, ὥστε τὴν ΒΔ νεύειν ἐπὶ τὸ κέντρον τοῦ ἡλίου, αἱ ἀπὸ τοῦ ἡλίου φερόμεναι ἀκτῖνες παράλληλοι μὲν τῇ ΒΔ ἐνεχθή σονται, προσπίπτουσαι δὲ τῇ ἐπιφανείᾳ. [Omitted graphic marker] | .....ειργασμένο〈σ〉 ... ἐπεὶ οὖν ἐστιν, ὡς ὁ ΕΓ κίων πρὸς τὸν Α〈Ι〉 κίονα, ὁ ἀπὸ τῆς ΡΓ κύβος πρὸς τὸν ἀπὸ τῆς ΝΙ κύβον, ὡς δὲ ὁ ἀπὸ τῆς ΡΓ κύβος πρὸς τὸν ἀπὸ τῆς ΝΙ κύβον, ἡ ΡΓ πρὸς τὴν .., φανερόν, 〈ὅτι〉 ἔσται καί, ὡς ὁ ΕΓ κίων πρὸς τὸν ΑΙ κίονα, ..... πρὸς ..... πρὸς .. τὸν αὐτὸν τῷ δοθέντι ........... 〈τὸν αὐ〉τὸν τῷ δοθέντι. ὡς δὲ οἱ ΡΗ, ΑΙ κίονες πρὸς ἀλλήλους ..... καὶ οἱ ΝΑ ..... ................. ἀντιπεπονθότα ὑπάρχει, κατὰ τὴν ἱστορίαν δείκνυνται καὶ παρὰ Ἀρχιμήδει καὶ παρὰ Ἀπολλωνίῳ καθαρῶς, ὥστε οὐκ ἀναγκαῖον ἡμᾶς πάλιν δεικνύναι, λαμβάνειν δὲ ἐξ ἑτοίμου χρήσιμον. τὸ μέντοι γε παρακολουθοῦν ἀναγκαῖον οὐκ ἄξιον παραπέμψαι· τῶν γὰρ τοιούτων ζήτησις οἰκεία καὶ παντελῶς, ὡς ἔφην, τῷ δικαίως ἂν κληθέντι Μουσῶν υἱῷ προσήκουσα. πρῶτον μὲν γὰρ παντὸς στερεοῦ σχήματος αἰρομένου πρός τι μετέωρον εὐχερεστέρα γίνεται διὰ τῆς μηχανικῆς ὁλκή, ὁπόταν ἐκ τοῦ κέντρου τοῦ βάρους ὅπλον ἐξαφθῇ μὴ γινομένου γὰρ τούτου δυσχερὴς τοῖς ἕλκουσιν ἡ ἀναγωγὴ ἀκολουθεῖ. πᾶν γὰρ οὕτως βάρος κούφως τε καὶ ῥᾳδίως μετάγεσθαι δύναται, πρὸς ὃν ἄν τις προαιρῆται τόπον, ὁπόταν ἐκ τοῦ κέντρου τοῦ βάρους ἄγηται. πρὸς δὲ τούτοις πολλῶν ὄντων φιλοσόφων ἐν τοῖς μηχανικοῖς ἀποδεδώκασιν παρακειμένην τήνδε τὴν ὑπό μνησιν· τὰ γοῦν δόρατα καὶ ὅσα ἄλλα τούτοις ἔχει παραπλησίαν τὴν χρῆσιν ἐκ μέσου μὲν αἴρεται σφόδρα εὐχερῶς· περὶ γὰρ τοῦτον τὸν τόπον ἐστὶ τὸ κέντρον· ἐκ δ’ ἄκρου πάλιν ἥττω. καὶ ἐπὶ τῶν ζυγῶν δὲ καὶ τῶν τοιούτων τὸ παραπλήσιον γίνεται· τὸ γὰρ κρεμαστὸν ἰσορροπούντων μὲν τῶν ὑποκειμένων βαρῶν εὐχερῶς ἐπιλαμβανόμενοι μετεωρίζομεν καὶ μετὰ τὸ μετεωρίσαι, πρὸς ὃν ἂν βουλώμεθα τόπον μετατίθεμεν, μὴ ληφθέντος δὲ τοῦ κέντρου μηδὲ ἰσορροπούντων τῶν ὑποκειμένων βαρῶν δυσχερῶς ὡς ἀνομοίας τῆς ἀνθολκῆς τῶν ἀντιρροπούντων ἀντικειμένης τῇ τοιαύτῃ διὰ παντὸς ὁλκῇ. προδήλου δὴ τῆς αἰτίας ὑπαρχούσης εὔγνωστον, ὡς δεῖ παντὸς σχήματος στερεοῦ κειμένου ῥᾳδίως ἄγειν τὸ βάρος ἐκ τοῦ κέντρου· εὐχερὴς γὰρ ἐκ τοῦ κέντρου τοῦ βάρους ἡ ὁλκή. πῶς δὲ .................. ἐπὶ τῆς ΝΔ παράλληλος ἐφ...... 〈β〉αρύ. καὶ πάλιν κατὰ ... ΜΞ ... τὰ τῶν ..... λαβόντες καὶ διὰ τῶν ..... γενο μένων σημείων ..... κανονίῳ δι’ αὐ......α γνώμων. δὲ ἡ δ. τοῦ ἡμικυ〈κλίου〉 ἡ ΓΔ ...... ποίας δὲ λου.....λόμεθα δὲ ... .............. λόμεθα διὰ .........",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "58",
+      "text": "........ (legi nequit).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vdg-ab",
+      "title": {
+        "english": "On Paradoxical Machines",
+        "ancient_greek": "Περὶ παραδόξων μηχανημάτων"
+      },
+      "url_slug": "anthemius-of-tralles-paradoxical-machines-vdg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anthemius-of-tralles/paradoxical-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/paradoxical-machines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/paradoxical-machines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/paradoxical-machines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/paradoxical-machines.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "phs-ah",
+      "title": {
+        "english": "Appearances",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "ptolemy-of-alexandria-appearances-phs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/appearances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ab",
+      "title": {
+        "english": "Commentary-Ptolemy's Mathematical Syntax I–IV",
+        "ancient_greek": "Ὑπόμνημα εἰς Πτολεμαίου Μαθηματικὴν Σύνταξιν Α'-Δ'"
+      },
+      "url_slug": "theon-of-alexandria-commentary-ptolemy-syntax-spw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/commentary-ptolemy-syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/commentary-ptolemy-syntax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/commentary-ptolemy-syntax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/commentary-ptolemy-syntax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/commentary-ptolemy-syntax.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theon-of-alexandria-epigrams-spw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "owy-ae",
+      "title": {
+        "english": "Excerpts",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "nicomachus-of-gerasa-excerpts-owy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-of-gerasa/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-an",
+      "title": {
+        "english": "On Archimedean Polyhedra",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archimedes-of-syracuse-polyhedra-ixo-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/polyhedra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/polyhedra.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-ai",
+      "title": {
+        "english": "On Spiral Lines",
+        "ancient_greek": "Περὶ Ἑλίκων Γραμμῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-spirals-ixo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/spirals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/spirals.json"
+      }
+    },
+    {
+      "eul_wid": "pim-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theon-of-smyrna-ii-testimonies-pim-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-smyrna-ii/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-smyrna-ii/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theon-of-alexandria-testimonies-spw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anthemius-of-tralles/mathematical-fragment",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

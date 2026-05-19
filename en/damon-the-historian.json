@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "eni",
+  "auth_slug": "damon-the-historian",
+  "name": {
+    "english": "Damon the Historian",
+    "ancient_greek": "Δάμων ὁ Ἀθηναῖος (ὁ ἐξ Οἴης)"
+  },
+  "seo_h1": "Damon of Athens on Music and Civic Virtue",
+  "seo": {
+    "browser_title": "Damon of Athens Music Theorist on Eulogikon Greek Archive",
+    "meta_title": "Classical Damon of Athens Ancient Greek Music Theory Works",
+    "meta_description": "Damon of Athens, 5th century BCE music theorist. Surviving fragments on harmonics and education. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Damon of Athens was a music theorist and sophist active in the mid-5th century BCE, flourishing around 440–420 BCE. A contemporary and associate of Pericles, he was a student of the sophist Prodicus and possibly the Pythagorean Lamprocles. Ancient sources describe him as a close advisor to Pericles, with Plutarch noting that Damon concealed his sophistic cleverness behind the guise of music instruction. His political influence was considerable, leading to his ostracism from Athens, likely around 443/2 BCE, often interpreted as a reaction to his perceived sway over Pericles or his controversial intellectual associations. He was later recalled from exile. A citizen of the Athenian deme Oe, his expertise lay in the theory of mousikē, which integrated poetry, melody, and rhythm as a cultural and educational force.</p>\n<p class=\"research-text\">Damon is credited with developing theories on the ethical and political effects of musical modes and rhythms on the human soul, known as the ēthos theory. He argued that alterations in a city&#x27;s music could precipitate changes in its fundamental laws. This positioned his work at the intersection of sophistic pedagogy, political theory, and harmonics. None of Damon&#x27;s own writings survive. Knowledge of his theories derives entirely from fragments, testimonia, and reports in later authors such as Plato, Aristides Quintilianus, and Plutarch. Specific titles of works are uncertain and come from late sources; the approved references discuss only his doctrines as transmitted by others.</p>\n<p class=\"research-text\">Damon is a pivotal but shadowy figure in Greek intellectual history. He represents the early systematic theorization of music, particularly its psychological and social dimensions. His ēthos theory, proposing a direct causal link between musical structures and the character of individuals and the state, was highly influential. Plato critically examined and developed this theory in the Republic and the Laws, where the educational and political regulation of music is a major theme. Through Plato, Damon&#x27;s ideas profoundly shaped subsequent Western thought on aesthetics, education, and politics. His role as a sophist and advisor to Pericles also makes him significant for understanding the intellectual milieu of Periclean Athens and the practical intersection of philosophical theory and political power.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 2,
+  "works": [
+    {
+      "eul_wid": "eni-ab",
+      "title": {
+        "english": "Fragments on Music and Virtue",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μουσικῆς καὶ Ἀρετῆς"
+      },
+      "url_slug": "damon-the-historian-music-virtue-eni-ab",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/damon-the-historian/music-virtue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/music-virtue.json"
+      }
+    },
+    {
+      "eul_wid": "eni-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "damon-the-historian-testimonies-eni-aa",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/damon-the-historian/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damon-the-historian/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/damon-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

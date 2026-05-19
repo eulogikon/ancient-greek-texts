@@ -1,0 +1,218 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hhq-aa",
+  "eul_aid": "hhq",
+  "author_slug": "crantor-of-soli",
+  "work_slug": "fragments",
+  "url_slug": "crantor-of-soli-fragments-hhq-aa",
+  "author": {
+    "english": "Crantor of Soli",
+    "ancient_greek": "Κράντωρ ὁ Σολεύς"
+  },
+  "title": {
+    "english": "Fragments and Title",
+    "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+  },
+  "seo": {
+    "browser_title": "Philosophical Fragments of Crantor of Soli on Eulogikon",
+    "meta_title": "Classical Fragments by Crantor of Soli in Ancient Greek",
+    "meta_description": "Surviving fragments from the early Hellenistic Academic philosopher Crantor of Soli. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (phi, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The surviving fragments attributed to Crantor of Soli represent the sole evidence for the writings of this early Hellenistic philosopher of the Platonic Academy. No complete treatise by Crantor has been preserved; our understanding of his work derives entirely from quotations and reports in later authors. His most historically significant composition was a commentary on Plato&#x27;s <strong>Timaeus</strong>, which is recognized as the first known commentary on a Platonic dialogue. In this work, Crantor sought to defend Plato&#x27;s cosmology against rival philosophical schools, and he is noted for having argued in favor of a literal interpretation of the dialogue&#x27;s account of the world&#x27;s creation. He also authored an influential ethical treatise, <strong>On Grief</strong>, which provided philosophical consolation and practical advice for managing sorrow, thereby establishing a model for the later consolation genre. These writings were intended for a philosophical audience and engaged directly with the doctrinal debates of the early Hellenistic period. The transmission of his thought is entirely indirect, relying on sources such as Cicero, Proclus, and Plutarch, from whom modern scholars have identified and compiled the extant fragments.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "345",
+      "text": "εἰς Ἔρωτα οὐκ ἔστι πενίας οὐδὲν ἀθλιώτερον ἐν τῷ βίῳ σύμπτωμα· καὶ γὰρ ἂν φύσει σπουδαῖος ᾖς, πένης δέ, κατάγελως ἔσῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "346",
+      "text": "τὸ γὰρ διάφορον καὶ φρονίμους πάντας ποεῖ, τὸ σωφρονεῖν δ’ ἔνεστιν ἐν τούτῳ μόνῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hhq-ab",
+      "title": {
+        "english": "Commentary on Plato's Atlantis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crantor-of-soli-atlantis-commentary-hhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crantor-of-soli/atlantis-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/atlantis-commentary.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-ct",
+      "title": {
+        "english": "Amatory Narratives",
+        "ancient_greek": "Ἐρωτικαὶ διγηήσεις"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-narratives-okg-ct",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory-narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.json"
+      }
+    },
+    {
+      "eul_wid": "hks-aa",
+      "title": {
+        "english": "Bion's Philosophical Autobiography",
+        "ancient_greek": "Ἐπιτάφιος Ἀδώνιδος"
+      },
+      "url_slug": "bion-of-borysthenes-philosophical-autobiography-hks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-borysthenes/philosophical-autobiography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/philosophical-autobiography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/philosophical-autobiography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/philosophical-autobiography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/philosophical-autobiography.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dn",
+      "title": {
+        "english": "Fabius Maximus",
+        "ancient_greek": "Φάβιος Μάξιμος"
+      },
+      "url_slug": "plutarch-of-chaeronea-fabius-maximus-okg-dn",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/fabius-maximus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fabius-maximus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fabius-maximus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fabius-maximus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/fabius-maximus.json"
+      }
+    },
+    {
+      "eul_wid": "hui-aa",
+      "title": {
+        "english": "Fragments of Uncertain Position",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Θέσεως"
+      },
+      "url_slug": "epicurus-uncertain-fragments-hui-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "vnq-aa",
+      "title": {
+        "english": "Greek Commentaries-Aristotle",
+        "ancient_greek": "Ἑλληνικὰ σχόλια εἰς Ἀριστοτέλην"
+      },
+      "url_slug": "aristotle-commentary-anonymous-greek-commentaries-vnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle-commentary-anonymous/greek-commentaries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous/greek-commentaries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous/greek-commentaries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous/greek-commentaries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle-commentary-anonymous/greek-commentaries.json"
+      }
+    },
+    {
+      "eul_wid": "udm-av",
+      "title": {
+        "english": "On Abstinence",
+        "ancient_greek": "Περὶ Ἀποχῆς"
+      },
+      "url_slug": "porphyry-of-tyre-abstinence-udm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/porphyry-of-tyre/abstinence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/porphyry-of-tyre/abstinence.json"
+      }
+    },
+    {
+      "eul_wid": "ayq-ad",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "seven-sages-of-greece-sentences-ayq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/seven-sages-of-greece/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seven-sages-of-greece/sentences.json"
+      }
+    },
+    {
+      "eul_wid": "die-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "empedocles-of-acragas-testimonies-die-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/empedocles-of-acragas/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/empedocles-of-acragas/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crantor-of-soli/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crantor-of-soli/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

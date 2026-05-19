@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "clc-aa",
+  "eul_aid": "clc",
+  "author_slug": "aristombrotus-the-philosopher",
+  "work_slug": "vision-light",
+  "url_slug": "aristombrotus-the-philosopher-vision-light-clc-aa",
+  "author": {
+    "english": "Aristombrotus the Philosopher",
+    "ancient_greek": "Ἀριστόμβροτος ὁ φιλόσοφος"
+  },
+  "title": {
+    "english": "On Vision and Light",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "The On Vision and Light by Aristombrotus on Eulogikon",
+    "meta_title": "On Vision and Light by Aristombrotus in Ancient Greek",
+    "meta_description": "A treatise on vision and light by Aristombrotus. Explores ancient theories of perception. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Peripatetic",
+      "href": "/affiliations/peripatetic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The treatise <strong>On Vision and Light</strong> by Aristombrotus the Philosopher is known only by its title and its designation as a philosophical work. The Greek term <strong>Apospasma</strong>, meaning &quot;Extract&quot; or &quot;Fragment,&quot; indicates the text is either incomplete or composed of excerpts, with metadata specifying it contains two passages. No content or arguments from the work are recorded in authoritative sources, and the author himself is unattested in major catalogs of ancient philosophers. Based solely on its title, the treatise addressed the nature of vision and light, subjects central to ancient natural philosophy. The work is lost, and its existence is noted only in the provided metadata; it is absent from standard fragment collections. The title suggests the two passages may be quotations preserved by a later, unidentified author. While the title places the work within a significant philosophical discourse, the complete absence of the text and its author from the historical record precludes any assessment of its specific intellectual contribution or influence.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "53 (24t)",
+      "text": "Περὶ ὄψεως Stob. 1.52.21 p. 490 Wa. Ἀριστομβρότου Περὶ ὄψεως. ὄψις καὶ φῶς καὶ ἀὴρ φυσικὴν ἔχει σύγκρασίν τε καὶ συγγένειαν ποτ’ ἄλλαλα. [λαμπρῶς ὁρῆ] καὶ 〈γὰρ〉 ἀὴρ πᾶς τῷ λαμπρῷ διορῆται· συμβέβηκε δὲ καὶ τὴν ὄψιν καὶ τὸν ἀέρα εἶμεν 〈μέλαν〉, ἀλλὰ τὴν μὲν ὄψιν μέλαιναν καὶ ὑγράν, τὸν δὲ ἀέρα μέλανα καὶ ἀραιόν· ἐνυπόκειται δὲ καὶ τῇ ὄψει καὶ τῷ ἀέρι [καὶ] τὸ δυνάμει διαφανές, ἀλλὰ τᾷ μὲν ὄψει τὸ συγγενὲς φῶς, τῷ δὲ ἀέρι τὸ ἀπὸ τῶ ἁλίω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "54",
+      "text": "ὅτι δ’ ἁ ὄψις ὑγρὰ ἔασσα φάος ἔχει συγγενές, δείξαιτο κά τις ἐκ τῶνδε· πρᾶτον μὲν τῷ διαφανέα καὶ λαμπρὰν εἶμεν· πᾶν γὰρ τὸ διαφανὲς καὶ λαμπρὸν οὐκ ἄνευ τινὸς 〈φάεος· τὸ δὲ〉 φάος ἐκ τᾶς ὄψιος ἢ διά τινος παραθλίψεως ἢ καὶ παρατρίψεως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-aq",
+      "title": {
+        "english": "Comparison of Alcibiades and Coriolanus",
+        "ancient_greek": "Ἀλκιβιάδου καὶ Κοριολὰνου σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-alcibiades-coriolanus-okg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades-coriolanus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades-coriolanus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades-coriolanus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades-coriolanus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades-coriolanus.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bi",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "aristotle-exhortation-hgw-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "chq-aa",
+      "title": {
+        "english": "Fragments on Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀνθρωπίνης Ἀρετῆς"
+      },
+      "url_slug": "iamblichus-anon-human-excellence-chq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-anon/human-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-anon/human-excellence.json"
+      }
+    },
+    {
+      "eul_wid": "reo-ad",
+      "title": {
+        "english": "On Aristotle's Meteorology Books, Commentary",
+        "ancient_greek": "Εἰς τὰ Μετεωρολογικὰ Βιβλία Ἀριστοτέλους"
+      },
+      "url_slug": "alexander-of-aphrodisias-meteorology-commentary-reo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/meteorology-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/meteorology-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/meteorology-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/meteorology-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/meteorology-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "msu-aa",
+      "title": {
+        "english": "On the Existing Books of Music",
+        "ancient_greek": "Περὶ τῶν ὑπαρχόντων βιβλίων μουσικῆς"
+      },
+      "url_slug": "philodemus-of-gadara-existing-music-books-msu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philodemus-of-gadara/existing-music-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/existing-music-books.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/existing-music-books.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/existing-music-books.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philodemus-of-gadara/existing-music-books.json"
+      }
+    },
+    {
+      "eul_wid": "udw-ae",
+      "title": {
+        "english": "On the Mysteries",
+        "ancient_greek": "Περὶ τῶν Μυστηρίων"
+      },
+      "url_slug": "iamblichus-of-chalcis-mysteries-udw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/mysteries.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ag",
+      "title": {
+        "english": "On the Soul Hindered by the Body's Passion",
+        "ancient_greek": "Περὶ τῆς ὑπὸ τοῦ πάθους τοῦ σώματος"
+      },
+      "url_slug": "hermetica-soul-hindered-passion-oqk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/soul-hindered-passion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-al",
+      "title": {
+        "english": "Theological Instruction",
+        "ancient_greek": "Θεολογικὴ Διδασκαλία"
+      },
+      "url_slug": "proclus-the-successor-theological-instruction-uqy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/theological-instruction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/theological-instruction.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristombrotus-the-philosopher/vision-light",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristombrotus-the-philosopher/vision-light.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristombrotus-the-philosopher/vision-light.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristombrotus-the-philosopher/vision-light.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristombrotus-the-philosopher/vision-light.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gpe",
+  "auth_slug": "dionysius-of-chalcis",
+  "name": {
+    "english": "Dionysius of Chalcis",
+    "ancient_greek": "Διονύσιος ὁ Χαλκιδεύς"
+  },
+  "seo_h1": "Dionysius of Chalcis on the Foundations of Cities",
+  "seo": {
+    "browser_title": "Dionysius of Chalcis on Eulogikon Greek Text Archive",
+    "meta_title": "Dionysius of Chalcis Ancient Greek Historical Works",
+    "meta_description": "Dionysius of Chalcis was a 4th century BCE historian writing in Attic Greek. His surviving fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius of Chalcis was a Greek historian from Chalcis in Euboea, active during the 4th century BCE. He is sometimes called Dionysius Scytobrachion, an epithet shared with another writer, which has caused some confusion in the sources. His work focused on the history of Alexander the Great and the Wars of the Diadochi.</p>\n<p class=\"research-text\">His only known work is the History of the Diadochi, which is not extant but survives in fragments. It chronicled the events following Alexander’s death in 323 BCE, likely extending into the early 3rd century BCE.</p>\n<p class=\"research-text\">As a fragmentary historian, Dionysius provides a source for the early Hellenistic period. Later historians, such as Diodorus Siculus, used his work in their own accounts. His fragments are collected in Felix Jacoby’s Die Fragmente der griechischen Historiker, and his main significance lies in his contribution to the transmission of knowledge about the successor kingdoms.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gpe-aa",
+      "title": {
+        "english": "Foundations of Cities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-of-chalcis-foundations-cities-gpe-aa",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-chalcis/foundations-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis/foundations-cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis/foundations-cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis/foundations-cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-chalcis/foundations-cities.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-of-chalcis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-chalcis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-chalcis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-chalcis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-of-chalcis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

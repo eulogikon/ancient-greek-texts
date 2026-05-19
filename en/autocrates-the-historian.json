@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "knw",
+  "auth_slug": "autocrates-the-historian",
+  "name": {
+    "english": "Autocrates the Historian",
+    "ancient_greek": "Αὐτοκράτης ὁ Ἱστορικός"
+  },
+  "seo_h1": "Autocrates the Historian on Achaean Cults",
+  "seo": {
+    "browser_title": "Autocrates the Historian on Eulogikon Greek Archive",
+    "meta_title": "Autocrates the Historian Ancient Greek Historical Works",
+    "meta_description": "Autocrates was a Hellenistic historian of the 3rd to 2nd century BCE. His surviving historical work is fragmentary. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Autocrates the Historian was a Hellenistic author of the 3rd–2nd century BCE. His existence is attested solely by a single citation in Athenaeus of Naucratis, who references his work on Thessaly. No biographical details survive.</p>\n<p class=\"research-text\">His only known work is the <strong>Thessalica</strong>, a lost regional history of Thessaly. A single fragment from this text is preserved in Athenaeus’s <strong>Deipnosophistae</strong>.</p>\n<p class=\"research-text\">Autocrates represents the prolific tradition of local historians in the Hellenistic period. His significance lies entirely in his status as a fragmentary author, providing a minor example of the vast body of lost regional historical literature from this era.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "knw-aa",
+      "title": {
+        "english": "Fragments on Achaean Cults",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἀχαιϊκῶν Ἱερῶν"
+      },
+      "url_slug": "autocrates-the-historian-achaean-cults-knw-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/autocrates-the-historian/achaean-cults",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/autocrates-the-historian/achaean-cults.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/autocrates-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/autocrates-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

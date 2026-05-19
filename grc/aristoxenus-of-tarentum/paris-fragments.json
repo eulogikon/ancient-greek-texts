@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hhg-ad",
+  "eul_aid": "hhg",
+  "author_slug": "aristoxenus-of-tarentum",
+  "work_slug": "paris-fragments",
+  "url_slug": "aristoxenus-of-tarentum-paris-fragments-hhg-ad",
+  "author": {
+    "english": "Aristoxenus of Tarentum",
+    "ancient_greek": "Ἀριστόξενος ὁ Ταραντῖνος"
+  },
+  "title": {
+    "english": "Paris Fragments",
+    "ancient_greek": "Ἀποσπάσματα Παρισινά"
+  },
+  "seo": {
+    "browser_title": "The Paris Fragments of Aristoxenus on Eulogikon Archive",
+    "meta_title": "Classical Paris Fragments by Aristoxenus in Ancient Greek",
+    "meta_description": "The Paris Fragments contain excerpts from Aristoxenus. They explore musical theory philosophy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Paris Fragments</strong> are two brief passages attributed to the Peripatetic philosopher and music theorist Aristoxenus of Tarentum. Preserved solely in a 14th-century manuscript, they were first published in the late 19th century. The text addresses the systematic classification of musical instruments, a subject known as organology. The first fragment establishes a primary categorization based on the method of sound production, identifying instruments that are struck, those that are plucked, and those that are blown. The second fragment further subdivides the wind instruments into those activated by a direct mouthpiece and those employing a reed. Transmitted fragmentarily in a single manuscript, the attribution to Aristoxenus rests on the manuscript heading and the doctrinal consistency of the content with his empirical, Aristotelian approach to musical science. While their original context within his larger corpus is lost, these fragments are significant for demonstrating the extension of his systematic method beyond the fields of harmonics and rhythm into the study of instruments. The tripartite classification system they present exerted a discernible influence on later antique and medieval music theory.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "27 (1t)",
+      "text": "FRAGMENTA PARISINA Cod. bibl. imp. Par. 3027 Fol. 33 lin. 9 sq. Τρία εἰσὶ τὰ ῥυθμιζόμενα, λέξις, μέλος, κίνησις σωματική, ὥστε διαιρήσει τὸν χρόνον ἡ μὲν λέξις τοῖς αὑτῆς μέρεσιν οἷον γράμμασι καὶ συλλαβαῖς καὶ ῥήμασι καὶ πᾶσι τοῖς τοιούτοις· τὸ δὲ μέλος τοῖς αὑτοῦ φθόγγοις τε καὶ διαστήμασιν· ἡ δὲ κίνησις σημείοις τε καὶ σχήμασι καὶ εἴ τι τοιοῦτό ἐστι κινήσεως μέρος ἐπὶ τούτοις. Ἔστιν ὁ ῥυθμὸς Ὁ δὲ αὐτὸς ῥυθμὸς οὔτε περὶ γραμμάτων οὔτε περὶ συλλαβῶν ποιεῖται τὸν λόγον, ἀλλὰ περὶ τῶν χρόνων, τοὺς μὲν ἐκτείνειν κελεύων, τοὺς δὲ συνάγειν, τοὺς δὲ ἴσους ποιεῖν ἀλλήλοις. καὶ τοῦτο ποιοῦμεν ὄντων συλλαβῶν καὶ τῶν γραμμάτων. Πᾶς ὁ κατὰ βάσιν γινόμενος χρόνος διορισμοῦ δύναμιν ἔχει. Ἀλλὰ καὶ ὅτε μὲν προτέραν συλλαβὴν μηκέτι φθέγγεται, τὴν δευτέραν μηδέπω, τοῦτον τὸν χρόνον σιωπήσῃ ἀντέχεσθαι. Fol. 31 lin. 20 sq. Λεκτέον καὶ περὶ ποδὸς τί ποτέ ἐστι. καθόλου μὲν νοητέον πόδα ᾧ σημαινόμεθα τὸν ῥυθμὸν καὶ γνώριμον ποιοῦμεν τῇ αἰσθήσει. Ὡρισμένοι δέ εἰσι τῶν ποδῶν οἱ μὲν λόγῳ τινί, οἱ δὲ ἀλογίᾳ κειμένῃ μεταξὺ δύο λόγων γνωρίμων, ὥστε εἶναι φανερὸν ἐκ τούτων, ὅτι ὁ ποὺς λόγος τίς ἐστιν ἐν χρόνοις κείμενος ἢ ἀλογία ἐν χρόνοις κειμένη εἰρημένον ἀφορισμὸν ἔχουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Τῶν δὲ χρόνων οἱ μὲν εὔρυθμοι, οἱ δὲ ῥυθμοειδεῖς, οἱ δὲ ἄρρυθμοι. Εὔρυθμοι μὲν οἱ διαφυλάττοντες ἀκριβῶς τὴν πρὸς ἀλλήλοις εὔρυθμον τάξιν· ῥυθμοειδεῖς δὲ οἱ τὴν μὲν εἰρημένην ἀκρίβειαν μὴ σφόδρα ἔχοντες, φαίνοντες δὲ ὅμως ῥυθμοῦ τινος εἶδος· ἄρρυθμοι δὲ οἱ πάντη καὶ πάντως ἄγνωστοι ἔχοντες πρὸς ἀλλήλοις σύνθεσιν. Γνώριμος δὲ γίνεται ποὺς ἐξ ἄρσεως καὶ θέσεως συγκείμενον σύστημα. ἄρσις δέ ἐστιν ὁ μείζων ὅλως τῆς ἰδίας ἄρσεως Λόγοι δέ εἰσι ῥυθμικοί, καθ’ οὓς συνίστανταί οἱ ῥυθμοὶ οἱ δυνάμενοι συνεχῆ ῥυθμοποιίαν ἐπιδέξασθαι, τρεῖς· ἴσος, διπλασίων, ἡμιόλιος. Ἐν μὲν γὰρ τῷ ἴσῳ τὸ δακτυλικὸν γίνεται γένος, ἐν δὲ τῷ διπλασίῳ τὸ ἰαμβικόν, ἐν δὲ τῷ ἡμιολίῳ τὸ παιωνικόν. Ἄρχεται δὲ τὸ δακτυλικὸν ἀπὸ τετρασήμου ἀγωγῆς, αὔξεται δὲ μέχρι ἑκκαιδεκασήμου, ὥστε γίνεσθαι τὸν μέγιστον πόδα τοῦ ἐλαχίστου τετραπλάσιον. ἔστι δὲ ὅτε καὶ ἐν δισήμῳ γίνεται δακτυλικὸς πούς· τὸ δὲ ἰαμβικὸν γένος ἄρχεται μὲν ἀπὸ τρισήμου ἀγωγῆς, αὔξεται δὲ μέχρι ὀκτωκαιδεκασήμου, ὥστε γίνεσθαι τὸν μέγιστον πόδα τοῦ ἐλαχίστου ἑξαπλάσιον. τὸ δὲ παιωνικὸν ἄρχεται μὲν ἀπὸ πεντασήμου ἀγωγῆς, αὔξεται δὲ μέχρι πεντεκαιεικοσασήμου, ὥστε γίνεσθαι τὸν μέγιστον πόδα τοῦ ἐλαχίστου πενταπλάσιον. Διαφέρουσι δὲ οἱ μείζονες πόδες τῶν ἐλαττόνων ἐν τῷ αὐτῷ γένει ἀγωγῇ. ἔστι δὲ ἀγωγὴ ῥυθμοῦ τῶν ἐν(τ)αὐτῷ λόγῳ ποδῶν κατὰ μέγεθος διαφορά, οἷον ὁ τρίσημος ἰαμβικός, ὁ σημεῖον συνέχων (ἓν) ἐν ἄρσει καὶ διπλάσιον ἐν θέσει, (καὶ ὁ ἑξάσημος ἰαμβικός, ὁ σημεῖα δύο συνέχων ἐν ἄρσει καὶ διπλάσιον ἐν θέσει.) τῶν γὰρ τριῶν ἡ διαίρεσις εἰς (ἓν) σημεῖον καὶ διπλάσιον γίνεται τῶν τε ἓξ ὁμοίως. οὗτοι οὖν (οἱ) πόδες, μεγέθει ἀλλήλων διαφέροντες, γένει καὶ τῇ διαιρέσει τῶν ποδικῶν σημείων οἱ αὐτοί εἰσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hhg-ab",
+      "title": {
+        "english": "Elements of Rhythm (Extended)",
+        "ancient_greek": "Στοιχεῖα Ῥυθμικὰ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-rhythm-ab-hhg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-aa",
+      "title": {
+        "english": "Elements of Rhythm (Short)",
+        "ancient_greek": "Στοιχεῖα Ῥυθμικὰ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-rhythm-aa-hhg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/rhythm-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/rhythm-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-af",
+      "title": {
+        "english": "Fragments on Poetic Meter",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μέτρου Ποιητικοῦ"
+      },
+      "url_slug": "aristoxenus-of-tarentum-poetic-meter-hhg-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/poetic-meter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/poetic-meter.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-ae",
+      "title": {
+        "english": "Fragments on Pythagoras's Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Πυθαγόρου Βίου"
+      },
+      "url_slug": "aristoxenus-of-tarentum-pythagoras-life-hhg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/pythagoras-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/pythagoras-life.json"
+      }
+    },
+    {
+      "eul_wid": "hhg-ac",
+      "title": {
+        "english": "Harmonic Elements",
+        "ancient_greek": "Ἁρμονικὰ στοιχεῖα"
+      },
+      "url_slug": "aristoxenus-of-tarentum-harmonic-elements-hhg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/harmonic-elements",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/harmonic-elements.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "odi-ae",
+      "title": {
+        "english": "Book of Agriculture",
+        "ancient_greek": "Γεωπονικόν"
+      },
+      "url_slug": "hero-of-alexandria-agriculture-odi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/agriculture",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/agriculture.json"
+      }
+    },
+    {
+      "eul_wid": "odi-aa",
+      "title": {
+        "english": "Construction and Symmetry of the Hand Ballista",
+        "ancient_greek": "Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία"
+      },
+      "url_slug": "hero-of-alexandria-hand-ballista-odi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/hand-ballista",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/hand-ballista.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-aa",
+      "title": {
+        "english": "Diagram of the Great Solar Work Compared to the Economy of the Universe",
+        "ancient_greek": "Διάγραμμα τῆς μεγάλης ἡλιουργίας παραβαλλόμενον"
+      },
+      "url_slug": "alchemist-i-solar-universe-diagram-rrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/solar-universe-diagram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-br",
+      "title": {
+        "english": "Excerpt-Bronze Men",
+        "ancient_greek": "περὶ χαλκανθρώπων"
+      },
+      "url_slug": "zosimus-of-panopolis-bronze-men-tyc-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/bronze-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/bronze-men.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-cc",
+      "title": {
+        "english": "From the Metallics",
+        "ancient_greek": "Ἐκ τῶν μεταλλικῶν"
+      },
+      "url_slug": "alchemist-i-metallics-rrg-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/metallics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallics.json"
+      }
+    },
+    {
+      "eul_wid": "qtu-aa",
+      "title": {
+        "english": "Interpretation of Dreams",
+        "ancient_greek": "Ονειροκριτικά"
+      },
+      "url_slug": "artemidorus-of-daldis-dreams-qtu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/artemidorus-of-daldis/dreams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis/dreams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis/dreams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis/dreams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/artemidorus-of-daldis/dreams.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-cd",
+      "title": {
+        "english": "Making of Crystals",
+        "ancient_greek": "Ποίησις κρυσταλλίων"
+      },
+      "url_slug": "alchemist-i-crystals-rrg-cd",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/crystals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/crystals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/crystals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/crystals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/crystals.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-al",
+      "title": {
+        "english": "On the Metallic Stone and Where It Is Made",
+        "ancient_greek": "Περὶ τοῦ μεταλλικοῦ λιθοῦ ἐν οἷς τοῖς τόποις"
+      },
+      "url_slug": "alchemist-i-metallic-stone-rrg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/metallic-stone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallic-stone.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallic-stone.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallic-stone.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/metallic-stone.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristoxenus-of-tarentum/paris-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristoxenus-of-tarentum/paris-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

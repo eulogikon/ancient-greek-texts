@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kri",
+  "auth_slug": "ptolemy-of-megalopolis",
+  "name": {
+    "english": "Ptolemy of Megalopolis",
+    "ancient_greek": "Πτολεμαῖος ὁ Μεγαλοπολίτης"
+  },
+  "seo_h1": "Ptolemy of Megalopolis on the Reign of Philopator",
+  "seo": {
+    "browser_title": "The Ptolemy of Megalopolis on Eulogikon Greek Archive",
+    "meta_title": "Ptolemy of Megalopolis Ancient Greek Historical Works",
+    "meta_description": "Ptolemy of Megalopolis, a Hellenistic historian of the 3rd–2nd century BCE. Historical fragments in Koine Greek. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Ptolemy of Megalopolis was a Greek historian from Arcadia, active during the Hellenistic period in the 3rd or 2nd century BCE. No details of his personal life or education survive.</p>\n<p class=\"research-text\">His sole known work is On Philopator, a history concerning Ptolemy IV Philopator of Egypt. The text is lost, preserved only in fragments cited by later authors.</p>\n<p class=\"research-text\">Ptolemy is a minor historian whose significance derives from his work being used as a source for the reign of Ptolemy IV. His fragments, cited by compilers like Athenaeus, represent one of many lost Hellenistic histories utilized by later tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kri-aa",
+      "title": {
+        "english": "Histories Concerning Philopator",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-megalopolis-histories-philopator-kri-aa",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/ptolemy-of-megalopolis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-of-megalopolis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-of-megalopolis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-of-megalopolis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ptolemy-of-megalopolis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

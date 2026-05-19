@@ -1,0 +1,660 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lmm-aa",
+  "eul_aid": "lmm",
+  "author_slug": "anonymous-iambic-works",
+  "work_slug": "fragments",
+  "url_slug": "anonymous-iambic-works-fragments-lmm-aa",
+  "author": {
+    "english": "Iambic Work Anonymous",
+    "ancient_greek": "Ἰαμβικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Anonymous Iambic Fragments",
+    "ancient_greek": "Ἀνώνυμα Ἰαμβικὰ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Anonymous Iambic Fragments by Anonymous on Eulogikon",
+    "meta_title": "Anonymous Iambic Fragments by Anonymous in Ancient Greek",
+    "meta_description": "Fragments of anonymous iambic poetry from ancient Greece, representing the satirical tradition. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Anonymous Iambic Fragments constitute a collection of sixty-six short passages of iambic poetry preserved within the medieval manuscript tradition. Transmitted without attribution, these pieces are distinct from the works of canonical iambic poets such as Archilochus or Hipponax. The collection features gnomic statements, concise narratives, and moralizing sentiments, all composed in iambic meters. Their themes align with the broader iambic tradition, encompassing pithy wisdom, ethical commentary on virtue and fortune, observations on social types and daily life, and a generally critical, observational tone, though one less aggressively invective than that found in early iambography. The fragments survive exclusively through their inclusion in later medieval codices, often within anthologies, grammatical treatises, or collections of maxims. Their fragmentary nature is a direct result of this process of scholarly excerpting and compilation over centuries. These pieces are significant for demonstrating the longevity and evolution of the iambic genre beyond the Archaic period, illustrating its enduring adaptability for concise, quotable poetry. They form a valuable component of the fragmentary Greek poetic corpus, offering insights for linguistic, metrical, and cultural historical study.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "περὶ σφυρὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παχεῖα μισήτη γυνή",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Πριηπίδος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τε τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πρὸ Βοσπόρου πόλεος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "φοινικελίκτην καὶ λόγων ἀλαζόνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "ἄψυχον ἄνδρα λαμβάνειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "συνέμπορον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἀνθεῦσαν ἀγαθοῖς πᾶσιν, οἷς θάλληι πόλις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "〈τοῖον〉 γὰρ οὐδὲ τοῖσιν εὐόργοις’ ἔπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "ἥ 〈τ’〉 ἄγνος ἀνθεῖ χὠ βότρυς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "πεπαίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "Ξάνθηι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "παλαιῆι γρηὶ πολλῆισιν φίληι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "Ἄβδηρα, καλὴ Τηίων ἀποικίη,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9a",
+      "text": "ἐλευθέρα Κόρκυρα· χέζ’ ὅπου θέλεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9b.1",
+      "text": "μάταια τἄλλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9b.2",
+      "text": "παρὰ Κρότωνα τἄστεα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9c",
+      "text": "ἀφνειὸς ἡ Κόρινθος 〈...〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "ἕκητι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "Συλοσῶντος εὐρυχωρίη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "⏒–⏑ δῶρα καὶ θεοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "παρήπαφεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "σοφῶς ὁ βοῦς ἔφασκεν ἀστράβην ἰδών· ‘οὐκ ἔστ’ ἐμὸν τὸ πρᾶγμα, πολλὰ χαιρέτω‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13",
+      "text": "ἵππος ὄνωι· ‘πρὸς κέντρα μὴ λακτιζέτω‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14",
+      "text": "ἀλλ’ ἦ λύκος τὰς αἶγας 〈ἐκ〉καλεῖ μολών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15",
+      "text": "ἕλκων ἐφ’ αὑτὸν ὥστε καικίας νέφος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "παχεῖα γαστὴρ λεπτὸν οὐ τίκτει νόον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16a.1",
+      "text": "†ἀγνοεῖ† δ’ ἀράχνη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16a.2",
+      "text": "παῖδας ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16a.3",
+      "text": "παιδεύεται· θρέψασα γὰρ τέθνηκε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16a.4",
+      "text": "πρὸς τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16a.5",
+      "text": "φιλτάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16b.1",
+      "text": "Μιλησία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16b.2",
+      "text": "σμάραγδος ἐμπόλημα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16b.3",
+      "text": "τιμηέστατον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "ἐμοῦ θανόντος γαῖα μειχθήτω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "πυρί· οὐδὲν μέλει μοι· τἀμὰ γὰρ καλῶς ἔχει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19",
+      "text": "μὴ πρὸς λέοντα δορκὰς ἅψωμαι μάχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "δίφρου τέτυκται βλῶσις, εὔζυγον τέρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21",
+      "text": "σκληρὰν ἄκαρπον καὶ φυτεύεσθαι κακήν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22",
+      "text": "πολλὰ δ’ ἐν μεταιχμίωι νότος κυλίνδει κύματ’ εὐρείης ἁλός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "οὐκ ἀξιῶ μικῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "σε, μεγάλα δ’ οὐκ ἔχω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24",
+      "text": "τηλοῦ φίλοι ναίοντες οὔκ εἰσιν φίλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25",
+      "text": "γηρεὶς ἐν οἰκίοισιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25a",
+      "text": "ὑμῖν ἀπόνιμμα 〈τ〉οῖς 〈τε〉 χρὴ καὶ 〈τ〉οῖς θέμις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.1",
+      "text": "βαῖνε λάξ, ἐπὶ τραχήλου βαῖνε καὶ πέλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.2",
+      "text": "χθονί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "〈τὴν〉 ἐπ’ Αἰνύρων ὁδόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.1",
+      "text": "καὶ παχυσκελὴς ἀλετρὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28.2",
+      "text": "πρὸς μύλην κινουμένη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1",
+      "text": "δῆμος ἄστατον κακόν καὶ θαλάσσηι πάνθ’ ὁμοῖον ὑπ’ ἀνέμου ῥιπίζεται, καὶ γαληνὸς ἢν τύχηι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.2",
+      "text": "πως, πνεῦμα βραχὺ κορύσσεται, κἤν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.3",
+      "text": "τις αἰτία γένηται, τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.4",
+      "text": "πολίτην κατέπιεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29Aa.1",
+      "text": "[Σῖμον, ὀρκhε̄στὰν ἄριστον], ναὶ 〈μὰ〉 τὸν Δελπhίνιον, ἐ͂̄ Κρίμο̄ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29Aa.2",
+      "text": "τε͂̄δε ὀ͂̄πhε, παῖδα Βαθυκλέος, ἀδελπhεόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29Ab.1",
+      "text": "Κρίμο̄ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29Ab.2",
+      "text": "πράτιστος ϙονιάλοισι 〈Σι〉μίαν ἰάνετο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30",
+      "text": "ἐρρέτω φίλος σὺν ἐχθρῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31",
+      "text": "δεσπότην κεκαρμένοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.1",
+      "text": "ἀλλ’ ἕπου χώρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.2",
+      "text": "τρόποις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.1",
+      "text": "πατρόθεν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33.2",
+      "text": "πορδηκίδαι",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lmm-ab",
+      "title": {
+        "english": "Anonymous Iambics",
+        "ancient_greek": "Ἀνώνυμα Ἰαμβικά"
+      },
+      "url_slug": "anonymous-iambic-works-text-lmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-iambic-works/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ajg-aa",
+      "title": {
+        "english": "Anthology, Volume V",
+        "ancient_greek": "Ἀνθολογία"
+      },
+      "url_slug": "greek-anthology-volume-5-ajg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-anthology/volume-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.json"
+      }
+    },
+    {
+      "eul_wid": "iuc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "alexander-of-aetolia-epigrams-iuc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "rto-aa",
+      "title": {
+        "english": "Fragments of Uncertain Works",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλων Ἔργων"
+      },
+      "url_slug": "anonymous-parodica-uncertain-fragments-rto-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-parodica/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-parodica/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "asm-ab",
+      "title": {
+        "english": "Fragments on War and Exile",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πολέμου καὶ Φυγῆς"
+      },
+      "url_slug": "alcaeus-of-mytilene-war-exile-asm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alcaeus-of-mytilene/war-exile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcaeus-of-mytilene/war-exile.json"
+      }
+    },
+    {
+      "eul_wid": "bfy-aa",
+      "title": {
+        "english": "Fragments on Wine and Love",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἴνου καὶ Ἔρωτος"
+      },
+      "url_slug": "anacreon-of-teos-wine-love-bfy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreon-of-teos/wine-love",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreon-of-teos/wine-love.json"
+      }
+    },
+    {
+      "eul_wid": "juq-aa",
+      "title": {
+        "english": "On the Uncertainty of Life",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hermolochus-the-lyric-poet-uncertainty-life-juq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermolochus-the-lyric-poet/uncertainty-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermolochus-the-lyric-poet/uncertainty-life.json"
+      }
+    },
+    {
+      "eul_wid": "iha-ab",
+      "title": {
+        "english": "Orphic and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hermesianax-of-colophon-orphic-mythological-fragments-iha-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermesianax-of-colophon/orphic-mythological-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermesianax-of-colophon/orphic-mythological-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mwq-ac",
+      "title": {
+        "english": "Pastoral Dialogue on the Seasons",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bion-of-smyrna-seasons-dialogue-mwq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/seasons-dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-iambic-works/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

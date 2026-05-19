@@ -1,0 +1,889 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bhm-aa",
+  "eul_aid": "bhm",
+  "author_slug": "epicharmus-syracuse",
+  "work_slug": "pseudepicharmea-aa",
+  "url_slug": "epicharmus-syracuse-pseudepicharmea-aa-bhm-aa",
+  "author": {
+    "english": "Epicharmus of Syracuse",
+    "ancient_greek": "Ἐπίχαρμος ὁ Συρακόσιος"
+  },
+  "title": {
+    "english": "Fragments of Pseudepicharmea",
+    "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Pseudepicharmea Fragments by Epicharmus on Eulogikon",
+    "meta_title": "Ancient Pseudepicharmea Fragments by Epicharmus in Greek",
+    "meta_description": "Fragments of the Pseudepicharmea, an ancient Greek comedy by Sicilian playwright Epicharmus. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Pseudepicharmea is a collection of 88 philosophical and moralizing verses spuriously attributed to the Sicilian comic poet Epicharmus. Written in Doric Greek, these gnomic fragments address themes of ethical wisdom, moderation, the nature of the soul and divinity, the value of learning and intelligence, and practical morality concerning character and friendship. Their content more closely resembles later Pythagorean or Cynic thought than the known comedies of Epicharmus. The work is lost as an independent text and survives only through quotations by later authors, most significantly the fifth-century CE anthologist Stobaeus, whose excerpts form the basis of modern editions that segregate these spurious fragments from the poet&#x27;s authentic comic remains. The Pseudepicharmea was an influential source of aphorisms, quoted by philosophers including Chrysippus and Diogenes Laërtius. Its pseudepigraphical attribution exemplifies a common practice of claiming authoritative early figures for philosophical schools, which significantly shaped the later perception of Epicharmus as a wise man beyond his original identity as a playwright.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 239.1",
+      "text": "ὁ μὲν Ἐπίχαρμος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 239.2",
+      "text": "τοὺς θεοὺς εἶναι λέγει ἀνέμους, ὕδωρ, γῆν, ἥλιον, πῦρ, ἀστέρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 245.1",
+      "text": "συνεκρίθη καὶ διεκρίθη κἀπῆλθεν ὅθεν ἦλθεν πάλιν, γᾶ μὲν εἰς γᾶν, πνεῦμα δ’ ἄνω· τί τῶνδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 245.2",
+      "text": "χαλεπόν; οὐδὲ ἕν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 246",
+      "text": "αὕτα φύσις ἀνθρώπων, ἀσκοὶ πεφυσαμένοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 247*",
+      "text": "ἀποθανεῖν ἢ τεθνάναι οὔ μοι διαφέρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 249",
+      "text": "νοῦς ὁρῆι καὶ νοῦς ἀκούει· τἄλλα κωφὰ καὶ τυφλά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 250.1",
+      "text": "νᾶφε καὶ μέμνας’ ἀπιστεῖν· ἄρθρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 250.2",
+      "text": "ταῦτα τᾶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 250.3",
+      "text": "φρενῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 252",
+      "text": "εἰκότως μὲν οὐκ ἔφα τόδ’, ἀλλ’ ἀλαθέως ἔφα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 253",
+      "text": "τὰ πρὸ τοῦ δύ’ ἄνδρες ἔλεγον, εἷς ἐγὼν ἀποχρέω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254.1",
+      "text": "ὡς δ’ ἐγὼ δοκέω—δοκέων γὰρ σάφα ἴσαμι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254.2",
+      "text": "τοῦθ’ ὅτι τῶν ἐμῶν μνάμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254.3",
+      "text": "ποκ’ ἐσσεῖται λόγων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254.4",
+      "text": "τούτων ἔτι. καὶ λαβών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254.5",
+      "text": "τις αὐτὰ περιλύσας τὸ μέτρον ὃ νῦν ἔχει, εἷμα δοὺς καὶ πορφύραν, λόγοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 254.6",
+      "text": "ποικίλας καλοῖς,[ln_5]δυσπάλαιστος αὐτὸς ἄλλους εὐπαλαίστους ἀποφανεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 255",
+      "text": "ὁ βίος ἀνθρώποις λογισμοῦ κἀριθμοῦ δεῖται πάνυ· ζῶμεν ἀριθμῶι καὶ λογισμῶι· ταῦτα γὰρ σώιζει βροτούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 256",
+      "text": "ὁ λόγος ἀνθρώπους κυβερνᾶι κατὰ τρόπον σώιζει ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.1",
+      "text": "ἔστιν ἀνθρώπωι λογισμός, ἔστι καὶ θεῖος λόγος .... ἀνθρώπωι πέφυκε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.2",
+      "text": "περὶ βίου καταστροφάς. ὁ δέ γε τὰς τέχνας ἅπασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.3",
+      "text": "συνέπεται θεῖος λόγος, ἐκδιδάσκων αὐτὸς αὐτοὺς ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.4",
+      "text": "ποιεῖν δεῖ συμφέρον·[ln_5]οὐ γὰρ ἄνθρωπος τέχναν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.5",
+      "text": "τιν’ εὗρεν, ὁ δὲ θεὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.6",
+      "text": "ταύταν φέρει· ὁ δέ γε τἀνθρώπου πέφυκεν ἀπό γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 257.7",
+      "text": "τοῦ θείου λόγου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 258*",
+      "text": "ὁ τρόπος ἀνθρώποισι δαίμων ἀγαθός, οἷς δὲ καὶ κακός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 261",
+      "text": "εὐσεβὴς βίος μέγιστον ἐφόδιον θνατοῖς ἐστι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 262*",
+      "text": "ἀνδρὶ δ’ ὑγιαίνειν ἄριστόν ἐστιν, ὥς γ’ ἐμὶν δοκεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 263*.1",
+      "text": "θνατὰ χρὴ τὸν θνατόν, οὐκ ἀθάνατα τὸν θνατὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 263*.2",
+      "text": "φρονεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 264",
+      "text": "γνῶθι πῶς ἄλλωι κέχρηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 265.1",
+      "text": "εὐσεβὴς νόωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 265.2",
+      "text": "πεφυκὼς οὐ πάθοις κ’ οὐδὲν κακὸν κατθανών· ἄνω τὸ πνεῦμα διαμένει κατ’ οὐρανόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 266.1",
+      "text": "οὐδὲν ἐκφεύγει τὸ θεῖον· τοῦτο γινώσκειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 266.2",
+      "text": "τυ δεῖ· αὐτός ἐσθ’ ἁμῶν ἐπόπτας, ἀδυνατεῖ δ’ οὐδὲν θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.1",
+      "text": "ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.2",
+      "text": "πολὺν ζήσων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 267.3",
+      "text": "χρόνον χὠς ὀλίγον, οὕτως διανοοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 268",
+      "text": "ἐγγύας ἄτα 〈ἐστὶ〉 θυγάτηρ, ἐγγύα δὲ ζαμίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 269",
+      "text": "καθαρὸν ἂν τὸν νοῦν ἔχηις, ἅπαν τὸ σῶμα καθαρὸς εἶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 270.1",
+      "text": "αἴ τί κα ζατῆις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 270.2",
+      "text": "σοφόν, τᾶς νυκτὸς ἐνθυμητέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 271",
+      "text": "πάντα τὰ σπουδαῖα νυκτὸς μᾶλλον ἐξευρίσκεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 272",
+      "text": "οὐ λέγειν τύγ’ ἐσσὶ δεινός, ἀλλὰ σιγᾶν ἀδύνατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 273.1",
+      "text": "ἁ δὲ χεὶρ τὰν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 273.2",
+      "text": "χεῖρα νίζει· δός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 273.3",
+      "text": "τι καὶ λάβ’ αἴ τι 〈λῆισ〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 274",
+      "text": "οὐ φιλάνθρωπος τύγ’ ἔσς’· ἔχεις νόσον, χαίρεις διδούς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 275*",
+      "text": "ποτὶ πονηρὸν οὐκ ἄχρηστον ὅπλον ἁ πονηρία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 276*.1",
+      "text": "πρὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 276*.2",
+      "text": "στάθμαι πέτρον τίθεσθαι, μή τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 276*.3",
+      "text": "πρὸς πέτρωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 276*.4",
+      "text": "στάθμαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 277.1",
+      "text": "πρὸς 〈δὲ〉 τοὺς πέλας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 277.2",
+      "text": "πορεύου λαμπρὸν ἱμάτιον ἔχων, καὶ φρονεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 277.3",
+      "text": "πολλοῖσι δόξεις, τυχὸν ἴσως 〈οὐδὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 277.4",
+      "text": "φρονῶν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 278*",
+      "text": "τῶι λόγωι μὲν εὖ διέρχηι πάντα, τῶι δ’ ἔργωι κακῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 279*",
+      "text": "φύσιν ἔχειν ἄριστόν ἐστι, δεύτερον δὲ 〈μανθάνειν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 280.1",
+      "text": "οὐ μετανοεῖν ἀλλὰ προνοεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 280.2",
+      "text": "χρὴ τὸν ἄνδρα τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 280.3",
+      "text": "σοφόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 281",
+      "text": "μὴ ἐπὶ μικροῖς αὐτὸς αὑτὸν ὀξύθυμον δείκνυε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 282.1",
+      "text": "ἐπιπολάζειν οὔ τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 282.2",
+      "text": "χρὴ τὸν θυμὸν ἀλλὰ τὸν νόον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 283",
+      "text": "οὐδὲ εἷς οὐδὲν μετ’ ὀργᾶς κατὰ τρόπον βουλεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 284.1",
+      "text": "ἁ δὲ μελέτα φύσιος ἀγαθᾶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 284.2",
+      "text": "πλέονα δωρεῖται φίλοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 285.1",
+      "text": "τίς δέ κα λώιη γενέσθαι μὴ φθονούμενος φίλοις; δῆλον ὡς ἀνὴρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 285.2",
+      "text": "παρ’ οὐδέν ἐσθ’ ὁ μὴ φθονούμενος· τυφλὸν ἠλέης’ ἰδών",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 285.3",
+      "text": "τις, ἐφθόνησε δ’ οὐδὲ εἷς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 286.1",
+      "text": "σώφρονος γυναικὸς ἀρετὰ τὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 286.2",
+      "text": "συνόντα μὴ ἀδικεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 287.1",
+      "text": "τῶν πόνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 287.2",
+      "text": "πωλοῦσιν ἁμῖν πάντα τἀγάθ’ οἱ θεοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 288",
+      "text": "ὦ πονηρέ, μὴ τὰ μαλακὰ μῶσο, μὴ τὰ σκλήρ’ ἔχηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 290.1",
+      "text": "καὶ πιεῖν ὕδωρ διπλάσιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 290.2",
+      "text": "χλιαρόν, ἡμίνας δύο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 296",
+      "text": "Εἰμὶ νεκρός· νεκρὸς δὲ κόπρος, γῆ δ’ ἡ κόπρος ἐστίν· εἰ δὴ γῆ νεκρός ἐστ’, οὐ νεκρὸς ἀλλὰ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 297.1",
+      "text": "μηδὲν γὰρ εἴ] τις δυστυχῶν βίον τ’ ἔχων μηδὲν καλόν] τε κἀγαθὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 297.2",
+      "text": "ψυχᾶι διδῶι, ἐγὼ μὲν αὐτὸν οὔ]τι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 297.3",
+      "text": "φασῶ μακάριον, φύλακα δὲ μᾶ]λλον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 297.4",
+      "text": "χρημάτων καλῶν [κακόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 298.1",
+      "text": "ὦ θύγατερ, αἰαῖ τύχας· ξυνοικεῖς ὦν νέωι γ’ ἔσσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 298.2",
+      "text": "παλαιτέρα. ὃ μὲν γὰρ ἄλλην λαμβάνει νεανίδα, ἃ δ’ ἄλλον ἄλληι δῆτα μαστεύει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 298.3",
+      "text": "τινά.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bhm-af",
+      "title": {
+        "english": "Fragments of Comic Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμικῆς Σοφίας"
+      },
+      "url_slug": "epicharmus-syracuse-comic-wisdom-bhm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/comic-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ad",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ad-bhm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ab",
+      "title": {
+        "english": "Fragments of Pseudepicharmea",
+        "ancient_greek": "Ψευδεπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-pseudepicharmea-ab-bhm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-ab.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ag",
+      "title": {
+        "english": "Gnomic and Comic Wisdom Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/gnomic-comic-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/gnomic-comic-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kfk-ac",
+      "title": {
+        "english": "Anonymous New Comedies",
+        "ancient_greek": "Ἀνώνυμοι Νέαι Κωμῳδίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-i-new-comedies-kfk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-i/new-comedies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-i/new-comedies.json"
+      }
+    },
+    {
+      "eul_wid": "lok-ab",
+      "title": {
+        "english": "Comic Fragments on Feasts and Fools",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἑορτῶν καὶ Μωρῶν"
+      },
+      "url_slug": "diphilus-of-sinope-comic-feasts-fools-lok-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diphilus-of-sinope/comic-feasts-fools",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diphilus-of-sinope/comic-feasts-fools.json"
+      }
+    },
+    {
+      "eul_wid": "eis-ab",
+      "title": {
+        "english": "Comic Fragments on Food and Markets",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Ἀγορᾶς"
+      },
+      "url_slug": "nicophon-the-comic-poet-food-markets-eis-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicophon-the-comic-poet/food-markets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ai",
+      "title": {
+        "english": "Doubts",
+        "ancient_greek": "Ἀμφιβολίαι"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-doubts-kfu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/doubts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/doubts.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-aa",
+      "title": {
+        "english": "Excerpts, Anthologies, and Sentences",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-excerpts-anthologies-sentences-kfu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ac",
+      "title": {
+        "english": "Fragments of Comic Aphrodite",
+        "ancient_greek": "Ἀποσπάσματα τῆς Κωμικῆς Ἀφροδίτης"
+      },
+      "url_slug": "plato-the-comic-poet-aphrodite-fragments-efq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/aphrodite-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/aphrodite-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hrq-aa",
+      "title": {
+        "english": "Fragments on Gourmet Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας"
+      },
+      "url_slug": "dioxippus-the-comic-poet-gourmet-feasting-hrq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioxippus-the-comic-poet/gourmet-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "atg-ab",
+      "title": {
+        "english": "On the Evils of Marriage",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-evils-marriage-ab-atg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/epicharmus-syracuse/pseudepicharmea-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/pseudepicharmea-aa.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

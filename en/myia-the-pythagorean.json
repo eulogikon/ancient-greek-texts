@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bcc",
+  "auth_slug": "myia-the-pythagorean",
+  "name": {
+    "english": "Myia the Pythagorean",
+    "ancient_greek": "Μυῖα ἡ Πυθαγόρεια"
+  },
+  "seo_h1": "Myia the Pythagorean and the Letter to Phyllis",
+  "seo": {
+    "browser_title": "Myia the Pythagorean Philosopher on Eulogikon Greek Archive",
+    "meta_title": "Myia the Pythagorean Ancient Greek Works and Epistle",
+    "meta_description": "Myia was a philosopher of the Pythagorean school. Her surviving work is an epistle on harmony. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Myia was a philosopher from ancient Greece who lived during the 6th and 5th centuries BCE. She was a member of the Pythagorean school, a community in southern Italy known for including women among its followers. According to ancient tradition, she was the daughter of the philosopher Pythagoras and his wife Theano, and was married to the athlete Milo of Croton. Specific details about her life are scarce and often blend with legend.</p>\n<p class=\"research-text\">She is credited with one surviving work: a letter of advice written to a woman named Phyllis on how to care for a newborn infant. The letter is written in the Doric Greek dialect. The authenticity of this letter is debated among scholars. Some believe it is a genuine work from the early Pythagorean period, while others suggest it is a later composition from the Hellenistic or Roman era, written in her name to represent the voice of an early female philosopher.</p>\n<p class=\"research-text\">Myia is significant as one of the first named female philosophers in Western history. Whether her letter is authentic or not, its preservation shows that Pythagorean thought addressed practical domestic and ethical topics, such as child-rearing and household management. Her recorded name and attributed work demonstrate the historical participation of women in early philosophical communities and the later interest in creating a tradition of female wisdom.</p>\n</div>",
+  "affiliation_label": "Pythagorean",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bcc-aa",
+      "title": {
+        "english": "Letter to Phyllis",
+        "ancient_greek": "Πρὸς Φυλλίδα Ἐπιστολή"
+      },
+      "url_slug": "myia-the-pythagorean-phyllis-bcc-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/myia-the-pythagorean/phyllis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean/phyllis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean/phyllis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean/phyllis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myia-the-pythagorean/phyllis.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "dei",
+      "name": {
+        "english": "Apollodorus of Cyzicus",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Κυζικηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.json"
+      }
+    },
+    {
+      "eul_aid": "nxe",
+      "name": {
+        "english": "Apollonius of Tyana",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.json"
+      }
+    },
+    {
+      "eul_aid": "nwu",
+      "name": {
+        "english": "Apollonius of Tyana II",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.json"
+      }
+    },
+    {
+      "eul_aid": "faa",
+      "name": {
+        "english": "Archytas of Tarentum",
+        "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archytas-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.json"
+      }
+    },
+    {
+      "eul_aid": "dck",
+      "name": {
+        "english": "Aresas of Lucania",
+        "ancient_greek": "Ἀρέσας ὁ Λευκανός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aresas-of-lucania",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.json"
+      }
+    },
+    {
+      "eul_aid": "dcu",
+      "name": {
+        "english": "Athamas of Posidonia",
+        "ancient_greek": "Ἀθάμας ὁ Ποσειδωνιάτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athamas-of-posidonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.json"
+      }
+    },
+    {
+      "eul_aid": "azu",
+      "name": {
+        "english": "Brontinus of Metapontum",
+        "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/brontinus-of-metapontum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.json"
+      }
+    },
+    {
+      "eul_aid": "bay",
+      "name": {
+        "english": "Cercops the Orphic",
+        "ancient_greek": "Κέρκωψ ὁ Ὀρφικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cercops-the-orphic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.json"
+      }
+    },
+    {
+      "eul_aid": "hcg",
+      "name": {
+        "english": "Clinias of Tarentum",
+        "ancient_greek": "Κλεινίας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/clinias-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.json"
+      }
+    },
+    {
+      "eul_aid": "gqi",
+      "name": {
+        "english": "Damon and Phintias",
+        "ancient_greek": "Δάμων καὶ Φιντίας"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/damon-and-phintias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.json"
+      }
+    },
+    {
+      "eul_aid": "ffa",
+      "name": {
+        "english": "Echecrates of Phlius",
+        "ancient_greek": "Ἐχεκράτης ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/echecrates-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.json"
+      }
+    },
+    {
+      "eul_aid": "gqs",
+      "name": {
+        "english": "Ecphantus the Pythagorean",
+        "ancient_greek": "Ἔκφαντος ὁ Πυθαγόρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/ecphantus-the-pythagorean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/myia-the-pythagorean",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myia-the-pythagorean.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myia-the-pythagorean.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myia-the-pythagorean.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/myia-the-pythagorean.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

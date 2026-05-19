@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dqg",
+  "auth_slug": "hippias-of-elis",
+  "name": {
+    "english": "Hippias of Elis",
+    "ancient_greek": "Ἱππίας ὁ Ἠλεῖος"
+  },
+  "seo_h1": "Hippias of Elis on Olympic Victors and Knowledge",
+  "seo": {
+    "browser_title": "Hippias of Elis Sophist on Eulogikon Greek Archive",
+    "meta_title": "Hippias of Elis Ancient Greek Oratory and Philosophy",
+    "meta_description": "Hippias of Elis was a classical Greek sophist and contemporary of Socrates. Read his surviving works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hippias of Elis was a Greek sophist active in the late 5th century BCE. A contemporary of Socrates, he was born in Elis and traveled widely as a professional teacher and orator, also serving his city as an ambassador. Ancient accounts, particularly those by Plato, portray him as vain and a know-it-all, though modern scholars recognize this as a likely philosophical caricature. He was famous for claiming expertise in an enormous range of subjects, including mathematics, history, and poetry, and for possessing a prodigious memory.</p>\n<p class=\"research-text\">None of Hippias’s own writings survive; they are known only through references by later authors. According to these sources, his lost works were remarkably diverse. They included a foundational list of Olympic victors used for dating historical events, a collection of ethnographic data from different peoples, treatises on mathematics and astronomy, and various speeches and poems. He was especially known for a display speech called the Trojan Dialogue.</p>\n<p class=\"research-text\">Hippias is historically significant as the archetype of the polymathic sophist, valuing wide-ranging knowledge and practical skill. His list of Olympic victors was an important early tool for Greek chronology. In mathematics, he is associated with the discovery of a curve used in attempts to solve classic geometric problems, though the exact nature of his contribution is debated by ancient sources. His thought also engaged with the common sophistic debate on the conflict between natural law and human convention.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "dqg-ad",
+      "title": {
+        "english": "Fragments on Olympic Victors",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀλυμπιονικῶν"
+      },
+      "url_slug": "hippias-of-elis-olympic-victors-dqg-ad",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/olympic-victors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/olympic-victors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/olympic-victors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/olympic-victors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/olympic-victors.json"
+      }
+    },
+    {
+      "eul_wid": "dqg-ac",
+      "title": {
+        "english": "On the Compilation of Knowledge",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hippias-of-elis-compilation-knowledge-dqg-ac",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/compilation-knowledge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/compilation-knowledge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/compilation-knowledge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/compilation-knowledge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/compilation-knowledge.json"
+      }
+    },
+    {
+      "eul_wid": "dqg-aa",
+      "title": {
+        "english": "Testimonies 1",
+        "ancient_greek": "Μαρτυρίαι Α'"
+      },
+      "url_slug": "hippias-of-elis-testimonies-dqg-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "dqg-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "hippias-of-elis-testimonies-2-dqg-ab",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippias-of-elis/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippias-of-elis/testimonies-2.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hippias-of-elis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippias-of-elis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippias-of-elis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippias-of-elis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippias-of-elis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

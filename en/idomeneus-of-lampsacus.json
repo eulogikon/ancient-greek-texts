@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hxa",
+  "auth_slug": "idomeneus-of-lampsacus",
+  "name": {
+    "english": "Idomeneus of Lampsacus",
+    "ancient_greek": "Ἰδομενεύς ὁ Λαμψακηνός"
+  },
+  "seo_h1": "Idomeneus of Lampsacus on the Socrates Circle",
+  "seo": {
+    "browser_title": "The Idomeneus of Lampsacus on Eulogikon Greek Archive",
+    "meta_title": "Idomeneus of Lampsacus Ancient Greek Historical Works",
+    "meta_description": "Idomeneus of Lampsacus, a Hellenistic historian of the 4th-3rd centuries BCE. Historical works in Greek. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Idomeneus of Lampsacus was a Greek historian and biographer of the late 4th and early 3rd centuries BCE. A native of Lampsacus on the Hellespont, he was a prominent pupil and associate of Epicurus within the philosopher’s circle. Beyond this association, no further biographical details are recorded.</p>\n<p class=\"research-text\">His principal work, On the Socratics, was a biographical account of Socrates’ disciples. The text is now lost, surviving only in fragments and testimonia preserved by later authors. Idomeneus is significant as a source for the lives of Socratic philosophers and for the early Epicurean school.</p>\n<p class=\"research-text\">Later doxographers like Diogenes Laertius cited his work, which often included anecdotal and personal details, for information on figures such as Aristippus. His fragments provide valuable insight into Hellenistic biographical traditions.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hxa-aa",
+      "title": {
+        "english": "On the Socrates Circle",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "idomeneus-of-lampsacus-socrates-circle-hxa-aa",
+      "passages": 21,
+      "links": {
+        "html": "https://eulogikon.org/grc/idomeneus-of-lampsacus/socrates-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/idomeneus-of-lampsacus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/idomeneus-of-lampsacus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/idomeneus-of-lampsacus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/idomeneus-of-lampsacus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/idomeneus-of-lampsacus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

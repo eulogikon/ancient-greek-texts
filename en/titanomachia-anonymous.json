@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "apk",
+  "auth_slug": "titanomachia-anonymous",
+  "name": {
+    "english": "Epic: Titanomachia Anonymous",
+    "ancient_greek": "ἡ Τιτανομαχία"
+  },
+  "seo_h1": "Titanomachy and the Anonymous Archaic Epic Cycle",
+  "seo": {
+    "browser_title": "The Titanomachia Anonymous on Eulogikon Greek Archive",
+    "meta_title": "The Titanomachia Anonymous Ancient Greek Epic Poem",
+    "meta_description": "Anonymous Archaic Greek epic poem about the war between Titans and Olympians. One surviving fragment. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Titanomachia is an ancient Greek epic poem from the Archaic period, traditionally dated between the 7th and 6th centuries BCE. It is an anonymous work. The poem is considered a key part of the Epic Cycle, a series of early epics that narrated myths from the creation of the gods to the end of the Trojan War.</p>\n<p class=\"research-text\">Its subject was the great war between the Olympian gods, led by Zeus, and the older Titans. This epic is now lost, surviving only in references by later ancient writers and a few fragments. Its exact date and its relationship to other early poems like Hesiod’s Theogony are matters of scholarly reconstruction.</p>\n<p class=\"research-text\">The Titanomachia was historically important as a major narrative of the cosmic conflict that established Zeus’s rule. Its existence demonstrates the central role this myth played in early Greek storytelling. As a component of the Epic Cycle, it helped form a continuous mythological history for the Greek world. While its loss means our knowledge is incomplete, it remains a foundational text for understanding the development of Greek epic poetry and cosmology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "apk-aa",
+      "title": {
+        "english": "Titanomachy Fragments",
+        "ancient_greek": "Τιτανομαχίας Ἀποσπάσματα"
+      },
+      "url_slug": "titanomachia-anonymous-fragments-apk-aa",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/titanomachia-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/titanomachia-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/titanomachia-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/titanomachia-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/titanomachia-anonymous/fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/titanomachia-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/titanomachia-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/titanomachia-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/titanomachia-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/titanomachia-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

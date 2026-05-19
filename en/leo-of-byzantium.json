@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gig",
+  "auth_slug": "leo-of-byzantium",
+  "name": {
+    "english": "Leo of Byzantium",
+    "ancient_greek": "Λέων ὁ Βυζάντιος"
+  },
+  "seo_h1": "Leo of Byzantium on Cities and Rivers",
+  "seo": {
+    "browser_title": "Leo of Byzantium on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Leo of Byzantium Ancient Greek Historical Works",
+    "meta_description": "Leo of Byzantium, a 4th century BCE historian. His surviving historical fragments are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Leo of Byzantium was a historical writer from the city of Byzantium who lived during the 4th century BCE. No specific biographical details about his life are recorded.</p>\n<p class=\"research-text\">His work is situated within the context of Byzantium’s involvement in major 4th-century conflicts, such as the Social War, and likely provided a local perspective on these events. His only known work is the History of Byzantium, which is now lost and known only through fragments and later references.</p>\n<p class=\"research-text\">Leo is significant as one of the earliest practitioners of local history. His work was used as a source by later historians and geographers, including Strabo, for information on the foundation and history of Byzantium. The citations from his lost history provide valuable fragmentary evidence for the early historiography of the Black Sea region.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gig-aa",
+      "title": {
+        "english": "Fragments on Cities and Rivers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόλεων καὶ Ποταμῶν"
+      },
+      "url_slug": "leo-of-byzantium-cities-rivers-gig-aa",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/leo-of-byzantium/cities-rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/leo-of-byzantium",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leo-of-byzantium.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leo-of-byzantium.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leo-of-byzantium.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/leo-of-byzantium.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

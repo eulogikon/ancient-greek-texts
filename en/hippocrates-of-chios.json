@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cus",
+  "auth_slug": "hippocrates-of-chios",
+  "name": {
+    "english": "Hippocrates of Chios",
+    "ancient_greek": "Ἱπποκράτης ὁ Χῖος"
+  },
+  "seo_h1": "Hippocrates of Chios and the Geometry of Lunes",
+  "seo": {
+    "browser_title": "Hippocrates of Chios on Eulogikon Greek Archive Library",
+    "meta_title": "The Hippocrates of Chios Ancient Greek Mathematics",
+    "meta_description": "Hippocrates of Chios, a 5th century BCE mathematician. Surviving mathematical works from the Classical era. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hippocrates of Chios was a Greek mathematician active in Athens during the second half of the 5th century BCE. Originally from the island of Chios, he moved to Athens, where he became known for teaching geometry for a fee. This practice associates him with the sophists and makes him one of the earliest known professional teachers of the subject. He is a distinct figure from the more famous physician Hippocrates of Cos.</p>\n<p class=\"research-text\">His major contribution was writing the first systematic textbook on geometry, titled Elements. Although the work itself is lost, its contents are known through summaries by later ancient commentators. In this book, he organized geometric theorems in a logical sequence, creating a model that would later influence Euclid’s more famous work of the same name.</p>\n<p class=\"research-text\">A significant part of his work addressed the classical problem of &quot;squaring the circle.&quot; While he did not solve this problem, he made important progress by demonstrating how to find the area of certain crescent-shaped figures, known as lunes.</p>\n<p class=\"research-text\">According to modern scholars, Hippocrates holds a pivotal place in the history of mathematics. His Elements represents the first known attempt to build geometry as a deductive system. His analysis of lunes was a major advance in the study of curved shapes and influenced later Greek mathematicians. Through the reports of later writers, his work became a foundational part of the geometric tradition that led to Euclid.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cus-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hippocrates-of-chios-testimonies-cus-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates-of-chios/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates-of-chios/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/hippocrates-of-chios",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocrates-of-chios.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocrates-of-chios.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocrates-of-chios.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/hippocrates-of-chios.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

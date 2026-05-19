@@ -1,0 +1,447 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rhq-ac",
+  "eul_aid": "rhq",
+  "author_slug": "dio-cassius-of-nicaea",
+  "work_slug": "roman-histories-ac",
+  "url_slug": "dio-cassius-of-nicaea-roman-histories-ac-rhq-ac",
+  "author": {
+    "english": "Dio Cassius of Nicaea",
+    "ancient_greek": "Δίων ὁ Κάσσιος ὁ Κοκκηϊανός"
+  },
+  "title": {
+    "english": "Roman Histories, Constantinian Excerpts with Dion's Words",
+    "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+  },
+  "seo": {
+    "browser_title": "Ancient Roman Histories by Dio Cassius on Eulogikon",
+    "meta_title": "Classical Roman Histories by Dio Cassius in Ancient Greek",
+    "meta_description": "Surviving excerpts from Dio Cassius's Roman Histories preserved in Constantinian collection. Important fragmentary source for Roman imperial history."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Roman Histories, Constantinian Excerpts with Dion&#x27;s Words</strong> is a modern editorial compilation of selected passages from the Byzantine <strong>Excerpta Constantiniana</strong>, which themselves preserve fragments of the <strong>Roman History</strong> by the Greco-Roman historian Dio Cassius. Dio’s original work, composed in Greek during the early third century CE, was an ambitious eighty-book narrative covering Roman history from its mythical foundations to the author’s own time. Written from the perspective of a senator who participated in imperial governance, it provides a detailed analysis of Rome’s political institutions and the transition from republic to autocratic rule. The complete text is only partially extant, with substantial portions known through later epitomes and excerpt collections.</p>\n<p class=\"research-text\">The excerpts in this compilation derive from a tenth-century Byzantine project commissioned by Emperor Constantine VII Porphyrogennetos. His scholars systematically dismantled classical historical texts, including Dio’s, to create vast thematic anthologies intended for the moral and administrative education of the imperial bureaucracy. Passages were categorized under headings such as “On Virtues and Vices” or “On Embassies,” stripping them of their original narrative context to serve as standalone exempla. The excerpts referenced here, such as those noting Mark Antony’s enslavement to Cleopatra or the innate cowardice of Emperor Macrinus, are characteristic of this moralizing and utilitarian approach to history. As a collection, these fragments offer critical insights into both Dio’s historiographical method—which emphasized character and political analysis—and the Byzantine reception of classical texts, where historical detail was preserved primarily for its perceived instructional value in statecraft.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "EXCERPTA CONSTANTINIANA CUM DIONIS VERBIS COMPOSITA. Excerpta Valesiana paucorum verborum.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Exc. Val. 162. ὅτι ὁ Ἀντώνιος ἔτι καὶ μᾶλλον τῷ ἔρωτι καὶ τῇ γοητείᾳ τῆς Κλεοπάτρας ἐδούλευεν. Exc. Val. 213. ὅτι Βιτέλλιος πάντας ἐν κολακείᾳ ὑπερεβάλετο. Exc. Val. 402. ὅτι ὁ Μακρῖνος ὑπὸ τῆς ἐμφύτου δειλίας καὶ γὰρ Μαῦρος ὢν δείνως ἐδείμαινεν. Excerptum Valesianum magni ambitus.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "Exc. Val. 135. ὅτι ὁ Καῖσαρ οὗτος ἦν τό τε σῶμα ἱκανώτατος καὶ τὴν ψυχὴν εὐκολώτατος. τῇ τε γὰρ τῆς φύσεως ἰσχύι—πάντας ὅσοι μὴ καὶ πρότερόν ποτε ἁλόντες ὑπ’ αὐτοῦ ἠλέηντο ἀφείς (capita octo tantum non αὐτολεξεί). [Exc. Val. 135.] πολλοὺς δὲ καὶ τῶν ἐπιβουλευόντων ἔσωσεν, δοὺς τοῖς τε ἑταίροις ἅπασιν καὶ τοῖς συννικήσασιν αὐτῷ ἕνα ἑκάστῳ τῶν ἁλόντων περιποιήσασθαι. καὶ μέντοι ὅτι πάντα ταῦτα ἀπ’ ἐμφύτου χρηστότητος, καὶ οὔτε προσποιητῶς οὔτε ἐπὶ κατασκευῇ πλεονεξίας τινός, ὥσπερ ἕτεροι συχνοὶ ἐφιλανθρωπεύσαντό τινα, ἔπραξεν, μέγιστον μὲν καὶ ἐκεῖνο μαρτύριόν ἐστιν, ὅτι πανταχοῦ καὶ διὰ πάντων ὅμοιος ἐγένετο καὶ οὔτ’ ὀργή τις αὐτὸν ἠγρίανεν οὔτε εὐπραγία διέφθειρεν, οὐ τὸ κράτος ἠλλοίωσεν, οὐχ ἡ ἐξουσία μετέβαλεν. ἱκανὰ μὲν καὶ ταῦτα τὴν χρηστότητα αὐτοῦ τεκμηριῶσαί ἐστιν· οὕτω γὰρ ἐκ θεῶν ὄντως ἔφυ ὥστε ἓν μόνον ἠπίστατο, σώζειν τούς γε σώζεσθαι δυναμένους· προσέτι δὲ καὶ ἐκεῖνο, ὅτι τοῖς τε ἑαυτῷ πολεμήσασι τὸ μηδ’ ὑπ’ ἄλλου τινὸς κολασθῆναι παρεσκεύασεν, καὶ τοὺς ἐν τῷ πρὶν ἐπταικότας ἀνεκτήσατο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (50) [t2]",
+      "text": "πᾶσι μὲν γὰρ τοῖς μετὰ τοῦ Λεπίδου καὶ μετὰ τοῦ Σερτωρίου γενομένοις ἄδειαν δοθῆναι ἐποίησεν, πᾶσι δὲ ἐκ τούτου τοῖς ἐκ τῶν ἐπικηρυχθέντων ὑπὸ τοῦ Σύλλου περιλειφθεῖσι τὴν σωτηρίαν ὑπάρξαι παρεσκεύασεν, καὶ αὐτοὺς μετὰ τοῦτο κατήγαγεν, τούς τε παῖδας ἁπάντων τῶν ὑπ’ ἐκείνου θανατωθέντων καὶ τιμῶν καὶ ἀρχῶν [Exc. Val. 135.] ἠξίωσεν. καὶ [τοι] τὸ μέγιστον, πάντα ἁπλῶς τὰ γράμματα ὅσα ἢ παρὰ τῷ Πομπηίῳ ἢ τῷ Σκιπίωνι ἀπόρρητα εὑρέθη κατέκαυσε, μήτ’ ἀναγνούς τι αὐτῶν μήτε τηρήσας, ἵνα μηδ’ ἄλλῳ τινὶ πονηρευθῆναί τι δι’ αὐτὰ ἐγγένηται. οὐδεὶς γοῦν ἐκ τῶν γραμμάτων ἐκείνων οὐχ ὅσον οὐκ ἔπαθέν τι δεινόν, ἀλλ’ οὐδ’ ἐφοβήθη. οὔκουν οὐδ’ οἶδεν οὐδεὶς τοὺς ἐξ αὐτῶν περιγενομένους πλὴν αὐτῶν ἐκείνων. τοῦτο γάρ ἐστι παραδοξότατον καὶ μηδεμίαν ὑπερβολὴν ἔχον, ὅτι τε ἀφείθησαν πρὶν αἰτιαθῆναι καὶ ὅτι ἐσώθησαν πρὶν κινδυνεῦσαι, καὶ οὐδ’ αὐτὸς ὁ περιποιήσας σφᾶς ἔμαθεν οὓς ἠλέησεν. καὶ γάρ τοι διά τε ταῦτα καὶ διὰ τὰ ἄλλα, ὅσα ἐνομοθέτησε καὶ ἐπηνώρθωσε, μεγάλα μὲν αὐτὰ καθ’ ἑαυτὰ ὄντα, παρὰ μικρὸν δ’ ἂν πρὸς ἐκεῖνα νομισθέντα, οὐ χρὴ ἀκριβῶς ἐπεξιέναι. Excerptum Valesianum quod in paucis tantum a verbis Dioneis discrepat.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t1)",
+      "text": "Dio 42, 34, 3—35, 3. ἐκείνη τε γὰρ τέως μὲν δι’ ἑτέρων παρ’ αὐτῷ διὰ τὸν ἀδελφὸν ἐδικάζετο, ἔπειτα δὲ ὡς τάχιστα τὴν φύσιν αὐτοῦ κατέμαθεν (ἦν γὰρ ἐρωτικώτατος, καὶ πλείσταις καὶ ἄλλαις, ὅσαις που περιτύχοι, συνεγίγνετο), πέμπει πρὸς αὐτὸν [καὶ] προδίδοσθαί τε ὑπὸ τῶν φίλων λέγουσα, καὶ ἀξιοῦσα αὐτὴ δι’ ἑαυτῆς ἀγωνίσασθαι. 4. ἄλλως τε γὰρ περικαλλεστάτη γυναικῶν ἐγένετο, καὶ τότε τῇ τῆς ὥρας ἀκμῇ πολὺ διέπρεπε, τό τε φθέγμα ἀστειότατον εἶχε, καὶ προσομιλῆσαι παντί τῳ διὰ χαρίτων ἠπίστατο, 5. ὥστε λαμπρά τε ἰδεῖν καὶ ἀκουσθῆναι οὖσα, κἀκ τούτου πάντα τινὰ καὶ δυσέρωτα καὶ ἀφηλικέστερον ἐξεργάσασθαι δυναμένη, πρὸς τρόπου τε ἐνόμισε τῷ Καίσαρι ἐντεύξεσθαι, καὶ πάντα ἐν τῷ κάλλει τὰ δικαιώματα ἔθετο. 6. ᾐτήσατό τε οὖν ἐς ὄψιν αὐτοῦ ἐλθεῖν, καὶ τυχοῦσα κατεκόσμησέ τε ἑαυτὴν καὶ ἐξήσκησεν ὥστε σεμνοπρεπεστάτη καὶ οἰκτροτάτη αὐτῷ ὀφθῆναι. καὶ ἡ μὲν ταῦτα μηχανησαμένη ἔς τε τὴν πόλιν ἅμα (ἔξω γὰρ καὶ ἐκείνης ἦν) καὶ ἐς τὰ βασίλεια λάθρᾳ τοῦ Πτολεμαίου νυκτὸς ἐσῆλθεν· 35, 1. ὁ δὲ δὴ Καῖσαρ ἰδών τε αὐτὴν καί τι φθεγξαμένης ἀκούσας οὕτως εὐθὺς ἐδουλώθη ὥστε αὐτίκα ὑπό τε τὴν ἕω τόν τε Πτολεμαῖον μεταπέμψασθαι καὶ συναλλάξαι σφᾶς ἐπιχειρῆσαι· ἧς γὰρ δικαστὴς πρότερον ἠξιοῦτο εἶναι, τότε ταύτῃ συνεδίκει. 2. ὁ οὖν παῖς, διά τε τοῦτο καὶ ὅτι τὴν ἀδελφὴν αἰφνιδίως εἶδεν ἔνδον οὖσαν, ὀργῆς τε ἐπληρώθη, καὶ ἐκπηδήσας ἐς τὸ πλῆθος ἐβόα λέγων προδίδοσθαι, καὶ τέλος τὸ διάδημα ἀπὸ τῆς κεφαλῆς περισπάσας ἔρριψε. θορύβου δὲ ἐπὶ τούτῳ μεγάλου συμβάντος ἐκεῖνον μὲν οἱ Καισάρειοι στρατιῶται συνήρπασαν, τὸ δὲ δὴ Αἰγύπτιον ἐταράττετο· 3. κἂν αὐτοβοεὶ τὰ βασίλεια καὶ ἐκ τῆς γῆς καὶ ἐκ τῆς θαλάσσης ἅμα προσβαλόντες εἷλον (τοῖς γὰρ Ῥωμαίοις οὐδὲν ἀξιόμαχον, ἅτε καὶ φίλων σφῶν δοκούντων εἶναι, παρῆν, εἰ μὴ φοβηθεὶς ὁ Καῖσαρ προῆλθέ τε ἐς αὐτούς, καὶ ἐν τῷ ἀσφαλεῖ στὰς πάντα σφίσιν, ὅσα ἂν ἐθελήσωσι, πράξειν ὑπέσχετο. Haec αὐτολεξεὶ praebet exc. Val. 125 ita incipiens ὅτι ἡ Κλεοπάτρα τέως μὲν δι’ ἑτέρων παρὰ τῷ Καίσαρι διὰ τὸν ἀδελφὸν ἐδικάζετο, nisi quod quae diductis litteris scripta sunt omittuntur in codice, qui etiam p. 769, 3 pro συνεγίγνετο dat ἐγίγνετο et p. 770, 3 pro Πτολεμαῖον habet πόλεμον. Excerptum Valesianum a Dioneis verbis paulo plus recedens.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (t) [t2]",
+      "text": "Exc. Val. 164. ὅτι τὰς ἐν τῷ Ἀραβικῷ κόλπῳ ναυπηγηθείσας ναῦς οἱ Ἀράβιοι κατέπρησαν, καὶ τὰς ἐπικουρίας οἱ δῆμοι καὶ οἱ δυνάσται πάντες ἀπηρνήσαντο. καί μοι θαυμάσαι ἐπέρχεται ὅτι ἄλλοι μὲν συχνοί, καίπερ πολλὰ παρὰ Ἀντωνίῳ καὶ Κλεοπάτρᾳ εἰληφότες, ἐγκατέλιπόν σφας, οἱ δὲ ἐπὶ ταῖς ὁπλομαχίαις ἐν τοῖς ἀτιμοτάτοις τρεφόμενοι προθυμίᾳ τε ἐς αὐτοὺς πλείστῃ ἐχρήσαντο καὶ ἀνδρειότατα ἠγωνίσαντο. οὗτοι γὰρ ἐν Κυζίκῳ πρὸς τοὺς ἐπινικίους ἀγῶνας, οὓς ἐπὶ τῷ Καίσαρι αὔξειν ἤλπιζον, ἀσκούμενοι, ἐπεὶ τῶν γεγονότων ᾔσθοντο, ὥρμησαν ἐπὶ τὴν Αἴγυπτον ὡς καὶ βοηθήσοντες αὐτοῖς, καὶ πολλὰ δράσαντες ἐς Αἴγυπτον οὐκ ἠδυνήθησαν διαπεσεῖν, ἐπειδὴ δὲ πανταχόθεν περιεστοιχίσθησαν, λόγον μὲν οὐδ’ ὣς οὐδένα, καίτοι τοῦ Διδίου συχνά σφισι ὑπισχνουμένου, προσεδέξαντο, τὸν δὲ Ἀντώνιον μεταπεμψάμενοι καὶ ἀγγελίαν μὴ δεξάμενοι καὶ νομίσαντες αὐτὸν ἀπολωλέναι καὶ ἄκοντες ὡμολόγησαν ἐπὶ τῷ μηδέπω μονομαχῆσαι. Excerptum Valesianum cui in fine additum quod paulo post apud Dionem sequebatur.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (t1) [t2]",
+      "text": "Exc. Val. 172. ὅτι οὕτω πάνυ ὁ Αὔγουστος τῆς Τερεντίας τῆς γυναικὸς τοῦ Μαικήνα ἤρα ὥστε καὶ ἀγωνίσασθαί ποτε αὐτὴν περὶ τοῦ κάλλους πρὸς τὴν Λιουίαν ποιῆσαι, καὶ τῷ Μαικήνᾳ διὰ τὴν γυναῖκα οὐκέθ’ ὁμοίως ἔχαιρεν. Excerptum Valesianu m , cuius exordio verba Dionea plus solito mutata sunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 (t1)",
+      "text": "Exc. Val. 146. ὅτι Κάσσιος καὶ Βροῦτος στρατηγοῦντες, ἐπεὶ Ὀκταβιανὸς τῶν πραγμάτων ἀντιλαμβάνεσθαι ἤρξατο, τῆς δημοκρατίας ἀπογνόντες καὶ ἐκεῖνον φοβηθέντες ἀπῆραν. καὶ αὐτοὺς κ.τ.λ. Excerptum Ursinianum tantum non αὐτολεξεὶ cum Dione conveniens.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (t)",
+      "text": "Dio 37, 2, 5—7. καὶ οὕτω καὶ ὁ Ἀρτώκης ἐπεκηρυκεύσατο μὲν αὖθις τῷ Πομπηίῳ καὶ δῶρα ἔπεμψεν· ἐκείνου δὲ δὴ ταῦτα μέν, ὅπως τὰς σπονδὰς ποιήσεσθαι ἐλπίσας μὴ περαιτέρω ποι προχωρήσῃ, λαβόντος, τὴν δ’ εἰρήνην οὐχ ὁμολογήσαντος δώσειν, ἂν μὴ τοὺς [τε] παῖδάς οἱ ὁμήρους προαποστείλῃ, χρόνον τινὰ ἐπέσχε, μέχρις οὗ οἱ Ῥωμαῖοι καὶ τὸν Πέλωρον διαβατόν πῃ τοῦ θέρους γενόμενον οὐ χαλεπῶς, ἄλλως τε καὶ μηδενὸς κωλύοντος, ἐπεραιώθησαν. οὕτω δὲ δὴ τούς τε παῖδας αὐτῷ ἔπεμψε, καὶ μετὰ τοῦτο καὶ συνηλλάγη. Haec ipsis verbis exc. U G 31 sic exorsum: ὅτι ὁ Ἀρτώκης ἡττηθεὶς ὑπὸ Πομπηίου ἐπεκηρυκεύσατο αὐτῷ καὶ δῶρα ἔπεμψεν· ἐκείνου δὲ κ.τ.λ. Excerptum Ursinianum hic illic a Dione discrepans.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (t)",
+      "text": "Exc. U G 32. ὅτι Σηκουανοὶ καὶ Αἴδουοι τὴν προθυμίαν αὐτοῦ ἰδόντες καὶ τὰ ἔργα ὁμολογοῦντα ταῖς ἐλπίσιν αἰσθόμενοι, ἐκείνῳ τε εὐεργεσίαν καταθέσθαι καὶ τοὺς Κελτοὺς τοὺς ὁμοχώρους σφίσι τιμωρήσασθαι ἠθέλησαν· δια[Exc. U G 32.] βάντες γὰρ τὸν Ῥῆνον τῆς τε χώρας αὐτῶν παρετέτμηντο καὶ αὐτοὺς ὑποτελεῖς ἐπεποίηντο, ὁμήρους σφῶν ἔχοντες. ἦρχε δὲ τῶν Κελτῶν Ἀριόουιστος, καὶ τήν τε κύρωσιν τῆς βασιλείας παρὰ τῶν Ῥωμαίων εἰλήφει· πρὸς δὲ δὴ τὴν ἐκ τοῦ πολέμου δόξαν καὶ τὴν ἀπ’ αὐτῆς ἰσχὺν οὐδὲν αὐτῶν ἐφρόντισε, πλὴν καθ’ ὅσον παρὰ τοῦ βαρβάρου πρόφασιν τῆς διαφορᾶς, μὴ καὶ προϋπάρχειν τι ἐς αὐτὸν νομισθῇ, λαβεῖν ἠθέλησε. καὶ μετεπέμψατο αὐτὸν ὡς καὶ διαλεχθῆναί τι αὐτῷ δεόμενος. ἐπεὶ δὲ οὐχ ὑπήκουσεν, ἄλλα ἔφη ὅτι “εἴ τί μοι βούλεται Καῖσαρ εἰπεῖν, αὐτὸς πρὸς ἐμὲ ἐλθέτω· οὔτε γὰρ ἄλλως καταδεέστερος αὐτοῦ εἰμι, καὶ τὸν χρείαν τινὸς ἔχοντα αὐτὸν πρὸς ἐκεῖνον ἀφικνεῖσθαι δεῖ”, ὀργήν τε ὡς καὶ πάντας τοὺς Ῥωμαίους προπεπηλακότας αὐτὸν ἐν τούτῳ ἐποιήσατο, καὶ παραχρῆμα τούς τε ὁμήρους τῶν συμμάχων ἀπῄτησεν αὐτόν, καὶ προσηγόρευσεν αὐτῷ μήτε τῆς χώρας σφῶν ἐπιβαίνειν μήτ’ ἐπικουρίας οἴκοθεν ἐπάγεσθαι. ταῦτα δὲ ἔπραξεν οὐχ ὅτι καταπλήξειν αὐτόν, ἀλλ’ ὅτι ἐξοργιεῖν κἀκ τούτου πρόφασιν τοῦ πολέμου μεγάλην καὶ εὐπρεπῆ λήψεσθαι ἤλπισεν. ἀχθεσθεὶς δὲ ὁ βάρβαρος τοῖς ἐπιτάγμασι πολλὰ καὶ δεινὰ ἀπεκρίνατο, ὥστε τὸν Καίσαρα λόγους μὲν μηκέτ’ αὐτῷ ἀντιπέμψαι, ἀλλὰ πρὶν αἰσθέσθαι τὴν Οὐεσουντίνων καὶ τὴν τῶν Σηκουανῶν πόλιν κατασχεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 (t1)",
+      "text": "Excerptum Ursinianu m, cuius exordio Dionea verba breviter relata sunt. Exc. U R 10. ὅτι Ποθεινοῦ τοῦ εὐνούχου, τοῦ τὴν διοίκησιν τῶν τοῦ Πτολεμαίου χρημάτων προστεταγμένου, κατὰ Ῥωμαίων ἐκστρατεῦσαι τοὺς Αἰγυπτίους παρασκευάσαντος, πυθόμενος τοῦτο ὁ Καῖσαρ, καὶ καταδείσας τὸ πλῆθος αὐτῶν καὶ τὰς τόλμας, ἔπεμψέ τινα πρὸς τὸν Ἀχιλλᾶν, οὔτι γε τῷ αὑτοῦ ἀλλὰ τῷ τοῦ Πτολεμαίου ὀνόματι, κελεύοντος αὐτῷ τὴν ἡσυχίαν ἄγειν. καὶ ὃς συνιεὶς ὅτι οὐ τοῦ παιδὸς ἀλλ’ ἐκείνου ἡ πρόσταξις ἦν, οὐχ ὅπως οὐκ ἐπήκουσεν αὐτοῦ, ἀλλὰ καὶ προσκαταφρονήσας ὡς καὶ φοβουμένου τούς τε στρατιώτας συνήγαγε, καὶ πολλὰ μὲν ὑπὲρ τοῦ Πτολεμαίου πολλὰ δὲ καὶ κατὰ τοῦ Καίσαρος τῆς τε Κλεοπάτρας εἰπών, τέλος καὶ ἐπὶ τοὺς πεμφθέντας καίπερ Αἰγυπτίους ὄντας παρώξυνεν αὐτούς, ὅπως τοῦ τε φόνου σφῶν ἀναπλησθῶσι καὶ ἐς ἀνάγκην ἀσπείστου πολέμου κατασταθῶσιν. Excerptum Petri Patricii exc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (t)",
+      "text": "de leg. cum Dione comparatum. Petr. Patr. exc. de leg. G 1 ὅτι οἱ Πάρθοι πρὸς Τιβέριον ἐπορεύοντο, βασιλέα σφισιν ἐκ τῶν ὁμηρευόντων δοῦναι. καὶ δέδωκεν αὐτοῖς Φρακτῆν τὸν τοῦ Φραάτου υἱόν. ἐκείνου δὲ κατὰ τῆς ὁδοῦ τελευτήσαντος, Τιριδάτην ἐκ τοῦ βασιλικοῦ γένους ἔπεμψεν, καὶ ὅπως ῥᾷον τὴν βασιλείαν παραλάβοι ἔγραψε Μιθριδάτῃ τῷ Ἰβήρων βασιλεῖ εἰς τὴν Ἀρμενίαν εἰσβαλεῖν, ἵνα ὁ Ἀρτάβανος τῷ υἱῷ βοηθῶν ἀπὸ τῆς οἰκίας παρῇ. καὶ εἰσελθὼν ὁ Τιριδάτης τὴν βασιλείαν κατέσχεν. οὐ μέντοι καὶ ἐπὶ πολὺ ἐβασίλευσεν· ὁ γὰρ Ἀρτάβανος Σκύθας προσλαβὼν οὐ χαλεπῶς αὐτὸν ἐξήλασε. καὶ ταῦτα μὲν τὰ κατὰ Πάρθους.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rhq-ao",
+      "title": {
+        "english": "Remains of Uncertain Position",
+        "ancient_greek": "Λείψανα Ἀβέβαιου Θέσεως"
+      },
+      "url_slug": "dio-cassius-of-nicaea-uncertain-remains-rhq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ab",
+      "title": {
+        "english": "Roman Histories, John of Antioch's Excerpts Derived from Dion",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-excerpts-rhq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-aa",
+      "title": {
+        "english": "Roman Histories, Peter the Patrician's Vatican or Maian Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-vatican-excerpts-rhq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/vatican-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/vatican-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ad",
+      "title": {
+        "english": "Roman Histories, Photius, Library Code 71",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-ad-rhq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-am",
+      "title": {
+        "english": "Roman Histories, Planudean Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-planudean-excerpts-rhq-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/planudean-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/planudean-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-an",
+      "title": {
+        "english": "Roman Histories, Salmasian Excerpts",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-an-rhq-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-an.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ae",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-rhq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-af",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 2",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-2-rhq-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-2.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ag",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 3",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-3-rhq-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1-3.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ah",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-v2-v1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ai",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 2",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-2-rhq-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-aj",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 3",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-2-3-rhq-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-2-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-2-3.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ecy-ac",
+      "title": {
+        "english": "Florentine Fragments",
+        "ancient_greek": "Φλωρεντινὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hellenica-anon-florentine-fragments-ecy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/florentine-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/florentine-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/florentine-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/florentine-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/florentine-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gae-aa",
+      "title": {
+        "english": "Fragments on Dedications",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀναθημάτων"
+      },
+      "url_slug": "menetor-the-historian-dedications-gae-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menetor-the-historian/dedications",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menetor-the-historian/dedications.json"
+      }
+    },
+    {
+      "eul_wid": "cmq-aa",
+      "title": {
+        "english": "Fragments on Icarus and Wine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου"
+      },
+      "url_slug": "eparchides-of-oineis-icarus-wine-cmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.json"
+      }
+    },
+    {
+      "eul_wid": "luo-aa",
+      "title": {
+        "english": "Historical Memoirs Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-viii-euergetes-historical-fragments-luo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "fsw-ac",
+      "title": {
+        "english": "Historical and Encomiastic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callisthenes-of-olynthus-historical-encomiastic-fsw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/callisthenes-of-olynthus/historical-encomiastic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callisthenes-of-olynthus/historical-encomiastic.json"
+      }
+    },
+    {
+      "eul_wid": "ima-aa",
+      "title": {
+        "english": "Manetho's Egyptian Dynasties",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "manetho-of-sebennytos-egyptian-dynasties-ima-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/manetho-of-sebennytos/egyptian-dynasties",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos/egyptian-dynasties.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos/egyptian-dynasties.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos/egyptian-dynasties.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-of-sebennytos/egyptian-dynasties.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bg",
+      "title": {
+        "english": "On Theramenes",
+        "ancient_greek": "Περὶ Θεραμένους"
+      },
+      "url_slug": "historical-fragments-anonymous-theramenes-mmg-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/theramenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/theramenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/theramenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/theramenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/theramenes.json"
+      }
+    },
+    {
+      "eul_wid": "dca-aa",
+      "title": {
+        "english": "Scythian and Egyptian Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathon-of-samos-scythian-egyptian-histories-dca-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathon-of-samos/scythian-egyptian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-samos/scythian-egyptian-histories.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ac",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

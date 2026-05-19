@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "yew",
+  "auth_slug": "little-song-of-the-disciples",
+  "name": {
+    "english": "Little Song of the Disciples",
+    "ancient_greek": "Ἡ καντιονίσκος τῶν μαθητῶν"
+  },
+  "seo_h1": "The Little Song of the Disciples and the Prayer for Wisdom",
+  "seo": {
+    "browser_title": "Little Song of the Disciples on Eulogikon Greek Archive",
+    "meta_title": "Little Song of the Disciples Byzantine Christian Poem",
+    "meta_description": "Anonymous author of a late medieval Byzantine Christian poem. Surviving work is Little Song of the Disciples. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Βυζαντινή",
+      "english": "Byzantine",
+      "href": "/periods/byzantine"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Χριστιανική",
+      "english": "Byzantine Christian",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author of <strong>Little Song of the Disciples</strong> is anonymous. The poem was composed in the late medieval or early Renaissance period, likely during the 15th or 16th century CE. This era spans the final years of the Byzantine Empire and the early period of Greek cultural activity under Ottoman rule.</p>\n<p class=\"research-text\">The work is written in Byzantine Christian Greek, indicating its use within a religious community. The author&#x27;s specific biography, including details of their life, education, or location, is unknown. The title suggests the poem served a didactic or devotional purpose, possibly intended for instruction or worship within a Christian, perhaps monastic, setting. It represents a single known work from this period.</p>\n<p class=\"research-text\">According to modern scholars, poetry from this late- and post-Byzantine era often functioned to preserve theological ideas and cultural identity following major historical events like the fall of Constantinople in 1453. While the specific significance of this particular &quot;Little Song&quot; is not detailed in general reference sources, it belongs to a broader tradition of religious verse that played an important role in community education and spiritual life.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "yew-aa",
+      "title": {
+        "english": "A Disciple's Prayer for Wisdom",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "little-song-of-the-disciples-prayer-wisdom-yew-aa",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/little-song-of-the-disciples/prayer-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-song-of-the-disciples/prayer-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-song-of-the-disciples/prayer-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-song-of-the-disciples/prayer-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/little-song-of-the-disciples/prayer-wisdom.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/little-song-of-the-disciples",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/little-song-of-the-disciples.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/little-song-of-the-disciples.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/little-song-of-the-disciples.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/little-song-of-the-disciples.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

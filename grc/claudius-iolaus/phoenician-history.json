@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nxy-aa",
+  "eul_aid": "nxy",
+  "author_slug": "claudius-iolaus",
+  "work_slug": "phoenician-history",
+  "url_slug": "claudius-iolaus-phoenician-history-nxy-aa",
+  "author": {
+    "english": "Claudius Iolaus the Historian",
+    "ancient_greek": "Κλαύδιος Ἰολᾶος ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Phoenician History Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Claudius Iolaus the Historian on Eulogikon",
+    "meta_title": "Classical Phoenician History Fragments in Ancient Greek",
+    "meta_description": "Claudius Iolaus preserves rare accounts of Phoenician geography and mythology in these fragmentary historical Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Phoenician History</strong> of Claudius Iolaus is a lost prose work, surviving only in fragments quoted by later authors. These passages are preserved primarily in the <strong>Ethnica</strong>, a 6th-century geographical lexicon by Stephanus of Byzantium, with a brief notice of the work&#x27;s existence also recorded by the 9th-century patriarch Photius. Written in Greek for a Greco-Roman audience, the compilation presented Phoenician mythological and geographical lore. The extant fragments indicate it dealt with mythological genealogies and foundation stories, such as the origins of Cadmus, offered etymological explanations for names like that of Europe, and described local history and topography, including places such as Ialysus on Rhodes. Its approach involved a cultural translation, interpreting Phoenician traditions within a familiar Greek framework. The author&#x27;s Roman <strong>praenomen</strong> &quot;Claudius&quot; suggests a composition date in the Imperial era, though his precise identity remains uncertain due to confusing references to other historians named Iolaus. The fragments, collected as <strong>FGrHist</strong> 788, served as a minor source for later lexicographers like Stephanus. For modern scholarship, they represent a valuable data point in understanding the reception and reinterpretation of Phoenician cultural memory within the tradition of Greek ethnography.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-4",
+      "text": "ΦΟΙΝΙΚΙΚΑ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Stephan. Byz.: Ἄκη, πόλις Φοινίκης ... Κλαύδιος δὲ Ἴουλος ἐν πρώτῃ Φοινικικῶν φησὶν ὅτι ἐκλήθη ἀπὸ Ἡρακλέους. Χαλεπωτάτων γὰρ ὑπὸ Εὐρυσθέως ἐν ἐπιταγαῖς ἄθλων περισχεθεὶς, τῷ τῆς Λερναίας ὕδρας ἰῷ [καὶ] τοῖς τῶν δηγμάτων ἐπονεῖτο ἕλκεσιν. Ἀνεῖλε δὲ τὸ Δελφικὸν μαντεῖον ἐπ’ ἀνατολὰς ἰτέον, μέχρι ἂν ἐντύχῃ ποταμῷ φύοντι πόαν τῇ ὕδρᾳ παραπλήσιον· ἐκείνης γὰρ καταπλασάμενον τῶν ἑλκῶν ἀπαλλαγήσεσθαι. Εὗρε δὲ τὸν ποταμὸν καὶ τὴν πυθόχρηστον πόαν, ἧς ὁ καυλὸς ἥ τε ῥίζα πάντως ἐστὶν ὀφιώδης τῷ ποικίλῳ [καὶ] ταῖς κεφαλαῖς· ὁπόσα γὰρ ἄν τις ἀποκείρῃ, φύονται αὖθις ἕτεραι. Κολοκάσιον μέντοι καλοῦσι τὴν ῥίζαν. Τὸ δ’ ὑπερπεφυκὸς κιβώριον ὄψιν ἡδεῖαν ἐδωδίμους τε τὰς φλέβας παρέχον Αἰγυπτίοις· περὶ δὲ τὸν Νεῖλον φύεται πολλή. Ἡ δὲ περὶ τὸν Βῆλον ἕλκη θεραπεύει δυσίατα. Τριβομένη δὲ μετὰ τῆς ῥίζης λευκὸν ἀναδίδωσιν ὀπόν. Τούτῳ, φησὶ, καὶ Ἡρακλῆς ἰάθη. Καὶ καλέσαι τὴν πόλιν Ἄκην. E LIBRO TERTIO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem: Δῶρος, πόλις Φοινίκης ... Νῦν δὲ Δῶρα καλεῖται ... Κλαύδιος Ἴουλλος ἐν γʹ Φοινικικῶν· «Μετὰ Καισάρειαν Δῶρα κεῖται βραχεῖα πολίχνη, Φοινίκων αὐτὴν οἰκούντων, οἳ διὰ τὸ ὑπόπετρον τῶν τε αἰγιαλῶν καὶ τὸ πορφύρας γόνιμον συνελθόντες καλιὰς αὐτοῖς ᾠκοδομήσαντο καὶ περιβαλλόμενοι χάρακας, ὡς ὑπήκουεν αὐτοῖς τὰ τῆς ἐργασίας, τεμνόμενοι τὰς πέτρας διὰ τῶν ἐξαιρουμένων λίθων τὰ τείχη κατεβάλοντο, καὶ τὴν ἔνορμον (εὔορ.?) χηλὴν ὅπως τε (γε?) ἀσφαλῶς ἔθεντο, ἐπώνυμον αὐτὴν τῇ πατρίῳ γλώσσῃ Δῶρα (Δὼρ?) καλοῦντες. Οἱ δὲ Ἕλληνες χάριν τοῦ τῆς φωνῆς εὐπροφόρου καλεῖν ἀρκοῦνται Δῶρα τὴν πόλιν. Καί τινες ἱστοροῦσι Δῶρον τὸν Ποσειδῶνος οἰκιστὴν αὐτῆς γεγονέναι.» Etym.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2a",
+      "text": "M.: Γάδειρα. Τὰ Γάδειρα λέγονται πληθυντικῶς, ἀπὸ τοῦ γῆ καὶ τοῦ δειρά, οἱονεὶ γῆς δειρά. Τὰ γὰρ Γάδειρα τῆς γῆς ἐξοχή ἐστιν. Ἢ, ὥς φησι Κλαύδιος Ἰούλιος ἐν ταῖς Φοινίκης ἱστορίαις, ὅτι Ἀρχαλεὺς υἱὸς Φοίνικος κτίσας πόλιν ὠνόμασε τῇ Φοινίκων γραφῇ· γάδον γὰρ παρ’ αὐτοῖς τὸ ἐκ μικρῶν ᾠκοδομημένον. EX LIBRIS INCERTIS.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Steph. B.: Ἰουδαία. Ἀλέξανδρος ὁ Πολυΐστωρ, ἀπὸ τῶν παίδων Σεμιράμιδος Ἰούδα καὶ Ἰδουμαία, ὡς δὲ Κλαύδιος Ἰόλαος, ἀπὸ Ἰουδαίου Σπάρτωνος ἐκ Θήβης μετὰ Διονύσου ἐστρατευκότος. Idem: Λάμπη, πόλις Κρήτης, Ἀγαμέμνονος κτίσμα, ἀπὸ Λάμπου τοῦ Ταρραίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Τὸ ἐθνικὸν Λαμπαῖος. Κλαύδιος δὲ Ἰούλιος Λαμπέας αὐτούς φησιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "fxw-aa",
+      "title": {
+        "english": "Argolic and River Lore Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timotheus-the-pseudo-historian-argolic-river-lore-fxw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-the-pseudo-historian/argolic-river-lore",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-the-pseudo-historian/argolic-river-lore.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ah",
+      "title": {
+        "english": "First Civil War",
+        "ancient_greek": "Ἐμφυλίων Πρώτη"
+      },
+      "url_slug": "appian-of-alexandria-first-civil-war-pdc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/first-civil-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/first-civil-war.json"
+      }
+    },
+    {
+      "eul_wid": "lng-aa",
+      "title": {
+        "english": "Fragments on India",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰνδικῆς"
+      },
+      "url_slug": "megasthenes-india-fragments-lng-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/megasthenes/india-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes/india-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes/india-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes/india-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/megasthenes/india-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "cgc-aa",
+      "title": {
+        "english": "Fragments on Italian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας"
+      },
+      "url_slug": "theophilus-the-historian-italian-history-cgc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-historian/italian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.json"
+      }
+    },
+    {
+      "eul_wid": "hus-aa",
+      "title": {
+        "english": "Fragments on Scythian Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Σκυθικῆς Γεωγραφίας"
+      },
+      "url_slug": "timonax-scythian-geography-hus-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timonax/scythian-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonax/scythian-geography.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aa",
+      "title": {
+        "english": "From the Sicilian and Island",
+        "ancient_greek": "ἐκ τῆς Σικελῖκης καὶ νησιωτικής"
+      },
+      "url_slug": "appian-of-alexandria-sicily-islands-pdc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/sicily-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/sicily-islands.json"
+      }
+    },
+    {
+      "eul_wid": "fbo-aa",
+      "title": {
+        "english": "On Ancient Poets and Musicians",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "glaucus-of-rhegium-ancient-poets-musicians-fbo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/glaucus-of-rhegium/ancient-poets-musicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-of-rhegium/ancient-poets-musicians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-of-rhegium/ancient-poets-musicians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-of-rhegium/ancient-poets-musicians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/glaucus-of-rhegium/ancient-poets-musicians.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ah",
+      "title": {
+        "english": "Roman Histories, Version 2 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-v2-v1-rhq-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-v2-v1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-v2-v1.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/claudius-iolaus/phoenician-history",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

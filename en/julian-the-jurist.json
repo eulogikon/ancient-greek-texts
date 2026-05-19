@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "poq",
+  "auth_slug": "julian-the-jurist",
+  "name": {
+    "english": "Julian the Jurist",
+    "ancient_greek": "Ἰουλιανὸς ὁ νομοδιδάσκαλος"
+  },
+  "seo_h1": "Julian the Jurist on Law and Physicians",
+  "seo": {
+    "browser_title": "Julian the Jurist on Eulogikon Greek Archive and Library",
+    "meta_title": "Julian the Jurist Ancient Roman Legal Treatise Works",
+    "meta_description": "Julian the Jurist, a 2nd century Roman legal scholar. His surviving legal treatise preserved in Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Νόμος",
+      "english": "Law",
+      "href": "/domains/law"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Julian the Jurist was a prominent Roman jurist of the 2nd century CE. He served under the emperors Hadrian, Antoninus Pius, and possibly Marcus Aurelius, holding high offices including consul in 148 CE and governor of Germania Inferior and Hispania Citerior. Julian is often identified as the head of the Sabinian school of jurisprudence.</p>\n<p class=\"research-text\">His major work is the Digesta, a systematic compilation of civil law in 90 books commissioned by Emperor Hadrian. This work consolidated the praetors&#x27; edicts into a definitive, final version known as the Edictum Perpetuum. Julian is considered one of the most influential jurists of the Roman classical period.</p>\n<p class=\"research-text\">His Digesta was a foundational text that systematized praetorian law, and his writings were extensively preserved and cited in Justinian&#x27;s Digest. His opinions carried significant authority, supported by an imperial decree noting their legal force.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "poq-aa",
+      "title": {
+        "english": "Law-Physicians",
+        "ancient_greek": "Νόμος περὶ Ἰατρῶν"
+      },
+      "url_slug": "julian-the-jurist-law-physicians-poq-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-jurist/law-physicians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-jurist/law-physicians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-jurist/law-physicians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-jurist/law-physicians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-jurist/law-physicians.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/julian-the-jurist",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-jurist.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-jurist.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-jurist.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/julian-the-jurist.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

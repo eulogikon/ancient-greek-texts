@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pmi-ab",
+  "eul_aid": "pmi",
+  "author_slug": "fronto-the-rhetorician",
+  "work_slug": "marcus-caesar-ab",
+  "url_slug": "fronto-the-rhetorician-marcus-caesar-ab-pmi-ab",
+  "author": {
+    "english": "Fronto the Rhetorician",
+    "ancient_greek": "Μᾶρκος Κορνήλιος Φρόντων ὁ Ῥήτωρ"
+  },
+  "title": {
+    "english": "To Marcus Caesar and Each Other",
+    "ancient_greek": "Πρὸς Μάρκον Καῖσαρα καὶ Ἀλλήλους"
+  },
+  "seo": {
+    "browser_title": "To Marcus Caesar and Each Other by Fronto on Eulogikon",
+    "meta_title": "To Marcus Caesar and Each Other by Fronto in Greek",
+    "meta_description": "Fronto's oration celebrates the bond between the Roman orator and Marcus Caesar, exploring themes of friendship and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>To Marcus Caesar and Each Other</strong> is a collection of letters and orations by the Roman rhetorician Marcus Cornelius Fronto, primarily composed in Greek and addressed to his pupil, the future emperor Marcus Aurelius, then known as Marcus Caesar, along with other members of the imperial court. The work, dating from approximately 139 to 161 CE, provides a detailed view of Fronto’s role as a tutor, focusing on the cultivation of eloquence, literary style, and the practical application of rhetoric to governance. Within this instructional correspondence, Fronto championed a return to the stylistic models of early Latin authors and emphasized the importance of finding novel and precise expressions. The letters also reveal a notable degree of personal affection between teacher and student, extending beyond formal pedagogical advice. The text survives only in a fragmentary state; the entire corpus was lost for centuries until its rediscovery in the early 19th century within palimpsest manuscripts, where the original writing had been partially erased and overwritten. Modern scholars value this work as a crucial historical source, offering an intimate glimpse into the education of Marcus Aurelius and the intellectual preoccupations of the Roman elite during the Antonine period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "8 t",
+      "text": "〈ΗΡΩΔΗΙ ΠΑΡΑ ΦΡΟΝΤΩΝΟΣ〉 /+++++++++++++++++++++++++++++++++++++++ / τερον γε ὡς η — — ἡμᾶς· τὸ δὲ μετριάζειν ἐν τοῖς ἥττοσιν κακοῖς οὐ δύσκολον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 1",
+      "text": "ἐν παντὶ μὲν γὰρ τὸ κατὰ παν — — καπο — — προσεποντος ἀπρεπὲς ἀνδρὶ παιδείας πεπειραμένῳ. χαίρων δὲ ἔγωγε μᾶλλον — — μενως μέτρα — — — / μι. τὸ γὰρ πρὸς ἡδονὴν παράλογον τοῦ πρὸς ἀνίαν αἱρετώτερον. Ἀλλ’ οὐδὲ τὰ τῆς ἡλικίας σοι παρῴχηκεν πρὸς παίδων ἑτέρων ἀνατροφήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 2",
+      "text": "ζημία δὲ πᾶσα σὺν ἐλπίδι μὲν ἀποκοπτομένῃ χαλεπή· ῥᾴων δὲ ὑπολειπομένης εἰς τὸ ἀναλαβεῖν ἐλπίδος· καὶ ὁ μὴ περιμείνας ταύτην ἀγεννὴς καὶ πολὺ τῆς τύχης αὑτῷ χαλεπώτερος. ἡ μέν γε τύχη τὸ παρὸν ἀφείλετο, ὁ δὲ ἐστέρησεν αὑτὸν καὶ τῆς ἐλπίδος. Ὅθεν δ’ ἂν ῥᾷστα παραψυχῆς τύχοις, πείρᾳ μαθὼν ἔγωγε, ἀλλὰ οὐ σοφίᾳ, διδάξω· ἀεί μοι συνέβη τι τῶν δεινῶν παθεῖν ἐρῶντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 3",
+      "text": "ἤρων δὲ τότε μὲν Ἀθηνοδότου τοῦ σοφοῦ, τότε δὲ Διονυσίου τοῦ ῥήτορος. καὶ δὴ τοῦτο ἐννοῶν ὅτι μοι σώζοιτο κεῖνος οὗ γ’ ἐρῶν τύχοιμι, ἧττον ἦν τῇ λύπῃ καὶ τοῖς προσπίπτουσιν ἁλώσιμος. εἰ δέ τινος ἐρᾷς καὶ σὺ νέου γενναίου ἀρετῇ καὶ παιδείᾳ καὶ τύχῃ καὶ σωφροσύνῃ διαφέροντος, οὐκ ἂν ἁμαρτάνοις ὁρμῶν ἐπ’ ἐκείνῳ καὶ πᾶσαν ἀγαθῶν ἀσφάλειαν ἐπ’ αὐτῷ / τιθέμενος, ὡς, ἐφ’ ὅσον γε ἡμῖν οὗτος περίεστιν (ἀ〈ν〉τεραστὴς γὰρ εἶναι σοί φημι, καὶ οὐκ ἀποκρύπτομαι), τὰ ἄλλα γε πάντα ἡμῖν εὐίατα καὶ τούτου μακρῷ δεύτερα. / ΜΗΤΡΙ ΚΑΙΣΑΡΟΣ Πῶς ἂν ἀπολογησάμενος συγγνώμης παρὰ σοῦ τύχοιμι, ὅτι σοι τούτων τῶν ἡμερῶν οὐκ ἐπέστειλα; ἢ δῆλον ὅτι τὴν ἀληθῆ τῆς ἀσχολίας εἰπὼν αἰτίαν; λόγον γάρ τινα συνήγαγον περὶ τοῦ μεγάλου βασιλέως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 1",
+      "text": "ἡ δὲ τῶν Ῥωμαίων παροιμία “φίλου τρόπον μὴ μισεῖν ἀλλ’ εἰδέναι” φησὶ δεῖν. οἷος δ’ οὑμὸς τρόπος φράσω καὶ οὐκ ἀποκρύψομαι. ὑπὸ τῆς πολλῆς ἀφυίας καὶ οὐθενείας ὅμοιόν τι πάσχω τῇ ὑπὸ Ῥωμαίων ὑαίνῃ καλουμένῃ, ἧς τὸν τράχηλον κατ’ εὐθὺ τετάσθαι λέγουσιν, κάμπτεσθαι δὲ ἐπὶ θάτερα /) τῶν πλευρῶν μὴ δύνασθαι. κἀγὼ δὴ ἐπειδάν τι συντάττω προθυμότερον, ἀκαμπής τίς εἰμι καὶ τῶν ἄλλων πάντων ἀφέμενος, ἐπ’ ἐκεῖνο μόνον ἵεμαι ἀνεπιστρεπτεὶ κατὰ τὴν ὕαιναν. καὶ τοὺς ὄφεις δέ φασιν τὰ ἀκόντια οὕτως πως ᾄττειν κατ’ εὐθύ, τὰς δὲ ἄλλας στροφὰς μὴ στρέφεσθαι· καὶ τὰ δόρατα δὲ καὶ τὰ τόξα τότε μάλιστα τυγχάνει τοῦ σκοποῦ, ὅταν εὐθεῖαν ᾄξῃ μήτε ὑπ’ ἀνέμου παρωσθέντα μήτε ὑπὸ χειρὸς Ἀθηνᾶς ἢ Ἀπόλλωνος σφαλέντα, ὥσπερ τὰ ὑπὸ Τεύκρου ἢ τὰ ὑπὸ τῶν μνηστήρων βληθέντα. Ταύτας μὲν δὴ τρεῖς εἰκόνας ἐμαυτῷ προσείκασα, τὰς μὲν δύο ἀγρίας καὶ θηριώδεις, τὴν τῆς ὑαίνης καὶ τὴν τῶν ὄφεων, τρίτην δὲ τὴν τῶν βελῶν καὶ αὐτὴν ἀπάνθρωπον / οὖσαν καὶ ἄμουσον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 2",
+      "text": "εἰ δὲ δὴ καὶ τῶν ἀνέμων φαίην ἐπαινεῖσθαι μάλιστα τὸν οὔριον, ὅτι δὴ ἐπ’ εὐθὺ φέροι τὴν ναῦν, ἀλλὰ μὴ εἰς τὰ πλάγια ἀπονεύειν ἐῷ, ἡ τετάρτη ἂν εἴη αὕτη εἰκὼν καὶ αὐτὴ βιαία. εἰ δὲ προσθείην καὶ τὸ τῆς γραμμῆς, ὅτι πρεσβυτάτη τῶν γραμμῶν ἡ εὐθεῖά ἐστιν, πέμπτην ἂν εἰκόνα λέγοιμι, μὴ μόνον ἄψυχον ὥσπερ τὴν τῶν δοράτων, ἀλλὰ καὶ ἀσώματον ταύτην οὖσαν. Τίς ἂν οὖν εἰκὼν εὑρεθείη πιθανή; μάλιστα μὲν ἀνθρωπίνη, ἄμεινον δὲ εἰ καὶ μουσική.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 3",
+      "text": "εἰ / δ’ αὖ καὶ φιλίας ἢ ἔρωτος αὐτῇ μετείη, μᾶλλον ἂν ἔτι ἡ εἰκὼν ἐοίκοι. τὸν Ὀρφέα φασὶν οἰμῶξαι ὀπίσω ἐπιστραφέντα· εἰ δὲ κατ’ εὐθὺ ἔβλεπέν τε καὶ ἐβάδιζεν, οὐκ ἂν ᾤμωξεν. ἅλις εἰκόνων. καὶ γὰρ αὕτη τις ἀπίθανος ἡ τοῦ Ὀρφέως εἰκὼν ἐξ ᾅδου ἀνιμημένη. Ἀπολογήσομαι δὲ τοὐντεῦθεν ἤδη ὅθεν ἂν ῥᾷστα συγγνώμης τύχοιμι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 4",
+      "text": "τί δὴ τοῦτό ἐστιν; ὅτι συγγράφων τὸ τοῦ βασιλέως ἐγκώμιον ἔπραττον μὲν ὃ μάλιστα σοί τε καὶ τῷ σῷ παιδὶ κεχαρισμένον ἐστίν· ἔπειτα δὲ καὶ ὑμῶν ἐμεμνήμην καὶ ὠνόμαζόν γε ὑμᾶς ἐν τῷ συγγράμματι, ὥσπερ οἱ ἐρασταὶ τοὺς φιλτάτους ὀνομάζουσιν ἐπὶ πάσῃ κύλικι. ἀλλὰ γὰρ τέχνωσις τῶν εἰκόνων ἐπεισρεῖ καὶ ἐπιφύεται. αὕτη γοῦν παρεφάνη, ἣν ἐπὶ πάσαις λέγω, ἥτις καὶ δικαιότατα εἰκὼν ἂν προσαγορεύοιτο οὖσα ἐκ ζωγρά/φου· τὸν Πρωτογένη τὸν ζωγράφον φασὶν ἕνδεκα ἔτεσιν ἢ τὸν Ἰάλυσον τὸν Ἰάλυσον γρᾶψαι, μηδὲν ἕτερον ἐν τοῖς ἕνδεκα ἔτεσιν ἢ τὸν Ἰάλυσον γράφοντα. ἐμοὶ δὲ οὐχ εἷς, δύο δὲ ἅμα Ἰαλύσω ἐγραφέσθην, οὐ δὴ τοῖν προσώποιν οὐδὲ ταῖν μορφαῖν μόνον, ἀλλὰ καὶ τοῖν τρόποιν καὶ ταῖν ἀρεταῖν οὐ μετρίω ὄντε ἄμφω οὐδὲ γράφεσθαι ῥᾳδίω, ἀλλ’ ὁ μέν ἐστιν μέγας βασιλεὺς ἄρχων πάσης τῆς γῆς καὶ θαλάττης, ὁ δὲ ἕτερος υἱὸς μεγάλου / βασιλέως, ἐκείνου μὲν οὕτω παῖς ὥσπερ Ἀθάνα τοῦ Διός, σὸς δὲ υἱὸς ὡς τῆς Ἥρας ὁ Ἥφαιστος· ἀπέστω δὲ τὸ τῶν ποδῶν ταύτης τῆς τοῦ Ἡφαίστου εἰκόνος. ἡ μὲν οὖν ἀπολογία αὕτη ἂν εἴη πάνυ τις εἰκαστικὴ γενομένη καὶ γραφικὴ εἰκόνων ἔκπλεως αὐτὴ μάλ〈α〉. Ἔτι κατὰ τοὺς γεωμέτρας αἰτήσομαι· τὸ ποῖον; εἴ τι τῶν ὀνομάτων ἐν ταῖς ἐπιστολαῖς ταύταις εἴη ἄκυρον ἢ βάρβαρον ἢ ἄλλως ἀδόκιμον ἢ μὴ πάνυ Ἀττικόν, ἀλλὰ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 5",
+      "text": ".. ε .. τοῦ ὀνόματος ς’ ἀξιῶ τήν 〈γε〉 διάνοιαν σκοπεῖν αὐτὴν καθ’ αὑτήν· οἶσθα γὰρ ὅτι ἐν αὐτοῖς ὀνόμασιν καὶ αὐτῇ διαλέκτῳ διατρίβω. καὶ γὰρ τὸν Σκύθην ἐκεῖνον τὸν Ἀνάχαρσιν οὐ πάνυ τι ἀττικίσαι φασίν, ἐπαινεθῆναι δ’ ἐκ τῆς διανοίας καὶ τῶν ἐνθυμημάτων. παραβαλῶ δὴ ἐμαυτὸν Ἀναχάρσιδι οὐ μὰ Δία κατὰ τὴν σοφίαν ἀλλὰ κατὰ τὸ βάρβαρος ὁμοίως εἶναι. / ἦν γὰρ ὁ μὲν Σκύθης τῶν νομάδων Σκυθῶν, ἐγὼ δὲ Λίβυς τῶν Λιβύων τῶν νομάδων. κοινὸν δὲ ἦν τὸ νέμεσθαι ἐμοί τε καὶ Ἀναχάρσιδι· κοινὸν οὖν ἔσται καὶ τὸ βληχᾶσθαι νεμομένοις, ὅπως ἄν τις βληχήσηται. οὕτως μὲν δὴ καὶ τὸ βαρβαρίζειν τῷ βληχᾶσθαι προσῄκασα. οὐκοῦν παύσομαι μηδὲν ἕτερον γράφων ἀλλὰ εἰκόνας. ++++++++++++++++++++++++++++++++++++++ ++++++++++++++++++++++++++++++++++++++++",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pmi-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "fronto-the-rhetorician-epigrams-pmi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "pmi-aa",
+      "title": {
+        "english": "Supplement to Headless Letters",
+        "ancient_greek": "Προσθήκη εἰς Ἐπιστολὰς Ἀκέφαλους"
+      },
+      "url_slug": "fronto-the-rhetorician-headless-letters-supplement-pmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/headless-letters-supplement",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/headless-letters-supplement.json"
+      }
+    },
+    {
+      "eul_wid": "pmi-ad",
+      "title": {
+        "english": "To Friends",
+        "ancient_greek": "Πρὸς Φίλους"
+      },
+      "url_slug": "fronto-the-rhetorician-friends-pmi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/friends.json"
+      }
+    },
+    {
+      "eul_wid": "pmi-ac",
+      "title": {
+        "english": "To Marcus Caesar and Each Other",
+        "ancient_greek": "Πρὸς Μάρκον Καῖσαρα καὶ Ἀλλήλους"
+      },
+      "url_slug": "fronto-the-rhetorician-marcus-caesar-ac-pmi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ac.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.json"
+      }
+    },
+    {
+      "eul_wid": "qko-aa",
+      "title": {
+        "english": "On Figures of Thought and Speech",
+        "ancient_greek": "Περὶ τῶν τῆς διανοίας καὶ τῆς λέξεως σχημάτων"
+      },
+      "url_slug": "alexander-son-of-numenius-figures-thought-speech-qko-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-son-of-numenius/figures-thought-speech",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/figures-thought-speech.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/figures-thought-speech.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/figures-thought-speech.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-son-of-numenius/figures-thought-speech.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-cj",
+      "title": {
+        "english": "On Peace",
+        "ancient_greek": "περὶ τῆς εἰρήνης"
+      },
+      "url_slug": "demosthenes-of-athens-peace-fsm-cj",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/peace",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/peace.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/peace.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/peace.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/peace.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-ci",
+      "title": {
+        "english": "On Syntax",
+        "ancient_greek": "περὶ συντάξεως"
+      },
+      "url_slug": "demosthenes-of-athens-syntax-fsm-ci",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/syntax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/syntax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/syntax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/syntax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/syntax.json"
+      }
+    },
+    {
+      "eul_wid": "fge-ab",
+      "title": {
+        "english": "On the Lot of Nicostratus, Epilogue",
+        "ancient_greek": "Περὶ τοῦ Νικοστράτου κλήρου"
+      },
+      "url_slug": "isaeus-the-orator-nicostratus-lot-fge-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/nicostratus-lot",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/nicostratus-lot.json"
+      }
+    },
+    {
+      "eul_wid": "okq-ac",
+      "title": {
+        "english": "Orations",
+        "ancient_greek": "Λόγοι"
+      },
+      "url_slug": "dio-chrysostom-orations-okq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-chrysostom/orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ar",
+      "title": {
+        "english": "To Nicocles",
+        "ancient_greek": "Τῷ Νικοκλεί"
+      },
+      "url_slug": "isocrates-of-athens-to-nicocles-ffu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/to-nicocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/to-nicocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/to-nicocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/to-nicocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/to-nicocles.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ca",
+      "title": {
+        "english": "Tyrannicide",
+        "ancient_greek": "Τυραννοκτόνος"
+      },
+      "url_slug": "lucian-of-samosata-tyrannicide-pfk-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/tyrannicide",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/tyrannicide.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/fronto-the-rhetorician/marcus-caesar-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/fronto-the-rhetorician/marcus-caesar-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

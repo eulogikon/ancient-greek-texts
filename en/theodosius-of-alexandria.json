@@ -1,0 +1,184 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "vdq",
+  "auth_slug": "theodosius-of-alexandria",
+  "name": {
+    "english": "Theodosius of Alexandria",
+    "ancient_greek": "Θεοδόσιος ὁ Ἀλεξανδρεύς"
+  },
+  "seo_h1": "Verb and Noun Inflection in the Grammar of Theodosius of Alexandria",
+  "seo": {
+    "browser_title": "Theodosius of Alexandria on Eulogikon Greek Archive",
+    "meta_title": "The Theodosius of Alexandria Ancient Greek Grammar",
+    "meta_description": "Theodosius of Alexandria was a late antique grammarian. He wrote eight grammatical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theodosius of Alexandria was a Greek grammarian active in the late fourth and early fifth centuries CE. He worked within the scholarly tradition of Alexandria, though no specific biographical details about his life or education survive.</p>\n<p class=\"research-text\">His principal work is the Canones peri kliseōs onomatōn kai rhēmatōn, a systematic treatise on the inflection of Greek nouns and verbs. This grammatical handbook was preserved and used extensively in later Byzantine education.</p>\n<p class=\"research-text\">Theodosius&#x27;s Canones is a key work of Late Antique Greek grammatical scholarship. It provided a concise set of morphological rules that served as a standard textbook for centuries. Its influence endured through the medieval period, with later grammarians such as Maximus Planudes compiling and commenting on its precepts.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 8,
+  "works": [
+    {
+      "eul_wid": "vdq-ac",
+      "title": {
+        "english": "Introductory Canons-Noun Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-noun-inflection-vdq-ac",
+      "passages": 40,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-noun-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-noun-inflection.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ad",
+      "title": {
+        "english": "Introductory Canons-Verb Inflection",
+        "ancient_greek": "Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων"
+      },
+      "url_slug": "theodosius-of-alexandria-canons-verb-inflection-vdq-ad",
+      "passages": 57,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/canons-verb-inflection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/canons-verb-inflection.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-af",
+      "title": {
+        "english": "On Dialects",
+        "ancient_greek": "Περὶ Διαλέκτων"
+      },
+      "url_slug": "theodosius-of-alexandria-dialects-vdq-af",
+      "passages": 76,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/dialects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/dialects.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/dialects.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/dialects.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/dialects.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ag",
+      "title": {
+        "english": "On Grammar",
+        "ancient_greek": "Περὶ γραμματικῆς"
+      },
+      "url_slug": "theodosius-of-alexandria-grammar-vdq-ag",
+      "passages": 194,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/grammar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/grammar.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-aa",
+      "title": {
+        "english": "On the Declension of Acute Words Ending in -on",
+        "ancient_greek": "Περὶ κλίσεως τῶν εἰς ων ὀξυτόνων"
+      },
+      "url_slug": "theodosius-of-alexandria-declension-acute-words-vdq-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/declension-acute-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-acute-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-acute-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-acute-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-acute-words.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ab",
+      "title": {
+        "english": "On the Declension of Words Ending in -on",
+        "ancient_greek": "Περὶ κλίσεως τῶν εἰς ων βαρυτόνων"
+      },
+      "url_slug": "theodosius-of-alexandria-declension-on-words-vdq-ab",
+      "passages": 7,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/declension-on-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/declension-on-words.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ah",
+      "title": {
+        "english": "On Tone",
+        "ancient_greek": "Περὶ τόνου"
+      },
+      "url_slug": "theodosius-of-alexandria-tone-vdq-ah",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/tone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/tone.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/tone.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/tone.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/tone.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ae",
+      "title": {
+        "english": "Summary of Herodian's Catholic Work",
+        "ancient_greek": "Σύνοψις τοῦ Καθολικοῦ Ἔργου Ἡρωδιανῶν"
+      },
+      "url_slug": "theodosius-of-alexandria-herodian-summary-vdq-ae",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/herodian-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theodosius-of-alexandria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodosius-of-alexandria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodosius-of-alexandria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodosius-of-alexandria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theodosius-of-alexandria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

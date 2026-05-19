@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uri",
+  "auth_slug": "florilegium-cyrillianum-anonymous",
+  "name": {
+    "english": "Florilegium Cyrillianum Anonymous",
+    "ancient_greek": "Ἀνώνυμον Φλωριλέγιον Κυριλλιανόν"
+  },
+  "seo_h1": "Florilegium Cyrillianum Anonymous and the Cyrillian Anthology",
+  "seo": {
+    "browser_title": "Florilegium Cyrillianum Anonymous on Eulogikon Greek Archive",
+    "meta_title": "Florilegium Cyrillianum Anonymous Byzantine Greek Poetry",
+    "meta_description": "Anonymous author of the Florilegium Cyrillianum, a Byzantine Greek verse collection. Read the surviving works. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Βυζαντινὴ Ἑλληνική",
+      "english": "Byzantine Greek",
+      "href": "/dialects/byz"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Florilegium Cyrillianum is an anonymous Byzantine Greek poetic anthology. Its compilation and transmission occurred between the 13th and 16th centuries CE. The title indicates it is a collection of verses attributed to Cyril of Alexandria, assembled by a later scribe for devotional or liturgical purposes.</p>\n<p class=\"research-text\">The sole known work is the Florilegium Cyrillianum, a verse anthology preserving material associated with Cyril of Alexandria and contained in later manuscripts.</p>\n<p class=\"research-text\">This florilegium demonstrates the enduring textual and theological reception of Cyril of Alexandria in the late Byzantine and post-Byzantine periods. It exemplifies a genre of Byzantine literature that adapted patristic teachings into verse for mnemonic or catechetical use, contributing to the study of Byzantine hymnography and patristic florilegia.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "uri-aa",
+      "title": {
+        "english": "Cyrillian Anthology",
+        "ancient_greek": "Κυρίλλειος Ἀνθολογία"
+      },
+      "url_slug": "florilegium-cyrillianum-anonymous-anthology-uri-aa",
+      "passages": 278,
+      "links": {
+        "html": "https://eulogikon.org/grc/florilegium-cyrillianum-anonymous/anthology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/florilegium-cyrillianum-anonymous/anthology.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/florilegium-cyrillianum-anonymous",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/florilegium-cyrillianum-anonymous.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/florilegium-cyrillianum-anonymous.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/florilegium-cyrillianum-anonymous.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/florilegium-cyrillianum-anonymous.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

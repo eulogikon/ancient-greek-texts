@@ -1,0 +1,18607 @@
+---
+title: On Signs in the Odyssey
+title_greek: Περὶ Σημίων Ὀδυσσείας
+author: Aristonicus of Alexandria
+eul_wid: mia-aa
+eul_aid: mia
+canonical: "https://eulogikon.org/grc/aristonicus-of-alexandria/signs-odyssey"
+period: Hellenistic
+dialect: Technical Koine
+domain: Grammar
+format: Verse
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# On Signs in the Odyssey
+
+*Περὶ Σημίων Ὀδυσσείας*
+
+**Author:** Aristonicus of Alexandria
+
+**eul_wid:** `mia-aa` · [HTML page](https://eulogikon.org/grc/aristonicus-of-alexandria/signs-odyssey)
+
+## Text
+
+### book 2.1
+
+ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσεν.
+
+### book 2.2
+
+Ex F. Ar. ad Φ. 550. Β. 278. Ο. 56 et scholio ad nostrum
+
+### book 2.3
+
+locum in Ε. apparet, diplam fuisse πρὸς τοὺς χωρίζοντας, qui
+
+### book 2.4
+
+Ulixem solum in Odyssea πτολίπορθον dici, in Iliade etiam
+
+### book 2.5.1
+
+alios opposuerunt. Lehrsius ad F. Ar. Φ. 550 quid ab Ari‐
+
+### book 2.5.2
+
+starcho iis responsum sit coniecit. Ulixem sic nominari κατ’
+
+### book 2.5.3
+
+ἐξοχήν, quod Troiam ipsam everterit, semel etiam in Achille,
+
+### book 2.5.4
+
+qui duodecim urbes in agro Troiano sitas (I. 328) deleverit,
+
+### book 2.5.5
+
+hoc epitheto Homerum uti. Praeterea Epimerism. Cram. an.
+
+### book 2.10.1
+
+Ox. 1, 161 demonstratur, Aristarchum diplam apposuisse propter
+
+### book 2.10.2
+
+vocabuli ἐπεί significationem non tantum quod, sed etiam post‐
+
+### book 2.10.3
+
+quam. cf. L. Ar. 151. Eust. 1382, 28. Sengebusch 6.
+
+### book 3.1
+
+πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω.
+
+### book 3.2
+
+†) Ζηνόδοτος νόμον ἔγνω φησίν. ἄμεινον δὲ τὸ νόον ...
+
+### book 3.3
+
+δι’ ὧν Ὀδυσσεὺς αὐτὸς εἰσάγεται λέγων (ζ 121) „ἠὲ φιλόξει‐
+
+### book 3.4
+
+νοι, καί σφιν νόος ἐστὶ θεουδής.“ MT.
+
+### book 3.5
+
+Post νόον lacunam indicavit Friedlaenderus in recensione
+
+### book 3.1
+
+Dindorfii schol. Graec. (Fleckeisenii Annal. tom. 77 p. 3) et sic
+
+### book 3.2
+
+explevit: καὶ διασαφεῖται τὸ ἐνταῦθα κεφαλαιωδῶς λεγόμενον.
+
+### book 3.3
+
+Homerus non novit vocabulum νόμος, quod primum legitur in
+
+### book 3.4
+
+hymno ad Apollinem Delium v. 20. Itaque ad ρ 487, ubi εὐ‐
+
+### book 3.10.1
+
+νομίην legitur, ab εὖ νέμεσθαι derivatum esse aristarchus do‐
+
+### book 3.10.2
+
+cuit, cf. schol. ibid., certe ut Zenodoti lectionem refutaret, „prae
+
+### book 3.10.3
+
+egregio νόον malam illam et falsam etiamsi decies νόμος apud
+
+### book 3.10.4
+
+Homerum legeretur.“ L. Ar. 348. Ad illum locum ab Aristo‐
+
+### book 3.10.5
+
+nico citatum ζ 121 addi possunt etiam ν 202. θ 576. Ceterum
+
+### book 3.15.1
+
+et Prellerus (ad α 3 p. 10) et Sengebuschius (l. c. p. 7) erra‐
+
+### book 3.15.2
+
+verunt in cod. Hamburgensi T. pro νόμον Zenodoti νόον le‐
+
+### book 3.15.3
+
+gentes, haud dubie quod Ven. M. non inspexerunt. Prellerus
+
+### book 3.15.4
+
+Ζηνόδοτος νόον ἔγνω φησὶ ἄμεινον legit, sequentia non potuit
+
+### book 3.15.5
+
+extricare, Sengebuschius νόου ἔγνω Zenodotum scripsisse con‐
+
+### book 3.20.1
+
+iecit et sic Aristonici scholion liberius supplevit. Nauckius
+
+### book 3.20.2
+
+Zenodoti lectionem νομόν fuisse contendit.
+
+### book 7.1
+
+αὐτῶν γὰρ σφετέρῃσιν ἀτασθαλίῃσιν ὄλοντο.
+
+### book 7.2
+
+Citatur hic versus ab Aristonico ad Κ. 205, unde verisi‐
+
+### book 7.3
+
+mile est, etiam hic notasse eum: ὅτι κατὰ τὸ πλῆρες τὰ τοι‐
+
+### book 7.4
+
+αῦτα ἐκφέρει ἑῷ αὐτοῦ, ἐμὸν αὐτοῦ, αὐτῶν σφετέρῃσιν. cf.
+
+### book 7.5.1
+
+β. 45. δ. 118. Vides etiam Aristarchum legisse αὐτῶν pro αὐτοί,
+
+### book 7.5.2
+
+quod J. La Roche in ed. Odysseae Lips. 1867 in textum re‐
+
+### book 7.5.3
+
+cepit. Aristarchi lectionem Eustathius habet 1383, 34. Apol‐
+
+### book 7.5.4
+
+lonius agnoscit de pron. p. 79. 131, de constr. p. 62. cf. Lehrs,
+
+### book 7.5.5
+
+quaestiones epicae p. 114 seq. Alteram lectionem αὐτοὶ γὰρ
+
+### book 7.10.1
+
+σφετέρῃσιν Sengebuschius retulit ad Zenodotum, qui in pro‐
+
+### book 7.10.2
+
+nominibus explicandis et diiudicandis longissime aberraverit ab
+
+### book 7.10.3
+
+Aristarcho. Versus 7 praeterea legitur Δ. 409, quem Aristarchus
+
+### book 7.10.4
+
+ibi expunxit cum duobus praecedentibus, unde sequitur, ut nostro
+
+### book 7.10.5
+
+loco fuerit asteriscus, cuius vestigium et Δ. 409 et hic evanuit.
+
+### book 7.15
+
+Omisit La Roche asteriscum notare in adnotatione sua critica.
+
+### book 11
+
+ἔνθα cf. ad α 18.
+
+### book 16.1
+
+ἀλλ’ ὅτε δὴ ἔτος ἦλθε περιπλομένων ἐνιαυτῶν
+
+### book 16.2
+
+τῷ οἱ ἐπεκλώσαντο θεοὶ οἶκόνδε νέεσθαι
+
+### book 16.3
+
+εἰς Ἰθάκην, οὐδ’ ἔνθα πεφυγμένος ἦεν ἀέθλων
+
+### book 16
+
+καὶ μετὰ οἷσι φίλοισι. θεοὶ δ’ ἐλέαιρον.
+
+### book 16.5.1
+
+†) ὑπερβατόν H. recte adnotavit, sed quae sequuntur cor‐
+
+### book 16.5.2
+
+rupta videntur esse et detorta. Apparet ex Ar. ad Π. 46.
+
+### book 16.5.3
+
+Aristarchum „οὐδ’ ἔνθα πεφυγμένος ἦεν ἀέθλων καὶ μετὰ οἷσι
+
+### book 16.5.4
+
+φίλοισι“ διὰ μέσου, quod nos dicimus in parenthesi, legisse.
+
+### book 16.5.5
+
+cf. ad Β. 745.
+
+### book 18.1
+
+ἔνθα.
+
+### book 18.2
+
+†) τότε HV. χρονικὸν ἐπίῤῥημα καὶ ἐν τόπῳ V.
+
+### book 18.3
+
+Hoc ex Aristarchea explicatione fluxisse cum Sengebuschio
+
+### book 18.4
+
+puto, cf. documenta eius l. c. p. 12 et 14.
+
+### book 21.1
+
+ἀντιθέῳ Ὀδυσῆι.
+
+### book 21.2
+
+Fuit diple ὅτι ἀντίθεος οὐχ ὁ τοῖς θεοῖς ἐναντιούμενος,
+
+### book 21.3
+
+ἀλλ’ ὁ ἀντὶ θεοῦ ὢν, ὁ ἰσόθεος. cf. Apoll. l. h. 31, 13. L.
+
+### book 21.4
+
+Ar. 114.
+
+### book 22.1
+
+ἀλλ’ ὁ μὲν Αἰθίοπας μετεκίαθε τηλόθ’ ἐόντας,
+
+### book 22.2
+
+Αἰθίοπας τοὶ διχθὰ δεδαίαται, ἔσχατοι ἀνδρῶν,
+
+### book 22.3
+
+οἱ μὲν δυσομένου Ὑπερίονος, οἱ δ’ ἀνιόντος.
+
+### book 22.4
+
+*) [ἡ διπλῆ ὅτι] ἡ μετὰ [ἀντὶ τοῦ πρὸς] πρὸς τοὺς
+
+### book 22.5.1
+
+Αἰθίοπας H.
+
+### book 22.5.2
+
+cf. Ε. 264. Lehrs, qu. ep. 88. F. Ar. p. 27 Didym. ad
+
+### book 22.5.3
+
+Α. 423, ubi item Aristarchus μετ’ ἀμύμονας Αἰθιοπῆας ex‐
+
+### book 22.5.4
+
+plicavit ἐπ’ ἀμύμονας, ὅ ἐστι πρὸς ἀμώμους.
+
+### book 22.5.5
+
+Collatis Aristonici scholiis ad Ζ. 154. Η. 138. Μ. 96. Eust.
+
+### book 22.10.1
+
+1385, 31 coniici certe poterit notam fuisse πρὸς τὴν ἐπανά‐
+
+### book 22.10.2
+
+ληψιν τοῦ ὀνόματος· καὶ ὅτι ἐν Ἰλιάδι συνεχῶς ταῖς ἐπανα‐
+
+### book 22.10.3
+
+λήψεσι κέχρηται, ἐν δὲ Ὀδυσσείᾳ ἅπαξ ἐνταῦθα μόνον. Ad
+
+### book 22.10.4
+
+Ζ. 154 est in Aristonico: ἐν δὲ Ὀδυσσείᾳ ἅπαξ κατ’ ἀρχὰς
+
+### book 22.10.5
+
+„Αἰθίοπες τοὶ διχθά.“ Num sic Ar. legit Αἰθίοπες?—aliis
+
+### book 22.15.1
+
+locis, ubi ἐπανάληψις notatur, semper eadem forma eodem casu
+
+### book 22.15.2
+
+repetitur cf. ad Ζ. 154. Η. 138. Μ. 96. Υ. 372. Ψ. 642. Quid
+
+### book 22.15.3
+
+de bipartitis Aethiopibus Aristarchus iudicaverit, non duas esse
+
+### book 22.15.4
+
+Aethiopias, spatio interposito discretas, sed divisam unam in
+
+### book 22.15.5
+
+partes duas continuas, fuse Strabo I, 1 p. 30 sq. ex Apollo‐
+
+### book 22.20
+
+doro nobis servavit. cf. L. Ar. 249. Sengebusch. p. 18. Eust.
+
+### book 22
+
+1386, 14.
+
+### book 28,n1.1
+
+τοῖσι δὲ μύθων ἦρχε.
+
+### book 28,n1.2
+
+ἐν τούτοις δὲ τοῖς θεοῖς V. fluxit fortasse ex Ar. cf. ad Μ. 211.
+
+### book 28,n1.3
+
+Ω. 306. F. Ar. p. 25.
+
+### book 29,n2.1
+
+μνήσατο γὰρ κατὰ θυμὸν ἀμύμονος Αἰγίσθοιο.
+
+### book 29,n2.2
+
+ἢ τοῦ καλοῦ πρὸ τοῦ μοιχεῦσαι, ἢ τοῦ κατὰ γένος ἀγαθοῦ. HPV.
+
+### book 29,n2.3
+
+Prior scholii pars idem explicat, quod Apoll. l. h. 25, 12: ἀμύ‐
+
+### book 29,n2.4
+
+μων ἀμώμητος. ὅταν δὲ εἴπῃ, „μνήσατο γὰρ κατὰ θυμὸν ἀμύμο‐
+
+### book 29,n2.5.1
+
+νος Αἰγίσθοιο“ οὐ τοῦ καθόλου ἀμωμήτου, ἀλλὰ πρὸ τοῦ ἔργου
+
+### book 29,n2.5.2
+
+τῆς μοιχείας· πρότερον γοῦν ἐπιφέρει „φρεσὶ γὰρ κέχρητ’ ἀγαθῇσι.“
+
+### book 29,n2.5.3
+
+(γ 266). Lacunam ante πρότερον indicavit Sengebuschius l. c. p. 21
+
+### book 29,n2.5.4
+
+(ante eum iam Villoisonus in ed. Apollonii), comparavisse Apollonium
+
+### book 29,n2.5.5
+
+epitheton δῖα Κλυταιμνήστρη γ 266. Ex Didymo ad Α. 423 scimus,
+
+### book 29,n2.10.1
+
+Aristarchum ἀμύμων interpretatum esse ἄμωμος, quod habet Apol‐
+
+### book 29,n2.10.2
+
+lonius, cuius tota explicatio, quae Aristonicum redolet, fortasse ex hoc
+
+### book 29,n2.10.3
+
+manavit. (cf. L. Ar. p. 199: φαεινὴν οὐ τὴν τότε λαμπρὰν, ἀλλὰ τὴν
+
+### book 29,n2.10.4
+
+φύσει λαμπρὰν, ad ζ 26. 58. 74. Φ 218. Fr. ad Γ 352).
+
+### book 33.1
+
+οἱ δὲ καὶ αὐτοί
+
+### book 33.2
+
+σφῇσιν ἀτασθαλίῃσιν ὑπὲρ μόρον ἄλγε’ ἔχουσιν.
+
+### book 33.3
+
+†) σημειοῦται Ἀρίσταρχος λέγων τὸν καὶ σύνδεσμον περιτ‐
+
+### book 33.4
+
+τεύειν. H. M. Q.
+
+### book 33.5.1
+
+Aristonici verba habet V.: οἱ δὲ περισσὸν τὸν καὶ σύν‐
+
+### book 33.5.2
+
+δεσμον. cf. θ 154. κ 471. λ 453. ρ 216. F. Ar. p. 34. Cete‐
+
+### book 33.5.3
+
+rum non est scholion ad v. 35, quo conjunctionem καί in „ὡς
+
+### book 33.5.4
+
+καὶ νῦν Αἴγισθοσ“ esse superfluam notatur. Quod Friedlaen‐
+
+### book 33.5.5
+
+derus et Sengebuschius, quorum ille Aristarchum, qui καί in
+
+### book 33.10.1
+
+v. 35 superfluum esse iudicaverit, erravisse demonstrat (p. 34),
+
+### book 33.10.2
+
+hic Aristarchum defendit (p. 25), in Q. legerunt, pertinet ad
+
+### book 33.10.3
+
+v. 33: οἱ δὲ καὶ αὐτοὶ cf. lemma apud Dindorfium.
+
+### book 36.1
+
+Ἑρμείαν πέμψαντες.
+
+### book 36.2
+
+Fuit διπλῆ περιεστιγμένη, quod Zenodotus et Aristopha‐
+
+### book 36.3
+
+nes πέμψαντε δυϊκῶς scripserunt, interpretantes ἡμεῖς: ἐγὼ
+
+### book 36.4
+
+καὶ οἱ ἄλλοι θεοί. v. Duentzerum de Zenodoti studiis Home‐
+
+### book 36.5.1
+
+ricis p. 68. Friedlaenderus Ar. p. 15 exempla collegit, ubi
+
+### book 36.5.2
+
+Zenodotus quamquam de pluribus sermo est duales aut posuit
+
+### book 36.5.3
+
+aut retinuit. Saepissime ab Aristarcho vituperatur, ὅτι συγχεῖ‐
+
+### book 36.5.4
+
+ται τὸ δυϊκόν. cf. schol. in HMQ.
+
+### book 39.1
+
+μήτ’ αὐτὸν κτείνειν μήτε μνάασθαι ἄκοιτιν·
+
+### book 39.2
+
+ἐκ γὰρ Ὀρέσταο τίσις ἔσσεται Ἀτρείδαο
+
+### book 39.3
+
+*) [ἡ διπλῆ ὅτι] ἐντεῦθεν ἐκ τοῦ διηγηματικοῦ μετῆλθεν
+
+### book 39.4
+
+ἐπὶ τὸ μιμητικὸν, διὸ καὶ ἐπιφέρει „ὣς ἔφαθ’ Ἑρμείασ“ (42).
+
+### book 39.5.1
+
+τὸ δὲ Ἀτρείδαο οὐ κατὰ τοῦ Ὀρέστου, ἀλλὰ κατὰ τοῦ Ἀγα‐
+
+### book 39.5.2
+
+μέμνονος τέτακται. H.
+
+### book 39.5.3
+
+cf. F. Ar. p. 16, Eust. 1388, 23.
+
+### book 45.1
+
+ὦ πάτερ ἡμέτερε Κρονίδη, ὕπατε κρειόντων.
+
+### book 45.2
+
+Huic versui fuit appictus asteriscus, cf. ad Θ 31. Legitur
+
+### book 45.3
+
+idem versus ω 473. La Roche asteriscum non notavit.
+
+### book 56.1
+
+αἰεὶ δὲ μαλακοῖσι καὶ αἱμυλίοισι λόγοισιν
+
+### book 56.2
+
+Fuit diple ὅτι ἅπαξ ἐνταῦθα ἐν τῇ Ὀδυσσείᾳ τὸ λόγοις
+
+### book 56.3
+
+καὶ ἅπαξ ἐν τῇ Ἰλιάδι. (Ο. 393 ubi v. Ar.)
+
+### book 65.1
+
+πῶς ἂν ἔπειτ’ Ὀδυσῆος ἐγὼ θείοιο λαθοίμην.
+
+### book 65.2
+
+Fuit diple ὅτι ἀφ’ ἑαυτοῦ ὁ Ζεὺς θεῖον τὸν Ὀδυσσέα
+
+### book 65.3
+
+εἴρηκεν. cf. ad Ο. 15, ubi est dipla etiam propter hunc locum.
+
+### book 66.1
+
+ὃς περὶ μὲν νόον ἐστὶ βροτῶν, περὶ δ’ ἱρὰ θεοῖσιν.
+
+### book 66.2
+
+Nota fuit ὅτι οὕτως εἶπε θεοῖσι καὶ οὐχ ἡμῖν, ὡς οὐκ ὢν
+
+### book 66.3
+
+καὶ αὐτὸς θεός· καὶ ἐν Ἰλιάδι (Υ. 299) „δῶρα θεοῖσι δίδωσι.“
+
+### book 66.4
+
+cf. Ar. ad Υ. 299 ubi nostrum locum in eadem interpretatione
+
+### book 66.5
+
+citavit.
+
+### book 72,n3.1
+
+Φόρκυνος θυγάτηρ, ἁλὸς ἀτρυγέτοιο μέδοντος,
+
+### book 72,n3.2
+
+ἐν σπέσσι γλαφυροῖσι Ποσειδάωνι μιγεῖσα.
+
+### book 72,n3.3
+
+βασιλεύοντος. συνήθως γὰρ καὶ τοὺς ὑπάρχους βασιλεῖς ἔλε‐
+
+### book 72,n3.4
+
+γον. PV.
+
+### book 72,n3.5.1
+
+Observatio est Aristarchi et facta propter Aristophanis lectionem,
+
+### book 72,n3.5.2
+
+quae ad ν. 96 commemoratur. Aristophanes, qui haesitasse videtur,
+
+### book 72,n3.5.3
+
+quod Phorcys ἁλὸς ἀτρυγέτοιο μέδων appellatus esset, distinxit post
+
+### book 72,n3.5.4
+
+θυγάτηρ et μέδοντος cum σπέσσι coniunxit ad Neptunum referens,
+
+### book 72,n3.5.5
+
+ita ut hic, non Phorcys maris rex esset. Quod si fecit, certe pro
+
+### book 72,n3.10.1
+
+μέδοντος μέδοντι legit—corr. Nauckius, Aristophanis fragmenta
+
+### book 72,n3.10.2
+
+p. 52—nam ἔγραφεν in schol. ad ν 96 indicium est Dindorfio, Aristo‐
+
+### book 72,n3.10.3
+
+phanem non interpunctionem tantum, sed etiam scripturam mutasse.
+
+### book 72,n3.10.4
+
+At cum Aristonicus nunquam lectionum, sed atheteseon modo Aristo‐
+
+### book 72,n3.10.5
+
+phanis rationem habuerit, putem scholion fluxisse ex Nicanore, qui
+
+### book 72,n3.15.1
+
+ad Aristophanis distinctionem etiam ad Ε 638 respicit, id quod Nauck‐
+
+### book 72,n3.15.2
+
+ium fefellit, quum contendat unum tantum prostare testimonium de
+
+### book 72,n3.15.3
+
+Aristophanis interpunctione ad α 72.
+
+### book 93.1
+
+πέμψω δ’ ἐς Σπάρτην τε καὶ ἐς Πύλον ἠμαθόεντα
+
+### book 93.2
+
+†) τινὲς „πέμψω δ’ ἐς Κρήτην τε.“ καὶ ἡ Ἀθηνᾶ ἀλλα‐
+
+### book 93.3
+
+χοῦ (284) „πρῶτα μὲν ἐς Πύλον ἐλθὲ .. κεῖθεν δὲ Κρήτηνδε
+
+### book 93.4
+
+(codd. δ’ ἐς Κρήτην, corr. Buttmannus) παρ’ Ἰδομενῆα ἄνακτα·
+
+### book 93.5.1
+
+ὃ γὰρ δεύτατος ἦλθεν Ἀχαιῶν χαλκοχιτώνων.“ HMQ. Sic Ze‐
+
+### book 93.5.2
+
+nodotum legisse ex schol. ad γ 313 apparet, cf. Duentzerum
+
+### book 93.5.3
+
+l. c. 104 p. Fuit igitur Aristarchi diple periestigmene. cf. β 359.
+
+### book 93.5.4
+
+δ 702, ubi sunt Ar. verba: ὅτι οὐδὲ ἐνταῦθα μνήμη τίς ἐστι
+
+### book 93.5.5
+
+τῆς Κρήτης. Zenodoti lectionem vituperat Eust. 1394, 43.
+
+### book h97-101.1
+
+ἀμβρόσια χρύσεια, τά μιν φέρον ἠμὲν ἐφ’ ὑγρήν
+
+### book h97-101.2
+
+ἠδ’ ἐπ’ ἀπείρονα γαῖαν ἅμα πνοιῇς ἀνέμοιο,
+
+### book h97-101.3
+
+εἵλετο δ’ ἄλκιμον ἔγχος, ἀκαχμένον ὀξέϊ χαλκῷ
+
+### book h97-101.4
+
+βριθὺ μέγα στιβαρὸν, τῷ δάμνησι στίχας ἀνδρῶν
+
+### book h97-101.5
+
+ἡρώων, τοῖσίν τε κοτέσσεται ὀβριμοπάτρη.
+
+### book 97-8.1
+
+†) προηθετοῦντο κατ’ ἔνια τῶν ἀντιγράφων οἱ
+
+### book 97-8.2
+
+στίχοι, κατὰ δὲ τὴν Μασσαλιωτικὴν οὐδ’ ἦσαν. καὶ ταῖς ἀλη‐
+
+### book 97-8.3
+
+θείαις μᾶλλον ἁρμόσει ἐπὶ Ἑρμοῦ· ἴδιον γὰρ αὐτοῦ τοιούτοις
+
+### book 97-8.4
+
+ὑποδήμασι κεχρῆσθαι. καὶ ἡ τοῦ δόρατος ἀνάληψις πρὸς οὐδὲν
+
+### book 97-8.5
+
+ἀναγκαῖον. MT.
+
+### book 99-101.1
+
+*) ἀθετοῦνται μετὰ ἀστερίσκων, ὅτι ἐν τῇ Ε τῆς
+
+### book 99-101.2
+
+Ἰλιάδος καλῶς (746) MV.
+
+### book 99-101.3
+
+Scholion in MT ex Didymo et Aristonico manasse videtur;
+
+### book 99-101.4
+
+versibus 97—98 obelos apposuisse cum asteriscis Aristarchum
+
+### book 99-101.5
+
+apparet ex Ar. ad Ω 341 et ε 43, ubi ὀρθῶς κεῖνται.
+
+### book 110.1
+
+κήρυκες δ’ αὐτοῖσι καὶ ὀτρηροὶ θεράποντες
+
+### book 110.2
+
+οἱ μὲν ἄρ’ οἶνον ἔμισγον ..
+
+### book 110.3
+
+οἱ δὲ .. νίζον.
+
+### book 110.4
+
+Fuit diple πρὸς τὴν τῶν πτώσεων ἐναλλαγήν, nominativus
+
+### book 110.5
+
+pro genetivo cf. Eust. 1398, 15. Ar. ad Γ. 211. Κ. 224. μ. 73.
+
+### book 115.1
+
+ὀσσόμενος πατέρ’ ἐσθλὸν ἐνὶ φρεσίν.
+
+### book 115.2
+
+†) τοῖς ὀφθαλμοῖς ὑποβλέπων S. ἀνειδωλοποιούμενος καὶ
+
+### book 115.3
+
+φανταζόμενος, προσδοκῶν· ἢ τοῖς ὀφθαλμοῖς ὑποβλέπων V.
+
+### book 115.4
+
+Frustula ex Aristarchi observatione derivata cf. L. Ar. 87:
+
+### book 115.5.1
+
+„significat et oculis videre et per translationem animo videre.“
+
+### book 115.5.2
+
+Eust. 1398, 28.
+
+### book 124.1
+
+δείπνου πασσάμενος.
+
+### book 124.2
+
+*) [ἡ διπλῆ ὅτι δείπνου] τοῦ κατὰ τὴν ἡμέραν ἀρίστου V.
+
+### book 124.3
+
+cf. L. Ar. 127. β. 20. δ. 61. 429. π. 2. Eust. 1399, 19.
+
+### book 134.1
+
+μὴ ξεῖνος ἀνιηθεὶς ὀρυμαγδῷ
+
+### book 134.2
+
+δείπνῳ ἁδήσειεν ὑπερφιάλοισι μετελθών.
+
+### book 134.3
+
+*) [ἡ διπλῆ ὅτι τὸ ὑπερφιάλοισι νῦν μὲν ἐπὶ ψόγου, τοῖς]
+
+### book 134.4
+
+ὑπερσπόνδοις E. [ἐν ἄλλοις δὲ ἐν τάξει ἐγκωμίου.]
+
+### book 134.5
+
+cf. ad Ο. 94. ι. 106. φ. 289. L. Ar. 146. Apoll. l. h. 158, 30.
+
+### book 136.1
+
+ὑπὲρ ἀργυρέοιο λέβητος.
+
+### book 136.2
+
+*) [ἡ διπλῆ ὅτι τὸ λέβητος] τοῦ καθ’ ἡμᾶς χερνίβου. V.
+
+### book 136.3
+
+cf. ad Ω. 304. γ. 440. ο. 135. Apoll. l. h. 107, 33.
+
+### book 141,n4.1
+
+Ex Eust. 1402, 21: σημείωσαι δὲ καὶ ὅτι τὸ „δαι‐
+
+### book 141,n4.2
+
+τρὸς δὲ κρειῶν πίνακας παρέθηκεν ἀείρασ“ διαγράφεσθαι ἱστορεῖ
+
+### book 141,n4.3
+
+Ἀθήναιος (V 20. p. 193) ἐπειδὴ ἀπαρκεῖν δοκεῖ τὸ πρὸ αὐτοῦ δίστιχον.
+
+### book 149.1
+
+ὀνείατα.
+
+### book 149.2
+
+*) [ἡ διπλῆ ὅτι] τὸ ὀνείατα δηλοῖ τὰ ὄνησιν ἐμποιοῦντα,
+
+### book 149.3
+
+[οὐ πάντως ὡς οἱ γλωσσογράφοι] τὰ ἐδέσματα EPV.
+
+### book 149.4
+
+cf. ad Ω. 367. De glossographis v. L. Ar. p. 36 seq.
+
+### book 152.1
+
+μολπή τ’ ὀρχηστύς τε.
+
+### book 152.2
+
+*) [ἡ διπλῆ ὅτι ἡ μολπὴ] ἡ μετ’ ᾠδῆς παιδιά. V.
+
+### book 152.3
+
+cf. L. Ar. 140. F. Ar. ad A. 474. δ. 19. ζ. 101. Eust.
+
+### book 152.4
+
+1403, 56.
+
+### book 157.1
+
+ἵνα μὴ πευθοίαθ’ οἱ ἄλλοι.
+
+### book 157.2
+
+Sic legit Zenodotus cf. ad δ. 70. Aristarchus, qui articulis
+
+### book 157.3
+
+Homerum plerumque non uti observaverat, sine articulo: πευ‐
+
+### book 157.4
+
+θοίατο ἄλλοι. Fuit igitur diple periestigmene. (ρ. 592.)
+
+### book 171.1
+
+ὁπποίης δ’ ἐπὶ νηὸς ἀφίκεο· πῶς δέ σε ναῦται
+
+### book 171.2
+
+ἤγαγον εἰς Ἰθάκην; τίνες ἔμμεναι εὐχετόωντο;
+
+### book 171.3
+
+οὐ μὲν γὰρ τί σε πεζὸν ὀίομαι ἐνθάδ’ ἱκέσθαι.
+
+### book 171.4
+
+†) οἰκειότερον ταῦτα ὑπὸ Εὐμαίου ἂν λέγοιντο. διὸ ἔν
+
+### book 171.5.1
+
+τισιν οὐκ ἐφέροντο. HM.
+
+### book 171.5.2
+
+Obelos cum asteriscis appictos fuisse ab Aristarcho apparet
+
+### book 171.5.3
+
+ex schol. ad ξ. 188 et π. 57, ubi ὀρθῶς κεῖνται.
+
+### book 172.1
+
+εὐχετόωντο.
+
+### book 172.2
+
+*) [ἡ διπλῆ ὅτι τὸ εὐχετόωντο ἀντὶ τοῦ] ἐκαυχῶντο. V.
+
+### book 172.3
+
+Notavit Ar. εὔχεσθαι verbum et gloriari et vulgari signi‐
+
+### book 172.4
+
+ficatione Κ. 461. Φ. 183. 501. cf. L. Ar. 147. Eust. 1407, 56.
+
+### book 182.1
+
+νῦν δ’ ὧδε ξὺν νηὶ κατήλυθον ἠδ’ ἑτάροισιν.
+
+### book 182.2
+
+†) ἤτοι οὕτως ὡς ὁρᾷς, ὡς ἰδιώτης, οὐχ ὡς ἐπέβαλε βασι‐
+
+### book 182.3
+
+λεῖ. MQ. τὸ δὲ ὧδε οὐδέποτε παρὰ τῷ ποιητῇ τοπικῶς, ἀλλ’
+
+### book 182.4
+
+ἀντὶ τοῦ οὕτως. EMQV.
+
+### book 182.5.1
+
+cf. L. Ar. 71. γ 125. β 111. ε 341. ζ 218. ρ 447. Eust.
+
+### book 182.5.2
+
+1408, 42.
+
+### book 185.1
+
+νηῦς δέ μοι ἥδ’ ἕστηκεν ἐπ’ ἀγροῦ νόσφι πόληος
+
+### book 185.2
+
+ἐν λιμένι Ῥείθρῳ, ὑπὸ Νηίῳ ὑλήεντι.
+
+### book 185.3
+
+προηθετοῦντο ὑπὸ Ἀριστοφάνους· κατ’ ἔνια δὲ τῶν ἀντι‐
+
+### book 185.4
+
+γράφων οὐδ’ ἐφέροντο. HMQR.
+
+### book 185.5.1
+
+Scholion Didymi est, neque dubito, quin Aristarchus quo‐
+
+### book 185.5.2
+
+que hos versus expunxerit, qui Aristophanem in versibus eii‐
+
+### book 185.5.3
+
+ciendis saepissime secutus est; Aristonicus adnotavit semel et
+
+### book 185.5.4
+
+vicies, cf. locos collatos apud Friedlaenderum in indice aucto‐
+
+### book 185.5.5
+
+rum, et amat verbum προαθετεῖν. cf. Ψ 824. Ω. 6. 614. β. 322.
+
+### book 185.10.1
+
+Versus 185—186 non exstitisse in Zenodoti exemplari coniecit
+
+### book 185.10.2
+
+Nauckius l. c. p. 27. Cf. Nitzschium, Anmerkungen zur Odyssee
+
+### book 185.10.3
+
+p. 37. Ex schol. ad v. 186 sequitur, ut Aristarchus adnota‐
+
+### book 185.10.4
+
+verit: Νήϊον παρακεῖσθαι τῷ Ῥείθρῳ, ἀφ’ οὗ ἐξῆπτον τὰ
+
+### book 185.10.5
+
+πρυμνήσια.
+
+### book 193.1
+
+ἀλωῆς οἰνοπέδοιο.
+
+### book 193.2
+
+†) ἀλωὴν καὶ τὴν πολύδενδρον γῆν φησιν, „ἔνθα δέ οἱ
+
+### book 193.3
+
+πολύκαρπος ἀλωή.“ (η 122) καὶ τὴν ἀμπελόφυτον „σταφυ‐
+
+### book 193.4
+
+λῇσι μέγα βρίθουσαν ἀλωήν“ (Σ 561) ὁμοίως καὶ τὴν σιτο‐
+
+### book 193.5.1
+
+φόρον γῆν. Q. Notatum fuit vocabulum ἀλωήν significare hoc
+
+### book 193.5.2
+
+loco hortum vinearium, nam adiecit οἰνοπέδοιο cf. Ar. ad Φ 36.
+
+### book 209.1
+
+ἐπεὶ θαμὰ τοῖον ἐμισγόμεθα.
+
+### book 209.2
+
+†) τὸ „τοῖον ἐμισγόμεθα“ ἀντὶ τοῦ τοίως ὡς νῦν. HMQ.
+
+### book 209.3
+
+Frustula videntur esse adnotationis neutrum τοῖον pro ad‐
+
+### book 209.4
+
+verbio positum esse. cf. F. Ar. p. 29 et ad β 45. 257. γ 496.
+
+### book 209.5
+
+δ 112. ζ 163. θ 38. κ 409. 573. μ 379. ξ 174. π 255. ψ 225.
+
+### book 232.1
+
+μέλλεν μέν ποτε οἶκος .. ἔμμεναι.
+
+### book 232.2
+
+†) αὕτη ἡ λέξις οὐδέποτε κεῖται παρὰ τῷ ποιητῇ ὡς ἐν
+
+### book 232.3
+
+τῇ συνηθείᾳ χρονικῶς, ἀλλ’ ἑκάστοτε ἀντὶ τοῦ ἐῴκει EHQV.
+
+### book 232.4
+
+cf. θ 378. ζ 165. ς 138. L. Ar. 121.
+
+### book 246.1
+
+Σάμη.
+
+### book 246.2
+
+†) τὴν Σάμον Σάμην εἶπε. BV.
+
+### book 246.3
+
+Certe ex Ar. fluxit, qui contra Zenodotum ubique Σάμην
+
+### book 246.4
+
+legentem observavit, ὅτι κατὰ τὸ ἀρσενικὸν ἐνίοτε ἐκφέρεται
+
+### book 246.5.1
+
+τὰ εἰς η λήγοντα. Hic notata erat feminina forma in η. cf.
+
+### book 246.5.2
+
+ad Β 634. Φ 232. Π 203. L. Ar. 233. δ 671. 845. ι 24. ο 29.
+
+### book 246.5.3
+
+ἕσπερος et ἑσπέρα α 422. δ 786. κοῖτος et κοίτη γ 334. η 137.
+
+### book 251.1
+
+τάχα δή με διαῤῥαίσουσι καὶ αὐτόν.
+
+### book 251.2
+
+†) αὕτη ἡ λέξις οὐ τίθεται παρὰ τῷ ποιητῇ διστακτικῶς
+
+### book 251.3
+
+ὡς ἐν τῇ συνηθείᾳ, ἀλλ’ ἑκάστοτε ἀντὶ τοῦ ταχέως. VT.
+
+### book 251.4
+
+cf. L. Ar. 92. β 89.
+
+### book 259.1
+
+ἐξ Ἐφύρης.
+
+### book 259.2
+
+B et E conservaverunt Aristarchi observationem, duplicem
+
+### book 259.1
+
+Ephyram esse apud Homerum, unam Thesprotiae, alteram Co‐
+
+### book 259.2
+
+rinthum cf. L. Ar. 231. Sed non consentiunt, utram poeta
+
+### book 259.5.1
+
+nostro loco nominaverit. Recentiores interpretantur Thespro‐
+
+### book 259.5.2
+
+tiae urbem cf. Nitzschium l. c. p. 46.
+
+### book 261.1
+
+φάρμακον ἀνδροφόνον διζήμενος, ὄφρα οἱ εἴη
+
+### book 261.2
+
+ἰοὺς χρίεσθαι.
+
+### book 261.3
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος [γράφει] ὄφρα
+
+### book 261.4
+
+δαείῃ. ἐλέγχεται δὲ ἐκ τοῦ ἑπομένου (264). „ἀλλὰ πατήρ οἱ
+
+### book 261.5.1
+
+δῶκεν“. οὐ γὰρ ἕπεται τὸ διδάσκειν τῷ δοῦναι, ἀλλ’ ἡ χρῆσις
+
+### book 261.5.2
+
+τῇ δόσει παρέπεται. HMT.
+
+### book 273.1
+
+μάρτυροι.
+
+### book 273.2
+
+Fuit diple periestigmene contra Zenodotum, qui legit μάρ‐
+
+### book 273.3
+
+τυρες cf. ad B 302. Ξ 274. ξ 394. π 423.
+
+### book 276.1
+
+ἔεδνα.
+
+### book 276.2
+
+Aristarchi interpretationem vocabuli habent cod. EQV quo‐
+
+### book 276.3
+
+rum V. Aristonici verba paene integra conservavit: δῶρα τὰ
+
+### book 276.4
+
+διδόμενα ὑπὸ τοῦ γαμοῦντος τῇ γαμουμένῃ. cf. ad Π 178.
+
+### book 276.5
+
+Apoll. l. h. 62, 16. β 53.
+
+### book 277.1
+
+ἂψ ἴτω ἐς μέγαρον πατρὸς μέγα δυναμένοιο,
+
+### book 277.2
+
+οἱ δὲ γάμον τεύξουσι καὶ ἀρτυνέουσιν ἔεδνα.
+
+### book 277.3
+
+†) συνεκδοχικῶς. E. Fuit dipla Aristarchi πρὸς τὸ σχῆμα,
+
+### book 277.4
+
+ὅτι πρὸς τὸ νοητόν. cf. F. Ar. p. 16. β 195, ubi scholion di‐
+
+### book 277.5
+
+sertius est.
+
+### book 282.1
+
+ἢ ὄσσαν ἀκούσῃς.
+
+### book 282.2
+
+*) [ἡ διπλῆ ὅτι] ὄσσαν τὴν ἐκ θεῶν κληδόνα V. Non vo‐
+
+### book 282.3
+
+cem significat simpliciter ut apud alios poetas. L. Ar. 87. cf.
+
+### book 282.4
+
+β 216. ω 413.
+
+### book 284.1
+
+πρῶτα μὲν ἐς Πύλον ἐλθὲ καὶ εἴρεο Νέστορα δῖον
+
+### book 284.2
+
+κεῖθεν δὲ Σπάρτηνδε.
+
+### book 284.3
+
+Appicta fuit diple periestigmene propter Zenodoti lectionem
+
+### book 284.4
+
+Κρήτην pro Σπάρτην cf. ad α 93. γ 313.
+
+### book 291
+
+σῆμά τε οἱ χεῦαι καὶ ἐπὶ κτέρεα κτερεΐξαι.
+
+### book 291.1
+
+In H. varia lectio χεῦαι (sic cum Dindorfio legendum) et
+
+### book 291.2
+
+κτερεΐξαι commemoratur et additur, καὶ ἄλλως τὸ ἀπαρέμφα‐
+
+### book 291.3
+
+τον ἀντὶ τοῦ προστακτικοῦ. Hanc lectionem fuisse putem
+
+### book 291.5.1
+
+Aristarchi, qui infinitivum pro imperativo quasi Homerici ser‐
+
+### book 291.5.2
+
+monis proprium praeoptavit, cf. F. Ar. p. 14 et ad β 305. δ 416.
+
+### book 291.5.3
+
+419. ε 30. 341. 349. ζ 258. 261. 298. η 222. μ 47. ξ 396.
+
+### book 291.5.4
+
+ο 277. ς 106.
+
+### book 291.5.5
+
+ἐπεὶ ἔκτανε πατροφονῆα,
+
+### book 300.1
+
+Αἴγισθον δολόμητιν, ὅ οἱ πατέρα κλυτὸν ἔκτα.
+
+### book 300.2
+
+*) [ἡ διπλῆ ὅτι] οὐκ οἶδεν ὁ ποιητὴς τὸν Κλυταιμνήστρας
+
+### book 300.3
+
+ὑπὸ τοῦ παιδὸς μόρον EHMS. cf. L. Ar. 182 (ubi corr. pro
+
+### book 300.4
+
+γ 303. 309—10) γ 309/10. λ. 409.
+
+### book 301.1
+
+καὶ σὺ, φίλος, —μάλα γάρ ς’ ὁρόω καλόν τε
+
+### book 301.2
+
+μέγαν τε—
+
+### book 301.3
+
+ἄλκιμος ἔσς’, ἵνα τίς σε καὶ ὀψιγόνων εὖ εἴπῃ.
+
+### book 301.4
+
+Versibus 301 et 302 asteriscos appictos fuisse certum est
+
+### book 301.5
+
+ex schol. ad γ 199/200, ubi damnati sunt.
+
+### book 320.1
+
+ὄρνις δ’ ὣς ἀνοπαῖα διέπτατο.
+
+### book 320.2
+
+Scholia ad hunc versum et Aristarchi et Herodiani et—
+
+### book 320.3
+
+ut Lehrsius p. 3 Ar. iure coniecit—Aristonici interpretationes
+
+### book 320.4
+
+vocabuli ἀνοπαῖα habent inter se discrepantes: ὁ μὲν Ἀρίσταρ‐
+
+### book 320.5.1
+
+χος ἀνόπαια προπαροξυτόνως ἀναγινώσκει, ὄνομα ὄρνιθος λέ‐
+
+### book 320.5.2
+
+γων, ὡς „φήνῃ εἰδομένη“ (γ 372). ὁ δὲ Ἡρωδιανὸς ἀνοπαῖα
+
+### book 320.5.3
+
+ἀντὶ τοῦ ἀοράτως, ἵν’ ᾖ οὐδέτερον πληθυντικόν, ὡς τὸ „πυκνὰ
+
+### book 320.5.4
+
+μάλα στενάχων“ (Σ 318). διὸ καὶ προπερισπαστέον φησίν.
+
+### book 320.5.5
+
+οἱ δὲ ἀνὰ ὀπὴν, ἣ καὶ καπνοδόχος καλεῖται. EHQR.
+
+### book 320.10.1
+
+Aristonici tertia explanatio fuit, ut apparet ex Orion. p. 119:
+
+### book 320.10.2
+
+ὀπὴ τόπος τετρημένος, ἀφ’ οὗ τις δύναται ὀπήσασθαι καὶ
+
+### book 320.10.3
+
+περιβλέψασθαι. οὕτως Ἀριστόνικος ἐν τοῖς σημείοις τοῦ ποιη‐
+
+### book 320.10.4
+
+τοῦ. cf. Apoll. 36, 30. Eust. 1419, 22. Herodianus saepius ab
+
+### book 320.10.5
+
+Aristarcho dissentit, cf. Α 136. Γ 128. 198 (ubi Aristonicum
+
+### book 320.15.1
+
+quoque in accentu ponendo Aristarchum non secutum esse com‐
+
+### book 320.15.2
+
+memoratur) Ε 656 et aliis locis. Item Didymus Β 258. 415.
+
+### book 320.15.3
+
+435. Γ. 392. Η 32. 449 etc. At dubito, num ex Aristonici libro
+
+### book 320.1
+
+de Aristarchi signis, in quo „quasi exuens personam suam“
+
+### book 320.2
+
+magistri modo causas, argumenta, observationes congessit, illam
+
+### book 320.20.1
+
+interpretationem Orion hauserit. Mihi videtur ille Aristoniceo‐
+
+### book 320.20.2
+
+rum librorum inscriptiones commutasse et excerpsisse hoc ex
+
+### book 320.20.3
+
+commentariis homericis, in quibus Aristonicus ab Aristarcho
+
+### book 320.20.4
+
+dissentit. Ἀριστονίκου εἰς Ὀδύσσειαν (sic legendum cum
+
+### book 320.20.5
+
+Beccardo) ὑπομνήματα diserte commemorantur Etym. Gud.
+
+### book 320.25
+
+p. 334, 12.
+
+### book 335.1
+
+ἀμφίπολος δ’ ἄρα οἱ κεδνὴ ἑκάτερθε παρέστη.
+
+### book 335.2
+
+Fuit diple ὅτι τὸ „ἀμφίπολος δ’ ἄρα οἱ κεδνὴ ἑκάτερθε
+
+### book 335.3
+
+παρέστη“ οὐ μία ἐπὶ ἀμφοτέρων τῶν μερῶν, ἀλλ’ ἑκατέρωθεν
+
+### book 335.4
+
+μία. cf. Ar. ad Λ 699, ubi sic explanavit hunc locum.
+
+### book 337.1
+
+Φήμιε, πολλὰ γὰρ ἄλλα βροτῶν θελκτήρια ᾔδης.
+
+### book 337.2
+
+†) ἔθος Ὁμηρικὸν ἀπὸ τοῦ γὰρ ἄρχεσθαι MS. cf. ad δ 722.
+
+### book 337.3
+
+κ 174. 501.
+
+### book 337.4
+
+†) οἶδας: τῷ οἶδας οὐκ ἐχρήσατο ὁ ποιητής. Ζηνόδοτος
+
+### book 337.5.1
+
+γράφει ᾔδεις, Ἀρίσταρχος δὲ οὐ δυσχεραίνει τῇ γραφῇ. ἐν
+
+### book 337.5.2
+
+οὐδετέρᾳ γὰρ τῶν ποιήσεων (corr. Dindorfius pro cod. ἐν οὐδενὶ
+
+### book 337.5.3
+
+γὰρ) ἐχρήσατο τῷ οἶδας. διὸ καὶ σημειωτέον τὸν στίχον. HM.
+
+### book 337.5.4
+
+L. Ar. 360.
+
+### book 337.5.5
+
+De posteriore οἶδας formae usu cf. Lobeckium ad Phryn.
+
+### book 337.10.1
+
+p. 236. Ex Ar. ad Α 85 apparet, Aristarchum formam οἶσθα
+
+### book 337.10.2
+
+solam agnovisse contra Zenodotum, qui οἶσθας legit. (Eust.
+
+### book 337.10.3
+
+ad ο 20. 1773, 27). Sed etiam ᾔδεις, si Zenodoti scripturam
+
+### book 337.10.4
+
+Aristarchus non improbavit, corrigendum est in ᾔδης, nam hanc
+
+### book 337.10.5
+
+unam imperfecti formam admisit. cf. Kayserum in philol.
+
+### book 337.15.1
+
+XVII, p. 714. Restituit Aristonici scholion La Roche: σημει‐
+
+### book 337.15.2
+
+ωτέον τὸν στίχον. ἐν οὐδενὶ γὰρ τῶν ποιήσεων (Dindorfii cor‐
+
+### book 337.15.3
+
+recturam neglexit) ἐχρήσατο τῷ οἶδας· Ζηνόδοτος ... γραφῇ.
+
+### book 344.1
+
+καθ’ Ἑλλάδα καὶ μέσον Ἄργος.
+
+### book 344.2
+
+†) Ἑλλάδα τὴν Θεσσαλίαν φησί EM. cf. L. Ar. 227. Ι 395.
+
+### book 344.3
+
+δ 726.
+
+### book 344.4
+
+Frustula sunt notae Aristarchi, qui versum pro spurio ha‐
+
+### book 344.5.1
+
+buit, quod Ἑλλὰς non Thessaliam, sed totam Graeciam signi‐
+
+### book 344.5.2
+
+ficare hoc loco videtur. Hanc ob caussam δ 726 expunctum
+
+### book 344.5.3
+
+est, haud dubie etiam δ 816, ubi idem legitur.
+
+### book 356.1
+
+ἀλλ’ εἰς οἶκον ἰοῦσα τὰ ς’ αὐτῆς ἔργα κόμιζε
+
+### book 356.2
+
+ἱστόν τ’ ἠλακάτην τε, καὶ ἀμφιπόλοισι κέλευε
+
+### book 356.3
+
+ἔργον ἐποίχεσθαι· μῦθος δ’ ἄνδρεσσι μελήσει
+
+### book 356.4
+
+πᾶσι, μάλιστα δ’ ἐμοί· τοῦ γὰρ κράτος ἔστ’ ἐνὶ
+
+### book 356.5.1
+
+οἴκῳ.
+
+### book 356.5.2
+
+*) ἀθετοῦνται ἐνταῦθα· ἐπὶ δὲ τοῦ Ἕκτορος [πρὸς Ἀνδρο‐
+
+### book 356.5.3
+
+μάχην] καλῶς ἐν τῇ ζ (490) τῆς Ἰλιάδος [καὶ ἐν τῇ] τοξείᾳ τῶν
+
+### book 356.5.4
+
+μνηστήρων (φ 350) ins. ex QR] HM. cf. ad Ζ 490. φ 350.
+
+### book 396.1
+
+τῶν κέν τις τόδ’ ἔχῃσιν.
+
+### book 396.2
+
+Fuit diple, quod coniunctivus pro optativo positus est cf. ad
+
+### book 396.3
+
+Φ 126: τὸ γὰρ „ὅς κε φάγῃσι“ ὃς φάγοι ἄν· καὶ ἐν Ὀδυσσείᾳ
+
+### book 396.4
+
+„τῶν κέν τις τόδ’ ἔχῃσιν.“ cf. F. Ar. p. 9. δ 692. ζ 37. ρ 385.
+
+### book 404.1
+
+Ἰθάκης ἔτι ναιεταώσης.
+
+### book 404.2
+
+*) [ἡ διπλῆ ὅτι τὸ ναιεταώσης] ἐνεργητικὸν ἀντὶ παθη‐
+
+### book 404.3
+
+τικοῦ, ᾠκισμένης οὔσης. B.
+
+### book 404.4
+
+cf. F. Ar. p. 2/3. B 626. Ζ 370. β 102. δ 47. 322. η 33. κ 238.
+
+### book 413.1
+
+πατρὸς ἐμοῖο.
+
+### book 413.2
+
+†) ἀγνοοῦντές τινες „ἐμεῖο“ γράφουσιν. ὁμοίως ἐν Ἰλιάδι
+
+### book 413.3
+
+„μνῆσαι πατρὸς σεῖο“ (ω 486) δέον κτητικῶς. HMS. Intelli‐
+
+### book 413.4
+
+gendus est Zenodotus cf. ad Ω 486. Ξ 118. ζ 256. Fuit igitur
+
+### book 413.5.1
+
+Aristarchi diple periestigmene. Cur La Roche hanc lectionem
+
+### book 413.5.2
+
+ad Zenodotum referre dubitaverit nescio.
+
+### book 422.1
+
+μένον δ’ ἐπὶ ἕσπερον ἐλθεῖν.
+
+### book 422.2
+
+*) [ἡ διπλῆ ὅτι] οὕτως εἶπε τὴν ἑσπέραν EQS.
+
+### book 422.3
+
+cf. Ar. ad Π 203, 206. Φ 232. Apoll. l. h. 77, 26. α 246.
+
+### book 422
+
+et locos ibi collatos.
+
+### book 424,n5.1
+
+δὴ τότε κακκείοντες ἔβαν οἶκόνδε ἕκαστος.
+
+### book 424,n5.2
+
+ἔνιοι „δὴ τότε κοιμήσαντο καὶ ὕπνου δῶρον ἕλοντο.“ μετα‐
+
+### book 424,n5.3
+
+ποιηθῆναι δέ φασιν ὑπὸ Ἀριστοφάνους τὸν στίχον· ἐν δὲ τῇ Ἀρ‐
+
+### book 424,n5.4
+
+γολικῇ προστέθειται. EHMQR.
+
+### book 424,n5.5.1
+
+cf. Nauckium p. 57: „videtur igitur Aristophanes flagitasse,
+
+### book 424,n5.5.2
+
+ut proci, antequam somno se darent, domum abirent, nec defuerunt
+
+### book 424,n5.5.3
+
+critici aut veteres aut recentes desiderio aequo et modesto.“ —Ari‐
+
+### book 424,n5.5.4
+
+starchum hoc probasse apparet ex Ar. ad Α 605. Ψ 58. β 397. Ad
+
+### book 424,n5.5.5
+
+v. 433. cf. Ar. ad Ε 70.
+
+### book 444.1
+
+ὁδὸν τὴν πέφραδ’ Ἀθήνη.
+
+### book 444.2
+
+†) ἐσήμανεν αὐτῷ S.
+
+### book 444.3
+
+Fluxit ex Ar., qui observavit, verbum φράζειν nunquam
+
+### book 444
+
+esse dicere, sed indicare. cf. L. Ar. 84.
+
+### book 5.1
+
+βῆ δ’ ἴμεν ...
+
+### book 5.2
+
+αἶψα δὲ κηρύκεσσι λιγυφθόγγοισι κέλευσεν.
+
+### book 5.3
+
+†) ὁ δέ ποτὲ μὲν παραπληρωματικὸς, ἔστι δ’ ὅτε καὶ ἀντὶ
+
+### book 5.4
+
+τοῦ γὰρ αἰτιολογικῶς λαμβάνεται. MS.
+
+### book 5.5.1
+
+Fluxit ex Aristonico cf. F. Ar. p. 33 et 35. β 6. η 47. θ 363.
+
+### book 5.5.2
+
+λ 350. ξ 87. ο 81. ς 234. ρ 261. τ 46. υ 66. φ 1. 29.
+
+### book 7.1
+
+κηρύσσειν ἀγορήνδε καρηκομόωντας Ἀχαιούς.
+
+### book 7.2
+
+οἱ μὲν ἐκήρυσσον, τοὶ δ’ ἠγείροντο μάλ’ ὦκα.
+
+### book 7.3
+
+†) οὐδὲν μὲν ἀντιπράττουσιν οἱ στίχοι πρὸς τὴν παροῦ‐
+
+### book 7.4
+
+σαν ὑπόθεσιν, οἰκειότεροι δὲ μᾶλλόν εἰσιν ἐν Ἰλιάδι (Β 50—
+
+### book 7.5.1
+
+52) MQS.
+
+### book 7.5.2
+
+Aristarchus his versibus obelos cum asteriscis appinxisse
+
+### book 7.5.3
+
+videtur, sed in Iliade Β 50 asterisci desunt. cf. L. Ar. p. 342,
+
+### book 7.5.4
+
+IV de versibus bis vel saepius repetitis.
+
+### book 11,n1.1
+
+v. ἅμα τῷ γε κύνες .. ἕποντο.
+
+### book 11,n1.2
+
+τοῦτό τινες σημειοῦνται πρὸς τὸν ἄγροικον τῶν παλαιῶν βίον.
+
+### book 11,n1.3
+
+EMQ. Fortasse in numero horum Aristarchus fuit, qui de cultu et
+
+### book 11,n1.4
+
+victu heroum permulta adnotavit. cf. L. Ar. 193. Eust. 1430, 51.
+
+### book 14.1
+
+εἶξαν δὲ γέροντες.
+
+### book 14.2
+
+†) γέροντας νῦν τοὺς πρεσβυτέρους ἀκουστέον. EHMQ. —
+
+### book 14
+
+non ut saepe principes cf. Ar. ad Ι 36.
+
+### book 19.1
+
+Ἄντιφος αἰχμητής· τὸν δ’ ἄγριος ἔκτανε Κύκλωψ
+
+### book 19.2
+
+ἐν σπῆϊ γλαφυρῷ, πύματον δ’ ὁπλίσσατο δόρπον.
+
+### book 19.3
+
+†) ἀθετοῦνται οἱ δύο στίχοι καὶ ὀβελίζονται. Vind. 56
+
+### book 19.4
+
+(non legitur hoc scholion apud Dindorf. cf. La Roche p. 22).
+
+### book 19.5.1
+
+*) δόρπον τὸ καθ’ ἡμᾶς δεῖπνον. τρισὶ δὲ τροφαῖς
+
+### book 19.5.2
+
+ἐχρῶντο. καὶ τὴν μὲν πρώτην ἐκάλουν ἄριστον, ἣν ἐλάμβανον
+
+### book 19.5.3
+
+πρωΐας σχεδὸν ἔτι σκοτίας οὔσης. τὴν δὲ δευτέραν δεῖπνον,
+
+### book 19.5.4
+
+τὸ καθ’ ἡμᾶς λεγόμενον ἄριστον. τὴν δὲ τρίτην δόρπον, τὸ
+
+### book 19.5.5
+
+καθ’ ἡμᾶς λεγόμενον δεῖπνον. EHMTV. Sic observavit Ari‐
+
+### book 19.10
+
+starchus cf. L. Ar. 127. α 124. δ 61. π 2. Eust. 1432, 2.
+
+### book 24.1
+
+τοῦ ὅγε δακρυχέων.
+
+### book 24.2
+
+Aristarchus praepositionem περί omissam esse notavit, non
+
+### book 24.3
+
+ὑπέρ ut schol. in M, in genetivis, qui pendent a verbis simili
+
+### book 24.4
+
+significatione positis cf. Ar. ad Π 17. Χ 170 ὀλοφύρεαι Ἀρ‐
+
+### book 24.5.1
+
+γείων et Ἕκτορος, ἀκαχήμενος υἷος Ω 550, ἀχνύμενος ἑταίρου
+
+### book 24.5.2
+
+Ο 651. Corruptum Aristonici scholion sic fere restituendum
+
+### book 24.5.3
+
+est: ἡ διπλῆ, ὅτι ἐλλείπει ἡ περί, περὶ τοῦ δακρυχέων.
+
+### book 37.1
+
+στῆ δὲ μέσῃ ἀγορῇ· σκῆπτρον δὲ οἱ ἔμβαλε χειρί
+
+### book 37.2
+
+κῆρυξ ...
+
+### book 37.3
+
+*) ὅτι δι’ ἑκατέρας τῆς ποιήσεως Ὁμηρικὸν ὂν τὸ ἔθος
+
+### book 37.4
+
+τετήρηται. H. S. cf. ad Σ 505. Ψ 568.
+
+### book 39,n2.1
+
+γέροντα καθαπτόμενος προσέειπεν.
+
+### book 39,n2.2
+
+πρὸς ἐκεῖνον τὸν λόγον ἀποτεινόμενος. τὸ γὰρ καθάπτομαι ἐπὶ
+
+### book 39,n2.3
+
+δύο λαμβάνεται, ἐπὶ καλοῦ τε καὶ κακοῦ, ἐπὶ καλοῦ μὲν ἀντὶ τοῦ
+
+### book 39,n2.4
+
+πρὸς σέ ποιοῦμαι τὸν λόγον. ἐπὶ κακοῦ δὲ ἀντὶ τοῦ ὑβριστικῶς
+
+### book 39,n2.5.1
+
+διατίθεμαι, ὅπερ γενικῇ συντάσσεται. Β.
+
+### book 39,n2.5.2
+
+Fortasse adnotavit Aristarchus verbum καθάπτεσθαι mediae esse
+
+### book 39,n2.5.3
+
+significationis, ut in multis aliis fecit vocabulis cf. L. Ar. p. 146 sq.
+
+### book 39,n2.5.4
+
+Zenodotus hoc non intellexit, nam κ 70. pro μαλακοῖσι καθαπτόμε‐
+
+### book 39,n2.5.5
+
+νος legit ἀμειβόμενος. Certe etiam hoc loco sic emendavit et ω 393.
+
+### book 39,n2.10
+
+Eust. 1432, 46. Duentzer 133.
+
+### book 41.1
+
+ὃς λαὸν ἤγειρα· μάλιστα δέ μ’ ἄλγος ἱκάνει.
+
+### book 41.2
+
+†) Ζηνόδοτος γράφει ἤγειρε. ἐλέγχεται δὲ διὰ τοῦ „μά‐
+
+### book 41.1
+
+λιστα δ’ ἐμὲ·“ ἐχρῆν γὰρ εἶναι αὐτόν HMS. Corrigendum est
+
+### book 41.2
+
+quod Dindorf. p. 79 not. 2 adnotavit; non prima tantum verba,
+
+### book 41.5
+
+sed totum scholion habet S. cf. praef. p. XL.
+
+### book 42.1
+
+οὔτε τιν’ ἀγγελίην στρατοῦ ἔκλυον.
+
+### book 42.2
+
+†) γελοίως γράφει Ζηνόδοτος ἤϊον, ἀπὸ τοῦ ἀΐειν, ὅ ἐστιν
+
+### book 42.3
+
+ἀκούειν. HM.
+
+### book 42.4
+
+Duentzerus, qui cum Porsono substantivum ἠΐονα legit
+
+### book 42.5.1
+
+(p. 110) non dubitat, quin haec lectio genuina fuerit, quae vul‐
+
+### book 42.5.2
+
+gari ἀγγελίην cedere iussa est. Dindorfius illud ἤϊον scholia‐
+
+### book 42.5.3
+
+stam ridiculum vocare putat, quod verbi ἀΐειν imperfectum ἤϊον
+
+### book 42.5.4
+
+inauditum sit. Nam ἤϊον, ubi apud epicos legatur, esse ab verbo
+
+### book 42.5.5
+
+εἶμι. Similibus locis Π 13. α 408. β 30 scholia non adiecta
+
+### book 42.10.1
+
+sunt, ita ut ex his reliquiis quae Aristarchi fuerit sententia ne‐
+
+### book 42.10.2
+
+quaquam appareat.
+
+### book 42bis.1
+
+(τηρητέον) *) ὅτι πρὸς τὸ πρῶτον τῇ τάξει πρῶτον
+
+### book 42bis.2
+
+ἀπήντηκεν (cod. ἀπήντησεν), ὅπερ σπανίως ποιεῖ. M. cf. ad
+
+### book 42bis.3
+
+Ζ 219, ubi verba non tam integra sunt. Multis aliis locis diplae
+
+### book 42bis.4
+
+sunt ὅτι πρὸς τὸ δεύτερον πρότερον ἀπήντηκε. cf. L. Ar. 11,
+
+### book 42bis.5
+
+in Odyssea γ 467. ο 6.
+
+### book 45.1
+
+ἀλλ’ ἐμὸν αὐτοῦ χρεῖος, ὅ μοι κακὸν ἔμπεσεν
+
+### book 45.2
+
+οἴκῳ
+
+### book 45.3
+
+δοιά·
+
+### book 45.4
+
+Excidit nota ὅτι κατὰ τὸ πλῆρες ἐμὸν αὐτοῦ ἐκφέρει cf.
+
+### book 45.5.1
+
+ad Κ 205. α 7.
+
+### book 45.5.2
+
+†) Ἀρίσταρχος τὸ δοιά ἀντὶ τοῦ διχῶς ἀκούει EH. cf. F.
+
+### book 45.5.3
+
+Ar. 29. α 209 et locos ibi collatos. Aristophanes κακὰ legit,
+
+### book 45.5.4
+
+Aristarchus κακόν.
+
+### book 53.1
+
+ὥς κ’ αὐτὸς (Icarius) ἐεδνώσαιτο θύγατρα.
+
+### book 53.2
+
+†) κυρίως μὲν ἕδνα ἐστὶ τὰ διδόμενα ὑπὸ τοῦ γαμοῦντος
+
+### book 53.3
+
+τῇ γαμουμένῃ· νῦν δὲ καταχρηστικῶς κεῖται ἡ λέξις ἀντὶ τοῦ
+
+### book 53.4
+
+χρήματα ἐπιδοίη. HPQSV. cf. α 276. Ν 382.
+
+### book 55.1
+
+οἱ δ’ εἰς ἡμετέρου πωλεύμενοι ...
+
+### book 55.2
+
+*) [ἡ διπλῆ, ὅτι] ἀντὶ τοῦ εἰς ἡμέτερον Ἀττικῶς [ἐξενή‐
+
+### book 55.1
+
+νοχεν], ὡς „ἀλλ’ ἄγ’, ὀΐστευσον Μενελάου“ (Δ 100) ἀντὶ τοῦ
+
+### book 55.2
+
+[ἐπὶ τὸν] Μενέλαον. Μ. Aristarchum legisse εἰς ἡμετέρου ap‐
+
+### book 55.5.1
+
+paret ex Didymo ad η 301. cf. Ε 249. 700. δ 634. Pertinet
+
+### book 55.5.2
+
+haec adnotatio ad quaestionem de patria Homeri, quem Athe‐
+
+### book 55.5.3
+
+niensem fuisse putavit. cf. F. Ar. p. 1 et 21.
+
+### book 61.1
+
+λευγαλέοι.
+
+### book 61.2
+
+Huius vocabuli interpretatio est ad Φ 281: ἡ διπλῆ, ὅτι
+
+### book 61.3
+
+ἐκ τούτου οἱ νεώτεροι ἐξεδέξαντο λευγαλέον τὸν δίυγρον. ἔστι
+
+### book 61.4
+
+δὲ κατὰ κοινωνίαν στοιχείων λευγαλέον ὀλέθριον, παρὰ τὸν
+
+### book 61.5
+
+λοιγόν. καὶ ἐν Ὀδυσσείᾳ—β 61—„λευγαλέοι τ’ ἐσόμεσθα“.
+
+### book 67.1
+
+ἀγασσάμενοι κακὰ ἔργα.
+
+### book 67.2
+
+Aristarchus ad Ρ 71 et Η 41 ἀγασσάμενοι notavit, quod
+
+### book 67.3
+
+non modo invidere, sed etiam admirari significet. Hanc obser‐
+
+### book 67.4
+
+vationem habent codd. BES. quorum E. ἐκπλαγέντες, S. θαυ‐
+
+### book 67.5
+
+μάσαντες et νεμεσήσαντες explanant.
+
+### book 68.1
+
+λίσσομαι ἠμὲν Ζηνὸς Ὀλυμπίου ἠδὲ Θέμιστος,
+
+### book 68.2
+
+ἥ τ’ ἀνδρῶν ἀγορὰς ἠμὲν λύει ἠδὲ καθίζει.
+
+### book 68.3
+
+(παρατηρητέον δὲ) *) ὅτι καὶ ἐν Ἰλιάδι παρὰ Διὸς ἔχει
+
+### book 68.4
+
+γέρας τοῦτο Θέμις. HMQ. cf. Ar. ad Υ 4. Glossa cod. S.
+
+### book 68.5.1
+
+διαλύει καὶ συνίστασθαι ποιεῖ fortasse ex Aristonico fluxit.
+
+### book 68.5.2
+
+cf. β 91. δ 105. ν 380. Ε 37. Ι 554. Θ 328.
+
+### book 81.1
+
+δάκρυ ἀναπρήσας.
+
+### book 81.2
+
+†) Ζηνόδοτος γράφων „δάκρυα θερμὰ χέων“ ἐκλέλυκε τὴν
+
+### book 81.3
+
+μεγαλειότητα τοῦ στίχου. HMQR.
+
+### book 89.1
+
+ἤδη γὰρ τρίτον ἐστὶν ἔτος, τάχα δ’ εἶσι τέταρτον.
+
+### book 89.2
+
+*) ἡ διπλῆ πρὸς τὸ ἑξῆς δοκοῦν ἀσυμφώνως λέγεσθαι
+
+### book 89.3
+
+„ὡς τρίετες μὲν ἔληθε δόλῳ, ἀλλ’ ὅτε τέτρατον ἦλθεν ἔτοσ“
+
+### book 89.4
+
+(106). διὸ καί τινες μετεποίησαν „ὡς δίετες μὲν ἔληθε δόλῳ·
+
+### book 89.5.1
+
+ἀλλ’ ὅτε δὴ τρίτον ἦλθεν ἔτοσ“· οὐδὲν δὲ ἐναντίον ἔχει τὰ
+
+### book 89.5.2
+
+ἔπη· τὸ γὰρ τάχα ἀντὶ τοῦ ταχέως, τὸ δὲ εἶσιν ἀντὶ τοῦ δίεισι
+
+### book 89.5.3
+
+καὶ τὸ τέταρτον. HM.
+
+### book 89.5.4
+
+M. habet in alio scholio διελεύσεται pro δίεισι ut ν 377;
+
+### book 89.5.5
+
+ad v. 107 fere idem est scholion, sed pro δίεισι διέρχεται.
+
+### book 89.10
+
+cf. L. A. 93.
+
+### book 91.1
+
+πάντας μέν ῥ’ ἔλπει.
+
+### book 91.2
+
+*) [ἡ διπλῆ, ὅτι ἔλπει ἀντὶ τοῦ] ἐλπίζειν ποιεῖ. S. cf. β 69.
+
+### book 91.3
+
+Ar. ad Ι 554, ubi noster locus sic explanatur.
+
+### book 94.1
+
+στησαμένη μέγαν ἱστόν.
+
+### book 94.2
+
+†) οὐ ποιητικῶς κόσμου χάριν προσέῤῥιπται τὸ μέγαν, ἀλλὰ
+
+### book 94.3
+
+πρὸς τὸ πολυχρόνιον τῆς τοῦ ἔργου κατασκευῆς. HMQS. Certe
+
+### book 94.4
+
+est Aristarcheum cf. ad Σ 416, ubi hic versus citatur. „Hoc
+
+### book 94.5.1
+
+adnotare ideo non superfluum duxit, quia epithetorum signifi‐
+
+### book 94.5.2
+
+cationem nonnunquam delitescere identidem observaverat.“ Di‐
+
+### book 94.5.3
+
+serte hac de re Friedlaender ad Γ 352.
+
+### book 102.1
+
+πολλὰ κτεατίσσας.
+
+### book 102.2
+
+Fuit διπλῆ, ὅτι ἰδίως καὶ παρὰ τὴν ἡμετέραν συνήθειαν
+
+### book 102.3
+
+κτεατίσσας κατὰ τὸ ἐνεργητικὸν ἀντὶ τοῦ κτησάμενος· καὶ ἐν
+
+### book 102.4
+
+Ἰλιάδι (Π 57) „κτεάτισσα πόλιν“ ἀντὶ τοῦ ἐκτησάμην. cf. ad
+
+### book 102.5
+
+Π 57. α 404.
+
+### book 103.1
+
+ἡμῖν δ’ αὖτ’ ἐπεπείθετο θυμὸς ἀγήνωρ.
+
+### book 103.2
+
+†) ἀγήνωρ [νῦν] ὁ ἄγαν ἀνδρεῖος S. alibi ἐπὶ ψόγου ὁ
+
+### book 103.3
+
+ἄγαν ὑβριστικὸς καὶ διὰ τῆς ἀνδρείας ὑπερπεπτωκὼς εἰς ὕβριν.
+
+### book 103.4
+
+cf. ad Ι 699. L. Ar. 146.
+
+### book 107.1
+
+ἀλλ’ ὅτε τέτρατον ἦλθεν ἔτος.
+
+### book 107.2
+
+†) πῶς οὖν ἄνωθεν ἔλεγεν „τάχα δ’ εἶσι τέταρτον“; ταῦτα
+
+### book 107.3
+
+δὲ πρὸς τὰ μικρῷ πρόσθεν εἰρημένα περὶ τῆς ἀσυμφωνίας.
+
+### book 107.4
+
+εἶπε γὰρ ἔμπροσθεν „ἤδη γὰρ τρίτον ἐστίν“. διὸ καί τινες μετε‐
+
+### book 107.5.1
+
+ποίησαν „ὡς δίετες μὲν ἔληθε δόλῳ· ἀλλ’ ὅτε δὴ τρίτον ἦλθεν
+
+### book 107.5.2
+
+ἔτος.“ οὐδὲν δὲ ἐναντίον ἔχει τὰ ἔπη· τὸ γὰρ τάχα ἐκεῖ ἐντὶ
+
+### book 107.5.3
+
+τοῦ ταχέως, τὸ δὲ εἶσιν ἀντὶ τοῦ διέρχεται καὶ τὸ τέταρτον.
+
+### book 107.5.4
+
+EMQ. cf. ad v. 89, sed nostro in scholio Aristonici verba non
+
+### book 107.5.5
+
+tam integra sunt.
+
+### book 111.1
+
+σοὶ δ’ ὧδε μνηστῆρες ὑποκρίνονται.
+
+### book 111.2
+
+*) [ἡ διπλῆ ὅτι] τὸ ὧδε ἀντὶ τοῦ οὕτως· τὸ δὲ ὑποκρίνον‐
+
+### book 111.3
+
+ται ἀντὶ τοῦ ἀποκρίνονται B. cf. de ὧδε pro οὕτως α 182 et
+
+### book 111.4
+
+locos ibi collatos. L. Ar. p. 70. De praepositione permutata
+
+### book 111.5
+
+vide Lehrs. quaest. ep. p. 89. F. Ar. 27. M. 228. Η 407. Eust.
+
+### book 111
+
+1437, 31.
+
+### book 134,n3.1
+
+κακὸν δέ με πόλλ’ ἀποτίνειν
+
+### book 134,n3.2
+
+Ἰκαρίῳ, αἴ κ’ αὐτὸς ἑκὼν ἀπὸ μητέρα πέμψω·
+
+### book 134,n3.3
+
+ἐκ γὰρ τοῦ πατρὸς κακὰ πείσομαι, ...
+
+### book 134,n3.4
+
+τινὲς δὲ, ἐκ γὰρ τοῦ πατρὸς, τοῦ αὐτῆς πατρός· καὶ στίζουσι
+
+### book 134,n3.5.1
+
+τῷ Ἰκαρίῳ BEHQ. Sic interpretatum esse Aristarchum putaverim
+
+### book 134,n3.5.2
+
+collatis scholiis ad Ι 133. Β 576. β 206. F. Ar. 30.
+
+### book 137.1
+
+νέμεσις δέ μοι ἐξ ἀνθρώπων
+
+### book 137.2
+
+ἔσσεται. ὣς οὐ τοῦτον ἐγώ ποτε μῦθον ἐνίψω.
+
+### book 137.3
+
+ἀθετεῖται μὲν ὑπὸ Ἀριστάρχου, στικτέον δὲ ὅμως μετὰ τὸ
+
+### book 137.4
+
+ἔσσεται, ἵνα τὸ ὣς κέηται ἀντὶ τοῦ οὕτως. HM.
+
+### book 137.5.1
+
+Aristonici et Nicanoris scholia coniunxit scholiasta cf. F.
+
+### book 137.5.2
+
+Nican. p. 114. L. Ar. 344. Aristonici verba sunt in MV ad
+
+### book 137.5.3
+
+versum 134: περισσὸς γάρ ἐστι πρὸς ταύτην τὴν ἀπόδοσιν.
+
+### book 146,n4.1
+
+τῷ δ’ αἰετὼ εὐρύοπα Ζεύς ...
+
+### book 146,n4.2
+
+τινὲς τὸ τῷ περισπῶσιν ἐπὶ τοῦ Τηλεμάχου ἀκούοντες. HQS.
+
+### book 146,n4.3
+
+Certe fuit Ar. scholion ὅτι τὸ τω οὐκ ἔστιν ἄρθρον, ἀλλ’ ἀντὶ τοῦ
+
+### book 146,n4.4
+
+τούτῳ παρείληπται ἐν τάξει ἀντωνυμίας. cf. F. Ar p. 30.
+
+### book 152.1
+
+ὄσσοντο δ’ ὄλεθρον.
+
+### book 152.2
+
+†) προεμαντεύοντο, προεδήλουν αὐτοῖς ἀπώλειαν. S.
+
+### book 152.3
+
+cf. ad α 115. L. Ar. 88. cf. B ad Α 105.
+
+### book 154.1
+
+δεξιὼ ἤϊξαν.
+
+### book 154.2
+
+†) ἀνατολικοί. δεξιὰ γὰρ τὰ ἀνατολικὰ λέγει ὁ Ὅμηρος.
+
+### book 154.3
+
+„εἴτ’ ἐπιδέξι’ ἴωσι πρὸς ἠώ τ’ ἠέλιόν τε, εἴτ’ ἐπ’ ἀριστερὰ
+
+### book 154.4
+
+ποτὶ ζόφον ἠερόεντα.“ (M 239). EQS.
+
+### book 154.5
+
+Observatio est Aristarchi cf. Aristonicum ad Μ 239.
+
+### book 156.1
+
+ἅ περ τελέεσθαι ἔμελλον.
+
+### book 156.2
+
+†) ἔμελλον διὰ τοῦ ο· τοῦτο γὰρ Ὁμήρῳ σύνηθες. HMS.
+
+### book 156.3
+
+scilicet ut neutrum plurale cum verbo plurali coniungat cf. F.
+
+### book 156.4
+
+Ar. p. 15 et permultos locos ici collatos. Certe adnotavit etiam
+
+### book 156.5
+
+καὶ ὅτι τὸ ἔμελλον ἀντὶ τοῦ ἐῴκεσαν. cf. ad Β 36 et α 232.
+
+### book 156
+
+ζ 165. ς 19. 138.
+
+### book 180.1
+
+ταῦτα δ’ ἐγὼ σέο πολλὸν ἀμείνων μαντεύεσθαι.
+
+### book 180.2
+
+†) γράφεται ἀμείνω χωρὶς τοῦ ν. H.
+
+### book 180.3
+
+Sic scripsit Zenodotus cf. ad Α 80. 249. Γ 71. Η 114.
+
+### book 180.4
+
+Fuit igitur Aristonici διπλῆ περιεστιγμένη, ὅτι Ζηνόδοτος χωρὶς
+
+### book 180.5.1
+
+τοῦ ν ἀμείνω γράφει. τὰ δὲ τοιαῦτα συγκριτικὰ ἔχει ἐπὶ τῆς
+
+### book 180.5.2
+
+εὐθείας τὸ ν.
+
+### book 182.1
+
+ὄρνιθες δέ τε πολλοὶ ὑπ’ αὐγὰς ἠελίοιο
+
+### book 182.2
+
+φοιτῶς’, οὐδέ τε πάντες ἐναίσιμοι·
+
+### book 182.3
+
+*) [ἡ διπλῆ ὅτι] ὁ (δέ) τε σύνδεσμος περιττός. HMS. cf.
+
+### book 182.4
+
+F. Ar. p. 34.
+
+### book 195.1
+
+μητέρ’ ἑὴν ἐς πατρὸς ἀνωγέτω ἀπονέεσθαι·
+
+### book 195.2
+
+οἱ δὲ γάμον τεύξουσι.
+
+### book 195.3
+
+†) ἡδέως τῷ σχήματι ἐχρήσατο· εἰπὼν γὰρ „ἐς πατρόσ“
+
+### book 195.4
+
+μετέβη εἰς πληθυντικὸν „οἱ δὲ γάμον τεύξουσι“, δηλονότι πα‐
+
+### book 195.5.1
+
+τὴρ καὶ ἀδελφοί· τινὲς δὲ λαμβάνουσι τὸ „οἱ δὲ γάμον τεύξ‐
+
+### book 195.5.2
+
+ουσι“, δηλονότι οἱ μνηστῆρες. Sic recte restituit Buttmann. EQ.
+
+### book 195.5.3
+
+Fuit Ar. διπλῆ πρὸς τὸ σχῆμα, ὅτι πρὸς τὸ νοητόν. cf.
+
+### book 195.5.4
+
+α 277. F. Ar. p. 16.
+
+### book 205.1
+
+ἡμεῖς δ’ αὖ ποτιδέγμενοι ἤματα πάντα
+
+### book 205.2
+
+εἵνεκα τῆς ἀρετῆς ἐριδαίνομεν.
+
+### book 205.3
+
+†) ὁ Ἀρίσταρχος λείπειν φησὶ τὸ ἄρθρον, ἵν’ ᾖ „εἵνεκα
+
+### book 205.4
+
+τῆς ταύτης ἀρετῆς.“ Ἰακὸν δὲ τὸ ἔθος εἶναι. Ἀριστοφάνης
+
+### book 205.5.1
+
+δὲ ὑπώπτευε τὸν στίχον, νεωτερικὸν λέγων ὄνομα τὸ τῆς ἀρε‐
+
+### book 205.5.2
+
+τῆς. HMQR—verba ὁ Ἀριστοφάνης—ἀρετῆς habet etiam
+
+### book 205.5.3
+
+S. —πιθανὸν δὲ συναθετεῖν αὐτῷ καὶ τὸν πρὸ αὐτοῦ καὶ τὸν
+
+### book 205.5.4
+
+μετ’ αὐτόν.
+
+### book 205.5.5
+
+Scholion ex Didymo fluxisse videtur, sed Aristonicum quo‐
+
+### book 205.10.1
+
+que verba fecisse de articulo omisso apparet ex Τ 105, ubi
+
+### book 205.10.2
+
+noster locus in simili interpretatione citatur, cf. β 134. F. Ar.
+
+### book 205.10.3
+
+30. V ad Ι 133.
+
+### book 214.1
+
+εἶμι γὰρ ἐς Σπάρτην τε καὶ ἐς Πύλον ἠμαθόεντα.
+
+### book 214.2
+
+Fuit διπλῆ περιεστιγμένη propter Zenodoti lectionem Κρή‐
+
+### book 214.3
+
+την pro Σπάρτην cf. α 93. β 359. γ 313. δ 702.
+
+### book 214.4
+
+†) Πύλον ἠμαθόεντα: ὡς τὸ „ὀλοόεντος ἐχίδνησ“ ἀντὶ
+
+### book 214.5.1
+
+τοῦ ὀλοοέσσης. e.
+
+### book 214.5.2
+
+Scholion ex Aristonico fluxisse videtur, qui commutationes
+
+### book 214.5.3
+
+generum observans adnotare solebat, substantivis feminini ge‐
+
+### book 214.5.4
+
+neris adiici saepe adiectiva masculina. cf. F. Ar. p. 31. δ 442:
+
+### book 214.5.5
+
+ὀλοώτατος ὀδμή. δ 709: πουλὺν ἐπ’ ὑγρήν. ε 422: κλυτὸς
+
+### book 214.10.1
+
+Ἀμφιτρίτη. ε 467: θῆλυς ἐέρση. ζ 122: θῆλυς αὐτή. ζ 271:
+
+### book 214.10.2
+
+τῷδε ἐνὶ χώρᾳ. ο 161: ἀργὴν χῆνα. τ 38: κίονες ἔχοντες.
+
+### book 214.10.3
+
+τ 131: ὑλήεντι Ζακύνθῳ.
+
+### book 216.1
+
+ἢ ὄσσαν ἀκούσω.
+
+### book 216.2
+
+*) [ἡ διπλῆ ὅτι ὄσσαν] θείαν φήμην [λέγει] S. cf. L. Ar.
+
+### book 216.3
+
+87. α 282.
+
+### book 257.1
+
+λῦσεν δ’ ἀγορὴν αἰψηρήν.
+
+### book 257.2
+
+*) [ἡ διπλῆ ὅτι οὐ κατ’ ἐπίθετον τὸ αἰψηρὴν, ἀλλ’] ἀντὶ
+
+### book 257.3
+
+τοῦ αἰψηρῶς, (codd. ταχέως glossa est) ὡς τὸ „τότε μοι χάνοι
+
+### book 257.4
+
+εὐρεῖα χθών.“ (Δ 182) ἀντὶ τοῦ εὐρέως. HMS. cf. F. A. 29.
+
+### book 257.5
+
+α 209 et locos ibi collatos. Apoll. l. h. 17, 20 habet: ὅταν
+
+### book 257.1
+
+δὲ λέγῃ· „λῦσαν (codd. λῦσεν. Arist. fortasse legit λῦσαν cf.
+
+### book 257.2
+
+W. C. Kayser de versibus aliquot Hom. Od. disp. II, p. 14.
+
+### book 257.3
+
+La Roche p. 33) δ’ ἀγορὴν αἰψηρὴν“ ὁ Ἀρίσταρχος ἀντὶ τοῦ
+
+### book 257.4
+
+αἰψηρῶς ἀκούει. Eust. 1444, 13. BV ad Δ 182.
+
+### book 300.1
+
+αἶγας ἀνιεμένους.
+
+### book 300.2
+
+†) σημαίνει ἐκδέροντας (ἀναδέροντας Ar. ad Χ 80) „κόλ‐
+
+### book 300.3
+
+πον ἀνιεμένη, ἑτέρῃφι δὲ μαζὸν ἀνέσχε.“ ER.
+
+### book 300.4
+
+Citatur noster versus ad Χ 80, ubi sic Ar. ἀνιεμένους in‐
+
+### book 300.5
+
+terpretatur.
+
+### book 305.1
+
+ἀλλά μοι ἐσθιέμεν καὶ πινέμεν ὡς τὸ πάρος περ.
+
+### book 305.2
+
+*) [ἡ διπλῆ ὅτι τὸ] ἀπαρέμφατον ἀντὶ τοῦ προστακτικοῦ.
+
+### book 305.3
+
+BMS. cf. F. Ar. 14. α 291 et locos ibi collatos.
+
+### book 316.1
+
+πειρήσω ὥς κ’ ὔμμι κακὰς ἐπὶ κῆρας ἰήλω,
+
+### book 316.2
+
+ἠὲ Πύλονδ’ ἐλθὼν ἢ αὐτοῦ τῷδ’ ἐνὶ δήμῳ.
+
+### book 316.3
+
+Ex Ar. ad 325 apparet, versibus 316—317 obelos appictos
+
+### book 316.4
+
+fuisse ab Aristarcho.
+
+### book 322.1
+
+ῥεῖα· μνηστῆρες δὲ δόμον κάτα δαῖτα πένοντο.
+
+### book 322.2
+
+*) (ὁ στίχος οὗτος) ἀθετεῖται ὡς περιττός. προηθετεῖτο
+
+### book 322.3
+
+δὲ καὶ παρ’ Ἀριστοφάνει. (cod. προηθέτει δὲ καὶ Ἀριστο‐
+
+### book 322.4
+
+φάνης (MQR. L. A. 343. VIII.
+
+### book 325.1
+
+ἦ μάλα Τηλέμαχος φόνον ἡμῖν μερμηρίζει,
+
+### book 325.2
+
+ἤ τινας ἐκ Πύλου ἄξει ἀμύντορας ἠμαθόεντος,
+
+### book 325.3
+
+ἢ ὅ γε καὶ Σπάρτηθεν, ...
+
+### book 325.4
+
+ἠὲ καὶ εἰς Ἐφύρην ἐθέλει.
+
+### book 325.5.1
+
+†) βεβαιωτικὰ ταῦτα τὰ ἔπη τοῦ μὴ εἰρῆσθαι ὑπὸ Τηλε‐
+
+### book 325.5.2
+
+μάχου τοὺς προηθετημένους στίχους (316. 317) „πειρήσω ὡς
+
+### book 325.5.3
+
+κ’ ὔμμι κακὰς ἐπὶ κῆρας ἰήλω ἠὲ Πύλονδ’ ἐλθὼν ἢ αὐτοῦ τῷδ’
+
+### book 325.5.4
+
+ἐνὶ δήμῳ.“ ἀποροῦντες γὰρ λέγουσιν „ἦ μάλα Τηλέμαχοσ“,
+
+### book 325.5.5
+
+οὐκ ἂν ἀπορήσαντες οἱ [εἰ?] προακηκοότες. EM. cf. ad v. 316.
+
+### book 326.1
+
+Πύλου ἠμαθόεντος.
+
+### book 326.2
+
+†) ἄμαθον ἔχοντος. ἰστέον ὅτι ἄμαθος ἡ ἐν τῷ πεδίῳ
+
+### book 326.3
+
+κόνις, ψάμαθος δὲ ἡ περὶ θάλασσαν. BE. Sic distinxit Ar.
+
+### book 326.4
+
+ψάμαθος et ἄμαθος cf. L. Ar. 123.
+
+### book 328.1
+
+ἠὲ καὶ εἰς Ἐφύρην ἐθέλει.
+
+### book 328.2
+
+*) [ἡ διπλῆ ὅτι] τὴν ἐν Θεσπρωτίᾳ [Ἐφύραν λέγει], οὐχ,
+
+### book 328.3
+
+ὡς ἔνιοι, τὴν Κόρινθον. M. cf. L. Ar. 231. α 259.
+
+### book 334.1
+
+οὕτω κεν καὶ μᾶλλον ὀφέλλειεν πίνον ἄμμιν·
+
+### book 334.2
+
+†) σημείωσαι ὅτι πόνον τὴν ἐνέργειαν καὶ κακοπάθειαν
+
+### book 334.3
+
+λέγει ὁ ποιητὴς, οὐδέποτε δὲ τὴν ἀλγηδόνα. MQ. cf. L. Ar. 73.
+
+### book 334.4
+
+δ 624. ι 250. Aristonici ἔργον pro ἐνέργειαν καὶ κακοπάθειαν
+
+### book 334.5
+
+habet E: τὸ περὶ τὴν μνηστείαν ἔργον πόνον λέγει.
+
+### book 359.1
+
+εἶμι γὰρ ἐς Σπάρτην τε καὶ ἐς Πύλον.
+
+### book 359.2
+
+*) ὅτι οὐδὲ ἐνταῦθα μνήμη τίς ἐστι τῆς Κρήτης, HMS.
+
+### book 359.3
+
+Respicit ad Zenodoti lectionem Κρήτην pro Σπάρτην cf. α 93.
+
+### book 359.4
+
+γ 313. δ 702.
+
+### book 386.1
+
+Φρονίοιο Νοήμονα φαίδιμον υἱόν.
+
+### book 386.2
+
+†) πεποίηκεν πλαστὰ ὀνόματα S. cf. Aristonici verba hac
+
+### book 386.3
+
+de re ad δ 630 Ε 60. Ι 137 ubi est διπλῆ ὅτι ὀνοματοθετικὸς
+
+### book 386.4
+
+ὁ ποιητής, καὶ ἐν Ὀδυσσείᾳ παραπλησίως ποιεῖ.
+
+### book 397.1
+
+οἱ δ’ εὕδειν ὤρνυντο κατὰ πτόλιν.
+
+### book 397.2
+
+*) ὅτι οὐκ ἐν τῇ Ὀδυσσέως οἰκίᾳ ἐκοιμῶντο. RT. De re
+
+### book 397.3
+
+cf. α 424.
+
+### book 404.1
+
+ἀλλ’ ἴομεν, μὴ δηθὰ διατρίβωμεν ὁδοῖο.
+
+### book 404.2
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος εὐήθως ἀθετεῖ
+
+### book 404.3
+
+αὐτόν HMQ.
+
+### book 417.1
+
+νηῒ δ’ ἐνὶ πρύμνῃ κατ’ ἄρ’ ἕζετο.
+
+### book 417.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ νεὼς πρύμνῃ· καὶ ἐν Ἰλιάδι
+
+### book 417.3
+
+„νηῒ δ’ ἐνὶ πρύμνῃ ἔναρα βροτόεντα Δόλωνοσ“ (Κ 570) V.
+
+### book 417.4
+
+cf. Ar. ad Κ 570. F. Ar. p. 22.
+
+### book 434
+
+παννυχίη μέν ῥ’ ἥ γε καὶ ἠῶ πεῖρε κέλευθον.
+
+### book 434
+
+Hunc versum expunxit Aristarchus cf. schol. in BMV. ad Ω 8.
+
+### book 1,n1.1
+
+ἠέλιος δ’ ἀνόρουσε, λιπὼν περικαλλέα λίμνην
+
+### book 1,n1.2
+
+λίμνην ὁ ποιητὴς πᾶν ὕδωρ φησὶ, νῦν δὲ τὸν ὠκεανόν. BEPQS.
+
+### book 1,n1.3
+
+Hoc fortasse Aristarcheum est et observatum, quod abhorret a
+
+### book 1,n1.4
+
+poetae consuetudine, qui dicere solet τὸν ἥλιον εἰς Ὠκεανὸν δύνοντα καὶ
+
+### book 1,n1.5.1
+
+ἐξ Ὠκεανοῦ ἀνέχοντα. cf. L. Ar. 175. Apoll. l. h. 108, 28. Ad Φ 246
+
+### book 1,n1.5.2
+
+Ariston. habet: διὸ καὶ τὸν Ὠκεανὸν λίμνην καλεῖ.
+
+### book 10
+
+ἰδ’ ἱστία νηὸς ἐΐσης
+
+### book 11.1
+
+στεῖλαν ἀείραντες.
+
+### book 11.2
+
+Fuit diple periestigmene propter Zenodoti lectionem cf.
+
+### book 11.3
+
+schol. in HMQRT: οἱ περὶ Ζηνόδοτον (i. e. Zenodotus ipse, cf.
+
+### book 11.4
+
+Lehrs qu. ep. not. p. 28) σεῖσαν ἀείραντες. τότε δὲ σείουσιν,
+
+### book 11.5
+
+ὅτε θέλουσι χαλάσαι τὸ ἄρμενον.
+
+### book 14.1
+
+Τηλέμαχ’, οὐ μέν σε χρὴ ἔτ’ αἰδοῦς.
+
+### book 14.2
+
+†) οὐ χρεία σοι τῆς αἰδοῦς. Ἀττικῶς. EHMQ. Correxi
+
+### book 14.3
+
+Dindorfii σε in σοι, quod habent EQ et Dindorfius in textum
+
+### book 14.4
+
+recipere debebat, comparatis scholiis ad δ 312. 634 et Ar. ad
+
+### book 14.5.1
+
+Λ 606. M habet in textu σε et supra scriptum σοι. cf. Eust.
+
+### book 14.5.2
+
+1455, 3: ἐν τούτοις δὲ τὸ „οὐ μέν σε χρὴ ἔτι αἰδοῦσ“ ἀντί‐
+
+### book 14.5.3
+
+πτωσίς ἐστιν ἀρχαϊκὴ συνήθης, ἀντὶ τοῦ οὐ μήν σοι χρεία
+
+### book 14.5.4
+
+αἰδοῦς.
+
+### book 27.1
+
+αἰδὼς δ’ αὖ νέον ἄνδρα γεραίτερον ἐξερέεσθαι
+
+### book 27.2
+
+†) αἰδὼς δ’ αὖ νέῳ ἀνδρὶ οὕτω γράφουσιν οἱ κατὰ
+
+### book 27.1
+
+Ῥιανόν. HM.
+
+### book 27.2
+
+E Didymo manavit, sed Aristonicus quoque rem tetigisse
+
+### book 27.5
+
+videtur cf. ad Ο. 119.
+
+### book 50.1
+
+τοὔνεκα σοὶ προτέρῳ δώσω χρύσειον ἄλεισον.
+
+### book 50.2
+
+ἐχρῆν ὀρθοτονεῖν τὴν σοί. Ζηνόδοτος δὲ τοὔνεκά τοι
+
+### book 50.3
+
+γράφει, [ἀγ]νοῶν ὅτι ἐπὶ τῆς διαστολῆς [οὐ] παραλαμβάνεται
+
+### book 50.4
+
+ἡ τοι. HMQ. Corr. Duentzer p. 58. Prior scholii pars certe
+
+### book 50.5.1
+
+Herodiani est, qui ad Α 294 promisit, se de σοι et τοι voca‐
+
+### book 50.5.2
+
+bulorum discrimine accuratius quaesiturum esse nostro loco.
+
+### book 50.5.3
+
+Fortasse etiam altera pars ex eo fluxit, sed non dubito, quin
+
+### book 50.5.4
+
+Aristonicus quoque de Zenodoti lectione verba fecerit.
+
+### book 69.1
+
+νῦν δὴ κάλλιόν ἐστι μεταλλῆσαι καὶ ἐρέσθαι
+
+### book 69.2
+
+ξείνους
+
+### book 69.3
+
+Quod M habet ad v. 69 ὅτι ἐννέα (?) ἡμέρας ἐφιλοξένουν
+
+### book 69.4
+
+καὶ οὕτως ἠρώτων, contortum videtur esse ex Ar. adnotatione,
+
+### book 69.5.1
+
+quae ad Ζ 176 legitur: ὅτι ἔθος ἦν παρὰ τοῖς παλαιοῖς ξε‐
+
+### book 69.5.2
+
+νίζειν πρότερον, εἶτα πυνθάνεσθαι, τίνος ἕνεκεν παραγεγόνα‐
+
+### book 69.5.3
+
+σιν οἱ ξένοι.
+
+### book 71.1
+
+ὦ ξεῖνοι, τίνες ἐστέ; πόθεν πλεῖθ’ ὑγρὰ κέλευθα;
+
+### book 71.2
+
+ἦ τι κατὰ πρῆξιν ἦ μαψιδίως ἀλάλησθε,
+
+### book 71.3
+
+οἷά τε ληϊστῆρες, ὑπεὶρ ἅλα; τοί τ’ ἀλόωνται
+
+### book 71.4
+
+ψυχὰς παρθέμενοι, κακὸν ἀλλοδαποῖσι φέροντες.
+
+### book 71.5.1
+
+†) τοὺς μετ’ αὐτὸν τρεῖς στίχους ὁ μὲν Ἀριστοφάνης ἐν‐
+
+### book 71.5.2
+
+θάδε σημειοῦται τοῖς ἀστερίσκοις, ὅτε δὲ ὑπὸ τοῦ Κύκλωπος
+
+### book 71.5.3
+
+λέγονται, καὶ ὀβελίσκους τοῖς ἀστερίσκοις παρατίθησιν, ὡς
+
+### book 71.5.4
+
+ἐντεῦθεν μετενηνεγμένων τῶν στίχων. πόθεν γὰρ τῷ Κύκλωπι
+
+### book 71.5.5
+
+λῃστῶν ἔννοια ᾖ στωμυλλομένῳ φάναι „οἵ τ’ ἀλόωνται ψυχὰς
+
+### book 71.10.1
+
+παρθέμενοι κακὸν ἀλλοδαποῖσι φέροντες;“ ὁ δὲ Ἀρίσταρχος
+
+### book 71.10.2
+
+οἰκειότερον αὐτοὶς τετάχθαι ἐν τῷ λόγῳ τοῦ Κύκλωπός φη‐
+
+### book 71.10.3
+
+σιν. οὐδὲ γὰρ νῦν οἱ περὶ Τηλέμαχον λῃστρικόν τι ἐμφαίνουσι.
+
+### book 71.10.4
+
+δοτέον δὲ, φησὶ, τῷ ποιητῇ τὰ τοιαῦτα. καὶ γὰρ ναῦν αὐτὸν
+
+### book 71.10.5
+
+παράγει εἰδότα, „ἀλλά μοι εἴφ’ ὅπη ἔσχες ἰὼν εὐεργέα νῆα“
+
+### book 71.15.1
+
+(ι, 279), καὶ συνίησιν Ἑλληνίδα φωνήν. καθάπτεται δὲ καὶ
+
+### book 71.15.2
+
+Θουκυδίδου Ἀρίσταρχος λέγοντος ὡς οὐκ αἰσχρὸν ἡγοῦντο τὸ
+
+### book 71.15.3
+
+ληΐζεσθαι οἱ παλαιοὶ, ἐν οἷς φησιν „οὕς μοι ληΐσσατο δῖος
+
+### book 71.1
+
+Ὀδυσσεύσ“ (α 398). ὁμωνυμίᾳ γὰρ ἠπάτηται, πολλάκις τῆς
+
+### book 71.2
+
+ληΐδος ἐπὶ τῆς λαφυραγωγίας τασσομένης· παρὸ καὶ τὴν Ἀθη‐
+
+### book 71.20.1
+
+νᾶν ληΐτιδα προσαγορεύει (Κ 460). ὅτι γὰρ αἰσχρὸν ἡγοῦντο
+
+### book 71.20.2
+
+τὸ λῃστεύειν δῆλον ἐξ ὧν οὐδέποτε ἐπὶ Ἀχιλλέως οὐδὲ ἐπὶ
+
+### book 71.20.3
+
+Αἴαντος, καίτοι γε ἰσχυρῶν ὄντων, ἐχρήσατο τῷ ὀνόματι ὁ
+
+### book 71.20.4
+
+ποιητής. ἄλλως τε κἀκ τῶν συμφραζομένων δηλοῖ τὴν τοῦ
+
+### book 71.20.5
+
+πράγματος μοχθηρίαν· ἀντιτάσσεται γὰρ τῷ „ἤ τι κατὰ πρῆξιν“
+
+### book 71.25.1
+
+τὸ „ἢ μαψιδίωσ“. HMQR.
+
+### book 71.25.2
+
+cf. L. Ar. 197. Eust. 1458, 2 et 1627, 25. Aristarchi athe‐
+
+### book 71.25.3
+
+tesin commemorat etiam grammaticus in excerptis, quae codici
+
+### book 71.25.4
+
+Marciano A. Iliadis praefixa sunt, ubi de Aristarchi obelis agi‐
+
+### book 71.25.5
+
+tur. Bekk. praef. ad schol. in Hom. Il. I, p. III.
+
+### book 82.1
+
+πρῆξις δ’ ἥδ’ ἰδίη, οὐ δήμιος, ἣν ἀγορεύω.
+
+### book 82.2
+
+*) [ἡ διπλῆ ὅτι] ὁ ἐνεστὼς ἀντὶ τοῦ μέλλοντος ἀγορεύσω. M.
+
+### book 82.3
+
+cf. F. Ar. 6. γ 396. δ 485. ζ 174. φ 97. μ 383. ρ 418.
+
+### book 86.1
+
+ἄλλους μὲν γὰρ πάντας, ὅσοι Τρωσὶν πολέμιζον,
+
+### book 86.2
+
+πευθόμεθ’ ...
+
+### book 86.3
+
+†) οἴδαμεν· οὐ γάρ ἐστιν ἀντὶ τοῦ ἐρωτῶμεν HM. Ar.
+
+### book 86.4
+
+observavit, verbum πυνθάνεσθαι significare audire, non explo‐
+
+### book 86.5.1
+
+rare cf. L. Ar. 148. Certe scholion nostrum ex Aristonico
+
+### book 86.5.2
+
+fluxit, cuius verba sic fere restituenda sunt: ἡ διπλῆ, ὅτι τὸ
+
+### book 86.5.3
+
+πυθέσθαι ἀντὶ τοῦ ἀκοῦσαι τίθησιν. Quod Dindorfius ex T.
+
+### book 86.5.4
+
+tradidit p. 745: οἴδαμεν, οὐ γὰρ νῦν ἀντὶ τοῦ ἐρωτῶμεν ad
+
+### book 86.5.5
+
+hunc versum pertinet, non ad v. 84.
+
+### book 92,n2.1
+
+τὰ σὰ γούναθ’ ἱκάνομαι.
+
+### book 92,n2.2
+
+ἢ ἅπτομαι τῶν τῶν γονάτων μετὰ ἱκετείας E. Emanavit for‐
+
+### book 92,n2.3
+
+tasse ex Ar., qui ad Χ 123 adnotavit ὅτι τὸ ἵκωμαι ἀντὶ ἱκε‐
+
+### book 92,n2.4
+
+τεύσω cf. δ 322. ζ 176. Apoll. l. h. 90, 33. Eust. 1458, 42.
+
+### book 109.1
+
+ἔνθα μὲν Αἴας κεῖται ἀρήϊος, ἔνθα δ’ Ἀχιλλεύς.
+
+### book 109.2
+
+*) πρόδηλον ἐντεῦθεν ὅτι ὅπου ἐτελεύτησαν, ἐκεῖ ἐθά‐
+
+### book 109.3
+
+πτοντο, καὶ οὐκ ὀστέα παισὶν ἕκαστος ἤγετο. [διὸ ἡ διπλῆ].
+
+### book 109.4
+
+EMQ.
+
+### book 109.5.1
+
+Relatio est ad Η 334, ubi v. 334—5 damnati sunt, quod
+
+### book 109.5.2
+
+Nestor mortuos cremari vult, ut ossa liberis in patriam refe‐
+
+### book 109.5.3
+
+rantur. L. Ar. 197.
+
+### book 117.1
+
+πρίν κεν ἀνιηθεὶς σὴν πατρίδα γαῖαν ἵκοιο.
+
+### book 117.2
+
+†) πρὶν ἀκούσαις· ὁμοία δὲ ἡ φράσις ἐκείνῃ „πρίν μιν
+
+### book 117.3
+
+καὶ γῆρας ἔπεισι“ (Α 29). M. cf. Σ 283. δ 254. Frustula sunt
+
+### book 117.4
+
+scholii Aristonici, quod sic fere supplendum est: ἡ διπλῆ, ὅτι
+
+### book 117.5.1
+
+τοιοῦτόν ἐστι τὸ λεγόμενον πρότερον ἵκοιο σὴν πατρίδα γαῖαν
+
+### book 117.5.2
+
+ἢ ἐξερέοις· καὶ οὐκ ἔστιν ἐλλιπὴς ὁ λόγος ὥσπερ οὐδ’ ἐπ’
+
+### book 117.5.3
+
+ἐκείνου „τὴν δ’ ἐγὼ οὐ λύσω, πρίν μιν καὶ γῆρας ἔπεισιν.“
+
+### book 117.5.4
+
+Certe adiunxit: καὶ ὅτι ἐλλείπει ἡ εἰς, ἵν’ ᾖ εἰς πατρίδα γαῖαν.
+
+### book 121.1
+
+ἔνθ’ οὔ τίς ποτε μῆτιν ὁμοιωθήμεναι ἄντην
+
+### book 121.2
+
+ἤθελ’
+
+### book 121.3
+
+*) [ἡ διπλῆ ὅτι τὸ ἤθελε] ἀντὶ τοῦ ἠδύνατο· [καὶ ἐν Ἰλιάδι]
+
+### book 121.4
+
+„οὐδ’ ἔθελε προρέειν“ (Φ 366) BQET.
+
+### book 121.5.1
+
+cf. Ar. ad Φ 366, ubi noster versus citatur. L. Ar. 148.
+
+### book 121.5.2
+
+Apoll. l. h. 86, 33. θ 223. λ 105. ο 317.
+
+### book 125.1
+
+οὐδέ κε φαίης
+
+### book 125.2
+
+ἄνδρα νεώτερον ὧδε ἐοικότα μυθήσασθαι.
+
+### book 125.3
+
+*) [ἡ διπλῆ ὅτι] τὸ συγκριτικὸν ἀντὶ [τοῦ] ἁπλοῦ. ET.
+
+### book 125.4
+
+cf. F. Ar. 30. γ 362. η 159.
+
+### book 125.5.1
+
+†) ὧδε: ἀεὶ παρὰ τῷ Ὁμήρῳ τὸ ὧδε ἀντὶ τοῦ κατὰ τοῦ‐
+
+### book 125.5.2
+
+τον τὸν τρόπον. BT.
+
+### book 125.5.3
+
+cf. L. Ar. 72, α 182 et locos ibi collatos.
+
+### book 184.1
+
+φίλε τέκνον.
+
+### book 184.2
+
+*) [ἡ διπλῆ ὅτι ἰδίως φίλε τέκνον] ἀντὶ τοῦ φίλον τέκνον.
+
+### book 184.3
+
+BT.
+
+### book 184.4
+
+cf. Χ 84. F. Ar. 32.
+
+### book 188.1
+
+Μυρμιδόνας ἐγχεσιμώρους.
+
+### book 188.2
+
+Quomodo Ar. vocabulum ἐγχεσιμώρους interpretatus sit,
+
+### book 188.3
+
+Apoll. l. h. 91, 75 et schol. ad ξ 29 tradiderunt, fortasse ex
+
+### book 188.4
+
+Aristonico: ἰόμωροι ὁ μὲν Ἀρίσταρχος οἱ τοὺς ὀξεῖς ἰοὺς ἔχον‐
+
+### book 188.5
+
+τες, καὶ τὸ ὑλακόμωροι παραπλησίως καὶ τὸ ἐγχεσίμωροι.
+
+### book 195.1
+
+ἐπισμυγερῶς.
+
+### book 195.2
+
+*) [ἡ διπλῆ ὅτι] περισσὴ ἡ ἐπὶ, ὡς ἐν τῷ βοῶν ἐπιβου‐
+
+### book 195.3
+
+κόλος. BEHQ.
+
+### book 195.4
+
+Commemoratur vocabulum ἐπισμυγερῶς ab Herodiano ad
+
+### book 195.5.1
+
+Ε 178, ubi Aristarchus superfluam esse praepositionem ἐπὶ do‐
+
+### book 195.5.2
+
+cuisse dicitur. Sed Aristonicum quoque hac de re egisse ap‐
+
+### book 195.5.3
+
+paret ex schol. ad Ζ 19. cf. L. Ar. 109. γ 422. δ 386. 672.
+
+### book 195.5.4
+
+ν 222. 405.
+
+### book 199.1
+
+καὶ σύ, φίλος, —μάλα γάρ ς’ ὁρόω καλόν τε
+
+### book 199.2
+
+μέγαν τε—
+
+### book 199.3
+
+ἄλκιμος ἔσς’ ἵνα τίς σε καὶ ὀψιγόνων εὖ εἴπῃ.
+
+### book 199.4
+
+†) καὶ παρὰ Ἀριστοφάνει προηθετοῦντο οὗτοι οἱ δύο στί‐
+
+### book 199.5.1
+
+χοι· ἐκ γὰρ τοῦ λόγου τῆς Ἀθηνᾶς (α 301) μετήχθησαν ἐν‐
+
+### book 199.5.2
+
+θάδε. HMQ. (μετηνέχθησαν Cobetus). καὶ addidit Dind. ex M.
+
+### book 199.5.3
+
+Aristonici verba sic fere restituenda sunt: ἀθετοῦνται οὗτοι οἱ
+
+### book 199.5.4
+
+δύο στίχοι μετὰ ἀστερίσκων ὅτι οὐ δεόντως ἐκ τοῦ λόγου τῆς
+
+### book 199.5.5
+
+Ἀθηνᾶς μετάκεινται ἐνθάδε. προηθετοῦντο κ.τ.λ.
+
+### book 199.10
+
+ἀλλ’ οὔ μοι τοιοῦτον ἐπέκλωσαν θεοὶ ὄλβον
+
+### book 209.1
+
+πατρί τ’ ἐμῷ καὶ ἐμοί· νῦν δὲ χρὴ τετλάμεν ἔμπης.
+
+### book 209.2
+
+*) περιττός (209)· ἀρκεῖ γὰρ ὁ πρὸ αὐτοῦ· [διὸ καὶ ἀθε‐
+
+### book 209.3
+
+τεῖται] H. cf. L. Ar. 343, VIII.
+
+### book 216.1
+
+τίς δ’ οἶδ’ εἴ κέ ποτέ σφι βίας ἀποτίσεται ἐλθών,
+
+### book 216.2
+
+ἢ ὅ γε μοῦνος ἐὼν ...
+
+### book 216.3
+
+Fuit diple periestigmene propter lectionem Zenodoti, quam
+
+### book 216.4
+
+commemorat schol. HEQ. Ζηνόδοτος γράφει ἀποτίσεαι, καὶ
+
+### book 216.5
+
+τὸ ἑξῆς ἢ σύγε μοῦνος. cf. Ar. ad v. 231.
+
+### book 219,n3.1
+
+περικήδετο.
+
+### book 219,n3.2
+
+ὑφ’ ἓν τὸ περικήδετο ἀντὶ τοῦ ὑπερεκήδετο· οὕτως Ἀρίσταρ‐
+
+### book 219,n3.3
+
+χος .. HM. cf. β 111 ὑποκρίνονται pro ἀποκρίνονται, L. qu. ep. 87
+
+### book 219,n3.4
+
+F. Ar. 28, sed censet, hoc pro certo testimonio esse non posse.
+
+### book 228.1
+
+οὐκ ἂν ἔμοιγε
+
+### book 228.2
+
+ἐλπομένῳ τὰ γένοιτ’, οὐδ’ εἰ θεοὶ ὣς ἐθέλοιεν
+
+### book 228.1
+
+*) [ἡ διπλῆ ὅτι] ὑπερβολικῶς τοῦτο εἴρηκεν ἐν ἤθει· ὅπερ
+
+### book 228.2
+
+οὐ συνεὶς ὁ Ζηνόδοτος γράφει „εἰ μὴ θεοὶ ὣς ἐθέλοιεν“.
+
+### book 228.5
+
+HMQRT.
+
+### book 230.1
+
+Τηλέμαχε, ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων;
+
+### book 230.2
+
+ῥεῖα θεός γ’ ἐθέλων καὶ τηλόθεν ἄνδρα σαώσαι.
+
+### book 230.3
+
+Fuit diple periestigmene, quod Zenodotus v. 230 mutavit
+
+### book 230.4
+
+propter metrum et sequentem expunxit cf. HM: οὗτος ὁ στίχος
+
+### book 230.5.1
+
+λαγαρός ἐστι. διὸ Ζηνόδοτος ἴσως μετέγραφε „Τηλέμαχ’ ὑψα‐
+
+### book 230.5.2
+
+γόρη μέγα νήπιε, ποῖον ἔειπες;“ τὸν δὲ δεύτερον περιήγει τε‐
+
+### book 230.5.3
+
+λέως διὰ τὸ μαχόμενον αὐτῷ „εἰ μὴ θεοὶ ὣς ἐθέλοιεν.“ (228).
+
+### book 230.5.4
+
+cf. Eust. 1464, 62 qui quid sit στίχος λαγαρός explanat.
+
+### book 231.1
+
+*) σημείωσαι τὸν στίχον, ὅτι καὶ ἀνωτέρω οὐ περὶ
+
+### book 231.2
+
+Τηλεμάχου, ἀλλὰ περὶ Ὀδυσσέως εἴρηται, τίς δ’ οἶδ’ εἴ κέ
+
+### book 231.3
+
+ποτέ σφι βίας ἀποτίσεται ἐλθών; (216) HMQ.
+
+### book 231.4
+
+Pertinet ad refutationem lectionis Zenodoti cf. ad v. 216.
+
+### book 232-8.1
+
+„βουλοίμην δ’ ἂν ἔγωγε καὶ ἄλγεα πολλὰ μογήσας
+
+### book 232-8.2
+
+οἴκαδέ τ’ ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι
+
+### book 232-8.3
+
+ἢ ἐλθὼν ἀπολέσθαι ἐφέστιος, ὡς Ἀγαμέμνων
+
+### book 232-8.4
+
+ὤλεθ’ ὑπ’ Αἰγίσθοιο δόλῳ καὶ ἧς ἀλόχοιο.
+
+### book 232-8.5.1
+
+ἀλλ’ ἤτοι θάνατον μὲν ὁμοίιον οὐδὲ θεοί περ
+
+### book 232-8.5.2
+
+καὶ φίλῳ ἀνδρὶ δύνανται ἀλαλκέμεν, ὁππότε κεν δή
+
+### book 232-8.5.3
+
+μοῖρ’ ὀλοὴ καθέλῃσι τανηλεγέος θανάτοιο.“
+
+### book 232-8.5.4
+
+*) ἀθετοῦνται στίχοι ἑπτὰ ἀπὸ τοῦ „βουλοίμην δ’ ἂν ἔγωγε“
+
+### book 232-8.5.5
+
+μέχρι τοῦ „μοῖρ’ ὀλοὴ·“ οἱ μὲν πρῶτοι τέσσαρες ὡς οὐκ ἀκολού‐
+
+### book 232-8.10.1
+
+θως τοῖς προκειμένοις ἐπενεχθέντες, οἱ δὲ ἑξῆς τρεῖς διὰ τὸ
+
+### book 232-8.10.2
+
+ἀσύμφωνον. ἐναντίοι γάρ εἰσι τῷ „ῥεῖα θεός γ’ ἐθέλων καὶ
+
+### book 232-8.10.3
+
+τηλόθεν ἄνδρα σαώσαι. EHMQR. Obeli sunt appicti in M.
+
+### book 241.1
+
+κείνῳ δ’ οὐκέτι νόστος ἐτήτυμος, ἀλλά οἱ ἤδη
+
+### book 241.2
+
+φράσσαντ’ ἀθάνατοι θάνατον καὶ κῆρα μέλαιναν.
+
+### book 241.3
+
+†) ὀβελίζονται δύο. τί γὰρ ὄφελος λέγεσθαι, τῆς Ἀθηνᾶς
+
+### book 241.4
+
+εἰπούσης „ποῖόν σε ἔπος φύγεν; ῥεῖα θεός γ’ ἐθέλων.“ ἄλλως
+
+### book 241.5
+
+τε, εἰ οὕτως πέπεισται, τί ζητεῖ περὶ τῶν νόστων; HMQR.
+
+### book 244.1
+
+Νέστορ’ ἐπεὶ περίοιδε δίκας ἠδὲ φρόνιν ἄλλων.
+
+### book 244.2
+
+τρὶς γὰρ δὴ μίν φασιν ἀνάξασθαι γένε’ ἀνδρῶν,
+
+### book 244.1
+
+ὥς τέ μοι ἀθάνατος ἰνδάλλεται εἰσοράασθαι.
+
+### book 244.2
+
+*) ἀθετοῦνται οἱ τρεῖς στίχοι οὗτοι ὡς περιττοί. HM.
+
+### book 244.5
+
+Versibus obelos apposuit in M. manus recentior.
+
+### book 255.1
+
+ἤτοι μὲν τάδε καὐτὸς ὀίεαι.
+
+### book 255.2
+
+*) [ἡ διπλῆ ὅτι] τὸ πλῆρές ἐστι τῆς συναλοιφῆς κε [αὐτός·
+
+### book 255.3
+
+Ὁμηρικὸν δὲ τὸν κέ περιττὸν εἶναι.] τὸ δὲ ὅμοιον ἐν Ἰλιάδι
+
+### book 255.4
+
+„ἔπειτα δὲ καὐτὸς οἰήσεαι“. HM. (Ζ 260).
+
+### book 255.5.1
+
+Corr. quod cod. habent κέν ἀντὶ τοῦ δή. cf. ad Ζ 260.
+
+### book 255.5.2
+
+Υ 311. F. Ar. p. 8.
+
+### book 258.1
+
+τῷ κέ οἱ οὐδὲ θανόντι χυτὴν ἐπὶ γαῖαν ἔχευαν.
+
+### book 258.2
+
+*) [ἡ διπλῆ ὅτι οὐ πᾶσαν γῆν οὕτως λέγει, ἀλλὰ] τὴν ἐπι‐
+
+### book 258.3
+
+χεομένην τοῖς νεκροῖς γῆν T. (Dind. p. 749) cf. Ζ 464. Ξ 114.
+
+### book 258.4
+
+Ψ 256. L. Ar. 102.
+
+### book 266.1
+
+δῖα Κλυταιμνήστρη.
+
+### book 266.2
+
+Dipla fuisse videtur ὅτι ἀκαίρως τὸ δῖα. cf. Ar. ad Ζ 160
+
+### book 266.3
+
+et schol. in cod. A. ibidem.
+
+### book 272.1
+
+τὴν δ’ ἐθέλων ἐθέλουσαν ἀνήγαγεν.
+
+### book 272.2
+
+†) ἐθέλων Ὅμηρος τρισυλλάβως H.
+
+### book 272.3
+
+cf. Η 111. ο 316. ubi edi solet ὅττι θέλοιεν Ar. legit ὅττ’
+
+### book 272.4
+
+ἐθέλοιεν. Eust. 1467, 28.
+
+### book 276.1
+
+ἡμεῖς μὲν γὰρ ἅμα πλέομεν Τροίηθεν ἰόντες.
+
+### book 276.2
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος [γράφει] ἀνα‐
+
+### book 276.3
+
+πλέομεν, κακῶς· Ὅμηρος γὰρ τὸν εἰς Τροίαν πλοῦν ἀνάπλουν
+
+### book 276.4
+
+φησίν M.
+
+### book 276.5.1
+
+cf. L. Ar. 111. Ceterum idem in schol. ad γ 296 observat
+
+### book 276.5.2
+
+Porphyrius.
+
+### book 287.1
+
+Μαλειάων ὄρος αἰπύ.
+
+### book 287.2
+
+*) ὅτι ὡς Κρητάων (ξ 199) καὶ Μαλειάων [νῦν μὲν πλη‐
+
+### book 287.3
+
+θυντικῶς εἴρηται, ἀλλαχοῦ δὲ ἑνικῶς] ὡς „Κρήτη τις γαῖά ἐστι“
+
+### book 287.4
+
+(τ 172) καὶ „περιγνάμπτοντα Μάλειαν“ (ι 80) HMQ.
+
+### book 287.5.1
+
+Pertinet ad id, quod saepius Ar. adnotavit, nonnulla sub‐
+
+### book 287.5.2
+
+stantiva nunc in singulari, nunc in forma plurali apud Homerum
+
+### book 287.5.3
+
+legi. cf. L. Ar. 236. δ 514. η 80. θ 16. ι 80. ξ 199. ο 296.
+
+### book 287
+
+Eust. 1468, 12.
+
+### book 296.1
+
+ἐς Φαιστόν, μικρὸς δὲ λίθος μέγα κῦμ’ ἀποέργει.
+
+### book 296.2
+
+Fuit diple periestigmene contra Zenodotum, qui legit: Μα‐
+
+### book 296.3
+
+λέου δὲ λίθος. cf. schol. EMQV et Eust. 1469, 18.
+
+### book 305.1
+
+δέδμητο δὲ λαὸς ὑπ’ αὐτῷ.
+
+### book 305.2
+
+Ἀρίσταρχος δέδμηντο, ὡς „ἡ πληθὺς ἀπονέοντο“ (Ο 305)
+
+### book 305.3
+
+HMQR.
+
+### book 305.4
+
+Scholion Didymi videtur esse, sed certe ad hanc lectionem
+
+### book 305.5.1
+
+apposuit Ar. διπλῆν πρὸς τὸ σχῆμα, ὅτι πληθυντικῶς ἀπήν‐
+
+### book 305.5.2
+
+τηκεν. cf. F. Ar. p. 16.
+
+### book 306.1
+
+ἤλυθε δῖος Ὀρέστης
+
+### book 306.2
+
+ἂψ ἀπ’ Ἀθηνάων, κατὰ δ’ ἔκτανε πατροφονῆα,
+
+### book 306.3
+
+Αἴγισθον δολόμητιν, ὅ οἱ πατέρα κλυτὸν ἔκτα.
+
+### book 306.4
+
+ἤτοι ὁ τὸν κτείνας δαίνυ τάφον Ἀργείοισιν
+
+### book 306.5
+
+μητρός τε στυγερῆς καὶ ἀνάλκιδος Αἰγίσθοιο.
+
+### book 307.1
+
+Diple periestigmene propter Zenodoti lectionem ἂψ
+
+### book 307.2
+
+ἀπὸ Φωκήων. Ar. ἂψ ἀπ’ Ἀθηναίης.
+
+### book 309-10.1
+
+*)ὁ Ἀρίσταρχός φησι, ὅτι διὰ τούτων παρυπο‐
+
+### book 309-10.2
+
+φαίνεται ὅτι συναπώλετο Αἰγίσθῳ ἡ Κλυταιμνήστρα· τὸ δὲ
+
+### book 309-10.3
+
+εἰ καὶ ὑπὸ Ὀρέστου, ἄδηλον εἶναι. οὐδὲ γὰρ τὰ περὶ τὴν Ἐρι‐
+
+### book 309-10.4
+
+φύλην εἰδέναι αὐτὸν MQRT.
+
+### book 309-10.5.1
+
+cf. L. Ar. 182, α 300. λ 409. V. ad Ι 456.
+
+### book 309-10.5.2
+
+†) 309. τάφος ὁ ἐπιτάφιος δεῖπνος EB.
+
+### book 309-10.5.3
+
+Fluxit ex Ar. cf. Ψ 29. δ 547.
+
+### book 313.1
+
+καὶ σύ, φίλος, μὴ δηθὰ δόμων ἀπὸ τῆλ’ ἀλάλησο.
+
+### book 313.2
+
+†) οὗτος ὁ τόπος ἀνέπεισε Ζηνόδοτον ἐν τοῖς περὶ τῆς
+
+### book 313.3
+
+ἀποδημίας Τηλεμάχου διόλου τὴν Κρήτην ἔναντι τῆς Σπάρ‐
+
+### book 313.4
+
+της ποιεῖν· οἴεται γὰρ ἐκ τούτων τῶν λόγων κατὰ τὸ σιωπώ‐
+
+### book 313.5.1
+
+μενον ἀκηκοέναι τὸν Νέστορα παρὰ τοῦ Τηλεμάχου ὅτι καὶ
+
+### book 313.5.2
+
+ἀλλαχόσε περὶ τοῦ πατρὸς πευσόμενος παρεσκεύαστο πλεῖν.
+
+### book 313.5.3
+
+διὸ καὶ ἐν τῇ αʹ ῥαψωδίᾳ (93) ἔγραψε „πέμψω δ’ ἐς Κρήτην
+
+### book 313.5.4
+
+τε καὶ ἐς Πύλον ἠμαθόεντα“ καὶ ἡ Ἀθηνᾶ ἀλλαχοῦ „πρῶτα
+
+### book 313.5.5
+
+μὲν ἐς Πύλον ἐλθὲ, κεῖθεν δ’ ἐς Κρήτην τε παρ’ Ἰδομενῆα
+
+### book 313.10
+
+ἄνακτα, ὃς γὰρ δεύτατος ἦλθεν Ἀχαίων χαλκοχιτώνων.“ (α 284)
+
+### book 313
+
+HMQR. cf. α 93. β 359. δ 702.
+
+### book 317.1
+
+ἀλλ’ ἐς μὲν Μενέλαον ἐγὼ κέλομαι καὶ ἄνωγα.
+
+### book 317.2
+
+*) [ἡ διπλῆ ὅτι] τὸ εἰς Μενέλαον (δὲ) ἀντὶ τοῦ πρὸς Με‐
+
+### book 317.3
+
+νέλαον, ὡς „εἰς Ἀγαμέμνονα δῖον ἄγον“ M. cf. L. qu. ep. 87.
+
+### book 317.4
+
+Fr. Ar. 27. Η 312. Χ 492. Ψ 36.
+
+### book 317,n4.1
+
+ἀλλ’ ἐς μὲν Μενέλαον ἐγὼ κέλομαι καὶ ἄνωγα
+
+### book 317,n4.2
+
+σημείωσαι ὅτι τὸ κέλομαι καὶ τὸ ἄνωγα λαμβάνονται ἐπὶ τοῦ παραι‐
+
+### book 317,n4.3
+
+νεῖν καὶ συμβουλεύειν E.
+
+### book 317,n4.4
+
+Fortasse fluxit ex Ar., qui in vocabulis idem fere significantibus
+
+### book 317,n4.5.1
+
+adnotavit: ὅτι παραλλήλως τὸ κέλομαι καὶ ἄνωγα· ἰσοδυναμοῦσι γὰρ
+
+### book 317,n4.5.2
+
+αἱ λέξεις. Commemorat nostro loco παραλληλίαν ταυτολογικὴν Eust.
+
+### book 317,n4.5.3
+
+1470, 15. cf. ad Α 99, 270. Β 8. Γ 181, 205. Ν 276. Ξ 206 etc. δ 685.
+
+### book 317,n5.1
+
+ὅθεν τέ περ οὐδ’ οἰωνοί ‖ αὐτόετες οἰχνεῦσιν.
+
+### book 317,n5.2
+
+ὑπερβολικῶς τοῦτό φησιν· ἐπάγει οὖν „πεμπταῖοι δ’ Αἴγυπτον“
+
+### book 317,n5.3
+
+(ξ 257) HM.
+
+### book 317,n5.4
+
+Talia inter se discrepantia Ar. notare solebat et fortasse scholion
+
+### book 317,n5.5
+
+emanavit ex Aristonico. cf. Eust. 1470, 18.
+
+### book 334.1
+
+σπείσαντες κοίτοιο μεδώμεθα· τοῖο γὰρ ὥρη.
+
+### book 334.2
+
+ἤδη γὰρ φάος οἴχεθ’ ὑπὸ ζόφον.
+
+### book 334.3
+
+*) 334. [ἡ διπλῆ ὅτι] ἀρσενικῶς εἶπε τὴν κοίτην Q. cf.
+
+### book 334.4
+
+ad α 246 et locos ibi collatos.
+
+### book 334.5.1
+
+*) 335. [ἡ διπλῆ ὅτι ἐξ ἡρωϊκοῦ προσώπου εἴρηται]· ὁ
+
+### book 334.5.2
+
+δὲ ποιητὴς εἰς ὠκεανὸν τὴν δύσιν καὶ ἐξ ὠκεανοῦ τὴν ἀνα‐
+
+### book 334.5.3
+
+τολήν φησι γίνεσθαι. MQRT. cf. L. Ar. 175. μ 3. γ 1. Cor‐
+
+### book 334.5.4
+
+rexi initium pro cod. ἡρωϊκὸν πρόσωπόν ἐστι τὸ λέγον.
+
+### book 334.5.5
+
+†) Ζηνόδοτος ᾤχετο H. pro οἴχεται.
+
+### book 345,n6.1
+
+καθαπτόμενος ἐπέεσσι. σημείωσαι τὸ καθα‐
+
+### book 345,n6.2
+
+πτόμενος ἐπὶ καλοῦ. E. cf. β 39.
+
+### book 349.1
+
+ᾧ οὔτε χλαῖναι καὶ ῥήγεα πόλλ’ ἐνὶ οἴκῳ.
+
+### book 349.2
+
+Fuit diple periestigmene, quod Zenodotus scripsit: „ᾧ οὔπερ
+
+### book 349.3
+
+χλαῖναι καὶ κτήματα πόλλ’ ἐνὶ οἶκῳ„ ἀκαίρως MT. Aristarchus
+
+### book 349.4
+
+legit ᾧ οὔτι, αἱ φαυλότεραι ᾧ οὔτε cf. Didymum ad hunc ver‐
+
+### book 349.5
+
+sum in M.
+
+### book 362.1
+
+οἶος γὰρ μετὰ τοῖσι γεραίτερος εὔχομαι εἶναι.
+
+### book 362.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ ἁπλοῦ τοῦ γεραιός· κακῶς δὲ
+
+### book 362.3
+
+Ζηνόδοτος γεραίτατος (cod. γεραίτερος) γράφει. M.
+
+### book 362.4
+
+cf. F. Ar. p. 30. γ 125. η 159.
+
+### book 368.1
+
+ἐπεὶ τεὸν ἵκετο δῶμα.
+
+### book 368.2
+
+Diple periestigmene propter Zenodoti scripturam ἐπεὶ τὰ
+
+### book 368.3
+
+σὰ γούναθ’ ἱκάνει. cf. in HQN.
+
+### book 378.1
+
+ἀλλὰ Διὸς θυγάτηρ, ἀγελείη τριτογένεια.
+
+### book 378.2
+
+Zenodotus pro ἀγελείη dedit κυδίστη, quam ob rem fuit
+
+### book 378.3
+
+diple periestigmene cf. schol. in HM. Eust. 1473, 18. ἀγελείη
+
+### book 378.4
+
+legitur in codd. ABDEHIKLMNP: κυδίστη in EQV. cf. La
+
+### book 378.5
+
+Roche.
+
+### book 380.1
+
+ἀλλὰ ἄνασς’, ἵληθι, δίδωθι δέ μοι κλέος ἐσθλόν.
+
+### book 380.2
+
+†) Ζηνόδοτος ἀλλὰ ἄνασς’ ἐλέαιρε HM. pro ἵληθι legit.
+
+### book 396.1
+
+οἱ μὲν κακκείοντες ἔβαν.
+
+### book 396.2
+
+†) κοιμηθησόμενοι· ἐνεστὼς δὲ ἀντὶ μέλλοντος. κείω γὰρ
+
+### book 396.3
+
+τὸν μέλλοντα οὐκ ἔχει, ὥσπερ καὶ τὰ ἄλλα ὅμοια, καὶ χρῆται
+
+### book 396.4
+
+τῷ ἐνεστῶτι ἀντὶ μέλλοντος. E.
+
+### book 396.5
+
+Fluxit ex Ar. cf. F. Ar. p. 6. γ 82 et locos ibi collatos.
+
+### book 399.1
+
+ὑπ’ αἰθούσῃ ἐριδούπῳ.
+
+### book 399.2
+
+Quod afferunt BEQV de vocabulo αἴθουσα ex Ar. fluxisse
+
+### book 399.3
+
+videtur, qui sic interpretatur Υ 11: αἱ αἴθουσαι οὐκ εἰσὶ θρόνοι
+
+### book 399.4
+
+ἢ καθέδραι, ἀλλὰ στοαὶ καὶ στυλωταὶ ἕδραι ἢ τόποι ὑφ’ ἡλίου
+
+### book 399.5
+
+καταλαμπόμενοι.
+
+### book 400 et 401.1
+
+πὰρ δ’ ἄρ’ ἐυμμελίην Πεισίστρατον, ὄρχα‐
+
+### book 400 et 401.2
+
+μον ἀνδρῶν,
+
+### book 400 et 401.3
+
+ὃς οἱ ἔτ’ ἠίθεος παίδων ἦν ἐν μεγάροισιν.
+
+### book 400 et 401.4
+
+Hos versus Zenodotus expunxit cf. schol. HMQR.
+
+### book 402.1
+
+αὐτὸς δ’ αὖτε καθεῦδε.
+
+### book 402.2
+
+Fuit diple periestigmene propter Zenodoti lectionem: αὐτὸς
+
+### book 402.3
+
+δ’ αὖτ’ ἐκάθευδε cf. in H, ubi Zenodotus quidem non nomi‐
+
+### book 402.4
+
+natur, sed ex adnotationibus Ar. ad Α 68. 611. Ο 716 scimus,
+
+### book 402.5.1
+
+illum ante praepositionem augmentum ponere amavisse, quod
+
+### book 402.5.2
+
+Aristarchus omisit, ὅτι οὐκ ἐᾷ ἑλληνίζειν τὸν Ὅμηρον. cf.
+
+### book 402.5.3
+
+ζ 1. δ 304.
+
+### book 422.1
+
+ἐλάσῃ δὲ βοῶν ἐπιβουκόλος ἀνήρ.
+
+### book 422.2
+
+*) ὅτι τὸ βοῶν παρέλκει καὶ μετὰ τῆς προθέσεως εἴρηται
+
+### book 422.3
+
+ἐπιβουκόλος. H.
+
+### book 422.4
+
+cf. L. Ar. 109. γ 195 et exempla quae ibi collegi. Eust.
+
+### book 422.5
+
+1475, 11.
+
+### book 425.1
+
+χρυσοχόον Λαέρκεα.
+
+### book 425.2
+
+†) τινὲς τὸ λαέρκεά φησιν ὄνομα κύριον, τινὲς δὲ ἐπίθε‐
+
+### book 425.3
+
+τον παρὰ τὸ ἐπαρκεῖν τοῖς λαοῖς E. Ex schol. ad Π 197
+
+### book 425.4
+
+Aristarchum Λαέρκεα nomen proprium existimavisse constat.
+
+### book 425.5.1
+
+Praeterea certe fuit nota de homonymia. cf. ibid.
+
+### book 425.5.2
+
+Quod fuse legitur in EMQ ad v. 440 de vocabulis χέρνιβα
+
+### book 425.5.3
+
+et λέβης fluxit fortasse ex Ar., qui ad Ω 304 sic interpretatus
+
+### book 425.5.4
+
+est: λέβητα τὸ ἀγγεῖον τὸ ὑποδεχόμενον τὸ ὕδωρ, τὸ παρ’ ἡμῖν
+
+### book 425.5.5
+
+λεγόμενον χέρνιβον (sic etiam EMQ), τὸ δὲ κατὰ τῶν χειρῶν
+
+### book 425.10
+
+διδόμενον ὕδωρ χέρνιβα. cf. α 136.
+
+### book 444.1
+
+Περσεὺς δ’ ἀμνίον εἶχε.
+
+### book 444.2
+
+Notata fuit Zenodoti lectio δάμνιον pro ἄμνιον, ἅπαξ εἰρη‐
+
+### book 444.3
+
+μένον cf. M.: ἄμνιον ἀγγεῖον εἰς ὃ τὸ αἷμα τοῦ ἱερείου ἐδέ‐
+
+### book 444.4
+
+χοντο. Ζηνόδοτος δὲ ἐν ταῖς ἀπὸ τοῦ δ γλώσσαις τίθησι τὴν
+
+### book 444.5.1
+
+λέξιν. ἅπαξ δὲ ἐνταῦθα παρ’ Ὁμήρῳ ἡ λέξις M. cf. Apoll.
+
+### book 444.5.2
+
+l. h. 25, 26.
+
+### book 445,n7.1
+
+χέρνιβά τ’ οὐλοχύτας τε κατήρχετο.
+
+### book 445,n7.2
+
+ἀντὶ τοῦ χερνίβων καὶ οὐλοχυτῶν πρῶτος ἦρχε. EHMQP. Fluxit
+
+### book 445,n7.3
+
+fortasse ex Ar.
+
+### book 449.1
+
+τένοντας.
+
+### book 449.2
+
+*) [ἡ διπλῆ ὅτι] πάντα τὰ διατεταμένα νεῦρα τένοντας
+
+### book 449.3
+
+καλεῖ ὁ Ὅμηρος. EQM. cf. ad Υ 478. Χ 396.
+
+### book 453
+
+οἱ μὲν ἔπειτ’ ἀνελόντες ἀπὸ χθονὸς.
+
+### book 453.1
+
+*) [ἡ διπλῆ ὅτι] τὸ ἀνελόντες δηλοῖ τὸ ἄνω ἑλόντες· ἐκ
+
+### book 453.2
+
+τούτου δὲ τὸ αὖ ἐρύσαντες δηλοῦται. BHMQ. cf. ad Μ 261.
+
+### book 453.3
+
+Θ 325.
+
+### book 456.1
+
+ἄφαρ δ’ ἐκ μηρία τάμνον
+
+### book 456.2
+
+πάντα κατὰ μοῖραν.
+
+### book 456.3
+
+*) [ἡ διπλῆ ὅτι τὸ πάντα ἀντὶ τοῦ ὅλα,] ὅλα διεμέλισαν τὰ
+
+### book 456.4
+
+μηρία, ὡς τὸ „πᾶσαι δ’ ὠΐγνυντο πύλαι“ (B 809) HM.
+
+### book 456.5
+
+cf. L. Ar. 126. Eust. 1476, 65.
+
+### book 458.1
+
+δίπτυχα ποιήσαντες, ἐπ’ αὐτῶν δ’ ὠμοθέτησαν.
+
+### book 458.2
+
+Quod legitur in E ad v. 470 referendum est ad nostrum
+
+### book 458.3
+
+locum et fluxit ex Aristonico, cuius insunt verba, quae ex Α 461
+
+### book 458.4
+
+hic possui: ἀπὸ τῶν ὠμῶν ἱερείων ἀπαρξάμενοι ἔκοψαν μικρὸν
+
+### book 458.5.1
+
+ἀπὸ παντὸς μέλους καὶ ἐπέθηκεν ἐπὶ τὰ μηρία, ὡς δοκεῖν
+
+### book 458.5.2
+
+ὅλα τὰ μέλη τοῦ ἱερείου καρποῦσθαι· διὸ ἡ διπλῆ.
+
+### book 464.1
+
+τόφρα δὲ Τηλέμαχον λοῦσεν καλὴ Πολυκάστη.
+
+### book 464.2
+
+*) ὅτι ὑπὸ παρθένων ἔθος ἦν τοὺς ἥρωας λούεσθαι· πρὸς
+
+### book 464.3
+
+τὰ περὶ Ἥβης· λούει γὰρ καὶ αὐτὴ τὸν Ἄρεα ὡς παρθένος.
+
+### book 464.4
+
+πῶς οὖν διὰ τῶν ἀθετουμένων Ἡρακλεῖ συνοικεῖ; HMQ.
+
+### book 464.5
+
+cf. ad Ε 905. ζ 221. 601. L. Ar. 185.
+
+### book 467.1
+
+ἀμφὶ δέ μιν φᾶρος καλὸν βάλεν ἠδὲ χιτῶνα
+
+### book 467.2
+
+ἔκ ῥ’ ἀσαμίνθου βῆ δέμας ἀθανάτοισιν ὁμοῖος.
+
+### book 467.3
+
+*) [ἡ διπλῆ ὅτι] τὸ δεύτερον πρῶτον εἶπεν, ὡς τὸ „οὐδ’
+
+### book 467.4
+
+ἀπέλυσε θύγατρα καὶ οὐκ ἀπεδέξατ’ ἄποινα“. (Α 95) HM.
+
+### book 475.1
+
+παῖδες ἐμοί, ἄγε ... ζεύξαθ’ ..
+
+### book 475.2
+
+†) σημείωσαι τὸ ἄγε πληθυντικὸν πρὸς τὸ ζεύξατε E.
+
+### book 475.3
+
+cf. θ 11.
+
+### book 486.1
+
+οἱ δὲ πανημέριοι σεῖον ζυγόν.
+
+### book 486.2
+
+*) [ἡ διπλῆ ὅτι] ἐκ τοῦ παρακολουθοῦντος τὸ προηγούμενον
+
+### book 486.3
+
+δεδήλωκεν (cod. ἐδήλωσεν) ἀντὶ τοῦ ὥδευον, (addidi ex MV)
+
+### book 486.4
+
+ὡς ἐπὶ τοῦ „ἑζόμενοι λεύκαινον ὕδωρ“. (μ 171) MQRT.
+
+### book 486.5
+
+cf. F. Ar. Β 417. δ 580. ζ 83. μ 172. ν 78. ο 184.
+
+### book 489.1
+
+υἱέος Ὀρσιλόχοιο, τὸν Ἀλφειὸς τέκε παῖδα.
+
+### book 489.2
+
+In HMQR notatum est, Zenodotum pro Ὀρσίλοχον hic et
+
+### book 489.3
+
+Ε 549 Ὀρτίλοχον scripsisse, commotum hoc versu. In Il. scholiis
+
+### book 489.4
+
+huius lectionis nullum est vestigium, nisi quod LV ad Ε 542
+
+### book 489.5.1
+
+habent: ὁ πρόγονος διὰ τοῦ τ, ὁ παῖς διὰ τοῦ ς καὶ ἐν Ὀδυσ‐
+
+### book 489.5.2
+
+σείᾳ οὖν (φ 16). Ὀρτιλόχοιο habent ABDEGH 1. m. LMQS
+
+### book 489.5.3
+
+Strabo VIII, p. 367; Tzetzes Alleg. 135: Ὀρσιλόχοιο H. ex em.
+
+### book 489.5.4
+
+IN cf. La Roche.
+
+### book 496,n8.1
+
+τοῖον γὰρ ὑπέκφερον ὠκέες ἵπποι.
+
+### book 496,n8.2
+
+ἀντὶ τοῦ τοίως. MPQ.
+
+### book 496,n8
+
+Fortasse fluxit ex Ar. cf. ad α 209. F. Ar. p. 29.
+
+### book 1.1
+
+οἱ δ’ ἷξον κοίλην Λακεδαίμονα κητώεσσαν
+
+### book 1.2
+
+πρὸς δ’ ἄρα δώματ’ ἔλων Μενελάου κυδαλίμοιο.
+
+### book 1.3
+
+Ex scholiis in HQMT apparet, Aristarchi diplam fuisse ὅτι
+
+### book 1.4
+
+ὁμωνύμως τῇ χώρᾳ τὴν Σπάρτην Λακεδαίμονα εἴρηκεν. cf.
+
+### book 1.5.1
+
+ad Φ 544. Et fuit diple periestigmene propter Zenodoti lectio‐
+
+### book 1.5.2
+
+nem καιετάεσσαν ἀντὶ τοῦ καλαμινθώδη. cf. HMQR. Sic
+
+### book 1.5.3
+
+etiam Β 581 cf. in D. Eust. 1478, 38. Strabo VIII, p. 367.
+
+### book 3.1
+
+τὸν δ’ εὗρον δαινύντα γάμον.
+
+### book 3.2
+
+†) ὥσπερ ἀλλαχοῦ φησιν Ὅμηρος τάφον τὴν ἐπὶ τεθνεῶτί
+
+### book 3.3
+
+τινι εὐωχίαν, οὕτω καὶ νῦν γάμον τὴν ἐπὶ γάμου δαῖτα M.
+
+### book 3.4
+
+cf. Ψ 29. γ 307.
+
+### book 12.1
+
+ὅς οἱ τηλύγετος γένετο κρατερὸς Μεγαπένθης
+
+### book 12.2
+
+ἐκ δούλης.
+
+### book 12.3
+
+†) τινὲς τὸ δούλης κύριόν φασι διὰ τὸ μηδέποτε οὕτω
+
+### book 12.4
+
+λέγειν τὸν ποιητὴν τὴν θεράπαιναν. διὸ καὶ τὸ „εἰσόκεν ἢ
+
+### book 12.5.1
+
+ἄλοχον ποιήσεται ἢ ὅγε δούλην“ (Γ 409) ἀθετοῦσιν. HMQR.
+
+### book 12.5.2
+
+cf. Eust. 1479, 62. Observatio est recta, apud Homerum
+
+### book 12.5.3
+
+vocabulum δοῦλον nusquam, δούλην uno modo loco Γ 409 reperiri
+
+### book 12.5.4
+
+pro δμὼς, δμωή. At v. 396—418 expunxit Aristarchus. Aristo‐
+
+### book 12.5.5
+
+nicus quidem alias caussas enumerat, sed facile in tam multis
+
+### book 12.10.1
+
+excidere poterat illa, quod in novo vocabulo δούλη haesitabat, et
+
+### book 12.10.2
+
+verisimile est, ut Friedlaenderus monet, hoc suspicionem auxisse.
+
+### book 12.1
+
+(Nunc iam non Q solum, sed etiam HMRTV testantur). Qua
+
+### book 12.2
+
+ex re coniicere licebit, Aristarchum nostro loco δούλην nomen
+
+### book 12.3
+
+proprium existimavisse.
+
+### book 19.1
+
+δοιὼ δὲ κυβιστῆρε κατ’ αὐτούς
+
+### book 19.2
+
+μολπῆς ἐξάρχοντος ἐδίνευον κατὰ μέσσους.
+
+### book 19.3
+
+*) ὅτι οὐ τὴν ᾠδὴν, ἀλλὰ τὴν παιγνίαν λέγει οὕτω, πρὸς
+
+### book 19.4
+
+τὸ „μέλποντες Ἑκάεργον·“ (Α 474) καὶ γὰρ „κυνῶν μέλπηθρα“
+
+### book 19.5.1
+
+(Ν 233) φησί. MQ.
+
+### book 19.5.2
+
+cf. F. Ar. ad Α 474. L. Ar. 138. α 152. ζ 101.
+
+### book 29.1
+
+ἦ ἄλλον πέμπωμεν ἱκανέμεν, ὅς κε φιλήσῃ.
+
+### book 29.2
+
+*) ὅτι ἐπὶ τοῦ ξενίζειν τὸ φιλεῖν τίθησι· παρέλκει δὲ ὁ
+
+### book 29.3
+
+κέ M. καὶ ὅτι λείπει ἡ εἰς, ἵν’ ᾖ εἰς ἄλλον. addidi ex B.
+
+### book 29.4
+
+cf. L. Ar. 147. F. Ar. p. 11 et 26.
+
+### book 36.1
+
+ἐς δ’ αὐτοὺς προτέρω ἄγε θοινηθῆναι.
+
+### book 36.2
+
+*) [ἡ διπλῆ ὅτι τὸ προτέρω] τοπικῶς ἀντὶ τοῦ εἰς τοὔμ‐
+
+### book 36.3
+
+προσθεν BQF.
+
+### book 36.4
+
+cf. Κ 469. ε 417. ι 62. L. Ar. 151.
+
+### book 47.1
+
+ὁρώμενοι.
+
+### book 47.2
+
+*) [ἡ διπλῆ ὅτι ἀντὶ τοῦ] ὁρῶντες, τὸ παθητικὸν ἀντὶ τοῦ
+
+### book 47.3
+
+ἐνεργητικοῦ. BE.
+
+### book 47.4
+
+cf. F. Ar. 2. δ 322. η 33. κ 238. α 404. β 102.
+
+### book 61,n1.1
+
+δείπνου πασσαμένω.
+
+### book 61,n1.2
+
+τοῖς ὁδοιπορήσασι δείπνου δηλονότι γενομένου· αὐτὸς γὰρ ἑξῆς φησι
+
+### book 61,n1.3
+
+„δόρπου δ’ ἐξαῦτις μνησώμεθα“ (213) καὶ „οὐ γὰρ ἔγωγε τέρπομ’
+
+### book 61,n1.4
+
+ὀδυρόμενος μεταδόρπιοσ“ (194) HMQ.
+
+### book 61,n1.5.1
+
+Sic fortasse interpretatus est Ar. locum, qui videtur repugnare
+
+### book 61,n1.5.2
+
+observationi eius, nunquam de coena vespertina apud Homerum aliud
+
+### book 61,n1.5.3
+
+nomen dici quam δόρπον. Accuratissime hac de re egit Lehrsius p. 129.
+
+### book 61,n1.5.4
+
+cf. α 124 et locos ibi collatos.
+
+### book 62.1
+
+ἀνδρῶν· οὐ γὰρ σφῷν γε γένος ἀπόλωλε τοκήων,
+
+### book 62.2
+
+ἀλλ’ ἀνδρῶν γένος ἐστὲ διοτρεφέων βασιλήων
+
+### book 62.3
+
+σκηπτούχων, ἐπεὶ οὔ κε κακοὶ τοιούσδε τέκοιεν.
+
+### book 62.4
+
+†) προηθετοῦντο καὶ παρὰ Ζηνοδότῳ καὶ παρὰ Ἀριστο‐
+
+### book 62.5
+
+φάνει· τό τε γὰρ σφῶϊν οὐχ Ὁμηρικῶς μονοσυλλάβως ἐξηνέχθη
+
+### book 62.1
+
+ὅ τε ἔπαινος τῶν νέων οὐκ ἀναγκαῖος HM.
+
+### book 62.2
+
+Aristonici scholion sic fere restituendum est: ἀθετοῦνται
+
+### book 62.3
+
+οἱ στίχοι, ὅτι τὸ σφῶν οὐχ Ὁμηρικῶς μονοσυλλάβως ἐξενή‐
+
+### book 62.4
+
+νεκται· πρὸς γὰρ αὐτοὺς, οὐ περὶ αὐτῶν ἐστιν ὁ λόγος· καὶ
+
+### book 62.10.1
+
+ὅτι ὁ ἔπαινος τῶν νέων οὐκ ἀναγκαῖος· προηθετοῦντο κ.τ.λ.
+
+### book 62.10.2
+
+Aristarchum σφῶν legisse apparet ex HM: ἐπίτηδες δὲ
+
+### book 62.10.3
+
+Ἀρίσταρχος ἀθετουμένων τῶν στίχων καὶ ἄνευ τοῦ ι εἴασε τὴν
+
+### book 62.10.4
+
+γραφὴν, ἵνα καὶ τοῦτο πρὸς τὴν ἀθέτησιν λαμβάνῃ. cf. Apoll.
+
+### book 62.10.5
+
+περὶ ἀντωνυμιῶν p. 370.
+
+### book 70.1
+
+πευθοίαθ’ οἱ ἄλλοι.
+
+### book 70.2
+
+Diple periestigmene contra Zenodotum, sic enim legit, Ar.
+
+### book 70.3
+
+sine articulo πευθοίατο ἄλλοι.
+
+### book 70.4
+
+cf. α 157. ρ 592.
+
+### book 99.1
+
+ἑκὰς Ἄργεος ἱπποβότοιο.
+
+### book 99.2
+
+*) [ἡ διπλῆ ὅτι Ἄργος ἱππόβοτον] τὴν Πελοπόννησον
+
+### book 99.3
+
+[λέγει]. E.
+
+### book 99.4
+
+Observatum est propter discrimen inter Argos Peloponnesi
+
+### book 99.5.1
+
+factum et Argos Thessaliae, quam Ἄργος Πελασγικὸν nominat.
+
+### book 99.5.2
+
+cf. L. Ar. 227.
+
+### book 105.1
+
+ὅς τέ μοι ὕπνον ἀπεχθαίρει καὶ ἐδωδὴν.
+
+### book 105.2
+
+*) [ἡ διπλῆ ὅτι ἀπεχθαίρει ἀντὶ τοῦ] ἀπεχθαίρειν ποιεῖ,
+
+### book 105.3
+
+ὡς „πάντας μέν ῥ’ ἔλπει“ (ν 380) HMQ. cf. β 68, 91.
+
+### book 112.1
+
+Τηλέμαχός θ’, ὃν ἔλειπε νέον γεγαῶτ’ ἐνὶ οἴκῳ.
+
+### book 112.2
+
+*) [ἡ διπλῆ ὅτι οὐ λέγει νέον κατὰ τὴν ἡλικίαν, ἀλλὰ κατὰ
+
+### book 112.3
+
+μεσότητα ἀντὶ τοῦ] νεωστὶ γεγονότα, ὡς καὶ ἐν Ἰλιάδι (Ι 446)
+
+### book 112.4
+
+„νέον ἡβώοντα“ τουτέστι νεωστὶ ἡβῶντα. MQ.
+
+### book 112.5
+
+cf. F. Ar. 29, α 209 et locos, quos ibi contuli.
+
+### book 118.1
+
+ἠέ μιν αὐτὸν πατρὸς ἐάσειε μνησθῆναι.
+
+### book 118.2
+
+†) σημειοῦνταί τινες, ὅτι παραλλήλως ἔταξε μίν καὶ αὐ‐
+
+### book 118.3
+
+τόν HM.
+
+### book 118
+
+cf. ad γ 317. δ 244.
+
+### book 123,n2.1
+
+τῇ δ’ ἄρ’ ἅμ’ Ἀδρήστη κλισίην εὔτυκτον ἔθηκεν,
+
+### book 123,n2.2
+
+Ἀλκίππη .. Φυλὼ, ... Ἀλκάνδρη ...
+
+### book 123,n2.3
+
+σημειωτέον καὶ τὰ περὶ τῶν θεραπαινῶν. ἄλλαι μὲν γὰρ ἐν Ἰλιάδι,
+
+### book 123,n2.4
+
+ἄλλαι δὲ νῦν· οὐ γὰρ εὐπρεπὲς τὰς μετεχούσας τοῦ ἁμαρτήματος
+
+### book 123,n2.5.1
+
+ἐπιτρέπειν συνεῖναι τῇ γυναικί. MQR.
+
+### book 123,n2.5.2
+
+Respicit scholion ad Γ 144 ubi Αἴθρη et Κλυμένη Helenam pro‐
+
+### book 123,n2.5.3
+
+sequuntur. Talia chorizontes opponere solebant, quos Ar. saepius re‐
+
+### book 123,n2.5.4
+
+futavit. Fortasse etiam nostrum scholium ex Ar. adnotatione manavit.
+
+### book 123,n2.5.5
+
+Ar. legit ἅμ’ Ἀδρήστη, alii ἅμα δρήστη.
+
+### book 123.1
+
+κλισίην.
+
+### book 123.2
+
+Diple fuisse videtur, quod nunc κλισίην, v. 136 contra κλι‐
+
+### book 123.3
+
+σμὸν Helenae sellam dixerit. cf. schol. in HM: κλισίην ὃν ἀλ‐
+
+### book 123.4
+
+λαχοῦ δι’ ἑτέρων κλισμὸν ὀνομάζει et ad v. 136 Dind. praef.
+
+### book 123.5
+
+LII: ἣν ἄνω (123) κλισίην εἶπε, τοῦτον νῦν κλισμὸν καλεῖ. H.
+
+### book 134.1
+
+νήματος ἀσκητοῖο βεβυσμένον.
+
+### book 134.2
+
+†) σημειοῦνταί τινες, ὅτι τὸ εἰς τὴν νῆσιν εὔθετον μήρυμα
+
+### book 134.3
+
+ἐρίου νῆμα εἶπεν HM.
+
+### book 134.4
+
+cf. F. Ar. Θ 221.
+
+### book 139.1
+
+οἵ τινες οἵδε
+
+### book 139.2
+
+ἀνδρῶν εὐχετόωνται ἱκανέμεν ἡμέτερον δῶ;
+
+### book 139.3
+
+*) [ἡ διπλῆ ὅτι τὸ εὐχετόωνται ἀντὶ τοῦ] καυχῶνται V.
+
+### book 139.4
+
+(cod. habet imperfectum) cf. L. Ar. 147. ξ 468. Certe addidit:
+
+### book 139.5
+
+καὶ ὅτι ἐλλείπει ἡ εἰς, ἵν’ ᾖ εἰς ἡμέτερον δῶ. cf. F. Ar. p. 26.
+
+### book 158.1
+
+ἀλλὰ σαόφρων ἐστί, νεμεσσᾶται δ’ ἐνὶ θυμῷ
+
+### book 158.2
+
+ὧδ’ ἐλθὼν τὸ πρῶτον ἐπεσβολίας ἀναφαίνειν
+
+### book 158.3
+
+ἄντα σέθεν, τοῦ νῶϊ θεοῦ ὣς τερπόμεθ’ αὐδῇ.
+
+### book 158.4
+
+*) ἀθετοῦνται στίχοι γ’ ὡς περιττοὶ καὶ ὑπὸ νέου παν‐
+
+### book 158.5.1
+
+τάπασι λέγεσθαι ἀπρεπεῖς· καὶ τὸ νεμεσσᾶται ἀντὶ τοῦ αἰ‐
+
+### book 158.5.2
+
+δεῖται οὐχ Ὁμηρικῶς. καὶ αἱ ἐπεσβολίαι δὲ γέλοιαι. ὅθεν
+
+### book 158.5.3
+
+Ζηνόδοτος μεταποιεῖ „ἐπιστομίας ἀναφαίνειν“. ἄλλως τε οὐδὲ
+
+### book 158.5.4
+
+συμβουλευσόμενος τῷ Μενελάῳ πάρεστιν, ἀλλ’ „εἴ τινα οἱ κληη‐
+
+### book 158.5.5
+
+δόνα πατρὸς ἐνίσποι (317) HMQR.
+
+### book 158.10.1
+
+Perturbatum sententiarum ordinem sic fere restituendum
+
+### book 158.10.2
+
+puto. Pro cod. στίχοι εʹ recte Dindorfius mutavit γʹ, nam tot
+
+### book 158.10.3
+
+modo abesse possunt. Ceterum etiam Didymus tres, non quinque
+
+### book 158
+
+versus expunctos esse tradidit. cf. in H.
+
+### book 162.1
+
+ἐέλδετο γάρ σε ἰδέσθαι.
+
+### book 162.2
+
+†) Ζηνόδοτος „ὀΐετο“ κακῶς. H.
+
+### book 192.1
+
+οἷσιν ἐνὶ μεγάροισι, καὶ ἀλλήλους ἐρέοιμεν.
+
+### book 192.2
+
+Aristarchus expunxit. Cf. in H. Ἀρίσταρχος ἀθετεῖ.
+
+### book 206.1
+
+τοίου γὰρ καὶ πατρὸς.
+
+### book 206.2
+
+*) [ἡ διπλῆ ὅτι τὸ τοίου] ἀντὶ τοῦ τοιούτου, οὐχ, ὡς οἱ
+
+### book 206.3
+
+γλωσσογράφοι, πάντως ἀγαθοῦ. H. cf. Ar. ad Ω 164. Eust.
+
+### book 206.4
+
+1492, 9. De glossographis vide L. Ar. 36. cf. B ad Η 231.
+
+### book 228.1
+
+Πολύδαμνα.
+
+### book 228.2
+
+†) κύριον ὄνομα ἡ Πολύδαμνα κατὰ Ἀρίσταρχον. Q.
+
+### book 231.1
+
+Παιήονός εἰσι γενέθλης.
+
+### book 231.2
+
+†) Παιήων ἰατρὸς θεῶν, οὐχ ὁ αὐτὸς τῷ Ἀπόλλωνι, ἀλλὰ
+
+### book 231.3
+
+κεχωρισμένος· παρὰ μέντοι τοῖς νεωτέροις ὁ αὐτὸς νομίζεται
+
+### book 231.4
+
+εἶναι. καὶ Ἡσίοδος δὲ μάρτυς ἐστὶ τοῦ ἑτέρου εἶναι τὸν Παιή‐
+
+### book 231.5.1
+
+ονα τοῦ Ἀπόλλωνος, λέγων „εἰ μὴ Ἀπόλλων Φοῖβος ὑπὲκ θα‐
+
+### book 231.5.2
+
+νάτοιο σαώσαι ἢ καὶ Παιήων, ὃς ἁπάντων φάρμακα οἶδεν.“
+
+### book 231.5.3
+
+MTV.
+
+### book 231.5.4
+
+cf. L. Ar. 179. Quod in BHQ Aristarchum legisse tradi‐
+
+### book 231.5.5
+
+tum est: ἰητρὸς δὲ ἕκαστος, ἐπεί σφισι δῶκεν Ἀπόλλων ἰᾶσθαι·
+
+### book 231.10.1
+
+καὶ γὰρ Παιήονός εἰσι γενέθλης, huic observationi repugnat
+
+### book 231.10.2
+
+omnique fide destitutum est. Monet Lehrsius l. c. Tamen La
+
+### book 231.10.3
+
+Roche p. 73 lectionem ut Aristarcheam adnotavit. Ex schol.
+
+### book 231.10.4
+
+in V. ad Ο 262 sequitur, Zenodotum Mallotem Paeeonem falso
+
+### book 231.10.5
+
+pro Apolline accepisse. cf. etiam Eust. 1014, 60.
+
+### book 240.1
+
+πάντα μὲν οὐκ ἂν ἐγὼ μυθήσομαι ...
+
+### book 240.2
+
+ὅσσοι Ὀδυσσῆος ... εἰσιν ἄεθλοι.
+
+### book 240.3
+
+†) ἰδίως τὸ πάντα ἐπήνεγκε τῷ ὅσσοι τὸ γένος ἀλλάξας. Q.
+
+### book 240.4
+
+Fuisse videtur Ar. διπλῆ πρὸς τὸ σχῆμα. cf. F. Ar. 32.
+
+### book 240.5
+
+λ 517. θ 214. μ 75. κ 212. ρ 266.
+
+### book 244.1
+
+αὐτόν μιν πληγῇσιν .. δαμάσσας.
+
+### book 244.2
+
+†) δύο ἰσοδυναμοῦσαι ἀντωνυμίαι ἀντὶ τῆς μιᾶς παραλαμ‐
+
+### book 244
+
+βάνονται VT. cf. ad δ 118.
+
+### book 248.1
+
+δέκτῃ, ὃς οὐδὲν τοῖος ἔην ἐπὶ νηυσὶν Ἀχαιῶν.
+
+### book 248.2
+
+†) ὁ κυκλικὸς τὸ Δέκτῃ ὀνοματικῶς ἀκούει, παρ’ οὗ φησι
+
+### book 248.3
+
+τὸν Ὀδυσσέα τὰ ῥάκη λαβόντα μετημφιάσθαι. ὃς οὐκ ἦν ἐν
+
+### book 248.4
+
+ταῖς ναυσὶ τοιοῦτος οἷος Ὀδυσσεὺς ἀχρεῖος. Ἀρίσταρχος δὲ
+
+### book 248.5.1
+
+δέκτῃ μὲν ἐπαίτῃ, τὸ δὲ, „ὃς οὐδὲν τοῖος ἔην“ τῷ ἐναντίῳ τὸ
+
+### book 248.5.2
+
+ἐναντίον, ὃς οὐκ ἦν τοιοῦτος (ὁ Ὀδυσσεὺς) ἀλλ’ ἐνδοξότατος
+
+### book 248.5.3
+
+καὶ μεγαλοπρεπέστατος, (ἴκελος δὲ ἐπαίτῃ) HMQT.
+
+### book 248.5.4
+
+M praeterea habet: τὸ δὲ—δεν παρέλκει, quod item ad
+
+### book 248.5.5
+
+Α 412. 244. Ar. adnotavit.
+
+### book 248.10.1
+
+Aristarchi interpretationem vocabuli δέκτῃ praeterea habent
+
+### book 248.10.2
+
+schol. in E. Apoll. l. h. 57, 16. Eust. 1494, 55. cf. L. Ar. 153.
+
+### book 249.1
+
+οἱ δ’ ἀβάκησαν.
+
+### book 249.2
+
+†) ἡ λέξις τῶν ἅπαξ εἰρημένων ἐστίν V.
+
+### book 249.3
+
+Has Ar. adnotare solebat contra chorizontes, quod Home‐
+
+### book 249.4
+
+rus et in Iliade et in Odyssea iis usus sit cf. Λ 147. Apoll.
+
+### book 249.5
+
+2, 16 l. h. Eust. 1494, 59.
+
+### book 254.1
+
+μὴ μὲν πρὶν Ὀδυσῆα μετὰ Τρώεσς’ ἀναφῆναι
+
+### book 254.2
+
+πρίν γε τὸν ἐς νῆάς τε θοὰς κλισίας τ’ ἀφικέσθαι.
+
+### book 254.3
+
+Diple fuit propter constructionem adverbii πρίν cf. HMQT:
+
+### book 254.4
+
+ἔστιν ὅμοιον τῷ „τὴν δ’ ἐγὼ οὐ λύσω, πρίν μιν καὶ γῆρας
+
+### book 254.5.1
+
+ἔπεισιν“ (Α 29) καὶ „οὐδέ ποτ’ ἐκπέρσει, πρίν μιν κύνες
+
+### book 254.5.2
+
+ἀργοὶ ἔδονται“. (Σ 283). cf. ad Σ 283. γ 117.
+
+### book 285-9.1
+
+ἔνθ’ ἄλλοι μὲν πάντες ἀκὴν ἔσαν υἷες Ἀχαιῶν,
+
+### book 285-9.2
+
+Ἄντικλος δὲ σέ γ’ οἶος ἀμείψασθαι ἐπέεσσιν
+
+### book 285-9.3
+
+ἤθελεν· ἀλλ’ Ὀδυσσεὺς ἐπὶ μάστακα χερσὶ πίεζε
+
+### book 285-9.4
+
+νωλεμέως κρατερῇσι, σάωσε δὲ πάντας Ἀχαιούς,
+
+### book 285-9.5.1
+
+τόφρα δ’ ἔχ’, ὄφρα σε νόσφιν ἀπήγαγε Παλλὰς
+
+### book 285-9.5.2
+
+Ἀθήνη.
+
+### book 285-9.5.3
+
+*) Ἀρίσταρχος τοὺς εʹ ἀθετεῖ, ἐπεὶ ἐν Ἰλιάδι οὐ μνημο‐
+
+### book 285-9.5.4
+
+νεύει Ἀντίκλου ὁ ποιητής HQ. Idem Didymus.
+
+### book 287.1
+
+ἀλλ’ Ὀδυσσεὺς ἐπὶ μάστακα χερσὶ πίεζεν.
+
+### book 287.2
+
+†) ἐπεπίεζε τὴν μάστακα, ὅ ἐστι τὸ στόμα, ἀπὸ τοῦ μα‐
+
+### book 287.1
+
+σᾶσθαι B.
+
+### book 287.2
+
+Sic interpretatus est Ar. vocabulum ad Ι 324 contra glos‐
+
+### book 287.5
+
+sographos, qui ἀκρίδα explanabant.
+
+### book 295.1
+
+ὕπνῳ ὕπο γλυκερῷ τερπώμεθα.
+
+### book 295.2
+
+*) [ἡ διπλῆ ὅτι] δοτική ἐστιν ἀντὶ γενικῆς H.
+
+### book 295.3
+
+cf. Λ 121. Σ 11. Τ 62. F. Ar. p. 23.
+
+### book 304.1
+
+Ἀτρείδης δὲ καθεῦδε.
+
+### book 304.2
+
+Fuit diple periestigmene propter Zenodoti lectionem δ’ ἐκα‐
+
+### book 304.3
+
+θεῦδε. cf. γ 402.
+
+### book 312.1
+
+τίπτε δέ σε χρειὼ δεῦρ’ ἤγαγε;
+
+### book 312.2
+
+*) [ἡ διπλῆ] πρὸς τὴν ἑρμηνείαν, [τίπτε] (τί ποτέ) σε
+
+### book 312.3
+
+χρειὼ ἤγαγε δήμιον ἢ ἴδιον; H.
+
+### book 312.4
+
+cf. γ 14.
+
+### book 317.1
+
+κληηδόνα πατρὸς ἐνίσποις.
+
+### book 317.2
+
+*) [ἡ διπλῆ ὅτι] λείπει ἡ περὶ, ἵνα ᾖ, εἰ τινά μοι φήμην
+
+### book 317.3
+
+περὶ τοῦ πατρὸς ἐνίσποις Q.
+
+### book 317.4
+
+cf. F. Ar. 26.
+
+### book 322.1
+
+τοὔνεκα νῦν τὰ σὰ γούναθ’ ἱκάνομαι, αἴ κ’ ἐθέ‐
+
+### book 322.2
+
+λῃσθα.
+
+### book 322.3
+
+*) [ἡ διπλῆ ὅτι τὸ ἱκάνομαι] ἀντὶ τοῦ ἱκάνω· ἡ δὲ λέξις
+
+### book 322.4
+
+ἀντὶ τοῦ ἱκετεύω. BQ.
+
+### book 322.5
+
+Sic Ar. ad Χ 123. Apoll. l. h. 90, 33. γ 92. ζ 176.
+
+### book 353.1
+
+οἱ δ’ αἰεὶ βούλοντο θεοὶ μεμνῆσθαι ἐφετμέων.
+
+### book 353.2
+
+†) βούλεται μὲν λέγειν θυσιῶν· ἀσαφέστερον δὲ εἴρηται·
+
+### book 353.3
+
+διὸ Ζηνόδοτος ἠθέτει. ποῖαι γὰρ, φησὶν, ἐγένοντο ἐντολαί;
+
+### book 353.4
+
+EHPQ.
+
+### book 353.5.1
+
+Aristonici verba non sunt, nam nunquam Zenodotum ipsum
+
+### book 353.5.2
+
+loquentem induxit, sed certe de illius athetesi dixit.
+
+### book 366.1
+
+Εἰδοθέη·
+
+### book 366.2
+
+Diple periestigmene, quod Zenodotus pro Εἰδοθέη scripsit
+
+### book 366.3
+
+Εὐρυνόμη cf. in EHQ.
+
+### book 368
+
+αἰεὶ γὰρ περὶ νῆσον ἀλώμενοι ἰχθυάασκον.
+
+### book 368.1
+
+Diple fuit contra chorizontes, qui opponebant, solum in
+
+### book 368.2
+
+Odyssea heroes piscibus vesci, non in Iliade. Contra hos Ari‐
+
+### book 368.3
+
+starchus recte demonstravit, quaedam heroibus cognita quidem
+
+### book 368.5.1
+
+fuisse, quibus Homerus heroas utentes non faciat. Fortasse hoe
+
+### book 368.5.2
+
+etiam Ar. obtendit, quod Homerus ipse dicit: ἔτειρε δὲ γαστέρα
+
+### book 368.5.3
+
+λιμός et schol. in B affert: ἀλλαχόσε οὐ λέγει ὁ Ὅμηρος ἐσθίειν
+
+### book 368.5.4
+
+τοὺς Ἕλληνας (l. ἥρωας) ἰχθύας· νῦν δέ φησι τούτους ἀγρεύειν
+
+### book 368.5.5
+
+ἰχθύας διὰ τὸ τείρεσθαι ὑπὸ τοῦ λιμοῦ. cf. ad Π 747.
+
+### book 370.1
+
+ἡ δ’ ἐμεῦ ἄγχι στᾶσα ἔπος φάτο, φώνησέν τε.
+
+### book 370.2
+
+Fuit diple periestigmene, quod Zenodotus legit: ἡ δέ μοι
+
+### book 370.3
+
+ἀντομένη EH. Tunc etiam reliquam versus partem aliter scri‐
+
+### book 370.4
+
+bere debuit, velut ἔπεα πτερόεντα προσηύδα, vel ἔπεα πτε‐
+
+### book 370.5
+
+ρόεντ’ ἀγόρευεν, ut monet Duentzerus p. 133.
+
+### book 379.1
+
+ἀλλὰ σύ πέρ μοι εἰπέ.
+
+### book 379.2
+
+†) Ζηνόδοτος ἔειπε κακῶς· τὴν διαφορὰν γὰρ ἠγνόησεν
+
+### book 379.3
+
+H (sc. imperativi, cuius una forma est εἰπέ, et indicativi, cuius
+
+### book 379.4
+
+duplex, εἶπε et ἔειπε cf. δ 468. Eust. 1499, 50. 1410, 61.
+
+### book 386.1
+
+Ποσειδάωνος ὑποδμώς (Proteus).
+
+### book 386.2
+
+*) [ἡ διπλῆ ὅτι] παρέλκει ἡ ὑπό EQ.
+
+### book 386.3
+
+cf. ad Ζ 19, uti hic versus citatur in eadem interpretatione
+
+### book 386.4
+
+vocabuli ὑφηνίοχος. L. Ar. 108. γ 195. 422. δ 672.
+
+### book 388.1
+
+λελαβέσθαι.
+
+### book 388.2
+
+*) [ἡ διπλῆ πρὸς τὸν] ἀναδιπλασιασμὸν, ὡς τετυπέσθαι. E.
+
+### book 388.3
+
+Notare solebat Ar. eas formas, quae reduplicatione ponun‐
+
+### book 388.4
+
+tur. cf. F. Ar. 11 et usus est substantivo ἀναδιπλασιασμόν
+
+### book 388.5
+
+ad Ζ. 50.
+
+### book 402.1
+
+μελαίνῃ φρικὶ καλυφθείς.
+
+### book 402.2
+
+†) τῇ ἐπιγενομένῃ μελανίᾳ πόντῳ (corr. Lehrs Ar. p. 89
+
+### book 402.3
+
+pro ἐν τῷ) ἐκ τῆς ἐπιπολαίου κινήσεως τῶν ὑδάτων V. Idem
+
+### book 402.4
+
+EH. qui addunt: κατὰ τὰς ἀρχὰς τῶν ἀνέμων τοῦ πνεῖν. Ex
+
+### book 402.5.1
+
+Ar. fluxit cf. ad Φ 126. L. Ar. 89. Alii interpretati sunt ψύχος.
+
+### book 402.5.2
+
+Apoll. l. h. 165, 16.
+
+### book 413.1
+
+λέξεται ἐν μέσσῃσι.
+
+### book 413.2
+
+*) [ἡ διπλῆ ὅτι τὸ λέξεται] ἀντὶ τοῦ κοιμηθήσεται, ἀπὸ
+
+### book 413.1
+
+τοῦ λέχους BQ.
+
+### book 413.2
+
+cf. L. Ar. 147. δ 451.
+
+### book 416.1
+
+αὖθι δ’ ἔχειν.
+
+### book 416.2
+
+*) [ἡ διπλῆ ὅτι ἀπαρεμφάτῳ χρῆται ἀντὶ προστακτικοῖ,
+
+### book 416.3
+
+ἔχειν] ἀντὶ τοῦ ἔχετε. PQ.
+
+### book 416.4
+
+cf. F. Ar. 14. α 291 et locos ibi collatos.
+
+### book 419.1
+
+ἐχέμεν.
+
+### book 419.2
+
+*) [ἡ διπλῆ ὅτι] πάλιν ἀντὶ τοῦ ἔχετε Q.
+
+### book 419.3
+
+cf. ad v. 416.
+
+### book 423,n3.1
+
+εἴρεσθαι, ὡς φθείρεσθαι. ἔστι γὰρ ἐνεστῶτος καὶ
+
+### book 423,n3.2
+
+παρατατικοῦ P.
+
+### book 423,n3.3
+
+Fluxit fortasse ex Ar. altera pars, cf. F. Ar. p. 4. θ 290. ι 297.
+
+### book 429.1
+
+δόρπον θ’ ὁπλισάμεσθ’, ἐπί τ’ ἤλυθεν ἀμβροσίη
+
+### book 429.2
+
+νύξ.
+
+### book 429.3
+
+In H hoc est scholion: ἄριστον. τοῦ Ἀριστάρχου· σημει‐
+
+### book 429.4
+
+οῦνται τινές, ὅτι δόρπον τὸ δεῖπνον. Hoc nunquam Aristarchus
+
+### book 429.5.1
+
+docuit. Sed Zenodotus δεῖπνον et δόρπον promiscue posuit
+
+### book 429.5.2
+
+cf. Λ 86, 730. Fortasse etiam nostro loco, cui Λ 730 similli‐
+
+### book 429.5.3
+
+mus est, pro recto δόρπον falsum δεῖπνον legit, et scholiasta
+
+### book 429.5.4
+
+contorsit Aristonici verba, quae sic fere restituenda sunt: ἡ
+
+### book 429.5.5
+
+διπλῆ περιεστιγμένη, ὅτι Ζηνόδοτος γράφει δεῖπνον· δόρπον
+
+### book 429.10.1
+
+δὲ λέγει τὴν ἑσπερίνην τροφήν· εὐθέως γὰρ κατακοιμῶνται.
+
+### book 429.10.2
+
+Eust. 1503, 53: καὶ ὅρα, ὡς διασαφεῖται κἀνταῦθα ὁ δόρπος
+
+### book 429.10.3
+
+ἐν τῷ „ἐπῆλθεν ἀμβροσία νύξ“. τὸ γὰρ τηνικαῦτα ἔμβρωμα
+
+### book 429.10.4
+
+δόρπος λέγεται. cf. L. A. 127. α 124 et exempla ibid.
+
+### book 442.1
+
+ὀλοώτατος ὀδμή.
+
+### book 442.2
+
+*) [ἡ διπλῆ ὅτι ἀντὶ τοῦ ὀλοωτάτη ὀλοώτατος εἴρηκεν]
+
+### book 442.3
+
+ὅμοιον τῷ „κλυτὸς Ἀμφιτρίτη (ε 422) καὶ θεσμὸς ἀϋτμή“ καὶ
+
+### book 442.4
+
+„κλυτὸς Ἱπποδάμεια“ (Β 742) P. cf. F. Ar. 31. β 214 et locos,
+
+### book 442.5
+
+quos ibi contuli.
+
+### book 451.1
+
+λέκτο δ’ ἀριθμόν.
+
+### book 451.2
+
+ἐν δ’ ἡμέας πρώτους λέγε κήτεσιν, οὐδέ τι θυμῷ
+
+### book 451.1
+
+ὠίσθη δόλον εἶναι· ἔπειτα δὲ λέκτο καὶ αὐτός.
+
+### book 451.2
+
+*) ὅτι τῇ αὐτῇ λέξει παραλλήλως οὐκ ἐπὶ τοῦ αὐτοῦ ση‐
+
+### book 451.5.1
+
+μαινομένου κέχρηται. PQ.
+
+### book 451.5.2
+
+cf. L. Ar. 147. De παραλλήλως vocabuli usu cf. Fried‐
+
+### book 451.5.3
+
+laenderum ad Ν 276. δ 413.
+
+### book 468.1
+
+ἀλλὰ σύ πέρ μοι εἰπέ.
+
+### book 468.2
+
+γράφεται ἔειπε sc. Zenodotus cf. 379 propter quod διπλῆ
+
+### book 468.3
+
+περιεστιγμένη. Eust. 1410, 61.
+
+### book 477.1
+
+πρίν γ’ ὅτ’ ἂν Αἰγύπτοιο διιπετέος ποταμοῖο.
+
+### book 477.2
+
+*) ὅτι τὸν Νεῖλον Αἴγυπτον ὀνομάζει, ὁ δὲ Ἡσίοδος ὡς
+
+### book 477.3
+
+ὢν νεώτερος Νεῖλον αὐτὸν οἶδεν ἤδη καλούμενον. HMPQT.
+
+### book 477.4
+
+De aetate Hesiodi, Homero posterioris, etiam ad Κ 431
+
+### book 477.5.1
+
+dictum est. cf. Lehrs, emend. schol. Hom. p. 454 Herod. et
+
+### book 477.5.2
+
+Ar. 232. Μ 22.
+
+### book 477.5.3
+
+Fuit praeterea diple periestigmene propter Zenodoti lectio‐
+
+### book 477.5.4
+
+nem διειπετέος ce. in EHQ. B ad Ρ 263.
+
+### book 485.1
+
+ταῦτα μὲν οὕτω δὴ τελέω, γέρον, ὡς σὺ κελεύεις.
+
+### book 485.2
+
+*) [ἡ διπλῆ πρὸς τὴν ἐναλλαγὴν τοῦ χρόνου, ὅτι ἀντὶ τοῦ]
+
+### book 485.3
+
+τελέσω, ἐνεστὼς ἀντὶ μέλλοντος E.
+
+### book 485.4
+
+cf. F. Ar. 6. Β 286. Ι 156. γ 82 et exempla ibid.
+
+### book 498.1
+
+Αἴας μὲν μετὰ νηυσὶ δάμη δολιχηρέτμοισι.
+
+### book 498.2
+
+Versum Zenodotus expunxisse videtur cf. in H: Ζηνόδοτος
+
+### book 498.3
+
+τοῦτον περιγράφει (corr. Dindorf., cod. ὃς γράφει. Duentzer:
+
+### book 498.4
+
+οὐ γράφει p. 13) ἀναγκαῖον δὲ καὶ αὐτὸν εἶναι διὰ τὸ λέγειν
+
+### book 498.5.1
+
+ὕστερον (551) Μενέλαον „σὺ δὲ τρίτον ἄνδρ’ ὀνόμαζε“. La
+
+### book 498.5.2
+
+Roche ex hoc scholio corrupto colligere non potest, Zenodo‐
+
+### book 498.5.3
+
+tum hunc versum expunxisse, nisi forte pro ὃς γράφει cum
+
+### book 498.5.4
+
+Duentzero οὐ γράφει scribis, vel cum Dindorfio περιγράφει,
+
+### book 498.5.5
+
+quibus non assentitur: nam si ita scriptum fuisset, verba se‐
+
+### book 498.10.1
+
+quentia ἀναγκαῖον δὲ εἶναι non cohaererent cum antecedentibus.
+
+### book 498.10.2
+
+Accedit quod hic versus amoveri non potest, nam ad eum re‐
+
+### book 498.10.3
+
+feruntur quae Menelaus infra dicit: σὺ δὲ τρίτον ἄνδρ’ ὀνόμαζε,
+
+### book 498.10.4
+
+quod Zenodotum fugere potuisse non credit.
+
+### book 514
+
+Μαλειάων.
+
+### book 514.1
+
+*) [ἡ διπλῆ ὅτι νῦν μὲν πληθυντικῶς εἴρηκεν Μαλειάων]
+
+### book 514.2
+
+ἀλλαχοῦ δὲ ἑνικῶς „περιγνάμπτοντα Μάλειαν“ (ι 80) P. cf. γ
+
+### book 514.3
+
+287 et locos ibi collatos.
+
+### book 522.1
+
+πατρίδος αἴης.
+
+### book 522.2
+
+†) σημειοῦνταί τινες, ὅτι ἐπὶ τῆς ὅλης χώρας νῦν τέθεικε
+
+### book 522.3
+
+τὴν πατρίδα, οὐκ ἐπὶ τῆς πόλεως PQ. cf. Eust. 1507, 45.
+
+### book 547.1
+
+τάφου ἀντιβολήσαις.
+
+### book 547.2
+
+†) τοῦ δείπνου τοῦ ἐν τῇ ταφῇ. BT. cf. γ 307.
+
+### book 553.1
+
+ἠὲ θανών. ἐθέλω δὲ καὶ ἀχνυμενός περ ἀκοῦσαι.
+
+### book 553.2
+
+ἐν ἁπάσαις ἠθετεῖτο· τοῦ γὰρ Πρωτέως εἰπόντος „δύο
+
+### book 553.3
+
+μοῦνοι ἀπόλοντο“ (496) γελοίως τρίτον ζητεῖ ἀπολόμενον. HPQ.
+
+### book 553.4
+
+Didymi et Aristonici verba scholiasta coniunxisse videtur.
+
+### book 556.1
+
+τὸν δὲ ἴδον ἐν νήσῳ θαλερὸν κατὰ δάκρυ χέοντα.
+
+### book 556.2
+
+†) δῆλον κἀκ τούτου ὅτι ἐξῴκισται [ἐξωκεάνισται Heckerus]
+
+### book 556.3
+
+ἡ νῆσος· ἐπεὶ τί ἐκώλυε τὸν Μενέλαον οὕτως ἔχοντα περὶ τὸν
+
+### book 556.4
+
+Ὀδυσσέα ὡς καὶ πόλιν ὅλην χαρίσασθαι ἐθέλειν ναῦν πέμψαι
+
+### book 556.5.1
+
+καὶ σῶσαι τὸν φίλον; BPQT.
+
+### book 556.5.2
+
+Eust. 1508, 60: ἐνταῦθα δέ τινες ἐκτοπισμὸν σημειοῦνται
+
+### book 556.5.3
+
+τῆς κατὰ τὴν Καλυψὼ νήσου. cf. L. Ar. 247. ε 55. 100. 277.
+
+### book 556.5.4
+
+ζ 8. 204. η 321. κ 1. 190. υ 383.
+
+### book 580.1
+
+ἑξῆς δ’ ἑζόμενοι πολιὴν ἅλα τύπτον ἐρέτμοις.
+
+### book 580.2
+
+†) σημειοῦνταί τινες, ὅτι ὁμοίως ἐκείνῳ εἴρηται „ἑζόμενοι
+
+### book 580.3
+
+λεύκαινον ὕδωρ“ (μ 172) P.
+
+### book 580.4
+
+cf. F. Ar. Β 417. γ 486 et exempla ibid.
+
+### book 590.1
+
+τρεῖς ἵππους καὶ δίφρον ἐΰξοον.
+
+### book 590.2
+
+*) ὅτι οὐκ ἂν, εἰ τέθριππα ᾔδεσαν, τρεῖς ἵππους ἐδίδου
+
+### book 590.3
+
+τῷ Τηλεμάχῳ. νῦν δὲ ξυνωρίδα δίδωσι καὶ παρήορον, ὡς καὶ
+
+### book 590.4
+
+ἐν Ἰλιάδι χρώμενοι. BPQT. cf. L. Ar. 195.
+
+### book 602.1
+
+ἵππους δ’ εἰς Ἰθάκην οὐκ ἄξομαι, ἀλλὰ σοὶ αὐτῷ
+
+### book 602.2
+
+ἐνθάδε λείψω ἄγαλμα.
+
+### book 602.3
+
+*) ὅτι τοὺς ἵππους ἄγαλμα εἴρηκεν [καὶ] ἐν Ἰλιάδι (δ 144)
+
+### book 602.4
+
+„βασιλῆϊ δὲ κεῖται ἄγαλμα“. ὥσπερ δὲ ὁ Τηλέμαχος ἐνθάδε
+
+### book 602.5.1
+
+παραιτεῖται τοὺς ἵππους, οὕτως καὶ Ὀδυσσεὺς τοὺς ἐκ τῆς
+
+### book 602.5.2
+
+κατασκοπῆς ἵππους Διομήδει παραχωρεῖ. [ὁ αὐτὸς ἄρα ποιη‐
+
+### book 602.5.3
+
+τής.] PQ. Huc referendum est quod legitur in MQ ad γ 274:
+
+### book 602.5.4
+
+ἄγαλμα λέγει ὁ ποιητὴς πᾶν ἐφ’ ᾧ τις ἀγάλλεται, καὶ οὐ τὸ
+
+### book 602.5.5
+
+ξόανον et ad γ 438 in E: ἡμεῖς μὲν ἄγαλμα τὸ ξόανον, Ὅμη‐
+
+### book 602.10.1
+
+ρος δὲ πᾶν δῶρον, ὃ βλέπει τις καὶ χαίρει καὶ ἐφ’ ᾧ ἀγάλ‐
+
+### book 602.10.2
+
+λεται, ἄγαλμά φησιν.
+
+### book 602.10.3
+
+cf. schol. in D ad Δ 144. Apoll. l. h. 6, 30.
+
+### book 613.1
+
+δώρων δ’, ὅσς’ ἐν ἐμῷ οἴκῳ κειμήλια κεῖται.
+
+### book 613.2
+
+†) σημειοῦνται ὡς ἀκατάλληλοι P.
+
+### book 613.3
+
+Fortasse notaverat Ar., hoc loco Homerum praeter consue‐
+
+### book 613.4
+
+tudinem κεῖται verbi singularem cum plurali neutrius ὅσσα κει‐
+
+### book 613.5
+
+μήλια construxisse. cf. Ν 28.
+
+### book 619.1
+
+τεῒν δ’ ἐθέλω τόδ’ ὀπάσσαι.
+
+### book 619.2
+
+*) [ἡ διπλῆ ὅτι τὸ τεῒν] ἀντὶ τοῦ σοί Δωρικῶς P. cf.
+
+### book 619.3
+
+Λ 201. Certe adiunxit: καὶ ὅτι τὸ ἐθέλω ἀεὶ ἀπὸ τοῦ ε ἄρ‐
+
+### book 619.4
+
+χεται. cf. Η 111.
+
+### book 624.1
+
+περὶ δεῖπνον πένοντο.
+
+### book 624.2
+
+†) σημειοῦνταί τινες ἀντὶ τοῦ ἐνήργουν HP.
+
+### book 624.3
+
+cf. L. Ar. 73. β 334. ι 250.
+
+### book 630.1
+
+τοῖς δ’ υἱὸς Φρονίοιο Νοήμων.
+
+### book 630.2
+
+*) ὅτι καὶ ἐν Ἰλιάδι ἡ αὐτὴ εὐστοχία τῆς τῶν ὀνομάτων
+
+### book 630.3
+
+θέσεως. P.
+
+### book 630.4
+
+cf. Ε 60. Ι 137. β 386.
+
+### book 634.1
+
+ἐμὲ δὲ χρεὼ γίγνεται αὐτῆς.
+
+### book 634.2
+
+†) Ἀττικῶς ἀντὶ τοῦ ἐμοί BP.
+
+### book 634.3
+
+cf. F. Ar. 1. 23. γ 14.
+
+### book 644,n5.1
+
+θῆτές τε δμῶές τε.
+
+### book 644,n5.2
+
+σημειοῦνταί τινες, ὅτι διέστειλε τοὺς θῆτας ἀπὸ τῶν δμώων.
+
+### book 644,n5.3
+
+θῆτες γὰρ λέγονται οἱ ἐλεύθεροι μὲν, μισθῷ δὲ δουλεύοντες, δμῶες
+
+### book 644,n5.4
+
+δὲ αὐτοὶ οἱ δοῦλοι, παρὰ τὸ δεδμῆσθαι, ὅ ἐστιν ὑποτετάχθαι. BEPQ.
+
+### book 644,n5.5
+
+cf. ξ 112. Eust. 1246, 11 ubi Aristophanis esse hanc interpretatio‐
+
+### book 644,n5
+
+nem dicit. Apollo et Neptunus θητεύουσι μισθῷ ἐπὶ ῥητῷ Φ 444.
+
+### book 646.1
+
+ἤ σε βίῃ ἀπηΰρα νῆα μέλαιναν.
+
+### book 646.2
+
+*) [ἡ διπλῆ ὅτι ἤλλακται πτῶσις σὲ ἀπηύρα νῆα ἀντὶ τοῦ
+
+### book 646.3
+
+σοῦ] ὁμοίως τῷ „ἐπεί μ’ ἀφέλεσθέ γε δόντεσ“ (Α 299) P.
+
+### book 646.4
+
+cf. F. Ar. p. 21.
+
+### book 661-2.1
+
+ἀχνύμενος· μένεος δὲ μέγα φρένες ἀμφιμέ‐
+
+### book 661-2.2
+
+λαιναι
+
+### book 661-2.3
+
+πίμπλαντ’, ὄσσε δέ οἱ πυρὶ λαμπετόωντι ἐΐκτην.
+
+### book 661-2.4
+
+†) ἐκ τῆς Ἰλιάδος (Α 103) μετηνέχθησαν οὐ δεόντως οἱ
+
+### book 661-2.5.1
+
+στίχοι HQ.
+
+### book 661-2.5.2
+
+Fuerunt obeli cum asteriscis cf. ad Α 103.
+
+### book 671.1
+
+Σάμοιό τε παιπαλοέσσης.
+
+### book 671.2
+
+*) ὅτι τὴν Σάμην Σάμον εἶπεν BET.
+
+### book 671.3
+
+cf. L. Ar. 233 cf. α 246 et exempla ibid.
+
+### book 672.1
+
+ἐπισμυγερῶς.
+
+### book 672.2
+
+*) [ἡ διπλῆ ὅτι] παρέλκει (δὲ) ἡ ἐπί BET. cf. γ 195.
+
+### book 672.3
+
+422. δ 386. L. Ar. 109.
+
+### book 678.1
+
+αὐλῆς ἐκτὸς ἐών.
+
+### book 678.2
+
+†) σημειοῦνταί τινες πρὸς τὸ περὶ τῆς Ὀδυσσέως οἰκή‐
+
+### book 678.3
+
+σεως P.
+
+### book 685.1
+
+ὕστατα καὶ πύματα νῦν ἐνθάδε δειπνήσειαν.
+
+### book 685.2
+
+*) ὅτι τὰ ἰσοδυναμοῦντα παράλληλα τέθεικεν, ὕστατα καὶ
+
+### book 685.3
+
+πύματα P. cf. γ 317.
+
+### book 692.1
+
+ἄλλον κ’ ἐχθαίρῃσι βροτῶν, ἄλλον κε φιλοίη.
+
+### book 692.2
+
+*) [ἡ διπλῆ ὅτι] τὸ ἐχθαίρῃσιν ἀντὶ τοῦ ἐχθαίροι ὡς (cod.
+
+### book 692.3
+
+καὶ) τὸ „ἰχθὺς, ὅς κε φάγῃσι“ (Φ 127) ἀντὶ τοῦ φάγοι. BEPQ.
+
+### book 692.4
+
+Restitui, quod P. habet ἐχθαίροι et φάγοι, ut in omnibus
+
+### book 692.5.1
+
+codicibus BEPQ. Dindorfius rectum male correxit. Videat F.
+
+### book 692.5.2
+
+Ar. p. 9: „in nostris scholiis fere ubique coniunctivus pro op‐
+
+### book 692.5.3
+
+tativo esse dicitur.“ Ceterum schol. citatum Φ 127 habet: ἀντὶ
+
+### book 692.5.4
+
+τοῦ ὃς φάγοι ἂν, quod inspicere debebat.
+
+### book 702.1
+
+ἐς Πύλον ἠγαθέην ἠδ’ ἐς Λακεδαίμονα δῖαν.
+
+### book 702.2
+
+*) [ἡ διπλῆ ὅτι] οὐδὲ ἐνταῦθα ἡ Κρήτη οὐδὲ Ἰδομενεὺς
+
+### book 702.1
+
+ὀνομάζεται HP.
+
+### book 702.2
+
+Diple est contra Zenodotum cf. α 93. β 359. γ 313.
+
+### book 709.1
+
+πουλὺν ἐφ’ ὑγρήν.
+
+### book 709.2
+
+*) [ἡ διπλῆ ὅτι] ἐν σχήματι εἴρηται, ὡς θέρμος ἀϋτμή P.
+
+### book 709.3
+
+cf. F. Ar. 31. β 214 et exempla ibid.
+
+### book 714.1
+
+ὄφρα πύθηται πατρὸς ἑοῦ.
+
+### book 714.2
+
+*) [ἡ διπλῆ ὅτι] λείπει ἡ περί. HT.
+
+### book 714.3
+
+cf. F. Ar. 26.
+
+### book 722.1
+
+κλῦτε φίλαι· πέρι γάρ μοι ..
+
+### book 722.2
+
+*) ὅτι ἐν ἀρχῇ λόγου ὁ γάρ, ὡς καὶ ἐν Ἰλιάδι (Η 328)
+
+### book 722.3
+
+„πολλοὶ γὰρ τεθνᾶσι“ H. cf. Η 328.
+
+### book 726.1
+
+ἐσθλὸν, τοῦ κλέος εὐρὺ καθ’ Ἑλλάδα καὶ μέσον
+
+### book 726.2
+
+Ἄργος.
+
+### book 726.3
+
+*) περιττὸς ὁ στίχος· καὶ γὰρ προεῖπεν „ἢ πρὶν μὲν πό‐
+
+### book 726.4
+
+σιν ἐσθλόν“ (724) καὶ οὐκ οἶδεν ὁ Ὅμηρος τὴν καθ’ ἡμᾶς
+
+### book 726.5.1
+
+Ἑλλάδα, ἀλλὰ τὴν Θεσσαλικὴν οὕτω λέγει καὶ Ἕλληνας τοὺς
+
+### book 726.5.2
+
+ἐκεῖθεν. HQ. cf. L. Ar. 227. F. Ar. Ι 395. α 344. δ 816.
+
+### book 771.1
+
+ὅ οἱ φόνος υἷι τέτυκται.
+
+### book 771.2
+
+*) ὅτι φόνος τῷ υἱῷ αὐτῆς ηὐτρέπισται· ἡ γὰρ οἱ ἀντὶ
+
+### book 771.3
+
+γενικῆς ἐστι. H. cf. Fr. 22.
+
+### book 783.1
+
+πάντα κατὰ μοῖραν· ἀνά θ’ ἱστία λευκὰ πέτασσαν.
+
+### book 783.2
+
+†) περιττὸς δοκεῖ οὗτος ὁ στίχος M.
+
+### book 783.3
+
+Non legit Eust. cf. 1517, 44, omiserunt ADEGHL.
+
+### book 786.1
+
+ἕσπερον.
+
+### book 786.2
+
+*) [ἡ διπλῆ ὅτι ἀρσενικῶς] τὴν ἑσπέραν ἕσπερον εἶπεν.
+
+### book 786.3
+
+HGl. cf. ad α 422 et exempla ibid.
+
+### book 793.1
+
+ἐπήλυθε νήδυμος ὕπνος.
+
+### book 793.2
+
+Ex schol. in E apparet, fuisse diplam Ar. de vocabulo νή‐
+
+### book 793.3
+
+δυμος, pro quo nonnulli ἥδυμος legerunt, litteram ν ut ἐφελ‐
+
+### book 793.4
+
+κυστικὸν ad ἐπήλυθε trahentes. cf. ad Β 2. Κ 187. Π 54.
+
+### book 794.1
+
+λύθεν δέ οἱ ἅψεα πάντα.
+
+### book 794.2
+
+*) ὅτι οὕτως λέγει τὰς συναφὰς τῶν μελῶν, οὐ τὰ μέλη.
+
+### book 794
+
+(οὐκ οὖν ἂν εἴποι μηρὸν ἢ χεῖρα ἅψεα.) PQH.
+
+### book 797.1
+
+Ἰφθίμῃ κούρῃ.
+
+### book 797.2
+
+†) ἀμφιβάλλει Ἀρίσταρχος, πότερον ἐπίθετον τὸ ἰφθίμη,
+
+### book 797.3
+
+ἢ κύριον. P.
+
+### book 816.1
+
+ἐσθλόν, τοῦ κλέος εὐρὺ καθ’ Ἑλλάδα καὶ μέσον
+
+### book 816.2
+
+Ἄργος.
+
+### book 816.3
+
+Certe obelo notavit Ar. cf. δ 726. Ι 395.
+
+### book 836.1
+
+οὐ μέντοι κεῖνόν γε διηνεκέως ἀγορεύσω.
+
+### book 836.2
+
+*) [ἡ διπλῆ πρὸς τὸ σχῆμα] ἀντὶ τοῦ τὰ περὶ ἐκείνου
+
+### book 836.3
+
+BEQPT. cf. F. Ar. 25.
+
+### book 845.1
+
+Σάμοιό τ’ παιπαλοέσσης.
+
+### book 845.2
+
+*) ὅτι τὴν Σάμην Σάμον λέγει H.
+
+### book 845
+
+cf. δ 671.
+
+### book 7.1
+
+Ζεῦ πάτερ ἠδ’ ἄλλοι μάκαρες θεοὶ αἰὲν ἐόντες.
+
+### book 7.2
+
+†) ἐκ τῆς ἐν Ἰλιάδι Νέστορος εὐχῆς μετατέθειται P.
+
+### book 7.3
+
+Nestoris εὐχή est Ο 370 seq., sed ibi hic versus non legi‐
+
+### book 7.4
+
+tur. Num Ar. alium textum ac nos hoc loco habuit?
+
+### book 13.1
+
+ἀλλ’ ὁ μὲν ἐν νήσῳ κεῖται κρατέρ’ ἄλγεα πάσχων.
+
+### book 13.2
+
+*) οἰκειότερον ἐν Ἰλιάδι—Β 721—κεῖται περὶ Φιλο‐
+
+### book 13.3
+
+κτήτου. νῦν δὲ ἔδει τετιημένος ἦτορ εἶναι H.
+
+### book 27.1
+
+παλιμπετὲς ἀπονέωνται.
+
+### book 27.2
+
+†) εἰς τοὐπίσω στρεφόμενοι P.
+
+### book 27.3
+
+Hoc scholion inserui propter rectam vocabuli πάλιν inter‐
+
+### book 27.4
+
+pretationem, quae est Ar. cf. L. Ar. 91.
+
+### book 30.1
+
+νύμφῃ εὐπλοκάμῳ εἰπεῖν.
+
+### book 30.2
+
+*) [ἡ διπλῆ ὅτι] ἀπαρέμφατόν ἐστιν ἀντὶ προστακτικοῦ,
+
+### book 30.3
+
+τοῦ εἰπέ PT.
+
+### book 30.4
+
+cf. F. Ar. 14. α 291 et exempla ibid.
+
+### book 39.1
+
+πόλλ’, ὃς ἂν οὐδέ ποτε Τροίης ἐξήρατ’ Ὀδυσσεύς,
+
+### book 39.2
+
+εἴ περ ἀπήμων ἦλθε, λαχὼν ἀπὸ ληίδος αἶσαν.
+
+### book 39.3
+
+†) Τροίης δισυλλάβως, ἵνα τὴν χώραν ἀκούσωμεν P.
+
+### book 39.4
+
+cf. λ 510. Α 129. Alii: Τροίης ἀπὸ ληίδος. Fluxisse vi‐
+
+### book 39.5.1
+
+detur ex Ar., qui Α 129 observavit, Troiam urbem apud Ho‐
+
+### book 39.5.2
+
+merum δισυλλάβως legi Τροίην, adiectivum contra Τροΐην τρι‐
+
+### book 39
+
+συλλάβως de urbe aliqua Troiana.
+
+### book 44-46.1
+
+αὐτίκ’ ἔπειθ’ ὑπὸ ποσσὶν ἐδήσατο καλὰ πέδιλα,
+
+### book 44-46.2
+
+ἀμβρόσια χρύσεια, τά μιν φέρον ἠμὲν ἐφ’ ὑγρὴν
+
+### book 44-46.3
+
+ἠδ’ ἐπ’ ἀπείρονα γαῖαν ἅμα πνοιῆς ἀνέμοιο.
+
+### book 44-46.4
+
+*) [τούτοις τοῖς στίχοις παράκεινται ἀστερίσκοι ὅτι] μετά‐
+
+### book 44-46.5.1
+
+κεινται οὐ δεόντως ἐντεῦθεν εἰς τὰ περὶ τῆς Ἀθηνᾶς ἐν αʹ
+
+### book 44-46.5.2
+
+λεγόμενα· (96—98) καὶ εἰς τὰ περὶ Ἑρμοῦ, ἡνίκα ἀπ’ Ὀλύμ‐
+
+### book 44-46.5.3
+
+που εἰς τὴν Τροίαν κάτεισιν (Ω 341/2) HPQ.
+
+### book 50.1
+
+Πιερίην δ’ ἐπιβὰς ἐξ αἰθέρος ἔμπεσε πόντῳ.
+
+### book 50.2
+
+†) ἀναγκαῖον τὸ ἔπος, ὅτι ὄρος Ὄλυμπος θεῶν οἰκητήριον
+
+### book 50.3
+
+κατὰ τὸν ποιητήν. HP.
+
+### book 50.4
+
+cf. F. Ar. Ξ 226. L. Ar. 166. ad v. 55.
+
+### book 50.5.1
+
+Pieriam enim, Olympi cacumen, transcendunt dii apud Ho‐
+
+### book 50.5.2
+
+merum, iter facientes ex Olympo in terram.
+
+### book 54,n1.1
+
+τῷ ἴκελος πολέεσσιν ὀχήσατο κύμασιν Ἑρμῆς.
+
+### book 54,n1.2
+
+προσέθηκέ τις οὐ δεόντως τὸν στίχον. HPQ. Eust. 1522, 62:
+
+### book 54,n1.3
+
+παρένθετον οἴονταί τινες (an Ar.?) τὸν στίχον καὶ ὀβελίζουσιν ἤτοι
+
+### book 54,n1.4
+
+ἀθετοῦσιν.
+
+### book 55.1
+
+ἀλλ’ ὅτε δὴ τὴν νῆσον ἀφίκετο τηλόθ’ ἐοῦσαν.
+
+### book 55.2
+
+*)[ἡ διπλῆ] πρὸς τὰ περὶ τῆς πλάνης, ὅτι πόῤῥω που ἐν
+
+### book 55.3
+
+ἐκτετοπισμένοις τόποις ἀορίστοις. φησὶ γοῦν τηλόθι που τὴν
+
+### book 55.4
+
+νῆσον εἶναι. καὶ πρὸς τὰ περὶ Ὀλύμπου σεσημείωται· εἰ γὰρ
+
+### book 55.5.1
+
+μὴ ἀπὸ Μακεδονίας ὁ θεὸς ἐξορμᾷ, ἀλλ’ ἄνωθεν ἐξ οὐρανοῦ,
+
+### book 55.5.2
+
+οὐκ ἂν πολλὴν ἐπῆλθεν, ἕως εἰς τὴν νῆσον παραγένηται, ἀλλ’
+
+### book 55.5.3
+
+εὐθὺς βουληθεὶς κατὰ κάθετον γενόμενος PQ. —„ut Minerva
+
+### book 55.5.4
+
+Τ 530“. L. —cf. L. Ar. 166. 247. δ 556 et locos ibi collatos.
+
+### book 69.1
+
+ἡμερὶς ἡβώωσα.
+
+### book 69.2
+
+Notatum fuit vocabulum ἡμερίς ἅπαξ εἰρημένον v. schol.
+
+### book 69.3
+
+EPQ: τὴν ἄμπελον εἶπεν· ἅπαξ δὲ ἐνταῦθα τὸ ὄνομα. Eust.
+
+### book 69.4
+
+1524, 25 habet: ἐν δὲ ὑπομνήμασι παλαιοῖς τοῖς εἰς τὸ Ξ τῆς
+
+### book 69.5.1
+
+Ἰλιάδος (an Ar.?) εἶδος λεπτοφλοίου δρυὸς ἡ ἡμερὶς λέγεται.
+
+### book 69.5.2
+
+Apoll. l. h. 84, 1 ut in scholio nostro interpretatur.
+
+### book 84.1
+
+πόντον ἐπ’ ἀτρύγετον δερκέσκετο δάκρυα λείβων.
+
+### book 84.2
+
+*) ὁ στίχος οὗτος περιττός· ὁ γὰρ προκείμενος ἀρκεῖ. HP.
+
+### book 84.3
+
+cf. ad v. 158 et PQ ad v. 82.
+
+### book 97-98.1
+
+εἰρωτᾷς μ’ ἐλθόντα θεὰ θέον· αὐτὰρ ἐγώ τοι
+
+### book 97-98.2
+
+νημερτέως τὸν μῦθον ἐνισπήσω· κέλεαι γάρ.
+
+### book 97-98.3
+
+*) [ἀθετοῦνται οἱ στίχοι ὅτι] εὐτελεῖς κατὰ τὴν σύνθεσιν
+
+### book 97-98.4
+
+καὶ κατὰ τὴν διάνοιαν HP.
+
+### book 97-98.5.1
+
+Porsonus, Buttmannus, Dindorfius hoc scholion, quod in P
+
+### book 97-98.5.2
+
+scriptum est interiore margine incipiens ob angustiam a v. 96
+
+### book 97-98.5.3
+
+et desinens proxime ante 98, pertinere ad v. 94. 95. coniece‐
+
+### book 97-98.5.4
+
+runt. Ego retinui scholii locum secutus Eust. 1525, 31: εἴπο‐
+
+### book 97-98.5.5
+
+μεν δὲ ἀφελῶς, ἀκολούθως τοῖς παλαιοῖς, οἵ φασιν ὅτι εὐτελεῖς
+
+### book 97-98.10.1
+
+οἱ δύο στίχοι—97. 98—οὗτοι καὶ κατὰ συνθήκην καὶ κατὰ
+
+### book 97-98.10.2
+
+διάνοιαν.
+
+### book 100.1
+
+τίς δ’ ἂν ἑκὼν τοσσόνδε διαδράμοι ἁλμυρὸν ὕδωρ
+
+### book 100.2
+
+ἄσπετον, οὐδέ τις ἄγχι βροτῶν πόλις ..
+
+### book 100.3
+
+*) σαφῶς ἐδήλωσεν Ὅμηρος, ὅτι ἔξω τῆς καθ’ ἡμᾶς θα‐
+
+### book 100.4
+
+λάσσης ἡ τῆς Καλυψοῦς νῆσος τυγχάνει [διὸ ἡ διπλῆ]. BEPQT.
+
+### book 100.5
+
+cf. L. Ar. 247. Eust. 1525, 64. δ 556 et locos, quos ibi contuli.
+
+### book 105-11.1
+
+φησί τοι ἄνδρα παρεῖναι ὀιζυρώτατον ἄλλων
+
+### book 105-11.2
+
+τῶν ἀνδρῶν, οἳ ἄστυ πέρι Πριάμοιο μάχοντο
+
+### book 105-11.3
+
+εἰνάετες, δεκάτῳ δὲ πόλιν πέρσαντες ἔβησαν
+
+### book 105-11.4
+
+οἴκαδ’. ἀτὰρ ἐν νόστῳ Ἀθηναίην ἀλίτοντο,
+
+### book 105-11.5.1
+
+ἥ σφιν ἐπῶρς’ ἄνεμόν τε κακὸν καὶ κύματα μακρά.
+
+### book 105-11.5.2
+
+ἔνθ’ ἄλλοι μὲν πάντες ἀπέφθιθεν ἐσθλοὶ ἑταῖροι,
+
+### book 105-11.5.3
+
+τὸν δ’ ἄρα δεῦρ’ ἄνεμός τε φέρων καὶ κῦμα πέλασσε.
+
+### book 105-11.5.4
+
+*) περιττοὶ οἱ στίχοι καὶ πρὸς τὴν ἱστορίαν μαχόμενοι.
+
+### book 105-11.5.5
+
+οὐ γὰρ καθ’ ὃν καιρὸν ὑπὸ τῆς Ἀθηνᾶς ὁ ἄνεμος ἐκινήθη καὶ
+
+### book 105-11.10.1
+
+οἱ ἄλλοι ἀπώλοντο, Ὀδυσσεὺς τῇ νήσῳ προσηνέχθη· οἱ δὲ τε‐
+
+### book 105-11.10.2
+
+λευταῖοι δύο ἐκ τῶν μετὰ ταῦτά (133—134) εἰσι μετενηνεγ‐
+
+### book 105-11.10.3
+
+μένοι PQ.
+
+### book 105-11
+
+Numeros 105—111 Maius posuit, Buttmannus probavit.
+
+### book 124-5,n2.1
+
+Ἄρτεμις ἅγνη
+
+### book 124-5,n2.2
+
+οἷς ἀγανοῖς βελέεσσιν ἐποιχομένη κατέπεφνεν.
+
+### book 124-5,n2.3
+
+οὐδέποτε παρ’ Ὁμήρῳ ἡ Ἄρτεμις ἄῤῥενας φονεύει· διό τινες
+
+### book 124-5,n2.4
+
+ἀθετοῦσι τοὺς στίχους HPQ. cf. Eust. 1527, 47. An Aristarchus in
+
+### book 124-5,n2.5
+
+horum numero fuit?
+
+### book 130,n3.1
+
+περὶ τρόπιος βεβαῶτα.
+
+### book 130,n3.2
+
+ὅτι (καὶ) γενικὴ ἀντὶ δοτικῆς, ἀντὶ τοῦ περιβεβηκότα τῇ τρό‐
+
+### book 130,n3.3
+
+πιδι. BEPQT.
+
+### book 130,n3.4
+
+Fluxit fortasse ex Ar. cf. F. Ar. p. 21.
+
+### book 132.1
+
+Ζεὺς ἔλσας (κεραυνῷ).
+
+### book 132.2
+
+†) Ζηνόδοτος ἐλάσας γράφει. οἱ δὲ (certe Ar.) ἔλσας, ποιη‐
+
+### book 132.3
+
+τικώτερον γάρ. ἔλσας μὲν τὸ συστρέψας, ἐλάσας δὲ τὸ ἐκ
+
+### book 132.4
+
+χειρὸς πλήξας. HPQ. cf. L. Ar. 65. η 250.
+
+### book 132.5
+
+Versibus 133—134 fuit appictus asteriscus cf. 105—111.
+
+### book 141.1
+
+ἑταῖροι.
+
+### book 141.2
+
+*) ὅτι ἐπὶ τῶν συμπλεόντων τίθησι τὸ (cod. τοὺς) ἑταί‐
+
+### book 141.3
+
+ρους πολλάκις PQ. L. Ar. 116.
+
+### book 158.1
+
+πόντον ἐπ’ ἀτρύγετον δερκέσκετο δάκρυα λείβων.
+
+### book 158.2
+
+*) [ὁ ἀστερίσκος ὅτι] ἐντεῦθεν εἰς τὸ ὀλίγον ἀνωτέρω (84)
+
+### book 158.3
+
+μετάκειται ὁ στίχος H.
+
+### book 165.1
+
+αὐτὰρ ἐγὼ σῖτον καὶ ὕδωρ καὶ οἶνον ἐρυθρόν
+
+### book 165.2
+
+ἐνθήσω, μενοεικέ’, ἅ κέν τοι λιμὸν ἐρύκοι.
+
+### book 165.3
+
+*) ὅτι καὶ ἐπὶ δίψης ὁ λιμός P.
+
+### book 188.1
+
+ἀλλὰ τὰ μὲν νοέω καὶ φράσσομαι, ἅσς’ ἂν ἐμοί περ
+
+### book 188.2
+
+αὐτῇ μηδοίμην.
+
+### book 188.3
+
+*) [ἡ διπλῆ ὅτι] ὁ περ παρέλκει PQ.
+
+### book 188.4
+
+cf. F. Ar. 34. ρ 47.
+
+### book 202.1
+
+τοῖς (Odysseus et Calypso) ἄρα μύθων ἦρχε.
+
+### book 202.2
+
+*) ὅτι ἑνὸς πρὸς ἕνα διαλεγομένου φησὶ „τοῖς ἄρα μύθων
+
+### book 202.3
+
+ἦρχεν“ P. cf. Ρ 628. Φ 287. η 47.
+
+### book 205.1
+
+σὺ δὲ χαῖρε καὶ ἔμπης.
+
+### book 205.2
+
+†) τὸ ἔμπης, ὃ καὶ ἔμπα λέγεται, ἐν τούτῳ τῷ τόπῳ ὅμως
+
+### book 205.1
+
+σημαίνει, ποτὲ δὲ ὁμοίως καὶ ἐπίσης, ὡς τὸ „ἔμπης εἰς γαῖάν
+
+### book 205.2
+
+τε καὶ οὐρανὸν ἵκετ’ ἀυτμή“ (Ξ 174). MS Barnes. cf. L. Ar.
+
+### book 205.5
+
+142 Apoll. l. h. 67, 24. ς 354. τ 37. BL ad Ξ 1.
+
+### book 240.1
+
+περίκηλα.
+
+### book 240.2
+
+†) Ἀρίσταρχος ὥσπερ ξηρὰ ἐκδεχόμενος, τὰ περικεκαυ‐
+
+### book 240.3
+
+μένα ὑπὸ ἡλίου P.
+
+### book 240.4
+
+Chrysippus περὶ κῆλα.
+
+### book 244.1
+
+εἴκοσι δ’ ἔκβαλε πάντα.
+
+### book 244.2
+
+*) [ἡ διπλῆ ὅτι] παρέλκει τὸ πάντα, ὡς ἐν τῷ „τριχθὰ δὲ
+
+### book 244.3
+
+πάντα δέδασται“ (Ο 189) PQ.
+
+### book 244.4
+
+cf. ad Ο 189. Σ 373. Ω 232. θ 258.
+
+### book 247.1
+
+τέτρηνεν δ’ ἄρα πάντα καὶ ἥρμοσεν ἀλλήλοισιν
+
+### book 247.2
+
+γόμφοισιν δ’ ἄρα τήν γε καὶ ἁρμονιῇσιν ἄρασσεν.
+
+### book 247.3
+
+†) Ἀριστοφάνης τὸ αὐτὸ ᾤετο περιέχειν ἄμφω. διὸ τῷ
+
+### book 247.4
+
+μὲν σίγμα, τῷ δὲ ἀντίσιγμα ἐπιτίθησιν BPQ. Vind. ὁ δὲ Ἀρί‐
+
+### book 247.5.1
+
+σταρχός φησι διὰ τοῦ πρώτου τὸ μὲν τέλειον τῆς ἁρμογῆς μὴ
+
+### book 247.5.2
+
+εἶναι, ἀλλ’, ὡς ἄν τις εἴποι, ἁρμόζοντα κατεσκεύασε, καὶ πρὸς
+
+### book 247.5.3
+
+ἄλληλα συγκαταγαγὼν ἐσκέψατο εἰ ἁρμόζει ἀλλήλοις· τῷ δὲ
+
+### book 247.5.4
+
+ἑξῆς συνέκλεισε καὶ κατεγόμφωσε. διὰ γὰρ τοῦ ἄρασσε τὸ
+
+### book 247.5.5
+
+τέλος τῆς ἁρμογῆς παρέστησε BHMPQT. cf. L. Ar. 342.
+
+### book 252.1
+
+ἀραρὼν θαμέσι σταμίνεσσι.
+
+### book 252.2
+
+Quod habent cod. BEHQV ad interpretationem vocabuli
+
+### book 252.3
+
+σταμίνες: τοῖς ὀρθοῖς ξύλοις, οἷς τὰ πηδάλια πήσσεται Ari‐
+
+### book 252.4
+
+starchi est cf. Etym. M. 724. Nitzsch: Anmerkungen zur Odys‐
+
+### book 252.5
+
+see II, 39. Eust. 1533, 27.
+
+### book 273-5.1
+
+ἄρκτον θ’, ἣν καὶ ἅμαξαν ἐπίκλησιν καλέουσιν,
+
+### book 273-5.2
+
+ἥ τ’ αὐτοῦ στρέφεται καί τ’ Ὠρίωνα δοκεύει.
+
+### book 273-5.3
+
+*) ὅτι καὶ ἐν Ἰλιάδι (Σ 487—89) τὰ αὐτὰ περὶ τῆς Ἄρκτου
+
+### book 273-5.4
+
+καὶ τῶν ἄλλων ἀστέρων φησίν. P.
+
+### book 277.1
+
+ποντοπορευέμεναι ἐπ’ ἀριστερὰ χειρὸς ἔχοντα.
+
+### book 277.2
+
+*) [ἡ διπλῆ] πρὸς τὸ περὶ τῆς πλάνης, ὅτι ὡς ἀπὸ τῶν
+
+### book 277.3
+
+περὶ τὸ Ἀτλαντικὸν πέλαγος φέρεται ἐπ’ ἀνατολάς H.
+
+### book 277
+
+cf. L. Ar. 244. δ 556 et exempla ibid. Eust. 1536, 5.
+
+### book 281.1
+
+εἴσατο δ’ ὡς ὅτε ῥινὸν ἐν ἠεροειδέϊ πόντῳ.
+
+### book 281.2
+
+Fuit interpretatio vocabuli ῥινόν, pro quo scholiastae in
+
+### book 281.3
+
+PQT Aristarchum legisse ἐρινόν dicunt: ὁ Ἀρίσταρχος ἐρινὸν
+
+### book 281.4
+
+αὐτὴν τὴν συκῆν κατὰ μεταβολὴν γένους, ὡς ὁ δίφρος τὸ δί‐
+
+### book 281.5.1
+
+φρον. Sed huic lectioni ἐρινόν repugnat Aristonicus, qui Θ 532:
+
+### book 281.5.2
+
+εἴσατο δ’ ὡς ὅτε ῥινεός, Μ 118 et Ν 45 autem ῥινόν legit.
+
+### book 281.5.3
+
+Iam vides etiam in Venet. A variam fuisse lectionem. Eust.
+
+### book 281.5.4
+
+1536, 13 habet: Ἀρίσταρχος δὲ ἐρινὸν γράφει αὐτὴν τὴν συ‐
+
+### book 281.5.5
+
+κῆν, ἵνα φαίνηται τηλόθεν ἡ νῆσος, ὡσεὶ καὶ τοιαύτη τις συκῆ.
+
+### book 281.10.1
+
+εἴσατο. Ar. notavit Θ 552, Μ 118, Ν 45 ὅτι πολλὰ σημαί‐
+
+### book 281.10.2
+
+νει et nostro loco quidem ἀντὶ τοῦ ἐφάνη. Similia habent schol.
+
+### book 281.10.3
+
+EPQT.
+
+### book 294,n4.1
+
+ὀρώρει δ’ οὐρανόθεν νύξ.
+
+### book 294,n4.2
+
+οὐκ εἶπε ὀρώρει Ὀλυμπόθεν HT.
+
+### book 294,n4.3
+
+Fluxit fortasse ex Ar. adnotatione pertinente πρὸς τὰ περὶ Ὀλύμ‐
+
+### book 294,n4.4
+
+που cf. L. Ar. 166—ι 69.
+
+### book 310.1
+
+ὅτε μοι πλεῖστοι χαλκήρεα δοῦρα
+
+### book 310.2
+
+Τρῶες ἐπέῤῥιψαν περὶ Πηλείωνι θανόντι.
+
+### book 310.3
+
+Quod legitur in BPQ recentiorum est, qui fingunt, Achilli
+
+### book 310.4
+
+necati corpus ab Ajace ex proelio ablatum esse Ulixe tegente.
+
+### book 310.5.1
+
+Quod illi finxerunt ad similitudinem Iliadis Ρ 719. Ar. contra
+
+### book 310.5.2
+
+hos observavit, Homerum, si de Achilli caede cecinisset, vix ita
+
+### book 310.5.3
+
+instituisse. cf. L. Ar. 175.
+
+### book 312.1
+
+λευγαλέῳ θανάτῳ.
+
+### book 312.2
+
+*) ὅτι λευγαλέον θάνατον οἱ γλωσσογράφοι ἀποδεδώκασι
+
+### book 312.3
+
+τὸν ἐν ὑγρῷ, ἐκ τε τούτων καὶ ἐκ τῶν ὑπ’ Ἀχιλλέως ἐν τῇ
+
+### book 312.4
+
+πρὸς τὸν ποταμὸν μάχῃ λεγομένων. ἄμεινον δὲ ὀλέθριον, παρὰ
+
+### book 312.5.1
+
+τὸν λοιγόν Q.
+
+### book 312.5.2
+
+cf. L. Ar. 106. β 61. Ap. l. h. 107, 23.
+
+### book 337.1
+
+αἰθυίῃ δ’ εἰκυῖα ποτῇ ἀνεδύσετο λίμνης.
+
+### book 337.2
+
+†) οὐκ ἐφέρετο ἐν τοῖς πλείοσι. Ἀρίσταρχος δὲ περὶ μὲν
+
+### book 337.1
+
+τῆς ἀθετήσεως διστάζει, γράφει δὲ διὰ τοῦ υ ὑπεδύσατο, ἐν
+
+### book 337.2
+
+δέ τισιν ἀνεδύσατο· ἔοικε δὲ ὁ στίχος ἐκ τῶν ὕστερον (352)
+
+### book 337.5.1
+
+εἰρημένων ὑπό τινος παρεμβεβλῆσθαι „αὐτὴ δ’ ἂψ ἐς πόντον
+
+### book 337.5.2
+
+ἐδύσατο κυμαίνοντα αἰθυίῃ εἰκυῖα“. HPQ. Fluxit ex Didymo
+
+### book 337.5.3
+
+et Aristonico, cuius verba in altera scholii parte ἔοικε—εἰκυῖα
+
+### book 337.5.4
+
+servata videntur esse. cf. L. Ar. 347.
+
+### book 341.1
+
+οὐ μὲν δή σε καθαφθίσει, μάλα περ μενεαίνων·
+
+### book 341.2
+
+ἀλλὰ μάλ’ ὧδ’ ἔρξαι.
+
+### book 341.3
+
+*) [ἡ διπλῆ ὅτι τὸ μενεαίνων ἀντὶ τοῦ] προθυμούμενος·
+
+### book 341.4
+
+σημαίνει γὰρ ἑκάτερον ἡ λέξις· τὸ δὲ ὧδ’ ἔρξαι ἀντὶ τοῦ οὕ‐
+
+### book 341.5.1
+
+τως ἔρδε, (H) ἀπαρέμφατον ἀντὶ προστακτικοῦ V.
+
+### book 341.5.2
+
+cf. Π 491. Apoll. l. h. 111, 9.
+
+### book 346.1
+
+τόδε κρήδεμνον τανύσσαι.
+
+### book 346.2
+
+†) τὸ τανύσσαι ἀπαρέμφατον διὰ τὸ βαλέειν P.
+
+### book 346.3
+
+cf. Herodianum ad Ο 159.
+
+### book 349.1
+
+ἂψ ἀπολυσάμενος βαλέειν εἰς οἴνοπα πόντον.
+
+### book 349.2
+
+*) [ἡ διπλῆ ὅτι] πάλιν τοῖς ἀπαρεμφάτοις ἀντὶ προστακτι‐
+
+### book 349.3
+
+κῶν χρῆται. HPQ.
+
+### book 371.1
+
+κέληθ’ ὡς ἵππον ἐλαύνων.
+
+### book 371.2
+
+*) [ἡ διπλῆ ὅτι] οἶδε μὲν ὁ ποιητὴς τὸν κέλητα, οὐκ εἰσ‐
+
+### book 371.3
+
+άγει δὲ τοὺς ἥρωας αὐτῷ χρωμένους, εἰ μὴ ἐξ ἀνάγκης ἐν
+
+### book 371.4
+
+τῇ Δολωνείᾳ τὸν Διομήδην PQT.
+
+### book 371.5
+
+cf. Ο 679. Eust. 1539, 31.
+
+### book 391.1
+
+καὶ τότ’ ἔπειτ’ ἄνεμος μὲν ἐπαύσατο· ἡ δὲ
+
+### book 391.2
+
+γαλήνη.
+
+### book 391.3
+
+†) Ἀρίσταρχος ἡ δὲ, ἄρθρον δεχόμενος τὸ η· οἱ δὲ ἀντὶ
+
+### book 391.4
+
+τοῦ καὶ H.
+
+### book 391.5.1
+
+Scholion Didymi est, sed certe Ar. posuit diplam ὅτι ἐξ
+
+### book 391.5.2
+
+ἐπαναλήψεως τὰ ἄρθρα λαμβάνει. cf. ad Ο 127 et Herod. ibid.
+
+### book 400.1
+
+ἀλλ’ ὅτε τόσσον ἀπῆν, ὅσσον τε γέγωνε βοήσας.
+
+### book 400.2
+
+†) τὸ (δὲ) ἐγεγώνει ἀντὶ τοῦ εἰς ἀκοὰς ἐγένετο βοήσας
+
+### book 400.3
+
+τις B. ὥστε ἐξακουστὸν γενέσθαι βοήσαντά τινα EV.
+
+### book 400.4
+
+Fluxisse videtur ex Ar., qui ad Θ 223 diplam posuit πρὸς
+
+### book 400.5
+
+τὸ γεγωνέμεν, ὅτι οὐ ψιλῶς ἐστι φωνεῖν, ἀλλ’ ἀκουστὸν φθέγ‐
+
+### book 400
+
+γεσθαι cf. ρ 161. L. Ar. 100.
+
+### book 417.1
+
+εἰ δέ κ’ ἔτι προτέρω παρανήξομαι.
+
+### book 417.2
+
+*) [ἡ διπλῆ ὅτι τὸ προτέρω] ἀντὶ τοῦ εἴ που ἔμπροσθεν·
+
+### book 417.3
+
+καὶ περισσὸς ὁ κέ. PT.
+
+### book 417.4
+
+cf. Κ 469. δ 36. F. Ar. p. 8.
+
+### book 422.1
+
+κλυτὸς Ἀμφιτρίτη.
+
+### book 422.2
+
+*) ἡ διπλῆ πρὸς τὸ σχῆμα, ὡς τὸ „κλυτὸς Ἱπποδάμεια“
+
+### book 422.3
+
+ἀντὶ τοῦ κλυτή. καὶ ὅτι ἐν θαλάττῃ ὢν λέγει ἐξ ἁλός. HPQE.
+
+### book 422.4
+
+cf. δ 442.
+
+### book 429.1
+
+παλιρρόθιον.
+
+### book 429.2
+
+†) παλινόρμητον, εἰς τοὐπίσω φερόμενον V. cf. L. Ar.
+
+### book 429.3
+
+91. cf. ε 27. ν 5.
+
+### book 453.1
+
+τὸν δ’ ἐσάωσεν ‖ ἐς ποταμοῦ προχοάς.
+
+### book 453.2
+
+*) ἀντὶ ἀντωνυμίας τὸ ὄνομα· οὐ γὰρ εἶπεν εἰς τὰς ἑαυ‐
+
+### book 453.3
+
+τοῦ προχοάς· ἡ διπλῆ οὖν παράκειται πρὸς τὸ τῆς ἑρμηνείας
+
+### book 453.4
+
+ἴδιον. BEPQ. cf. BL ad Ξ 454.
+
+### book 459.1
+
+κρήδεμνον ἀπὸ ἕο λῦσε θεοῖο.
+
+### book 459.2
+
+Fuit diple periestigmene, quod Zenodotus legit ἀπὸ ἑοῦ cf.
+
+### book 459.3
+
+HP ubi sic corrigendum est. cf. ad Β 239. Τ 384. Υ 261 η 217.
+
+### book 467.1
+
+μή μ’ ἄμυδις στίβη τε κακὴ καὶ θῆλυς ἐέρση.
+
+### book 467.2
+
+*) [ἡ διπλῆ ὅτι] οὐκ εἶπε θήλεια, ἀλλὰ θῆλυς ἀρσενικῶς,
+
+### book 467.3
+
+ὡς ποιητικώτερον BQ. cf. ad ν 422.
+
+### book 477.1
+
+ἐξ ὁμόθεν πεφυῶτας ὁ μὲν φυλίης, ὁ δ’ ἐλαίης.
+
+### book 477.2
+
+*) [ἡ διπλῆ ὅτι] πλεονάζει ἡ ἐξ πρόθεσις. P. cf. F. Ar.
+
+### book 477.3
+
+27. Θ 19.
+
+### book 477.4
+
+†) τὸ σχῆμα ἀντίπτωσις, ἵν’ ᾖ, τὸν μὲν φυλίης, τὸν δ’
+
+### book 477.5.1
+
+ἐλαίης. ἢ στικτέον μετὰ τὸ πεφυῶτας, ἵνα ἐν τοῖς ἑξῆς λείπῃ
+
+### book 477.5.2
+
+τὸ ἦν ῥῆμα, ὁ μὲν φυλίης ἦν, ὁ δὲ ἐλαίης PQ.
+
+### book 477.5.3
+
+Fluxisse potest ex Aristonico aut ex Nicanore, ad quem
+
+### book 477.5.4
+
+alteram scholii partem malim referre. cf. Eust. 1547 et scholia
+
+### book 477
+
+ad Ε 245.
+
+### book 1.1
+
+ὣς ὁ μὲν ἔνθα καθεῦδε.
+
+### book 1.2
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος [γράφει] ἐκά‐
+
+### book 1.3
+
+θευδε HP (cod. καθεῦδε, sed corrigendum est). cf. ad γ 402.
+
+### book 1.4
+
+Α 68. 611. Ο 716. Duentzer 60.
+
+### book 8.1
+
+εἷσεν δὲ Σχερίῃ.
+
+### book 8.2
+
+*) ὅτι Σχερία ὠνομάσθη ἡ τῶν Φαιάκων γῆ καὶ οὐ Κέρ‐
+
+### book 8.3
+
+κυρα, καὶ ὅτι ἔξω τῆς καθ’ ἡμᾶς οἰκουμένης. EPQ. cf. L. Ar.
+
+### book 8.4
+
+244. ζ 204.
+
+### book 26.1
+
+εἵματα μέν τοι κεῖται ἀκηδέα σιγαλόεντα.
+
+### book 26.2
+
+†) τὰ φύσει λαμπρὰ (suppl. οὐ τὰ τότε λαμπρά). E. cf.
+
+### book 26.3
+
+L. Ar. 199. Apoll. l. h. 161, 20. ζ 58. 74.
+
+### book 26.4
+
+Adnotare solebat Ar. haec epitheta apud Homerum nomi‐
+
+### book 26.5.1
+
+nibus quasi propria et ita firmiter adhaerentia, ut ne tum qui‐
+
+### book 26.5.2
+
+dem divelli possint, si significatio eorum ab aliquo loco vel
+
+### book 26.5.3
+
+tempore aliena sit. cf. Fr. ad Γ 352 et exempla ibid.
+
+### book 33.1
+
+ὄφρα τάχιστα ‖ ἐντύνεαι.
+
+### book 33.2
+
+†) ἀντὶ ὑποτακτικοῦ τοῦ ἐντύνηαι, ὡς καὶ ἐπὶ τοῦ „ἐπεὶ
+
+### book 33.3
+
+ἄρ’ κεν ἀμείψεται ἕρκος ὀδόντων“ (Ι 409) καὶ „ὄφρα καὶ ἄλ‐
+
+### book 33.4
+
+λος πτωχὸς ἀλεύεται ἠπεροπεύειν“ (ξ 400) P.
+
+### book 33.5.1
+
+Verba non sunt Ar., nam nunquam his modorum nomini‐
+
+### book 33.5.2
+
+bus: ὁριστικὴ, ὑποτακτικὴ, εὐκτική usus est, cf. F. Ar. p. 7,
+
+### book 33.5.3
+
+sed observationem Ar. esse puto. v. ζ 259.
+
+### book 37.1
+
+ἐφοπλίσαι, ἥ κεν ἄγῃσιν.
+
+### book 37.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἄγῃσιν] ἀντὶ τοῦ ἄγοι P.
+
+### book 37.3
+
+cf. F. Ar. 9. α 396. δ 692. ρ 385.
+
+### book 38.1
+
+ζῶστρά τε καὶ πέπλους.
+
+### book 38.2
+
+Notatum fuit vocabulum ζῶστρα ἅπαξ εἰρημένον. cf. schol.
+
+### book 38.3
+
+PQT.
+
+### book 42.1
+
+Οὐλυμπὸν δ’, ὅθι φασὶ θεῶν ἕδος ἀσφαλὲς αἰεὶ.
+
+### book 42.2
+
+*) [ἡ διπλῆ ὅτι] εἰ μὲν πρὸς τὸν οὐρανὸν τὸ ὅθι φασὶ,
+
+### book 42.3
+
+νῦν (cod. Vind. 133 habet: νοεῖν, quod Karajan l. c. p. 299
+
+### book 42.4
+
+praefert) οὐκ ἔχει καλῶς. οὐδὲ γὰρ ἐπὶ τούτου διστάζει [διστά‐
+
+### book 42.5.1
+
+σειεν ἄν L.] ὁ ποιητὴς λέγων, ὅθι φασίν· εἰ δὲ πρὸς τὸ κα‐
+
+### book 42.5.2
+
+λούμενον οὕτως ὄρος, καλόν. EQ. cf. L. Ar. 166.
+
+### book 44.1
+
+οὔτε χιὼν ἐπιπίλναται.
+
+### book 44.2
+
+†) ἀχιόνιστον μὲν αὐτὸν ἀπὸ τῶν ἀνωτέρω μερῶν λέγει,
+
+### book 44.3
+
+ἀγάννιφον δὲ ἀπὸ τῶν κατωτέρω, τὸν μετὰ τὰ νέφη τόπον.
+
+### book 44.4
+
+BHPQT.
+
+### book 44.5.1
+
+Sic explicuisse Aristarchum Lehrsio non dubium est. cf.
+
+### book 44.5.2
+
+Ar. p. 165. ADL ad Α 420.
+
+### book 45.1
+
+πέπταται ἀνέφελος.
+
+### book 45.2
+
+†) νεφελῶν χωρίς· ἡ γὰρ κορυφὴ ἡ τοῦ Ὀλύμπου ἐπου‐
+
+### book 45.3
+
+ράνιος καλεῖται. ὁ δὲ οὐρανὸς ὑφ’ Ὁμήρου ἀπὸ τῶν νεφελῶν
+
+### book 45.4
+
+ἑὼς τοῦ κατηστερισμένου τόπου συνωνύμως αὐτῷ τῷ κατη‐
+
+### book 45.5.1
+
+στερισμένῳ καλεῖται. EPQV.
+
+### book 45.5.2
+
+cf. L. Ar. 166. Α 497.
+
+### book 50.1
+
+βῆ δ’ ἴμεναι διὰ δώμαθ’.
+
+### book 50.2
+
+*) [ἡ διπλῆ ὅτι τὸ διὰ δώματα] ἀντὶ τοῦ διὰ δωμάτων. H.
+
+### book 50.3
+
+cf. F. Ar. 21. Editiones habent κατὰ δώμαθ’, quod est in
+
+### book 50.4
+
+domo. ABDFHIKLM διὰ, ex ras. NPS, κατὰ CGQRV.
+
+### book 52.1
+
+ἡ μὲν ἐπ’ ἐσχάρῃ.
+
+### book 52.2
+
+*) [ἡ διπλῆ ὅτι ἀντὶ τῆς παρὰ, ἵν’ ᾖ] παρὰ τῇ ἐσχάρᾳ V.
+
+### book 52.3
+
+cf. Ζ 92. ζ 305. η 153.
+
+### book 54,n1.1
+
+ἐρχομένῳ ξύμβλητο μετὰ κλειτοὺς βασιλῆας.
+
+### book 54,n1.2
+
+Notata fuisse videtur praepositio μετὰ pro πρὸς cf. schol. QT:
+
+### book 54,n1.3
+
+ἐρχομένῳ πρὸς τοὺς κλειτοὺς βασιλῆας. E habet: τὸ μετὰ ἀντὶ τοῦ
+
+### book 54,n1.4
+
+εἰς, quod, si ex Ar. fluxit, corrigendum est in πρός v. L. qu. ep. p. 88.
+
+### book 54,n1.5.1
+
+Et adiunxit fortasse ὅτι βασιλεῖς καὶ τοὺς κατὰ μέρος ἄρχοντας λέγει.
+
+### book 54,n1.5.2
+
+cf. θ 49. 390.
+
+### book 57.1
+
+πάππα φίλ’.
+
+### book 57.2
+
+†) πάτερ. ψελλιζομένη ἐστί τις φωνή, προσφώνησις φιλο‐
+
+### book 57.3
+
+φρονητικὴ νεωτέρου πρὸς πρεσβύτερον. EP. cf. Δ 411. Ι 607.
+
+### book 57.4
+
+L. Ar. 152.
+
+### book 58.1
+
+ἵνα κλυτὰ εἵματ’ ἄγωμαι.
+
+### book 58.2
+
+†) οὐ τὰ τότε, ἀλλὰ τὰ φύσει. ὡς ἐπὶ τοῦ „φαεινὴν ἀμφὶ
+
+### book 58.3
+
+σελήνην“ (Θ 551) οὐ τὴν τότε, ἀλλὰ τὴν φύσει. καὶ ἐπὶ τοῦ
+
+### book 58.4
+
+„πλήθει δή μοι νεκύων ἐρατεινὰ ῥεέθρα“ (Φ 218). E.
+
+### book 58.5
+
+cf. ζ 26. 74. Fuit Ar. διπλῆ ὅτι ἄκαιρον τὸ ἐπίθετον.
+
+### book 60,n2.1
+
+καὶ δέ σοι αὐτῷ ἔοικε .. ἐόντα
+
+### book 60,n2.2
+
+... εἵματ’ ἔχοντα
+
+### book 60,n2.3
+
+σοὶ ἐόντα, ἀντίπτωσις h. Fluxit fortasse ex Ar. cf. Eust. 1551, 60.
+
+### book 74.1
+
+ἐσθῆτα φαεινήν.
+
+### book 74.2
+
+†) οὐ τὴν τότε οὖσαν φαεινήν· ῥερύπωται γάρ· ἀλλὰ τὴν
+
+### book 74.3
+
+φύσει καθαράν. EHPV. cf. ζ 58. 26. Φ 218.
+
+### book 76.1
+
+μήτηρ δ’ ἐν κίστῃ.
+
+### book 76.2
+
+†) ἅπαξ ἐνταῦθα ἡ κίστη. PQV. Apoll. l. h. 99, 24.
+
+### book 83.1
+
+αἱ δ’ ἄμοτον τανύοντο.
+
+### book 83.2
+
+*) [ἡ διπλῆ ὅτι] ἐκ τοῦ παρακολουθοῦντος [τὸ] ἔτρεχον,
+
+### book 83.3
+
+ὡς ἐκεῖ „οἱ δὲ πανημέριοι σεῖον ζυγόν“ (γ 486) BP.
+
+### book 83.4
+
+cf. γ 486 et locos ibi collatos.
+
+### book 86.1
+
+ἔνθ’ ἤτοι πλυνοὶ ἦσαν ἐπηετανοί, πολὺ δ’ ὕδωρ
+
+### book 86.2
+
+καλὸν ὑπεκπρορέει.
+
+### book 86.3
+
+*) σημειωτέον τὴν ἐναλλαγὴν τῶν χρόνων, οὗ μὲν ἦσαν,
+
+### book 86.4
+
+οὗ δὲ ῥέει. πρὸς ὃ ἡ διπλῆ. P.
+
+### book 98
+
+εἵματα δ’ ἠελίοιο μένον τερσήμεναι αὐγῇ.
+
+### book 98.1
+
+*) ὅτι καὶ [ἐν Ἰλιάδι?] τὰ τοιαῦτα τηρεῖ, τὸ μὲν γὰρ ἐν
+
+### book 98.2
+
+ἡλίῳ ξηρᾶναι τερσῆναι λέγει, τὸ δὲ ἐν ἀνέμῳ ψῦξαι „τοὶ δ’
+
+### book 98.3
+
+ἱδρῶ ἀπεψύχοντο χιτώνων“ (Λ 621) P.
+
+### book 98.5
+
+cf. ad Λ 621. L. Ar. 127.
+
+### book 101.1
+
+τῇσι δὲ Ναυσικάα λευκώλενος ἤρχετο μολπῆς.
+
+### book 101.2
+
+*) [ἡ διπλῆ ὅτι] μεταβαλὼν (vel potius μεταλαβὼν L.) τὸ
+
+### book 101.3
+
+„σφαίρῃ ταὶ δ’ ἄρ’ ἔπαιζον“ (100) εἶπε „τῇσι δὲ Ναυσικάα
+
+### book 101.4
+
+λευκώλενος ἤρχετο μολπῆσ“, πᾶσαν παιδίαν μολπὴν λέγων.
+
+### book 101.5.1
+
+οἱ δὲ νεώτεροι τὴν ᾠδήν. ὅτι δὲ οὐκ ᾖδεν ἡ Ναυσικάα, ἀλλ’
+
+### book 101.5.2
+
+ἐσφαίριζε, δηλοῖ τὸ „σφαῖραν ἔπειτ’ ἔῤῥιψε μετ’ ἀμφίπολον
+
+### book 101.5.3
+
+βασίλεια“ (115). BEHPQ.
+
+### book 101.5.4
+
+cf. L. Ar. 138. F. Ar. Α 474. α 152. δ 19.
+
+### book 108.1
+
+ῥεῖα τ’ ἀριγνώτη πέλεται.
+
+### book 108.2
+
+Ex Ar. ad Π 123 apparet, hic notatam fuisse formam femi‐
+
+### book 108.3
+
+ninam ἀριγνώτη pro ἀρίγνωτος, quod in recentiore sermone hoc
+
+### book 108.4
+
+adiectivum generis communis esse solet, ut ἀσβέστη pro ἄσβε‐
+
+### book 108.5
+
+στος. cf. F. Ar. 31.
+
+### book 122.1
+
+θῆλυς ἀυτή.
+
+### book 122.2
+
+†) οὐκ εἶπε θήλεια P. Vind. 133. cf. Karajan l. c. 296. p.
+
+### book 122.3
+
+F. Ar. 31, β 214 et exempla ibidem.
+
+### book 137.1
+
+σμερδαλέος δ’ αὐτῇσι φάνη.
+
+### book 137.2
+
+Fuit diple periestigmene, quod Zenodotus legit ἀργαλέος,
+
+### book 137.3
+
+κακῶς cf. HP., alii λευγαλέος κακῶς.
+
+### book 144.1
+
+λίσσοιτ’, εἰ δείξειε πόλιν καὶ εἵματα δοίη.
+
+### book 144.2
+
+†) περιττὸς ὁ στίχος· οὐ γὰρ περὶ τῆς διανοίας αὐτῆς
+
+### book 144.3
+
+διστάζει, ἀλλὰ πῶς παρακαλέσει, πλησίον σταίη ἢ ἀφεστηκὼς
+
+### book 144.4
+
+αὐτῆς. καὶ Ἀθηνοκλῆς δὲ ὑπώπτευσε τὸν στίχον HP.
+
+### book 144.5.1
+
+Athenocles ἐν τῷ περὶ Ὁμήρου a Didymo ad Ζ 71 citatur
+
+### book 144.5.2
+
+cf. A. Γ 368. Eust. 1555, 58.
+
+### book 163.1
+
+νέον ἀνερχόμενον.
+
+### book 163.2
+
+*) [ἡ διπλῆ ὅτι τὸ νέον ἀνερχόμενον ἀντὶ τοῦ] νεωστὶ
+
+### book 163.3
+
+ἀνερχόμενον [ὡς τὸ „νέον ἡβώωντα“ Ι 446) BPQ. cf. α 209 et
+
+### book 163.4
+
+exempla ibidem.
+
+### book 165.1
+
+ᾗ δὴ ἔμελλεν ἐμοὶ κακὰ κήδε’ ἔσεσθαι.
+
+### book 165.2
+
+*) ὅτι οὐκ οἶδεν ὁ ποιητὴς τὸ μέλλεν. Ἀττικῶν γάρ ἐστι
+
+### book 165.3
+
+τῶν μεταγενεστέρων. P. cf. L. Ar. 121. α 232 et locos ibi
+
+### book 165.4
+
+collatos.
+
+### book 167.1
+
+ἐκ δόρυ γαίης.
+
+### book 167.2
+
+†) σημείωσαι ὅτι καὶ τὸ δένδρον δόρυ καλεῖ E. cf. Apoll.
+
+### book 167.3
+
+l. h. 60, 7.
+
+### book 168.1
+
+ὡς σέ, γύναι, ἄγαμαί τε τέθηπά τε.
+
+### book 168.2
+
+†) σημειοῦνταί τινες, ὅτι τὸ μὲν ἄγαμαι ἀντὶ τοῦ θαυμάζω,
+
+### book 168.3
+
+τὸ δὲ τέθηπα ἀντὶ τοῦ ἐκπέπληγμαι PQV.
+
+### book 168.4
+
+cf. L. Ar. 147. Apoll. 150, 28. β 67. θ 565. ψ 64. 211.
+
+### book 174.1
+
+τελέουσιν πάροιθεν.
+
+### book 174.2
+
+*) [ἡ διπλῆ ὅτι τὸ τελέουσι ἀντὶ τοῦ] τελέσουσιν BPT.
+
+### book 174.3
+
+cf. F. Ar. 6. γ 82 et exempla ibid.
+
+### book 176.1
+
+σὲ ... ἐς πρώτην ἱκόμην.
+
+### book 176.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἱκόμην ἀντὶ τοῦ] ἱκέτευσα V.
+
+### book 176.3
+
+cf. Χ 123. Apoll. l. h. 90, 33. γ 92.
+
+### book 201.1
+
+οὐκ ἔσθ’ οὗτος ἀνὴρ διερὸς βροτός.
+
+### book 201.2
+
+†) ὁ ζῶν H. Sic Aristarchum interpretatum esse apparet
+
+### book 201.3
+
+ex scholio Didymi ad h. v. cf. L. Ar. 47. ι 43, ubi accuratius
+
+### book 201.4
+
+hac de re agam.
+
+### book 204.1
+
+οἰκέομεν δ’ ἀπάνευθε πολυκλύστῳ ἐνὶ πόντῳ.
+
+### book 204.2
+
+*) ὅτι σαφῶς ἐνταῦθα ἐκτετοπισμένην που καὶ ἐσχάτην
+
+### book 204.3
+
+τὴν τῶν Φαιάκων χώραν ὑφίσταται, οὐ τὴν Κέρκυραν T. cf.
+
+### book 204.4
+
+L. Ar. 248, ζ 8.
+
+### book 218.1
+
+στῆθ’ οὕτω ἀπόπροθεν.
+
+### book 218.2
+
+†) δεικτικῶς, οὕτως ὡς ἔχετε· ὡς κἀν τῷ Ἥφαιστε, πρό‐
+
+### book 218.3
+
+μολ’ ὧδε (Σ 392) PMT.
+
+### book 218.4
+
+cf. ad Σ 392, ubi citatur noster versus in interpretatione
+
+### book 218.5
+
+illius πρόμολ’ ὧδε.
+
+### book 221.1
+
+ἄντην δ’ οὐκ ἂν ἔγωγε λοέσσομαι.
+
+### book 221.2
+
+†) ἢ περιττεύει τὸ ἄν, ἢ τὸ λοέσσομαι ἀντὶ τοῦ λοεσσαί‐
+
+### book 221.1
+
+μην τέτακται P. cf. F. Ar. 8.
+
+### book 221.2
+
+De virginum officio heroes lavandi certe fuit adnotatio Ari‐
+
+### book 221.5.1
+
+starchi, quod hic locus observationi eius repugnare videtur. cf.
+
+### book 221.5.2
+
+schol. in QT. ταῦτα μάχονται τῷ ὑπὸ παρθένων ποιεῖν λου‐
+
+### book 221.5.3
+
+όμενον. λύοιτο δ’ ἂν τῇ λέξει, προσέθηκε γὰρ „μετελθών“
+
+### book 221.5.4
+
+οἷον ξένος ὤν. τάχα δ’ οὐδ’ ὅλως παρθένοι λούουσι. λέγεται
+
+### book 221.5.5
+
+γὰρ „τὸν δ’ ἐπεὶ οὖν δμῶαι λοῦσαν“, ἀλλ’ οὐχὶ κοῦραι· καὶ
+
+### book 221.10.1
+
+περὶ τῆς Ἥβης γὰρ ἀμφισβητεῖται εἰ παρθένος ἦν· καὶ ἡ
+
+### book 221.10.2
+
+Ἑλένη λούοιτ’ ἂν Ὀδυσσέα.
+
+### book 222.1
+
+κούρῃσιν ἐυπλοκάμοισι μετελθών.
+
+### book 222.2
+
+†) ἀντὶ τοῦ ἐπελθών V. L. qu. ep. p. 88. θ 47.
+
+### book 224.1
+
+χρόα νίζετο ἅλμην.
+
+### book 224.2
+
+*) [ἡ διπλῆ] πρὸς τὴν φράσιν τὸν χρόα τὴν ἅλμην ἀπε‐
+
+### book 224.3
+
+νίζετο. Q.
+
+### book 224.4
+
+cf. F. Ar. 20. Eust. 1560, 49.
+
+### book 244-5.1
+
+αἲ γὰρ ἐμοὶ τοιόσδε πόσις κεκλημένος εἴη
+
+### book 244-5.2
+
+ἐνθάδε ναιετάων, καί οἱ ἅδοι αὐτόθι μίμνειν.
+
+### book 244-5.3
+
+†) ἄμφω μὲν ἀθετεῖ Ἀρίσταρχος, διστάζει δὲ περὶ τοῦ
+
+### book 244-5.4
+
+πρώτου, ἐπεὶ καὶ Ἀλκμὰν αὐτὸν μετέλαβε (corr. L. „transtulit
+
+### book 244-5.5.1
+
+ad sua“ pro cod. μετέβαλε) παρθένους λεγούσας εἰσάγων „Ζεῦ
+
+### book 244-5.5.2
+
+πάτερ, αἲ γὰρ ἐμὸς πόσις εἴη“. HQ.
+
+### book 244-5.5.3
+
+cf. L. Ar. 340. η 311. Versus 245 asterisco notatus est in
+
+### book 244-5.5.4
+
+D. cf. La Roche p. 134.
+
+### book 256.1
+
+πατρὸς ἐμοῦ πρὸς δῶμα.
+
+### book 256.2
+
+*) ὅτι ἐν πᾶσι φέρεται ἐμοῦ, ἀλλ’ οὐκ ἐμεῦ. ὅμως ἐπί
+
+### book 256.3
+
+τινων (M. Schmidt fortasse ἐπιτιμῶν!) ὁ Ζηνόδοτος ἐπὶ τὸ
+
+### book 256.4
+
+χεῖρον μετατίθησι. HQE. cf. Ξ 118, Ω 486, α 413.
+
+### book 258.1
+
+ἀλλὰ μάλ’ ὧδ’ ἔρδειν, δοκέεις δέ μοι οὐκ ἀπι‐
+
+### book 258.2
+
+νύσσειν.
+
+### book 258.3
+
+*) ὅτι ἀντὶ τοῦ προστακτικοῦ τοῦ ἔρδε· τὸ δὲ οὐκ ἀπι‐
+
+### book 258.4
+
+νύσσειν οὐκ ἀπίνυτος εἶναι, ὡς καὶ ἐν Ἰλιάδι (Ο 10) „κῆρ
+
+### book 258.5.1
+
+ἀπινύσσων“ τὸ κῆρ ἀπίνυτος ὤν. QT.
+
+### book 258.5.2
+
+cf. F. Ar. 14. α 291. Ο 10.
+
+### book 259.1
+
+ὄφρ’ ἂν μέν κ’ ἀγροὺς ἴομεν.
+
+### book 259.2
+
+*) [ἡ διπλῆ ὅτι] τὸ ἴομεν ἀντὶ τοῦ ἴωμεν· [συνέσταλται
+
+### book 259.3
+
+γάρ.] H. cf. F. Ar. 13. ζ 33.
+
+### book 261.1
+
+καρπαλίμως ἔρχεσθαι.
+
+### book 261.2
+
+*) [ἡ διπλῆ ὅτι] ἀπαρέμφατον ἀντὶ τοῦ προστακτικοῦ τέ‐
+
+### book 261.3
+
+θεικεν. H. cf. ζ 258.
+
+### book 275-88.1
+
+καί νύ τις ὧδ’ εἴπῃσι κακώτερος ἀντι‐
+
+### book 275-88.2
+
+βολήσας·
+
+### book 275-88.3
+
+τίς δ’ ὅδε Ναυσικάᾳ ἕπεται καλός τε μέγας τε
+
+### book 275-88.4
+
+ξεῖνος; ποῦ δέ μιν εὗρε; πόσις νύ οἱ ἔσσεται αὐτῇ.
+
+### book 275-88.5.1
+
+ἦ τινά που πλαγχθέντα κομίσσατο ἧς ἀπὸ νηὸς
+
+### book 275-88.5.2
+
+ἀνδρῶν τηλεδαπῶν, ἐπεὶ οὔ τινες ἐγγύθεν εἰσίν.
+
+### book 275-88.5.3
+
+ἤ τίς οἱ εὐξαμένη πολυάρητος θεὸς ἦλθεν
+
+### book 275-88.5.4
+
+οὐρανόθεν καταβάς, ἕξει δέ μιν ἤματα πάντα.
+
+### book 275-88.5.5
+
+βέλτερον, εἰ καὐτή περ ἐποιχομένη πόσιν εὗρεν
+
+### book 275-88.10.1
+
+ἄλλοθεν· ἦ γὰρ τούσδε γ’ ἀτιμάζει κατὰ δῆμον
+
+### book 275-88.10.2
+
+Φαίηκας, τοί μιν μνῶνται πολέες τε καὶ ἐσθλοί.
+
+### book 275-88.10.3
+
+ὣς ἐρέουσιν, ἐμοὶ δέ κ’ ὀνείδεα ταῦτα γένοιτο.
+
+### book 275-88.10.4
+
+καὶ δ’ ἄλλῃ νεμεσῶ, ἥ τις τοιαῦτά γε ῥέζοι,
+
+### book 275-88.10.5
+
+ἥ τ’ ἀέκητι φίλων πατρὸς καὶ μητρὸς ἐόντων
+
+### book 275-88.15.1
+
+ἀνδράσι μίσγηται πρίν γ’ ἀμφάδιον γάμον ἐλθεῖν.
+
+### book 275-88.15.2
+
+*) ἀθετοῦνται στίχοι ιδʹ ἕως „ἀνδράσι μίσγηται“ ὡς ἀνοί‐
+
+### book 275-88.15.3
+
+κειοι τῷ ὑποκειμένῳ προσώπῳ. —εἴρηται οὖν τοῦτο διὰ τῶν
+
+### book 275-88.15.4
+
+πρὸ αὐτῶν βʹ στίχων, τῶν „ἀλεείνω φῆμιν ἀδευκέα“. HQ.
+
+### book 290.1
+
+πατρὸς ἐμοῖο.
+
+### book 290.2
+
+Fuit diple periestigmene propter Zenodoti lectionem ἐμεῖο
+
+### book 290.3
+
+cf. schol. HQ. ζ 256.
+
+### book 293.1
+
+τέμενος τεθαλυῖα τ’ ἀλωή.
+
+### book 293.2
+
+*) [ἡ διπλῆ ὅτι] τέμενος λέγεται ἡ ἀποτετμημένη γῆ EV.
+
+### book 293.3
+
+cf. Σ 550. Ζ 194. L. Ar. 150.
+
+### book 293.4
+
+*) [ἡ διπλῆ ὅτι] ἀλωὴ λέγεται [ἡ] δενδροφόρος γῆ. QV.
+
+### book 293.5
+
+cf. Φ 36. η 122.
+
+### book 298.1
+
+ἴμεν ἐς πόλιν, ἠδ’ ἐρέεσθαι.
+
+### book 298.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἴμεν] ἀντὶ τοῦ ἴθι [καὶ τὸ] ἐρέεσθαι
+
+### book 298
+
+ἀντὶ τοῦ ἐρώτησον HV. cf. F. Ar. 14. α 291.
+
+### book 302.1
+
+δώματα Φαιήκων ..
+
+### book 302.2
+
+... ἀλλ’ ὁπότ’ ἄν σε δόμοι κεκύθωσι καὶ αὐλή·
+
+### book 302.3
+
+†) κεκύθωσιν ὅμοιον τῷ λελάχωσιν. προειπὼν δὲ δώματα
+
+### book 302.4
+
+ἐπήνεγκε δόμος, πρὸς ὃ ἡ διπλῆ. Q. cf. F. Ar. p. 11 not.
+
+### book 305.1
+
+ἡ δ’ ἧσται ἐπ’ ἐσχάρῃ.
+
+### book 305.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἐπ’ ἐσχάρῃ] ἀντὶ τοῦ παρὰ (sic scri‐
+
+### book 305.3
+
+bendum) ἐσχάρῃ. H. cf. Ζ 15. ζ 52. L. qu. ep. p. 87.
+
+### book 318
+
+εὖ δὲ πλίσσοντο πόδεσσιν.
+
+### book 318
+
+Notatum fuit vocabulum πλίσσοντο ἅπαξ λεγόμενον. v. HPQ.
+
+### book 8.1
+
+γρηῢς Ἀπειραίη.
+
+### book 8.2
+
+*) ὅτι συνέστειλεν Ἰακῶς καὶ ἑξῆς „τήν ποτ’ Ἀπείρηθεν“
+
+### book 13.1
+
+ἥ οἱ πῦρ ἀνέκαιε καὶ εἴσω δόρπον ἐκόσμει.
+
+### book 13.2
+
+Fuit diple periestigmene quod Zenodotus hunc versum ex‐
+
+### book 13.3
+
+punxit v. HP: ἀθετεῖ Ζηνόδοτος· ἤδη γὰρ εἶπε „δαῖε δέ οἱ
+
+### book 13.4
+
+πῦρ“ (7).
+
+### book 13.5.1
+
+*) [ἡ διπλῆ] διὰ τὴν διαφορὰν τοῦ εἴσω πρὸς τὸ ἔνδον.
+
+### book 13.5.2
+
+HP. cf. L. Ar. 134.
+
+### book 13.5.3
+
+*) [ἡ διπλῆ ὅτι δόρπον λέγει τὴν] ἑσπερίνην τροφήν. δεῖ
+
+### book 13.5.4
+
+γὰρ νοεῖν, ὅτι ἑσπέρας εἰσῆλθεν ἡ Ναυσικάα HPT. cf. L.
+
+### book 13.5.5
+
+Ar. 127. α 124. β 20. δ 61. π 2.
+
+### book 15.1
+
+πολλὴν ἠέρα χεῦε φίλα φρονέους’ Ὀδυσῆι.
+
+### book 15.2
+
+*) ὅτι τῷ Ὀδυσσεῖ περιέθηκε σκότος, οὐ τοῖς Φαίαξιν,
+
+### book 15.3
+
+ὡς ἐν τοῖς ἑξῆς Ζηνόδοτος PQT. v. ad v. 41 et 140. For‐
+
+### book 15.4
+
+tasse adnotavit etiam: ὅτι ἀέρα τὴν σκοτίαν καλεῖ. cf. schol.
+
+### book 15.5
+
+in Ε 14, Ρ 644. 649. L. Ar. 102.
+
+### book 24.1
+
+καὶ γὰρ ἐγὼ ξεῖνος ταλαπείριος.
+
+### book 24.2
+
+†) Ἀρίσταρχος μὲν ἀντὶ τοῦ ταλαίπωρος, τινὲς δὲ ἀντὶ τοῦ
+
+### book 24.3
+
+ξένος καὶ πόρρωθεν πεπερακὼς, ἢ μακρόθεν ἀφιγμένος PV.
+
+### book 24.4
+
+cf. Apoll. l. h. 149, 1.
+
+### book 25.1
+
+τηλόθεν ἐξ ἀπίης γαίης.
+
+### book 25.2
+
+*) ὅτι [ἀπίαν λέγει] τὴν πολὺ ἀφεστῶσαν γῆν, οὐ τὴν Πε‐
+
+### book 25.3
+
+λοπόννησον, ὡς (οἴονται) οἱ νεώτεροι. EMPT. L. Ar. 227.
+
+### book 33.1
+
+οὐδ’ ἀγαπαζόμενοι φιλέουσι.
+
+### book 33.2
+
+*) [ἡ διπλῆ ὅτι] τὸ παθητικὸν ἀντὶ τοῦ ἐνεργητικοῦ. τὸ
+
+### book 33.3
+
+δὲ φιλέουσι μετὰ στοργῆς ξενίζουσι. BPT. cf. F. Ar. 2. δ 47.
+
+### book 33.4
+
+322. κ 238. L. Ar. 147. δ 29.
+
+### book 36.1
+
+τῶν νέες ὠκεῖαι ὡς εἰ πτερὸν ἠὲ νόημα.
+
+### book 36.2
+
+*) [ἡ διπλῆ ὅτι] ἐντεῦθεν τὸ παροιμιῶδες „διέπτατο δ’
+
+### book 36.3
+
+ὥστε νόημα“ BET [ἔκ τε τούτων καὶ τῶν κατὰ τὴν Ἰλίαδα „ὡς
+
+### book 36.4
+
+δ’ ὅτ’ ἂν ἀίξῃ νόος ἀνέροσ“ (Ο 80) συγκεῖται, οὐκ ὂν παρ’
+
+### book 36.5
+
+οὐδενὶ ποιητῇ]. cf. Ar. ad Ο 80.
+
+### book 40.1
+
+ἐρχόμενον κατὰ ἄστυ διὰ σφέας.
+
+### book 40.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ δι’ αὐτῶν PV. cf. F. Ar. 21.
+
+### book 41.1
+
+ἥ ῥά οἱ ἀχλὺν κατέχευε.
+
+### book 41.2
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος ἥ σφισιν ἀχλὺν
+
+### book 41.3
+
+γράφει, οὐκ εὖ. ἐν γὰρ τοῖς ἑξῆς (143) φησιν „καὶ τότε δή
+
+### book 41.4
+
+ῥ’ αὐτοῖο πάλιν χύτο θέσφατος ἀήρ“. HP. cf. v. 15.
+
+### book 47.1
+
+τοῖσι δὲ μύθων ἦρχε.
+
+### book 47.2
+
+*) ὅτι δύο ὄντων „τοῖσι“ εἶπε· καὶ περισσὸς ὁ δέ P. cf.
+
+### book 47.3
+
+ε 202. Ρ 628. Φ 287.
+
+### book 49.1
+
+δήεις δὲ διοτρεφέας βασιλῆας.
+
+### book 49.2
+
+*) [ἡ διπλῆ ὅτι] βασιλεῖς [καὶ] τοὺς κατὰ μέρος ἄρχοντάς
+
+### book 49.3
+
+φησιν. BPQT. cf. L. Ar. 115.
+
+### book 59,n1.1
+
+ὑπερθύμοισι Γιγάντεσσιν.
+
+### book 59,n1.2
+
+ὡς ἔθνους τινὸς τῶν γιγάντων μέμνηται γενναίου καὶ ὑπερη‐
+
+### book 59,n1.3
+
+φάνου. τὰ δὲ παρὰ τοῖς νεωτέροις οὐκ οἶδεν, οὔδ’ ὡς ἦσαν ἐκ‐
+
+### book 59,n1.4
+
+τράπελοί τινες καὶ ὀφιόποδες, οἵους αὐτοὺς ἀναζωγραφοῦσιν, οὔτε
+
+### book 59,n1.5.1
+
+ὡς Φλέγραν ᾤκησαν, οὔτε ὅτι θεοῖς ἐμαχέσαντο PQ. Fluxit fortasse
+
+### book 59,n1.5.2
+
+ex Ar.
+
+### book 65.1
+
+νύμφων ἐν μεγάρῳ.
+
+### book 65.2
+
+Notatum fuit vocabulum νύμφων ἅπαξ εἰρημένον nostro
+
+### book 65.3
+
+loco et Ψ 223. cf. schol. BEPQT quod errat contendens, non
+
+### book 65.4
+
+legi nisi in hoc Odysseae versu vocabulum.
+
+### book 79-80.1
+
+πόντον ἐπ’ ἀτρύγετον, λίπε δὲ Σχερίην ἐρα‐
+
+### book 79-80.2
+
+τεινήν,
+
+### book 79-80.3
+
+ἵκετο δ’ ἐς Μαραθῶνα καὶ εὐρυάγυιαν Ἀθήνην.
+
+### book 79-80.4
+
+*) ὅτι ἑνικῶς τὰς Ἀθήνας H. cf. γ 287. A ad Β 498.
+
+### book 79-80.5.1
+
+In HP praeterea legitur: ὑποπτεύεται ὁ τόπος, ὡς καὶ
+
+### book 79-80.5.2
+
+Χαῖρίς φησιν ἐν Διορθωτικοῖς, quod ex Didymo manasse vi‐
+
+### book 79-80.5.3
+
+detur, qui citat hunc grammaticum ad Β 865. Ζ 71. Ι 605. An
+
+### book 79-80.5.4
+
+suspectus fuit locus, quod Minerva non rediit in Olympum ut
+
+### book 79-80.5.5
+
+ζ 42?
+
+### book 103.1
+
+πεντήκοντα δέ οἱ δμῳαὶ
+
+### book 103.2
+
+αἱ μὲν ἀλετρεύουσι, αἱ δὲ ἵστους ὑφῶσι.
+
+### book 103.3
+
+Ex schol. PQ sequitur, ut fuerit Ar. diple πρὸς τὸ σχῆμα,
+
+### book 103.4
+
+ὅτι ἀντὶ τοῦ δμωῶν αἱ μὲν .. αἱ δέ. cf. F. Ar. p. 19.
+
+### book 104.1
+
+ἀλετρεύουσι.
+
+### book 104.2
+
+*) [ὅτι ἤλλακται ὁ χρόνος ἀλετρεύουσι] ἀντὶ τοῦ ἠλέτρευον.
+
+### book 104.3
+
+HP. cf. F. Ar. 4. Κ 364 ubi noster locus sic explanatur.
+
+### book 107.1
+
+καιροσέων δ’ ὀθονέων.
+
+### book 107.2
+
+*) ὅτι καὶ ἐπὶ ἐρίων ὀθόναι λέγεται (cod. λέγονται) BHMPT.
+
+### book 122.1
+
+ἀλωή.
+
+### book 122.2
+
+†) ἀλωὴ νῦν ἡ ἀμπελόφυτος γῆ. ἐῤῥίζωται δέ, πεφύτευ‐
+
+### book 122.3
+
+ται. B. Alibi ἡ δενδροφόρος γῆ. cf. Φ 36. ζ 293.
+
+### book 126.1
+
+ἕτεραι δ’ ὑποπερκάζουσιν.
+
+### book 126.2
+
+*) [ἡ διπλῆ] πρὸς τὸ ἕτερον, ὅτι ἐπὶ δύο. ἐπὶ δὲ τοῦ
+
+### book 126.3
+
+τρίτου ἄλλας (125) P. cf. Ι 313. Μ 93.
+
+### book 132.1
+
+τοῖ’ ἄρ’ ἐν Ἀλκινόοιο θεῶν ἔσαν ἀγλαὰ δῶρα
+
+### book 132.2
+
+*) [ἡ διπλῆ ὅτι κατὰ τοῦ οὐδετέρου τὸ πληθυντικόν] τοῖα
+
+### book 132.1
+
+(cod. τόσα] ἔσαν, ὡς „σπάρτα λέλυνται“ (Β 135) H.
+
+### book 132.2
+
+Observatum est, quod neutrum plurale cum verbo plurali
+
+### book 132.5
+
+coniunctum est. cf. F. Ar. 15.
+
+### book 137.1
+
+σπένδοντας δεπάεσσιν ἐυσκόπῳ ἀργειφόντῃ,
+
+### book 137.2
+
+ᾧ πυμάτῳ σπένδεσκον, ὅτε μνησαίατο κοίτου.
+
+### book 137.3
+
+*) ἡ διπλῆ πρὸς τὸ ἔθος. καὶ ὅτι κοίτου ἀρσενικῶς φησι.
+
+### book 137.4
+
+P. cf. γ 334.
+
+### book 139.1
+
+βῆ διὰ δῶμα.
+
+### book 139.2
+
+*) [ἡ διπλῆ ὅτι ἀντὶ τοῦ] διὰ τοῦ δώματος P. cf. F. Ar.
+
+### book 139.3
+
+21 et ad v. 40.
+
+### book 140.1
+
+πολλὴν ἠέρ’ ἔχων, ἥν οἱ περίχευεν Ἀθήνη.
+
+### book 140.2
+
+*) ὅτι τῷ Ὀδυσσεῖ περιέχεεν, οὐ τοῖς Φαίαξιν, ὡς Ζηνό‐
+
+### book 140.3
+
+δοτος. HP. cf. v. 41. 15.
+
+### book 153.1
+
+ἕζετ’ ἐπ’ ἐσχάρῃ.
+
+### book 153.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ παρ’ ἐσχάρῃ. PT. cf. ζ 305. 52.
+
+### book 155,n2.1
+
+ἥρως Ἐχένηος.
+
+### book 155,n2.2
+
+ὁ ποιητὴς πλάττει τοῦτο τὸ ὄνομα· ἀπὸ γὰρ τοῦ ἔχειν τὴν νῆα
+
+### book 155,n2.3
+
+ἐκάλεσε τοῦτον Ἐχένηον E. Fluxit fortasse ex Ar. cf. β 386. γ 425. δ 630.
+
+### book 155,n2.4
+
+Eust. 1575, 61: ὅτι τὰ πλείω τῶν Φαιακικῶν ὀνομάτων ναυτικὰ ἔκ τε
+
+### book 155,n2.5
+
+νεῶν καὶ θαλάσσης εἰλημμένα.
+
+### book 159.1
+
+Ἀλκίνο’, οὐ μέν τοι τόδε κάλλιον, οὐδὲ ἔοικεν.
+
+### book 159.2
+
+*) [ἡ διπλῆ ὅτι τὸ οὐ κάλλιον] ἀντὶ τοῦ οὐ καλόν. PQ.
+
+### book 159.3
+
+cf. F. Ar. 30. γ 125. 362. Eust. 1575, 64.
+
+### book 174.1
+
+παρὰ δὲ ξεστὴν ἐτάνυσσε τράπεζαν.
+
+### book 174.2
+
+*) ἀθετεῖται τὸ ἔπος ὡς ἀσύμφωνον τῇ τοῦ Ὁμήρου συν‐
+
+### book 174.3
+
+ηθείᾳ. οὐ γὰρ ποιεῖ τὰς τραπέζας ἀφαιρουμένας παρόντων
+
+### book 174.4
+
+τῶν δαιτυμόνων, ἀλλὰ μετὰ τὴν ἀπαλλαγήν. HPQT.
+
+### book 174.5
+
+cf. schol. in V ad Ω 476 et Ar. ad Δ 262 ubi ἡ διπλῆ
+
+### book 174.1
+
+ὅτι διὰ παντὸς αἱ τράπεζαι παρέκειντο. Phaeaces nondum cubi‐
+
+### book 174.2
+
+tum iverunt, itaque Laodamas, cuius sellam Ulixes occupavit,
+
+### book 174.3
+
+mensam habet.
+
+### book 196.1
+
+πρίν γε τὸν ἧς γαίης ἐπιβήμεναι.
+
+### book 196.2
+
+†) ἀντὶ τοῦ πρὶν αὐτόν. ὡς περὶ ἑτέρου λέγει P.
+
+### book 197,n3.1
+
+πείσεται ἅσσα οἱ αἶσα κατὰ κλῶθές τε.
+
+### book 197,n3.2
+
+γενικόν ἐστι τὸ αἶσα, εἶτα εἰδικὸν τὸ κλῶθες, ὡς „ἀλλ’ ἄγε δή
+
+### book 197,n3.3
+
+τινα μάντιν ἐρείομεν ἢ ἱερῆα ἢ καὶ ὀνειροπόλον“ (Α 62). τὸ μὲν
+
+### book 197,n3.4
+
+γὰρ γενικὸν, τὰ δὲ εἰδικά. BPQT. cf. Α 62 ubi sic interpretatus est
+
+### book 197,n3.5
+
+Aristarchus, et fortasse etiam hoc ex adnotatione eius manavit
+
+### book 217.1
+
+ἥ τ’ ἐκέλευσε ἕο μνήσασθαι ἀνάγκῃ.
+
+### book 217.2
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος ἑοῦ (cod. male
+
+### book 217.3
+
+ἕο) γράφει ἀντὶ τοῦ ἑαυτῆς. [τοῦτο δὲ σύναρθρον καὶ οὐχ ἁρ‐
+
+### book 217.4
+
+μόζον τῷ λόγῳ]. HP.
+
+### book 217.5
+
+cf. Β 239. Υ 261. Ω 293.
+
+### book 222.1
+
+ὑμεῖς δ’ ὀτρύνεσθαι.
+
+### book 222.2
+
+*) ὅτι ἀπαρέμφατον ἀντὶ προστακτικοῦ, ὅπερ ἀγνοῶν Ζη‐
+
+### book 222.3
+
+νόδοτος γράφει ὀτρύνεσθε HP. cf. Γ 458.
+
+### book 238.1
+
+τίς πόθεν εἶς ἀνδρῶν; τίς τοι τάδε εἵματ’ ἔδωκεν;
+
+### book 238.2
+
+*) ὅτι πρὸς τὸ τελευταῖον ἀποκρίνεται μόνον „τίς τοι τάδε
+
+### book 238.3
+
+εἵματ’ ἔδωκεν. P.
+
+### book 250.1
+
+ἀργῆτι κεραυνῷ ‖ Ζεὺς ἔλσας
+
+### book 250.2
+
+γράφεται ἐλάσας P.
+
+### book 250.3
+
+Hanc Zenodoti lectionem fuisse et ab Ar. vituperatam esse
+
+### book 250.4
+
+apparet ex schol. ad ε 132. cf. L. Ar. 65.
+
+### book 251-8.1
+
+ἔνθ’ ἄλλοι μὲν πάντες ἀπέφθιθεν ἐσθλοὶ
+
+### book 251-8.2
+
+ἑταῖροι,
+
+### book 251-8.3
+
+αὐτὰρ ἐγὼ τρόπιν ἀγκὰς ἑλὼν νεὸς ἀμφιελίσσης
+
+### book 251-8.4
+
+ἐννῆμαρ φερόμην· δεκάτῃ δέ με νυκτὶ μελαίνῃ
+
+### book 251-8.5.1
+
+νῆσον ἐς Ὠγυγίην πέλασαν θεοί, ἔνθα Καλυψὼ
+
+### book 251-8.5.2
+
+ναίει εὐπλόκαμος, δεινὴ θεός, ἥ με λαβοῦσα
+
+### book 251-8.5.3
+
+ἐνδυκέως ἐφίλει τε καὶ ἔτρεφεν ἠδὲ ἔφασκεν
+
+### book 251-8.5.4
+
+θήσειν ἀθάνατον καὶ ἀγήρων ἤματα πάντα.
+
+### book 251-8.5.5
+
+ἀλλ’ ἐμὸν οὔ ποτε θυμὸν ἐνὶ στήθεσσιν ἔπειθεν.
+
+### book 251-8.10.1
+
+ἀθετοῦνται στίχοι ηʹ. ὕστερον γὰρ ταῦτα λέγεται· εἰ δὲ
+
+### book 251-8.10.2
+
+προείρητο, οὐκ ἂν ἐπαλιλλόγει. HP. cf. L. Ar. 438.
+
+### book 251-8.10.3
+
+In M. obeli appicti sunt. Ad v. 251 ἀπέφθιθεν legitur in
+
+### book 251-8.10.4
+
+HP. ὡς κόσμηθεν, quod est lectio Aristarchi, cf. Ariston. ad
+
+### book 251-8.10.5
+
+Π 354: ὅτι οὕτως δεῖ γράφειν διέτμαγεν ὡς κόσμηθεν, ἵν’ ᾖ
+
+### book 251-8.15.1
+
+διετμάγησαν παθητικῶς. τὸ γὰρ διέτμαγον ἐνεργητικόν ἐστιν.
+
+### book 251-8.15.2
+
+cf. etiam schol. ad Π 507.
+
+### book 289.1
+
+δύσετό τ’ ἠέλιος.
+
+### book 289.2
+
+†) Ἀρίσταρχος γράφει δείλετο, ὅ ἐστιν εἰς δείλην ἐκλίνετο.
+
+### book 289.3
+
+πρὸ δυσμῶν γάρ, φησὶ, συνέτυχε τῇ Ναυσικάᾳ ὁ Ὀδυσσεύς HP.
+
+### book 289.4
+
+cf. Eust. 1580, 17.
+
+### book 293.1
+
+ὡς οὐκ ἂν ἔλποιο.
+
+### book 293.2
+
+†) οὕτως Ὁμηρικὸν τὸ τῆς ἑρμηνείας. ἀντὶ γὰρ τοῦ ἔλ‐
+
+### book 293.3
+
+ποιτο H. cf. F. Ar. 8.
+
+### book 301.1
+
+ἦγεν ἐς ἡμέτερον.
+
+### book 301.2
+
+†) οὕτως ἡμετέρου. Ἀττικὸν δὲ τὸ σχῆμα ὡς ἐς διδα‐
+
+### book 301.3
+
+σκάλου HP.
+
+### book 301.4
+
+Fluxisse videtur ex Didymo et Aristonico cf. ad β 55.
+
+### book 311-6.1
+
+αἲ γὰρ, Ζεῦ τε πάτερ καὶ Ἀθηναίη καὶ
+
+### book 311-6.2
+
+Ἄπολλον,
+
+### book 311-6.3
+
+τοῖος ἐών, οἷός ἐσσι, τά τε φρονέων, ἅ τ’ ἐγώ περ,
+
+### book 311-6.4
+
+παῖδα τ’ ἐμὴν ἐχέμεν καὶ ἐμὸς γαμβρὸς καλέεσθαι
+
+### book 311-6.5.1
+
+αὖθι μένων· οἶκον δέ κ’ ἐγὼ καὶ κτήματα δοίην,
+
+### book 311-6.5.2
+
+εἴ κ’ ἐθέλων γε μένοις· ἀέκοντα δέ ς’ οὔτις ἐρύξει
+
+### book 311-6.5.3
+
+Φαιήκων. μὴ τοῦτο φίλον Διὶ πατρὶ γένοιτο.
+
+### book 311-6.5.4
+
+†) τοὺς ἓξ Ἀρίσταρχος διστάζει Ὁμήρου εἶναι. εἰ δὲ καὶ
+
+### book 311-6.5.5
+
+Ὁμηρικοὶ (h. e. etiamsi nihil continent quod a consuetudine
+
+### book 311-6.10.1
+
+sermonis et antiquitatis Homericae abhorreat L. Ar. 339) εἰκό‐
+
+### book 311-6.10.2
+
+τως αὐτοὺς περιαιρεθῆναί φησι. πῶς γὰρ ἀγνοῶν τὸν ἄνδρα
+
+### book 311-6.10.3
+
+μνηστεύεται αὐτῷ τὴν θυγατέρα καὶ οὐ προτρεπόμενος, ἀλλὰ
+
+### book 311-6.10.4
+
+λιπαρῶν; P.
+
+### book 321.1
+
+εἴ περ καὶ μάλα πολλὸν ἑκαστέρω ἐστ’ Εὐβοίης
+
+### book 321.2
+
+†) ἐκτετόπισται τὰ τῆς πλάνης. τῆς γὰρ Σχερίας πόῤῥω
+
+### book 321.3
+
+φησὶ τὴν Εὔβοιαν. ἴδιον τοῦτο τῶν ἀπείρων τῆς Ἑλλάδος. P.
+
+### book 321
+
+cf. L. Ar. 244. d 556 et locos ibi collatos.
+
+### book 4.1
+
+τοῖσιν δ’ ἡγεμόνευε.
+
+### book 4.2
+
+*) [ἡ διπλῆ ὅτι] τὸ τοῖσιν ἀντὶ γενικῆς H. cf. F. Ar. p. 22.
+
+### book 11.1
+
+δεῦτ’ ἄγε, Φαιήκων ἡγήτορες.
+
+### book 11.2
+
+*) [ἡ διπλῆ ὅτι] ἰδίως ἐξενήνοχε. τὸ γὰρ δεῦτε πληθυν‐
+
+### book 11.3
+
+τικῶς φήσας τὸ ἄγε ἑνικῶς εἶπε. E. cf. γ 475.
+
+### book 12.1
+
+ὄφρα ξείνοιο πύθησθε.
+
+### book 12.2
+
+*) [ἡ διπλῆ ὅτι] ἐλλείπει ἡ περὶ, ἵνα ᾖ περὶ τοῦ ξείνου
+
+### book 12.3
+
+T. cf. F. Ar. p. 26.
+
+### book 16.1
+
+ἀγοραί τε καὶ ἕδραι.
+
+### book 16.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ ἑνικοῦ τοῦ ἀγορά· προεῖπε γοῦν εἰς
+
+### book 16.3
+
+ἀγορὴν ἰέναι (5) καὶ „ἐνθάδε τέ σφ’ ἀγορὴ καλὸν Ποσιδήϊον
+
+### book 16.4
+
+ἀμφίσ“ (ζ 266). H. cf. γ 287 et exempla ibidem.
+
+### book 17.1
+
+θηήσαντο ἰδόντες.
+
+### book 17.2
+
+*) [ἡ διπλῆ ὅτι] σαφῶς νῦν τὸ ἐθηήσαντο ἀντὶ τοῦ ἐθαύ‐
+
+### book 17.3
+
+μασαν· ἐπιφέρει γοῦν ἰδόντες. Q.
+
+### book 22.1
+
+δεινός τ’ αἰδοῖός τε, καὶ ἐκτελέσειεν ἀέθλους
+
+### book 22.2
+
+πολλούς, τοὺς Φαίηκες ἐπειρήσαντ’ Ὀδυσῆος.
+
+### book 22.3
+
+Nota fuit de Zenodoti athetesi versuum 22—23, qui in eo
+
+### book 22.4
+
+offendit, quod Ulixes unum modo certamen disci apud Phaea‐
+
+### book 22.5.1
+
+ces inierit, non multa. Crates ἀέθλους mire intellixit τοὺς κατὰ
+
+### book 22.5.2
+
+Ἰθάκην πόνους cf. schol. in HQV. πληθυντικῶς εἶπε τὸν τοῦ
+
+### book 22.1
+
+δίσκου ἆθλον· Κράτης δὲ τοὺς κατὰ Ἰθάκην ἤκουσε πόνους
+
+### book 22.2
+
+QV. ἀθετεῖ Ζηνόδοτος· οὐ γὰρ πολλοὺς ἐτέλεσεν ἐν Φαιακίᾳ,
+
+### book 22.3
+
+ἀλλ’ ἐδίσκευσε μόνον (186) HQ. cf. Eust. ad h. v. Duentzer p. 91.
+
+### book 29.1
+
+ἠὲ πρὸς ἠοίων ἢ ἑσπερίων ἀνθρώπων.
+
+### book 29.2
+
+†) οὐ προσέθηκεν ἄρκτον καὶ μεσημβρίαν (ut Crates vult
+
+### book 29.3
+
+cf. ad β 1) ὅτι ἁπλούστερον οἱ ἀρχαῖοι διῄρουν τὸν κόσμον,
+
+### book 29.4
+
+εἴς τε ἀνατολὴν καὶ δύσιν T.
+
+### book 29.5.1
+
+Fluxit ex Ar. qui ad Μ 239 posuit diplam, ὅτι δύο διαστά‐
+
+### book 29.5.2
+
+σεις οἶδεν Ὅμηρος κοσμικὰς ἀνατολὴν καὶ δύσιν. cf. L. A. 174.
+
+### book 38.1
+
+θοὴν ἀλεγύνετε δαῖτα.
+
+### book 38.2
+
+*) [ἡ διπλῆ ὅτι τὸ θοὴν] ἀντὶ τοῦ θοῶς, ὡς „λῦσεν ἀγο‐
+
+### book 38.3
+
+ρὴν αἰψήρην“ (β 257) HQ. [καὶ ὅτι] ἐκ τοῦ περὶ αὐτῶν εἰς τὸν
+
+### book 38.4
+
+πρὸς αὐτοὺς λόγον μετῆλθεν H.
+
+### book 38.5
+
+cf. β 257. F. Ar. 30 et 16.
+
+### book 47.1
+
+κῆρυξ δὲ μετ’ ᾤχετο θεῖον ἀοιδόν.
+
+### book 47.2
+
+*) [ἡ διπλῆ ὅτι] ἡ μετὰ ἀντὶ τῆς ἐπί· ᾤχετο ἐπὶ τὸν θεῖον
+
+### book 47.3
+
+ἀοιδόν Q. cf. Α 222. ζ 222.
+
+### book 75.1
+
+νεῖκος Ὀδυσσῆος καὶ Πηλείδεω Ἀχιλῆος.
+
+### book 75.2
+
+De Ar. adnotatione ad contentionem Ulixem inter et Achil‐
+
+### book 75.3
+
+lem exortam cf. Ι 347. L. Ar. 176.
+
+### book 81-2.1
+
+χρησόμενος· τότε γάρ ῥα κυλίνδετο πήματος
+
+### book 81-2.2
+
+ἀρχὴ
+
+### book 81-2.3
+
+Τρωσί τε καὶ Δαναοῖσι Διὸς μεγάλου διὰ βουλάς.
+
+### book 81-2.4
+
+†) ἐν ἐνίαις τῶν ἐκδόσεων οὐκ ἐφέροντο. διὸ ἀθετοῦν‐
+
+### book 81-2.5.1
+
+ται H.
+
+### book 81-2.5.2
+
+Verba composita esse videntur ex Didymo et Aristonico.
+
+### book 81-2.5.3
+
+cf. Nitzsch, Anmerkungen zur Odyssee II, 178.
+
+### book 122.1
+
+ἐπέτοντο κονίοντες πεδίοιο.
+
+### book 122.2
+
+*) [ἡ διπλῆ ὅτι ἐλ]λείπει ἡ διά, [ἵν’ ᾖ διὰ πεδίου] Q. cf.
+
+### book 122.3
+
+F. Ar. 26.
+
+### book 142.1
+
+αὐτὸς νῦν προκάλεσσαι ἰὼν καὶ πέφραδε μῦθον.
+
+### book 142.2
+
+Hunc versum Ar. non legit cf. H: οὔτε Ἀρίσταρχος οὔτε
+
+### book 142
+
+Ἀριστοφάνης οὔτε Ζηνόδοτος ἐπίστανται τοῦτον τὸν στίχον.
+
+### book 153.1
+
+Λαοδάμα, τί με ταῦτα κελεύετε;
+
+### book 153.2
+
+†) ἀπὸ ἑνικοῦ εἰς πληθυντικὸν μετέβη E. Ad tales nume‐
+
+### book 153.3
+
+rorum permutationes Ar. attendere solebat. cf. F. Ar. p. 15 sq.
+
+### book 154.1
+
+κήδεά μοι καὶ μᾶλλον ἐνὶ φρεσὶν ἤ περ ἄεθλοι.
+
+### book 154.2
+
+*) [ἡ διπλῆ ὅτι] περιττὸς ὁ καί H. cf. F. Ar. 34. cf. α 33.
+
+### book 154.3
+
+κ 471. λ 452. ρ 216.
+
+### book 163.1
+
+φόρτου τε μνήμων.
+
+### book 163.2
+
+†) τοῦτό τινες σημειοῦνται πρὸς τὸ ἀγνοεῖν γράμματα τοὺς
+
+### book 163.3
+
+ἥρωας· τῇ γὰρ μνήμῃ φασὶ τὰ ἐγκείμενα κατέχειν διὰ τὸ ἀπεί‐
+
+### book 163.4
+
+ρως ἔχειν γραμμάτων. ὅθεν καὶ τοὺς Φοίνικας ἐμπόρους ὑπὸ
+
+### book 163.5.1
+
+τῆς χρείας αὐτῆς ἐπὶ τὴν τῶν γραμμάτων εὕρεσιν ἐλθεῖν EQ.
+
+### book 163.5.2
+
+cf. L. Ar. 95.
+
+### book 186.1
+
+ἦ ῥα.
+
+### book 186.2
+
+Certe adnotatum fuit, vocabulum ἦ poni tantum post ora‐
+
+### book 186.3
+
+tionem peractam, vid. schol. in E, quod legitur etiam ad Ε 533
+
+### book 186.4
+
+et Porphyrii est, qui idem docuit atque Aristarchus, sed plures
+
+### book 186.5.1
+
+exquirit vocabulorum ἦ et φῆ differentias. cf. L. Ar. 95. F.
+
+### book 186.5.2
+
+Ar. Α 528. Υ 114.
+
+### book 186,n1.1
+
+καὶ αὐτῷ φάρει ἀναίξας λάβε δίσκον.
+
+### book 186,n1.2
+
+σὺν τῷ ἱματίῳ, ὡς εἶχεν V. σὺν αὐτῷ τῷ φάρει B. Fortasse Ar.
+
+### book 186,n1.3
+
+adnotavit, praepositionem σὺν omissam esse. cf. F. Ar. p. 25.
+
+### book 189.1
+
+τόν ῥα περιστρέψας ἧκε.
+
+### book 189.2
+
+*) [ἡ διπλῆ] ὅτι ὁ δίσκος ἐκ μέσου σχοῖνον εἶχεν EV.
+
+### book 192.1
+
+λᾶος ὑπὸ ῥιπῆς. ὁ δ’ ὑπέρπτατο σήματα πάντων.
+
+### book 192.2
+
+Fuit asteriscus cf. ad Ψ 843, nostro loco εὐλόγως ἔστιν
+
+### book 192.3
+
+„ὑπέρβαλε σήματα πάντων“, πλείονες γὰρ δισκεύουσιν.
+
+### book 214.1
+
+πάντα γὰρ οὐ κακός εἰμι μετ’ ἀνδράσιν ὅσσοι
+
+### book 214.2
+
+ἄεθλοι
+
+### book 214.3
+
+†) σημειωτέον, ὅτι τῷ ἆθλα οὐδετέρῳ ἀρσενικὸν ἐπήγαγε
+
+### book 214
+
+τὸ ὅσσοι HQ. cf. δ 240.
+
+### book 223.1
+
+ἐριζέμεν οὐκ ἐθελήσω.
+
+### book 223.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ οὐ δυνήσομαι, ὡς τὸ „οὐδ’ ἔθελε
+
+### book 223.3
+
+προρέειν“ (Φ 366). QT. cf. Φ 366. γ 121. L. Ar. 148.
+
+### book 224.1
+
+οὐδ’ Εὐρύτῳ Οἰχαλιῆι.
+
+### book 224.2
+
+†) ἡ Οἰχαλία πόλις Θεσσαλίας QV.
+
+### book 224.3
+
+Ex Ar. fluxit, qui ad Β 596 et 730 adnotavit, Eurytum
+
+### book 224.4
+
+regem esse Oechaliae, quae Thessaliae sit, non Euboeae ut apud
+
+### book 224.5
+
+recentiores. cf. L. Ar. 184.
+
+### book 246.1
+
+οὐ γὰρ πυγμάχοι εἰμέν.
+
+### book 246.2
+
+Fuit diple contra chorizontes, ὅτι προτάσσει τὴν πυγμὴν
+
+### book 246.3
+
+ὡς καὶ ἐν Ἰλιάδι „οὐ γὰρ πύξ γε μαχήσεαι οὐδὲ παλαίσεισ“.
+
+### book 246.4
+
+cf. ad Ψ 621.
+
+### book 251.1
+
+ἀλλ’ ἄγε, Φαιήκων βητάρμονες ὅσσοι ἄριστοι,
+
+### book 251.2
+
+παίσατε ..
+
+### book 251.3
+
+Fuit diple periestigmene propter Zenodoti lectionem παί‐
+
+### book 251.4
+
+σατον pro παίσατε, cf. in HQ. Ζηνόδοτος παίσατον εἶπεν, οὐ
+
+### book 251.5.1
+
+κακῶς. Aut delendum est οὐ, aut κακῶς in καλῶς mutandum
+
+### book 251.5.2
+
+est, ut sit οὐ καλῶς. Nam persaepe ob dualem cum plurali con‐
+
+### book 251.5.3
+
+fusum Zenodotus vituperatur, cf. exempla a Friedlaendero col‐
+
+### book 251.5.4
+
+lata Ar. p. 15. Nitzsch l. c. p. 204.
+
+### book 258.1
+
+αἰσυμνῆται δὲ κριτοὶ ἐννέα πάντες ἀνέσταν.
+
+### book 258.2
+
+†) οἱ μὲν τὸ πάντες κατὰ παρολκήν φασι κεῖσθαι, ὡς καὶ
+
+### book 258.3
+
+ἀλλαχοῦ τὸ „δέκα πάντα τάλαντα“ (Τ 247) καὶ τὸ „οἱ δ’ ἐννέα
+
+### book 258.4
+
+πάντες ἀνέσταν“ (Η 161) E.
+
+### book 258.5.1
+
+Sic interpretatus est Ar. cf. ad v. c. Η 161. Σ 373. Ω
+
+### book 258.5.2
+
+232. ε 244.
+
+### book 260.1
+
+λείηναν δὲ χορόν.
+
+### book 260.2
+
+†) τὸ χωρίον, ἐν ᾧ ἔμελλον ὀρχεῖσθαι, χορόν ἐκάλεσεν BE.
+
+### book 260.3
+
+cf. ad Σ 590, ubi adiungitur: οὐ τὸ σύστημα τῶν χορευόντων.
+
+### book 264.1
+
+πέπληγον.
+
+### book 264.2
+
+Ar. de hac forma observationem v. apud Eust. 1596, 6:
+
+### book 264.3
+
+Ἀριστόνικος οὐ Σικελικὰ (sic enim Eust. esse vult et Ἰώνων)
+
+### book 264
+
+ταῦτα, ἀλλὰ ἀναδιπλώσεις Ἰακὰς βούλεται εἶναι κατὰ τὸ κε‐
+
+### book 264.5.1
+
+κάμω καὶ λελάβω. Fuit igitur Ar. diple πρὸς τὸν ἀναδιπλα‐
+
+### book 264.5.2
+
+σιασμόν. cf. δ 388.
+
+### book 264.5.3
+
+Demodoci cantum de Martis cum Venere amoribus in offen‐
+
+### book 264.5.4
+
+sionem veterum grammaticorum incurrisse constat ex schol. ad
+
+### book 264.5.5
+
+Arist. Pac. 778: σημειοῦται ταῦτα ὁ Μόχθος (i. e. Apio, quem
+
+### book 264.10.1
+
+hoc cognomine appellatum esse prodidit Suidas) πρὸς τοὺς ἀθε‐
+
+### book 264.10.2
+
+τοῦντας τὴν ἐν Ὀδυσσείᾳ Ἄρεως καὶ Ἀφροδίτης μοιχείαν.
+
+### book 264.10.3
+
+Scholiasta in HQT dicit: ἀλλ’ οὐχ Ὁμήρου τὸ ἔγκλημα. Quo
+
+### book 264.10.4
+
+magis dolemus, quod quid Ar. hac de re statuerit nobis non
+
+### book 264.10.5
+
+servatum est. Hoc unum ex scholiis ad Iliadem extricamus,
+
+### book 264.15.1
+
+Aristarchum non haesitasse ut chorizontes, quod nostro loco
+
+### book 264.15.2
+
+Venus Vulcani uxor est, cf. ad Φ 416: λέγειν δὲ δεῖ, ὅτι οὐχ
+
+### book 264.15.3
+
+οἱ αὐτοὶ χρόνοι ἦσαν τῆς συμβιώσεως.
+
+### book 271.1
+
+ἥλιος.
+
+### book 271.2
+
+†) ἅπαξ εἴρηται ἥλιος· ἠέλιος γὰρ ἀεί φησιν Ἰακῶς, τὸ
+
+### book 271.3
+
+η εἰς ηε. H.
+
+### book 274.1
+
+βῆ ῥ’ ἴμεν ἐς χαλκεῶνα.
+
+### book 274.2
+
+*) [ἡ διπλῆ ὅτι] οὐκ οἶδεν ὁ ποιητὴς τὸν Ἥφαιστον ἐργα‐
+
+### book 274.3
+
+ζόμενον ἢ ἐν Λιπάρᾳ τῆς Σικελίας τῶν Αἰολίδων νήσων, ἢ
+
+### book 274.4
+
+ἐν Λήμνῳ, ἀλλ’ ἐν Ὀλύμπῳ· καὶ γὰρ καὶ τὴν ἀσπιδοποιΐαν
+
+### book 274.5.1
+
+ἐκεῖ λέγει γεγενῆσθαι. Q.
+
+### book 274.5.2
+
+cf. Σ 369. L. Ar. 185.
+
+### book 277.1
+
+ἀμφὶ δ’ ἄρ’ ἑρμῖσιν.
+
+### book 277.2
+
+†) τοῖς κλινοποδίοις· ἑρμὶς ὁ τῆς κλίνης ποῦς BQV. Sic
+
+### book 277.3
+
+Ar. cf. Apoll. l. h. 77, 5: ὁ δὲ Ἀρίσταρχός φησιν, ἑρμῖνας
+
+### book 277.4
+
+ἐκάλουν τοὺς πόδας τῶν κλινῶν, οὗτοι δὲ ἦσαν σφηνοειδεῖς
+
+### book 277.5
+
+τῇ κατασκευῇ· τῶν ἅπαξ εἰρημένων.
+
+### book 283.1
+
+εἴσατ’ ἴμεν.
+
+### book 283.2
+
+†) ὥρμησεν ἀπίεναι Q. L. Ar. 148. ε 281.
+
+### book 289.1
+
+ἐρχομένη κατ’ ἄρ’ ἕζεθ’ ..
+
+### book 289.2
+
+†) ἀντὶ τοῦ ἀορίστου· τὸ γὰρ ἐρχομένη (corr. Friedlaender,
+
+### book 289.3
+
+codd. ἐχόμενον) ἐνεστῶτος καὶ παρατατικοῦ P. cf. F. Ar. 4.
+
+### book 289
+
+ι 297.
+
+### book 294.1
+
+οἴχεται ἐς Λῆμνον μετὰ Σίντιας ἀγριοφώνους.
+
+### book 294.2
+
+†) Σίντιες ἐκαλοῦντο οἱ Λήμνιοι EQ. Sic Ar. cf. Apoll.
+
+### book 294.3
+
+l. h. 141, 25. L. Ar. 234.
+
+### book 309
+
+De Ar. interpretatione vocabuli ἀίδηλος cf. ad χ 165.
+
+### book 312.1
+
+ἀλλὰ τοκῆε δύω.
+
+### book 312.2
+
+†) Ἡσίοδος ἐκ μόνης τῆς Ἥρας γενέσθαι τὸν Ἥφαιστον.
+
+### book 312.3
+
+κἀκεῖνο δ’ ἱκανὸν „τόν τοι φίλος υἱὸς ἔτευξεν Ἥφαιστοσ“
+
+### book 312.4
+
+(Ξ 338). T. sc. ut Hesiodus refutetur, nam Jovis et Junonis fi‐
+
+### book 312.5.1
+
+lius est apud Homerum cf. ad Ξ 335 ubi noster locus citatur.
+
+### book 312.5.2
+
+L. Ar. 185.
+
+### book 333-42,n2.1
+
+ἐν ἐνίοις ἀντιγράφοις οἱ δέκα στίχοι οὐ φέρονται
+
+### book 333-42,n2.2
+
+διὰ τὸ ἀπρέπειαν ἐμφαίνειν. νεωτερικὸν γὰρ τὸ φρόνημα H.
+
+### book 333-42,n2.3
+
+In Vind. 56: ἐν ἐνίοις ἀθετοῦνται, cf. la Roche p. 169. Preller
+
+### book 333-42,n2.4
+
+in adnot. apud Dindorfium p. 386. Nitzsch ad v. 262 seq.
+
+### book 363.1
+
+ἡ δ’ ἄρα Κύπρον ἵκανε φιλομμειδὴς Ἀφροδίτη
+
+### book 363.2
+
+ἐς Πάφον· ἔνθα δέ οἱ τέμενος.
+
+### book 363.3
+
+†) πόλις Κύπρου· ἀπὸ γενικοῦ εἰς τὸ εἰδικόν· ὁ δὲ ἀντὶ
+
+### book 363.4
+
+τοῦ γάρ, ἔνθα γάρ οἱ H. Similis locus, quem Eust. 1600, 50
+
+### book 363.5.1
+
+citat ad nostrum versum, est Θ 47: Ἴδην δ’ ἵκανεν Γάργαρον,
+
+### book 363.5.2
+
+ad quem v. Ar. cf. η 197. ι 39. 184. De commutatione voca‐
+
+### book 363.5.3
+
+bulorum δέ et γάρ F. Ar. 35, β 6 et locos ibid. collatos. Quod
+
+### book 363.5.4
+
+habet T ad v. 364: καὶ δύο γενέσεις Χαρίτων est Aristarcheum.
+
+### book 363.5.5
+
+cf. L. Ar. 180.
+
+### book 383.1
+
+ἠμὲν ἀπείλησας ..
+
+### book 383.2
+
+†) ἐπηγγείλω· „οὐδ’ ἠπείλησεν ἄνακτι“ (Ψ 863) H. Fru‐
+
+### book 383.3
+
+stula sunt Ar. notae, qui ad locum citatum ἠπείλησεν ἀντὶ τοῦ
+
+### book 383.4
+
+ηὔξατο esse dicit. cf. Ι 682. Eust. pro ἐκαυχήσω.
+
+### book 390.1
+
+δώδεκα γὰρ βασιλῆες ἀριπρεπέες κατὰ δῆμον·
+
+### book 390.2
+
+Ex Ar. ad Ψ 84 apparet, hic diplam fuisse, ὅτι βασιλεῖς
+
+### book 390.3
+
+καὶ τοὺς κατὰ μέρος ἄρχοντας λέγει. cf. L. Ar. 115. α 72.
+
+### book 390.4
+
+η 49. ξ 336.
+
+### book 452
+
+θερμὰ λοέτρ’, ἐπεὶ οὔ τι κομιζόμενός γε θάμιζεν,
+
+### book 452.1
+
+ἐπεὶ δὴ λίπε δῶμα Καλυψοῦς.
+
+### book 452.2
+
+De dipla ab Ar. adpicta propter ἐπεί vocabuli significatio‐
+
+### book 452.3
+
+nem, non tantum quod, sed etiam postquam cf. ad α 2.
+
+### book 477.1
+
+κῆρυξ, τῆ δὴ, τοῦτο πόρε κρέας.
+
+### book 477.2
+
+†) τὸ τῆ ῥῆμα προστακτικόν ἐστι παρὰ ποιηταῖς εἰρημέ‐
+
+### book 477.3
+
+νον χρόνου ἐνεστῶτος καὶ παρατατικοῦ BQ. Est ἀντὶ τοῦ
+
+### book 477.4
+
+λάβε cf. ad ι 347. Ξ 219.
+
+### book 483.1
+
+ἥρῳ Δημοδόκῳ.
+
+### book 483.2
+
+Fuit diple, ὅτι δισυλλάβως καὶ ἐν Ἰλιάδι ἥρῳ cf. ad Η 453,
+
+### book 483.3
+
+ubi etiam noster locus notatur.
+
+### book 507.1
+
+ἠὲ διαπλῆξαι κοῖλον δόρυ νηλέι χαλκῷ.
+
+### book 507.2
+
+†) Ἀρίσταρχος διαπλῆξαι, ὡς ἀλλαχοῦ „τὰς μὲν ἔπειτα
+
+### book 507.3
+
+διαπλήσσοντες Ἀχαιοί“ (Ψ 120). Eust. 1608, 16. διατμῆξαι, quod
+
+### book 507.4
+
+habent ACDEFGHIKLMPQSV, Zenodoto videtur deberi, cf.
+
+### book 507.5
+
+schol. Σ 34.
+
+### book 529.1
+
+εἴρερον εἰσανάγουσι.
+
+### book 529.2
+
+Notatum fuit vocabulum εἴρερον ἅπαξ εἰρημένον cf. in ET.
+
+### book 529.3
+
+Apoll. l. h. 64, 13.
+
+### book 546.1
+
+ἀντὶ κασιγνήτου ξεῖνος.
+
+### book 546.2
+
+Fuit diple ὅτι τὸ ἀντὶ κασιγνήτου ἀντὶ τοῦ ἴσος κασιγνήτῳ
+
+### book 546.3
+
+cf. ad Φ 75, ubi noster versus sic explanatur ab Ar. L. Ar. 114.
+
+### book 557.1
+
+οὐ γὰρ Φαιήκεσσι κυβερνητῆρες ἔασιν.
+
+### book 557.2
+
+†) τοῦτο φανερὸν ὅτι ἐκτετόπισται ἡ πλάνη. διὸ μὴ χρῄ‐
+
+### book 557.3
+
+ζειν τὰς ναῦς τῶν κυβερνητῶν, ἀλλ’ αὐτὰς τὸν πλοῦν ἐπί‐
+
+### book 557.4
+
+στασθαι T.
+
+### book 557.5
+
+cf. ad δ 556 et locos ibid. collatos.
+
+### book 564-71.1
+
+ἀλλὰ τόδ’ ὥς ποτε πατρὸς ἐγὼν εἰπόντος
+
+### book 564-71.2
+
+ἄκουσα
+
+### book 564-71.3
+
+Ναυσιθόου, ὃς ἔφασκε Ποσειδάων’ ἀγάσασθαι
+
+### book 564-71.4
+
+ἡμῖν, οὕνεκα πομποὶ ἀπήμονές εἰμεν ἁπάντων.
+
+### book 564-71.5.1
+
+φῆ ποτὲ Φαιήκων ἀνδρῶν εὐεργέα νῆα
+
+### book 564-71.5.2
+
+ἐκ πομπῆς ἀνιοῦσαν ἐν ἠεροειδέι πόντῳ
+
+### book 564-71.5.3
+
+ῥαισέμεναι, μέγα δ’ ἧμιν ὄρος πόλει ἀμφικαλύψειν·
+
+### book 564-71.1
+
+ὣς ἀγόρευ’ ὁ γέρων· τὰ δέ κεν θεὸς ἢ τελέσειεν.
+
+### book 564-71.2
+
+*) ἀθετοῦνται· οἰκειότερον γὰρ ἐν τοῖς ἑξῆς, (ν 172 seq.)
+
+### book 564-71.10.1
+
+ὅταν ἴδωσι τὴν ναῦν ἀπολελιθωμένην ὑπὸ τοῦ Ποσειδῶνος
+
+### book 564-71.10.2
+
+[ὥστε ἀναμιμνήσκονται inserendum esse putat Friedlaenderus
+
+### book 564-71.10.3
+
+in Fleckeisenii Annal. tom. LXXVII p. 5] ἐκ τοῦ ἀποτελέσμα‐
+
+### book 564-71.10.4
+
+τος, ὥσπερ ὁ Κύκλωψ ὑπὸ τοῦ .... ἀναμιμνήσκεται καὶ ἡ
+
+### book 564-71.10.5
+
+Κίρκη „ἦ σύ γ’ Ὀδυσσεύς ἐσσι“ (κ 330). καὶ ἐνταῦθα δὲ πα‐
+
+### book 564-71.15.1
+
+λιλλογοῦνται (sc. οἱ στίχοι). εἰ δὲ ἔμαθε Ὀδυσσεὺς τὸν χρη‐
+
+### book 564-71.15.2
+
+σμὸν, οὐκ ἂν αὐτοῖς ἐμήνυσε τὰ ὑπὲρ αὐτοῦ, οὐδὲ Ἀλκίνοος
+
+### book 564-71.15.3
+
+ἔπεμψεν αὐτὸν ὑπερβολῇ φιλοξενίας T. cf. ad ν 173. Obelos
+
+### book 564-71.15.4
+
+cum asteriscis his versibus appictos fuisse—sunt in M. cf.
+
+### book 564-71.15.5
+
+La Roche p. 179—commemorat Eust. 1610, 46 et 1737, 59
+
+### book 564-71.20
+
+easdem fere caussas afferens.
+
+### book 565.1
+
+ὃς ἔφασκε Ποσειδάων’ ἀγάσασθαι ‖ ἡμῖν.
+
+### book 565.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἀγάσασθαι νῦν] ἀντὶ τοῦ φθονῆσαι
+
+### book 565.3
+
+B. cf. ν 173. L. Ar. 147.
+
+### book 581.1
+
+ἦ τίς τοι καὶ πηὸς ἀπέφθιτο.
+
+### book 581.2
+
+*) [ἡ διπλῆ ὅτι] σαφῶς ἐκ τούτου δηλοῦται ὅτι πηὸς [ὁ] (οὐ
+
+### book 581.3
+
+cod.) κατ’ ἐπιγαμίαν (cod. ἐπωνυμίαν, sed correxi secutus Apoll.
+
+### book 581.4
+
+l. h. 131, 22) οἰκεῖος (ἢ) [οὐχ ὁ] φίλος ἢ (corr. Friedlaenderus
+
+### book 581.5.1
+
+in Fleckeisenii annal. l. c. pro cod. ἀλλ’) ἑταῖρος, ὡς οἱ πολ‐
+
+### book 581.5.2
+
+λοὶ τῶν γλωσσογράφων· ἐπιφέρει γοῦν ἀντιδιαστέλλων (584)
+
+### book 581.5.3
+
+„ἢ πού τις καὶ ἑταῖρος ἀνήρ“ ὁρισμὸν ποιῶν. T. cf. Eust.
+
+### book 581
+
+ad h. v.
+
+### book 19.1
+
+ὃς πᾶσι δόλοισιν ‖ ἀνθρώποισι μέλω.
+
+### book 19.2
+
+*) [ἡ διπλῆ ὅτι] παρεῖται ἡ διὰ καὶ ἡ δοτικὴ ἀντὶ αἰτια‐
+
+### book 19.3
+
+τικῆς κεῖται· διὰ δόλους γὰρ μέλω· ὅμοιόν ἐστι τῷ „σοὶ πάν‐
+
+### book 19.4
+
+τες μαχόμεθα“ (Ε 875) τουτέστι διὰ σέ BHQ.
+
+### book 19.5
+
+cf. F. Ar. 25. E 875. τ 378.
+
+### book 21.1
+
+ναιετάω δ’ Ἰθάκην εὐδείελον· ἐν δ’ ὄρος αὐτῇ.
+
+### book 21.2
+
+†) σύνηθες αὐτῷ τὰ ὄρη χωρίζειν τῆς γῆς. προεῖπε γὰρ
+
+### book 21.3
+
+τὴν Ἰθάκην καὶ ἐπήγαγε περὶ τοῦ ὄρους H.
+
+### book 21.4
+
+cf. ad Ο 193 ubi citatur hic versus, et notatus fuit propter
+
+### book 21.5.1
+
+Olympum montem cf. L. Ar. 166 „ne quis intelligat Olympum
+
+### book 21.5.2
+
+extra terram poni“.
+
+### book 24.1
+
+Σάμη.
+
+### book 24.2
+
+*) [ἡ διπλῆ ὅτι] τὴν Σάμην ἐν ἄλλοις Σάμον λέγει· „οἵ τε
+
+### book 24.3
+
+Ζάκυνθον ἔχον ἠδ’ οἳ Σάμον ἀμφενέμοντο“ (Β 634) HQ.
+
+### book 24.4
+
+cf. Ar. ad Β 634. L. Ar. 233. α 246.
+
+### book 33-5.1
+
+ἀλλ’ ἐμὸν οὔ ποτε θυμὸν ἐνὶ στήθεσσιν
+
+### book 33-5.2
+
+ἔπειθον.
+
+### book 33-5.3
+
+ὣς οὐδὲν γλύκιον ἧς πατρίδος οὐδὲ τοκήων
+
+### book 33-5
+
+γίγνεται, εἴ περ καί τις ἀπόπροθε πίονα οἶκον.
+
+### book 33-5.5.1
+
+Versus 33—35 obelis notati in Q. —Sengebuschius l. c.
+
+### book 33-5.5.2
+
+p. 13 athetesin a versu 29 ad versum 36 patuisse putat, ita ut
+
+### book 33-5.5.3
+
+versui 28 subiungatur v. 37. Itaque α 14—15 asteriscis nota‐
+
+### book 33-5.5.4
+
+tos fuisse contendit. cf. Nitzsch l. c. III, 12. La Roche obe‐
+
+### book 33-5.5.5
+
+los ad v. 34—36 pertinere censet.
+
+### book 39.1
+
+Ἰλιόθεν με φέρων ἄνεμος Κικόνεσσι πέλασσεν
+
+### book 39.2
+
+Ἰσμάρῳ.
+
+### book 39.3
+
+†) ἡ μὲν χώρα Κικονία—ἔστι δ’ αὐτὴ τῆς Θράκης—
+
+### book 39.4
+
+ἡ δὲ πόλις Ἴσμαρος. τῷ γὰρ γενικῷ τὸ εἰδικὸν ἐπήγαγεν, ὡς τὸ
+
+### book 39.5.1
+
+„ἡ δ’ ἄρα Κύπρον ἵκανεν, εἰς Πάφον“ (θ 262). πορθεῖ δὲ τοὺς
+
+### book 39.5.2
+
+Κίκονας, ὅτι συνεμάχησαν τοῖς Τρωσί (Β 846). BQ. cf. ad θ 362.
+
+### book 42.1
+
+δασσάμεθ’, ὡς μὴ τίς μοι ἀτεμβόμενος κίοι ἴσης.
+
+### book 42.2
+
+Versus 42 asteriscum habuit, οὐκ ὀρθῶς Λ 705 ubi v. Ar.
+
+### book 42.3
+
+La Roche asteriscum non notavit.
+
+### book 43.1
+
+διερῷ ποδὶ φευγέμεν ἡμέας.
+
+### book 43.2
+
+Quod habet schol. in PQV: οἱ δὲ τῷ ζῶντι Aristarcheum
+
+### book 43.3
+
+est. cf. ad ζ 201. L. Ar. 47. Sed Aristarchum in etymologia
+
+### book 43.4
+
+lapsum esse demonstrat Lehrsius, qui „fugaci pede“ interpre‐
+
+### book 43.5.1
+
+tatur, cuius interpretationis vestigium in eodem scholio est: οἱ
+
+### book 43.5.2
+
+δὲ διερῷ τῷ ὀξεῖ καὶ ταχεῖ. cf. Curtius, Grundzüge der Ety‐
+
+### book 43.5.3
+
+mologie p. 212.
+
+### book 48.1
+
+οἵ σφιν γείτονες ἦσαν.
+
+### book 48.2
+
+†) ἐπισημαίνονται ἐν Ἰλιάδι γείτονα μὴ ὠνομάσθαι, ἐν δὲ
+
+### book 48.3
+
+Ὀδυσσείᾳ νῦν δὲ κἀκεῖ (Dind. ex Eust. vult: ἐνταῦθα κεῖται καὶ)
+
+### book 48.4
+
+„ὣς οἱ μὲν δαίνυντο γείτονες ἠδὲ ἔται Μενελάου“ H. (δ 15)
+
+### book 48.5
+
+Etiam ε 489 γείτονες legitur.
+
+### book 59.1
+
+Κίκονες κλῖναν δαμάσαντες Ἀχαιούς.
+
+### book 59.2
+
+*) [ἡ διπλῆ ὅτι τὸ κλῖναν] ἀντὶ τοῦ κλιθῆναι ἠνάγκασαν.
+
+### book 59.3
+
+T. cf. Ε 37.
+
+### book 62.1
+
+ἔνθεν δὲ προτέρω πλέομεν.
+
+### book 62.2
+
+*) [ἡ διπλῆ ὅτι τὸ προτέρω] ἀντὶ τοῦ εἰς τοὔμπροσθεν.
+
+### book 62.3
+
+καὶ ἑξῆς ὁμοίως „οὐδ’ ἄρα μοι προτέρω νῆες κίον“ (64) H.
+
+### book 62
+
+cf. Ar. ad Κ 469. δ 36. ε 417.
+
+### book 68.1
+
+νηυσὶ δ’ ἐπῶρς’ ἄνεμον Βορέην ...
+
+### book 68.2
+
+λαίλαπι θεσπεσίῃ.
+
+### book 68.3
+
+*) [ἡ διπλῆ ὅτι] ἐλλείπει ἡ σύν πρόθεσις, σὺν λαίλαπι T.
+
+### book 68.4
+
+cf. F. Ar. 25. Μ 207.
+
+### book 69,n2.1
+
+ὀρώρει δ’ οὐρανόθεν νύξ.
+
+### book 69,n2.2
+
+νύκτα οὐδέποτε ἐξ Ὀλύμπου ἐρεῖ γεγονέναι ὁ ποιητής. H. cf. ε 294.
+
+### book 69,n2.3
+
+Fortasse pertinet ad discrimen inter Olympum et Uranum factum;
+
+### book 69,n2.4
+
+hic est omnis regio, quae nubes excedit, inde ad nubes et terram ve‐
+
+### book 69,n2.5
+
+nit nox, non ab monte in Macedonia sito Olympo.
+
+### book 80.1
+
+περιγνάμπτοντα Μάλειαν.
+
+### book 80.2
+
+*) [ἡ διπλῆ ὅτι] νῦν ἑνικῶς Μάλειαν, ἑτέρωθι δὲ πλη‐
+
+### book 80.3
+
+θυντικῶς „ἀλλ’ ὅτε δή ῥα ἔμελλε Μαλειάων ὄρος αἰπὺ ἵξε‐
+
+### book 80.4
+
+σθαι“ BEQ. cf. ad. δ 514. γ 287.
+
+### book 106.1
+
+Κυκλώπων δ’ ἐς γαῖαν ὑπερφιάλων ἀθεμίστων.
+
+### book 106.2
+
+†) ἢ τῶν μεγαλοφυῶν τῷ σώματι—τῶν δισήμων γὰρ ἡ
+
+### book 106.3
+
+λέξις—(de quibus v. L. Ar. 146) ἀθεμίστων δὲ τῶν νόμοις
+
+### book 106.4
+
+μὴ χρωμένων (cf. Ar. ad Π 387). φησὶ γὰρ „θεμιστεύει δὲ
+
+### book 106.5.1
+
+ἕκαστος παίδων ἠδ’ ἀλόχων“ (114). εἰ γὰρ ἦν ἀθεμίστων ἀντὶ
+
+### book 106.5.2
+
+τοῦ ἀδίκων, πῶς λέγει „οἵ ῥα θεοῖσι πεποιθότεσ“; (107) εἰ
+
+### book 106.5.3
+
+δ’ εἴπῃ τις, καὶ πῶς ὁ Πολύφημός φησιν „οὐ Κύκλωπες Διὸς
+
+### book 106.5.4
+
+αἰγιόχου ἀλέγουσι“, (275) σκοπείτω τὸ πρόσωπον, ὅτι Πολυ‐
+
+### book 106.5.5
+
+φήμου ἐστὶ τοῦ ὠμοφάγου καὶ θηριώδους. καὶ Ἡσίοδος—
+
+### book 106.10.1
+
+Op. 277—„ἰχθύσι μὲν καὶ θηρσὶ καὶ οἰωνοῖσι πετεινοῖς
+
+### book 106.10.2
+
+ἔσθειν ἀλλήλους, ἐπεὶ οὐ δίκη ἐστὶν ἐν αὐτοῖς, ἀνθρώποισι
+
+### book 106.10.3
+
+δ’ ἔδωκε δίκην“. ὥστε Πολύφημον μόνον λέγει ὑπερήφανον
+
+### book 106.10.4
+
+καὶ ἄδικον, τοὺς δὲ λοιποὺς πάντας Κύκλωπας εὐσεβεῖς καὶ
+
+### book 106.10.5
+
+δικαίους καὶ πεποιθότας τοῖς θεοῖς, ὅθεν καὶ ἀνῆκεν αὐτοῖς
+
+### book 106.15.1
+
+αὐτομάτως ἡ γῆ τοὺς καρπούς H.
+
+### book 106.15.2
+
+Sic fere etiam alii codd. TV ex parte BQ ad v. 112 cf.
+
+### book 106.15.3
+
+praeterea ad v. 225. 275. 508. Hanc Ar. sententiam fuisse ap‐
+
+### book 106.15.4
+
+paret ex Apoll. l. h. 12, 20 et 158, 30. Eust. 1617, 20. Totus
+
+### book 106.15.5
+
+locus fuit τῶν προβλημάτων v. Apoll. l. c.
+
+### book 112.1
+
+τοῖσιν δ’ οὔτ’ ἀγοραὶ βουληφόροι οὔτε θέμιστες
+
+### book 112.2
+
+†) ἀθεμίστους λέγει οὐχ ὡς ἀδίκους, ἀλλ’ ὡς μὴ θέμιδος
+
+### book 112.3
+
+ἤτοι νόμου χρῄζοντας εἰς εὕρεσιν τοῦ καλοῦ. ἦσαν γὰρ ἀγα‐
+
+### book 112.4
+
+θοί Q.
+
+### book 116.1
+
+νῆσος ἔπειτα λάχεια.
+
+### book 116.2
+
+Fuit diple periestigmene propter Zenodoti lectionem, quam
+
+### book 116.3
+
+servavit HQ: Ζηνόδοτος τὴν βραχεῖαν, γράφων διὰ τοῦ ε, ἐλά‐
+
+### book 116.4
+
+χεια. cf. Eust. 1619, 31. Apoll. l. h. 107, 12 De ἐλάχεια
+
+### book 116.5.1
+
+vocabulo omnia incerta sunt praeter accentum, cf. L. qu. ep.
+
+### book 116.5.2
+
+p. 175. Dindorfius vulgatam lectionem Aristarcho probatam
+
+### book 116.5.3
+
+fuisse putat. cf. ad κ 509.
+
+### book 144.1
+
+ἀὴρ γὰρ παρὰ νηυσὶ βαθεῖ’ ἦν, οὐδὲ σελήνη.
+
+### book 144.2
+
+†) ἀορασία ἢ ἀχλύς H. Certe diple fuit ὅτι ἀέρα τὴν σκο‐
+
+### book 144.3
+
+τίαν καλεῖ. cf. Ρ 644. 649. Apoll. l. h. 12, 10. Herod. ad Τ 87.
+
+### book 154.1
+
+ὦρσαν δὲ νύμφαι ‖ αἶγας ὀρεσκῴους ἵνα δειπνή‐
+
+### book 154.2
+
+σειαν ἑταῖροι.
+
+### book 154.3
+
+†) ὅμοιόν ἐστι τῷ „οὐδ’ ἄρ’ ἀπ’ ἀσφάραγον μελίη τάμε“
+
+### book 154.4
+
+(Χ 329) τὰ γὰρ συμβεβηκότα ὡς αἴτια λαμβάνει H. cf. Ar. ad
+
+### book 154.5
+
+X 329, quem versum expunxit.
+
+### book 167,n3.1
+
+καπνόν τ’ αὐτῶν τε φθογγὴν οἰῶν τε καὶ αἰγῶν
+
+### book 167,n3.2
+
+σπονδεῖος ὅλος ὁ στίχος E.
+
+### book 167,n3.3
+
+Hoc qui scripsit τε post οἰῶν omittere debebat. Tales versus ex
+
+### book 167,n3.4
+
+meris spondeis compositos notare solebat Ar. cf. ο 334. φ 15. χ 175.
+
+### book 167,n3.5
+
+192. Λ 130. An Ar. fuit haec lectio?
+
+### book 177.1
+
+ὡς εἰπὼν ἀνὰ νηὸς ἔβην.
+
+### book 177.2
+
+†) ἰδίως εἶπεν ἀντὶ τοῦ ἀνὰ τὴν ναῦν ἔβη H.
+
+### book 177.3
+
+Sic in praepositione ἐπὶ ad Ε 249. 700. genetivus pro ac‐
+
+### book 177.4
+
+cusativo Ἀττικῶς notatus est. cf. Eust. 1621, 13.
+
+### book 184.1
+
+μῆλ’, ὄιές τε καὶ αἶγες.
+
+### book 184.2
+
+*) [ἡ διπλῆ ὅτι] προτάξας τὸ γένος ἐπήνεγκε τὸ εἶδος V.
+
+### book 184.3
+
+Ad Κ 485 enim adnotavit, ὅτι μῆλα οἱ νεώτεροι πάντα
+
+### book 184.4
+
+τὰ τετράποδα, Ὅμηρος δὲ αἶγας καὶ οἴας· Et ex nostro loco hanc
+
+### book 184.5
+
+interpretationem fecit Ar. cf. ad Ζ 43.
+
+### book 198.1
+
+(Vinum) ὅν μοι ἔδωκε Μάρων ‖ ἱρεὺς Ἀπόλλωνος.
+
+### book 198.2
+
+†) ταῦτα σημειοῦνταί τινες πρὸς τὸ μὴ παραδιδόναι Ὅμη‐
+
+### book 198.3
+
+ρον Διόνυσον οἴνου εὑρέτην, τὸν δὲ Μάρωνα οὐ Διονύσου, ἀλλ’
+
+### book 198.4
+
+Ἀπόλλωνος ἱερέα, δι’ ὅλης τῆς ποιήσεως οἴνου μνημονεύων·
+
+### book 198.5.1
+
+ἡ δ’ ἀπότασις πρὸς Ἡσίοδον λέγοντα τὸν Μάρωνα εἶναι Οἰνο‐
+
+### book 198.5.2
+
+πίωνος τοῦ Διονύσου HQ.
+
+### book 198.5.3
+
+cf. L. Ar. 182, ubi monet, scholii testimonium nec integrum
+
+### book 198.5.4
+
+fortasse esse et an Aristonici sit non carere dubio. Nitzsch III, 42.
+
+### book 222.1
+
+χωρὶς δ’ αὖθ’ ἕρσαι.
+
+### book 222.2
+
+Etym. M. 377, 38: ἕρσαι αἱ ἐν ἔαρι γεννηθεῖσαι ἢ αἱ
+
+### book 222.3
+
+ἁπαλαὶ καὶ τελείως νέαι, μεταφορικῶς ὡς Ἀριστόνικος ἐν ση‐
+
+### book 222.4
+
+μείοις. Similia habent Q. ad v. 221 et V. Eust. 1625, 30.
+
+### book 225.1
+
+†) ἐκ τούτων ἡ δικαιοσύνη τῶν Κυκλώπων δήλη, ἐκ
+
+### book 225.2
+
+τοῦ ἀμελῶς εὑρεθῆναι τὸ σπήλαιον πλῆρες ὂν τυρῶν τε καὶ
+
+### book 225.3
+
+θρεμμάτων. ᾔδει γὰρ ὁ Κύκλωψ ὅτι οὐδεὶς ὑφαιρήσεται τῶν
+
+### book 225.4
+
+ἐπιχωρίων T. cf. ad v. 106.
+
+### book 231.1
+
+ἔνθα δὲ πῦρ κήαντες ἐθύσαμεν ἠδὲ καὶ αὐτοί
+
+### book 231.2
+
+τυρῶν αἰνύμενοι φάγομεν.
+
+### book 231.3
+
+†) ἐθύσαμεν ἀπὸ τῶν τυρῶν. παλαιὸν γὰρ ἔθος τὸ τῶν
+
+### book 231.4
+
+ἀπαρχῶν θύειν. „ὁ δ’ ἐν πυρὶ βάλλε θυηλάσ“. H.
+
+### book 231.5.1
+
+Ad Ι 219 Ar. adnotavit, verbum θύειν nusquam apud Ho‐
+
+### book 231.5.2
+
+merum dici de immolanda hostia sed de offerendis ἀπαρχαί,
+
+### book 231.5.3
+
+et θυηλάς esse ἀπαρχάς cf. L. Ar. 82. Hoc certe ad nostrum
+
+### book 231.5.4
+
+etiam versum observatum fuit contra Philoxenum, qui falso ac‐
+
+### book 231.5.5
+
+cepit τὸ „ἔνθα δὲ πῦρ κήαντες ἐθύσαμεν“ παρὰ τῷ ποιητῇ
+
+### book 231.10
+
+εἴρησθαι ἐπὶ τῶν ἀρνῶν.
+
+### book 243.1
+
+τόσσην ἠλίβατον πέτρην ἐπέθηκε θύρῃσιν.
+
+### book 243.2
+
+Ex Eust. 1626, 54: ὅτι τὴν τοῦ σπηλαίου εἴσοδον ἤτοι τὸ
+
+### book 243.3
+
+περὶ αὐτὴν διάστημα θύραν ὁ ποιητής ἐνταῦθα λέγει, καθά
+
+### book 243.4
+
+που καὶ ἐν Ἰλιάδι πύλας τὸν τόπον περὶ ὃν αἱ πύλαι, quod
+
+### book 243.5
+
+L. Ar. 156 Aristarcho attribuit cf. ad ν 370.
+
+### book 250
+
+πονησάμενος τὰ ἃ ἔργα.
+
+### book 250.1
+
+†) πονηθεὶς τὰ αὑτοῦ ἔργα, ὅ ἐστι περιγενόμενος, τοῦτο
+
+### book 250.2
+
+γὰρ ὁ πόνος παρὰ τῷ ποιητῇ T. cf. L. Ar. 73. schol. E ad
+
+### book 250.3
+
+v. 247: ἐνήργησεν. β 334. δ 624.
+
+### book 252-5.1
+
+ὦ ξεῖνοι, τίνες ἐστέ; πόθεν πλεῖθ’ ὑγρὰ
+
+### book 252-5.2
+
+κέλευθα;
+
+### book 252-5.3
+
+ἦ τι κατὰ πρῆξιν, ἦ μαψιδίως ἀλάλησθε
+
+### book 252-5.4
+
+οἷά τε ληιστῆρες ὑπὲρ ἅλα, τοί τ’ ἀλόωνται
+
+### book 252-5.5.1
+
+ψυχὰς παρθέμενοι, κακὸν ἀλλοδαποῖσι φέροντες;
+
+### book 252-5.5.2
+
+Versibus appicti fuerunt asterisci, cf. ad γ 71. Aristopha‐
+
+### book 252-5.5.3
+
+nes obelos cum asteriscis adposuit. cf. Eust. 1627, 33 qui de
+
+### book 252-5.5.4
+
+asteriscorum significatione et forma hoc loco diserte exponit.
+
+### book 261.1
+
+ἄλλην ὁδὸν, ἄλλα κέλευθα ‖ ἤλθομεν.
+
+### book 261.2
+
+†) ἐκ παραλλήλου τὸ αὐτό· τὰ γὰρ δύο ἓν σημαίνουσιν Q.
+
+### book 261.3
+
+cf. γ 317.
+
+### book 266.1
+
+ἡμεῖς δ’ αὖτε κιχανόμενοι τὰ σὰ γοῦνα
+
+### book 266.2
+
+ἱκόμεθ’, εἴ ..
+
+### book 266.3
+
+†) ἱκέται ἐσμὲν παρὰ τὰ σὰ γούνατα παραγενόμενοι Q.
+
+### book 266.4
+
+cf. etiam T. γ 92. Χ 123.
+
+### book 275.1
+
+οὐ γὰρ Κύκλωπες Διὸς αἰγιόχου ἀλέγουσιν.
+
+### book 275.2
+
+†) τὸ ἴδιον ἁμάρτημα ἑαυτοῦ ὁ Πολύφημος κοινὸν ποιεῖται·
+
+### book 275.3
+
+ὅτι γὰρ οἱ ἄλλοι Κύκλωπες οὐκ ἦσαν ἄθεοι, φησὶ „νοῦσον δ’
+
+### book 275.4
+
+οὔπως ἐστὶ Διὸς μεγάλου ἀλεύασθαι“ (411) HQ. Idem in V.
+
+### book 275.5
+
+cf. ad v. 106.
+
+### book 297.1
+
+ἐμπλήσατο νηδύν
+
+### book 297.2
+
+ἀνδρόμεα κρέ’ ἔδων καὶ ἐπ’ ἄκρητον γάλα πίνων.
+
+### book 297.3
+
+†) εἰς ἔμφασιν τοῖς παρατατικοῖς κέχρηται ἀδιαλείπτως
+
+### book 297.4
+
+ἐσθίοντος καὶ πίνοντος· καὶ τὸ „ἀνδρόμεα“ μεῖζον τοῦ ἀνθρώ‐
+
+### book 297.5.1
+
+πεια. καὶ τὸ „κεῖτο“ ἐμφαντικῶς. οὐ γὰρ ἂν ἐκ προνοίας
+
+### book 297.5.2
+
+ἀνεκλίθη, ἀλλὰ κατηναγκασμένην ἀνατροπὴν σημαίνει τὸ ῥῆμα.
+
+### book 297.5.3
+
+Q. De priore scholii parte cf. F. Ar. 4. θ 289.
+
+### book 347.1
+
+Κύκλωψ, τῆ, πίε οἶνον.
+
+### book 347.2
+
+*) [ἡ διπλῆ ὅτι τὸ τῆ] ἀντὶ τοῦ λάβε. P.
+
+### book 347.3
+
+cf. θ 477. Ar. ad Ξ 219.
+
+### book 374.1
+
+ὁ δ’ ἐρεύγετο οἰνοβαρείων.
+
+### book 374.2
+
+Fuit diple, quod dixit ὡς περὶ ἑτέρου. cf. Ar. ad Π 106
+
+### book 374.3
+
+ubi citatur hic versus in eadem adnotatione.
+
+### book 398,n4.1
+
+χερσὶν ἀλύων.
+
+### book 398,n4.2
+
+νῦν ἀντὶ τοῦ ἀδημονεῖν, ἐν δὲ τοῖς μετὰ ταῦτα ἀντὶ τοῦ χαίρειν, ὡς
+
+### book 398,n4.3
+
+τὸ „ἢ ἀλύεις ὅτι Ἶρον ἐνίκησασ“ (ς 333). μέση γὰρ ἡ λέξις B.
+
+### book 398,n4.4
+
+cf. Eust. 1636, 22. ς 333. Fluxit fortasse ex Ar.
+
+### book 473.1
+
+ὅσσον τε γέγωνε βοήσας.
+
+### book 473.2
+
+†) ὅσον ἐξακούεται φωνὴ ἀνδρός. cf. L. Ar. 100.
+
+### book 483.1
+
+τυτθόν, ἐδεύησεν δ’ οἰήιον ἄκρον ἱκέσθαι.
+
+### book 483.2
+
+†) οὗτος ὁ στίχος συντάσσεται ἀπὸ τοῦ στίχου τοῦ ἀρχο‐
+
+### book 483.3
+
+μένου „πλημμυρίσ“ (486) M. cf. Eust. 1640, 33: διὸ ἐν μὲν
+
+### book 483.4
+
+τοῖς πρώτοις στίχοις τὸ „τυτθὸν ἐδεύησεν οἰήιον ἄκρον ἱκέ‐
+
+### book 483.5.1
+
+σθαι“ ἀστέρα ἔχει μετὰ ὀβέλου· ὡς ἄριστον μὲν ἔπος ὂν ἐκεῖ‐
+
+### book 483.5.2
+
+θεν δὲ ὀβελιζόμενον. ἐν δὲ τοῖς δευτέροις στίχοις ἀστέρα
+
+### book 483.5.3
+
+μόνον ἔχει ὡς ἐκεῖ ἄριστα κείμενον.
+
+### book 495.1
+
+βαλὼν βέλος (i. e. κορυφὴν ὄρεος μεγάλοιο).
+
+### book 495.2
+
+†) βλῆμα· νῦν γὰρ τὸν βληθέντα λίθον λέγει V. cf. Μ
+
+### book 495.3
+
+458. L. Ar. 56.
+
+### book 508.1
+
+ἔσκε τις ἐνθάδε μάντις.
+
+### book 508.2
+
+†) ἐκ τούτου νοητέον ὅτι δεισιδαίμονες οἱ Κύκλωπες, ὅτι
+
+### book 508.3
+
+ὑπήκουον βουλήμασι θεῶν, καὶ οὐκ ἀπέκτεινον τοὺς προλέγον‐
+
+### book 508.4
+
+τας αὐτοῖς τινα παρὰ θεῶν ἐσόμενα Q. L. Ar. 182. cf. v. 106.
+
+### book 540.1
+
+τυτθόν, ἐδεύησεν δ’ οἰήιον ἄκρον ἱκέσθαι.
+
+### book 540.2
+
+Versus asterisco notatus erat cf. ad v. 483 et schol. in
+
+### book 540
+
+HMQV.
+
+### book 1.1
+
+Αἰολίην δ’ ἐς νῆσον ἀφικόμεθ’.
+
+### book 1.2
+
+*) [ἡ διπλῆ ὅτι] οὐ τὰς Αἰόλου νήσους νῦν λεγομένας,
+
+### book 1.3
+
+ἀλλά τινα ἄλλην ἐκτετοπισμένην νῆσον λέγει. BQV.
+
+### book 1.4
+
+cf. δ 556. Eust. 1644, 39.
+
+### book 3.1
+
+πλωτῇ ἐνὶ νήσῳ.
+
+### book 3.2
+
+†) ὁ (δὲ) Ἀρίσταρχος πλωτῇ ἀντὶ τοῦ φορητῇ, οἷον περι‐
+
+### book 3.3
+
+φερομένη, ὡς ποτὲ μὲν ἐν τοῖς δεξιοῖς μέρεσι, ποτὲ δὲ ἐν τοῖς
+
+### book 3.4
+
+ἀριστεροῖς ὁρᾶσθαι, οἷον δή τι καὶ περὶ τὴν Δῆλον ἱστορεῖ
+
+### book 3.5.1
+
+Πίνδαρος λέγων οὕτως „ἦν γὰρ τὸ πάροιθε φορητὰ κυμάτεσσι
+
+### book 3.5.2
+
+Δᾶλος παντοδαπῶν τ’ ἀνέμων ῥιπαῖσ“ (fragm. 58) HMQTV.
+
+### book 3.5.3
+
+Q praeterea habet: οἰκειότερον γάρ φησι μὴ ἐῤῥιζῶσθαι τῶν
+
+### book 3.5.4
+
+ἀνέμων νῆσον. Eust. idem. cf. Apoll. l. h. 132, 18. L. Ar. 151.
+
+### book 15.1
+
+καὶ ἐξερέεινεν ἕκαστα,
+
+### book 15.2
+
+Ἴλιον Ἀργείων τε νέας καὶ νόστον Ἀχαιῶν.
+
+### book 15.3
+
+†) περὶ τῆς Ἰλίου, περὶ τῶν νεῶν τῶν Ἀργείων, περὶ τοῦ
+
+### book 15.4
+
+νόστου τῶν Ἀχαιῶν BH.
+
+### book 15.5.1
+
+Accusativum pro περὶ cum genetivo positum esse statuit
+
+### book 15.5.2
+
+Ar. etiam ad Ρ 54. δ 836. F. Ar. 25.
+
+### book 20.1
+
+κατέδησε κέλευθα.
+
+### book 20.2
+
+†) Ἰωνικῶς τὰς κελεύθους κέλευθα εἶπε H.
+
+### book 41.1
+
+πολλὰ μὲν ἐκ Τροίης ἄγεται κειμήλια καλά
+
+### book 41.2
+
+ληίδος.
+
+### book 41.1
+
+*) ὅτι διῃρημένως ἀναγνωστέον. βούλεται γὰρ λέγειν Τρωϊ‐
+
+### book 41.2
+
+κῆς (cod. ἐρωτικῆς, Buttm. et Dind. στρατιωτικῆς) λείας, ὡς
+
+### book 41.5.1
+
+ὅτε „οὕνεκά με στερέσαι τῆς ληΐδος ἤθελε πάσης Τρωϊάδοσ“
+
+### book 41.5.2
+
+(ν 262) Q. cf. Α 129. ε 39, λ 510.
+
+### book 41.5.3
+
+Praeterea fuit diple periestigmene, quod Zenodotus in v. 41
+
+### book 41.5.4
+
+ἐκτελέοντες dedit pro ἐκτελέσαντες. cf. in H.
+
+### book 55,n1.1
+
+αὖτις ἐπ’ Αἰολίην νῆσον ..
+
+### book 55,n1.2
+
+ἔνθα δ’ ἐπ’ ἠπείρου βῆμεν
+
+### book 55,n1.3
+
+ὅτι τὴν νῆσον ἤπειρον εἶπε κατὰ τὴν διαίρεσιν τοῦ ὑγροῦ, ὡς εἰ ἔλε‐
+
+### book 55,n1.4
+
+γεν ἐπὶ τὴν γῆν ἔβημεν BQT. Est fortasse Ar.
+
+### book 70.1
+
+ὡς ἐφάμην μαλακοῖσι καθαπτόμενος ἐπέεσιν.
+
+### book 70.2
+
+Diple periestigmene contra Zenodotum fuit, qui non intel‐
+
+### book 70.3
+
+ligens verbum καθάπτεσθαι mediae esse significationis, pro
+
+### book 70.4
+
+καθαπτόμενος dedit ἀμειβόμενος, quod praefert schol. in H.
+
+### book 70.5.1
+
+Ζηνόδοτος „μαλακοῖσιν ἀμειβόμενοσ“ γράφει. καὶ ἔστι χαριε‐
+
+### book 70.5.2
+
+στάτη ἡ γραφή· οὐ καθάπτεται γὰρ αὐτὸν, ἀλλ’ ἱκετεύει. cf.
+
+### book 70.5.3
+
+ad β 39. γ 345 not. 6.
+
+### book 91.1
+
+ἔνθ’ οἵ γ’ εἴσω πάντες ἔχον νέας.
+
+### book 91.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ εἰσεῖχον, ὡς μὴ συγχεῖσθαι τὸ
+
+### book 91.3
+
+ἔνδον· τὸ δὲ ἔχον ἀντὶ τοῦ ἤλαυνον H. cf. L. Ar. 134. η 13.
+
+### book 110.1
+
+ὅς τις τῶν δ’ εἴη βασιλεύς, καὶ τοῖσιν ἀνάσσοι.
+
+### book 110.2
+
+τὸ οἷσιν Ἀρίσταρχος διὰ τοῦ τ, καὶ τοῖσιν ἀνάσσοι, ἀντὶ
+
+### book 110.3
+
+τοῦ τίνων H. Coaluerunt Didymi et Aristonici verba. cf. F.
+
+### book 110.4
+
+Ar. 23.
+
+### book 113.1
+
+κατὰ δ’ ἔστυγον αὐτὴν.
+
+### book 113.2
+
+†) ἐφοβήθησαν, ἐξεπλάγησαν. Notatum est verbum στυ‐
+
+### book 113.3
+
+γεῖν propter duplicem significationem timere et abhorrere cf.
+
+### book 113.4
+
+Ο 183. L. Ar. 147.
+
+### book 124.1
+
+ἰχθῦς δ’ ὣς πείροντες ἀτερπέα δαῖτα φέροντο.
+
+### book 124.2
+
+†) δῆλον ἐκ τούτου ὅτι ᾔδεσαν ἰχθύων τροφήν T. cf. ad
+
+### book 124.3
+
+β 368. Π 747.
+
+### book 150.1
+
+διὰ δρυμὰ πυκνὰ καὶ ὕλην.
+
+### book 150.2
+
+*) [ἡ διπλῆ ὅτι πτῶσις ἐνήλλακται] διὰ δρυμῶν πυκνῶν
+
+### book 150.3
+
+καὶ τῆς ὕλης Q. F. Ar. 21.
+
+### book 152.1
+
+ἐπεὶ ἴδον αἴθοπα καπνόν.
+
+### book 152.2
+
+†) Ἀρίσταρχος τὸν ἐκ τοῦ αἴθεσθαι, ὅ ἐστι καίεσθαι, ἀνα‐
+
+### book 152.3
+
+διδόμενον HQ. L. Ar. 151. Eust. αἴθοψ δὲ καπνὸς ὁ ἐκ τοῦ
+
+### book 152.4
+
+αἴθεσθαί τινα ὕλην ἀναδιδόμενος.
+
+### book 160.1
+
+δὴ γάρ μιν.
+
+### book 160.2
+
+Diple periestigmene, quod Zenodotus legit δὴν γάρ μιν H.
+
+### book 161.1
+
+κατ’ ἄκνηστιν μέσα νῶτα.
+
+### book 161.2
+
+†) καταχρηστικῶς φησιν ὁ Ἀρίσταρχος ἐπὶ τῶν θηρίων
+
+### book 161.3
+
+εἶναι τὴν ἄκνηστιν. οὐ γὰρ αὐτὴν μόνην ἀδυνατοῦσι κνήσα‐
+
+### book 161.4
+
+σθαι, ἀλλὰ καὶ τὴν ὀσφῦν καὶ τὸν τράχηλον. δεῖ γινώσκειν
+
+### book 161.5.1
+
+ὅτι αὐτὸς ἐπεξηγεῖται τί ἐστιν ἄκνηστις διὰ τοῦ εἰπεῖν μέσα
+
+### book 161.5.2
+
+νῶτα, ἤτοι ἡ ῥάχις, ἢ τὰ μέσα τῶν τετραπόδων, παρὰ τὸ μὴ
+
+### book 161.5.3
+
+δύνασθαι κνήσασθαι HQ.
+
+### book 169.1
+
+βῆν δὲ καταλοφάδειαν φέρων.
+
+### book 169.2
+
+Ad Κ 573 Ar. vocabulum καταλοφάδεια interpretatus est:
+
+### book 169.3
+
+καταλοφάδειαν (sic) ἀντὶ τοῦ κατὰ τὸν τένοντα. L. Ar. 150.
+
+### book 173.1
+
+ὦ φίλοι, οὐ γάρ πω.
+
+### book 173.2
+
+*) [ἡ διπλῆ ὅτι] ἀπὸ τοῦ γὰρ ἤρξατο HQ. cf. Ρ 220. α 337.
+
+### book 173.3
+
+δ 722. κ 501.
+
+### book 189.1
+
+κέκλυτέ μευ μύθων κακά περ πάσχοντες ἑταῖροι.
+
+### book 189.2
+
+Versum 189 Callistratus a grammatico quodam, qui nullam
+
+### book 189.3
+
+illius Homeri consuetudinis ἀπὸ τοῦ γὰρ ἄρχεσθαι cognitionem
+
+### book 189.4
+
+habuerit, insertum esse dicit cf. in H. Καλλίστρατός φησιν ὡς
+
+### book 189.5.1
+
+ὑπό τινος ὁ στίχος προτέτακται ἀγνοοῦντος τὸ Ὁμηρικὸν ἔθος,
+
+### book 189.5.2
+
+ὡς θέλει ἄρχεσθαι ἀπὸ τοῦ γάρ. Aristarchus versum non le‐
+
+### book 189.5.3
+
+gisse videtur, nam Ρ 220 diplam posuit propter hunc Homeri
+
+### book 189.5.4
+
+usum et citavit v. 190 ob eandem causam.
+
+### book 190.1
+
+ὦ φίλοι, οὐ γάρ τ’ ἴδμεν ὅπῃ ζόφος οὐδ’ ὅπῃ ἠώς,
+
+### book 190.2
+
+οὐδ’ ὅπῃ ἠέλιος φαεσίμβροτος εἶς’ ὑπὸ γαῖαν,
+
+### book 190.3
+
+οὐδ’ ὅπῃ ἀννεῖται.
+
+### book 190.4
+
+†) ἐκ τούτων ἐκτετοπισμένη φαίνεται ἡ πλάνη τοῦ Ὀδυσ‐
+
+### book 190.5.1
+
+σέως BQT. cf. L. Ar. 247. δ 556.
+
+### book 190.5.2
+
+Refutatio fuit Cratetis, qui quatuor coeli regiones Homero
+
+### book 190.5.3
+
+notas fuisse ex hoc loco contendit. Aristarchus recte eum duas
+
+### book 190.5.4
+
+modo orientem et occasum novisse docuit. cf. schol. ad β 1.
+
+### book 190.5.5
+
+ἠὼς σημαίνει καὶ τὴν ἡλίου πάροδον, καὶ τὸν τόπον ὅθεν ἀνα‐
+
+### book 190.10.1
+
+τέλλει ὁ ἥλιος κατὰ Ἀρίσταρχον· Sequuntur vs. 190—92. νῦν
+
+### book 190.10.2
+
+γὰρ, καθά φησιν ὁ Κράτης, τῶν τεσσάρων τοῦ κόσμου μέμνη‐
+
+### book 190.10.3
+
+ται μερῶν, ἄρκτου, μεσημβρίας, ἀνατολῆς καὶ δύσεως κ.τ.λ.
+
+### book 190.10.4
+
+L. Ar. 174.
+
+### book 193.1
+
+—ἐγὼ δ’ οὐκ ὀίομαι εἶναι. —
+
+### book 193.2
+
+†) τοῦτο εἶναι διὰ μέσου φησὶν Ἀρίσταρχος ὡς ἂν ἀπαλ‐
+
+### book 193.3
+
+γήσαντος τοῦ Ὀδυσσέως ἰδίᾳ ἀναπεφωνῆσθαι HQ. cf. Π 46.
+
+### book 193.4
+
+α 18.
+
+### book 210
+
+εὗρον δ’ ἐν βήσσῃσι τετυγμένα δώματα Κίρκης.
+
+### book 212.1
+
+ἀμφὶ δέ μιν ...
+
+### book 212.2
+
+†) ἀπὸ τοῦ πληθυντικοῦ τοῦ δώματα (210) πρὸς ἑνικὸν
+
+### book 212.3
+
+τὸ δῶμα ὑπήντησεν, ὡς τὸ „ἐξ ἑτέρων ἕτερ’ ἐστίν“ (ρ 266).
+
+### book 212.4
+
+εἶτα ἐπιφέρει „οὐκ ἄν τίς μιν ἀνήρ“ Q. cf. F. Ar. 32.
+
+### book 238.1
+
+ῥάβδῳ πεπληγυῖα.
+
+### book 238.2
+
+Fuit diple ὅτι παθητικῶς πεπληγυῖα ἀντὶ τοῦ πλήσσουσα.
+
+### book 238.3
+
+cf. ad Ο 730 ubi hic versus sic explanatur. Perfectum secun‐
+
+### book 238.4
+
+dum enim non ad activum sed ad medium (Ar. παθητικὸν) per‐
+
+### book 238.5
+
+tinere veteres statuerunt. cf. F. Ar. 3.
+
+### book 239.1
+
+καὶ δέμας.
+
+### book 239.2
+
+Diple periestigmene, quod Zenodotus legit καὶ πόδας cf. H.
+
+### book 240.1
+
+αὐτὰρ νοῦς ἦν ἔμπεδος ὡς τὸ πάρος περ.
+
+### book 240.2
+
+*) [ἡ διπλῆ] πρὸς τὴν ἑξῆς ἀθέτησιν (329), ὅτι τὸ σῶμα
+
+### book 240.3
+
+μόνον ἠλλοιοῦτο, ἡ δὲ ψυχὴ ἔμενεν ἀμετάβλητος. πῶς οὖν ἂν
+
+### book 240.4
+
+λέγοι „σοὶ δέ τις ἐν στήθεσσιν ἀκήλητος νόος ἐστίν“ (329),
+
+### book 240.5
+
+ὡς καὶ τοῦ νοῦ ἠλλοιωμένου; HQT.
+
+### book 242.1
+
+πάρ ῥ’ ἄκυλον βάλανόν τ’ ἔβαλεν καρπόν τε
+
+### book 242.2
+
+κρανείης.
+
+### book 242.3
+
+Versum Aristarchus non legit cf. HQV. Ἀρίσταρχος οὐκ
+
+### book 242.4
+
+οἶδε τὸν στίχον. ὁ δὲ Καλλίστρατος ἀντ’ αὐτοῦ γράφει „παν‐
+
+### book 242.5
+
+τοίης ὕλης ἐτίθει μελιηδέα καρπόν“.
+
+### book 268.1
+
+οὔτε τιν’ ἄλλον ‖ ἄξεις σῶν ἑτάρων.
+
+### book 268.2
+
+†) Ἀρίσταρχος ἀντὶ τοῦ σῶον H.
+
+### book 271,n2.1
+
+τῷδ’ ἐνὶ χώρῳ.
+
+### book 271,n2.2
+
+ὡς τὸ „κλυτὸς Ἱπποδάμεια“ μετεσχηματισμένον B.
+
+### book 271,n2.3
+
+Hoc qui scripsit χώρῳ pro χώρᾳ legit. Exemplo allato Ar. ex‐
+
+### book 271,n2.4
+
+plicare solebat, substantivis feminini generis adiici saepe adiectiva
+
+### book 271,n2.5
+
+masculina cf. F. Ar. p. 31 et exempla ad β 214 collata.
+
+### book 307.1
+
+Ἑρμείας μὲν ἔπειτ’ ἀπέβη.
+
+### book 307.2
+
+Notatum fuit vocabulum ἔπειτα ἀντὶ χρονικοῦ, ἀντὶ τοῦ
+
+### book 307.3
+
+μετὰ ταῦτα, cf. Ι 169 ubi sic explanatur noster versus.
+
+### book 320.1
+
+ἔρχεο νῦν συφεόνδε, μετ’ ἄλλων λέξο ἑταίρων.
+
+### book 320.2
+
+†) οὕτως Ἀρίσταρχος δισυλλάβως τὸ λέξο· ἄδηλον δὲ πό‐
+
+### book 320.3
+
+τερον κοιμῶ ἢ συναριθμοῦ H.
+
+### book 320.4
+
+E Didymo et Aristonico manasse videtur. cf. L. Ar. 147.
+
+### book 328.1
+
+ἀμείψεται ἕρκος ὀδόντων.
+
+### book 328.2
+
+†) διαβῇ, παρέλθῃ. τὰ φάρμακα δηλονότι, ὡς τὸ „δοῦρα
+
+### book 328.3
+
+σέσηπεν“ (Β 135) Q.
+
+### book 328.4
+
+Diple fuit, quod praeter consuetudinem verbi formam sin‐
+
+### book 328.5.1
+
+gularem construxit Homerus cum plurali neutrius φάρμακα (cf.
+
+### book 328.5.2
+
+F. Ar. 15) et quod in verbo ἀμείψεται vocalis η correpta est (cf.
+
+### book 328.5.3
+
+F. Ar. p. 13).
+
+### book 329.1
+
+σοὶ δέ τις ἐν στήθεσσιν ἀκήλητος νόος ἐστίν.
+
+### book 329.2
+
+ὁ Σιδώνιός φησιν ἀθετεῖσθαι τὸν στίχον H. Ab Aristarcho
+
+### book 329.3
+
+expunctum esse versum manifestum est ex Ar. ad v. 240. De
+
+### book 329.4
+
+Dionysio Sidonio ab Aristonico commemorato cf. ad Μ 36.
+
+### book 329.5
+
+Τ 365.
+
+### book 351.1
+
+οἵ τ’ εἰς ἅλαδε προρέουσιν.
+
+### book 351.2
+
+†) οἵ τε ἅλαδε, οὕτω γράφει Ζηνόδοτος (corr. Duentzer
+
+### book 351.3
+
+p. 83, cod. οἵτ’ εἰς ἅλαδε lemma, et οὔτε γρ. Ζ.), Ἀρίσταρχος
+
+### book 351.4
+
+δὲ οἳ εἰς ἅλαδε. περισσὴ δέ ἐστιν ἡ εἰς HQ. (Buttmanni con‐
+
+### book 351.5.1
+
+iectura acutissima pro codd. εἰς ἅλα· δεύτερον). Didymi et
+
+### book 351.5.2
+
+Aristonici verba coaluerunt, de praepositione εἰς superflua cf.
+
+### book 351
+
+F. Ar. p. 27 et 28.
+
+### book 354.1
+
+ἡ δὲ ἑτέρη.
+
+### book 354.2
+
+*) ὅτι τὸ ἑτέρη ὑγιῶς ἐπὶ τῆς δευτέρας H. cf. Ι 313.
+
+### book 354.3
+
+Μ 93.
+
+### book 409.1
+
+οἴκτρ’ ὀλοφυρομένους.
+
+### book 409.2
+
+†) οἰκτρῶς καὶ ἐλεεινῶς ὀδυρομένους H. cf. F. Ar. 29.
+
+### book 409.3
+
+α 209 et exempla ibid.
+
+### book 440.1
+
+ἀποπλήξας κεφαλήν.
+
+### book 440.2
+
+ἀντὶ τοῦ ἀποκόψας ex Ψ 120 hic posui, ubi Ar. sic inter‐
+
+### book 440.3
+
+pretatur hunc locum. Altera lectio erat ἀποτμήξας, quam Ze‐
+
+### book 440.4
+
+nodoti esse colligam ex schol. Σ 34. cf. Eust. 1664, 31. L. Ar.
+
+### book 440.5
+
+13. Λ 146. Did.
+
+### book 471.1
+
+καὶ τότε μ’ ἐκκαλέσαντες.
+
+### book 471.2
+
+*) [ἡ διπλῆ ὅτι] ὁ καὶ περισσός BQ. cf. F. Ar. 34. α 33.
+
+### book 495.1
+
+τοὶ δὲ σκιαὶ ἀίσσουσιν.
+
+### book 495.2
+
+†) ἀντὶ τοῦ αἱ ψυχαί· ὁ μέντοι ποιητὴς πρὸς τοὺς ἄλλους
+
+### book 495.3
+
+νεκροὺς ποιεῖται τὴν σύγκρισιν ἐν τῷ „οἱ δὲ ἄλλοι νεκροὶ ὡς
+
+### book 495.4
+
+σκιαὶ ἀίσσουσιν“ BQT. cf. F. Ar. p. 30.
+
+### book 501.1
+
+ὦ Κίρκη, τίς γάρ.
+
+### book 501.2
+
+*) [ἡ διπλῆ ὅτι] ἀπὸ τοῦ γὰρ ἤρξατο H. cf. α 337 et
+
+### book 501.3
+
+exempla ibid.
+
+### book 509.1
+
+ἐνθ’ ἀκτή τε λάχεια.
+
+### book 509.2
+
+Fuit diple periestigmene, quod Zenodotus scripsit ἐλάχεια
+
+### book 509.3
+
+cf. BHQT: βαθεῖα, εὔγεως, εὔσκαφος. οὐ δεῖ δὲ γράφειν ἐλάχεια
+
+### book 509.4
+
+(sic Zenod. cf. ι 116), οὐ γὰρ εἰκὸς ἐλάχιστον ἀκούειν τῆς Περ‐
+
+### book 509.5.1
+
+σεφόνης τὸ τέμενος. οὐκ ἄτοπον δὲ περὶ τὴν ἀκτὴν εἶναι
+
+### book 509.5.2
+
+ἄλσος. πολλὰ γὰρ εὕροι τις ἂν ἄλση ἐπιθαλάσσια.
+
+### book 510.1
+
+ἰτέαι ὠλεσίκαρποι.
+
+### book 510.2
+
+†) σημείωσαι ὅτι ἄκαρπα φυτὰ εἶπεν εἶναι ἐν τῷ ἄλσει
+
+### book 510.3
+
+τῆς Περσεφόνης, διὰ τὸ νεκροῖς προσήκειν BQ.
+
+### book 513.1
+
+ἔνθα μὲν εἰς Ἀχέροντα Πυριφλεγέθων τε ῥέουσιν
+
+### book 513.2
+
+Κωκυτός τε
+
+### book 513.1
+
+†) τὸ ἑξῆς, ἔνθα μὲν εἰς Ἀχέροντα Πυριφλεγέθων τε καὶ
+
+### book 513.2
+
+Κωκυτὸς ῥέουσι· τὸ δὲ σχῆμα καλεῖται προδιεζευγμένον, ὅταν
+
+### book 513.5.1
+
+τὸ μεταξὺ δύο ὀνομάτων ἑνικῶν πληθυντικὸν τεθῇ ῥῆμα· τοῦτο
+
+### book 513.5.2
+
+καλεῖται Ἀλκμανικὸν οὐχ ὅτι Ἀλκμὰν πρῶτος αὐτῷ ἐχρήσατο,
+
+### book 513.5.3
+
+ἀλλ’ ὅτι πολύ ἐστι παρ’ αὐτῷ, οἷον „Κάστωρ ὠκέων πώλων
+
+### book 513.5.4
+
+ἐλατῆρες καὶ Πολυδεύκησ“. ὅμοιον δέ ἐστι τὸ σχῆμα „εἰ δέ
+
+### book 513.5.5
+
+κ’ Ἄρης ἄρχωσι μάχης ἢ Φοῖβος Ἀπόλλων“ (Ψ 138) καὶ „ἔνθα
+
+### book 513.10
+
+ῥοὰς Σιμόεις συμβάλλετον ἠδὲ Σκάμανδροσ“ (Ε 774) HQ. cf.
+
+### book 513
+
+Ar. ad Ψ 138, ubi citatur noster versus, et Ε 774.
+
+### book 7.1
+
+ἴκμενον οὖρον ἵει .. ἐσθλὸν ἑταῖρον.
+
+### book 7.2
+
+*) [ἡ διπλῆ ὅτι ἑταῖρον οὐ φίλον λέγει, ἀλλὰ] νῦν τὸν
+
+### book 7.3
+
+συνεργόν V.
+
+### book 7.4
+
+cf. ad Ν 456, ubi diple etiam propter nostrum locum. L.
+
+### book 7.5
+
+Ar. 116.
+
+### book 11.1
+
+ποντοπορούσης.
+
+### book 11.2
+
+†) δῆλός ἐστιν ὁ ποιητὴς διὰ τὸ ποντοπορούσης Ὠκεανὸν
+
+### book 11.3
+
+καλῶν τὴν ἔξω θάλασσαν. ἀλλαχοῦ δὲ ποταμὸν τὸν Ὠκεανὸν
+
+### book 11.4
+
+καλεῖ διὰ τὸ ῥοῶδες BQ. cf. L. Ar. 174. Eust. 1670, 33.
+
+### book 26.1
+
+χοὴν χεόμην.
+
+### book 26.2
+
+Diple periestigmene propter Zenodoti lectionem χεάμην fuit
+
+### book 26.3
+
+cf. H.
+
+### book 38-43.1
+
+ψυχαὶ ὑπὲξ Ἐρέβευς νεκύων κατατεθνηώτων
+
+### book 38-43.2
+
+νύμφαι τ’ ἠίθεοί τε πολύτλητοί τε γέροντες,
+
+### book 38-43.3
+
+παρθενικαί τ’ ἀταλαὶ νεοπενθέα θυμὸν ἔχουσαι·
+
+### book 38-43.4
+
+πολλοὶ δ’ οὐτάμενοι χαλκήρεσιν ἐγχείῃσιν,
+
+### book 38-43.5.1
+
+ἄνδρες ἀρηίφατοι βεβροτωμένα τεύχε’ ἔχοντες.
+
+### book 38-43.5.2
+
+οἳ πολλοὶ περὶ βόθρον ἐφοίτων ἄλλοθεν ἄλλος
+
+### book 38-43.5.3
+
+θεσπεσίῃ ἰαχῇ. ἐμὲ δὲ χλωρὸν δέος ᾕρει.
+
+### book 38-43.5.4
+
+*) οἱ [ἕξ] καὶ παρὰ Ζηνοδότῳ καὶ Ἀριστοφάνει [προ] ἠθε‐
+
+### book 38-43.5.5
+
+τοῦντο ὡς ἀσύμφωνοι πρὸς τὰ ἑξῆς. οὐ γὰρ μεμιγμέναι παρα‐
+
+### book 38-43.10
+
+γίνονται αἱ ψυχαί. νῦν δὲ ὁμοῦ νύμφαι, ἠίθεοι, γέροντες, παρ‐
+
+### book 38-43.1
+
+θένοι. καὶ ἄλλως οὐδὲ τὰ τραύματα ἐπὶ τῶν εἰδώλων ὁρᾶται,
+
+### book 38-43.2
+
+ὅθεν ἐρωτᾷ „τίς νύ σε κὴρ ἐδάμασσε; (398) τὸν Ἀγαμέμνονα
+
+### book 38-43.3
+
+HQ.
+
+### book 38-43.4
+
+Numerum expunctorum versuum posui ex schol. in V. M.
+
+### book 38-43.15.1
+
+Vind. 56. 133 (cf. La Roche). Sic etiam Eust. 1672, 34. Obe‐
+
+### book 38-43.15.2
+
+lis notati sunt versus in CG.
+
+### book 52-4.1
+
+οὐ γάρ πω ἐτέθαπτο ὑπὸ χθονὸς εὐρυοδείης·
+
+### book 52-4.2
+
+σῶμα γὰρ ἐν Κίρκης μεγάρῳ κατελείπομεν ἡμεῖς
+
+### book 52-4.3
+
+ἄκλαυτον καὶ ἄθαπτον, ἐπεὶ πόνος ἄλλος ἔπειγε.
+
+### book 52-4.4
+
+Versus expunxit Callistratus cf. in HQ: εἰ ἀποφαίνεται νῦν
+
+### book 52-4.5.1
+
+περὶ τοῦ θανάτου αὐτοῦ, πῶς ἑξῆς διστάζων φησὶ „πῶς ἦλθες
+
+### book 52-4.5.2
+
+ὑπὸ ζόφον;“ διὸ ὁ Καλλίστρατος ἀθετεῖ. La Roche p. 235
+
+### book 52-4.5.3
+
+Aristarchum etiam hos versus damnasse colligit ex Aristonici
+
+### book 52-4.5.4
+
+adnotatione ad Ψ 73. Sed hoc est notatum propter extremam
+
+### book 52-4.5.5
+
+Od., ubi statim nondum sepulti ad inferos perveniunt cf. L. Ar.
+
+### book 52-4.10.1
+
+174. Aristarchus si in athetesi hac caussa movebatur, non hos
+
+### book 52-4.10.2
+
+duos modo versus, sed totum locum 52—83 damnare debebat,
+
+### book 52-4.10.3
+
+quia Elpenor nondum sepultus tamen apud inferos est et ab
+
+### book 52-4.10.4
+
+Ulixe exsequias petit. Quid Aristarchus de hoc loco statuerit,
+
+### book 52-4.10.5
+
+non est servatum, sed hoc est certum, illum v. 52—54 non ex‐
+
+### book 52-4.15
+
+punxisse propter eam caussam, quam La Roche affert.
+
+### book 66,n1.1
+
+νῦν δέ σε τῶν ὄπιθεν γουνάζομαι, οὐ παρεόντων,
+
+### book 66,n1.2
+
+πρός τ’ ἀλόχου καὶ πατρός.
+
+### book 66,n1.3
+
+λείπει ἡ πρός, ἵν’ ᾖ πρὸς τῶν οὐ παρεόντων νῦν, ἀλλὰ κατα‐
+
+### book 66,n1.4
+
+λειφθέντων εἰς τὴν ἡμῶν οἰκίαν HQ. Quod de praepositione omissa
+
+### book 66,n1.5
+
+dicitur, fluxit fortasse ex Ar.
+
+### book 84.1
+
+ψυχὴ μητρὸς κατατεθνηυίης.
+
+### book 84.2
+
+*) ὅτι πρὸς τὸ ἐκ τῆς περιφράσεως νοούμενον ἀπήντησε.
+
+### book 84.3
+
+ψυχὴ γὰρ μητρὸς κατατεθνηκυίας ἐστὶν ἡ Ἀντίκλεια BQ.
+
+### book 90.1
+
+ψυχὴ Θηβαίου Τειρεσίαο.
+
+### book 90.2
+
+*) ὅτι πάλιν πρὸς τὸ ἐκ τῆς περιφράσεως νοητὸν ἀπήν‐
+
+### book 90.3
+
+τησε. ψυχὴ γὰρ Θηβαίου Τειρεσίου ἐστὶν ὁ Τειρεσίας. διὸ
+
+### book 90
+
+ἐπήνεγκεν ἔχων, οὐκ ἔχουσα HQ.
+
+### book 93.1
+
+Fuit diple periestigmene, quod Zenodotus dedit τίπτ’
+
+### book 93.2
+
+αὔτως pro τίπτ’ αὖτ’ ὦ cf. H.
+
+### book 105.1
+
+αἴ κ’ ἐθέλῃς σὸν θυμὸν ἐρυκακέειν.
+
+### book 105.2
+
+*) [ἡ διπλῆ ὅτι τὸ αἴ κ’ ἐθέλῃς ἀντὶ τοῦ] ἐὰν δύνῃ V.
+
+### book 105.3
+
+cf. Φ 366. L. Ar. 148. γ 121. θ 223. ο 317.
+
+### book 107.1
+
+ἰοειδέα πόντον.
+
+### book 107.2
+
+Ar. interpretatio vocabuli ἰοειδέα est ad Ψ 850 ἀντὶ τοῦ
+
+### book 107.3
+
+μέλανα πόντον.
+
+### book 115.1
+
+δήεις δ’ ἐν πήματα οἴκῳ,
+
+### book 115.2
+
+ἄνδρας ὑπερφιάλους, οἵ τοι βίοτον κατέδουσιν.
+
+### book 115.3
+
+*) ὅτι οὐκ ἐνήλλακται ὁ χρόνος ὡς τὸ „σύν τε μεγάλῳ
+
+### book 115.4
+
+ἀπέτισαν“ (Δ 161, ubi Zenodotus τίσουσιν scripsit). οὐ γὰρ
+
+### book 115.5.1
+
+ἦσαν οἱ μνηστῆρες συνηγμένοι εἰς τὸν οἶκον Ὀδυσσέως H.
+
+### book 115.5.2
+
+Aristophanes legit κατέδοιεν cf. ad β 313.
+
+### book 125.1
+
+Diple fuit πρὸς τὸ σχῆμα „οὐδ’ εὐήρε’ ἐρετμά, τά τε
+
+### book 125.2
+
+πτέρα νηυσὶ πέλονται“, πέλονται ἀντὶ τοῦ πέλεται cf. ad Κ 351
+
+### book 125.3
+
+ubi noster versus notatur, η 132. κ 328.
+
+### book 134.1
+
+θάνατος δέ τοι ἐξ ἁλὸς αὐτῷ.
+
+### book 134.2
+
+†) ἔξω τῆς ἁλός· οὐ γὰρ οἶδεν ὁ ποιητὴς τὰ κατὰ τὸν Τη‐
+
+### book 134.3
+
+λέγονον· καὶ τὰ κατὰ τὸ κέντρον τῆς τρυγόνος Q.
+
+### book 134.4
+
+cf. ad Λ 163 ubi eadem est interpretatio. F. Ar. p. 28.
+
+### book 134.5
+
+Ψ 281.
+
+### book 157-9.1
+
+μέσσῳ γὰρ μεγάλοι ποταμοὶ καὶ δεινὰ
+
+### book 157-9.2
+
+ῥέεθρα,
+
+### book 157-9.3
+
+Ὠκεανὸς μὲν πρῶτα, τὸν οὔ πως ἔστι περῆσαι
+
+### book 157-9.4
+
+πεζὸν ἐόντ’, ἢν μή τις ἔχῃ εὐεργέα νῆα.
+
+### book 157-9.5.1
+
+†) ἀθετοῦνται τρεῖς H. Caussas affert MV Vind. 56 sed
+
+### book 157-9.5.2
+
+valde mutilatas: τὸ γὰρ ἑξῆς, μέσον Ὠκεανός. γέλοιον δὲ καὶ
+
+### book 157-9.5.3
+
+πεζὸν ἐόντα. Obeli sunt in G, cf. La Roche p. 240. Nitzsch
+
+### book 157-9.5.4
+
+III, 214.
+
+### book 161-2.1
+
+νηί τε καὶ ἑτάροισι πολὺν χρόνον; οὐδέ πω
+
+### book 161-2.2
+
+ἦλθες
+
+### book 161-2.3
+
+εἰς Ἰθάκην, οὐδ’ εἶδες ἐνὶ μεγάροισι γυναῖκα;
+
+### book 161-2
+
+Nota fuit de Aristophanis athetesi versuum 161—62 cf. H.
+
+### book 185.1
+
+Τηλέμαχος τεμένεα νέμεται.
+
+### book 185.2
+
+†) σεσημείωται τὸ ὄνομα ἀδιαιρέτως ἐξηνεχθέν HQ. cf.
+
+### book 185.3
+
+ad Β 423 BL. Legit igitur Ar. τεμένη et fallitur H: Ἀρίσταρ‐
+
+### book 185.4
+
+χος τεμένεα.
+
+### book 191.1
+
+ἐν κόνι ἄγχι πυρός, κακὰ δὲ χροὶ εἵματα εἷται·
+
+### book 191.2
+
+*) ὅτι τὴν ἀπὸ τῆς ἐσχάρας σποδὸν κόνιν εἴρηκεν H. cf.
+
+### book 191.3
+
+ad Σ 23.
+
+### book 191.4
+
+Praeterea Zenodoti lectio ἧσται notata fuit. cf. H.
+
+### book 202.1
+
+ἀλλά με σός τε πόθος σά τε μήδεα, φαίδιμ’
+
+### book 202.2
+
+Ὀδυσσεῦ,
+
+### book 202.3
+
+σή τ’ ἀγανοφροσύνη μελιηδέα θυμὸν ἀπηύρα.
+
+### book 202.4
+
+*) ὅτι οὐχ ὡς οἱ νεώτεροί φασιν, αὐτὴν ἀπάγξασθαι παρὸ
+
+### book 202.5.1
+
+Ναυπλίου πεπυσμένην τὴν Ὀδυσσέως τελευτήν. οἳ διεσφάλη‐
+
+### book 202.5.2
+
+σαν ὑπὸ τοῦ λεγομένου παρὰ τοῦ συβώτου ὡς „ἀπώλετο λευ‐
+
+### book 202.5.3
+
+γαλέῳ θανάτῳ, ὡς μὴ θάνοι ὅστις ἔμοιγε ἐνθάδε ναιετάων
+
+### book 202.5.4
+
+φίλος εἴη καὶ φίλα ἔρδοι“ (ο 359). διαρρήδην γὰρ νῦν ὁμο‐
+
+### book 202.5.5
+
+λογεῖ τεθνηκέναι ἕνεκα τοῦ ποθεῖν τὸν Ὀδυσσέα HQ. cf. V
+
+### book 202.10
+
+ad 197.
+
+### book 236.1
+
+*) ὅτι οὐχ ὑποτίθεται ἀσεβῆ τὸν Σαλμωνέα, ὡς οἱ
+
+### book 236.2
+
+νεώτεροι. οὐ γὰρ εὐπατέρειαν ἂν τὴν Τυρὼ εἶπεν οὐδὲ ἀμύ‐
+
+### book 236.3
+
+μονος πατρός QT.
+
+### book 239.1
+
+(Enipeus) ὃς πολὺ κάλλιστος ποταμῶν.
+
+### book 239.2
+
+*) ἐναντίον εἶναι δοκεῖ τοῦτο τῷ „Ἀξίου, οὗ κάλλιστον
+
+### book 239.3
+
+ὕδωρ ἐπὶ γαῖαν ἵησιν“ (Φ 158). εἰ γὰρ κάλλιστος οὗτος πάν‐
+
+### book 239.4
+
+των, οὐκ ἄρα ἐκεῖνος. λύεται δὲ κατὰ λέξιν. τὸ γὰρ κάλλιστον
+
+### book 239.5.1
+
+οὐχ ἓν λέγεται, ἀλλὰ πλείω. δηλοῖ δὲ καὶ αὐτὸς ποτὲ μὲν
+
+### book 239.5.2
+
+λέγων „Λαοδίκην ἐσάγουσα θυγατρῶν εἶδος ἀρίστην“, (Ζ 252)
+
+### book 239.5.3
+
+ποτὲ δὲ „ᾔτεε δὲ Πριάμοιο θυγατρῶν εἶδος ἀρίστην Κασάν‐
+
+### book 239.5.4
+
+δρην“ (Ν 365). καὶ μὴν καὶ ἀμφότεραι τοῦ Πριάμου θυγα‐
+
+### book 239.5.5
+
+τέρες, καὶ ἐὰν ἡ μία θυγατρῶν εἶδος ἀρίστη, οὐκ ἄρα τις ἄλλη,
+
+### book 239.10.1
+
+ἀλλ’ ὅμως καὶ ἐπὶ τῶν δύο τοῦτό φησι HQT, cf. Ν 365.
+
+### book 239.10.2
+
+F. Ar. 31.
+
+### book 245
+
+λῦσε δὲ παρθενίην ζώνην, κατὰ δ’ ὕπνον ἔχευεν.
+
+### book 245.1
+
+*) ἀθετεῖται. πρὸς τί γὰρ τῇ ἐρώσῃ καὶ ἑκουσίως βου‐
+
+### book 245.2
+
+λομένῃ μιγῆναι κατέχευεν ὕπνον; Ζηνόδοτος δὲ ἀγνοεῖ τὸν
+
+### book 245.3
+
+στίχον H.
+
+### book 249.1
+
+τέξεις ἀγλαὰ τέκνα.
+
+### book 249.2
+
+Diple periestigmene, quod Zenodotus κακῶς τέξεαι cf. H.
+
+### book 249.3
+
+Media enim forma Homerus de patre aut de ambobus parenti‐
+
+### book 249.4
+
+bus utitur. L. Ar. 155.
+
+### book 258.1
+
+τοὺς δ’ ἑτέρους Κρηθῆι τέκεν.
+
+### book 258.2
+
+†) καλῶς τοὺς ἑτέρους· δύο γὰρ ἦσαν γένη παίδων, τὸ μὲν
+
+### book 258.3
+
+ἐκ Ποσειδῶνος, τὸ δὲ ἐκ Κρηθέως Q. cf. κ 354.
+
+### book 260,n2.1
+
+Ἀντιόπην ἴδον, Ἀσωποῖο θύγατρα.
+
+### book 260,n2.2
+
+ὁ μὲν ποιητὴς Ἀσωποῦ, οἱ δὲ τραγικοὶ Νυκτέως MH. Fluxit
+
+### book 260,n2.3
+
+fortasse ex Ar.
+
+### book 263,n3.1
+
+οἳ πρῶτοι Θήβης ἕδος ἔκτισαν (Amphion et Zethus)
+
+### book 263,n3.2
+
+ὅτι οἱ περὶ Ἀμφίονα ἐτείχισαν τὰς Θήβας διὰ τὸ δεδοικέναι τοὺς
+
+### book 263,n3.3
+
+Φλεγύας. μετὰ δὲ τελευτὴν αὐτῶν κατασκαφείσης τῆς πόλεως ὑπὸ
+
+### book 263,n3.4
+
+Εὐρυμάχου τοῦ Φλεγυῶν βασιλέως, Κάδμος ὕστερον ἐλθὼν ἀνέκτισε
+
+### book 263,n3.5.1
+
+τὴν Θήβην Q. Fortasse fluxit ex Ar., qui aetate posteriorum poeta‐
+
+### book 263,n3.5.2
+
+rum fabulas ab Homero discrepantes notare solebat.
+
+### book 271,n4.1
+
+μητέρα τ’ Οἰδιπόδαο ἴδον, καλὴν Ἐπικάστην,
+
+### book 271,n4.2
+
+παρὰ τοῖς τραγικοῖς Ἰοκάστην V.
+
+### book 271,n4.3
+
+Fluxit fortasse ex Ar. cf. ad 263 not. 3.
+
+### book 275.1
+
+(Oedipus) ἀλλ’ ὁ μὲν ἐν Θήβῃ πολυηράτῳ ἄλγεα
+
+### book 275.2
+
+πάσχων
+
+### book 275.3
+
+Καδμείων ἤνασσε θεῶν ὀλοὰς διὰ βουλάς.
+
+### book 275.4
+
+*) [ἡ διπλῆ ὅτι] ἀγνοεῖ τὴν τύφλωσιν καὶ τὴν φυγὴν Οἰ‐
+
+### book 275.5.1
+
+δίποδος. καὶ ἐν Ἰλιάδι (Ψ 678) γράφει αὐτὸν ἐν Θήβῃ τετε‐
+
+### book 275.5.2
+
+λευτηκέναι· „Μηκιστέως υἱὸς Ταλαϊονίδαο ἄνακτος, ὅς ποτε
+
+### book 275.5.3
+
+Θήβασδε ἦλθε δεδουπότος Οἰδιπόδαο“. BHQ.
+
+### book 275
+
+cf. ad Ψ 678. L. Ar. 186.
+
+### book 286.1
+
+ἥ δὲ Πύλου βασίλευε, τέκεν δέ οἱ ἀγλαὰ τέκνα,
+
+### book 286.2
+
+Νέστορά τε Χρομίον τε Περικλύμενόν τ’ ἀγέρωχον.
+
+### book 286.3
+
+†) ἐναντία φαίνεται ταῦτα τῷ „δώδεκα γὰρ υἷες ἦμεν“
+
+### book 286.4
+
+(Λ 692). τρεῖς γὰρ εἴρηνται νῦν. λύοιτο δ’ ἂν ἐκ τῆς λέξεως·
+
+### book 286.5.1
+
+ἐνταῦθα γὰρ ἐκ τῆς Χλωρίδος τρεῖς γενέσθαι τῷ Νηλεῖ φησι.
+
+### book 286.5.2
+
+τί οὖν ἐκώλυε καὶ ἐξ ἑτέρων ἔχειν τοὺς λοιπούς; H.
+
+### book 286.5.3
+
+Fuit diple πρὸς τοὺς χωρίζοντας cf. ad Λ 692.
+
+### book 300.1
+
+ἥ ῥ’ ὑπὸ Τυνδαρέῳ κρατερόφρονε γείνατο παῖδε.
+
+### book 300.2
+
+*) ὅτι οὐ παραδίδωσιν ἐκ Διὸς Κάστορα καὶ Πολυδεύκην,
+
+### book 300.3
+
+ἀλλ’ ἐστὶ νεωτερικὰ ταῦτα H.
+
+### book 315-6.1
+
+Ὄσσαν ἐπ’ Οὐλύμπῳ μέμασαν θέμεν, αὐτὰρ
+
+### book 315-6.2
+
+ἐπ’ Ὄσσῃ
+
+### book 315-6.3
+
+Πήλιον εἰνοσίφυλλον, ἵν’ οὐρανὸς ἀμβατὸς εἴη.
+
+### book 315-6.4
+
+*) ἀθετοῦνται ὡς ἀδύνατοι V. cf. L. Ar. 171. Eust.
+
+### book 315-6.5
+
+1687, 28.
+
+### book 326.1
+
+Notatum fuit Homero ignotum esse Eriphylam per fi‐
+
+### book 326.2
+
+lium interiisse cf. L. Ar. 184. γ 309—10. ο 248.
+
+### book 350.1
+
+ξεῖνος δὲ τλήτω.
+
+### book 350.2
+
+†) ὁ δὲ παραπληρωματικῶς κεῖται οὐδὲν σημαίνων HQ.
+
+### book 350.3
+
+cf. F. Ar. 33. β 6 et exempla ibid.
+
+### book 353.1
+
+μάλιστα δ’ ἐμοί. τοῦ γὰρ κράτος.
+
+### book 353.2
+
+†) δεικτικῶς ἀντὶ τοῦ ἐμοῦ οὗτινος ἰσχύς ἐστιν ἐν τῷ δήμῳ
+
+### book 353.3
+
+BQ. cf. F. Ar. p. 30.
+
+### book 364.1
+
+οἷά τε πολλούς.
+
+### book 364.2
+
+Diple periestigmene fuit contra Zenodotum, cf. Didymum:
+
+### book 364.3
+
+πολλούς· οὕτως Ζηνόδοτος· ὁ δὲ Ἀρίσταρχος πολλούς. Zeno‐
+
+### book 364.4
+
+dotum πολλά scripsisse monet La Roche, aliter Duentzer, l. c.
+
+### book 364.5.1
+
+p. 73, qui πολλά Aristarcho, πολλούς Zenodoto tribuit. Verba
+
+### book 364.5.2
+
+Didymi, quae prima specie non sibi constare videntur, olim in
+
+### book 364.5.3
+
+codice scripta fuisse existimat, cuius in textu πολλά ferebatur.
+
+### book 379.1
+
+ὥρη μὲν πολέων μύθων, ὥρη δὲ καὶ ὕπνου.
+
+### book 379.2
+
+†) ὁ μὲν Ἀρίσταρχος ἐν τῷ καθόλου, ὁ δὲ Σιδώνιος ἐλ‐
+
+### book 379.3
+
+λειπτικῶς· ὥρη μὲν πολέων μύθων παύσασθαι, ὥρη δὲ ὕπνου
+
+### book 379
+
+μνήσασθαι HT.
+
+### book 399-403.1
+
+Fuit nota de Aristophanis athetesi versuum 399
+
+### book 399-403.2
+
+—403 cf. in H: οἱ ἠὲ (i. e. versus ab ἠὲ incipientes et qui ab
+
+### book 399-403.3
+
+iis pendent, sc. 399—403 Porson.) ἀθετοῦνται ὑπὸ Ἀριστοφά‐
+
+### book 399-403.4
+
+νους ὡς ἀπὸ τῶν εἰρησομένων (406—8) μετενεχθέντες.
+
+### book 410.1
+
+(Aegisthus) ἔκτα σὺν οὐλομένῃ ἀλόχῳ οἰκόνδε
+
+### book 410.2
+
+καλέσσας ‖ δειπνίσσας.
+
+### book 410.3
+
+*) ὅτι τῇ ἐπιβουλῇ κἀκείνη συνέγνω· τὸν γὰρ χιτῶνα καὶ
+
+### book 410.4
+
+τὸν πέλεκυν Ὅμηρος οὐκ οἶδεν Q. Praeterea notata erat forma
+
+### book 410.5
+
+verbi ἔκτα cf. ad Ο 432.
+
+### book 428,n5.1
+
+ἥ τις δὴ τοιαῦτα μετὰ φρεσὶν ἔργα βάληται.
+
+### book 428,n5.2
+
+ἐν πολλοῖς οὐ φέρεται ὡς ἐκλύων τὸν θυμὸν, οὐ γὰρ ὅτι πρὸς
+
+### book 428,n5.3
+
+θεραπείαν Ἀρήτης ὁ Ὀδυσσεύς· οὐ γὰρ ἀναγκαῖον τῷ ὑποκρινομένῳ
+
+### book 428,n5.4
+
+τὸ πρόσωπον Ἀγαμέμνονος περιίστασθαί τι εἰπεῖν H.
+
+### book 430.1
+
+κουριδίῳ τεύξασα πόσει φόνον.
+
+### book 430.2
+
+*) ὅτι κουρίδιον αὐτόν φησιν. ἔνιοι γὰρ γεγαμῆσθαι τὴν
+
+### book 430.3
+
+Κλυταιμνήστραν Ταντάλῳ, ὡς Εὐριπίδης (Iphig. Aul. 1149) εἰσάγει
+
+### book 430.4
+
+αὐτὴν λέγουσαν „ἔγημας ἄκουσάν με κἄλαβες βίᾳ τὸν πρόσθεν
+
+### book 430.5
+
+ἄνδρα Τάνταλον κατακτανών“ Q. cf. Η 392. Eust. 1693, 10.
+
+### book 435-42.1
+
+ὣς ἔφατ’· αὐτὰρ ἐγώ μιν ἀμειβόμενος προσ‐
+
+### book 435-42.2
+
+έειπον·
+
+### book 435-42.3
+
+ὢ πόποι, ἦ μάλα δὴ γόνον Ἀτρέος εὐρύοπα Ζεὺς
+
+### book 435-42.4
+
+ἐκπάγλως ἤχθηρε γυναικείας διὰ βουλάς
+
+### book 435-42.5.1
+
+ἐξ ἀρχῆς· Ἑλένης μὲν ἀπωλόμεθ’ εἵνεκα πολλοί,
+
+### book 435-42.5.2
+
+σοὶ δὲ Κλυταιμνήστρα δόλον ἤρτυε τηλόθ’ ἐόντι.
+
+### book 435-42.5.3
+
+ὣς ἐφάμην, ὁ δέ μ’ αὐτίκ’ ἀμειβόμενος προσέειπε·
+
+### book 435-42.5.4
+
+τῶ νῦν μή ποτε καὶ σὺ γυναικί περ ἤπιος εἶναι
+
+### book 435-42.5.5
+
+μήθ’ οἱ μῦθον ἅπαντα πιφαυσκέμεν, ὅν κ’ εὖ εἰδῇς.
+
+### book 435-42.10.1
+
+Obeli sunt appicti in M, et ex cod. H sequitur, Aristo‐
+
+### book 435-42.10.2
+
+phanem eos expunxisse. Dindorfius solos versus 435—40 pro
+
+### book 435-42.10.3
+
+spuriis habet. Num Aristarchus Aristophanem secutus sit, non
+
+### book 435-42.10.4
+
+manifestum est.
+
+### book 453.1
+
+πάρος δέ με πέφνε καὶ αὐτόν.
+
+### book 453.2
+
+*) [ἡ διπλῆ ὅτι] περιττὸς ὁ καί H. cf. α 33 et exempla
+
+### book 453.3
+
+ibid.
+
+### book 454-6,n6.1
+
+ἄλλο δέ τοι ἐρέω, σὺ δ’ ἐνὶ φρεσὶ βάλλεο σῇσι
+
+### book 454-6,n6.2
+
+κρύβδην, μηδ’ ἀναφανδά, φίλην ἐς πατρίδα γαῖαν
+
+### book 454-6,n6.3
+
+νῆα κατισχέμεναι· ἐπεὶ οὐκέτι πιστὰ γυναιξίν.
+
+### book 454-6,n6.4
+
+οὐδὲ οὗτοι ἐφέροντο ἐν τοῖς πλείστοις ὡς μαχόμενοι τοῖς προ‐
+
+### book 454-6,n6.5.1
+
+κειμένοις H. Vind. 133.
+
+### book 454-6,n6.5.2
+
+Annotatio loco alieno posita spectat ad v. 454—56. Sic Bekkerus,
+
+### book 454-6,n6.5.3
+
+qui eos in textum non recepit.
+
+### book 461.1
+
+οὐ γάρ πω τέθνηκεν ἐπὶ χθονὶ δῖος Ὀρέστης.
+
+### book 461.2
+
+*) ἀθετεῖται διὰ τὸ εὔηθες. εἰ γὰρ ἐπέπειστο ὅτι οὔπω
+
+### book 461.3
+
+τέθνηκε, πρός τί ἐρωτᾷ „ἤ που ἔτι ζώοντος ἀκούετε; H.
+
+### book 461.4
+
+Hic posui, non ut Dindorf. ad v. 458.
+
+### book 496.1
+
+ἀν’ Ἑλλάδα τε Φθίην τε.
+
+### book 496.2
+
+†) σημείωσαι μόνην τὴν Θετταλίαν (cod. Φθίαν) Ἑλλάδα
+
+### book 496.3
+
+λέγειν τὸν Ὅμηρον καὶ Ἕλληνας μόνους τοὺς ἐνοικοῦντας αὐτῇ.
+
+### book 496.4
+
+τοὺς δὲ ἐν ἄλλοις τόποις οἰκοῦντας Ἀργείους κικλήσκει καὶ
+
+### book 496.5
+
+Ἀχαιούς B. cf. L. Ar. 227. α 344. δ 726. ο 80.
+
+### book 498.1
+
+οὐ γὰρ ἐγὼν ἐπαρωγός.
+
+### book 498.2
+
+Diple periestigmene fuit propter Zenodoti lectionem: εἰ
+
+### book 498.3
+
+γὰρ ἐγών. cf. H. Vind. 133.
+
+### book 501.1
+
+εἰ τοῖος δέ.
+
+### book 501.2
+
+*) [ἡ διπλῆ ὅτι] τὸ δὲ ἀντὶ τοῦ γὰρ, εἰ τοῖος γάρ H. cf.
+
+### book 501.3
+
+F. Ar. 35. β 6.
+
+### book 510.1
+
+ἀμφὶ πόλιν Τροίην φραζοίμεθα βουλάς.
+
+### book 510.2
+
+†) τρισυλλάβως τὸ Τροΐην, ὡς καὶ Ἀρίσταρχός φησι. Vind.
+
+### book 510.3
+
+133. cf. Α 129. ε 39.
+
+### book 517
+
+πάντας δ’ οὐκ ἂν ἐγὼ μυθήσομαι
+
+### book 517.1
+
+ὅσσον λαὸν ἔπεφνεν.
+
+### book 517.2
+
+*) [ἡ διπλῆ ὅτι] πρὸς τὸ σημαινόμενον ἀπέδωκε πάντας,
+
+### book 517.3
+
+ὅσσον λαόν H.
+
+### book 517.5.1
+
+Constructio quae dicitur ad sensum saepius notatur cf. F.
+
+### book 517.5.2
+
+Ar. p. 32.
+
+### book 521.1
+
+πολλοὶ δ’ ἀμφ’ αὐτὸν ἑταῖροι ‖ κήτειοι κτείνοντο.
+
+### book 521.2
+
+†) κήτειοι τοὺς μεγάλους ἀκουστέον παρὰ τὸ κῆτος, ὡς
+
+### book 521.3
+
+καὶ Ἀρίσταρχος BHQ. Eust. 1697, 19. 26.
+
+### book 521.4
+
+Lehrsius Ar. p. 153 testimonio diffidit, non quia putat ety‐
+
+### book 521.5.1
+
+mologiae rationem Aristarchi esse non posse, sed quod parum
+
+### book 521.5.2
+
+elegans ἑταῖροι μεγάλοι κτείνοντο ἀμφ’ αὐτόν.
+
+### book 525.1
+
+ἠμὲν ἀνακλῖναι πυκινὸν λόχον ἠδ’ ἐπιθεῖναι.
+
+### book 525.2
+
+†) περιγραπτέον ὡς ἀπρεπῆ. θυρωροῦ γὰρ ἔγρον H. Ἀρί‐
+
+### book 525.3
+
+σταρχος οὐκ οἶδε τὸν στίχον, ἔνια δὲ τῶν ὑπομνημάτων H.
+
+### book 525.4
+
+ἔνια Porsonus pro ἐνί, post quod lacunam indicavit La Roche.
+
+### book 547.1
+
+παῖδες δὲ Τρώων δίκασαν καὶ Παλλὰς Ἀθήνη.
+
+### book 547.2
+
+ἀθετεῖ Ἀρίσταρχος H. cf. Nitzsch III, 300.
+
+### book 547.3
+
+†) Νοθεύεται μέχρι τοῦ „ὣς εἰπὼν ὁ μὲν αὖθις ἔδυ δό‐
+
+### book 547.4
+
+μον Ἄιδος εἴσω“ (627). καίτοι οὐκ ὄντες ἀγενεῖς περὶ τὴν
+
+### book 547.5.1
+
+φράσιν. ὑπὲρ δὲ τῆς ἀθετήσεως αὐτῶν λέγεται τοιάδε· (H)
+
+### book 547.5.2
+
+πῶς οἶδε τούτους ἢ τοὺς λοιποὺς ἔσω τῶν Ἅιδου πυλῶν ὄντας
+
+### book 547.5.3
+
+καὶ τῶν ποταμῶν; HT. cf. schol. Pind. Ol. 1, 97, ubi Ari‐
+
+### book 547.5.4
+
+starchi athetesis huius loci commemoratur.
+
+### book 547.5.5
+
+De atheteseos initio plane non liquet. Buttmannus posuit
+
+### book 547.10.1
+
+numeros 568—627. Sed monet Lehrsius Ar. p. 156 nihil im‐
+
+### book 547.10.2
+
+pedire, quo minus etiam v. 565—567 inter spurios referantur, in
+
+### book 547.10.3
+
+quibus ὅμως v. 565 offensioni sit.
+
+### book 570.1
+
+(Μίνωνα) ἥμενον· οἱ δέ μιν ἀμφὶ δίκας εἴροντο
+
+### book 570.2
+
+ἄνακτα
+
+### book 570.3
+
+ἥμενοι ἑσταότες.
+
+### book 570.4
+
+†) οὐκ ἄρα ὑπεξῆλθεν ὁ Μίνως ἵνα συνοφθῇ. ἄλογον γὰρ
+
+### book 570.5
+
+τὸ καὶ σὺν δικαζομένοις καὶ αὐτῷ δίφρῳ ἐξελθεῖν HQT.
+
+### book 573.1
+
+(Ὠρίωνα) .. τοὺς αὐτὸς κατέπεφνεν ἐν οἰνοπόλοι‐
+
+### book 573.2
+
+σιν ὄρεσσι.
+
+### book 573.3
+
+†) οὐδὲ ἐπὶ τούτου τετήρηται τὸ σύμφωνον. ἄλογον γὰρ
+
+### book 573.4
+
+τὸ ἐν Ἅιδου κυνηγετεῖν· πῶς τε ἅμα τῇ τῶν θηρῶν ἀγέλῃ
+
+### book 573.5
+
+προῆλθε, καὶ διὰ τί; HT.
+
+### book 577.1
+
+(Τιτυὸν) κείμενον ἐν δαπέδῳ· ὃ δ’ ἐπ’ ἐννέα κεῖτο
+
+### book 577.2
+
+πέλεθρα.
+
+### book 577.3
+
+†) καταγέλαστα καὶ ταῦτα, εἰ κατεστρωμένος ἐν τῷ δαπέδῳ
+
+### book 577.4
+
+προῆλθεν ἐπὶ τὸ σφάγιον· αὐτὸς γὰρ ὁ Ὀδυσσεὺς οὐκ ἠδύνατο
+
+### book 577.5
+
+διαβῆναι ἐπὶ τὸ ἔρεβος QT.
+
+### book 579.1
+
+δέρτρον ἔσω δύνοντες.
+
+### book 579.2
+
+†) Ἀρίσταρχος τὸ δέρμα καὶ πάντα τὸν χρῶτα τὸν πρὸ
+
+### book 579.3
+
+τοῦ ἥπατος. Etym. M. 257, 30.
+
+### book 580.1
+
+Λητὼ γὰρ ἕλκησε.
+
+### book 580.2
+
+†) πόθεν ᾔδει τῶν κολάσεων τὰς αἰτίας; οὐ γὰρ ἤκουσεν.
+
+### book 580.3
+
+(εἰ μὴ φησί τις εἶναι τοῦτο κατὰ τὴν Ἑλλάδα φήμην) H.
+
+### book 581.1
+
+διὰ καλλιχόρου Πανοπῆος.
+
+### book 581.2
+
+*) ὅτι κατὰ τὸ ἀρσενικὸν ἐσχημάτισται ὁ Πανοπεὺς, ὡς
+
+### book 581.3
+
+βασιλεὺς καὶ βασιλῆος H. cf. ad Β 520, observatum propter
+
+### book 581.4
+
+Zenodoti lectionem Πανοπτέων.
+
+### book 584.1
+
+στεῦτο δὲ διψάων.
+
+### book 584.2
+
+*) [ἡ διπλῆ ὅτι τὸ στεῦτο] νῦν ἀντὶ τοῦ ἵστατο ἐπὶ τῶν
+
+### book 584.3
+
+ποδῶν. κέχρηται δὲ τῇ λέξει ὁ διασκευαστὴς παρὰ τὴν τοῦ
+
+### book 584.4
+
+ποιητοῦ συνήθειαν V et partim B.
+
+### book 584.5.1
+
+Ar. enim observavit hoc verbum in animum inducere, nun‐
+
+### book 584.5.2
+
+quam stare significare (cf. L. Ar. 98) et hoc quidem respiciens
+
+### book 584.5.3
+
+ad nostrum locum cf. ad Σ 191. Φ 455 ubi est diple πρὸς τὰ
+
+### book 584.5.4
+
+ἐν τῇ νεκυίᾳ ἀθετούμενα. De diasceuasta vide L. Ar. 334.
+
+### book 588
+
+(Τάνταλος) ἀμφὶ δὲ ποσσὶ ‖ γαῖα μέλαινα φάνεσκε,
+
+### book 588.1
+
+καταζήνασκε δὲ δαίμων. ‖ δένδρεα δ’ ὑψιπέτηλα
+
+### book 588.2
+
+κατὰ κρῆθεν χέε καρπόν.
+
+### book 588.3
+
+†) οὐδὲ οὗτος (Tantalus) δύναται σὺν λίμνῃ καὶ δένδροις
+
+### book 588.5.1
+
+ἐξεληλυθέναι ἐπὶ τὸ σφάγιον, ἢ πῶς ἔξωθεν τὰ ἔσω ἐθεώ‐
+
+### book 588.5.2
+
+ρει; H.
+
+### book 593.1
+
+καὶ μὴν Σίσυφον εἰσεῖδον.
+
+### book 593.2
+
+†) πῶς δύναται σὺν τῷ λίθῳ καὶ τῇ ἀκρωρείᾳ ἐφ’ ᾗ ἀνε‐
+
+### book 593.3
+
+κύλιε τὸν λίθον, ἥκειν ἐπὶ τὸ σφάγια; πῶς τε κολάζεται ὁ ἐν
+
+### book 593.4
+
+Ἰλιάδι (Ζ 153) κέρδιστος ὢν καὶ συνετώτατος; QT.
+
+### book 593.5
+
+Cf. de Sisypho Ar. adnotationem ad Ζ 153. L. Ar. 117.
+
+### book 601.1
+
+τὸν δὲ μετ’ εἰσενόησα βίην Ἡρακληείην.
+
+### book 601.2
+
+†) καὶ τοῦτο νεωτερικόν· οὐ γὰρ οἶδε τὸν Ἡρακλέα ἀπη‐
+
+### book 601.3
+
+θανατισμένον, οὐδὲ τὴν Ἥβην γεγαμημένην, ἀλλὰ πάρθενον.
+
+### book 601.4
+
+διὸ καὶ παρθενικὰ ἔργα ἀποτελεῖ· οἰνοχοεῖ γὰρ καὶ λούει HQT.
+
+### book 601.5.1
+
+Athetesin demonstrat etiam Ar. ad Ε 905. Δ 2. Σ 117.
+
+### book 601.5.2
+
+γ 464.
+
+### book 602.1
+
+βίην Ἡρακληείην ‖ εἴδωλον· αὐτὸς δὲ μετ’ ἀθα‐
+
+### book 602.2
+
+νάτοισιν θεοῖσιν
+
+### book 602.3
+
+τέρπεται ἐν θαλίῃ καὶ ἔχει καλλίσφυρον Ἥβην,
+
+### book 602.4
+
+παῖδα Διὸς μεγάλοιο καὶ Ἥρης χρυσοπεδίλου.
+
+### book 602.5.1
+
+*) ὅτι εἰς τρία διαιρεῖ, εἰς εἴδωλον, σῶμα, ψυχήν· τοῦτο
+
+### book 602.5.2
+
+δὲ οὐκ οἶδεν ὁ ποιητής BQ.
+
+### book 602.5.3
+
+*) ὅτι αὐτοὺς τὰ σώματα αὐτῶν φησιν Ὅμηρος, οὐκ ἂν
+
+### book 602.5.4
+
+δέοι σώματος ἐν θεοῖς H. cf. ad Α 4. In cod. G v. 602—4
+
+### book 602.5.5
+
+obelis notati sunt et in Vind. 56 legitur ad v. 602—3: οὗτοι
+
+### book 602.10.1
+
+ἀθετοῦνται καὶ λέγονται Ὀνομακρίτου εἶναι. cf. La Roche p.
+
+### book 602.10.2
+
+260. Ad v. 604 H habet: τοῦτο ὑπὸ Ὀνομακρίτου ἐμπεποι‐
+
+### book 602.10.3
+
+ῆσθαί φασιν. ἠθέτηται δέ. Hoc certe coniungendum est, ita
+
+### book 602.10.4
+
+ut v. 602—604, qui obelis notati sunt in G, expungantur, quia
+
+### book 602.10.5
+
+omnes tres ab Onomacrito inserti sunt, non v. 604 solus, qui
+
+### book 602.15.1
+
+legitur etiam Hes. Theog. 902 neque in omnibus libris fere‐
+
+### book 602.15.2
+
+batur (cf. schol. ad λ 385, solam memorans athetesin v. 602
+
+### book 602.15.3
+
+et 603, neque habent H. et duo Vindob.). Nam intelligi non
+
+### book 602.1
+
+potest, cur illum unum versum 604 Onomacritus intulerit, ut
+
+### book 602.2
+
+monet Nitzschius III, 316, cuius coniectura scholio in Vind. 56
+
+### book 602.20.1
+
+probatur. cf. L. Ar. 333 et 445 et scholion sequens (616), quod
+
+### book 602.20.2
+
+discrepantiam inter illum insertum locum 602—4 et v. 616
+
+### book 602.20.3
+
+recte commemorat.
+
+### book 616.1
+
+καί μ’ ὀλοφυρόμενος.
+
+### book 616.2
+
+†) ἐλέγχεται ἐκ τούτων τὰ προκείμενα περὶ τοῦ Ἡρα‐
+
+### book 616.3
+
+κλέους εἰδώλου „αὐτὸς γὰρ μετ’ ἀθανάτοισι θεοῖσι“. πῶς
+
+### book 616
+
+οὖν ὀλοφύρεται ὡς ἐν δεινοῖς ὤν; HQT.
+
+### book 2.1
+
+λίπεν ῥόον Ὠκεανοῖο
+
+### book 2.2
+
+νηῦς, ἀπὸ δ’ ἵκετο κῦμα θαλάσσης εὐρυπόροιο.
+
+### book 2.3
+
+*) [ἡ διπλῆ ὅτι] δι’ ὅλου θάλασσαν ἀπὸ Ὠκεανοῦ διαστέλ‐
+
+### book 2.4
+
+λει ὁ ποιητής BQ. cf. L. Ar. 174.
+
+### book 3.1
+
+νῆσόν τ’ Αἰαίην, ὅθι τ’ ἠοῦς ἠριγενείης
+
+### book 3.2
+
+οἰκία καὶ χοροί εἰσι καὶ ἀντολαὶ ἠελίοιο.
+
+### book 3.3
+
+†) ἢ ὡς ἐπὶ τὰ ἀνατολικὰ μέρη τῆς νήσου προσορμισάν‐
+
+### book 3.4
+
+των, ἢ ὅτι ἐξ Ἅιδου ἐλθόντες πρώτην αὐτὴν φωτεινὴν ἐθεά‐
+
+### book 3.5.1
+
+σαντο. ἔνιοι δὲ βιαιότερον ὑπερβάτως κολλῶντες τὸ Ὠκεανοῖο
+
+### book 3.5.2
+
+τῷ „ὅθι τ’ ἠοῦς ἠριγενείησ“, οὗ, φασὶν, οἰκεῖ ἡ ἡμέρα· ἐξ αὐτοῦ
+
+### book 3.5.3
+
+γὰρ ἀνατέλλει καὶ εἰς αὐτὸν δύνει. οὐ μόνον δέ ἐστι βίαιον,
+
+### book 3.5.4
+
+ἀλλὰ καὶ ἐναντίον τῷ ποιητῇ· οὐ γὰρ παραδίδωσιν ὁ Ὅμηρος
+
+### book 3.5.5
+
+τοὺς ἥρωας ἐπισταμένους ὅτι ἐξ Ὠκεανοῦ αἱ ἀνατολαὶ τοῦ ἡλίου,
+
+### book 3.10.1
+
+ἀλλ’ αὐτὸς ἐκ τοῦ ἰδίου προσώπου τὸ τοιοῦτον παρέδωκεν.
+
+### book 3.10.2
+
+„ἠέλιος μὲν ἔπειτα νέον προσέβαλλεν ἀρούρας ἐξ ἀκαλαῤῥεί‐
+
+### book 3.10.3
+
+ταο βαθυῤῥόου Ὠκεανοῖο“ (Η 421): καὶ „ἐν δ’ ἔπες’ Ὠκεανῷ
+
+### book 3.10.4
+
+φάος ἠελίοιο“ (Θ 485). οἱ δὲ ἥρωες ἄλλως λέγουσιν. „οὐδ’
+
+### book 3.10.5
+
+ὅπη ἠέλιος φαεσίμβροτος εἶς’ ὑπὸ γαῖαν“ (Κ 191) Q.
+
+### book 15.1
+
+πήξαμεν ἀκροτάτῳ τύμβῳ εὐῆρες ἐρετμόν.
+
+### book 15.2
+
+Diple periestigmene, quod Zenodotus legit: ἀκροτάτῳ τύμβῳ
+
+### book 15.3
+
+ἵνα σῆμα πέλοιτο H.
+
+### book 27.1
+
+ἀλγήσετε.
+
+### book 27.2
+
+*) ὅτι συνέσταλκεν ἀντὶ τοῦ ἀλγήσητε H.
+
+### book 27
+
+cf. ζ 33. 259. F. Ar. 13.
+
+### book 39.1
+
+Σειρῆνας μὲν πρῶτον ἀφίξεαι.
+
+### book 39.2
+
+†) κατὰ Ὅμηρον δύο· Σειρήνοιν γὰρ λέγει V. Ὅμηρος οὔτε
+
+### book 39.3
+
+γένος αὐτῶν παρίστησιν οὔτε πτερωτὰς αὐτάς φησιν εἶναι HQT.
+
+### book 39.4
+
+cf. L. Ar. 189. v. 47. 185.
+
+### book 43.1
+
+οἴκαδε νοστήσαντι.
+
+### book 43.2
+
+†) ὁ μὲν Ἀριστοφάνης φησὶ κατατηκομένους τῇ ᾠδῇ καὶ
+
+### book 43.3
+
+αἰφνιδίως ἐκλείποντας ἀπολέσθαι, ὁ δὲ Ἀρίσταρχος διὰ τὴν τῶν
+
+### book 43.4
+
+ἀναγκαίων σπάνιν Q. [ἣν πάσχουσι προστετηκότες ἐπὶ μακρὸν
+
+### book 43.5
+
+τῇ ᾠδῇ]. ex Eust. 1707, 51 addidi.
+
+### book 47.1
+
+ἐπὶ δ’ οὔατ’ ἀλεῖψαι ἑταίρων.
+
+### book 47.2
+
+†) [πρὸ] περισπωμένως, ἵν’ ᾖ ἀπαρέμφατον ἀντὶ τοῦ προσ‐
+
+### book 47.3
+
+τακτικοῦ, τοῦ ἄλειψον H.
+
+### book 47.4
+
+†) οὐκ ἄρα ἐπτέρωνται, ἐπεὶ καὶ προσεπέτοντο τοῖς παρα‐
+
+### book 47.5
+
+πλέουσιν H. cf. v. 39.
+
+### book 52.1
+
+ἀκούῃς Σειρήνοιιν.
+
+### book 52.2
+
+*) ὅτι δύο καθ’ Ὅμηρον αἱ Σειρῆνες, οὐ τρεῖς Q. cf. ad
+
+### book 52.3
+
+v. 39. 185. Ν 66. L. Ar. 189.
+
+### book 53-4.1
+
+εἰ δέ κε λίσσηαι ἑτάρους λῦσαί τε κελεύῃς,
+
+### book 53-4.2
+
+οἳ δέ ς’ ἔτι πλεονέσσι τότ’ ἐν δεσμοῖσι διδέντων.
+
+### book 53-4.3
+
+Fuit nota de Aristophanis athetesi horum versuum cf. H:
+
+### book 53-4.4
+
+ἀθετεῖ Ἀριστοφάνης· πρός τί γὰρ ἅπαξ δεδεμένον πάλιν δῆσαι
+
+### book 53-4.5.1
+
+κελεύει; cf. ad v. 163—64. Non liquet, num Aristarchus secutus
+
+### book 53-4.5.2
+
+sit Aristophanem.
+
+### book 61,n1.1
+
+Πλαγκτάς.
+
+### book 61,n1.2
+
+Πλαγκτὰς διὰ τὸ προσπλήσσεσθαι αὐταῖς τὰ κύματα· οἱ δὲ
+
+### book 61,n1.3
+
+νεώτεροι πλανηθέντες, Πλαγκτὰς ἤκουσαν παρὰ τὸ πλάζεσθαι εἰς
+
+### book 61,n1.4
+
+ὕψος καὶ βάθος H. Fortasse est Ar. interpretatio, cf. Nitzsch III, 373.
+
+### book 73.1
+
+οἱ δὲ δύω σκόπελοι ὁ μὲν οὐρανὸν εὐρὺν ἱκάνει
+
+### book 73.2
+
+ὀξείῃ κορυφῇ, νεφέλη δέ μιν ἀμφιβέβηκεν
+
+### book 73.3
+
+κυανέη· τὸ μὲν οὔ ποτ’ ἐρωεῖ.
+
+### book 73.4
+
+Fuit diple πρὸς τὴν ἐναλλαγὴν πτώσεως „οἱ δὲ δύο σκό‐
+
+### book 73.5
+
+πελοι ὁ μὲν“ ἀντὶ τοῦ τῶν δύο σκοπέλων. cf. ad Γ 211, ubi
+
+### book 73
+
+nostrum locum sic interpretatus est Ar. F. Ar. 19.
+
+### book 75.1
+
+Ἀρίσταρχος οὐ λέγει πρὸς τὸ νέφος τὴν ἀπότασιν εἶναι,
+
+### book 75.2
+
+ἀλλά φησιν ὅτι τοῦτο οὐδέποτε λήγει, τὸ κεκαλύφθαι τὸν σκό‐
+
+### book 75.3
+
+πελον τῷ νέφει HQ. cf. ad Η 238. F. Ar. 32.
+
+### book 78.1
+
+οὐδ’ εἴ οἱ χεῖρές τε ἐείκοσι καὶ πόδες εἶεν.
+
+### book 78.2
+
+*) ὅτι ὁμοία ἡ προφορὰ τῆς ὑπερβολῆς τῷ „οὐδ’ εἴ μοι
+
+### book 78.3
+
+δέκα μὲν γλῶσσαι“ (Β 489) HQ. cf. ad Β 489 ubi noster locus
+
+### book 78.4
+
+memoratur.
+
+### book 85.1
+
+δεινὸν λελακυῖα.
+
+### book 85.2
+
+†) Ἰακῶς συνεστάλη H. cf. Ι 378. η 8.
+
+### book 86-8.1
+
+τῆς ἦ τοι φωνὴ μὲν ὅση σκύλακος νεογιλῆς
+
+### book 86-8.2
+
+γίγνεται, αὐτὴ δ’ αὖτε πέλωρ κακόν· οὐδέ κέ τίς μιν
+
+### book 86-8.3
+
+γηθήσειεν ἰδών, οὐδ’ εἰ θεὸς ἀντιάσειε.
+
+### book 86-8.4
+
+*) ἀθετοῦνται στίχοι τρεῖς· πῶς γὰρ ἡ δεινὸν λελακυῖα
+
+### book 86-8.5.1
+
+δύναται νεογνοῦ σκυλακίου φωνὴν ἔχειν; HQ. cf. L. Ar. 189.
+
+### book 86-8.5.2
+
+Nitzsch III, 381.
+
+### book 89.1
+
+τῆς ἤτοι πόδες εἰσὶ δυώδεκα πάντες ἄωροι.
+
+### book 89.2
+
+†) Ἀρίσταρχος ἀκώλους· τοὺς γὰρ Ἴωνας λέγειν φασὶ τὴν
+
+### book 89.3
+
+κωλῆν ὥρην καὶ ὡραίαν· οὐκ ἔχοντας οὖν ὀστᾶ ἀκώλους καὶ
+
+### book 89.4
+
+ἀνάρθρους λέγεσθαι· ὑποκεῖσθαι γάρ φησι τῇ Σκύλλῃ πε‐
+
+### book 89.5.1
+
+τραῖόν τι θηρίον προσπεφυκὸς τῷ σκοπέλῳ καὶ κοχλιῶδες πό‐
+
+### book 89.5.2
+
+δας τε ἔχον πλεκτανώδεις, ὥστε λέγειν οὕτως τὸν ποιητὴν
+
+### book 89.5.3
+
+Σκύλλην πετραίην (231). κατὰ δὲ τὴν ἄνωθεν φαντασίαν τῇ
+
+### book 89.5.4
+
+Ὕδρᾳ προσεοικέναι καὶ τοὺς αὐχένας αὐτῆς ἰσομεγέθεις εἶναι
+
+### book 89.5.5
+
+τῷ σκοπέλῳ. καθιεῖσαν δὲ τὴν Σκύλλαν τὰς κεφαλὰς οὕτως
+
+### book 89.10.1
+
+ἀνασπᾶν τοὺς ἁρπαζομένους. „φέρει δέ τε κρατὶ ἑκάστῳ φῶτα
+
+### book 89.10.2
+
+ἁρπάζουσα“. (99) ὡς ἂν οὖν ὀλισθηρῶν ὄντων τῶν ποδῶν καὶ
+
+### book 89.10.3
+
+οὐκ ἐχόντων ἀντίληψιν, ἀώρους ἄν τις δέξαιτο τοὺς ἀκώλους.
+
+### book 89.10.4
+
+HQ. cf. L. Ar. 189. cf. 124—126.
+
+### book 92.1
+
+πυκνοὶ καὶ θαμέες.
+
+### book 92.2
+
+*) [ἡ διπλῆ ὅτι] ἐκ παραλλήλου ἔταξε τὰς λέξεις ἰσοδυνα‐
+
+### book 92.3
+
+μούσας V.
+
+### book 92.4
+
+cf. ad Π 636, ubi noster versus citatur in simili interpre‐
+
+### book 92.5
+
+tatione.
+
+### book 124-6.1
+
+ἀλλὰ μάλα σφοδρῶς ἐλάαν, βωστρεῖν δὲ
+
+### book 124-6.2
+
+Κράταιιν,
+
+### book 124-6.3
+
+μητέρα τῆς Σκύλλης, ἥ μιν τέκε πῆμα βροτοῖσιν.
+
+### book 124-6.4
+
+ἥ μιν ἔπειτ’ ἀποπαύσει ἐς ὕστερον ὁρμηθῆναι.
+
+### book 124-6.5.1
+
+*) ἀθετοῦνται γʹ, ὅτι διὰ τούτων σημαίνει μὴ εἶναι τὴν
+
+### book 124-6.5.2
+
+Σκύλλαν σύμφυτον τῇ πέτρᾳ H. cf. ad 89. L. Ar. 189.
+
+### book 156.1
+
+ἵνα εἰδότες ἤ κε θάνωμεν.
+
+### book 156.2
+
+ἤ κεν ἀλευάμενοι θάνατον καὶ κῆρα φύγωμεν.
+
+### book 156.3
+
+†) ἐν ἀμφοτέροις πλεονάζει ὁ κέν, ἢ ἑλώμεθα τὸν θάνα‐
+
+### book 156.4
+
+τον, ἢ τὰ πρὸς σωτηρίαν παρασκευασώμεθα H. cf. F. Ar. p. 8.
+
+### book 163-4.1
+
+versus expunxit Aristophanes cf. H: καὶ ἐνταῦθα
+
+### book 163-4.2
+
+οἱ δύο ὀβελίζονται ὡς ἀδικώτατοι v. ad 53—54.
+
+### book 172.1
+
+ἑζόμενοι λεύκαινον ὕδωρ.
+
+### book 172.2
+
+†) ἔτυπτον· ἀπὸ τοῦ παρακολουθοῦντος BQV. cf. Fried‐
+
+### book 172.3
+
+laenderum ad Ar. Β 417.†486 et exempla ibidem.
+
+### book 184.1
+
+δεῦρ’ ἄγ’ ἰών, πολύαιν’ Ὀδυσεῦ.
+
+### book 184.2
+
+Ar. interpretationem vocabuli πολύαινε habet Apoll. l. h.
+
+### book 184.3
+
+133, 14: Ἀρίσταρχος πολλοῦ ἐπαίνου ἄξιε· οἱ δὲ πολύμυθε.
+
+### book 185.1
+
+ἵνα νωιτέρην ὄπ’ ἀκούσῃς.
+
+### book 185.2
+
+*) [ἡ διπλῆ ὅτι] δύο φαίνονται καὶ ἐντεῦθεν H. cf. L.
+
+### book 185.3
+
+Ar. 189 ad v. 52.
+
+### book 209.1
+
+οὐ μὲν δὴ τόδε μεῖζον ἔπι κακόν.
+
+### book 209.2
+
+Fuit diple periestigmene propter Zenodoti lectionem ἔχει,
+
+### book 209.3
+
+alii ἕπει, alii ἔπι.
+
+### book 243.1
+
+ψάμμῳ κυανέῃ.
+
+### book 243.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ κυανιζομένῃ, ὡς „φοίνικι φαει‐
+
+### book 243.3
+
+νόσ“ (Ο 538) Q. cf. ad Ο 538.
+
+### book 250,n2.1
+
+ἐξονομακλήδην, τότε γ’ ὕστατον, ἀχνύμενοι κῆρ.
+
+### book 250,n2.2
+
+Καλλίστρατος ὑπονοεῖ τὸν στίχον, λέγων ἐκλύεσθαι τὸ τάχος τῆς
+
+### book 250,n2.3
+
+ἁρπαγῆς H.
+
+### book 253.1
+
+ἐς πόντον προίησι βοὸς κέρας ἀγραύλοιο.
+
+### book 253.2
+
+†) κέρας Ἀρίσταρχος τὸ κεράτινον σύριγγον, ὃ ἐπιτιθέασι
+
+### book 253.3
+
+πρὸς τὸ μὴ ἐσθίεσθαι ὑπὸ τοῦ ἰχθύος τὴν ὁρμιάν. ἔνιοι δὲ
+
+### book 253.4
+
+τὴν τρίχα Q.
+
+### book 253.5
+
+cf. ad Ω 81. L. Ar. 152. Apoll. l. h. 52, 18.
+
+### book 279.1
+
+σχέτλιός εἰς, Ὀδυσεῦ.
+
+### book 279.2
+
+†) καρτερικὸς, ἀνένδοτος. καὶ ἐν Ἰλιάδι (Κ 164) „σχέτλιός
+
+### book 279.3
+
+ἐσσι, σὺ μὲν πόνου οὔποτε λήγεισ“ BQ. cf. ad Κ 164, ubi Ar.
+
+### book 279.4
+
+σεπτικῶς interpretatur.
+
+### book 281.1
+
+ὅς ῥ’ ἑτάρους καμάτῳ ἀδδηκότας ἠδὲ καὶ ὕπνῳ.
+
+### book 281.2
+
+†) ἀηδισθέντας καμάτῳ καὶ ἀγρυπνίᾳ· „μὴ τοὶ μὲν κα‐
+
+### book 281.3
+
+μάτῳ ἀδδηκότες ἠδὲ καὶ ὕπνῳ“ (Κ 98). ἀγρυπνίᾳ κατ’ ἀντί‐
+
+### book 281.4
+
+φρασιν, ὡς τὸ „ὕπνῳ καὶ καμάτῳ ἀρημένοσ“ (ζ 2) ὁ γὰρ ὕπνος
+
+### book 281.5.1
+
+οὐ βλάπτει BQ. cf. Ar. ad Κ 98, observatum contra Zenodoti
+
+### book 281.5.2
+
+lectionem.
+
+### book 284.1
+
+ἀλλ’ αὔτως διὰ νύκτα θοὴν ἀλάλησθαι ἄνωγας.
+
+### book 284.2
+
+Fuit diple periestigmene, quod Zenodotus legit: ἀλλ’ οὕ‐
+
+### book 284.3
+
+τως· καί ἐστιν ἠθικόν H. Sic legit etiam Σ 584, ubi vitupe‐
+
+### book 284.4
+
+ratur ab Ar. οὐ νοήσας ὅτι τὸ αὔτως ἐστὶ κενῶς καὶ πρὸς
+
+### book 284.5
+
+οὐδέν.
+
+### book 286.1
+
+ἐκ νυκτῶν δ’ ἄνεμοι χαλεποί.
+
+### book 286.2
+
+*) [ἡ διπλῆ ὅτι ἐκ νυκτῶν ἐστιν] μετὰ τὰς νύκτας, ὅ ἐστιν
+
+### book 286.3
+
+ὄρθρου, ὡς τὸ „πίομεν ἐκ βοτάνησ“ (Ν 493) ἀντὶ τοῦ μετὰ
+
+### book 286.4
+
+τὴν βοτάνην BQ.
+
+### book 286.5.1
+
+Sic Ar. ad Ν 493. Nostrum scholium apud Dindorfium ad
+
+### book 286.5.2
+
+v. 284 legitur, sed puto hic ponendum esse.
+
+### book 290.1
+
+θεῶν ἀέκητι ἀνάκτων.
+
+### book 290.2
+
+†) Ζηνόδοτος γράφει „φίλων ἀέκητι ἑταίρων“ H.
+
+### book 297.1
+
+ἧ μάλα δή με βιάζετε μοῦνον ἐόντα.
+
+### book 297.2
+
+*) [ἡ διπλῆ περιεστιγμένη ὅτι] Ζηνόδοτος [γράφει] βιά‐
+
+### book 297.3
+
+ζεσθ’ οἶον ἐόντα, οὐ νοήσας ὅτι ποιητικῶς ἐσχημάτισται H.
+
+### book 297.4
+
+Vind. 133.
+
+### book 374-90
+
+†) ἐναντίον τοῦτο τῷ „Ἠέλιος δ’ ὃς πάντ’
+
+### book 374-90.1
+
+ἐφορᾷς καὶ πάντ’ ἐπακούεισ“ (Γ 277). ἀφ’ ἑαυτοῦ γὰρ ἐχρῆν
+
+### book 374-90.2
+
+ἐγνωκέναι τὸν πάντα ἐφορῶντα. Hanc ob causam Aristarchus
+
+### book 374-90.3
+
+locum nostrum damnavit cf. Ar. ad Γ 277, ubi est διπλῆ πρὸς
+
+### book 374-90.5.1
+
+τὴν ἀθέτησιν τῶν ἐν Ὀδυσσείᾳ „ὠκέα δ’ ἠελίῳ ὑπερίονι ἄγ‐
+
+### book 374-90.5.2
+
+γελος ἦλθεν“. In M. versibus 375—389 obeli appicti sunt et
+
+### book 374-90.5.3
+
+videtur Ar. hos omnes expunxisse. Fortasse haesitavit quoque,
+
+### book 374-90.5.4
+
+quod Ulixes mentiri videtur—cf. schol. ad ε 79 in QP:
+
+### book 374-90.5.5
+
+ψεύδεται Ὀδυσσεὺς ὅταν λέγῃ „ταῦτα δ’ ἐγὼν ἤκουσα Κα‐
+
+### book 374-90.10.1
+
+λυψοῦς ἠυκόμοιο· ἡ δ’ ἔφη Ἑρμείαο διάκτορος αὐτὴ ἀκοῦσαι“
+
+### book 374-90.10.2
+
+(μ 389). οὐδέπω γὰρ αὐτὸν ἑωράκει. —dicens a Calypso
+
+### book 374-90.10.3
+
+nympha se hoc audivisse, cui Mercurius narravisset. At Mer‐
+
+### book 374-90.10.4
+
+curius, ubi ad nympham venit, hac de re verba non fecit, neque
+
+### book 374-90.10.5
+
+antea deam vidit.
+
+### book 379.1
+
+οἵ μοι βοῦς ἔκτειναν ὑπέρβιον.
+
+### book 379.2
+
+†) βιαστικῶς, ἄγαν βιαίως BQ. cf. F. Ar. p. 29 α 209 et
+
+### book 379.3
+
+locos ibi collatos.
+
+### book 383.1
+
+δύσομαι εἰς Ἀίδαο καὶ ἐν νεκύεσσι φαείνω.
+
+### book 383.2
+
+†) τὸ φαείνω ἐνεστῶτός ἐστιν ἀντὶ τοῦ μέλλοντος H.
+
+### book 388.1
+
+τυτθὰ βαλών.
+
+### book 388.2
+
+Diple periestigmene, quod Zenodotus dedit: τριχθὰ βαλών.
+
+### book 388.3
+
+Vind. 133.
+
+### book 417.1
+
+εἰ δὲ θεείου πλῆτο.
+
+### book 417.2
+
+†) θείου. καταστρέφει δὲ εἰς τὸ πυρὸς κεραυνίου V. cf.
+
+### book 417.3
+
+Friedlaenderum ad Ar. Π 163. Apoll. l. h. 86, 19.
+
+### book 422
+
+Zenodotus pro Ar. ἄραξε legit ἔαξεν. cf. Did. in H.
+
+### book 423.1
+
+ἐπίτονος βέβλητο.
+
+### book 423.2
+
+Notatus fuit versus propter metrum initii, cf. ad X 379:
+
+### book 423.3
+
+τὰ γὰρ τοιαῦτα ἐσημειοῦντο πρὸς κρίσιν ποιημάτων, ὅτι σπα‐
+
+### book 423.4
+
+νίως Ὅμηρος κακομέτρους ποιεῖ.
+
+### book 439-41.1
+
+ὄψ’. ἦμος δ’ ἐπὶ δόρπον ἀνὴρ ἀγορῆθεν
+
+### book 439-41.2
+
+ἀνέστη.
+
+### book 439-41.3
+
+κρίνων νείκεα πολλὰ δικαζομένων αἰζηῶν,
+
+### book 439-41.4
+
+τῆμος δὴ τά γε δοῦρα Χαρύβδιος ἐξεφαάνθη.
+
+### book 439-41.5.1
+
+†) ἐν πολλοῖς ἐδιστάχθησαν οἱ στίχοι διὰ τὸ „τρὶς μὲν
+
+### book 439-41.5.2
+
+γάρ τ’ ἀνίησιν ἐπ’ ἤματι“ (105) καὶ ἐδείχθη ἑαυτῷ τὰ ἐναν‐
+
+### book 439-41.5.3
+
+τία λέγων ὁ ποιητής· νῦν γὰρ ἅπαξ μόνον καὶ ἀναβάλλει καὶ
+
+### book 439-41.5.4
+
+ἀναῤῥοφεῖ HQ.
+
+### book 439-41.5.5
+
+Fluxisse videtur ex Didymo et Aristonico. Callistratus, qui
+
+### book 439-41.10.1
+
+hos versus retinuit, v. 105 expunxit, quod repugnare videtur iis
+
+### book 439-41.10.2
+
+qui nunc leguntur cf. schol. BQ, quod cum La Roche ad v.
+
+### book 439-41.10.3
+
+105 refero, non ut Duentzer ad v. 107.
+
+### book 445-6.1
+
+Σκύλλην δ’ οὐκέτ’ ἔασε πατὴρ ἀνδρῶν τε
+
+### book 445-6.2
+
+θεῶν τε
+
+### book 445-6.3
+
+εἰσιδέειν· οὐ γάρ κεν ὑπέκφυγον αἰπὺν ὄλεθρον.
+
+### book 445-6.4
+
+†) νοθεύονται δύο· τί γὰρ εἰ εἶδεν ὅπου οὐ δύναται ὁρ‐
+
+### book 445-6.5.1
+
+μᾶν ἡ Σκύλλα, ἀλλ’ ἐνίδρυται τῷ σπηλαίῳ; ὡς ἐκ τῶν λόγων
+
+### book 445-6.5.2
+
+τῆς Κίρκης ἔστι μαθεῖν· εἰ γὰρ ἐβούλετο διὰ τῆς Χαρύβδεως
+
+### book 445-6.5.3
+
+πλεῖν ὁ Ὀδυσσείς, οὐκ ἂν ἠδικήθη ὑπὸ τῆς Σκύλλης, ὡς ἀνημ‐
+
+### book 445-6
+
+μένης τῷ σπηλαίῳ QH. Vind. 133. cf. ad v. 89. 124—126.
+
+### book 4,n1.1
+
+ἐπεὶ ἵκευ ἐμὸν ποτὶ χαλκοβατὲς δῶ.
+
+### book 4,n1.2
+
+νῦν κυρίως κεῖται ἡ λέξις. τοιαῦτα γὰρ τὰ τοῦ Ἀλκινόου βασιλέως
+
+### book 4,n1.3
+
+„χάλκεοι μὲν γὰρ τοίχοι ἐληλέδατο“ (η 86) καὶ τὰ ἑξῆς HQ. Alibi
+
+### book 4,n1.4
+
+de Jovis modo domo vocabulum dicitur cf. Α 426. Ε 173. Φ 438. 505.
+
+### book 4,n1.5
+
+Talia adnotare solebat Aristarchus. cf. Eust. 1730, 39.
+
+### book 5.1
+
+τῷ ς’ οὔ τι παλιμπλαγχθέντα γ’ ὀίω.
+
+### book 5.2
+
+†) ὀπισθόρμητον γενόμενον V.
+
+### book 5.3
+
+cf. L. Ar. 91. Hic posui propter rectam vocabuli πάλιν
+
+### book 5.4
+
+interpretationem, quod nusquam rursus significat, sed retro. Ad
+
+### book 5.5.1
+
+Λ 326 Ar. παλινορμένω explanat ἀντὶ τοῦ ὀπίσω ὁρμῶντες ὡς
+
+### book 5.5.2
+
+παλιμπλαγχθέντες. cf. ε 27, 429.
+
+### book 5.5.3
+
+τῷ ς’ οὔτι: ἀντὶ τοῦ διὰ τό σε, ὅ ἐστι διὰ τοῦτό σε H.
+
+### book 5.5.4
+
+Fortasse est Aristarcheum, etiam Ε 875 dativum esse pro διά
+
+### book 5.5.5
+
+cum accusativo statuit. cf. ι 19.
+
+### book 25.1
+
+*) ὅτι οἱ ἑστιώμενοι τοῖς ἑστιῶσι προπίνουσι παρὰ
+
+### book 25.2
+
+τῷ ποιητῇ H. cf. ad υ 57. Ι 224.
+
+### book 35.1
+
+ὣς Ὀδυσῇ ἀσπαστόν.
+
+### book 35.2
+
+†) τὸ πλῆρες Ὀδυσῆι, ὡς „ἥρωι Λαομέδοντι“ (Η 453) H.
+
+### book 35
+
+cf. ad Η 453. θ 483.
+
+### book 39,n2.1
+
+πέμπετέ με σπείσαντες ἀπήμονα, χαίρετε δ’ αὐτοί.
+
+### book 39,n2.2
+
+ὅτι οἱ παλαιοὶ καὶ ἐν τῷ ἀφίστασθαι τὸ χαῖρε ἔλεγον, ὥσπερ
+
+### book 39,n2.3
+
+νῦν τὸ σώζου φαμέν BM. cf. Eust. 1732, 19. Fortasse fluxit ex iis
+
+### book 39,n2.4
+
+Aristarchi observationibus, quas Lehrsius Ar. cap. III p. 193 de cultu
+
+### book 39,n2.5
+
+et victu heroum collegit.
+
+### book 57.1
+
+χαῖρέ μοι ὦ βασίλεια διαμπερές.
+
+### book 57.2
+
+*) ὅτι οἱ ἑστιώμενοι παρ’ Ὁμήρῳ τοῖς ἑστιῶσι προπίνου‐
+
+### book 57.3
+
+σιν, ὡς Ὀδυσσεὺς Ἀχιλλεῖ καὶ Εὐμαίῳ ὁ αὐτὸς H. cf. ad v.
+
+### book 57.4
+
+25. Ι 224.
+
+### book 78.1
+
+ἀνακλινθέντες ἀνεῤῥίπτουν ἅλα πηδῷ.
+
+### book 78.2
+
+†) ἀπὸ τοῦ παρακολουθοῦντος· ἀναῤῥίπτεται γὰρ ὑπὸ τῶν
+
+### book 78.3
+
+κοπῶν τὸ ὕδωρ BV. cf. Friedlaenderum ad Β 417. γ 486.
+
+### book 93.1
+
+εὖτ’ ἀστὴρ ὑπερέσχε φαάντατος.
+
+### book 93.2
+
+Adnotatum fuit, nunc Luciferum nominari φαάντατον, in
+
+### book 93.3
+
+Iliade contra Hesperum, neque hoc inter se repugnare cf. ad
+
+### book 93.4
+
+Χ 318. λ 239. Eust. 1734, 33.
+
+### book 93.5
+
+De scholio ad v. 96 in HQ. cf. ad α 72.
+
+### book 109.1
+
+δύω δέ τέ οἱ θύραι εἰσίν.
+
+### book 109.2
+
+αἱ μὲν πρὸς Βορέαο ... αἱ δὲ ..
+
+### book 109.3
+
+†) πῶς ἐπὶ τῶν δύο θυρῶν ἐν τῷ διαιρεῖν φησιν αἱ μὲν,
+
+### book 109.4
+
+αἱ δὲ; BHQ. Hinc colligi potest, Ar. diplam fuisse, ὅτι πλη‐
+
+### book 109.5
+
+θυντικῶς τὴν θύραν θύρας λέγει. cf. L. Ar. 124. 156.
+
+### book 128.1
+
+Ζεῦ πάτερ.
+
+### book 128.2
+
+*) ὅτι Ποσειδῶν (ὃς ἦν ἀδελφὸς) πατέρα προσαγορεύει
+
+### book 128.3
+
+τὸν Δία πρὸς τιμήν H.
+
+### book 142.1
+
+πρεσβύτατον καὶ ἄριστον.
+
+### book 142.2
+
+*) [ἡ διπλῆ ὅτι] οὐ καθ’ ἡλικίαν [λέγει], ἀλλὰ τιμιώτατον,
+
+### book 142.3
+
+ὡς Ἥρα „καί με πρεσβυτάτην τέκετο“ (Δ 59) B. ἀλλαχοῦ γὰρ
+
+### book 142.4
+
+λέγει „ἀλλὰ Ζεὺς πρότερος ἐγεγόνει“ (Ν 355), fortasse adiun‐
+
+### book 142.5
+
+gendum est ex V. cf. Ar. ad Δ 59.
+
+### book 157.1
+
+ἵνα θαυμάζωσιν ἅπαντες.
+
+### book 157.2
+
+*) [ἡ διπλῆ ὅτι τὸ θαυμάζωσιν ἀντὶ τοῦ] ὁρῶντες ἐκπλήτ‐
+
+### book 157.3
+
+τωνται V. cf. L. Ar. 147. Β 320. Ω 394.
+
+### book 160.1
+
+ἐς Σχερίην, ὅθι Φαίηκες γεγάασιν.
+
+### book 160.2
+
+†) καταχρηστικῶς ἀντὶ τοῦ οἰκοῦσι. ἐκ γὰρ τῆς Ὑπερη‐
+
+### book 160.3
+
+σίας μετεληλύθασιν BQ. cf. ζ 4.
+
+### book 173-8.1
+
+*) [οἱ ἀστερίσκοι] ὅτι ἐκ τοῦ τόπου τούτου μετά‐
+
+### book 173-8.2
+
+κεινται εἰς τὰ κατ’ ἀρχὴν πρὸς Ὀδυσσέα ὑπὸ Ἀλκινόου λεγό‐
+
+### book 173-8.3
+
+μενα· οὐκ ὀρθῶς. εἰ γὰρ ἐμέμνητο τοῦ χρησμοῦ, οὐκ ἂν ἀπε‐
+
+### book 173-8.4
+
+κομίσθη ὁ Ὀδυσσεύς Q. cf. ad θ 564—71.
+
+### book 173.1
+
+Ποσειδάων’ ἀγάσασθαι.
+
+### book 173.2
+
+Fuit diple ὅτι τὸ ἀγάσασθαι νῦν ἀντὶ τοῦ φθονῆσαι, οὐκ
+
+### book 173.3
+
+ἀντὶ τοῦ θαυμάσαι. cf. schol. V. ἄγαν ὀργισθῆναι et θ 565,
+
+### book 173.4
+
+ubi idem versus et Ar. interpretatio ἀντὶ τοῦ φθονῆσαι in B
+
+### book 173.5
+
+servata est.
+
+### book 174.1
+
+οὕνεκα πομποὶ ἀπήμονές εἰμεν ἁπάντων.
+
+### book 174.2
+
+*) ὅτι καὶ τῶν μὴ ἀναξίων ἀπήμονες, μὴ ἐῶντες αὐτοὺς
+
+### book 174.3
+
+πημαίνεσθαι Q.
+
+### book 206.1
+
+ἐγὼ δέ κεν ἄλλον ὑπερμενέων βασιλήων ‖ ἐξικόμην.
+
+### book 206.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἐξικόμην ἀντὶ τοῦ] ἱκέτευσα V. cf. ad
+
+### book 206.3
+
+Χ 123. γ 92.
+
+### book 207.1
+
+θέσθαι ἐπίσταμαι.
+
+### book 207.2
+
+Fuit diple ὅτι τὸ οὐκ ἐπίσταμαι ἀντὶ τοῦ οὐ δύναμαι cf.
+
+### book 207.3
+
+ad Φ 320, ubi nostrum locum sic interpretatus est Ar. cf. L.
+
+### book 207.4
+
+Ar. 148.
+
+### book 213.1
+
+Ζεύς σφεας τίσαιτο.
+
+### book 213.2
+
+Fuit diple periestigmene propter Zenodoti lectionem (cf.
+
+### book 213.3
+
+in H): τίσασθαι, quod Dindorfius praef. LXI in τισάσθω mu‐
+
+### book 213.4
+
+tavit. cf. G. Ribbeckium in Schneidewini Philol. VIII p. 705.
+
+### book 221.1
+
+σχεδόθεν δέ οἱ ἦλθεν Ἀθήνη
+
+### book 221.2
+
+ἀνδρὶ δέμας ἐικυῖα νέῳ ἐπιβώτορι μήλων,
+
+### book 221.3
+
+παναπάλῳ, οἷοί τε ἀνάκτων παῖδες ἔασιν.
+
+### book 221.4
+
+*) ὅτι καὶ οἱ βασιλεῖς ἔνεμον δῆλον δι’ ὧν φησιν Ἀνδρο‐
+
+### book 221.5.1
+
+μάχη „πάντας γὰρ κατέπεφνε ποδάρκης δῖος Ἀχιλλεὺς βουσὶν
+
+### book 221.5.2
+
+ἐπ’ εἰλιπόδεσσιν“ (Ζ 423) HQ. καὶ Αἰνείας περὶ Ἀχιλλέως
+
+### book 221
+
+„ὅτε βουσὶν ἐπήλυθεν ἡμετέρῃσιν“ (Υ 91) H.
+
+### book 222.1
+
+Ἀθήνη ‖ ἀνδρὶ δέμας ἐικυῖα νέῳ ἐπιβώτορι μή‐
+
+### book 222.2
+
+λων.
+
+### book 222.3
+
+*) ὅτι ὁ ποιητὴς ἄῤῥενας μὲν θεοὺς θηλείαις οὐδέποτε
+
+### book 222.4
+
+εἰκάζει, θηλείας δὲ ἄῤῥεσιν HQ. cf. Dind. praef. LXII.
+
+### book 222.5.1
+
+*) [ἡ διπλῆ ὅτι] περισσὴ ἡ πρόθεσις, ὡς καὶ ἐν τᾷ (codd.
+
+### book 222.5.2
+
+εἰς τὸ) „βοῶν ἐπιβουκόλος ἀνήρ“ B. Sic etiam Eust. 1739,
+
+### book 222.5.3
+
+41. cf. L. Ar. 109. γ 195.
+
+### book 320-3.1
+
+ἀλλ’ αἰεὶ φρεσὶν ᾗσιν ἔχων δεδαιγμένον
+
+### book 320-3.2
+
+ἦτορ
+
+### book 320-3.3
+
+ἠλώμην, εἵως με θεοὶ κακότητος ἔλυσαν.
+
+### book 320-3.4
+
+πρίν γ’ ὅτε Φαιήκων ἀνδρῶν ἐν πίονι δήμῳ
+
+### book 320-3.5.1
+
+θάρσυνάς τ’ ἐπέεσσι καὶ ἐς πόλιν ἤγαγες αὐτή.
+
+### book 320-3.5.2
+
+*) (νοθεύονται) ἀθετοῦνται δ’ στίχοι. ὁ μὲν πρῶτος ὅτι
+
+### book 320-3.5.3
+
+ἀντὶ τοῦ ἐμῇσιν ἔχει τὸ ᾗσιν, ὅπερ ἐστὶ τρίτου προσώπου,
+
+### book 320-3.5.4
+
+τηροῦντος ἀεὶ τοῦ ποιητοῦ τὴν ἐν τούτοις διαφοράν. ὁ δὲ
+
+### book 320-3.5.5
+
+δεύτερος ὅτι Ἀθηνᾶς παρούσης θεοῖς ἀνατίθησι τὴν σωτηρίαν·
+
+### book 320-3.10.1
+
+ὁ δὲ τρίτος καὶ τέταρτος ὅτι οὐκ ἐγίνωσκεν ὡς ἡ φανεῖσα
+
+### book 320-3.10.2
+
+αὐτῷ παρὰ Φαίαξι θεὰ ἦν, ὅτι οὐκ ἐθάρσυνεν, ἀλλὰ τοὐναν‐
+
+### book 320-3.10.3
+
+τίον „μηδέ τιν’ ἀνθρώπων ποτιόσσεο, οὐ γὰρ ξείνους οἵδε μαλ’
+
+### book 320-3.10.4
+
+ἀνθρώπους ἀνέχονται“ (η 31) HQ. Vind. 133. cf. Apoll. de
+
+### book 320-3.10.5
+
+Pron. p. 139: ὑπ’ Ἀριστάρχου ὑπωπτεύετο.
+
+### book 332.1
+
+οὕνεκ’ ἐπητής ἐσσι.
+
+### book 332.2
+
+†) ἐπητὴς ἤγουν λόγιος. καὶ ὡς ὁ λόγιος παρὰ τὸν λό‐
+
+### book 332.3
+
+γον, οὕτω καὶ ἐπητὴς παρὰ τὸ ἔπος H. Hoc ex Ar. mana‐
+
+### book 332.4
+
+visse demonstrat Apoll. l. h. p. 71, 34. cf. L. Ar. 152. De
+
+### book 332.5.1
+
+accentu ἐπητής, qui τοῖς παλαιοτέροις placuerit, dixit Eust.
+
+### book 332.5.2
+
+1743, 60 cf. H: Aristarchus et Herodianus ὡς ἀεικής.
+
+### book 333-8.1
+
+ἀσπασίως γάρ κ’ ἄλλος ἀνὴρ ἀλαλήμενος
+
+### book 333-8.2
+
+ἐλθὼν
+
+### book 333-8.3
+
+ἵετ’ ἐνὶ μεγάροις ἰδέειν παῖδάς τ’ ἀλοχόν τε.
+
+### book 333-8.4
+
+σοὶ δ’ οὔ πω φίλον ἐστὶ δαήμεναι οὐδὲ πυθέσθαι,
+
+### book 333-8.5.1
+
+πρίν γ’ ἔτι σῆς ἀλόχου πειρήσεαι, ἥ τέ τοι αὔτως
+
+### book 333-8.5.2
+
+ἧσται ἐνὶ μεγάροισιν, ὀιζυραί δέ οἱ αἰεὶ
+
+### book 333-8.5.3
+
+φθίνουσιν νύκτες τε καὶ ἤματα δάκρυ χεούσῃ.
+
+### book 333-8.1
+
+*) ἀθετοῦνται στίχοι ϛʹ ὅτι οὐδὲν εἴληφε παρ’ αὐτοῦ ση‐
+
+### book 333-8.2
+
+μεῖον τοῦ μήπω βούλεσθαι τὴν γαμετὴν ἰδεῖν· τοὐναντίον γὰρ
+
+### book 333-8.10.1
+
+διὰ τοῦτο αὐτῷ ἐπιφαίνεται, ἵνα κρύψῃ αὐτοῦ τὴν εἴσοδον.
+
+### book 333-8.10.2
+
+διὸ καί φησιν „ἦ μάλα δὴ Ἀγαμέμνονος Ἀτρείδαο φθίσεσθαι
+
+### book 333-8.10.3
+
+κακὸν οἶτον ἐνὶ μεγάροισιν ἔμελλον, εἰ μή μοι σὺ ἕκαστα θεὰ
+
+### book 333-8.10.4
+
+κατὰ μοῖραν ἔειπεσ“ (383). οὕτως οὖν αὐτὸς ἠπείγετο ἰδεῖν
+
+### book 333-8.10.5
+
+τὴν γαμετήν HQ.
+
+### book 347-8.1
+
+ἀγχόθι δ’ αὐτῆς ἄντρον ἐπήρατον ἠεροειδές.
+
+### book 347-8.2
+
+ἱρὸν νυμφάων, αἳ νηιάδες καλέονται.
+
+### book 347-8.3
+
+Ad hos versus annotat Eust.: οὗτοι οἱ δύο στίχοι ἔν τισι
+
+### book 347-8.4
+
+τῶν ἀντιγράφων οὐ κεῖνται. Fortasse expunxit eos Aristarchus,
+
+### book 347-8.5.1
+
+qui iidem leguntur 103—104 idemque significant quod versus
+
+### book 347-8.5.2
+
+sequentes 349—50. Omittunt Α 1 m. Κ Ν 1 m PS.
+
+### book 370.1
+
+λίθον δ’ ἐπέθηκε θύρῃσιν.
+
+### book 370.2
+
+Ex Eust. 1744, 20 adieci: λέγει θύρας ὡς καὶ προεδη‐
+
+### book 370.3
+
+λώθη τὴν τοῦ σπηλαίου ὀπήν, quod Lehrsius Aristarcho de‐
+
+### book 370.4
+
+beri contendit p. 156 cf. ι 243.
+
+### book 377.1
+
+οἳ δή τοι τρίετες μέγαρον κάτα κοιρανέουσιν.
+
+### book 377.2
+
+†) κατὰ τὸν ἀπαρτίζοντα ἀριθμὸν εἶπε τρίετες, ἐπιστάν‐
+
+### book 377.3
+
+τος ἤδη καὶ τετάρτου· „ἤδη γὰρ τρίτον ἐστὶν ἔτος, τάχα δ’
+
+### book 377.4
+
+εἶσι τέταρτον“. (β 89) ἔστι γὰρ ἀντὶ τοῦ ταχέως διελεύσεται.
+
+### book 377.5.1
+
+καὶ ἀλλαχοῦ „ὡς τρίετες μὲν ἔληθε δόλῳ, ἀλλ’ ὅτε τέτρατον
+
+### book 377.5.2
+
+ἦλθεν ἔτος, καὶ τότε δή τις ἔειπε γυναικῶν“ (β 106). cf. ad
+
+### book 377.5.3
+
+β 89. 107. L. Ar. 93.
+
+### book 380.1
+
+πάντας μέν ῥ’ ἔλπει.
+
+### book 380.2
+
+Notatum fuit verbum ἔλπειν positum esse pro ποιεῖ ἔλ‐
+
+### book 380.3
+
+πειν cf. δ 105. Θ 328.
+
+### book 389.1
+
+αἴ κέ μοι ὣς μεμαυῖα παρασταίης, γλαυκῶπι,
+
+### book 389.2
+
+καί κε τριηκοσίοισιν ἐγὼν ἄνδρεσσι μαχοίμην.
+
+### book 389.3
+
+†) ὑπονοεῖται ὁ στίχος διὰ τὸ μὴ ἔχειν ὑπερβολήν. ἐν τῇ
+
+### book 389.4
+
+Λ γοῦν τῆς Ἰλιάδος πλείοσι τριακοσίων ἀντέστη καὶ [μὴ] παρ‐
+
+### book 389.5
+
+ούσης Ἀθηνᾶς H. cf. Eust. 1744, 52.
+
+### book 398-401.1
+
+κάρψω μὲν χρόα καλὸν ἐνὶ γναμπτοῖσι μέλεσσι,
+
+### book 398-401.2
+
+ξανθὰς δ’ ἐκ κεφαλῆς ὀλέσω τρίχας, ἀμφὶ δὲ λαῖφος
+
+### book 398-401.3
+
+ἕσσω, ὅ κε στυγέῃσιν ἰδὼν ἄνθρωπος ἔχοντα,
+
+### book 398-401.4
+
+κνυζώσω δέ τοι ὄσσε πάρος περικαλλέ’ ἐόντε.
+
+### book 398-401.5.1
+
+*) ἀθετοῦνται μετὰ ἀστερίσκων ὡς ἐκ τῶν ἑξῆς μετενη‐
+
+### book 398-401.5.2
+
+νεγμένοι H. cf. ad v. 430.
+
+### book 405.1
+
+ὅς τοι ὑῶν ἐπίουρος.
+
+### book 405.2
+
+*) [ἡ διπλῆ ὅτι] παρέλκει [ἡ πρόθεσις] ὡς [ἐν τῷ] (cod.
+
+### book 405.3
+
+τὸ) βοῶν ἐπιβουκόλος Q. cf. L. Ar. 108. γ 195 et exempla
+
+### book 405.4
+
+ibidem.
+
+### book 430-3
+
+*) [οἱ ἀστερίσκοι] ὅτι ἐντεῦθεν οἱ ἄνω (398—
+
+### book 430-3
+
+401) μετενηνεγμένοι εἰσίν H.
+
+### book 2.1
+
+χῶρον ἀν’ ὑλήεντα δι’ ἄκριας.
+
+### book 2.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ δι’ ἀκρίων B. cf. F. Ar. 21.
+
+### book 8.1
+
+αὐτὸς δείμαθ’ ὕεσσιν.
+
+### book 8.2
+
+Fuit diple periestigmene propter Zenodoti lectionem: δεί‐
+
+### book 8.3
+
+ματο οἷος H.
+
+### book 12.1
+
+τὸ μέλαν δρυὸς ἀμφικεάσσας.
+
+### book 12.2
+
+†) ὁ Ἀρίσταρχος τὸν φλοῦν BHQ. cf. L. Ar. 152. Eust.
+
+### book 12.3
+
+1748, 55. Quod praeterea legitur in BHQ: τὸ δὲ δρυὸς δύνα‐
+
+### book 12.4
+
+ται νοεῖσθαι καὶ ἐπὶ παντὸς ξύλου idem est ab Ar. ad Λ 86
+
+### book 12.5
+
+observatum.
+
+### book 18.1
+
+ἀντίθεοι μνηστῆρες.
+
+### book 18.2
+
+In schol. QV hoc legitur: νῦν οἱ ἐναντίοι τοῖς θεοῖς. Sed
+
+### book 18.3
+
+potius ex Aristarchi mente esse puto, quod Eust. habet 1749, 4:
+
+### book 18.4
+
+τὸ ἀντίθεοι μνηστῆρες, εἰ μὲν τοὺς ἀσεβεῖς δηλοῖ, πάνυ σφο‐
+
+### book 18.5.1
+
+δρῶς ἔχει. ἐπιεικέστερον δὲ αὐτοῦ μετ’ ὀλίγα τὸ „μνηστῆρ‐
+
+### book 18.5.2
+
+σιν ὑπερφιάλοισιν“ (27). εἰ δὲ τοὺς ἰσοθέους λέγει διά τε
+
+### book 18.5.3
+
+γένος τυχὸν καὶ κάλλος καὶ πλοῦτον καὶ ἀνδρίαν, Ὁμηρικώ‐
+
+### book 18.5.4
+
+τερόν ἐστι, καθὰ καὶ τὸ θεοειδῆ που εἶπεν τὸν Πάριν. cf.
+
+### book 18.5.5
+
+L. Ar. 114 sub ἀντὶ—εἶναι.
+
+### book 22.1
+
+Nota fuit de Zenodoti athetesi, cf. in H. Vind. 133:
+
+### book 22.2
+
+ὑπωπτεύετο παρὰ Ζηνοδότῳ. Καλλίστρατος ὑπώπτευε τὸν
+
+### book 22.3
+
+στίχον διὰ τὴν ἐξαρίθμησιν τῶν κυνῶν καὶ τὸ ἐπίθετον. Duen‐
+
+### book 22.4
+
+tzerus p. 192 v. 21 et 22 ab Zenodoto et Callistrato expunctos
+
+### book 22.5
+
+esse contendit, contra quem Dindorfius not. 15, p. 580.
+
+### book 29.1
+
+κύνες ὑλακόμωροι.
+
+### book 29.2
+
+†) ὁ μὲν Ἀρίσταρχος ὀξύφωνοι QV. Sic Eust. qui addit:
+
+### book 29.3
+
+ἐπεὶ καὶ μόρον ἐν ἄλλοις ἐδηλώθη λέγεσθαι τὸ ὀξὺ, ὃ ἐξετάθη
+
+### book 29.4
+
+ἐν τῷ ὑλακόμωροι. cf. Apoll. 91, 25. L. Ar. 152.
+
+### book 50.1
+
+δέρμα ἰονθάδος ἀγρίου αἰγός.
+
+### book 50.2
+
+†) οἱ δὲ τὴν τελείαν B. Restitui quod Buttmannus cor‐
+
+### book 50.3
+
+rexit et Dindorfius in textum recepit: τελείαν pro ταχεῖαν; nam
+
+### book 50.4
+
+sic Aristarchum interpretatum esse ut B. cod. docet Apoll. l. h.
+
+### book 50.5.1
+
+91, 32: διὰ δὲ τοῦ Ἀριστάρχου ὑπομνήματος ἰονθάδος ἔνιοι
+
+### book 50.5.2
+
+ἀποδιδόασι τελείου. εἴη δ’ ἂν λεγόμενον ἀπὸ τῶν ἰόνθων.
+
+### book 50.5.3
+
+τὰς γὰρ τῶν τριχῶν ῥίζας ἰόνθους λέγει Σοφοκλῆς ἐν Χρύσῃ
+
+### book 50.5.4
+
+„ἐγὼ μέλαιναν ἐξιονθίζω τρίχα“ (corr. Lehrsius Ar. p. 152 pro
+
+### book 50.5.5
+
+μίαν μέν cod.). Huc referendum est, quod legitur in H ad v.
+
+### book 50.10.1
+
+51: οὐκ ἂν νῦν ἔφη δασύ, εἴ γε τὸ ἰονθάδος ἐδήλου τὸ δασέος
+
+### book 50.10.2
+
+(ut voluit Apion cf. Apoll. l. c.).
+
+### book 77.1
+
+θέρμ’ αὐτοῖς ὀβελοῖσιν· ὁ δ’ ἄλφιτα.
+
+### book 77.2
+
+†) ὡς περὶ ἑτέρου· ἔστι δὲ ἐπὶ τοῦ Εὐμαίου. Ὁμηρικὴ
+
+### book 77.3
+
+δὲ ἡ φράσις H. cf. ad v. 447.
+
+### book 87.1
+
+πλησάμενοι δέ τε νῆας ἔβαν.
+
+### book 87.2
+
+*) [ἡ διπλῆ ὅτι] ὁ δὲ πλεονάζει HQ. cf. F. Ar. 33. β 6.
+
+### book 102,n1.1
+
+βόσκουσι ξεῖνοί τε καὶ αὐτοῦ βώτορες ἄνδρες.
+
+### book 102,n1.2
+
+ὁμοίως τῷ „θῆτές τε δμῶές τε“ (δ 644) H. cf. ad δ 644.
+
+### book 106.1
+
+ζατρεφέων αἰγῶν ὅς τις φαίνηται ἄριστος.
+
+### book 106.2
+
+*) ὅτι ἀρσενικῶς τὸν αἶγά φησιν Q. cf. α 246.
+
+### book 122.1
+
+οὔ τις κεῖνον ἀνὴρ ἀλαλήμενος ἐλθὼν
+
+### book 122.2
+
+ἀγγέλων πείσειε.
+
+### book 122.3
+
+†) τὸ εὐκτικὸν ἀντὶ ὁριστικοῦ, πείσειε πείσει H. Verba
+
+### book 122.4
+
+non sunt Ar., nam nunquam talibus modorum nominibus εὐκτι‐
+
+### book 122.5
+
+κὸν, ὁριστικὸν usus est, (cf. F. Ar. p. 7) sed rem puto.
+
+### book 147.1
+
+ἀλλά μιν ἠθεῖον καλέω.
+
+### book 147.2
+
+*) [ἡ διπλῆ ὅτι] τὸ ἠθεῖε προσφώνησίς ἐστι [σεπτικὴ] νε‐
+
+### book 147.3
+
+ωτέρου πρὸς μείζονα BQ. cf. ad Κ 37. L. Ar. 151.
+
+### book 159.1
+
+ἱστίη τ’ Ὀδυσῆος ἀμύμονος, ἣν ἀφικάνω.
+
+### book 159.2
+
+*) [ἀθετεῖται] μετενήνεκται [γὰρ] ἀπὸ τῶν ἑξῆς ἐπὶ τῶν
+
+### book 159.3
+
+πρὸς τὴν Πηνελόπην λόγων (τ 304). οὔπω γὰρ ἀφῖκται εἰς
+
+### book 159.4
+
+τὴν Ὀδυσσέως οἰκίαν Q.
+
+### book 162-4.1
+
+τοῦ μὲν φθίνοντος μηνός, τοῦ δὲ ἱσταμένοιο
+
+### book 162-4.2
+
+οἴκαδε νοστήσει καὶ τίσεται, ὅς τις ἐκείνου
+
+### book 162-4.3
+
+ἐνθάδ’ ἀτιμάζει ἄλοχον καὶ φαίδιμον υἱόν.
+
+### book 162-4.4
+
+†) ὑποπτεύονται οἱ τρεῖς ὡς ἀσύμφωνοι πρὸς τὰ πρὸ
+
+### book 162-4.5.1
+
+αὐτῶν, καὶ ὡς ὕποπτοι καὶ ὡς ἄπιστοι. πόθεν γὰρ ᾔδει εἰ
+
+### book 162-4.5.2
+
+καὶ ἐκ Δωδώνης ὑποστρέφων οὐ πλοίσει; H.
+
+### book 162-4.5.3
+
+Hanc notam in imo paginae versus 125—166 continentis
+
+### book 162-4.5.4
+
+scriptam Buttmannus recte ad 162—64 retulit. Obeli cum aste‐
+
+### book 162-4.5.5
+
+riscis appicti sunt in M etiam duobus praecedentibus versibus
+
+### book 162-4.10.1
+
+160—61, aptius credo leguntur τ 307. In eodem codice v.
+
+### book 162-4.10.2
+
+174—184 obelis notati sunt, quam ob caussam ex scholiis non
+
+### book 162-4.10.3
+
+liquet.
+
+### book 171.1
+
+ἀλλ’ ἤτοι ὅρκον μὲν ἐάσομεν.
+
+### book 171.2
+
+Diple periestigmene, quod Zenodotus: κεῖνον μὲν scripsit
+
+### book 171.3
+
+cf. H.
+
+### book 174.1
+
+τῶν αὖ παιδὸς ἄλαστον ὀδύρομαι.
+
+### book 174.2
+
+*) [ἡ διπλῆ ὅτι] λείπει ἡ περὶ, περὶ παιδὸς (H) [καὶ τὸ
+
+### book 174.3
+
+ἄλαστον] ἀντὶ τοῦ ἀλάστως, ἀνεπιλήστως BV. cf. F. Ar. 26.
+
+### book 174.4
+
+29. α 209.
+
+### book 178.1
+
+τὸν δέ τις ἀθανάτων βλάψε φρένας.
+
+### book 178.2
+
+*) [ἡ διπλῆ ὅτι] ἐν σχήματι [εἴρηται] ὡς τὸ „γυναῖκά τε
+
+### book 178.3
+
+θήσατο μαζόν“ (Ω 58) καὶ „οἵ ς’ ὠτειλῆς αἷμ’ ἀπολιχμήσον‐
+
+### book 178.4
+
+ται“ (Φ 122) H.
+
+### book 178.5.1
+
+cf. F. Ar. 20. Ω 58. Sequitur ex scholio, Aristarchum le‐
+
+### book 178.5.2
+
+gisse: τὸν δέ τις, non ut codd. recentiores τοῦ.
+
+### book 188-90
+
+*) ἀστερίσκος πρόσκειται ἄχρι στίχων γ’, ὅτι νῦν
+
+### book 188-90.1
+
+ὡς πρὸς ῥάκεσιν ἠμφιεσμένον ὀρθῶς λέγονται· ὡς δὲ πρὸς
+
+### book 188-90.2
+
+τὴν Ἀθηνᾶν ὁμοιωθεῖσαν Μέντῃ καὶ βασιλικὴν ἔχουσαν στο‐
+
+### book 188-90.3
+
+λὴν οὐ πάνυ HQ. cf. ad α 171. π 57.
+
+### book 199.1
+
+ἐκ μὲν Κρητάων γένος εὔχομαι.
+
+### book 199.2
+
+†) ἀπὸ τοῦ Κρῆται· καὶ τὰς Ἀθήνας γὰρ ποτὲ ἑνικῶς,
+
+### book 199.3
+
+ποτὲ πληθυντικῶς ὀνομάζει HQ. cf. ad γ 287. Eust. 1757, 23.
+
+### book 204,n2.1
+
+Κάστωρ Ὑλακίδης.
+
+### book 204,n2.2
+
+Ad v. 204 H habet: Καλλίστρατος ἐν τῇ ἐκ Μουσείου Κάστρω
+
+### book 204,n2.3
+
+φησὶ γεγράφθαι. Hoc fortasse ex Aristonico fluxisse coniecit Lehrsius
+
+### book 204,n2.4
+
+Ar. p. 25 not. Sed non apparet, quid Callistratus voluerit. Duentzer
+
+### book 204,n2.5
+
+Zenod. 42 aliud nomen, quale Ἄκτωρ est, positum fuisse dixit.
+
+### book 214.1
+
+ἀλλ’ ἔμπης καλάμην γέ ς’ ὀΐομαι εἰσορόωντα
+
+### book 214.2
+
+γιγνώσκειν.
+
+### book 214.3
+
+†) Apoll. l. h. 94, 30: ὁ Ἀρίσταρχός φησι, μεταφορικῶς
+
+### book 214.4
+
+τὴν καλάμην εἴρηκεν. καὶ γὰρ ἐπὶ τοῦ ἀμητοῦ τὸ πλῆθος
+
+### book 214.5.1
+
+ἰδόντα τῆς καλάμης καὶ τὴν εὐγένειαν ἔστιν ἐπιγνῶναι ὅσος
+
+### book 214.5.2
+
+καὶ οἷος ἦν ὁ καρπός. καὶ νῦν οὕτως λέγει, ἀλλ’ ὅμως καὶ
+
+### book 214.5.3
+
+τὸ λείψανόν σε ὁρῶντα τοῦ σώματος ὀίομαι ἐπιγινώσκειν, οἷος
+
+### book 214.5.4
+
+ἤμην ἀκμάζων ἐγὼ καὶ εὐσθενῶν. Similia habent schol. in
+
+### book 214.5.5
+
+BHQV.
+
+### book 231.1
+
+Fuit diple periestigmene, quod Zenodotus καί σφιν,
+
+### book 231.2
+
+quod ad ἄνδρας retulisse videtur, pro καί μοι legit cf. H.
+
+### book 246.1
+
+Αἴγυπτόνδε με θυμὸς ἀνώγει ναυτίλλεσθαι.
+
+### book 246.2
+
+*) ὅτι ὁμωνύμως τὸν ποταμὸν καὶ τὴν χώραν. νῦν δὲ τὴν
+
+### book 246.3
+
+χώραν H. cf. δ 477.
+
+### book 294,n3.1
+
+ἐπήλυθον ὧραι.
+
+### book 294,n3.2
+
+ἡ ἐπὶ ἀντὶ τῆς παρά. παρῆλθον οἱ καιροί, ὅ ἐστιν αἱ τροπαί·
+
+### book 294,n3.3
+
+BHQ. Fluxit fortasse ex Ar. cf. L. qu. ep. 89.
+
+### book 295.1
+
+Diple periestigmene, quod Zenodotus pro ἐέσσατο de‐
+
+### book 295.2
+
+dit ἐφείσατο v. H.
+
+### book 318.1
+
+αἴθρῳ καὶ καμάτῳ δεδμημένον.
+
+### book 318.2
+
+†) αἴθρῳ ἀρσενικῶς, ὡς „ἐν πύλῳ ἐν νεκύεσσιν“ (Ε 397)
+
+### book 318.1
+
+ἀντὶ τοῦ ἐν πύλῃ B.
+
+### book 318.2
+
+Loco citato (Ε 397) sic interpretatus esse dicitur Aristar‐
+
+### book 318.5.1
+
+chus in LVD. Alii legerunt pro αἴθρῳ λύθρῳ cf. Etym. M.
+
+### book 318.5.2
+
+33, 40 ubi idem adnotatur ut in B et adiungitur: καὶ τὴν δεί‐
+
+### book 318.5.3
+
+λην δείελον (Φ 232, ubi v. Aristonicum). Hinc colligi potest,
+
+### book 318.5.4
+
+Aristarchum formam αἶθρον existimavisse metaplasmum illius
+
+### book 318.5.5
+
+αἴθρη, quod legitur Ρ 646. ζ 44. μ 75 Eust. 1760, 32.
+
+### book 321.1
+
+ἐνθ’ Ὀδυσῆος ἐγὼ πυθόμην.
+
+### book 321.2
+
+*) [ἡ διπλῆ ὅτι] λείπει ἡ περί H. cf. F. Ar. 26.
+
+### book 336.1
+
+βασιλῆι Ἀκάστῳ.
+
+### book 336.2
+
+†) πῶς ἐν Ἰλιάδι Μέγητά φησιν εἶναι βασιλέα Δουλιχίου;
+
+### book 336.3
+
+βασιλέας οὖν τοὺς δυνάστας φησί HQ. De hac vocabuli βα‐
+
+### book 336.4
+
+σιλεύς interpretatione ex Ar. derivata cf. L. Ar. 115. In ca‐
+
+### book 336.5
+
+talogo navium Β 627 Meges rex Dulichii est.
+
+### book 338,n4.1
+
+ὄφρ’ ἔτι πάγχυ δύης ἐπὶ πῆμα γενοίμην.
+
+### book 338,n4.2
+
+λείπει ἡ ἔξ, ἵν’ ᾖ ἐκ τῆς δύης ἐπὶ βλάβην ἔλθοιμι, ἢ ἐπὶ ταῖς
+
+### book 338,n4.3
+
+συμβεβηκυίαις τιμωρίαις ἄλλην βλάβην ὑπομείναιμι BH. cf. nostrum
+
+### book 338,n4.4
+
+„aus dem Regen unter die Traufe kommen“. Fluxit fortasse ex Ar.
+
+### book 338,n4.5.1
+
+Aristophanes interpretatus est: „δύῃ ἐπὶ πῆμα γένηται“—sic legit
+
+### book 338,n4.5.2
+
+—ἀντὶ τοῦ ἐπὶ τῇ δύῃ cf. H.
+
+### book 359.1
+
+ἀνδρὸς ἐπισταμένου.
+
+### book 359.2
+
+†) Ex Apoll. l. h. 74, 11: ἐπὶ στίχου ἐν τῇ ξʹ Ὀδυσσείας
+
+### book 359.3
+
+ἀνδρὸς ἐπισταμένου Ἀρίσταρχος ἐπιστήμονος. Sic scribendum
+
+### book 359.4
+
+cf. L. Ar. p. 5.
+
+### book 394.1
+
+μάρτυροι ἀμφοτέροισιν θεοί.
+
+### book 394.2
+
+Fuit diple periestigmene ὅτι Ζηνόδοτος γράφει μάρτυρες·
+
+### book 394.3
+
+ὁ δὲ Ὅμηρος οὕτως ἐσχημάτικεν. cf. α 273. schol. in HQ.
+
+### book 396.1
+
+πέμψαι ‖ Δουλίχιόνδ’ ἰέναι.
+
+### book 396.2
+
+*) [ἡ διπλῆ ὅτι τὸ πέμψαι] ἀντὶ τοῦ πέμψον B. cf. ad
+
+### book 396.3
+
+α 291. F. Ar. 14.
+
+### book 400
+
+ὄφρα καὶ ἄλλος πτωχὸς ἀλεύεται ἠπεροπεύειν.
+
+### book 400.1
+
+Fuit diple, ὅτι τὸ ἀλεύεται ἀντὶ τοῦ ἀλεύηται· συνέσταλ‐
+
+### book 400.2
+
+ται γάρ. cf. ad ζ 33 ubi citatur hic locus in eadem adnota‐
+
+### book 400.3
+
+tione. F. Ar. 13.
+
+### book 446.1
+
+καὶ ἄργματα θῦσε.
+
+### book 446.2
+
+†) τὰς ἀπαρχὰς τῶν μερίδων ἢ τὰ ἀπομερισθέντα τοῖς
+
+### book 446.3
+
+θεοῖς. θῦσε δὲ ἐθυμίασεν· οὐδέποτε γὰρ θῦσαι ἐπὶ τοῦ σφάξαι
+
+### book 446.4
+
+ἱερεῖόν φησι BQ. cf. ad Ι 219 ubi citatur noster versus inhac
+
+### book 446.5
+
+interpretatione. L. Ar. 82. Eust. 1767, 12. ι 231.
+
+### book 447.1
+
+οἶνον Ὀδυσσῆι πτολιπόρθῳ
+
+### book 447.2
+
+ἐν χείρεσσιν ἔθηκεν. ὁ δ’ ἕζετο.
+
+### book 447.3
+
+*) [ἡ διπλῆ ὅτι] καὶ τοῦτο ἐξ ἐπαναλήψεως ἐπ’ αὐτοῦ τοῦ
+
+### book 447.4
+
+Ὀδυσσέως H. cf. ad v. 77. Ε 733. Ο 127. ε 391.
+
+### book 463.1
+
+εὐξάμενός τι ἔπος ἐρέω.
+
+### book 463.2
+
+*) [ἡ διπλῆ ὅτι τὸ εὐξάμενος ἀντὶ τοῦ] καυχησάμενος BQ.
+
+### book 463.3
+
+L. Ar. 147. cf. 468.
+
+### book 468.1
+
+εἴθ’ ὣς ἡβώοιμι.
+
+### book 468.2
+
+†) ἔνθεν δῆλον ὅτι τὸ εὐξάμενος (463) ἀντὶ τοῦ καυχησά‐
+
+### book 468.3
+
+μενος HQ.
+
+### book 482.1
+
+ἀλλ’ ἑπόμην σάκος οἶον ἔχων καὶ ζῶμα φαεινόν.
+
+### book 482.2
+
+†) νῦν προφανῶς ζῶμα τὸν χιτῶνά φησιν, ὡς διὰ τῶν
+
+### book 482.3
+
+ἑξῆς δῆλον „παρά μ’ ἤπαφε δαίμων οἰοχίτων’ ἴμεναι· (488)
+
+### book 482.4
+
+τινὲς δὲ ζῶμα φαεινὸν τὸν σιδηροῦν χιτῶνα H. Altera inter‐
+
+### book 482.5.1
+
+pretatio est Aristarchi cf. L. Ar. 121. Eust. 1770, 35. Apoll.
+
+### book 482.5.2
+
+l. h. 81, 18.
+
+### book 495.1
+
+κλῦτε φίλοι· θεῖός μοι ἐνύπνιον ἦλθεν ὄνειρος.
+
+### book 495.2
+
+*) ἀθετεῖται ὡς ἐκ τῆς Ἰλιάδος (Β56) μετενηνεγμένος.
+
+### book 495.3
+
+γελοῖον δὲ εἰπεῖν καὶ τὸν ἐν λόχῳ καθυπνωκέναι H. cf. ad
+
+### book 495.4
+
+Β 56, qui habet asteriscum. Videtur insertus esse versus propter
+
+### book 495.5.1
+
+initium orationis coniunctione γὰρ factum. Sic H: τινὲς φασὶν
+
+### book 495.5.2
+
+ἐνίους ἠγνοηκότας τὸ (ἔθος) τοῦ ποιητοῦ, ὅτι ἔθος ἐστὶν αὐτῷ
+
+### book 495.5.3
+
+ἀπὸ τοῦ γὰρ ἄρχεσθαι, διὰ τοῦτο πεπλακέναι τὸν στίχον.
+
+### book 495.5.4
+
+cf. κ 174. 189.
+
+### book 503-6
+
+ὣς νῦν ἡβώοιμι βίη τέ μοι ἔμπεδος εἴη.
+
+### book 503-6.1
+
+δοίη κέν τις χλαῖναν ἐνὶ σταθμοῖσι συφορβῶν,
+
+### book 503-6.2
+
+ἀμφότερον, φιλότητι καὶ αἰδοῖ φωτὸς ἑῆος.
+
+### book 503-6.3
+
+νῦν δέ μ’ ἀτιμάζουσι κακὰ χροὶ εἵματ’ ἔχοντα.
+
+### book 503-6.5.1
+
+†) καὶ ὁ Ἀθηνοκλῆς προηθέτει. ἀφανίζουσι γὰρ τὸ χω‐
+
+### book 503-6.5.2
+
+ρίον τοῦ αἰνίγματος διαῤῥήδην αἰτοῦντος. ἄλλως τε καὶ ὁ
+
+### book 503-6.5.3
+
+Εὔμαιος ὕστερον λέγει „αἶνος μέντοι ἀμύμων ὃν κατέλεξασ“ H.
+
+### book 503-6.5.4
+
+Versibus 503—506 quatuor obeli appicti sunt in M, in Q
+
+### book 503-6.5.5
+
+tres modo v. 504—506. De Athenocle cf. ad ζ 144.
+
+### book 553.1
+
+Βορέω ὑπ’ ἰωγῇ.
+
+### book 553.2
+
+†) τῇ σκέπῃ V.
+
+### book 553.3
+
+Sic Aristarchum interpretatum esse ὑπὸ σκέπῃ dicit Apoll.
+
+### book 553
+
+l. h. 93, 28.
+
+### book 1
+
+εὗρε δὲ Τηλέμαχον καὶ Νέστορος ἀγλαὸν υἱὸν
+
+### book 6.1
+
+ἤτοι Νεστορίδην μαλακῷ δεδμημένον ὕπνῳ.
+
+### book 6.2
+
+*) [ἡ διπλῆ ὅτι] πρὸς τὸ δεύτερον πρῶτον ἀπήντηκεν (cod.
+
+### book 6.3
+
+ἀπήντησεν) καὶ [κατὰ ἐναλλαγὴν πτώσεως παρείληπται] (cod.
+
+### book 6.4
+
+ἀντίπτωσις) ἀντὶ τοῦ ὑπὸ μαλακοῦ ὕπνου δεδμημένον H. cf.
+
+### book 6.5
+
+L. Ar. 11. F. Ar. 24.
+
+### book 16.1
+
+ἤδη γάρ ῥα πατήρ τε κασίγνητοί τε κέλονται
+
+### book 16.2
+
+Εὐρυμάχῳ γήμασθαι.
+
+### book 16.3
+
+*) ὅτι Ἰθακήσιος ὁ Ἰκάριος, οὐ Σπαρτιάτης, ἀδελφὸς Τυν‐
+
+### book 16.4
+
+δάρεω H.
+
+### book 16.5
+
+cf. schol. in E ad α 285. HMQ ad β 52, HQT ad δ 1.
+
+### book 19.1
+
+μή νύ τι σεῦ ἀέκητι δόμων ἐκ κτῆμα φέρηται.
+
+### book 19.2
+
+Fuit nota de Aristophanis athetesi cf. in H: ἀθετεῖ Ἀρι‐
+
+### book 19.3
+
+στοφάνης ἐπὶ σμικρολογίᾳ παντελῶς. Propter eandem caussam
+
+### book 19.4
+
+ceraunio apposito ς 281 sq. damnavit. cf. ad v. 91.
+
+### book 20.1
+
+οἶσθα γὰρ, οἷος θυμός.
+
+### book 20.2
+
+Eust. 1773, 27 Zenodotum nostro loco pro οἶσθα scripsisse
+
+### book 20.3
+
+οἶσθας contendit. cf. α 337. Ar. ad Α 85.
+
+### book 24-6.1
+
+ἀλλὰ σύ γ’ ἐλθὼν αὐτὸς ἐπιτρέψειας ἕκαστα
+
+### book 24-6.2
+
+δμωάων ἥ τίς τοι ἀρίστη φαίνεται εἶναι,
+
+### book 24-6.3
+
+εἰς ὅ κέ τοι φήνωσι θεοὶ κυδρὴν παράκοιτιν.
+
+### book 24-6.4
+
+ἔνιοι τοὺς γʹ νοθεύουσιν, ὅτι μηδὲν τούτων ἐπανελθὼν
+
+### book 24-6.5.1
+
+ποιεῖ H.
+
+### book 24-6.5.2
+
+Dindorfius lemma 19—21 praefixit, sed scholion ad v. 24
+
+### book 24-6.5.3
+
+—26 pertinere mihi videtur. Sic etiam La Roche II, p. 46.
+
+### book 29.1
+
+ἐν πορθμῷ Ἰθάκης τε Σάμοιό τε.
+
+### book 29.2
+
+*) [ἡ διπλῆ ὅτι] τὴν Σάμην εἴρηκεν Σάμον διὰ τὸ μέτρον
+
+### book 29.3
+
+καὶ τὴν δείλην δείελον (ρ 606) ἐν ἄλλοις V. cf. L. Ar. 233,
+
+### book 29.4
+
+α 246. Φ 232.
+
+### book 31-2,n1.1
+
+Versus 31—32 Dionysius pro spuriis habuit cf. schol. HQ.
+
+### book 31-2,n1.2
+
+Vind. 133.
+
+### book 45.1
+
+λὰξ ποδὶ κινήσας, καί μιν πρὸς μῦθον ἔειπεν.
+
+### book 45.2
+
+†) νοθεύεται ὡς διαπεπλασμένος ἐξ ἡμιστιχίου τῆς Κ
+
+### book 45.3
+
+Ἰλιάδος (158). ἐκεῖ γὰρ προσηκόντως Νέστωρ κοιμώμενον Διο‐
+
+### book 45.4
+
+μήδην ἀνίστησι κύψαι (corr. Dind. τύψαι) κατοκνήσας διὰ τὸ
+
+### book 45.5
+
+γῆρας H. Vind. 133. cf. Κ 158, ubi asteriscus.
+
+### book 74.1
+
+χρῆ ξεῖνον παρεόντα φιλεῖν, ἐθέλοντα δὲ πέμπειν.
+
+### book 74.2
+
+†) ἐν πολλοῖς οὐκ ἐφέρετο. καὶ ἔστιν Ἡσιόδειος τῆς φρά‐
+
+### book 74.3
+
+σεως ὁ χαρακτήρ HQ. Vind. 133. cf. L. Ar. 343. Σ 39. Ω 614.
+
+### book 78-85.1
+
+ἀμφότερον, κῦδός τε καὶ ἀγλαΐη καὶ ὄνειαρ,
+
+### book 78-85.2
+
+δειπνήσαντες ἴμεν πολλὴν ἐπ’ ἀπείρονα γαῖαν.
+
+### book 78-85.3
+
+εἰ δ’ ἐθέλεις τραφθῆναι ἀν’ Ἑλλάδα καὶ μέσον Ἄργος,
+
+### book 78-85.4
+
+ὄφρα τοι αὐτὸς ἕπωμαι, ὑποζεύξω δέ τοι ἵππους,
+
+### book 78-85.5.1
+
+ἄστεα δ’ ἀνθρώπων ἡγήσομαι· οὐδέ τις ἡμέας
+
+### book 78-85.5.2
+
+αὔτως ἀππέμψει, δώσει δέ τι ἕν γε φέρεσθαι,
+
+### book 78-85.5.3
+
+ἠέ τινα τριπόδων εὐχάλκων ἠὲ λεβήτων
+
+### book 78-85.5.4
+
+ἠὲ δύ’ ἡμιόνους ἠὲ χρύσειον ἄλεισον.
+
+### book 78-85.5.5
+
+*) οἱ ηʹ ἠθετοῦντο· συγκέχυται δὲ τὸ δυικὸν τοῦ ἀμφό‐
+
+### book 78-85.10.1
+
+τερον H.
+
+### book 78-85.10.2
+
+Obeli adscripti sunt in M cf. ad v. 80 et 85.
+
+### book 80.1
+
+εἰ δ’ ἐθέλεις τραφθῆναι ἀν’ Ἑλλάδα καὶ μέσον
+
+### book 80.2
+
+Ἄργος.
+
+### book 80.3
+
+†) ἀτόπως καὶ τὸ „ἀν’ Ἑλλάδα“. μόνην γὰρ τὴν ὑπὸ
+
+### book 80
+
+Ἀχιλλεῖ Ἑλλάδα καλεῖ Ὅμηρος Q. cf. ad δ 726. L. Ar. 228.
+
+### book 81.1
+
+ὄφρα τοι αὐτὸς ἕπωμαι, ὑποζεύξω δέ τοι ἵππους.
+
+### book 81.2
+
+*) [ἡ διπλῆ ὅτι] ὁ δὲ πλεονάζει H. cf. F. Ar. 33. β 6.
+
+### book 85.1
+
+καὶ ταῦτα ἀπρεπῆ διδάσκεσθαι πρὸς Μενελάου τὸν
+
+### book 85.2
+
+Τηλέμαχον τὸ ἀπαιτεῖν H. cf. ad v. 78.
+
+### book 85.3
+
+Versum 91 ἤ τί μοι ἐκ μεγάρων κειμήλιον ἐσθλὸν ὄληται
+
+### book 85.4
+
+Aristophanes propter eandem caussam ut v. 19 expunxisse vi‐
+
+### book 85.5
+
+detur, cf. schol. in H. ἔστι σμικρολόγου ὡς Ἀριστοφάνης φησί,
+
+### book 95.1
+
+ἀγχίμολον δέ οἱ ἦλθε Βοηθοίδης Ἐτεωνεύς,
+
+### book 95.2
+
+ἀνστὰς ἐξ εὐνῆς, ἐπεὶ οὐ πολὺ ναῖεν ἀπ’ αὐτοῦ.
+
+### book 95.3
+
+†) οὐκ ἀναγκαῖον ἀθετεῖν· οὐ γὰρ δοῦλοι (corr. La Roche
+
+### book 95.4
+
+pro Dind. δῆλοι) οἱ θεράποντες ὥστε ἐν τῇ αὐτῇ οἰκίᾳ οἰκεῖν.
+
+### book 95.5
+
+HQ.
+
+### book 135.1
+
+χέρνιβα δ’ ἀμφίπολος προχόῳ ἐπέχευε.
+
+### book 135.2
+
+†) χερόνιπτρα H. cf. ad Ω 304. α 136.
+
+### book 157.1
+
+Ὀδυσῆ’ ἐνὶ οἴκῳ ‖ εἴποιμ’.
+
+### book 157.2
+
+†) Ὀδυσῆϊ ἐνί. Ἀττικόν ἐστιν, ὡς „ἥρωϊ Λαομέδοντι πο‐
+
+### book 157.3
+
+λίσσαμεν“ (Η 453) H. cf. Ar. ad Η 453. ν 35.
+
+### book 161.1
+
+ἀργὴν χῆνα.
+
+### book 161.2
+
+*) ὅτι καὶ θηλυκὸν λέγεται H.
+
+### book 161.3
+
+Masculina forma τ 539, 553 legitur.
+
+### book 184.1
+
+σεῖον ζυγὸν ἀμφὶς ἔχοντες.
+
+### book 184.2
+
+*) [ἡ διπλῆ ὅτι] ἀπὸ τοῦ παρακολουθοῦντος τὸ ἔτρεχον B.
+
+### book 184.3
+
+cf. Friedlaenderum ad B 417. γ 486.
+
+### book 224.1
+
+φεύγων ἐξ Ἄργεος.
+
+### book 224.2
+
+†) Ἄργεος οὐ τῆς πόλεως, ἀλλὰ τῆς χώρας B. Fluxit ex
+
+### book 224.3
+
+Ar., qui apud Homerum Peloponnesum Argos nominari obser‐
+
+### book 224.4
+
+vavit, non urbem ut apud recentiores. cf. L. Ar. 227. ς. 246.
+
+### book 227,n2.1
+
+ἀφνειὸς Πυλίοισι μέγ’ ἔξοχα δώματα ναίων.
+
+### book 227,n2.2
+
+ἡ γραφὴ μετά, ἀντὶ τοῦ ἐν Πυλίοις· μετὰ Πυλίων ναίων ἔξοχα
+
+### book 227,n2.3
+
+δώματα H. Sic Ar. μετὰ ἀντὶ τοῦ ἐν positum esse etiam Γ 460. Ε 834
+
+### book 227,n2
+
+docuit. Num legit ἀφνειὸς Πυλίοισι μετ’ ἔξοχα ...?
+
+### book 244.1
+
+(253). Ἀμφιάραος.
+
+### book 244.2
+
+Fuit diple periestigmene quod Zenodotus legit διὰ τοῦ η
+
+### book 244.3
+
+(cf. in H) Ἀμφιάρηος, v. ad Α 530, ubi vituperavit eum Ar.
+
+### book 244.4
+
+propter formam Jonicam κρητός pro κρατός.
+
+### book 246.1
+
+ὃν περὶ κῆρι φίλει Ζεύς τ’ αἰγίοχος καὶ Ἀπόλλων
+
+### book 246.2
+
+παντοίην φιλότητ’. οὐδ’ ἵκετο γήραος οὐδόν.
+
+### book 246.3
+
+†) ὁ δὲ παρὰ σύνταξιν κεῖται· λέγει γὰρ ὅτι καίπερ θεο‐
+
+### book 246.4
+
+φιλὴς ὢν οὐκ ἐγήρασε. τὸ οὖν ἑξῆς „γήραος δὲ οὐδὸν οὐχ
+
+### book 246.5.1
+
+ἵκετο“. ὅμοιον δέ ἐστι τῷ „οὐδ’ Ἀγαμέμνων λῆγ’ ἔριδος τὴν
+
+### book 246.5.2
+
+πρῶτον ἐπηπείλης’ Ἀχιλῆϊ“ (Α 318). τὸ γὰρ ἑξῆς „Ἀγαμέ‐
+
+### book 246.5.3
+
+μνων δ’ οὐ λῆγ’ ἔριδοσ“ HQ. cf. ad Χ 91.
+
+### book 248.1
+
+τοῦ δ’ υἱεῖς ἐγένοντ’ Ἀλκμαίων Ἀμφίλοχός τε
+
+### book 248.2
+
+*) ὅτι οὐκ οἶδεν Ὅμηρος τὸν Ἀλκμαίονα μητροκτόνον.
+
+### book 248.3
+
+Vind. 133. L. Ar. 184.
+
+### book 251.1
+
+κάλλεος εἵνεκα οἷο, ἵν’ ἀθανάτοισι μετείη.
+
+### book 251.2
+
+Hunc versum expunxit Ar. cf. ad Υ 235, ubi est asteriscus.
+
+### book 277.1
+
+ἀλλά με νηὸς ἔφεσσαι.
+
+### book 277.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἔφεσσαι] ἀντὶ τοῦ ἔφεσον B. cf. F.
+
+### book 277.3
+
+Ar. 14. α 291.
+
+### book 282.1
+
+φωνήσας οἱ ἐδέξατο χάλκεον ἔγχος.
+
+### book 282.2
+
+*) [ἡ διπλῆ ὅτι ἐλ]λείπει ἡ παρὰ, ἵν’ ᾖ παρ’ αὐτοῦ Q.
+
+### book 282.3
+
+cf. ad Β 186. Fr. Ar. p. 25.
+
+### book 293.1
+
+ἐπαιγίζοντα δι’ αἰθέρος.
+
+### book 293.2
+
+†) Ἀριστοφάνης ἐπαΐσσοντα· αἰγίδας ἔλεγον τὰς ὑφ’ ἡμῶν
+
+### book 293.3
+
+καταιγίδας καὶ σφοδρὰς πνοὰς τῶν θυέλλων Q. Vind. 133.
+
+### book 293.4
+
+Fluxisse videtur ex Didymo et Aristonico, cuius verba ab
+
+### book 293.5.1
+
+αἰγίδας usque ad finem sunt. cf. ad Β 148. Ρ 594. In verbo
+
+### book 293.5.2
+
+ἐπαιγίζοντα κατὰ praepositionem omissam esse notavit Ar. ibid.
+
+### book 296.1
+
+ἡ δὲ Φεὰς ἐπέβαλλεν.
+
+### book 296.2
+
+Diple fuit ὅτι νῦν μὲν Φεὰς πληθυντικῶς εἴρηκεν, ἐν δὲ
+
+### book 296.3
+
+Ἰλιάδι „Φειᾶς πὰρ τείχεσσιν“ (Η 135) ἑνικῶς. cf. Ar. ad
+
+### book 296.4
+
+Η 135.
+
+### book 312.1
+
+αἴ κέν τις κοτύλην καὶ πύρνον ὀρέξῃ.
+
+### book 312.2
+
+†) ἐκπώματος ἤτοι ποτηρίου εἶδος τοσούτου καὶ μέτρου
+
+### book 312.3
+
+BV.
+
+### book 312.4
+
+Notatum fuit vocabulum κοτύλην significare et poculum et
+
+### book 312.5.1
+
+id quod eo continetur—τὸ μετροῦν καὶ τὸ μετρούμενον—
+
+### book 312.5.2
+
+ut χοῖνιξ. cf. ad Φ 502. Χ 494. Eust. 1782, 55.
+
+### book 317.1
+
+δρώοιμι μετὰ σφίσιν, ὅττ’ ἐθέλοιεν.
+
+### book 317.2
+
+Fuit diple ὅτι τὸ ἐθέλω ἀεὶ ἀπὸ τοῦ ε ἄρχεται; cf. in H:
+
+### book 317.3
+
+τὸ ἐθέλοιεν οὕτως αἱ Ἀριστάρχου, φασὶ, τρισυλλάβως τὸ ἐθέλω.
+
+### book 317.4
+
+F. Ar. ἅσς’ ἐθέλοιεν scripsisse coniecit, collato Α 554, ubi Si‐
+
+### book 317.5.1
+
+donius ὅττι θέλῃσθα, Aristarchus ἅσς’ ἐθέλῃσθα scripsisse
+
+### book 317.5.2
+
+traduntur.
+
+### book 334.1
+
+σίτου καὶ κρειῶν ἠδ’ οἴνου βεβρίθασιν.
+
+### book 334.2
+
+†) δισυλλάβως μετρητέον καὶ τοῦτον τὸν στίχον. Vind.
+
+### book 334.3
+
+133. Notavit Ar. versus ὁλοσπονδείους cf. ad Λ 130. φ 15.
+
+### book 334.4
+
+χ 175.
+
+### book 397.1
+
+δειπνήσας ἅμ’ ὕεσσιν ἀνακτορίῃσιν ἑπέσθω.
+
+### book 397.2
+
+†) ὁ Ἀρίσταρχος ταῖς δεσποτικαῖς B. Vind. 133. Apoll.
+
+### book 397.3
+
+l. h. 34, 23. Eust. 1785, 37.
+
+### book 404.1
+
+Ὀρτυγίης καθύπερθεν, ὅθι τροπαὶ ἠελίοιο.
+
+### book 404.2
+
+†) οἷον ὡς πρὸς τὰς τροπὰς ἡλίου, ὅ ἐστιν ἐπὶ τὰ δυτικὰ
+
+### book 404.3
+
+μέρη ὑπεράνωθεν τῆς Δήλου. οὕτως Ἀρίσταρχος καὶ Ἡρω‐
+
+### book 404
+
+διανός BHQ. Eust. 1787, 20.
+
+### book 2.1
+
+ἐντύνοντο ἄριστον ἅμ’ ἠοῖ.
+
+### book 2.2
+
+*) ὅτι καὶ ἐν τῇ Ἰλιάδι ἅμα τῇ ἀνατολῇ ἐσθίουσιν. ἅπαξ
+
+### book 2.3
+
+ἐνθάδε τὸ ἄριστον καὶ ἐν Ἰλιάδι H.
+
+### book 2.4
+
+cf. Ω 124. L. Ar. 127.
+
+### book 10.1
+
+ποδῶν δ’ ὑπὸ δοῦπον ἀκούω.
+
+### book 10.2
+
+†) παρέλκει ἡ ὑπὸ B.
+
+### book 18.1
+
+ἐλθόντ’ ἐξ ἀπίης γαίης δεκάτῳ ἐνιαυτῷ.
+
+### book 18.2
+
+Fuit diple ὅτι ἀπίαν τὴν πολὺ ἀφεστῶσαν, οὐχ ὡς οἱ νε‐
+
+### book 18.3
+
+ώτεροι τὴν Πελοπόννησον λέγει· καὶ ἐξηγητικός ἐστιν ὁ τό‐
+
+### book 18.4
+
+πος. cf. Ar. ad Γ 49.
+
+### book 31.1
+
+ἔσσεται οὕτως, ἄττα.
+
+### book 31.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἄττα] προσφώνησίς ἐστι νέου πρὸς
+
+### book 31.3
+
+γέροντα Q. cf. ad Ι 607.
+
+### book 57-9.1
+
+*) [οἱ ἀστερίσκοι] ὅτι νῦν ὀρθῶς εἴρηται πῶς
+
+### book 57-9.2
+
+ἀφῖκται πτωχὸς ὤν. κατὰ δὲ τὴν πράτην, ὅτι Μέντῃ εἰκά‐
+
+### book 57-9.3
+
+ζεται ἡ Ἀθηνᾶ οὐχ ὑγιῶς HQ. cf. ad α 171. ξ 188.
+
+### book 101.1
+
+ἔλθοι ἀλητεύων· ἔτι γὰρ καὶ ἐλπίδος αἶσα.
+
+### book 101.2
+
+†) οὗτος ὁ στίχος ὀβελίζεται καὶ καλῶς M. ἔστι περιτ‐
+
+### book 101.3
+
+τὸς ὁ στίχος καὶ διαλύων τὸ πᾶν νόημα HM.
+
+### book 101.4
+
+E τ 84 huc translatus videtur esse versus cf. Eust. 1795,
+
+### book 101.5
+
+42. Omittit E. 1795, 28.
+
+### book 104.1
+
+ἐλθὼν ἐς μέγαρον Λαερτιάδεω Ὀδυσῆος.
+
+### book 104.2
+
+*) καὶ οὗτος ἀθετεῖται. δύο γὰρ μόνα εὔχεται ἢ παῖς ἐξ
+
+### book 104.3
+
+Ὀδυσσέως εἶναι ἢ μόνος αὐτὸς ὁ Ὀδυσσεύς· ἀθετεῖ [καὶ] Ζη‐
+
+### book 104.4
+
+νόδοτος H.
+
+### book 152-3.1
+
+ἀμφίπολον ταμίην ὀτρυνέμεν ὅττι τάχιστα
+
+### book 152-3.2
+
+κρύβδην· κείνη γάρ κεν ἀπαγγείλειε γέροντι.
+
+### book 152-3.3
+
+†) νοθεύονται, ὅτι μὴ πέμπει Πηνελόπη πρὸς Λαέρτην
+
+### book 152-3.4
+
+(εἰ μὴ ἄρα σιωπωμένως) H.
+
+### book 208.1
+
+ἥτε με τοῖον ἔθηκεν, ὅπως ἐθέλει.
+
+### book 208.2
+
+†) Ἀρίσταρχος ἀντὶ τοῦ τίθησιν τὸ ἔθηκεν ἐξηγεῖται. H.
+
+### book 208.3
+
+unde patet Aristarchum non ἔθελεν sed ἐθέλει scripsisse. cf.
+
+### book 208.4
+
+Ε 729. Π 633. F. Ar. p. 6.
+
+### book 246
+
+†)τοὺς μνηστῆράς φησι ρηʹ Ἀρίσταρχος H.
+
+### book 255.1
+
+μὴ πολύπικρα καὶ αἰνὰ βίας ἀποτίσεαι.
+
+### book 255.2
+
+†) σύνθετον τὸ πολύπικρα, καὶ ἔστιν ἀντὶ τοῦ πολυπί‐
+
+### book 255.3
+
+κρως H. cf. α 209.
+
+### book 265.1
+
+ἀνδράσι τε κρατέουσι καὶ ἀθανάτοισι θεοῖσιν.
+
+### book 265.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ ἄλλων ἀνδρῶν καὶ θεῶν B. cf.
+
+### book 265.3
+
+F. Ar. p. 22.
+
+### book 281-98.1
+
+†)νοθεύονται ιηʹ. πόθεν γὰρ ᾔδει τὰ ὅπλα
+
+### book 281-98.2
+
+ἐν τῷ ἀνδρῶνι ἀντικείμενα; οἰκείως δὲ χρήσεται τῷ λόγῳ ὅταν
+
+### book 281-98.3
+
+αὐτὰ θεάσηται. ἀθετεῖ [καὶ] Ζηνόδοτος HQ. Vind. 133. cf.
+
+### book 281-98.4
+
+ad τ 4, ubi asterisci sunt. Eust. 1803, 4 et 1855, 2.
+
+### book 317
+
+Ar. interpretationem νηλείτιδες vocabuli vid. ad τ 498.
+
+### book 326.1
+
+τεύχεα δέ σφ’ ἀπένεικαν.
+
+### book 326.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ αὐτῶν B. cf. F. Ar. 22.
+
+### book 431.1
+
+τοῦ νῦν οἶκον ἄτιμον ἔδεις.
+
+### book 431.2
+
+*) [ὅτι τὸ ἄτιμον] ἀντὶ τοῦ ἀτίμως Q. cf. α 209. Eust.
+
+### book 431
+
+1807, 33.
+
+### book 10.1
+
+τὸν ξεῖνον δύστηνον ἄγ’ ἐς πόλιν.
+
+### book 10.2
+
+*) [ἡ διπλῆ] πρὸς τὴν τοῦ ἄρθρου μετάθεσιν. ὅμοιόν ἐστι
+
+### book 10.3
+
+τῷ „οὔτε τὰ τεύχεα καλά“. (Φ 317) Q. cf. Ar. ad Φ 317.
+
+### book 10.4
+
+Α 11.
+
+### book 12.1
+
+πύρνον καὶ κοτύλην.
+
+### book 12.2
+
+De vocabuli κοτύλη interpretatione cf. ad ο 312 et Χ 494,
+
+### book 12.3
+
+ubi nostrum locum Ar. commemorat.
+
+### book 23.1
+
+αὐτίκ’ ἐπεί κε πυρὸς θερέω ἀλέη τε γένηται.
+
+### book 23.2
+
+*) [ἡ διπλῆ ὅτι] λείπει τὸ διὰ, διὰ πυρός H. cf. F. Ar. 26.
+
+### book 38.1
+
+ἀμφὶ δὲ παιδὶ φίλῳ βάλε πήχεε.
+
+### book 38.2
+
+†) ἐν ἴσῳ τῷ τὰς χεῖρας περιέβαλεν. Sic Aristarchus teste
+
+### book 38.3
+
+Apoll. l. h. 65, 15.
+
+### book 47.1
+
+φυγόντι περ αἰπὺν ὄλεθρον.
+
+### book 47.2
+
+Superfluam esse particulam περ nostro loco Aristarchus
+
+### book 47.3
+
+contendit ad Φ 185. τὸ περ ἀντὶ τοῦ δή habet H, quas par‐
+
+### book 47.4
+
+ticulas saepius commutatas esse item docuit, cf. F. Ar. p. 35.
+
+### book 47.5.1
+
+Versum 111 Zenodotus mutavit, cf. H Vind. 133: „ἐνδυκέως
+
+### book 47.5.2
+
+ἐφίλει ὡσεί τε πατὴρ ἑὸν υἷα“. οὕτως Ἀρίσταρχος. ὁ δὲ Ζη‐
+
+### book 47.5.3
+
+νόδοτος „ἐνδυκέως ἐφίλει ὡσεί τε πατὴρ ἑὸν παῖδα“, quod
+
+### book 47.5.4
+
+Duentzer p. 86 correxit ὃν παῖδα. Dindorfius mavult: ὃν παῖδ’
+
+### book 47.5.5
+
+ἐφίλησε, collatis Ι 481. π 17.
+
+### book 134.1
+
+ἐξ ἔριδος Φιλομηλείδῃ ἐπάλαισεν ἀναστάς.
+
+### book 134.2
+
+Fuisse videtur Ar. nota de Philomelede, cf. schol. HQV:
+
+### book 134.3
+
+ἄδηλον τίς ὁ Φιλομηλείδης, καὶ εἰ κύριον τὸ ὄνομα. ὁ Φιλο‐
+
+### book 134.4
+
+μηλείδης ὡς Φιλομήλου υἱός. ὁ γὰρ Πάτροκλος οὐ δύναται
+
+### book 134.5.1
+
+δηλοῦσθαι ὡς Φιλομήλας υἱός, ὅτι τε τὰ ἀπὸ μητέρων οὐ
+
+### book 134.5.2
+
+σχηματίζει ὁ ποιητής, καὶ ὅτι τὸ ἐπιφερόμενον οὐκ οἰκεῖον
+
+### book 134.5.3
+
+ἦν ἐπὶ Πατρόκλου „κὰδ δ’ ἔβαλε κρατερῶς, κεχάροντο δὲ πάν‐
+
+### book 134.5.4
+
+τες Ἀχαιοί“ (135) καὶ ἐν Ἰλιάδι δὲ λέγει (Ρ 670) „νῦν τις ἐνη‐
+
+### book 134.5.5
+
+είης Πατροκλῆος δειλοῖο μνησάσθω“. In hoc scholio illud:
+
+### book 134.10.1
+
+ὅτι τὰ ἀπὸ μητέρων οὐ σχηματίζει ὁ ποιητής certe Aristarchi
+
+### book 134.10.2
+
+est, cf. Λ 750. Idem fere ad δ 343 scholion in M habet, ubi
+
+### book 134.10.3
+
+Philomeledes Lesbi rex fuisse dicitur.
+
+### book 160-1.1
+
+οἷον ἐγὼν οἰωνὸν ἐυσσέλμου ἐπὶ νηὸς
+
+### book 160-1.2
+
+ἥμενος ἐφρασάμην καὶ Τηλεμάχῳ ἐγεγώνευν
+
+### book 160-1.3
+
+Versus 160—161 expunxisse videtur Aristarchus, quod The‐
+
+### book 160-1.4
+
+oclymenus avem non in nave sedens, sed egressus in Ithacam
+
+### book 160-1.5.1
+
+viderat et propter novam vocabuli ἐγεγώνευν significationem,
+
+### book 160-1.5.2
+
+quod est clamare non dicere. Si nostro loco clamare interpre‐
+
+### book 160-1.5.3
+
+teris, ineptum est nec reliquae narrationi conveniens. Nam
+
+### book 160-1.5.4
+
+ο 529 Theoclymenus clam sociis Telemacho augurium explanat.
+
+### book 160-1.5.5
+
+Alii totum locum 150—165 damnaverunt, quibus versibus in N
+
+### book 160-1.10.1
+
+obeli appicti sunt. Reliquiae Ar. notarum hae sunt in scholiis:
+
+### book 160-1.10.2
+
+160 in H: καὶ μὴν οὐδέπω εἰσελθὼν εἰς τὴν ναῦν θεᾶται τὸν
+
+### book 160-1.10.3
+
+οἰωνόν H.
+
+### book 160-1.10.4
+
+in Q. Vind. 133: ἐν τοῖς χαριεστέροις οὗτοι μόνοι οἱ βʹ
+
+### book 160-1.10.5
+
+ἀθετοῦνται, ἐπεὶ καὶ πρὶν εἰσελθεῖν (sc. ἄστυ) [οὐκ] (corr. L.
+
+### book 160-1.15.1
+
+Ar. p. 100) ἐν τῇ νηῒ τὸν οἰωνὸν εἶδε, καὶ ἐγεγώνευν ἀκαίρως
+
+### book 160-1.15.2
+
+ἐστίν, ἐν δὲ τοῖς κοινοτέροις ἀπὸ τοῦ „ὣς φάτο“ ἕως τοῦ
+
+### book 160-1.15.3
+
+„ἐξ ἐμεῦ“.
+
+### book 181.1
+
+ἵρευον δὲ σύας σιάλους καὶ βοῦν ἀγελαίην.
+
+### book 181.2
+
+†) ἀθετεῖ καὶ Ἀριστοφάνης H. καί indicat hunc versum
+
+### book 181.3
+
+non ab solo Aristophane esse rejectum. Fortasse Aristarchus
+
+### book 181.4
+
+eum secutus est, cf. ad α 185.
+
+### book 196.1
+
+ἐπεὶ ἦ φατ’ ἀρισφαλέ’ ἔμμεναι οὐδόν.
+
+### book 196.2
+
+†) τὸ οὐδὸν ἀντὶ τοῦ τὴν ὁδόν· νῦν δὲ μόνως μετὰ τοῦ
+
+### book 196
+
+υ BV. cf. Apoll. l. h. 123, 34. Eust. 1815, 2.
+
+### book 246.1
+
+αὐτὰρ μῆλα κακοὶ φθείρουσι νομῆες (sc. Melanthii)
+
+### book 246.2
+
+*) [ἡ διπλῆ ὅτι] τὸ μῆλα νῦν μόνως τὰς αἶγας H. Alibi
+
+### book 246.3
+
+oves et caprae cf. L. Ar. 100. ι 184.
+
+### book 261.1
+
+στήτην ἐρχομένω, περὶ δέ σφεας ἤλυθ’ ἰωή.
+
+### book 261.2
+
+*) [ἡ διπλῆ ὅτι τὸ περὶ δὲ] ἀντὶ τοῦ περὶ γάρ σφεας, ἵνα
+
+### book 261.3
+
+τοῦ στῆναι φαίνηται ἡ αἰτία H. cf. F. Ar. p. 35. β 6.
+
+### book 264.1
+
+De hac verborum coniunctione: ἦ μάλα δὴ τάδε δώ‐
+
+### book 264.2
+
+ματα (264) et: οὐκ ἄν τίς μιν ἀνὴρ ὑπεροπλίσσαιτο (268), ubi
+
+### book 264.3
+
+μίν ad δώματα refertur, v. ad κ 212. Eust. 1819, 34. H habet:
+
+### book 264.4
+
+μίν αὐτὸ τὸ δῶμα. Apoll. l. h. 159, 18.
+
+### book 268.1
+
+ὑπεροπλίσσαιτο.
+
+### book 268.2
+
+†) ὁ Ἀρίσταρχος ἀποδίδωσι νικήσειεν [τοῖς ὅπλοις ins.
+
+### book 268.3
+
+L. Ar. 154.] καὶ γὰρ οἱ νεώτεροι λέγονται ὁπλότεροι ἀπὸ τοῦ
+
+### book 268.4
+
+νικητικοὶ εἶναι ἐν τοῖς ὅπλοις. Apoll. l. h. 159, 12. Schol.
+
+### book 268.5.1
+
+in V habet: ἤτοι ὑπερηφανήσει, quae interpretatio est Apol‐
+
+### book 268.5.2
+
+lonii contra Aristarchum, ἢ εὐχερῶς ἐπιβουλεύσει.
+
+### book 277.1
+
+ἐγὼ δ’ εἶμι προπάροιθεν.
+
+### book 277.2
+
+†) πρότερον χρονικῶς, ὅμοιον τῷ „τὸν δ’ Ὀδυσεὺς προ‐
+
+### book 277.3
+
+πάροιθεν ἰδὼν Διομήδεϊ δεῖξε“ (Κ 476). τοπικῶς δὲ „ἔστι
+
+### book 277.4
+
+δέ τις προπάροιθε πόλιος αἰπεῖα Κολωνή“ (Β 811) H.
+
+### book 277.5
+
+cf. L. Ar. 115. Ar. ad Χ 197. Κ 476. Λ 734.
+
+### book 283.1
+
+οὐ γάρ τι πληγέων ἀδαήμων οὐδὲ βολάων.
+
+### book 283.2
+
+†) λείπει τὸ εἰμί H. cf. Δ 400. Θ 307. ζ 203.
+
+### book 300.1
+
+ἐνίπλειος κυνοραιστέων.
+
+### book 300.2
+
+†) Ἀρίσταρχος τῶν κροτώνων MQ. cf. Apoll. l. h. 105, 15.
+
+### book 300.3
+
+Eust. 1821, 46. Certe etiam vocabulum ἅπαξ εἰρημένον nota‐
+
+### book 300.4
+
+tum fuit.
+
+### book 317.1
+
+κνώδαλον, ὅττι δίοιτο.
+
+### book 317.2
+
+†) κυρίως μὲν τὸ θαλάσσιον θηρίον, τὸ κῆτος, νῦν δὲ
+
+### book 317.1
+
+θηρίον ὑπὸ κυνῶν ἁλισκόμενον HV. Hoc ex Ar. manasse de‐
+
+### book 317.2
+
+monstrat schol. Nicandr. Ther. 760: οἱ περὶ Ἀρίσταρχόν φασι
+
+### book 317.5
+
+κυρίως τὰ ἐν τῇ θαλάσσῃ. Ὅμηρος δὲ ἐπὶ τοῦ χερσαίου.
+
+### book 359.1
+
+εὖθ’ ὁ δεδειπνήκει, ὁ δ’ ἐπαύετο θεῖος ἀοιδός.
+
+### book 359.2
+
+Versum 359 Aristarchus expunxisse videtur cf. Ar. ad
+
+### book 359.3
+
+Χ 329.
+
+### book 385.1
+
+ὅ κεν τέρπῃσιν ἀείδων.
+
+### book 385.2
+
+*) [ἡ διπλῆ ὅτι] τὸ τέρπῃσιν ἀντὶ τοῦ τέρποι (cod. τέρπῃ),
+
+### book 385.3
+
+ὡς τὸ „νῦν δ’ ἂν πολλὰ πάθῃσι“ (Χ 505) B. cf. F. Ar. p. 9.
+
+### book 385.4
+
+α 396.
+
+### book 386.1
+
+οὗτοι γὰρ κλητοί γε βροτῶν.
+
+### book 386.2
+
+Fuit diple ὅτι τοὺς ἀπὸ τοῦ καλεῖσθαι αἱρουμένους. καὶ
+
+### book 386.3
+
+ἐν Ἰλιάδι „ἀλλ’ ἄγετε, κλητοὺς ὀτρύνομεν“ (Ι 165). cf. Ar. ad
+
+### book 386.4
+
+Ι 165, ubi nostrum versum citavit.
+
+### book 415.1
+
+δός, φίλος· οὐ μέν μοι δοκέεις ὁ κάκιστος
+
+### book 415.2
+
+Ἀχαιῶν
+
+### book 415.3
+
+ἔμμεναι, ἀλλ’ ὥριστος.
+
+### book 415.4
+
+Fuit diple ὅτι τὸ φίλος ἀντὶ τοῦ φίλε (cf. ad Γ 277) καὶ
+
+### book 415.5.1
+
+ὅτι ἐκ τοῦ ἐναντίου τὸ ἐναντίον ὑπακουστέον (cf. ad Ο 11).
+
+### book 415.5.2
+
+Nunc iam intelliges, quod habet H: περισσὸν τὸ ἀλλ’ ὥριστος.
+
+### book 415.5.3
+
+cf. L. Ar. 12.
+
+### book 418.1
+
+ἐγὼ δὲ κέ σε κλείω κατ’ ἀπείρονα γαῖαν.
+
+### book 418.2
+
+*) [ἡ διπλῆ ὅτι τὸ κλείω] ἐνεστῶς ἐστιν ἀντὶ μέλλοντος H.
+
+### book 418.3
+
+cf. F. Ar. 9. γ 82.
+
+### book 443.1
+
+Nota fuisse videtur, nunc Dmetorem Cypri regem esse,
+
+### book 443.2
+
+in Iliade (Λ 20) Cinyram. Scholiasta in HQ hanc discrepan‐
+
+### book 443.3
+
+tiam solvit dicens, semper complures reges in insula fuisse. cf.
+
+### book 443.4
+
+Eust. 1826, 45.
+
+### book 447
+
+στῆθ’ οὕτως ἐς μέσσον.
+
+### book 447.1
+
+†) μετὰ δείξεως, ὁμοίως τῷ „ἀμφίπολοι στῆθ’ οὕτω ἀπό‐
+
+### book 447.2
+
+προθεν“ (ζ 218) καὶ τῷ „Ἥφαιστε, πρόμολ’ ὧδε“ (Σ 392)
+
+### book 447.3
+
+οὕτως ὡς ἔχεις σχήματος. ὁ δὲ λόγος ὡς νῦν, ἵστασαι, στῆθι
+
+### book 447.5.1
+
+κατὰ τὴν αὐτὴν στάσιν, μὴ πλησίον τῆς τραπέζης μου H. cf.
+
+### book 447.5.2
+
+Σ 392. ζ 218.
+
+### book 450-2.1
+
+ἑξείης πάντεσσι παρίστασαι· οἱ δὲ διδοῦσι
+
+### book 450-2.2
+
+μαψιδίως, ἐπεὶ οὔ τις ἐπίσχεσις οὐδ’ ἐλεητὺς
+
+### book 450-2.3
+
+ἀλλοτρίων χαρίσασθαι, ἐπεὶ πάρα πολλὰ ἑκάστῳ.
+
+### book 450-2.4
+
+†) τρεῖς νοθεύονται· ἐφ’ οἷς γὰρ Ἀντίνοος ὀνειδισθεὶς
+
+### book 450-2.5
+
+ὤργισται εἰκὸς ἦν ἀχθεσθῆναι καὶ τοὺς λοιπούς H. Vind. 133.
+
+### book 475-80.1
+
+ἀλλ’ εἴ που πτωχῶν γὲ θεοὶ καὶ ἐρινύες εἰσίν,
+
+### book 475-80.2
+
+Ἀντίνοον πρὸ γάμοιο τέλος θανάτοιο κιχείη.
+
+### book 475-80.3
+
+τὸν δ’ αὖτ’ Ἀντίνοος προσέφη, Εὐπείθεος υἱός·
+
+### book 475-80.4
+
+ἔσθι’ ἕκηλος ξεῖνε καθήμενος, ἢ ἄπιθ’ ἄλλῃ,
+
+### book 475-80.5.1
+
+μή σε νέοι διὰ δῶμα ἐρύσσως’, οἷ’ ἀγορεύεις,
+
+### book 475-80.5.2
+
+ἢ ποδὸς ἢ καὶ χειρός, ἀποδρύψωσι δὲ πάντα.
+
+### book 475-80.5.3
+
+†) νοθεύονται ϛʹ. πῶς γὰρ ὁ Ἀντίνοος ἐκαρτέρησεν ἐπὶ
+
+### book 475-80.5.4
+
+ταῖς κατάραις, ὃς ἐπὶ τοῖς ἐλάσσοσιν οὕτως ἠγρίανε; πῶς τε
+
+### book 475-80.5.5
+
+συναλγοῦσιν αὐτῷ οἱ λοιποί, εἰ τοιοῦτος ὢν οὕτω κατηρᾶτο
+
+### book 475-80.10
+
+πικρῶς; HQ. Vind. 133.
+
+### book 487.1
+
+εὐνομίην ἐφορῶντες.
+
+### book 487.2
+
+†) ἅπαξ εἴρηται παρὰ τῷ ποιητῇ H. εὐνεμεσίαν, καθ’
+
+### book 487.3
+
+ἣν εὖ νεμόμεθα καὶ διατελοῦμεν V. De hac Ar. etymologia
+
+### book 487.4
+
+v. L. Ar. p. 348.
+
+### book 501-4.1
+
+ξεῖνός τις δύστηνος ἀλητεύει κατὰ δῶμα
+
+### book 501-4.2
+
+ἀνέρας αἰτίζων· ἀχρημοσύνη γὰρ ἀνώγει·
+
+### book 501-4.3
+
+ἔνθ’ ἄλλοι μὲν πάντες ἐνέπλησάν τ’ ἔδοσάν τε,
+
+### book 501-4.4
+
+οὗτος δὲ θρήνυι πρυμνὸν βάλε δεξιὸν ὦμον.
+
+### book 501-4.5.1
+
+†) νοθεύει Ἀρίσταρχος δʹ. πῶς γὰρ ἂν ταῦτα εἰδείη, εἰ
+
+### book 501-4.5.2
+
+μή πως κατὰ τὸ σιωπώμενον; H. Vind. 133.
+
+### book 504
+
+†) οὐκ ἂν οὕτως ἀκριβῶς εἰδείη τὸ βληθὲν μέρος H.
+
+### book 504
+
+cf. Eust. 1830, 9, qui ἀνακεφαλαίωσιν quam dicunt adnotat.
+
+### book 599.1
+
+σὺ δ’ ἔρχεο δειελιήσας.
+
+### book 599.2
+
+†) πρὸς τὴν δειλινὴν ὥραν παραγενόμενος, τουτέστι τὴν
+
+### book 599.3
+
+μεσημβρίαν· ἢ τὴν ἑσπερινὴν διατρίψας. ἔνιοι δὲ τὴν δει‐
+
+### book 599.4
+
+λινὴν τροφὴν αἰτῶν. καὶ Καλλίμαχός φησι „δείελον αἰτίζου‐
+
+### book 599.5.1
+
+σιν, ἄγουσι δὲ χεῖρας ἀπ’ ἔργου“, τὴν πρὸς τῇ δειλινῇ τρο‐
+
+### book 599.5.2
+
+φὴν αἰτοῦντες. οὐ δεόντως. προειρήκαμεν γὰρ ὅτι οἱ ἀρχαῖοι
+
+### book 599.5.3
+
+τρισὶ τροφαῖς ἐχρῶντο V. Idem brevius BH: ἔνιοι τὴν δείλην
+
+### book 599
+
+διατρίψας, οὐ φαγών. cf. L. Ar. 127.
+
+### book 17.1
+
+οὐδὸς δ’ ἀμφοτέρους ὅδε χείσεται.
+
+### book 17.2
+
+*) [ἡ διπλῆ ὅτι τὸ χείσεται σημαίνει] χωρήσει· ἔνθεν καὶ
+
+### book 17.3
+
+χειὰ ἡ κατάδυσις τῶν ὄφεων BQV. cf. ad Χ 93. L. Ar. 144.
+
+### book 19.1
+
+ὄλβον δὲ θεοὶ μέλλουσιν ὀπάζειν.
+
+### book 19.2
+
+*) [ἡ διπλῆ ὅτι τὸ μέλλουσιν ἀντὶ τοῦ] ἐοίκασι QV. cf.
+
+### book 19.3
+
+α 232. L. Ar. 120.
+
+### book 27.1
+
+γρηῒ καμινοῖ ἶσος.
+
+### book 27.2
+
+†) τῇ καμινοκαυστρίᾳ, τῇ φρυττούσῃ τὰς κριθὰς πρὸς τὸ
+
+### book 27.3
+
+ποιῆσαι ἄλευρα. οὕτως Ἀρίσταρχος BHQ. Vind. 133. Item
+
+### book 27.4
+
+Eust. et Apoll. qui interpretantur καμινεύτριαν pro καμινο‐
+
+### book 27.5
+
+καύστριαν.
+
+### book 43.1
+
+κέκλυτέ μευ, μνηστῆρες ἀγήνορες.
+
+### book 43.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἀγήνορες] νῦν οἱ ἄγαν ἀνδρεῖοι QV.
+
+### book 43.3
+
+L. Ar. 146. Ι 699.
+
+### book 44.1
+
+γαστέρες αἵδ’ αἰγῶν κέατ’ ἐν πυρί.
+
+### book 44.2
+
+†) ἐν πυρὶ ἀντὶ τοῦ παρὰ πυρί· οὕτως Ἀρίσταρχος. ὁ δὲ
+
+### book 44.3
+
+Ἀριστοφάνης ἐν πυρί, ἐν τῷ καταφωτιζομένῳ τόπῳ, ὡς ἐν
+
+### book 44.4
+
+Ἰλιάδι „αὐτὰρ ὅγε κρεῖον μέγα κάββαλεν ἐν πυρὸς αὐγῇ“ (Ι 206)
+
+### book 44.5.1
+
+BQ. cf. Ar. ad Ι 206, ubi haec interpretatio ad Aristarchum
+
+### book 44.5.2
+
+refertur, non ad Aristophanem. An scholiasta nomina commu‐
+
+### book 44.5.3
+
+tavit? cf. ad ψ 89.
+
+### book 56.1
+
+μή τις ἐπ’ Ἴρῳ ἦρα φέρων.
+
+### book 56.2
+
+†) ἐπίηρά ἐστι τὸ ἐντελές, καὶ ἐν Ἰλιάδι „μητρὶ φίλῃ ἐπί‐
+
+### book 56.3
+
+ηρα“, ὁ μεσολαβήσας τῷ ὀνόματι εἶπεν H. Significat τὴν μετὰ
+
+### book 56.4
+
+χάριτος ἐπικουρίαν, recentiores pro χάριν. cf. Ar. ad Α 572.
+
+### book 56.5
+
+L. Ar. 111. Apoll. l. h. 73, 11.
+
+### book 79.1
+
+βουγάϊε.
+
+### book 79.2
+
+Fuit diple periestigmene, quod Zenodotus dedit βουγήϊε
+
+### book 79.3
+
+cf. ad Ν 824.
+
+### book 79.4
+
+Versibus 84—85 appicti fuerunt asterisci, cf. ad v. 115—116.
+
+### book 91.1
+
+ἢ ἐλάσει’.
+
+### book 91.2
+
+†) πλήξει βαλών V. cf. ε 132. L. Ar. 65.
+
+### book 95.1
+
+δὴ τότ’ ἀνασχομένω ὁ μὲν ἤλασε ..
+
+### book 95.2
+
+Ἶρος, ὁ δέ.
+
+### book 95.3
+
+*) [ἡ διπλῆ πρὸς τὴν ἐναλλαγὴν πτώσεως.] ἔστι δὲ ἀντὶ
+
+### book 95.4
+
+τοῦ ἀνασχομένων H. cf. F. Ar. 19.
+
+### book 100.1
+
+γέλῳ ἔκθανον.
+
+### book 100.2
+
+*) [ἡ διπλῆ ὅτι ἀντὶ τοῦ] ὑπὸ γέλωτος ἀπέθανον HGl. cf.
+
+### book 100.3
+
+F. Ar. 24.
+
+### book 106.1
+
+κοίρανος εἶναι.
+
+### book 106.2
+
+*) [ἡ διπλῆ ὅτι ἀπαρεμφάτῳ χρῆται ἀντὶ προστακτικοῖ,
+
+### book 106.3
+
+εἶναι] ἀντὶ τοῦ ἔσο Q.
+
+### book 106.4
+
+cf. F. Ar. 14. α 291. ἔσσο legitur apud Homerum α 392.
+
+### book 106.5
+
+γ 200.
+
+### book 115-6.1
+
+ἐν δήμῳ· τάχα γάρ μιν ἀνάξομεν ἠπειρόνδε
+
+### book 115-6.2
+
+εἰς Ἔχετον βασιλῆα, βροτῶν δηλήμονα πάντων.
+
+### book 115-6.3
+
+*) οὗτοι οἱ βʹ ἐκ τῶν ἄνωθεν (84—85) μετήχθησαν· ἐκεῖ
+
+### book 115-6.4
+
+μὲν γὰρ προτρέπων φοβεῖ, ἐνταῦθα δὲ ἀπάνθρωπον τελέως
+
+### book 115-6.5
+
+τὸ ἡμιονήπια (?) τελεῖν. διὸ περιγράφονται H.
+
+### book 117.1
+
+χαῖρεν δὲ κλεηδόνι δῖος Ὀδυσσεύς.
+
+### book 117.2
+
+Fuit diple ὅτι ἐπὶ τῇ φήμῃ οἰωνισάμενος ἔχαιρεν· προ‐
+
+### book 117.3
+
+είρηκε γὰρ „Ζεύς τοι δοίη ξεῖνε, ὅττι μάλιστ’ ἐθέλεισ“. cf.
+
+### book 117.4
+
+Ar. ad Ξ 223.
+
+### book 128.1
+
+ἐπητῇ δ’ ἀνδρὶ ἔοικας.
+
+### book 128.2
+
+†) δεινῷ εἰπεῖν ἢ λογίῳ παρὰ τὰ ἔπη V. cf. ad ν 332.
+
+### book 130.1
+
+οὐδὲν ἀκιδνότερον.
+
+### book 130.2
+
+Fuit diple periestigmene contra Zenodotum, qui scripsit
+
+### book 130.3
+
+οὐθ’ ἕν cf. Eust. 1841, 22. Ammon. de diff. p. 105 s. v. οὐδέν.
+
+### book 138.1
+
+καὶ γὰρ ἐγώ ποτ’ ἔμελλον ὄλβιος εἶναι.
+
+### book 138.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἔμελλον ἀντὶ τοῦ] ἐῴκειν Q. cf. L. Ar.
+
+### book 138.3
+
+190. α 232.
+
+### book 154.1
+
+δὴ γὰρ κακὸν ὄσσετο θυμός.
+
+### book 154.2
+
+†) προεμηνύετο Q. cf. X 356. Ω 172. Α 105. L. Ar. 87.
+
+### book 192.1
+
+κάλλεϊ μέν οἱ πρῶτα.
+
+### book 192.2
+
+†) νῦν τὰ μύρα V. cf. Ar. ad Ξ 171, ubi est diple ὅτι
+
+### book 192.3
+
+μύρον μὲν οὐκ ὀνομάζει, τεθυμιαμένον δὲ ἔλαιον τὸ μύρον
+
+### book 192.4
+
+λέγει, ὥστε εἰδέναι μὲν τὴν χρῆσιν, τὸ δὲ ὄνομα μή. λέγει
+
+### book 192.5.1
+
+δέ που καὶ (Ψ 186) „ῥοδόεντι δὲ χρῖεν ἐλαίῳ“ καὶ (ς 192)
+
+### book 192.5.2
+
+„κάλλεϊ μέν οἱ πρῶτα“ μύρου τι γένος ὀνοματοποιήσας. cf.
+
+### book 192.5.3
+
+L. Ar. 198. 333. Eust. 1843, 8.
+
+### book 197.1
+
+ἡ μὲν ἄρ’ ὧς ἔρξας’ ἀπεβήσετο δῖα θεάων.
+
+### book 197.2
+
+Fuit diple periestigmene propter Zenodoti lectionem δῖ’
+
+### book 197.3
+
+Ἀφροδίτη, cf. schol. H Vind. 133 et Duentzer p. 106, qui scho‐
+
+### book 197.4
+
+lion ad v. 190 refert.
+
+### book 229.1
+
+ἐσθλά τε καὶ τὰ χέρηα· πάρος δ’ ἔτι νήπιος ἦα.
+
+### book 229.2
+
+†) ἠθέτει καὶ Ἀρίσταρχος H. La Roche commutavit Ἀρι‐
+
+### book 229.3
+
+στοφάνης, nescio quam ob caussam.
+
+### book 234.1
+
+βίῃ δ’ ὅ γε φέρτερος ἦεν.
+
+### book 234.2
+
+[ἡ διπλῆ ὅτι] ὁ δὲ ἀντὶ τοῦ γάρ H. cf. F. Ar. 35.
+
+### book 246.1
+
+ἀν’ Ἴασον Ἄργος Ἀχαιοί.
+
+### book 246.2
+
+*) [ἡ διπλῆ ὅτι Ἴασον Ἄργος] τὴν Πελοπόννησον [λέγει]
+
+### book 246.3
+
+ἀπὸ Ἰάσου τοῦ τῆς Ἰοῦς· πρὸς τὴν αὐτὴν δὲ καὶ Ἀχαϊκὸν
+
+### book 246.4
+
+Ἄργος φησί, Πελασγικὸν δὲ Ἄργος τὴν Θεσσαλίαν BQ. L
+
+### book 246.5
+
+Ar. 227.
+
+### book 258.1
+
+ἑλὼν ἐμὲ χεῖρα.
+
+### book 258.2
+
+†) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ ἐμοῦ χεῖρα B. cf. F. Ar. p. 20.
+
+### book 282.1
+
+οὕνεκα τῶν μὲν δῶρα παρέλκετο, θέλγε δὲ θυμόν.
+
+### book 282.2
+
+Fuit nota de Aristophanis athetesi cf. schol. in H: εὐτελὲς
+
+### book 282.3
+
+τοῦτο, διὸ καὶ κεραύνιον παρέθηκεν Ἀριστοφάνης. De cerau‐
+
+### book 282
+
+nio v. Nauck. Aristoph. p. 18. cf. ad ο 19 et 91.
+
+### book 298.1
+
+ἕρματα τρίγληνα μορόεντα.
+
+### book 298.2
+
+†) τρίκορα κόσμια, ἐνώτια, τριόφθαλμα. τὸ δὲ μορόεντα
+
+### book 298.3
+
+ἀντὶ τοῦ μετὰ πολλοῦ μόρου καὶ κακοπαθείας κατεσκευασμένα.
+
+### book 298.4
+
+BQV. cf. Ar. ad Ξ 183.
+
+### book 330-2.1
+
+θαρσαλέως πολλοῖσι μετ’ ἀνδράσιν, οὐδέ τι
+
+### book 330-2.2
+
+θυμῷ
+
+### book 330-2.3
+
+ταρβεῖς· ἦ ῥά σε οἶνος ἔχει φρένας, ἤ νύ τοι αἰεὶ
+
+### book 330-2.4
+
+τοιοῦτος νόος ἐστίν, ὃ καὶ μεταμώνια βάζεις.
+
+### book 330-2.5.1
+
+*) ἀθετοῦνται τρεῖς ὡς ἐκ τῶν ἑξῆς (390—92) μετατιθέ‐
+
+### book 330-2.5.2
+
+μενοι· καὶ ὅτι ἐνθάδε μηδὲν ἐθρασύνθη Q.
+
+### book 333,n1.1
+
+ἢ ἀλύεις, ὅτι Ἶρον ἐνίκησας.
+
+### book 333,n1.2
+
+ἀλύεις νῦν ἀντὶ τοῦ χαίρεις, γαυριᾷς Q. Alibi ἐπὶ λύπης cf.
+
+### book 333,n1.3
+
+Ε 352. L. Ω 12. ι 398. Eust. 1636, 22. Est fortasse Ar.
+
+### book 354.1
+
+ἔμπης μοι δοκέει δαΐδων σέλας.
+
+### book 354.2
+
+†) ἀντὶ τοῦ ὁμοίως, ὡς τὸ „ἔμπης εἰς γαῖάν τε καὶ οὐ‐
+
+### book 354.3
+
+ρανόν“. (Ξ 174) HV. Alibi ἀντὶ τοῦ ὅμως cf. Ω 522. Ξ 174
+
+### book 354.4
+
+in V. ε 205. L. Ar. 143.
+
+### book 354.5
+
+Versibus 390—92 asterisci appicti fuerunt, cf. ad v. 330—32.
+
+### book 396.1
+
+ὁ δ’ ἄρ’ οἰνοχόον βάλε χεῖρα.
+
+### book 396.2
+
+*) [ἡ διπλῆ ὅτι πτῶσις ἤλλακται ἀντὶ τοῦ οἰνοχόου βάλε
+
+### book 396.3
+
+χεῖρα] ὅμοιον τῷ „ὁ δ’ ἐρινεὸν ὀξέϊ χαλκῷ τάμνε νέους ὅρπη‐
+
+### book 396.4
+
+κασ“ (Φ 38) H. cf. F. Ar. 20.
+
+### book 406.1
+
+δαιμόνιοι, μαίνεσθε.
+
+### book 406.2
+
+†) θαυμάσιοι ἐπὶ κακῷ H. cf. L. Ar. 155. ADL ad B
+
+### book 406.3
+
+190. τ 71.
+
+### book 406,n2.1
+
+καὶ οὐκέτι κεύθετε θύμῳ.
+
+### book 406,n2.2
+
+ἀντὶ τοῦ ὑπὸ θυμοῦ, ὡς „Ἀχιλῆϊ δαμασθείσ“ (Χ 55) BHQ. For‐
+
+### book 406,n2.3
+
+tasse fluxit ex Ar. cf. F. p. 25.
+
+### book 423.1
+
+κρητῆρα κεράσσατο Μούλιος ἥρως.
+
+### book 423.2
+
+*) ὅτι πάντας ἥρωας ἔλεγον B.
+
+### book 423.3
+
+cf. L. Ar. 101. Observatum est contra Istrum, qui hoc
+
+### book 423
+
+epitheton principibus modo tribuit.
+
+### book 4-13.1
+
+οἱ ἀστερίσκοι, ὅτι ἀναγκαίως ἐνθάδε, ὅτε καὶ ἑώρακε
+
+### book 4-13.2
+
+τὰ ὅπλα HMQ. Vind. 133.
+
+### book 4-13.3
+
+Asterisci appicti sunt in Vind. 133. cf. π 281. Eust. 1853, 10.
+
+### book 28.1
+
+χοίνικος ἅπτηται.
+
+### book 28.2
+
+†) ἀντὶ τοῦ δαπάνης, τροφῆς, τό τε μετροῦν καὶ τὸ με‐
+
+### book 28.3
+
+τρούμενον. ἅπαξ ἐνταῦθα ἡ φωνή· καὶ οὐ διὰ τοῦτο χωρι‐
+
+### book 28.4
+
+στέον τῆς Ἰλιάδος τὴν Ὀδύσσειαν· κἀκεῖ γάρ εἰσι τοῦδε εὐτε‐
+
+### book 28.5.1
+
+λέστερα ὀνόματα „ὅλμον δ’ ὡς ἔσσευε βαλὼν“ (Λ 147) „ἀμφ’
+
+### book 28.5.2
+
+ἀστραγάλοισι χολωθεὶσ“ (Ψ 88) πτύον HQ. (πτύον (?) sic H.
+
+### book 28.5.3
+
+πτύοντ’ Q. πτύοντα plene legitur Ψ 697. Buttmannus conie‐
+
+### book 28.5.4
+
+cit πτυόφιν Ν 588). cf. Ar. ad Λ 147. Ψ 88. Eust. 1853, 60.
+
+### book 34.1
+
+χρύσεον λύχνον ἔχουσα.
+
+### book 34.2
+
+*) [ἡ διπλῆ ὅτι τὸ λύχνον] ἀπὸ τοῦ λύειν τὸ νύχος. λέγει
+
+### book 34.3
+
+δὲ τὴν δᾷδα κυρίως· τοῦ δὲ παρ’ ἡμῖν καλουμένου λύχνου τοὺς
+
+### book 34.4
+
+ἥρωας χρωμένους ὁ ποιητὴς οὐκ εἰσάγει. οὐδὲ Ἡσίοδος μέ‐
+
+### book 34.5.1
+
+μνηται HQV. cf. ad Λ 147. Orion. p. 94, 16: λύχνος ὁ λύων
+
+### book 34.5.2
+
+τὸ νύχος, τουτέστι τὸ σκότος. οὕτως Ἀριστόνικος ἐν τῷ περὶ
+
+### book 34.5.3
+
+σημείων τοῦ Ὁμήρου. Etym. M. 565, 37. Eust. 1854, 50.
+
+### book 37.1
+
+ἔμπης μοι τοῖχοι μεγάρων καλαί τε μεσόδμαι.
+
+### book 37.2
+
+†) ὁ Ἀρίσταρχος τὰ μεσόστυλα. BHQ.
+
+### book 37.3
+
+cf. L. Ar. 151. Eust. 1855, 1. Notatum fuit praeterea vo‐
+
+### book 37.4
+
+cabulum ἔμπης hoc loco significare ὁμοίως cf. Eust. 1854, 58.
+
+### book 37.5
+
+ε 205. L. Ar. 143.
+
+### book 38.1
+
+κίονες ὑψός’ ἔχοντες.
+
+### book 38.2
+
+*) ὅτι καὶ ἀρσενικῶς ὁ κίων H.
+
+### book 38.3
+
+Forma feminina est α 53. 127. ρ 29. χ 176. 193. ψ 90.
+
+### book 38.4
+
+masculina θ 66. 473.
+
+### book 46.1
+
+ἡ δέ μ’ ὀδυρομένη εἰρήσεται.
+
+### book 46.2
+
+*) [ἡ διπλῆ ὅτι] ὁ δὲ ἀντὶ τοῦ γάρ H. cf. F. Ar. p. 35.
+
+### book 46.3
+
+β 6
+
+### book 69.1
+
+εἶσθα θύραζε.
+
+### book 69.2
+
+Notata fuit forma εἶσθα ἀπὸ τοῦ εἶμι cf. ad Φ 424. Le‐
+
+### book 69.3
+
+gitur etiam Κ 450. υ 179.
+
+### book 71.1
+
+δαιμονίη.
+
+### book 71.2
+
+†) θαυμασία ἐπὶ κακῷ H.
+
+### book 71.3
+
+cf. L. Ar. 155. ς 406 schol. in ADL ad Β 190.
+
+### book 111.1
+
+εὐδικίας ἀνέχῃσι.
+
+### book 111.2
+
+†) ὁ Ἀρίσταρχος εὐδικίας ἄνω ἔχῃ. Apoll. l. h. 36, 20.
+
+### book 130-3.1
+
+ὅσσοι γὰρ νήσοισιν ἐπικρατέουσιν ἄριστοι,
+
+### book 130-3.2
+
+Δουλιχίῳ τε Σάμῃ τε καὶ ὑλήεντι Ζακύνθῳ,
+
+### book 130-3.3
+
+οἵ τ’ αὐτὴν Ἰθάκην εὐδείελον ἀμφινέμονται,
+
+### book 130-3.4
+
+οἵ μ’ ἀεκαζομένην μνῶνται, τρύχουσι δὲ οἶκον.
+
+### book 130-3.5.1
+
+†) ἠθέτηνται δʹ H. Cod. λʹ, corr. Porsonus, cuius notam v.
+
+### book 130-3.5.2
+
+apud Dindorfium p. 637. Leguntur iidem versus α 245—248.
+
+### book 130-3.5.3
+
+π 122—25. Eust. 1858, 4.
+
+### book 131.1
+
+ὑλήεντι Ζακύνθῳ.
+
+### book 131.2
+
+*) [ὅτι] ἀρσενικῷ θῆλυ ἐπήγαγεν, ὡς τὸ „κλυτὸς Ἱππο‐
+
+### book 131.3
+
+δάμεια“ H. cf. F. Ar. p. 31. β 214.
+
+### book 160.1
+
+ἤδη γὰρ ἀνὴρ οἷός τε μάλιστα ‖ οἴκου κήδεσθαι.
+
+### book 160.2
+
+†) δυνατός· καὶ ὁ τε πλεονάζει H, cf. ad Ε 5. Χ 29. 118.
+
+### book 160.3
+
+F. Ar. p. 34.
+
+### book 174.1
+
+(Κρήτη) καὶ ἐννήκοντα πόληες.
+
+### book 174.2
+
+*) [ἡ διπλῆ πρὸς τοὺς χωρίζοντας, ὅτι] ἐν Ἰλιάδι (Β 649)
+
+### book 174.3
+
+ἑκατόμπολιν τὴν Κρήτην λέγει, οὐχ ὡρισμένως ἑκατὸν πόλεις
+
+### book 174.4
+
+ἔχουσαν, ἀλλὰ ἀντὶ τοῦ πολλάς V. cf. Ar. ad Β 649.
+
+### book 204.1
+
+ἴσκε ψεύδεα πολλὰ λέγων ἐτύμοισιν ὁμοῖα.
+
+### book 204.2
+
+†) τινὲς βούλονται τὸ ἔλεγε σημαίνειν. ἄλλοι δὲ (sc. Ari‐
+
+### book 204.3
+
+starchus) τὸ ἤϊσκε, τὸ εἴκαζεν, ὁμοίου· τὸ γὰρ ὅλον, πολλὰ
+
+### book 204.4
+
+ψευδῆ λέγων εἴκαζεν, ὥστε ὅμοια εἶναι ἀληθέσιν V.
+
+### book 204.5.1
+
+Observavit enim Ar. verbum ἴσκεν nunquam significare
+
+### book 204.5.2
+
+„inquit“, sed ubique „aequavit“. Ratio habita est huius loci
+
+### book 204.5.3
+
+ab Ar. ad Π 41. χ 31.
+
+### book 229.1
+
+ἀσπαίροντα λάων.
+
+### book 229.2
+
+†) ὁ μὲν Ἀρίσταρχος ἀπολαύων, ἀπολαυστικῶς ἔχων. ὁ
+
+### book 229.3
+
+δὲ Κράτης λάων φησὶν ἀντὶ τοῦ βλέπων· ὅθεν κατὰ στέρησιν
+
+### book 229.4
+
+ἀλαὸς ὁ τυφλός V.
+
+### book 229.5.1
+
+Quae de cognato vocabulo λάρυξ Orion Etym. p. 94 ex‐
+
+### book 229.5.2
+
+cerpsit ex Aristonico ἐν τῷ περὶ σημείων Ὀδυσσείας: —λάρυξ
+
+### book 229.5.3
+
+ὁ λαιμός· διὰ γὰρ τούτων, τοῦ λαιμοῦ καὶ λάρυγγος, τὴν ἀπό‐
+
+### book 229.5.4
+
+λαυσιν ἔχομεν τῶν τροφῶν. οὕτως Ἀριστόνικος ἐν τῷ περὶ
+
+### book 229.5.5
+
+σημείων Ὀδυσσείας—ex scholio integriore ad hunc versum
+
+### book 229.10.1
+
+deprompta esse coniecit Lehrsius Ar. p. 3. cf. L. Ar. 151. Apoll.
+
+### book 229.10.2
+
+l. h. 107, 15. Eust. 1863, 42.
+
+### book 229.10.3
+
+Versibus 304—307 appicti fuerunt asterisci cf. ad ξ 159 et
+
+### book 229.10.4
+
+162. In G cod. v. 308 habet obelum.
+
+### book 343.1
+
+οὐδέ τί μοι ποδάνιπτρα ποδῶν ἐπιήρανα θυμῷ
+
+### book 343.2
+
+γίγνεται.
+
+### book 343.3
+
+†) τὰ ἐπικουρητικὰ τῆς ψυχῆς. Sic Aristarchus teste Apoll.
+
+### book 343.4
+
+l. h. 73, 11, qui (contra Eust. 1867, 29) ἐπίηρ’ ἀνὰ θυμῷ legit.
+
+### book 343.5.1
+
+346—48. εἰ μή τις γρῆυς ἔστι παλαιή, κεδνὰ ἰδυῖα,
+
+### book 343.5.2
+
+ἥ τις δὴ τέτληκε τόσα φρεσίν, ὅσα τ’ ἐγώ περ·
+
+### book 343.5.3
+
+τῇ δ’ οὐκ ἂν φθονέοιμι ποδῶν ἅψασθαι ἐμεῖο.
+
+### book 343.5.4
+
+*) ἀθετοῦνται οἱ τρεῖς, πρῶτον μὲν ὅτι αἱρεῖται τὴν δυ‐
+
+### book 343.5.5
+
+ναμένην ἐπιγνῶναι· εἶτα δὴ καὶ γέλοιον τὸ „ἥτις δὴ τέτληκε“;
+
+### book 343.10.1
+
+τίς γὰρ φθονεῖ τῶν μὴ σπουδαίων; MN. Vind. 56. μή addidit
+
+### book 343.10.2
+
+Barnes. Obeli sunt in G appicti, athetesin τῶν παλαιῶν com‐
+
+### book 343.10.3
+
+memorat etiam Eust. 1867, 13.
+
+### book 378.1
+
+ἐπεί μοι ὀρώρεται ἔνδοθι θυμός ‖ κήδεσιν.
+
+### book 378.2
+
+*) [ἡ διπλῆ ὅτι] ἀντὶ τοῦ διὰ τὰ σὰ κήδεα B. cf. ι 19.
+
+### book 378
+
+Ε 875. F. Ar. p. 25.
+
+### book 393.1
+
+τήν ποτέ μιν σῦς ἤλασε λευκῷ ὀδόντι.
+
+### book 393.2
+
+†) τύψας ἐποίησε B. cf. L. Ar. 65. ε 132. η 250. ς 91.
+
+### book 450.1
+
+λικριφὶς ἀίξας.
+
+### book 450.2
+
+Fuit diple ὅτι δὶς κέχρηται τῇ λέξει, νῦν καὶ ἐν Ἰλιάδι
+
+### book 450.3
+
+(Ξ 463). σημαίνει δὲ πλάγιος ὁρμήσας, ἀπὸ τοῦ λέχριος, κατὰ
+
+### book 450.4
+
+κοινωνίαν τῶν συμφώνων. cf. Ar. ad Ξ 450.
+
+### book 498.1
+
+καὶ αἳ νηλείτιδές εἰσι.
+
+### book 498.2
+
+†) Ἀρίσταρχος τοὺς πολυαμαρτήτους, τοῦ νη ἐπιτατικοῦ
+
+### book 498.3
+
+ὄντος B. cf. ad π 317. Apoll. l. h. 116, 37.
+
+### book 518,n1.1
+
+ὡς δ’ ὅτε Πανδαρέου κούρη.
+
+### book 518,n1.2
+
+διαφόρως τοῖς νεωτέροις, οὐχὶ Πανδίονος, εἰ μὴ ἄρα διώνυμος
+
+### book 518,n1.3
+
+ἦν V. Eust. 1874, 59: οὔτε Πρόκνης οὔτε Τειρέως μέμνηται καὶ τὸν
+
+### book 518,n1.4
+
+παρὰ τοῖς νεωτέροις Ἴτυν Ἴτυλον αὐτὸς λέγει. Fluxit fortasse ex Ar.
+
+### book 537.1
+
+καί τέ σφιν ἰαίνομαι εἰσορόωσα.
+
+### book 537.2
+
+Notata fuit praepositio ἐπὶ omissa, σφιν pro ἐπ’ αὐτοῖς
+
+### book 537.3
+
+cf. ad Κ 277. F. Ar. 27.
+
+### book 560.1
+
+ἤτοι μὲν ὄνειροι ἀμήχανοι.
+
+### book 560.2
+
+*) [ἡ διπλῆ ὅτι ἀμήχανοι ἀντὶ τοῦ] πρὸς οὓς μηχανὴν εὑ‐
+
+### book 560
+
+ρεῖν οὐκ ἔστιν V. cf. L. Ar. 146.
+
+### book 4.1
+
+Εὐρυνόμη δ’ ἄρ’ ἐπὶ χλαῖναν βάλε κοιμηθέντι.
+
+### book 4.2
+
+ἔνθ’ Ὀδυσεὺς ... κεῖτ’ ἐγρηγορόων.
+
+### book 4.3
+
+Nota fuit, Homerum discrimen facere inter verba κοιμηθῆ‐
+
+### book 4.4
+
+ναι et ὑπνῶσαι, cf. ad Η 482, ubi est diple etiam propter hunc
+
+### book 4.5
+
+locum L. Ar. 114.
+
+### book 63.1
+
+αὐτίκα νῦν ἢ ἔπειτα.
+
+### book 63.2
+
+Quod legitur in V sic corrigendum esse videtur: τὸ ἔπειτα
+
+### book 63.3
+
+ἀντὶ τοῦ μετὰ ταῦτα· ἀντιδιέσταλται γοῦν τὸ αὐτίκα. cf. ad
+
+### book 63.4
+
+Ψ 551. L. Ar. 151.
+
+### book 66.1
+
+ὡς δ’ ὅτε Πανδαρέου κούρας ἀνέλοντο θύελλαι.
+
+### book 66.2
+
+*) [ἡ διπλῆ ὅτι] τὸ δὲ περιττόν H. cf. ad β 6.
+
+### book 104,n1.1
+
+ὕψοθεν ἐκ νεφέων.
+
+### book 104,n1.2
+
+νῦν τὸν τόπον ἔφη Ἀττικῶς ἐν ᾧ εἴωθε συνίστασθαι τὰ νέφη·
+
+### book 104,n1.3
+
+ἐπιφέρει γὰρ ἡ ἀλετρὶς (114) „οὐδέ ποθι νέφος ἐστίν“ VBQ. Fluxit
+
+### book 104,n1.4
+
+fortasse ex Ar.
+
+### book 132.1
+
+ἐμπλήγδην ἕτερόν γε τίει.
+
+### book 132.2
+
+†) ἐν τῷ Υ τῆς Ὀδυσσείας ὑπομνήματι ὁ Ἀρίσταρχος εὐ‐
+
+### book 132.3
+
+μεταβόλως. Apoll. l. h. 67, 28. L. Ar. 152.
+
+### book 202.1
+
+ἐπὴν δὴ γείνεαι αὐτός.
+
+### book 202.2
+
+†) γεννήσῃς V.
+
+### book 202.1
+
+Sic Ar. interpretatum esse hanc formam apparet ex Ar. ad
+
+### book 202.2
+
+T 26, ubi est diple periestigmene contra Zenodotum, qui legit
+
+### book 202.5
+
+formam διὰ τὸ ι scriptam ἐγγίνωνται.
+
+### book 321.1
+
+Ἀγέλαος.
+
+### book 321.2
+
+Fuit διπλῆ πρὸς τὴν ὁμωνυμίαν. Agelaum interfecit Hector
+
+### book 321.3
+
+cf. Λ 302, ubi commemoratur hic Agelaus, unus ex procis.
+
+### book 383.1
+
+ἐς Σικελοὺς πέμψωμεν.
+
+### book 383.2
+
+†) ἐγινώσκετο ἄρα τὰ κατὰ τοὺς Σικελούς. οὐκ εἰκὸς οὖν
+
+### book 383
+
+ἐκεῖ τὴν πλάνην γεγονέναι V. cf. Eust. 1896, 45. L. Ar. 244.
+
+### book 1.1
+
+τῇ δ’ ἄρ’ ἐπὶ φρεσὶ θῆκε.
+
+### book 1.2
+
+*) [ἡ διπλῆ ὅτι] ὁ δὲ ἀντὶ τοῦ γάρ PVBQ. cf. ad β 6.
+
+### book 1.3
+
+F. Ar. 35.
+
+### book 13
+
+δῶρα τά οἱ ξεῖνος Λακεδαίμονι δῶκε.
+
+### book 15.1
+
+τῷ δ’ ἐν Μεσσήνῃ ξυμβλήτην ἀλλήλοιιν
+
+### book 15.2
+
+οἴκῳ ἐν Ὀρσιλόχοιο.
+
+### book 15.3
+
+†) νῦν ἐπὶ τῇ Λακωνικῇ χώρᾳ, ἧς μέρος κατὰ τοὺς ἡρωϊ‐
+
+### book 15.4
+
+κοὺς χρόνους ἡ Μεσσήνη BQ. cf. ad δ 1. Β 502. 582. L. Ar.
+
+### book 15.5.1
+
+235. Notatus fuit praeterea v. 15 ex meris spondeis composi‐
+
+### book 15.5.2
+
+tus cf. ad Λ 130. Eust. 1899, 55 et fuit diple periestigmene
+
+### book 15.5.3
+
+contra Zenodotum, quod pro Ὀρσιλόχοιο scripsit Ὀρτιλόχοιο,
+
+### book 15.5.4
+
+v. ad γ 489.
+
+### book 22,n1.1
+
+Ἴφιτος αὖθ’ ἵππους διζήμενος.
+
+### book 22,n1.2
+
+τὸν Ἰόλης ἔρωτα οὐκ οἶδεν ὁ ποιητής, οὐδὲ ὡς ἀποτυχὼν τοῦ
+
+### book 22,n1.3
+
+ἔρωτος τῆς Ἰόλης ἔκλεψε τὰς ἵππους Εὐρύτου BQ.
+
+### book 22,n1.4
+
+cf. Eust. 1899, 38. Haec et quae in scholio sequenti ad v. 27 le‐
+
+### book 22,n1.5.1
+
+guntur: οἱ νεώτεροί φασιν ὡς ὅτι αὐτὸν ἀπὸ τοῦ τείχους κατέβαλεν
+
+### book 22,n1.5.2
+
+B. Eust. 1900, 16. fortasse manaverunt ex Ar.
+
+### book 29.1
+
+ἔπειτα δὲ πέφνε καὶ αὐτόν.
+
+### book 29.2
+
+*) [ἡ διπλῆ ὅτι] ὁ δὲ ἀντὶ τοῦ γάρ B. cf. ad φ 1.
+
+### book 54
+
+αἴνυτο τόξον ‖ αὐτῷ γωρυτῷ.
+
+### book 54
+
+Fuit diple ὅτι λείπει ἡ σύν, cf. V ad Ψ 8. F. Ar. 26.
+
+### book 61.1
+
+φέρον ὄγκιον.
+
+### book 61.2
+
+Notatum fuit vocabulum ἅπαξ εἰρημένον, cf. schol. in V:
+
+### book 61.3
+
+ἔστι μὲν τῶν ἅπαξ εἰρημένων ἡ λέξις. σημαίνει δὲ ὄγκιον ἀγ‐
+
+### book 61.4
+
+γεῖον κιστοειδές, ἐν ᾧ ἔκειντο οἱ ὄγκοι. ὄγκοι δέ εἰσιν οἱ
+
+### book 61.5.1
+
+πώγωνες τῶν ἀκίδων· καὶ ἐν ἄλλοις „ὡς δὲ ἴδεν νευρόν τε
+
+### book 61.5.2
+
+καὶ ὄγκους ἐκτὸς ἐόντασ“ (Δ 151). cf. Eust. 1899, 1. Apoll.
+
+### book 61.5.3
+
+l. h. 118, 20.
+
+### book 62.1
+
+ἀέθλια τοῖο ἄνακτος.
+
+### book 62.2
+
+De vocabulo τοῖο ἀντὶ τοῦ τοιούτου, οὐχ ὡς οἱ γλωσσο‐
+
+### book 62.3
+
+γράφοι πάντως ἀγαθοῦ v. ad δ 206. V habet τοῦ ἰδίου.
+
+### book 89.1
+
+ἀλλ’ ἀκέων δαίνυσθε.
+
+### book 89.2
+
+Fuit certe nota de ἀκέων vocabulo. Ad Δ 22 Ar. ut par‐
+
+### book 89.3
+
+ticipium verbi ἀκέων pro ἀκέουσα usurpatum esse docuit: „οὐ
+
+### book 89.4
+
+γάρ ἐστιν ἀντὶ τοῦ ἡσύχωσ“. An etiam nostro loco pro ἀκέ‐
+
+### book 89.5.1
+
+οντες positum esse existimavit? ἀκέοντε legitur ξ 195. Alii
+
+### book 89.5.2
+
+mutaverunt „ἀλλὰ καὶ ὣς δαίνυσθε“. ἀσύμφωνα λέγουσι τοῖς
+
+### book 89.5.3
+
+παλαιοῖς. Eust. 1902, 46.
+
+### book 97.1
+
+ἐώλπει ‖ νευρὴν ἐντανύσειν.
+
+### book 97.2
+
+Ar. legit ἐντανύειν et notavit enallagen temporum ἐντανύειν
+
+### book 97.3
+
+pro ἐντανύσειν, cf. ad Χ 67. F. Ar. p. 6. γ 82.
+
+### book 111.1
+
+ἀλλ’ ἄγε μὴ μύνῃσι παρέλκετε.
+
+### book 111.2
+
+Notatum fuit μύνῃσι vocabulum ἅπαξ εἰρημένον cf. BQV:
+
+### book 111.3
+
+προφάσεσιν· ἅπαξ δὲ κεῖται. Apoll. l. h. 114, 13. Eust.
+
+### book 111.4
+
+1904, 25.
+
+### book 146.1
+
+παρὰ κρητῆρα δὲ καλόν ‖ ἷζε μυχοίτατος αἰεί.
+
+### book 146.2
+
+†) Ἀρίσταρχος ἀντὶ τοῦ πρῶτος. „ἔστι πόλις Ἐφύρη μύχῳ
+
+### book 146.3
+
+Ἄργεοσ“ (Ζ 152) πάντῃ (πρώτῃ?) γὰρ ἐπὶ τῷ Ἰσθμῷ ἵδρυται
+
+### book 146.4
+
+ἡ Κόρινθος. Schol. Vind. 133 apud La Roche.
+
+### book 260.1
+
+ἀτὰρ πελέκεάς γε καὶ εἴ κ’ εἰῶμεν ἅπαντας
+
+### book 260.2
+
+ἑστάμεν.
+
+### book 260.3
+
+Fuit diple ὅτι ἔξωθεν προσυπακουστέον τὸ καλῶς ἂν ἔχοι
+
+### book 260.4
+
+καὶ ἐν Ἰλιάδι „ἀλλ’ εἴ μιν ἀεικισσαίμεθ’ ἑλόντεσ“. (Π 559).
+
+### book 260.5
+
+cf. Ar. ad Π 559. In M. Vind. 133 est: προσληπτέον τὸ οὐδὲν
+
+### book 260
+
+κωλύει.
+
+### book 277.1
+
+Εὐρύμαχον δὲ μάλιστα καὶ Ἀντίνοον θεοειδέα
+
+### book 277.2
+
+λίσσομ’, ἐπεὶ καὶ τοῦτο ἔπος κατὰ μοῖραν ἔειπεν.
+
+### book 277.3
+
+†) ὁ Ἀντίνοος· πρὸς γὰρ τὸ δεύτερον τὸ πρότερον V. cf.
+
+### book 277.4
+
+L. Ar. 11.
+
+### book 289.1
+
+ὑπερφιάλοισι μεθ’ ἡμῖν.
+
+### book 289.2
+
+*) [ἡ διπλῆ ὅτι τὸ ὑπερφιάλοισι] νῦν τοῖς κατ’ ἀρετὴν
+
+### book 289.3
+
+διαφέρουσιν V. cf. ad Ο 94, ubi locum nostrum citat et sic
+
+### book 289.4
+
+interpretatur Ar.
+
+### book 306.1
+
+οὐ γάρ τευ ἐπητύος ἀντιβολήσεις.
+
+### book 306.2
+
+†) Ἀρίσταρχος ἐπητέος (cod. ἐπητέως, corr. Villoisonus) διὰ
+
+### book 306.3
+
+τοῦ ε, καὶ λόγος ὑπόκειται τοιοῦτος· ἐπήτεος οἷον εὐγνώμονος·
+
+### book 306.4
+
+τίθησι δὲ καὶ τὴν λέξιν ἐπίπαν ἐπὶ τοῦ συνετοῦ· „τούνεκ’
+
+### book 306.5.1
+
+ἐπητής ἐσσι καὶ ἀγχίνοος καὶ ἐχέφρων“ (ν 332) καὶ οὐκ ἐπητύος.
+
+### book 306.5.2
+
+Apoll. l. h. 72, 1. cf. ad ν 332. Eust. 1911, 7.
+
+### book 306.5.3
+
+Versibus 350—353 asterisci fuerunt appicti, quod recte in‐
+
+### book 306.5.4
+
+serti sunt hic et Ζ 490—493, non autem α 356—359.
+
+### book 407,n2.1
+
+περὶ κόλλοπι χορδήν.
+
+### book 407,n2.2
+
+Vocabulum κόλλοψ interpretatus est Ar. in Odysseae commen‐
+
+### book 407,n2.3
+
+tario (ἐν ὑπομνήματι Ὀδυσσείας) ὁ ἐκ τῶν αὐχενίων δερμάτων γι‐
+
+### book 407,n2.4
+
+νόμενος πασσαλίσκος, cf. Etym. Gud. 334, 12, ubi pro ἐν ὑπομνήματι
+
+### book 407,n2.5.1
+
+Ἀνδρονίκου εἰς τὸ δος legendum esse Ἀριστονίκου εἰς Ὀδύσσειαν
+
+### book 407,n2.5.2
+
+vidit Beccardus in diss. de scholiis Homeri. Berol. 1850. 14, 21.
+
+### book 409.1
+
+ὣς ἄρ’ ἄτερ σπουδῆς τάνυσεν.
+
+### book 409.2
+
+Fuit diple ὅτι σπουδὴ οὐχ οἷον ἐν τάχει, ἀλλὰ μόγις καὶ
+
+### book 409
+
+δυσχερῶς, cf. ad Β 99, ubi hunc versum citat Ar.
+
+### book 31-3.1
+
+ἴσκεν ἕκαστος ἀνήρ, ἐπεὶ ἦ φάσαν οὐκ ἐθέλοντα
+
+### book 31-3.2
+
+ἄνδρα κατακτεῖναι· τὸ δὲ νήπιοι οὐκ ἐνόησαν,
+
+### book 31-3.3
+
+ὡς δή σφιν καὶ πᾶσιν ὀλέθρου πείρατ’ ἐφῆπτο.
+
+### book 31-3.4
+
+*) [ἀθετοῦνται οἱ στίχοι ὅτι] οὐδέποτε Ὅμηρος ἐπὶ τοῦ
+
+### book 31-3.5.1
+
+ἔλεγε τὸ ἴσκε, ἀλλ’ ἐπὶ τοῦ ὁμοίου· ἠπάτηται οὖν ὁ διασκευ‐
+
+### book 31-3.5.2
+
+αστὴς ἐκ τοῦ „ἴσκε ψεύδεα πολλὰ λέγων ἐτύμοισιν ὅμοια“
+
+### book 31-3.5.3
+
+(τ 203). Vind. 56.
+
+### book 31-3.5.4
+
+Certe Ar. hunc locum obelis notavit, teste Eust. 1917, 56.
+
+### book 31-3.5.5
+
+cf. L. Ar. 97. 335.
+
+### book 49.1
+
+οὗτος γὰρ ἐπίηλεν τάδε ἔργα.
+
+### book 49.2
+
+†) Ἀρίσταρχος ἐπεισέπεμψεν. Apoll. l. h. 73, 10.
+
+### book 84.1
+
+περιῤῥηδὴς δὲ τραπέζῃ κάππεσε.
+
+### book 84.2
+
+†) ὁ Ἀρίσταρχος στροβηθεὶς περιφερὴς ἔπεσε τῇ τραπέζῃ,
+
+### book 84.3
+
+ὡς περικλασθῆναι περὶ αὐτήν. Apoll. l. h. 130, 9. V habet
+
+### book 84.4
+
+ἢ περιφερής.
+
+### book 89.1
+
+Ὀδυσῆος ἐείσατο κυδαλίμοιο.
+
+### book 89.2
+
+*) [ἡ διπλῆ πρὸς τὸ σχῆμα διότι ἐλλείπει ἡ ἐπὶ καὶ πτῶ‐
+
+### book 89.3
+
+σις ἤλλακται. Ὀδυσῆος ἐείσατο] ὡς ἐπὶ Ὀδυσσέα ὥρμησεν.
+
+### book 89.4
+
+V. cf. F. Ar. 24.
+
+### book 97.1
+
+ἢ ἐλάσειεν φασγάνῳ.
+
+### book 97.2
+
+†) πλατεῖ τῷ ξίφει πλήξειεν V. cf. L. Ar. 65. ε 132.
+
+### book 144-5
+
+ἔνθεν δώδεκα μὲν σάκε’ ἔξελε, τόσσα δὲ δοῦρα
+
+### book 144-5.1
+
+καὶ τόσσας κυνέας, χαλκήρεας ἱπποδασείας.
+
+### book 144-5.2
+
+†) σημείωσαι καὶ ὅτι τὸ περὶ τῶν δώδεκα σακέων καὶ τὸ
+
+### book 144-5.3
+
+ἐφεξῆς Ἀρίσταρχος ἀθετήσας κεχίακεν, ἀδύνατον εἶναι εἰπὼν
+
+### book 144-5.5
+
+τοσαῦτα βαστάσαι ἄνθρωπον. Eust. 1921, 56.
+
+### book 165.1
+
+κεῖνος δ’ αὖτ’ ἀΐδηλος ἀνήρ.
+
+### book 165.2
+
+Ar. interpretatio vocabuli ἀΐδηλος in Etym. M. 41, 36 ser‐
+
+### book 165.3
+
+vata est: ἀΐδηλος ὁ ὀλοθρευτικός. οὐ γὰρ ἄξιος Ἀριστόνικος
+
+### book 165.4
+
+δηλοῦν λέγων τὸν ἀδηλοποιόν. cf. L. Ar. 3.
+
+### book 173.1
+
+σφῶι δ’ ἀποστρέψαντε.
+
+### book 173.2
+
+†) ὑμεῖς οἱ δύο V.
+
+### book 173.3
+
+cf. ad Μ 366, ubi Zenodotus legit σφῶε et ab Ar. vitu‐
+
+### book 173.4
+
+peratur. Fortasse nostro etiam loco sic scripsit.
+
+### book 175.1
+
+(192) σειρὴν δὲ πλεκτὴν ἐξ αὐτοῦ πειρήναντε
+
+### book 175.2
+
+Notatus fuit ὁλοσπόνδειος στίχος cf. Λ 130. φ 15. Eust.
+
+### book 175.3
+
+1923, 47.
+
+### book 188.1
+
+ἔρυσάν τέ μιν εἴσω ‖ κουρίξ.
+
+### book 188.2
+
+†) ὁ μὲν Ἀρίσταρχος τῆς κόμης ἐπιλαβόμενοι, ὁ δὲ Κρά‐
+
+### book 188.3
+
+της κουρίξ τὸ νεανικῶς V. Vind. 56. 133. cf. Eust. 1924, 13.
+
+### book 188.4
+
+L. Ar. 151. Apoll. l. h. 103, 10.
+
+### book 258.1
+
+σταθμὸν ἐϋσταθέος μεγάροιο ‖ βεβλήκειν.
+
+### book 258.2
+
+†) σημειῶδες· ἀεὶ γὰρ τὸ βάλλειν παρ’ Ὁμήρῳ ἐπὶ τοῦ
+
+### book 258.3
+
+τυχεῖν H. cf. L. Ar. 60.
+
+### book 274-6.1
+
+τῶν ἄλλος μὲν σταθμὸν ἐυσταθέος μεγάροιο
+
+### book 274-6.2
+
+βεβλήκειν, ἄλλος δὲ θύρην πυκινῶς ἀραρυῖαν.
+
+### book 274-6.3
+
+ἄλλου δ’ ἐν τοίχῳ μελίη πέσε χαλκοβάρεια.
+
+### book 274-6.4
+
+†) τοὺς τρεῖς στίχους (257—259) καὶ μετ’ ὀλίγα οὕτω τί‐
+
+### book 274-6.5.1
+
+θησιν δίχα παραποιήσεως. διό τινες ὠβέλισαν ἐκείνους ὡς
+
+### book 274-6.5.2
+
+ταυτολογοῦντας. Eust. 1926, 18. L. Ar. 342.
+
+### book 278.1
+
+βάλε χεῖρ’ ἐπὶ καρπῷ λίγδην.
+
+### book 278.2
+
+†) ξεστικῶς. ἅπαξ δὲ ἐνταῦθα καὶ ἅπαξ ἐν Ἰλιάδι (Ρ 599)
+
+### book 278.3
+
+ἐπιλίγδην Q. cf. Ar. ad Ρ 599.
+
+### book 296.1
+
+ἤριπε δὲ πρηνής.
+
+### book 296.2
+
+*) [ἡ διπλῆ ὅτι] οὗτος ἐπ’ αὐτὴν πίπτει τὴν πληγήν. V.
+
+### book 296
+
+cf. ad Ε 68.
+
+### book 304.1
+
+ταὶ μέν τ’ ἐν πεδίῳ νέφεα πτώσσουσαι ἵενται.
+
+### book 304.2
+
+†) λείπει ἡ εἰς πρόθεσις, ἵν’ ᾖ εἰς τὰ νέφη. νέφη δὲ
+
+### book 304.3
+
+τὰ λίνα ἤγουν τὰ δίκτυα τὰ ἱστάμενα πρὸς ὀρνίθων ἄγραν.
+
+### book 304.4
+
+Schol. Vind. 56. Eust. 1928, 32. Hesych. III, 151.
+
+### book 325.1
+
+θάνατόν γε δυσηλεγέα προφύγοισθα.
+
+### book 325.2
+
+†) ὁ Ἀρίσταρχος ὅταν μὲν λέγῃ τὸν θάνατον τοιοῦτον ση‐
+
+### book 325.3
+
+μαίνει μακροκοίμητον, ὅταν δὲ ἄλλως, καταστρέφει εἰς ταὐτὸν
+
+### book 325.4
+
+τῷ κακοκοίμητον. Apoll. l. h. 61, 1.
+
+### book 330.1
+
+Τερπιάδης δέ τ’ ἀοιδός.
+
+### book 330.2
+
+†) Τέρπιος παῖς ἢ ὁ τέρπων V. cf. ad Ε 60 et Ι 137.
+
+### book 386.1
+
+δικτύῳ ἐξέρυσαν πολυωπῷ.
+
+### book 386.2
+
+†) σημειοῦνται οἱ παλαιοὶ ἅπαξ ἐνταῦθα μνησθῆναι τὸν
+
+### book 386.3
+
+ποιητὴν ἰχθύων θήρας τῆς διὰ δικτύων. τὸ γὰρ ἐν Ἰλιάδι
+
+### book 386.4
+
+„μή πως ὡς ἀψίσι λίνου ἁλόντες πανάγρου“ ἄδηλόν φασι εἴτε
+
+### book 386.5.1
+
+ἰχθύων εἴτε πεζῶν ζώων εἴτε καὶ πτηνῶν ἄγραν δηλοῖ. τὴν
+
+### book 386.5.2
+
+δέ γε δι’ ὁρμιᾶς καὶ ἀγκίστρου θήραν πολλάκις εἶπεν. Eust.
+
+### book 386.5.3
+
+1931, 30.
+
+### book 402.1
+
+αἵματι καὶ λύθρῳ πεπαλαγμένον.
+
+### book 402.2
+
+*) [ἡ διπλῆ ὅτι] ἐκ παραλλήλου τὸ αὐτό H. cf. F. Ar. ad
+
+### book 402.3
+
+Ν 276.
+
+### book 481.1
+
+οἶσε θέειον.
+
+### book 481.2
+
+Diple fuit, quod οἶσε forma futuri significationem non habet,
+
+### book 481.3
+
+sed idem ac praesentis imperativus φέρε valet, cf. ad Ο 718,
+
+### book 481
+
+F. Ar. p. 6.
+
+### book 3.1
+
+πόδες δ’ ὑπερικταίνοντο.
+
+### book 3.2
+
+†) Ἀρίσταρχος ἀνεπάλλοντο καὶ ἐκινοῦντο προθυμουμένης
+
+### book 3.3
+
+αὐτῆς βαδίζειν ταχέως, μὴ δυναμένης δὲ, ἀλλὰ κατὰ βραχὺ διὰ
+
+### book 3.4
+
+τὸ γῆρας. MS. Barnes. Idem Apoll. l. h. 158, 8 ubi additur:
+
+### book 3.5.1
+
+φαίνεται τοίνυν τὸ πλῆρες κατὰ Ἀρίσταρχον ἐρικταίνοντο, καὶ
+
+### book 3.5.2
+
+δῆλα τὰ τῆς ἀναγνώσεως. τῶν ἅπαξ εἰρημένων. cf. Eust. 1936,
+
+### book 3.5.3
+
+10. L. Ar. 311.
+
+### book 7.1
+
+ἦλθ’ Ὀδυσεὺς καὶ οἶκον ἱκάνεται.
+
+### book 7.2
+
+*) [ἡ διπλῆ ὅτι τὸ οἶκον ἱκάνεται] ἀντὶ τοῦ καὶ εἰς οἶκον
+
+### book 7.3
+
+ἱκάνει H. cf. F. Ar. 26.
+
+### book 64.1
+
+ὕβριν ἀγασσάμενος θυμαλγέα.
+
+### book 64.2
+
+†) ὑπερεκπλαγείς H. cf. L. Ar. 147.
+
+### book 76.1
+
+ἑλὼν ἐπὶ μάστακα χερσίν.
+
+### book 76.2
+
+*) [ἡ διπλῆ ὅτι τὸ μάστακα] νῦν τὸ στόμα, ἐν δὲ τῇ Ἰλι‐
+
+### book 76.3
+
+άδι (Ι 324) καὶ τὸ μάσημα „μάστακ’ ἐπεί κε λάβῃσ“. HQ. cf.
+
+### book 76.4
+
+ad Ι 324. δ 287.
+
+### book 85.1
+
+κατέβαιν’ ὑπερώϊα.
+
+### book 85.2
+
+†) ὑπερωΐων, ὡς τὸ „διά τ’ ἔντεα καὶ μέλαν αἷμα“ (Κ
+
+### book 85.3
+
+298). H. cf. ad Κ 298. F. Ar. 20. Eust. 1993, 10.
+
+### book 89.1
+
+ἐν πυρὸς αὐγῇ.
+
+### book 89.2
+
+†) ἐν τῷ πεφωτισμένῳ τόπῳ καὶ πεφλογισμένῳ ἀπὸ τοῦ
+
+### book 89.3
+
+πυρός V. cf. ad Ι 206. ς 44.
+
+### book 91.1
+
+ποτιδέγμενος εἴ τί μιν εἴποι.
+
+### book 91.2
+
+Fuit diple ὅτι ἡ πρὸς ἐλλείπει, ἵν’ ἦ εἴ τι προσείποι cf.
+
+### book 91.3
+
+F. Ar. ad P 237 ubi corr. ψ 191 in ψ 91.
+
+### book 198.1
+
+ἑρμῖν’ ἀσκήσας.
+
+### book 198.2
+
+†) ὁ Ἀρίσταρχός φησιν, ἑρμῖνας ἐκάλουν τοὺς πόδας τῶν
+
+### book 198.3
+
+κλίνων, οὗτοι δὲ ἦσαν σφηνοειδεῖς τῇ κατασκευῇ· τῶν ἅπαξ
+
+### book 198.4
+
+εἰρημένων. Apoll. 77, 5. HQV habent: κλίνης ποδάριον· ἕρμα
+
+### book 198.5
+
+γάρ ἐστι τῆς κλίνης. L. Ar. 152.
+
+### book 211.1
+
+οἱ νῶϊν ἀγάσαντο.
+
+### book 211.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἀγάσαντο νῦν ἀντὶ τοῦ] ἐφθόνησαν Q.
+
+### book 211.3
+
+L. Ar. 147. ψ 64.
+
+### book 218-24.1
+
+οὐδέ κεν Ἀργείη Ἑλένη, Διὸς ἐκγεγαυῖα,
+
+### book 218-24.2
+
+ἀνδρὶ παρ’ ἀλλοδάπῳ ἐμίγη φιλότητι καὶ εὐνῇ,
+
+### book 218-24.3
+
+εἰ ᾔδη, ὅ μιν αὖτις ἀρήιοι υἷες Ἀχαιῶν
+
+### book 218-24.4
+
+ἀξέμεναι οἶκονδε φίλην ἐς πατρίδ’ ἔμελλον.
+
+### book 218-24.5.1
+
+τὴν δ’ ἦ τοι ῥέξαι θεὸς ὤρορεν ἔργον ἀεικές.
+
+### book 218-24.5.2
+
+τὴν δ’ ἄτην οὐ πρόσθεν ἑῷ ἐγκάτθετο θυμῷ,
+
+### book 218-24.5.3
+
+λυγρήν, ἐξ ἧς πρῶτα καὶ ἡμέας ἵκετο πένθος.
+
+### book 218-24.5.4
+
+ἀθετοῦνται οἱ ἑπτὰ στίχοι οὗτοι ὡς σκάζοντες κατὰ τὸν
+
+### book 218-24.5.5
+
+νοῦν. MV. Vind. 133. Eust. 1946, 13.
+
+### book 225.1
+
+ἐπεὶ ἤδη σήματ’ ἀριφραδέα κατέλεξας.
+
+### book 225.2
+
+*) [ἡ διπλῆ ὅτι τὸ ἀριφραδέα] ἀντὶ τοῦ ἀριφραδέως H.
+
+### book 225.3
+
+cf. F. Ar. 29.
+
+### book 281.1
+
+θάνατος δέ μοι ἐξ ἁλός.
+
+### book 281.2
+
+†) ἔξω τῆς θαλάσσης. Vind. 133. cf. Λ 113. λ 134.
+
+### book 296.1
+
+†) Ἀρίσταρχος καὶ Ἀριστοφάνης πέρας τῆς Ὀδυσσείας
+
+### book 296.2
+
+τοῦτο ποιοῦνται MV. Vind. 133. Idem HMQ. Eust. 1948, 49.
+
+### book 310-43.1
+
+†) ῥητορικὴν ποιεῖται ἀνακεφαλαίωσιν τῆς ὑπο‐
+
+### book 310-43.2
+
+θέσεως καὶ ἐπιτομὴν τῆς Ὀδυσσείας· καλῶς οὖν ἠθέτησεν
+
+### book 310-43.3
+
+Ἀρίσταρχος τοὺς τρεῖς καὶ τριάκοντα. Vind. 133. H.
+
+### book 310-43.4
+
+Versus 310—312, 314, 318, 322, 326—330, 333, 338 in M
+
+### book 310-43.5
+
+habent obelos appictos.
+
+### book 1.1
+
+†) Ἀρίσταρχος ἀθετεῖ τὴν νέκυιαν κεφαλαίοις τοῖς συν‐
+
+### book 1.2
+
+εκτικωτάτοις τοῖσδε. ὅτι οὐκ ἔστι καθ’ Ὅμηρον ψυχοπομπὸς
+
+### book 1.3
+
+ὁ Ἑρμῆς (cf. Ar. ad Χ 362. L. Ar. 185). ἀλλ’ οὐδὲ χθόνιος
+
+### book 1.4
+
+ὁ θεός. Κυλλήνιος δὲ οὐδαμοῦ εἴρηται εἰ μὴ (corr. Spohnius
+
+### book 1.5.1
+
+pro ἢ) ἅπαξ. ἀλλὰ πῶς αἱ ψυχαὶ οὐκ αὐτόμαται κατίασιν, ὡς
+
+### book 1.5.2
+
+ἐν Ἰλιάδι; (cf. ad Χ 362). ἀλλ’ αὖται καὶ ἄταφοι κατίασιν
+
+### book 1.5.3
+
+(cf. ad Ψ 73. L. Ar. 174). ἀλλ’ οὐδὲ ἔοικεν εἰς Ἅιδου λευκὴν
+
+### book 1.5.4
+
+εἶναι πέτραν. ἄκαιρος δὲ καὶ ἡ Ἀχιλλέως καὶ Ἀγαμέμνονος
+
+### book 1.5.5
+
+ὁμιλία. καὶ Ἀγαμέμνων οὐκ ἀγείρει τὴν στρατείαν, ἀλλ’ ὁ
+
+### book 1.10.1
+
+Νέστωρ. πῶς δὲ καὶ τὸ σῶμα διέμεινε τοῦ Ἀχιλλέως ἐπὶ το‐
+
+### book 1.10.2
+
+σαύτας ἡμέρας; ἀλλὰ καὶ τὸ ἀριθμεῖν τὰς Μούσας οὐχ Ὁμη‐
+
+### book 1.10.3
+
+ρικόν (cf. L. Ar. 185. Schol. V ad Ω 720). ἄλογον δὲ καὶ ἐπὶ
+
+### book 1.10.4
+
+τῶν νεῶν ὄντων αὐτῶν λέγειν ὅτι δείσαντες τὰς Νηρηίδας ἔφυ‐
+
+### book 1.10.5
+
+γον ἐπὶ τὰς ναῦς ἀπὸ τοῦ τῶν Μυρμιδόνων ναυστάθμου. πῶς
+
+### book 1.15.1
+
+δὲ καὶ ὁ Ἀμφιμέδων ἐπίσταται τὴν ἐν τοῖς ἀγροῖς ἐπιβου‐
+
+### book 1.15.2
+
+λήν; MV.
+
+### book 1.15.3
+
+In schol. MV cuique Aristarchearum obiectionum responsio
+
+### book 1.15.4
+
+vel solutio subiieitur brevissimis, quas omisi, cf. Eust. 1957, 16.
+
+### book 13.1
+
+αἶψα δ’ ἵκοντο κατ’ ἀσφοδελὸν λειμῶνα,
+
+### book 13.2
+
+ἔνθα τε ναίουσι ψυχαί.
+
+### book 13.3
+
+cf. Ar. ad Ψ 73: ἡ διπλῆ ὅτι ἐκτὸς τοῦ ποταμοῦ ὑποτί‐
+
+### book 13.4
+
+θεται τὰς τῶν ἀτάφων ψυχὰς καὶ μὴ ταῖς ἐν τῷ ἐρέβει. ἡ
+
+### book 13.5
+
+δὲ ἀναφορὰ πρὸς τὰ ἀθετούμενα ἐν τῇ νεκυίᾳ. vid. Porphyr.
+
+### book 13.1
+
+ad Ψ 71.
+
+### book 13.2
+
+Versus 40 ex Π 776 non recte hic insertus est cf. Ar. ad
+
+### book 13.3
+
+Π 776.
+
+### book 60.1
+
+Μοῦσαι δ’ ἐννέα πᾶσαι ἀμειβόμεναι ὀπὶ καλῇ.
+
+### book 60.2
+
+cf. schol. Ω 720 in V: ἀθετητέος δὲ ὁ Μουσῶν ἐπ’ Ἀχιλ‐
+
+### book 60.3
+
+λεῖ θρῆνος.
+
+### book 60.4
+
+Versus 74 asteriscum habuit cf. ad Ψ 92.
+
+### book 119.1
+
+σπουδῇ παρπεπιθόντες Ὀδυσσῆα.
+
+### book 119.2
+
+†) μόγις. V. cf. L. Ar. 116. φ 409.
+
+### book 187.1
+
+σώματ’ ἀκηδέα κεῖται ἐνὶ μεγάροις Ὀδυσῆος.
+
+### book 187.2
+
+†) καὶ πῶς μίγνυνται τοῖς νεκροῖς τοῦ Πατρόκλου λέγον‐
+
+### book 187.3
+
+τος ἐν Ἰλιάδι (Ψ 73) „οὐδέ μέ πω μίσγεσθαι ὑπὲρ ποταμοῖο
+
+### book 187.4
+
+ἐῶσιν“ H. cf. ad v. 1. Ψ 73.
+
+### book 208.1
+
+περὶ δὲ κλίσιον θέε πάντῃ.
+
+### book 208.2
+
+†) ὁ Ἀρίσταρχος κύκλοθεν τοῦ οἴκου οἷον ἐκ στιβάδων
+
+### book 208.3
+
+ᾠκοδομημένον, πρὸς οὗ καὶ οἱ θρόνοι ἔκειντο, ὥστε οὖν καὶ
+
+### book 208.4
+
+ἐπ’ αὐτῶν καθιζομένους δειπνεῖν καὶ ἐγκοιμᾶσθαι. Apoll. l.
+
+### book 208.5
+
+h. 100, 19. cf. Porphyrium ad Ι 90.
+
+### book 294.1
+
+πολύδωρος Πηνελόπεια.
+
+### book 294.2
+
+†) ἡ πολλοῖς δώροις γαμηθεῖσα V. cf. L. Ar. 197.
+
+### book 402.1
+
+οὖλέ τε καὶ μάλα χαῖρε.
+
+### book 402.2
+
+Notatum fuit οὖλε vocabulum ἅπαξ εἰρημένον. cf. schol.
+
+### book 402.3
+
+H: ὑγίαινε· παρὰ τὸ ὅλην· τῶν ἅπαξ εἰρημένων. Eust. 1965,
+
+### book 402.4
+
+31. Apoll. l. h. 124, 11.
+
+### book 413.1
+
+Ὄσσα δ’ ἄρ’ ἄγγελος ὦκα.
+
+### book 413.2
+
+*) [ἡ διπλῆ ὅτι ὄσσα ἡ] θεία κληδών· οἱ δὲ νεώτεροι ἀντὶ
+
+### book 413.3
+
+τῆς φωνῆς HQ. cf. L. Ar. 87.
+
+### book 425
+
+τοῦ ὅ γε δακρυχέων.
+
+### book 425
+
+*) [ἡ διπλῆ ὅτι] λείπει ἡ περί H. cf. F. Ar. 26.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: mia-aa`.

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "dbq",
+  "auth_slug": "agamestor",
+  "name": {
+    "english": "Agamestor",
+    "ancient_greek": "Ἀγαμήστωρ"
+  },
+  "seo_h1": "Agamestor: Elegiac Fragments on Achilles' Naming",
+  "seo": {
+    "browser_title": "Agamestor Ancient Greek Poet on Eulogikon Greek Archive",
+    "meta_title": "Classical Agamestor Ancient Greek Elegiac Poetry Fragments",
+    "meta_description": "Agamestor, a 5th century BCE Ionic poet. Surviving elegiac fragments from ancient sources. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (el, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agamestor was a Greek elegiac poet of the 5th century BCE. His existence is known solely from a brief entry in the 10th-century Byzantine encyclopedia, the Suda, which identifies him as an elegiac poet from Arcadia. No further biographical details are recorded.</p>\n<p class=\"research-text\">The Suda attributes elegiac poetry to Agamestor but preserves no titles or verses. His work is entirely lost, and he is known only through this secondary reference.</p>\n<p class=\"research-text\">Agamestor’s significance rests on his inclusion in the Suda, which preserves his name within the later antique memory of Greek poets. For modern scholarship, he exemplifies the numerous minor figures of the Classical period whose works are lost, underscoring the fragmentary state of the early elegiac tradition.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "dbq-aa",
+      "title": {
+        "english": "Fragments on Achilles' Naming",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τοῦ Ἀχιλλέως Ὀνομασίας"
+      },
+      "url_slug": "agamestor-achilles-naming-dbq-aa",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/agamestor/achilles-naming",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agamestor/achilles-naming.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agamestor/achilles-naming.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agamestor/achilles-naming.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agamestor/achilles-naming.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agamestor",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agamestor.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agamestor.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agamestor.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agamestor.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

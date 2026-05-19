@@ -1,0 +1,632 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ejc",
+  "auth_slug": "lysias",
+  "name": {
+    "english": "Lysias the Orator",
+    "ancient_greek": "Λυσίας ὁ λογογράφος"
+  },
+  "seo_h1": "Lysias the Orator and the Forensic Speeches of Athens",
+  "seo": {
+    "browser_title": "Lysias the Orator on Eulogikon Greek Archive of Texts",
+    "meta_title": "Lysias Ancient Greek Orations and Speeches Collection",
+    "meta_description": "Lysias was a professional speechwriter in classical Athens. Thirty-six surviving orations are attributed to him. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Lysias was a professional speechwriter, or logographer, who worked in Athens during the late 5th and early 4th centuries BCE. He was not an Athenian citizen but a metic, a resident alien. His wealthy family&#x27;s life was upended by the oligarchic regime known as the Thirty Tyrants, which seized power in 404 BCE. The regime executed his brother and confiscated their property. Lysias escaped and helped fund the democratic resistance.</p>\n<p class=\"research-text\">After democracy was restored, he returned to Athens but was denied citizenship. He then built a career writing courtroom speeches for others to deliver. Over 200 speeches were attributed to him in antiquity, but only 35 survive in whole or in part. Most are forensic speeches, written for real legal cases involving murder, inheritance, business, and politics. One of the most famous, Against Eratosthenes, is the only speech he delivered himself, accusing a member of the Thirty Tyrants of killing his brother.</p>\n<p class=\"research-text\">His works are celebrated for their clear, persuasive style that seemed artlessly suited to the character of the client. According to modern scholars, his speeches provide invaluable evidence for Athenian law, daily life, and social history. As a non-citizen, his writings also offer a distinct perspective on Athenian society. His style was highly praised in antiquity and his works became standard models for the study of rhetoric.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 36,
+  "works": [
+    {
+      "eul_wid": "ejc-ah",
+      "title": {
+        "english": "Accusatithe Companions of Slander",
+        "ancient_greek": "κατηγορία πρὸς τοὺς συνουσιαστὰς κακολογιῶν"
+      },
+      "url_slug": "lysias-accusation-companions-ejc-ah",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/accusation-companions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/accusation-companions.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ar",
+      "title": {
+        "english": "Against Agoratus for Informing",
+        "ancient_greek": "κατὰ Ἀγοράτου ἐνδείξεως"
+      },
+      "url_slug": "lysias-agoratus-ejc-ar",
+      "passages": 87,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/agoratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/agoratus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-aq",
+      "title": {
+        "english": "Against Alcibiades for Desertion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου λιποταξίου"
+      },
+      "url_slug": "lysias-against-alcibiades-aq-ejc-aq",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aq.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-aj",
+      "title": {
+        "english": "Against Alcibiades for Military Evasion",
+        "ancient_greek": "κατὰ Ἀλκιβιάδου ἀστρατείας"
+      },
+      "url_slug": "lysias-against-alcibiades-aj-ejc-aj",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-alcibiades-aj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-alcibiades-aj.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-au",
+      "title": {
+        "english": "Against Andocides for Impiety",
+        "ancient_greek": "κατ᾽ Ἀνδοκίδου ἀσεβείας"
+      },
+      "url_slug": "lysias-against-andocides-ejc-au",
+      "passages": 49,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-andocides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-andocides.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bd",
+      "title": {
+        "english": "Against Diogeiton",
+        "ancient_greek": "κατὰ Διογείτονος"
+      },
+      "url_slug": "lysias-against-diogeiton-ejc-bd",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-diogeiton",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-diogeiton.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ac",
+      "title": {
+        "english": "Against Epicrates and Co-Envoys, Epilogue As Theodorus",
+        "ancient_greek": "κατὰ Ἐπικράτους καὶ τῶν συμπρεσβευτῶν ἐπίλογος"
+      },
+      "url_slug": "lysias-against-epicrates-envoys-ejc-ac",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-epicrates-envoys",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-epicrates-envoys.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ap",
+      "title": {
+        "english": "Against Eratosthenes of the Thirty",
+        "ancient_greek": "κατὰ Ερατοσθένους τοῦ γενομένου τῶν τριάκοντα,"
+      },
+      "url_slug": "lysias-against-eratosthenes-ejc-ap",
+      "passages": 86,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-eratosthenes.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-az",
+      "title": {
+        "english": "Against Ergocles, Epilogue",
+        "ancient_greek": "κατὰ Ἐργοκλέους ἐπίλογος"
+      },
+      "url_slug": "lysias-against-ergocles-ejc-az",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-ergocles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-ergocles.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ai",
+      "title": {
+        "english": "Against Nicomachus Secretary-Accounts",
+        "ancient_greek": "κατὰ Νικομάχου γραμματέως εὐθυνῶν κατηγορία"
+      },
+      "url_slug": "lysias-against-nicomachus-ejc-ai",
+      "passages": 34,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-nicomachus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-an",
+      "title": {
+        "english": "Against Pancleon Not Being Plataean",
+        "ancient_greek": "κατὰ Παγκλέωνος ὅτι οὐκ ἦν Πλαταιεύς"
+      },
+      "url_slug": "lysias-against-pancleon-ejc-an",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-pancleon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-pancleon.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ax",
+      "title": {
+        "english": "Against Philo-Examination",
+        "ancient_greek": "κατὰ Φίλωνος δοκιμασίας"
+      },
+      "url_slug": "lysias-against-philo-ejc-ax",
+      "passages": 25,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-philo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philo.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-av",
+      "title": {
+        "english": "Against Philocrates, Epilogue",
+        "ancient_greek": "κατὰ Φιλοκράτους ἐπίλογος"
+      },
+      "url_slug": "lysias-against-philocrates-ejc-av",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-philocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philocrates.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philocrates.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philocrates.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-philocrates.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ba",
+      "title": {
+        "english": "Against The Grain Dealers",
+        "ancient_greek": "κατὰ τῶν σιτοπωλῶν"
+      },
+      "url_slug": "lysias-grain-dealers-ejc-ba",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/grain-dealers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/grain-dealers.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ad",
+      "title": {
+        "english": "Against the Indictment-Not Giving Money to the Weak",
+        "ancient_greek": "Πρὸς τὴν εἰσαγγελίαν περὶ τοῦ μὴ δίδοσθαι τῷ"
+      },
+      "url_slug": "lysias-against-indictment-weak-ejc-ad",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-indictment-weak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-indictment-weak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-indictment-weak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-indictment-weak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-indictment-weak.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bb",
+      "title": {
+        "english": "Against Theomnestus A",
+        "ancient_greek": "κατὰ θεομνήστου, Α"
+      },
+      "url_slug": "lysias-against-theomnestus-ejc-bb",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-theomnestus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-theomnestus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-theomnestus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-theomnestus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-theomnestus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bc",
+      "title": {
+        "english": "Against Theomnestus B",
+        "ancient_greek": "κατὰ Θεομνήστου Β"
+      },
+      "url_slug": "lysias-theomnestus-ejc-bc",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/theomnestus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/theomnestus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ao",
+      "title": {
+        "english": "Areopagiticus Defense of the Shrine",
+        "ancient_greek": "Ἀρεοπαγιτικὸς περὶ τοῦ σηκοῦ ἀπολογία"
+      },
+      "url_slug": "lysias-areopagiticus-defense-ejc-ao",
+      "passages": 37,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/areopagiticus-defense",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/areopagiticus-defense.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/areopagiticus-defense.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/areopagiticus-defense.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/areopagiticus-defense.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-as",
+      "title": {
+        "english": "Defense for Callias' Sacrilege",
+        "ancient_greek": "ὑπὲρ Καλλίου ἱεροσυλίας ἀπολογία"
+      },
+      "url_slug": "lysias-defense-callias-ejc-as",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-callias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-callias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-callias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-callias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-callias.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ab",
+      "title": {
+        "english": "Defense in the Council for Mantitheus Under Examination",
+        "ancient_greek": "ἐν βουλῇ Μαντιθέῳ δοκιμαζομένῳ ἀπολογία"
+      },
+      "url_slug": "lysias-defense-mantitheus-ejc-ab",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-mantitheus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-mantitheus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-mantitheus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-mantitheus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-mantitheus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-am",
+      "title": {
+        "english": "Defense in the Murder of Eratosthenes",
+        "ancient_greek": "ὑπὲρ τοῦ Ἐρατοσθένους φόνου ἀπολογία"
+      },
+      "url_slug": "lysias-defense-murder-eratosthenes-ejc-am",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-murder-eratosthenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-murder-eratosthenes.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-al",
+      "title": {
+        "english": "Defense of the Overthrow of the People",
+        "ancient_greek": "δήμου καταλύσεως ἀπολογία"
+      },
+      "url_slug": "lysias-defense-overthrow-ejc-al",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-overthrow",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-overthrow.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-overthrow.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-overthrow.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-overthrow.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-at",
+      "title": {
+        "english": "Epitaph for Corinthian Helpers",
+        "ancient_greek": "Ἐπιτάφιος τοῖς Κορινθίων βοηθοῖς"
+      },
+      "url_slug": "lysias-corinthian-helpers-ejc-at",
+      "passages": 48,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/corinthian-helpers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/corinthian-helpers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/corinthian-helpers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/corinthian-helpers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/corinthian-helpers.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bf",
+      "title": {
+        "english": "For Polystratus",
+        "ancient_greek": "ὑπὲρ Πολυστράτου"
+      },
+      "url_slug": "lysias-for-polystratus-ejc-bf",
+      "passages": 35,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/for-polystratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bg",
+      "title": {
+        "english": "For the Soldier",
+        "ancient_greek": "ὑπὲρ τοῦ στρατιωτοῦ"
+      },
+      "url_slug": "lysias-soldier-ejc-bg",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/soldier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/soldier.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/soldier.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/soldier.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/soldier.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bi",
+      "title": {
+        "english": "Fragments on a Debt Case",
+        "ancient_greek": "Ἀποσπάσματα περὶ Χρέους"
+      },
+      "url_slug": "lysias-debt-case-ejc-bi",
+      "passages": 42,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/debt-case",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/debt-case.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/debt-case.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/debt-case.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/debt-case.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bh",
+      "title": {
+        "english": "Fragments on Legal Disputes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δικῶν"
+      },
+      "url_slug": "lysias-legal-disputes-ejc-bh",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/legal-disputes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/legal-disputes.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ag",
+      "title": {
+        "english": "In Defense of Aristophanes' Funds, to the Public",
+        "ancient_greek": "ὑπὲρ τῶν Ἀριστοφάνους χρημάτων, πρὸς τὸ δημόσιον"
+      },
+      "url_slug": "lysias-defense-aristophanes-funds-ejc-ag",
+      "passages": 60,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-aristophanes-funds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-aristophanes-funds.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-aristophanes-funds.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-aristophanes-funds.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-aristophanes-funds.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bj",
+      "title": {
+        "english": "Olympic",
+        "ancient_greek": "Ολυμπιακός"
+      },
+      "url_slug": "lysias-olympic-ejc-bj",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/olympic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/olympic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/olympic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/olympic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/olympic.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ae",
+      "title": {
+        "english": "On Not Abolishing The Ancestral Constitution At Athens",
+        "ancient_greek": "περὶ τοῦ μὴ καταλῦσαι τὴν πάτριον πολιτείαν"
+      },
+      "url_slug": "lysias-ancestral-constitution-ejc-ae",
+      "passages": 8,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/ancestral-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/ancestral-constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/ancestral-constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/ancestral-constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/ancestral-constitution.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-aa",
+      "title": {
+        "english": "On the Confiscation of the Property of Nicias' Brother, Epilogue",
+        "ancient_greek": "περὶ τῆς δημεύσεως τῶν τοῦ Νικίου ἀδέλφου ἐπίλογος"
+      },
+      "url_slug": "lysias-confiscation-nicias-brother-ejc-aa",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/confiscation-nicias-brother",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/confiscation-nicias-brother.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/confiscation-nicias-brother.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/confiscation-nicias-brother.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/confiscation-nicias-brother.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-aw",
+      "title": {
+        "english": "On the Examination of Evander",
+        "ancient_greek": "περὶ τῆς Εὐάνδρου δοκιμασίας"
+      },
+      "url_slug": "lysias-examination-evander-ejc-aw",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/examination-evander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/examination-evander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/examination-evander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/examination-evander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/examination-evander.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ak",
+      "title": {
+        "english": "On the Funds of Eratones, to the Public",
+        "ancient_greek": "περὶ τῶν Ἐράτωνος χρημάτων: πρὸς τὸ δημόσιον"
+      },
+      "url_slug": "lysias-eratones-funds-ejc-ak",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/eratones-funds",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/eratones-funds.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/eratones-funds.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/eratones-funds.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/eratones-funds.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-af",
+      "title": {
+        "english": "On Wound by Design, For Which and to Whom Unknown",
+        "ancient_greek": "περὶ τραύματος ἐκ προνοίας, ὑπὲρ οὗ καὶ πρὸς ὃν"
+      },
+      "url_slug": "lysias-wound-design-unknown-ejc-af",
+      "passages": 18,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/wound-design-unknown",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/wound-design-unknown.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/wound-design-unknown.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/wound-design-unknown.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/wound-design-unknown.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-be",
+      "title": {
+        "english": "To Simon Apology",
+        "ancient_greek": "πρὸς Σίμωνα ἀπολογία"
+      },
+      "url_slug": "lysias-simon-apology-ejc-be",
+      "passages": 38,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/simon-apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/simon-apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/simon-apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/simon-apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/simon-apology.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-ay",
+      "title": {
+        "english": "Unmarked Defense of Bribery",
+        "ancient_greek": "ἀπολογία δωροδοκίας ἀπαράσημος"
+      },
+      "url_slug": "lysias-defense-bribery-ejc-ay",
+      "passages": 23,
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/defense-bribery",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/defense-bribery.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/lysias",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysias.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysias.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysias.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/lysias.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,261 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vgs-aa",
+  "eul_aid": "vgs",
+  "author_slug": "elias-the-neoplatonist",
+  "work_slug": "prior-analytics-commentary",
+  "url_slug": "elias-the-neoplatonist-prior-analytics-commentary-vgs-aa",
+  "author": {
+    "english": "Elias the Neoplatonist",
+    "ancient_greek": "Ἠλίας ὁ Νεοπλατωνικός"
+  },
+  "title": {
+    "english": "Commentary-Aristotle's Prior Analytics",
+    "ancient_greek": "Σχόλια εἰς τὰ ἀναλυτικὰ πρότερα Ἀριστοτέλους"
+  },
+  "seo": {
+    "browser_title": "Commentary Aristotle's Prior Analytics by Elias on Eulogikon",
+    "meta_title": "Elias Commentary on Aristotle's Prior Analytics in Greek",
+    "meta_description": "Elias interprets Aristotle's logical system through Neoplatonic philosophy, examining syllogistic reasoning and its Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Commentary on Aristotle&#x27;s Prior Analytics is a sixth-century philosophical treatise by Elias, a Neoplatonist philosopher active in Alexandria. Composed in Attic Greek, the work exemplifies the scholarly commentary, a central genre in late antique education, and is structured as a series of explanatory lectures intended to guide students through Aristotle&#x27;s foundational text on syllogistic logic. It opens with a prolegomenon examining the status of logic itself, surveying the positions of the Stoic, Peripatetic, and Platonic schools on whether logic is a part or merely an instrument of philosophy, before proceeding to a detailed, line-by-line exegesis of the Aristotelian arguments. Modern scholarship interprets the commentary primarily as a pedagogical text, created for use within the Alexandrian school during a significant intellectual transition following the closure of the Platonic Academy in Athens. As Alexandria emerged as a major center for philosophical instruction, its curriculum sought to employ Aristotle&#x27;s works as a propaedeutic to the higher study of Plato. Consequently, while meticulously explicating Aristotelian doctrine, the commentary is also situated within the broader Neoplatonic project of harmonizing the philosophies of Plato and Aristotle. The complete text of Elias&#x27;s commentary survives through medieval manuscript transmission and forms part of the important corpus of Greek philosophical commentaries preserved by Byzantine, Islamic, and Renaissance scholars.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "134 (1t)",
+      "text": "Σχόλια σὺν θεῷ εἰς τὸ πρῶτον τῶν Προτέρων Ἀναλυτικῶν ἀπὸ φωνῆς Ἠλιοῦ φιλοσόφου καὶ ἀπὸ ἐπάρχων Πρᾶξις αʹ Εἰ μέρος ἢ ὄργανον ἡ λογικὴ φιλοσοφίας, Εὐτόκιος μὲν ζητεῖ τῆς Εἰσαγωγῆς ἀρχόμενος, Ἀλέξανδρος δὲ καὶ Θεμίστιος τῶν συλλογιστικῶν πραγματειῶν ἀρχόμενοι. καὶ ἄμεινον οὗτοι· ἡ γὰρ λογικὴ κατὰ μόνην τὴν συλλογιστικὴν μέθοδον ζητεῖται εἰ μέρος ἢ ὄργανόν ἐστι φιλοσοφίας. τρεῖς τοίνυν γεγόνασι περὶ τούτου δόξαι, ἡ Στωϊκή, ἡ Περιπατητική, ἡ Πλατωνικὴ ἤτοι Ἀκαδημαϊκή. οἱ μὲν γὰρ Στωϊκοὶ μέρος οἴονται τὴν λογικὴν φιλοσοφίας· τοιγαροῦν ἀντιδιαιροῦσιν αὐτὴν τῷ θεωρητικῷ καὶ τῷ πρακτικῷ· οἱ δὲ Περιπατητικοὶ ὄργανον· Πλάτων δὲ τὰς ἀμφοτέρων νίκας ἀναδησάμενος μέρος ἅμα καὶ ὄργανον τὴν λογικὴν φιλοσοφίας ἐκήρυξε. καὶ ἐπιχειροῦσιν ἑκάτεροι τῶν ἄκρων διχῶς. Στωϊκοὶ μὲν γὰρ οὕτως· πᾶν, φασίν, ᾧ κέχρηταί τις τέχνη ἢ ἐπιστήμη, τοῦτο ἐὰν μὴ ᾖ ἑτέρας τέχνης μέρος ἢ μόριον, αὐτῆς τῆς χρωμένης μέρος ἐστὶν ἢ μόριον. οἷον ἡ ἰατρικὴ κέχρηται τῷ διαιτητικῷ καὶ τὸ διαιτητικὸν οὐκ ἔστιν ἑτέρας τέχνης μέρος ἢ μόριον, καὶ διὰ τοῦτο τῆς ἰατρικῆς μέρος ἐστὶν ἢ μόριον. πρόσκειται δὲ τὸ ‘ἐὰν μὴ ᾖ ἑτέρας τέχνης μέρος ἢ μόριον‘ διὰ τὴν κυβερνητικὴν καὶ τὴν ἀστρονομίαν· κέχρηται γὰρ ἡ κυβερνητικὴ τῇ ἀστρονομίᾳ, ‘τῇ καὶ Σιδόνιοι ἰθύντατα ναυτίλλονται‘, καὶ οὐκ ἔστιν ἡ ἀστρονομία τῆς κυβερνητικῆς μέρος ἢ μόριον, ἐπειδὴ ἔφθη τῆς μὲν μαθηματικῆς οὖσα μέρος, τῆς δὲ φιλοσοφίας μόριον. ἐπειδὴ οὖν, φασί, κέχρηται τῇ λογικῇ ἡ φιλοσοφία δεικνῦσα ἐν μὲν τῷ θεωρητικῷ τί μὲν ἀληθὲς τί δὲ ψεῦδος, ἐν δὲ τῷ πρακτικῷ τί μὲν ἀγαθὸν τί δὲ κακόν, ἵνα μόνα τὰ ἀληθῆ δοξάσωμεν καὶ μόνα τὰ ἀγαθὰ διαπραξώμεθα, καὶ οὐκ ἔστιν ἑτέρας τέχνης μέρος ἢ μόριον, τῆς ἄρα φιλοσοφίας μέρος ἢ μόριον ἡ λογική· καὶ οὐκ ἔστι μόριον (τοῦτο γὰρ δείξομεν)· μέρος ἄρα. μόριον γὰρ οὐκ ἔστιν ἐπειδὴ οὐδὲ τοῦ θεωρητικοῦ μέρος ἐστὶν οὐδὲ τοῦ πρακτικοῦ. τὰ γὰρ μέρη τῷ ὅλῳ καὶ τὴν αὐτὴν ἔχει ὕλην καὶ τὸ αὐτὸ τέλος· νῦν δὲ τοῦ μὲν πρακτικοῦ ὕλη μὲν μόναι αἱ ἀνθρώπιναι ψυχαί, τέλος δὲ ἡ μετριοπάθεια κατὰ Ἀριστοτέλη ἢ ἡ ἀπάθεια κατὰ Πλάτωνα, τοῦ δὲ θεωρητικοῦ ὕλη μὲν τὰ ὄντα πάντα, τέλος δὲ ἡ ἀλήθεια· τῆς δὲ λογικῆς καὶ ἡ ὕλη ἄλλη παρ’ ἄμφω τὰς ὕλας, αἱ γὰρ φωναί, καὶ τὸ τέλος ἄλλο, ἡ γὰρ γένεσις τῆς ἀποδείξεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "135",
+      "text": "ἀλλ’ ἐλλιπῶς, ὦ Στωϊκοί, ὁ κανὼν ἔχει καὶ τὸ ζητούμενον παρελείψατε, τὸ ὄργανον· καὶ εἰ ἀκούσομεν αὐτοῦ οὕτως, ἔσται τὸ φλεβοτόμον σῶμα ὂν μέρος ἢ μόριον τῆς ἰατρικῆς. ἔδει γὰρ οὕτως ἔχειν τὸν κανόνα· πᾶν ᾧ κέχρηταί τις τέχνη ἢ ἐπιστήμη, τοῦτο ἐὰν μὴ ᾖ ἑτέρας τέχνης μέρος ἢ μόριον, αὐτῆς τῆς χρωμένης ἢ μέρος ἐστὶν ἢ μόριον ἢ ὄργανον. ὥσπερ οὖν ἡμεῖς ἐδείξαμεν μὴ οὖσαν μόριον λογικὴν φιλοσοφίας, καὶ αὐτοὶ δειξάτωσαν ὅτι οὐδὲ ὄργανον, ἵνα ᾖ μέρος. δεύτερος λόγος Στωϊκός· εἰ ἡ φιλοσοφία τὴν λογικὴν ἀπετέλεσε, μέρος ἡ λογικὴ φιλοσοφίας. ἀλλ’ ἐνδέχεταί τι, ὦ Στωϊκοί, καὶ ὄργανον ἑαυτῷ ἀποτελέσαι· καὶ γὰρ ἡ χαλκευτικὴ καὶ ἄκμονα καὶ ῥαιστῆρα καὶ ἡ τεκτονικὴ πῆχυν καὶ κανόνα· καὶ ὅτι ὡς ὄργανα ταῦτα ποιοῦσι καὶ οὐχ ὡς ἀποτελέσματα δηλοῦσι μὴ ἴσης αὐτὰ σπουδῆς ἀξιοῦσαι τοῖς ἄλλοις δημιουργήμασιν. εἰ δὲ καὶ αἱ ἄλλαι τέχναι τῇ λογικῇ ὡς ὀργάνῳ κέχρηνται τὰ οἰκεῖα δεικνῦσαι ἢ διαιροῦσαι ἢ ὁριζόμεναι, οὐδὲν ἐντεῦθεν· καὶ αἱ τέχναι γὰρ καὶ ἑαυταῖς καὶ ταῖς ἄλλαις ὄργανα τὰ αὐτὰ ποιοῦσιν, ὡς ἡ τεκτονικὴ πῆχυν καὶ κανόνα καὶ ἑαυτῇ καὶ τῇ οἰκοδομικῇ. ὅτι δὲ ὄργανον ἡ λογική, καὶ οἱ Περιπατητικοὶ διχῶς οὕτως ἐπιχειροῦσιν· εἰ μέρος ἡ λογικὴ φιλοσοφίας, ἐπειδὴ κέχρηνται τῇ λογικῇ αἱ ἄλλαι τέχναι ὡς ὀργάνῳ τὰ οἰκεῖα διαιροῦσαι ὁριζόμεναι ἀποδεικνῦσαι ἀναλύουσαι· καὶ οὐ μόνον αἱ 〈λογικαὶ〉 τέχναι, ἀλλὰ καὶ αἱ βάναυσοι (συλλογίζεται γὰρ καὶ ὁ οἰκοδόμος λέγων ‘εἰ μέλλοι ἀσφαλῶς στῆναι ἡ οἰκία, χρὴ θεμελίους καταβαλέσθαι· δεῖ δὲ τὸ πρῶτον, δεῖ ἄρα καὶ τὸ δεύτερον γενέσθαι‘)· ἔσται ἄρα ἡ φιλοσοφία καὶ τῶν βαναύσων τεχνῶν, ὃ μὴ θέμις εἰπεῖν, ἀτιμοτέρα. καθόλου γάρ, ἐὰν ὦσι δύο τέχναι καὶ τῷ ἀποτελέσματι τῆς ἑτέρας ἡ ἑτέρα ὡς ὀργάνῳ χρήσηται, ἀτιμοτέρα μὲν ἡ ποιοῦσα, τιμιωτέρα δὲ ἡ χρωμένη· διὸ τιμιωτέρα ἱππικὴ χαλινοποιϊκῆς, τῷ γὰρ ἀποτελέσματι τῆς χαλινοποιϊκῆς αὕτη ὀργάνῳ κέχρηται. δεύτερος λόγος Περιπατητικός· τὰ μέρη ἀναιρούμενα ἀναιρεῖ τὸ ὅλον, ἡ δὲ λογικὴ οὐ συναναιρεῖ τὴν φιλοσοφίαν· ἦν γὰρ ἀπόδειξις καὶ πρὸ τῆς ἀποδεικτικῆς πραγματείας τοῦ Ἀριστοτέλους· οὐκ ἄρα μέρος ἡ λογικὴ φιλοσοφίας. ταῦτα καὶ ὁ Περίπατος· ἡ δὲ Ἀκαδήμεια ὅτι μὲν ὄργανον διὰ τῶν Περιπατητικῶν λόγων δείκνυσιν, ὅτι δὲ μέρος οὐκέτι διὰ τῶν Στωϊκῶν λόγων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "136",
+      "text": "ψευδεῖς γὰρ ἄμφω ἀπεδείχθησαν· ἀλλὰ διότι μέρος φιλοσοφίας ἡ γνῶσις τῶν ὄντων πάντων καὶ οὐχ ὅλη φιλοσοφία, λείπει γὰρ καὶ τὸ εὖ ζῆν. καὶ γὰρ μέρος ἅμα καὶ ὄργανον τὴν λογικὴν φιλοσοφίας ὁ Πλάτων ἀποφαίνεται, ἐν μὲν τῷ Φαίδρῳ καὶ Φαίδωνι μέρος, λέγων τὴν διαλεκτικὴν θριγκὸν τῶν ὄντων πάντων, ἐν δὲ τῷ Παρμενίδῃ ὄργανον, λέγων ‘γύμνασαι σαυτὸν διὰ τῆς καλουμένης παρὰ τοῖς πολλοῖς ἀδολεσχίας ἕως ἔτι νέος εἶ· εἰ δὲ μή, διαφεύξεταί σε τὸ ἀληθέσ‘. τὴν γὰρ ἐν κανόσι λογικὴν ‘γυμνασίαν‘ καὶ ‘ἀδολεσχίαν‘ ἐκάλεσεν· ‘γυμνασίαν‘ μὲν ὡς προευτρεπίζουσαν ἡμᾶς εἰς τὰ πράγματα, ‘ἀδολεσχίαν‘ δὲ ὡς ἀποστᾶσαν τῶν πραγμάτων. καὶ πῶς, ὦ Πλάτων, δύναται τὸ αὐτὸ τοῦ αὐτοῦ καὶ μέρος εἶναι καὶ ὄργανον; εἰ γὰρ καὶ ἡ χεὶρ καὶ μέρος καὶ ὄργανον, ἀλλ’ οὐ τοῦ αὐτοῦ· τοῦ μὲν γὰρ ζῴου μέρος, δόσεως δὲ καὶ λήψεως ὄργανον. καὶ ὁ ξέστης εἰ καὶ τοῦ αὐτοῦ ὑγροῦ καὶ μέρος καὶ ὄργανον, ἀλλ’ οὐχ ὁ αὐτός· μέρος μὲν γὰρ ὁ κατὰ τὸ μετρηθὲν ὑγρόν, ὄργανον δὲ ὁ κατὰ τὸ μετρητικὸν ἀγγεῖον. ἢ καὶ νῦν φαίη ἂν ὁ Πλάτων· ἀλλ’ ἡ μὲν λογικὴ μέρος, ἡ γὰρ ἐν πράγμασιν, οἷον ‘ἡ ψυχὴ αὐτοκίνητος, τὸ αὐτοκίνητον ἀεικίνητον, ἡ ψυχὴ ἄρα ἀεικίνητοσ‘, ἡ δὲ ἐν κανόσιν ὄργανον, οἷον ὅτι ἐκ δύο καθόλου καταφατικῶν καθόλου καταφατικὸν συνάγεται ἐν αʹ σχήματι. καὶ τὴν μὲν ἐν πράγμασιν ἔστιν εὑρεῖν παρά τε Ἀριστοτέλει καὶ πολλοῖς ἄλλοις, τὴν δὲ ἐν κανόσι παρὰ μόνῳ Ἀριστοτέλει· μόνος γὰρ οὗτος ἀνθρώπων οὐκ ἐνάρκησε συλήσας τὰς μεθόδους ἀπὸ τῶν πραγμάτων καὶ τέχνην συστησάμενος λογικήν, ὡς καὶ Πλάτωνα πρὸς αὐτὸν εἰπεῖν ὡς ‘τεχνύδριον ἡμῶν τὴν φιλοσοφίαν ἐποίησασ‘. οἱ δὲ πρὶν ἄνθρωποι οὐκ ἠγνόουν τί ἐστιν ἀπόδειξις οὐδὲ παρελογίζοντο ἑαυτοὺς ἐν ταῖς ἀποδείξεσιν· αἱ γὰρ μεγάλαι φύσεις ὑπὲρ κανόνας ἐνεργοῦσαι αὐταὶ κανόνες γίνονται τοῖς μεταγενεστέροις. οὐ γὰρ ἐδεήθη, φησὶν ὁ Θεμίστιος. Πλάτων ἀποδεικνὺς τῆς συλλογιστικῆς Ἀριστοτέλους, ἵνα μὴ παρίδῃ τὰ ἴδια τῶν σχημάτων, ἀλλ’ Ἀριστοτέλης τῶν Πλάτωνος διαλόγων, ἵνα ἐξ αὐτῶν ἀθροίσῃ τὰ ἴδια τῶν σχημάτων. οὕτως οὐχ Ὅμηρος τοῦ Περὶ ποιητικῆς Ἀριστοτέλους, οὐ Δημοσθένης τῆς Ῥητορικῆς τέχνης Ἑρμογένους, τοὐναντίον δὲ Ἀριστοτέλης Ὁμήρου ἐν τῷ Περὶ ποιητικῆς καὶ Ἑρμογένης Δημοσθένους ἐν τῇ Ῥητορικῇ τέχνῃ. καὶ ποῦ ὁ Ἀριστοτέλης τὴν λογικὴν ὄργανον εἶπεν φιλοσοφίας; ἢ ἐν τοῖς Τόποις, φήσομεν, ὅπου διαιρεῖ τὰ προβλήματα 〈εἰς τὰ〉 πρὸς αἵρεσιν καὶ φυγὴν καὶ εἰς τὰ πρὸς ἀλήθειαν καὶ ψεῦδος καὶ εἰς τὰ συνεργὰ τούτοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "137",
+      "text": "δύναται δὲ καὶ ὁ Πλάτων καὶ ὅτε λέγει θριγκὸν τὴν διαλεκτικὴν τῶν ὄντων πάντων ὄργανον λέγειν τὴν λογικὴν φιλοσοφίας· καὶ γὰρ οἱ κανόνες ἔξω ὄντες δίκην θριγκοῦ φρουροῦσι τὰ πράγματα. Ἐπιτομὴ τῆς αʹ πράξεως Τὴν λογικὴν οἱ μὲν Στωϊκοὶ μέρος εἶναι φιλοσοφίας διχῶς πειρῶνται δεικνύναι οὕτως· πᾶν, φασίν, ᾧ κέχρηταί τις τέχνη ἢ ἐπιστήμη, τοῦτο ἐὰν μὴ ᾖ ἑτέρας τέχνης μέρος ἢ μόριον, αὐτῆς τῆς χρωμένης μέρος ἐστὶν ἢ μόριον· οἷον τὸ διαιτητικὸν τῆς ἰατρικῆς μέρος. πρόσκειται δὲ τὸ ‘ἐὰν μὴ ᾖ ἑτέρας τέχνης μέρος ἢ μόριον‘ διὰ τὴν κυβερνητικὴν χρωμένην τῇ ἀστρονομίᾳ· οὐκ ἔστι γὰρ αὐτῆς μέρος ἢ μόριον, ἐπειδὴ τῆς μὲν μαθηματικῆς μέρος ἐστί, τῆς δὲ φιλοσοφίας μόριον. ἐπειδὴ οὖν τῇ λογικῇ κέχρηται ἡ φιλοσοφία καὶ οὐκ ἔστιν ἄλλης μέρος ἢ μόριον, τῆς ἄρα φιλοσοφίας μέρος ἢ μόριόν ἐστιν ἡ λογική· καὶ οὐκ ἔστι μόριον, ἐπειδὴ οὐδὲ τοῦ θεωρητικοῦ οὐδὲ τοῦ πρακτικοῦ μέρος ἐστίν, οὔτε γὰρ τὴν αὐτὴν τούτοις ἔχει ὕλην οὔτε τὸ αὐτὸ τέλος ἡ λογική. μέρος ἄρα φιλοσοφίας. ἀλλ’ ὅσον ἐπὶ τῷ κανόνι τῶν Στωϊκῶν ἔσται τὸ φλεβοτόμον σῶμα ὂν μέρος ἢ μόριον τῆς ἰατρικῆς· καὶ ἐλλιπῶς ἔχει ὁ κανών. ἔδει γὰρ οὕτως ἔχειν· πᾶν ᾧ κέχρηταί τις τέχνη ἢ ἐπιστήμη, τοῦτο ἐὰν μὴ ᾖ ἑτέρας τέχνης μέρος ἢ μόριον, αὐτῆς τῆς χρωμένης ἢ μέρος ἢ μόριον ἢ ὄργανόν ἐστιν. ὥσπερ οὖν ἐδείχθη ἡ λογικὴ μὴ οὖσα μόριον φιλοσοφίας, δειξάτωσαν ὅτι οὐδὲ 〈〉 ὄργανον, ἵνα ᾖ μέρος. δεύτερος λόγος Στωϊκός· εἰ ἡ φιλοσοφία τὴν λογικὴν ἀπετέλεσε, μέρος ἡ λογικὴ φιλοσοφίας. ἀλλ’ ἐνδέχεταί τι ἑαυτῷ ὄργανον ἀποτελέσαι· καὶ γὰρ ἡ χαλκευτικὴ καὶ ἄκμονα καὶ ῥαιστῆρα καὶ ἡ τεκτονικὴ πῆχυν καὶ κανόνα. καὶ εἰ χρῶνται τῇ λογικῇ καὶ αἱ ἄλλαι τέχναι, οὐκ ἄτοπον· καὶ ἑαυταῖς γὰρ καὶ ταῖς ἄλλαις αἱ τέχναι ὄργανα κατασκευάζουσιν. οἱ δὲ Περιπατητικοὶ τὴν λογικὴν φιλοσοφίας ὄργανον καὶ αὐτοὶ διχῶς οὕτω δεικνύουσιν· εἰ μέρος ἡ λογικὴ φιλοσοφίας, ἐπειδὴ κέχρηνται τῇ λογικῇ αἱ ἄλλαι τέχναι ὡς ὀργάνῳ, καὶ αἱ βάναυσοι, ἔσται ἡ φιλοσοφία καὶ τῶν βαναύσων ἀτιμοτέρα. καθόλου γάρ, ἐὰν ὦσι δύο τέχναι καὶ τῷ ἀποτελέσματι τῆς ἑτέρας ἡ ἑτέρα ὡς ὀργάνῳ κέχρηται, ἀτιμοτέρα μὲν ἡ ποιοῦσα, τιμιωτέρα δὲ ἡ χρωμένη· διὸ τιμιωτέρα ἱππικὴ χαλινοποιϊκῆς, τῷ γὰρ ἀποτελέσματι τῆς χαλινοποιϊκῆς αὕτη ὀργάνῳ κέχρηται. δεύτερος λόγος Περιπατητικός· τὰ μέρη ἀναιρούμενα ἀναιρεῖ τὸ ὅλον, ἡ δὲ λογικὴ οὐ συναναιρεῖ τὴν φιλοσοφίαν· ἦν γὰρ ἀπόδειξις καὶ πρὸ τῆς ἀποδεικτικῆς πραγματείας τοῦ Ἀριστοτέλους· οὐκ ἄρα μέρος ἡ λογικὴ φιλοσοφίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "138",
+      "text": "ὁ δὲ Πλάτων μέρος ἅμα καὶ ὄργανον φησὶ τὴν λογικὴν φιλοσοφίας· ἐν μὲν τῷ Φαίδρῳ καὶ Φαίδωνι μέρος, ἐν δὲ τῷ Παρμενίδῃ ὄργανον· καὶ μέρος μὲν τὴν ἐν πράγμασι διαλεκτικήν, ὄργανον δὲ τὴν ἐν κανόσι. καὶ τὴν μὲν ἐν πράγμασι διαλεκτικήν ἐστιν εὑρεῖν παρά τε Ἀριστοτέλει καὶ ἄλλοις πολλοῖς, τὴν δὲ ἐν κανόσι παρ’ Ἀριστοτέλει μόνῳ καὶ τοῖς μετ’ αὐτόν· μόνος γὰρ οὗτος τὰς μεθόδους τῶν πραγμάτων ἀποσυλήσας τέχνην συνεστήσατο λογικήν. οἱ δὲ πρώην οὐκ ἠγνόουν τὰς μεθόδους τῶν ἀποδείξεων, ἀλλ’ ἐπιστημονικῶς καὶ ὑπὲρ κανόνας ποιούμενοι τὰς ἀποδείξεις κανόνες ἐγένοντο τοῖς μεταγενεστέροις, ἐξ ὧν τὰς μεθόδους εἰληφότες τὴν λογικὴν συνεστήσαντο. ὄργανον δέ φησι τῆς φιλοσοφίας ὁ Ἀριστοτέλης τὴν λογικὴν ἐν τῇ Τοπικῇ αὐτοῦ πραγματείᾳ. Πρᾶξις βʹ Ὁ σκοπὸς τῶν Προτέρων ἀναλυτικῶν περὶ συλλογισμοῦ. ἔδει γὰρ μετὰ τὰ μέρη πάντα τοῦ συλλογισμοῦ (τὰ προσεχέστατα, τὰς προτάσεις· τὰ πόρρω, ὄνομα καὶ ῥῆμα· τὰ πορρωτάτω, τὰς ἁπλᾶς φωνάς) καὶ περὶ τοῦ ὅλου συλλογισμοῦ πραγματεύσασθαι. καὶ πῶς ὁ Ἀριστοτέλης περὶ ἀποδείξεως ἔφη εἶναι τὸν σκοπόν; ἢ περὶ ἀποδείξεως ἔφη τὸν σκοπὸν ἐπειδὴ καὶ τὸν συλλογισμὸν διὰ τὴν ἀπόδειξιν διδασκόμεθα, ὡς εἴ τις καὶ τῆς δρυοτομικῆς τέλος λέγοι τὴν ναυπηγίαν καὶ τῆς φλεβοτομίας τὴν ὑγείαν, ὑπερβὰς τὴν κένωσιν τοῦ λυποῦντος χυμοῦ. ἢ ἐράσμιον ἐκ θυρῶν ποιῶν τὸ βιβλίον τὸ χρήσιμον αὐτοῦ σκοπὸν αὐτοῦ ἀπεφήνατο. ἢ ὡς Ἀναλυτικῶν σκοπὸς ἡ ἀπόδειξις, ὡς δὲ Προτέρων ἀναλυτικῶν ὁ συλλογισμός· ἐν δὲ τῷ πέρατι τῶν τεσσάρων Ἀναλυτικῶν τὸν ὡς προτέρων καὶ ὑστέρων σκοπὸν λέγει συμπεραινόμενος οὕτως· ‘περὶ μὲν οὖν συλλογισμοῦ καὶ ἀποδείξεως τί τε ἑκάτερόν ἐστι καὶ πῶς γίνεται φανερόν ἐστιν, ἅμα δὲ καὶ περὶ ἐπιστήμης ἀποδεικτικῆς· ταὐτὸν γάρ ἐστιν‘. ἐπεὶ ὅτι νῦν τὸν σκοπὸν περὶ συλλογισμοῦ βούλεται, δηλοῖ μὴ προλαμβάνων τί ἐστιν ἀπόδειξις καὶ τίς ἡ ἄμεσος πρότασις, ἀλλὰ τί συλλογισμὸς καὶ τίνες αἱ διαφοραὶ αὐτοῦ, τὸ τέλειον καὶ ἀτελές· τίς ἡ πρότασις· τίνες αἱ διαφοραὶ τῶν προτάσεων ἐξ ὧν πᾶς συλλογισμός· τίνες οἱ ὅροι ἐξ ὧν πᾶς συλλογισμὸς καὶ εἰς οὓς πᾶς ἀναλύεται. περὶ συλλογισμοῦ δὲ ὁ σκοπὸς οὐ κατηγορικοῦ μόνον, ἀλλὰ παντός· ἐφαρμόζει γὰρ ὁ ὅρος τοῦ συλλογισμοῦ ὁ ἀποδεδομένος ὑπ’ αὐτοῦ καὶ τῷ ὑποθετικῷ, καὶ ἐπ’ ὀλίγον καὶ περὶ ὑποθετικῶν συλλογισμῶν διαλέγεται, ὡς καὶ ἐν τῷ Περὶ ἑρμηνείας πλεονάσας ταῖς κατηγορικαῖς προτάσεσιν ἐπ’ ὀλίγον καὶ περὶ τῶν ὑποθετικῶν διείλεκται, τὸ γὰρ ἀληθεύειν καὶ ψεύδεσθαι κοινὸν ἑκατέρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "139",
+      "text": "πενταχῶς δὲ λεγομένου τοῦ συλλογισμοῦ· ἢ γὰρ πάντη ἀληθεῖς εἰσὶν αἱ προτάσεις, καὶ γίνεται ὁ ἀποδεικτικός· ἢ πάντη ψευδεῖς καὶ μυθώδεις, καὶ γίνεται ὁ ποιητικός· ἢ πῆ μὲν ἀληθεῖς πῆ δὲ ψευδεῖς, καὶ τοῦτο τριχῶς· ἢ γὰρ μᾶλλον ἀληθεῖς, καὶ γίνεται ὁ διαλεκτικὸς καὶ ἔνδοξος· ἢ μᾶλλον ψευδεῖς, καὶ γίνεται ὁ σοφιστικός· ἢ ἐξ ἴσου ἀληθεῖς καὶ ψευδεῖς, καὶ γίνεται ὁ ῥητορικός, ὁ διὰ τοῦτο μόνος στασιαζόμενος ἐν τοῖς συλλογισμοῖς καὶ ἀσύστατος ἐπὰν μὴ στασιάζηται· συνῆψεν ὁ Ἀριστοτέλης τῷ γένει μόνον τὸ τιμιώτατον τῶν εἰδῶν καὶ μίαν πραγματείαν περὶ ἀμφοτέρων ἔγραψε τὴν Ἀναλυτικήν. τινὲς δὲ τρία μόνα φασὶν εἴδη τοῦ συλλογισμοῦ, ἀποδεικτικὸν διαλεκτικὸν σοφιστικόν, συνωθοῦντες τὸν μὲν ῥητορικὸν τῷ διαλεκτικῷ, τὸν δὲ ποιητικὸν τῷ σοφιστικῷ. καὶ ὅτι τρία μόνον, οὕτως δείκνυται. πέντε εἰσὶ τὰ γινώσκοντα ἐν ἡμῖν, νοῦς διάνοια δόξα φαντασία αἴσθησις· ἡ γὰρ γνῶσις ἢ μερικοῦ ἢ καθόλου· καὶ εἰ μερικοῦ, ἢ ἐκτὸς κειμένου, καὶ γίνεται αἴσθησις, ἢ ἐντός, καὶ γίνεται φαντασία· εἰ δὲ καθόλου, ἢ μετ’ αἰτίας, καὶ γίνεται διάνοια, ἢ ἄνευ αἰτίας· καὶ εἰ τοῦτο, ἢ κρεῖττον ἢ κατ’ αἰτίαν, καὶ γίνεται νοῦς, ἢ χεῖρον ἢ κατ’ αἰτίαν, καὶ γίνεται δόξα. καὶ γινώσκει μὲν τὰ πέντε, συλλογίζεται δὲ μόνη ἡ διάνοια· ταύτης γὰρ μόνης τὸ διανύειν ὁδὸν τὴν ἀπὸ τῶν προτάσεων ἐπὶ τὸ συμπέρασμα, διὸ καὶ μόνη διάνοια λέγεται. καὶ οὔτε τὰ ἄκρα συλλογίζεται, νοῦς καὶ αἴσθησις, ὡς αὐτοπτοῦντα, οὔτε ἡ φαντασία συλλογίζεται· πόθεν γὰρ ἢ πῶς λαβοῦσα, τῆς αἰσθήσεως μὴ συλλογιζομένης; οὔτε μὴν ἡ δόξα συλλογίζεται ὡς μόνα τὰ συμπεράσματα εἰδυῖα καὶ διὰ τοῦτο διανοίας ἀποτελεύτησις λεγομένη. μόνης ἄρα διανοίας ὁ συλλογισμός· ἀλλ’ αὕτη ἢ παρὰ νοῦ τὰς προτάσεις λαμβάνει, ὅτε δεῖται τῶν κοινῶν ἐννοιῶν, καὶ ποιεῖ τὸν ἀποδεικτικόν· ἢ ἀπὸ δόξης, καὶ ποιεῖ τὸν διαλεκτικόν· ἢ ἀπὸ φαντασίας καὶ διὰ τοῦτο καὶ ἀπὸ αἰσθήσεως, καὶ ποιεῖ τὸν σοφιστικόν. Τὸ χρήσιμον. χρήσιμον πρὸς ἀπόδειξιν· ὡς γὰρ ἀδύνατον τοιῶσδε γράφειν τὸν οὐκ εἰδότα γράφειν ὅλως, οὕτω καὶ τοιῶς",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vgs-ab",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια Ἠλίου εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "elias-the-neoplatonist-commentaries-aristotle-vgs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "vgs-ac",
+      "title": {
+        "english": "On Porphyry's Isagoge",
+        "ancient_greek": "Περὶ τῆς Πορφυρίου Εἰσαγωγῆς"
+      },
+      "url_slug": "elias-the-neoplatonist-porphyry-isagoge-vgs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/elias-the-neoplatonist/porphyry-isagoge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/porphyry-isagoge.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jow-aa",
+      "title": {
+        "english": "Fragment of a Letter to Cleareta",
+        "ancient_greek": "Ἀπόσπασμα ἐπιστολῆς πρὸς Κλεαρέταν"
+      },
+      "url_slug": "melissa-the-pythagorean-letter-cleareta-jow-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melissa-the-pythagorean/letter-cleareta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.json"
+      }
+    },
+    {
+      "eul_wid": "uxc-ad",
+      "title": {
+        "english": "On Aristotle's Books-the Soul, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-on-soul-commentary-uxc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/on-soul-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/on-soul-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-bn",
+      "title": {
+        "english": "On God",
+        "ancient_greek": "Περὶ Θεοῦ"
+      },
+      "url_slug": "philo-of-alexandria-on-god-lgi-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/on-god",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/on-god.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/on-god.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/on-god.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/on-god.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-bm",
+      "title": {
+        "english": "On Joseph",
+        "ancient_greek": "Περὶ Ἰωσήφ"
+      },
+      "url_slug": "philo-of-alexandria-joseph-lgi-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/joseph",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.json"
+      }
+    },
+    {
+      "eul_wid": "kuu-aa",
+      "title": {
+        "english": "On the Eternity of the Cosmos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "critolaus-of-phaselis-philosopher-eternity-cosmos-kuu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/critolaus-of-phaselis-philosopher/eternity-cosmos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher/eternity-cosmos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher/eternity-cosmos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher/eternity-cosmos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/critolaus-of-phaselis-philosopher/eternity-cosmos.json"
+      }
+    },
+    {
+      "eul_wid": "btk-ab",
+      "title": {
+        "english": "On the Nature of Things",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anaxagoras-of-clazomenae-nature-btk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anaxagoras-of-clazomenae/nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anaxagoras-of-clazomenae/nature.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ad",
+      "title": {
+        "english": "Summary of Stoics Saying More Paradoxical Things Than Poets",
+        "ancient_greek": "Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-stoics-paradoxes-okg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/stoics-paradoxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/stoics-paradoxes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/stoics-paradoxes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/stoics-paradoxes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/stoics-paradoxes.json"
+      }
+    },
+    {
+      "eul_wid": "sno-ag",
+      "title": {
+        "english": "To King Helios, To Salustius",
+        "ancient_greek": "Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστιον"
+      },
+      "url_slug": "julian-the-apostate-helios-salustius-sno-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/helios-salustius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/elias-the-neoplatonist/prior-analytics-commentary",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elias-the-neoplatonist/prior-analytics-commentary.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

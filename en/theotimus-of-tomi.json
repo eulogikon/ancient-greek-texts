@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "sxy",
+  "auth_slug": "theotimus-of-tomi",
+  "name": {
+    "english": "Theotimus of Tomi",
+    "ancient_greek": "Θεότιμος ὁ Τομέως"
+  },
+  "seo_h1": "Theotimus of Tomi on Cyrene and the Hesperides",
+  "seo": {
+    "browser_title": "Theotimus of Tomi Ancient Greek Works on Eulogikon Archive",
+    "meta_title": "Classical Theotimus of Tomi Ancient Greek Historical Works",
+    "meta_description": "Theotimus of Tomi was a late antique historian. His surviving historical work is preserved in fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Theotimus of Tomi was a late antique historian from the city of Tomi on the Black Sea coast. He is known solely from a citation by the 5th-century church historian Socrates Scholasticus, which places his life and work in the late 4th or early 5th century CE.</p>\n<p class=\"research-text\">His only attested work is a lost History of the Goths. Socrates records that Theotimus detailed the Goths&#x27; conversion to Christianity during the era of the Arian bishop Ulfilas. No further biographical details survive.</p>\n<p class=\"research-text\">Theotimus is significant as a lost source. His work provided an early Roman provincial perspective on the Goths and was used as an authority by Socrates Scholasticus. His location in Tomi, a city directly affected by Gothic settlements, suggests his history contained valuable local testimony on Gothic-Roman relations and the spread of Arian Christianity.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "sxy-aa",
+      "title": {
+        "english": "On Cyrene and the Hesperides",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theotimus-of-tomi-cyrene-heesperides-sxy-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/theotimus-of-tomi/cyrene-heesperides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi/cyrene-heesperides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi/cyrene-heesperides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi/cyrene-heesperides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theotimus-of-tomi/cyrene-heesperides.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/theotimus-of-tomi",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theotimus-of-tomi.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theotimus-of-tomi.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theotimus-of-tomi.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/theotimus-of-tomi.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

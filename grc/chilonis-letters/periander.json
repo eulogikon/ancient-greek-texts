@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fzu-aa",
+  "eul_aid": "fzu",
+  "author_slug": "chilonis-letters",
+  "work_slug": "periander",
+  "url_slug": "chilonis-letters-periander-fzu-aa",
+  "author": {
+    "english": "Chilonis Letters",
+    "ancient_greek": "Χιλωνίδος Ἐπιστολή"
+  },
+  "title": {
+    "english": "Chilon's Letter to Periander",
+    "ancient_greek": "Ἐπιστολή"
+  },
+  "seo": {
+    "browser_title": "Chilon's Letter to Periander by Chilon on Eulogikon",
+    "meta_title": "Chilon's Letter to Periander by Chilon in Ancient Greek",
+    "meta_description": "A letter of ancient Greek wisdom from Spartan sage Chilon to the tyrant Periander. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "",
+      "english": "Rhetoric",
+      "href": "/domains/rhetoric"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The text known as Chilon&#x27;s Letter to Periander is a short piece of ancient Greek wisdom literature presented as an epistle from the Spartan sage Chilon to Periander, the tyrant of Corinth, both of whom are counted among the legendary Seven Sages. The work is not a genuine historical document but a later pseudonymous composition that employs these authoritative names to lend weight to its moral counsel. It consists of concise, aphoristic passages emphasizing practical wisdom and the virtue of moderation, with the surviving fragment advising a ruler that domestic affairs are perilous enough without seeking external conflicts. Preserved only within later anthologies of philosophical sayings rather than as an independent manuscript, the letter is interpreted by modern scholars as a product of the Hellenistic period or later, created for educational and ethical instruction. It belongs to the genre of gnomological collections, where wise sayings were attributed to famous early thinkers. The work was likely intended for students engaged with traditional Greek ethics and the lore surrounding the Seven Sages.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Χείλων Περιάνδρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ἐπιστέλλεις ἐμὶν ἐκστρατείαν ἐπὶ ἐκδάμως, ὡς αὐτός καὶ ἐξέρποις· ἐγὼν δὲ δοκέω καὶ τὰ οἰκῇα σφαλερὰ ἦμεν ἀνδρὶ μονάρχῳ, καὶ τῆνον τυράννων εὐδαι μονίζω ὅστις καὶ οἴκοι ἐξ αὐτὸς αὑτῶ κατθάνῃ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [],
+  "links": {
+    "html": "https://eulogikon.org/grc/chilonis-letters/periander",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chilonis-letters/periander.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chilonis-letters/periander.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chilonis-letters/periander.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chilonis-letters/periander.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

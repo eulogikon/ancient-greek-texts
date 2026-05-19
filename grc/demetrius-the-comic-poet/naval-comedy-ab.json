@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eds-ab",
+  "eul_aid": "eds",
+  "author_slug": "demetrius-the-comic-poet",
+  "work_slug": "naval-comedy-ab",
+  "url_slug": "demetrius-the-comic-poet-naval-comedy-ab-eds-ab",
+  "author": {
+    "english": "Demetrius the Comic Poet",
+    "ancient_greek": "Δημήτριος ὁ κωμικός"
+  },
+  "title": {
+    "english": "Fragments of a Naval Comedy",
+    "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+  },
+  "seo": {
+    "browser_title": "Fragments of Demetrius the Comic Poet on Eulogikon",
+    "meta_title": "Fragments of Demetrius the Comic Poet in Ancient Greek",
+    "meta_description": "Surviving fragments of the naval comedy by Demetrius the Comic Poet. Ancient Greek comedy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Fragments of a Naval Comedy is a fragmentary Greek comedy attributed to a poet named Demetrius. The work consists of eight passages preserved within Athenaeus of Naucratis&#x27;s <strong>Deipnosophistae</strong>, where they are cited for their descriptions of food, drink, and dining customs. The fragments imply a maritime setting involving sailors or merchants, but the complete plot, characters, and precise identity of the author among several known comic poets named Demetrius remain unclear. The extant fragments, quoted for their antiquarian interest, indicate the comedy&#x27;s themes included maritime life and culture, feasting, drinking, and culinary practices, as well as social interaction and potential satire of nautical characters. The text survives exclusively as quotations in Athenaeus&#x27;s compendium, dating from the late second to early third century CE, and is cataloged in modern editions of comic fragments. While the play&#x27;s direct influence is untraceable, its preservation contributes to understanding the thematic diversity of Greek comedy and serves as a valuable source for studies of ancient social and maritime material culture.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἐκεῖθεν εἰς τὴν Ἰταλίαν ἀνέμῳ νότῳ διεβάλομεν τὸ πέλαγος εἰς Μεσσαπίους, Ἄρτος δ’ ἀναλαβὼν ἐξένισεν ἡμᾶς καλῶς. ξένος γε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χαρίεις ἦν ἐκεῖ μέγας καὶ λαμπρός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Λακεδαιμόνιοί θ’ ἡμῶν τὰ τείχη κατέβαλον, καὶ τὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "τριήρεις ἔλαβον ἐμμήρους, ὅπως μηκέτι θαλαττοκρατοῖντο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "Πελοποννήσιοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Ἢ σῦκον ἢ φάσηλον ἢ τοιοῦτό τι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Σφόδρ’ εὐάλωτόν ἐστιν ἡ πονηρία· εἰς γὰρ τὸ κέρδος μόνον ἀποβλέπους’ ἀεὶ ἀφρόνως ἅπαντα καὶ προπετῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "συμπείθεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eds-aa",
+      "title": {
+        "english": "Fragments of a Naval Comedy",
+        "ancient_greek": "Ἀποσπάσματα Ναυτικῆς Κωμῳδίας"
+      },
+      "url_slug": "demetrius-the-comic-poet-naval-comedy-aa-eds-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-aa.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "eis-ab",
+      "title": {
+        "english": "Comic Fragments on Food and Markets",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Ἀγορᾶς"
+      },
+      "url_slug": "nicophon-the-comic-poet-food-markets-eis-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicophon-the-comic-poet/food-markets",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicophon-the-comic-poet/food-markets.json"
+      }
+    },
+    {
+      "eul_wid": "kpk-ac",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ac-kpk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-aa",
+      "title": {
+        "english": "Excerpts, Anthologies, and Sentences",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-excerpts-anthologies-sentences-kfu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/excerpts-anthologies-sentences.json"
+      }
+    },
+    {
+      "eul_wid": "ino-ab",
+      "title": {
+        "english": "Fragments on Banquets and Vessels",
+        "ancient_greek": "Ἀποσπάσματα περὶ Συμποσίων καὶ Σκευῶν"
+      },
+      "url_slug": "epigenes-of-byzantium-banquets-vessels-ino-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigenes-of-byzantium/banquets-vessels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigenes-of-byzantium/banquets-vessels.json"
+      }
+    },
+    {
+      "eul_wid": "iti-aa",
+      "title": {
+        "english": "Fragments on Cooking",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ὀψοποιίας"
+      },
+      "url_slug": "sotades-of-maroneia-elder-cooking-iti-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-elder/cooking",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-elder/cooking.json"
+      }
+    },
+    {
+      "eul_wid": "jns-ab",
+      "title": {
+        "english": "Fragments on Craft and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Τύχης"
+      },
+      "url_slug": "hipparchus-the-comic-poet-craft-fortune-jns-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/craft-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/craft-fortune.json"
+      }
+    },
+    {
+      "eul_wid": "cks-aa",
+      "title": {
+        "english": "Fragments on Healing",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰάσεως"
+      },
+      "url_slug": "antidotus-the-comic-poet-healing-cks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antidotus-the-comic-poet/healing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antidotus-the-comic-poet/healing.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/demetrius-the-comic-poet/naval-comedy-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-the-comic-poet/naval-comedy-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

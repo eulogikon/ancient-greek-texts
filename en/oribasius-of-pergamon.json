@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "soi",
+  "auth_slug": "oribasius-of-pergamon",
+  "name": {
+    "english": "Oribasius of Pergamon",
+    "ancient_greek": "Ὀρειβάσιος ὁ Περγαμηνός"
+  },
+  "seo_h1": "Oribasius of Pergamon and the Medical Collections",
+  "seo": {
+    "browser_title": "Oribasius of Pergamon on Eulogikon Greek Text Archive",
+    "meta_title": "Oribasius Ancient Greek Medical Works and Treatises",
+    "meta_description": "Oribasius, a 4th century Greek physician and imperial doctor. Six surviving medical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Oribasius was a Greek physician from Pergamon who lived during the 4th and early 5th centuries CE. He studied medicine in Alexandria and became the personal physician and close advisor to the Roman Emperor Julian. Following Julian&#x27;s death, Oribasius was exiled but was later recalled, living a long life that spanned a major transition in the Roman Empire.</p>\n<p class=\"research-text\">He was not primarily an original medical thinker but a prolific compiler. At Emperor Julian&#x27;s request, he undertook a massive project to collect and preserve Greek medical knowledge. His most famous work is the Medical Collections, a vast encyclopedia in 70 books, though only about a third of it survives. He also wrote the Synopsis, a complete nine-book handbook for practical use, and the Euporista, a collection of simple remedies.</p>\n<p class=\"research-text\">Modern scholars regard Oribasius as a figure of crucial historical importance for the transmission of medical knowledge. His systematic compilations, which faithfully followed the teachings of Galen, served as essential reference works for later Byzantine and Arabic physicians. Through these works, he helped safeguard the medical heritage of antiquity, acting as a vital link between the ancient Greco-Roman world and the medicine of the Middle Ages.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "soi-ae",
+      "title": {
+        "english": "Books to Eunapius",
+        "ancient_greek": "Βιβλία πρὸς Εὐνάπιον"
+      },
+      "url_slug": "oribasius-of-pergamon-eunapius-soi-ae",
+      "passages": 1851,
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/eunapius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.json"
+      }
+    },
+    {
+      "eul_wid": "soi-aa",
+      "title": {
+        "english": "Medical Collections, Books 1–16, 24–25, 43–50",
+        "ancient_greek": "Ἰατρικαὶ Συλλογαί"
+      },
+      "url_slug": "oribasius-of-pergamon-medical-collections-aa-soi-aa",
+      "passages": 7405,
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ab",
+      "title": {
+        "english": "Medical Collections, Uncertain Books",
+        "ancient_greek": "Ἰατρικαὶ Συλλογαί"
+      },
+      "url_slug": "oribasius-of-pergamon-medical-collections-ab-soi-ab",
+      "passages": 881,
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ad",
+      "title": {
+        "english": "Selections of Medicines",
+        "ancient_greek": "Ἐπιλογαὶ Φαρμάκων"
+      },
+      "url_slug": "oribasius-of-pergamon-medicinal-selections-soi-ad",
+      "passages": 900,
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medicinal-selections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ac",
+      "title": {
+        "english": "Summary to Eustathius the Son",
+        "ancient_greek": "Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν"
+      },
+      "url_slug": "oribasius-of-pergamon-summary-eustathius-soi-ac",
+      "passages": 2578,
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/summary-eustathius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.json"
+      }
+    },
+    {
+      "eul_wid": "soi-af",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "oribasius-of-pergamon-testimonies-soi-af",
+      "passages": 1,
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/oribasius-of-pergamon",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oribasius-of-pergamon.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oribasius-of-pergamon.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oribasius-of-pergamon.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/oribasius-of-pergamon.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

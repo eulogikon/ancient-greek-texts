@@ -1,0 +1,326 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hoe-aa",
+  "eul_aid": "hoe",
+  "author_slug": "hecataeus-of-abdera",
+  "work_slug": "testimonies",
+  "url_slug": "hecataeus-of-abdera-testimonies-hoe-aa",
+  "author": {
+    "english": "Hecataeus of Abdera",
+    "ancient_greek": "Ἑκαταῖος ὁ Ἀβδηρίτης"
+  },
+  "title": {
+    "english": "Testimonies 1",
+    "ancient_greek": "Μαρτυρίαι Α'"
+  },
+  "seo": {
+    "browser_title": "Testimonies 1 by Hecataeus of Abdera on eulogikon.org",
+    "meta_title": "Testimonies by Hecataeus of Abdera in Ancient Greek",
+    "meta_description": "The Testimonies a lost prose collection by historian Hecataeus of Abdera. This Hellenistic work offers ethnographic Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a lost prose work by the early Hellenistic historian and ethnographer Hecataeus of Abdera, composed in Ionic Greek around the late fourth century BCE. Known only through fragmentary citations in later authors, the work was a collection of ethnographic and historical reports. Its structure, partially preserved in references, suggests an organization into at least one book containing fourteen distinct passages. Hecataeus, who worked in Alexandria under the patronage of Ptolemy I, compiled these accounts during a period of intense Greek scholarly activity focused on systematizing knowledge of the known world. The content of the <strong>Testimonies</strong> is believed to have described the customs, laws, and foundational myths of various peoples, synthesizing observational detail with mythographic tradition for a Greek readership. It functioned as a sourcebook of authoritative reports on foreign cultures, contributing to the Hellenistic genre of comparative ethnography. The work&#x27;s complete scope and content remain uncertain due to its fragmentary preservation, relying entirely on quotations by subsequent historians and geographers like Diodorus Siculus. While Hecataeus&#x27;s more extensive work on Egypt exerted greater influence, the <strong>Testimonies</strong> played a role in shaping the Greek intellectual engagement with and understanding of non-Greek traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3a,264,T 1",
+      "text": "SUID. s. Ἑκαταῖος Ἀβδηρίτης· φιλόσοφος, ὃς ἐπεκλήθη καὶ κριτικὸς γραμματικός, οἷα γραμματικὴν ἔχων παρασκευήν. γέγονε δὲ ἐπὶ τῶν διαδόχων. βιβλία αὐτοῦ ταῦτα· Περὶ τῆς ποιήσεως Ὁμήρου καὶ Ἡσιόδου ** .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 2a",
+      "text": "STRABON 14, 1, 30 p. 644: Τέως .... γέγονε δὲ καὶ συγγραφεὺς Ἑκαταῖος ἐκ τῆς αὐτῆς πόλεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 3a",
+      "text": "DIOG. LAERT. 9, 69: .... διήκουσε τοῦ Πύρρωνος Ἑκαταῖός τ’ ὁ Ἀβδηρίτης καὶ Τίμων ὁ Φλιάσιος .... ἔτι τε Ναυσιφάνης 〈ὁ〉 Τήιος ....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 3b",
+      "text": "CLEM. AL. Strom. 2, 130, 4: ἀλλὰ καὶ οἱ Ἀβδηρῖται τέλος ὑπάρχειν διδάσκουσι, Δημόκριτος μὲν ἐν τῶι Περὶ τέλους (Vorsokr. 68 [55] F 4) τὴν εὐθυμίαν, ἣν καὶ εὐεστὼ προσηγόρευσεν .... Ἑκαταῖος δὲ αὐτάρκειαν· (5) καὶ δὴ Ἀπολλόδωρος ὁ Κυζικηνὸς (74 [61] A 1) τὴν ψυχαγωγίαν, καθάπερ Ναυσιφάνης (75 [62] B 3) τὴν ἀκαταπληξίαν· ταύτην γὰρ ἔφη ὑπὸ Δημοκρίτου ἀθαμβίην λέγεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 4",
+      "text": "DIODOR. 1, 46, 8 (F 25): πολλοὶ τῶν Ἑλλήνων τῶν παραβαλόντων μὲν εἰς τὰς Θήβας ἐπὶ Πτολεμαίου τοῦ Λάγου, συνταξαμένων δὲ τὰς Αἰγυπτιακὰς ἱστορίας, ὧν ἐστι καὶ Ἑκαταῖος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 5",
+      "text": "PLUT. Lyk. 20, 3 (Apophth. Lac. 218 B): Ἀρχιδαμίδας (294 a ) δὲ μεμφομένων τινῶν Ἑκαταῖον τὸν σοφιστήν, ὅτι παραληφθεὶς εἰς τὸ συσσίτιον οὐδὲν ἔλεγεν, «ὁ εἰδώς» ἔφη «λόγον καὶ καιρὸν οἶδεν».",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 6a",
+      "text": "SCHOL. APOLL. RHOD. 2, 675: ἔστι δὲ αὐτῶι (F 10) βιβλία ἐπιγραφόμενα Περὶ Ὑπερβορέων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 6b",
+      "text": "PLIN. NH 6, 55: .... privatim condidit volumen .... Hecataeus de Hyperboreis.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 7a",
+      "text": "JOSEPH. c. Apion. 1, 183: Ἑκαταῖος δὲ ὁ Ἀβδηρίτης, ἀνὴρ φιλόσοφος ἅμα καὶ περὶ τὰς πράξεις ἱκανώτατος, Ἀλεξάνδρωι τῶι βασιλεῖ συνακμάσας καὶ Πτολεμαίωι τῶι Λάγου συγγενόμενος, οὐ παρέργως 〈ἡμῶν ἐμνημόνευσεν〉, ἀλλὰ περὶ αὐτῶν Ἰουδαίων συγγέγραφε βιβλίον, ἐξ οὗ βούλομαι κεφαλαιωδῶς ἐπιδραμεῖν ἔνια τῶν εἰρημένων. (184) καὶ πρῶτον ἐπιδείξω τὸν χρόνον· μνημονεύει γὰρ τῆς Πτολεμαίου περὶ Γάζαν πρὸς Δημήτριον μάχης· αὕτη δὲ γέγονεν ἑνδεκάτωι μὲν ἔτει τῆς Ἀλεξάνδρου τελευτῆς, ἐπὶ δὲ ὀλυμπιάδος ζ καὶ ι καὶ ρ ὡς ἱστορεῖ Κάστωρ (250 F 12) .... (185) .... Ἀλέξανδρον δὲ τεθνάναι πάντες ὁμολογοῦσιν ἐπὶ τῆς ριδ ὀλυμπιάδος. δῆλον οὖν ὅτι καὶ κατ’ ἐκεῖνον καὶ κατὰ Ἀλέξανδρον ἤκμαζεν ἡμῶν τὸ ἔθνος. λέγει τοίνυν ὁ Ἑκαταῖος (F 21) ....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 7b",
+      "text": "——1, 213: ὅτι δὲ οὐκ ἀγνοοῦντες ἔνιοι τῶν συγγραφέων τὸ ἔθνος ἡμῶν, ἀλλ’ ὑπὸ φθόνου τινὸς ἢ δι’ ἄλλας αἰτίας οὐχ ὑγιεῖς τὴν μνήμην παρέλιπον, τεκμήριον οἶμαι παρέξειν· Ἱερώνυμος γάρ, ὁ τὴν περὶ τῶν διαδόχων ἱστορίαν συγγεγραφὼς (154 T 6) κατὰ τὸν αὐτὸν μὲν ἦν Ἑκαταίωι χρόνον, φίλος δ’ ὢν Ἀντιγόνου τοῦ βασιλέως τὴν Συρίαν ἐπετρόπευεν· (214) ἀλλ’ ὅμως Ἑκαταῖος μὲν καὶ βιβλίον ἔγραψεν περὶ ἡμῶν, Ἱερώνυμος δ’ οὐδαμοῦ κατὰ τὴν ἱστορίαν ἐμνημόνευσε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 7c",
+      "text": "ORIGEN. c. Cels. 1, 15: καὶ Ἑκαταίου δὲ τοῦ ἱστορικοῦ φέρεται περὶ Ἰουδαίων βιβλίον, ἐν ὧι προστίθεται μᾶλλόν πως ὡς σοφῶι τῶι ἔθνει ἐπὶ τοσοῦτον, ὡς καὶ Ἑρέννιον Φίλωνα ἐν τῶι περὶ Ἰουδαίων συγγράμματι πρῶτον μὲν ἀμφιβάλλειν εἰ τοῦ ἱστορικοῦ ἐστι τὸ σύγγραμμα, δεύτερον δὲ λέγειν ὅτι εἴπερ ἔστιν αὐτοῦ, εἰκὸς αὐτὸν συνηρπάσθαι ἀπὸ τῆς παρὰ Ἰουδαίοις πιθανότητος καὶ συγκατατεθεῖσθαι αὐτῶν τῶι λόγωι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 8a",
+      "text": "JOSEPH. AJ 1, 158: μνημονεύει δὲ τοῦ πατρὸς ἡμῶν Ἀβράμου Βηρωσσός (III C u. Assyrien), οὐκ ὀνομάζων λέγων δ’ οὕτως .... (159) Ἑκαταῖος δὲ καὶ τοῦ μνησθῆναι πλεῖόν τι πεποίηκε· βιβλίον γὰρ περὶ αὐτοῦ συνταξάμενος κατέλιπε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 8b",
+      "text": "CLEM. AL. Strom. 5, 113, 1: Ἑκαταῖος ὁ τὰς ἱστορίας συνταξάμενος ἐν τῶι κατ’ Ἄβραμον καὶ τοὺς Αἰγυπτίους (F 24).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,264,T 9",
+      "text": "AGATHARCHIDES. (De M. r.) —PHOT. Bibl. 250 p. 454 b 30: τῆς ὅλης οἰκουμένης ἐν τέτταρσι κυκλιζομένης μέρεσιν .... τὰ μὲν πρὸς ἑσπέραν ἐξείργασται Λύκος (III B u. Sicilien) τε καὶ Τίμαιος (III B), τὰ δὲ πρὸς ἀνατολὰς Ἑκαταῖος (1 T 14) τε καὶ Βάσιλις (III u. Indien), τὰ δὲ πρὸς τὰς ἄρκτους Διόφαντος (III C u. Pontos) καὶ Δημήτριος (V), τὰ δὲ πρὸς μεσημβρίαν .... ἡμεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "hoe-ac",
+      "title": {
+        "english": "On Egyptian Philosophy and Religion",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hecataeus-of-abdera-egyptian-philosophy-religion-hoe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/egyptian-philosophy-religion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/egyptian-philosophy-religion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/egyptian-philosophy-religion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/egyptian-philosophy-religion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/egyptian-philosophy-religion.json"
+      }
+    },
+    {
+      "eul_wid": "hoe-ad",
+      "title": {
+        "english": "On the Hyperboreans",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "hecataeus-of-abdera-hyperboreans-hoe-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/hyperboreans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/hyperboreans.json"
+      }
+    },
+    {
+      "eul_wid": "hoe-ab",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "hecataeus-of-abdera-testimonies-2-hoe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies-2.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "mmg-at",
+      "title": {
+        "english": "History of Alexander (Fragment C)",
+        "ancient_greek": "Ἱστορία Ἀλεξάνδρου"
+      },
+      "url_slug": "historical-fragments-anonymous-alexander-at-mmg-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/alexander-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-at.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-at.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-at.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/alexander-at.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aq",
+      "title": {
+        "english": "Libyan",
+        "ancient_greek": "Λιβυκή"
+      },
+      "url_slug": "appian-of-alexandria-libyan-pdc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/libyan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.json"
+      }
+    },
+    {
+      "eul_wid": "kwi-aa",
+      "title": {
+        "english": "Marvels",
+        "ancient_greek": "Θαύματα"
+      },
+      "url_slug": "vatican-paradoxographer-marvels-kwi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/vatican-paradoxographer/marvels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/vatican-paradoxographer/marvels.json"
+      }
+    },
+    {
+      "eul_wid": "mbc-aa",
+      "title": {
+        "english": "Marvels of Waters",
+        "ancient_greek": "Θαύματα περὶ ὑδάτων"
+      },
+      "url_slug": "anonymous-florentine-paradoxographer-marvels-waters-mbc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-florentine-paradoxographer/marvels-waters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer/marvels-waters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer/marvels-waters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer/marvels-waters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-florentine-paradoxographer/marvels-waters.json"
+      }
+    },
+    {
+      "eul_wid": "fmi-aa",
+      "title": {
+        "english": "On the Seven Sages and Pythagoras",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "andron-of-ephesus-seven-sages-pythagoras-fmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-ephesus/seven-sages-pythagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-ephesus/seven-sages-pythagoras.json"
+      }
+    },
+    {
+      "eul_wid": "aim-aa",
+      "title": {
+        "english": "Peloponnesian Histories Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pyrander-the-historian-peloponnesian-histories-aim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pyrander-the-historian/peloponnesian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ao",
+      "title": {
+        "english": "Remains of Uncertain Position",
+        "ancient_greek": "Λείψανα Ἀβέβαιου Θέσεως"
+      },
+      "url_slug": "dio-cassius-of-nicaea-uncertain-remains-rhq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/uncertain-remains",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/uncertain-remains.json"
+      }
+    },
+    {
+      "eul_wid": "lrw-aa",
+      "title": {
+        "english": "Rhodian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "zeno-of-rhodes-historical-fragments-lrw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/zeno-of-rhodes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zeno-of-rhodes/historical-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hecataeus-of-abdera/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-abdera/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lmm-ab",
+  "eul_aid": "lmm",
+  "author_slug": "anonymous-iambic-works",
+  "work_slug": "text",
+  "url_slug": "anonymous-iambic-works-text-lmm-ab",
+  "author": {
+    "english": "Iambic Work Anonymous",
+    "ancient_greek": "Ἰαμβικὰ Ἀδέσποτα"
+  },
+  "title": {
+    "english": "Anonymous Iambics",
+    "ancient_greek": "Ἀνώνυμα Ἰαμβικά"
+  },
+  "seo": {
+    "browser_title": "Anonymous Iambics by Anonymous Author on Eulogikon",
+    "meta_title": "Anonymous Iambics by Anonymous Author in Ancient Greek",
+    "meta_description": "Anonymous Iambics is a collection of Greek iambic poetry preserving classical tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Anonymous Iambics</strong> are a collection of fourteen short passages of Greek iambic poetry, preserved exclusively in the <strong>Anthology</strong> of the 5th-century CE compiler Stobaeus. The work comprises moralizing, gnomic verses offering ethical instruction and practical wisdom on life, character, virtue, and vice. The author is unknown, and the excerpts lack a unifying narrative, being linked primarily by their iambic meter and sententious content. The work survives solely as excerpts quoted by Stobaeus in the third book of his <strong>Anthology</strong>, which is dedicated to ethical topics. There is no independent manuscript tradition; the text is reconstructed entirely from Stobaean manuscripts. These passages are considered fragmentary, likely drawn from a larger, lost body of iambic verse or from separate anonymous sources that were grouped together by the compiler. While their direct literary influence is untraceable, the iambics are significant for their preservation within Stobaeus’s anthology, a major conduit for the transmission of Greek literature. As part of this collection, they contributed to the perpetuation of Greek ethical thought in a popular and accessible poetic form.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book a.1",
+      "text": "ἐπ̣ε̣ὶ̣ γ̣ὰ̣ρ̣ ἔγνων δ̣η̣ί̣[ο]υ̣ς̣ τ̣ρ̣[ομευμένους=], [ἀγανοῖς’ ἔπεσσι] πάντα θάρσυνε̣ν̣ λ̣ε̣ώ,= μένος̣ [(–)⏑–⏒–⏑–] ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book a.2",
+      "text": "πα̣ρδ̣άλ̣εις,= οἳ δ’ ὡς̣ λέοντ[ες· ἀλλὰ νικῶντες μάχηι=][ln_5]πιόντες οἶνον ὡς κακῶν ἀφε̣[ιμένοι=] [εὗδον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book a.3",
+      "text": "φυγόντων] τῶν ἐ̣ν̣οικούντων γενῶν,= [κλισίαισί θ’ ἁβρὸν] εἰς ἕω τ̣εῖναν δέμας.= σκίδν̣[αντο –⏓–⏑] πᾶς Ἴω[ν’ ἰ]δών= τῶν μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book a.4",
+      "text": "φυγ[όντων ⏑⏓]μιου λ[⏒–]. πέρι=[ln_10]εἰς εὐλάβειαν [–⏑–] π[⏒–⏑⏓]ς̣= παθῶν δὲ δ̣ε̣ί̣ν̣[ῶν –⏑–] τ[⏒–⏑⏓=]. τ[ὰ τῆς τ]ύ̣χης γὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book a.5",
+      "text": "πλεῖσ[τ]α̣ σ̣υ̣[⏓–] [–⏓=] [.]ρ̣[–⏑–⏓–⏑]´δ̣ων κατάσκοποι.=",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.1",
+      "text": "[⏒–⏑]α[⏒–⏑–⏒–⏑⏓=] [οὖ]δ̣ας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.2",
+      "text": "πατεῦσ̣α̣ ποσσὶν ἄπ̣λ̣ηκ̣τ̣ος μόθῳ= [⏒–⏑–⏒–⏑–⏒–⏑⏓=] [⏒–⏑–]ση",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.3",
+      "text": "πλεῖσ̣τον ἐνκατέ̣δ̣ρ̣[α]θ̣ε̣ν̣=[ln_5]φυλα̣ [(–)⏑–⏒–⏑–⏒–⏑⏓=] [⏒–⏑–]ες ἐν μόθοισιν ἔσ̣τ̣ενο[ν=] ἀμηχά̣[νοισι –⏑–⏒–⏑⏓=] [⏒–⏑–⏒ συμφορ]αῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.4",
+      "text": "πον[.]ευμένοι.= ἀλλ’ [–]ς̣ αη̣ρε̣ιου̣ [⏑–⏒–⏑⏓=][ln_10][⏒–⏑–⏒–⏑ ἀ]μ̣φαφώμενοι,= ἄλλοι δ̣’ [ἐβο]υ̣λ̣εύσαντο [–⏒–⏑⏓=] [⏒–⏑–⏒–⏑–] κοιμωμένω= μήδ̣[..]λ̣ο[..]ρης [–⏑–⏒–⏑⏓=] [⏒–⏑–⏒–⏑ π]οσσὶν ἡσύχοις=[ln_15]ὕπνος̣ [⏑(–)φ̣ο̣ς̣ τον [(–)⏑–⏒–⏑⏓=] [⏒–⏑–⏒–⏑]ο̣ῦς̣ τεχνάσματος= [⏒–⏑]ι̣στ’ ὄνε̣ι[ρον –⏒–⏑⏓=] [⏒–⏑–⏒ δεμν]ίοισ̣ιν̣ ἐνκλιθείς.=",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[⏒–⏑–⏒–⏑–⏑]ον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παθεῖν [⏒–⏑–⏒–⏑ ἤ]πιοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φρένα [⏒–⏑–⏒–⏑–⏒]α̣ρ̣α̣τος [⏒–⏑–⏒–⏑– σημ]άντορες[ln_5][⏒–⏑–⏒–⏑ αἰχ]μητὴς ἐών [⏒–⏑–⏒–⏑–⏒–]ενος [⏒–⏑–⏒–⏑–⏒–]ς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τελεῖν [⏒–⏑–⏒–⏑–⏒–]ν̣οτε [⏒–⏑–⏒–⏑–⏒]ύξεται[ln_10][⏒–⏑–⏒–⏑–⏒–].τιον [⏒–⏑–⏒–⏑–⏒–]ολε [⏒–⏑–⏒–⏑–⏒–] ἔχειν̣ [⏒–⏑–⏒–⏑–⏒–]σ̣μενος [⏒–⏑–⏒–⏑–]ταλ̣.υ.θη̣[ln_15][⏒–⏑–⏒–⏑–⏒–]ς ἔχων [⏒–⏑–⏒–⏑–⏒–]μεθα ].",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "π̣αντ̣[....]ι̣νες γε....[ φαινο[......]ωνδε ενμ.[ εἰ γὰρ ὠ̣[.........]ο̣ν μ̣[ χωρ.[......]ν̣[ln_5]συνια̣[....] ειτ[ ἐς μ̣ε̣σ̣ο̣ν̣ τ̣α̣[ μήτε τῶν καινῶν μετ[ γῆ̣ φό̣νωι[.......]ενη[[ln_10][..]ι̣λ̣οφ[ ]ι̣λ̣οφ[ ... .... μ[ ]μ[ πασ[ τ̣..[[ln_15]... ..]υτ[... .... μ̣ε̣ρ̣ ...[ln_20]... ... ω̣.ε̣ν̣ημεθ̣[....",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lmm-aa",
+      "title": {
+        "english": "Anonymous Iambic Fragments",
+        "ancient_greek": "Ἀνώνυμα Ἰαμβικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "anonymous-iambic-works-fragments-lmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-iambic-works/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jni-ad",
+      "title": {
+        "english": "Elegies",
+        "ancient_greek": "Ἐλεγείαι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-elegies-jni-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/elegies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.json"
+      }
+    },
+    {
+      "eul_wid": "dfw-aa",
+      "title": {
+        "english": "Fragments on the Galatian War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Γαλατικοῦ Πολέμου"
+      },
+      "url_slug": "elegiac-fragments-anonymous-ii-galatian-war-dfw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/elegiac-fragments-anonymous-ii/galatian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/elegiac-fragments-anonymous-ii/galatian-war.json"
+      }
+    },
+    {
+      "eul_wid": "upu-be",
+      "title": {
+        "english": "Hymn 19 To Pan",
+        "ancient_greek": "Ὕμνος εἰς Πᾶνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-pan-upu-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/pan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.json"
+      }
+    },
+    {
+      "eul_wid": "upu-as",
+      "title": {
+        "english": "Hymn 21 To Apollo",
+        "ancient_greek": "Ὕμνος εἰς Ἀπόλλωνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-apollo-as-upu-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/apollo-as",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/apollo-as.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/apollo-as.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/apollo-as.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/apollo-as.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ba",
+      "title": {
+        "english": "Hymn 30 To Earth",
+        "ancient_greek": "Ὕμνος εἰς Γῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-earth-upu-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/earth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/earth.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ah",
+      "title": {
+        "english": "Prosody Fragments",
+        "ancient_greek": "Ἀποσπάσματα Πρὸς τὴν Προσωδίαν"
+      },
+      "url_slug": "bacchylides-of-ceos-prosody-brw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.json"
+      }
+    },
+    {
+      "eul_wid": "idy-aa",
+      "title": {
+        "english": "Tarpeia Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-comic-poet-tarpeia-fragments-idy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-comic-poet/tarpeia-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet/tarpeia-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet/tarpeia-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet/tarpeia-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-comic-poet/tarpeia-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "agy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "semonides-of-amorgos-testimonies-agy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/semonides-of-amorgos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/anonymous-iambic-works/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-iambic-works/text.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "uim",
+  "auth_slug": "anonymous-commentary-on-aristotle",
+  "name": {
+    "english": "Anonymous Commentary on Aristotle",
+    "ancient_greek": "Ἀνώνυμος ἐν Ἠθικοῖς Νικομαχείοις"
+  },
+  "seo_h1": "Nicomachean Ethics Interpreted by the Anonymous Commentary on Aristotle",
+  "seo": {
+    "browser_title": "Anonymous Commentary on Aristotle Eulogikon Archive",
+    "meta_title": "Anonymous Commentary on Aristotle Ancient Greek Works",
+    "meta_description": "Anonymous commentator on Aristotle from Late Antiquity. Three surviving philosophical treatises. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Aristotelian",
+      "href": "/affiliations/aristotelian"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The author known as the Anonymous Commentary on Aristotle was a philosopher writing sometime between the second and sixth centuries CE, a period known as Late Antiquity. They were part of the long tradition of Aristotelian scholarship, likely working within a philosophical school where teaching and interpreting Aristotle&#x27;s works was a central activity. No biographical details about the individual are known.</p>\n<p class=\"research-text\">Their sole surviving work is an extensive Commentary on Aristotle&#x27;s Nicomachean Ethics, which covers at least Books II through V of Aristotle&#x27;s text. This work is a prime example of the line-by-line explanatory style used to teach philosophy in antiquity. According to modern scholars, its survival makes it a valuable witness to how Aristotle&#x27;s ethical ideas were studied and debated in the classroom for centuries after his death.</p>\n<p class=\"research-text\">The commentary also has textual importance, as it may preserve alternative readings of Aristotle&#x27;s original work. The date of the commentary is uncertain, falling within a broad range when such scholarly activity was common. Its significance lies in helping to fill a gap in our understanding of the Aristotelian tradition between earlier and later, more famous commentators.</p>\n</div>",
+  "affiliation_label": "Aristotelian",
+  "works_count": 3,
+  "works": [
+    {
+      "eul_wid": "uim-ac",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-in-greek-uim-ac",
+      "passages": 233,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/in-greek",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/in-greek.json"
+      }
+    },
+    {
+      "eul_wid": "uim-ab",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Book VII",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἠθικὰ Νικομάχεια Βιβλίον Ζ'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-7-uim-ab",
+      "passages": 54,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-7.json"
+      }
+    },
+    {
+      "eul_wid": "uim-aa",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Books II–V",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια Βιβλία Β'-Ε'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa",
+      "passages": 134,
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "reo",
+      "name": {
+        "english": "Alexander of Aphrodisias",
+        "ancient_greek": "Ἀλέξανδρος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 16,
+      "links": {
+        "html": "https://eulogikon.org/en/alexander-of-aphrodisias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/alexander-of-aphrodisias.json"
+      }
+    },
+    {
+      "eul_aid": "vnq",
+      "name": {
+        "english": "Anonymous Commentary on Aristotle",
+        "ancient_greek": "Ἀνώνυμος εἰς τὰς Κατηγορίας τοῦ Ἀριστοτέλους"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aristotle-commentary-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle-commentary-anonymous.json"
+      }
+    },
+    {
+      "eul_aid": "kdw",
+      "name": {
+        "english": "Apollonius of Aphrodisias",
+        "ancient_greek": "Ἀπολλώνιος ὁ Ἀφροδισιεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-aphrodisias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-aphrodisias.json"
+      }
+    },
+    {
+      "eul_aid": "hgw",
+      "name": {
+        "english": "Aristotle",
+        "ancient_greek": "Ἀριστοτέλης"
+      },
+      "work_count": 56,
+      "links": {
+        "html": "https://eulogikon.org/en/aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristotle.json"
+      }
+    },
+    {
+      "eul_aid": "vls",
+      "name": {
+        "english": "Sophistical Refutations Anonymous",
+        "ancient_greek": "Ἀνώνυμος Ἀριστοτέλους Σοφιστικῶν Ἐλέγχων"
+      },
+      "work_count": 6,
+      "links": {
+        "html": "https://eulogikon.org/en/sophistical-refutations-anonymous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/sophistical-refutations-anonymous.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/anonymous-commentary-on-aristotle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/anonymous-commentary-on-aristotle.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

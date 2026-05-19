@@ -1,0 +1,273 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dji-aa",
+  "eul_aid": "dji",
+  "author_slug": "damastes-of-sigeum",
+  "work_slug": "peoples",
+  "url_slug": "damastes-of-sigeum-peoples-dji-aa",
+  "author": {
+    "english": "Damastes of Sigeum",
+    "ancient_greek": "Δαμάστης ὁ Σιγειεύς"
+  },
+  "title": {
+    "english": "Fragments on Peoples",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἐθνῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments on Peoples by Damastes of Sigeum on Eulogikon",
+    "meta_title": "Fragments on Peoples by Damastes of Sigeum in Greek",
+    "meta_description": "Surviving fragments of lost ethnographic work by Damastes of Sigeum. A 5th century BCE account. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Peoples</strong> is a lost prose work of ethnography and geography by the 5th-century BCE historian Damastes of Sigeum. It survives only in scattered quotations and paraphrases within the writings of later authors, most notably the geographer Strabo. These fragments indicate the work described various nations, their territories, customs, and the distances between places, encompassing a geographical scope that stretched from Greece to the Black Sea, Persia, and India. A contemporary of Herodotus, Damastes wrote during an era of expanding Greek geographical horizons. His work exemplifies the early Ionian tradition of inquiry that combined empirical observation with mythological elements, aiming to catalog and systematize contemporary knowledge of the world for a Greek audience. While later, more critical geographers like Strabo occasionally faulted him for including improbable details, his fragments remain valuable evidence for understanding early Greek conceptions of distant lands and peoples.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-6",
+      "text": "ΠΕΡΙΠΛΟΥΣ. (ΠΕΡΙ ΕΘΝΩΝ.) Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Byz.: Ὑπερβόρεοι ... Δαμάστης δ’ ἐν τῷ Περὶ ἐθνῶν· Ἄνω Σκυθῶν Ἰσσηδόνας οἰκεῖν, τούτων δ’ ἀνωτέρω Ἀριμάσπους, ἄνω δ’ Ἀριμασπῶν τὰ Ῥίπαια ὄρη, ἐξ ὧν τὸν βορέαν πνεῖν, χιόνα δ’ αὐτὰ μήποτε ἐλλείπειν· ὑπὲρ δὲ τὰ ὄρη ταῦτα Ὑπερβορέους καθήκειν εἰς τὴν ἑτέραν θάλασσαν. Strabo XIII, init.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": ", de finibus Troadis: Εὐθὺς ἐπὶ τῶν κατὰ τὴν Προποντίδα τόπων ὁ μὲν Ὅμηρος ἀπὸ τοῦ Αἰσήπου τὴν ἀρχὴν ποιεῖται τῆς Τρωάδος· Εὔδοξος δὲ ἀπὸ Πριάπου καὶ Ἀρτάκης, τοῦ ἐν τῇ Κυζικηνῶν νήσῳ χωρίου ἀνταίροντος τῷ Πριάπῳ, συστέλλων ἐπ’ ἔλαττον τοὺς ὅρους· Δαμάστης δ’ ἔτι μᾶλλον συστέλλει ἀπὸ Παρίου· καὶ γὰρ οὗτος μὲν ἕως Λεκτοῦ προάγει· ἄλλοι δὲ ἄλλως. Strabo XIV, de Cypro: Τί δὲ δεῖ τῶν ποιητῶν θαυμάζειν, καὶ μάλιστα τῶν τοιούτων, οἷς ἡ πᾶσα περὶ τὴν φράσιν ἐστὶ σπουδὴ, τὰ τοῦ Δαμάστου συγκρίνοντας, ὅστις τῆς νήσου τὸ μῆκος ἀπὸ τῶν ἄρκτων πρὸς μεσημβρίαν ἀποδίδωσιν, ἀπὸ Ἱεροκηπίας, ὥς φησιν, εἰς Κλεῖδας; Οὐδὲ ὁ Ἐρατοσθένης εὖ· αἰτιώμενος γὰρ τοῦτον, οὐκ ἀπ’ ἄρκτων φησὶν εἶναι τὴν Ἱεροκηπίαν, ἀλλ’ ἀπὸ νότου· οὐδὲ γὰρ ἀπὸ νότου, ἀλλ’ ἀπὸ δύσεως, εἴπερ ἐν τῇ δυσμικῇ πλευρᾷ κεῖται, ἐν ᾗ καὶ ἡ Πάφος καὶ ὁ Ἀκάμας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Festus Ruf. Avienus Or. marit. 370: Sed ad columnas quidquid interfunditur undae aestuantis, stadia septem vix ait Damastes esse. Caryandaeus Scylax medium fluentem inter columnas adserit tantum patere quantum aestus Bospori est. Valerius Max.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "VIII, 13, 6: Hellanicus vero ait, quosdam ex gente Epiorum, quae pars est Aetoliae, ducenos explere annos; eique subscribit Damastes, hoc amplius affirmans, Lictorium quendam ex his, maximarum virium staturaeque praecipuae, trecentesimum annum cumulasse. Plinius VII, 49.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": ": Hellanicus quosdam in Aetolia Epiorum gentis ducentos ( sc. annos) explere. Cui adstipulatur Damastes ( nonnulli libri Damiades), memorans Pictoreum ex iis praecipuum corpore viribusque, etiam trecentos vixisse. [ΧΡΟΝΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "t7-8",
+      "text": "] Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Camill. c. 19: Thargelion mensis Barbaris infaustus est. Eo mense Persae ad Granicum victi, καὶ Καρχηδόνιοι περὶ Σικελίαν ὑπὸ Τιμολέοντος ἡττῶντο τῇ ἑβδόμῃ φθίνοντος, περὶ ἣν δοκεῖ καὶ τὸ Ἴλιον ἁλῶναι, ὡς Ἔφορος καὶ Καλλισθένης καὶ Δαμάστης καὶ Φύλαρχος ἱστορήκασιν. Dionys.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Hal. A. R. I, c. 72: Ὁ τὰς ἱερείας τὰς ἐν Ἄργει καὶ τὰ καθ’ ἑκάστην πραχθέντα συναγαγὼν Αἰνείαν φησὶν ἐκ Μολοττῶν εἰς Ἰταλίαν ἐλθόντα μετ’ Ὀδυσσέως, οἰκιστὴν γενέσθαι τῆς πόλεως· ὀνομάσαι δ’ αὐτὴν ἀπὸ μιᾶς τῶν Ἰλιάδων Ῥώμης. Ταύτην δὲ λέγει ταῖς ἄλλαις Τρωάσι παρακελευσαμένην, κοινῇ μετ’ αὐτῶν ἐμπρῆσαι τὰ σκάφη, βαρυνομένην τῇ πλάνῃ. Ὁμολογεῖ δ’ αὐτῷ καὶ Δαμάστης ὁ Σιγειεὺς (vlg. Σιγεύς) καὶ ἄλλοι τινές. [ΠΕΡΙ ΕΥΡΗΜΑΤΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t9",
+      "text": "] Plinius H.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "N. VII, 57, de rerum inventoribus: Biremem Damastes Erythraeos fecisse, triremem Thucydides Aminoclem Corinthium. ΠΕΡΙ ΠΟΙΗΤΩΝ ΚΑΙ ΣΟΦΙΣΤΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10a",
+      "text": "Vit. Homer. cod. Matrit.: Ἀναξιμένης καὶ Δαμάστης καὶ Πίνδαρος Χῖον τὸν Ὅμηρον ἀποφαίνονται καὶ Θεόκριτος· ὁ δὲ Δαμάστης καὶ δέκατον αὐτὸν ἀπὸ Μουσαίου φησὶ γεγονέναι. Proclus Vit.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10b",
+      "text": "Hom. in Βιογρ. Westermanni: Ἑλλάνικος καὶ Δαμάστης καὶ Φερεκύδης εἰς Ὀρφέα τὸ γένος παράγουσιν αὐτοῦ. Μαίονα γάρ φασι τὸν Ὁμήρου πατέρα, καὶ Δῖον τὸν Ἡσιόδου γενέσθαι Ἀπελλίδος, τοῦ Μελανωποῦ, τοῦ Ἐπιφραδέος, τοῦ Χαριφήμου, τοῦ Φιλοτερπέος, τοῦ Ἰδμονίδα, τοῦ Εὐκλέους, τοῦ Δωρίωνος, τοῦ Ὀρφέως. Γοργίας δ’ ὁ Λεοντῖνος εἰς Μουσαῖον αὐτὸν ἀνάγει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "lju-aa",
+      "title": {
+        "english": "Fragments on Agathocles' Campaign",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀγαθοκλέους Στρατηγίας"
+      },
+      "url_slug": "duris-of-samos-agathocles-campaign-lju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/duris-of-samos/agathocles-campaign",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/duris-of-samos/agathocles-campaign.json"
+      }
+    },
+    {
+      "eul_wid": "ebu-aa",
+      "title": {
+        "english": "Fragments on Athenian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀθηναίων Ἱστορίας"
+      },
+      "url_slug": "androtion-of-athens-fragments-ebu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/androtion-of-athens/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/androtion-of-athens/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jgk-aa",
+      "title": {
+        "english": "Fragments on the First Punic War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Πρώτου Πολεμικοῦ Πολέμου"
+      },
+      "url_slug": "philinus-of-acragas-first-punic-war-jgk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philinus-of-acragas/first-punic-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philinus-of-acragas/first-punic-war.json"
+      }
+    },
+    {
+      "eul_wid": "kri-aa",
+      "title": {
+        "english": "Histories Concerning Philopator",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-megalopolis-histories-philopator-kri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-megalopolis/histories-philopator",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-megalopolis/histories-philopator.json"
+      }
+    },
+    {
+      "eul_wid": "jlu-aa",
+      "title": {
+        "english": "On Assyrian and Median History",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "abydenus-the-historian-assyrian-median-history-jlu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/abydenus-the-historian/assyrian-median-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian/assyrian-median-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian/assyrian-median-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian/assyrian-median-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/abydenus-the-historian/assyrian-median-history.json"
+      }
+    },
+    {
+      "eul_wid": "bfo-aa",
+      "title": {
+        "english": "On Cretan Bees and Migration",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "antenor-of-athens-bees-migration-bfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antenor-of-athens/bees-migration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antenor-of-athens/bees-migration.json"
+      }
+    },
+    {
+      "eul_wid": "mey-aa",
+      "title": {
+        "english": "On Heraclea",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callistratus-of-heraclea-on-heraclea-mey-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callistratus-of-heraclea/on-heraclea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callistratus-of-heraclea/on-heraclea.json"
+      }
+    },
+    {
+      "eul_wid": "vhw-ac",
+      "title": {
+        "english": "On Omens",
+        "ancient_greek": "Περὶ Οἰωνῶν"
+      },
+      "url_slug": "john-the-lydian-omens-vhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-the-lydian/omens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/damastes-of-sigeum/peoples",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damastes-of-sigeum/peoples.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

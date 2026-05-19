@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "bvi",
+  "auth_slug": "pherecydes-of-athens",
+  "name": {
+    "english": "Pherecydes of Athens",
+    "ancient_greek": "Φερεκύδης ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Pherecydes of Athens on Dionysus and Greek Mythology",
+  "seo": {
+    "browser_title": "Pherecydes of Athens on Eulogikon Greek Archive Collection",
+    "meta_title": "Pherecydes of Athens Ancient Greek Historical Works",
+    "meta_description": "Pherecydes of Athens was a 5th century BCE Attic historian. Fragments of his historical works. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Pherecydes of Athens was an early 5th-century BCE mythographer and genealogist. He is distinguished from the earlier philosopher Pherecydes of Syros. According to the Suda, he was born on Leros but lived in Athens as a citizen and was active during the 79th Olympiad, a contemporary of Hellanicus of Lesbos. He is recognized as one of the earliest writers of Attic prose.</p>\n<p class=\"research-text\">His only known work is the Historiai or Genealogiai, a ten-book prose compilation of myths, heroic genealogies, and local Attic traditions. The work is lost and survives only in fragments quoted by later authors.</p>\n<p class=\"research-text\">Pherecydes is a significant pioneer of Greek historiography and mythography. His systematic genealogical work represents the transition from poetic to prose accounts of the past and was an important source for later writers like Hellanicus and potentially Herodotus. Alongside figures like Acusilaus and Hecataeus, his fragments are crucial for understanding early Athenian mythography and the development of historical writing before Herodotus.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "bvi-aa",
+      "title": {
+        "english": "Fragments on Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διονύσου"
+      },
+      "url_slug": "pherecydes-of-athens-dionysus-bvi-aa",
+      "passages": 196,
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecydes-of-athens/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecydes-of-athens/dionysus.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/pherecydes-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecydes-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecydes-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecydes-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/pherecydes-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

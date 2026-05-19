@@ -1,0 +1,440 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ndy-aq",
+  "eul_aid": "ndy",
+  "author_slug": "dionysius-of-halicarnassus",
+  "work_slug": "chronological-rome",
+  "url_slug": "dionysius-of-halicarnassus-chronological-rome-ndy-aq",
+  "author": {
+    "english": "Dionysius of Halicarnassus",
+    "ancient_greek": "Διονύσιος ὁ Ἁλικαρνασσεύς"
+  },
+  "title": {
+    "english": "Chronological Fragments on Rome",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ῥώμης Χρονολογικά"
+  },
+  "seo": {
+    "browser_title": "Fragments of Dionysius of Halicarnassus on Eulogikon",
+    "meta_title": "Classical Chronological Fragments on Rome in Ancient Greek",
+    "meta_description": "Dionysius of Halicarnassus preserves crucial chronological data for reconstructing the early history of Rome. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Chronological Fragments on Rome</strong> is a collection of eleven excerpts attributed to Dionysius of Halicarnassus. Preserved within the tenth-century Byzantine compendium known as the <strong>Excerpta Constantiniana</strong>, these fragments were systematically extracted from Dionysius’s major historical work, the <strong>Roman Antiquities</strong>, for inclusion in the encyclopedia’s dedicated section <strong>On Chronology</strong>. The fragments survive primarily through the manuscript <strong>Codex Vaticanus Graecus 73</strong>. They do not constitute an independent treatise but represent a thematic selection, repurposed by Byzantine editors to provide a concise chronological framework drawn from the larger narrative.</p>\n<p class=\"research-text\">The content of the fragments focuses on synchronizing early Roman history with established Greek timelines. They present calculated dates for key events, such as the foundation of Rome, aligning it with specific Spartan kings or the first Olympiad. The excerpts also provide a chronological structure for the regal period and the early Republic. This effort to establish precise temporal correspondences served Dionysius’s broader historiographical aim of demonstrating the profound antiquity of Roman civilization and, crucially, its fundamental Greek origins. By arguing that Rome was founded by Greek colonists, Dionysius sought to reconcile the Greek intellectual world to Roman political dominance.</p>\n<p class=\"research-text\">The significance of these fragments lies in their transmission of Dionysius’s influential chronological arguments. While their direct impact is mediated through the <strong>Excerpta Constantiniana</strong>, the historical methodology and dating systems they reflect were central to Dionysius’s original project. His work in establishing a synchronized Greco-Roman chronology informed later historians, including Plutarch and Eusebius, and played a key role in the cultural discourse that framed Rome not as a foreign power but as an inheritor and perpetuator of Greek heritage.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2b,251,F 1",
+      "text": "CLEM. AL. Strom. I 102, 1: παλαίτατα δὲ τῶν Ἑλληνικῶν τὰ Ἀργολικά, τὰ ἀπὸ Ἰνάχου λέγω, ὡς Διονύσιος ὁ Ἁλικαρνασσεὺς ἐν τοῖς Χρόνοις διδάσκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 2",
+      "text": "DION. HAL. AR I 74: τὸν δὲ τελευταῖον γενόμενον τῆς Ῥώμης οἰκισμὸν ... Τίμαιος μὲν (III) .... οὐκ οἶδ’ ὅτωι κανόνι χρησάμενος ἅμα Καρχηδόνι κτιζομένηι γενέσθαι φησὶν ὀγδόωι καὶ τριακοστῶι πρότερον ἔτει τῆς πρώτης ὀλυμπιάδος. Λεύκιος δὲ Κίγκιος (F 4 Pet) ... περὶ τὸ τέταρτον ἔτος τῆς δωδεκάτης ὀλυμπιάδος, Κόιντος δὲ Φάβιος (F 6 Pet) κατὰ τὸ πρῶτον ἔτος τῆς ὀγδόης ὀλυμπιάδος. (2) Κάτων δὲ Πόρκιος (F 17 Pet) Ἑλληνικὸν μὲν οὐχ ὁρίζει χρόνον, ἐπιμελὴς δὲ γενόμενος, εἰ καί τις ἄλλος, περὶ τὴν συναγωγὴν τῆς ἀρχαιολογουμένης ἱστορίας ἔτεσιν ἀποφαίνει δυσὶ καὶ τριάκοντα καὶ τετρακοσίοις ὑστεροῦσαν τῶν Ἰλιακῶν. ὁ δὲ χρόνος οὗτος ἀναμετρηθεὶς ταῖς Ἐρατοσθένους Χρονογραφίαις (241 F 1 b) κατὰ τὸ πρῶτον ἔτος πίπτει τῆς ἑβδόμης ὀλυμπιάδος. ὅτι δέ εἰσιν οἱ κανόνες ὑγιεῖ ς , οἷς Ἐρατοσθένης κέχρητα ι , καὶ πῶς ἄν τις ἀπευθύνοι τοὺς Ῥωμαίων χρόνους πρὸς τοὺς Ἑλληνικού ς , ἐν ἑτέρωι δεδήλωταί μοι λόγω ι . (3) οὐ γὰρ ἠξίουν ὡς Πολύβιος ὁ Μεγαλοπολίτης (VI 11 a 2) τοσοῦτο μόνον εἰπεῖν, ὅτι κατὰ τὸ δεύτερον ἔτος τῆς ἑβδόμης ὀλυμπιάδος τὴν Ῥώμην ἐκτίσθαι πείθομαι, οὐδ’ ἐπὶ τοῦ παρὰ τοῖς ἀρχιερεῦσι κειμένου πίνακος ἑνὸς καὶ μόνου τὴν πίστιν ἀβασάνιστον ἀπολιπεῖν, ἀλλὰ τοὺς ἐπιλογισμούς, οἷς αὐτὸς προσεθέμην, εἰς μέσον ὑπευθύνους τοῖς βουληθεῖσιν ἐσομένους ἐξενεγκεῖν. (4) ἡ μὲν οὖν ἀκρίβεια ἐν ἐκείνωι δηλοῦται τῶι λόγω ι , λεχθήσεται δὲ καὶ διὰ τῆσδε τῆς πραγματείας αὐτὰ τὰ ἀναγκαιότατ α . ἔχει δὲ οὕτως· ἡ Κελτῶν ἔφοδος, καθ’ ἣν ἡ Ῥωμαίων πόλις ἑάλω, συμφωνεῖται σχεδὸν ὑπὸ πάντων ἄρχοντος Ἀθήνησι Πυργίωνος γενέσθαι κατὰ τὸ πρῶτον ἔτος τῆς ὀγδόης καὶ ἐνενηκοστῆς ὀλυμπιάδος. ὁ δὲ πρὸ τῆς καταλήψεως χρόνος ἀναγόμενος εἰς Λεύκιον Ἰούνιον Βροῦτον καὶ Λεύκιον Ταρκύνιον Κολλατῖνον τοὺς πρώτους ὑπατεύσαντας ἐν Ῥώμηι μετὰ τὴν κατάλυσιν τῶν βασιλέων ἔτη περιείληφεν εἴκοσι πρὸς τοῖς ἑκατόν. (5) δηλοῦται δὲ ἐξ ἄλλων τε πολλῶν καὶ τῶν καλουμένων τιμητικῶν ὑπομνημάτων, ἃ διαδέχεται παῖς παρὰ πατρὸς καὶ περὶ πολλοῦ ποιεῖται τοῖς μεθ’ ἑαυτὸν ἐσομένοις ὥσπερ ἱερὰ πατρῶια παραδιδόναι· πολλοὶ δ’ εἰσὶν ἀπὸ τῶν τιμητικῶν οἴκων ἄνδρες ἐπιφανεῖς οἱ διαφυλάττοντες αὐτά. ἐν οἷς εὑρίσκω δευτέρωι πρότερον ἔτει τῆς ἁλώσεως τίμησιν [ὑπὸ] τοῦ Ῥωμαίων δήμου γενομένην, ἧι παραγέγραπται καθάπερ καὶ ταῖς ἄλλαις χρόνος οὗτος· ὑπατεύοντος Λευκίου Οὐαλερίου Ποτίτου καὶ Τίτου Μαλλίου Καπιτωλίνου μετὰ τὴν ἐκβολὴν τῶν βασιλέων ἑνὸς δέοντι εἰκοστῶι καὶ ἑκατοστῶι ἔτει. (6) ὥστε τὴν Κελτικὴν ἔφοδον, ἣν τῶι δευτέρωι μετὰ τὴν τίμησιν ἔτει γενομένην εὑρίσκομεν ἐκπεπληρωμένων τῶν εἴκοσι καὶ ἑκατὸν ἐτῶν γενέσθαι. εἰ δὲ τοῦτο τὸ διάστημα τοῦ χρόνου τριάκοντα ὀλυμπιάδων εὑρίσκεται γενόμενον, ἀνάγκη τοὺς πρώτους ἀποδειχθέντας ὑπάτους ὁμολογεῖν ἄρχοντος Ἀθήνησιν Ἰσαγόρου παρειληφέναι τὴν ἀρχὴν κατὰ τὸ πρῶτον ἔτος τῆς ὀγδόης καὶ ἑξηκοστῆς ὀλυμπιάδος. (75) καὶ μὴν ἀπό γε τῆς ἐκβολῆς τῶν βασιλέων ἐπὶ τὸν πρῶτον ἄρξαντα τῆς πόλεως Ῥωμύλον ἀναβιβασθεὶς ὁ χρόνος ἔτη τέτταρα πρὸς 〈τοῖσ〉 τετταράκοντα καὶ διακοσίοις ἀποτελεῖ· γνωρίζεται δὲ τοῦτο ταῖς διαδοχαῖς τῶν βασιλέων καὶ τοῖς ἔτεσιν, οἷς ἕκαστοι κατέσχον τὴν ἀρχήν. Ῥωμύλος μὲν γὰρ ὁ κτίσας τὴν πόλιν ἑπτὰ καὶ τριάκοντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 2 (50)",
+      "text": "ἔτη λέγεται κατασχεῖν τὴν δυναστείαν· μετὰ δὲ τὸν Ῥωμύλου θάνατον ἀβασίλευτος ἡ πόλις γενέσθαι χρόνον ἐνιαύσιον. (2) ἔπειτα Νόμας Πομπίλιος αἱρεθεὶς ὑπὸ τοῦ δήμου τρία καὶ τετταράκοντα ἔτη βασιλεῦσαι· Τύλλος δὲ Ὀστίλιος μετὰ Νόμαν δύο καὶ τριάκοντα· ὁ δ’ ἐπὶ τούτωι βασιλεύσας Ἄγκος Μάρκιος τέτταρα πρὸς τοῖς εἴκοσι· μετὰ δὲ Μάρκιον Λεύκιος Ταρκύνιος ὁ κληθεὶς Πρίσκος ὀκτὼ καὶ τριάκοντα· τοῦτον δὲ διαδεξάμενος Σερούιος Τύλλιος τετταράκοντα καὶ τέτταρα· ὁ Σερούιον δὲ ἀνελὼν Λεύκιος Ταρκύνιος ὁ τυραννικὸς καὶ διὰ τὴν τοῦ δικαίου ὑπεροψίαν κληθεὶς Σούπερβος ἕως εἰκοστοῦ καὶ πέμπτου προαγαγεῖν τὴν ἀρχήν. (3) τεττάρων δὲ καὶ τετταράκοντα καὶ διακοσίων ἀναπληρουμένων ἐτῶν, ἃ κατέσχον οἱ βασιλεῖς, ὀλυμπιάδων δὲ μιᾶς καὶ ἑξήκοντα πᾶσα ἀνάγκη τὸν πρῶτον ἄρξαντα τῆς πόλεως Ῥωμύλον ἔτει πρώτωι τῆς ἑβδόμης ὀλυμπιάδος παρειληφέναι τὴν βασιλείαν, ἄρχοντος Ἀθήνησι τὴν δεκαετίαν Χάροπος ἔτος πρῶτον· τοῦτο γὰρ ὁ λογισμὸς τῶν ἐτῶν ἀπαιτεῖ. ὅτι δὲ τοσαῦτα ἕκαστος τῶν βασιλέων ἦρξεν ἔτη δ ι ’ ἐκείνου δηλοῦταί μοι τοῦ λόγο υ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 3",
+      "text": "CLEM. AL. STROM. I 131, 7: Ξάνθος δὲ ὁ Λυδὸς (III) περὶ τὴν ὀκτωκαιδεκάτην ὀλυμπιάδα—ὡς δὲ Διονύσιος, περὶ τὴν πεντεκαιδεκάτην—Θάσον ἐκτίσθαι, ὡς εἶναι συμφανὲς τὸν Ἀρχίλοχον μετὰ τὴν εἰκοστὴν ἤδη γνωρίζεσθαι ὀλυμπιάδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 4",
+      "text": "SUID. s. Εὐριπίδης τραγικός· τοῦ προτέρου ἀδελφιδοῦς, ὡς Διονύσιος ἐν τοῖς Χρονικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 5a",
+      "text": "SYNKELL. p. 523, 5 Bonn: οἱ βασιλεῖς Ποντίων † δέκα κατὰ τούτους ἦρξαν τοὺς χρόνους διαρκέσαντες ἔτη † σιη . περὶ ὧν Ἀπολλόδωρος (244 F 82) καὶ Διονύσιος ἱστοροῦσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 5b",
+      "text": "—p. 525, 9: οἱ Βιθυνῶν βασιλεῖς η κατὰ Διονύσιον ἔνθεν ἤρξαντο διαρκέσαντες ἔτη σιγ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 6",
+      "text": "DION. HAL. A R I 63: περὶ δὲ τῶν χρόνων ἐν οἷς ἐκτίσθη τὸ Λαουίνιον ἄλλοι μὲν ἄλλως λέγουσιν· ἐμοὶ μέντοι δοκοῦσιν οἱ δευτέρωι μετὰ τὴν ἔξοδον τὴν ἐκ Τροίας ἔτει φέροντες αὐτὴν εἰκότα μᾶλλον λέγειν. Ἴλιος μὲν γὰρ ἑάλω τελευτῶντος ἤδη τοῦ θέρους, ἑπτακαίδεκα πρότερον ἡμέραις τῆς θερινῆς τροπῆς, ὀγδόηι φθίνοντος μηνὸς Θαργηλιῶνος, ὡς Ἀθηναῖοι τοὺς χρόνους ἄγουσι, περιτταὶ δὲ ἦσαν αἱ τὸν ἐνιαυτὸν ἐκεῖνον ἐκπληροῦσαι μετὰ τὴν τροπὴν εἴκοσιν ἡμέραι. ἐν δὴ ταῖς ἑπτὰ καὶ τριάκοντα ταῖς ἀπὸ τῆς ἁλώσεως διαγενομέναις τά τε περὶ τὴν πόλιν οἴομαι διοικήσασθαι τοὺς Ἀχαιοὺς καὶ τὰς πρεσβείας ἐπιδέξασθαι τὰς παρὰ τῶν ἀφεστηκότων καὶ τὰ ὅρκια ποιήσασθαι πρὸς αὐτούς. (2) τῶι δ’ ἑξῆς ἔτει, πρώτωι δὲ μετὰ τὴν ἅλωσιν ὑπὸ τὴν μετοπωρινὴν ἰσημερίαν ἄραντες οἱ Τρῶες ἐκ τῆς γῆς περαιοῦνται τὸν Ἑλλήσποντον καὶ καταχθέντες εἰς τὴν Θράικην αὐτοῦ διατρίβουσι τὴν χειμερινὴν ὥραν .... ἐκ δὲ τῆς Θράικης ἀναστάντες ἔαρος ἀρχομένου τελοῦσι τὸν μεταξὺ πλοῦν ἄχρι Σικελίας. ἐκεῖ δὲ ὁρμισαμένοις αὐτοῖς τὸ ἔτος τοῦτο τελευτᾶι, καὶ διατρίβουσι τὸν δεύτερον χειμῶνα τὰς πόλεις συνοικίζοντες τοῖς Ἐλύμοις ἐν Σικελίαι. (3) πλοίμων δὲ γενομένων ἄραντες ἀπὸ τῆς νήσου περῶσι τὸ Τυρρηνικὸν πέλαγος καὶ τελευτῶντες εἰς Λωρεντὸν ἀφικνοῦνται τὸν Ἀβοριγίνων αἰγιαλὸν μεσούσης θερείας. λαβόντες δὲ τὸ χωρίον οἰκίζουσιν ἐν αὐτῶι Λαουίνιον, τὸν δεύτερον ἀπὸ τῆς ἁλώσεως ἐκπληρώσαντες ἐνιαυτόν. καὶ περὶ μὲν τούτων ὡς ἔχω δόξης δεδήλωταί μοι. (64) Αἰνείας ... τῶι μὲν ἑξῆς ἐνιαυτῶι, τρίτωι δὲ ἀπὸ τῆς ἐξόδου, Τρώων ἐβασίλευσε μόνων· τῶι δὲ τετάρτωι τελευτήσαντος Λατίνου καὶ τὴν ἐκείνου βασιλείαν παραλαμβάνει ..... (3) τρία δὲ βασιλεύσας ἔτη μετὰ τὴν Λατίνου τελευτὴν τῶι τετάρτωι θνήσκει κατὰ πόλεμον. ..... (65) Αἰνείου δ’ ἐξ ἀνθρώπων μεταστάντος ἑβδόμωι μάλιστα ἔτει μετὰ τὴν Ἰλίου ἅλωσιν Εὐρυλέων παρέλαβε τὴν Λατίνων ἡγεμονίαν ὁ μετονομασθεὶς Ἀσκάνιος ἐν τῆι φυγῆι ..... (66) τριακοστῶι δὲ ὕστερον ἔτει μετὰ τὴν κτίσιν τοῦ Λαουινίου πόλιν ἑτέραν οἰκίζει κατὰ τὸ γενόμενον Αἰνείαι θέσφατον Ἀσκάνιος ὁ Αἰνείου ..... ὄνομα τῆι πόλει θέμενος Ἄλβαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 7",
+      "text": "DION. HAL. AR I 70: Ἀσκανίου δὲ ὀγδόωι καὶ τριακοστῶι ἔτει τῆς βασιλείας τελευτήσαντος παρέλαβε τὴν ἡγεμονίαν Σιλούιος ἀδελφὸς ὢν Ἀσκανίου, μετὰ τὸν Αἰνείου θάνατον γενόμενος ἐκ Λαύνας τῆς Λατίνου θυγατρός. ..... (71) Σιλουίου δ’ ἑνὸς δέοντα τριάκοντα ἔτη κατασχόντος τὴν ἀρχὴν Αἰνείας υἱὸς αὐτοῦ διαδεξάμενος τὴν δυναστείαν ἑνὶ πλείω τριάκοντα ἐτῶν ἐβασίλευσεν· μετὰ δὲ τοῦτον ἓν καὶ πεντήκοντα Λατῖνος ἦρξεν ἔτη· Ἄλβας δὲ μετὰ τοῦτον ἑνὸς δέοντα τετταράκοντα ἔτη· μετὰ δὲ Ἄλβαν Κάπετος ἓξ ἐπὶ τοῖς εἴκοσιν· ἔπειτα Κάπυς δυεῖν δέοντα τριάκοντα· μετὰ δὲ Κάπυν Κάλπετος ἄχρι τρισκαίδεκα ἐτῶν κατέσχε τὴν ἀρχήν· (2) ἑξῆς δὲ Τιβερῖνος ὀκταετῆ χρόνον ἐβασίλευσεν· ......... Τιβερίνου δὲ διάδοχος Ἀγρίππας ἓν καὶ τετταράκοντα ἐβασίλευσεν ἔτη· (3) μετὰ δὲ Ἀγρίππαν Ἀμόλιος ... ἑνὸς δέοντα εἴκοσιν .... (4) Ἀουεντῖνος δὲ παρὰ τούτου τὴν δυναστείαν διαδεξάμενος ... τριάκοντα καὶ ἑπτὰ ἔτη τὴν ἀρχὴν κατέσχεν· Πρόκας δὲ μετὰ τοῦτον ἔτη εἴκοσι καὶ τρία· ἔπειτα Ἀμόλιος ... δύο καὶ τετταράκοντα ἔτη δυναστεύει· (5) Ἀμολίου δὲ ἀναιρεθέντος ὑπὸ Ῥωμύλου καὶ Ῥώμου .... ἀπολαμβάνει τὴν κατὰ νόμον δυναστείαν Νεμέτωρ ὁ τῶν νεανίσκων μητροπάτωρ· τῶι δ’ ἑξῆς ἔτει τῆς Νεμέτορος ἀρχῆς, δευτέρωι δὲ καὶ τριακοστῶι καὶ τετρακοσιοστῶι μετὰ τὴν Ἰλίου ἅλωσιν, ἀποικίαν στείλαντες Ἀλβανοί, Ῥωμύλου καὶ Ῥώμου τὴν ἡγεμονίαν αὐτῆς ἐχόντων, κτίζουσι Ῥώμην, ἔτους ἐνεστῶτος πρώτου τῆς ἑβδόμης ὀλυμπιάδος, ἣν ἐνίκα στάδιον Δαικλῆς Μεσσήνιος. ἄρχοντος Ἀθήνησι Χάροπος ἔτος τῆς δεκαετίας πρῶτον (F 2).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 8",
+      "text": "DION. HAL. A R II 59: μέχρι μὲν δὴ τούτων οὐδὲν ἀντειπεῖν ἔχω πρὸς τοὺς ἐκδεδωκότας τὴν περὶ τὸν ἄνδρα τοῦτον ἱστορίαν, ἐν δὲ τοῖς ἑξῆς ἀπορῶ τί ποτε χρὴ λέγειν. πολλοὶ μὲν γάρ 〈εἰσιν〉 οἱ γράψαντες ὅτι Πυθαγόρου μαθητὴς ὁ Νόμας ἐγένετο καὶ καθ’ ὃν χρόνον ὑπὸ τῆς Ῥωμαίων πόλεως ἀπεδείχθη βασιλεὺς φιλοσοφῶν ἐν Κρότωνι διέτριβεν· ὁ δὲ χρόνος τῆς Πυθαγόρου ἡλικίας μάχεται πρὸς τὸν λόγον. (2) οὐ γὰρ ὀλίγοις ἔτεσιν, ἀλλὰ καὶ τέτταρσι γενεαῖς ὅλαις ὕστερος ἐγένετο Πυθαγόρας Νόμα, ὡς ἐκ τῶν κοινῶν παρειλήφαμεν ἱστοριῶν. ὁ μὲν γὰρ ἐπὶ τῆς ἑκκαιδεκάτης ὀλυμπιάδος μεσούσης τὴν Ῥωμαίων βασιλείαν παρέλαβε, Πυθαγόρας δὲ μετὰ τὴν πεντεκοστὴν ὀλυμπιάδα διέτριψεν ἐν Ἰταλίαι. (3) τούτου δ’ ἔτι μεῖζον ἔχω τεκμήριον εἰπεῖν ὑπὲρ τοῦ μὴ συμφωνεῖν τοὺς χρόνους ταῖς παραδεδομέναις ὑπὲρ τοῦ ἀνδρὸς ἱστορίαις, ὅτι καθ’ ὃν χρόνον ὁ Νόμας ἐπὶ τὴν βασιλείαν ἐκαλεῖτο ὑπὸ Ῥωμαίων οὔπω πόλις ἦν ἡ Κρότων· τέτταρσι γὰρ ὅλοις ὕστερον ἔτεσιν ἢ Νόμαν ἄρξαι Ῥωμαίων Μύσκελος αὐτὴν ἔκτισεν ἐνιαυτῶι τρίτωι τῆς ἑπτακαιδεκάτης ὀλυμπιάδος. οὔτε δὴ Πυθαγόραι τῶι Σαμίωι συμφιλοσοφῆσαι τῶι μετὰ τέτταρας ἀκμάσαντι γενεὰς δυνατὸς ἦν τὸν Νόμαν οὔτ’ ἐν Κρότωνι διατρίβειν, ὅτ’ αὐτὸν ἐκάλουν ἐπὶ τὴν βασιλείαν Ῥωμαῖοι, τῆι μήπω τότ’ οὔσηι πόλει. ...... (5) εἰ μή τις ἄρα Πυθαγόραν ἕτερον ὑποθήσεται πρὸ τοῦ Σαμίου γεγονέναι παιδευτὴν σοφίας, ὧι συνδιέτριψεν ὁ Νόμας· τοῦτο δ’ οὐκ οἶδ’ ὅπως ἂν ἀποδεῖξαι δύναιτο, μηδενὸς τῶν ἀξιολόγων μήτε Ῥωμαίου μήθ’ Ἕλληνος, ὅσα κἀμὲ εἰδέναι, παραδεδωκότος ἐν ἱστορίαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b,251,F 9",
+      "text": "—VII 1: Τίτου δὲ Γεγανίου Μακερίνου καὶ Ποπλίου Μηνυκίου τὴν ὕπατον ἐξουσίαν παραλαβόντων σίτου σπάνις ἰσχυρὰ τὴν Ῥώμην κατέσχεν .... (3) ταῦθ’ ἡ βουλὴ μαθοῦσα πρέσβεις διεπέμπετο πρὸς Τυρρηνοὺς καὶ Καμπανοὺς καὶ τὸ καλούμενον Πωμεντῖνον πεδίον σῖτον ὅσον ἂν δύναιντο πλεῖστον ὠνησομένους· Πόπλιος δὲ Οὐαλέριος καὶ Λεύκιος Γεγάνιος εἰς Σικελίαν ἀπεστάλησαν .... (4) τύραννοι δὲ τότε κατὰ πόλεις μὲν ἦσαν, ἐπιφανέστατος δὲ Γέλων ὁ Δεινομένους νεωστὶ τὴν Ἱπποκράτους τοῦ ἀδελφοῦ τυραννίδα παρειληφώς, οὐχὶ Διονύσιος ὁ Συρακούσιος, ὡς Λικίννιος (F 12 Pet) γέγραφε καὶ Γέλλιος (F 20 Pet) καὶ ἄλλοι συχνοὶ τῶν Ῥωμαίων συγγραφέων, οὐθὲν ἐξητακότες τῶν περὶ τοὺς χρόνους ἀκριβῶς, ὡς αὐτὸ δηλοῖ τοὖργον, ἀλλ’ εἰκῆ τὸ προστυχὸν ἀποφαινόμενοι. (5) ἡ μὲν γὰρ εἰς Σικελίαν ἀποδειχθεῖσα πρεσβεία κατὰ τὸν δεύτερον ἐνιαυτὸν τῆς ἑβδομηκοστῆς καὶ δευτέρας ὀλυμπιάδος ἐξέπλευσεν, ἄρχοντος Ἀθήνησιν Ὑβριλίδου, ἑπτακαίδεκα διελθόντων ἐτῶν μετὰ τὴν ἐκβολὴν τῶν βασιλέων, ὡς οὗτοί τε καὶ οἱ ἄλλοι σχεδὸν ἅπαντες συγγραφεῖς ὁμολογοῦσι· Διονύσιος δ’ ὁ πρεσβύτερος ὀγδοηκοστῶι καὶ πέμπτωι μετὰ ταῦτ’ ἔτει Συρακουσίοις ἐπαναστὰς κατέσχε τὴν τυραννίδα κατὰ τὸν τρίτον ἐνιαυτὸν τῆς ἐνενηκοστῆς καὶ τρίτης ὀλυμπιάδος. ἄρχοντος Ἀθήνησι Καλλίου τοῦ μετ’ Ἀντιγένη. (6) ὀλίγοις μὲν οὖν ἔτεσι διαμαρτεῖν τῶν χρόνων δοίη τις ἂν ἱστορικοῖς ἀνδράσιν ἀρχαίας καὶ πολυετεῖς συνταττομένοις πραγματείας, γενεαῖς δὲ δυσὶν ἢ τρισὶν ὅλαις ἀποπλανηθῆναι τῆς ἀληθείας οὐκ ἂν ἐπιτρέψειεν. ἀλλ’ ἔοικεν ὁ πρῶτος ἐν ταῖς ὡρογραφίαις τοῦτο καταχωρίσας, ὧι πάντες ἠκολούθησαν οἱ λοιποί, τοσοῦτο μόνον ἐν ταῖς ἀρχαίαις εὑρὼν ἀναγραφαῖς, ὅτι πρέσβεις ἀπεστάλησαν ἐπὶ τούτων τῶν ὑπάτων εἰς Σικελίαν σῖτον ὠνησόμενοι καὶ παρῆσαν ἐκεῖθεν ἄγοντες ἣν ὁ τύραννος ἔδωκε δωρεάν, οὐκέτι μὴν παρὰ τῶν Ἑλληνικῶν ἐξετάσαι συγγραφέων, ὅστις ἦν τύραννος τότε Σικελίας, ἀβασανίστως δέ πως καὶ κατὰ τὸ προστυχὸν θεῖναι τὸν Διονύσιον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ndy-ai",
+      "title": {
+        "english": "Isaeus the Athenian",
+        "ancient_greek": "Ἰσαῖος Ἀθηναῖος"
+      },
+      "url_slug": "dionysius-of-halicarnassus-isaeus-ndy-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/isaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isaeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isaeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isaeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isaeus.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ag",
+      "title": {
+        "english": "Isocrates the Athenian",
+        "ancient_greek": "Ἰσοκρατης Ἀθηναῖος"
+      },
+      "url_slug": "dionysius-of-halicarnassus-isocrates-ndy-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/isocrates",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isocrates.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isocrates.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isocrates.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/isocrates.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ak",
+      "title": {
+        "english": "Letter to Ammaeus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ammaeus-ndy-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ammaeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ammaeus.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-aj",
+      "title": {
+        "english": "Letter to Pompeius",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Πομπήιον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-pompeius-ndy-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/pompeius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ac",
+      "title": {
+        "english": "Lysias the Syracusan by Descent",
+        "ancient_greek": "Λυσίας συρακούσιος πατρόθεν"
+      },
+      "url_slug": "dionysius-of-halicarnassus-lysias-syracusan-ndy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/lysias-syracusan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/lysias-syracusan.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-an",
+      "title": {
+        "english": "On Deinarchus",
+        "ancient_greek": "Περὶ Δεινάρχου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-deinarchus-ndy-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/deinarchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/deinarchus.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ap",
+      "title": {
+        "english": "On Imitation",
+        "ancient_greek": "Περὶ Μιμήσεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-imitation-ndy-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ao",
+      "title": {
+        "english": "On Thucydides",
+        "ancient_greek": "Περὶ Θουκιδίδου"
+      },
+      "url_slug": "dionysius-of-halicarnassus-thucydides-ndy-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/thucydides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/thucydides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/thucydides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/thucydides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/thucydides.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ah",
+      "title": {
+        "english": "On the Ancient Orators",
+        "ancient_greek": "Περὶ τῶν ἀρχαίων ῥητόρων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-ancient-orators-ndy-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/ancient-orators",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/ancient-orators.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ad",
+      "title": {
+        "english": "On the Composition of Names",
+        "ancient_greek": "Περὶ συνθέσεως ὀνομάτων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-composition-names-ndy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-names.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ae",
+      "title": {
+        "english": "On the Composition of Words",
+        "ancient_greek": "Περὶ Συνθέσεως Λέξεων"
+      },
+      "url_slug": "dionysius-of-halicarnassus-composition-words-ndy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/composition-words",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-words.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-words.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-words.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/composition-words.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ab",
+      "title": {
+        "english": "On the Idioms of Thucydides to Ammonius",
+        "ancient_greek": "Περὶ τῶν Θουκιδίδου ἰδιωμάτων πρὸς Ἀμμαῖον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-idioms-ammonius-ndy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/idioms-ammonius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/idioms-ammonius.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "brm-aa",
+      "title": {
+        "english": "Athenian Antiquities and Topography",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cleidemus-of-athens-ii-antiquities-topography-brm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleidemus-of-athens-ii/antiquities-topography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleidemus-of-athens-ii/antiquities-topography.json"
+      }
+    },
+    {
+      "eul_wid": "lls-aa",
+      "title": {
+        "english": "Fragments on Cretan Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κρητικῶν Πόλεων"
+      },
+      "url_slug": "xenion-the-historian-cretan-cities-lls-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenion-the-historian/cretan-cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenion-the-historian/cretan-cities.json"
+      }
+    },
+    {
+      "eul_wid": "cdu-aa",
+      "title": {
+        "english": "Fragments on Sicilian Customs",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σικελικῶν Ἐθῶν"
+      },
+      "url_slug": "hermias-of-methymna-sicilian-customs-cdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermias-of-methymna/sicilian-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna/sicilian-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna/sicilian-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna/sicilian-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermias-of-methymna/sicilian-customs.json"
+      }
+    },
+    {
+      "eul_wid": "kdm-aa",
+      "title": {
+        "english": "Fragments on Spartan Constitution",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακεδαιμονίων Πολιτείας"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-spartan-constitution-kdm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/spartan-constitution",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/spartan-constitution.json"
+      }
+    },
+    {
+      "eul_wid": "iqq-aa",
+      "title": {
+        "english": "On Alexandria and Its Monuments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "callixenus-of-rhodes-alexandria-monuments-iqq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callixenus-of-rhodes/alexandria-monuments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callixenus-of-rhodes/alexandria-monuments.json"
+      }
+    },
+    {
+      "eul_wid": "gnq-aa",
+      "title": {
+        "english": "On the Birds of Leros",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clytus-the-historian-birds-leros-gnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clytus-the-historian/birds-leros",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.json"
+      }
+    },
+    {
+      "eul_wid": "hxa-aa",
+      "title": {
+        "english": "On the Socrates Circle",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "idomeneus-of-lampsacus-socrates-circle-hxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/idomeneus-of-lampsacus/socrates-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/idomeneus-of-lampsacus/socrates-circle.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ad",
+      "title": {
+        "english": "Roman Histories, Photius, Library Code 71",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-ad-rhq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ad.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/chronological-rome",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/chronological-rome.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/chronological-rome.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/chronological-rome.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/chronological-rome.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

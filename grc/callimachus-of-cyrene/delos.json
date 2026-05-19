@@ -1,0 +1,461 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iso-an",
+  "eul_aid": "iso",
+  "author_slug": "callimachus-of-cyrene",
+  "work_slug": "delos",
+  "url_slug": "callimachus-of-cyrene-delos-iso-an",
+  "author": {
+    "english": "Callimachus of Cyrene the Poet and Scholar",
+    "ancient_greek": "Καλλίμαχος ὁ Κυρηναῖος"
+  },
+  "title": {
+    "english": "To Delos",
+    "ancient_greek": "εἰς Δῆλον"
+  },
+  "seo": {
+    "browser_title": "Hymn To Delos by Callimachus of Cyrene on Eulogikon",
+    "meta_title": "To Delos by Callimachus of Cyrene in Ancient Greek",
+    "meta_description": "To Delos is the fourth hymn by Hellenistic poet Callimachus, celebrating the sacred island. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ λογοτεχνική",
+      "english": "Literary Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_To Delos_ is a hymn composed by the Hellenistic poet and scholar Callimachus in the 3rd century BCE. It is the fourth in a collection of six hymns that have survived intact from antiquity. Written in a literary Greek dialect, the poem dramatically re-enacts a ritual song celebrating the birth of the gods Apollo and Artemis. It narrates the myth of their mother, Leto, who is refused refuge by many lands until the floating island Asteria welcomes her. As a reward, the island is fixed in place and renamed Delos, becoming Apollo’s sacred sanctuary. The hymn is structured in approximately 300 lines, which are often divided into 14 stanzas or sections. It is characteristic of Callimachus’s refined and allusive style, which favored learned, polished compositions over lengthy epic poetry. Modern scholars interpret the work as serving a dual purpose: it functions as a traditional hymn to Apollo while also containing praise for the contemporary ruler Ptolemy II Philadelphus, linking his military victories to divine favor. The poem was likely composed for an educated, courtly audience that would appreciate its intricate mythology and political resonance. Unlike much of Callimachus’s other poetry, which survives only in fragments, the text of _To Delos_ has been preserved completely through medieval manuscripts, primarily from the Byzantine tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "ΕΙΣ ΔΗΛΟΝ Τὴν ἱερήν, ὦ θυμέ, τίνα χρόνον †ηποτ† ἀείσεις Δῆλον Ἀπόλλωνος κουροτρόφον; ἦ μὲν ἅπασαι Κυκλάδες, αἳ νήσων ἱερώταται εἰν ἁλὶ κεῖνται, εὔυμνοι· Δῆλος δ’ ἐθέλει τὰ πρῶτα φέρεσθαι ἐκ Μουσέων, ὅτι Φοῖβον ἀοιδάων μεδέοντα λοῦσέ τε καὶ σπείρωσε καὶ ὡς θεὸν ᾔνεσε πρώτη. ὡς Μοῦσαι τὸν ἀοιδὸν ὃ μὴ Πίμπλειαν ἀείσῃ ἔχθουσιν, τὼς Φοῖβος ὅτις Δήλοιο λάθηται. Δήλῳ νῦν οἴμης ἀποδάσσομαι, ὡς ἂν Ἀπόλλων Κύνθιος αἰνήσῃ με φίλης ἀλέγοντα τιθήνης. κείνη δ’ ἠνεμόεσσα καὶ ἄτροπος †οἷά θ’† ἁλιπλήξ αἰθυίῃς καὶ μᾶλλον ἐπίδρομος ἠέπερ ἵπποις πόντῳ ἐνεστήρικται· ὁ δ’ ἀμφί ἑ πουλὺς ἑλίσσων Ἰκαρίου πολλὴν ἀπομάσσεται ὕδατος ἄχνην· τῷ σφε καὶ ἰχθυβολῆες ἁλίπλοοι ἐννάσσαντο. ἀλλά οἱ οὐ νεμεσητὸν ἐνὶ πρώτῃσι λέγεσθαι, ὁππότ’ ἐς Ὠκεανόν τε καὶ ἐς Τιτηνίδα Τηθύν νῆσοι ἀολλίζονται, ἀεὶ δ’ ἔξαρχος ὁδεύει. ἡ δ’ ὄπιθεν Φοίνισσα μετ’ ἴχνια Κύρνος ὀπηδεῖ οὐκ ὀνοτὴ καὶ Μάκρις Ἀβαντιὰς Ἐλλοπιήων Σαρδώ θ’ ἱμερόεσσα καὶ ἣν ἐπενήξατο Κύπρις ἐξ ὕδατος τὰ πρῶτα, σαοῖ δέ μιν ἀντ’ ἐπιβάθρων. κεῖναι μὲν πύργοισι περισκεπέεσσιν ἐρυμναί, Δῆλος δ’ Ἀπόλλωνι· τί δὲ στιβαρώτερον ἕρκος; τείχεα μὲν καὶ λᾶες ὑπὸ ῥιπῆς κε πέσοιεν Στρυμονίου βορέαο· θεὸς δ’ ἀεὶ ἀστυφέλικτος· Δῆλε φίλη, τοῖός σε βοηθόος ἀμφιβέβηκεν. εἰ δὲ λίην πολέες σε περιτροχόωσιν ἀοιδαί, ποίῃ ἐνιπλέξω σε; τί τοι θυμῆρες ἀκοῦσαι; ἢ ὡς τὰ πρώτιστα μέγας θεὸς οὔρεα θείνων ἄορι τριγλώχινι τό οἱ Τελχῖνες ἔτευξαν νήσους εἰναλίας εἰργάζετο, νέρθε δὲ πάσας ἐκ νεάτων ὤχλισσε καὶ εἰσεκύλισε θαλάσσῃ; καὶ τὰς μὲν κατὰ βυσσόν, ἵν’ ἠπείροιο λάθωνται, πρυμνόθεν ἐρρίζωσε· σὲ δ’ οὐκ ἔθλιψεν ἀνάγκη, ἀλλ’ ἄφετος πελάγεσσιν ἐπέπλεες· οὔνομα δ’ ἦν τοι Ἀστερίη τὸ παλαιόν, ἐπεὶ βαθὺν ἥλαο τάφρον οὐρανόθεν φεύγουσα Διὸς γάμον ἀστέρι ἴση. τόφρα μὲν οὔπω τοι χρυσέη ἐπεμίσγετο Λητώ, τόφρα δ’ ἔτ’ Ἀστερίη σὺ καὶ οὐδέπω ἔκλεο Δῆλος. πολλάκι σε Τροιζῆνος ἀπὸ †ξάνθοιο πολίχνης ἐρχόμενοι Ἐφύρηνδε Σαρωνικοῦ ἔνδοθι κόλπου ναῦται ἐπεσκέψαντο, καὶ ἐξ Ἐφύρης ἀνιόντες οἱ μὲν ἔτ’ οὐκ ἴδον αὖθι, σὺ δὲ στεινοῖο παρ’ ὀξύν ἔδραμες Εὐρίποιο πόρον καναχηδὰ ῥέοντος, Χαλκιδικῆς δ’ αὐτῆμαρ ἀνηναμένη ἁλὸς ὕδωρ μέσφ’ ἐς Ἀθηναίων προσενήξαο Σούνιον ἄκρον ἢ Χίον ἢ νήσοιο διάβροχον ὕδατι μαστόν Παρθενίης (οὔπω γὰρ ἔην Σάμος), ἧχί σε νύμφαι γείτονες Ἀγκαίου Μυκαλησσίδες ἐξείνισσαν. ἡνίκα δ’ Ἀπόλλωνι γενέθλιον οὖδας ὑπέσχες, τοῦτό τοι ἀντημοιβὸν ἁλίπλοοι οὔνομ’ ἔθεντο, οὕνεκεν οὐκέτ’ ἄδηλος ἐπέπλεες, ἀλλ’ ἐνὶ πόντου κύμασιν Αἰγαίοιο ποδῶν ἐνεθήκαο ῥίζας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "οὐδ’ Ἥρην κοτέουσαν ὑπέτρεσας· ἡ μὲν ἁπάσαις δεινὸν ἐπεβρωμᾶτο λεχωίσιν αἳ Διὶ παῖδας ἐξέφερον, Λητοῖ δὲ διακριδόν, οὕνεκα μούνη Ζηνὶ τεκεῖν ἤμελλε φιλαίτερον Ἄρεος υἷα. τῷ ῥα καὶ αὐτὴ μὲν σκοπιὴν ἔχεν αἰθέρος εἴσω σπερχομένη μέγα δή τι καὶ οὐ φατόν, εἶργε δὲ Λητώ τειρομένην ὠδῖσι· δύω δέ οἱ εἵατο φρουροί γαῖαν ἐποπτεύοντες, ὁ μὲν πέδον ἠπείροιο ἥμενος ὑψηλῆς κορυφῆς ἔπι Θρήικος Αἵμου θοῦρος Ἄρης ἐφύλασσε σὺν ἔντεσι, τὼ δέ οἱ ἵππω ἑπτάμυχον βορέαο παρὰ σπέος ηὐλίζοντο· ἡ δ’ ἐπὶ νησάων ἑτέρη σκοπὸς αἰπειάων ἧστο κόρη Θαύμαντος ἐπαΐξασα Μίμαντι. ἔνθ’ οἱ μὲν πολίεσσιν ὅσαις ἐπεβάλλετο Λητώ μίμνον ἀπειλητῆρες, ἀπετρώπων δὲ δέχεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "φεῦγε μὲν Ἀρκαδίη, φεῦγεν δ’ ὄρος ἱερὸν Αὔγης Παρθένιον, φεῦγεν δ’ ὁ γέρων μετόπισθε Φενειός, φεῦγε δ’ ὅλη Πελοπηῒς ὅση παρακέκλιται Ἰσθμῷ, ἔμπλην Αἰγιαλοῦ γε καὶ Ἄργεος· οὐ γὰρ ἐκείνας ἀτραπιτοὺς ἐπάτησεν, ἐπεὶ λάχεν Ἴναχον Ἥρη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "φεῦγε καὶ Ἀονίη τὸν ἕνα δρόμον, αἱ δ’ ἐφέποντο Δίρκη τε Στροφίη τε μελαμψήφιδος ἔχουσαι Ἰσμηνοῦ χέρα πατρός, ὁ δ’ εἵπετο πολλὸν ὄπισθεν Ἀσωπὸς βαρύγουνος, ἐπεὶ πεπάλακτο κεραυνῷ. ἡ δ’ ὑποδινηθεῖσα χοροῦ ἀπεπαύσατο νύμφη αὐτόχθων Μελίη καὶ ὑπόχλοον ἔσχε παρειήν ἥλικος ἀσθμαίνουσα περὶ δρυός, ὡς ἴδε χαίτην σειομένην Ἑλικῶνος. ἐμαὶ θεαὶ εἴπατε Μοῦσαι, ἦ ῥ’ ἐτεὸν ἐγένοντο τότε δρύες ἡνίκα Νύμφαι; ‘Νύμφαι μὲν χαίρουσιν, ὅτε δρύας ὄμβρος ἀέξει, Νύμφαι δ’ αὖ κλαίουσιν, ὅτε δρυσὶ μηκέτι φύλλα.‘ ταῖς μὲν ἔτ’ Ἀπόλλων ὑποκόλπιος αἰνὰ χολώθη, φθέγξατο δ’ οὐκ ἀτέλεστον ἀπειλήσας ἐπὶ Θήβῃ· ‘Θήβη τίπτε τάλαινα τὸν αὐτίκα πότμον ἐλέγχεις; μήπω μή μ’ ἀέκοντα βιάζεο μαντεύεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "οὔπω μοι Πυθῶνι μέλει τριποδήιος ἕδρη, οὐδέ τί πω τέθνηκεν ὄφις μέγας, ἀλλ’ ἔτι κεῖνο θηρίον αἰνογένειον ἀπὸ Πλειστοῖο καθέρπον Παρνησὸν νιφόεντα περιστέφει ἐννέα κύκλοις· ἀλλ’ ἔμπης ἐρέω τι τομώτερον ἢ ἀπὸ δάφνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "φεῦγε πρόσω· ταχινός σε κιχήσομαι αἵματι λούσων τόξον ἐμόν· σὺ δὲ τέκνα κακογλώσσοιο γυναικός ἔλλαχες. οὐ σύ γ’ ἐμεῖο φίλη τροφὸς οὐδὲ Κιθαιρών ἔσσεται· εὐαγέων δὲ καὶ εὐαγέεσσι μελοίμην.‘ ὣς ἄρ’ ἔφη. Λητὼ δὲ μετάτροπος αὖτις ἐχώρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "ἀλλ’ ὅτ’ Ἀχαιιάδες μιν ἀπηρνήσαντο πόληες ἐρχομένην, Ἑλίκη τε Ποσειδάωνος ἑταίρη Βοῦρά τε Δεξαμενοῖο βοόστασις Οἰκιάδαο, ἄψ δ’ ἐπὶ Θεσσαλίην πόδας ἔτρεπε· φεῦγε δ’ Ἄναυρος καὶ μεγάλη Λάρισα καὶ αἱ Χειρωνίδες ἄκραι, φεῦγε δὲ καὶ Πηνειὸς ἑλισσόμενος διὰ Τεμπέων· Ἥρη, σοὶ δ’ ἔτι τῆμος ἀνηλεὲς ἦτορ ἔκειτο οὐδὲ κατεκλάσθης τε καὶ ᾤκτισας, ἡνίκα πήχεις ἀμφοτέρους ὀρέγουσα μάτην ἐφθέγξατο τοῖα· ‘Νύμφαι Θεσσαλίδες, ποταμοῦ γένος, εἴπατε πατρί κοιμῆσαι μέγα χεῦμα, περιπλέξασθε γενείῳ λισσόμεναι τὰ Ζηνὸς ἐν ὕδατι τέκνα τεκέσθαι. Πηνειὲ Φθιῶτα, τί νῦν ἀνέμοισιν ἐρίζεις; ὦ πάτερ, οὐ μὴν ἵππον ἀέθλιον ἀμφιβέβηκας. ἦ ῥά τοι ὧδ’ αἰεὶ ταχινοὶ πόδες, ἢ ἐπ’ ἐμεῖο μοῦνον ἐλαφρίζουσι, πεποίησαι δὲ πέτεσθαι σήμερον ἐξαπίνης; ὁ δ’ ἀνήκοος. ὦ ἐμὸν ἄχθος, ποῖ σε φέρω; μέλεοι γὰρ ἀπειρήκασι τένοντες. Πήλιον ὦ Φιλύρης νυμφήιον, ἀλλὰ σὺ μεῖνον, μεῖνον, ἐπεὶ καὶ θῆρες ἐν οὔρεσι πολλάκι σεῖο ὠμοτόκους ὠδῖνας ἀπηρείσαντο λέαιναι.‘ τὴν δ’ ἄρα καὶ Πηνειὸς ἀμείβετο δάκρυα λείβων· ‘Λητοῖ, Ἀναγκαίη μεγάλη θεός. οὐ γὰρ ἔγωγε πότνια σὰς ὠδῖνας ἀναίνομαι (οἶδα καὶ ἄλλας λουσαμένας ἀπ’ ἐμεῖο λεχωίδας)· ἀλλά μοι Ἥρη δαψιλὲς ἠπείλησεν. ἀπαύγασαι, οἷος ἔφεδρος οὔρεος ἐξ ὑπάτου σκοπιὴν ἔχει, ὅς κέ με ῥεῖα βυσσόθεν ἐξερύσειε. τί μήσομαι; ἦ ἀπολέσθαι ἡδύ τί τοι Πηνειόν; ἴτω πεπρωμένον ἦμαρ· τλήσομαι εἵνεκα σεῖο, καὶ εἰ μέλλοιμι ῥοάων διψαλέην ἄμπωτιν ἔχων αἰώνιον ἔρρειν καὶ μόνος ἐν ποταμοῖσιν ἀτιμότατος καλέεσθαι. ἠνίδ’ ἐγώ· τί περισσά; κάλει μόνον Εἰλήθυιαν.‘ εἶπε καὶ ἠρώησε μέγαν ῥόον. ἀλλά οἱ Ἄρης Παγγαίου προθέλυμνα καρήατα μέλλεν ἀείρας ἐμβαλέειν δίνῃσιν, ἀποκρύψαι δὲ ῥέεθρα· ὑψόθε δ’ ἐσμαράγησε καὶ ἀσπίδα τύψεν ἀκωκῇ δούρατος· ἡ δ’ ἐλέλιξεν ἐνόπλιον· ἔτρεμε δ’ Ὄσσης οὔρεα καὶ πεδίον Κραννώνιον αἵ τε δυσαεῖς ἐσχατιαὶ Πίνδοιο, φόβῳ δ’ ὠρχήσατο πᾶσα Θεσσαλίη· τοῖος γὰρ ἀπ’ ἀσπίδος ἔβραμεν ἦχος. ὡς δ’, ὁπότ’ Αἰτναίου ὄρεος πυρὶ τυφομένοιο σείονται μυχὰ πάντα, κατουδαίοιο γίγαντος εἰς ἑτέρην Βριαρῆος ἐπωμίδα κινυμένοιο, θερμάστραι τε βρέμουσιν ὑφ’ Ἡφαίστοιο πυράγρης ἔργα θ’ ὁμοῦ, δεινὸν δὲ πυρίκμητοί τε λέβητες καὶ τρίποδες πίπτοντες ἐπ’ ἀλλήλοις ἰαχεῦσιν, τῆμος ἔγεντ’ ἄραβος σάκεος τόσος εὐκύκλοιο. Πηνειὸς δ’ οὐκ αὖτις ἐχάζετο, μίμνε δ’ ὁμοίως καρτερὸς ὡς τὰ πρῶτα, θοὰς δ’ ἐστήσατο δίνας, εἰσόκε οἱ Κοιηὶς ἐκέκλετο· ‘σῴζεο χαίρων, σῴζεο· μὴ σύ γ’ ἐμεῖο πάθῃς κακὸν εἵνεκα τῆσδε ἀντ’ ἐλεημοσύνης· χάριτος δέ τοι ἔσσετ’ ἀμοιβή.‘ ἦ καὶ πολλὰ πάροιθεν ἐπεὶ κάμεν ἔστιχε νήσους εἰναλίας· αἱ δ’ οὔ μιν ἐπερχομένην ἐδέχοντο, οὐ λιπαρὸν νήεσσιν Ἐχινάδες ὅρμον ἔχουσαι, οὐδ’ ἥτις Κέρκυρα φιλοξεινωτάτη ἄλλων, Ἶρις ἐπεὶ πάσῃσιν ἐφ’ ὑψηλοῖο Μίμαντος σπερχομένη μάλα δεινὸν ἀπέτρεπεν· αἱ δ’ ὑπ’ ὀμοκλῆς πασσυδίῃ φοβέοντο κατὰ ῥόον ἥντινα τέτμοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "ὠγυγίην δἤπειτα Κόων Μεροπηΐδα νῆσον ἵετο, Χαλκιόπης ἱερὸν μυχὸν ἡρωίνης. ἀλλά ἑ παιδὸς ἔρυκεν ἔπος τόδε· ‘μὴ σύ γε, μῆτερ, τῇ με τέκοις. οὔτ’ οὖν ἐπιμέμφομαι οὐδὲ μεγαίρω νῆσον, ἐπεὶ λιπαρή τε καὶ εὔβοτος, εἴ νύ τις ἄλλη· ἀλλά οἱ ἐκ Μοιρέων τις ὀφειλόμενος θεὸς ἄλλος ἐστί, Σαωτήρων ὕπατον γένος· ᾧ ὑπὸ μίτρην ἵξεται οὐκ ἀέκουσα Μακηδόνι κοιρανέεσθαι ἀμφοτέρη μεσόγεια καὶ αἳ πελάγεσσι κάθηνται, μέχρις ὅπου περάτη τε καὶ ὁππόθεν ὠκέες ἵπποι Ἠέλιον φορέουσιν· ὁ δ’ εἴσεται ἤθεα πατρός. καί νύ ποτε ξυνός τις ἐλεύσεται ἄμμιν ἄεθλος ὕστερον, ὁππόταν οἱ μὲν ἐφ’ Ἑλλήνεσσι μάχαιραν βαρβαρικὴν καὶ Κελτὸν ἀναστήσαντες Ἄρηα ὀψίγονοι Τιτῆνες ἀφ’ ἑσπέρου ἐσχατόωντος ῥώσωνται νιφάδεσσιν ἐοικότες ἢ ἰσάριθμοι τείρεσιν, ἡνίκα πλεῖστα κατ’ ἠέρα βουκολέονται, παιδ[ ] . . σα[ ] . [ ] Δ̣ω̣ρι . [ . ] . [ ] . οσ̣α̣[ ]ς̣ καὶ πεδία Κρισσαῖα καὶ Ἡφ̣αί̣[στο]ι̣ο̣ φ̣ά̣ρ̣[αγγ]ες ἀμφιπεριστείνωνται, ἴδωσι δὲ πίονα καπνόν γείτονος αἰθομένοιο, καὶ οὐκέτι μοῦνον ἀκουῇ, ἀλλ’ ἤδη παρὰ νηὸν ἀπαυγάζοιντο φάλαγγας δυσμενέων, ἤδη δὲ παρὰ τριπόδεσσιν ἐμεῖο φάσγανα καὶ ζωστῆρας ἀναιδέας ἐχθομένας τε ἀσπίδας, αἳ Γαλάτῃσι κακὴν ὁδὸν ἄφρονι φύλῳ στήσονται· τέων αἱ μὲν ἐμοὶ γέρας, αἱ δ’ ἐπὶ Νείλῳ ἐν πυρὶ τοὺς φορέοντας ἀποπνεύσαντας ἰδοῦσαι κείσονται βασιλῆος ἀέθλια πολλὰ καμόντος. ἐσσόμενε Πτολεμαῖε, τά τοι μαντήια Φοίβου. αἰνήσεις μέγα δή τι τὸν εἰσέτι γαστέρι μάντιν ὕστερον ἤματα πάντα. σὺ δὲ ξυμβάλλεο, μῆτερ· ἔστι διειδομένη τις ἐν ὕδατι νῆσος ἀραιή, πλαζομένη πελάγεσσι· πόδες δέ οἱ οὐκ ἐνὶ χώρῃ, ἀλλὰ παλιρροίῃ ἐπινήχεται ἀνθέρικος ὥς, ἔνθα νότος, ἔνθ’ εὖρος, ὅπη φορέῃσι θάλασσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(250)",
+      "text": "τῇ με φέροις· κείνην γὰρ ἐλεύσεαι εἰς ἐθέλουσαν.‘ αἱ μὲν τόσσα λέγοντος ἀπέτρεχον εἰν ἁλὶ νῆσοι· Ἀστερίη φιλόμολπε, σὺ δ’ Εὐβοίηθε κατῄεις, Κυκλάδας ὀψομένη περιηγέας, οὔτι παλαιόν, ἀλλ’ ἔτι τοι μετόπισθε Γεραίστιον εἵπετο φῦκος· ὡς δ’ ἴδες, [ὡς] ἔ̣σ̣τ̣η̣ς̣ [ ]ιδου[ . ]α̣ θαρσαλέη τάδ’ ἔλεξας [ ]. . . . ρ̣[ ] δ̣αίμον’ ὑπ’ ὠδίνεσσι βαρυνομένην ὁρόωσα· ‘Ἥρη, τοῦτό με ῥέξον ὅ τοι φίλον· οὐ γὰρ ἀπειλάς ὑμετέρας ἐφύλαξα· πέρα, πέρα εἰς ἐμέ, Λητοῖ.‘ ἔννεπες· ἡ δ’ ἀρητὸν ἄλης ἀπεπαύσατο †λυγρῆς, ἕζετο δ’ Ἰνωποῖο παρὰ ῥόον ὅν τε βάθιστον γαῖα τότ’ ἐξανίησιν, ὅτε πλήθοντι ῥεέθρῳ Νεῖλος ἀπὸ κρημνοῖο κατέρχεται Αἰθιοπῆος· λύσατο δὲ ζώνην, ἀπὸ δ’ ἐκλίθη ἔμπαλιν ὤμοις φοίνικος ποτὶ πρέμνον ἀμηχανίης ὑπὸ λυγρῆς τειρομένη· νότιος δὲ διὰ χροὸς ἔρρεεν ἱδρώς. εἶπε δ’ ἀλυσθενέουσα· ‘τί μητέρα, κοῦρε, βαρύνεις; αὕτη τοι, φίλε, νῆσος ἐπιπλώουσα θαλάσσῃ. γείνεο, γείνεο, κοῦρε, καὶ ἤπιος ἔξιθι κόλπου.‘ νύμφα Διὸς βαρύθυμε, σὺ δ’ οὐκ ἄρ’ ἔμελλες ἄπυστος δὴν ἔμεναι· τοίη σε προσέδραμεν ἀγγελιῶτις, εἶπε δ’ ἔτ’ ἀσθμαίνουσα, φόβῳ δ’ ἀνεμίσγετο μῦθος· ‘Ἥρη τιμήεσσα, πολὺ προὔχουσα θεάων, σὴ μὲν ἐγώ, σὰ δὲ πάντα, σὺ δὲ κρείουσα κάθησαι γνησίη Οὐλύμποιο, καὶ οὐ χέρα δείδιμεν ἄλλην θηλυτέρην, σὺ δ’, ἄνασσα, τὸν αἴτιον εἴσεαι ὀργῆς. Λητώ τοι μίτρην ἀναλύεται ἔνδοθι νήσου. ἄλλαι μὲν πᾶσαί μιν ἀπέστυγον οὐδ’ ἐδέχοντο· Ἀστερίη δ’ ὀνομαστὶ παρερχομένην ἐκάλεσσεν, Ἀστερίη, πόντοιο κακὸν σάρον· οἶσθα καὶ αὐτή. ἀλλά, φίλη, δύνασαι γάρ, ἀμύνεο πότνια δούλους ὑμετέρους, οἳ σεῖο πέδον πατέουσιν ἐφετμήν.‘ ἦ καὶ ὑπὸ χρύσειον ἐδέθλιον ἷζε κύων ὥς, Ἀρτέμιδος ἥτις τε, θοῆς ὅτε παύσεται ἄγρης, ἵζει θηρήτειρα παρ’ ἴχνεσιν, οὔατα δ’ αὐτῆς ὀρθὰ μάλ’, αἰὲν ἑτοῖμα θεῆς ὑποδέχθαι ὀμοκλήν· τῇ ἰκέλη Θαύμαντος ὑπὸ θρόνον ἵζετο κούρη. κείνη δ’ οὐδέ ποτε σφετέρης ἐπιλήθεται ἕδρης, οὐδ’ ὅτε οἱ ληθαῖον ἐπὶ πτερὸν ὕπνος ἐρείσει, ἀλλ’ αὐτοῦ μεγάλοιο ποτὶ γλωχῖνα θρόνοιο τυτθὸν ἀποκλίνασα καρήατα λέχριος εὕδει. οὐδέ ποτε ζώνην ἀναλύεται οὐδὲ ταχείας ἐνδρομίδας, μή οἵ τι καὶ αἰφνίδιον ἔπος εἴπῃ δεσπότις. ἡ δ’ ἀλεγεινὸν ἀλαστήσασα προσηύδα· ‘οὕτω νῦν, ὦ Ζηνὸς ὀνείδεα, καὶ γαμέοισθε λάθρια καὶ τίκτοιτε κεκρυμμένα, μηδ’ ὅθι δειλαί δυστοκέες μογέουσιν ἀλετρίδες, ἀλλ’ ὅθι φῶκαι εἰνάλιαι τίκτουσιν, ἐνὶ σπιλάδεσσιν ἐρήμοις. Ἀστερίῃ δ’ οὐδέν τι βαρύνομαι εἵνεκα τῆσδε ἀμπλακίης, οὐδ’ ἔστιν ὅπως ἀποθύμια ῥέξω, τόσσα δέοι (μάλα γάρ τε κακῶς ἐχαρίσσατο Λητοῖ)· ἀλλά μιν ἔκπαγλόν τι σεβίζομαι, οὕνεκ’ ἐμεῖο δέμνιον οὐκ ἐπάτησε, Διὸς δ’ ἀνθείλετο πόντον.‘ ἡ μὲν ἔφη· κύκνοι δὲ †θεοῦ μέλποντες ἀοιδοί† Μῃόνιον Πακτωλὸν ἐκυκλώσαντο λιπόντες ἑβδομάκις περὶ Δῆλον, ἐπήεισαν δὲ λοχείῃ Μουσάων ὄρνιθες, ἀοιδότατοι πετεηνῶν (ἔνθεν ὁ παῖς τοσσάσδε λύρῃ ἐνεδήσατο χορδάς ὕστερον, ὁσσάκι κύκνοι ἐπ’ ὠδίνεσσιν ἄεισαν)· ὄγδοον οὐκέτ’ ἄεισαν, ὁ δ’ ἔκθορεν, αἱ δ’ ἐπὶ μακρόν νύμφαι Δηλιάδες, ποταμοῦ γένος ἀρχαίοιο, εἶπαν Ἐλειθυίης ἱερὸν μέλος, αὐτίκα δ’ αἰθήρ χάλκεος ἀντήχησε διαπρυσίην ὀλολυγήν. οὐδ’ Ἥρη νεμέσησεν, ἐπεὶ χόλον ἐξέλετο Ζεύς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(250)",
+      "text": "χρύσεά τοι τότε πάντα θεμείλια γείνετο Δῆλε, χρυσῷ δὲ τροχόεσσα πανήμερος ἔρρεε λίμνη, χρύσειον δ’ ἐκόμησε γενέθλιον ἔρνος ἐλαίης, χρυσῷ δὲ πλήμυρε βαθὺς Ἰνωπὸς ἑλιχθείς. αὐτὴ δὲ χρυσέοιο ἀπ’ οὔδεος εἵλεο παῖδα, ἐν δ’ ἐβάλευ κόλποισιν, ἔπος δ’ ἐφθέγξαο τοῖον· ‘ὦ μεγάλη, πολύβωμε, πολύπτολι, πολλὰ φέρουσα, πίονες ἤπειροί τε καὶ αἳ περιναίετε νῆσοι, αὕτη ἐγὼ τοιήδε· δυσήροτος, ἀλλ’ ἀπ’ ἐμεῖο Δήλιος Ἀπόλλων κεκλήσεται, οὐδέ τις ἄλλη γαιάων τοσσόνδε θεῷ πεφιλήσεται ἄλλῳ, οὐ Κερχνὶς κρείοντι Ποσειδάωνι Λεχαίῳ, οὐ πάγος Ἑρμείῃ Κυλλήνιος, οὐ Διὶ Κρήτη, ὡς ἐγὼ Ἀπόλλωνι· καὶ ἔσσομαι οὐκέτι πλαγκτή.‘ ὧδε σὺ μὲν κατέλεξας· ὁ δὲ γλυκὺν ἔσπασε μαζόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(250)",
+      "text": "τῷ καὶ νησάων ἁγιωτάτη ἐξέτι κείνου κλῄζῃ, Ἀπόλλωνος κουροτρόφος· οὐδέ ς’ Ἐνυώ οὐδ’ Ἀΐδης οὐδ’ ἵπποι ἐπιστείβουσιν Ἄρηος· ἀλλά τοι ἀμφιετεῖς δεκατηφόροι αἰὲν ἀπαρχαί πέμπονται, πᾶσαι δὲ χοροὺς ἀνάγουσι πόληες, αἵ τε πρὸς ἠοίην αἵ θ’ ἕσπερον αἵ τ’ ἀνὰ μέσσην κλήρους ἐστήσαντο, καὶ οἳ καθύπερθε βορείης οἰκία θινὸς ἔχουσι, πολυχρονιώτατον αἷμα. οἱ μέν τοι καλάμην τε καὶ ἱερὰ δράγματα πρῶτοι ἀσταχύων φορέουσιν· ἃ Δωδώνηθε Πελασγοί τηλόθεν ἐκβαίνοντα πολὺ πρώτιστα δέχονται, γηλεχέες θεράποντες ἀσιγήτοιο λέβητος· δεύτερον Ἴριον ἄστυ καὶ οὔρεα Μηλίδος αἴης ἔρχονται· κεῖθεν δὲ διαπλώουσιν Ἀβάντων εἰς ἀγαθὸν πεδίον Ληλάντιον· οὐδ’ ἔτι μακρός ὁ πλόος Εὐβοίηθεν, ἐπεὶ σέο γείτονες ὅρμοι. πρῶταί τοι τάδ’ ἔνεικαν ἀπὸ ξανθῶν Ἀριμασπῶν Οὖπίς τε Λοξώ τε καὶ εὐαίων Ἑκαέργη, θυγατέρες Βορέαο, καὶ ἄρσενες οἱ τότ’ ἄριστοι ἠιθέων· οὐδ’ οἵγε παλιμπετὲς οἴκαδ’ ἵκοντο, εὔμοιροι δ’ ἐγένοντο, καὶ ἀκλεὲς οὔποτ’ †ἐκεῖνοι. ἦ τοι Δηλιάδες μέν, ὅτ’ εὐηχὴς ὑμέναιος ἤθεα κουράων μορμύσσεται, ἥλικα χαίτην παρθενικαῖς, παῖδες δὲ θέρος τὸ πρῶτον ἰούλων ἄρσενες ἠιθέοισιν ἀπαρχόμενοι φορέουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(300)",
+      "text": "Ἀστερίη θυόεσσα, σὲ μὲν περί τ’ ἀμφί τε νῆσοι κύκλον ἐποιήσαντο καὶ ὡς χορὸν ἀμφεβάλοντο· οὔτε σιωπηλὴν οὔτ’ ἄψοφον οὖλος ἐθείραις Ἕσπερος, ἀλλ’ αἰεί σε καταβλέπει ἀμφιβόητον. οἱ μὲν ὑπαείδουσι νόμον Λυκίοιο γέροντος, ὅν τοι ἀπὸ Ξάνθοιο θεοπρόπος ἤγαγεν Ὠλήν· αἱ δὲ ποδὶ πλήσσουσι χορίτιδες ἀσφαλὲς οὖδας. δὴ τότε καὶ στεφάνοισι βαρύνεται ἱρὸν ἄγαλμα Κύπριδος ἀρχαίης ἀριήκοον, ἥν ποτε Θησεύς εἵσατο, σὺν παίδεσσιν ὅτε Κρήτηθεν ἀνέπλει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(300)",
+      "text": "οἱ χαλεπὸν μύκημα καὶ ἄγριον υἷα φυγόντες Πασιφάης καὶ γναμπτὸν ἕδος σκολιοῦ λαβυρίνθου, πότνια, σὸν περὶ βωμὸν ἐγειρομένου κιθαρισμοῦ κύκλιον ὠρχήσαντο, χοροῦ δ’ ἡγήσατο Θησεύς. ἔνθεν ἀειζώοντα θεωρίδος ἱερὰ Φοίβῳ Κεκροπίδαι πέμπουσι τοπήια νηὸς ἐκείνης. Ἀστερίη πολύβωμε πολύλλιτε, τίς δέ σε ναύτης ἔμπορος Αἰγαίοιο παρήλυθε νηὶ θεούσῃ; οὐχ οὕτω μεγάλοι μιν ἐπιπνείουσιν ἀῆται, χρειὼ δ’ ὅττι τάχιστον ἄγει πλόον, ἀλλὰ τὰ λαίφη ὠκέες ἐστείλαντο καὶ οὐ πάλιν αὖτις ἔβησαν, πρὶν μέγαν ἢ σέο βωμὸν ὑπὸ πληγῇσιν ἑλίξαι ῥησσόμενον καὶ πρέμνον ὀδακτάσαι ἁγνὸν ἐλαίης χεῖρας ἀποστρέψαντας· ἃ Δηλιὰς εὕρετο νύμφη παίγνια κουρίζοντι καὶ Ἀπόλλωνι γελαστύν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(300)",
+      "text": "ἱστίη ὦ νήσων εὐέστιε, χαῖρε μὲν αὐτή, χαίροι δ’ Ἀπόλλων τε καὶ ἣν ἐλοχεύσαο Λητώ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iso-ap",
+      "title": {
+        "english": "Causes",
+        "ancient_greek": "Αἴτια"
+      },
+      "url_slug": "callimachus-of-cyrene-causes-iso-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/causes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/causes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/causes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/causes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/causes.json"
+      }
+    },
+    {
+      "eul_wid": "iso-al",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-al-iso-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-al.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ag",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "callimachus-of-cyrene-fragments-iso-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ae",
+      "title": {
+        "english": "Fragments of Epigrams",
+        "ancient_greek": "Ἀποσπάσματα Ἐπιγραμμάτων"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-ae-iso-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-ae.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ab",
+      "title": {
+        "english": "Fragments of Uncertain Author",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Συγγραφέως"
+      },
+      "url_slug": "callimachus-of-cyrene-uncertain-author-fragments-iso-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/uncertain-author-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-author-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-author-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-author-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-author-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "iso-aa",
+      "title": {
+        "english": "Fragments of Uncertain Placement",
+        "ancient_greek": "Ἀποσπάσματα Ἀδήλου Θέσεως"
+      },
+      "url_slug": "callimachus-of-cyrene-uncertain-fragments-iso-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/uncertain-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/uncertain-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "iso-af",
+      "title": {
+        "english": "Grammatical Fragments",
+        "ancient_greek": "Γραμματικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "callimachus-of-cyrene-grammatical-fragments-iso-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/grammatical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/grammatical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/grammatical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/grammatical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/grammatical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "iso-aq",
+      "title": {
+        "english": "Hecale",
+        "ancient_greek": "Ἑκάλη"
+      },
+      "url_slug": "callimachus-of-cyrene-hecale-iso-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/hecale.json"
+      }
+    },
+    {
+      "eul_wid": "iso-am",
+      "title": {
+        "english": "Hymns",
+        "ancient_greek": "Ὕμνοι"
+      },
+      "url_slug": "callimachus-of-cyrene-epigrams-am-iso-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/epigrams-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/epigrams-am.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ar",
+      "title": {
+        "english": "Iambs",
+        "ancient_greek": "Ἴαμβοι"
+      },
+      "url_slug": "callimachus-of-cyrene-iambs-iso-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/iambs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/iambs.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ah",
+      "title": {
+        "english": "Lyric Poems",
+        "ancient_greek": "Λυρικὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-of-cyrene-lyric-poems-iso-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/lyric-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ac",
+      "title": {
+        "english": "Minor Epic and Elegiac Poems",
+        "ancient_greek": "Ἐλάσσονα Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-of-cyrene-minor-epics-elegiacs-iso-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/minor-epics-elegiacs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/minor-epics-elegiacs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/minor-epics-elegiacs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/minor-epics-elegiacs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/minor-epics-elegiacs.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxc-ah",
+      "title": {
+        "english": "Commentaries-Aristotle in Greek",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως ζῴων Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentaries-aristotle-uxc-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentaries-aristotle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentaries-aristotle.json"
+      }
+    },
+    {
+      "eul_wid": "tfq-aa",
+      "title": {
+        "english": "Commentary-Hermogenes' Book-Issues",
+        "ancient_greek": "Ὑπόμνημα εἰς τὸ Ἑρμογένους περὶ στάσεων"
+      },
+      "url_slug": "syrianus-of-athens-hermogenes-issues-tfq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/syrianus-of-athens/hermogenes-issues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-issues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-issues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-issues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/syrianus-of-athens/hermogenes-issues.json"
+      }
+    },
+    {
+      "eul_wid": "ljk-ag",
+      "title": {
+        "english": "Enquiry into Plants",
+        "ancient_greek": "Περὶ φυτῶν ἱστορία"
+      },
+      "url_slug": "theophrastus-of-eresus-enquiry-plants-ljk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/enquiry-plants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/enquiry-plants.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/enquiry-plants.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/enquiry-plants.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/enquiry-plants.json"
+      }
+    },
+    {
+      "eul_wid": "nbq-ab",
+      "title": {
+        "english": "On Passions, Book 2",
+        "ancient_greek": "Περὶ παθῶν"
+      },
+      "url_slug": "andronicus-of-rhodes-passions-book-2-nbq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/andronicus-of-rhodes/passions-book-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes/passions-book-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes/passions-book-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes/passions-book-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andronicus-of-rhodes/passions-book-2.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ad",
+      "title": {
+        "english": "On the Contemplative Life",
+        "ancient_greek": "Περὶ τοῦ Θεωρητικοῦ Βίου"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-ad-lgi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-ad.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bz",
+      "title": {
+        "english": "Politics",
+        "ancient_greek": "Πολιτικά"
+      },
+      "url_slug": "aristotle-politics-hgw-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/politics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/politics.json"
+      }
+    },
+    {
+      "eul_wid": "sno-ag",
+      "title": {
+        "english": "To King Helios, To Salustius",
+        "ancient_greek": "Εἰς τὸν βασιλέα Ἥλιον πρὸς Σαλούστιον"
+      },
+      "url_slug": "julian-the-apostate-helios-salustius-sno-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/julian-the-apostate/helios-salustius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julian-the-apostate/helios-salustius.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ab",
+      "title": {
+        "english": "Vatican Epicurean Gnomology",
+        "ancient_greek": "Γνωμολόγιον Βατικανὸν Ἐπικούρειον"
+      },
+      "url_slug": "epicurus-vatican-gnomology-hui-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/vatican-gnomology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/vatican-gnomology.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/callimachus-of-cyrene/delos",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/delos.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/delos.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/delos.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/delos.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ijs-aa",
+  "eul_aid": "ijs",
+  "author_slug": "alcimus-of-sicily",
+  "work_slug": "italian-antiquities",
+  "url_slug": "alcimus-of-sicily-italian-antiquities-ijs-aa",
+  "author": {
+    "english": "Alcimus of Sicily",
+    "ancient_greek": "Ἄλκιμος ὁ Σικελιώτης"
+  },
+  "title": {
+    "english": "Sicilian and Italian Antiquities",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Sicilian Antiquities by Alcimus on Eulogikon",
+    "meta_title": "Fragments of Sicilian Antiquities by Alcimus in Greek",
+    "meta_description": "Surviving fragments on Sicilian and Italian antiquities by Alcimus. Historical prose work. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Sicilian and Italian Antiquities</strong> by Alcimus of Sicily is a fragmentary antiquarian work, preserved only in seven quotations by later authors such as Athenaeus. The title, sometimes recorded as <strong>Excerpts</strong>, indicates it was likely a collection of notes on diverse topics rather than a continuous historical narrative. Its scope encompassed the origins, myths, and early history of Sicily and Italy. The extant fragments reveal a focus on local foundation myths, etymological explanations for place names, and elements of cultural history, including references to customs and notable figures. As a representative of Hellenistic local history and mythography, these fragments provide valuable evidence for regional traditions and are collected in modern editions of Greek historical fragments.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-6",
+      "text": "ΣΙΚΕΛΙΚΑ. Athenaeus VII: Ἄλκιμος δ’ ἐν τοῖς Σικελικοῖς ἐν Μεσσήνῃ φησὶ, τῇ κατὰ τὴν νῆσον, Βότρυν γενέσθαι, εὑρετὴν τῶν παραπλησίων παιγνίων τοῖς προσαγορευομένοις Σάλπης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Schol. Theocrit. I, 64: Ἡ δὲ Αἴτνη Σικελίας ὄρος ἐστὶν, ἀπὸ Αἴτνης τῆς Οὐρανοῦ καὶ τῆς Γῆς, ὥς φησιν Ἄλκιμος. Natalis Com.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "IX, 4: Alcimus in Rebus Siculis et Syracusius Nymphodorus chimaeram Lyciae montem esse dixerunt, in quo ignis nasceretur. Eius in summa parte leones dicti sunt habitasse, in medio erant uberrima et amoenissima pascua, ad radices serpentes. ΙΤΑΛΙΚΗ ΒΙΒΛΟΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (t)",
+      "text": "Athenaeus X: Ἄλκιμος δ’ ὁ Σικελιώτης ἐν τῇ ἐπιγραφομένῃ τῶν βίβλων Ἰταλικῇ, πάσας φησὶ τὰς ἐν Ἰταλίᾳ γυναῖκας μὴ πίνειν οἶνον ἀπὸ ταύτης τῆς αἰτίας· «Ἡρακλῆς, περὶ τὴν Κροτωνιᾶτιν γενόμενος, ἐπεὶ πρός τινα οἰκίαν, οὖσαν παρὰ τὴν ὁδὸν, διψῶν ἀφίκετο, προσελθὼν ᾔτει πιεῖν ἐντεῦθεν. Ἔτυχε δ’ ἡ γυνὴ τοῦ τὴν οἰκίαν κεκτημένου πίθον οἴνου λαθραίως ὑποίξασα· καὶ πρὸς μὲν τὸν ἄνδρα δεινὸν ἔφη ποιήσειν αὐτὸν, εἰ ξένου χάριν τὸν πίθον τοῦτον ἀνοίξειεν, ὕδωρ δ’ ἐκέλευσεν αὐτὸν προσενεγκεῖν. Ἡρακλῆς δ’ ἐπὶ θύραις ἑστὼς, καὶ ἀκούσας ταῦτα, τὸν μὲν ἄνδρα αὐτῆς σφόδρα ἐπῄνεσεν· ὃν καὶ ἐκέλευσεν, αὐτὸν παρέλθοντα εἴσω σκοπεῖν τὸν πίθον. Καὶ ὃς εἰσελθὼν λίθινον εὗρε τὸν πίθον γεγονότα. Τούτου δὲ τὸ σημεῖον ἔτι καὶ νῦν ἐστιν ἐν ταῖς ἐπιχωρίαις γυναιξὶ πάσαις, ἐν αἰσχρῷ κεῖσθαι τὸ πίνειν οἶνον, διὰ τὴν προκειμένην αἰτίαν.» Idem XII: Ὑπὸ δὲ τῆς τρυφῆς οἱ Τυρρηνοὶ, ὡς Ἄλκιμος ἱστορεῖ, πρὸς αὐλὸν μάττουσι καὶ πυκτεύουσι καὶ μαστιγοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Festus: Alcimus ait Tyrrhenia Aeneae natum filium Romulum fuisse, atque eo ortum Albam Aeneae neptem, cujus filius nomine Rhomus ( cod. Rhodius) condiderit urbem Romam. ΠΡΟΣ ΑΜΥΝΤΑΝ βιβλία τέτταρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Diogen. Laert. III, 9: Πολλὰ δὲ καὶ παρ’ Ἐπιχάρμου τοῦ κωμῳδιοποιοῦ προσωφέληται, τὰ πλεῖστα μεταγράψας, καθά φησιν Ἄλκιμος ἐν τοῖς πρὸς Ἀμύνταν, ἅ ἐστι τέτταρα. Ἔνθα καὶ ἐν τῷ πρώτῳ φησὶ ταῦτα· «Φαίνεται δὲ καὶ Πλάτων πολλὰ τῶν Ἐπιχάρμου λέγων· σκεπτέον δέ. Ὁ Πλάτων φησὶν αἰσθητὸν μὲν εἶναι τὸ μηδέποτε ἐν τῷ ποιῷ μηδὲ τῷ ποσῷ διαμένον, ἀλλ’ ἀεὶ ῥέον καὶ μεταβάλλον· ὡς ἐξ ὧν ἄν τις ἀνέλῃ τὸν ἀριθμὸν, τούτων οὔτε ἴσων οὔτε τινῶν οὔτε ποσῶν οὔτε ποιῶν ὄντων. Ταῦτα δ’ ἔστιν ὧν ἀεὶ γένεσις, οὐσία δὲ μηδέποτε πέφυκε. Νοητὸν δὲ οὗ μηδὲν ἀπογίνεται μηδὲ προσγίνεται. Τοῦτο δ’ ἔστιν ἡ τῶν ἀϊδίων φύσις, ἣν ὁμοίαν τε καὶ τὴν αὐτὴν ἀεὶ συμβέβηκεν εἶναι. Καὶ μὴν ὅ γε Ἐπίχαρμος περὶ τῶν αἰσθητῶν καὶ νοητῶν ἐναργῶς εἴρηκεν· Α. Ἀλλ’ ἀεὶ τοὶ θεοὶ παρῆσαν, ὑπέλιπον δ’ οὐ πώποκα· τάδε δ’ ἀεὶ πάρεσθ’ ὅμοια, διά τε τῶν αὐτῶν ἀεί. Β. Ἀλλὰ λέγεται μὰν χάος πρᾶτον γενέσθαι τῶν θεῶν. Α. Πῶς δ’; ἀμάχανόν γ’ ἀπ’ οὔτινος εἶμεν ὅ τι πρᾶτον μόλοι. Β. Οὐκ ἄρ’ ἔμολε πρᾶτον οὐδέν; Α. Οὐδὲ μὰ Δία δεύτερον τῶνδέ γ’ ὦν ἄμμες νὺν ὧδε λέγομες. Ἀλλὰ τᾷδ’ ἄθρει· αἴ ποτ’ ἀριθμόν τις περισσὸν, αἰ δὲ λῇς, τιν’ ἄρτιον ποτιθέμεν λῇ ψᾶφον ἢ καὶ τᾶν ὑπαρχουσᾶν λαβεῖν, ἦ δοκεῖ κά τοι τόχ’ ωὑτὸς εἶμεν; Β. Οὐκ ἐμίνγα κα. Α. Οὐδὲ μὰν οὐδ’ αἰ ποτὶ μέτρον παχυαῖον ποτιθέμεν λῇ τις ἕτερον μᾶκος ἢ τῶ πρόσθ’ ἐόντος ἀποταμεῖν, ἔτι χ’ ὑπάρχοι τῆνο τὸ μέτρον; Β. Οὐ γάρ. Α. Ὧδε νῦν ὅρη καὶ τὸς ἀνθρώπως· ὃ μὲν γὰρ αὔξεθ’, ὃ δέ γα μὰν φθίνει· ἐν μεταλλαγᾷ δὲ πάντες ἐντὶ πάντα τὸν χρόνον. Ὃ δὲ μεταλλάσσει κατὰ φύσιν κοὔποκ’ ἐν ταὐτῷ μένει, ἕτερον εἴη κα τόδ’ ἤδη τῶ παρεξεστακότος. Καὶ τὺ δὴ κἀγὼ χθὲς ἄλλοι καὶ νὺν ἄλλοι τελέθομες, καὖθις ἄλλοι κοὔποχ’ ωὑτοὶ καττὸν αὐτὸν αὖ λόγον.» Ἔτι φησὶν ὁ Ἄλκιμος καὶ ταυτί· «Φασὶν οἱ σοφοὶ τὴν ψυχὴν τὰ μὲν διὰ τοῦ σώματος αἰσθάνεσθαι, οἷον ἀκούουσαν, βλέπουσαν· τὰ δ’ αὐτὴν καθ’ αὑτὴν ἐνθυμεῖσθαι, μηδὲν τῷ σώματι χρωμένην. Διὸ καὶ τῶν ὄντων τὰ μὲν αἰσθητὰ εἶναι, τὰ δὲ νοητά. Ὧν ἕνεκα καὶ Πλάτων ἔλεγεν ὅτι δεῖ τοὺς συνιδεῖν τὰς τοῦ παντὸς ἀρχὰς ἐπιθυμοῦντας πρῶτον μὲν αὐτὰς καθ’ αὑτὰς διελέσθαι τὰς ἰδέας, οἷον ὁμοιότητα καὶ μονάδα καὶ πλῆθος καὶ μέγεθος καὶ στάσιν καὶ κίνησιν· δεύτερον αὐτὸ καθ’ αὑτὸ τὸ καλὸν καὶ ἀγαθὸν καὶ δίκαιον καὶ τὰ τοιαῦτα ὑποθέσθαι· τρίτον τῶν ἰδεῶν συνιδεῖν ὅσαι πρὸς ἀλλήλας εἰσὶν, οἷον ἐπιστήμην ἢ μέγεθος ἢ δεσποτείαν· ἐνθυμουμένους ὅτι τὰ παρ’ ἡμῖν διὰ τὸ μετέχειν ἐκείνων ὁμώνυμα ἐκείνοις ὑπάρχει· λέγω δὲ οἷον δίκαια μὲν ὅσα τοῦ δικαίου, καλὰ δὲ ὅσα τοῦ καλοῦ. Ἔστι δὲ τῶν εἰδῶν ἓν ἕκαστον ἀΐδιόν τε καὶ νόημα καὶ πρὸς τούτοις ἀπαθές· διὸ καί φησιν ἐν τῇ φύσει τὰς ἰδέας ἑστάναι καθάπερ παραδείγματα· τὰ δ’ ἄλλα ταύταις ἐοικέναι, τούτων ὁμοιώματα καθεστῶτα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (50)",
+      "text": "Ὁ τοίνυν Ἐπίχαρμος περί τε τοῦ ἀγαθοῦ καὶ περὶ τῶν ἰδεῶν οὕτω λέγει· Α. Ἆρ’ ἔστιν αὔλησίς τι πρᾶγμα; Β. Πάνυ μὲν ὦν. Α. Ἄνθρωπος ὦν αὔλησίς ἐστιν; Β. Οὐδαμῶς. Α. Φέρ’ ἴδω, τίς αὐλητάς; τίς εἶμέν τοι δοκεῖ; ἄνθρωπος. Οὐ γάρ; Β. Πάνυ μὲν ὦν. Α. Οὐκ ὦν δόκει οὕτως ἔχειν τοι καὶ περὶ τὠγαθῶ; τὸ μὲν ἀγαθὸν τὶ πρᾶγμ’ εἶμεν καθ’ αὗθ’· ὅστις δέ κα εἰδῇ μαθὼν τῆν’, ἀγαθὸς ἤδη γίγνεται, ὥσπερ γα τὰν αὔλησιν αὐλητὰς μαθὼν, ἢ ὄρχησιν ὀρχηστάς τις, ἢ πλοκεὺς πλοκὰν, ἢ πᾶν γ’ ὁμοίως τῶν τοιούτων ὅ τι τὺ λῇς, οὐ χ’ αὑτὸς εἴη τᾷ τέχνᾳ· τεχνικός γα μάν. Πλάτων ἐν τῇ περὶ τῶν ἰδεῶν ὑπολήψει φησίν· «Εἴπερ ἐστὶ μνήμη, τὰς ἰδέας ἐν τοῖς οὖσιν ὑπάρχειν διὰ τὸ τὴν μνήμην ἠρεμοῦντός τινος καὶ μένοντος εἶναι· μένειν δὲ οὐδὲν ἕτερον ἢ τὰς ἰδέας. Τίνα γὰρ ἂν τρόπον, φησὶ, διεσώζετο τὰ ζῷα μὴ τῆς ἰδέας ἐφαπτόμενα, καὶ πρὸς τοῦτο τὸν νοῦν φυσικῶς εἰληφότα;» Νῦν δὲ μνημονεύει τῆς ὁμοιότητός τε καὶ τροφῆς, ὁποία τίς ἐστιν αὐτοῖς, ἐνδεικνύμενα διότι πᾶσι τοῖς ζῴοις ἔμφυτός ἐστιν ἡ τῆς ὁμοιότητος θεωρία· διὸ καὶ τῶν ὁμοφύλων αἰσθάνεται. Πῶς οὖν ὁ Ἐπίχαρμος; Εὔμαιε, τὸ σοφόν ἐστιν οὐ καθ’ ἓν μόνον, ἀλλ’ ὁπόσα περ ζῇ, πάντα καὶ γνώμαν ἔχει. Καὶ γὰρ τὸ θῆλυ τᾶν ἀλεκτορίδων γένος, αἰ λῇς καταμαθεῖν ἀτενὲς, οὐ τίκτει τέκνα ζῶντ’, ἀλλ’ ἐπῴζει καὶ ποιεῖ ψυχὰν ἔχειν· τὸ δὲ σοφὸν ἁ φύσις τόδ’ οἶδεν ὡς ἔχει μόνα· πεπαίδευται γὰρ αὐταύτας ὕπο. Καὶ πάλιν· Θαυμαστὸν ὦν οὐδὲν ἐμὲ ταῦθ’ οὕτω λέγειν, οὐδ’ ἁνδάνειν αὑτοῖσιν αὐτοὺς καὶ δοκεῖν καλῶς πεφύκει· καὶ γὰρ ἁ κύων κυνὶ κάλλιστον εἶμεν φαίνεται, καὶ βοῦς βοῒ, ὄνος δ’ ὄνῳ κάλλιστον, ὗς δὲ θὴν ὑΐ.» Καὶ ταῦτα μὲν καὶ τὰ τοιαῦτα διὰ τῶν τεσσάρων βιβλίων παραπήγνυσιν ὁ Ἄλκιμος, παρασημαίνων τὴν ἐξ Ἐπιχάρμου Πλάτωνι περιγινομένην ὠφέλειαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mks-aa",
+      "title": {
+        "english": "Chronicles of Time",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antileon-the-historian-chronicles-time-mks-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antileon-the-historian/chronicles-time",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antileon-the-historian/chronicles-time.json"
+      }
+    },
+    {
+      "eul_wid": "mmq-aa",
+      "title": {
+        "english": "Fragments on Cumae",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύμης"
+      },
+      "url_slug": "hyperochus-of-cumae-fragments-mmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hyperochus-of-cumae/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hyperochus-of-cumae/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "qju-aa",
+      "title": {
+        "english": "Fragments on Heraclea's Tyrants",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν ἐν Ἡρακλείᾳ Τυράννων"
+      },
+      "url_slug": "memnon-of-heraclea-tyrants-qju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/memnon-of-heraclea/tyrants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea/tyrants.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea/tyrants.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea/tyrants.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/memnon-of-heraclea/tyrants.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-af",
+      "title": {
+        "english": "From the Italian",
+        "ancient_greek": "ἐκ τῆς Ἰταλικῆς"
+      },
+      "url_slug": "appian-of-alexandria-italian-pdc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/italian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/italian.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bm",
+      "title": {
+        "english": "Handbook",
+        "ancient_greek": "Ἐγχειρίδιον"
+      },
+      "url_slug": "historical-fragments-anonymous-handbook-mmg-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/handbook",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.json"
+      }
+    },
+    {
+      "eul_wid": "gnq-aa",
+      "title": {
+        "english": "On the Birds of Leros",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "clytus-the-historian-birds-leros-gnq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/clytus-the-historian/birds-leros",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/clytus-the-historian/birds-leros.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-an",
+      "title": {
+        "english": "Oxyrhynchus Chronicle",
+        "ancient_greek": "Ὀξυρρύγχιος Χρονική"
+      },
+      "url_slug": "historical-fragments-anonymous-oxyrhynchus-chronicle-mmg-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/oxyrhynchus-chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/oxyrhynchus-chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "otc-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "dictys-cretensis-testimonies-otc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dictys-cretensis/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dictys-cretensis/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/alcimus-of-sicily/italian-antiquities",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily/italian-antiquities.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily/italian-antiquities.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily/italian-antiquities.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alcimus-of-sicily/italian-antiquities.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

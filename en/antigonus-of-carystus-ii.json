@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "kku",
+  "auth_slug": "antigonus-of-carystus-ii",
+  "name": {
+    "english": "Antigonus of Carystus II",
+    "ancient_greek": "Ἀντίγονος ὁ Καρύστιος"
+  },
+  "seo_h1": "Antigonus of Carystus on Italic History and Biography",
+  "seo": {
+    "browser_title": "The Antigonus of Carystus on Eulogikon Greek Archive",
+    "meta_title": "Classical Antigonus of Carystus Ancient Greek Biography",
+    "meta_description": "Antigonus of Carystus, a 3rd century BCE Hellenistic biographer. His surviving works include biographical writings. Free to download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Βίος",
+      "english": "Biography",
+      "href": "/domains/biography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Antigonus of Carystus was a Greek biographer and art critic of the 3rd century BCE. A native of Carystus in Euboea, he was active in Athens and later at the court of Attalus I of Pergamum. He is considered a peripatetic biographer in method and is often distinguished from an earlier sculptor of the same name.</p>\n<p class=\"research-text\">His major work is the Lives of Philosophers, a collection of biographies now lost but preserved in fragments and later citations. He also produced descriptions of artworks, which may have formed a separate work or been part of his biographical writing.</p>\n<p class=\"research-text\">Antigonus is a significant fragmentary source for Hellenistic biography and art history. His Lives was used by later doxographers like Diogenes Laërtius, preserving valuable anecdotes and doctrinal information. His art descriptions provide important testimony for Greek sculpture and painting, and his career reflects the intellectual networks between Athens and Pergamum.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "kku-aa",
+      "title": {
+        "english": "Fragments on Italic History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας"
+      },
+      "url_slug": "antigonus-of-carystus-ii-italic-history-kku-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/antigonus-of-carystus-ii/italic-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antigonus-of-carystus-ii/italic-history.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/antigonus-of-carystus-ii",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antigonus-of-carystus-ii.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antigonus-of-carystus-ii.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antigonus-of-carystus-ii.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/antigonus-of-carystus-ii.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

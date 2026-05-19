@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "nlg",
+  "auth_slug": "juba-ii-of-mauretania",
+  "name": {
+    "english": "Juba II of Mauretania",
+    "ancient_greek": "Ἰοῦβας ὁ Μαυρουσίων βασιλεύς"
+  },
+  "seo_h1": "Juba II of Mauretania on Roman History",
+  "seo": {
+    "browser_title": "King Juba II of Mauretania on Eulogikon Greek Archive",
+    "meta_title": "Juba II of Mauretania Ancient Greek Historical Works",
+    "meta_description": "Juba II, Hellenistic king and scholar of the 1st century BCE. Works on geography and natural history. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Juba II was a king of Numidia and later Mauretania, and a prolific scholar. He lived from approximately 48 BCE to 23 CE. The son of Juba I, he was taken to Rome after his father’s defeat. There he was educated and became a client of the emperor Augustus. Augustus installed him as king of Mauretania around 25 BCE and arranged his marriage to Cleopatra Selene II, the daughter of Mark Antony and Cleopatra VII. His long reign, centered at Caesarea, was marked by significant building projects and the promotion of culture.</p>\n<p class=\"research-text\">A noted scholar-king, Juba authored numerous works in Greek, though none survive intact. His wide-ranging writings are known through fragments cited by later authors such as Plutarch and Athenaeus. Major works include the historical-geographical studies On Libya and On Arabia, a Roman History, and treatises on Assyria, painting, and theater. He also compiled a comparative work titled Resemblances and is credited with discovering and naming the plant euphorbia.</p>\n<p class=\"research-text\">Juba II exemplifies the Hellenistic scholar-king under Roman patronage, embodying the cultural integration of the empire. His lost writings were considered authoritative sources on North African and Roman geography, history, and antiquarian subjects.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "nlg-aa",
+      "title": {
+        "english": "Roman History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "juba-ii-of-mauretania-roman-history-nlg-aa",
+      "passages": 91,
+      "links": {
+        "html": "https://eulogikon.org/grc/juba-ii-of-mauretania/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/juba-ii-of-mauretania/roman-history.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/juba-ii-of-mauretania",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/juba-ii-of-mauretania.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/juba-ii-of-mauretania.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/juba-ii-of-mauretania.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/juba-ii-of-mauretania.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

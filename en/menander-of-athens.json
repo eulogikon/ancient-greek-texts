@@ -1,0 +1,744 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hps",
+  "auth_slug": "menander-of-athens",
+  "name": {
+    "english": "Menander of Athens",
+    "ancient_greek": "Μένανδρος ὁ Ἀθηναῖος"
+  },
+  "seo_h1": "Menander of Athens and the New Comedy of Human Affairs",
+  "seo": {
+    "browser_title": "Menander of Athens Ancient Greek Comedy on Eulogikon Archive",
+    "meta_title": "Classical Menander Ancient Greek Comedy Plays and Fragments",
+    "meta_description": "Menander, Athenian comic playwright of the Hellenistic period. Surviving comedies and fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menander was an Athenian comic playwright who lived from approximately 342 to 290 BCE during the Hellenistic period. He was born into a wealthy family and is said to have studied under Theophrastus, a philosopher and student of Aristotle. Menander was a friend of the governor Demetrius of Phaleron, an association that may have caused him political difficulty. According to ancient accounts, he died by drowning in the harbor of Piraeus.</p>\n<p class=\"research-text\">He was the leading figure of New Comedy, a style that shifted focus from political satire to comedies about domestic life, romantic entanglements, and character types. Menander was extraordinarily prolific, credited with composing over 100 plays, though only titles survive for most. For centuries, his work was known mainly through fragments and Roman adaptations. This changed dramatically in the 20th century with major papyrus discoveries that recovered large portions of his plays.</p>\n<p class=\"research-text\">His only complete surviving play is Dyskolos. Other significantly preserved works include Samia, Aspis, and Epitrepontes. According to modern scholars, Menander&#x27;s historical importance is immense. His plays were celebrated in antiquity for their realistic characters, sophisticated plots, and use of everyday language. Roman playwrights Plautus and Terence adapted his works, making him a foundational influence on the Western comic tradition. The rediscovery of his texts has restored his reputation, allowing direct appreciation of his intricate storytelling and humane portraits of Athenian society.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 43,
+  "works": [
+    {
+      "eul_wid": "hps-av",
+      "title": {
+        "english": "Apparition",
+        "ancient_greek": "Φάντασμα"
+      },
+      "url_slug": "menander-of-athens-apparition-hps-av",
+      "passages": 110,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/apparition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/apparition.json"
+      }
+    },
+    {
+      "eul_wid": "hps-az",
+      "title": {
+        "english": "Arbitration",
+        "ancient_greek": "Διαιτησία"
+      },
+      "url_slug": "menander-of-athens-arbitration-az-hps-az",
+      "passages": 897,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-az",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-az.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ax",
+      "title": {
+        "english": "Carthaginian",
+        "ancient_greek": "Καρχηδόνιος"
+      },
+      "url_slug": "menander-of-athens-carthaginian-hps-ax",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ba",
+      "title": {
+        "english": "Citharist",
+        "ancient_greek": "Κιθαριστής"
+      },
+      "url_slug": "menander-of-athens-citharist-hps-ba",
+      "passages": 74,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharist",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharist.json"
+      }
+    },
+    {
+      "eul_wid": "hps-af",
+      "title": {
+        "english": "Citharists, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κιθαριστῶν"
+      },
+      "url_slug": "menander-of-athens-citharists-fragments-hps-af",
+      "passages": 27,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/citharists-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/citharists-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bp",
+      "title": {
+        "english": "Colax",
+        "ancient_greek": "Κόλαξ"
+      },
+      "url_slug": "menander-of-athens-colax-hps-bp",
+      "passages": 132,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ak",
+      "title": {
+        "english": "Colax, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κόλακος"
+      },
+      "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+      "passages": 19,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ay",
+      "title": {
+        "english": "Coneazomenae",
+        "ancient_greek": "Κονεαζόμεναι"
+      },
+      "url_slug": "menander-of-athens-coneazomenae-hps-ay",
+      "passages": 28,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/coneazomenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/coneazomenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ar",
+      "title": {
+        "english": "Double Deceiver",
+        "ancient_greek": "Διπλοῦς Ἀπατεών"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-ar-hps-ar",
+      "passages": 74,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.json"
+      }
+    },
+    {
+      "eul_wid": "hps-as",
+      "title": {
+        "english": "Doubtful Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα"
+      },
+      "url_slug": "menander-of-athens-doubtful-fragment-hps-as",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/doubtful-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/doubtful-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "passages": 1188,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ao",
+      "title": {
+        "english": "Fragments of Arbitration",
+        "ancient_greek": "Ἀποσπάσματα τῆς Διαιτησίας"
+      },
+      "url_slug": "menander-of-athens-arbitration-ao-hps-ao",
+      "passages": 14,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/arbitration-ao",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/arbitration-ao.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ac",
+      "title": {
+        "english": "Fragments of Carthaginians Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Καρχηδονίων"
+      },
+      "url_slug": "menander-of-athens-carthaginians-fragments-hps-ac",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginians-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginians-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginians-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginians-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginians-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ag",
+      "title": {
+        "english": "Fragments of Georgus Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Γεωργοῦ"
+      },
+      "url_slug": "menander-of-athens-georgus-fragments-hps-ag",
+      "passages": 24,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aj",
+      "title": {
+        "english": "Fragments of Hero Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Ἥρωος"
+      },
+      "url_slug": "menander-of-athens-hero-fragments-hps-aj",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/hero-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ah",
+      "title": {
+        "english": "Fragments of the Asp Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τῆς Ἀσπίδος"
+      },
+      "url_slug": "menander-of-athens-asp-fragments-hps-ah",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/asp-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/asp-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/asp-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/asp-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/asp-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aa",
+      "title": {
+        "english": "Fragments of the Double Deceiver Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα τοῦ Διπλοῦ Ἀπατεῶνος"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-aa-hps-aa",
+      "passages": 5,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-aa.json"
+      }
+    },
+    {
+      "eul_wid": "hps-be",
+      "title": {
+        "english": "Fragments on Fortune and Folly",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τύχης καὶ Ἀφροσύνης"
+      },
+      "url_slug": "menander-of-athens-fortune-folly-hps-be",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/fortune-folly",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/fortune-folly.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bc",
+      "title": {
+        "english": "Fragments on Household and Fortune",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἴκου καὶ Τύχης"
+      },
+      "url_slug": "menander-of-athens-household-fortune-hps-bc",
+      "passages": 36,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/household-fortune",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/household-fortune.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/household-fortune.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/household-fortune.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/household-fortune.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bb",
+      "title": {
+        "english": "Fragments on Poverty and Conduct",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Ἀγωγῆς"
+      },
+      "url_slug": "menander-of-athens-poverty-conduct-hps-bb",
+      "passages": 1764,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-conduct",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-conduct.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bd",
+      "title": {
+        "english": "Fragments on Poverty and Labor",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Πόνου"
+      },
+      "url_slug": "menander-of-athens-poverty-labor-hps-bd",
+      "passages": 1659,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-labor",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-labor.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-labor.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-labor.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-labor.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bg",
+      "title": {
+        "english": "Fragments on Poverty and Social Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Κοινωνικοῦ Βίου"
+      },
+      "url_slug": "menander-of-athens-poverty-social-life-hps-bg",
+      "passages": 2118,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-social-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bn",
+      "title": {
+        "english": "Georgus",
+        "ancient_greek": "Γεωργός"
+      },
+      "url_slug": "menander-of-athens-georgus-hps-bn",
+      "passages": 132,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/georgus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/georgus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-al",
+      "title": {
+        "english": "Girl with Her Hair Cut Short",
+        "ancient_greek": "Ἡ Κομψικεκαρμένη"
+      },
+      "url_slug": "menander-of-athens-girl-with-her-hair-cut-short-hps-al",
+      "passages": 564,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/girl-with-her-hair-cut-short",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/girl-with-her-hair-cut-short.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bq",
+      "title": {
+        "english": "Hero",
+        "ancient_greek": "Ἥρως"
+      },
+      "url_slug": "menander-of-athens-hero-hps-bq",
+      "passages": 116,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/hero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/hero.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ab",
+      "title": {
+        "english": "Longer Fragments Preserved by Other Authors",
+        "ancient_greek": "Μακρότερα Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-longer-fragments-hps-ab",
+      "passages": 264,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/longer-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/longer-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bf",
+      "title": {
+        "english": "Menander's Comedic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-comedic-fragments-hps-bf",
+      "passages": 247,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/comedic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/comedic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bh",
+      "title": {
+        "english": "Misumenus",
+        "ancient_greek": "Μισούμενος"
+      },
+      "url_slug": "menander-of-athens-misumenus-hps-bh",
+      "passages": 352,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aq",
+      "title": {
+        "english": "Misumenus Fragments",
+        "ancient_greek": "Μισούμενος Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-misumenus-fragments-hps-aq",
+      "passages": 16,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-an",
+      "title": {
+        "english": "New Fragments of Misumenus",
+        "ancient_greek": "Νέα Ἀποσπάσματα Μισουμένου"
+      },
+      "url_slug": "menander-of-athens-new-misumenus-hps-an",
+      "passages": 114,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/new-misumenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/new-misumenus.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bi",
+      "title": {
+        "english": "Perinthia",
+        "ancient_greek": "Περίνθια"
+      },
+      "url_slug": "menander-of-athens-perinthia-hps-bi",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/perinthia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ad",
+      "title": {
+        "english": "Perinthia, Fragments Known from Elsewhere",
+        "ancient_greek": "Περίνθια Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-perinthia-fragments-hps-ad",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/perinthia-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/perinthia-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-at",
+      "title": {
+        "english": "Samian Woman",
+        "ancient_greek": "Σαμία"
+      },
+      "url_slug": "menander-of-athens-samian-woman-hps-at",
+      "passages": 1011,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/samian-woman",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/samian-woman.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ap",
+      "title": {
+        "english": "Sentences from Papyrus",
+        "ancient_greek": "Γνῶμαι ἐκ Παπύρου"
+      },
+      "url_slug": "menander-of-athens-papyrus-sentences-hps-ap",
+      "passages": 31,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/papyrus-sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/papyrus-sentences.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bo",
+      "title": {
+        "english": "Shield",
+        "ancient_greek": "Ἀσπίς"
+      },
+      "url_slug": "menander-of-athens-shield-hps-bo",
+      "passages": 643,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/shield",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bl",
+      "title": {
+        "english": "Sicyonian",
+        "ancient_greek": "Σικυώνιος"
+      },
+      "url_slug": "menander-of-athens-sicyon-hps-bl",
+      "passages": 445,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sicyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ai",
+      "title": {
+        "english": "Sicyonian Fragments Known Elsewhere",
+        "ancient_greek": "Σικυώνιος Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-sicyonian-fragments-hps-ai",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sicyonian-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyonian-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyonian-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyonian-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyonian-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bj",
+      "title": {
+        "english": "Single-Line Sentences (Long Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bj-hps-bj",
+      "passages": 86,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bk",
+      "title": {
+        "english": "Single-Line Sentences (Short Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bk-hps-bk",
+      "passages": 75,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bk",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bk.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bk.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bk.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bk.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ae",
+      "title": {
+        "english": "Theophorumenae Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-fragments-hps-ae",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aw",
+      "title": {
+        "english": "Theophorumene",
+        "ancient_greek": "Θεοφορουμένη"
+      },
+      "url_slug": "menander-of-athens-theophorumene-hps-aw",
+      "passages": 33,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumene.json"
+      }
+    },
+    {
+      "eul_wid": "hps-au",
+      "title": {
+        "english": "Uncertain Fable",
+        "ancient_greek": "Ἄδηλος Μῦθος"
+      },
+      "url_slug": "menander-of-athens-uncertain-fable-hps-au",
+      "passages": 87,
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/uncertain-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menander-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menander-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

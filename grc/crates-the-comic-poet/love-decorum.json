@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dac-ac",
+  "eul_aid": "dac",
+  "author_slug": "crates-the-comic-poet",
+  "work_slug": "love-decorum",
+  "url_slug": "crates-the-comic-poet-love-decorum-dac-ac",
+  "author": {
+    "english": "Crates the Comic Poet",
+    "ancient_greek": "Κράτης ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Love and Decorum",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἔρωτος καὶ Εὐσχημοσύνης"
+  },
+  "seo": {
+    "browser_title": "Fragments of Crates the Comic Poet on Eulogikon Archive",
+    "meta_title": "Fragments by Crates the Comic Poet in Ancient Greek",
+    "meta_description": "Seven surviving passages from the lost comedies of Crates. Explore themes of love and decorum. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κωμῳδία Ἀττική",
+      "english": "Attic Comedy",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Love and Decorum is a modern scholarly assemblage of seven surviving passages from the lost comedies of Crates, an Athenian comic poet active in the fifth century BCE. A contemporary of Aristophanes during the period of Old Comedy, Crates left no complete plays. These fragments, preserved solely through quotation by later authors such as Athenaeus in his <strong>Deipnosophistae</strong>, are written in Attic Greek verse and are drawn from various works, thematically grouped by modern editors for study. They provide brief insights into his comedic approach, which mocked social propriety and daily life while exploring erotic themes. Aristotle identified Crates as a significant transitional figure who helped shift comedy away from plots based on personal invective toward more universal narratives and situations, a development potentially reflected in these fragments&#x27; focus on general social behavior and decorum.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "cὲ δὲ χρὴ cιγᾶν μηδ’ ἀναγρύζειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "⏑–⏑⏑–⏑ καὶ μάλιcτ’ ἀφροδιcίοιc ἀθύρμαcιν· ἡδὺ γὰρ κἀκεῖνο τὸ δρᾶν, λέγε‐[ln_5]cθαι δ’ οὐ καλόν 〈ἐcτιν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "ἀνδριcτὶ μιμεῖcθαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "φωνήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ἀναcτῶ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἀντάκουε νῦν ἐμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "‚ἄναλτοc χύτρα‛.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dac-aa",
+      "title": {
+        "english": "Animated Feast",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "crates-the-comic-poet-animated-feast-dac-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/animated-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/animated-feast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/animated-feast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/animated-feast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/animated-feast.json"
+      }
+    },
+    {
+      "eul_wid": "dac-ab",
+      "title": {
+        "english": "Fragments of a Utopian Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐδαίμονος Δείπνου"
+      },
+      "url_slug": "crates-the-comic-poet-utopian-feast-dac-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/utopian-feast",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/utopian-feast.json"
+      }
+    },
+    {
+      "eul_wid": "dac-ad",
+      "title": {
+        "english": "Fragments on Eratosthenes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐρατοσθένους"
+      },
+      "url_slug": "crates-the-comic-poet-eratosthenes-fragments-dac-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "evu-ab",
+      "title": {
+        "english": "Confused Dinner Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-confused-dinner-guest-evu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/confused-dinner-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.json"
+      }
+    },
+    {
+      "eul_wid": "kpk-ac",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ac-kpk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.json"
+      }
+    },
+    {
+      "eul_wid": "hps-ar",
+      "title": {
+        "english": "Double Deceiver",
+        "ancient_greek": "Διπλοῦς Ἀπατεών"
+      },
+      "url_slug": "menander-of-athens-double-deceiver-ar-hps-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/double-deceiver-ar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/double-deceiver-ar.json"
+      }
+    },
+    {
+      "eul_wid": "fkk-ab",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-ab-fkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.json"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.json"
+      }
+    },
+    {
+      "eul_wid": "gdg-ab",
+      "title": {
+        "english": "Fragments on Morals",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἠθικῶν"
+      },
+      "url_slug": "philonides-the-comic-poet-morals-gdg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philonides-the-comic-poet/morals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/morals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/morals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/morals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philonides-the-comic-poet/morals.json"
+      }
+    },
+    {
+      "eul_wid": "lhc-ab",
+      "title": {
+        "english": "Fragments on Parasites and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Παρασίτων καὶ Ὑπερβολῆς"
+      },
+      "url_slug": "crobylus-the-comic-poet-parasites-excess-lhc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/crobylus-the-comic-poet/parasites-excess",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crobylus-the-comic-poet/parasites-excess.json"
+      }
+    },
+    {
+      "eul_wid": "edi-ab",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/crates-the-comic-poet/love-decorum",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/love-decorum.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/love-decorum.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/love-decorum.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/love-decorum.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

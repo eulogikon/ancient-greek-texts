@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jow",
+  "auth_slug": "melissa-the-pythagorean",
+  "name": {
+    "english": "Melissa the Pythagorean",
+    "ancient_greek": "Μέλισσα"
+  },
+  "seo_h1": "Melissa the Pythagorean in Her Letter to Cleareta",
+  "seo": {
+    "browser_title": "Melissa the Pythagorean on Eulogikon Greek Archive",
+    "meta_title": "The Melissa the Pythagorean Ancient Greek Treatise",
+    "meta_description": "Melissa, a Hellenistic Pythagorean philosopher of the 3rd century BCE. Her surviving work is a treatise. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Pythagorean",
+      "href": "/affiliations/pythagorean"
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Melissa was a philosopher of the Pythagorean school who lived during the Hellenistic period, most likely in the 3rd century BCE. She is known only from a single surviving work, a letter or treatise addressed to another woman named Cleareta. Written in the Doric dialect, common among Pythagorean communities in southern Italy, this letter provides a rare example of a philosophical text composed by a woman in the ancient Greek world.</p>\n<p class=\"research-text\">Her work, the Letter to Cleareta, is a short didactic text on the proper conduct and virtues expected of a wife. It emphasizes practical ethics such as modesty, self-control, fidelity, and prudent management of the household. According to modern scholars, these themes reflect the Pythagorean ideal of creating harmony and order, here applied specifically to domestic life.</p>\n<p class=\"research-text\">Melissa’s primary historical importance stems from her status as one of the very few female philosophers from antiquity whose own writing has been preserved. Her letter offers valuable insight into the moral education directed at women within the Pythagorean tradition. While the advice follows conventional ideals of the time, the fact that it is presented as philosophical guidance from one woman to another provides a unique perspective. She is often studied alongside other female Pythagorean figures like Theano and Phintys, whose works form a small but significant corpus of female-authored philosophical thought from the ancient world.</p>\n</div>",
+  "affiliation_label": "Pythagorean",
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jow-aa",
+      "title": {
+        "english": "Fragment of a Letter to Cleareta",
+        "ancient_greek": "Ἀπόσπασμα ἐπιστολῆς πρὸς Κλεαρέταν"
+      },
+      "url_slug": "melissa-the-pythagorean-letter-cleareta-jow-aa",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/melissa-the-pythagorean/letter-cleareta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melissa-the-pythagorean/letter-cleareta.json"
+      }
+    }
+  ],
+  "related_authors": [
+    {
+      "eul_aid": "dei",
+      "name": {
+        "english": "Apollodorus of Cyzicus",
+        "ancient_greek": "Ἀπολλόδωρος ὁ Κυζικηνός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollodorus-of-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollodorus-of-cyzicus.json"
+      }
+    },
+    {
+      "eul_aid": "nxe",
+      "name": {
+        "english": "Apollonius of Tyana",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 3,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana.json"
+      }
+    },
+    {
+      "eul_aid": "nwu",
+      "name": {
+        "english": "Apollonius of Tyana II",
+        "ancient_greek": "Ἀπολλώνιος ὁ Τυανεύς"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/apollonius-of-tyana-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/apollonius-of-tyana-ii.json"
+      }
+    },
+    {
+      "eul_aid": "faa",
+      "name": {
+        "english": "Archytas of Tarentum",
+        "ancient_greek": "Ἀρχύτας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/archytas-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/archytas-of-tarentum.json"
+      }
+    },
+    {
+      "eul_aid": "dck",
+      "name": {
+        "english": "Aresas of Lucania",
+        "ancient_greek": "Ἀρέσας ὁ Λευκανός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/aresas-of-lucania",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aresas-of-lucania.json"
+      }
+    },
+    {
+      "eul_aid": "dcu",
+      "name": {
+        "english": "Athamas of Posidonia",
+        "ancient_greek": "Ἀθάμας ὁ Ποσειδωνιάτης"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/athamas-of-posidonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/athamas-of-posidonia.json"
+      }
+    },
+    {
+      "eul_aid": "azu",
+      "name": {
+        "english": "Brontinus of Metapontum",
+        "ancient_greek": "Βροντῖνος ὁ Μεταποντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/brontinus-of-metapontum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/brontinus-of-metapontum.json"
+      }
+    },
+    {
+      "eul_aid": "bay",
+      "name": {
+        "english": "Cercops the Orphic",
+        "ancient_greek": "Κέρκωψ ὁ Ὀρφικός"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/cercops-the-orphic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/cercops-the-orphic.json"
+      }
+    },
+    {
+      "eul_aid": "hcg",
+      "name": {
+        "english": "Clinias of Tarentum",
+        "ancient_greek": "Κλεινίας ὁ Ταραντῖνος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/clinias-of-tarentum",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/clinias-of-tarentum.json"
+      }
+    },
+    {
+      "eul_aid": "gqi",
+      "name": {
+        "english": "Damon and Phintias",
+        "ancient_greek": "Δάμων καὶ Φιντίας"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/damon-and-phintias",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/damon-and-phintias.json"
+      }
+    },
+    {
+      "eul_aid": "ffa",
+      "name": {
+        "english": "Echecrates of Phlius",
+        "ancient_greek": "Ἐχεκράτης ὁ Φλιάσιος"
+      },
+      "work_count": 1,
+      "links": {
+        "html": "https://eulogikon.org/en/echecrates-of-phlius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/echecrates-of-phlius.json"
+      }
+    },
+    {
+      "eul_aid": "gqs",
+      "name": {
+        "english": "Ecphantus the Pythagorean",
+        "ancient_greek": "Ἔκφαντος ὁ Πυθαγόρειος"
+      },
+      "work_count": 2,
+      "links": {
+        "html": "https://eulogikon.org/en/ecphantus-the-pythagorean",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/ecphantus-the-pythagorean.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/en/melissa-the-pythagorean",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissa-the-pythagorean.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissa-the-pythagorean.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissa-the-pythagorean.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/melissa-the-pythagorean.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

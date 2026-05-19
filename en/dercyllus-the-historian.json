@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "gok",
+  "auth_slug": "dercyllus-the-historian",
+  "name": {
+    "english": "Dercyllus the Historian",
+    "ancient_greek": "Δερκύλλος ὁ ἱστορικός"
+  },
+  "seo_h1": "Argive Myth and Local History in Dercyllus the Historian",
+  "seo": {
+    "browser_title": "Dercyllus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Dercyllus the Historian Ancient Greek Works Collection",
+    "meta_description": "Dercyllus the Historian, a 4th century BCE Attic prose writer. Historical fragments from antiquity. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dercyllus the Historian was a 4th-century BCE author of a local history of Argos. No biographical details survive beyond this attribution. His obscurity is such that he is referenced primarily as a potential source used by later, more prominent historians.</p>\n<p class=\"research-text\">His sole known work is the Argolica, a history of Argos. The text is lost, surviving only in a handful of fragments and later citations. Dercyllus represents the genre of local history, or horography, common in the Classical period.</p>\n<p class=\"research-text\">His significance lies in his role as a source for Argive history, possibly utilized by later compilers like Diodorus Siculus. He serves as evidence for the breadth of historical writing beyond the major surviving authors.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "gok-aa",
+      "title": {
+        "english": "Regional Histories and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dercyllus-the-historian-regional-histories-myths-gok-aa",
+      "passages": 20,
+      "links": {
+        "html": "https://eulogikon.org/grc/dercyllus-the-historian/regional-histories-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dercyllus-the-historian/regional-histories-myths.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dercyllus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dercyllus-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dercyllus-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dercyllus-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dercyllus-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

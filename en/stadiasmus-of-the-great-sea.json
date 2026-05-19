@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "roy",
+  "auth_slug": "stadiasmus-of-the-great-sea",
+  "name": {
+    "english": "Stadiasmus of the Great Sea",
+    "ancient_greek": "Σταδιασμὸς ἢ περίπλους τῆς μεγάλης θαλάσσης"
+  },
+  "seo_h1": "The Stadiasmus of the Great Sea and Mediterranean Navigation",
+  "seo": {
+    "browser_title": "Stadiasmus of the Great Sea on Eulogikon Greek Archive",
+    "meta_title": "Stadiasmus of the Great Sea Ancient Greek Geography",
+    "meta_description": "Anonymous Roman era sailing guide for the Mediterranean Sea. Contains coastal navigation details. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Stadiasmus of the Great Sea is an anonymous ancient sailing guide from the Roman era. Modern scholars date the text to the 3rd century CE based on the place names and political geography it describes.</p>\n<p class=\"research-text\">The work is a periplous, a practical manual for sailors navigating the Mediterranean, which was often called the &quot;Great Sea.&quot; The text is a systematic catalog of harbors, safe anchorages, and coastal landmarks around the entire Mediterranean. It lists the distances between these points, measured in the ancient unit of stadia. Its purely technical and utilitarian style offers no details about the author&#x27;s life or background. The work survives in a single manuscript.</p>\n<p class=\"research-text\">According to scholars, the Stadiasmus is a valuable historical source. It provides a direct window into the practical knowledge used for maritime trade and travel in the Roman Empire. The guide is crucial for understanding ancient economic geography, shipping routes, and navigation techniques. It also serves as an important record for the study of ancient place names along the Mediterranean coast.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "roy-aa",
+      "title": {
+        "english": "Stadiasmus of the Great Sea",
+        "ancient_greek": "Σταδιασμὸς τοῦ Μεγάλου Πελάγους"
+      },
+      "url_slug": "stadiasmus-of-the-great-sea-periplous-roy-aa",
+      "passages": 207,
+      "links": {
+        "html": "https://eulogikon.org/grc/stadiasmus-of-the-great-sea/periplous",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stadiasmus-of-the-great-sea/periplous.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stadiasmus-of-the-great-sea/periplous.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stadiasmus-of-the-great-sea/periplous.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stadiasmus-of-the-great-sea/periplous.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/stadiasmus-of-the-great-sea",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stadiasmus-of-the-great-sea.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stadiasmus-of-the-great-sea.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stadiasmus-of-the-great-sea.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/stadiasmus-of-the-great-sea.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

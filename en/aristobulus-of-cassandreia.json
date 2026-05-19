@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "hiu",
+  "auth_slug": "aristobulus-of-cassandreia",
+  "name": {
+    "english": "Aristobulus of Cassandreia",
+    "ancient_greek": "Ἀριστόβουλος ὁ Κασσανδρεύς"
+  },
+  "seo_h1": "Aristobulus of Cassandreia on Alexander's Campaign",
+  "seo": {
+    "browser_title": "Aristobulus of Cassandreia on Eulogikon Greek Archive",
+    "meta_title": "Classical Aristobulus of Cassandreia Ancient Greek History",
+    "meta_description": "Aristobulus of Cassandreia was a 4th century BCE historian of Alexander the Great. His historical fragments. Free to download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aristobulus of Cassandreia was a Greek historian of the 4th century BCE. He participated in the campaigns of Alexander the Great, though his precise role—whether as an architect, engineer, or soldier—remains unclear. A contemporary of Alexander, he began composing his history at an advanced age, reportedly after 84. His city of origin, Cassandreia, was a Macedonian city originally named Potidaea and later refounded by Cassander.</p>\n<p class=\"research-text\">His only known work is the History of Alexander, a detailed account of Alexander&#x27;s campaigns written late in his life. The text does not survive intact but is preserved in fragments and through extensive quotation by later historians like Arrian. Aristobulus is a significant primary source for Alexander&#x27;s reign. Alongside Ptolemy I Soter, he was one of Arrian&#x27;s two main sources for the Anabasis of Alexander; Arrian praised him for his reliability and accuracy.</p>\n<p class=\"research-text\">His work exhibits a rationalizing tendency, offering naturalistic explanations for events often considered miraculous. Later historians like Strabo and Plutarch also used his history, which provides valuable participant perspectives on geography, events, and Alexander&#x27;s character.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "hiu-aa",
+      "title": {
+        "english": "Historical and Natural Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristobulus-of-cassandreia-historical-natural-fragments-hiu-aa",
+      "passages": 4,
+      "links": {
+        "html": "https://eulogikon.org/grc/aristobulus-of-cassandreia/historical-natural-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristobulus-of-cassandreia/historical-natural-fragments.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aristobulus-of-cassandreia",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-of-cassandreia.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-of-cassandreia.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-of-cassandreia.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aristobulus-of-cassandreia.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

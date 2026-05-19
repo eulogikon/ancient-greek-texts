@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "eaq",
+  "auth_slug": "agathon-of-athens",
+  "name": {
+    "english": "Agathon of Athens",
+    "ancient_greek": "Ἀγάθων Ἀθηναῖος"
+  },
+  "seo_h1": "Art, Chance, and Frailty in the Verse of Agathon of Athens",
+  "seo": {
+    "browser_title": "Agathon of Athens Tragedian on Eulogikon Greek Archive",
+    "meta_title": "Classical Agathon of Athens Ancient Greek Tragedian Works",
+    "meta_description": "Agathon was a classical Athenian tragedian of the 5th century BCE. His dramatic fragments survive. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δράμα Ἀττικόν",
+      "english": "Attic Drama",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Agathon was an Athenian tragic poet of the late 5th century BCE. He is a well-attested historical figure, celebrated for his first victory at the Lenaea festival in 416 BCE, an event dramatized in Plato&#x27;s Symposium where he appears as a character. Aristophanes parodied his ornate style and luxurious lifestyle in comedies like Thesmophoriazusae and Frogs.</p>\n<p class=\"research-text\">According to Aristotle, Agathon was innovative, being the first to compose choral odes detachable from the plot and to write a tragedy with entirely fictional characters. He later left Athens for the court of King Archelaus of Macedon, where he died.</p>\n<p class=\"research-text\">His works are almost entirely lost, surviving only in fragments and titles. Ancient sources attribute several plays to him, including Thyestes, Aerope, Telephus, Antheus, Alcmaeon, and Mysians. A single fragment of seven lines, possibly from Thyestes, is preserved by Aristotle.</p>\n<p class=\"research-text\">Agathon was a significant innovator in later Greek tragedy. His move toward invented plots and detachable choral songs marked a shift from traditional mythic cycles. His celebrity in Athenian intellectual circles and his distinctive, florid literary style, which influenced later rhetoric, made him a symbol of the sophisticated modern artist.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "eaq-aa",
+      "title": {
+        "english": "On Art, Chance, and Human Frailty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "agathon-of-athens-art-chance-frailty-eaq-aa",
+      "passages": 74,
+      "links": {
+        "html": "https://eulogikon.org/grc/agathon-of-athens/art-chance-frailty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathon-of-athens/art-chance-frailty.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/agathon-of-athens",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-athens.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-athens.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-athens.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/agathon-of-athens.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

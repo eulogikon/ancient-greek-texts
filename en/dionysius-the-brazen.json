@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "cwg",
+  "auth_slug": "dionysius-the-brazen",
+  "name": {
+    "english": "Dionysius the Brazen",
+    "ancient_greek": "Διονύσιος ὁ Χαλκοῦς"
+  },
+  "seo_h1": "Sympotic Verse by Dionysius the Brazen",
+  "seo": {
+    "browser_title": "Dionysius the Brazen on Eulogikon Greek Archive Library",
+    "meta_title": "Dionysius the Brazen Ancient Greek Poetry and Works",
+    "meta_description": "Dionysius the Brazen was a 5th century BCE Attic poet. Surviving works include his poetic fragments. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Dionysius the Brazen was an Athenian poet of the 5th century BCE. His epithet likely refers either to his profession as a bronzesmith or to the shameless nature of his verse. He is known solely from Aristotle’s <strong>Rhetoric</strong>, which cites him as an example of a poet whose slanderous, abusive poetry led to prosecution under Athenian law.</p>\n<p class=\"research-text\">No titles of his works survive. Aristotle’s reference confirms he composed abusive poems, which were evidently so defamatory they resulted in legal action against him.</p>\n<p class=\"research-text\">Dionysius represents the legal limits of free speech and invective poetry in classical Athens. His prosecution illustrates the social boundaries surrounding defamation, even within the established tradition of iambic blame poetry. Aristotle uses him as a case study on the consequences of slander.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "cwg-aa",
+      "title": {
+        "english": "Sympotic Verses for Dionysius",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dionysius-the-brazen-sympotic-verses-cwg-aa",
+      "passages": 22,
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-brazen/sympotic-verses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen/sympotic-verses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen/sympotic-verses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen/sympotic-verses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-brazen/sympotic-verses.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/dionysius-the-brazen",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-brazen.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-brazen.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-brazen.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/dionysius-the-brazen.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

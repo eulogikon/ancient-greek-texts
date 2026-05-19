@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "pvy",
+  "auth_slug": "menodotus-the-historian",
+  "name": {
+    "english": "Menodotus the Historian",
+    "ancient_greek": "Μηνόδοτος ὁ ἱστορικός"
+  },
+  "seo_h1": "Menodotus the Historian on the Famous People of Samos",
+  "seo": {
+    "browser_title": "Menodotus the Historian on Eulogikon Greek Archive",
+    "meta_title": "Menodotus the Historian Ancient Greek Historical Works",
+    "meta_description": "Menodotus the Historian, a 2nd century CE Greek historian. Historical fragments in Koine Greek. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Menodotus the Historian was a Greek author of the 2nd century CE. No details of his life, origins, or education survive. He is known solely as a historian, with his dating inferred from his citation alongside the contemporaneous writer Aristocles of Messene.</p>\n<p class=\"research-text\">His only attested work is the <strong>History of the Tyrants of Pergamum</strong>, which is not extant. It survives in fragments preserved by the later biographer Diogenes Laërtius, who used it as a source for information on philosophers connected to Pergamum, such as the skeptic Timon of Phlius.</p>\n<p class=\"research-text\">Menodotus’s significance lies entirely in his role as a fragmentary source for later compilers. His work provided biographical and historical details for Diogenes Laërtius’s <strong>Lives and Opinions of Eminent Philosophers</strong>, making him a minor source for the history of Pergamum and certain Hellenistic philosophers.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "pvy-aa",
+      "title": {
+        "english": "On the Famous People of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menodotus-the-historian-famous-people-pvy-aa",
+      "passages": 6,
+      "links": {
+        "html": "https://eulogikon.org/grc/menodotus-the-historian/famous-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/menodotus-the-historian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menodotus-the-historian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menodotus-the-historian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menodotus-the-historian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/menodotus-the-historian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "mdu",
+  "auth_slug": "moschus-of-syracuse",
+  "name": {
+    "english": "Moschus of Syracuse",
+    "ancient_greek": "Μόσχος ὁ Συρακούσιος"
+  },
+  "seo_h1": "Moschus of Syracuse and the Bucolic Tradition",
+  "seo": {
+    "browser_title": "Moschus of Syracuse on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Moschus of Syracuse Ancient Greek Bucolic Poetry",
+    "meta_description": "Moschus of Syracuse, a Hellenistic poet of Doric bucolic verse. Six surviving works are preserved. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρὶς βουκολική",
+      "english": "Doric Bucolic",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Moschus of Syracuse was a Hellenistic bucolic poet of the 2nd century BCE, traditionally considered a pupil of Theocritus and a contemporary of Bion. His epithet indicates his origin in Syracuse, Sicily, the foundational city of the bucolic genre, but no further biographical details survive.</p>\n<p class=\"research-text\">His small surviving corpus includes the miniature epic Europa, which narrates Zeus&#x27;s abduction of Europa. Other notable works are Love the Runaway and the Epitaph on Bion, a pastoral elegy lamenting the poet Bion. A handful of minor fragments are also attributed to him.</p>\n<p class=\"research-text\">Moschus is a significant figure in the Hellenistic bucolic tradition. Europa is an important early example of the epyllion, or &quot;little epic,&quot; focusing on a single myth with vivid description. The Epitaph on Bion became a key model for pastoral elegy. His polished style and contributions to these genres secured his place as a canonical bucolic poet.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 6,
+  "works": [
+    {
+      "eul_wid": "mdu-ad",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "moschus-of-syracuse-epigrams-mdu-ad",
+      "passages": 35,
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-aa",
+      "title": {
+        "english": "Epitaph for Bion",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "moschus-of-syracuse-epitaph-bion-mdu-aa",
+      "passages": 11,
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-ab",
+      "title": {
+        "english": "Eros the Runaway",
+        "ancient_greek": "Ἔρως δραπέτης"
+      },
+      "url_slug": "moschus-of-syracuse-eros-runaway-mdu-ab",
+      "passages": 3,
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/eros-runaway",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-ae",
+      "title": {
+        "english": "Europe",
+        "ancient_greek": "Εὐρώπη"
+      },
+      "url_slug": "moschus-of-syracuse-europe-mdu-ae",
+      "passages": 13,
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/europe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/europe.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-ac",
+      "title": {
+        "english": "Fragments of Bucolic Poetry",
+        "ancient_greek": "Ἀποσπάσματα Βουκολικῆς Ποίησεως"
+      },
+      "url_slug": "moschus-of-syracuse-bucolic-fragments-mdu-ac",
+      "passages": 26,
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/bucolic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/bucolic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-af",
+      "title": {
+        "english": "Megara",
+        "ancient_greek": "Μεγάρα"
+      },
+      "url_slug": "moschus-of-syracuse-megara-mdu-af",
+      "passages": 9,
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/moschus-of-syracuse",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/moschus-of-syracuse.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/moschus-of-syracuse.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/moschus-of-syracuse.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/moschus-of-syracuse.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,99 @@
+---
+title: Testimonies
+title_greek: Μαρτυρίαι
+author: Alcmaeon of Croton
+eul_wid: bmw-aa
+eul_aid: bmw
+canonical: "https://eulogikon.org/grc/alcmaeon-of-croton/testimonies"
+period: Archaic
+dialect: Ionic (frg)
+domain: Philosophy
+format: Collection
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Testimonies
+
+*Μαρτυρίαι*
+
+**Author:** Alcmaeon of Croton
+
+**eul_wid:** `bmw-aa` · [HTML page](https://eulogikon.org/grc/alcmaeon-of-croton/testimonies)
+
+## Text
+
+### 1
+
+DIOG. VIII 83. Ἀλκμαίων Κροτωνιάτης. καὶ οὗτος Πυθαγόρου διήκουσε. καὶ τὰ πλεῖστά γε [τὰ] ἰατρικὰ λέγει, ὅμως δὲ καὶ φυσιολογεῖ ἐνίοτε λέγων ‘δύο τὰ πολλά ἐστι τῶν ἀνθρωπίνων‘ [vgl. I 211, 18]. δοκεῖ δὲ πρῶτος φυσικὸν λόγον συγγεγραφέναι, καθά φησι Φαβωρῖνος ἐν Παντοδαπῆι ἱστορίαι [FHG III 25]. καὶ τὴν σελήνην καθόλου 〈τε τὰ ὑπὲρ〉 ταύτην ἔχειν ἀίδιον φύσιν. (ἦν δὲ Πειρίθου υἱός, ὡς αὐτὸς ἐναρχόμενος τοῦ συγγράμματός φησιν ‘ Ἀλκμαίων .. . τεκμαίρεσθαι ‘ κτἑ. [Β 1]). ἔφη δὲ καὶ τὴν ψυχὴν ἀθάνατον, καὶ κινεῖσθαι αὐτὴν συνεχὲς ὡς τὸν ἥλιον.
+
+### 2
+
+CLEM. Strom. I 78 (II 51, 1 St.) Ἀ. γοῦν Περίθου Κροτωνιάτης πρῶτος φυσικὸν λόγον συνέταξεν. GAL. de elem. sec. Hipp. I 9. (I 487 K., 54, 18 Helmr.) τὰ γὰρ τῶν παλαιῶν ἅπαντα Περὶ φύσεως ἐπιγέγραπται, τὰ Μελίσσου, τὰ Παρμενίδου, τὰ Ἐμπεδοκλέους Ἀλκμαίωνός τε καὶ Γοργίου καὶ Προδίκου καὶ τῶν ἄλλων ἁπάντων. ISIDOR. Orig. I 40, 1 fabulas poetae a fando nominaverunt, quia non sunt res factae, sed tantummodo loquendo fictae. quae ideo sunt inductae, ut ficto animalium mutorum inter se colloquio imago quaedam hominum vitae nosceretur. has primus invenisse traditur Alcimon [ sic] Crotoniensis, appellanturque Aesopicae, quod is apud Phrygas in hac re polluit.
+
+### 3
+
+ARIST. Metaph. A 5 986a 22 ἕτεροι δὲ τῶν αὐτῶν τούτων τὰς ἀρχὰς δέκα λέγουσιν εἶναι τὰς κατὰ συστοιχίαν λεγομένας, πέρας καὶ ἄπειρον, περιττὸν καὶ ἄρτιον, ἓν καὶ πλῆθος, δεξιὸν καὶ ἀριστερόν, ἄρρεν καὶ θῆλυ, ἠρεμοῦν καὶ κινούμενον, εὐθὺ καὶ καμπύλον, φῶς καὶ σκότος, ἀγαθὸν καὶ κακόν, τετράγωνον καὶ ἑτερόμηκες. ὅνπερ τρόπον ἔοικε καὶ Ἀ. ὁ Κροτωνιάτης ὑπολαβεῖν, καὶ ἤτοι οὗτος παρ’ ἐκείνων ἢ ἐκεῖνοι παρὰ τούτου παρέλαβον τὸν λόγον τοῦτον· καὶ γὰρ ἐγένετο τὴν ἡλικίαν Ἀλκμαίων 〈νέοσ〉 ἐπὶ γέροντι Πυθαγόραι, ἀπεφήνατο δὲ παραπλησίως τούτοις· φησὶ γὰρ εἶναι δύο τὰ πολλὰ τῶν ἀνθρωπίνων, λέγων τὰς ἐναντιότητας οὐχ ὥσπερ οὗτοι διωρισμένας ἀλλὰ τὰς τυχούσας, οἷον λευκὸν μέλαν, γλυκὺ πικρόν, ἀγαθὸν κακόν, μέγα μικρόν. οὗτος μὲν οὖν ἀδιορίστως ἀπέρριψε περὶ τῶν λοιπῶν, οἱ δὲ Πυθαγόρειοι καὶ πόσαι καὶ τίνες αἱ ἐναντιώσεις ἀπεφήναντο. παρὰ μὲν οὖν τούτων ἀμφοῖν τοσοῦτον ἔστι λαβεῖν, ὅτι τἀναντία ἀρχαὶ τῶν ὄντων [vgl. Arist. Schrift Πρὸς τὰ Ἀλκμαίωνος α Diog. v 25]. ISOCR. 15, 268 τοὺς λόγους τῶν παλαιῶν σοφιστῶν, ὧν ὁ μὲν ἄπειρον τὸ πλῆθος ἔφησεν εἶναι τῶν ὄντων, Ἐμπεδοκλῆς δὲ τέτταρα καὶ Νεῖκος καὶ Φιλίαν ἐν αὐτοῖς, Ἴων δ’ οὐ πλείω τῶν τριῶν, Ἀλκμέων δὲ δύο μόνα. SCHOL. BASIL. ed. Pasquali n. 3 [ Gött. Nachr. 1910, 196] Ἀ. ἀντιθέσεις.
+
+### 4
+
+AËT. II 16, 2. 3 (D. 345) (τῶν μαθηματικῶν τινες) τοὺς πλανήτας τοῖς ἀπλανέσιν ἀπὸ δυσμῶν ἐπ’ ἀνατολὰς ἀντιφέρεσθαι. τούτωι δὲ συνομολογεῖ καὶ Ἀ. II 22, 4 (D. 352) Ἀ. πλατὺν εἶναι τὸν ἥλιον. 29, 3 (D. 359) Ἀ., Ἡράκλειτος [22 A 12], Ἀντιφῶν [87 B 28] κατὰ τὴν τοῦ σκαφοειδοῦς στροφὴν καὶ τὰς περικλίσεις (ἐκλείπειν τὴν σελήνην).
+
+### 5
+
+THEOPHR. de sens. 25f. (D. 506) τῶν δὲ μὴ τῶι ὁμοίωι ποιούντων τὴν αἴσθησιν Ἀ. μὲν πρῶτον ἀφορίζει τὴν πρὸς τὰ ζῶια διαφοράν. ἄνθρωπον γάρ φησι τῶν ἄλλων διαφέρειν ὅτι μόνον ξυνίησ ι , τὰ δ ’ ἄλλα αἰσθάνεται μέ ν , οὐ ξυνίησι δέ [B 1a], ὡς ἕτερον ὂν τὸ φρονεῖν καὶ αἰσθάνεσθαι, καὶ οὔ, καθάπερ Ἐμπεδοκλῆς, ταὐτόν· ἔπειτα περὶ ἑκάστης λέγει. ἀκούειν μὲν οὖν φησι τοῖς ὠσίν, διότι κενὸν ἐν αὐτοῖς ἐνυπάρχει· τοῦτο γὰρ ἠχεῖν (φθέγγεσθαι δὲ τῶι κοίλωι), τὸν ἀέρα δ’ ἀντηχεῖν. ὀσφραίνεσθαι δὲ ῥισὶν ἅμα τῶι ἀναπνεῖν ἀνάγοντα τὸ πνεῦμα πρὸς τὸν ἐγκέφαλον. γλώττηι δὲ τοὺς χυμοὺς κρίνειν· χλιαρὰν γὰρ οὖσαν καὶ μαλακὴν τήκειν τῆι θερμότητι· δέχεσθαι δὲ καὶ διαδιδόναι διὰ τὴν μανότητα καὶ ἁπαλότητα. (26) ὀφθαλμοὺς δὲ ὁρᾶν διὰ τοῦ πέριξ ὕδατος. ὅτι δ’ ἔχει πῦρ, δῆλον εἶναι· πληγέντος γὰρ ἐκλάμπειν. ὁρᾶν δὲ τῶι στίλβοντι καὶ τῶι διαφανεῖ, ὅταν ἀντιφαίνηι, καὶ ὅσον ἂν καθαρώτερον ἦι, μᾶλλον. ἁπάσας δὲ τὰς αἰσθήσεις συνηρτῆσθαί πως πρὸς τὸν ἐγκέφαλον· διὸ καὶ πηροῦσθαι κινουμένου καὶ μεταλλάττοντος τὴν χώραν· ἐπιλαμβάνειν γὰρ τοὺς πόρους, δι’ ὧν αἱ αἰσθήσεις. περὶ δὲ ἁφῆς οὐκ εἴρηκεν οὔτε πῶς οὔτε τίνι γίνεται. [ἀλλ’] Ἀ. μὲν οὖν ἐπὶ τοσοῦτον ἀφώρικεν.
+
+### 6
+
+AËT. IV 16, 2 (D. 406) Ἀ. ἀκούειν ἡμᾶς τῶι κενῶι τῶι ἐντὸς τοῦ ὠτός· τοῦτο γὰρ εἶναι τὸ διηχοῦν κατὰ τὴν τοῦ πνεύματος εἰσβολήν· πάντα γὰρ τὰ κοῖλα ἠχεῖ vgl. A 5. Arist. de an. B 8. 419b 34. Hipp. de carn. 15 (VIII 603 L.).
+
+### 7
+
+ARIST. Hist. anim. A 11. 492a 13 κεφαλῆς μόριον, δι’ οὗ ἀκούει, ἄπνουν, τὸ οὖς· Ἀ. γὰρ οὐκ ἀληθῆ λέγει, φάμενος ἀναπνεῖν τὰς αἶγας κατὰ τὰ ὦτα.
+
+### 8
+
+AËT. IV 17, 1 (D. 407) Ἀ. ἐν τῶι ἐγκεφάλωι εἶναι τὸ ἡγεμονικόν· τούτωι οὖν ὀσφραίνεσθαι ἕλκοντι διὰ τῶν ἀναπνοῶν τὰς ὀσμάς.
+
+### 9
+
+—IV 18, 1 (D. 407) Ἀ. τῶι ὑγρῶι καὶ τῶι χλιαρῶι τῶι ἐν τῆι γλώττηι πρὸς τῆι μαλακότητι διακρίνεσθαι τοὺς χυμούς.
+
+### 10
+
+—IV 13, 12 (D. 404) Ἀ. κατὰ τὴν τοῦ διαφανοῦς ἀντίληψιν (τὴν ὅρασιν γίνεσθαι). CHALCID. in Tim. p. 279 Wrob. demonstranda igitur oculi natura est, de qua cum plerique alii tum Alcmaeo Crotoniensis in physicis exercitatus quique primus exsectionem adgredi est ausus, et Callisthenes, Aristotelis auditor, et Herophilus multa et praeclara in lucem protulerunt: duas esse angustas semitas, quae a cerebri sede, in qua est sita potestas animae summa ac principalis, ad oculorum cavernas meent naturalem spiritum continentes. quae cum ex uno initio eademque radice progressae aliquantisper coniunctae sint in frontis intimis, separatae bivii specie perveniunt ad oculorum concavas sedes, qua superciliorum obliqui tramites porriguntur, sinuataeque illic tunicarum gremio naturalem umorem recipiente globos complent munitos tegmine palpebrarum, ex quo appellantur orbes. porro quod ex una sede progrediantur luciferae semitae, docet quidem sectio principaliter; nihilo minus tamen intelligitur ex eo quoque, quod uterque oculus moveatur una nec alter sine altero moveri queat. oculi porro ipsius continentiam in quattuor membranis seu tunicis notaverunt disparili soliditate. quarum differentiam proprietatemque si quis persequi velit, maiorem proposita materia suscipiet laborem. Vgl. Hipp. de loc. in hom. 2 (VI 278 L.), de carn. 17 (VIII 606 L.) πολλὰ δὲ ταῦτ’ ἐστὶ τὰ δέρματα πρὸ τοῦ ὁρέοντος διαφανέα ὁκοῖόν περ αὐτό ἐστιν· τούτωι γὰρ τῶι διαφανεῖ ἀνταυγεῖ τὸ φῶς καὶ τὰ λαμπρὰ πάντα. τούτωι οὖν ὁρῆι τῶι ἀνταυγέοντι. ARIST. de gen. anim. B 6. 744a 8 ἀπὸ τῆς περὶ τὸν ἐγκέφαλον ὑγρότητος ἀποκρίνεται τὸ καθαρώτατον διὰ τῶν πόρων, οἳ φαίνονται φέροντες ἀπ’ αὐτῶν πρὸς τὴν μήνιγγα τὴν περὶ τὸν ἐγκέφαλον.
+
+### 11
+
+PLATO Phaedo p. 96 A B νέος ὢν θαυμαστῶς ὡς ἐπεθύμησα ταύτης τῆς σοφίας ἣν δὴ καλοῦσι περὶ φύσεως ἱστορίαν ... σκοπῶν πρῶτον τὰ τοιάδε· ἆρ’ ἐπειδὰν τὸ θερμὸν καὶ τὸ ψυχρὸν σηπεδόνα τινὰ λάβηι ὥς τινες ἔλεγον, τότε δὴ τὰ ζῶια συντρέφεται; καὶ πότερον τὸ αἷμά ἐστιν ὧι φρονοῦμεν ἢ ὁ ἀὴρ ἢ τὸ πῦρ; ἢ τούτων μὲν οὐδέν, ὁ δ’ ἐγκέφαλός ἐστιν ὁ τὰς αἰσθήσεις παρέχων τοῦ ἀκούειν καὶ ὁρᾶν καὶ ὀσφραίνεσθαι, ἐκ τούτων δὲ γίγνοιτο μνήμη καὶ δόξα, ἐκ δὲ μνήμης καὶ δόξης λαβούσης τὸ ἠρεμεῖν, κατὰ ταῦτα γίγνεσθαι ἐπιστήμην; vgl. A 5 I 212, 6f. Hipp. de morb. sacro 14 ὁκόσον δ’ ἂν ἀτρεμήσηι ὁ ἐγκέφαλος χρόνον, τοσοῦτον καὶ φρονεῖ ἄνθρωπος. 17 διό φημι τὸν ἐγκέφαλον εἶναι τὸν ἑρμηνεύοντα τὴν ξύνεσιν. Arist. Anal. post. B 19. 100a 3ff.
+
+### 12
+
+ARIST. de anima A 2. 405a 29 παραπλησίως δὲ τούτοις καὶ Ἀ. ἔοικεν ὑπολαβεῖν περὶ ψυχῆς· φησὶ γὰρ αὐτὴν ἀθάνατον εἶναι διὰ τὸ ἐοικέναι τοῖς ἀθανάτοις· τοῦτο δ’ ὑπάρχειν αὐτῆι ὡς ἀεὶ κινουμένηι· κινεῖσθαι γὰρ καὶ τὰ θεῖα πάντα συνεχῶς ἀεί, σελήνην, ἥλιον, τοὺς ἀστέρας καὶ τὸν οὐρανὸν ὅλον. CIC. de n. d. I 11, 27 Crotoniates autem A., qui soli et lunae reliquisque sideribus omnibus animoque praeterea divinitatem dedit, non sensit sese mortalibus rebus immortalitatem dare. CLEM. Protr. 66 (I 50, 20 St.) ὁ γάρ τοι Κροτωνιάτης Ἀ. θεοὺς ὤιετο τοὺς ἀστέρας εἶναι ἐμψύχους ὄντας. AËT. IV 2, 2 (D. 386 περὶ ψυχῆς) Ἀ. φύσιν αὐτοκίνητον κατ’ ἀίδιον κίνησιν καὶ διὰ τοῦτο ἀθάνατον αὐτὴν καὶ προσεμφερῆ τοῖς θείοις ὑπολαμβάνει.
+
+### 13
+
+AËT. V 3, 3 (D. 417) Ἀ. ἐγκεφάλου μέρος (sc. εἶναι τὸ σπέρμα). CENSOR. 5, 2ff. sed hanc opinionem (sc. e medullis semen profluere) nonnulli refellunt, ut Anaxagoras [ 59 A 107], Democritus [ 68 A 141] et. A. Crotoniates: (3) hi enim post gregum contentionem non medullis modo, verum et adipe multaque carne mares exhauriri respondent. illud quoque ambiguam facit inter auctores opinionem, utrumne ex patris tantummodo semine partus nascatur, ut Diogenes [ 64 A 27] et Hippon [ 38 A 13] Stoicique scripserunt, an etiam ex matris, quod Anaxagorae et Alcmaeoni nec non Parmenidi [ 28 A 54] Empedoclique et Epicuro visum est. de conformatione autem partus nihilo minus definite se scire A. confessus est, ratus neminem posse perspicere quid primum in infante formetur. AËT. V 17, 3 (D. 427) Ἀ. τὴν κεφαλήν, ἐν ἧι ἐστι τὸ ἡγεμονικόν (sc. πρῶτον τελεσιουργεῖσθαι ἐν τῆι γαστρί).
+
+### 14
+
+CENSORIN. 6, 4 ex quo parente seminis amplius fuit, eius sexum repraesentari dixit A.
+
+### 15
+
+ARIST. Hist. anim. Η 1. 581a 12 φέρειν δὲ σπέρμα πρῶτον ἄρχεται τὸ ἄρρεν ὡς ἐπὶ τὸ πολὺ ἐν τοῖς ἔτεσι τοῖς δὶς ἑπτὰ τετελεσμένοις· ἅμα δὲ καὶ τρίχωσις τῆς ἥβης ἄρχεται, καθάπερ καὶ τὰ φυτὰ μέλλοντα σπέρμα φέρειν ἀνθεῖν πρῶτον Ἀ. φησὶν ὁ Κροτωνιάτης [Schol. Plat. Alc. I p. 121 E]. Vgl. Solon 19, 3 D. τοὺς δ’ ἑτέρους ὅτε δὴ τελέσηι θεὸς ἕπτ’ ἐνιαυτούς, ἥβης ἐκφαίνει σήματα γεινομένης.
+
+### 16
+
+—de gen. an Γ 2. 752b 22 τοῖς μὲν γὰρ ζωιοτοκουμένοις ἐν ἄλλωι μορίωι γίνεται ἡ τροφή, τὸ καλούμενον γάλα, ἐν τοῖς μαστοῖς· τοῖς δ’ ὄρνισι τοῦτο ποιεῖ ἡ φύσις ἐν τοῖς ὠιοῖς, τοὐναντίον μέντοι ἢ οἵ τε ἄνθρωποι οἴονται καὶ Ἀ. φησὶν ὁ Κροτωνιάτης· οὐ γὰρ τὸ λευκόν ἐστι γάλα, ἀλλὰ τὸ ὠχρόν. τοῦτο γάρ ἐστιν ἡ τροφὴ τοῖς νεοττοῖς· οἱ δ’ οἴονται τὸ λευκὸν διὰ τὴν ὁμοιότητα τοῦ χρώματος.
+
+### 17
+
+AËT. V 16, 3 (D. 426) Ἀ. δι’ ὅλου τοῦ σώματος τρέφεσθαι (τὰ ἔμβρυα)· ἀναλαμβάνειν γὰρ αὐτῶι ὥσπερ σπογγιᾶι τὰ ἀπὸ τῆς τροφῆς θρεπτικά. Anders RUFUS bei ORIBAS. III 156 CMG VI, 2. 2, 136 ἔνεστι περίττωμα τοῖς τηλικούτοις ἐν τῶι ἐντέρωι ὃ χρὴ ἐξάγειν, οὐχ ὥσπερ Ἀ. οἴεται ὅτι ἐν ταῖς μήτραις ὂν τὸ παιδίον ἤσθιεν στόματι· τοῦτο γὰρ οὐδένα τρόπον δυνατόν.
+
+### 18
+
+—v 24, 1 (D. 435) Ἀ. ἀναχωρήσει τοῦ αἵματος εἰς τὰς αἱμόρρους φλέβας ὕπνον γίνεσθαί φησι, τὴν δὲ ἐξέγερσιν διάχυσιν, τὴν δὲ παντελῆ ἀναχώρησιν θάνατον.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: bmw-aa`.

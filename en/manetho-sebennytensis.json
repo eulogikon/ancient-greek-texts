@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "imk",
+  "auth_slug": "manetho-sebennytensis",
+  "name": {
+    "english": "Manetho Sebennytensis",
+    "ancient_greek": "Μανέθων ὁ Σεβεννυτηνός"
+  },
+  "seo_h1": "Manetho Sebennytensis and the Priestly Record of Egypt",
+  "seo": {
+    "browser_title": "Manetho Sebennytensis on Eulogikon Greek Text Archive",
+    "meta_title": "Manetho Sebennytensis Ancient Greek Historical Works",
+    "meta_description": "Manetho was an Egyptian priest and historian of the 3rd century BCE. His surviving work is the Aegyptiaca. Free to read and download from the Greek archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Manetho was an Egyptian priest and historian who lived in the 3rd century BCE during the Hellenistic period. He came from the city of Sebennytos in the Nile Delta and served in the temple at Heliopolis. As a high-ranking priest who wrote in Greek, he belonged to the educated elite that connected traditional Egyptian culture with the new Greek-speaking Ptolemaic rulers. He is believed to have been active during the reign of Ptolemy II Philadelphus, to whom he dedicated his work.</p>\n<p class=\"research-text\">His only known writing is the Aegyptiaca, a comprehensive history of Egypt from mythical times up to Alexander the Great’s conquest. The original text is lost and survives only through fragments quoted by later historians. Its most lasting contribution was organizing Egyptian rulers into a sequence of 30 dynasties, a framework that became the foundation for later classical historians and, ultimately, modern Egyptology.</p>\n<p class=\"research-text\">Manetho’s work represents a crucial synthesis of Egyptian temple records and king lists for a Greek audience. According to modern scholars, his history provided an authoritative Egyptian perspective on gods, rituals, and historical events—such as the rule of the Hyksos—that shaped how the Greco-Roman world understood Egypt’s past. Even in fragments, his dynastic system remains a cornerstone of ancient Egyptian chronology.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "imk-aa",
+      "title": {
+        "english": "Effects",
+        "ancient_greek": "Ἀποτελέσματα"
+      },
+      "url_slug": "manetho-sebennytensis-effects-imk-aa",
+      "passages": 170,
+      "links": {
+        "html": "https://eulogikon.org/grc/manetho-sebennytensis/effects",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis/effects.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis/effects.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis/effects.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/manetho-sebennytensis/effects.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/manetho-sebennytensis",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/manetho-sebennytensis.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/manetho-sebennytensis.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/manetho-sebennytensis.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/manetho-sebennytensis.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

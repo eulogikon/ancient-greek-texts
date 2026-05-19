@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "aaa",
+  "auth_slug": "eumelus-of-corinth",
+  "name": {
+    "english": "Eumelus of Corinth",
+    "ancient_greek": "Εὔμηλος ὁ Κορίνθιος"
+  },
+  "seo_h1": "Eumelus of Corinth and the Epic of Corinthian Genealogy",
+  "seo": {
+    "browser_title": "Eumelus of Corinth Ancient Poet on Eulogikon Greek Archive",
+    "meta_title": "Eumelus of Corinth Ancient Greek Epic Poetry Works",
+    "meta_description": "Eumelus of Corinth, archaic Greek poet of the 8th-7th century BCE. Surviving fragments of epic poetry. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Eumelus of Corinth was an archaic Greek epic poet, traditionally dated to the 8th–7th century BCE and considered a member of Corinth’s Bacchiad ruling family. Ancient sources often place him as a contemporary of the foundation of Syracuse around 734 BCE and associate him with the reign of King Aletes, though these biographical details are derived from later chronographies and treated with scholarly caution.</p>\n<p class=\"research-text\">His fragmentary works include the Corinthiaca, a prose account of Corinthian history and mythology; the Europia, likely concerning the myth of Europa; the Bougonia, a poem of unknown subject; and a Titanomachy on the war of the gods and Titans, an attribution shared with other early poets. Eumelus represents the early non-Homeric epic tradition, contributing to the archaic poetic canon and the development of Corinth’s legendary pedigree.</p>\n<p class=\"research-text\">His works, especially the Corinthiaca, were instrumental in shaping regional identity and integrating local myths into the broader Panhellenic tradition during the Archaic period.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "aaa-aa",
+      "title": {
+        "english": "Corinthian Matters",
+        "ancient_greek": "Κορινθιακὰ Πράγματα"
+      },
+      "url_slug": "eumelus-of-corinth-matters-aaa-aa",
+      "passages": 12,
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/matters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/matters.json"
+      }
+    },
+    {
+      "eul_wid": "aaa-ab",
+      "title": {
+        "english": "Epic Fragments",
+        "ancient_greek": "Ἐπικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "eumelus-of-corinth-epic-fragments-aaa-ab",
+      "passages": 17,
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/epic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/epic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "aaa-ad",
+      "title": {
+        "english": "Fragments on Corinthian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κορινθιακῆς Γενεαλογίας"
+      },
+      "url_slug": "eumelus-of-corinth-genealogy-aaa-ad",
+      "passages": 10,
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "aaa-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "eumelus-of-corinth-testimonies-aaa-ac",
+      "passages": 2,
+      "links": {
+        "html": "https://eulogikon.org/grc/eumelus-of-corinth/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eumelus-of-corinth/testimonies.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/eumelus-of-corinth",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eumelus-of-corinth.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eumelus-of-corinth.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eumelus-of-corinth.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/eumelus-of-corinth.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "ojc",
+  "auth_slug": "rufus-of-ephesus",
+  "name": {
+    "english": "Rufus of Ephesus",
+    "ancient_greek": "Ῥοῦφος ὁ Ἐφέσιος"
+  },
+  "seo_h1": "Rufus of Ephesus on the Human Body",
+  "seo": {
+    "browser_title": "Rufus of Ephesus on Eulogikon Greek Archive and Library",
+    "meta_title": "Classical Rufus of Ephesus Ancient Greek Medical Treatises",
+    "meta_description": "Rufus of Ephesus was a Greek physician under Emperor Trajan. Seven medical treatises on anatomy. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Rufus of Ephesus was a Greek physician who lived and practiced medicine during the reign of the Roman emperor Trajan, around the late first and early second centuries CE. He was born in the city of Ephesus, in what is now Turkey.</p>\n<p class=\"research-text\">While the details of his life are sparse, his extensive writings show he had a thorough medical education. His precise philosophical school is unclear; his work shows strong influences from the Hippocratic tradition, and he is sometimes associated with the Methodist school, but he remains difficult to categorize.</p>\n<p class=\"research-text\">He was a prolific author, though only a portion of his works survive, often in fragments or in later Arabic and Latin translations. His known writings cover a wide range of practical medical topics. These include an anatomical guide On the Names of the Parts of the Human Body, a treatise on diagnosis titled Medical Questions, and works on specific ailments like On Melancholy, On Gout, and On Diseases of the Kidneys and Bladder. He also wrote a handbook for non-specialists called For Laymen and even a text advising physicians On the Purchase of Slaves.</p>\n<p class=\"research-text\">According to modern scholars, Rufus was a highly respected and practical physician in his time. His significance lies in his role as a clear interpreter and transmitter of earlier medical knowledge, particularly Hippocratic ideas, during the Roman period. His emphasis on patient interrogation for diagnosis and his detailed anatomical descriptions are considered notable contributions.</p>\n<p class=\"research-text\">Although later overshadowed by the physician Galen, Rufus&#x27;s works were translated and studied for centuries, influencing both medieval Islamic and European medicine. His writings provide a valuable window into medical practice in the ancient world.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 7,
+  "works": [
+    {
+      "eul_wid": "ojc-ae",
+      "title": {
+        "english": "Medical Questions",
+        "ancient_greek": "Ἰατρικαὶ Ζητήσεις"
+      },
+      "url_slug": "rufus-of-ephesus-medical-questions-ojc-ae",
+      "passages": 58,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/medical-questions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/medical-questions.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ag",
+      "title": {
+        "english": "On Bones",
+        "ancient_greek": "Περὶ Ὀστέων"
+      },
+      "url_slug": "rufus-of-ephesus-bones-ojc-ag",
+      "passages": 41,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/bones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/bones.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/bones.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/bones.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/bones.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-aa",
+      "title": {
+        "english": "On Diseases of the Kidneys and Bladder",
+        "ancient_greek": "Περὶ Νεφρῶν καὶ Κύστεως Παθῶν"
+      },
+      "url_slug": "rufus-of-ephesus-kidneys-bladder-ojc-aa",
+      "passages": 178,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ad",
+      "title": {
+        "english": "On Parts of the Human Body",
+        "ancient_greek": "Περὶ Μερῶν τοῦ Ἀνθρωπίνου Σώματος"
+      },
+      "url_slug": "rufus-of-ephesus-human-body-ojc-ad",
+      "passages": 61,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/human-body",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ac",
+      "title": {
+        "english": "On Satyriasis and Gonorrhea",
+        "ancient_greek": "Περὶ Σατυριάσεως καὶ Γονορροίας"
+      },
+      "url_slug": "rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac",
+      "passages": 49,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ab",
+      "title": {
+        "english": "On the Terms of the Human Body",
+        "ancient_greek": "Περὶ Ὅρων τοῦ Ἀνθρωπίνου Σώματος"
+      },
+      "url_slug": "rufus-of-ephesus-human-body-terms-ojc-ab",
+      "passages": 198,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/human-body-terms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body-terms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body-terms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body-terms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/human-body-terms.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-af",
+      "title": {
+        "english": "Summary-Pulses",
+        "ancient_greek": "Σύνοψις περὶ Σφυγμῶν"
+      },
+      "url_slug": "rufus-of-ephesus-pulses-ojc-af",
+      "passages": 45,
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/pulses.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/rufus-of-ephesus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/rufus-of-ephesus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/rufus-of-ephesus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/rufus-of-ephesus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/rufus-of-ephesus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

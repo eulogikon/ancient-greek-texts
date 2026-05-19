@@ -1,0 +1,370 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qwm-bi",
+  "eul_aid": "qwm",
+  "author_slug": "aristides-the-orator",
+  "work_slug": "sacred-words-bi",
+  "url_slug": "aristides-the-orator-sacred-words-bi-qwm-bi",
+  "author": {
+    "english": "Aristides the Orator",
+    "ancient_greek": "Ἀριστείδης ὁ ῥήτωρ"
+  },
+  "title": {
+    "english": "Sacred Words Sixth",
+    "ancient_greek": "Ἱεροὶ λόγοι ἕκτος"
+  },
+  "seo": {
+    "browser_title": "Sacred Words Sixth by Aristides the Orator on Eulogikon",
+    "meta_title": "Sacred Words Sixth by Aristides the Orator in Greek",
+    "meta_description": "Aristides recounts divine visions and miraculous healing journeys in this sixth oration of the Sacred Words series. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Sacred Words Sixth is the concluding and most extensive oration within a set of six autobiographical works by the second-century CE Greek orator Aelius Aristides. Composed approximately between 170 and 171 CE, this prose hymn in Attic Greek is a sustained narrative of gratitude directed toward the healing deity Asclepius. It chronicles the author&#x27;s protracted illness and the numerous divine dreams he experienced over many years, which dictated specific and often rigorous medical treatments, including prescribed bathing, fasting, and bloodletting. The work functions simultaneously as a personal testament to divine intervention and a public justification for his dependence on the god&#x27;s guidance for both his physical well-being and his successful career in rhetoric.</p>\n<p class=\"research-text\">Written after a grave illness during Aristides&#x27; residence at the Asclepieion sanctuary in Pergamum, the oration is interpreted by modern scholarship as a multifaceted document. It serves as a votive offering to the god, a form of sacred propaganda promoting the cult of Asclepius, and a reflection of the intensely personal religiosity emblematic of the Second Sophistic period. The complete text survives intact through medieval manuscript tradition and is considered to be in an excellent state of preservation. It offers a singular, first-person perspective on ancient therapeutic practices, the interpretation of dreams, and the intricate connection between private piety and public professional life in the Roman Empire.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "362",
+      "text": "Τὰ μὲν δὴ πολλὰ οὕτω διῆγεν ἡμᾶς ὁ θεὸς, σημαίνων τε ἃ χρὴ ποιεῖν καὶ ἔχων ὑπακούοντας εἴ τις καὶ ἄλλος ἀνθρώπων ὑπήκουσε θεῷ. δευτέρῳ δὲ ἔτει μετὰ τὴν ἀναχώρησιν τὴν ἀπ’ Αἰσήπου, δωδεκάτῳ δὲ ἀφ’ οὗ πρῶτον ἔκαμον, πολλὰ καὶ θαυμαστὰ ἐφοίτα φαντάσματα, ἄγοντα εἰς Ἐπίδαυρον τὴν ἱερὰν τοῦ θεοῦ. καὶ τό γε ἐν πρώτοις γενόμενον τοιοῦτον ἦν· προτρέπων μέ τις θαρρῆσαι Μουσωνίου διῄει λόγον· ἐκεῖνος, ἔφη, βουλόμενός τινα ἀναστῆσαι κάμνοντα καὶ ἀπειρηκότα οὑτωσί πως εἰπεῖν καθαπτόμενος, τί μένεις; ποῖ βλέπεις; ἢ μέχρι ἂν αὐτὸς ὁ θεὸς παραστάς σοι φωνὴν ἀφιῇ; ἔκκοψον τὸ τεθνηκὸς τῆς ψυχῆς καὶ γνώσει τὸν θεόν. τοιαῦτ’ ἔφη τὸν Μουσώνιον εἰπεῖν. καὶ πρός γε τούτοις ἦσαν φωναὶ, σῶσον αὐτὸν τῇ Ἀθηναίων πόλει· τὸ δ’ ἦν οἷον τοῖς Ἕλλησι· καὶ περὶ τῶν ἐν Ἰταλίᾳ μεγάλαι προρρήσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qwm-bk",
+      "title": {
+        "english": "Address to Smyrna",
+        "ancient_greek": "Προσφωνητικός Σμυρναϊκός"
+      },
+      "url_slug": "aristides-the-orator-smyrna-qwm-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-al",
+      "title": {
+        "english": "Advisory-Not Needing to Comedize",
+        "ancient_greek": "Συμβουλευτικὸς περὶ τοῦ μὴ δεῖν κωμῳδεῖν"
+      },
+      "url_slug": "aristides-the-orator-advisory-not-comedize-qwm-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/advisory-not-comedize",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/advisory-not-comedize.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/advisory-not-comedize.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/advisory-not-comedize.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/advisory-not-comedize.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ba",
+      "title": {
+        "english": "Against the Dancers",
+        "ancient_greek": "Κατὰ τῶν ἐξορχουμένων"
+      },
+      "url_slug": "aristides-the-orator-against-dancers-qwm-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/against-dancers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/against-dancers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/against-dancers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/against-dancers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/against-dancers.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-by",
+      "title": {
+        "english": "Allied A.",
+        "ancient_greek": "Συμμαχικὸς Α."
+      },
+      "url_slug": "aristides-the-orator-allied-qwm-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/allied",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/allied.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/allied.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/allied.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/allied.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-aj",
+      "title": {
+        "english": "Allied B. To Thebans-the Alliance",
+        "ancient_greek": "Συμμαχικὸς Β."
+      },
+      "url_slug": "aristides-the-orator-alliance-thebans-qwm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/alliance-thebans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/alliance-thebans.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bv",
+      "title": {
+        "english": "Asclepiads",
+        "ancient_greek": "Ἀσκληπιάδαι"
+      },
+      "url_slug": "aristides-the-orator-asclepiads-qwm-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/asclepiads",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/asclepiads.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ce",
+      "title": {
+        "english": "Athena",
+        "ancient_greek": "Ἀθηνᾶ"
+      },
+      "url_slug": "aristides-the-orator-athena-qwm-ce",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/athena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/athena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/athena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/athena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/athena.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bb",
+      "title": {
+        "english": "Birthday of Apellas",
+        "ancient_greek": "Ἀπελλᾶ γενεθλιακός"
+      },
+      "url_slug": "aristides-the-orator-birthday-apellas-qwm-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/birthday-apellas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bz",
+      "title": {
+        "english": "Dionysus",
+        "ancient_greek": "Διόνυσος"
+      },
+      "url_slug": "aristides-the-orator-dionysus-qwm-bz",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/dionysus.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ca",
+      "title": {
+        "english": "Egyptian",
+        "ancient_greek": "Αἰγύπτιος"
+      },
+      "url_slug": "aristides-the-orator-egyptian-qwm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/egyptian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/egyptian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/egyptian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/egyptian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/egyptian.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bw",
+      "title": {
+        "english": "Eleusinian",
+        "ancient_greek": "Ἐλευσίνιος"
+      },
+      "url_slug": "aristides-the-orator-eleusinian-qwm-bw",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/eleusinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/eleusinian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/eleusinian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/eleusinian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/eleusinian.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bc",
+      "title": {
+        "english": "Embassy to Achilles",
+        "ancient_greek": "Πρεσβευτικὸς πρὸς Ἀχιλλέα"
+      },
+      "url_slug": "aristides-the-orator-embassy-qwm-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/embassy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/embassy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/embassy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/embassy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/embassy.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hbm-aa",
+      "title": {
+        "english": "Against Ctesiphon",
+        "ancient_greek": "Κατά Κτησιφώντος"
+      },
+      "url_slug": "aeschines-of-athens-against-ctesiphon-hbm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschines-of-athens/against-ctesiphon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschines-of-athens/against-ctesiphon.json"
+      }
+    },
+    {
+      "eul_wid": "ejc-bf",
+      "title": {
+        "english": "For Polystratus",
+        "ancient_greek": "ὑπὲρ Πολυστράτου"
+      },
+      "url_slug": "lysias-for-polystratus-ejc-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/for-polystratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/for-polystratus.json"
+      }
+    },
+    {
+      "eul_wid": "oug-aa",
+      "title": {
+        "english": "Letters to Philoxenus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Φιλόξενον"
+      },
+      "url_slug": "dionysius-of-antioch-letters-philoxenus-oug-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-antioch/letters-philoxenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-antioch/letters-philoxenus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cc",
+      "title": {
+        "english": "Lexiphanes",
+        "ancient_greek": "Λεξιφάνης"
+      },
+      "url_slug": "lucian-of-samosata-lexiphanes-pfk-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/lexiphanes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/lexiphanes.json"
+      }
+    },
+    {
+      "eul_wid": "rfi-ab",
+      "title": {
+        "english": "Lives of the Sophists",
+        "ancient_greek": "Βίοι Σοφιστῶν"
+      },
+      "url_slug": "philostratus-the-athenian-lives-sophists-rfi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostratus-the-athenian/lives-sophists",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/lives-sophists.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/lives-sophists.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/lives-sophists.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostratus-the-athenian/lives-sophists.json"
+      }
+    },
+    {
+      "eul_wid": "hnk-aa",
+      "title": {
+        "english": "On Interpretation",
+        "ancient_greek": "Περὶ ἑρμηνείας"
+      },
+      "url_slug": "demetrius-of-phalerum-interpretation-hnk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-phalerum/interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ar",
+      "title": {
+        "english": "Teacher of Rhetoricians",
+        "ancient_greek": "Ῥητόρων Διδάσκαλος"
+      },
+      "url_slug": "lucian-of-samosata-rhetoricians-pfk-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/rhetoricians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/rhetoricians.json"
+      }
+    },
+    {
+      "eul_wid": "cjo-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "xeniades-of-corinth-testimony-cjo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xeniades-of-corinth/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xeniades-of-corinth/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xeniades-of-corinth/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xeniades-of-corinth/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xeniades-of-corinth/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristides-the-orator/sacred-words-bi",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bi.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

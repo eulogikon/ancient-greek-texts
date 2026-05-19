@@ -1,0 +1,120 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "qao",
+  "auth_slug": "aretaeus-the-cappadocian",
+  "name": {
+    "english": "Aretaeus the Cappadocian",
+    "ancient_greek": "Ἀρεταῖος ὁ Καππάδοξ"
+  },
+  "seo_h1": "Aretaeus the Cappadocian on Acute and Chronic Diseases",
+  "seo": {
+    "browser_title": "Aretaeus the Cappadocian on Eulogikon Greek Archive",
+    "meta_title": "Aretaeus the Cappadocian Ancient Greek Medical Works",
+    "meta_description": "Aretaeus, a Greek physician from Cappadocia. Surviving treatises on acute and chronic diseases. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Aretaeus was a Greek physician from Cappadocia in Asia Minor who practiced medicine during the Roman Empire in the 2nd century CE. The exact dates of his life are uncertain, but many scholars place him in this period, possibly as a contemporary of the famous doctor Galen. Little is known about his personal life or education.</p>\n<p class=\"research-text\">He was a member of the Pneumatist school of medicine, which considered pneuma, or breath, a vital force for health, and he was also a dedicated follower of the older Hippocratic tradition. His surviving works are eight books of medical treatises, written in an archaic Greek dialect to honor Hippocrates. They are organized into four main texts: On the Causes and Symptoms of Acute Diseases, On the Causes and Symptoms of Chronic Diseases, On the Therapy of Acute Diseases, and On the Therapy of Chronic Diseases. These works provide the primary evidence for his ideas and practice.</p>\n<p class=\"research-text\">Aretaeus is historically important for his exceptionally clear and compassionate clinical descriptions of diseases. According to modern scholars, he left classic accounts of asthma, epilepsy, and pneumonia. He is most famous for providing the first detailed description of the symptoms of diabetes, a name he coined. Although not widely cited in his own time, his writings were rediscovered in the 16th century and have since been praised for their observational skill and literary quality, offering a valuable window into Roman-era medical theory and practice.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 4,
+  "works": [
+    {
+      "eul_wid": "qao-ab",
+      "title": {
+        "english": "On Causes and Signs of Acute Diseases",
+        "ancient_greek": "Περὶ αἰτίων καὶ σημείων ὀξέων παθών"
+      },
+      "url_slug": "aretaeus-the-cappadocian-acute-diseases-ab-qao-ab",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/acute-diseases-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ab.json"
+      }
+    },
+    {
+      "eul_wid": "qao-aa",
+      "title": {
+        "english": "On Causes and Signs of Chronic Diseases",
+        "ancient_greek": "Περὶ αἰτίων καὶ σημείων χρονίων παθῶν"
+      },
+      "url_slug": "aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa",
+      "passages": 29,
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.json"
+      }
+    },
+    {
+      "eul_wid": "qao-ad",
+      "title": {
+        "english": "Treatment of Acute Diseases",
+        "ancient_greek": "Ὀξέων νούσων θεραπευτικόν"
+      },
+      "url_slug": "aretaeus-the-cappadocian-acute-diseases-ad-qao-ad",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/acute-diseases-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/acute-diseases-ad.json"
+      }
+    },
+    {
+      "eul_wid": "qao-ac",
+      "title": {
+        "english": "Treatment of Chronic Diseases",
+        "ancient_greek": "Χρονίων νούσων θεραπευτικών"
+      },
+      "url_slug": "aretaeus-the-cappadocian-chronic-diseases-ac-qao-ac",
+      "passages": 15,
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-ac.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/aretaeus-the-cappadocian",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aretaeus-the-cappadocian.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aretaeus-the-cappadocian.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aretaeus-the-cappadocian.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/aretaeus-the-cappadocian.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

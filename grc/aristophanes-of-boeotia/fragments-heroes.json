@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "guo-ab",
+  "eul_aid": "guo",
+  "author_slug": "aristophanes-of-boeotia",
+  "work_slug": "fragments-heroes",
+  "url_slug": "aristophanes-of-boeotia-fragments-heroes-guo-ab",
+  "author": {
+    "english": "Aristophanes of Boeotia",
+    "ancient_greek": "Ἀριστοφάνης ὁ Βοιωτός"
+  },
+  "title": {
+    "english": "Fragments on Boeotian Heroes",
+    "ancient_greek": "Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων"
+  },
+  "seo": {
+    "browser_title": "Fragments by Aristophanes of Boeotia on Eulogikon Archive",
+    "meta_title": "Fragments of Aristophanes of Boeotia in Ancient Greek",
+    "meta_description": "Fragments on Boeotian heroes by Aristophanes of Boeotia. Preserving local historical traditions. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Αἰολική",
+      "english": "Aeolic (frg)",
+      "href": "/dialects/aeo"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Boeotian Heroes</strong> by Aristophanes of Boeotia is a lost prose work surviving only in a single brief fragment. This fragment, preserved by the grammarian Herodian in his second-century CE treatise <strong>On Peculiar Diction</strong>, records that the hero Trophonius was worshipped at Orchomenus in Boeotia. The title indicates the original was a compilation of notes on the region’s legendary figures. The work belongs to the Hellenistic tradition of local history and mythography, and its scope, inferred from the title and the surviving citation, included the cults of Boeotian heroes and regional myths and heroic genealogies specific to Boeotia. The text is fragmentary and has no independent manuscript tradition; its sole known passage survives through indirect citation in Herodian’s grammatical work, which used it as a source for rare terms or names. The fragment exemplifies the antiquarian effort to systematize local traditions, countering Panhellenic narratives. Its preservation by Herodian illustrates how such regional compilations served later lexicographical and scholarly purposes, even if the work’s broader influence is now untraceable.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2bis.(l1)",
+      "text": "PAP. OX. 2463, 14—32 s. 2 i 3 p. (vol. 27, 1962, 104—110 [Taf. 10]): Ἀριστοφάνης [δ’ ἐν]ˈ τῆι α πρώτη〈ι〉 τῶν Βοιω[τι]ˈκῶν ὑπὸ τοῦ πατρὸ[ς Ποι]ˈμάνδρου τελευτῆσα[ί φη]ˈσιν τὸν Ἔφιππον τ[άφρ(ον)] ˈ ὑπερ[αλ]όμενον κ[αθά]ˈπερ ἡ πολλὴ δόξα—κ[αὶ] ˈ Τοξέα φησὶν ὑπὸ το[ῦ πα]ˈτρὸς Οἰνέως ἐπὶ τοῖς [αὐ]ˈτοῖς τελευτῆσαι—, γ[ρ̣άφων] ˈ οὕτως· ‘.. . τὸν γὰρ Πο [ ίμα ν ]ˈδρόν φησιν ( wer ?) , ὡς τὴ [ ν τάφρο ν ]ˈ τῆ〈ι〉 πόλει περιεβά [ λλετ ο ] ˈ —παῖδα αὐτοῦ τὸν Ἔφ [ ιππο ν ] ˈ φάσκειν ῥαιδίως ὐ̣ [ πε ρ ]ˈαλεῖσθαι τὴν τάφ [ ρο ν , μ ὴ ] ˈ φάσκοντος δὲ τοῦ Π [ οιμά ν ]ˈδρου τὸν μὲν Ἔφι [ ππο ν ] ˈ διαπηδᾶ ν , τὸν δὲ [.. . ‘. ]",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "guo-aa",
+      "title": {
+        "english": "Boeotian Histories and Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-boeotia-histories-legends-guo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/histories-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "gig-aa",
+      "title": {
+        "english": "Fragments on Cities and Rivers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόλεων καὶ Ποταμῶν"
+      },
+      "url_slug": "leo-of-byzantium-cities-rivers-gig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/leo-of-byzantium/cities-rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leo-of-byzantium/cities-rivers.json"
+      }
+    },
+    {
+      "eul_wid": "csu-aa",
+      "title": {
+        "english": "Fragments on Divine Names",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείων Ὀνομάτων"
+      },
+      "url_slug": "xenomedes-of-ceos-divine-names-csu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenomedes-of-ceos/divine-names",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenomedes-of-ceos/divine-names.json"
+      }
+    },
+    {
+      "eul_wid": "ekg-aa",
+      "title": {
+        "english": "Fragments on Eleusinian Mysteries",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν Ἐλευσινίων Μυστηρίων"
+      },
+      "url_slug": "melanthius-the-historian-eleusinian-mysteries-ekg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/melanthius-the-historian/eleusinian-mysteries",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/melanthius-the-historian/eleusinian-mysteries.json"
+      }
+    },
+    {
+      "eul_wid": "cmq-aa",
+      "title": {
+        "english": "Fragments on Icarus and Wine",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰκάρου καὶ Οἴνου"
+      },
+      "url_slug": "eparchides-of-oineis-icarus-wine-cmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eparchides-of-oineis/icarus-wine",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eparchides-of-oineis/icarus-wine.json"
+      }
+    },
+    {
+      "eul_wid": "kvy-aa",
+      "title": {
+        "english": "On Rivers, Springs, and Lakes",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "sotion-of-alexandria-rivers-springs-lakes-kvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotion-of-alexandria/rivers-springs-lakes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria/rivers-springs-lakes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria/rivers-springs-lakes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria/rivers-springs-lakes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotion-of-alexandria/rivers-springs-lakes.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-al",
+      "title": {
+        "english": "Roman Antiquities",
+        "ancient_greek": "Ῥωμαϊκὴ Ἀρχαιολογία"
+      },
+      "url_slug": "dionysius-of-halicarnassus-roman-antiquities-ndy-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/roman-antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/roman-antiquities.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ae",
+      "title": {
+        "english": "Roman Histories, Version 1 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-1-rhq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-1.json"
+      }
+    },
+    {
+      "eul_wid": "spm-aa",
+      "title": {
+        "english": "Summary from the Founding of the City, Paeanian Translation",
+        "ancient_greek": "Σύνοψις ἀπὸ τῆς Κτίσεως τῆς Πόλεως"
+      },
+      "url_slug": "eutropius-the-historian-summary-city-spm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eutropius-the-historian/summary-city",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eutropius-the-historian/summary-city.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/fragments-heroes",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

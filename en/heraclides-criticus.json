@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "kind": "author",
+  "eul_aid": "jvu",
+  "auth_slug": "heraclides-criticus",
+  "name": {
+    "english": "Heraclides Criticus",
+    "ancient_greek": "Ἡρακλείδης ὁ Κριτικός"
+  },
+  "seo_h1": "Heraclides Criticus and the Peripatetic Description of Greece",
+  "seo": {
+    "browser_title": "Heraclides Criticus on Eulogikon Greek Archive Collection",
+    "meta_title": "Classical Heraclides Criticus Ancient Greek Geography Works",
+    "meta_description": "Heraclides Criticus, a 3rd century BCE geographer. His work offers insights into ancient topography. Free to read and download from the Greek library archive."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "biography_html": "<div class=\"research-section\">\n<p class=\"research-text\">Heraclides Criticus was a Greek author of the early Hellenistic period, active in the 3rd century BCE. He is known as a geographer and topographer, and he likely had an affiliation with the Peripatetic school of thought founded by Aristotle. His precise birthplace and personal history are not recorded.</p>\n<p class=\"research-text\">He is known for a single work, <strong>On the Cities in Greece</strong>, which survives only in fragments quoted by later ancient writers. These fragments describe various Greek cities, with the most detailed passages focusing on Athens and its port, Piraeus. The work combines descriptions of monuments and harbors with observations on local customs and resources, suggesting the author traveled to the places he described.</p>\n<p class=\"research-text\">Heraclides Criticus is significant as a source for the historical topography and social conditions of Greece after the death of Alexander the Great. His fragments offer valuable glimpses into Athenian life during a period of political change. According to modern scholars, his descriptive, observational approach exemplifies a Hellenistic shift toward systematic geographical writing and aligns with the Peripatetic tradition of cataloging the known world. His work is primarily studied by historians of geography and Hellenistic literature.</p>\n</div>",
+  "affiliation_label": null,
+  "works_count": 1,
+  "works": [
+    {
+      "eul_wid": "jvu-aa",
+      "title": {
+        "english": "Description of Greece",
+        "ancient_greek": "Περιήγησις τῆς Ἑλλάδος Δικαίαρχου ἢ Ἀθηναίου"
+      },
+      "url_slug": "heraclides-criticus-description-greece-jvu-aa",
+      "passages": 39,
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-criticus/description-greece",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus/description-greece.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus/description-greece.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus/description-greece.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-criticus/description-greece.json"
+      }
+    }
+  ],
+  "related_authors": [],
+  "links": {
+    "html": "https://eulogikon.org/en/heraclides-criticus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-criticus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-criticus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-criticus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/en/heraclides-criticus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

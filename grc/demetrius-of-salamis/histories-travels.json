@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fyq-aa",
+  "eul_aid": "fyq",
+  "author_slug": "demetrius-of-salamis",
+  "work_slug": "histories-travels",
+  "url_slug": "demetrius-of-salamis-histories-travels-fyq-aa",
+  "author": {
+    "english": "Demetrius of Salamis",
+    "ancient_greek": "Δημήτριος ὁ Σαλαμίνιος"
+  },
+  "title": {
+    "english": "Pamphylian Histories and Travels",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Pamphylian Histories by Demetrius of Salamis on Eulogikon",
+    "meta_title": "Pamphylian Histories by Demetrius of Salamis in Greek",
+    "meta_description": "Fragments of the Pamphylian Histories by Demetrius of Salamis. A historical travel account. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Pamphylian Histories and Travels</strong> is a lost prose work attributed to Demetrius of Salamis, surviving only in fragmentary form through excerpts preserved by later authors. Its Greek title, <strong>Apospásmata</strong>, meaning &quot;Excerpts,&quot; directly signals its fragmentary transmission through quotations in subsequent geographical and historical compilations. The work focused on the history and geography of the Pamphylia region in Asia Minor. Its content, typical of the genre of local history and travelogue, would have encompassed regional history, including the foundation myths of Pamphylian cities such as Megarsus, geographical descriptions and itineraries, and accounts of local customs and notable landmarks. One preserved fragment also records an unusual anecdote from Demetrius’s own travels, describing a storm and atmospheric disturbances witnessed near a sacred, sparsely inhabited island off Britain, which the local inhabitants interpreted as the passing of a great soul. The work exemplifies the Hellenistic and Roman tradition of local history, or horography, and its significance lies in its contribution to the broader geographical and historical knowledge of the ancient world, where it likely served as a source for later compilers like Strabo.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1a-1b",
+      "text": "ΠΑΜΦΥΛΙΑΚΑ Tzetzes ad Lyc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1a",
+      "text": "440: Ἡ δὲ Μέγαρσος, κατὰ Δημήτριον τὸν τὰ Παμφυλιακὰ συγγράψαντα, θυγάτηρ ἦν Παμφύλου, ἀφ’ ἧς ἡ πόλις Μέγαρσος ἐκλήθη. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1b",
+      "text": "l. l. c. 18: Ὁ δὲ Δημήτριος ἔφη, τῶν περὶ τὴν Βρεττανίαν νήσων εἶναι πολλὰς ἐρήμους σποράδας, ὧν ἐνίας δαιμόνων καὶ ἡρώων ὀνομάζεσθαι· πλεῦσαι δὲ αὐτὸς ἱστορίας καὶ θέας ἕνεκα, πομπῇ τοῦ βασιλέως, εἰς τὴν ἔγγιστα κειμένην τῶν ἐρήμων, ἔχουσαν οὐ πολλοὺς ἐποικοῦντας, ἱεροὺς δὲ καὶ ἀσύλους πάντας ὑπὸ τῶν Βρεττανῶν ὄντας· ἀφικομένου δ’ αὐτοῦ νεωστὶ, σύγχυσιν μεγάλην περὶ τὸν ἀέρα καὶ διοσημείας πολλὰς γενέσθαι, καὶ πνεύματα καταρραγῆναι καὶ πεσεῖν πρηστῆρας. Ἐπεὶ δ’ ἐλώφησε, λέγειν τοὺς νησιώτας, ὅτι τῶν κρεισσόνων τινὸς ἔκλειψις γέγονεν. Ὡς γὰρ λύχνος ἀναπτόμενος, φάναι, δεινὸν οὐδὲν ἔχει, σβεννύμενος δὲ πολλοῖς λυπηρός ἐστιν, οὕτως αἱ μεγάλαι ψυχαὶ τὰς μὲν ἀναλάμψεις εὐμενεῖς καὶ ἀλύπους ἔχουσιν, αἱ δὲ σβέσεις αὐτῶν καὶ φθοραὶ πολλάκις μὲν, ὡς νυνὶ, πνεύματα καὶ ζάλας τρέπουσι, πολλάκις δὲ λοιμικοῖς πάθεσιν ἀέρα φαρμάττουσιν. Ἐκεῖ μέντοι μίαν εἶναι νῆσον, ἐν ᾗ τὸν Κρόνον καθεῖρχθαι φρουρούμενον ὑπὸ τοῦ Βριάρεω καθεύδοντα· δεσμὸν γὰρ αὐτῷ τὸν ὕπνον μεμηχανῆσθαι, πολλοὺς δὲ περὶ αὐτὸν εἶναι δαίμονας ὀπαδοὺς καὶ θεράποντας. ΑΡΓΟΛΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2a",
+      "text": "Clemens Alex. Protr. c. 4: Δημήτριος ἐν δευτέρῳ τῶν Ἀργολικῶν τοῦ ἐν Τίρυνθι τῆς Ἥρας ξοάνου καὶ τὴν ὕλην ὄχνην καὶ τὸν ποιητὴν Ἄργον ἀναγράφει. Athenaeus IV: Καλεῖ δὲ τοῦτον (sc.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2b",
+      "text": "Δίδυμον τὸν γραμματικὸν) ὁ Δημήτριος ὁ Τροιζήνιος βιβλιολάθαν, διὰ τὸ πλῆθος ὧν ἐκδέδωκε συγγραμμάτων· ἔστι γὰρ τρισχίλια πρὸς τοῖς πεντακοσίοις. Idem I: Ἀριστοφάνους τὰς δευτέρας Θεσμοφοριαζούσας Δημήτριος ὁ Τροιζήνιος Θεσμοφοριασάσας ἐπιγράφει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t3",
+      "text": "ΤΑ ΚΑΤΑ ΑΙΓΥΠΤΟΝ. Athenaeus XV: Δημήτριος δ’ ἐν τῷ Περὶ τῶν κατ’ Αἴγυπτον περὶ Ἄβυδον πόλιν τὰς ἀκάνθας ταύτας εἶναί φησι, γράφων οὕτως· «Ἔχει δὲ καὶ ὁ κάτω τόπος καὶ ἄκανθάν τινα δένδρον, ὃ τὸν καρπὸν φέρει στρογγύλον ἐπί τινων κλωνίων περιφερῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ἀνθεῖ δ’ οὗτος, ὅταν ὥρα ᾖ, καὶ ἔστι τῷ χρώματι τὸ ἄνθος καλλιφεγγές. Λέγεται δέ τις μῦθος ὑπὸ τῶν Αἰγυπτίων, ὅτι οἱ Αἰθίοπες, στελλόμενοι εἰς Τροίαν ὑπὸ τοῦ Τιθωνοῦ, ἐπεὶ ἤκουσαν τὸν Μέμνονα τετελευτηκέναι, ἐν τούτῳ τῷ τόπῳ τοὺς στεφάνους ἀνέβαλον ἐπὶ τὰς ἀκάνθας. Ἔστι δὲ παραπλήσια τὰ κλώνια στεφάνοις, ἀφ’ ὧν τὸ ἄνθος φύεται.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ido-aa",
+      "title": {
+        "english": "Fragments on India and Meroe",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰνδικῆς καὶ Μερόης"
+      },
+      "url_slug": "basilis-the-historian-india-meroe-ido-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/basilis-the-historian/india-meroe",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilis-the-historian/india-meroe.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilis-the-historian/india-meroe.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilis-the-historian/india-meroe.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/basilis-the-historian/india-meroe.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ad",
+      "title": {
+        "english": "From the Macedonian",
+        "ancient_greek": "ἐκ τῆς Μακεδονικῆς"
+      },
+      "url_slug": "appian-of-alexandria-macedonian-pdc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/macedonian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/macedonian.json"
+      }
+    },
+    {
+      "eul_wid": "hxk-ab",
+      "title": {
+        "english": "Historical Fragments of Timaeus",
+        "ancient_greek": "Ἀποσπάσματα Τιμαίου"
+      },
+      "url_slug": "timaeus-of-tauromenium-historical-fragments-hxk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ae",
+      "title": {
+        "english": "History of Heracles, Alban Tablet",
+        "ancient_greek": "Ἱστορία Ἡρακλέους"
+      },
+      "url_slug": "historical-fragments-anonymous-heraclean-history-mmg-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/heraclean-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/heraclean-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/heraclean-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/heraclean-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/heraclean-history.json"
+      }
+    },
+    {
+      "eul_wid": "kvo-aa",
+      "title": {
+        "english": "Marvelous Histories",
+        "ancient_greek": "Θαυμασίαι Ἱστορίαι"
+      },
+      "url_slug": "apollonius-the-paradoxographer-marvelous-histories-kvo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-the-paradoxographer/marvelous-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-the-paradoxographer/marvelous-histories.json"
+      }
+    },
+    {
+      "eul_wid": "hwq-aa",
+      "title": {
+        "english": "On the Cities in Asia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philostephanus-of-cyrene-cities-asia-hwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/cities-asia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.json"
+      }
+    },
+    {
+      "eul_wid": "mxa-aa",
+      "title": {
+        "english": "On the Foundation of Nicaea",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "menecrates-of-tralles-foundation-nicaea-mxa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-tralles/foundation-nicaea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles/foundation-nicaea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles/foundation-nicaea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles/foundation-nicaea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-tralles/foundation-nicaea.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ae",
+      "title": {
+        "english": "Ways and Means",
+        "ancient_greek": "Πόροι ἢ Περὶ Προσόδων"
+      },
+      "url_slug": "xenophon-of-athens-ways-means-ezq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/ways-means",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/ways-means.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/demetrius-of-salamis/histories-travels",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

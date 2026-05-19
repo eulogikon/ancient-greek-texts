@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fau-aa",
+  "eul_aid": "fau",
+  "author_slug": "aristocrates-of-sparta",
+  "work_slug": "customs",
+  "url_slug": "aristocrates-of-sparta-customs-fau-aa",
+  "author": {
+    "english": "Aristocrates of Sparta",
+    "ancient_greek": "Ἀριστοκράτης ὁ Λακεδαιμόνιος"
+  },
+  "title": {
+    "english": "Fragments on Spartan Customs",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν Λακωνικῶν Ἐθῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments of Aristocrates of Sparta on Eulogikon Archive",
+    "meta_title": "Fragments by Aristocrates of Sparta in Ancient Greek",
+    "meta_description": "Fragments of Aristocrates of Sparta on Spartan customs and Laconian traditions. Historical prose. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Spartan Customs</strong> by Aristocrates of Sparta is a lost antiquarian work known only through eight surviving passages. These fragments, preserved in later Byzantine lexicographical and scholiastic sources, systematically explain distinctive Spartan terms, institutions, and rituals. The extant material focuses on elucidating specific Spartan political and social roles, such as the <strong>karykos</strong>, a type of herald. It also details religious offices, including the <strong>Karneatas</strong>, the priest of Apollo Karneios, and interprets vocabulary unique to Spartan Doric usage. The work survives entirely through indirect citation, quoted in the 12th-century <strong>Etymologicum Magnum</strong> and in ancient scholia on Thucydides, with no independent manuscript tradition. As a representative of the <strong>Laconica</strong> genre, the fragments contribute to the corpus of Spartan local history. Their preservation demonstrates post-classical scholarly interest in Sparta and provides a source for rare terminology used by later commentators and lexicographers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-7",
+      "text": "ΛΑΚΩΝΙΚΑ. E LIBRO QUARTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 (t)",
+      "text": "Athenaeus III: «Ἐπιμηλὶς δὲ καλεῖται (φησὶ Πάμφιλος) τῶν ἀπίων τι γένος.» Ἑσπερίδων δὲ μῆλα οὕτως καλεῖσθαί τινά φησι Τιμαχίδας ἐν τῷ τετάρτῳ Δείπνων. Καὶ ἐν Λακεδαίμονι δὲ παρατίθεσθαι τοῖς θεοῖς φησι Πάμφιλος ταῦτα· εὔοσμα δὲ εἶναι καὶ ἄβρωτα, καλεῖσθαι δ’ Ἑσπερίδων μῆλα. Ἀριστοκράτης γοῦν ἐν τετάρτῳ Λακωνικῶν· «Ἔτι δὲ μῆλα καὶ τὰς λεγομένας Ἑσπερίδας.» Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Lyc. c. 4: Ὅτι δὲ καὶ Λιβύην καὶ Ἰβηρίαν ἐπῆλθεν ὁ Λυκοῦργος, καὶ περὶ τὴν Ἰνδικὴν πλανηθεὶς τοῖς γυμνοσοφισταῖς ὡμίλησεν, οὐδένα πλὴν Ἀριστοκράτη τὸν Ἱππάρχου Σπαρτιάτην εἰρηκότα γινώσκομεν. Idem ib.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "c. 31: Ἀριστοκράτης δ’ ὁ Ἱππάρχου φησὶ τοὺς ξένους τοῦ Λυκούργου τελευτήσαντος ἐν Κρήτῃ καῦσαι τὸ σῶμα καὶ διασπεῖραι τὴν τέφραν εἰς τὴν θάλασσαν, αὐτοῦ δεηθέντος καὶ φυλαξαμένου, μή ποτε ἄρα τῶν λειψάνων εἰς Λακεδαίμονα κομισθέντων, ὡς ἐπανήκοντος αὐτοῦ καὶ τῶν ὅρκων λελυμένων, μεταβάλωσι τὴν πολιτείαν. Idem Philopoem.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "c. 16 Χρόνῳ δ’ ὕστερον ἐγκαλέσας τι τοῖς Λακεδαιμονίοις στρατηγῶν ὁ Φιλοποίμην τοὺς μὲν φυγάδας κατήγαγεν εἰς τὴν πόλιν, ὀγδοήκοντα δὲ Σπαρτιάτας ἀπέκτεινεν, ὡς Πολύβιός φησιν, ὡς δ’ Ἀριστοκράτης, πεντήκοντα καὶ τριακοσίους, τὰ δὲ τείχη καθεῖλε, χώραν δὲ πολλὴν ἀποτεμόμενος προσένειμε τοῖς Μεγαλοπολίταις κτλ. Stephan.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Byz.: Ἀβαντὶς, ἡ Εὔβοια, ... ἐκλήθη δὲ ἀπὸ Ἄβαντος τοῦ Ἀργείου ἢ τοῦ υἱοῦ Ποσειδῶνος καὶ Ἀρεθούσης, ὡς Ἀριστοκράτης. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Sophocl. Trach. 266: Κρεώφυλος δὲ βʹ, Ἀριστοκράτης δὲ γʹ, Τοξέα, Κλύτιον, Δηίονα. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7*",
+      "text": "Aristophan. Nub. 971: ἐκαινούργησε κλάσας τὴν ᾠδὴν παρὰ τὸ ἀρχαῖον ἔθος, ὡς Ἀριστοφάνης φησὶ καὶ Ἀριστοκράτης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rjy-ab",
+      "title": {
+        "english": "Cesti, Fragments",
+        "ancient_greek": "Κέστοι"
+      },
+      "url_slug": "sextus-julius-africanus-cesti-rjy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-julius-africanus/cesti",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.json"
+      }
+    },
+    {
+      "eul_wid": "fyg-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diyllus-of-athens-historical-fragments-fyg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diyllus-of-athens/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diyllus-of-athens/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hxk-ab",
+      "title": {
+        "english": "Historical Fragments of Timaeus",
+        "ancient_greek": "Ἀποσπάσματα Τιμαίου"
+      },
+      "url_slug": "timaeus-of-tauromenium-historical-fragments-hxk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/timaeus-of-tauromenium/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timaeus-of-tauromenium/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "cmg-aa",
+      "title": {
+        "english": "Megarian Local History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "dieuchidas-of-megara-local-history-cmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dieuchidas-of-megara/local-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dieuchidas-of-megara/local-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dieuchidas-of-megara/local-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dieuchidas-of-megara/local-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dieuchidas-of-megara/local-history.json"
+      }
+    },
+    {
+      "eul_wid": "mzi-aa",
+      "title": {
+        "english": "On Egyptian Deities",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hermaeus-paropamisadae-egyptian-deities-mzi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermaeus-paropamisadae/egyptian-deities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermaeus-paropamisadae/egyptian-deities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermaeus-paropamisadae/egyptian-deities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermaeus-paropamisadae/egyptian-deities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermaeus-paropamisadae/egyptian-deities.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ap",
+      "title": {
+        "english": "On Imitation",
+        "ancient_greek": "Περὶ Μιμήσεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-imitation-ndy-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.json"
+      }
+    },
+    {
+      "eul_wid": "dxe-aa",
+      "title": {
+        "english": "On Sicily and Italy",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiochus-of-syracuse-sicily-italy-dxe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiochus-of-syracuse/sicily-italy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiochus-of-syracuse/sicily-italy.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ak",
+      "title": {
+        "english": "Roman Histories, Version 3 in Volume 1",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-3-1-rhq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-3-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-3-1.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/aristocrates-of-sparta/customs",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocrates-of-sparta/customs.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

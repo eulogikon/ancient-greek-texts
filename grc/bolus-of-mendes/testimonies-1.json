@@ -1,0 +1,314 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kzk-ad",
+  "eul_aid": "kzk",
+  "author_slug": "bolus-of-mendes",
+  "work_slug": "testimonies-1",
+  "url_slug": "bolus-of-mendes-testimonies-1-kzk-ad",
+  "author": {
+    "english": "Bolus of Mendes",
+    "ancient_greek": "Βῶλος ὁ Μενδήσιος"
+  },
+  "title": {
+    "english": "Testimonies 1",
+    "ancient_greek": "Μαρτυρίαι Α'"
+  },
+  "seo": {
+    "browser_title": "Testimonies Book 1 by Bolus of Mendes on Eulogikon",
+    "meta_title": "Testimonies Book 1 by Bolus of Mendes in Ancient Greek",
+    "meta_description": "Testimonies Book 1 is a lost Hellenistic medical work from 200 BCE attributed to Bolus of Mendes. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> (Book 1) is a lost prose work in Koine Greek attributed to Bolus of Mendes, a Hellenistic writer active around 200 BCE. While Bolus is more famously associated with magical and alchemical texts later ascribed to the philosopher Democritus, this work represents a scholarly medical compilation. It is structured as a collection of eight passages, functioning as a doxography that gathers authoritative quotations or testimonies from earlier physicians and philosophers, likely focusing on pharmacology and the properties of natural substances. Only fragments of the text survive, known entirely through later citations in Greek, Byzantine, and Arabic medical writers. The work exemplifies the Hellenistic era&#x27;s drive to systematize knowledge, blending Greek scientific traditions with Egyptian practical lore. Modern scholars interpret it as a utilitarian reference work, designed for practitioners or students to access consolidated medical opinions. Its compilatory method influenced later scientific writing, and Bolus&#x27;s role as a conduit for cross-cultural knowledge made his works, even when fragmentary, historically significant.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3a,263,T 1",
+      "text": "DIOG. LAERT. 9, 49 (THRASYLLOS ?): τάττουσι δέ τινες κατ’ ἰδίαν ἐκ τῶν Ὑπομνημάτων καὶ ταῦτα· Περὶ τῶν ἐν Βαβυλῶνι ἱερῶν γραμμάτων· Περὶ τῶν ἐν Μερόηι· Ὠκεανοῦ περίπλους· Περὶ ἱστορίης· Χαλδαικὸς λόγος· Φρύγιος λόγος· Περὶ πυρετοῦ καὶ τῶν ἀπὸ νόσου βησσόντων· Νομικὰ αἴτια· Χερνικὰ (?) ἢ προβλήματα. τὰ ἄλλα δ’ ὅσα τινὲς ἀναφέρουσιν εἰς αὐτὸν τὰ μὲν ἐκ τῶν αὐτοῦ διεσκεύασται, τὰ δὲ ὁμολογουμένως ἐστὶν ἀλλότρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 2",
+      "text": "DIOG. LAERT. 9, 34: οὗτος μάγων τινῶν διήκουσε καὶ Χαλδαίων, Ξέρξου τοῦ βασιλέως τῶι πατρὶ αὐτοῦ ἐπιστάτας καταλιπόντος ἡνίκα ἐξενίσθη παρ’ αὐτῶι, καθά φησι καὶ Ἡρόδοτος (—)· παρ’ ὧν τά τε περὶ θεολογίας καὶ ἀστρολογίας ἔμαθεν ἔτι παῖς ὤν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 3a",
+      "text": "DIOG. LAERT. 9, 35: φησὶ δὲ Δημήτριος ἐν Ὁμωνύμοις (IV) καὶ Ἀντισθένης ἐν Διαδοχαῖς (III B) ἀποδημῆσαι αὐτὸν καὶ εἰς Αἴγυπτον πρὸς τοὺς ἱερέας γεωμετρίαν μαθησόμενον, καὶ πρὸς Χαλδαίους εἰς τὴν Περσίδα, καὶ εἰς τὴν Ἐρυθρὰν θάλασσαν γενέσθαι· τοῖς τε Γυμνοσοφισταῖς φασί τινες συμμῖξαι αὐτὸν ἐν Ἰνδίαι, καὶ εἰς Αἰθιοπίαν ἐλθεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 3b",
+      "text": "SUID. s. Δημόκριτος· .... μαθητὴς κατά τινας Ἀναξαγόρου καὶ Λευκίππου, ὡς δέ τινες καὶ μάγων καὶ Χαλδαίων Περσῶν. ἦλθε γὰρ καὶ εἰς Πέρσας καὶ Ἰνδοὺς καὶ Αἰγυπτίους, καὶ τὰ παρ’ ἑκάστοις ἐπαιδεύθη σοφά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 3c",
+      "text": "AELIAN. VH 4, 20: ἧκεν οὖν πρὸς τοὺς Χαλδαίους καὶ εἰς Βαβυλῶνα καὶ πρὸς τοὺς μάγους καὶ τοὺς σοφιστὰς τῶν Ἰνδῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 3d",
+      "text": "HIPPOLYT. Refut. 1, 13: πολλοῖς συμβαλὼν γυμνοσοφισταῖς ἐν Ἰνδοῖς καὶ ἱερεῦσιν ἐν Αἰγύπτωι καὶ ἀστρολόγοις καὶ ἐν Βαβυλῶνι μάγοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 4",
+      "text": "PLIN. NH 25, 12: primus enim omnium, quos memoria novit, Orpheus (F 319 Kern) de herbis curiosius aliqua prodidit. ⟦ post eum Musaeus et Hesiodus polium herbam in quantum mirati sint diximus (21, 44; 145) ; Orpheus et Hesiodus suffitiones commendavere; (13) Homerus et alias nominatim herbas celebrat, quas suis locis dicemus ⟧ . ab eo Pythagoras clarus sapientia primus volumen de effectu earum composuit, Apollini Aesculapio et in totum dis immortalibus inventione et origine adsignata, composuit et Democritus, ambo peragratis Persidis Arabiae Aethiopiae Aegypti magis; adeoque ad haec attonita antiquitas fuit, ut adfirmaverit etiam incredibilia dictu.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a,263,T 5",
+      "text": "COLUM. D. r. r. 7, 5, 17: sed Aegyptiae gentis auctor memorabilis Bolus Mendesius (IV), cuius commenta quae apellantur Graece Χειρόκμητα sub nomine Democriti falso produntur ....",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "kzk-ae",
+      "title": {
+        "english": "Fragments on Democritus and Magic",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δημόκριτου καὶ Μαγικῆς"
+      },
+      "url_slug": "bolus-of-mendes-democritus-magic-kzk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/democritus-magic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/democritus-magic.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ab",
+      "title": {
+        "english": "On Sympathies and Antipathies",
+        "ancient_greek": "Περὶ συμπαθειῶν καὶ ἀντιπαθειῶν"
+      },
+      "url_slug": "bolus-of-mendes-sympathies-antipathies-kzk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/sympathies-antipathies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/sympathies-antipathies.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-aa",
+      "title": {
+        "english": "On the Cheiromekta",
+        "ancient_greek": "Χειρόμηκτα"
+      },
+      "url_slug": "bolus-of-mendes-cheiromekta-kzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/cheiromekta",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/cheiromekta.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-af",
+      "title": {
+        "english": "Testimonies 2",
+        "ancient_greek": "Μαρτυρίαι Β'"
+      },
+      "url_slug": "bolus-of-mendes-testimonies-2-kzk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/testimonies-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-2.json"
+      }
+    },
+    {
+      "eul_wid": "kzk-ac",
+      "title": {
+        "english": "To Leucippus",
+        "ancient_greek": "Πρὸς Λεύκιππον"
+      },
+      "url_slug": "bolus-of-mendes-leucippus-kzk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bolus-of-mendes/leucippus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/leucippus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vcc-ab",
+      "title": {
+        "english": "Dedication to Cosmas",
+        "ancient_greek": "Ἀφιέρωσις πρὸς Κοσμᾶν"
+      },
+      "url_slug": "alexander-of-tralles-dedication-cosmas-vcc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/dedication-cosmas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ca",
+      "title": {
+        "english": "Exhortation to Learn the Arts",
+        "ancient_greek": "Παραίνεσις πρὸς τὴν τῶν τεχνῶν μάθησιν"
+      },
+      "url_slug": "galen-of-pergamon-learn-arts-qmm-ca",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/learn-arts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/learn-arts.json"
+      }
+    },
+    {
+      "eul_wid": "nys-aa",
+      "title": {
+        "english": "On Animals That Emit Venom, Including the Rabid Dog",
+        "ancient_greek": "Περὶ τῶν ζῴων τῶν δηλητηριωδῶν"
+      },
+      "url_slug": "pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/venomous-animals-rabid-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bt",
+      "title": {
+        "english": "On Glands",
+        "ancient_greek": "Περὶ ἀδένων"
+      },
+      "url_slug": "hippocrates-glands-bww-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/glands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/glands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/glands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/glands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/glands.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cp",
+      "title": {
+        "english": "On Hippocrates' Aphorisms",
+        "ancient_greek": "Περὶ Ἱπποκράτους Ἀφορισμῶν"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-aphorisms-qmm-cp",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cl",
+      "title": {
+        "english": "On Hippocrates' Prognostic",
+        "ancient_greek": "Περὶ Ἱπποκράτους Προγνωστικοῦ"
+      },
+      "url_slug": "galen-of-pergamon-prognostic-qmm-cl",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/prognostic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/prognostic.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bu",
+      "title": {
+        "english": "On Humors",
+        "ancient_greek": "Περὶ χυμῶν"
+      },
+      "url_slug": "hippocrates-humors-bww-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/humors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/humors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/humors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/humors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/humors.json"
+      }
+    },
+    {
+      "eul_wid": "ehy-ac",
+      "title": {
+        "english": "On the Colaxaeans",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "ctesias-of-cnidus-colaxaeans-ehy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesias-of-cnidus/colaxaeans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesias-of-cnidus/colaxaeans.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/bolus-of-mendes/testimonies-1",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bolus-of-mendes/testimonies-1.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

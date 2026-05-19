@@ -1,0 +1,419 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iaw-aj",
+  "eul_aid": "iaw",
+  "author_slug": "euclid-of-alexandria",
+  "work_slug": "elements-aj",
+  "url_slug": "euclid-of-alexandria-elements-aj-iaw-aj",
+  "author": {
+    "english": "Euclid of Alexandria",
+    "ancient_greek": "Εὐκλείδης ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Elements",
+    "ancient_greek": "Στοιχεῖα"
+  },
+  "seo": {
+    "browser_title": "The Elements by Euclid of Alexandria on the Eulogikon",
+    "meta_title": "The Elements by Euclid of Alexandria in Ancient Greek",
+    "meta_description": "Euclid's Elements is a foundational mathematical treatise. It compiles geometry number theory. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Euclid&#x27;s <strong>Elements</strong> is a foundational mathematical treatise composed in Greek around 300 BCE. Organized into thirteen books, it systematically compiles the geometry and number theory of its time into a coherent logical structure built from definitions, postulates, and common notions or axioms. The work begins with plane geometry, establishing fundamental results such as the properties of triangles, parallels, and areas, including the Pythagorean theorem. It then progresses to number theory, presenting concepts like divisibility, prime numbers, and the Euclidean algorithm for finding the greatest common divisor. The final books address solid geometry, culminating in the construction and proof that only five regular polyhedra—the Platonic solids—can exist. Its primary purpose was pedagogical, aiming to instruct students in mathematics through a rigorous sequence of deductive proofs.</p>\n<p class=\"research-text\">The text survives in its entirety, though no original manuscript exists. Modern scholarship relies on later Byzantine copies and a rich tradition of translations, first into Arabic during the Islamic Golden Age and later into Latin, which were crucial for its transmission to medieval Europe. It is believed to have been composed in Alexandria, synthesizing earlier Greek mathematical knowledge into a single, authoritative compilation. The <strong>Elements</strong> is arguably the most influential textbook ever written, serving as the standard for teaching geometry, logic, and the axiomatic method for over two millennia and profoundly shaping the development of scientific and philosophical thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.(n)",
+      "text": "Ad αʹ, prop. δʹ ΑΛΛΩΣ Λέγω, ὅτι τὸ ἀπὸ τῆς ΑΒ τετράγωνον ἴσον ἐστὶ τοῖς τε ἀπὸ τῶν ΑΓ, ΓΒ τετραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΑΓ, ΓΒ περιεχομένῳ ὀρθογωνίῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(n)",
+      "text": "Ἐπὶ γὰρ τῆς αὐτῆς καταγραφῆς, ἐπεὶ ἴση ἐστὶν ἡ ΒΑ τῇ ΑΔ, ἴση ἐστὶ καὶ γωνία ἡ ὑπὸ ΑΒΔ τῇ ὑπὸ ΑΔΒ· καὶ ἐπεὶ παντὸς τριγώνου αἱ τρεῖς γωνίαι δυσὶν ὀρθαῖς ἴσαι εἰσίν, τοῦ ΑΔΒ ἄρα τριγώνου αἱ τρεῖς γωνίαι αἱ ὑπὸ ΑΔΒ, ΒΑΔ, ΔΒΑ δυσὶν ὀρθαῖς ἴσαι εἰσίν. ὀρθὴ δὲ ἡ ὑπὸ ΒΑΔ· λοιπαὶ ἄρα αἱ ὑπὸ ΑΒΔ, ΑΔΒ μιᾷ ὀρθῇ ἴσαι εἰσί· καί εἰσιν ἴσαι· ἑκατέρα ἄρα τῶν ὑπὸ ΑΒΔ, ΑΔΒ ἡμίσειά ἐστιν ὀρθῆς. ὀρθὴ δὲ ἡ ὑπὸ ΒΓΗ· ἴση γάρ ἐστι τῇ ἀπεναντίον τῇ πρὸς τῷ Α· λοιπὴ ἄρα ἡ ὑπὸ ΓΗΒ ἡμίσειά ἐστιν ὀρθῆς· ἴση ἄρα ἡ ὑπὸ ΓΒΗ γωνία τῇ ὑπὸ ΓΗΒ· ὥστε καὶ πλευρὰ ἡ ΒΓ τῇ ΓΗ ἐστιν ἴση. ἀλλ’ ἡ μὲν ΓΒ τῇ ΗΚ ἐστιν ἴση, ἡ δὲ ΓΗ τῇ ΒΚ· ἰσόπλευρον ἄρα ἐστὶ τὸ ΓΚ. ἔχει δὲ καὶ ὀρθὴν τὴν ὑπὸ ΓΒΚ γωνίαν· τετράγωνον ἄρα ἐστὶ τὸ ΓΚ· καί ἐστιν ἀπὸ τῆς ΓΒ. διὰ τὰ αὐτὰ δὴ καὶ τὸ ΖΘ τετράγωνόν ἐστι, καί ἐστιν ἴσον τῷ ἀπὸ τῆς ΑΓ· τὰ ἄρα ΓΚ, ΘΖ τετράγωνά ἐστι, καί ἐστιν ἴσα τοῖς ἀπὸ τῶν ΑΓ, ΓΒ. καὶ ἐπεὶ ἴσον ἐστὶ τὸ ΑΗ τῷ ΗΕ, καί ἐστι τὸ ΑΗ τὸ ὑπὸ τῶν ΑΓ, ΓΒ· ἴση γὰρ ἡ ΓΗ τῇ ΓΒ· καὶ τὸ ΕΗ ἄρα ἴσον ἐστὶ τῷ ὑπὸ τῶν ΑΓ, ΓΒ. τὰ ἄρα ΑΗ, ΗΕ ἴσα ἐστὶ τῷ δὶς ὑπὸ τῶν ΑΓ, ΓΒ. ἔστι δὲ καὶ τὰ ΓΚ, ΘΖ ἴσα τοῖς ἀπὸ τῶν ΑΓ, ΓΒ. τὰ ἄρα ΓΚ, ΘΖ, ΑΗ, ΗΕ ἴσα ἐστὶ τοῖς τε ἀπὸ τῶν ΑΓ, ΓΒ καὶ τῷ δὶς ὑπὸ τῶν ΑΓ, ΓΒ. ἀλλὰ τὰ ΓΚ, ΘΖ καὶ τὰ ΑΗ, ΗΕ ὅλον ἐστὶ τὸ ΑΕ, ὅ ἐστιν ἀπὸ τῆς ΑΒ τετράγωνον· τὸ ἄρα ἀπὸ τῆς ΑΒ τετράγωνον ἴσον ἐστὶ τοῖς τε ἀπὸ τῶν ΑΓ, ΓΒ τετραγώνοις καὶ τῷ δὶς ὑπὸ τῶν ΑΓ, ΓΒ περιεχομένῳ ὀρθογωνίῳ· ὅπερ ἔδει δεῖξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2.(n)",
+      "text": "Ad γʹ, prop. ζʹ Ἢ καὶ οὕτως. ἐπεζεύχθω ἡ ΕΚ. καὶ ἐπεὶ ἴση ἐστὶν ἡ ΗΕ τῇ ΕΚ, κοινὴ δὲ ἡ ΖΕ, καὶ βάσις ἡ ΖΗ βάσει τῇ ΖΚ ἴση, γωνία ἄρα ἡ ὑπὸ ΗΕΖ γωνίᾳ τῇ ὑπὸ ΚΕΖ ἴση ἐστίν. ἀλλὰ ἡ ὑπὸ ΗΕΖ τῇ ὑπὸ ΘΕΖ ἐστιν ἴση· καὶ ἡ ὑπὸ ΘΕΖ ἄρα τῇ ὑπὸ ΚΕΖ ἐστιν ἴση, ἡ ἐλάττων τῇ μείζονι· ὅπερ ἐστὶν ἀδύνατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3.(n)",
+      "text": "Ad γʹ, prop. ηʹ Ἢ καὶ ἄλλως. ἐπεζεύχθω ἡ ΜΝ. ἐπεὶ ἴση ἐστὶν ἡ ΚΜ τῇ ΜΝ, κοινὴ δὲ ἡ ΜΔ, καὶ βάσις ἡ ΔΚ βάσει τῇ ΔΝ ἴση, γωνία ἄρα ἡ ὑπὸ ΚΜΔ γωνίᾳ τῇ ὑπὸ ΔΜΝ ἐστιν ἴση. ἀλλ’ ἡ ὑπὸ ΚΜΔ τῇ ὑπὸ ΒΜΔ ἐστιν ἴση· καὶ ἡ ὑπὸ ΒΜΔ ἄρα τῇ ὑπὸ ΝΜΔ ἐστιν ἴση, ἡ ἐλάττων τῇ μείζονι· ὅπερ ἐστὶν ἀδύνατον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4.(n)",
+      "text": "Ad γʹ, prop. θʹ ΑΛΛΩΣ Κύκλου γὰρ τοῦ ΑΒΓ εἰλήφθω τι σημεῖον ἐντὸς τὸ Δ, ἀπὸ δὲ τοῦ Δ πρὸς τὸν ΑΒΓ κύκλον προσπιπτέτωσαν πλείους ἢ δύο ἴσαι εὐθεῖαι αἱ ΑΔ, ΔΒ, ΔΓ· λέγω, ὅτι τὸ ληφθὲν σημεῖον τὸ Δ κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου. Μὴ γάρ, ἀλλ’ εἰ δυνατόν, ἔστω τὸ Ε, καὶ ἐπιζευχθεῖσα ἡ ΔΕ διήχθω ἐπὶ τὰ Ζ, Η σημεῖα. ἡ ΖΗ ἄρα διάμετρός [Omitted graphic marker] ἐστι τοῦ ΑΒΓ κύκλου. ἐπεὶ οὖν κύκλου τοῦ ΑΒΓ ἐπὶ τῆς ΖΗ δια μέτρου εἴληπταί τι σημεῖον, ὃ μή ἐστι κέντρον τοῦ κύκλου, τὸ Δ, μεγίστη μὲν ἔσται ἡ ΔΗ, μείζων δὲ ἡ μὲν ΔΓ τῆς ΔΒ, ἡ δὲ ΔΒ τῆς ΔΑ. ἀλλὰ καὶ ἴση· ὅπερ ἐστὶν ἀδύνατον· οὐκ ἄρα τὸ Ε κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου. ὁμοίως δὴ δείξομεν, ὅτι οὐδ’ ἄλλο τι πλὴν τοῦ Δ· τὸ Δ ἄρα σημεῖον κέντρον ἐστὶ τοῦ ΑΒΓ κύκλου· ὅπερ ἔδει δεῖξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5.(n)",
+      "text": "Ad γʹ, prop. ιʹ ΑΛΛΩΣ Κύκλος γὰρ πάλιν ὁ ΑΒΓ κύκλον τὸν ΔΕΖ τεμνέτω κατὰ πλείονα σημεῖα ἢ δύο τὰ Β, Η, Θ, Ζ καὶ εἰλήφθω τὸ [Omitted graphic marker] κέντρον τοῦ ΑΒΓ κύκλου τὸ Κ, καὶ ἐπεζεύχθωσαν αἱ ΚΒ, ΚΗ, ΚΖ. Ἐπεὶ οὖν κύκλου τοῦ ΔΕΖ εἴληπταί τι σημεῖον ἐντὸς τὸ Κ, καὶ ἀπὸ τοῦ Κ πρὸς τὸν ΔΕΖ κύκλον προσπεπτώκασι πλείους ἢ δύο ἴσαι εὐθεῖαι αἱ ΚΒ, ΚΖ, ΚΗ, τὸ Κ ἄρα σημεῖον κέντρον ἐστὶ τοῦ ΔΕΖ κύκλου. ἔστι δὲ καὶ τοῦ ΑΒΓ κύκλου κέντρον τὸ Κ· δύο ἄρα κύκλων τεμνόντων ἀλλήλους τὸ αὐτὸ κέντρον ἐστὶ τὸ Κ· ὅπερ ἐστὶν ἀδύνατον. οὐκ ἄρα κύκλος κύκλον τέμνει κατὰ πλείονα σημεῖα ἢ δύο· ὅπερ ἔδει δεῖξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6.(n)",
+      "text": "Ad γʹ, prop. ιαʹ Ἀλλὰ δὴ πιπτέτω ὡς ἡ ΗΖΓ, [καὶ] ἐκβεβλήσθω ἐπ’ εὐθείας ἡ ΓΖΗ ἐπὶ τὸ Θ σημεῖον, καὶ ἐπεζεύχθωσαν αἱ ΑΗ, ΑΖ. Ἐπεὶ οὖν αἱ ΑΗ, ΗΖ μείζους εἰσὶ τῆς ΑΖ, ἀλλὰ ἡ ΖΑ ἴση [ἐστὶ] τῇ ΖΓ, τουτέστι τῇ ΖΘ, κοινὴ ἀφῃρήσθω ἡ ΖΗ· λοιπὴ ἄρα ἡ ΑΗ λοιπῆς [Omitted graphic marker] τῆς ΗΘ μείζων ἐστίν, τουτέστιν ἡ ΗΔ τῆς ΗΘ, ἡ ἐλάττων τῆς μείζονος· ὅπερ ἐστὶν ἀδύνατον. ὁμοίως, κἂν ἐκτὸς ᾖ τοῦ μικροῦ τὸ κέντρον τοῦ μείζονος κύκλου, δείξομεν [τὸ] ἄτοπον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.(n)",
+      "text": "Ad γʹ, prop. λαʹ ΑΛΛΩΣ ἡ ἀπόδειξις τοῦ ὀρθὴν εἶναι τὴν ὑπὸ ΒΑΓ. Ἐπεὶ διπλῆ ἐστιν ἡ ὑπὸ ΑΕΓ τῆς ὑπὸ ΒΑΕ· ἴση γὰρ δυσὶ ταῖς ἐντὸς καὶ ἀπεναντίον· ἔστι δὲ καὶ ἡ ὑπὸ ΑΕΒ διπλῆ τῆς ὑπὸ ΕΑΓ. αἱ ἄρα ὑπὸ ΑΕΒ, ΑΕΓ διπλασίονές εἰσι τῆς ὑπὸ ΒΑΓ. ἀλλ’ αἱ ὑπὸ ΑΕΒ, ΑΕΓ δυσὶν ὀρθαῖς ἴσαι εἰσίν· ἡ ἄρα ὑπὸ ΒΑΓ ὀρθή ἐστιν· ὅπερ ἔδει δεῖξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iaw-ab",
+      "title": {
+        "english": "Catoptrics, Theon Edition?",
+        "ancient_greek": "Κατοπτρικά"
+      },
+      "url_slug": "euclid-of-alexandria-catoptrics-iaw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/catoptrics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/catoptrics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/catoptrics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/catoptrics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/catoptrics.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-aq",
+      "title": {
+        "english": "Data",
+        "ancient_greek": "Δεδομένα"
+      },
+      "url_slug": "euclid-of-alexandria-data-iaw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ac",
+      "title": {
+        "english": "Data Other Demonstrations",
+        "ancient_greek": "Δεδομένα καὶ Ἄλλαι Ἀποδείξεις"
+      },
+      "url_slug": "euclid-of-alexandria-data-other-demonstrations-iaw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data-other-demonstrations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data-other-demonstrations.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ai",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-ai-iaw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ai.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ak",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-ak-iaw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-al",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-al-iaw-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-al.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-am",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-am-iaw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-am.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-an",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-an-iaw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ao",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "euclid-of-alexandria-epigram-iaw-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ag",
+      "title": {
+        "english": "On Divisions of Figures",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euclid-of-alexandria-divisions-figures-iaw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/divisions-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/divisions-figures.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ap",
+      "title": {
+        "english": "Optics",
+        "ancient_greek": "Ὀπτικά"
+      },
+      "url_slug": "euclid-of-alexandria-optics-iaw-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/optics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/optics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/optics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/optics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/optics.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ah",
+      "title": {
+        "english": "Phenomena",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "euclid-of-alexandria-phenomena-iaw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/phenomena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ixo-ag",
+      "title": {
+        "english": "Book of Assumptions",
+        "ancient_greek": "Βιβλίον Ὑποθέσεων"
+      },
+      "url_slug": "archimedes-of-syracuse-assumptions-ixo-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/assumptions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/assumptions.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-ak",
+      "title": {
+        "english": "Cattle Problem (Short Version)",
+        "ancient_greek": "Βοῦς Πρόβλημα"
+      },
+      "url_slug": "archimedes-of-syracuse-cattle-problem-ak-ixo-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/cattle-problem-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/cattle-problem-ak.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "theon-of-alexandria-epigrams-spw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "owy-ae",
+      "title": {
+        "english": "Excerpts",
+        "ancient_greek": "Ἐκλογαί"
+      },
+      "url_slug": "nicomachus-of-gerasa-excerpts-owy-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-of-gerasa/excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-ae",
+      "title": {
+        "english": "On Conoids and Spheroids",
+        "ancient_greek": "Περὶ Κωνοειδῶν καὶ Σφαιροειδῶν"
+      },
+      "url_slug": "archimedes-of-syracuse-conoids-spheroids-ixo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/conoids-spheroids",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/conoids-spheroids.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ag",
+      "title": {
+        "english": "On the Analemma",
+        "ancient_greek": "Περὶ τοῦ Ἀναλήμματος"
+      },
+      "url_slug": "ptolemy-of-alexandria-analemma-phs-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/analemma",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.json"
+      }
+    },
+    {
+      "eul_wid": "vju-aa",
+      "title": {
+        "english": "Optics",
+        "ancient_greek": "Ὀπτικά"
+      },
+      "url_slug": "damianus-of-larissa-optics-vju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/damianus-of-larissa/optics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/damianus-of-larissa/optics.json"
+      }
+    },
+    {
+      "eul_wid": "spw-ad",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "theon-of-alexandria-testimonies-spw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/theon-of-alexandria/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theon-of-alexandria/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-aj",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-aj.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-aj.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-aj.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-aj.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
