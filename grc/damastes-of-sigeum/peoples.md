@@ -1,0 +1,77 @@
+---
+title: Fragments on Peoples
+title_greek: Ἀποσπάσματα περὶ Ἐθνῶν
+author: Damastes of Sigeum
+eul_wid: dji-aa
+eul_aid: dji
+canonical: "https://eulogikon.org/grc/damastes-of-sigeum/peoples"
+period: Classical
+dialect: Ionic (frg)
+domain: History
+format: Prose
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Fragments on Peoples
+
+*Ἀποσπάσματα περὶ Ἐθνῶν*
+
+**Author:** Damastes of Sigeum
+
+**eul_wid:** `dji-aa` · [HTML page](https://eulogikon.org/grc/damastes-of-sigeum/peoples)
+
+## Text
+
+### t1-6
+
+ΠΕΡΙΠΛΟΥΣ. (ΠΕΡΙ ΕΘΝΩΝ.) Stephan.
+
+### 1
+
+Byz.: Ὑπερβόρεοι ... Δαμάστης δ’ ἐν τῷ Περὶ ἐθνῶν· Ἄνω Σκυθῶν Ἰσσηδόνας οἰκεῖν, τούτων δ’ ἀνωτέρω Ἀριμάσπους, ἄνω δ’ Ἀριμασπῶν τὰ Ῥίπαια ὄρη, ἐξ ὧν τὸν βορέαν πνεῖν, χιόνα δ’ αὐτὰ μήποτε ἐλλείπειν· ὑπὲρ δὲ τὰ ὄρη ταῦτα Ὑπερβορέους καθήκειν εἰς τὴν ἑτέραν θάλασσαν. Strabo XIII, init.
+
+### 2
+
+, de finibus Troadis: Εὐθὺς ἐπὶ τῶν κατὰ τὴν Προποντίδα τόπων ὁ μὲν Ὅμηρος ἀπὸ τοῦ Αἰσήπου τὴν ἀρχὴν ποιεῖται τῆς Τρωάδος· Εὔδοξος δὲ ἀπὸ Πριάπου καὶ Ἀρτάκης, τοῦ ἐν τῇ Κυζικηνῶν νήσῳ χωρίου ἀνταίροντος τῷ Πριάπῳ, συστέλλων ἐπ’ ἔλαττον τοὺς ὅρους· Δαμάστης δ’ ἔτι μᾶλλον συστέλλει ἀπὸ Παρίου· καὶ γὰρ οὗτος μὲν ἕως Λεκτοῦ προάγει· ἄλλοι δὲ ἄλλως. Strabo XIV, de Cypro: Τί δὲ δεῖ τῶν ποιητῶν θαυμάζειν, καὶ μάλιστα τῶν τοιούτων, οἷς ἡ πᾶσα περὶ τὴν φράσιν ἐστὶ σπουδὴ, τὰ τοῦ Δαμάστου συγκρίνοντας, ὅστις τῆς νήσου τὸ μῆκος ἀπὸ τῶν ἄρκτων πρὸς μεσημβρίαν ἀποδίδωσιν, ἀπὸ Ἱεροκηπίας, ὥς φησιν, εἰς Κλεῖδας; Οὐδὲ ὁ Ἐρατοσθένης εὖ· αἰτιώμενος γὰρ τοῦτον, οὐκ ἀπ’ ἄρκτων φησὶν εἶναι τὴν Ἱεροκηπίαν, ἀλλ’ ἀπὸ νότου· οὐδὲ γὰρ ἀπὸ νότου, ἀλλ’ ἀπὸ δύσεως, εἴπερ ἐν τῇ δυσμικῇ πλευρᾷ κεῖται, ἐν ᾗ καὶ ἡ Πάφος καὶ ὁ Ἀκάμας.
+
+### 4
+
+Festus Ruf. Avienus Or. marit. 370: Sed ad columnas quidquid interfunditur undae aestuantis, stadia septem vix ait Damastes esse. Caryandaeus Scylax medium fluentem inter columnas adserit tantum patere quantum aestus Bospori est. Valerius Max.
+
+### 5
+
+VIII, 13, 6: Hellanicus vero ait, quosdam ex gente Epiorum, quae pars est Aetoliae, ducenos explere annos; eique subscribit Damastes, hoc amplius affirmans, Lictorium quendam ex his, maximarum virium staturaeque praecipuae, trecentesimum annum cumulasse. Plinius VII, 49.
+
+### 6
+
+: Hellanicus quosdam in Aetolia Epiorum gentis ducentos ( sc. annos) explere. Cui adstipulatur Damastes ( nonnulli libri Damiades), memorans Pictoreum ex iis praecipuum corpore viribusque, etiam trecentos vixisse. [ΧΡΟΝΙΚΑ.
+
+### t7-8
+
+] Plutarch.
+
+### 7
+
+Camill. c. 19: Thargelion mensis Barbaris infaustus est. Eo mense Persae ad Granicum victi, καὶ Καρχηδόνιοι περὶ Σικελίαν ὑπὸ Τιμολέοντος ἡττῶντο τῇ ἑβδόμῃ φθίνοντος, περὶ ἣν δοκεῖ καὶ τὸ Ἴλιον ἁλῶναι, ὡς Ἔφορος καὶ Καλλισθένης καὶ Δαμάστης καὶ Φύλαρχος ἱστορήκασιν. Dionys.
+
+### 8
+
+Hal. A. R. I, c. 72: Ὁ τὰς ἱερείας τὰς ἐν Ἄργει καὶ τὰ καθ’ ἑκάστην πραχθέντα συναγαγὼν Αἰνείαν φησὶν ἐκ Μολοττῶν εἰς Ἰταλίαν ἐλθόντα μετ’ Ὀδυσσέως, οἰκιστὴν γενέσθαι τῆς πόλεως· ὀνομάσαι δ’ αὐτὴν ἀπὸ μιᾶς τῶν Ἰλιάδων Ῥώμης. Ταύτην δὲ λέγει ταῖς ἄλλαις Τρωάσι παρακελευσαμένην, κοινῇ μετ’ αὐτῶν ἐμπρῆσαι τὰ σκάφη, βαρυνομένην τῇ πλάνῃ. Ὁμολογεῖ δ’ αὐτῷ καὶ Δαμάστης ὁ Σιγειεὺς (vlg. Σιγεύς) καὶ ἄλλοι τινές. [ΠΕΡΙ ΕΥΡΗΜΑΤΩΝ.
+
+## ] Plinius H.
+
+### 9
+
+N. VII, 57, de rerum inventoribus: Biremem Damastes Erythraeos fecisse, triremem Thucydides Aminoclem Corinthium. ΠΕΡΙ ΠΟΙΗΤΩΝ ΚΑΙ ΣΟΦΙΣΤΩΝ.
+
+### 10a
+
+Vit. Homer. cod. Matrit.: Ἀναξιμένης καὶ Δαμάστης καὶ Πίνδαρος Χῖον τὸν Ὅμηρον ἀποφαίνονται καὶ Θεόκριτος· ὁ δὲ Δαμάστης καὶ δέκατον αὐτὸν ἀπὸ Μουσαίου φησὶ γεγονέναι. Proclus Vit.
+
+### 10b
+
+Hom. in Βιογρ. Westermanni: Ἑλλάνικος καὶ Δαμάστης καὶ Φερεκύδης εἰς Ὀρφέα τὸ γένος παράγουσιν αὐτοῦ. Μαίονα γάρ φασι τὸν Ὁμήρου πατέρα, καὶ Δῖον τὸν Ἡσιόδου γενέσθαι Ἀπελλίδος, τοῦ Μελανωποῦ, τοῦ Ἐπιφραδέος, τοῦ Χαριφήμου, τοῦ Φιλοτερπέος, τοῦ Ἰδμονίδα, τοῦ Εὐκλέους, τοῦ Δωρίωνος, τοῦ Ὀρφέως. Γοργίας δ’ ὁ Λεοντῖνος εἰς Μουσαῖον αὐτὸν ἀνάγει.
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: dji-aa`.

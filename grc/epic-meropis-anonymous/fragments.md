@@ -1,0 +1,87 @@
+---
+title: Meropis Fragments
+title_greek: Μηροπίδος Ἀποσπάσματα
+author: "Epic: Meropis  Anonymous"
+eul_wid: euq-aa
+eul_aid: euq
+canonical: "https://eulogikon.org/grc/epic-meropis-anonymous/fragments"
+period: Classical
+dialect: Ionic (frg)
+domain: Epic
+format: Verse
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
+---
+
+# Meropis Fragments
+
+*Μηροπίδος Ἀποσπάσματα*
+
+**Author:** Epic: Meropis  Anonymous
+
+**eul_wid:** `euq-aa` · [HTML page](https://eulogikon.org/grc/epic-meropis-anonymous/fragments)
+
+## Text
+
+### book 1
+
+ἔνθ’ ὃ μὲν ἄλ[λ’] ἧ̣κ̣εν Μερόπων κατὰ νη[λέα] φ̣ῦλα νευρῆι ἔπι ψάλλων
+
+### book 2.1
+
+ἀλλ’ οὐκ Ἄστερον ἰὸς ἐδάμνατο· τρὶς γὰρ ἐπ’ [αὐτῶι] ἧκε διὰ νευρῆς· τ̣[ῶι δ’ οὐ] χρόα τῆνος ἵκανεν· ἠ̣[ύτε δ’ ἐκ σ]κληρῆς πέτρης ἔξαλτ[ο
+
+### book 2.2
+
+χαμᾶ]ζε δριμὺ βέλος. πικρ[ὸν δ’ ἄ]χος ἔσχεθεν Ἡ̣ρ̣α̣κλ[ῆα][ln_5][ὡς] ἴδεν̣.
+
+### book 3.1
+
+κ̣[αί νύ] κεν Ἡρακλῆα κατέκτ[ανεν,] εἰ μὴ Ἀθήνη λάβρον [ἐπεβρόν]τησε διὲκ νεφέων κα[ταβᾶ]σα· πληξαμένη θέν[αρι] δ’ ἁπαλὸν
+
+### book 3.2
+
+χρόα
+
+### book 3.3
+
+πρόσθ[ε
+
+### book 3.4
+
+φαάν]θη Ἡρακλῆος ἄνακτ[ος· ὃ δ’ εἴ]σιδεν ἄσθματι θυίω̣[ν][ln_5][γνῶ τε] θεόν.
+
+### book 4.1
+
+ἔνθ’ ὃ μὲν ε[ἰς
+
+### book 4.2
+
+πλη]θὺν Μερόπων κίεν· ἣ [δὲ δια]πρὸ αἰχμῆι
+
+### book 4.3
+
+στῆθος [ἔλασσεν·] ὃ δ̣’ ἐ̣ξέχυτ’· οὐ γὰρ [ὁμοῖαι] [ἀ]θάναται θνηταῖσι βολ[αὶ κατὰ] γαῖαν ἔασιν· πρηνη[–⏕]τησε· μέλας δ’ ἐπερ〈ε〉ί{ε}δ̣[ετο εὐ]ρὼς[ln_5]ὀφθαλμοῖς· Ἄιδόσ[δε δ’ ἀπή]λυθε θυμὸς ἀναιδής.
+
+### book 5.1
+
+καὶ τοῦ [μὲν βού]λευσε
+
+### book 5.2
+
+πε̣ρ̣ὶ̣ χρόα ῥι̣ν̣ὸ̣ν̣ [Ἀθήνη] ἕσσασθαι
+
+### book 6.1
+
+ἔκδε[ιρεν δ’ ἄρ’] ἅπαν
+
+### book 6.2
+
+σκύλος ἄλκιμο̣ν̣· [αἶψα δ’ ἔ]πειτα̣ αὐάνθη· τοῦ μέν ν̣[υ θεὸς] κατέχευε φέρουσα ἀ̣[μβροσίην·] περὶ σῶμα δ’ ἑλιξα̣[⏑–⏑⏑ ἕρ]κος αὐταῖς σὺν χ̣[είρεσσι καὶ] εὐρήεσσι
+
+### book 6.3
+
+πεδίλοις·[ln_5][ὣς ἄρα κοσ]μηθεῖσα
+
+## License and provenance
+
+Eulogikon publishes public-domain Greek texts in cleaned, structured, readable form and makes no copyright claim over that preparation (Public Domain Mark 1.0, https://creativecommons.org/publicdomain/mark/1.0/). Cite as `eul_wid: euq-aa`.
