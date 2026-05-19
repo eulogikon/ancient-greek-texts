@@ -4,7 +4,9 @@
       "Bash(git check-ignore *)",
       "Bash(git push --force origin clean-main:main)",
       "Bash(gh api -X PATCH repos/eulogikon/ancient-greek-texts -f default_branch=main)",
-      "Bash(git push origin --delete setup/initial-scaffold regen/lean-json-corpus)"
+      "Bash(git push origin --delete setup/initial-scaffold regen/lean-json-corpus)",
+      "Bash(cd /Users/james/GitHub/eulogikon && grep -n \"def create_author_page_html\\\\|load_author_research\\\\|load_seo_metadata\\\\|load_index_data\\\\|get_author_metadata\\\\|format_research_html\\\\|get_slugs_for_wid\\\\|build_metadata_rows\\\\|related_authors\\\\|seo_h1\\\\|meta_description\\\\|markdown_for_author\\\\|generate_author_json_ld\" src/core/author_page_generator.py | head -40)",
+      "Bash(EULOGIKON_STRICT_DB=1 venv/bin/python scripts/generation/generate_pdfs.py:*)"
     ]
   }
 }
