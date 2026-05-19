@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jzq-ab",
+  "eul_aid": "jzq",
+  "author_slug": "stephanus-the-comic-poet",
+  "work_slug": "kings-gift-at-thuria",
+  "url_slug": "stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab",
+  "author": {
+    "english": "Stephanus the Comic Poet",
+    "ancient_greek": "Στέφανος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "King's Gift at Thuria",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "The King's Gift at Thuria by Stephanus on Eulogikon",
+    "meta_title": "The Ancient King's Gift at Thuria by Stephanus in Greek",
+    "meta_description": "The King's Gift at Thuria is a surviving fragment of ancient Greek comedy by Stephanus. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The King&#x27;s Gift at Thuria is a lost comedy by the obscure poet Stephanus, known only by its title. The work is preserved solely as a name mentioned in the Suda lexicon&#x27;s entry for the city of Thuria, which provides no further details about its plot or content. The title suggests a narrative concerning a royal benefaction connected to Thuria, a city in Laconia. As a work known only by name, it serves as a minimal data point for the corpus of fragmentary Greek comedy and illustrates the limits of modern knowledge of the genre, while its mention of Thuria offers a minor geographical reference for potential comic satire.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Τούτῳ προέπιεν ὁ βασιλεὺς κώμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τινά. Β. καινόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τι τοῦτο γέγονε νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποτήριον; Σ. κώμη μὲν οὖν τίς ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "περὶ τὴν Θουρίαν. Β. εἰς τὰς ῥοδιακὰς ὅλος ἀπηνέχθην ἐγώ[ln_5]καὶ τοὺς ἐφήβους, Σωσία, τοὺς δυσχερεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jzq-aa",
+      "title": {
+        "english": "King's Gift of a Village",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-of-a-village",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-ak",
+      "title": {
+        "english": "Colax, Fragments Known Elsewhere",
+        "ancient_greek": "Ἀποσπάσματα Κόλακος"
+      },
+      "url_slug": "menander-of-athens-colax-fragments-hps-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/colax-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/colax-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "fkk-ab",
+      "title": {
+        "english": "Fragments on Alexander's Feast",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Ἀλεξάνδρου Συμποσίου"
+      },
+      "url_slug": "ephippus-of-athens-alexander-feast-ab-fkk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephippus-of-athens/alexander-feast-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephippus-of-athens/alexander-feast-ab.json"
+      }
+    },
+    {
+      "eul_wid": "lli-aa",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-aa-lli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-aa.json"
+      }
+    },
+    {
+      "eul_wid": "eem-aa",
+      "title": {
+        "english": "Fragments on Feasting and Merriment",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εὐωχίας καὶ Εὐφροσύνης"
+      },
+      "url_slug": "apollophanes-of-athens-feasting-merriment-eem-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollophanes-of-athens/feasting-merriment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollophanes-of-athens/feasting-merriment.json"
+      }
+    },
+    {
+      "eul_wid": "ebk-ab",
+      "title": {
+        "english": "Fragments on Fish and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰχθύων καὶ Εὐωχίας"
+      },
+      "url_slug": "archippus-the-comic-poet-fish-feasting-ebk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archippus-the-comic-poet/fish-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/fish-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/fish-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/fish-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archippus-the-comic-poet/fish-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "fua-aa",
+      "title": {
+        "english": "Fragments on Poverty and Satire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Σάτιρας"
+      },
+      "url_slug": "aristophon-the-comic-poet-poverty-satire-fua-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophon-the-comic-poet/poverty-satire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-satire.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ae",
+      "title": {
+        "english": "Metrical Arguments",
+        "ancient_greek": "Μετρικοὶ Ἀγῶνες"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-metrical-arguments-kfu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/metrical-arguments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-aq",
+      "title": {
+        "english": "Misumenus Fragments",
+        "ancient_greek": "Μισούμενος Ἀποσπάσματα"
+      },
+      "url_slug": "menander-of-athens-misumenus-fragments-hps-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/misumenus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/misumenus-fragments.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-at-thuria",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

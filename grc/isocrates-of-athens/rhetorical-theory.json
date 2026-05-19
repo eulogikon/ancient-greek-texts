@@ -1,0 +1,643 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ffu-av",
+  "eul_aid": "ffu",
+  "author_slug": "isocrates-of-athens",
+  "work_slug": "rhetorical-theory",
+  "url_slug": "isocrates-of-athens-rhetorical-theory-ffu-av",
+  "author": {
+    "english": "Isocrates of Athens",
+    "ancient_greek": "Ἰσοκράτης ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "Fragments on Rhetorical Theory",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ῥητορικῆς Θεωρίας"
+  },
+  "seo": {
+    "browser_title": "Fragments on Rhetorical Theory by Isocrates on Eulogikon",
+    "meta_title": "Fragments on Rhetorical Theory by Isocrates in Greek",
+    "meta_description": "Fragments of Isocrates on rhetorical theory and education. Key oratorical texts from Athens. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Rhetorical Theory is a modern scholarly compilation, not an ancient, coherent text. It gathers forty excerpts and paraphrases from the genuine orations of Isocrates of Athens, such as <strong>Against the Sophists</strong> and <strong>Antidosis</strong>, that pertain to rhetorical theory. Isocrates embedded his theoretical views within his discourses and never composed a standalone systematic treatise. Reconstructed from these fragments, his theory emphasizes several key themes: the central civic and civilizing power of speech and reason, a critique of eristic disputation and amoral technical handbooks, and a definition of philosophy as a practical education in virtue and political judgment, with eloquence as a core component. It also asserts the superiority of natural ability, practice, and experience over rigid rules for oratorical training and defines the orator&#x27;s role as an ethical political leader dedicated to the common good.</p>\n<p class=\"research-text\">The fragments themselves derive from Isocrates&#x27; extant orations, which were preserved through a medieval manuscript tradition, such as the 10th-century <strong>Urbinas Graecus 111</strong>. The compilation is entirely a modern editorial construct with no independent transmission history. Isocrates’ conception of a broad, civic-minded rhetorical education shaped Hellenistic and Roman ideals, notably the figure of the cultured orator-statesman. His influence on Cicero ensured that his ideas profoundly impacted Renaissance humanism and the modern liberal arts tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "frr. 1–2, 4–6, 8–41 Ἰσοκράτης φησὶ μηδὲν ἄλλο ἐπιτηδεύειν τοὺς ῥητόρας ἢ ἐπιστήμην πειθοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 1",
+      "text": "(Sextus Empiricus, Adversus mathematicos, II, 62, p. 301 F. ) Καὶ γὰρ Ἰσοκράτης ἔργον ἔφασκεν εἶναι ῥητορικῆς τὰ μὲν σμικρὰ μεγάλως εἰπεῖν, τὰ δὲ μέγαλα σμικρῶς; καὶ τὰ μὲν καινὰ παλαιῶς, τὰ δὲ παλαιὰ καινῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 2",
+      "text": "(Maxime Planude, V, p. 455, 1 dans les Rhetores graeci de Walz, et Joannes Siceliota, VI, p. 133, 13 Walz.) Διαιρήσομαι δὲ αὐτὰς (τὰς τοῦ λόγου ἰδέας), ὡς Ἰσοκράτει τε καὶ τοῖς κατ’ ἐκεῖνον τὸν ἄνδρα κοσμουμένοις ἤρεσεν, ἀρξάμενος ἀπὸ τῶν προοιμίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 4",
+      "text": "(Denys d’Halicarnasse, Sur Lysias , p. 489.) Ἐν γὰρ ταῖς καταστάσεσι τά τε οἰκεῖα συνιστῶμεν καὶ τὰ τῶν ἐναντίων διαβάλλομεν πρὸς τὸ οἰκεῖον συμφέρον ἐργαζόμενοι τὰς καταστάσεις, ὡς Ἰσοκράτης ἐδίδαξεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 5",
+      "text": "(Maxime Planude et un anonyme dans Walz, Rhetores graeci, V, p. 552 en note; Syrianus in Hermog. I, p. 93, 22 sqq. Rabe.) Καὶ γὰρ Ἰσοκράτης ἐν τῇ τέχνῃ φησὶν ὡς ἐν τῇ διηγήσει λεκτέον τό τε πρᾶγμα καὶ τὰ πρὸ τοῦ πράγματος καὶ τὰ μετὰ τὸ πρᾶγμα καὶ τὰς διανοίας, αἷς ἑκάτερος τῶν ἀγωνιζομένων χρώμενος τόδε τι πέπραχεν ἢ μέλλει πράττειν, καὶ τούτων τοῖς συμβαλλομένοις ἡμῖν χρηστέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 6",
+      "text": "(Syrianus et Sopater; IV, p. 302 Walz [texte du Venetus ]; deux textes anonymes, VII, p. 721, 17 et 917, 16 Walz.) Ἀλλὰ πρῶτον μὲν ἐοίκασι τῶν ὀνομάτων τούτων (κῶλον, κόμμα) ἐλθεῖν εἰς ἔννοιαν ἐν ἐξετάσει λόγων οὐ κατὰ μέτρα προενηνεγμένων, φιλοσόφων μὲν Ἀριστοτέλης ἐν ταῖς ῥητορικαῖς λεγομέναις τέχναις, σοφιστῶν δὲ Ἰσοκράτης· τί δὲ τούτων ἕκαστος λέγει καὶ ὅπως μὲν Ἀριστοτέλης τὴν περίοδον ὡρίσατο, ὡς συμπληροῖ τὰ κῶλα καὶ τὰ κόμματα, ὅπως δὲ πάλιν Ἰσοκράτης, τῷ Λαχάρῃ δεόντως ἐν τῷ περὶ αὐτῶν εἴρηται λόγῳ· πολλοὺς γὰρ ὁρισμοὺς τῶν ἀρχαίων παρατίθησι· λέγει γὰρ καὶ Ἰσοκράτους ὁρισμὸν, ὃν οὐ παραδέχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 8",
+      "text": "(Anonyme ad Hermog., VII, p. 930, 12 Walz.) Οἱ Ἀττικισταὶ παντελῶς ἀποτρέπουσι τοῦ ὀνοματοποιεῖν καὶ μόνοις προστάττουσι κεχρῆσθαι ταῖς εἰρημέναις λέξεσι καὶ τοῖς τεταγμένοις ὀνόμασιν, ὥς φησιν Ἰσοκράτης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 9",
+      "text": "(Maxime Planude, V, p. 497, 26 Walz.) Ἐκ τῆς Ἰσοκράτους τέχνης διδασκόμεθα ποῖαι τῶν λέξεων λέγονται καθαραί· τοσοῦτον γὰρ πεφρόντικε τῆς καθαρότητος τῶν λέξεων ὁ ἀνὴρ, ὡς καὶ ἐν τῇ οἰκείᾳ τέχνῃ τοίαδε παραγγέλλειν περὶ λέξεως· δεῖ δὲ 〈ἐν〉 τῇ μὲν λέξει τὰ φωνήεντα μὴ συμπίπτειν (χωλὸν γὰρ τὸ τοιόνδε), μηδὲ τελευτᾶν καὶ ἄρχεσθαι ἀπὸ τῆς αὐτῆς συλλαβῆς, οἷον εἰποῦσα σαφ ῆ , ἡλίκα καλ ὰ , ἔνθα Θαλῆ ς· καὶ τοὺς συνδέσμους τοὺς αὐτοὺς μὴ σύνεγγυς τιθέναι καὶ τὸν ἑπόμενον τῷ ἡγουμένῳ εὐθὺς ἀνταποδιδόναι· ὀνόματι δὲ χρῆσθαι ἢ μεταφορᾷ μὴ σκληρᾷ, 〈ἀλλ’〉 ἢ τῷ καλλίστῳ ἢ τῷ ἥκιστα πεποιημένῳ ἢ τῷ γνωριμωτάτῳ· ὅλως δὲ ὁ λόγος μὴ λόγος ἔστω (ξηρὸν γάρ) μηδὲ ἔμμετρος (καταφανὲς γάρ), ἀλλὰ μεμίχθω παντὶ ῥυθμῷ, μάλιστα ἰαμβικῷ ἢ τροχαϊκῷ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 10",
+      "text": ".. Διηγητέον δὲ τὸ πρῶτον καὶ τὸ δεύτερον καὶ τὰ λοιπὰ ἑπομένως· καὶ μὴ πρὶν ἀποτελέσαι τὸ πρῶτον ἐπ’ ἄλλο ἰέναι, εἶτα ἐπὶ τὸ πρῶτον ἐπανιέναι ἀπὸ τοῦ τέλους· καὶ αἱ ἐπὶ μέρος δὲ διάνοιαι τελειούσθωσαν ἐφ’ ἑαυτὰς περιγραφόμεναι. (Maxime Planude, V, p. 469 Walz; Joannes Siceliota, VI, p. 156, 19.) Ἰσοκράτης ὁ ῥήτωρ ἔλεγεν ὑπὲρ τῆς Ἀθηναίων πόλεως ὁμοίαν εἶναι ταῖς ἑταίραις· καὶ γὰρ τοὺς ἁλισκομένους ὑπὸ τῆς ὥρας αὐτῶν βούλεσθαι συνεῖναι αὐταῖς· ὅμως δὲ μηδένα ἐντελῶς οὕτως παραφρονεῖν, ὡς ὑπομεῖναι ἂν συνοικῆσαί τινι αὐτῶν· καὶ οὖν καὶ τὴν Ἀθηναίων πόλιν ἐνεπιδημῆσαι μὲν εἶναι ἡδίστην καὶ κατά γε τοῦτο πασῶν τῶν κατὰ τὴν Ἑλλάδα διαφέρειν, ἐνοικῆσαι δὲ ἀσφαλῆ μηκέτι εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 11",
+      "text": "Ἠινίττετο δὲ διὰ τούτων τοὺς ἐπιχωριάζοντας αὐτῇ συκοφάντας καὶ τὰς ἐκ τῶν δημαγωγούντων ἐπιβουλάς. (Elien, Histoires variées, XII, 52. ) Πεφύκασιν αἱ πονηραὶ φύσεις καὶ φιλόνεικοι μὴ πρότερον λήγειν τῆς διαμάχης καὶ ἔριδος πρὶν ἢ καιρίαν δέξασθαι τὴν πληγὴν καὶ ἀνεπιλήστου τιμωρίας πεῖραν λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 12",
+      "text": "Ἰσοκράτους. (Antonius Melissa, II, 68, dans Migne, Patrol. grecque, vol. 136, p. 1164.) Ἰσοκράτης, .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 13",
+      "text": ".. ὥς φασιν, ἤδη γέρων γεγονὼς, πρὸς τὸν πυθόμενον πῶς διάγει. «Οὕτως, εἶπεν, ὡς ἄνθρωπος ὑπὲρ ἐνενήκοντα ἔτη γεγονὼς καὶ μέγιστον ἡγούμενος τῶν κακῶν τὸν θάνατον.» (Plutarque, Sur la gloire des Athéniens , 8.) Κατὰ ἀμφιβολίαν δὲ, οἷον Ἰσοκράτης ὁ ῥήτωρ, συνισταμένου αὐτῷ παιδίου καὶ ἐρωτῶντος τίνος αὐτῷ δεῖ, εἶπε· «Πινακιδίου καὶ νοῦ, καὶ γραφειδίου καὶ νοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 14",
+      "text": "» Ἀμφιβαλλόμενον γὰρ πότερον νοῦ καὶ πινακιδίου λέγει ἢ πινακίδος καινῆς καὶ καινοῦ γραφειδίου. (Théon, I, p. 209, 1 Walz.) Le même jeu de mots est d’ailleurs attribué à Antisthène par Diogène Laerce, VI, 3. Ἰσοκράτης, εἰπόντος αὐτῷ τινος ὅτι ὁ δῆμος ὑπὸ τῶν ῥητόρων ἁρπάζεται· «Τί θαυμαστὸν εἰ Κόρακος ἐφευρόντος τὴν ῥητορικὴν οἱ ἀπ’ ἐκείνου κόρακές εἰσιν;» (Arsenius, p.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 15",
+      "text": "506, Walz.) Ἰσοκράτης ὁ ῥήτωρ, .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 16",
+      "text": ".. Καρέωνος ὄντος λάλου καὶ σχολάζειν παρ’ αὐτῷ βουλομένου, διττοὺς ᾔτησε μισθούς. Τοῦ δὲ τὴν αἰτίαν πυθομένου· «Ἕνα μὲν, ἔφη, ἵνα λέγειν μάθῃς· τὸν δὲ ἕτερον ἵνα σιγᾶν.» (Maxime le Confesseur, dans Migne, Patrol. grecque , vol. 91, p. 940; Antonius Melissa, II, 70, vol. 136, p. 1168 Migne; Arsenius, p. 307.) Ἰσοκράτης ὁ σοφιστὴς τοὺς εὐφυεῖς τῶν μαθητῶν θεῶν παῖδας ἔλεγεν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 17",
+      "text": "(Théon, I, p. 203 et 210, 15 Walz; le mot est encore discuté à I, p. 215, 5.) Ἰσοκράτης ὁ ῥήτωρ παρῄνει τοῖς γνωρίμοις προτιμᾶν τῶν γονέων τοὺς διδασκάλους, ὅτι οἱ μὲν τοῦ ζῆν μόνον, οἱ δὲ διδάσκαλοι καὶ τοῦ καλῶς ζῆν αἴτιοι γεγόνασιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 18",
+      "text": "(Théon, I, p. 207, 2; le mot est discuté à I, p. 213, 4.) Ὁ Ἰσοκράτης ἔφησε τῆς παιδείας τὴν μὲν ῥίζαν εἶναι πικρὰν, τὸν δὲ καρπὸν γλυκύν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 19",
+      "text": "(Libanios, Progymnasmata , χρεία γ’, Hermogène, I, p. 22, 1 Walz; Aphtonios, I, 63, 14.) Ἐρωτηθεὶς ὑπό τινος, τίνι οἱ φιλόπονοι τῶν ῥᾳθύμων διαφέρουσιν, εἶπεν· «Ὡς οἱ εὐσεβεῖς τῶν ἀσεβῶν, ἐλπίσιν ἀγαθαῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 20",
+      "text": "» (Maxime le Confesseur, vol. 91, p. 892 Migne; Arsenius, p. 307.) Ἰδὼν νεανίαν φιλοπονοῦντα, ἔφη· «Κάλλιστον ὄψον τῷ γήρατι ἀρτύεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 21",
+      "text": "» (Maxime le Confesseur, vol. 91, p. 892 Migne; Arsenius, p. 307.) Ἰσοκράτης τοῖς μαθηταῖς παρεκελεύετο μὴ πράγματα λέγειν, ἀλλὰ πράγματα παρέχειν τοῖς ἀκροωμένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 22",
+      "text": "(Jean de Damas, dans Stobée, Floril., XVI, 104. ) Ἰσοκράτης εἶπεν ὅτι τὸν χρηστὸν καὶ ἀγαθὸν ἄνδρα δεῖ τῶν μὲν προγεγενημένων μεμνῆσθαι, τὰ δὲ ἐνεστῶτα πράττειν, περὶ δὲ τῶν μελλόντων φυλάττεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 23",
+      "text": "(Stobée, Floril., I, 45. ) Ὁ μεμνημένος τί ἐστιν ἄνθρωπος, ἐπ’ οὐδενὶ τῶν συμβάντων δυσχερανεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 24",
+      "text": "(Maxime le Confesseur, vol. 91, p. 833 Migne; Antonius Melissa, I, 70, vol. 136, p. 984.) Εἰς μὲν τὸ εὐπλοῆσαι κυβερνήτου καὶ πνεύματος, εἰς δὲ τὸ εὐδαιμονῆσαι λογισμοῦ δεῖ καὶ τέχνης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 25",
+      "text": "(Maxime le Confesseur, vol. 91, p. 833.) Καὶ κυβερνήτης ἀγαθὸς ἐνίοτε ναυαγεῖ καὶ ἀνὴρ σπουδαῖος ἀτυχεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 26",
+      "text": "(Maxime le Confesseur, vol. 91, p. 832.) Εὐτυχίας ὥσπερ μέθης ἄφρων ἐπὶ πλεῖον ἀπολαύσας ἀνοητότερος γίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 27",
+      "text": "(Maxime le Confesseur, vol. 91, p. 833; Antonius Melissa, I, 70, vol. 136, p. 984.) Τῆς εὐτυχίας ὥσπερ ὀπώρας παρούσης ἀπολαύειν δεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 28",
+      "text": "(Maxime le Confesseur, vol. 91, p. 836.) Ἀλόγιστός ἐστιν ὁ ἐν τοῖς συμβαίνουσι κατὰ φυσικὴν ἀνάγκην ἀχθόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 29",
+      "text": "(Maxime le Confesseur, vol. 91, p. 836.) Τὸν λογισμὸν ὥσπερ ἰατρὸν ἀγαθὸν ἐπικαλεῖσθαι δεῖ ἐν ἀτυχίᾳ βοηθόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 30",
+      "text": "Ἰσοκράτους. (Maxime le Confesseur, vol. 91, p. 590; Antonius Melissa, I, 71, vol. 136, p. 984.) Δεῖ, ὥσπερ ἐξ εὐνομουμένης πόλεως φυγαδεύειν στασιαστὴν ἄνθρωπον, οὕτως ἐκ τῆς ψυχῆς τὸν πρὸς τὰ φαῦλα κεκλικότα λογισμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 31",
+      "text": "(Maxime le Confesseur, vol. 91, p. 981; Antonius Melissa, I, 44, vol. 136, p. 972.) Τῷ γὰρ πάθει τοῦ σώματος καὶ τὸ νοερὸν τῆς ψυχῆς συνομολογεῖν ἀνέχεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 32",
+      "text": "(Maxime le Confesseur, vol. 91, p. 981.) Ἡ ἀληθινὴ φιλία τρία ζητεῖ μάλιστα· τὴν ἀρετὴν ὡς καλὸν, καὶ τὴν συνήθειαν ὡς ἡδὺ καὶ τὴν χρείαν ὡς ἀναγκαῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 33",
+      "text": "Δεῖ γὰρ ἀποδέξασθαι κρίναντα καὶ χαίρειν συνόντα καὶ χρῆσθαι δεόμενον. (Maxime le Confesseur, vol. 91, p. 760.) Οἱ ἄνθρωποι τότε γίνονται βελτίους ὅταν θεῷ προσέρχωνται· ὅμοιον δὲ ἔχουσιν θεῷ τὸ εὐεργετεῖν καὶ ἀληθεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 34",
+      "text": "Ἰσοκράτους. (Maxime le Confesseur, vol. 91, p. 812; Antonius Melissa, I, 46, vol. 136, p. 925.) Οὗτος ἀκούσας παρά τινος ὅτι ὁ δεῖνα ἐπ’ ἐμοῦ τάδε κατὰ σοῦ ἐλοιδόρει· «Εἰ μὴ σὺ, εἶπεν, ἡδέως ἤκουσας, οὐκ ἂν ἐκεῖνος ἐλοιδόρει·» (Maxime le Confesseur, vol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 35",
+      "text": "91, p. 785.) Εὖ σοι τὸ μέλλον ἕξει ἂν τὸ παρὸν εὖ τιθῇς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 36",
+      "text": "Ἰσοκράτους (Antonius Melissa, I, 7 vol., 136, p. 793.) Ἐὰν καλὸν ἔχῃς σῶμα καὶ ψυχὴν κακὴν, καλὴν ἔχεις ναῦν, καὶ κακὸν κυβερνήτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 37",
+      "text": "Ἰσοκράτους (Antonius Melissa, I, 61, vol. 136, p. 961.) Ἰσοκράτους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 38",
+      "text": "Ὕδωρ θολερὸν καὶ ἀπαίδευτον ψυχὴν οὐ δεῖ ταράττειν. (Georgides, dans les Anecdota de Boissonade, II, p. 93.) Νόμῳ καὶ ἄρχοντι καὶ τῷ σοφωτέρῳ εἴκειν κόσμιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 39",
+      "text": "(Maxime le Confesseur, vol. 91, p. 945.) Ἰσοκράτης κάκιστον ἔλεγεν ἄρχοντα εἶναι τὸν ἄρχειν ἑαυτοῦ μὴ δυνάμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 40",
+      "text": "(Maxime le Confesseur, vol. 91, p. 780; Antonius Melissa, II, 1, vol. 136, p. 1008; Arsenius, p. 307 Walz.) Οἴδασι γὰρ τὸ ἐφ’ ἑκάτερα τρεπτὸν καὶ ἀβέβαιον τῶν ἀνθρωπίνων πραγμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Frag 41",
+      "text": "(Extrait par Sauppe d’un florilège anonyme contenu dans le codex Baroccianus 143, fol. 61.)",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ffu-ag",
+      "title": {
+        "english": "Against Lochites",
+        "ancient_greek": "Κατὰ Λοχίτου"
+      },
+      "url_slug": "isocrates-of-athens-against-lochites-ffu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/against-lochites",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-lochites.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ad",
+      "title": {
+        "english": "Against The Sophists",
+        "ancient_greek": "Κατὰ τοῦ Σοφιστῶν"
+      },
+      "url_slug": "isocrates-of-athens-against-sophists-ffu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/against-sophists",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/against-sophists.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-at",
+      "title": {
+        "english": "Archidamus",
+        "ancient_greek": "Ἀρχίδαμος"
+      },
+      "url_slug": "isocrates-of-athens-archidamus-at-ffu-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/archidamus-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ah",
+      "title": {
+        "english": "Areopagiticus",
+        "ancient_greek": "Ἀρεοπαγιτικός"
+      },
+      "url_slug": "isocrates-of-athens-areopagiticus-ffu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/areopagiticus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/areopagiticus.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-bc",
+      "title": {
+        "english": "Banker",
+        "ancient_greek": "Τραπεζιτικός"
+      },
+      "url_slug": "isocrates-of-athens-banker-ffu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/banker",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-bb",
+      "title": {
+        "english": "Busiris",
+        "ancient_greek": "Βούσιρις"
+      },
+      "url_slug": "isocrates-of-athens-busiris-ffu-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/busiris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/busiris.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-aa",
+      "title": {
+        "english": "Counterplea To Callimachus",
+        "ancient_greek": "παράγραφος προς καλλίμαχον"
+      },
+      "url_slug": "isocrates-of-athens-counterplea-ffu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/counterplea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/counterplea.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-az",
+      "title": {
+        "english": "Evagoras",
+        "ancient_greek": "Εὐαγόρας"
+      },
+      "url_slug": "isocrates-of-athens-evagoras-ffu-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/evagoras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/evagoras.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-bd",
+      "title": {
+        "english": "Helena",
+        "ancient_greek": "Ελένη"
+      },
+      "url_slug": "isocrates-of-athens-helena-ffu-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/helena",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/helena.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ac",
+      "title": {
+        "english": "Nicocles or the Cyprians",
+        "ancient_greek": "Νικόκλης ἢ Κύπριοι"
+      },
+      "url_slug": "isocrates-of-athens-nicocles-cyprians-ffu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/nicocles-cyprians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ao",
+      "title": {
+        "english": "On Exchange",
+        "ancient_greek": "Περὶ ἀντιδόσεως"
+      },
+      "url_slug": "isocrates-of-athens-exchange-ffu-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/exchange",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/exchange.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-af",
+      "title": {
+        "english": "On Pair of Horses",
+        "ancient_greek": "Περὶ ἵππων ζεύγους"
+      },
+      "url_slug": "isocrates-of-athens-pair-horses-ffu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/pair-horses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/pair-horses.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-bk",
+      "title": {
+        "english": "For the Megalopolitans",
+        "ancient_greek": "ὑπὲρ Μεγαλοπολιτῶν"
+      },
+      "url_slug": "demosthenes-of-athens-megalopolitans-fsm-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/megalopolitans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/megalopolitans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/megalopolitans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/megalopolitans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/megalopolitans.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bf",
+      "title": {
+        "english": "Herodotus or Aetion",
+        "ancient_greek": "Ἡρόδοτος ἢ Ἀετίων"
+      },
+      "url_slug": "lucian-of-samosata-aetion-pfk-bf",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/aetion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/aetion.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-cg",
+      "title": {
+        "english": "Olynthiac 3",
+        "ancient_greek": "Ὀλυνθιακὸς γ΄"
+      },
+      "url_slug": "demosthenes-of-athens-olynthiac-3-fsm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/olynthiac-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/olynthiac-3.json"
+      }
+    },
+    {
+      "eul_wid": "brc-ad",
+      "title": {
+        "english": "On Human Nature and Barbarians",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "antiphon-the-sophist-human-nature-barbarians-brc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-the-sophist/human-nature-barbarians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/human-nature-barbarians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/human-nature-barbarians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/human-nature-barbarians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/human-nature-barbarians.json"
+      }
+    },
+    {
+      "eul_wid": "okq-ac",
+      "title": {
+        "english": "Orations",
+        "ancient_greek": "Λόγοι"
+      },
+      "url_slug": "dio-chrysostom-orations-okq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-chrysostom/orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bu",
+      "title": {
+        "english": "To the King",
+        "ancient_greek": "Εἰς βασιλέα"
+      },
+      "url_slug": "aristides-the-orator-king-qwm-bu",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/king",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/king.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/king.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/king.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/king.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ay",
+      "title": {
+        "english": "Toxaris or Friendship",
+        "ancient_greek": "Τόξαρις ἢ Φιλία"
+      },
+      "url_slug": "lucian-of-samosata-toxaris-friendship-pfk-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/toxaris-friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/isocrates-of-athens/rhetorical-theory",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/rhetorical-theory.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

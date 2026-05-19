@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "cqc-ae",
+  "eul_aid": "cqc",
+  "author_slug": "paean-collection-anonymous",
+  "work_slug": "delphic-i",
+  "url_slug": "paean-collection-anonymous-delphic-i-cqc-ae",
+  "author": {
+    "english": "Paean Collection Anonymous",
+    "ancient_greek": "Παιάνας (Ἀνώνυμος, Αἰῶνος Ε΄ π.Χ.)"
+  },
+  "title": {
+    "english": "Delphic Paean I to Apollo",
+    "ancient_greek": "Δελφικὸς Παιὰν Αʹ πρὸς Ἀπόλλωνα"
+  },
+  "seo": {
+    "browser_title": "Delphic Paean I to Apollo by Anonymous on Eulogikon",
+    "meta_title": "Delphic Paean I to Apollo by Anonymous in Ancient Greek",
+    "meta_description": "Delphic Paean I is an ancient Greek hymn from 138–128 BCE, a formal song of praise in Doric. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric (frg)",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Delphic Paean I to Apollo is an ancient Greek cult hymn, composed in verse around 138–128 BCE. Written in a literary Doric dialect, it is a formal song of praise that invokes the god Apollo, celebrates his slaying of the serpent Python to establish his oracle at Delphi, and glorifies the sanctuary itself. The hymn is structured in 17 stanzas. It survives not merely as a poetic text but as a complete musical score, inscribed on a marble block originally mounted on the wall of the Athenian Treasury at Delphi. This inscription preserves both the lyrics and an elaborate system of ancient Greek musical notation, rendering it one of the most substantial and reconstructable examples of ancient music. Although the stone has suffered damage, a significant portion of the melody and rhythm, set in the traditional cretic meter, can be recovered.</p>\n<p class=\"research-text\">The hymn&#x27;s creation was intimately connected to its historical context. It was dedicated by the Athenian guild of Artists of Dionysus as an act of thanksgiving to Apollo, commemorating the guild being granted special privileges and security by the city of Delphi. Modern scholarship interprets the work as serving a dual purpose: it functioned as a genuine religious offering while also acting as a political statement of gratitude and legitimization for the guild during a period when Delphi was under growing Roman influence.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]Κέκλυθ’ Ἑλικ]ῶνα βαθύδενδρον αἳ λά[χετε Διὸς] ἐ[ρι]βρόμου θύγατρες εὐώλε[νοι,] μόλε[τ]ε, συνόμαιμον ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Φοῖβον ᾠδαῖσι μέλψητε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χρυσεοκόμαν, ὃς ἀνὰ δικόρυμβα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "Παρνασσίδος[ln_5]τᾶσδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πετέρας ἕδραν’ ἅμ’ [ἀ]γακλυταῖς Δελφίσιν Κασταλίδος εὐύδρου νάματ’ ἐπινίσεται, Δελφὸν ἀνὰ [πρ]ῶνα μαντεῖον ἐφέπων πάγον· [Ἤν,] κλυτὰ μεγαλόπολις Ἀθθὶς εὐχαῖ[σ]ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "φερόπλοιο ναί‐ ουσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "Τριτωνίδος δά[πε]δον ἄθραυστον· ἁγίοις δὲ βω‐[ln_10]μοῖσιν Ἅφαιστος αἴθε[ι] νέων μῆρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "ταύ‐ ρων· ὁμοῦ δέ νιν Ἄραψ ἀτμὸς ἐς Ὄλυμπον ἀνακίδν[α]ται· λιγὺ δὲ λωτὸς βρέμων αἰόλοις μ[έ]λεσιν ᾠδὰν κρέκει· χρυσέα δ’ ἁδύθρου[ς] [κί]θαρις ὕμνοισιν ἀναμέλπεται· ὁ δὲ [τεχνιτ]ῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.9",
+      "text": "πρόπας ἑσμὸς Ἀθθίδα λαχ[ὼν][ln_15][τὸν κιθαρί]σει κλυτὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.10",
+      "text": "παῖδα μεγάλου [Διὸς ὑμ‐ –νοῦσί σε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.11",
+      "text": "πα]ρ’ ἀκρονιφῆ τόνδε πάγον, ἄμ[βροτ’ ἀψευδέ’ ὃς] πᾶσι θνατοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.12",
+      "text": "προφαίνει[ς λόγια, τρ]ίποδα μαντεῖον ὡς ε[ἷλες, ἐχθρὸς ὃν ἐφρ]ούρει δράκων, ὅτε τ[εοῖσι βέλεσιν ἔτ]ρησας αἰόλον ἑλικτὰν [φυάν,]",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_20][ἔσθ’ ὁ θήρ, συχνὰ] συρίγμαθ’ ἱεὶς ἀθώπε[υτ’, ἀπέπνευς’ ὁμῶς·] [ὡς] δὲ Γαλατᾶν Ἄρης [... ..]ν ἐπέρας’ ἄσεπτ[ος ... ..]ς. Ἀλλ’ ἰὼ γένναν [... ..]ι θάλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "φιλόμ[αχον ? ..[ln_25]..]ε δάμοιο λο[.. ..]ρων ἐφορ[... ..τεον κ[... ..]εναι κ[.. ..]θη [..[ln_30].. ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "α̣πε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "ρατ ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "α̣ι̣ι̣ο̣ τ̣ιναο εν",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "cqc-ab",
+      "title": {
+        "english": "Erythraean Fragment of a Paean to Apollo",
+        "ancient_greek": "Ἐρυθραῖον Ἀπόσπασμα Παιᾶνος πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-fragment-cqc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-aa",
+      "title": {
+        "english": "Erythraean Paean Found at the City of Dion",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν εὑρεθεὶς ἐν Δίῳ"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-dion-cqc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-dion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-dion.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-ad",
+      "title": {
+        "english": "Erythraean Paean to Aesculapius",
+        "ancient_greek": "Ἐρυθραῖος Παιὰν πρὸς Ἀσκληπιόν"
+      },
+      "url_slug": "paean-collection-anonymous-erythraean-aesculapius-cqc-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/erythraean-aesculapius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/erythraean-aesculapius.json"
+      }
+    },
+    {
+      "eul_wid": "cqc-ac",
+      "title": {
+        "english": "Fragment of a Paean to Titus Flamininus",
+        "ancient_greek": "Ἀπόσπασμα Παιᾶνος πρὸς Τίτον Φλαμινῖνον"
+      },
+      "url_slug": "paean-collection-anonymous-titus-flamininus-cqc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/paean-collection-anonymous/titus-flamininus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/titus-flamininus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vrm-aa",
+      "title": {
+        "english": "Archelaus the Philosopher-the Divine Art in Iambic Verses",
+        "ancient_greek": "Ἀρχελάου φιλοσόφου περὶ τῆς θείας τέχνης διὰ"
+      },
+      "url_slug": "archelaus-the-alchemist-divine-art-iambic-vrm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archelaus-the-alchemist/divine-art-iambic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archelaus-the-alchemist/divine-art-iambic.json"
+      }
+    },
+    {
+      "eul_wid": "gls-aa",
+      "title": {
+        "english": "Drunken Revelry and Travel",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "parmenon-the-iambic-poet-drunken-revelry-travel-gls-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/parmenon-the-iambic-poet/drunken-revelry-travel",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parmenon-the-iambic-poet/drunken-revelry-travel.json"
+      }
+    },
+    {
+      "eul_wid": "irk-aa",
+      "title": {
+        "english": "Fragments of Ethical Maxims",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἠθικῶν Γνωμῶν"
+      },
+      "url_slug": "sotades-of-maroneia-pseudo-ethical-maxims-irk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sotades-of-maroneia-pseudo/ethical-maxims",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sotades-of-maroneia-pseudo/ethical-maxims.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ar",
+      "title": {
+        "english": "Hymn 2 To Demeter",
+        "ancient_greek": "Ὕμνος εἰς Δημήτρα"
+      },
+      "url_slug": "homeric-hymns-anonymous-demeter-upu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.json"
+      }
+    },
+    {
+      "eul_wid": "upu-aw",
+      "title": {
+        "english": "Hymn 31 To Helios",
+        "ancient_greek": "Ὕμνος πρὸς Ἥλιον"
+      },
+      "url_slug": "homeric-hymns-anonymous-to-helios-upu-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/to-helios",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/to-helios.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/to-helios.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/to-helios.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/to-helios.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ay",
+      "title": {
+        "english": "Hymn 9 To Artemis",
+        "ancient_greek": "Ὕμνος εἰς Ἄρτεμιν"
+      },
+      "url_slug": "homeric-hymns-anonymous-artemis-ay-upu-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/artemis-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/artemis-ay.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/artemis-ay.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/artemis-ay.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/artemis-ay.json"
+      }
+    },
+    {
+      "eul_wid": "boa-aa",
+      "title": {
+        "english": "Isthmian Odes",
+        "ancient_greek": "Ἰσθμιονῖκαι"
+      },
+      "url_slug": "pindar-isthmian-odes-boa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar/isthmian-odes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/isthmian-odes.json"
+      }
+    },
+    {
+      "eul_wid": "ahi-ab",
+      "title": {
+        "english": "Spartan Constitution (Testimonies)",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Λακωνικῆς Πολιτείας"
+      },
+      "url_slug": "tyrtaeus-of-sparta-constitution-ab-ahi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/tyrtaeus-of-sparta/constitution-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrtaeus-of-sparta/constitution-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/paean-collection-anonymous/delphic-i",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paean-collection-anonymous/delphic-i.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lao-ab",
+  "eul_aid": "lao",
+  "author_slug": "hypsicles-of-alexandria",
+  "work_slug": "anaphoric",
+  "url_slug": "hypsicles-of-alexandria-anaphoric-lao-ab",
+  "author": {
+    "english": "Hypsicles of Alexandria",
+    "ancient_greek": "Ὑψικλῆς ὁ Ἀλεξανδρεύς"
+  },
+  "title": {
+    "english": "Anaphoric",
+    "ancient_greek": "Ἀναφορικός"
+  },
+  "seo": {
+    "browser_title": "Anaphoricus by Hypsicles of Alexandria on Eulogikon",
+    "meta_title": "Anaphoricus by Hypsicles of Alexandria in Ancient Greek",
+    "meta_description": "An ancient Greek astronomical treatise by Hypsicles on the rising times of zodiacal signs. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Anaphoricus</strong> is an astronomical treatise written by Hypsicles of Alexandria around 150 BCE. It is a concise work on spherical astronomy, primarily concerned with calculating the rising times of the zodiacal signs—the arcs of the ecliptic that ascend above the horizon with given arcs of the celestial equator—for the latitude of Alexandria. The treatise is structured around four principal geometric proofs that establish the mathematical relationships governing these celestial motions. Historically, the work is notable for being among the earliest Greek scientific texts to systematically adopt the Babylonian convention of dividing a circle into 360 degrees, a parameter Hypsicles explicitly attributes to earlier astronomers. The complete text survives not as an independent manuscript but as an appendix to the Euclidean corpus, having been transmitted through the Middle Ages as &quot;Book XIV&quot; of Euclid&#x27;s <strong>Elements</strong>. Its authorship by Hypsicles is confirmed by an introductory letter preserved within the work. Modern scholarship views the <strong>Anaphoricus</strong> as a significant product of Hellenistic cross-cultural exchange, applying characteristically Greek geometric methods to Babylonian arithmetical frameworks. Written for mathematicians and astronomers, it provided a practical geometric method for telling time at night using stellar positions and served as a foundational text for subsequent, more advanced studies in spherical astronomy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "[45]",
+      "text": "Ἐὰν ὦσιν ὁσοιδηποτοῦν ὅροι ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλων κείμενοι, ἄρτιοι τὸ πλῆθος, 〈ἀρχόμενοι ἀπὸ μεγίστου〉, ἡ ὑπεροχή, ᾗ ὑπερέχει ὁ συγκείμενος ἐκ τοῦ ἡμίσους τοῦ πλήθους [ἀρχομένων ἀπὸ μεγίστου] τῶν λοιπῶν, τῆς ἐν τοῖς πᾶσιν ὑπεροχῆς πολλαπλασίων ἐστὶ κατὰ τὸν τετράγωνον τὸν ἀπὸ τοῦ ἡμίσους τοῦ πλήθους τῶν ἐκκειμένων ὅρων. [Omitted graphic marker] ἔστωσαν ὁσοιδηποτοῦν ὅροι οἱ αβ βγ γδ δε εζ ζη , ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλων κείμενοι, ἄρτιοι τὸ πλῆθος, ἀρχόμενοι ἀπὸ μεγίστου τοῦ αβ , ἥμισυς δὲ τοῦ πλήθους ἔστω ὁ αδ · λέγω ὅτι ἡ ὑπεροχὴ ᾗ ὑπερέχει ὁ συγκείμενος ἐκ τοῦ ἡμίσους τοῦ πλήθους τῶν λοιπῶν, τουτέστιν ἡ ὑπεροχὴ ᾗ ὑπερέχει ὁ αδ τοῦ δη , τῆς ἐν τοῖς πᾶσιν ὑπεροχῆς πολλαπλασίων ἐστὶ κατὰ τὸν τετράγωνον τὸν ἀπὸ τοῦ ἡμίσους τοῦ πλήθους. ἐπεὶ γὰρ ἡ τῶν αβ βγ ὑπεροχὴ ἴση ἐστὶ τῇ τῶν δε εζ ὑπεροχῇ, ἐναλλὰξ ἄρα ἡ τῶν αβ δε ὑπεροχὴ ἴση ἐστὶ τῇ τῶν βγ εζ ὑπεροχῇ· πάλιν, ἐπεὶ ἡ τῶν βγ γδ ὑπεροχὴ ἴση ἐστὶ τῇ τῶν εζ ζη ὑπεροχῇ, ἐναλλὰξ ἡ τῶν βγ εζ ὑπεροχὴ ἴση ἐστὶ τῇ τῶν γδ ζη ὑπεροχῇ. ὥστε ἡ τῶν αβ δε ὑπεροχὴ καὶ ἡ τῶν βγ εζ ὑπεροχὴ καὶ ἡ τῶν γδ ζη ὑπεροχή, τουτέστιν ἡ τῶν αδ δη ὑπεροχή, τῆς τῶν αβ δε ὑπεροχῆς πολλαπλασίων ἐστὶ κατὰ τὸ πλῆθος τῶν αβ βγ γδ . ἔστι δὲ καὶ ἡ τῶν αβ δε ὑπεροχὴ τῆς τῶν αβ βγ ὑπεροχῆς πολλαπλασίων κατὰ τὸ πλῆθος τῶν αβ βγ γδ · ὥστε ἡ τῶν αδ δη ὑπεροχὴ τῆς τῶν αβ βγ ὑπεροχῆς πολλαπλασίων ἐστὶ κατὰ τὸν τετράγωνον τὸν ἀπὸ τοῦ πλήθους τῶν αβ βγ γδ , τουτέστι κατὰ τὸν τετράγωνον τὸν ἀπὸ τοῦ ἡμίσους τοῦ πλήθους τῶν ἐκκειμένων ὅρων. Ἐὰν ὦσιν ὁσοιδηποτοῦν ὅροι ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλων κείμενοι, περισσοὶ τὸ πλῆθος, ἀρχόμενοι ἀπὸ μεγίστου, ὁ ἐκ πάντων συγκείμενος τοῦ μέσου πολλαπλασίων ἐστὶ κατὰ τὸ πλῆθος τῶν ἐκκειμένων ὅρων. [Omitted graphic marker] ἔστωσαν ὁσοιδηποτοῦν ὅροι οἱ αβ βγ γδ δε εζ ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλων κείμενοι, ἀρχόμενοι ἀπὸ μεγίστου τοῦ αβ , τὸ δὲ πλῆθος αὐτῶν περισσὸν ἔστω· λέγω ὅτι ὁ ἐκ πάντων συγκείμενος ὁ αζ τοῦ μέσου τοῦ γδ πολλαπλασίων ἐστὶ κατὰ τὸ πλῆθος αὐτῶν. ἐπεὶ γὰρ οἱ αβ βγ γδ δε εζ ἐν ἴσῃ εἰσὶν ὑπεροχῇ, καὶ ἔστιν ἴσον τὸ πλῆθος τῶν αβ βγ γδ τῷ πλήθει τῶν γδ δε εζ , ἔσται ἄρα δι’ ἴσου ἡ τῶν αβ γδ ὑπεροχὴ ἴση τῇ τῶν γδ εζ ὑπεροχῇ· συναμφότερος ἄρα ὁ αβ εζ τοῦ γδ ἐστὶ διπλασίων, ὥστε συναμφότερος ὁ αβ εζ τοῦ γδ πολλαπλασίων ἐστὶ κατὰ τὸ πλῆθος τῶν αβ εζ . διὰ τὰ αὐτὰ δὴ καὶ συναμφότερος ὁ βγ δε τοῦ γδ πολλαπλάσιός ἐστι κατὰ τὸ πλῆθος τῶν βγ δε , καὶ ἔστιν ὁ γδ ἴσος ἑαυτῷ· ὥστε ὁ αζ τοῦ γδ πολλαπλάσιός ἐστι κατὰ τὸ πλῆθος τῶν αβ βγ γδ δε εζ . Ἐὰν ὦσιν ὁσοιδηποτοῦν ὅροι ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλων κείμενοι, ἄρτιοι τὸ πλῆθος, 〈ἀρχόμενοι ἀπὸ μεγίστου〉, ὁ ἐκ πάντων συγκείμενος δύο τῶν κατὰ συζυγίαν πολλαπλάσιός ἐστι κατὰ τὸν ἥμισυν τοῦ πλήθους τῶν ἐκκειμένων ὅρων. συζυγεῖς δὲ ἀλλήλων ὅρους καλῶ δύο τοὺς ἄκρους καὶ πάλιν τοὺς τούτων ἐχομένους δύο καὶ ἀεὶ δύο τοὺς ἑξῆς μέχρι τῶν μεσαιτάτων. [Omitted graphic marker] ἔστωσαν ὁσοιδηποτοῦν ὅροι οἱ αβ βγ γδ δε εζ ζη ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλων κείμενοι, ἀρχόμενοι ἀπὸ μεγίστου τοῦ αβ , τὸ δὲ πλῆθος αὐτῶν ἄρτιον ἔστω· λέγω ὅτι ὁ ἐκ πάντων συγκείμενος ὁ αη δύο τῶν κατὰ συζυγίαν πολλαπλάσιός ἐστι κατὰ τὸν ἥμισυν τοῦ πλήθους τῶν ἐκκειμένων ὅρων. ἐπεὶ γὰρ ἡ τῶν αβ βγ ὑπεροχὴ ἴση ἐστὶ τῇ τῶν εζ ζη ὑπεροχῇ, συναμφότερος ἄρα ὁ αβ ζη ἴσος ἐστὶ συναμφοτέρῳ τῷ βγ εζ . διὰ τὰ αὐτὰ δὴ καὶ συναμφότερος ὁ βγ εζ ἴσος ἐστὶ συναμφοτέρῳ τῷ γδ δε .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "ἔνεισιν ἄρα τῷ αη τοσοῦτοι συναμφότεροι οἱ αβζη βγεζ γδδε , ὅσον ἐστὶ τὸ πλῆθος τῶν αβ βγ γδ , τουτέστιν ὅσον ἐστὶ τὸ ἥμισυ τοῦ πλήθους τῶν ἐκκειμένων ὅρων· ὥστε ὁ αη δύο τῶν κατὰ συζυγίαν πολλαπλάσιός ἐστι κατὰ τὸν ἥμισυν τοῦ πλήθους τῶν ἐκκειμένων ὅρων. Τοῦ τῶν ζῳδίων κύκλου εἰς τξʹ περιφερείας ἴσας διῃρημένου, ἑκάστη τῶν περιφερειῶν μοῖρα τοπικὴ καλείσθω· ὁμοίως δὴ καὶ τοῦ χρόνου, ἐν ᾧ ὁ ζῳδιακὸς ἀφ’ οὗ ἔτυχε σημείου ἐπὶ τὸ αὐτὸ σημεῖον παραγίγνεται, εἰς τξʹ χρόνους ἴσους διῃρημένου, ἕκαστος τῶν χρόνων μοῖρα χρονικὴ καλείσθω. τούτων ὑποκειμένων χρώμενοι τοῖς προγεγραμμένοις θεωρήμασι δείξομεν, ὡς ἐν τῷ δοθέντι τόπῳ, γιγνωσκομένου τοῦ λόγου, ὃν ἔχει ἡ μακροτάτη ἡμέρα πρὸς τὴν βραχυτάτην ἡμέραν, ἕκαστον τῶν ζῳδίων γνωσθήσεται, ἐν ὅσαις χρονικαῖς μοίραις ἀναφέρεται. ὑποκείσθω δὴ τὸ ἐν Ἀλεξανδρείᾳ τῇ πρὸς Αἴγυπτον κλίμα, ἐν ᾧ ἡ μακροτάτη ἡμέρα πρὸς τὴν βραχυτάτην ἡμέραν λόγον ἔχει ὃν ζʹ πρὸς εʹ· ὅτι γὰρ οὕτως ἔχει, ἐδείξαμεν χρώμενοι ταῖς ἀπὸ τῶν γνωμόνων γιγνομέναις τροπικαῖς μεσημβριναῖς σκιαῖς. ἐκκείσθω ὁ τῶν ζῳδίων κύκλος, ἐν ᾧ ἰσημερινοῦ διάμετρος ἡ αη · καὶ διῃρήσθω ὁ κύκλος εἰς τὰ ζῴδια κατὰ τὰ α β γ δ ε ζ η θ κ λ μ ν · καὶ ἔστω τὸ μὲν α σημεῖον ἀρχὴ κριοῦ, τὸ δὲ β ἀρχὴ τοῦ ταύρου, τὸ δὲ γ ἀρχὴ διδύμων, καὶ τὰ ἑξῆς σημεῖα τῶν ἑξῆς ζῳδίων νοείσθω. καὶ ἐπεὶ ἡ μεγίστη ἡμέρα πρὸς τὴν βραχυτάτην ἡμέραν λόγον ἔχει ὃν ζʹ πρὸς εʹ, καὶ ἔστι μεγίστης ἡμέρας χρόνος, ἐν ᾧ τὸ μετὰ τὸν καρκίνον ἡμικύκλιον ἀναφέρεται, τουτέστι τὸ δηλ , ἐλαχίστης δὲ ἡμέρας χρόνος, ἐν ᾧ τὸ μετὰ τὸν αἰγόκερω ἡμικύκλιον ἀναφέρεται, τὸ λαδ , ὁ ἄρα τῆς τοῦ δηλ ἡμικυκλίου ἀναφορᾶς χρόνος πρὸς τὸν τοῦ λαδ ἡμικυκλίου ἀναφορᾶς χρόνον λόγον ἔχει ὃν ζʹ πρὸς εʹ. καὶ ὅλος ὁ κύκλος ἀναφέρεται ἐν χρονικαῖς μοίραις τξʹ· τὸ μὲν ἄρα δηλ ἡμικύκλιον ἀναφέρεται ἐν μοίραις χρονικαῖς σιʹ, τὸ δὲ λαδ ἡμικύκλιον ἐν μοίραις χρονικαῖς ρνʹ. καὶ ἐν ἴσῳ χρόνῳ τὸ μὲν δη τεταρτημόριον τῷ ηλ τεταρτημορίῳ ἀναφέρεται, τὸ δὲ λα τεταρτημόριον τῷ αδ τεταρτημορίῳ ἀναφέρεται· ἴσον γὰρ ἀπέχει τοῦ ἰσημερινοῦ. τὸ μὲν ἄρα δη τεταρτημόριον ἀνενεχθήσεται ἐν μοίραις χρονικαῖς ρεʹ, τὸ δὲ δα τεταρτημόριον ἀνενεχθήσεται ἐν μοίραις χρονικαῖς οεʹ· ὑπερέχει ἄρα ὁ τοῦ ηζ εδ [Omitted graphic marker] τεταρτημορίου ἀναφορᾶς χρόνος τοῦ τῆς τοῦ δγ βα τεταρτημορίου ἀναφορᾶς χρόνου μοίραις χρονικαῖς λʹ. καὶ ἐπεὶ ἓξ ὅροι εἰσὶν αἱ τῶν ηζ ζε εδ δγ γβ βα περιφερειῶν ἀναφοραὶ ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλοις κείμενοι, ἀρχόμενοι ἀπὸ μεγίστου τοῦ πρὸς τῷ η (τοῦτο γὰρ ὑπόκειται τοῖς τὰ ἀναφορικὰ πραγματευομένοις), ἡ ὑπεροχή, ᾗ ὑπερέχει ὁ συγκείμενος ἐκ τοῦ ἡμίσους τοῦ πλήθους [ἀρχομένων ἀπὸ μεγίστου] τῶν λοιπῶν, τῆς ἐν τοῖς πᾶσιν ὑπεροχῆς πολλαπλασίων ἐστὶ κατὰ τὸν τετράγωνον τὸν ἀπὸ τοῦ ἡμίσους τοῦ πλήθους. καὶ ἔστιν ἡ μὲν ὑπεροχὴ τῶν ἀναφορῶν, ᾗ ὑπερέχει ὁ συγκείμενος ἐκ τοῦ ἡμίσους τοῦ πλήθους [ἀρχομένων ἀπὸ μεγίστου] τῶν λοιπῶν, μοῖραι χρονικαὶ λʹ, ὁ δὲ τετράγωνος ὁ ἀπὸ τοῦ ἡμίσους θʹ· τὸ δὲ θʹ τῶν λʹ εἰσὶ μοῖραι χρονικαὶ γ κʹ. ἡ ἄρα τῶν ἐν τοῖς ηζ ζε εδ δγ γβ βα δωδεκατημορίοις ἀναφορῶν ὑπεροχή ἐστι γ κʹ. πάλιν ἐπεὶ ὅροι ὁσοιδηποτοῦν εἰσιν αἱ τῶν ηζ ζε εδ περιφερειῶν ἀναφοραὶ ἐν ἴσῃ ὑπεροχῇ, ἑξῆς ἀλλήλοις κείμενοι, περισσοὶ τὸ πλῆθος, 〈ἀρχόμενοι ἀπὸ μεγίστου〉, ὁ ἐκ πάντων συγκείμενος τοῦ μέσου πολλαπλάσιός ἐστι κατὰ τὸ πλῆθος αὐτῶν. καὶ ἔστι τοῦ μὲν ἐκ πάντων συγκειμένου ἀναφορὰ ρεʹ, τὸ δὲ πλῆθος τῶν ηζ ζε εδ τρία, τὸ δὲ τρίτον τῶν ρεʹ λεʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "ἡ ἄρα εζ περιφέρεια, ἥτις ἐστὶ λέοντος, ἀνενεχθήσεται ἐν μοίραις χρονικαῖς λεʹ· διὰ τὰ αὐτὰ δὴ καὶ ἡ βγ ἀνενεχθήσεται, ἥτις ἐστὶ ταύρου, ἐν μοίραις χρονικαῖς κεʹ. καὶ ὑπερέχουσιν ἀλλήλων αἱ τῶν ἑξῆς περιφερειῶν ἀναφοραὶ μοίραις χρονικαῖς γ κʹ. ὁ μὲν ἄρα κριὸς ἀνενεχθήσεται ἐν μοίραις χρονικαῖς κα μʹ, ὁ δὲ ταῦρος ἐν κε , δίδυμοι δὲ ἐν κη κʹ, καρκίνος δὲ ἐν λα μʹ, λέων δὲ ἐν λε , παρθένος δὲ ἐν λη κʹ, καὶ ἐν ἴσῳ χρόνῳ ἡ μὲν ζη τῇ θη , ἡ δὲ εζ τῇ θκ . καὶ αἱ ἴσον ἀπέχουσαι ἐν ἴσῳ χρόνῳ ἀναφέρονται· ἀνενεχθήσεται ἄρα ζυγὸς μὲν δὴ ἐν λη κʹ, σκορπίος δὲ ἐν λε , τοξότης δὲ ἐν λα μʹ, αἰγόκερως δὲ ἐν κη κʹ, ὑδροχόος δὲ ἐν κε , ἰχθύες δὲ ἐν κα μʹ. φανεραὶ δὲ καὶ αἱ τῶν ζῳδίων καταδύσεις ἔσονται, ἐπειδήπερ ἑνὸς οὑδήποτε ζῳδίου ἀναφορὰ ἴση ἐστὶ τῇ τοῦ κατὰ διάμετρον ζῳδίου καταδύσει. Τῆς ὑπεροχῆς γιγνωσκομένης ᾗ ὑπερέχουσιν ἀλλήλων αἱ τῶν ἑξῆς δωδεκατημορίων τοῦ ζῳδιακοῦ ἀναφοραί, καὶ τῶν ἐν τοῖς δωδεκατημορίοις τριακοστημορίων τῶν ἑξῆς ἀλλήλοις κειμένων γνωσθήσονται αἱ ἀναφοραί, ἐν ᾗ εἰσιν ὑπεροχῇ. ἐκκείσθω τοῦ τῶν ζῳδίων κύκλου δωδεκατημόρια ἑξῆς ἀλλήλοις τὰ αβ βγ , καὶ ἐν πλείονι χρόνῳ τὸ αβ τοῦ βγ ἀναφερέσθω ἀρχὴ δὲ τῆς ἀναφορᾶς ἔστω τὸ α σημεῖον· ἡ ἄρα τοῦ αβ δωδεκατημορίου ἀναφορὰ τῆς τοῦ βγ δωδεκατημορίου ἀναφορᾶς ὑπερέχει μοίραις χρονικαῖς γ κʹ. λέγω δὴ ὅτι τῶν ἐν τοῖς αβ βγ δωδεκατημορίοις τριακοστημορίων τῶν ἑξῆς ἀλλήλοις κειμένων [ἀρχομένων ἀπὸ μεγίστου τοῦ πρὸς τῷ α ] γνωσθήσονται αἱ ἀναφοραί, ἐν ᾗ εἰσιν ὑπεροχῇ, ἀρχόμεναι ἀπὸ μεγίστης. ἐπεὶ γὰρ ἐν τοῖς αβ βγ δωδεκατημορίοις αἱ τῶν τριακοστημορίων ἀναφοραὶ ἐν ἴσῃ εἰσὶν ὑπεροχῇ, ἀρχόμεναι ἀπὸ μεγίστης τῆς πρὸς τῷ α , ἡ ὑπεροχή, ᾗ ὑπερέχει ὁ συγκείμενος ἐκ τοῦ ἡμίσους τοῦ πλήθους τῶν λοιπῶν, πολλαπλασίων ἐστὶ τῆς ἐν τοῖς πᾶσιν ὑπεροχῆς κατὰ τὸν τετράγωνον τὸν ἀπὸ τοῦ ἡμίσους τοῦ πλήθους τῶν ὅρων. καὶ ἔστιν ἡ μὲν τῶν αβ βγ ὑπεροχὴ μοῖραι χρονικαὶ γ κʹ, ὁ δὲ τετράγωνος ὁ ἀπὸ τοῦ ἡμίσους τοῦ πλήθους ἐστὶ ϡʹ· τὸ δὲ τῶν γ κʹ ἐννακοσιοστόν ἐστιν ο οʹ ιγʹʹ κʹʹʹ. ἡ ἄρα ζητουμένη ἀναφορικὴ ὑπεροχὴ τῶν ἐν τοῖς δωδεκατημορίοις τριακοστημορίων τῶν ἑξῆς ἀλλήλοις κειμένων ἐστὶν ο οʹ ιγʹʹ κʹʹʹ. Τοῦ τῶν ζῳδίων κύκλου δωδεκατημορίου οὑδηποτοῦν γνωριζομένου ἑνός, ἐν ὅσαις χρονικαῖς μοίραις ἀναφέρεται, γιγνωσκομένης δὲ καὶ τῆς ἀναφορικῆς ὑπεροχῆς, ᾗ ὑπερέχουσιν αἱ τῶν ἐν τοῖς δωδεκατημορίοις τριακοστημορίων τῶν ἑξῆς ἀλλήλοις κειμένων ἀναφοραί, καὶ ἕκαστον τῶν τριακοστημορίων γνωσθήσεται, ἐν ὅσῳ χρόνῳ ἀναφέρεται. ἐκκείσθω τὸ τοῦ κριοῦ δωδεκατημόριον τὸ αβ · οὐδὲν δὲ διοίσει, καὶ ἐὰν ἄλλο ὑποθώμεθα. τὸ αβ ἄρα δωδεκατημόριον ἀναφέρεται ἐν μοίραις χρονικαῖς κα μʹ· δεῖ δὴ εὑρεῖν καὶ ἕκαστον τῶν ἐν τῷ αβ δωδεκατημορίῳ τριακοστημορίων, ἐν πόσῳ χρόνῳ ἀναφέρεται. [Omitted graphic marker] ἔστω πρῶτον μὲν τριακοστημόριον τὸ αγ , ἔσχατον δὲ τὸ δβ . καὶ ἐπεὶ ὅροι ὁσοιδηποτοῦν εἰσιν αἱ τῶν ἐν τῷ αβ δωδεκατημορίῳ τριακοστημορίων τῶν ἑξῆς ἀλλήλοις κειμένων ἀναφοραὶ ἐν ἴσῃ ὑπεροχῇ, ἄρτιοι τὸ πλῆθος, ἀρχόμενοι ἀπὸ μεγίστου τοῦ αγ , ὁ ἐκ πάντων τῶν ὑποκειμένων συγκείμενος δύο τῶν κατὰ συζυγίαν πολλαπλάσιός ἐστι κατὰ τὸν ἥμισυν τοῦ πλήθους τῶν [ἐκκειμένων] ὅρων. καὶ ὁ μὲν ἐκ πάντων τῶν ὑποκειμένων ἐστὶν κα μʹ, ὁ δὲ ἥμισυς τοῦ πλήθους ιεʹ· τὸ δὲ ιεʹ τῶν κα μʹ γίγνεται α κϛʹ μʹʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "συναμφότερος ἄρα ἡ αγ δβ ἀνενεχθήσεται ἐν μοίραις χρονικαῖς α κϛʹ μʹʹ. πάλιν ἐπεὶ αἱ τῶν ἐν τῷ αβ δωδεκατημορίῳ τριακοστημορίων περιφερειῶν ἀναφοραὶ ἐν ἴσῃ εἰσὶν ὑπεροχῇ, ἀρχόμεναι ἀπὸ μεγίστης τῆς αγ (καὶ ἔστι πρώτη μὲν ἡ αγ , ἐσχάτη δὲ ἡ δβ ), ὑπερέχει ἡ αγ τῆς δβ κθʹ ὑπεροχαῖς ταῖς ἀνὰ ο οʹ ιγʹʹ κʹʹʹ. αἱ δὲ τοσαῦται ὑπεροχαὶ αἱ ἀνὰ ο οʹ ιγʹʹ κʹʹʹ συντεθεῖσαι γίγνονται ο ϛʹ κϛʹʹ μʹʹʹ· ὥστε καὶ ἡ τῆς αγ ἀναφορᾶς ὑπεροχὴ πρὸς τὴν δβ ἐστὶν ο ϛʹ κϛʹʹ μʹʹʹ. καὶ συναμφότερος ἡ αγ δβ ἀναφέρεται ἐν μοίραις χρονικαῖς α κϛʹ μʹʹ· ἡ μὲν ἄρα αγ ἀνενεχθήσεται ἐν ο μϛʹ λγʹʹ κʹʹʹ, ἡ δὲ δβ ἐν ο μʹ ϛʹʹ μʹʹʹ. τούτων δὲ εὑρημένων καὶ γιγνωσκομένης τῆς ἐν ταῖς ἑξῆς περιφερείαις ἀναφορικῆς ὑπεροχῆς, ὅ ἐστιν ο οʹ ιγʹʹ κʹʹʹ, καὶ αἱ λοιπαὶ γνωσθήσονται, ἐν ὅσῳ χρόνῳ ἀναφέρονται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lao-aa",
+      "title": {
+        "english": "Hypsicles' Book or Elements Book XIV",
+        "ancient_greek": "Βιβλίον Ὑψικλέους ἢ Στοιχεῖα Βιβλίον ΙΔʹ"
+      },
+      "url_slug": "hypsicles-of-alexandria-elements-book-14-lao-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hypsicles-of-alexandria/elements-book-14",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/elements-book-14.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/elements-book-14.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/elements-book-14.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/elements-book-14.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "odi-ad",
+      "title": {
+        "english": "Art of War Machines",
+        "ancient_greek": "Βελοποιικά"
+      },
+      "url_slug": "hero-of-alexandria-war-machines-odi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/war-machines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/war-machines.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bl",
+      "title": {
+        "english": "Conclusion of the Poem",
+        "ancient_greek": "Συμπέρασμα τῆς ποιήσεως"
+      },
+      "url_slug": "alchemist-i-poem-conclusion-rrg-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/poem-conclusion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/poem-conclusion.json"
+      }
+    },
+    {
+      "eul_wid": "lsg-aa",
+      "title": {
+        "english": "Constructions of War Machines and Catapults",
+        "ancient_greek": "Κατασκευαὶ πολεμικῶν ὀργάνων καὶ καταπαλτικῶν"
+      },
+      "url_slug": "biton-mechanicus-war-machines-catapults-lsg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/biton-mechanicus/war-machines-catapults",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus/war-machines-catapults.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus/war-machines-catapults.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus/war-machines-catapults.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/biton-mechanicus/war-machines-catapults.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ac",
+      "title": {
+        "english": "Fragments of Mechanics",
+        "ancient_greek": "Ἀποσπάσματα Μηχανικῶν"
+      },
+      "url_slug": "hero-of-alexandria-mechanics-odi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/mechanics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/mechanics.json"
+      }
+    },
+    {
+      "eul_wid": "odi-an",
+      "title": {
+        "english": "Metrical",
+        "ancient_greek": "Μετρικά"
+      },
+      "url_slug": "hero-of-alexandria-metrical-odi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/metrical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-be",
+      "title": {
+        "english": "On the Tribikos and the Tube",
+        "ancient_greek": "Περὶ τοῦ τριβίκου καὶ τοῦ σωλῆνος"
+      },
+      "url_slug": "zosimus-of-panopolis-tribikos-tube-be-tyc-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/tribikos-tube-be",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-be.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-be.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-be.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/tribikos-tube-be.json"
+      }
+    },
+    {
+      "eul_wid": "leu-ab",
+      "title": {
+        "english": "On the Twelve Signs",
+        "ancient_greek": "Περὶ τῶν δώδεκα σημείων"
+      },
+      "url_slug": "teucer-of-babylon-twelve-signs-leu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/teucer-of-babylon/twelve-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon/twelve-signs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon/twelve-signs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon/twelve-signs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teucer-of-babylon/twelve-signs.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-au",
+      "title": {
+        "english": "On the Work to be Done at Every Time",
+        "ancient_greek": "Περὶ τοῦ ἐν παντὶ καιρῷ ἀρκτέον τὸ ἔργον"
+      },
+      "url_slug": "zosimus-of-panopolis-work-done-tyc-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/work-done",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/work-done.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/work-done.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/work-done.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/work-done.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hypsicles-of-alexandria/anaphoric",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hypsicles-of-alexandria/anaphoric.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

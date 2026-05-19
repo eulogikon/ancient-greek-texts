@@ -1,0 +1,345 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gfe-ab",
+  "eul_aid": "gfe",
+  "author_slug": "simylus-the-elegiac-poet",
+  "work_slug": "senses-excellence",
+  "url_slug": "simylus-the-elegiac-poet-senses-excellence-gfe-ab",
+  "author": {
+    "english": "Simylus the Elegiac Poet",
+    "ancient_greek": "Σιμύλος ὁ Ἐλεγειακός"
+  },
+  "title": {
+    "english": "On the Senses and Human Excellence",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Simylus the Elegiac Poet on Eulogikon",
+    "meta_title": "Fragments of Simylus the Elegiac Poet in Ancient Greek",
+    "meta_description": "Fragments of Simylus the Elegiac Poet on perception and virtue. Didactic poetry on excellence. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On the Senses and Human Excellence is a didactic elegiac poem attributed to the obscure poet Simylus. Known also by the title Apospasmata, it is a collection of twenty-one poetic passages that address themes of epistemology and ethics, situating it within the tradition of Greek gnomic and philosophical verse. The work explores the nature of sensory perception as a means of acquiring knowledge and examines the foundations of human virtue and moral character, suggesting a connection between true understanding and ethical action. The poem is not attested within standard manuscript traditions or major fragment collections; its structure of twenty-one passages indicates it survives solely through quotations preserved by later, unidentified authors. Although Simylus himself is absent from the historical record, his work exemplifies a broader Hellenistic or Imperial trend of conveying philosophical concepts about perception and excellence in an accessible verse form intended for a literate, non-specialist audience.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 726.1",
+      "text": "[ln_1]πέντ’ εἰσὶν ἃς ἄνθρωπος αἰσθήσεις ἔχει· {ἁφὴν ὅρασιν ἀκοὴν γεῦσιν ὄσφρησιν μία} τούτων ἁπασῶν {ἐστι} κυριωτάτη 〈μία〉, ἀκοή· φαγὼν γὰρ οὐδὲ εἷς ἐστιν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 726.2",
+      "text": "σοφός[ln_5]οὐδ’ ἁψ〈άμενος οὐδ’ ὀσφρ〉όμενος οὐδ’ εἰσιδὼν τὸ λυσιτελὲς 〈 〉 ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 726.3",
+      "text": "τοῦ δ’ ἀκούειν μανθάνειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 726.4",
+      "text": "τε τἀγαθὰ πολλοὶ φρόνιμοι γεγόνασι· ταύτην γὰρ μίαν ὁ νοῦς ἑαυτῷ κατέλιπεν διδάσκαλον[ln_10]〈 〉 ὥσπερ δικαστὴν ἢ κριτὴν ἢ κύριον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.1",
+      "text": "[ln_1]οὔτε φύσις ἱκανὴ γίγνεται τέχνης ἄτερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.2",
+      "text": "πρὸς οὐδὲν ἐπιτήδευμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.3",
+      "text": "παράπαν οὐδενί, οὔτε πάλι τέχνη μὴ φύσιν κεκτημένη. τούτων ὁμοίως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.4",
+      "text": "τοῖν δυοῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.5",
+      "text": "συνηγμένων[ln_5]εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.6",
+      "text": "ταὐτόν, ἔτι δεῖ προσλαβεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.7",
+      "text": "χορηγίαν, ἔρωτα, μελέτην, καιρόν, εὐφυῆ χορόν, κριτὴν τὸ ῥηθὲν δυνάμενον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.8",
+      "text": "συναρπάσαι. ἐν ᾧ γὰρ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.9",
+      "text": "τούτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.10",
+      "text": "τις ἀπολειφθεὶς τύχῃ, οὐκ ἔρχετ’ ἐπὶ τὸ τέρμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.11",
+      "text": "τοῦ προκειμένου.[ln_10]φύσις θέλησις ἐπιμέλει’ εὐταξία",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.12",
+      "text": "σοφοὺς τίθησι κἀγαθούς· ἐτῶν δέ τοι ἀριθμὸς οὐδὲν ἄλλο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.13",
+      "text": "πλὴν γῆρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 727.14",
+      "text": "ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 728.1",
+      "text": "[ln_1]κοινῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 728.2",
+      "text": "ποιητὰς 〈πάντασ〉 ἔθος ἐστὶν καλεῖν καὶ τοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 728.3",
+      "text": "περιττοὺς τῇ φύσει καὶ τοὺς κακούς· ἔδει δὲ κρίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "gfe-aa",
+      "title": {
+        "english": "On the Nature of Art and Wisdom",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-elegiac-poet-nature-art-wisdom-gfe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-elegiac-poet/nature-art-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/nature-art-wisdom.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fle-aa",
+      "title": {
+        "english": "Attic Banquet",
+        "ancient_greek": "Δεῖπνον Ἀττικόν"
+      },
+      "url_slug": "matron-of-pitane-banquet-aa-fle-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/matron-of-pitane/banquet-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/matron-of-pitane/banquet-aa.json"
+      }
+    },
+    {
+      "eul_wid": "knm-aa",
+      "title": {
+        "english": "Fragment-the Ship of Hiero II",
+        "ancient_greek": "Ἀπόσπασμα περὶ τοῦ πλοίου Ἱέρωνος Β'"
+      },
+      "url_slug": "archimelus-the-epigrammatist-ship-hiero-ii-knm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimelus-the-epigrammatist/ship-hiero-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimelus-the-epigrammatist/ship-hiero-ii.json"
+      }
+    },
+    {
+      "eul_wid": "hvc-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "aeschrion-of-samos-fragments-hvc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschrion-of-samos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschrion-of-samos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "upu-am",
+      "title": {
+        "english": "Hymn 1 to Dionysus",
+        "ancient_greek": "Ὕμνος εἰς Διόνυσον"
+      },
+      "url_slug": "homeric-hymns-anonymous-dionysus-1-upu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ae",
+      "title": {
+        "english": "Hymn 33 To the Dioscuri",
+        "ancient_greek": "Ὕμνος πρὸς Διοσκούρους"
+      },
+      "url_slug": "homeric-hymns-anonymous-dioscuri-ae-upu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ae.json"
+      }
+    },
+    {
+      "eul_wid": "mwq-aa",
+      "title": {
+        "english": "Myrson and Lycidas",
+        "ancient_greek": "Μύρσων καὶ Λυκίδας"
+      },
+      "url_slug": "bion-of-smyrna-myrson-lycidas-mwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/myrson-lycidas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/myrson-lycidas.json"
+      }
+    },
+    {
+      "eul_wid": "boa-ab",
+      "title": {
+        "english": "Olympic Victors",
+        "ancient_greek": "Ὀλυμπιονῖκαι"
+      },
+      "url_slug": "pindar-victors-boa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pindar/victors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/victors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/victors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/victors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pindar/victors.json"
+      }
+    },
+    {
+      "eul_wid": "puk-aa",
+      "title": {
+        "english": "To the Winds of Rhodes",
+        "ancient_greek": "Πρὸς τοὺς Ἀνέμους τῆς Ῥόδου"
+      },
+      "url_slug": "song-of-the-sailors-winds-rhodes-puk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/song-of-the-sailors/winds-rhodes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/song-of-the-sailors/winds-rhodes.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/simylus-the-elegiac-poet/senses-excellence",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

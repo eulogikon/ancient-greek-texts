@@ -1,0 +1,254 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ica-ab",
+  "eul_aid": "ica",
+  "author_slug": "moero-of-byzantium",
+  "work_slug": "epigrams",
+  "url_slug": "moero-of-byzantium-epigrams-ica-ab",
+  "author": {
+    "english": "Moero of Byzantium",
+    "ancient_greek": "Μοιρώ ἡ Βυζαντία"
+  },
+  "title": {
+    "english": "Epigrams",
+    "ancient_greek": "Ἐπιγράμματα"
+  },
+  "seo": {
+    "browser_title": "Epigrams by Moero of Byzantium on Eulogikon Archive",
+    "meta_title": "Classical Epigrams by Moero of Byzantium in Ancient Greek",
+    "meta_description": "Epigrams by Moero of Byzantium, short poems in the Epic dialect. Fragments from the 3rd century BCE. Read free and download in original Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Moero of Byzantium was a Hellenistic Greek poet of the 3rd century BCE, known for her epigrams composed in the Epic dialect. Her surviving work, preserved only through later anthological transmission, consists primarily of two complete dedicatory epigrams found in the <strong>Greek Anthology</strong>. These brief, elegant poems depict fishermen offering their nets and rods to rustic deities such as Priapus and Pan, exemplifying the epigram&#x27;s conventional use as a vehicle for personal piety. Beyond these short pieces, fragments of her longer poetry survive through quotations by later authors. She is credited with a hexameter poem titled <strong>Mnemosyne</strong>, which treated mythological narratives, and another work known as <strong>Arae</strong>. Her small but varied corpus, characterized by polished craftsmanship and scholarly engagement with myth, is representative of Hellenistic literary tastes. Moero was connected to a literary circle associated with the poet Philitas of Cos. Her work owes its preservation entirely to its inclusion in the <strong>Greek Anthology</strong> and to citations by the scholar Athenaeus; no independent manuscripts of her poetry exist.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 119.1.1",
+      "text": "Κεῖσαι δὴ χρυσέαν ὑπὸ παστάδα τὰν Ἀφροδίτας,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 119.1.2",
+      "text": "βότρυ, Διωνύσου πληθόμενος σταγόνι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 119.1.3",
+      "text": "οὐδ’ ἔτι τοι μάτηρ ἐρατὸν περὶ κλῆμα βαλοῦσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 119.1.4",
+      "text": "φύσει ὑπὲρ κρατὸς νεκτάρεον πέταλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 189.1.1",
+      "text": "Νύμφαι Ἀνιγριάδες, ποταμοῦ κόραι, αἳ τάδε βένθη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 189.1.2",
+      "text": "ἀμβρόσιαι ῥοδέοις στείβετε ποσσὶν ἀεί,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 189.1.3",
+      "text": "χαίρετε καὶ σῴζοιτε Κλεώνυμον, ὃς τάδε καλὰ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 189",
+      "text": "εἵσαθ’ ὑπαὶ πιτύων ὔμμι, θεαί, ξόανα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ica-aa",
+      "title": {
+        "english": "Fragments on Zeus and Dionysus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Διὸς καὶ Διονύσου"
+      },
+      "url_slug": "moero-of-byzantium-zeus-dionysus-ica-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moero-of-byzantium/zeus-dionysus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/zeus-dionysus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "abo-aa",
+      "title": {
+        "english": "Epigoni",
+        "ancient_greek": "Ἐπίγονοι"
+      },
+      "url_slug": "epigoni-text-abo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epigoni/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epigoni/text.json"
+      }
+    },
+    {
+      "eul_wid": "abe-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ὁμήρου ἐπιγράμματα"
+      },
+      "url_slug": "homer-epigrams-abe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "jco-ab",
+      "title": {
+        "english": "Epigrams (Anthologia Selection)",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "antagoras-of-rhodes-epigrams-ab-jco-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/antagoras-of-rhodes/epigrams-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antagoras-of-rhodes/epigrams-ab.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-al",
+      "title": {
+        "english": "Ethopoeic Exercise",
+        "ancient_greek": "Ἠθοποιία"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeic-exercise-kjq-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeic-exercise",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeic-exercise.json"
+      }
+    },
+    {
+      "eul_wid": "kjq-ak",
+      "title": {
+        "english": "Ethopoeic Exercises",
+        "ancient_greek": "Ἠθοποιίαι"
+      },
+      "url_slug": "epic-fragments-anonymous-ethopoeia-ak-kjq-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/epic-fragments-anonymous/ethopoeia-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epic-fragments-anonymous/ethopoeia-ak.json"
+      }
+    },
+    {
+      "eul_wid": "kaa-aa",
+      "title": {
+        "english": "Fragments on Makynna and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μακύννης καὶ Ἔρωτος"
+      },
+      "url_slug": "archytas-of-amphissa-makynna-desire-kaa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archytas-of-amphissa/makynna-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archytas-of-amphissa/makynna-desire.json"
+      }
+    },
+    {
+      "eul_wid": "cee-aa",
+      "title": {
+        "english": "Fragments on Poseidon's Dominion",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ποσειδῶνος Ἀρχῆς"
+      },
+      "url_slug": "hermonax-the-epic-poet-poseidon-dominion-cee-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermonax-the-epic-poet/poseidon-dominion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermonax-the-epic-poet/poseidon-dominion.json"
+      }
+    },
+    {
+      "eul_wid": "gwm-ab",
+      "title": {
+        "english": "On Mortality and Transience",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "choerilus-of-iasus-mortality-transience-gwm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/choerilus-of-iasus/mortality-transience",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/choerilus-of-iasus/mortality-transience.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/moero-of-byzantium/epigrams",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moero-of-byzantium/epigrams.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

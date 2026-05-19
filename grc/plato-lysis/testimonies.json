@@ -1,0 +1,239 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dno-ab",
+  "eul_aid": "dno",
+  "author_slug": "plato-lysis",
+  "work_slug": "testimonies",
+  "url_slug": "plato-lysis-testimonies-dno-ab",
+  "author": {
+    "english": "Plato Lysis",
+    "ancient_greek": "Πλάτων, Λύσις"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies Philosophical Fragments by Plato Lysis Eulogikon",
+    "meta_title": "Testimonies by Plato Lysis in Original Ancient Greek",
+    "meta_description": "Testimonies is a collection of philosophical fragments and dialogues attributed to Plato Lysis. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Testimonies is a modern scholarly compilation of five ancient passages that reference Plato’s dialogue <strong>Lysis</strong>. These collected testimonia are not part of the original Platonic text but consist of quotations, references, and discussions of the <strong>Lysis</strong> found in later authors. They assemble external evidence concerning the dialogue’s reception and interpretation in antiquity. As a collection of external references, its content pertains entirely to the thematic concerns of Plato’s work, including the nature of friendship and love, the relationship between friendship, utility, and goodness, the concept of the &quot;first friend,&quot; and the philosophical method of definition and refutation. The testimonia are extracted from the broader manuscript tradition of Plato’s works and from later ancient sources, such as Neoplatonist commentaries and doxographical writings. The collection itself is a modern editorial construct designed to present these scattered references in a unified format. It serves as a curated resource for studying the ancient reception of Plato’s <strong>Lysis</strong>, a central text in the philosophical analysis of friendship whose arguments significantly influenced Aristotle and later ethical thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "IAMBL. V. P. 250 [s. I 103, 38] τῶν δὲ δύο τῶν περισωθέντων ἀμφοτέρων Ταραντίνων ὄντων ὁ μὲν Ἄρχιππος ἀνεχώρησεν εἰς Τάραντα, ὁ δὲ Λῦσις μισήσας τὴν ὀλιγωρίαν ἀπῆρεν εἰς τὴν Ἑλλάδα καὶ ἐν Ἀχαΐαι διέτριβε τῆι Πελοποννησιακῆι, ἔπειτα εἰς Θήβας μετωικίσατο σπουδῆς τινος γενομένης, οὗπερ ἐγένετο Ἐπαμεινώνδας ἀκροατὴς καὶ πατέρα τὸν Λῦσιν ἐκάλεσεν. ὧδε καὶ τὸν βίον κατέστρεψεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "PORPH. V. P. 57 οὔτε γὰρ αὐτοῦ Πυθαγόρου σύγγραμμα ἦν, οἵ τ’ ἐκφυγόντες Λῦσίς τε καὶ Ἄρχιππος καὶ ὅσοι ἀποδημοῦντες ἐτύγχανον ὀλίγα διέσωσαν ζώπυρα τῆς φιλοσοφίας ἀμυδρά τε καὶ δυσθήρατα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "DIOG. VIII 7 τὸ δὲ φερόμενον ὡς Πυθαγόρου Λύσιδός ἐστι τοῦ Ταραντίνου Πυθαγορικοῦ φυγόντος εἰς Θήβας καὶ Ἐπαμεινώνδα καθηγησαμένου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "ATHENAG. 5 p. 6, 15 Schwartz Λῦσις δὲ καὶ Ὄψιμος ὁ μὲν ἀριθμὸν ἄρρητον ὁρίζεται τὸν θεόν, ὁ δὲ τοῦ μεγίστου τῶν ἀριθμῶν τὴν παρὰ τὸν ἐγγυτάτω ὑπεροχήν· εἰ δὲ μέγιστος μὲν ἀριθμὸς ὁ δέκα κατὰ τοὺς Πυθαγορικοὺς ὁ τετρακτύς τε ὢν καὶ πάντας τοὺς ἀριθμητικοὺς καὶ τοὺς ἁρμονικοὺς περιέχων λόγους, τούτωι δὲ ἐγγὺς παράκειται ὁ ἐννέα, μονάς ἐστιν ὁ θεός, τοῦτ’ ἔστιν εἷς· ἑνὶ γὰρ ὑπερέχει ὁ μέγιστος τὸν ἐγγυτάτω ἐλαχίστωι 〈ὄντι〉 αὐτῶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "IAMBL. V. P. 267 [58 A] Ῥηγῖνοι Ἀριστείδης ... Ὄψιμος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "dno-aa",
+      "title": {
+        "english": "Letter to Hipparchus",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Ἵππαρχον"
+      },
+      "url_slug": "plato-lysis-hipparchus-dno-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-lysis/hipparchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/hipparchus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-dq",
+      "title": {
+        "english": "Gaius Marcius",
+        "ancient_greek": "Γάϊος Μάρκιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-gaius-marcius-okg-dq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/gaius-marcius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/gaius-marcius.json"
+      }
+    },
+    {
+      "eul_wid": "jew-ab",
+      "title": {
+        "english": "Hymn to Zeus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cleanthes-of-assos-hymn-zeus-jew-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleanthes-of-assos/hymn-zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/hymn-zeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/hymn-zeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/hymn-zeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleanthes-of-assos/hymn-zeus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eq",
+      "title": {
+        "english": "Lucullus",
+        "ancient_greek": "Λούκουλλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-lucullus-okg-eq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/lucullus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/lucullus.json"
+      }
+    },
+    {
+      "eul_wid": "utq-ae",
+      "title": {
+        "english": "On the Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας"
+      },
+      "url_slug": "olympiodorus-the-younger-of-alexandria-categories-commentary-utq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/olympiodorus-the-younger-of-alexandria/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/olympiodorus-the-younger-of-alexandria/categories-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "rye-aa",
+      "title": {
+        "english": "Oration to Emperor Constantius on the Philosopher King",
+        "ancient_greek": "Εἰς Κωνστάντιον τὸν αὐτοκράτορα, ὅτι μάλιστα"
+      },
+      "url_slug": "themistius-oration-constantius-philosopher-king-rye-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/oration-constantius-philosopher-king",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.json"
+      }
+    },
+    {
+      "eul_wid": "hui-ae",
+      "title": {
+        "english": "Remains of Lost Books",
+        "ancient_greek": "Λείψανα Ἀπολωλότων Βιβλίων"
+      },
+      "url_slug": "epicurus-lost-books-hui-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/lost-books",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/lost-books.json"
+      }
+    },
+    {
+      "eul_wid": "hfs-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "chares-of-mytilene-sentences-hfs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chares-of-mytilene/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chares-of-mytilene/sentences.json"
+      }
+    },
+    {
+      "eul_wid": "dra-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "leucippus-the-atomist-testimonies-dra-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/leucippus-the-atomist/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/leucippus-the-atomist/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plato-lysis/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-lysis/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

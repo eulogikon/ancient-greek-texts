@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "eew-ab",
+  "eul_aid": "eew",
+  "author_slug": "polyzelus-the-comic-poet",
+  "work_slug": "theramenes-tyranny",
+  "url_slug": "polyzelus-the-comic-poet-theramenes-tyranny-eew-ab",
+  "author": {
+    "english": "Polyzelus the Comic Poet",
+    "ancient_greek": "Πολύζηλος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Fragments on Theramenes and Tyranny",
+    "ancient_greek": "Ἀποσπάσματα περὶ Θηραμένους καὶ Τυραννίδος"
+  },
+  "seo": {
+    "browser_title": "Fragments of Polyzelus the Comic Poet on Eulogikon",
+    "meta_title": "Classical Comic Fragments by Polyzelus in Ancient Greek",
+    "meta_description": "Comic fragments by Polyzelus on Theramenes tyranny. Classical Athenian comedy from 5th century BCE. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Fragments on Theramenes and Tyranny_ is a modern compilation of fourteen verse passages attributed to the Athenian comic poet Polyzelus. These excerpts, drawn from one or more of his lost Old Comedies, survive exclusively through quotation by later lexicographers and commentators, such as Harpocration and various scholiasts, who preserved them for their linguistic or historical value. The fragments engage with the turbulent Athenian politics of the late fifth century BCE, offering satirical commentary on the controversial politician Theramenes and the nature of tyrannical rule. Theramenes, infamous for his shifting allegiances during the oligarchic coups of the Four Hundred and the Thirty Tyrants, is a central target. The surviving lines critique political inconstancy and oligarchic excess, reflecting broader comedic scrutiny of power and civic life in the traumatic aftermath of the Peloponnesian War. As no complete play by Polyzelus survives, these fragments, cataloged in modern standard editions like <strong>Poetae Comici Graeci</strong>, provide valuable evidence for how poets beyond the major surviving figures of Old Comedy participated in the sharp political discourse of their time, capturing popular perceptions of a deeply divisive historical figure and his era.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Τριῶν κακῶν γοῦν ἦν ἑλέσθ’ αὐτῷ τι πᾶς’ ἀνάγκη, ἢ ξύλον ἐφέλκειν, ἢ πιεῖν κώνειον, ἢ προδόντα τὴν ναῦν ὅπως τάχιστα τῶν κακῶν ἀπαλλαγῆναι. ταῦτ’ ἔστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τρία Θηραμένους, ἅ σοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φυλακτέ’ ἐστί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1",
+      "text": "Οὗπερ αἱ χύτραι κρέμανται καὶ τὸ φρύγετρον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἱερὸν γὰρ ὂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τετύχηκας Ἐπακρίου Διός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ὑψιπέταλοί τε κράμβαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "συχναί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Ὥσπερ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "Χαλκιδικὴ τέτοκεν ἡμῖν ἡ γυνή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ὁ μαινόμενος ἐκεινοσὶ Διονύσιος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "χρυσοῦν ἔχων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χλίδωνα καὶ τρυφήματα ἐν τῷ μύρῳ παρ’ Ἀθηναίων μακαρίζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἀλλ’ οὐ πρᾳότερα τὰ φθέγματα οὐδὲ γλυκίονα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "eew-aa",
+      "title": {
+        "english": "Fragments of Comic Dialogues",
+        "ancient_greek": "Ἀποσπάσματα Κωμικῶν Διαλόγων"
+      },
+      "url_slug": "polyzelus-the-comic-poet-comic-dialogues-eew-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polyzelus-the-comic-poet/comic-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/comic-dialogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/comic-dialogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/comic-dialogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/comic-dialogues.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "bou-ab",
+      "title": {
+        "english": "Comic Fragments on Guard Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυλακῆς Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-guard-duty-bou-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.json"
+      }
+    },
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ac",
+      "title": {
+        "english": "Fragments of Epicharmus",
+        "ancient_greek": "Ἐπιχάρμου Ἀποσπάσματα"
+      },
+      "url_slug": "epicharmus-syracuse-fragments-ac-bhm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "fcs-ac",
+      "title": {
+        "english": "Fragments of the Nereids",
+        "ancient_greek": "Ἀποσπάσματα τῶν Νηρηίδων"
+      },
+      "url_slug": "nicochares-the-comic-poet-nereids-fragments-fcs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/nereids-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/nereids-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/nereids-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/nereids-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/nereids-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dxo-aa",
+      "title": {
+        "english": "Fragments on Athenian Women",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Γυναικῶν"
+      },
+      "url_slug": "cantharus-the-comic-poet-athenian-women-dxo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cantharus-the-comic-poet/athenian-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cantharus-the-comic-poet/athenian-women.json"
+      }
+    },
+    {
+      "eul_wid": "iie-ab",
+      "title": {
+        "english": "Fragments on Life and Pleasure",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἡδονῆς"
+      },
+      "url_slug": "apollodorus-of-carystus-i-life-pleasure-iie-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollodorus-of-carystus-i/life-pleasure",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollodorus-of-carystus-i/life-pleasure.json"
+      }
+    },
+    {
+      "eul_wid": "hrg-aa",
+      "title": {
+        "english": "Miser's Dinner Party",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archedicus-the-comic-poet-misers-dinner-party-aa-hrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/archedicus-the-comic-poet/misers-dinner-party-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archedicus-the-comic-poet/misers-dinner-party-aa.json"
+      }
+    },
+    {
+      "eul_wid": "bhm-ae",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "epicharmus-syracuse-testimonies-bhm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicharmus-syracuse/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicharmus-syracuse/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/polyzelus-the-comic-poet/theramenes-tyranny",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/theramenes-tyranny.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/theramenes-tyranny.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/theramenes-tyranny.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polyzelus-the-comic-poet/theramenes-tyranny.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

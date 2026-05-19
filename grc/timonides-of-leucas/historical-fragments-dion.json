@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ghm-aa",
+  "eul_aid": "ghm",
+  "author_slug": "timonides-of-leucas",
+  "work_slug": "historical-fragments-dion",
+  "url_slug": "timonides-of-leucas-historical-fragments-dion-ghm-aa",
+  "author": {
+    "english": "Timonides of Leucas",
+    "ancient_greek": "Τιμωνίδης ὁ Λευκάδιος"
+  },
+  "title": {
+    "english": "Historical Fragments on Dion",
+    "ancient_greek": "Ἀποσπάσματα περὶ Δίωνος"
+  },
+  "seo": {
+    "browser_title": "Historical Fragments on Dion by Timonides on Eulogikon",
+    "meta_title": "Historical Fragments on Dion by Timonides in Greek",
+    "meta_description": "Historical Fragments on Dion is a lost eyewitness account of a 4th century BCE campaign. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Historical Fragments on Dion</strong> is a lost eyewitness account of the military campaign led by Dion of Syracuse in 357/6 BCE, written in Greek prose by his companion and fellow officer Timonides of Leucas. Composed in the fourth century BCE, the work chronicled Dion’s expedition to liberate Syracuse from the tyranny of Dionysius II. It focused on detailed descriptions of battles and sieges, presenting Dion as a virtuous liberator motivated by philosophical ideals. The original text does not survive intact; its content is known only through four fragments preserved in the biographical writings of Plutarch, who quotes them in his <strong>Life of Dion</strong>. These passages describe specific events such as the capture of a fortress and a night engagement, providing a participant’s perspective that modern scholars regard as a crucial primary source. The work is considered to have been a contemporary memoir, shaped by the shared Platonic philosophy of its author and subject, and it serves to supplement the narratives of later historians.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΤΑ ΚΑΤΑ ΔΙΩΝΑ. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Dion. c. 31: Post victoriam a Dione de Dionysio reportatam: Κήρυκες παρὰ τοῦ Διονυσίου κατέβαινον, ἐπιστολὰς πρὸς Δίωνα παρὰ τῶν οἰκείων γυναικῶν κομίζοντες. Μία δ’ ἦν ἔξωθεν ἐπιγεγραμμένη· Τῷ πατρὶ παρ’ Ἱππαρίνου· τοῦτο γὰρ ἦν ὄνομα τῷ τοῦ Δίωνος υἱῷ. Καίτοι φησὶ Τίμαιος, Ἀρεταῖον αὐτὸν ἀπὸ τῆς μητρὸς Ἀρέτης καλεῖσθαι. Τιμωνίδῃ δὲ μᾶλλον, ὡς οἴομαι, περί γε τούτων πιστευτέον, ἀνδρὶ φίλῳ καὶ συστρατιώτῃ Δίωνος. Idem ibid.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "35, de morte Philisti: Ἔφορος μὲν οὖν φησιν, ὡς ἁλισκομένης τῆς νεὼς, ἑαυτὸν ἀνέλοι· Τιμωνίδης δὲ, πραττομέναις ἐξ ἀρχῆς ταῖς πράξεσι ταύταις μετὰ Δίωνος παραγενόμενος, καὶ γράφων πρὸς Σπεύσιππον, τὸν φιλόσοφον, ἱστορεῖ, ζῶντα ληφθῆναι, τῆς τριήρους εἰς τὴν γῆν ἐκπεσούσης, τὸν Φίλιστον· καὶ πρῶτον μὲν ἀποδύσαντας αὐτοῦ τὸν θώρακα τοὺς Συρακουσίους, καὶ γυμνὸν ἐπιδειξαμένους τὸ σῶμα, προπηλακίζειν, ὄντος ἤδη γέροντος· ἔπειτα τὴν κεφαλὴν ἀποτεμεῖν καὶ τοῖς παισὶ παραδοῦναι τὸ σῶμα, κελεύσαντας ἕλκειν διὰ τῆς Ἀχραδινῆς, καὶ καταβαλεῖν εἰς τὰς Λατομίας. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Theocrit. I, 63: Σιμωνίδης δὲ ἐν τῷ περὶ Σικελίας Αἴτνην φησὶ κρῖναι Ἥφαιστον καὶ Δήμητραν περὶ τῆς χώρας ἐρίσαντας.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "rjy-ab",
+      "title": {
+        "english": "Cesti, Fragments",
+        "ancient_greek": "Κέστοι"
+      },
+      "url_slug": "sextus-julius-africanus-cesti-rjy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sextus-julius-africanus/cesti",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sextus-julius-africanus/cesti.json"
+      }
+    },
+    {
+      "eul_wid": "fbe-ac",
+      "title": {
+        "english": "Fragments on Harmonia",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἁρμονίας"
+      },
+      "url_slug": "ephorus-of-cyme-harmonia-fbe-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ephorus-of-cyme/harmonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ephorus-of-cyme/harmonia.json"
+      }
+    },
+    {
+      "eul_wid": "cgc-aa",
+      "title": {
+        "english": "Fragments on Italian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰταλικῆς Ἱστορίας"
+      },
+      "url_slug": "theophilus-the-historian-italian-history-cgc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-historian/italian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-historian/italian-history.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-aa",
+      "title": {
+        "english": "Jewish War-the Romans",
+        "ancient_greek": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους"
+      },
+      "url_slug": "josephus-jewish-war-ofq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/jewish-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.json"
+      }
+    },
+    {
+      "eul_wid": "ecy-ad",
+      "title": {
+        "english": "London Fragments",
+        "ancient_greek": "Λονδινὰ Ἀποσπάσματα"
+      },
+      "url_slug": "hellenica-anon-london-fragments-ad-ecy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hellenica-anon/london-fragments-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/london-fragments-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/london-fragments-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/london-fragments-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hellenica-anon/london-fragments-ad.json"
+      }
+    },
+    {
+      "eul_wid": "jjm-aa",
+      "title": {
+        "english": "Macedonian Historical Geography",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "theagenes-of-macedon-historical-geography-jjm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theagenes-of-macedon/historical-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-macedon/historical-geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-macedon/historical-geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-macedon/historical-geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theagenes-of-macedon/historical-geography.json"
+      }
+    },
+    {
+      "eul_wid": "mrg-aa",
+      "title": {
+        "english": "On the City of Thessalonica",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "lucius-licinius-lucullus-thessalonica-mrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucius-licinius-lucullus/thessalonica",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucius-licinius-lucullus/thessalonica.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bh",
+      "title": {
+        "english": "Roman Sayings",
+        "ancient_greek": "Ῥωμαϊκὰ Ἐφημερίδες"
+      },
+      "url_slug": "historical-fragments-anonymous-roman-sayings-mmg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/roman-sayings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/roman-sayings.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/timonides-of-leucas/historical-fragments-dion",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas/historical-fragments-dion.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas/historical-fragments-dion.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas/historical-fragments-dion.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timonides-of-leucas/historical-fragments-dion.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

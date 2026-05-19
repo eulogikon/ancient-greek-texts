@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ece-ae",
+  "eul_aid": "ece",
+  "author_slug": "thessalus-of-cos",
+  "work_slug": "virtues-herbs-ae",
+  "url_slug": "thessalus-of-cos-virtues-herbs-ae-ece-ae",
+  "author": {
+    "english": "Thessalus of Cos",
+    "ancient_greek": "Θεσσαλός ὁ Κῷος"
+  },
+  "title": {
+    "english": "On the Virtues of Herbs",
+    "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+  },
+  "seo": {
+    "browser_title": "On the Virtues of Herbs by Thessalus of Cos on Eulogikon",
+    "meta_title": "On the Virtues of Herbs by Thessalus of Cos in Greek",
+    "meta_description": "A pharmacological treatise on medicinal plants by Thessalus of Cos. Focuses on herbal remedies. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἐπιστήμη",
+      "english": "Science",
+      "href": "/domains/science"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Virtues of Herbs</strong> is a pharmacological treatise attributed to the first-century physician Thessalus of Cos. Written in Koine Greek, the surviving fragments of the work detail the medicinal properties of various plants, prescribing their collection according to specific astrological hours and days of the week, each governed by a planetary deity. Thessalus was a prominent, and often contentious, proponent of the Methodist school of medicine, which emphasized straightforward therapeutic principles based on observable bodily conditions. While the treatise focuses on herbal lore, modern scholarship interprets it not as a mere list of remedies but as an attempt to frame plant-based therapeutics within broader Methodist doctrines. The work itself is poorly preserved, existing only in scant passages; knowledge of it derives largely from later medical writers such as Galen, who quoted and criticized Thessalus’s methods, indicating its fragmentary transmission and the controversial nature of his ideas in subsequent medical tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2 prol 1",
+      "text": "Εἰ μέντοι οὐκ εὐπορεῖς βοτανῶν ἀπὸ τῶν τοιούτων κλιμάτων, διὰ δὲ χρείαν εἰς ἀνάγκην ἔρχῃ λαμβάνειν ἀφ’ ἑτέρων τόπων, σκόπει λαμβάνειν ἑκάστην τούτων κατὰ μίαν τῶν τῆς ἑβδομάδος ἡμερῶν, ἥτις ἐστὶ τοῦ ἀστέρος ἐκείνου, οὗ ἔστι καὶ ἡ βοτάνη, ἀλλὰ δὴ καὶ κατὰ τὴν ὥραν τῆς ἡμέρας ἐκείνης, ἥτις ἐστὶ τοῦ αὐτοῦ ἀστέρος, καθὼς ἐκτεθήσονται καὶ παρ’ ἡμῖν ἐνταυθοῖ. ἀνασπῶν δὲ ταύτην ἐκ τῆς γῆς ἐπίλεγε καὶ τὴν ἐγκειμένην εὐχὴν καὶ μετὰ τὸ λαβεῖν ῥίπτε εἰς τὸν λάκκον ἐν ᾗ εὑρίσκεται ἡ βοτάνη κόκκον σίτουʹ ἢ κριθῆς. Εἰσὶ δὲ τῶν πλανητῶν αἱ ἡμέραι αὗται· ἡμέρα αʹ ἤτοι κυριακὴ Ἡλίου καὶ ὥρα αʹ, βοτάναι δὲ αὐτῆς κιχώριον καὶ πολύγονον ἡμέρα βʹ, ὥρα αʹ, Σελήνης, ἀγλαόφαντον καὶ κυνοβάτη ἡμέρα γʹ, ὥρα αʹ, Ἄρεως, πευδέκανον καὶ ἀρνόγλωσσον ἡμέρα δʹ, ὥρα αʹ, Ἑρμοῦ, φλόμος καὶ πεντάφυλλον ἡμέρα εʹ, ὥρα αʹ, Διός, σαγχαρώνιον καὶ εὐπατόριον ἡμέρα ϛʹ, ὥρα αʹ, Ἀφροδίτης, πανάκεια καὶ περιστερεών ἡμέρα ζʹ, ὥρα αʹ, Κρόνου, ἀείζωον καὶ ἀσφόδελος πρὸς δὲ τούτοις ἔστω καὶ ἡ Σελήνη πανσέληνος ἢ ὅτε διέρχεται τὸ ζῴδιον τοῦ πλάνητος τῆς ἡμέρας. Εὐχὴ λεγομένη ἐπὶ συγκομιδῇ ἑκάστης βοτάνης Παντοκράτωρ κύριε, δημιουργὲ πάσης κτίσεως ἀοράτου τε καὶ ὁρατῆς, ὁ τὰ τῆς ὁρατῆς τῆσδε τῆς κτίσεως μέρη, τὰ μὲν συμφυῆ καὶ σύμφωνα ποιήσας ἀλλήλοις, ὡς ἰσοδυναμεῖν ἐν τοῖς ὑπ’ αὐτῶν γινομένοις, τὰ δ’ αὖθις ἀσυμπαθῆ καὶ ἀσύμφωνα, πλὴν καὶ οὕτως ἐκ τῆς δι’ ἀλλήλων κράσεως τε καὶ ἑνώσεως μίξιν εὔκρατον συνίστασθαι καὶ εἶναι ταῦτα κήρυκας διαπρυσίους τῆς σῆς μεγαλειότητος, αὐτὸς καὶ νῦν ἐν τῇ ἀναλήψει τῆς παρούσης βοτάνης τῆς δεῖνα, ἣν συμπαθεῖν ὥρισας τῷ ἐκ τῶν πλανωμένων ἀστέρι τῷ δεῖνι, ἐνδόκησον ἰσχυρὰν ταύτην καὶ ἐνδύναμον καὶ δραστικωτάτην εἶναι κατὰ τὴν τῶν βοηθημάτων χρείαν τῶν γινομένων εἰς ἀποτροπὴν τῶν συμβαινόντων νοσημάτων τῷ σῷ πλάσματι, συνεργοῦντας δηλονότι καὶ τοῦ αὐτοῦ ἀστέρος τῇ σῇ κελεύσει, ὅτι ηὐλόγηται καὶ δεδόξασταί σου τὸ ὄνομα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν. Τὴν αὐτὴν λέγε καὶ ἐπὶ τῆς κατὰ τὴν θεραπείαν τοῦ νοσήματος χρείας, ἀλλὰ δὴ καὶ ἐπὶ τῆς σκευασίας. ταῖς μέντοι προγεγραμμέναις βοτάναις χρῶ ταῖς ἀπ’ Αἰγύπτου καὶ Ἀραβίας καὶ Ἀσίας καὶ Συρίας, ἔτι δὲ καὶ Ἰταλίας· τὰ γὰρ τοιαῦτα κλίματα θερμότερα τῶν ἄλλων ἔοικεν εἶναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 epil 7",
+      "text": "ἐπεὶ γὰρ πάντα τὰ ἐπὶ γῆς φυόμενα δίχα παρεισδύσεως πνεύματος οὐ δύνανται αὔξεσθαι, ἐν μὲν τοῖς ψυχροτέροις τῶν κλιμάτων, πυκνουμένων τῶν ἐν ταῖς βοτάναις πόρων, οὐκ ἔχει ἐν αὐταῖς διὰ τὴν παχύτητα τὸ πνεῦμα ἱκανὴν παρείσδυσιν καὶ διὰ τοῦτο αἱ δυνάμεις αὐτῶν ἀσθενέστεραι καθίστανται, ἐν δὲ τοῖς προειρημένοις κλίμασι, διὰ τὴν ἀπὸ τῆς θερμότητος τῶν βοτανῶν ἀραιότητα περισσοτέρως εἰς αὐτὰς ἑλκομένου τοῦ ζωτικοῦ ἀέρος, ἐνδύναμοι γίνονται αὗται καὶ δραστικώτεραι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ece-ab",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ab-ece-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ece-aa",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-aa-ece-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ece-ac",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ac-ece-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ac.json"
+      }
+    },
+    {
+      "eul_wid": "ece-ad",
+      "title": {
+        "english": "On the Virtues of Herbs",
+        "ancient_greek": "Περὶ τῶν ἀρετῶν τῶν βοτάνων"
+      },
+      "url_slug": "thessalus-of-cos-virtues-herbs-ad-ece-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ad.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rrg-bh",
+      "title": {
+        "english": "Dedication to Theodorus",
+        "ancient_greek": "Πρὸς Θεόδωρον Ἀφιέρωσις"
+      },
+      "url_slug": "alchemist-i-dedication-theodorus-rrg-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/dedication-theodorus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dedication-theodorus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dedication-theodorus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dedication-theodorus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/dedication-theodorus.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-aa",
+      "title": {
+        "english": "Diagram of the Great Solar Work Compared to the Economy of the Universe",
+        "ancient_greek": "Διάγραμμα τῆς μεγάλης ἡλιουργίας παραβαλλόμενον"
+      },
+      "url_slug": "alchemist-i-solar-universe-diagram-rrg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/solar-universe-diagram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/solar-universe-diagram.json"
+      }
+    },
+    {
+      "eul_wid": "rsa-aa",
+      "title": {
+        "english": "Eugenius' Doubling",
+        "ancient_greek": "Εὐγενίου δίπλωσις"
+      },
+      "url_slug": "eugenius-the-alchemist-doubling-rsa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eugenius-the-alchemist/doubling",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eugenius-the-alchemist/doubling.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eugenius-the-alchemist/doubling.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eugenius-the-alchemist/doubling.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eugenius-the-alchemist/doubling.json"
+      }
+    },
+    {
+      "eul_wid": "odi-ap",
+      "title": {
+        "english": "Geodesy",
+        "ancient_greek": "Γεωδαισία"
+      },
+      "url_slug": "hero-of-alexandria-geodesy-odi-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/geodesy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/geodesy.json"
+      }
+    },
+    {
+      "eul_wid": "odi-an",
+      "title": {
+        "english": "Metrical",
+        "ancient_greek": "Μετρικά"
+      },
+      "url_slug": "hero-of-alexandria-metrical-odi-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/hero-of-alexandria/metrical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hero-of-alexandria/metrical.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-ch",
+      "title": {
+        "english": "On Blondness",
+        "ancient_greek": "Περὶ ξανθώσεως"
+      },
+      "url_slug": "zosimus-of-panopolis-blondness-tyc-ch",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/blondness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/blondness.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/blondness.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/blondness.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/blondness.json"
+      }
+    },
+    {
+      "eul_wid": "rrg-bp",
+      "title": {
+        "english": "On the Four Elements",
+        "ancient_greek": "Περὶ τῶν τεσσάρων στοιχείων"
+      },
+      "url_slug": "alchemist-i-four-elements-rrg-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/alchemist-i/four-elements",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/four-elements.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/four-elements.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/four-elements.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alchemist-i/four-elements.json"
+      }
+    },
+    {
+      "eul_wid": "tyc-bp",
+      "title": {
+        "english": "Zosimus Speaks-Lime",
+        "ancient_greek": "Ζώσιμος λέγει περὶ τῆς ἀσβέστου"
+      },
+      "url_slug": "zosimus-of-panopolis-speaks-lime-bp-tyc-bp",
+      "links": {
+        "html": "https://eulogikon.org/grc/zosimus-of-panopolis/speaks-lime-bp",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/speaks-lime-bp.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/speaks-lime-bp.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/speaks-lime-bp.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/zosimus-of-panopolis/speaks-lime-bp.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/thessalus-of-cos/virtues-herbs-ae",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thessalus-of-cos/virtues-herbs-ae.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

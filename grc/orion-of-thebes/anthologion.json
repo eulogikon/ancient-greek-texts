@@ -1,0 +1,790 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "tme-af",
+  "eul_aid": "tme",
+  "author_slug": "orion-of-thebes",
+  "work_slug": "anthologion",
+  "url_slug": "orion-of-thebes-anthologion-tme-af",
+  "author": {
+    "english": "Orion of Thebes",
+    "ancient_greek": "Ὤριον ὁ Θηβαῖος"
+  },
+  "title": {
+    "english": "Anthologion",
+    "ancient_greek": "Ἀνθολόγιον"
+  },
+  "seo": {
+    "browser_title": "Ancient Anthologion by Orion of Thebes on Eulogikon",
+    "meta_title": "Classical Anthologion by Orion of Thebes in Ancient Greek",
+    "meta_description": "The Anthologion is a grammatical treatise collecting literary excerpts on language wisdom. It preserves valuable fragments from lost Greek tragedies."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Anthologion</strong> is a fifth-century CE lexicographical treatise by the grammarian Orion of Thebes. It is an alphabetical collection of seventy-six entries that function as a selective glossary, explaining rare, poetic, and dialectal Greek words drawn primarily from earlier Attic writers, poets, and historians. The work provides definitions, etymologies, and illustrative citations from canonical authors including Homer, the tragedians, Aristophanes, Thucydides, and Plato. In content and purpose, it represents a scholarly epitome, compressing and transmitting material from larger, earlier reference works such as those by Aelius Dionysius and Pausanias the Atticist. As a pedagogical tool for students of classical Greek literature, its selection of vocabulary reflects the Atticist movement’s enduring preference for the classical Athenian literary standard.</p>\n<p class=\"research-text\">The text survives primarily in a single thirteenth-century manuscript, Codex Vaticanus Graecus 1456, which is incomplete and disordered. A critical edition was produced by Friedrich Wilhelm Sturz in 1820. The work is also preserved indirectly through its extensive use by later Byzantine lexicographers, most notably the <strong>Etymologicum Magnum</strong> and the <strong>Suda</strong>. Orion’s <strong>Anthologion</strong> was a significant source for subsequent Byzantine lexicography. Through its incorporation into these major reference works, it acted as a crucial conduit, preserving knowledge of classical Greek vocabulary and literary citations for the medieval and modern eras.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΕΚ ΤΟΥ ΑΝΘΟΛΟΓΝΩΜΙΚΟΥ ΩΡΙΩΝΟΣ ΓΡΑΜΜΑΤΙΚΟΥ ΚΑΙΣΑΡΕΙΑΣ. Περὶ λόγου καὶ φρονήσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1",
+      "text": "Ἐξ Ἀντιγόνης Εὐριπίδο υ· Οὐκ ἔστι Πειθοῦς ἱερὸν ἄλλο πλὴν λόγος, καὶ βωμὸς αὐτῆς ἔστ’ ἐν ἀνθρώπου φύσει. Ἐκ τοῦ Ὀρέστου Εὐριπίδο υ· Μὴ νῦν πέραινε τὴν δόκησιν, ἀλλ’ ἐμοὺς λόγους ἀκούσας πρόσθεν βουλεύου τάδε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 3",
+      "text": "Ἐξ ἀ Μισῶ σοφὸν ἐν λόγοισιν, ἐς δ’ ὄνησιν οὐ σοφόν. Ἐξ Ἑκάβη ς· Γίνωσκε δ’ ἀλκὴν καὶ παρουσίαν κακῶν τῶν σῶν· σοφόν τι κἂν κακοῖς ἃ δεῖ φρονεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 5",
+      "text": "Ἐκ τῆς Ἠνοῦ ς· Ἐπίσταμαι δὲ πάνθ’ ὅσα̣ι̣ς̣ γενῆ χρεών, σιγᾶν θ’ ὅπου χρὴ καὶ λέγειν ἵν’ ἀσφαλὲς, ὁρᾶν θ’ ἃ δεῖ με, κοὐχ ὁρᾶν ἃ μὴ πρέπει. Ἐκ Παλαμήδου ς· Ὅστις λέγει μὲν εὖ τὰ δ’ ἔρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 6",
+      "text": ".. οἷς λέγει αἴσχρ’ ἐστὶν αὐτοῦ, τὸ σοφὸν οὐκ αἰνῶ τόδε. Ἐκ τοῦ Ῥήσο υ· Σοφοῦ παρ’ ἀνδρὸς χρὴ σοφόν τι μανθάνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 8",
+      "text": "Ἐκ Φοινισσῶ ν· Χρὴ δ’ αὐτὸν οὐχ ὅπλοισι τὰς διαλογὰς μῆτερ ποιεῖσθαι· πᾶν γὰρ ἐξαιρεῖ λόγος. ὃ καὶ σίδηρος πολεμίων δράσειεν ἄν. Ἐπινίκιον Πινδάρο υ· Πράσσει γὰρ ἔργον μὲν σθένος, βουλαῖσι δὲ φρὴν ἐσόμενον προιδεῖν, συγγενὲς οἷς ἕπεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 10",
+      "text": "Ἐκ τῶν Σκυρίω ν· Σοφοὶ δὲ συγκρύπτουσι οἰκείας βλάβας. Ἐξ Ἀῤῥιφόρου Μενάνδρο υ· Ἀνδρὸς χαρακτὴρ ἐκ λόγου γνωρίζεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 12",
+      "text": "Ἐκ Πωλουμένω ν· Οὐ πανταχοῦ τὸ φρόνιμον ἁρμόττει παρόν. Ἐκ Διὸς καλουμένου Πλάτωνος Κωμικο ῦ· Γλώττης ἀγαθῆς οὐκ ἔστ’ ἄμεινον οὐδὲ ἕν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 14",
+      "text": "Ἐκ τοῦ αὐτοῦ δράματο ς· Ἡ γλῶττα δύναμιν τοὺς λόγους ἐκτήσατο· ἐκ τῶν λόγων δ’ ἅττ’ αὐτὸς ἐπιθυμεῖς ἔχεις. Ἐκ Ῥαπιζομένου Μενάνδρο υ· Ἄρ’ ἔστιν ἀγαθῶν πᾶσι πλείστων ἀξία ἡ σύνεσις, ἐν ᾗ πρὸς τὰ βελτίω σοφή; Ὀρέστης Εὐριπίδο υ· Σύ τοι διάφερε τῶν κακῶν· ἔξεστι γάρ· καὶ μὴ μόνον λέγ’, ἀλλὰ καὶ φρόνει τάδε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 17",
+      "text": "Ἐκ τῶν Στρατιωτῶν Μενάνδρο υ· Ὁρῶν τι βούλευσαι κατὰ σαυτὸν γενόμενος· τὸ συμφέρον γὰρ οὐχ ὁρᾶται τῶ βοᾶν, ἐν τῶ πρὸς αὑτὸν δ’ ἀναλογισμῶ φαίνεται. Ἐκ τῶν Κωνεαζομένω ν · Τὸ γνῶθι σαυτόν ἐστιν ἂν τὰ πράγματ’ ἴδης τὰ σαυτοῦ καὶ τί σοι ποιητέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 19",
+      "text": "Ἐκ τοῦ Γεωργο ῦ· Εἰμὶ μὲν ἄγροικος, κἀυτὸς οὐκ ἄλλος ἐρῶ, καὶ τῶν κατ’ ἄστυ πραγμάτων οὐ παντελῶς ἔμπειρος· ὁ δὲ χρόνος τί μ’ εἰδέναι ποιεῖ πλέον. Ἐκ τῶν Βατράχων Ἀριστοφάνου ς· Ταῦτα μέντοι πρὸς ἀνδρός ἐστι νοῦν ἔχοντος καὶ φρένας καὶ πολλὰ περιπεπλευκότος μετακυλίνδειν αὐτὸν ἀεὶ πρὸς τὸ εὖ πράττειν τὰ τυχόντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 21",
+      "text": "Ἐκ τῶν Ὀρνίθων τοῦ αὐτοῦ Ἀριστοφάνου ς· Ὑπὸ γὰρ λόγων ὁ νοῦς γε μετεωρίζεται ἐπαίρεταί τ’ ἄνθρωπος· οὕτω καί ς’ ἐγὼ ἀναπτερώσας βούλομαι χρηστοῖς λόγοις τρέψαι πρὸς ἔργον νόμιμον. Ἐκ τῶν Φωκυλλίδο υ· Νυκτὸς βουλεύειν· νυκτὸς δέ τοι ὀξυτέρη φρὴν ἀνδράσιν· ἡσυχίη δ’ ἀρετὴ διζημένω ἐσθλή.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 23",
+      "text": "Ἐκ τῆς Ψ Ἰλιάδο ς· Μή τι τοι δρυτόμος μέγ’ ἀμείνων ἠὲ βίηφιν, μήτι δ’ αὖτε κυβερνήτης ἐνὶ οἴνοπι πόντω νῆα θοὴν ἰθύνει σπερχομένην ἀνέμοισιν, μήτι δ’ ἡνίοχος περιγίνεται ἡνιόχοιο. Ἡσιόδο υ· Οὗτος μὲν πανάριστος ὃς αὑτῶ πάντα νοήσει φρασάμενος τά γ’ ἔπειτα καὶ εἰς τέλος ἐστὶν ἀμείνω· ἐσθλὸς δ’ αὖ κἀκεῖνος ὅς κ’ εὖ εἰπόντι πίθηται· ὃς δέ κε μητ’ αὑτῶν νοέη μήτ’ ἄλλου ἀκούων ἐν θυμῶ βάλληται, ὁ δ’ αὐτὸς ἀχρήϊος ἀνήρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 25",
+      "text": "Τοῦ αὐτο ῦ· Νήπιος ὃς τὰ ἕτοιμα λείπων ἀνέτοιμα διώκει. Ἐκ τῆς α̣ἶ̣ πα ρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 26",
+      "text": "... . τοῦ Σωκράτου ς· Ἃ ποιεῖν αἰσχρὸν, ταῦτα νόμιζε μηδὲ λέγειν εἶναι καλόν. Ἐκ τῆς αὐτῆ ς· Μηδέποτε μηδὲν αἰσχρὸν ποιήσας ἔλπιζε λήσειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 t",
+      "text": "Περὶ φύσεως. Ἐξ Ἀντιόπης Εὐριπίδο υ· Ἅπαντα τίκτει χθὼν πάλιν τε λαμβάνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 2",
+      "text": "Ἐκ τοῦ Ὀρέστο υ· Ὦ φύσις ἐν ἀνθρώποισιν ὡς μέγ’ εἶ κακόν. Ἐπιχαρμοῦ Κωμικο ῦ· Φύσις ἀνθρώπων ἀσκοὶ πεφυσωμένοι· ἀνδρῶν δέ γ̣ε̣ σωφρονούντων ἴδιον μὴ προλήψει δουλεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 4",
+      "text": "Ἰσοκράτου ς· Κατανάλισκε τὴν ἐν τῶ βίω σχολὴν εἰς τὴν τῶν λόγων φιληκοΐαν. Περὶ εὐσεβείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 1",
+      "text": "Ἐκ τοῦ Ἀρχελάου Εὐριπίδο υ· Ε̣ἰ̣ τῶν δικαίων γὰρ νόμοι τ’ αὐξήματα μεγάλα φέρουσι, πάντα δ’ ἀνθρώποις τάδ’ ἐστι χρήματα ἤν τις εὐσεβῇ θεόν. Ἐκ τοῦ αὐτοῦ δράματο ς· Μακάριος ὅστις νοῦν ἔχων τιμᾶ θεὸν καὶ κέρδος αὐτῶ τοῦτο ποιεῖται μέγα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 3",
+      "text": "Ἐξ Ἱππολύτου Στεφανηφόρο υ. Σοὶ τόνδε πλεκτὸν στέφανον ἐξ ἀκηράτου λειμῶνος, ὦ δέσποινα, κοσμήσας φέρω· ἔνθ’ οὔτε ποιμὴν ἀξιοῖ φέρβειν βοτὰ οὔτ’ ἦλθέ που σίδηρος· ἀλλ’ ἀκήρατον μέλισσα λειμῶν’ ἐαρινὸν διέρχεται· αἰδὼς δὲ ποταμίαισι κηπεύει δρόσοις ὅσοις διδακτὸν μηδέν· ἀλλὰ τῆ φύσει τὸ σωφρονεῖν εἴληχεν· εἰς τὰ πάντ’ ὄμως τούτοις δρέπεσθαι· τοῖς κακοῖσι δ’ οὐ θέμις. ἀλλ’, ὦ φίλη δέσποινα, χρυσέας κόμης ἀνάδημα δέξαι χειρὸς εὐσεβοῦς ἄπο· μόνω γὰρ ἐστὶ τοῦτ’ ἐμοὶ γέρας βρότων. σοὶ καὶ ξύνειμι καὶ λόγοις ἀμείβομαι κλύων μὲν αὐδὴν, ὄμμα δ’ οὐχ ὁρῶν τὸ σόν· τέλος δὲ κάμψαιμ’ ὥσπερ ἠρξάμην βίου. Ἡσιόδου ἐκ τῶν Ἔργω ν· Ἀνδρὸς δ’ εὐόρκου γενεὴ μετόπισθεν ἀμείνων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 5",
+      "text": "Ἐκ τῶν Θεόγνιδος ἐλεγείω ν· Κύρνε, θεοὺς αἰδοῦ καὶ δείδιθι· τοῦτο γὰρ ἄνδρα εἴργει μήτε παθεῖν μήτε λέγειν ἀσεβῆ. Ἰσοκράτους Παραινέσει Τοὺς μὲν θεοὺς φοβοῦ· τοὺς δὲ γονεῖς τίμα· τοὺς δὲ φίλους αἰσχύνου· τοῖς δὲ νόμοις πείθου· τὰς ἡδονὰς θήρευε τὰς μετὰ δόξης· τέρψις γὰρ σὺν τῶ καλῶ μὲν ἄριστον, ἄνευ δὲ τούτου κάκιστον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 7",
+      "text": "Δημοσθένους Φιλιππικῶ ν· Τὸ δ’ εὐσεβὲς καὶ τὸ δίκαιον ἄν τ’ ἐπὶ μικροῦ, ἄν τ’ ἐπὶ μείζονος παραβαίη, τὴν αὐτὴν ἔχει δύναμιν. Περὶ προνοίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 1",
+      "text": "Ἐκ τοῦ Ἡνιόχου Μενάνδρο υ· Ἀλλὰ θεὸς οὐδεὶς εἰς τὸν προκόλπιον φέρει ἀργύριον, ἀλλ’ ἔδωκεν εὔνους γενόμενος, πόρνης βουλὴν ἔδειξεν εὐπορίας τινός· ἣν ἂν παρῆς μηκέτι τὸν θεὸν αἰτῶ, ἤδη δὲ τῆ σαυτοῦ ζυγομάχει μαλθακία. Ἐκ τοῦ Ἱππόνου Σοφοκλέου ς· Σωτηρίας γὰρ φάρμακα οὐχὶ πανταχοῦ βλέψαι πάρεστι· ἐν δὲ τῆ προμηθεία, καὶ τῶ λέγοντι καὶ κλύοντι σύμμαχος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 3",
+      "text": "Εὐριπίδου Ὀρέστη ς· Ἔα τὸ μέλλον ὡς κακὸν τό μ’ εἰδέναι. Ἐκ τοῦ κατὰ τῶν Σοφιστῶν Ἰσοκράτου ς· Οἶμαι γὰρ εἶναι πᾶσιν φανερὸν ὅτι τὰ μέλλοντα γινώσκειν οὐ τῆς ἡμετέρας φύσεως ἐστί· ἀλλὰ τοσοῦτον ἀπέχομεν ταύτης τῆς φρονήσεως, ὥσθ’ Ὅμηρος ὁ μεγίστην ἐπὶ σοφία δόξαν εἰληφὼς καὶ τοὺς θεοὺς πεποίηκεν ἔστιν ὅτε βουλευομένους ὑπὲρ ἑαυτῶν, οὐ τὴν ἐκείνων γνώμην εἰδώς, ἀλλ’ ἡμῖν ἐνδείξασθαι βουλόμενος ὅτι τοῖς ἀνθρώποις .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 4",
+      "text": ".. τοῦτο τῶν ἀδυνάτων ἐστί. Περὶ θεοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 1",
+      "text": "Ἐκ τοῦ Ἀρχελάου Εὐριπίδο υ· Δοκεῖς τὰ τῶν θεῶν ξυνετὰ νικήσειν ποτέ καὶ τὴν Δίκην ποῦ μακρὰν ἀποκεῖσθαι βροτῶν; ἥδ’ ἔστιν ἐγγὺς· οὐχ ὁρωμένη δ’ ὁρᾶ. Ἐκ τῶν Ἱκετίδω ν· Ὦ Ζεῦ, τί δῆτα τοὺς ταλαιπώρους βροτοὺς φρονεῖν λέγουσι· σὺ γὰρ ἐξηρτήμε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 2",
+      "text": ".. δρῶμεν δὲ τοιαῦθ’ ἃ σὺ τυγχάνης θέλων. Ἐκ Μελανίππης Δεσμώτιδος Εὐριπίδο υ· Σὺν τῶ θεῶ χρὴ τοὺς σοφοὺς ἀνατρέφειν βουλεύματ’ ἀεὶ πρὸς τὸ χρησιμότερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 4",
+      "text": "Ἐκ τοῦ Φιλοκτήτο υ· Φεῦ μήποτ’ εἴην ἄλλο πλὴν θεοῖς φίλος, ὡς πάντ’ ἔχωσι κἂν βραδύνωσι χρόνω. Ἐκ τοῦ Οἰνομάο υ· Ἐγὼ μὲν εὖτ’ ἂν τοὺς κακῶς ὁρῶ βροτῶν πίπτοντας, εἶναι φημὶ δαιμόνων γένος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 6",
+      "text": "Ἐκ τοῦ Θυέστο υ· Θεοῦ θέλοντος κἂν ἐπὶ ῥιπὸς πλέοις. Ἐκ τοῦ αὐτο ῦ· Οὐκ ἔστιν οὐδὲν χωρὶς ἀνθρώπων, θεῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 7",
+      "text": "σπουδάζομεν δὲ πόλλ’ ὑπ’ ἐλπίδων μάτην πόνους ἔχοντες οὐδὲν εἰδότες σαφές. Ἐκ τῶν Ὡρῶ ν· Πανευμαρὲς θεοῖσι κοὐδαμῆ μακράν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 9",
+      "text": "Ἐκ τοῦ Ἡρακλείσκου σατουρίκη ς· Κρεῖσσον θεοῖς γὰρ ἢ βροτοῖς χάριν φέρειν. Ἐκ τοῦ αʹ Θυέστο υ· Σοφὸς γὰρ οὐδεὶς πλὴν ὃν ἂν τιμᾶ θεός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 10",
+      "text": "ἀλλ’ εἰς θεοὺς ὁρῶντα κἂν ἔξω δίκης χωρεῖν κελεύη, κεῖς’ ὁδοιπορεῖν χρεών· αἰσχρὸν γὰρ οὐδὲν ὧν ὑφηγοῦνται θεοί. Ἐκ τῆς Ὁμολογούσης τῶν Βίωνος βουκολικῶ ν· Πάντα θεοῦ γὰρ θέλοντος ἀνύσιμα πάντα βροτοῖσι· ἐκ μακάρων γὰρ ῥάστα καὶ οὐκ ἀτέλεστα γένοιτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 12",
+      "text": "Ἐκ τῶν Θεόγνιδος Ἐλεγείω ν· Ἄνθρωποι δὲ μάταια νομίζομεν εἰδότες οὐδέν· οἱ δὲ κατὰ σφετέρον πάντα τελοῦσι νόον. Ἐκ τῆς Υ Ἰλιάδο ς· Ζεὺς δ’ ἀρετὴν ἄνδρεσσιν ὀφέλλει μινύθει τε ὅπως κ’ ἐθέλησιν· ὁ γὰρ κράτιστος ἁπάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 14",
+      "text": "Ἐκ τῶν Ἀράτου Φαινομένω ν· Αὐτὸς γὰρ τάδε σήματ’ ἐν οὐρανῶ ἐστήριξεν ἄστρα διακρίνας· ἐσκέψατο δ’ εἰς ἐνιαυτὸν ἀστέρας, οἳ καὶ μάλιστα τετ .. γμένα σημαίνοιεν ἀνδράσιν ὡραῖον ὄφρ’ ἔμπεδα πάντα φύονται. Ἐκ τῆς Η Ἰλιάδο ς· Ἀλλ’ ἤτοι μὲν ταῦτα θεῶν ἐν γόνασι κεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 16",
+      "text": "Ἐκ τῆς Ρ Ἰλιάδο ς· Καί τε θεοὶ ξείνοισιν ἐοικότες ἀλλοδαποῖσιν παντοῖοι τελεθόντες ἐπιστρωφῶσι πόλιας ἀνθρώπων ὕβριν τε καὶ εὐνομίην ἐφορῶντες. Ἐκ τῶν Πυθαγορικῶ ν· Ζεῦ Κρονίδη, τὰ μὲν ἐσθλὰ καὶ εὐχομένοις καὶ ἀνεύκτοις ἄμμι δίδου· τὰ δὲ λυγρὰ καὶ εὐχομένοις ἀπερύκοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 t",
+      "text": "Περὶ δίκης καὶ δικαιοσύνης . Ἐκ τοῦ Αἰγέως Εὐριπίδο υ· Κρεῖσσον δὲ πλούτου καὶ βαθυσπόρου χθονὸς ἀνδρῶν δικαίων κἀγαθῶν ὁμιλίαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 2",
+      "text": "Ἐκ τῆς Ἑκάβη ς· Ἐσθλοῦ γὰρ ἀνδρὸς τῆ δίκη θ’ ὑπηρετεῖν καὶ τοὺς κακοὺς δρᾶν πανταχοῦ κακῶς ἀεί. Ἐκ τοῦ αὐτοῦ δράματο ς· Οὐκ ἂν δυναίμην· ἀλλ’ ἐπεὶ τὰ μὴ καλὰ πράσσειν ἐτόλμας, τλῆθι καὶ τὰ μὴ φίλα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 4",
+      "text": "Ἐκ τῶν Ἐπιτρεπόντων Μενάνδρο υ· Μὴ καταφρονήσης θεῶν· ἐν παντὶ δεῖ καιρῶ τὸ δίκαιον ἐπικρατεῖν ἁπανταχοῦ, καὶ τὸν παρατυγχάνοντα τούτου μέρους ἔχειν πρόνοιαν κοινόν ἐστι τῶ βίω. Ἐκ τῶν Δήμων Εὐπόλιδο ς· Τὸ γὰρ δίκαιον πανταχοῦ φυλακτέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 6",
+      "text": "Ἐκ τοῦ Ἡρακλείσκου Σοφοκλέου ς· Τὸν δρῶντα γάρ τι καὶ παθεῖν ὀφείλεται. Ἐκ τῆς Φαίδρα ς· Οὐ γὰρ δίκαιον ἄνδρα γενναῖον φρένας τέρπειν ὅπου γε δίκα̣ι̣α τέρπεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 8",
+      "text": "Ἐκ τῆς Ἠλέκτρα ς· Ἀλλ’ ἔστιν ἔνθα χ’ ἡ δίκη βλάβην φέρει. Αἴαντος Μαστιγοφόρο υ· Ξὺν τῶ δικαίω γὰρ μέγ’ ἔξεστι φρονεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 10",
+      "text": "Ἡσιόδο υ· Τὸν δέ γ’ ἀνθρώποισι νόμον διέταξε Κρονίων, ἰχθῦσι μὲν καὶ θηρσὶ καὶ οἰωνοῖς πετεηνοῖς ἔσθειν ἀλλήλους, ἐπεὶ οὐ δίκη ἔστι μετ’ αὐτοῖς. ἀνθρώποισι δ’ ἔδωκε δίκην, ἣ πολλῶν ἀρίστη γίνεται· εἰ γάρ τις καὶ θέλει τὰ δίκαια ἀγορεύειν γινώσκων, τῷ μέν τ’ ὄλβον διδοῖ εὐρύοπα Ζεύς. Τοῦ αὐτο ῦ· Ὃς δέ κε μαρτυρέησιν ἑκὼν ἐπὶ ὅρκον ὀμόσας ψεύσεται, ἐν δὲ δίκην βλάψας, νήκεστον ἀασθῇ· τοῦ δ’ ἀμαυροτέρη γενεὴ μετόπισθε λέλειπται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 12",
+      "text": "Ἐκ τῆς Ξ Ὀδυσσεία ς· Οὐ μὲν σχέτλια ἔργα θεοὶ μάκαρες φιλέουσιν, ἀλλὰ δίκην τίουσι καὶ αἴσιμ’ ἔργ’ ἀνθρώπων. Ἡσιόδο υ· Πολλάκις καὶ ξύμπασα πόλις κακοῦ ἀνδρὸς ἀπηύρα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 14",
+      "text": "Ἐκ τοῦ Εὐθύφρονος Πλάτωνο ς· Τοῦτο τοίνυν ἔμοιγε δοκεῖ, ὦ Σώκρατες, τὸ μέρος τοῦ δικαίου εἶναι εὐσεβές τε καὶ ὅσιον τὸ περὶ τὴν τῶν θεῶν θεραπείαν· τὸ δὲ περὶ τὴν τῶν ἀνθρώπων τὸ λοιπὸν εἶναι τοῦ δικαίου μέρος. Ἐκ τοῦ Κρείτωνο ς· Ἀλλ’, ὦ Σώκρατες, πειθόμενος τοῖς σοῖς τροφεῦσιν μήτε παῖδας περὶ πλείονος ποιοῦ μήτε τὸ ζῆν, μήτ’ ἄλλο μηδὲν πρὸ τοῦ δικαίου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 16",
+      "text": "Ἰσοκράτου ς· Καὶ μηδεὶς οἰέσθω με λέγειν, ὡς ἔστι δικαιοσύνη διδακτόν· ὅλως μὲν γὰρ οὐδεμίαν ἡγοῦμαι τοιαύτην τέχνην εἶναι, ἥτις τοῖς κακῶς πεφυκόσι πρὸς τὴν ἀρετὴν σωφροσύνην ἂν ἐμποιήσειεν· οὐ μὴν ἀλλὰ συμπαρασκευάσαι τε καὶ συνασκῆσαι μάλιστ’ ἂν οἶμαι τὴν τῶν πολιτικῶν ἐπιμέλειαν. Ἐκ τοῦ περὶ Στεφάνου Δημοσθένου ς· Θεάσασθε τοίνυν, ὡς σαθρὸν, ὡς ἔοικεν, ἔστι φύσει πᾶν ὅ τι ἂν μὴ δικαίως ᾖ πεπραγμένον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 t",
+      "text": "Περὶ ἀρετῆς. Ἐκ Μελεάγρου Εὐριπίδο υ· Τὸ τ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 1",
+      "text": ". κράτιστον. κἂν γυνὴ κράτι .. ἦ, τοῦτ’ ἔστ’ ἀρετὴ· τὸ δὲ ὄνομα οὐ διαφέρει. Ἐκ τοῦ Ἐρεχθέω ς· Ἐν τῶν πόνων γὰρ τἀγαθ’ αὔξεται βροτοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 2",
+      "text": "ὁ δ’ ἡδὺς ἀγὼν ἢ κακίστ’ ἀτολμία οὔτε οἶκον, οὔτε γαῖαν ὀρθώσειεν ἄν. Ἐκ τοῦ Ἀρχελάο υ· Ὀλίγοι γὰρ ἐσθλοὶ κρείσσονες πολλῶν κακῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 4",
+      "text": "Θυέστο υ· Γνώμης γὰρ οὐδὲν ἀρετὴ μονουμένη. Ἐκ τῆς Ὑψιπύλη ς· Πρὸς τὰς χρήσεις χρὴ καὶ τὰ πράγματα σκοπεῖν καὶ τὰς διαίτας τῶν κακῶν τε κἀγαθῶν, πειθὼ δὲ τοῖς μὲν σώφροσιν πολλὴν ἔχειν, τοῖς μὴ δικαίοις δ’ οὐδὲν συμβάλλειν χρεών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 6",
+      "text": "Ἐκ τοῦ Ἡνιόχου Μενάνδρο υ · Ἐλεεῖν δ ’ ἐκεῖνος ἔμαθεν εὐτυχῶν μόνος· ὁ χρηστὸς, ὡς ἔοικε, καὶ χρηστοὺς ποιεῖ· μία ἐστὶν ἀρετὴ τὸν ἄτοπον φεύγειν ἀεί. Εὐριπίδο υ· Ἡ δ’ ἀρετὴ καὶ θανοῦσι λάμπει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 8",
+      "text": "Ἐκ τοῦ γεωργίο υ· (schubartus: hoc loco margini ascriptum est eadem manu: ἐκ τῶν ἀποτρεπόντω ν.) Οὐδὲν δὲ πέπονθας δεινὸν ἂν μὴ προσποιῇ. Τοῦ αὐτο ῦ· Οὗτος κράτιστος ἔστιν ἀνὴρ, ὦ Γοργία, ὅστις ἀδικεῖσθαι πλεῖστα ἐπίστατ’ ἐγκρατῶς· τὸ δ’ ὀξύθυμον τοῦτο καὶ λίαν πικρὸν δεῖγμα ἐστὶν εὐθὺς πᾶσι μικροψυχίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 10",
+      "text": "Σοφοκλέους Ἴωνο ς· Πρὸς ἀνδρὸς ἐσθλοῦ πάντα γενναίως φέρειν. Ἐκ τῆς Ἠλέκτρα ς· Οὐδεὶς τῶν ἀγαθῶν ζῶν κακῶς εὔκλειαν αἰσχύναι θέλοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 12",
+      "text": "Ἡσιόδο υ· Τῆς δ’ ἀρετῆς ἱδρῶτα θεοὶ προπάροιθεν ἔθηκαν ἀθάνατοι· μακρὸς δὲ καὶ ὄρθιος οἶμος ἐς αὐτὴν καὶ τρηχὺς τὸ πρῶτον· ἐπὰν δ’ εἰς ἄκρον ἵκηται, ῥηϊδίη ἔπειτα πέλει χαλεπή περ ἐοῦσα. Ἰσοκράτου ς· Ἡ δὲ τῆς ἀρετῆς κτίσις οἷς ἂν ἀκίβδηλος ταῖς διανοίαις συναυξηθῆ, μόνιμον συγγηράσκει· πλούτου δὲ κρείττων, χρησιμωτέρα δ’ εὐγενείας ἐστί· τὰ μὲν τοῖς ἄλλοις ἀδύνατα δυνατὰ καθιστάσα, τὰ δὲ τῶ πλήθει φοβερὰ θαρσαλέως ὑπομένουσα, καὶ τὸν μὲν ὄκνον ψόγον, τὸν δὲ πόνον ἔπαινον ἡγουμένη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 14",
+      "text": "Τοῦ αὐτο ῦ· Χρὴ δὲ δοκιμάζειν τὰς ἀρετὰς οὐκ ἐν ταῖς ἰδέαις ταῖς αὐταῖς ἁπάσαις, ἀλλὰ τὴν μὲν δικαιοσύνην ἐν ταῖς ἀπορίαις· τὴν δὲ σωφροσύνην ἐν ταῖς δυναστείαις· τὴν δὲ καρτερίαν ἐν ταῖς τῶν νέων ἡλικίαις. Ἐκ τοῦ Μένωνος Πλάτωνο ς· Οὐκ ἐκ χρημάτων ἀρετὴ γίνεται, ἀλλ’ ἐξ ἀρετῆς χρήματα καὶ ἄλλα ἀγαθὰ τοῖς ἀνθρώποις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 t",
+      "text": "Περὶ τοῦ ἀνθρωπίνου βίου. Εὐριπίδο υ· Ἀεὶ τί καινὸν ἡμέρα παιδεύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 2",
+      "text": "Ἐκ τοῦ Ἀρχελάου Εὐριπίδο υ· Πάλαι σκοπῶμεν τὰς τύχας τῶν βροτῶν ὡς εὖ μεταλλάσσουσιν· οὐ γὰρ ἀσφαλῶς εἰς ὀρθὸν ἔστη· πίπτει δ’ ὁ πρὶν εὐτυχῶν. Ἐκ τῆς Ἀνδρομάχη ς· Χρὴ δ’ οὔποτ’ εἰπεῖν οὐδέν’ ὄλβιον βροτῶν πρὶν ἂν θανόντος τὴν τελευταίαν ἴδης ὅπως περάσας ἡμέραν ἥξει κάτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 4",
+      "text": "Ἐκ τῆς Ἀλκηστίδο ς· Βροτοῖς ἅπασι κατθανεῖν ὀφείλεται· κοὐκ ἔστι θνητῶν ὅστις ἐξεπίσταται τὴν αὔριον μέλλουσαν εἰ βιώσεται· τὸ τῆς ψυχῆς γὰρ ἀφανὲς ποῖ προβήσεται, οὐκ ἔστι διδακτὸν οὐδ’ ἁλίσκεται τέχνη· τοῦτ’ οὖν ἀκούσας καὶ μαθὼν ἐμοῦ πάρα εὔφραινε σαυτὸν, πίνε, τὸν καθ’ ἡμέραν βίον λογίζου σὸν, τὰ δ’ ἄλλα τῆς τύχης. Ἐκ τοῦ Πλοκίο υ· Οὐκ ἔστιν εὑρεῖν βίον ἄλυπον οὐδενός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 6",
+      "text": "Ἐκ τοῦ Ὀρέστο υ· Οὐκ ἔστιν οὐδὲν δεινὸν, ὧδ’ εἰπεῖν ἔπος, οὐδὲ πάθος, οὐδὲ συμφορὰ θεήλατος, ἧς οὐκ ἂν ἄρετ’ ἄχθος ἀνθρώπου φύσις. Ἐκ τῆς Ἠλέκτρα ς· Οὐκ ἔστιν ἀκριβὲς οὐδὲν εἰς εὐανδρίαν· ἔχουσι γὰρ ταραγμὸν αἱ φύσεις βροτῶν· ἤδη γὰρ εἶδον ἄνδρα γενναίου πατρὸς τὸ μηδὲν ὄντα, χρηστὰ δ’ ἐκ κακῶν τέκνα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 8",
+      "text": "Ἐξ Ἰφιγενείας τῆς ἐν Αὐλίδ ι· Θνατῶν δ’ ὄλβιος ἐς τέλος οὐδεὶς οὐδ’ εὐδαίμων· οὔπω γὰρ ἔφυ τὶς ἄλυπος. Ἐκ τῶν Κυβερνήτω ν· Οἷοι λαλοῦμεν ὄντες οἱ τρισάθλιοι ἅπαντες οἱ φυσῶντες ἐφ’ ἑαυτοῖς μέγα· οὗτοι γὰρ οὐκ ἴσασιν ἀνθρώπων φύσιν· οὗτος μακάριος ἐν ἀγοραῖς νομίζεται, ἐπὰν δ’ ἀνοίξη τὰς θύρας, τρισάθλιος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 10",
+      "text": "Εὐπολίδο ς· Ὡς πολλά γ’ ἐν μακρῶ χρόνω γίνεται μεταλλαγέται πραγμάτων· μένει δὲ χρῆμ’ οὐδὲν ἐν ταὐτῶ ῥυθμῶ. Φανιέω ς· Ἄνθρωπος ὢν ἤμαρτον· οὐ θαυμαστέον· μήποτ’ ἐπαννέσης πρὶν ἄνδρα ἴδης σώφρονα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 12",
+      "text": "Δημοσθένου ς· Τῶν γὰρ ἀνθρώπων οἱ πλεῖστοι κτῶνται μὲν τἀγαθὰ τῶ καλῶς βουλεύεσθαι καὶ μηδενὸς καταφρονεῖν· φυλάττειν δὲ οὐκ ἐθέλουσι τοῖς αὐτοῖς τούτοις. Πλάτωνο ς· Καὶ γὰρ αἱ δόξαι αἱ ἀληθεῖς ὅσον μὲν χρόνον παραμένουσιν, καλὸν τὸ χρῆμα καὶ πάντα ἀγαθὰ ἐργάζονται· πολὺν δὲ χρόνον οὐκ ἐθέλουσι παραμένειν, ἀλλὰ δραπετεύέίν (sic) τῆς ψυχῆς τοῦ ἀνθρώπου· ὥστε οὐ πολλοῦ ἄξιαι εἰσὶν ἕως ἄν τις αὐτας ⁝ ὡς εἰς τὸ πλεῖστον ἥκομεν φρονήματος ⁝ ἐν κακοῖσιν οὐ ῥάδιον βροτοῖσιν εὐφημεῖν στόμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 16",
+      "text": "Τί δῆτα θνητοὶ τἄλλα μὲν μαθήματα Ἐκ τοῦ σκότους τε τῶν τε νυκτέρων βροτοῖς φίλτρων μεγίστη γίνεται θνητοῖς χάρις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 18",
+      "text": "Εἴ μοι γένοιτο φθόγγος ἐν βραχίοσιν. Ἐσθλοῦ γὰρ ἀνδρὸς τῆ δίκη θ’ ὑπηρετεῖν καὶ τοὺς κακοὺς δρᾶν πανταχοῦ κακῶς ἀεί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 20",
+      "text": "Δεινόν γε θνητοῖς ὡς ἅπαντα συμπιτνεῖ καὶ τὰς ἀνάγκας οἱ νόμοι διώρισαν· Οὐκ ἔστι θνητῶν ὅστις ἔστ’ ἐλεύθερος· ἢ χρημάτων γὰρ δοῦλος ἐστὶν ἢ τύχης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 22",
+      "text": "Οὐκ ἔστιν οὐδὲν πιστὸν οὔτ’ εὐδοξία οὔτ’ αὖ καλῶς πράσσοντος μὴ πράξειν καλῶς. Ψυχῆς γὰρ οὐδέν ἐστι τιμιώτερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 24",
+      "text": "Ῥᾶον παραινεῖν ἢ παθόντα καρτερεῖν. Εὐριπίδου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 1",
+      "text": "Φεῦ μήποτ’ εἴην ἄλλο πλὴν θεοῖς φίλος· ὡς παντ’ ἔχωσι κἂν βραδύνωσι χρόνω. Εὖ ἴσθ’ ὅτ’ ἄν τις εὐσεβῶν θύει θεοῖς, κἂν μικρὰ θύη, τυγχάνει σωτηρίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 3",
+      "text": "Ἦ πολλὰ καὶ δύσγνωστα βουλεύει θεός. Τὸ σωφρονεῖν δὲ καὶ σέβειν τὰ τῶν θεῶν κάλλιστον· οἶμαι δ’ αὐτὸ καὶ σοφώτατον θνητοῖσιν εἶναι κτῆμα τοῖσι χρωμένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 5",
+      "text": "Οὐκ ἔστι τὰ θεῶν ἄδικα· ἐν ἀνθρώποισι δὲ κακοῖς νοσοῦντα σύγχυσιν ἔχειν πολλήν. Θεοῖς ἀρέσκου· πᾶν γὰρ ἐκ θεῶν τέλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 7",
+      "text": "Ὅστις δὲ τοὺς τεκόντας ἐν βίω σέβει ὅδ’ ἐστὶ καὶ ζῶν καὶ θανὼν θεοῖς φίλος· ὅστις δὲ τοὺς φυσάντας μὴ τιμᾶν θέλη, μή μοι γένοιτο μήτε συνθύτης τοῖς θεοῖς, μήτ’ ἐν θαλάσση κοινόπλουν στέλλοι σκάφος. Οὐκ ἔστι μητρὸς οὐδὲν ἥδιον τέκνοις· ἐρᾶτε μητρὸς παῖδες, ὡς οὐκ ἔστ’ ἔρως τοιοῦτος ἄλλος ὅστις ἡδίων ἐρᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 9",
+      "text": "Οὐκ ἔστι παισὶ τοῦδε καλλίων γέρας ἢ πατρὸς ἐσθλοῦ κἀγαθοῦ πεφυκέναι. Καὶ τοῖς τεκοῦσιν ἀξίαν τιμὴν νέμειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 11",
+      "text": "Ἐγὼ δ’ ὅθεν μέγιστον ἄρξομαι λέγειν ἐκ τοῦδε πατρὶ πείθεσθαι χρεὼν παῖδας. νομίζειν δ’ αὐτὸ τὴν δίκην. Ὡς ἡδὺ πατέρα παισὶν ἤπιον κύρειν καὶ παῖδας εἶναι πατρὶ μὴ στυγουμένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 13",
+      "text": "Ἂν οἱ τεκόντες τοῦτο γινώσκωσιν ὅτι νέοι ποτ’ ἦσαν, ἠπίως τὴν τῶν τέκνων οἴσουσι Κύπριν, ὄυντες οὐ σκαιοὶ φύσιν. Ὅστις πατὴρ πρὸς παῖδας ἐκβαίνει πικρῶς, τὸ γῆρας οὗτος τερματίζεται βαρύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 15",
+      "text": "Μή μοι τὸ πρῶτον βῆμα ἐὰν δράμη καλῶς νικῶν δοκείτω τὴν δίκην, πρὶν ἂν τέλος γραμμῆσι κεῖται καὶ πέρας κάμψει βίου. Τὴν δίκην λέγουσι παῖδα εἶναι χρόνου ἐγγύς τε ναίειν τῆς βροτῶν ἁμαρτίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 17",
+      "text": "Γνώμαις γὰρ ἀνδρῶν εὖ μὲν οἰκοῦνται πόλεις, εὖ δ’ οἶκος, εἴς τ’ αὖ πόλεμον ἰσχύει μέγα· σοφὸν γὰρ εὖ βούλευμα τὰς σοφὰς χείρας νικᾶ· σὺν ὄχλω δὲ ἀμαθία πλεῖστον κακόν. Ὦ πόλλ’ ἁμαρτάνοντες ἄνθρωποι μάτην· τί δὴ τέχνας μὲν μυρίας διδάσκετε καὶ πάντα μηχανᾶσθε κἀξευρίσκετε, ἓν δ’ οὐκ ἐπίστασθε οὐδὲ θηρᾶσθε δήπω φρονεῖν διδάσκειν οἷσιν οὐκ ἔνεστι νοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 19",
+      "text": "Γνώμης γὰρ οὐδὲν ἢ ἀρετῆ μονουμένη. Οὔτοι βροτοῖσι κέρδος ἄργυρος μόνος καὶ χρυσός ἐστιν· ἀλλὰ χ’ ἡ ἀρετὴ μέγα νόμισμα κεῖται πᾶσιν, ἧ χρῆσθαι χρεών.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "eur 21",
+      "text": "Οὐκ ἔστιν ἀρετῆς κτῆμα τιμιώτερον· οὐ γὰρ πέφυκε δοῦλον οὔτε χρημάτων οὔτ’ εὐγενείας οὔτε θωπείας ὄχλων· ἀρετῆ δ’ ὅσωπερ μᾶλλον ἂν χρῆσθαι θέλης, τοσῶδε μεῖζον αὔξεται τελουμένη. Νεανίαν γὰρ ὄντα χρὴ τολμᾶν πονεῖν· οὐδεὶς γὰρ ὢν ἄθυμος εὐκλεὴς ἀνήρ· ἀλλ’ οἱ πόνοι τίκτουσι τὴν εὐανδρίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "tme-aa",
+      "title": {
+        "english": "Etymologies (Complete)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-aa-tme-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-aa.json"
+      }
+    },
+    {
+      "eul_wid": "tme-ab",
+      "title": {
+        "english": "Etymologies (Selection A)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-ab-tme-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ab.json"
+      }
+    },
+    {
+      "eul_wid": "tme-ac",
+      "title": {
+        "english": "Etymologies (Selection B)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymology-ac-tme-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymology-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymology-ac.json"
+      }
+    },
+    {
+      "eul_wid": "tme-ad",
+      "title": {
+        "english": "Etymologies (Selection C)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ad-tme-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ad.json"
+      }
+    },
+    {
+      "eul_wid": "tme-ae",
+      "title": {
+        "english": "Etymologies (Selection D)",
+        "ancient_greek": "Ἐτυμολογικὸν Ἔργον"
+      },
+      "url_slug": "orion-of-thebes-etymological-ae-tme-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/orion-of-thebes/etymological-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/etymological-ae.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "klo-aa",
+      "title": {
+        "english": "Commentary-Callimachus' Pinakes, Fragments",
+        "ancient_greek": "Ὑπόμνημα εἰς Καλλιμάχου Πίνακας"
+      },
+      "url_slug": "aristophanes-of-byzantium-callimachus-pinakes-klo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/callimachus-pinakes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/callimachus-pinakes.json"
+      }
+    },
+    {
+      "eul_wid": "klo-af",
+      "title": {
+        "english": "Names of Ages Parisian Fragment",
+        "ancient_greek": "Ὀνόματα Ἐποχῶν Παρισινὸν Ἀπόσπασμα"
+      },
+      "url_slug": "aristophanes-of-byzantium-names-ages-klo-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/names-ages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/names-ages.json"
+      }
+    },
+    {
+      "eul_wid": "pka-aa",
+      "title": {
+        "english": "On Conjunctions",
+        "ancient_greek": "Περὶ συνδέσμων"
+      },
+      "url_slug": "apollonius-grammarian-conjunctions-pka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonius-grammarian/conjunctions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonius-grammarian/conjunctions.json"
+      }
+    },
+    {
+      "eul_wid": "qnq-ba",
+      "title": {
+        "english": "On Monosyllables",
+        "ancient_greek": "Περὶ μονοσυλλάβων"
+      },
+      "url_slug": "herodian-of-alexandria-monosyllables-qnq-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodian-of-alexandria/monosyllables",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monosyllables.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monosyllables.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monosyllables.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodian-of-alexandria/monosyllables.json"
+      }
+    },
+    {
+      "eul_wid": "mui-ad",
+      "title": {
+        "english": "On the Foundation of Tarsus",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dionysius-the-thracian-foundation-tarsus-mui-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-the-thracian/foundation-tarsus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-the-thracian/foundation-tarsus.json"
+      }
+    },
+    {
+      "eul_wid": "vmw-ah",
+      "title": {
+        "english": "Scholia-Hymns II and III",
+        "ancient_greek": "Σχόλια εἰς Ὕμνους Β΄ καὶ Γ΄"
+      },
+      "url_slug": "callimachus-scholia-hymns-ii-iii-vmw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hymns-ii-iii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hymns-ii-iii.json"
+      }
+    },
+    {
+      "eul_wid": "dlq-aa",
+      "title": {
+        "english": "Scholia-the Anabasis of Cyrus",
+        "ancient_greek": "Σχόλια εἰς Κύρου Ἀνάβασιν"
+      },
+      "url_slug": "xenophon-commentary-anabasis-dlq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-commentary/anabasis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary/anabasis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary/anabasis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary/anabasis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-commentary/anabasis.json"
+      }
+    },
+    {
+      "eul_wid": "klo-ai",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "aristophanes-of-byzantium-testimonies-klo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-byzantium/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-byzantium/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/orion-of-thebes/anthologion",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/anthologion.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/anthologion.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/anthologion.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/orion-of-thebes/anthologion.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

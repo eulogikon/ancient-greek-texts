@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "mmg-bj",
+  "eul_aid": "mmg",
+  "author_slug": "historical-fragments-anonymous",
+  "work_slug": "nile",
+  "url_slug": "historical-fragments-anonymous-nile-mmg-bj",
+  "author": {
+    "english": "Historical Fragments  Anonymous",
+    "ancient_greek": "Ἀνώνυμος ἱστορικός (ἀποσπάσματα)"
+  },
+  "title": {
+    "english": "On the Nile",
+    "ancient_greek": "Περὶ τοῦ Νείλου"
+  },
+  "seo": {
+    "browser_title": "Ancient On the Nile Fragments of Anonymous on Eulogikon",
+    "meta_title": "Classical On the Nile by Anonymous in Ancient Greek",
+    "meta_description": "Ancient Greek scholars debated the causes of the Nile's annual floods in these historical fragments. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;On the Nile&quot; is a modern editorial title given to a collection of four fragmentary passages concerning the Nile River, categorized within the anonymous corpus known as the &quot;Historical Fragments.&quot; It is not a coherent, original treatise but a scholarly compilation of excerpts likely extracted from one or more lost historical or geographical works. The fragments address standard topics in ancient natural history and ethnography. Based on the conventions of the genre, the passages discuss theories regarding the cause of the Nile&#x27;s annual summer inundation, speculation on the river&#x27;s distant sources, descriptions of its course and notable phenomena such as cataracts, and observations on the customs of the peoples living along its banks. The fragments survive indirectly, having been preserved through quotation in later Byzantine scholarly sources, such as lexica or anthologies. Their compilation under the singular title &quot;On the Nile&quot; is thus a modern construct for organizing these thematically related excerpts. While the direct influence of this specific compilation is untraceable, the theories it preserves represent important contributions to the enduring Western scientific and geographical discourse on the Nile. These fragments remain valuable primary sources for historians seeking to reconstruct the breadth and development of ancient thought on one of the classical world&#x27;s most persistent natural puzzles.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "3c,647,F 1",
+      "text": "COD. LAUR. 56, 1 (s. XIII/XIV) fol. 12: (1) Θαλῆς ὁ Μιλήσιος, εἷς τῶν ζ σοφῶν, φησὶ διὰ τοὺς ἐτησίας γίνεσθαι τὴν ἀναπλήρωσιν· πνεῖν γὰρ αὐτοὺς ἐναντίους τῶι ποταμῶι, καὶ τὰ στόματα κεῖσθαι κατὰ τὴν πνοὴν αὐτῶν· τὸν μὲν οὖν ἄνεμον ἐξ ἐναντίας πνέοντα κωλύειν τὴν ἔκβασιν τοῦ ποταμοῦ ἐκπίπτειν εἰς τὴν θάλασσαν, τὸ δὲ κῦμα προσπῖπτον ἀντίον τοῖς στόμασι καὶ οὔριον ὂν ἀνακόπτειν τὸν ποταμόν, καὶ 〈τὴν〉 ἀναπλήρωσιν οὕτως φησὶ γίνεσθαι τοῦ ποταμοῦ. (2) Ἀναξαγόρας δὲ ὁ φυσικός φησι τῆς χιόνος τηκομένης τὴν ἀναπλήρωσιν τοῦ Νείλου γίνεσθαι· ὡσαύτως δὲ καὶ Εὐριπίδης καὶ ἕτεροί τινες τραγωιδιῶν ποιηταί. ἀλλ’ Ἀναξαγόρας μὲν αὐτὴν τὴν γένεσιν ποίησιν λέγει τῆς ἀναπληρώσεως, ὡς αὐτὸς εἴρηκεν, Εὐριπίδης δὲ καὶ τὸν τόπον ἀφορίζει, λέγων οὕτως ἐν δράματι Ἀρχελάωι (F 228 N 2 ) «Δαναὸς ὁ πεντήκοντα θυγατέρων πατήρ / Νείλου λιπὼν κάλλιστον ἐκ γαίας ὕδωρ, / ὃς ἐκ μελαμβρότοιο πληροῦται ῥοὰς / Αἰθιοπίδος γῆς, ἡνίκ’ ἂν τακῆι χιών / τεθριππεύοντος Ἡλίου κατ’ αἰθέρα»· καὶ ἐν Ἑλένηι (vv. 1 ff.) «Νείλου μὲν αἵδε καλλιπάρθενοι ῥοαί, / ὃς ἀντὶ δίας ψεκάδος Αἰγύπτου πέδον / λευκῆς τακείσης χιόνος ὑγραίνει γύας». καὶ Αἰσχύλος (F 300 N 2 ) «γένος (?) μὲν αἰνεῖν ἐκμαθὼν ἐπίσταμαι / Αἰθιοπίδος γῆς, ἔνθα Νεῖλος ἑπτάρους / γαῖαν κυλίνδων πνευμάτων ἐπομβρίαι, / ἐν ἧι πυρωτὸν †μηνὸς ἐκλάμψαν φλόγα / τήκει πετραίην χιόνα· πᾶσα δ’ εὐθαλὴς / Αἴγυπτος, ἁγνοῦ νάματος πληρουμένη, / φερέσβιον Δήμητρος ἀντέλλει στάχυν». (3) Καλλισθένης δὲ ὁ ἱστοριογράφος (124 F 12) πρὸς τὰ μικρῶι πρότερον εἰρημένα ὑπὸ Ἀναξαγόρου τε καὶ Εὐριπίδου ἀντεῖπεν, αὐτὸς δὲ τῆι ἑαυτοῦ γνώμηι χρώμενός φησιν «ὑδάτων γινομένων κατὰ τὴν Αἰθιοπίαν κατὰ τὴν Κυνὸς ἀνατολὴν ἕως ἐπιτολῆς Ἀρκτούρου, καθ’ οὓς χρόνους καὶ οἱ ἐτησίαι πνέουσιν». τούτους γάρ φησι τοὺς ἀνέμους μάλιστα τὰ νέφη πνέοντας πρὸς τὴν Αἰθιοπίαν ἄγειν, ὧν δὴ καὶ προσπιπτόντων πρὸς τὰ ὄρη καταρρήγνυσθαι πολὺ πλῆθος ὕδατος, ἀφ’ οὗ τὸν Νεῖλον πληρούμενον ἀναβαίνειν συμβαίνει. (4) Δημόκριτος (cf. Vorsokr. 5 68 A 99) δὲ λέγει περὶ μὲν χειμερινὰς τροπὰς τοὺς περὶ τὰς Ἄρκτους χιονίζεσθαι τόπους, περὶ τροπὰς δὲ θερινὰς μεταστάντος τοῦ ἡλίου τηκομένης τῆς χιόνος καὶ ἀτμιζομένης ἀπὸ τῆς τήξεως νέφη γίνεσθαι, ἃ τοὺς ἐτησίας ὑπολαμβάνοντας φέρειν πρὸς μεσημβρίαν· συνωθουμένων δὲ τῶν νεφῶν ἐπὶ τὴν Αἰθιοπίαν καὶ τὴν Λιβύην ὄμβρον γίνεσθαι πολύν, ὃν καταρρέοντα πληροῦν τὸν Νεῖλον. (5) Εὐθυμένης δὲ ὁ Μασσαλιώτης αὐτὸς πεπλευκώς φησιν εἰς τὴν ἔξω θάλασσαν ἐπιρρεῖν ἕως εἰς τὴν Λιβύην ἐστραμμένην τε εἶναι πρὸς Βορέαν τε καὶ Ἄρκτους, καὶ τὸν μὲν ἄλλον χρόνον κενὴν εἶναι τὴν θάλασσαν, τοῖς δὲ ἐτησίαις ἀνωθουμένην ὑπὸ τῶν πνευμάτων πληροῦσθαι καὶ ῥεῖν ἔσω ταῖς ἡμέραις ταύταις, παυσαμένων δὲ τῶν ἐτησίων ἀναχωρεῖν. εἶναι δὲ αὐτὴν καὶ γλυκεῖαν, καὶ κήτη παραπλήσια τοῖς ἐν τῶι Νείλωι κροκοδείλοις καὶ ἱπποποτάμοις ἔχειν. (6) Οἰνοπίδης δὲ ὁ Χῖος (cf. Vorsokr. 5 41 A 11) λέγει τοῦ 〈μὲν〉 χειμῶνος τῶν ποταμῶν ἀναξηραίνεσθαι τὰς πηγάς, ἐν δὲ τῶι θέρει θερμαινομένας ῥεῖν. τοῦ μὲν οὖν ἀναπληροῦσθαι τὴν γινομένην ξηρασίαν τὸ αἴτιον τῶν οὐρανίων ὑδάτων ἐπιγινομένων τοῖς χειμῶσι συμβαίνει, τὸν δὲ Νεῖλον οὐχ ὑόμενον τότε ἐνδεῆ γινόμενον μὴ συναναπληροῦν, καὶ διὰ τοῦτο τοῦ χειμῶνος ἥσσονα αὐτὸν γίνεσθαι, τοῦ δὲ θέρους πλήρη. (7) Ἡρόδοτος (2, 24 ff.) δὲ τοῖς μὲν λοιποῖς ὑπεναντία λέγει, παραπλησίως δὲ Οἰνοπίδηι. τὴν μὲν γὰρ ῥύσιν τοῦ Νείλου φησὶ τοιαύτην ὥστε ἀεὶ πληροῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,647,F 1 (50)",
+      "text": "τὸν ποταμόν, τὸν δὲ ἥλιον τοῦ χειμῶνος κατὰ τὴν Λιβύην ποιούμενον τὴν πορείαν ἀναξηραίνειν τὸν Νεῖλον, ἐπὶ δὲ τὰς θερινὰς τροπὰς μεθιστάμενον πρὸς τὴν Ἄρκτον ἰέναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,647,F 2",
+      "text": "AETIOS Plac. 4, 1 p. 384 ff. Diels: Περὶ Νείλου ἀναβάσεως. (1) Θαλῆς τοὺς ἐτησίας ἀνέμους οἴεται πνέοντας τῆι Αἰγύπτωι ἀντιπροσώπους ἐπαίρειν τοῦ Νείλου τὸν ὄγκον διὰ τὸ τὰς ἐκροὰς αὐτοῦ τῆι παροιδήσει τοῦ ἀντιπαρήκοντος πελάγους ἀνακόπτεσθαι. (2) Εὐθυμένης ὁ Μασσαλιώτης ἐκ τοῦ ὠκεανοῦ καὶ τῆς ἔξω θαλάσσης γλυκείας κατ’ αὐτὸν οὔσης νομίζει πληροῦσθαι τὸν ποταμόν. (3) Ἀναξαγόρας ἐκ τῆς χιόνος τῆς ἐν τῆι Αἰθιοπίαι τηκομένης μὲν τῶι θέρει, ψυχομένης δὲ τῶι χειμῶνι. (4) Δημόκριτος τῆς χιόνος τῆς ἐν τοῖς πρὸς ἄρκτον μέρεσιν ὑπὸ θερινὰς τροπὰς ἀναλυομένης τε καὶ διαχεομένης νέφη μὲν ἐκ τῶν ἀτμῶν πιλοῦσθαι, τούτων δὲ συνελαυνομένων πρὸς μεσημβρίαν καὶ τὴν Αἰθιοπίαν ὑπὸ τῶν ἐτησίων ἀνέμων ἀποτελεῖσθαι ῥαγδαίους ὄμβρους, ὑφ’ ὧν ἀναπίμπλασθαι τάς τε λίμνας καὶ τὸν Νεῖλον ποταμόν. (5) Ἡρόδοτος ὁ συγγραφεὺς ἴσον μὲν ἐκ τῶν πηγῶν φέρεσθαι χειμῶνος καὶ θέρους, φαίνεσθαι δὲ ἐλάττονα τοῦ χειμῶνος διὰ τὸ ἐν τούτωι τῶι καιρῶι πλησίον ἰόντα τὸν ἥλιον τῆς Αἰγύπτου ἐξατμίζειν τὰ νάματα. (6) Ἔφορος ὁ ἱστοριογράφος (70 F 65) κατὰ θέρος φησὶν ἀναχαλᾶσθαι τὴν ὅλην Αἴγυπτον καὶ οἱονεὶ ἐξιδροῦν τὸ πολὺ νᾶμα. συνδίδωσι δ’ αὐτῆι καὶ ἡ Ἀραβία καὶ ἡ Λιβύη παρὰ τὸ ἀραιὸν καὶ ὑπόψαμμον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3c,647,F 3",
+      "text": "SCHOL. APOLL. RHOD. 4, 269/71a: περὶ τῆς τοῦ Νείλου ἀναδόσεως διάφοροι αἰτίαι παρὰ τοῖς παλαιοῖς ἐλέγοντο. (1) Ἀναξαγόρας μὲν γάρ φησι διὰ τῆξιν τῆς χιόνος πληθύειν αὐτόν, ὧι ἕπεται καὶ Εὐριπίδης λέγων. «Νείλου μὲν αἵδε καλλιπάρθενοι ῥοαί / ** / λευκῆς τακείσης χιόνος ὑγραίνει γύην». καὶ Αἰσχύλος δὲ καὶ Σοφοκλῆς ὑπέλαβον τοὺς ὑπὲρ τὴν Αἴγυπτον χιονίζεσθαι τόπους, καὶ τηκομένης τῆς χιόνος τὴν χύσιν εἰς τὸν Νεῖλον ἐκδίδοσθαι. (2) Νικαγόρας (V) δέ φησιν ἀπὸ τῶν ἀντοίκων αὐτὸν ῥεῖν. (3) Δημόκριτος δὲ ὁ φυσικὸς *** ἀπὸ τοῦ κατὰ μεσημβρίαν ὑπερκειμένου πελάγους λαμβάνειν τὸν Νεῖλον τὴν ἐπίχυσιν, ἀπογλυκαίνεσθαι δὲ τὸ ὕδωρ διὰ τὸ διάστημα καὶ τὸ μῆκος τοῦ πόρου καὶ ὑπὸ τοῦ καύματος ἀφεψόμενον· διὸ καὶ ἐναντίαν φησὶν ἔχειν τὴν γεῦσιν. (4) Οἰνοπίδης δὲ ὁ Χῖος, ὅτι χειμῶνος ὢν ὑπὸ γῆν ὁ ἥλιος †ἐκπέμπει τὸ ὕδωρ, τοῦ δὲ θέρους γενόμενος ὑπὲρ γῆν οὐκέτι διὰ τὸ μᾶλλον θερμαίνεσθαι αὐτήν· διὸ κεχαραδρωμένη ἡ γῆ πλεῖον ὕδωρ ἀναδίδωσιν. (5) Ἔφορος δὲ ποταμόχωστον εἶναί φησι τὴν Αἴγυπτον, ῥηγνυμένης δὲ τῆς γῆς ὑπὸ τοῦ ἡλίου τῶι ἔαρι ἀναπηδᾶν τὸ ὕδωρ, καὶ ἐπαύξεσθαι τὸ ῥεῦμα. (6) Θαλῆς δὲ ὁ Μιλήσιός φησιν ὑπὸ τῶν ἐτησίων †συνελαυνόμενα τὰ νέφη κατὰ τὰ ὄρη τῆς Αἰθιοπίας αὐτόθι ῥήγνυσθαι†· ὅταν γὰρ τοῦ ποταμοῦ ἐξεναντίας συστῶσιν αἱ πνοαὶ προσπίπτουσαι τῆι θαλάσσηι, ἐκ τῆς ἀποπεμπομένης πλήσμης τὰς ὑπερχύσεις ἀναδέχεσθαι τὸν Νεῖλον. (7) Διογένης δὲ ὁ Ἀπολλωνιάτης ὑπὸ τοῦ ἡλίου ἁρπάζεσθαι τὸ ὕδωρ τῆς θαλάσσης, ὃ τότε εἰς τὸν Νεῖλον καταφέρεσθαι· οἴεται γὰρ πληροῦσθαι τὸν Νεῖλον ἐν τῶι θέρει διὰ τὸ τὸν ἥλιον εἰς τοῦτον τὰς ἀπὸ γῆς ἰκμάδας τρέπειν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "mmg-ag",
+      "title": {
+        "english": "Annals of the Third Syrian War",
+        "ancient_greek": "Χρονικὰ τοῦ Τρίτου Συριακοῦ Πολέμου"
+      },
+      "url_slug": "historical-fragments-anonymous-third-syrian-war-mmg-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/third-syrian-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/third-syrian-war.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ao",
+      "title": {
+        "english": "Anonymous Corinthian",
+        "ancient_greek": "Ἀνώνυμος Κορίνθιος"
+      },
+      "url_slug": "historical-fragments-anonymous-corinthian-mmg-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/corinthian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/corinthian.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bb",
+      "title": {
+        "english": "Anonymous Exegete",
+        "ancient_greek": "Ἀνώνυμος Ἐξηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-exegete-mmg-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/exegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/exegete.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-az",
+      "title": {
+        "english": "Anonymous Milesian",
+        "ancient_greek": "Ἀνώνυμος Μιλήσιος"
+      },
+      "url_slug": "historical-fragments-anonymous-milesian-mmg-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/milesian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/milesian.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-av",
+      "title": {
+        "english": "Anonymous Periegete",
+        "ancient_greek": "Ἀνώνυμος Περιηγητής"
+      },
+      "url_slug": "historical-fragments-anonymous-periegete-mmg-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/periegete",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/periegete.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-al",
+      "title": {
+        "english": "Anonymous Philosopher",
+        "ancient_greek": "Ἀνώνυμος Φιλόσοφος"
+      },
+      "url_slug": "historical-fragments-anonymous-philosopher-mmg-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/philosopher",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/philosopher.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-aa",
+      "title": {
+        "english": "Anonymous from the Histories of Polybius",
+        "ancient_greek": "Ἀνώνυμος ἐκ τῶν Ἱστοριῶν Πολυβίου"
+      },
+      "url_slug": "historical-fragments-anonymous-polybius-mmg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/polybius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/polybius.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ab",
+      "title": {
+        "english": "Anonymous-the Founding of Hermopolis",
+        "ancient_greek": "Ἀνώνυμος Περὶ τῆς Κτίσεως Ἑρμοπόλεως"
+      },
+      "url_slug": "historical-fragments-anonymous-founding-hermopolis-mmg-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/founding-hermopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/founding-hermopolis.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ap",
+      "title": {
+        "english": "Chronicle of Archons",
+        "ancient_greek": "Χρονικὴ Ἀρχόντων"
+      },
+      "url_slug": "historical-fragments-anonymous-chronicle-mmg-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/chronicle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/chronicle.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-aw",
+      "title": {
+        "english": "Eupatridae Ancestry",
+        "ancient_greek": "Εὐπατριδῶν πάτρια"
+      },
+      "url_slug": "historical-fragments-anonymous-eupatridae-mmg-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/eupatridae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/eupatridae.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bm",
+      "title": {
+        "english": "Handbook",
+        "ancient_greek": "Ἐγχειρίδιον"
+      },
+      "url_slug": "historical-fragments-anonymous-handbook-mmg-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/handbook",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/handbook.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-aq",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἱστορικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "historical-fragments-anonymous-historical-mmg-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/historical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/historical.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jpq-aa",
+      "title": {
+        "english": "Fragments on Ancient Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀρχαίας Γεωγραφίας"
+      },
+      "url_slug": "myrsilus-of-methymna-ancient-geography-jpq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/myrsilus-of-methymna/ancient-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myrsilus-of-methymna/ancient-geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myrsilus-of-methymna/ancient-geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myrsilus-of-methymna/ancient-geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/myrsilus-of-methymna/ancient-geography.json"
+      }
+    },
+    {
+      "eul_wid": "luo-aa",
+      "title": {
+        "english": "Historical Memoirs Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-viii-euergetes-historical-fragments-luo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-viii-euergetes/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-viii-euergetes/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "vig-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "agathias-the-scholastic-histories-vig-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathias-the-scholastic/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/histories.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ao",
+      "title": {
+        "english": "Iberian",
+        "ancient_greek": "Ιβηρική"
+      },
+      "url_slug": "appian-of-alexandria-iberian-pdc-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/iberian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/iberian.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-aq",
+      "title": {
+        "english": "Libyan",
+        "ancient_greek": "Λιβυκή"
+      },
+      "url_slug": "appian-of-alexandria-libyan-pdc-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/libyan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/libyan.json"
+      }
+    },
+    {
+      "eul_wid": "imu-aa",
+      "title": {
+        "english": "On Delphi and Peloponnesian Cities",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "apollas-ponticus-delphi-peloponnesian-imu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollas-ponticus/delphi-peloponnesian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus/delphi-peloponnesian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus/delphi-peloponnesian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus/delphi-peloponnesian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollas-ponticus/delphi-peloponnesian.json"
+      }
+    },
+    {
+      "eul_wid": "kws-aa",
+      "title": {
+        "english": "On the Tyrants of Ephesus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bato-of-sinope-tyrants-ephesus-kws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-of-sinope/tyrants-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.json"
+      }
+    },
+    {
+      "eul_wid": "fyq-aa",
+      "title": {
+        "english": "Pamphylian Histories and Travels",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "demetrius-of-salamis-histories-travels-fyq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-salamis/histories-travels",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-salamis/histories-travels.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/historical-fragments-anonymous/nile",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

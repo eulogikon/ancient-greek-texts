@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bww-cg",
+  "eul_aid": "bww",
+  "author_slug": "hippocrates",
+  "work_slug": "law",
+  "url_slug": "hippocrates-law-bww-cg",
+  "author": {
+    "english": "Hippocrates and the Hippocratic Corpus",
+    "ancient_greek": "Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα"
+  },
+  "title": {
+    "english": "Law",
+    "ancient_greek": "Νόμος"
+  },
+  "seo": {
+    "browser_title": "Law by Hippocrates and the Hippocratic Corpus on Eulogikon",
+    "meta_title": "Law by Hippocrates and the Hippocratic Corpus in Greek",
+    "meta_description": "Law is a short influential treatise from the ancient Hippocratic medical collection. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Law</strong> is a concise treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings attributed to Hippocrates of Cos but composed by various authors. Written in Ionic Greek during the 5th or 4th century BCE, the work consists of six succinct passages that define the nature and ethics of the medical art. It opens with the declaration that medicine is the most distinguished of all arts, yet it laments that ignorance among both patients and those who judge physicians superficially has caused it to fall behind other crafts. The author attributes this decline primarily to the lack of legal penalties for malpractice in cities, where disgrace alone is insufficient to deter the incompetent.</p>\n<p class=\"research-text\">The text draws a sharp distinction between true physicians and mere pretenders, comparing the latter to actors in tragedy who wear the costume and mask but possess no real skill. It then systematically outlines the essential qualities required for genuine medical expertise: natural ability, proper instruction, a suitable place of learning, early training, diligence, and time. Of these, natural aptitude is presented as foundational; without it, all other efforts are in vain. The treatise emphasizes that true medical skill manifests in good and honorable outcomes, contrasting substantive results with superficial appearance. It concludes by linking mastery of the craft to a love of humanity, or philanthropy, suggesting that devotion to medicine is inherently a devotion to people.</p>\n<p class=\"research-text\">Scholars classify <strong>Law</strong> among the deontological works of the Hippocratic Corpus, which focus on professional conduct and ethics. It is considered a pedagogical and declarative text, likely intended to establish rigorous standards for the medical profession and to distinguish legitimate practice from quackery. The work survives in full through medieval manuscripts, most notably the 10th- or 11th-century <strong>Parisinus Graecus 2140</strong>, and has been transmitted consistently as an integral unit. Its ideals, particularly the connection between medical practice and philanthropy, have exerted a profound and enduring influence on the Western medical tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἰητρικὴ τεχνέων μὲν πασέων ἐστὶν ἐπιφανεστάτη· διὰ δὲ ἀμαθίην τῶν τε χρεομένων αὐτῇ, καὶ τῶν εἰκῆ τοὺς τοιούσδε κρινόντων, πολύ τι πασέων ἤδη τῶν τεχνέων ἀπολείπεται. Ἡ δὲ τῶνδε ἁμαρτὰς τὰ μάλιστά μοι δοκέει ἔχειν αἰτίην τοιήνδε· πρόστιμον γὰρ ἰητρικῆς μούνης ἐν τῇσι πόλεσιν οὐδὲν ὥρισται, πλὴν ἀδοξίης· αὕτη δὲ οὐ τιτρώσκει τοὺς ἐξ αὐτέης συγκειμένους. Ὁμοιότατοι γάρ εἰσιν οἱ τοιοίδε τοῖσι παρεισαγομένοισι προσώποισιν ἐν τῇσι τραγῳδίῃσιν· ὡς γὰρ ἐκεῖνοι σχῆμα μὲν καὶ στολὴν καὶ πρόσωπον ὑποκριτοῦ ἔχουσιν, οὐκ εἰσὶ δὲ ὑποκριταὶ, οὕτω καὶ ἰητροὶ, φήμῃ μὲν πολλοὶ, ἔργῳ δὲ πάγχυ βαιοί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Χρὴ γὰρ, ὅστις μέλλει ἰητρικῆς ξύνεσιν ἀτρεκέως ἁρμόζεσθαι, τῶνδέ μιν ἐπήβολον γενέσθαι· φύσιος· διδασκαλίης· τόπου εὐφυέος· παιδομαθίης· φιλοπονίης· χρόνου. Πρῶτον μὲν οὖν πάντων δεῖ φύσιος· φύσιος γὰρ ἀντιπρησσούσης, κενεὰ πάντα· φύσιος δὲ ἐς τὸ ἄριστον ὁδηγεούσης, διδασκαλίη τέχνης γίνεται· ἣν μετὰ φρονήσιος δεῖ περιποιήσασθαι, παιδομαθέα γενόμενον ἐν τόπῳ, ὁκοῖος εὐφυὴς πρὸς μάθησιν ἔσται· ἔτι δὲ φιλοπονίην προσενέγκασθαι ἐς χρόνον πουλὺν, ὅκως ἡ μάθησις, ἐμφυσιωθεῖσα, δεξιῶς τε καὶ εὐαλδέως τοὺς καρποὺς ἐξενέγκηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ὁκοίη γὰρ τῶν ἐν τῇ γῇ φυομένων [ἡ] θεωρίη, τοιήδε καὶ τῆς ἰητρικῆς ἡ μάθησις. Ἡ μὲν γὰρ φύσις ἡμέων, ὁκοῖον ἡ χώρη· τὰ δὲ δόγματα τῶν διδασκόντων, ὁκοῖον τὰ σπέρματα· ἡ δὲ παιδομαθίη, τὸ καθ’ ὥρην αὐτὰ πεσεῖν εἰς τὴν ἄρουραν· ὁ δὲ τόπος ἐν ᾧ ἡ μάθησις, ὁκοῖον ἡ ἐκ τοῦ περιέχοντος ἠέρος τροφὴ γιγνομένη τοῖσι φυομένοισιν· ἡ δὲ φιλοπονίη, ἐργασίη· ὁ δὲ χρόνος ταῦτα ἐνισχύει πάντα, ὡς τραφῆναι τελέως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ταῦτα ὦν χρὴ ἐς τὴν ἰητρικὴν τέχνην ἐσενεγκαμένους, καὶ ἀτρεκέως αὐτέης γνῶσιν λαβόντας, οὕτως ἀνὰ τὰς πόλιας φοιτεῦντας, μὴ λόγῳ μοῦνον, ἀλλὰ καὶ ἔργῳ ἰητροὺς νομίζεσθαι. Ἡ δὲ ἀπειρίη, κακὸς θησαυρὸς καὶ κακὸν κειμήλιον τοῖσιν ἔχουσιν αὐτέην, καὶ ὄναρ καὶ ὕπαρ, εὐθυμίης τε καὶ εὐφροσύνης ἄμοιρος, δειλίης τε καὶ θρασύτητος τιθήνη. Δειλίη μὲν γὰρ ἀδυναμίην σημαίνει· θρασύτης δὲ, ἀτεχνίην. Δύο γὰρ, ἐπιστήμη τε καὶ δόξα, ὧν τὸ μὲν ἐπίστασθαι ποιέει, τὸ δὲ ἀγνοεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Τὰ δὲ ἱερὰ ἐόντα πρήγματα ἱεροῖσιν ἀνθρώποισι δείκνυται· βεβήλοισι δὲ, οὐ θέμις, πρὶν ἢ τελεσθῶσιν ὀργίοισιν ἐπιστήμης.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bww-bq",
+      "title": {
+        "english": "Aphorisms",
+        "ancient_greek": "Ἀφορισμοί"
+      },
+      "url_slug": "hippocrates-aphorisms-bww-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cc",
+      "title": {
+        "english": "Carrier",
+        "ancient_greek": "Φορεύς"
+      },
+      "url_slug": "hippocrates-carrier-bww-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.json"
+      }
+    },
+    {
+      "eul_wid": "bww-aw",
+      "title": {
+        "english": "Coan Prognostics",
+        "ancient_greek": "Κῶα Προγνωστικά"
+      },
+      "url_slug": "hippocrates-coan-prognostics-bww-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/coan-prognostics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bra",
+      "title": {
+        "english": "Epidemics, Book I",
+        "ancient_greek": "Ἐπιδημίων Α"
+      },
+      "url_slug": "hippocrates-epidemics-1-bww-bra",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brb",
+      "title": {
+        "english": "Epidemics, Book II",
+        "ancient_greek": "Ἐπιδημίων Β"
+      },
+      "url_slug": "hippocrates-epidemics-2-bww-brb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brc",
+      "title": {
+        "english": "Epidemics, Book III",
+        "ancient_greek": "Ἐπιδημίων Γ"
+      },
+      "url_slug": "hippocrates-epidemics-3-bww-brc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brd",
+      "title": {
+        "english": "Epidemics, Book IV",
+        "ancient_greek": "Ἐπιδημίων Δ"
+      },
+      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bre",
+      "title": {
+        "english": "Epidemics, Book V",
+        "ancient_greek": "Ἐπιδημίων Ε"
+      },
+      "url_slug": "hippocrates-epidemics-5-bww-bre",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brf",
+      "title": {
+        "english": "Epidemics, Book VI",
+        "ancient_greek": "Ἐπιδημίων Ζ"
+      },
+      "url_slug": "hippocrates-epidemics-6-bww-brf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brg",
+      "title": {
+        "english": "Epidemics, Book VII",
+        "ancient_greek": "Ἐπιδημίων Η"
+      },
+      "url_slug": "hippocrates-epidemics-7-bww-brg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ac",
+      "title": {
+        "english": "Diagnosis of Acute and Chronic Diseases",
+        "ancient_greek": "Διάγνωσις περὶ τῶν ὀξέων καὶ χρονίων νοσημάτων"
+      },
+      "url_slug": "medical-writers-anonymous-acute-chronic-diseases-umi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/acute-chronic-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.json"
+      }
+    },
+    {
+      "eul_wid": "umi-am",
+      "title": {
+        "english": "On Generation and Seed",
+        "ancient_greek": "Περὶ Γενέσεως καὶ Σπέρματος"
+      },
+      "url_slug": "medical-writers-anonymous-generation-seed-umi-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/generation-seed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bt",
+      "title": {
+        "english": "On Sophisms or Verbal Fallacies",
+        "ancient_greek": "Περὶ σοφισμάτων ἢ λογικῶν παγίδων"
+      },
+      "url_slug": "galen-of-pergamon-sophisms-qmm-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sophisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ad",
+      "title": {
+        "english": "On Urine According to the Persians",
+        "ancient_greek": "Περὶ Οὖρων κατὰ Πέρσας"
+      },
+      "url_slug": "medical-writers-anonymous-urine-persians-umi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/urine-persians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-persians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-persians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-persians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urine-persians.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-al",
+      "title": {
+        "english": "On the Diagnosis and Treatment of Any Soul's Sins",
+        "ancient_greek": "Περὶ διαγνώσεως καὶ θεραπείας τῶν ἁμαρτημάτων"
+      },
+      "url_slug": "galen-of-pergamon-diagnosis-treatment-sins-qmm-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diagnosis-treatment-sins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-treatment-sins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-treatment-sins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-treatment-sins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diagnosis-treatment-sins.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ce",
+      "title": {
+        "english": "On the Differences of Pulses",
+        "ancient_greek": "Περὶ τῶν διαφορῶν τῶν σφυγμῶν"
+      },
+      "url_slug": "galen-of-pergamon-pulses-differences-qmm-ce",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/pulses-differences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses-differences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses-differences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses-differences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/pulses-differences.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cm",
+      "title": {
+        "english": "On the Instrument of Smell",
+        "ancient_greek": "Περὶ τοῦ ὀργάνου τῆς ὀσμῆς"
+      },
+      "url_slug": "galen-of-pergamon-instrument-smell-qmm-cm",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/instrument-smell",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/instrument-smell.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/instrument-smell.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/instrument-smell.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/instrument-smell.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippocrates/law",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/law.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

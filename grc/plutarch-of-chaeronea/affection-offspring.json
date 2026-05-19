@@ -1,0 +1,558 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "okg-cg",
+  "eul_aid": "okg",
+  "author_slug": "plutarch-of-chaeronea",
+  "work_slug": "affection-offspring",
+  "url_slug": "plutarch-of-chaeronea-affection-offspring-okg-cg",
+  "author": {
+    "english": "Plutarch of Chaeronea",
+    "ancient_greek": "Πλούταρχος ὁ Χαιρωνεύς"
+  },
+  "title": {
+    "english": "On Affection for Offspring",
+    "ancient_greek": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας"
+  },
+  "seo": {
+    "browser_title": "On Affection for Offspring by Plutarch on Eulogikon",
+    "meta_title": "Ancient On Affection for Offspring by Plutarch in Greek",
+    "meta_description": "Plutarch explores the philosophical foundations of parental affection and its role in human nature and society. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Affection for Offspring</strong> is an ethical essay by the Greek philosopher and biographer Plutarch, composed around 100 CE as part of his extensive collection of moral treatises known as the <strong>Moralia</strong>. The work examines the nature of parental love, or <strong>philostorgia</strong>, through a series of 27 concise reflections rather than a single linear argument, a discursive style characteristic of Plutarch&#x27;s practical philosophy. It opens with an observation on the powerful and instinctive care animals exhibit for their young, using this as a point of departure to explore the distinct quality of human affection. Plutarch contends that while the parental impulse originates in nature, for humans it must transcend mere instinct. He develops a central contrast between the irrational, innate drives of animals and the rational, purposeful capacity of human beings. True parental love, in his view, should be directed consciously toward the moral and intellectual education of children, aiming to cultivate them into virtuous citizens. The essay thus frames the rearing of offspring as a philosophical and civic duty, integrating natural affection with deliberate ethical purpose. Written during the early Roman Empire, the treatise addresses themes of family obligation and paideia that were central to Greco-Roman moral thought, and it is believed to have been intended as practical guidance for Plutarch&#x27;s educated contemporaries and students. The complete text survives through the standard manuscript tradition of the <strong>Moralia</strong>.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΠΕΡΙ ΤΗΣ ΕΙΣ ΤΑ ΕΓΓΟΝΑ ΦΙΛΟΣΤΟΡΓΙΑΣ Ἔκκλητοι κρίσεις καὶ ξενικῶν δικαστηρίων ἀγωγαὶ τοῖς Ἕλλησι τὸ πρῶτον ἀπιστίᾳ τῇ πρὸς ἀλλήλους ἐπενοήθησαν, ἀλλοτρίας δικαιοσύνης ὥσπερ ἑτέρου τινὸς τῶν ἀναγκαίων μὴ φυομένου παρ’ αὐτοῖς δεηθεῖσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "493 B",
+      "text": "ἆρ’ οὖν καὶ οἱ φιλόσοφοι τῶν προβλημάτων ἔνια διὰ τὰς πρὸς ἀλλήλους διαφορὰς ἐπὶ τὴν τῶν ἀλόγων φύσιν ζῴων ὥσπερ ἀλλοδαπὴν πόλιν ἐκκαλοῦνται καὶ τοῖς ἐκείνων πάθεσι καὶ ἤθεσιν ὡς ἀνεντεύκτοις καὶ ἀδεκάστοις ἐφιᾶσι τὴν κρίσιν; ἢ καὶ τοῦτο τῆς ἀνθρωπίνης κακίας ἔγκλημα κοινόν ἐστι, τὸ περὶ τῶν ἀναγκαιοτάτων καὶ μεγίστων ἀμφιδοξοῦντας ἡμᾶς ζητεῖν ἐν ἵπποις καὶ κυσὶ καὶ ὄρνισι, πῶς γαμοῦμεν αὐτοὶ καὶ γεννῶμεν καὶ τεκνοτροφοῦμεν, ὡς μηδὲν ἐν ἑαυτοῖς δήλωμα τῆς φύσεως ὄν, τὰ 〈δὲ〉 τῶν θηρίων ἤθη καὶ πάθη προαγορεῦσαι καὶ καταμαρτυρῆσαι τοῦ βίου ἡμῶν πολλὴν τοῦ κατὰ φύσιν ἐκδιαίτησιν καὶ παράβασιν, εὐθὺς ἐν ἀρχῇ καὶ περὶ τὰ πρῶτα συγχεομένων καὶ ταραττομένων; ἄκρατον γὰρ ἐν ἐκείνοις ἡ φύσις καὶ ἀμιγὲς καὶ ἁπλοῦν φυλάττει τὸ ἴδιον, ἐν δ’ ἀνθρώποις ὑπὸ τοῦ λόγου καὶ τῆς συνηθείας, ὃ τοὔλαιον ὑπὸ τῶν μυρεψῶν πέπονθε, πρὸς πολλὰ μιγνυμένη δόγματα καὶ κρίσεις ἐπιθέτους ποικίλη γέγονε καὶ ἡδεῖα, τὸ δ’ οἰκεῖον οὐ τετήρηκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "493 C",
+      "text": "καὶ μὴ θαυμάζωμεν, εἰ τὰ ἄλογα ζῷα τῶν λογικῶν μᾶλλον ἕπεται τῇ φύσει· καὶ γὰρ τὰ φυτὰ τῶν ζῴων· οἷς οὔτε φαντασίαν οὔθ’ ὁρμὴν ἔδωκε 〈δι’〉 ἑτέρων ὄρεξιν τοῦ κατὰ φύσιν ἀποσαλεύουσαν, ἀλλ’ ὥσπερ ἐν δεσμῷ συνειργμένα μένει καὶ κεκράτηται, μίαν ἀεὶ πορείαν ἣν ἡ φύσις ἄγει πορευόμενα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "493 D",
+      "text": "τοῖς δὲ θηρίοις τὸ μὲν πολύτροπον τοῦ λόγου καὶ περιττὸν καὶ φιλελεύθερον ἄγαν οὐκ ἔστιν, ἀλόγους δ’ ὁρμὰς καὶ ὀρέξεις ἔχοντα καὶ χρώμενα πλάναις καὶ περιδρομαῖς πολλάκις ἀλλ’ οὐ μακρὰν ὡς ἐπ’ ἀγκύρας τῆς φύσεως σαλεύει, † καθάπερ οὖν ὁδὸν ὑφ’ ἡνίᾳ καὶ χαλινῷ βαδίζοντα δείκνυσιν εὐθεῖαν ὁ δεσπότης. 〈ὁ δ’ ἀδέσποτοσ〉 ἐν ἀνθρώπῳ καὶ αὐτοκρατὴς λόγος ἄλλας ἄλλοτε παρεκβάσεις καὶ καινοτομίας ἀνευρίσκων οὐδὲν ἴχνος ἐμφανὲς οὐδ’ ἐναργὲς ἀπολέλοιπε τῆς φύσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "493 E",
+      "text": "Ὅρα περὶ τοὺς γάμους ὅσον ἐστὶν ἐν τοῖς ζῴοις τὸ κατὰ φύσιν. πρῶτον οὐκ ἀναμένει νόμους ἀγαμίου καὶ ὀψιγαμίου, καθάπερ οἱ Λυκούργου πολῖται καὶ Σόλωνος, οὐδ’ ἀτιμίας ἀτέκνων δέδοικεν, οὐδὲ τιμὰς διώκει τριπαιδίας, ὡς Ῥωμαίων πολλοὶ γαμοῦσι καὶ γεννῶσιν, οὐχ ἵνα κληρονόμους ἔχωσιν ἀλλ’ ἵνα κληρονομεῖν δύνωνται. ἔπειτα μίγνυται τῷ θήλει τὸ ἄρρεν οὐχ ἅπαντα χρόνον· ἡδονὴν γὰρ οὐκ ἔχει τέλος ἀλλὰ γέννησιν καὶ τέκνωσιν· διὰ τοῦτ’ ἔτους ὥρᾳ, ἣ πνοάς τε γονίμους ἔχει καὶ πρόσφορον ὀχευομένοις κρᾶσιν, ἦλθεν εἰς τὸ αὐτὸ τῷ ἄρρενι τὸ θῆλυ χειρόηθες καὶ ποθεινόν, ἡδείᾳ μὲν ὀσμῇ χρωτὸς ἰδίῳ δὲ κόσμῳ σώματος ἀγαλλόμενον, δρόσου καὶ βοτάνης ἀνάπλεων καθαρᾶς· αἰσθόμενον δ’ ὅτι κύει καὶ πεπλήρωται, κοσμίως ἄπεισι καὶ προνοεῖ περὶ τὴν κύησιν καὶ σωτηρίαν τοῦ ἀποτεχθέντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494 A",
+      "text": "ἀξίως δ’ οὐκ ἔστιν εἰπεῖν τὰ δρώμενα, πλὴν † ὅτι γίνεται ἕκαστον αὐτῶν ἐν τῷ φιλοστόργῳ ταῖς προνοίαις ταῖς καρτερίαις ταῖς ἐγκρατείαις. ἀλλὰ τὴν 〈μὲν〉 μέλιτταν ἡμεῖς σοφὴν καλοῦμεν καὶ νομίζομεν ‘ξανθὸν μέλι μηδομέναν‘ (Simon. fr. 47 B) κολακεύοντες τὸ ἡδὺ καὶ γαργαλίζον ἡμᾶς τῆς γλυκύτητος, τὴν δὲ τῶν ἄλλων περὶ τὰς λοχείας καὶ τὰς ἀνατροφὰς σοφίαν καὶ τέχνην παρορῶμεν. οἷον εὐθύς, ἡ ἁλκυὼν κύουσα τὴν νεοττιὰν συντίθησι συλλαμβάνουσα τὰς ἀκάνθας τῆς θαλαττίας βελόνης καὶ ταύτας δι’ ἀλλήλων ἐγκαταπλέκουσα καὶ συνείρουσα τὸ μὲν σχῆμα περιαγὲς ὡς ἁλιευτικοῦ κύρτου καὶ πρόμηκες ἀπεργάζεται, τῇ δ’ ἁρμονίᾳ καὶ πυκνότητι συμφράξασα τὰς ἀκάνθας ἀκριβῶς ὑπέθηκε τῷ κλύσματι τοῦ κύματος, ὡς τυπτόμενον ἡσυχῆ καὶ πηγνύμενον τὸ πίλημα τῆς ἐπιφανείας στεγανὸν γένηται· γίγνεται δὲ σιδήρῳ καὶ λίθῳ δυσδιαίρετον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494 B",
+      "text": "ὃ δ’ ἐστὶ θαυμασιώτερον, οὕτω τὸ στόμα τῆς νεοττιᾶς συμμέτρως πεπλάσθαι πρὸς τὸ μέγεθος καὶ τὸ μέτρον τῆς ἁλκυόνος, ὥστε μήτε μεῖζον ἄλλο μήτε μικρότερον ἐνδύεσθαι ζῷον, ὡς δέ φασι, μηδὲ θαλάττης παραδέχεσθαι μηδὲ τὰ ἐλάχιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494 C",
+      "text": "μάλιστα δ’ οἱ γαλεοὶ ζῳογονοῦσι μὲν ἐν ἑαυτοῖς, ἐκβαίνειν δὲ παρέχουσιν ἐκτὸς καὶ νέμεσθαι τοῖς σκυμνίοις, εἶτα πάλιν ἀναλαμβάνουσι καὶ περιπτύσσουσιν ἐγκοιμώμενα τοῖς σπλάγχνοις. ἡ δ’ ἄρκτος, ἀγριώτατον καὶ σκυθρωπότατον θηρίον, ἄμορφα καὶ ἄναρθρα τίκτει, τῇ δὲ γλώττῃ καθάπερ ἐργαλείῳ διατυποῦσα τοὺς ὑμένας οὐ δοκεῖ γεννᾶν μόνον ἀλλὰ καὶ δημιουργεῖν τὸ τέκνον. ὁ δ’ Ὁμηρικὸς λέων (Ρ 134), ‘ᾧ ῥά τε νήπι’ ἄγοντι συναντήσωνται ἐν ὕλῃ ἄνδρες ἐπακτῆρες, ὁ δέ τε σθένεϊ βλεμεαίνει, πᾶν δέ τ’ ἐπισκύνιον κάτω ἕλκεται ὄσσε καλύπτων,‘ ἆρ’ [οὐχ] ὅμοιός ἐστι διανοουμένῳ πρὸς τοὺς κυνηγοὺς σπένδεσθαι περὶ τῶν τέκνων; καθόλου γὰρ ἡ πρὸς τὰ ἔγγονα φιλοστοργία καὶ τὰ δειλὰ τολμηρὰ ποιεῖ καὶ φιλόπονα τὰ ῥᾴθυμα καὶ φειδωλὰ τὰ γαστρίμαργα· [καὶ] ὥσπερ ἡ Ὁμηρικὴ ὄρνις προσφέρουσα τοῖς νεοττοῖς (Ι 324) ‘μάστακ’, ἐπεί κε λάβῃσι, κακῶς δέ τέ οἱ πέλει αὐτῇ·‘ τῷ γὰρ αὑτῆς τρέφει λιμῷ τὰ ἔγγονα, καὶ τὴν τροφὴν τῆς γαστρὸς ἁπτομένην ἀποκρατεῖ καὶ πιέζει τῷ στόματι, μὴ λάθῃ καταπιοῦσα· ‘ὡς δὲ κύων ἀμαλῇσι περὶ σκυλάκεσσι βεβῶσα ἄνδρ’ ἀγνοιήσας’ ὑλάει μέμονέν τε μάχεσθαι‘ (υ 14), τὸν περὶ τῶν τέκνων φόβον ὡς δεύτερον προσλαβοῦσα θυμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494 E",
+      "text": "αἱ δὲ πέρδικες ὅταν διώκωνται μετὰ τῶν τέκνων, ἐκεῖνα μὲν ἐῶσι προπέτεσθαι καὶ φεύγειν, αὑταῖς δὲ μηχανώμεναι προσέχειν τοὺς θηρεύοντας ἐγγὺς κυλινδούμεναι καὶ καταλαμβανόμεναι μικρὸν ὑπεκθέουσιν, εἶτα πάλιν ἵστανται καὶ παρέχουσιν ἐν ἐφικτῷ τῆς ἐλπίδος ἑαυτάς, ἄχρι ἂν οὕτω προκινδυνεύουσαι τῶν νεοττῶν τῆς ἀσφαλείας προαγάγωνται πόρρω τοὺς διώκοντας. τὰς δ’ ἀλεκτορίδας ἐν τοῖς ὄμμασι καθ’ ἡμέραν ἔχομεν ὃν τρόπον τὰ νεόττια περιέπουσι, τοῖς μὲν ἐνδῦναι χαλῶσαι τὰς πτέρυγας, τὰ δ’ ἐπιβαίνοντα τῶν νώτων καὶ προστρέχοντα πανταχόθεν ἀναδεχόμεναι μετὰ τοῦ γεγηθός τι καὶ προσφιλὲς ἐπιφθέγγεσθαι· κύνας δὲ καὶ δράκοντας, ἂν περὶ αὑτῶν φοβηθῶσι, φεύγουσιν, ἂν δὲ περὶ τῶν τέκνων, ἀμύνονται καὶ διαμάχονται παρὰ δύναμιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "494 F",
+      "text": "εἶτα ταῦτ’ οἰόμεθα 〈τὰ〉 πάθη τούτοις ἐνειργάσθαι τὴν φύσιν ἀλεκτορίδων ἐπιγονῆς καὶ κυνῶν καὶ ἄρκτων προνοοῦσαν, ἀλλ’ οὐχ ἡμᾶς δυσωποῦσαν καὶ τιτρώσκουσαν ἐπιλογιζομένους ὅτι ταῦτα παραδείγματα τοῖς ἑπομένοις, τοῖς δ’ ἀναλγήτοις ὀνείδη περίεστι τῆς ἀπαθείας, δι’ ὧν κατηγοροῦσι τῆς ἀνθρωπίνης φύσεως μόνης μὴ προῖκα τὸ στέργειν ἐχούσης μηδ’ ἐπισταμένης φιλεῖν ἄνευ χρείας; θαυμάζεται γὰρ ἐν τοῖς θεάτροις ὁ εἰπών ‘μισθοῦ γὰρ ἄνθρωπον τίς ἀνθρώπων φιλεῖ;‘ (Com.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495 A",
+      "text": "adesp. 218), 〈καίτοι〉 κατ’ Ἐπίκουρον (fr. 527) ὁ πατὴρ τὸν υἱόν, 〈ἡ〉 μήτηρ τὸ τέκνον, οἱ παῖδες τοὺς τεκόντας· ἀλλ’ εἰ λόγου γένοιτο τοῖς θηρίοις σύνεσις καὶ τοῦτό τις εἰς κοινὸν θέατρον συναγαγὼν ἵππους καὶ βόας καὶ κύνας καὶ ὄρνιθας ἀναφθέγξαιτο μεταγράψας, ὡς ‘οὔτε κύνες ἐπὶ μισθῷ σκύλακας φιλοῦσιν οὔθ’ ἵπποι πώλους οὔτ’ ὄρνιθες νεοττοὺς ἀλλὰ προῖκα καὶ φυσικῶς,‘ ἐπιγνωσθήσεται τοῖς ἁπάντων πάθεσιν ὡς εὖ καὶ ἀληθῶς λεγόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495 B",
+      "text": "αἰσχρὸν γάρ, ὦ Ζεῦ, τὰς θηρίων γενέσεις καὶ λοχείας καὶ ὠδῖνας καὶ τεκνοτροφίας φύσιν εἶναι καὶ χάριν, τὰς δ’ ἀνθρώπων δάνεια καὶ μισθοὺς καὶ ἀρραβῶνας ἐπὶ χρείαις διδομένους. Ἀλλ’ οὔτ’ ἀληθὴς ὁ λόγος οὔτ’ ἄξιος ἀκούειν. ἡ γὰρ φύσις ὥσπερ ἐν φυτοῖς ἀγρίοις οἷον οἰνάνθαις ἐρινεοῖς κοτίνοις ἀρχὰς ἀπέπτους καὶ ἀτελεῖς ἡμέρων καρπῶν ἐνέφυσεν, οὕτω τοῖς μὲν ἀλόγοις τὸ πρὸς τὰ ἔγγονα φιλόστοργον ἀτελὲς καὶ οὐ διαρκὲς πρὸς δικαιοσύνην οὐδὲ τῆς χρείας πορρωτέρω προερχόμενον ἔδωκεν, ἄνθρωπον δέ, λογικὸν καὶ πολιτικὸν ζῷον, ἐπὶ δίκην καὶ νόμον εἰσάγουσα καὶ θεῶν τιμὰς καὶ πόλεων ἱδρύσεις καὶ φιλοφροσύνην, γενναῖα καὶ καλὰ καὶ φερέκαρπα τούτων σπέρματα παρέσχε τὴν πρὸς τὰ ἔγγονα χάριν καὶ ἀγάπησιν, ἀκολουθοῦσαν ταῖς πρώταις ἀρχαῖς· αὗται δ’ ἦσαν ἐν ταῖς τῶν σωμάτων κατασκευαῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495 C",
+      "text": "πανταχοῦ μὲν γὰρ ἡ φύσις ἀκριβὴς καὶ φιλότεχνος καὶ ἀνελλιπὴς καὶ ἀπέριττος, ‘οὐδέν‘ ὡς ἔφησεν Ἐρασίστρατος ‘ἔχουσα ῥωπικόν‘, τὰ δὲ περὶ τὴν γένεσιν ἀξίως οὐκ ἔστιν εἰπεῖν οὐδ’ εὐπρεπὲς ἴσως λίαν ἀκριβῶς τῶν ἀπορρήτων ἐμφύεσθαι τοῖς ὀνόμασι καὶ τοῖς ῥήμασιν, ἀλλ’ ἀποκειμένων καὶ κεκρυμμένων ἐπινοεῖν τὴν πρὸς τὸ γεννᾶν καὶ λοχεύεσθαι τῶν μορίων ἐκείνων εὐφυΐαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495 D",
+      "text": "ἀρκεῖ δ’ ἡ τοῦ γάλακτος ἐργασία καὶ οἰκονομία τὴν πρόνοιαν αὐτῆς ἐμφῆναι καὶ ἐπιμέλειαν. τοῦ γὰρ αἵματος ὅσον περίττωμα τῆς χρείας ἐν ταῖς γυναιξὶ δι’ ἀμβλύτητα καὶ μικρότητα τοῦ πνεύματος ἐπιπολάζον ἐμπλανᾶται καὶ βαρύνει, τὸν μὲν ἄλλον χρόνον εἴθισται καὶ μεμελέτηκεν ἐμμήνοις ἡμερῶν περιόδοις ὀχετοὺς καὶ πόρους αὐτῷ τῆς φύσεως ἀναστομούσης ἀποχεόμενον τὸ μὲν ἄλλο σῶμα κουφίζειν καὶ καθαίρειν, τὴν δ’ ὑστέραν οἷον ἀρότῳ καὶ σπόρῳ γῆν [ἐν φυτοῖς] ὀργῶσαν ἐν καιρῷ παρέχειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495 E",
+      "text": "ὅταν δὲ τὴν γονὴν ἀναλάβῃ προσπεσοῦσαν ἡ ὑστέρα καὶ περιστείλῃ ῥιζώσεως γενομένης (‘ὁ γὰρ ὀμφαλὸς πρῶτον ἐν μήτρῃσιν‘ ὥς φησι Δημόκριτος (B 148) ‘ἀγκυρηβόλιον σάλου καὶ πλάνης ἐμφύεται, πεῖσμα καὶ κλῆμα‘ τῷ γεννωμένῳ καρπῷ καὶ μέλλοντι), τοὺς μὲν ἐμμήνους καὶ καθαρσίους ἔκλεισεν ὀχετοὺς ἡ φύσις, τοῦ δ’ αἵματος ἀντιλαμβανομένη φερομένου τροφῇ χρῆται καὶ κατάρδει τὸ βρέφος ἤδη συνιστάμενον καὶ διαπλαττόμενον, ἄχρι οὗ τοὺς προσήκοντας ἀριθμοὺς τῇ ἐντὸς αὐξήσει κυηθὲν ἑτέρας ἀνατροφῆς καὶ χώρας δέηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "495 F",
+      "text": "τότ’ οὖν τὸ αἷμα παντὸς ἐμμελέστερον φυτουργοῦ καὶ ὀχετηγοῦ πρὸς ἑτέραν ἀφ’ ἑτέρας ἐκτρέπουσα καὶ μεταλαμβάνουσα χρείαν ἔχει παρεσκευασμένας οἷον † ἐννέας ἤ τινας κρήνας νάματος ἐπιρρέοντος, οὐκ ἀργῶς οὐδ’ ἀπαθῶς ὑποδεχομένας ἀλλὰ καὶ πνεύματος ἠπίῳ θερμότητι καὶ μαλακῇ θηλύτητι ἐκπέψαι καὶ λεᾶναι καὶ μεταβαλεῖν δυναμένας· τοιαύτην γὰρ ὁ μαστὸς ἔχει ἐντὸς διάθεσιν καὶ κρᾶσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496 A",
+      "text": "ἐκροαὶ δὲ τοῦ γάλακτος οὐκ εἰσὶν οὐδὲ κρουνοὶ μεθιέντες ἀθρόως, εἰς δὲ σάρκα πιδακώδη καὶ πόροις ἀτρέμα λεπτοῖς διηθοῦσαν ἀπολήγων εὐμενὲς τῷ τοῦ νηπίου στόματι καὶ προσφιλὲς ψαῦσαι καὶ περιλαβεῖν ἐνδίδωσι ταμεῖον. ἀλλὰ τούτων γε τῶν τοσούτων ἐπὶ τὴν γένεσιν ἐργαλείων καὶ τοιούτων οἰκονομιῶν καὶ φιλοτιμίας καὶ προνοίας οὐδὲν ἦν ὄφελος, εἰ μὴ τὸ φιλόστοργον ἡ φύσις καὶ κηδεμονικὸν ἐνειργάσατο ταῖς τεκούσαις. ‘οὐ μὲν γάρ τί πού ἐστιν ὀιζυρώτερον ἀνδρός, πάντων ὅσσα τε γαῖαν ἔπι πνείει τε καὶ ἕρπει (Ρ 446)‘— τοῦτ’ οὐ ψεύδεται λέγων ἐπὶ νηπίου καὶ ἀρτιγενοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496 B",
+      "text": "οὐδὲν γάρ ἐστιν οὕτως ἀτελὲς οὐδ’ ἄπορον οὐδὲ γυμνὸν οὐδ’ ἄμορφον οὐδὲ μιαρὸν ὡς ἄνθρωπος ἐν γοναῖς ὁρώμενος· ᾧ μόνῳ σχεδὸν οὐδὲ καθαρὰν ἔδωκεν εἰς φῶς ὁδὸν ἡ φύσις, ἀλλ’ αἵματι πεφυρμένος καὶ λύθρου περίπλεως καὶ φονευομένῳ μᾶλλον ἢ γεννωμένῳ ἐοικὼς οὐδενός ἐστιν ἅψασθαι καὶ ἀνελέσθαι καὶ ἀσπάσασθαι καὶ περιλαβεῖν ἢ τοῦ φύσει φιλοῦντος. διὸ τῶν μὲν ἄλλων ζῴων ὑπὸ τὴν γαστέρα τὰ οὔθατα χαλᾷ [τοὺς μαστοὺς], ταῖς δὲ γυναιξὶν ἄνω γεγόνασιν περὶ τὸ στέρνον ἐν ἐφικτῷ τοῦ φιλῆσαι καὶ περιπτύξαι καὶ κατασπάσασθαι τὸ νήπιον, ὡς τοῦ τεκεῖν καὶ θρέψαι τέλος οὐ χρείαν ἀλλὰ φιλίαν ἔχοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496 C",
+      "text": "Ἐπὶ τοὺς παλαιοὺς ἀνάγαγε τὸν λόγον, ὧν ταῖς μὲν τεκεῖν πρώταις, τοῖς δ’ ἰδεῖν συνέβη τικτόμενον βρέφος· οὔτε νόμος ἦν ἐκείνοις τεκνοτροφεῖν προστάττων οὔτε προσδοκία χάριτος ἢ τροφείων ‘ἐπὶ νέοις δανειζομένων‘ (Plato Legg. 717c). χαλεπὰς δὲ μᾶλλον εἴποιμ’ ἂν εἶναι καὶ μνησικάκους τὰς τεκούσας τοῖς βρέφεσι, κινδύνων τε μεγάλων καὶ πόνων αὐταῖς γινομένων· ‘ὡς δ’ ὅταν ὠδίνουσαν ἔχῃ βέλος ὀξὺ γυναῖκα δριμύ, τό τε προϊᾶσι μογοστόκοι Εἰλείθυιαι, Ἥρης θυγατέρες, πικρὰς ὠδῖνας ἔχουσαι‘ (Λ 269)— ταῦτ’ οὐχ Ὅμηρον αἱ γυναῖκες ἀλλ’ Ὁμηρίδα γράψαι λέγουσι τεκοῦσαν ἢ τίκτουσαν ἔτι καὶ τὸ νύγμα τῆς ἀλγηδόνος ὁμοῦ πικρὸν καὶ ὀξὺ γινόμενον ἐν τοῖς σπλάγχνοις ἔχουσαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496 D",
+      "text": "ἀλλὰ τὸ φύσει φιλόστοργον ἔκαμπτε καὶ ἦγεν· ἔτι θερμὴ καὶ διαλγὴς καὶ κραδαινομένη τοῖς πόνοις οὐχ ὑπερέβη τὸ νήπιον οὐδ’ ἔφυγεν, ἀλλ’ ἐπεστράφη καὶ προσεμειδίασε καὶ ἀνείλετο καὶ ἠσπάσατο, μηδὲν ἡδὺ καρπουμένη μηδὲ χρήσιμον ἀλλ’ ἐπιπόνως καὶ ταλαιπώρως ἀναδεχομένη, τῶν σπαργάνων ‘ἐρειπίοις θάλπουσα καὶ ψήχουσα, καὶ πόνῳ πόνον ἐκ νυκτὸς ἀλλάσσουσα τὸν μεθ’ ἡμέραν‘ (Tr.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496 E",
+      "text": "adesp. 7). τίνων ταῦτα μισθῶν ἢ χρειῶν ἐκείνοις; ἀλλ’ οὐδὲ τοῖς νῦν· αἱ γὰρ ἐλπίδες ἄδηλοι καὶ μακραί. ἀμπελῶν’ ἰσημερίας ἐαρινῆς σκάψας μετοπωρινῆς ἐτρύγησε, πυρὸν ἔσπειρε δυομένης Πλειάδος εἶτ’ ἀνατελλούσης θερίζει, βόες καὶ ἵπποι καὶ ὄρνιθες ἕτοιμα τίκτουσιν ἐπὶ τὰς χρείας· ἀνθρώπου δ’ ἡ μὲν ἐκτροφὴ πολύπονος ἡ δ’ αὔξησις βραδεῖα, τῆς δ’ ἀρετῆς μακρὰν οὔσης προαποθνῄσκουσιν οἱ πλεῖστοι πατέρες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "496 F",
+      "text": "οὐκ ἐπεῖδε τὴν Σαλαμῖνα Νεοκλῆς τὴν Θεμιστοκλέους οὐδὲ τὸν Εὐρυμέδοντα Μιλτιάδης τὸν Κίμωνος, οὐδ’ ἤκουσε Περικλέους Ξάνθιππος δημηγοροῦντος οὐδ’ Ἀρίστων Πλάτωνος φιλοσοφοῦντος, οὐδ’ Εὐριπίδου καὶ Σοφοκλέους νίκας οἱ πατέρες ἔγνωσαν· ψελλιζόντων καὶ συλλαβιζόντων ἠκροῶντο καὶ κώμους καὶ πότους καὶ ἔρωτας αὐτῶν οἷα νέοι πλημμελούντων ἐπεῖδον· ὥστ’ ἐπαινεῖσθαι καὶ μνημονεύεσθαι τοῦ Εὐήνου τοῦτο μόνον, ὡς ἐπέγραψεν ‘ἢ δέος ἢ λύπη παῖς πατρὶ πάντα χρόνον·‘ (PL.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497 A",
+      "text": "II 270). ἀλλ’ ὅμως οὐ παύονται παῖδας τρέφοντες μάλιστα δ’ οἱ παίδων ἥκιστα δεόμενοι. γελοῖον γάρ, εἴ τις οἴεται τοὺς πλουσίους θύειν καὶ χαίρειν γενομένων αὐτοῖς τέκνων, ὅτι τοὺς θρέψοντας ἕξουσι καὶ τοὺς θάψοντας· εἰ μὴ νὴ Δία κληρονόμων ἀπορίᾳ παῖδας τρέφουσιν· οὐ γὰρ ἔστιν εὑρεῖν οὐδ’ ἐπιτυχεῖν τοῦ τἀλλότρια βουλομένου λαμβάνειν. ‘〈οὐ〉 ψάμμος ἢ κόνις ἢ πτερὰ ποικιλοθρόων οἰωνῶν τόσσον ἂν χεύαιτ’ ἀριθμόν‘ (Lyr. adesp. II p. 162 D), ὅσος ἐστὶν ὁ τῶν κληρονομούντων. ‘Δαναὸς ὁ πεντήκοντα θυγατέρων πατήρ‘ (Eur. fr. 228), εἰ δ’ ἄτεκνος ἦν, πλείονας ἂν εἶχε κληρονομοῦντας, καὶ οὐχ ὁμοίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497 B",
+      "text": "οἱ μὲν γὰρ παῖδες χάριν οὐδεμίαν ἔχουσιν οὐδ’ ἕνεκα τούτου θεραπεύουσιν οὐδὲ τιμῶσιν, ὡς ὀφείλημα τὸν κλῆρον ἐκδεχόμενοι· τῶν δ’ ἀλλοτρίων περὶ τὸν ἄτεκνον φωνὰς ἀκούεις ταῖς κωμικαῖς ἐκείναις ὁμοίας, ‘ὦ Δῆμε, λοῦσαι πρῶτον ἐκδικάσας μίαν, ἔνθου ῥόφησον ἔντραγ’ ἔχε τριώβολον‘ (Arist. Eq. 50) τὸ δ’ ὑπὸ τοῦ Εὐριπίδου λεγόμενον (Phoen. 439 sq.), ‘τὰ χρήματ’ ἀνθρώποισιν εὑρίσκειν φίλους δύναμίν τε πλείστην τῶν ἐν ἀνθρώποις ἔχειν,‘ οὐχ ἁπλῶς ἀληθές, ἀλλ’ ἐπὶ τῶν ἀτέκνων· τούτους οἱ πλούσιοι δειπνίζουσιν, οἱ ἡγεμόνες θεραπεύουσιν, οἱ ῥήτορες μόνοις τούτοις προῖκα συνηγοροῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497 C",
+      "text": "‘ἰσχυρόν ἐστι πλούσιος ἀγνοούμενον ἔχων κληρονόμον‘ (Com. adesp. 404). πολλοὺς γοῦν πολυφίλους καὶ πολυτιμήτους ὄντας ἓν παιδίον γενόμενον ἀφίλους καὶ ἀδυνάτους ἐποίησεν. ὅθεν οὐδὲ πρὸς δύναμιν οὐδέν ἐστιν ὠφέλιμον ἀπὸ τῶν τέκνων, ἀλλὰ τῆς φύσεως τὸ πᾶν κράτος οὐχ ἧττον ἐν ἀνθρώποις ἢ θηρίοις. Ἐξαμαυροῦται γὰρ καὶ ταῦτα καὶ πολλὰ τῶν ἄλλων ὑπὸ τῆς κακίας, ὥσπερ λόχμης ἡμέροις σπέρμασι παραβλαστανούσης· ἢ μηδ’ ἑαυτὸν φύσει στέργειν τὸν ἄνθρωπον λέγωμεν, ὅτι πολλοὶ σφάττουσιν ἑαυτοὺς καὶ κατακρημνίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497 D",
+      "text": "ὁ δ’ Οἰδίπους ‘ἤρασς’ ἐπαίρων βλέφαρα· φοίνιαι δ’ ὁμοῦ γλῆναι γένει’ ἔτεγγον‘ (Soph. O. R. 1276), Ἡγησίας 〈δὲ〉 διαλεγόμενος πολλοὺς ἔπεισεν ἀποκαρτερῆσαι τῶν ἀκροωμένων. ‘πολλαὶ μορφαὶ τῶν δαιμονίων‘ (Eur. in fine Alc. al.)· ταῦτα δ’ ἐστὶν ὥσπερ ἐκεῖνα νοσήματα καὶ πάθη ψυχῆς τοῦ κατὰ φύσιν ἐξιστάντα τὸν ἄνθρωπον, ὡς αὐτοὶ καταμαρτυροῦσιν ἑαυτῶν. ἂν γὰρ ὗς τεκοῦσα δελφάκιον ἢ κύων διασπαράξῃ σκυλάκιον, ἀθυμοῦσι καὶ ταράττονται καὶ θεοῖς ἀποτρόπαια θύουσι καὶ τέρας νομίζουσιν, ὡς πᾶσι καὶ παρὰ φύσιν στέργειν τὰ τικτόμενα καὶ τρέφειν οὐκ ἀναιρεῖν προσῆκον. οὐ μὴν ἀλλ’ ὥσπερ ἐν τοῖς μετάλλοις πολλῇ συμπεφυρμένον γῇ καὶ κατακεχωσμένον ὅμως διαστίλβει τὸ χρυσίον, οὕτως ἡ φύσις ἐν αὐτοῖς τοῖς ἡμαρτημένοις ἤθεσι καὶ πάθεσιν ἐκφαίνει τὸ πρὸς τὰ ἔγγονα φιλόστοργον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "497 E",
+      "text": "οἱ μὲν γὰρ πένητες οὐ τρέφουσι τέκνα, φοβούμενοι μὴ χεῖρον ἢ προσήκει τραφέντα δουλοπρεπῆ καὶ ἀπαίδευτα καὶ τῶν καλῶν πάντων ἐνδεᾶ γένηται· τὴν γὰρ πενίαν ἔσχατον ἡγούμενοι κακὸν οὐχ ὑπομένουσι μεταδοῦναι τέκνοις ὥσπερ τινὸς χαλεποῦ καὶ μεγάλου νοσήματος **",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aemilius-paulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dy",
+      "title": {
+        "english": "Alcibiades",
+        "ancient_greek": "Ἀλκιβιάδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-alcibiades-okg-dy",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ct",
+      "title": {
+        "english": "Amatory Narratives",
+        "ancient_greek": "Ἐρωτικαὶ διγηήσεις"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-narratives-okg-ct",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory-narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.json"
+      }
+    },
+    {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/antony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/kings-generals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ff",
+      "title": {
+        "english": "Aratus",
+        "ancient_greek": "Ἄρατος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aratus-okg-ff",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eg",
+      "title": {
+        "english": "Aristides",
+        "ancient_greek": "Ἀριστείδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-aristides-okg-eg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dz",
+      "title": {
+        "english": "Artaxerxes",
+        "ancient_greek": "Ἀρταξέρξης"
+      },
+      "url_slug": "plutarch-of-chaeronea-artaxerxes-okg-dz",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/artaxerxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxc-al",
+      "title": {
+        "english": "Commentary on On Generation and Corruption",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ γενέσεως καὶ φθορᾶς"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-al-uxc-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-al.json"
+      }
+    },
+    {
+      "eul_wid": "dck-aa",
+      "title": {
+        "english": "On Human Nature",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "aresas-of-lucania-human-nature-dck-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aresas-of-lucania/human-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania/human-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania/human-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania/human-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aresas-of-lucania/human-nature.json"
+      }
+    },
+    {
+      "eul_wid": "tbu-aa",
+      "title": {
+        "english": "On the Golden Poem",
+        "ancient_greek": "Περὶ τοῦ Χρυσοῦ Ποιήματος"
+      },
+      "url_slug": "hierocles-of-alexandria-golden-poem-tbu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hierocles-of-alexandria/golden-poem",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria/golden-poem.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria/golden-poem.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria/golden-poem.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-of-alexandria/golden-poem.json"
+      }
+    },
+    {
+      "eul_wid": "cqm-aa",
+      "title": {
+        "english": "On the Harmony of Women",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "perictione-i-mother-of-plato-harmony-women-cqm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/perictione-i-mother-of-plato/harmony-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato/harmony-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato/harmony-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato/harmony-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/perictione-i-mother-of-plato/harmony-women.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-bi",
+      "title": {
+        "english": "Phaedo",
+        "ancient_greek": "Φαίδων"
+      },
+      "url_slug": "plato-phaedo-ffk-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/phaedo",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedo.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedo.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedo.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/phaedo.json"
+      }
+    },
+    {
+      "eul_wid": "hyo-aa",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "cleitarchus-the-historian-text-hyo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleitarchus-the-historian/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleitarchus-the-historian/text.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-aa",
+      "title": {
+        "english": "Surviving Works of Philo (Volume I)",
+        "ancient_greek": "Τὰ σωζόμενα Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-surviving-works-of-philo-of-alexandria-aa-lgi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/surviving-works-of-philo-of-alexandria-aa.json"
+      }
+    },
+    {
+      "eul_wid": "cqw-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "polykleitos-of-argos-testimonies-cqw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polykleitos-of-argos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/affection-offspring",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/affection-offspring.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/affection-offspring.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/affection-offspring.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/affection-offspring.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

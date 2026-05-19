@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lpo-aa",
+  "eul_aid": "lpo",
+  "author_slug": "nicias-of-nicaea",
+  "work_slug": "arcadian-beauty-contest",
+  "url_slug": "nicias-of-nicaea-arcadian-beauty-contest-lpo-aa",
+  "author": {
+    "english": "Nicias of Nicaea",
+    "ancient_greek": "Νικίας ὁ Νικαεύς"
+  },
+  "title": {
+    "english": "On the Arcadian Beauty Contest",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On Arcadian Beauty Contest by Nicias of Nicaea on Eulogikon",
+    "meta_title": "On the Arcadian Beauty Contest by Nicias of Nicaea in Greek",
+    "meta_description": "A historical fragment by Nicias of Nicaea on an Arcadian beauty contest from Imperial Rome. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work <strong>On the Arcadian Beauty Contest</strong> by the grammarian Nicias of Nicaea is preserved solely as a fragment quoted by Athenaeus in his <strong>Deipnosophistae</strong>. This prose excerpt from a larger local history records an otherwise unattested ritual: an Arcadian male beauty contest held in honor of Demeter and Persephone. Athenaeus cites two passages from Nicias. The first describes the contest itself, noting that the victor received weapons as a prize and led the procession for the goddesses. The second provides an aetiological myth, explaining that during the Messenian War, a handsome youth named Dromeus was the first to arm himself and rush to battle; his remarkable beauty and zeal inspired the other soldiers to follow, securing a victory that was later commemorated by the institution of the contest. The work survives exclusively through its quotation in Book 13 of Athenaeus’s <strong>Deipnosophistae</strong>, a text from the late second or early third century CE. As a unique record of a local cult practice, the fragment is valuable for studies of Greek athletics, gender, and regional religion, illustrating the antiquarian interests of the Imperial period and the thematic link between physical beauty and martial virtue in Greek thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "ΑΡΚΑΔΙΚΑ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1.(t)",
+      "text": "Athenaeus XIII: Οἶδα δὲ καὶ περὶ κάλλους γυναικῶν ἀγῶνά ποτε διατεθέντα· περὶ οὗ ἱστορῶν Νικίας ἐν τοῖς Ἀρκαδικοῖς διαθεῖναί φησιν αὐτὸν Κύψελον, πόλιν κτίσαντα ἐν τῷ πεδίῳ περὶ τὸν Ἀλφειόν· εἰς ἣν κατοικίσαντα Παρρασίων τινὰς, τέμενος καὶ βωμὸν ἀναστῆσαι Δήμητρι Ἐλευσινίᾳ, ἧς ἐν τῇ ἑορτῇ καὶ τὸν τοῦ κάλλους ἀγῶνα ἐπιτελέσαι· καὶ νικῆσαι πρῶτον αὐτοῦ τὴν γυναῖκα Ἡροδίκην. Ἐπιτελεῖται δὲ καὶ μέχρι νῦν ὁ ἀγὼν οὗτος· καὶ αἱ ἀγωνιζόμεναι γυναῖκες χρυ σοφόροι ὀνομάζονται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "guo-aa",
+      "title": {
+        "english": "Boeotian Histories and Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-boeotia-histories-legends-guo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/histories-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.json"
+      }
+    },
+    {
+      "eul_wid": "vae-ab",
+      "title": {
+        "english": "Chronography, Selections",
+        "ancient_greek": "Χρονογραφία"
+      },
+      "url_slug": "john-malalas-of-antioch-chronography-ab-vae-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ab.json"
+      }
+    },
+    {
+      "eul_wid": "guo-ab",
+      "title": {
+        "english": "Fragments on Boeotian Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βοιωτῶν Ἡρώων"
+      },
+      "url_slug": "aristophanes-of-boeotia-fragments-heroes-guo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/fragments-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/fragments-heroes.json"
+      }
+    },
+    {
+      "eul_wid": "epq-aa",
+      "title": {
+        "english": "Fragments on Cyzicus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κυζίκου"
+      },
+      "url_slug": "deiochus-the-historian-cyzicus-fragments-epq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/deiochus-the-historian/cyzicus-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/deiochus-the-historian/cyzicus-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jjc-aa",
+      "title": {
+        "english": "Fragments on Italy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἰταλίας"
+      },
+      "url_slug": "pythocles-italy-fragments-jjc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pythocles/italy-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles/italy-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles/italy-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles/italy-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pythocles/italy-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "csk-aa",
+      "title": {
+        "english": "Lydian History and Origins",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xanthus-the-lydian-history-origins-csk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xanthus-the-lydian/history-origins",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xanthus-the-lydian/history-origins.json"
+      }
+    },
+    {
+      "eul_wid": "aim-aa",
+      "title": {
+        "english": "Peloponnesian Histories Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pyrander-the-historian-peloponnesian-histories-aim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pyrander-the-historian/peloponnesian-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pyrander-the-historian/peloponnesian-histories.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ac",
+      "title": {
+        "english": "Roman Histories, Constantinian Excerpts with Dion's Words",
+        "ancient_greek": "Ἱστορίαι Ῥωμαϊκαί"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-histories-ac-rhq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-histories-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-histories-ac.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicias-of-nicaea/arcadian-beauty-contest",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicias-of-nicaea/arcadian-beauty-contest.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

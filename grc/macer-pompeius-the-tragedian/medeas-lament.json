@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nkw-aa",
+  "eul_aid": "nkw",
+  "author_slug": "macer-pompeius-the-tragedian",
+  "work_slug": "medeas-lament",
+  "url_slug": "macer-pompeius-the-tragedian-medeas-lament-nkw-aa",
+  "author": {
+    "english": "Macer Pompeius the Tragedian",
+    "ancient_greek": "Μάκερ Πομπήιος ὁ τραγικός"
+  },
+  "title": {
+    "english": "Medea's Lament to Her Children",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Medea's Lament to Her Children by Macer Pompeius Eulogikon",
+    "meta_title": "Classical Medea's Lament to Her Children in Ancient Greek",
+    "meta_description": "A dramatic fragment from Macer Pompeius Tragedian Medea's lament to her children. This verse excerpt preserves a poignant moment from lost Roman tragedy."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">&quot;Medea&#x27;s Lament to Her Children&quot; is a fragmentary tragic work attributed to Macer Pompeius, a Roman-era author of uncertain identity, with potential confusion arising from other historical figures bearing similar names. Preserved exclusively within the 5th-century anthology compiled by Stobaeus, the text consists of several excerpts that present a monologue in which Medea addresses her children. The lament powerfully engages the central conflict of the Medea myth, portraying the heroine&#x27;s profound anguish as she is torn between overwhelming maternal love and a vengeful wrath ignited by Jason&#x27;s betrayal. Characterized by its intense rhetorical pathos, the speech is crafted to evoke deep pity and emotional turmoil. As no complete play by this author survives in manuscript tradition, the fragment stands as a notable example of Roman imperial engagement with Greek tragic archetypes. Its preservation offers a valuable point of reference for understanding the continued reception and variation of the Medea narrative in later antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_μηδεια]〈ΜΗΔΕΙΑ·〉 δεῦτ’ ὦ τέκν’, ὦ στερχθένθ’ ὅσον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πλεῖστον θέμις, ὦ πολλὰ τέρψαντ’ οὐδὲ λυπήσαντά τι μητέρα, τί προσλάζεσθε κἀξαρτᾶσθέ μου; βούλεσθ’ ἀθύρειν; παίζετ’ ὦ νέαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "φρένες·[ln_5]ὡς ἔστιν ἡμῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοῦτ’ ἔαρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παντὸς βίου, ἥβῃ δὲ λῦπαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "φροντίδες θ’ ἡβῶς’ ὁμοῦ",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cbm-aq",
+      "title": {
+        "english": "Alcestis",
+        "ancient_greek": "Ἄλκηστις"
+      },
+      "url_slug": "euripides-alcestis-cbm-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/alcestis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/alcestis.json"
+      }
+    },
+    {
+      "eul_wid": "heo-aa",
+      "title": {
+        "english": "Fragments on Theban and Trojan Myths",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θηβαϊκῶν καὶ Τρωϊκῶν Μύθων"
+      },
+      "url_slug": "sosiphanes-of-syracuse-theban-trojan-myths-heo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sosiphanes-of-syracuse/theban-trojan-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse/theban-trojan-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse/theban-trojan-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse/theban-trojan-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sosiphanes-of-syracuse/theban-trojan-myths.json"
+      }
+    },
+    {
+      "eul_wid": "dru-aa",
+      "title": {
+        "english": "Mime Fragments of Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "sophron-of-syracuse-mime-daily-life-dru-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophron-of-syracuse/mime-daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophron-of-syracuse/mime-daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "mjo-aa",
+      "title": {
+        "english": "On the Nature of Evil",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "isidorus-the-tragedian-nature-of-evil-mjo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isidorus-the-tragedian/nature-of-evil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-af",
+      "title": {
+        "english": "Phoenician Women",
+        "ancient_greek": "Φοίνισσαι"
+      },
+      "url_slug": "euripides-phoenician-women-cbm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phoenician-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phoenician-women.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-az",
+      "title": {
+        "english": "Phrixus",
+        "ancient_greek": "Φρίξος"
+      },
+      "url_slug": "euripides-phrixus-cbm-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/phrixus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/phrixus.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ai",
+      "title": {
+        "english": "Trackers",
+        "ancient_greek": "Ἰχνευταί"
+      },
+      "url_slug": "sophocles-ichneutae-buo-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/ichneutae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/ichneutae.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ab",
+      "title": {
+        "english": "Women of Trachis",
+        "ancient_greek": "Τραχίνιαι"
+      },
+      "url_slug": "sophocles-women-of-trachis-buo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/women-of-trachis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/women-of-trachis.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/macer-pompeius-the-tragedian/medeas-lament",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian/medeas-lament.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian/medeas-lament.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian/medeas-lament.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/macer-pompeius-the-tragedian/medeas-lament.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oyw-ad",
+  "eul_aid": "oyw",
+  "author_slug": "pseudo-hippocrates",
+  "work_slug": "interpretative-stones",
+  "url_slug": "pseudo-hippocrates-interpretative-stones-oyw-ad",
+  "author": {
+    "english": "Pseudo-Hippocrates",
+    "ancient_greek": "Ψευδο-Ἱπποκράτης"
+  },
+  "title": {
+    "english": "InterpretatiActive Stones",
+    "ancient_greek": "Ἑρμηνεία περὶ ἐνεργῶν λίθων"
+  },
+  "seo": {
+    "browser_title": "Interpretation Active Stones by Pseudo-Hippocrates Eulogikon",
+    "meta_title": "Interpretation Active Stones by Pseudo-Hippocrates in Greek",
+    "meta_description": "This treatise explores the therapeutic and magical properties of stones in ancient medical practice. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Interpretation of Active Stones</strong> is a pseudepigraphical lapidary attributed to Hippocrates and included within the broader Hippocratic Corpus. This short treatise, consisting of thirty-one passages, systematically catalogs various stones believed to possess inherent therapeutic and magical powers. Each entry describes a stone&#x27;s physical characteristics, such as its color, and details its purported applications. These uses range from treating specific medical conditions like hemorrhages, eye ailments, or scorpion stings to providing magical protection in warfare, legal disputes, or against general misfortune. The descriptions often blend empirical observation with principles of sympathetic magic, where a stone&#x27;s perceived efficacy is linked to its visual or symbolic resemblance to a bodily substance or the nature of an ailment.</p>\n<p class=\"research-text\">The text survives as part of the Greek manuscript tradition of the Hippocratic Corpus, transmitted alongside the major genuine works while being consistently treated as a minor and spurious addition. Its significance lies in illustrating the considerable diversity within the Hippocratic Corpus and the common ancient practice of pseudepigraphy in technical literature. The treatise provides valuable evidence for the mineral-based branch of ancient <strong>materia medica</strong>, demonstrating how magico-medical and talismanic beliefs coexisted with the more rationalist therapeutic traditions typically associated with Hippocratic medicine.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΕΡΜΗΝΕΙΑ ΠΕΡΙ ΕΝΕΡΓΩΝ ΛΙΘΩΝ. ΙΠΠΟΚΡΑΤΟΥΣ. Λίθος ὁ κουράλιο ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Μετ’ οἴνου πινόμενος ἑρπετοδήκτοις βοηθεῖ. Ὁ βαστάζων αὐτὸν ἐν πολέμῳ ἀβλαβὴς μένει· καὶ φυλακτήριόν ἐστιν παντὸς κακοῦ, κινδύνου, πολέμου, θαλάττης, μαγιῶν. Σπλῆνα τήκει, φάρμακα φυλάττει, καὶ σάρκας ἀναπληροῖ, καὶ πᾶσίν ἐστιν ἠγαπημένος ὁ βαστάζων αὐτόν. Λίθος ὁ ἀχάτη ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Οὗτος δὲ λίαν ἐρυθρὸς τοῖς σκορπιοπλήκτοις ὠφελιμώτατος ἦν, καὶ τοὺς ψυχορραγοῦντας ἐπιτιθέμενος ὠφελεῖ. Φασίν τινες ὅτι ἐρωτικὸς ἦν, τίθησιν ἐπιθυμητὰς ἄνδρας τε καὶ γυναῖκας περιαπτόμενος. Θέλγει μὲν τὴν καρδίαν καὶ τῶν αἰτήσεων μὴ ἀποτυγχάνειν ποιεῖ· καὶ πρὸς πᾶσαν νόσον ἁπλῶς εὑρίσκεται χρήσιμος. Λίθος αἱματίτη ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ὅπη ἂν προστριβεὶς αἷμα ἐργάζεται. Οὗτος μετὰ μέλιτος ἢ γάλακτος λειωθεὶς ὀφθαλμικὰς ὀδύνας ἰᾶται· ἐν χειρὶ κρατούμενος ἢ φορούμενος ἐν δικαστηρίοις νίκην ἐργάζεται, καὶ χαρίεντα ποιεῖ τὸν βαστάζοντα. Καὶ μεθ’ ὕδατος πινόμενος ἰοβόλων ὠφελεῖ δήγματα. Σαφείρ ι .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4*",
+      "text": "Ἔναι δυὸ λογίαις, εἶναι πλάβα, καὶ ἀπὸ κεῖνα ὅπου σούρνου εἰς τὸ ἄσπρον· εἶναι χρεία νὰ εἶναι καθάριος, καὶ ἔναι λαμπρὰ κλόρου· καὶ νὰ ἐγνωρίσῃς ἂν ἔναι φίνα, καὶ ἔχει τὴν αὐτὴν βερτοῦδα, καὶ ὑγιαίνει ὅλα τὰ πρήσματα· καὶ ἔναι εἰς τὸν αἱματόπονον, νὰ τὴν βαστάζῃ ὁ καθεεὶς ἄνθρωπος καὶ παίρνει ὅλων τὸ κλόρε· καὶ ἔναι καλὸν εἰς ὅλες ταῖς ἀρρωστίαις τοῦ ἀνθρώπου. Ῥουμπ ῆ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5*",
+      "text": "Ἔναι κόκκινον ὡσὰν νηστία, καὶ φέγγει εἰς τὰ σκοτεινὰ καὶ δέ το ὡσὰν τὸ σαφείρι, καὶ ἔχει τὴν σεβερδες (sic) ἀπ’ ὅλες ταῖς πέτραις· ἔναι ἡ καλιότερα καὶ ἀφεντεύει ὅλες ταὶς πέτραις, ὡς ἂν ὁ Χριστὸς τὰ πάντα ὅλα. Μπαλάσιο ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6*",
+      "text": "Ἔχει κλόρε ὡς ἂν τὸ κουκκὶν τοῦ ῥοδίου· ὄχι πολλὰ κόκκινον, οὐδὲ πολὺ ἄσπρη· ἀμὴ ἔναι καθάρια καὶ φωτεινή, καὶ φαίνεται ὡς ἂν τὸ σαφείρι; καὶ ἔχει τὴν αὐτὴν βερτοῦδαν εἰς τὸν δρωπικά, ὅπου ἔχει περίσσιον αἷμα, καὶ εἰς τὸν πόνον καὶ ἱλαρόνει πολλὰ τὸ πρόσωπον τοῦ ἀνθρώπου ὅπου τὸ βαστάζει. Σμελάτρο ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7*",
+      "text": "Ἔναι πέτρα πράσινη καὶ οὐδὲν ἔναι κανέναν πρᾶγμαν πράσινον· καὶ ἂν ἔν’ καὶ τὴν λίμα τὴν τζακίσῃς, οἱ λιμαδούρες ὅπου θέλουσιν εὐγῆ, ἂν εἶναι καλὰ πράσινες, ἔναι καλὰ φίνα· ἂν ἔν’ καὶ ἔναι εὑρεσιμία, ἢ χαριστικὴ, ἀξιάζει (?) καλιότερα· καὶ ἔχει τινὰ βερτοῦδε· ὁποῦ τὴν βαστάζει ἀπάνου του μεγιοράρει ὅλα του τὰ πράγματα· καὶ ἂν ἔναι ταχὺ ἔχει μέσα του τελέντο καὶ τὴν ἡμέραν ἐκείνην μέσα του καλόν· καὶ ἀπὸ κακὰ γεύματα· καὶ ἂν ἔναι καὶ κανέναν παιδὶν μικρὸν ἢ μεγάλον τὴν βαστᾷ εἰς τὸν σφόντυλάν του οὐδὲν φοβᾶται δαιμονικόν. Τοπάτζ ο .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8*",
+      "text": "Ἔναι πέτρα κιτρίνη εἰς τὸ κλόριν τοῦ ἀλεφαντίνου, ἔλλαμπρη, εἰς δὲ τὴν θεωρίαν ὡσὰν τὸ σαφείρι, καὶ ἔχει τὴν αὐτὴν χάριν. Ἔναι εἰς τοὺς ἀνθρώπους καλόν, ὅπου θέλου νὰ κρατοῦν· καὶ ἂν θέλῃς νὰ τὴν προβαρήσῃς ἂν ἔναι φίνα εἰς τὴν βερτούδα, βάλε τὴν εἰς ἕναν χάρκωμαν ὅπου νὰ βράζῃ, καὶ εἰς μίαν θέλει ἀποβράσῃ τὸ νερόν, καὶ ὥστ’ ὅπου νὰ ἔναι ἡ πέτρα μέσα, οὐδὲν πόρῃ πλέον νὰ βράσῃ τὸ χάρκωμα, οἷον τὸ νερὸν ὅσι στίαν καὶ ἀβάλῃς. Γρανάτο ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9*",
+      "text": "Ἔνε κόκκινη καὶ καθάρια, καὶ ἔχει ἔλλαμπρον κλόρε, καὶ δέ την εἰς τὸ λίμα, ὡσὰν τὸ σαφείρι· καὶ ἔναι καλὸν διότι κάμνει καθάριον πρόσωπον ἐκείνους ὅπου τὴν θεωροῦν. Καὶ ὅπου ἀρχίζει νὰ κάμνῃ σπίτιν νὰ τὴν βαστάζῃ ἀπάνω του θέλει κάμνῃ σπίτιν καλόν. Διασέτην α .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10*",
+      "text": "Ἔναι κόκκινη καὶ σκούρα, εἰς τὸ κλόρε ὡσὰν τὸ ζαφείριν· ὅπου τὴν βαστᾷ ἀπάνω του δίδει τοῦ κορμίου του καλόν, καὶ παίρνει ὅλους τοὺς πόνους. Διαμάντι ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11*",
+      "text": "Ἔχει κλόρε τοῦ σιδέρου, καὶ ἔναι καθαρὴ καὶ φωτεινή, καὶ εἰς τὸ κλόρε ὁλωνῶν τῶν καθαρῶν, ἔναι τὸ καλιότερο διαμάντιν, καὶ ἐνσκαράδον καὶ ποντάρισε ἕνα σίδερον, οὐδὲ το τζακίζει. Ἂν θέλῃς νὰ τὸ προβαρίσῃς, δὸς τὸ ἀπάνω εἰς τὸ σίδερον, ἂν ἔναι καλὰ φίνα, καὶ ἔχει τὴν αὐτὴν χάριν. Ἔναι καλὴ εἰς τὰς γυναῖκας τὰς ἐγγαστρωμένας· νὰ τὴν βαστάζῃ οὐδὲν ἀποφαίνεται καὶ ἐφελᾷ καὶ εἰς ὅλους τοὺς ἀνθρώπους. Ὅπου νὰ τὴν βαστᾷ εἰς πόλεμον, οὐδὲ τὸ ἄλογον πέφτει· μᾶλλον γίνεται γοργότερον· μᾶλλον γοργότερα νὰ τζακίσῃ κομμάτια. Τουρκέζον οὐδὲ ἄσπρη οὐδὲ πράσινη· ἔναι εἰς κλόρε τζελεστρίνα, καὶ ἔναι σπέσα, καὶ οὐδὲν λάμπει, καὶ δὲν το ὡσὰν τὸ σαφείριν· μὲ τὸ λίμα ἔναι καλὸν εἰς ὅλους ὅπου καβαλλικεύουν (= ἱππεύουσιν)· καὶ δὲν ἐμποροῦν νὰ πέσουν, οὐδὲ τὸ ἄλογον κάμνει ἀδέξιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12*",
+      "text": "Καὶ ὁ ἄνθρωπος ὅπου τὴν βαστάζει οὐδὲν φοβεῖται νὰ πάθῃ εἰς νερόν. Πατάστ α .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13*",
+      "text": "Ἔναι εἰς τὸ κλόρε τῆς βιόλας, ὅπου τὴν λέγουν φράγκικα βιόλα τζότα· ἔναι καθαρὰ καὶ ἔλλαμπρη ὡσὰν τὸ σαφείριν· καὶ ἔχει τίτοιαν βερτοῦδε· ὅπου τὴν βαστάζει ἀπάνου του οὐδὲν μεθύει ποτέ. Καντζεοτον ή .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14*",
+      "text": "Ἔναι πέτρα ἀβεγάδη εἰς πολὺ κλόρε, καὶ πολλὲς κοντετζιόνες, καὶ δέ το εἰς τὸ λίμα, ὡσὰν τὸ σαφεριν· καὶ ἔχει τοῖαν βερτοῦδεν· καὶ χαρίζει πλουσιότητες, καὶ πληθύνει τὰ καλά, καὶ δίδει μεγάλην καλοθέλιαν ἀπὸ ὅλους τοὺς ἀνθρώπους· καὶ θεωρεῖ ἀληθινὰ ὄνειρα ὅπου τὴν βαστάζει. Ἡ κιοτεγάτρ α .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15*",
+      "text": "Ἔναι πλέα ἄσπρον παρὰ πράσινον καὶ λάμπει καὶ δέ το εἰς τὸ λίμαν, ὡσὰν τὸ σαφείρι· καὶ ἔναι καλὸν εἰς τὴν ἐγγαστρωμένην, ὁδιατὶ βαστόντ〈ας το〉, οὐδὲν γεννᾶται τὸ παιδίν, ἕως οὗ νὰ ἔλθῃ ὁ καιρός του, ἤγουν τῶν θʹ μηνῶν. Λίθος νευρίτης κατ’ ἀλλήλων ὀνομάτων διδόμενος ἐν ποτῷ ἐπιθυμίας ἐπιτελεῖ, καὶ πρὸς μαντείας συμβάλλεται, καὶ εἰς δήγματα ἑρπετῶν τιθέμενος ὠφελεῖ· ὅμοιός ἐστιν χλοερῷ πράσῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17",
+      "text": "Λίθος ὁ χαλαζίτης φορούμενος τὰ μέλλοντα φανεροῖ τῷ βαστάζοντι, καὶ πυρετοὺς παύει, καὶ δήγματα βοηθεῖ. Λίθος ὁ σμάραγδος βασταζόμενος ἐνεργεῖ πᾶσαν χάριν καὶ ἐπιτυχίαν, καὶ εἰ μὲν δοῦλος ὢν βαστάζων ἐλευθεροῦται· εἰ δ’ ἄλλως, πολλῶν ἀγαθῶν κληρονόμος γενήσεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Λίθος ὑάκινθος ἐνεργείας ἔχει ὡς τοῦ σμαράγδου, ἀλλὰ καὶ ἔτι πλέον, ἀπὸ κλύδωνος θαλάσσης καὶ ἀφνιδίου κινδύνου ῥύεται τὸν βαστάζοντα. Λίθος ὁ σπάνιος βασταζόμενος πολλὰ ἀγαθὰ ἐπιφέρει τῷ φοροῦντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Λίθος ὁ χαλκηδόνιος φορούμενος κυριεύει πάντων ἐχθρῶν. Ὁ φορῶν τιθέμενος ἔν τινι ἱματίῳ τὴν ἐπικειμένην ὕλην συλλέγει, καὶ ἐν γυναικείῳ ἀκίνδυνος μένει. Λίθος ὁ βαβυλώνιο ς, ὁ καὶ σαρδόνυ ξ, φορούμενος ἐν μεγάλαις δόξαις τιμᾶσθαι ποιεῖ τὸν φοροῦντα· εἰ δὲ ἐν τραύματι ἐπιτιθῇ, τάχιστα ἰᾶται αὐτό.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Λίθος τοπάζιον ὅμοιός ἐστιν κρυστάλλῳ· φορούμενος δὲ πολλὴν ἀγάπην ποιεῖ ὑπὸ πάντων ἔχειν τὸν φοροῦντα, καὶ πολλῶν ἀγαθῶν κύριον, καὶ ἀκίνδυνος ἀπὸ παντὸς πονηροῦ μένει. Λειούμενος καὶ πινόμενος ὀξὺν τὸν νοῦν ἐμποιεῖ, καὶ εὐμαθῆ καὶ ῥητορικώτατον ἐν λόγοις. Καὶ πινόμενος πάλιν τοὺς μαινομένους καὶ μαινιῶντας σώφρονας καὶ πραεῖς ἐργάζεται. Λίθος ὀνυχίτης μέλας μὲν ἔξωθεν, ἔσωθεν δὲ λευκός· φορούμενος δὲ εὐεξίαν καὶ εὐτεκνίαν ποιεῖ τοῦ φοροῦντος καὶ ἐνδοξοτάτην εὐημερίαν προξενεῖ, καὶ οὐκ ἐᾷ βλαβῆναι τὸν φοροῦντα αὐτὸν ἔν τινι πάθει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Λίθος ὁ περιλεύκιος πινόμενος καὶ φορούμενος ἔνδοξον βίον ποιεῖ, καὶ πολλῶν πραγμάτων καὶ χρημάτων κύριος ὑπάρχει. Λίθος σάμιος πινόμενος στόμαχον ὠφελεῖ, καὶ ὀφθαλμῶν ῥεύματα [τὰ] ἵστησιν σὺν γάλακτι· κρατούμενος δὲ ὠκυτόκιος γίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27",
+      "text": "Λίθος κρύσταλλος τοὺς νεφραλγοῦντας περιδεθεὶς ἰᾶται. Λίθος γαλακτίτη ς, ὁ καὶ ἀνακτίτης καὶ ἄνθεος λέγεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28",
+      "text": "Οὗτος φορούμενος καὶ ὁμιλῶν τοῖς ἐχθροῖς λήθην λαμβάνοντες τῶν κακῶν καὶ φίλοι ἀποκαθίστανται. Τριβόμενος καὶ ῥαινόμενος ἐν ποιμνίῳ πολὺ γάλα ἐργάζεται, καὶ γυναιξὶν ὁμοίως. Πάλιν ὁ βαστάζων αὐτὸν καὶ βασιλεῖς αἰδοῦνται καὶ δικασταὶ καὶ δῆμοι, καὶ ἁπλῶς ἡδὺς καὶ περίδοξος τοῖς πᾶσι δοκεῖ. Ἁρμόζει δὲ καὶ πρὸς ῥεύματα ὀφθαλμῶν. Λίθος εὐπέταλο ς, ὁ καὶ δενδραχάτη ς, δεσμούμενος ἐν τοῖς κέρασι τῶν βοῶν, τῷ τοῦ σπόρου καιρῷ ἢ καὶ τοῦ ἀροτρέως εὐφορίαν τῇ γῇ ἐκείνῃ ἐργάζεται καὶ πολυκαρπίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "30",
+      "text": "Λίθος ἐλαφοκερατίτη ς, ὃς ὁμοιοῦται ἐλάφου κέρατι· τριβόμενος δὲ καὶ σὺν ἐλαίῳ χρισθεὶς φαλακρὸν κομήτην ἐργάζεται. Τριβόμενος καὶ κατ’ ἀμφοτέρων πινόμενος ὀνομάτων ἔρωτα κατ’ ἀλλήλων ποιεῖ, καὶ ἠγαπημένος διατηρεῖ μέχρι γήρως. Λίθος ζαμπιλάμπης πινόμενος παρὰ γυναικὶ στείρᾳ εὐθὺς παιδοτόκον ποιεῖ, καὶ ἐν ἀμπέλῳ καὶ δένδρῳ ἀκάρπῳ ῥωννύμενος εὐφορίαν καὶ εὐκαρπίαν ποιεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "32",
+      "text": "Λίθος ἴασπις ἐνσπαρεὶς ταῖς ἀρούραις σὺν τῷ σπόρῳ πολλὴν εὐκαρπίαν ποιεῖ, καὶ θυμιώμενος δαίμονας ἐξ ἀνθρώπου διώκει, καὶ εὐρωστίαν ποιεῖ τοῦ σώματος. Λίθος ὁ λυχνίτης βασταζόμενος ἀπὸ κινδύνου πολλοῦ ῥύεται τὸν βαστάζοντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "34",
+      "text": "Λίθος ὀψιανὸς παρατριβόμενος τῇ ὄψει ἀρίστος διατηρεῖ αὐτὴν· ὀφθαλμοὺς καὶ τὸ πρόσωπον εὐειδὲς ποιεῖ καὶ χαλεπὰ τὰ πάθη ἰᾶται ἐπιπασσόμενος. Λίθος ὁ χρυσόθριξ φορούμενος εὐπρεπεῖς καὶ σεμνοὺς τοὺς φοροῦντας ποιεῖ καὶ πᾶσιν ἡδεῖς καὶ τιμῆς ἀξίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "36",
+      "text": "Λίθος μαγνίτης ὁ καὶ μαγνῆτις λέγεται· οὗτος ἐνέργειαν ἔχει διὰ τοῦ ἀέρος ἕλκειν τὸν σίδηρον πρὸς αὑτόν· εἰ γάρ τις αὐτὸν λάθρα ὑπὸ τὴν κλίνην θήσει, εἰ μέν ἐστιν γυνὴ καθαρὰ καὶ ῥυπαρίας ἀμέτοχος, εἰς ὕπνον τρέπεται καὶ τὰς χεῖρας ἁπλοῖ πρὸς τὸν ἄνδρα καὶ περιφύεται. Εἰ δὲ πόθοις ῥυπαροῖς καὶ ἀλλοτρίοις κατεχομένη, ἀφυπνώσασα καταπίπτει τῆς κλίνης. Ἀλλὰ καὶ δύο ταύτην ἀδελφῶν φορούντων πάσης ἔριδος αὐτοὺς ἀπαλλάττει καὶ φιλονεικίας, καὶ ὁμόνοιαν ἐμποιεῖ. Φερομένη δὲ καὶ 〈κατὰ〉 τοῦ στήθους μετὰ μεμυκότος καρποῦ παιονίας ἐπιτηδειοτάτη ἐστὶν πρὸς τὸ θέλξαι καὶ πεῖσαι λαόν. Λίθος ὁ σιδηρίτης τριβόμενος καὶ ἐπιπασσόμενος ἑρπετῶν δήγματα ὀνίνησι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37",
+      "text": "Φασὶ δέ τινες 〈ὅτι〉 ὁ φορῶν αὐτὸν κἂν πάντα τὰ ἑρπετὰ καὶ τὰ θηρία κατ’ αὐτοῦ κινήσουσιν, ἀβλαβὴς μένει. Φασὶν δὲ καὶ 〈ὅτι〉 πινόμενος οὗτος μαντικὸν τὸν ἄνθρωπον ἐργάζεται· περιδεσμούμενος δὲ στεῖραν γυναῖκα παιδοτόκον ποιεῖ. Λίθος ὀφίτης ἀντιφάρμακον ἦν σκορπίων καὶ ὄφεων καὶ ὀξυδερκίαν ποιεῖ καὶ κεφαλαλγίαν παύει καὶ βαρυηκοΐαν καθαίρει· καὶ πινόμενος ἀφροδίσια παρορμᾷ· καὶ θυμιώμενος ἑρπετὰ διώκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "39",
+      "text": "Λίθος ὁ κορσίτης πινόμενος μετὰ μέλιτος καθαίρει τὰ ἐντὸς καὶ ὑδεριῶντας ὠφελεῖ καὶ φαρμακευομένους καὶ ἑρπετῶν καὶ κυνῶν δήγματα. Λίθος γαγάτη ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "40",
+      "text": "Οὗτος καπνιζόμενος ἑρπετὰ διώκει· τοὺς ὑπὸ τὴν ἱερὰν νόσον δαμαζομένους ὀσφραινόμενος ὠφελεῖ. Γυναῖκας αἱμορροούσας θυμιώμενος ὠφελεῖ. Ἰχῶρας καὶ πτύαλα πινόμενος ὠφελεῖ. Κεφαλαργίαν θεραπεύει καταπλασσόμενος. Πρὸς πόνον πινόμενος ὠφελεῖ. Εἰς πόνον ὀδόντων διαλυόμενος μετ’ οἴνου ὠφελεῖ. Εἰς πόνον ὀφθαλμῶν μετ’ οἴνου ὁμοίως. Εἰς ἀπόστημα μετ’ οἴνου θετούμενος· εἰς ῥίγη περιαπτόμενος καὶ πινόμενος καὶ θυμιώμενος ὠφελεῖ. Ἑρπετὰ καὶ παντοῖαι ἐπιβουλαί ... Πινόμενος παρὰ τῆς γυναικὸς ἐν τῇ καθάρσει σύλληψιν ἐνεργεῖ· καὶ δένδρα ἄκαρπα καὶ ἄμπελον ἐπιπάσσομενος ἐνεργεῖ. Πινόμενος μετ’ οἴνου καθαίρει τὰ ἐντὸς ἀπὸ παντὸς ῥύπου καὶ πόνου. 〈Πρὸσ〉 πᾶσαν αἱμορραγίαν. Καύσας τὸν λίθον ἀνάδευε ἐλαίῳ, καὶ ἐπίθες, καὶ ἰαθήσεται. Λέγουσίν τινες ὅτι οὗτός ἐστιν ὁ κοράλλιος λίθος. Λίθος δενδρίτη ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "41",
+      "text": "Οὗτος ὥσπερ δενδρῶδές ἐστιν φυτὸν ἀπολιθούμενον οὐκ ἐν χέρσῳ φυόμενον, ἀλλ’ ἐν τῷ πέλματι τῆς θαλάσσης, ἐρυθρὸς τῇ χρόᾳ λίθος. Δύναμιν δὲ ἔχει ξηραντικὴν καὶ μετρίως στυπτικήν. Ἁρμόζει γοῦν αἱμοπτοϊκοῖς καὶ δυσεντερικοῖς πινόμενος. Βασταζόμενος οὖν οὗτος μετά τινος πόας ἐν ἐλαφείῳ δέρματι, ὁ βαστάζων, πᾶσα πύλη αὐτῷ ἀνοιγήσεται· καὶ δεσμοὺς καὶ κλεῖθρα λύσει· ἄγρια θηρία αὐτῷ ὑποτάσσονται, καὶ πᾶσιν ἀνθρώποις ἔσται εὐάρεστος καὶ ἠγαπημένος, καὶ ὅπερ ἂν θέλῃ τεύξεται, καὶ ἡ βουλὴ περιγενήσεται αὐτῷ· ὁ γὰρ κλείσας τὴν νοσσιὰν τοῦ δενδροκολάπτου ἀσφαλῶς, φέρει τὸ εἰρημένον βοτάνιον, καὶ προσεγγίσας λύει τὰ κλεῖθρα· ὁ ταύτης ἐπιτυχὼν ποιήσει ἃ οὐκ ἔστιν λαλεῖν, ὡς οὖσα θειοτάτης φύσεως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "oyw-ae",
+      "title": {
+        "english": "Letter to King Ptolemy",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-king-ptolemy-oyw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/king-ptolemy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/king-ptolemy.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-aa",
+      "title": {
+        "english": "Letter to King Ptolemy-the Fabric of Man",
+        "ancient_greek": "Ἐπιστολὴ πρὸς βασιλέα Πτολεμαῖον περὶ κατασκευῆς"
+      },
+      "url_slug": "pseudo-hippocrates-letter-ptolemy-fabric-man-oyw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/letter-ptolemy-fabric-man",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/letter-ptolemy-fabric-man.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ac",
+      "title": {
+        "english": "On Foods",
+        "ancient_greek": "Περὶ διαφόρων καὶ παντοίων τροφῶν"
+      },
+      "url_slug": "pseudo-hippocrates-foods-oyw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-af",
+      "title": {
+        "english": "On Seven-Month Birth",
+        "ancient_greek": "Περὶ ἑπταμηνιαίου τόκου"
+      },
+      "url_slug": "pseudo-hippocrates-seven-month-birth-oyw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ab",
+      "title": {
+        "english": "On the Difference of Foods to Ptolemy",
+        "ancient_greek": "Περὶ διαφορᾶς τροφῶν πρὸς Πτολεμαῖον"
+      },
+      "url_slug": "pseudo-hippocrates-foods-difference-oyw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/foods-difference",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/foods-difference.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.json"
+      }
+    },
+    {
+      "eul_wid": "rsk-aa",
+      "title": {
+        "english": "Letter to Caesar Augustus",
+        "ancient_greek": "Ἐπιστολή"
+      },
+      "url_slug": "harpocration-medicine-and-astrology-letter-caesar-augustus-rsk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/harpocration-medicine-and-astrology/letter-caesar-augustus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harpocration-medicine-and-astrology/letter-caesar-augustus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harpocration-medicine-and-astrology/letter-caesar-augustus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harpocration-medicine-and-astrology/letter-caesar-augustus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harpocration-medicine-and-astrology/letter-caesar-augustus.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-aa",
+      "title": {
+        "english": "On Diseases of the Kidneys and Bladder",
+        "ancient_greek": "Περὶ Νεφρῶν καὶ Κύστεως Παθῶν"
+      },
+      "url_slug": "rufus-of-ephesus-kidneys-bladder-ojc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/kidneys-bladder",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/kidneys-bladder.json"
+      }
+    },
+    {
+      "eul_wid": "umi-av",
+      "title": {
+        "english": "On Foods (Long Treatise)",
+        "ancient_greek": "Περὶ Τροφῶν"
+      },
+      "url_slug": "medical-writers-anonymous-foods-av-umi-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-au",
+      "title": {
+        "english": "On Substitutes",
+        "ancient_greek": "Περὶ Ἀντικαταστάσεων"
+      },
+      "url_slug": "anonymous-medical-writer-substitutes-tqu-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/substitutes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/substitutes.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cb",
+      "title": {
+        "english": "On Women",
+        "ancient_greek": "Περὶ γυναικείων"
+      },
+      "url_slug": "hippocrates-women-bww-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/women.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ab",
+      "title": {
+        "english": "On the Diagnosis and Treatment of Affections Residing in the Kidneys",
+        "ancient_greek": "Περὶ Διαγνώσεως καὶ Θεραπείας Παθῶν ἐν Νεφροῖς"
+      },
+      "url_slug": "anonymous-medical-writer-kidney-affections-tqu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/kidney-affections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/kidney-affections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/kidney-affections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/kidney-affections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/kidney-affections.json"
+      }
+    },
+    {
+      "eul_wid": "bae-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "calliphon-and-democedes-of-croton-testimonies-bae-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/calliphon-and-democedes-of-croton/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calliphon-and-democedes-of-croton/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calliphon-and-democedes-of-croton/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calliphon-and-democedes-of-croton/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/calliphon-and-democedes-of-croton/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gea-aa",
+  "eul_aid": "gea",
+  "author_slug": "protagorides-the-historian",
+  "work_slug": "daphne-festivals",
+  "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+  "author": {
+    "english": "Protagorides the Historian",
+    "ancient_greek": "Προταγορίδης ὁ Ἱστορικός"
+  },
+  "title": {
+    "english": "On the Daphne Festivals",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments on Daphne Festivals by Protagorides on Eulogikon",
+    "meta_title": "Fragments on the Daphne Festivals by Protagorides in Greek",
+    "meta_description": "Historical fragments on Daphne festivals by Protagorides. Surviving Greek text of this ancient work. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Daphne Festivals</strong> is a lost antiquarian treatise by the historian Protagorides of Cyzicus, known only through fragments preserved by later authors. The work, which may also have been titled <strong>Apospasmata</strong> or &quot;Extracts,&quot; was a detailed account of the elaborate festivals held at the sanctuary of Apollo at Daphne, near Antioch. These celebrations were famously magnified under the Seleucid king Antiochus IV Epiphanes in the mid-2nd century BCE as a demonstration of royal wealth and Hellenistic cultural patronage. The surviving fragments, cited primarily by the grammarian Athenaeus in his <strong>Deipnosophistae</strong>, describe various aspects of the festivities, including specific types of banquets, musical performances featuring instruments like the pandoura and aulos, and the ingenious artificial chilling of water for royal banquets. The work represents a specialized monograph within the tradition of Hellenistic antiquarian scholarship, providing a valuable, if fragmentary, glimpse into Seleucid court ceremonial and religious spectacle. Its transmission through encyclopedic compilers like Athenaeus and a subsequent notice in the Byzantine <strong>Suda</strong> lexicon exemplifies the process by which such detailed historical studies were condensed and preserved for later antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-3",
+      "text": "ΠΕΡΙ ΤΩΝ ΕΠΙ ΔΑΦΝῌ ΠΑΝΗΓΥΡΕΩΝ. E LIBRO PRIMO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus IV: Τίνα δ’ ἦν τὰ Αἰγύπτια δεῖπνα Πρωταγορίδης ἐν τῷ πρώτῳ Περὶ Δαφνικῶν ἀγώνων διδάσκει ἡμᾶς λέγων οὕτως· «Τρίτη δ’ ἐστὶν ἰδέα δείπνων Αἰγυπτιακὴ, τραπεζῶν μὲν οὐ παρατιθεμένων, πινάκων δὲ περιφερομένων.» E LIBRO SECUNDO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Idem IV: Πρωταγορίδης δ’ ὁ Κυζικηνὸς ἐν δευτέρῳ Περὶ τῶν ἐπὶ Δάφνῃ πανηγύρεών φησι· «Παντὸς δ’ ὀργάνου καταμίτου ἧπται, κροτάλων, ὑποφανοῦ (?) πανδούρου, τῷ τε ἡδεῖ μοναύλῳ τὰς ἡδίστας ἁρμονίας ἀναμινυρίζει.» Idem IV: Τοῦ δὲ καλουμένου πανδούρου Εὐφορίων μὲν, ὡς προείρηται, καὶ Πρωταγορίδης ἐν δευτέρῳ Περὶ τῶν ἐπὶ Δάφνῃ πανηγύρεων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "title",
+      "reference": "t4",
+      "text": "ΚΩΜΙΚΑΙ ΙΣΤΟΡΙΑΙ. E LIBRO SECUNDO. Athenaeus III: Πρωταγορίδης δ’ ἐν δευτέρῳ τῶν Κωμικῶν ἱστοριῶν, τὸν Ἀντιόχου τοῦ βασιλέως κατὰ τὸν ποταμὸν διηγούμενος πλοῦν, λέγει τι καὶ περὶ ἐπιτεχνήσεως ψυχρῶν ὑδάτων, ἐν τούτοις· «Τὴν γὰρ ἡμέραν ἀνηλιάζοντες αὐτὸ, τῆς νυκτὸς ἀπηθοῦντες τὸ παχύτατον, τὸ λοιπὸν ἐξαιθριάζουσιν ἐν ὑδρίαις κεραμέαις ἐπὶ τῶν μετεωροτάτων μερῶν τῆς οἰκήσεως, δι’ ὅλης τε τῆς νυκτὸς δύο παῖδες ὕδατι τὰ τεύχη καταρραίνουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Ὄρθρου δὲ καθαιροῦντες, καὶ τὴν ὑποστάθμην πάλιν ὑποσπῶντες, λεπτόν τε ποιοῦντες αὐτὸ καὶ πρὸς ὑγίειαν οἷον ἄριστον, ἐν ἀχύροις τιθέασι τὰς ὑδρίας, εἶθ’ οὕτως χρῶνται, χιόνος οὐδ’ ἡντινοῦν χρείαν ἔχοντες.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "clm-aa",
+      "title": {
+        "english": "Fragments on Boeotian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Βοιωτικῆς Ἱστορίας"
+      },
+      "url_slug": "ctesiphon-the-historian-boeotian-history-clm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ctesiphon-the-historian/boeotian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ctesiphon-the-historian/boeotian-history.json"
+      }
+    },
+    {
+      "eul_wid": "pqe-aa",
+      "title": {
+        "english": "Fragments on Cities",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πόλεων"
+      },
+      "url_slug": "pausanias-the-periegete-cities-pqe-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pausanias-the-periegete/cities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pausanias-the-periegete/cities.json"
+      }
+    },
+    {
+      "eul_wid": "bls-ac",
+      "title": {
+        "english": "Fragments on Rivers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποταμῶν"
+      },
+      "url_slug": "acusilaus-of-argos-rivers-bls-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.json"
+      }
+    },
+    {
+      "eul_wid": "qdq-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "cephalion-the-historian-historical-fragments-qdq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephalion-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephalion-the-historian/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-ad",
+      "title": {
+        "english": "Jewish Antiquities",
+        "ancient_greek": "Ἰουδαϊκὴ ἀρχαιολογία"
+      },
+      "url_slug": "josephus-antiquities-ofq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/antiquities",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/antiquities.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-ap",
+      "title": {
+        "english": "On Imitation",
+        "ancient_greek": "Περὶ Μιμήσεως"
+      },
+      "url_slug": "dionysius-of-halicarnassus-imitation-ndy-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/imitation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/imitation.json"
+      }
+    },
+    {
+      "eul_wid": "nxy-aa",
+      "title": {
+        "english": "Phoenician History Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "claudius-iolaus-phoenician-history-nxy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/claudius-iolaus/phoenician-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/claudius-iolaus/phoenician-history.json"
+      }
+    },
+    {
+      "eul_wid": "bli-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "hecataeus-of-miletus-testimonies-bli-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hecataeus-of-miletus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hecataeus-of-miletus/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

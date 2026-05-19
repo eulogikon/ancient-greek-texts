@@ -1,0 +1,637 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "dsy-aa",
+  "eul_aid": "dsy",
+  "author_slug": "philoxenus-of-leucas",
+  "work_slug": "luxurious-banquet",
+  "url_slug": "philoxenus-of-leucas-luxurious-banquet-dsy-aa",
+  "author": {
+    "english": "Philoxenus of Leucas",
+    "ancient_greek": "Φιλόξενος ὁ Λευκαδεύς"
+  },
+  "title": {
+    "english": "Fragments of a Luxurious Banquet",
+    "ancient_greek": "Ἀποσπάσματα περὶ Δείπνου Τρυφεροῦ"
+  },
+  "seo": {
+    "browser_title": "Fragments of a Luxurious Banquet by Philoxenus on Eulogikon",
+    "meta_title": "Fragments of a Luxurious Banquet by Philoxenus in Greek",
+    "meta_description": "Surviving fragments of the dithyrambic poem by Philoxenus of Leucas. A Doric parody of epic. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments of a Luxurious Banquet</strong> is a dithyrambic poem by the Greek poet Philoxenus of Leucas, composed around 400 BCE. Written in Doric Greek with epic stylistic elements, the work is a parody that applies the grand language and heroic similes of traditional epic poetry to the description of an outrageously extravagant feast. The original continuous narrative is lost, and the poem is known only through 65 surviving passages quoted by later authors. These fragments vividly depict excessive food and drink, most famously including a fish so immense it required transport by cart. The poem is a notable example of the &quot;New Music&quot; movement in classical Greece, which embraced innovative and often secular subjects. Scholars interpret it as a creative subversion of traditional poetic forms, blending high literary style with low comedy for a sophisticated audience at festivals or symposia. Its thematic focus on extreme luxury reflects contemporary Athenian interest in, and anxiety about, decadence and Sicilian opulence. The work’s entire transmission depends on these quotations, preserved primarily within Athenaeus’s <strong>Deipnosophistae</strong> (The Learned Banqueters) from the 2nd–3rd century CE, which saved the fragments due to their culinary and literary interest.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book a.1",
+      "text": "κατὰ χειρὸς δ’ ἤλιθ’ ὕδωρ ἁπαλὸς[ln_2]παιδίσκος ἐν ἀργυρέαι[ln_2]πρόχωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book a.2",
+      "text": "φορέων ἐπέχευεν, εἶτ’ ἔφερε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book a.3",
+      "text": "στέφανον[ln_3]λεπτᾶς ἀπὸ μυρτίδος εὐ‐[ln_3]γνήτων κλαδέων δισύναπτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.1",
+      "text": "εἰς δ’ ἔφερον διπλόοι[ln_1]παῖδες λιπαρῶπα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.2",
+      "text": "τράπεζαν ἄμμ’, ἑτέραν δ’ ἑτέροις,[ln_2]ἄλλοις δ’ ἑτέραν, μέχρις οὗ[ln_2]πλήρωσαν οἶκον· ταὶ δὲ πρὸς ὑψιλύχνους[ln_3]ἔστιλβον αὐγὰς εὐστέφανοι λεκάναις[ln_4]παροψίσι τ’ ὀξυβάφων[ln_4]†πλήρεις† σύν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.3",
+      "text": "τε χλιδῶσαι[ln_5]παντοδαποῖσι τέχνας[ln_5]εὑρήμασι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.4",
+      "text": "πρὸς βιοτάν,[ln_5]ψυχᾶς δελεασματίοισι· πάρφερον ἐν κανέοις[ln_6]μάζας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.5",
+      "text": "χιονόχροας ἄλλοι· 〈τοῖσ〉 δ’ ἐπὶ πρῶτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.6",
+      "text": "παρῆλθ’[ln_7]οὐ κάκκαβος, ὦ φιλότας,[ln_7]ἀλλ’ †ἀλλοπλατεῖς† τὸ μέγιστον †πάντ’ ἔπαθεν λιπαροντες[ln_8]εγχελεατινες ἄριστον† †γόγγροιτοιωνητεμων†[ln_9]πλῆρες θεοτερπές· ἐπ’ αὐτῶι[ln_10]δ’ ἄλλο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.7",
+      "text": "παρῆλθε τόσον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.1",
+      "text": "[ln_10]βατὶς δ’ ἐνέην ἰσόκυκλος· μικρὰ δὲ κακκάβι’ ἦς[ln_11]ἔχοντα τὸ μὲν γαλεοῦ[ln_11]τι, ναρκίον ἄλλο 〈 〉 〈 〉 παρῆς ἕτερον[ln_12]πίων ἀπὸ τευθιάδων[ln_12]καὶ σηπιοπουλυποδείων 〈 〉 ἁπαλοπλοκάμων·[ln_13]θερμὸς μετὰ ταῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.2",
+      "text": "παρῆλθεν ἰσοτράπεζος ὅλος[ln_14]†μνήστης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.3",
+      "text": "συνόδων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.4",
+      "text": "πυρὸς 〈 〉†[ln_15]〈 〉 †ἔπειτα βαθμοὺς[ln_15]ἀτμίζων ἐπὶ τῶιδ’ ἐπιπυσται† τευθίδες, ὦ φίλε, καὶ[ln_16]ξανθαὶ μελικαρίδες αἱ[ln_16]κοῦφαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.5",
+      "text": "παρῆλθον· θρυμματίδες δ’ ἐπὶ ταύ‐[ln_17]ταις εὐπέταλοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.6",
+      "text": "χλοεραί[ln_17]τε †δηφαρυγες† †πυριων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.7",
+      "text": "τε† στεγαναὶ[ln_18]φυσταὶ μέγαθος κατὰ κάκ‐[ln_18]καβον γλυκυόξεες 〈 〉 ὀμφαλὸς θοίνας καλεῖται[ln_19]παρά γ’ ἐμὶν καὶ τίν, σάφ’ οἶδα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.1",
+      "text": "[ln_20]†εσταδα† ναὶ μὰ θεοὺς[ln_20]ὑπερμέγεθές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.2",
+      "text": "τι θέμος[ln_20]θύννου μόλεν ὀπτὸν ἐκεῖθεν †θερμὸν ὅθεν γλυφις†[ln_21]τετμημένον εὐθὺς ἐπ’ αὐτὰς τὰς ὑπογαστρίδας, 〈αἷσ〉[ln_22]διανεκέως ἐπαμύνειν εἴπερ ἐμίν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.3",
+      "text": "τε μέλοι[ln_23]καὶ τίν, μάλα κεν κεχαροίμεθ’. ἀλλ’ ὅθεν ἐλλίπομεν,[ln_24]θοίνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.4",
+      "text": "παρέης †ὅτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.5",
+      "text": "παλάξαι†[ln_25]†δύνατ’ ἐπικρατέως†[ln_25]ἔγωγ’ ἔτι, κοὔ κε λέγοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.6",
+      "text": "τις πάνθ’ ἃ παρῆν ἐτύμως[ln_26]ἄμμιν, †παρέπεσαι† δὲ θερμὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.7",
+      "text": "σπλάγχνον· ἔπειτα δὲ νῆ‐[ln_27]στις δέλφακος οἰκετικᾶς καὶ νωτί’ ἐσῆλθε καὶ ὀσ‐[ln_28]φῦς καὶ μινυρίγματα θερμὰ καὶ κεφάλαιον ὅλον[ln_29]διαπτυχὲς ἑφθὸν †ἁπερ‐[ln_29]πευθηνος ἀλεκτοτρόφου†[ln_29]πνικτᾶς ἐρίφου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.8",
+      "text": "παρέθηκε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.1",
+      "text": "[ln_30]εἶτα δίεφθ’ ἀκροκώ‐[ln_30]λια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.2",
+      "text": "σχελίδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.3",
+      "text": "τε μετ’ αὐτῶν λευκοφορινοχρόους,[ln_31]ῥύγχη κεφάλαια πόδας[ln_31]τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.4",
+      "text": "χναυμάτιόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.5",
+      "text": "τε σεσιλ‐[ln_31]φιωμένον· ἑφθά τ’ ἔπειτα κρέ’ ὀπ‐[ln_32]τά τ’ ἄλλ’ ἐρίφων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.6",
+      "text": "τε καὶ ἄρνων ἅ θ’ ὑπερωμόκρεως[ln_33]χορδὰ γλυκίστα μιξεριφαρνογενής,[ln_34]ἃν δὴ φιλέοντι θεοί,[ln_35]τουτ〈 〉 ὦ φιλότας[ln_35]ἔσθοις κε, λαγῶιά τ̣’ ἔπειτ’[ln_35]ἀλεκτρυόνων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.7",
+      "text": "τε νεοσσοί, περδίκων φάσσεων[ln_36]τε †χύδαν ἤδη δὲ παρεβάλλετο θερμὰ πολλὰ† καὶ μαλακοπτυχέων[ln_37]ἄρτων· ὁμοσύζυγα δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.1",
+      "text": "[ln_37]ξανθόν τ’ ἐπεισῆλ‐[ln_37]θεν μέλι καὶ γάλα σύμπακ‐[ln_37]τον, τό κε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.2",
+      "text": "τυρὸν ἅπας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.3",
+      "text": "τις ἦμεν ἔφασχ’ ἁπαλόν,[ln_38]κἠγὼν ἐφάμαν· ὅτε δ’ ἤδη βρωτύος ἠδὲ ποτᾶ‐[ln_39]τος ἐς κόρον ἦιμεν ἑταῖροι,[ln_40]τῆνα μὲν ἐξαπάει‐[ln_40]ρον δμῶες, ἔπειτα δὲ παῖ‐[ln_40]δες νίπτρ’ ἔδοσαν κατὰ χειρῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.4",
+      "text": "σμήμασιν ἰρινομίκ‐[ln_41]τοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book b.5",
+      "text": "χλιεροθαλπὲς ὕδωρ[ln_41]ἐπεγχέοντες τόσσον ὅσον 〈τισ〉 ἔχρηιζ’,[ln_42]ἐκτρίμματά τ(ε) 〈 〉 λαμπρὰ σινδονυφῆ, δίδοσαν[ln_42]〈δὲ〉 χρίματά τ’ ἀμβροσίο‐[ln_42]δμα καὶ στεφάνους ἰοθαλέας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book c.1",
+      "text": "σὺ δὲ τάνδ’ †ἐκβακχια† εὔδροσον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book c.2",
+      "text": "πλήρη μετανιπτρίδα δέξαι· πραΰ τί τοι Βρόμιος[ln_3]γάνος τόδε δοὺς ἐπὶ τέρ‐[ln_3]ψιν πάντας ἄγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book d.1",
+      "text": "πίνετο νεκτάρεον[ln_1]πῶμ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book d.2",
+      "text": "χρυσέαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book d.3",
+      "text": "προτομαῖς[ln_1]†τε ἄλλων† κεράτων, †ἔβρεχον δὲ κατὰ μικρὸν†",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.1",
+      "text": "τὰς δὲ δὴ πρόσθεν μολούσας[ln_1]〈 〉 λιπαραυγεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.2",
+      "text": "πορθμίδας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.3",
+      "text": "πολ‐[ln_2]λῶν ἀγαθῶν πάλιν εἴσφε‐[ln_2]ρον γεμούσας, τὰς ἐφήμεροι καλέοντι[ln_3]νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.4",
+      "text": "τραπέζας 〈δευτέρασ〉, ἀθάνατοι δέ τ’ Ἀμαλθεί‐[ln_4]ας κέρας· ταῖς δ’ ἐν μέσαισιν[ln_5]ἐγκαθιδρύ‐[ln_5]θη μέγα χάρμα βροτοῖς, λευ‐[ln_5]κὸς μυελὸς γλυκερός, λεπτᾶς ἀράχνας ἐναλιγκί‐[ln_6]οισι πέπλοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.5",
+      "text": "συγκαλύπτων ὄψιν αἰσχύ‐[ln_7]νας ὕπο, μὴ κατίδηις μαλογενὲς †πῶυ λιπὼν[ln_8]ταῖς ἀνάγκαις† ξηρὸν ἐν ξηραῖς Ἀρισταί‐[ln_9]ου μελιρρύτοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.6",
+      "text": "παγαῖς·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.1",
+      "text": "[ln_10]τῶι δ’ ὄνομ’ ἦς ἄμυλος,[ln_10]χερσὶν δ’ ἐπέθεντο 〈[ln_10]〉 στόμιον μαλεραῖς 〈 〉[ln_11]ταν δεξαμέναν ὅ τι κεν[ln_11]διδῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.2",
+      "text": "τις, ἃ Ζανὸς καλέοντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.3",
+      "text": "τρώγματ’· ἔπειτ’ ἐπένειμεν[ln_12]ἐγκατακνακομιγὲς[ln_12]πεφρυγμένον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.4",
+      "text": "πυρβρομολευκερεβινθο‐[ln_13]†ακανθουμικτριτυαδυ†[ln_13]βρῶμα τὸ παντανάμικτον †ἀμπυκικηροιδηστί‐[ln_14]χας† παρεγίνετο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.5",
+      "text": "τούτοις[ln_15]σταιτινοκογχομαγὴς[ln_15]†τοξαισελαιο‐†[ln_15]ξανθεπιπαγκαπύρ〈ω‐[ln_15]τ〉ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.6",
+      "text": "χοιρίνας, ἁδέα δε〈 〉[ln_16]κυκλωτὰ †ομοφλωκτα† ἀνάριθμα καὶ μελίπακτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.7",
+      "text": "τετυγμέν’[ln_17]ἄφθονα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.8",
+      "text": "σασαμόφωκτα· τυρακίνας δὲ γάλακτι[ln_18]καὶ μέλι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.9",
+      "text": "συγκατάφυρτος[ln_18]ἦς ἄμυλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.10",
+      "text": "πλαθανίτας· σασαμοτυροπαγῆ δὲ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.1",
+      "text": "[ln_19]καὶ ζεσελαιοπαγῆ[ln_19]πλατύνετο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.2",
+      "text": "σασαμόπλαστα[ln_20]πέμματα, κἆιτ’ ἐρέβινθοι[ln_20]κνακομιγεῖς ἁπαλαῖς θάλ‐[ln_20]λοντες ὥραις, ὠιά τ’ ἀμυγδαλίδες 〈τε〉[ln_21]τᾶν μαλακοφλοΐδων[ln_21]〈 〉τετο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.3",
+      "text": "τρωκτά τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.4",
+      "text": "παισὶν †αδυιδη† κάρυ’ ἄλλα[ln_22]θ’ ὅσσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.5",
+      "text": "πρέπει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.6",
+      "text": "παρὰ θοίναν ὀλβιόπλουτον 〈 〉·[ln_23]πόσις δ’ ἐπεραίνετο κότ‐[ln_23]ταβοί τε λόγοι τ’ ἐπὶ κοινᾶς· ἔνθα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book e.7",
+      "text": "τι καινὸν ἐλέχθη[ln_24]κομψὸν ἀθυρμάτιον, καὶ[ln_24]θαύμασαν αὔτ’ ἐπί τ’ ἤινη‐[ln_24]σαν 〈 〉",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "nfc-aa",
+      "title": {
+        "english": "Anacreontea",
+        "ancient_greek": "Ἀνακρεόντεια"
+      },
+      "url_slug": "anacreontea-text-nfc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anacreontea/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anacreontea/text.json"
+      }
+    },
+    {
+      "eul_wid": "mpi-aa",
+      "title": {
+        "english": "Delphic Paean II and Prosodion to Apollo",
+        "ancient_greek": "Δελφικὸς Παιὰν Β' καὶ Προσόδιον πρὸς Ἀπόλλωνα"
+      },
+      "url_slug": "limenius-of-athens-delphic-paean-ii-mpi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/limenius-of-athens/delphic-paean-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/limenius-of-athens/delphic-paean-ii.json"
+      }
+    },
+    {
+      "eul_wid": "rcq-aa",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "Ἐπιτάφιον"
+      },
+      "url_slug": "epitaph-of-abercius-text-rcq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/epitaph-of-abercius/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epitaph-of-abercius/text.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-ab",
+      "title": {
+        "english": "Eros the Runaway",
+        "ancient_greek": "Ἔρως δραπέτης"
+      },
+      "url_slug": "moschus-of-syracuse-eros-runaway-mdu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/eros-runaway",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/eros-runaway.json"
+      }
+    },
+    {
+      "eul_wid": "kza-ab",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "lobon-of-argos-fragments-kza-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lobon-of-argos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lobon-of-argos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lcw-ad",
+      "title": {
+        "english": "Fragments on the Trojan Cycle",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Κύκλου"
+      },
+      "url_slug": "nicander-of-colophon-trojan-cycle-lcw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicander-of-colophon/trojan-cycle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicander-of-colophon/trojan-cycle.json"
+      }
+    },
+    {
+      "eul_wid": "cgw-aa",
+      "title": {
+        "english": "Heracles and the Mime in Contest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "gryllus-of-athens-mime-contest-cgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gryllus-of-athens/mime-contest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ad",
+      "title": {
+        "english": "Hymn 17 To the Dioscuri",
+        "ancient_greek": "Ὕμνος εἰς τοὺς Διοσκούρους"
+      },
+      "url_slug": "homeric-hymns-anonymous-dioscuri-ad-upu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philoxenus-of-leucas/luxurious-banquet",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

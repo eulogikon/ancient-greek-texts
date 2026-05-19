@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gja-aa",
+  "eul_aid": "gja",
+  "author_slug": "lycophronides-lyricus",
+  "work_slug": "beauty-offerings",
+  "url_slug": "lycophronides-lyricus-beauty-offerings-gja-aa",
+  "author": {
+    "english": "Lycophronides Lyricus",
+    "ancient_greek": "Λυκοφρωνίδης ὁ Λυρικός"
+  },
+  "title": {
+    "english": "Fragments on Beauty and Offerings",
+    "ancient_greek": "Ἀποσπάσματα περὶ Κάλλους καὶ Ἀναθημάτων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Lycophronides Lyricus Poetry on Eulogikon",
+    "meta_title": "Fragments of Lycophronides Lyricus in Ancient Greek",
+    "meta_description": "Fragments of Lycophronides Lyricus on beauty and votive offerings. Ancient Greek lyric poetry. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Μικταὶ διάλεκτοι",
+      "english": "Mixed Dialects (frg)",
+      "href": "/dialects/mix"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as <strong>Fragments on Beauty and Offerings</strong>, attributed to an author named Lycophronides Lyricus, is not attested in any major scholarly reference works, papyrological collections, or standard digital repositories of classical Greek texts. No independent record of an author by this name or a compiled poetic work under this precise title exists within the established corpus of ancient Greek literature. The title itself suggests a modern compilation of lyric poetry fragments thematically linked to concepts of beauty and votive offerings, presented as a collection of seven short passages. The sole extant fragment provided discusses physical beauty, noting that the comeliness of a boy, a gold-adorned maiden, or a deep-bosomed woman is less significant than inherent decorum, as modesty sows the flower of grace. The speaker then dedicates a rose, sandals, a helmet, and a beast-slaying spear to a deity, explaining that their mind is poured out upon the Graces and a beloved, beautiful child. The transmission history of these fragments is entirely undocumented, with no known manuscript tradition or provenance for the passages. Consequently, in the absence of verification within the historical record or the accepted canon of Greek literary sources, the work and its attributed author currently hold no recognized scholarly position in the study of ancient Greek poetry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παιδὸς ἄρρενος οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "παρθένων τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χρυσοφόρων οὐδὲ γυναικῶν βαθυκόλπων καλὸν τὸ πρόσωπον, ἀλλ’ ὃ κόσμιον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "πεφύκει· ἡ γὰρ αἰδὼς ἄνθος ἐπισπείρει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "τόδ’ ἀνατίθημί σοι ῥόδον, καλὸν ἄνθημα, καὶ πέδιλα καὶ κυνέαν καὶ τὰν θηροφόνον λογχίδ’, ἐπεί μοι νόος ἄλλαι κέχυται ἐπὶ τὰν Χάρισιν φίλαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "παῖδα καὶ καλάν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ajg-aa",
+      "title": {
+        "english": "Anthology, Volume V",
+        "ancient_greek": "Ἀνθολογία"
+      },
+      "url_slug": "greek-anthology-volume-5-ajg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-anthology/volume-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.json"
+      }
+    },
+    {
+      "eul_wid": "uyq-ab",
+      "title": {
+        "english": "Dubious Songs",
+        "ancient_greek": "Ἀμφίβολοι ᾨδαί"
+      },
+      "url_slug": "romanos-the-melodist-dubious-songs-uyq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/dubious-songs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/dubious-songs.json"
+      }
+    },
+    {
+      "eul_wid": "auu-aa",
+      "title": {
+        "english": "Elegiac Fragment",
+        "ancient_greek": "Ἐλεγειακὸν Ἀπόσπασμα"
+      },
+      "url_slug": "asius-of-samos-elegiac-fragment-auu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/asius-of-samos/elegiac-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asius-of-samos/elegiac-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "grm-ac",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "erinna-of-telos-epigrams-grm-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "bek-aa",
+      "title": {
+        "english": "Fragment 128",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "hipponax-of-ephesus-fragment-128-bek-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipponax-of-ephesus/fragment-128",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipponax-of-ephesus/fragment-128.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipponax-of-ephesus/fragment-128.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipponax-of-ephesus/fragment-128.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipponax-of-ephesus/fragment-128.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bd",
+      "title": {
+        "english": "Hymn 23 To Zeus",
+        "ancient_greek": "Ὕμνος εἰς Δία"
+      },
+      "url_slug": "homeric-hymns-anonymous-zeus-upu-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/zeus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/zeus.json"
+      }
+    },
+    {
+      "eul_wid": "upu-av",
+      "title": {
+        "english": "Hymn 29 To Hestia",
+        "ancient_greek": "Ὕμνος εἰς Ἑστίαν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hestia-av-upu-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.json"
+      }
+    },
+    {
+      "eul_wid": "uyq-ad",
+      "title": {
+        "english": "Songs",
+        "ancient_greek": "ᾨδαί"
+      },
+      "url_slug": "romanos-the-melodist-hymns-uyq-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/romanos-the-melodist/hymns",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/hymns.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/hymns.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/hymns.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/romanos-the-melodist/hymns.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lycophronides-lyricus/beauty-offerings",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus/beauty-offerings.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus/beauty-offerings.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus/beauty-offerings.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lycophronides-lyricus/beauty-offerings.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

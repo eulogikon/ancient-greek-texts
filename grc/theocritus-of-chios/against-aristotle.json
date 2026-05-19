@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "elk-ab",
+  "eul_aid": "elk",
+  "author_slug": "theocritus-of-chios",
+  "work_slug": "against-aristotle",
+  "url_slug": "theocritus-of-chios-against-aristotle-elk-ab",
+  "author": {
+    "english": "Theocritus of Chios",
+    "ancient_greek": "Θεόκριτος ὁ Χῖος"
+  },
+  "title": {
+    "english": "Epigram Against Aristotle",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "Epigram Against Aristotle by Theocritus Chios on Eulogikon",
+    "meta_title": "Epigram Against Aristotle by Theocritus of Chios in Greek",
+    "meta_description": "The surviving fragment of Theocritus of Chios's invective epigram against Aristotle. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The &quot;Epigram Against Aristotle&quot; is a fragmentary piece of invective attributed to the sophist Theocritus of Chios. It survives as a single, scornful passage preserved through quotation by later authors, primarily the gastronomic writer Athenaeus. The text constitutes a direct political attack, mocking Aristotle for his service to the Macedonian court and his departure from Athens. It employs common tropes of character assassination, accusing him of gluttony and intellectual betrayal, suggesting he abandoned philosophy for political sycophancy. The epigram reflects the pronounced anti-Macedonian sentiment among many Greek intellectuals during the period of Philip II&#x27;s expansion. Its transmission depends entirely on its inclusion in Athenaeus&#x27;s <strong>Deipnosophistae</strong> from the late second or early third century CE, with a further reference in the biographical compilation of Diogenes Laertius. The fragment contributed to the ancient biographical tradition that painted Aristotle as an opportunist, and it is cited in modern scholarship as evidence of the fierce political and personal controversies that divided intellectual circles in the age of Macedonian ascendancy.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "738.(t)",
+      "text": "epigramma in Aristotelem Ἑρμίου εὐνούχου τε καὶ Εὐβούλου τόδε δούλου σῆμα κενὸν κενόφρων θῆκεν Ἀριστοτέλης, ὃς διὰ τὴν ἀκρατῆ γαστρὸς φύσιν εἵλετο ναίειν ἀντ’ Ἀκαδημείας Βορβόρου ἐν προχοαῖς. *",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "elk-aa",
+      "title": {
+        "english": "Epitaph for Aristotele",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "theocritus-of-chios-epitaph-aristotele-elk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theocritus-of-chios/epitaph-aristotele",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/epitaph-aristotele.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/epitaph-aristotele.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/epitaph-aristotele.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/epitaph-aristotele.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "pfk-ag",
+      "title": {
+        "english": "Alexander Or The False Prophet",
+        "ancient_greek": "Ἀλέξανδρος ἢ Ψευδόμαντις"
+      },
+      "url_slug": "lucian-of-samosata-false-prophet-pfk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/false-prophet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.json"
+      }
+    },
+    {
+      "eul_wid": "swk-aa",
+      "title": {
+        "english": "Declamation 3, Embassy of Menelaus, Theorem",
+        "ancient_greek": "Μελέτη γ"
+      },
+      "url_slug": "libanius-of-antioch-embassy-menelaus-swk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/libanius-of-antioch/embassy-menelaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/libanius-of-antioch/embassy-menelaus.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bn",
+      "title": {
+        "english": "For the Images",
+        "ancient_greek": "Ὑπὲρ τῶν Εἰκόνων"
+      },
+      "url_slug": "lucian-of-samosata-images-bn-pfk-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/images-bn",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/images-bn.json"
+      }
+    },
+    {
+      "eul_wid": "ria-aa",
+      "title": {
+        "english": "From Aelian's Rustic Letters",
+        "ancient_greek": "ἐκ τῶν Αἰλιανοῦ ἀγροικικῶν ἐπιστολῶν"
+      },
+      "url_slug": "aelian-of-praeneste-rustic-letters-ria-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aelian-of-praeneste/rustic-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/rustic-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/rustic-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/rustic-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aelian-of-praeneste/rustic-letters.json"
+      }
+    },
+    {
+      "eul_wid": "rhg-ad",
+      "title": {
+        "english": "Introduction to Rhetoric (Treatise B)",
+        "ancient_greek": "Εἰσαγωγὴ εἰς τὴν ῥητορικὴν τέχνην"
+      },
+      "url_slug": "anonymous-rhetorical-treatises-introduction-art-ad-rhg-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-rhetorical-treatises/introduction-art-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-rhetorical-treatises/introduction-art-ad.json"
+      }
+    },
+    {
+      "eul_wid": "qng-ac",
+      "title": {
+        "english": "On Ideas of Speech",
+        "ancient_greek": "Περὶ ἰδεῶν λόγου"
+      },
+      "url_slug": "hermogenes-of-tarsus-on-ideas-qng-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/on-ideas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/on-ideas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/on-ideas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/on-ideas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/on-ideas.json"
+      }
+    },
+    {
+      "eul_wid": "qoa-aa",
+      "title": {
+        "english": "On the Republic",
+        "ancient_greek": "Περὶ πολιτείας"
+      },
+      "url_slug": "herodes-atticus-of-athens-republic-qoa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/herodes-atticus-of-athens/republic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodes-atticus-of-athens/republic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodes-atticus-of-athens/republic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodes-atticus-of-athens/republic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/herodes-atticus-of-athens/republic.json"
+      }
+    },
+    {
+      "eul_wid": "ore-aa",
+      "title": {
+        "english": "Rhetorical Art",
+        "ancient_greek": "Τέχνη ῥητορική"
+      },
+      "url_slug": "seguerianus-anon-rhetoric-ore-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/seguerianus-anon/rhetoric",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seguerianus-anon/rhetoric.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seguerianus-anon/rhetoric.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seguerianus-anon/rhetoric.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/seguerianus-anon/rhetoric.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/theocritus-of-chios/against-aristotle",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/against-aristotle.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/against-aristotle.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/against-aristotle.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theocritus-of-chios/against-aristotle.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,565 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "rye-bi",
+  "eul_aid": "rye",
+  "author_slug": "themistius",
+  "work_slug": "epitaph-father",
+  "url_slug": "themistius-epitaph-father-rye-bi",
+  "author": {
+    "english": "Themistius the Philosopher",
+    "ancient_greek": "Θεμίστιος ὁ Εὐφραδής"
+  },
+  "title": {
+    "english": "Epitaph-the Father",
+    "ancient_greek": "Ἐπιτάφιος ἐπὶ τῷ πατρί"
+  },
+  "seo": {
+    "browser_title": "Ancient Epitaph for the Father by Themistius on Eulogikon",
+    "meta_title": "Epitaph for the Father by Themistius in Ancient Greek",
+    "meta_description": "Themistius's funeral oration honoring his father, a philosophical reflection on virtue filial piety. A significant example of late antique rhetoric."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Eclectic",
+      "href": "/affiliations/eclectic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Funeral Oration for His Father</strong> is a prose oration composed and delivered by the philosopher and statesman Themistius in Constantinople around 355 CE. A complete example of a classical funeral speech, it is written in Attic Greek and honors Themistius’s father, Eugenius, who was himself a philosopher. While fundamentally a personal eulogy, the work functions equally as a public defense of the philosophical life, presenting Eugenius as the ideal philosopher whose virtues and teachings constituted a profound civic benefit. Delivered during the reign of Emperor Constantius II, a period when Themistius was actively advocating for the integration of Greek philosophy within the Roman imperial court, the oration is a multifaceted performance. It serves as an act of filial piety, a showcase of rhetorical prowess, and a political argument for the indispensable role of philosophers as advisors to sovereigns. The speech artfully merges personal lament with philosophical consolation, proposing that a virtuous soul attains a form of immortality through its enduring reputation and legacy. Preserved in full within the Byzantine manuscript tradition of Themistius’s orations, it remains a crucial document for understanding the public persona and political function of philosophers in late antiquity.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΕΠΙΤΑΦΙΟΣ ΕΠΙ ΤΩΙ ΠΑΤΡΙ Θεωρία τοῦ λόγου Ὁ λόγος ἡμῖν οὐ φιλοτιμίας καὶ ἐπιδείξεως, ἀλλὰ τῆς ὁσίας τῆς εἰς τὸν πατέρα στοχάζεται, ἣν μείζονα ἔσεσθαι καὶ σεμνοτέραν ὑπέλαβε παρ’ ὑμῖν ἀκροαταῖς γινομένην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "233 c (5t)",
+      "text": "τοῦτο γὰρ τὸ θέατρον καὶ μόνον ἄξιον ἡγεῖται τῆς ἀρετῆς. φιλεῖ μὲν οὖν ὡς τὰ πολλὰ μὴ δέχεσθαι μῆκος ἡ τοιάδε ἐπαγόρευσις, ἡμῖν δὲ καὶ ἄλλως ἀναγκαῖον ἐγένετο φείσασθαι τοῦ πλήθους. οὔτε γὰρ ὁ 〈παρὼν〉 καιρὸς ἐνεδίδου, ταχυτέραν ἀπαιτῶν ἢ μακροτέραν τὴν εὐφημίαν· ἕωλος γὰρ ἐπικήδειος ἅπας μακρὰν ἀφιστάμενος τοῦ πάθους τῷ χρόνῳ· καὶ πρὸς τὴν ἀναγραφὴν τοῦ βίου τὰ καθέκαστον ἀνεθέμεθα· τῇ λέξει δὲ εἴ τι ἐλλείπειν εἰς παλαιότητα εὑρίσκοιτε, οὐ θαυμαστόν. χαλεπὸν γὰρ ἐφικέσθαι τῆς ἐν συγγραφῇ ἀκριβείας, μὴ τοῦτο συνεχῶς ἐκμελετῶντας, ἀλλὰ πρὸς ἕτερα τὴν πλείω σπουδὴν ποιουμένους. καὶ ἅμα οὐχ οὕτω φροντιστέον τῷ φιλοσόφῳ καλλιεπείας, ἀλλ’ ἐκεῖνο μάλιστα φυλακτέον ὑμῖν εἰ τὸ πρέπον ἁπανταχῆ διεσώσατο καὶ υἱεῖ καὶ φιλοσοφεῖν ἐπιχειροῦντι καὶ εἰς φιλόσοφον. Θρήνους μὲν δὴ ᾄδειν καὶ ὀδυρμοὺς οὔτε ὑμεῖς ἐάσειν φατὲ καὶ οὐ ξυγχωρεῖ φιλοσοφία, ἀλλ’ ὁπότε αἴσθοιτο βαπτιζόμενόν τε ὑπὸ τῆς ὀδύνης καὶ εἰς δάκρυα καταφερόμενον, χαλεπαίνει τε καὶ ἐπαπειλεῖ δεινὰ ἄττα με ἐργάσεσθαι καὶ ἀνήκεστα, διαγράψειν μὲν εὐθὺς τοῦ πατρῴου κλήρου (οὔτι λέγω τῆς γῆς τε καὶ τῶν ἀγρῶν καὶ τῶν ποιμνίων, ἀλλ’ οὗ ἐγὼ πάνυ γλίχομαι καὶ μεταποιοῦμαι καὶ ἐπιχειρῶ κληρονομεῖν μόνος τῶν ἀδελφῶν), ἐξαλείψειν δὲ τοῦ καταλόγου τῶν ζακόρων τῶν ἑαυτῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "234 a",
+      "text": "ἀνάγκη οὖν ἱστᾶν μοι τοὺς ὀφθαλμοὺς ὥσπερ σίδηρον ἠὲ κέρατα, καθάπερ ἐποίησεν Ὅμηρος τῷ Λαέρτου παιδὶ πεπηγέναι τὰ ὄμματα, τὸν οἶκτον ἐπικρυπτομένῳ τῆς γυναικός. καίτοι Ὀδυσσεὺς μὲν καρτερίας ἱκανῆς οὐκ ἐδεῖτο, μέλλων οὐκ εἰς μακρὰν ἀπολαύσεσθαι τῆς Πηνελόπης ξὺν παρρησίᾳ· σὺ δὲ ὦ πάλαι μὲν πατέρων, νῦν δὲ θεῶν ἀγανώτατε, πότε αὖθίς σοι ξυνεσόμεθα; εἰ γάρ τι δεῖ φιλοσοφίᾳ πιστεύειν, ἥ σε διαπορθμεύσασα ἔναγχος τὴν μακαρίαν πορείαν ἐπανήκουσα ἐκεῖθεν ἡμῖν ἀπαγγέλλει, ὅτι ὁπηνίκα ὡς τάχιστα τοῦ δεσμοῦ τῆς φύσεως ἀπελύθης, οὐκ ἀπορρήξας οὐδὲ ἀποσπάσας κατέχοντος ἔτι, ἀλλ’ αὐτοῦ χαλάσαντος καὶ ἀνέντος, αὐτίκα ἤιξας μετέωρος ἄνω πρός τε αἰθέρα καὶ οὐρανόν, τὴν ξυνωρίδα τῶν ἀθανάτων ἵππων ζευξάμενος, οὓς ἐν χρόνῳ τοσῷδε ἅμα ἔτρεφες καὶ ἀτίταλλες, συνεξορμᾶν ἐθίζων καὶ ἄνω ἵεσθαι ἀμφοτέρους, καὶ μὴ τὸν μὲν ἐφ’ ὕψος ἕλκειν, τὸν δὲ κάτω βρίθειν τὸν ζυγόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "234 b",
+      "text": "ὅθεν που νῦν οὐδὲ κέντρων οὐδὲ χαλινοῦ ἐδεήθης πρὸς τὸν ἀλαζόνα ἵππον καὶ ὑβριστήν, ἀλλ’ εὐμενής τε καὶ τῷ ὁμοζύγῳ πράως ἔχων συνδιῆρέ σοι τὸ ὄχημα, καί σε ἐδέξατο ἱερὰ θεῶν ἀγορὰ καὶ δῆμος ἀγαθῶν δαιμόνων, εὐφημοῦντές τε καὶ προαπαντῶντες καὶ ἀσπαζόμενοι, ὅτι σφίσιν ἐκτελέσας τὸ χρέος οὗ σε ἕνεκα ἔστειλαν ἐπὶ γῆς, ἀκήρατος εὐθὺς καὶ ἅγιος ἐπανῆκες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "234 c",
+      "text": "καὶ οὔτε ἔμπροσθεν οὔτε ὄπισθεν μόλυσμα ἐξεῦρεν ὁ Ῥαδάμανθυς ἢ ὁ Μίνως ἐνσεσημασμένον τε καὶ ἐγγεγραμμένον τῇ ψυχῇ, καθίζουσί τε παρὰ Σωκράτει καὶ Πλάτωνι, ἀγαγόντες καὶ τὰ σὰ παιδικὰ τὸν θεῖον Ἀριστοτέλην, ᾧ καὶ ἐνθάδε ἐν τῇ μετοικήσει ξυνεῖναι τὰ πολλὰ ἐπεχείρεις, καὶ οὐκ ἐξήρκει τὸ σῶμα ἀποφράττειν τὴν συνουσίαν οὕτω πόρρωθεν ὄντων τῶν παιδικῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "234 d",
+      "text": "Ἦ που νῦν σε ἐκεῖνος, ὦ θεία κεφαλή, κυδαίνει τε καὶ ὑπὲρ τοὺς ἄλλους ἀγαπᾷ καὶ οὐκ ἔχει ὅ τι χρήσεται ὑπὸ χαρμονῆς, ἀποτιννύων τὰ χαριστήρια τῆς προφητείας ἣν προεφήτευσας Ἀριστοτέλους λαμπρότερον ἢ Βάκις τε καὶ Ἀμφίλυτος τοῦ Λοξίου, καὶ τῆς σοφίας, ἣν ἐκεῖνος ἐξευρών τε καὶ ἐξασκήσας ζόφῳ ἐκάλυψε καὶ ἠμφίασεν ἀσαφείᾳ, φροντίσας μήτε βασκῆναι τοῖς ἀγαθοῖς μήτε ῥῖψαι εἰς τὰς τριόδους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235 a",
+      "text": "σὺ δὲ γνωματεύων τοὺς ἐπαξίους περιῄρεις τε αὐτοῖς τὸν ζόφον καὶ ἐγύμνους τὰ ἀγάλματα. ὥστε ὁ μὲν ἄρτι προσιὼν τοῖς ἀδύτοις φρίκης τε ἐνεπίμπλατο καὶ ἰλίγγου, ἀδημονίᾳ τε ξυνείχετο καὶ ἀπορίᾳ ξυμπάσῃ, οὐδὲ ἴχνους λαβέσθαι οἷός τε ὢν οὐδὲ ἀρχῆς ἡστινοσοῦν ἐπιδράξασθαι εἴσω φερούσης, ὅτε δὲ ὁ προφήτης ἐκεῖνος ἀναπετάσας τὰ προπύλαια τοῦ ναοῦ καὶ τοὺς χιτῶνας περιστείλας τοῦ ἀγάλματος καλλύνας τε αὐτὸ καὶ ἀποσμήξας πανταχόθεν ἐπεδείκνυε τῷ μυουμένῳ μαρμαρύσσον τε ἤδη καὶ αὐγῇ καταλαμπόμενον θεσπεσίᾳ, ἥ τε ὁμίχλη ἐκείνη καὶ τὸ νέφος ἀθρόως ὑπερρήγνυτο καὶ ἐξεφαίνετο ὁ νοῦς ἐκ τοῦ βάθους, φέγγους ἀνάπλεως καὶ ἀγλαΐας ἀντὶ τοῦ προτέρου σκότου, Ἀφροδίτη δὲ παρῆν δᾳδουχοῦντι καὶ Χάριτες συνεθίγγανον τῆς τελετῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235 c",
+      "text": "Τὸ μὲν οὖν πρόσωπον καὶ τὸ σχῆμα ὅλον μονονοὺ δῆθεν ἐπῆν Ἀριστοτέλους τοῖς μυστηρίοις. ἅπαντα δὲ ὁμῶς συνανεῴγνυτο τῶν σοφῶν τὰ ἀνάκτορα, καὶ συνεπώπτευσε τὰ ἱερὰ καὶ ὅσα Πυθαγόρας ὁ Σάμιος ἐξ Αἰγύπτου ἐκόμισεν εἰς τὴν Ἑλλάδα καὶ ὅσα ὕστερον ἐν τῇ ποικίλῃ στοᾷ Ζήνων ὁ Κιτιεύς. τὰ μὲν γὰρ Πλάτωνος τοῦ μεγάλου ἀγχίθυρά τε ἀεὶ ἐπεδείκνυε καὶ ἐν τῷ αὐτῷ περιβόλῳ, καὶ οὐδὲ μετημφιέννυτο τὴν στολὴν μεταβαίνων εἰς τὴν Ἀκαδημίαν ἐκ τοῦ Λυκείου, ἀλλὰ πολλάκις Ἀριστοτέλει προθύσας εἰς τὴν Πλάτωνος ἔληγεν ἱερουργίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "235 d",
+      "text": "χαλεπῶς δὲ εἶχεν ἀεὶ τοῖς διοικοδομεῖν ἐπιχειροῦσι καὶ διαφράττειν ἀτεχνῶς ταυτὶ τὰ ἑρκία. εἶναι γὰρ δὴ τῆς Πλάτωνος βακχείας τὴν Ἀριστοτέλους φιλοσοφίαν ἅμα μὲν γενναῖον προτέλειον, ἅμα δὲ θριγκόν τε καὶ φυλακτήριον. εὐβάτου τε γὰρ οὔσης ἔτι καὶ εὐεπιδρόμου τοῖς σοφισταῖς, τειχίσαι τε Ἀριστοτέλη καὶ περιφράξασθαι πανταχόθεν καὶ ἀποκλεῖσαι τὰς ἐπιβουλὰς τῶν δογμάτων, τοὺς δὲ πολλοὺς ὑπὸ ὄκνου τε καὶ ῥᾳθυμίας ἀφράκτους ἐθέλειν καὶ ἀναλείφους διαγωνίζεσθαι· ὅθεν πολλάκις γενναίᾳ δόξῃ καὶ ἰσχυρᾷ ὑπὸ ἀσθενοῦς καὶ φαύλης ὑποσκελιζομένῃ τε καὶ σφαλλομένῃ παρὸν ἀμύνειν μὴ δύνασθαι ἐπαμύνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "236 a",
+      "text": "πρὸς μὲν δὴ Πλάτωνα τὸν σοφὸν οὔτε αὐτός ποτε ἐστασίασεν οὔτε Ἀριστοτέλη ῥᾳδίως ᾤετο. Ἐπίκουρον δὲ τὸν Νεοκλέους κομψὸν μὲν ἡγεῖτο καὶ τῶν ἀτόμων οὐκ εἶναι τομόν, εἰσελκυσάμενος δ’ ἂν αὐτὸν πολλάκις, ὅσον ἐπιδεῖξαι τοῖς ἀγνοοῦσιν, ὡς τάχιστα ἀπέπεμπεν ἐκ τοῦ καταλόγου, μύρον κατὰ τῆς κεφαλῆς καταχέας ἅτε ἐραστοῦ τῆς ἡδονῆς. τοῦτο μὲν δὴ οὐχ οὕτως ἄγασθαι ἦν. οὐδεμία γὰρ φιλοσοφία πόρρω ἀπῴκισται καὶ μακρὰν ἀποσκηνοῖ τῆς ἑτέρας, ἀλλ’ οἷον εὐρείας ὁδοῦ καὶ μεγάλης μικραὶ διασχίσεις τε καὶ ἀπονεύσεις, αἱ μὲν πλεῖον, αἱ δὲ ἔλαττον περιελθοῦσαι, εἰς ταὐτὸν ὅμως πέρας συνθέουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "236 b",
+      "text": "Ἀλλ’ ὁπότε Ὅμηρον τὸν ποιητὴν εἰσεκάλει τε καὶ ἐξένιζεν ὡς προπάτορα καὶ ἀρχέγονον τῶν Ἀριστοτέλους καὶ Πλάτωνος λόγων, τότε ἂν ἀκριβῶς ἐδεήθης τῆς Ὁμήρου φωνῆς, ὥστε εἰπεῖν λαβὼν παρ’ ἐκείνου, ὢ πόποι, ὡς ὅ γε πᾶσι φίλος καὶ τίμιός ἐστιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "236 c",
+      "text": "οὐδὲ γὰρ τῆς σκηνῆς ἀπείχετο τῆς ἀρχαίας οὐδὲ τοῦ θεάτρου ὡς παντάπασι βεβήλων καὶ ἀλλοτρίων φιλοσοφίας, ἀλλὰ θαμὰ μὲν Μένανδρος ὁ χρυσοῦς, θαμὰ δ’ Εὐριπίδης καὶ Σοφοκλῆς Σαπφώ τε ἡ καλὴ καὶ Πίνδαρος ὁ γενναῖος συνεπήχουν τε καὶ συνωργίαζον. ὅθεν οὐδὲ μονόγλωττος ἦν οὐδὲ φιλοσόφων μόνον ἐπιτήδειος ἀκροατηρίῳ, ῥήτορσι δὲ ἀξύνετος ἢ γραμματισταῖς, ἀλλὰ τῶν μὲν ἄλλων, ὁπότε πειρῷντ’ ἐκ τῆς φιλοσοφίας τι λέγειν, χαλεπώτερον ἂν ξυνίης ἢ τῆς Περσικῆς διαλέκτου, ἐκείνου δὲ καὶ ἀμπελουργὸς ἐπακούων καὶ σιδηρεὺς εἶχεν ὅ τι οἴκαδε ἀποφέροι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "236 d",
+      "text": "καὶ ἄρχοντι μὲν τὰ ἀρχικὰ διελέγετο, πολιτικῷ δὲ τὰ πολιτικά, γεωργῷ δὲ ὁπόσα ἔχεται γεωργίας. Γεωργίας μὲν δὴ καὶ σφόδρα ἦν ἐπαινέτης τε καὶ ἐραστής, καὶ τῷ φιλοσόφῳ ῥᾳστώνην ἐπὶ τοῖς πόνοις μόνην πρέπουσαν ἀπέφηνε τὴν γεωργίαν, καὶ μάλιστα γηρῶντι ἤδη καὶ ἐκλυομένῳ ὑπὸ χρόνου τῷ σώματι γυμνασίαν τε ἱκανὴν εἶναι καὶ γέμουσαν τῆς σώφρονος ἡδονῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "237 a",
+      "text": "καὶ πολλάκις ἂν φοιτήσας παρὰ τὸν πρεσβύτην κατέλαβες ἢ φυτεύοντα ἢ περικαθαίροντα ἢ μεταφέροντα ἢ ὕδωρ διεξάγοντα ἐπὶ τοὺς ὀχετούς, ὥστε ἐπάρδειν τὰ φυόμενα· καὶ ὤρεξεν ἄν τί σοι τῶν ὡραίων καὶ περιαγαγὼν τοὺς ὀρχάτους ὑπέδειξεν ἂν τῶν βοτρύων ὑπερφυὲς τὸ κάλλος καὶ τὸ μέγεθος, καὶ ἀνήγαγεν εἰς τὰς μητροπόλεις ὥσπερ οἱ γενεαλόγοι τῶν στεμφύλων [εἰς] τὰς ἀποικίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "237 b",
+      "text": "ἦν δὲ καὶ ἀγρὸς αὐτῷ, ὃν αὐτὸς ἐποιήσατο, πηγάς τε ὕδατος ἐξελκύσας οὔπω πρότερον φαινομένας καὶ τἆλλα ἐπιμεληθείς, ὥστε καλὴν εἶναι καὶ πρέπουσαν φιλοσόφῳ καταγωγήν. οὗτος ὁ ἀγρὸς εἰ καὶ οὐ πάνυ οὐδὲ Ἑλληνικὸν τοὔνομα, ὅμως ἐν στόματί ἐστιν ἐκείνων τῶν ἄγαν Ἑλλήνων. Ὁ μὲν οὖν Ὀδυσσεὺς πρὸς τὸν ἑαυτοῦ πατέρα φησὶ τὰ μὲν φυτὰ αὐτῷ καὶ σφόδρα ἱκανῶς τεθεραπεῦσθαι, αὐτὸν δὲ οὐκ ἔχειν ἀγαθὴν κομιδήν, ὅτι ῥάκια ἠμφίεστο καὶ φαῦλα ὑπέρραπτο ὑποδήματα. ἐγὼ δὲ ἐπίσταμαι τὸν ἐμὸν πατέρα ὅτι αὐτὸς ἄρα πρὸ τῶν φυτῶν ἐκεκαλλιούργητο καὶ εὖ ἤσκητο, οὐκ ἐπειδὴ χιτῶνα ἠμφίεστο λεπτὸν καὶ εὐήτριον, ἀλλ’ ὅτι μὴ τὴν ψυχὴν ἀκόσμητον εἶχε μηδὲ ἔμπλεων ἀγροικίας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "237 c",
+      "text": "οὐ γὰρ αἱ ἄμπελοι μὲν αὐτῷ καὶ ὁ κῆπος ἥμεροί τε καὶ ἔγκαρποι ἦσαν, τυφλὴ δὲ ἡ διάνοια καὶ ἀγρία, ἀλλ’ οὐδὲ τὴν Ἀλκινόου ὀπώραν τὴν ἐπιβλαστάνουσαν συνεχῶς, οὐδὲ τὰ χρυσᾶ μῆλα τῶν Ἑσπερίδων εἴκασας ἂν μικρῷ ἐκείνου ῥήματι καὶ νουθετήματι. οὐ γὰρ δὴ καλλονῆς μόνης ἐφρόντιζεν ἐν τοῖς λόγοις, ἀλλ’ ὥσπερ ἔφασκεν ἐν τῇ περὶ τὴν γῆν ἐργασίᾳ τοὺς τὰ ἄλση μόνα φυτευομένους πλατάνων ἀμφιλαφῶν ἢ κυπαρίττων, πυρῶν δὲ καὶ ἀμπέλων ἐξαμελοῦντας, πλέον στοχάζεσθαι τέρψεως ἢ τροφῆς, οὕτω καὶ ἐν τοῖς λόγοις τοὺς ἡδονὴν μόνην θηρεύοντας καὶ ὅπως κηλήσειαν τοὺς ἀκροωμένους, ἐξ ὧν δὲ τρέφεται ψυχὴ καὶ ἀμείνων γίνεται ἑαυτῆς, οὔτ’ εἰδότας λέγειν οὔτε πειρωμένους, τούτους δὲ οὐκέτι εἶναι φιλοσόφους, ὥσπερ οὐδὲ ἐκείνους γεωργούς, ἀλλὰ κόλακάς τε καὶ θῶπας καὶ ὀψοποιοὺς ἀντὶ ἰατρῶν καὶ ἀντὶ γυμναστῶν κομμωτάς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "238 a",
+      "text": "Καὶ μὴν ὅσοι τοὺς μὲν λόγους αὐτοὺς συνείροιέν τε καὶ ἀποστοματίζοιεν ἱκανῶς τοὺς ὑπὸ φιλοσοφίας παραγγελλομένους, τῶν δὲ ἔργων ἀμελοῖεν ὑπὲρ ὧν οἱ λόγοι, τούτους δὲ αὐτοὺς τῷδέ τινι ἐοικέναι ἐπεδείκνυεν, οἷον εἴ τις ὑγιαίνειν τὸ σῶμα αὑτῷ ἐπιθυμῶν φάρμακα μὲν συνάγοι καὶ βοτάνας, ὁπόσαι ἱκαναὶ τριβόμεναι καὶ μιγνύμεναι ἀλλήλαις βοηθεῖν τῇ τοῦ σώματος πονηρίᾳ, καὶ σιδήρια δὲ ἰατρικὰ φιλοτίμως κατασκευάζοιτο, ἔχοι δὲ λέγειν καὶ ὅσα Ἱπποκράτης ὁ Κῶος καὶ ὅσα Ἐρασίστρατος καὶ ὅσα Διοκλῆς ἐν τοῖς γράμμασι παραγγέλλουσιν ὑπὲρ ὑγείας· ὁπότε δ’ αὐτῷ τὸ σῶμα εἰς ἀρρωστίαν ὑπενεχθείη καὶ πάσης ἐκείνης ἀπολαύειν δέοιτο τῆς παρασκευῆς, ὁ δὲ τὰ φάρμακα μὲν καὶ τὰ σιδήρια χαίρειν εἴασε καὶ τὸν Ἱπποκράτη, κατακλινεὶς δὲ ἐπὶ στιβάδος ἐστρωμένης τάπησι καὶ πορφύρᾳ, καὶ τράπεζαν παραθέμενος Σικελικὴν πίνει τε ἄδην καὶ εὐωχεῖται, κόρης αὐτῷ τινος Κορινθίας ἢ παιδὸς Ἰωνικοῦ διακονουμένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "238 b",
+      "text": "οὔτε γὰρ τούτῳ πλέον τι εἶναι τῆς κτήσεως ἕνεκεν τῶν φαρμάκων οὔτε ὅστις τοὺς λόγους αὐτοὺς τῶν φιλοσόφων ἀναλαβὼν καὶ ἱκανῶς ἐκμελετήσας μὴ θέλοι ἔργῳ αὐτοὺς βεβαιοῦσθαι, οὐδὲ τούτῳ πλέον τι φιλοσοφίας μετεῖναι ἢ τῷ πρόσθεν ἐκείνῳ ἰατρικῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "238 c",
+      "text": "καὶ ἀθλητὴν δὲ ὁμοίως καταγέλαστον εἶναι, ὅστις ἐπιδεικνύμενος τοὺς ἁλτῆρας καὶ ἐξαριθμούμενος τὰ γυμνάσια τοὺς ὤμους τε αὐτοὺς περιφέροι μαλθακούς τε καὶ ἀγεννεῖς, καὶ τὸν αὐχένα λυγίζοιτο ὑπὸ τρυφῆς καὶ ἀκρασίας, κᾆτα εἰς τὸ στάδιον μὲν παριέναι ἀγωνιούμενος οὔτε δύναιτο οὔτε ἐθέλοι, καθήμενος δὲ ἐν βαλανείῳ καὶ ἐν γωνίᾳ παιδικῆς παλαίστρας πρὸς τοὺς λουομένους καταλέγοι τὰ παλαίσματα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "238 d",
+      "text": "τοῦτον οὖν τὸν τρόπον καὶ ἐπὶ φιλοσοφίας οὐχὶ λόγων χρῆναι ἐπίδειξιν ποιεῖσθαι, οὐδὲ ἐνθένδε ποθὲν τεκμαίρεσθαι ὅστις πόρρω ἥκοι σοφίας, οἷον εἰ μετ’ ἐπιστήμης διαιροῖτο τἀγαθὰ καὶ φάσκοι τὴν ἀρετὴν μέγιστον εἶναι τῶν λοιπῶν καὶ ὑπερφέρειν μακρῷ τὰ ἄλλα, τά τε τοῦ σώματος λεγόμενα καὶ ὅσων ἔξωθεν τύχη βασιλεύει, ἀλλ’ εἰ φρονοίη τοῦτον τὸν τρόπον καὶ προαιροῖτο καὶ τὴν ἀγαθὴν πρᾶξιν ἀεὶ ἐπίπροσθεν ἄγοι τῆς χρήματα ἢ δόξαν φερούσης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "239 a",
+      "text": "ἄλλως δ’ ἔχοντα τῇ μὲν γλώττῃ φιλοσοφήσειν, τῇ καρδίᾳ δὲ οὐδαμῶς. Τούτων δὲ ἁπάντων παραδείγματα ἀπέφαινε Σωκράτη τὸν Ἀθηναῖον, ὃς οὔτε οἴκοι ὑπὸ Ξανθίππης λοιδορούμενος οὔτε ὑπὸ Κριτίου καὶ τῶν τριάκοντα τυράννων ἀπειλούντων, εἰ μὴ μεταθήσεται καὶ θεραπεύσει τὴν καθεστῶσαν πολιτείαν, ἀποκτενεῖν τε καὶ ἐξελάσειν καὶ ἀνήκεστα ἔργα ἐργάσεσθαι, ὅμως οὐκ ἔδεισέ ποτε οὐδὲ ἐξεπλάγη οὐδὲ κίνδυνον ἄλλον ἐνόμισεν οὕτω δεινόν τε καὶ φοβερὸν ὡς τὸ κακὸν ἀντ’ ἀγαθοῦ γενέσθαι καὶ δυσσεβῆ ἀντ’ εὐσεβοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "239 b",
+      "text": "διὰ τοῦτο οὔτε Λέοντα ἤγαγε τὸν Σαλαμίνιον οὔτε ἐπιψηφίσαι ἐξεβιάσθη κατὰ τῶν ἀμφὶ Περικλέα καὶ Ἐρασινίδην καὶ Διομέδοντα στρατηγῶν· καίτοι οὕτω γε ὁ δῆμος αὐτὸς ἐπεκελεύετο, βοῶντες ἄνωθεν ἐκ τῆς ἐκκλησίας. ἀλλ’ οὐδ’ ὅτε κατεδίκασαν αὐτοῦ Ἀθηναῖοι, οὐδ’ ὅτε ἐν τῷ ξύλῳ ἦν, οὐδὲν ἀγεννὲς ἢ ταπεινὸν ἔπραξεν ἢ εἶπε πρὸς τοὺς ἑταίρους τοὺς εἰς τὸ δεσμωτήριον συνιόντας, ἀλλὰ περὶ ψυχῆς ἐφιλοσόφει καὶ περὶ τῶν ἐν Ἅιδου ἐξηγεῖτο, ὁπόσα μὲν ἀγαθὰ ἀρετὴν ἐκεῖσε μένει, ὁπόσα δὲ κακίαν τιμωρήματα καὶ κολαστήρια.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "239 c",
+      "text": "τοιγαροῦν οὐκ εἰς μακρὰν Ἀθηναῖοι μετέγνωσαν ἀμφὶ Σωκράτους καὶ δίκην ἐπράξαντο Μέλητον τῆς δίκης ἐκείνης καὶ 〈Ἄνυτοσ〉 ἔφυγεν αὐτὸς ἐκ τοῦ ἄστεος καὶ αὐτὸν κατέλευσαν διὰ Σωκράτην οἱ Ἡρακλεῶται οἱ ἐν τῷ Πόντῳ, καὶ νῦν δείκνυται Ἀνύτου αὐτόθι σῆμα ἐν τῷ προαστείῳ οὐ μακρὰν θαλάττης, οὗπερ καὶ ἔβαλλον τὸν αὐτὸν Ἄνυτον οἱ Ἡρακλεῶται. τοιαῦτα δὲ ἀπέφαινε καὶ τὰ ἑαυτοῦ καὶ ἄντικρυς παραπλήσια τοῖς Σωκρατικοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "239 d",
+      "text": "εἶναι γὰρ αὐτῷ πολλὰ μὲν ὕπαιθρα καὶ δημόσια ἀγωνίσματα, οὐ φαυλότερα δὲ τὰ οἴκοι καὶ εἴσω τῆς αὐλῆς, καὶ ταῦτα πάντα ὑπομένειν τε καὶ ἀνέχεσθαι ῥᾳδίως, ὅτι δεῖ φιλοσοφίαν οὐ λόγῳ, ἀλλ’ ἔργῳ ἑλέσθαι. Δίκαια μὲν δὴ καὶ οἱ πάλαι ἔπραξαν ἄνθρωποι ἐφ’ Ἡρακλεῖ τῷ Διὸς καὶ Ἀλκμήνης, ἀποθειάσαντές τε αὐτὸν καὶ ἱερὰ ἴδια κατασκευάσαντες, καὶ θυσίας θύοντες οὐ μόνον ὅσας ἥρωϊ θύειν καλὸν ἦν, ἀλλὰ καὶ ὅσας δαίμονι ἤδη καὶ ὅσας θεῷ, ὅτι Ἡρακλῆς παράδειγμα ἐγένετο ἀρετῆς καὶ τὴν γῆν ἅπασαν ἐπιφοιτήσας τυράννων τε ὠμότητος καὶ θηρίων ἐκάθηρεν ἀλλοκότων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240 a",
+      "text": "δοκῶ δὲ ἔγωγε ὡς σφοδρότερον μὲν κάπρων κακία, βιαιότερον δὲ λεόντων, ἰταμώτερον δὲ πολυμόρφου κυνός, πολυκεφαλώτερον δὲ ὕδρας· ἄξιον δὲ εἶναι καὶ τοῖς τοῦτο τὸ θηρίον καταμαχησαμένοις τε καὶ ἀσθενὲς ἀποδείξασι τεμένη τε ἱδρύεσθαι δημοσίᾳ καὶ ἱερέας καθίστασθαι. εἶναι γὰρ δὴ καὶ τούτους οὐκ ἀπεικὸς ἔν τινι θείᾳ μοίρᾳ τοῦ σώματος ἀπαλλαγέντας ἐσθλούς, ἀλεξικάκους, φύλακας μερόπων ἀνθρώπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240 b",
+      "text": "καί μοι δοκοῦσιν οἱ θεοὶ βουληθέντες αὖθις ἐνδείξασθαι καὶ ὑπομνῆσαι τοὺς ἀνθρώπους ἐς ὅσον ἐφικνεῖται ἀρετὴ ψυχῆς ἀνθρωπίνης, ὥσπερ τὸ παλαιὸν Ἡρακλέα καὶ αὖθις Σωκράτη, οὕτω νῦν σε, ὦ πάτερ, διὰ μακροῦ χρόνου παραγαγεῖν καὶ φῆναι ἐπὶ γῆς. Ἀλλὰ σοὶ μὲν μακάριός τε καὶ εὐδαίμων ὁ ἀγὼν καὶ πρὸς ὀλβίους τε ἀνέδραμες καὶ εὐδαίμονας τοὺς καταπέμψαντας, ἡμᾶς δὲ ἀπέλιπες ἐν τῷ κλύδωνι καὶ τῷ λειμῶνι τῆς Ἄτης οὐδὲ ἔχοντας ὅστις χεῖρα ἄλλῳ ὀρέξει, ἀνακύπτειν τε πειρωμένους καὶ ἐξαναδῦναι ποτὲ τῆς ἰλύος καὶ τοῦ βορβόρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240 c",
+      "text": "δεῖ δὴ λοιπὸν τὰ ἴχνη τὰ σὰ διώκειν, εἰ δὴ ἐκείνοις ποτὲ ἐμβιβάσαι καὶ τὰ ἡμέτερα δυνηθείημεν. καίτοι συχνά γέ μου ἀπεπειρῶ, καθάπερ οἱ ἀετοὶ τῶν νεοττῶν, εἰ δύναταί μοι στέγειν τὰ ὄμματα καὶ ἀνέχεσθαι τὴν αὐγὴν τῆς ἀληθείας, καὶ πολλάκις ἀπέπεμπες ἐλπίδος γεμίσας ἀγαθῆς, καὶ ἐγεγάνυσο καὶ ἐγεγήθεις ὅτι σοι γνησίους ἤλεγχον τὰς γονάς, πρὸς τὸν ἥλιον οὐ σκαρδαμύττων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "240 d",
+      "text": "οὐ δὴ οὖν τότε μὲν ἐχρῆν ἀνοίγειν τὼ ὀφθαλμώ, νῦν δὲ καταμύειν, ἀλλὰ καὶ ὑπὲρ τῆς σῆς σπουδῆς ἢ ψήφου ἀγωνιστέον ὡς μὴ παντάπασι πατρὸς φαινοίμην ἀφιλοσόφου. ἐπαμύνοις δὲ αὐτὸς ἄνωθεν τῷ παιδὶ καὶ ἐνστάξαις, ὦ μάκαρ, προσευχομένῳ ἀλκήν τε καὶ ἀνδρείαν εἰς τὸν ἀγῶνα.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "rye-bb",
+      "title": {
+        "english": "Consular to Emperor Jovian",
+        "ancient_greek": "Ὑπατικὸς εἰς τὸν αὐτοκράτορα Ἰοβιανόν"
+      },
+      "url_slug": "themistius-consular-jovian-rye-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/consular-jovian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/consular-jovian.json"
+      }
+    },
+    {
+      "eul_wid": "rye-af",
+      "title": {
+        "english": "Deceteric or-Appropriate Speeches to the King",
+        "ancient_greek": "Δεκετηρικὸς ἢ περὶ τῶν πρεπόντων λόγων τῷ βασιλεῖ"
+      },
+      "url_slug": "themistius-deeteric-king-speeches-rye-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/deeteric-king-speeches",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/deeteric-king-speeches.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bd",
+      "title": {
+        "english": "Discourse-the Word",
+        "ancient_greek": "Ἡ ἐπὶ τῷ λόγῳ διάλεξις"
+      },
+      "url_slug": "themistius-discourse-the-word-rye-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/discourse-the-word",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/discourse-the-word.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ay",
+      "title": {
+        "english": "Embassy to Emperor Theodosius",
+        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
+      },
+      "url_slug": "themistius-embassy-theodosius-rye-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ac",
+      "title": {
+        "english": "Embassy-Behalf of Constantinople Delivered in Rome",
+        "ancient_greek": "Πρεσβευτικὸς ὑπὲρ Κωνσταντινουπόλεως ῥηθεὶς ἐν"
+      },
+      "url_slug": "themistius-embassy-constantinople-rome-rye-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-constantinople-rome",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-constantinople-rome.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bc",
+      "title": {
+        "english": "Erotic or-Royal Beauty",
+        "ancient_greek": "Ἐρωτικὸς ἢ περὶ κάλλους βασιλικοῦ"
+      },
+      "url_slug": "themistius-erotic-beauty-rye-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/erotic-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/erotic-beauty.json"
+      }
+    },
+    {
+      "eul_wid": "rye-al",
+      "title": {
+        "english": "Exhortation to Nicomedians-Philosophy",
+        "ancient_greek": "Προτρεπτικὸς Νικομηδεῦσιν εἰς φιλοσοφίαν"
+      },
+      "url_slug": "themistius-exhortation-nicomedians-rye-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-nicomedians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-nicomedians.json"
+      }
+    },
+    {
+      "eul_wid": "rye-at",
+      "title": {
+        "english": "Exhortation to Young Valentinian",
+        "ancient_greek": "Προτρεπτικὸς Οὐαλεντινιανῷ νέῳ"
+      },
+      "url_slug": "themistius-exhortation-valentinian-rye-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/exhortation-valentinian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/exhortation-valentinian.json"
+      }
+    },
+    {
+      "eul_wid": "rye-az",
+      "title": {
+        "english": "Moderate or Fond of Children",
+        "ancient_greek": "Μετριοπαθὴς ἢ φιλότεκνος"
+      },
+      "url_slug": "themistius-moderate-children-rye-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/moderate-children",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/moderate-children.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ao",
+      "title": {
+        "english": "On Aristotle's Physics, Paraphrase",
+        "ancient_greek": "Περὶ τῆς Ἀριστοτέλους Φυσικῆς"
+      },
+      "url_slug": "themistius-physics-paraphrase-rye-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/physics-paraphrase",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/physics-paraphrase.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bj",
+      "title": {
+        "english": "On Friendship",
+        "ancient_greek": "Περὶ φιλίας"
+      },
+      "url_slug": "themistius-friendship-rye-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/friendship.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ai",
+      "title": {
+        "english": "On Not Paying Attention to Places but to Men",
+        "ancient_greek": "Περὶ τοῦ μὴ δεῖν τοῖς τόποις ἀλλὰ τοῖς ἀνδράσι"
+      },
+      "url_slug": "themistius-attention-men-rye-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/attention-men",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/attention-men.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/attention-men.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/attention-men.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/attention-men.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kms-ab",
+      "title": {
+        "english": "Fragments Related to Individual Books",
+        "ancient_greek": "Ἀποσπάσματα πρὸς ἕκαστον βιβλίον"
+      },
+      "url_slug": "chrysippus-of-soli-fragments-kms-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chrysippus-of-soli/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chrysippus-of-soli/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "jyc-aa",
+      "title": {
+        "english": "Fragments on the Divine Nature",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Φύσεως"
+      },
+      "url_slug": "pseudo-hellenistic-authors-divine-nature-jyc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hellenistic-authors/divine-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors/divine-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors/divine-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors/divine-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hellenistic-authors/divine-nature.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-aj",
+      "title": {
+        "english": "Hipparchus",
+        "ancient_greek": "Ἵππαρχος"
+      },
+      "url_slug": "plato-hipparchus-ffk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/hipparchus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/hipparchus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/hipparchus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/hipparchus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/hipparchus.json"
+      }
+    },
+    {
+      "eul_wid": "reo-aa",
+      "title": {
+        "english": "On Aristotle's Prior Analytics Book I. Commentary",
+        "ancient_greek": "Εἰς τὸ Πρῶτον Βιβλίον Ἀναλυτικῶν Προτέρων"
+      },
+      "url_slug": "alexander-of-aphrodisias-prior-analytics-commentary-reo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aphrodisias/prior-analytics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aphrodisias/prior-analytics-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "kkk-ah",
+      "title": {
+        "english": "On Flight",
+        "ancient_greek": "Περὶ φυγῆς"
+      },
+      "url_slug": "teles-of-megara-flight-kkk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/teles-of-megara/flight",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/flight.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/flight.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/flight.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/teles-of-megara/flight.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-ai",
+      "title": {
+        "english": "On Memory and Recollection",
+        "ancient_greek": "Περὶ Μνήμης καὶ Ἀναμνήσεως"
+      },
+      "url_slug": "aristotle-memory-recollection-hgw-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/memory-recollection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/memory-recollection.json"
+      }
+    },
+    {
+      "eul_wid": "okg-fa",
+      "title": {
+        "english": "Phocion",
+        "ancient_greek": "Φωκίων"
+      },
+      "url_slug": "plutarch-of-chaeronea-phocion-okg-fa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/phocion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/phocion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/phocion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/phocion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/phocion.json"
+      }
+    },
+    {
+      "eul_wid": "vls-ad",
+      "title": {
+        "english": "Scholia on Sophistical Refutations (Recension B)",
+        "ancient_greek": "Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη"
+      },
+      "url_slug": "sophistical-refutations-anonymous-scholia-ad-vls-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophistical-refutations-anonymous/scholia-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophistical-refutations-anonymous/scholia-ad.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/themistius/epitaph-father",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/epitaph-father.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

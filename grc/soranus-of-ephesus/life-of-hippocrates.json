@@ -1,0 +1,340 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "omy-aa",
+  "eul_aid": "omy",
+  "author_slug": "soranus-of-ephesus",
+  "work_slug": "life-of-hippocrates",
+  "url_slug": "soranus-of-ephesus-life-of-hippocrates-omy-aa",
+  "author": {
+    "english": "Soranus of Ephesus",
+    "ancient_greek": "Σωρανὸς ὁ Ἑφέσιος"
+  },
+  "title": {
+    "english": "Life of Hippocrates According to Soranus",
+    "ancient_greek": "Βίος Ἱπποκράτους κατὰ Σωρανόν"
+  },
+  "seo": {
+    "browser_title": "Life of Hippocrates According to Soranus on Eulogikon",
+    "meta_title": "Ancient Life of Hippocrates According to Soranus in Greek",
+    "meta_description": "Soranus of Ephesus chronicles the life and achievements of Hippocrates, the ancient physician whose medical Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Life of Hippocrates According to Soranus</strong> is a biographical treatise on the renowned physician Hippocrates, composed in Koine Greek by the methodist doctor Soranus of Ephesus in the early second century CE. Structured in sixteen passages, the work is not a critical historical account but rather a systematic compilation of earlier legends and traditions. It details Hippocrates&#x27;s divine lineage traced to Asclepius, his education under his father Heraclides and others, his ethical character, his professional travels, and the circumstances of his death. A significant portion is devoted to cataloging and authenticating the writings attributed to Hippocrates, distinguishing genuine works from spurious ones. Soranus frequently cites his sources, including figures like Eratosthenes and Apollodorus, and occasionally evaluates conflicting reports.</p>\n<p class=\"research-text\">The biography is interpreted by modern scholars as a deliberate effort by Soranus, a leading proponent of a rival medical school, to appropriate the authority of Hippocrates for his own methodological tradition. It was likely intended for an educated audience of medical students and practitioners, serving both as a model of the ideal physician and as a tool for defining the authentic Hippocratic canon. The original Greek text is lost but survives primarily through a later Latin translation dating from approximately the fifth or sixth century CE, which preserves the sixteen-chapter structure. Additional sections are transmitted in Greek through indirect sources, most notably in quotations found within the tenth-century Byzantine encyclopedia known as the <strong>Suda</strong>. This combined transmission established Soranus&#x27;s biography as the principal source for all subsequent ancient accounts of Hippocrates&#x27;s life.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΙΠΠΟΚΡΑΤΟΥΣ ΓΕΝΟΣ ΚΑΙ ΒΙΟΣ ΚΑΤΑ ΣΩΡΑΝΟΝ Ἱπποκράτης γένει μὲν ἦν Κῷος, υἱὸς Ἡρακλείδα καὶ Φαιναρέτης, εἰς Ἡρακλέα καὶ Ἀσκληπιὸν τὸ γένος ἀναφέρων, ἀφ’ οὗ μὲν εἰκοστός, ἀφ’ οὗ δὲ ἐννεακαιδέκατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "μνημονεύει δὲ τῆς γενεαλογίας αὐτοῦ Ἐρατοσθένης καὶ Φερεκύδης καὶ Ἀπολλόδωρος καὶ Ἄρειος ὁ Ταρσεύ ς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "μαθητὴς δὲ γέγονεν Ἡρακλείδα τοῦ [ἰδίου] πατρός, εἶτα Ἡροδίκου, κατὰ δέ τινας καὶ Γοργίου τοῦ Λεοντίνου ῥήτορος, φιλοσόφου δὲ Δημοκρίτου Ἀβδηρίτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "κατὰ δὲ τοὺς Πελοποννησιακοὺς ἤκμασε χρόνους γεννηθείς, ὥς φησιν Ἰσχόμαχος ἐν τῷ πρώτῳ Περὶ τῆς Ἱπποκράτους αἱρέσεω ς, κατὰ τὸ πρῶτον ἔτος τῆς ὀγδοηκοστῆς ὀλυμπιάδος, ὡς δὲ Σωρανὸς ὁ Κῷος ἐρευνήσας τὰ ἐν Κῷ γραμματοφυλακεῖα προστίθησι, μοναρχοῦντος Ἀβριάδα, μηνὸς Ἀγριανίου ἑβδόμῃ καὶ εἰκοστῇ, παρ’ ὃ καὶ ἐναγίζειν ἐν αὐτῇ μέχρι νῦν Ἱπποκράτει φησὶ τοὺς Κῴους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "συνασκηθεὶς δὲ ἐν τῇ ἰατρικῇ καὶ τοῖς ἐγκυκλίοις μαθήμασι τῶν γονέων αὐτοῦ τελευτησάντων μετέστη τῆς [ἰδίας] πατρίδος, ὡς μὲν κακοήθως Ἀνδρέας φησὶν ἐν τῷ Περὶ τῆς ἰατρικῆς γενεαλογία ς, διὰ τὸ ἐμπρῆσαι τὸ ἐν Κνίδῳ γραμματοφυλακεῖον· ἄλλοι δέ φασιν, ὅτι προθέσει τοῦ κατὰ τόπους τὰ ἀποτελούμενα θεάσασθαι καὶ συγγυμνασθῆναι ποικιλώτερον· ὡς δὲ Σωρανὸς ὁ Κῷος ἱστορεῖ, ὄνειρος αὐτῷ παρέστη κελεύων τὴν Θεσσαλῶν γῆν κατοικεῖν. τὴν δὲ σύμπασαν Ἑλλάδα θεραπεύων ἐθαυμάσθη, ὥστε καὶ ὑπὸ Περδίκκα τοῦ Μακεδόνων βασιλέως φθισικοῦ νομισθέντος παρακληθέντα δημοσίᾳ πρὸς αὐτὸν ἐλθεῖν μετ’ Εὐρυφῶντος, ὃς καθ’ ἡλικίαν πρεσβύτερος ἦν αὐτοῦ, καὶ σημειώσασθαι ψυχῆς εἶναι τὸ πάθος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "ἤρα γὰρ μετὰ τὸν τοῦ πατρὸς Ἀλεξάνδρου θάνατον Φίλας τῆς παλλακίδος αὐτοῦ, πρὸς ἣν δηλώσαντα τὸ γεγονός, ἐπειδὴ παρεφύλαξεν ταύτης βλεπομένης παντελῶς ἐκεῖνον τρέπεσθαι, λῦσαι μὲν τὴν νόσον, ἀνακτήσασθαι δὲ τὸν βασιλέα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "παρεκλήθη δὲ ὑπὸ [τῶν] Ἀβδηριτῶν πρὸς αὐτοὺς ἀπελθεῖν καὶ Δημόκριτον μὲν ὡς ἐν μανίᾳ θεραπεῦσαι, ῥύσασθαι δὲ λοιμοῦ τὴν πόλιν ὅλην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ἀλλὰ καὶ εἰς τὴν Ἰλλυριῶν καὶ Παιόνων βαρβάρων γῆν λοιμοῦ κατασκήψαντος καὶ δεομένων τῶν ἐκεῖ βασιλέων πρὸς αὐτοὺς ἐλθεῖν, παρὰ τῶν πρέσβεων τίνα ἦν ἐκεῖ τὰ πολλὰ τῶν πνευμάτων μαθὼν ἐκείνους μὲν ἀπράκτους ἀπέπεμψε, συλλογισάμενος δὲ τὴν νόσον ἐπὶ τὴν Ἀττικὴν ἥξειν, προειπὼν τὸ γενησόμενον καὶ τῶν πόλεων καὶ τῶν μαθητῶν ἐπεμελήθη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "τοσοῦτον δὲ φιλέλλην ὑπῆρξεν, ὥστε τῆς δόξης αὐτοῦ μέχρι Περσῶν διαπύστου γενομένης καὶ διὰ τοῦτο καὶ τοῦ Ἀρταξέρξου διὰ Ὑστάνους τοῦ Ἑλλησποντίων ὑπάρχου ἐπὶ μεγάλαις δωρεαῖς δεομένου πρὸς αὐτὸν ἐλθεῖν, διὰ τὸ σεμνὸν καὶ ἀφιλάργυρον καὶ φιλοίκειον ἀρνήσασθαι, ὡς καὶ τοῦτο διὰ τῆς πρὸς αὐτὸν ἐπιστολῆς δηλοῦται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ἐρρύσατο δὲ τὴν ἑαυτοῦ πατρίδα πολεμεῖσθαι μέλλουσαν ὑπὸ Ἀθηναίων, Θεσσαλῶν δεηθεὶς ἐπιβοηθῆσαι. διὸ καὶ λαμπρῶν ἔτυχε τιμῶν παρὰ Κῴοις, ἀλλὰ καὶ Θεσσαλοῖς καὶ Ἀργείοις καὶ Ἀθηναίοις, οἵτινες καὶ δεύτερον αὐτὸν ἀφ’ Ἡρακλέους δημοσίᾳ τοῖς Ἐλευσινίοις ἐμύησαν καὶ πολίτην ἔγραψαν καὶ τὴν ἐν πρυτανείῳ σίτησιν ἔδοσαν εἰς ἐκγόνους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "ἀφθόνως δὲ τοὺς ἐπιτηδείους ἐδίδασκε τὴν τέχνην μετὰ τοῦ προσήκοντος Ὅρκο υ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "ἐτελεύτα δὲ παρὰ Λαρισσαίοις, ὅτε καὶ Δημόκριτος φέρεται τελευτήσας, καὶ οἱ μὲν ἐνενήκοντα ἐτῶν, οἱ δὲ ὀγδοήκοντα πέντε φασίν, ἄλλοι ἑκατὸν τεσσάρων, τινὲς ἑκατὸν ἐννέα. τέθαπται δὲ μεταξὺ Γυρτῶνος καὶ Λαρίσσης, καὶ δείκνυται ἄχρι δεῦρο τὸ μνῆμα, ἐν ᾧ μέχρι πολλοῦ σμῆνος ἦν ἐργαζόμενον μέλι, ἀφ’ οὗ τὰ ἀφθῶντα παιδάρια χρίουσαι παρὰ τῷ τάφῳ ῥᾳδίως ἀπήλλαττον αἱ τιτθαί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "ἐν δὲ ταῖς πολλαῖς εἰκόσιν ἐσκεπασμένος τὴν κεφαλὴν γράφεται, ὡς μέν τινες λέγουσι πίλῳ, παράσημον εὐγενείας, καθάπερ Ὀδυσσεύς, ἄλλοι δὲ τῷ ἱματίῳ· καὶ τούτων οἱ μὲν δι’ εὐπρέπειαν, ἐπεὶ φαλακρὸς ἦν, οἱ δὲ διὰ τὸ ἀσθενὲς τῆς κεφαλῆς, οἱ δὲ δι’ ἔμφασιν τοῦ δεῖν τὸ τοῦ ἡγεμονικοῦ χωρίον φρουρεῖν, οἱ δὲ τοῦ φιλαποδήμου τεκμήριον, οἱ δὲ τῆς ἐν τοῖς συγγράμμασιν ἀσαφείας, οἱ δὲ πρὸς παράστασιν τοῦ δεῖν κἀν τῷ ὑγιαίνειν φυλάσσεσθαι τὰ βλάπτοντα, τινὲς δὲ ὅτι χειρίζων πρὸς τὸ τῶν χειρῶν ἀπαραπόδιστον συμπεριλαμβάνων τὸ τοῦ ἱματίου περικεχυμένον ἐπετίθει τῇ κεφαλῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "περὶ δὲ τῶν συγγραμμάτων αὐτοῦ πολλὴ γέγονε διαφωνία ἄλλων ἄλλα δοξασάντων. ὅθεν οὐκ εὐμαρὲς τὸ περὶ αὐτῶν ἀποφήνασθαι, διὰ τὸ πολλὰς αἰτίας ἐπισκοτεῖν τῇ κρίσει, πρῶτον τὴν ἐπωνυμίαν, δεύτερον τὸ δύνασθαι τὸν χαρακτῆρα τῆς φράσεως τηρῆσαι, τρίτον διὰ τὸ ἕνα καὶ τὸν αὐτὸν ποτὲ μὲν ῥωμαλεώτερον, ἄλλοτε ἀσθενέστερον διὰ τὴν ἡλικίαν συγγράφειν. καὶ ἄλλας δὲ [μετὰ τούτων] αἰτίας ἔστιν εἰπεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "[ἀφιλάργυρος δὲ καὶ τοῖς τρόποις σεμνὸς καὶ φιλέλλην ὑπῆρχεν, ὅτι καὶ τοὺς ὁμοεθνεῖς ἐθεράπευε συμπάσῃ σπουδῇ, ὡς καὶ λοιμῶν ὅλας ῥύσασθαι πόλεις, καθάπερ εἴρηται. ὅθεν καὶ λαμπρῶν ἔτυχε τιμῶν οὐ παρὰ Κῴοις μόνον, ἀλλὰ καὶ Ἀργείοις καὶ Ἀθηναίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "] παῖδας δὲ κατέλιπε [θανὼν] δύο, Θεσσαλὸν καὶ Δράκοντα, καὶ μαθητὰς παμπληθεῖς, ἐπιφανεστάτους δὲ τοὺς ἑαυτοῦ παῖδας [λέγεται γενέσθαι].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "omy-ac",
+      "title": {
+        "english": "Four Books-Women",
+        "ancient_greek": "Γυναικείων Βιβλία Δ'"
+      },
+      "url_slug": "soranus-of-ephesus-four-books-women-omy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/four-books-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.json"
+      }
+    },
+    {
+      "eul_wid": "omy-ad",
+      "title": {
+        "english": "On Bandages",
+        "ancient_greek": "Περὶ Ἐπιδέσμων"
+      },
+      "url_slug": "soranus-of-ephesus-bandages-omy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/bandages",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/bandages.json"
+      }
+    },
+    {
+      "eul_wid": "omy-ab",
+      "title": {
+        "english": "On Signs of Fractures",
+        "ancient_greek": "Περὶ Σημείων Καταγμάτων"
+      },
+      "url_slug": "soranus-of-ephesus-fractures-omy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/fractures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/fractures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/fractures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/fractures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/fractures.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.json"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-ag",
+      "title": {
+        "english": "Medical Book II",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Βʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-ii-vhc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-ii",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-ii.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-ii.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-ii.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-ii.json"
+      }
+    },
+    {
+      "eul_wid": "fws-aa",
+      "title": {
+        "english": "Menecrates the Physician",
+        "ancient_greek": "Μενεκράτης ὁ Ἰατρός"
+      },
+      "url_slug": "menecrates-of-syracuse-physician-fws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-syracuse/physician",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ea",
+      "title": {
+        "english": "On Fullness",
+        "ancient_greek": "Περὶ πληρότητος"
+      },
+      "url_slug": "galen-of-pergamon-fullness-qmm-ea",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/fullness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fullness.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fullness.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fullness.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fullness.json"
+      }
+    },
+    {
+      "eul_wid": "bww-be",
+      "title": {
+        "english": "On Hemorrhoids",
+        "ancient_greek": "Περὶ αἱμοῤῥοίδων"
+      },
+      "url_slug": "hippocrates-hemorrhoids-bww-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/hemorrhoids",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/hemorrhoids.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/hemorrhoids.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/hemorrhoids.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/hemorrhoids.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cr",
+      "title": {
+        "english": "On the Causes of Diseases",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-causes-diseases-qmm-cr",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ad",
+      "title": {
+        "english": "Selections of Medicines",
+        "ancient_greek": "Ἐπιλογαὶ Φαρμάκων"
+      },
+      "url_slug": "oribasius-of-pergamon-medicinal-selections-soi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medicinal-selections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/soranus-of-ephesus/life-of-hippocrates",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/life-of-hippocrates.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/life-of-hippocrates.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/life-of-hippocrates.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/life-of-hippocrates.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

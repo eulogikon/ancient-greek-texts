@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nno-ab",
+  "eul_aid": "nno",
+  "author_slug": "polybius-of-sardis",
+  "work_slug": "fragments-figures",
+  "url_slug": "polybius-of-sardis-fragments-figures-nno-ab",
+  "author": {
+    "english": "Polybius of Sardis",
+    "ancient_greek": "Πολύβιος ὁ Σαρδιανός"
+  },
+  "title": {
+    "english": "Fragments-Figures",
+    "ancient_greek": "Ἀποσπάσματα περὶ σχημάτων"
+  },
+  "seo": {
+    "browser_title": "Ancient Fragments of Polybius of Sardis on Eulogikon",
+    "meta_title": "Fragments on Figures by Polybius of Sardis in Greek",
+    "meta_description": "Polybius of Sardis examines rhetorical figures and stylistic transformations in oratory through surviving Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments-Figures</strong> of Polybius of Sardis is a rhetorical treatise from the Roman Imperial period, known in Greek as a collection of excerpts concerning rhetorical figures. Structured as an oration comprising five surviving passages, the work focuses on the classification and analysis of these figures. Its content, as evidenced by the extant fragments, deals with rhetorical theory and practice, examining specific techniques such as metaschēmatismós, the deliberate alteration of customary phrasing for metrical or stylistic effect. The treatise is not attested within the standard manuscript traditions and is considered a lost or highly fragmentary text. Its transmission appears limited to these few passages, preserved only through indirect citations in later works. While its fragmentary state obscures the original scope and analytical depth, the work exemplifies the common production of technical rhetorical handbooks during the Imperial era, likely intended for the practical training of orators. Its relative obscurity stands in contrast to the enduring influence of more comprehensive rhetorical manuals produced by contemporaries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "105 (1t)",
+      "text": "ΠΟΛΥΒΙΟΥ ΣΑΡΔΙΑΝΟΥ ΠΕΡΙ ΣΧΗΜΑΤΙΣΜΟΥ. Μετασχηματισμός ἐστι λέξεως συνήθους κίνησις μέτρου χάριν ἢ κατασκευῆς, ὡς ἐν τῷ κραδίη· ἐμφαίνει γὰρ τὴν τοῦ σπλάγχνου ἰδιότητα, ὅτι κραδαίνεται διηνεκῶς. συστολή ἐστιν ἔνδεια χρόνου, γίνεται δὲ ἤτοι διὰ χρόνου παρὰ φύσιν συστελλομένου, οὐκ ἐάσουσιν ἐμοὶ δόμεναι βιὸν ἠδὲ φαρέτραν. μετασχηματίζουσι δὲ ἤτοι γένος, οἷον μηνιθμὸν μὲν ἀπορρῖψαι, ἀντὶ τοῦ μῆνιν, καὶ μήτοι τι θεῶν μήνιμα γένωμαι· δείελος ὀψὲ δύων· καὶ μένον δ’ ἐπὶ ἕσπερον ἐλθεῖν, ἀντὶ ἑσπέραν· ἢ ἀριθμόν, μειδιόων βλοσυροῖσι προσώπασιν· ἢ πτῶσιν, Πατροκλῆος δειλοῖο καὶ Σαρπήδοντος ἑταῖρον, ἀντὶ τοῦ Σαρπηδόνος· ἢ διαλύουσι μίαν λέξιν εἰς δύο, πόλιν ἄκρην ἀντὶ τοῦ ἀκρόπολιν, καὶ Σάμου ὑληέσσης Θρηϊκίης, ἀντὶ Σαμοθρᾴκης· ἢ δύο εἰς μίαν λέξιν σχηματίζουσι· τὸν γοῦν καθ’ ἕνα ἄνδρα ἀνδρακὰς ἔφη ὁ ποιητής, καὶ τὸ κατὰ μόνον μουνὰξ ὀρχήσασθαι· ἢ τὴν σύνθεσιν τῆς λέξεως ἐναλλάττουσιν ὡς παρὰ Σοφοκλεῖ, οἱ γὰρ γύνανδροι καὶ λέγειν ἠσκηκότες, ἀντὶ τοῦ ἀνδρόγυνοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "106",
+      "text": "γίνεται δὲ μετασχηματισμὸς καὶ ὅταν τις τὸ κύριον κατὰ μείωσίν τινα προενέγκηται. Ὅμηρος ἵππους δ’ Αὐτομέδων ἠδ’ Ἄλκιμος, ἀντὶ τοῦ Ἀλκιμέδων. ΠΕΡΙ ΤΩΝ ΤΗΣ ΚΑΤΑΣΚΕΥΗΣ ΕΙΔΩΝ. Ὁμοίωσίς ἐστι λόγος, καθ’ ὃν ὁμοιοῦμεν ἕτερον ἑτέρῳ. εἴδη δὲ αὐτῆς τρία, παραβολή, παράδειγμα, εἰκών. παραβολή ἐστι πρᾶγμα πράγματι παραβαλλόμενον κατά τι οἰκεῖον αὐξήσεως ἢ ἐμφάσεως ἢ σαφηνείας ἕνεκα, αὐξήσεως μέν ὡς δ’ ὅτ’ ἂν ἀστράπτῃ πόσις Ἥρης ἠϋκόμοιο, ὡς πυκίν’ ἐν στήθεσσιν ἀνεστενάχιζ’ Ἀγαμέμνων· ἐμφάσεως δέ, ἐν δ’ ἔπες’, ὡς ὅτε κῦμα θοῇ ἐνὶ νηῒ πέσῃσι λάβρον. σαφηνείας δ’ ἕνεκα, ἐπὶ δ’ ὄρνυτο δῖος Ὀδυσσεὺς ἄγχι μάλ’, ὡς ὅτε τίς τε γυναικὸς ἐϋζώνοιο στήθεός ἐστι κανών, ὅντ’ εὖ μάλα χειρὶ τανύσσῃ πήνιον ἐξέλκουσα παρὲκ μίτον. Εἰσὶ δὲ τῶν παραβολῶν αἱ μὲν ἀνταποδοτικαί, αἱ δὲ ἀπόλυτοι, ἀνταποδοτικαὶ μὲν αἱ τοιαῦται, ὡς δὲ λέων ἐν βουσὶ θορὼν ἐξ αὐχένα ἄξει πόρτιος ἠὲ βοός, καὶ ἑξῆς· ὣς τοὺς ἀμφοτέρους ἐξ ἵππων Τυδέος υἱὸς βῆσε κακῶς ἀέκοντας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "107",
+      "text": "καὶ ἔστιν ἀνταποδιδόμενος τῇ παραβολῇ. ἀπόλυτοι δέ εἰσιν αἱ δίχα ἀνταποδόσεως λεγόμεναι, οἷον ὥστε γὰρ ἢ παῖδες νεαροὶ χῆραί τε γυναῖκες ἀλλήλοισιν ὀδύρονται οἶκόνδε νέεσθαι. Παράδειγμα δέ ἐστι λόγος διὰ τῆς ὁμοίων παραθέσεως προτροπὴν ἢ ἀποτροπὴν ἢ ἀπόδειξίν τινων ἔχων· προτροπὴν μὲν ἢ οὐκ ἀΐεις οἷον κλέος ἔλλαβε δῖος Ὀρέστης, καὶ τὰ ἑξῆς, ἀποτροπὴν δὲ οὐδὲ γὰρ οὐδὲ Δρύαντος υἱὸς κρατερὸς Λυκόεργος· ἀπόδειξιν δὲ τὸ παράδειγμα οὕτως ἔχει, σχέτλιοι ἐστὲ θεοὶ ζηλήμονες ἔξοχον ἄλλων οἵ τε θεαῖς ἀγάασθε παρ’ ἀνδράσιν εὐνάζεσθαι. εἶτα, ὡς μὲν ὅτ’ Ὠρίων’ ἕλετο ῥοδοδάκτυλος Ἠώς· ὡς δ’ ὁπότ’ Ἰασίωνι ἐϋπλόκαμος Δημήτηρ, ὡς αὖ νῦν μοι ἀγᾶσθε θεοὶ βροτὸν ἄνδρα παρεῖναι. παράκειται τῷ παραδείγματι καὶ ἡ καλουμένη ἐπαγωγή. ἐπαγωγὴ δέ ἐστιν, ὅταν τι τῶν ὁμοίων προθέντες ἐπάγωμεν, εἰς ὃ συμπείθομεν, οἷον μήτι τοι δρυτόμος μέγ’ ἀμείνων, ἠὲ βίῃφι, μήτι δ’ αὖτε κυβερνήτης ἐνὶ οἴνοπι πόντῳ, νῆα θοὴν ἰθύνει ἐρεχθομένην ἀνέμοισιν· εἶτ’ ἐπάγει, μήτι δ’ ἡνίοχος περιγίνεται ἡνιόχοιο. Εἰκών ἐστι λόγος εἴδους εἴδει παρατεθεὶς ὁλοσχερῶς ἢ ἀπὸ μέρους· ὁλοσχερῶς μὲν Ἀρτέμιδι ἰκέλη ἠὲ χρυσῇ Ἀφροδίτῃ· ἀπὸ μέρους δέ, ὄμματα καὶ κεφαλὴν ἴκελος Διῒ τερπικεραύνῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "108",
+      "text": "Ἄρεϊ δὲ ζώνην, στέρνον δὲ Ποσειδάωνι. Παράκειται δὲ τῇ εἰκόνι ἐννέα, εἰκονισμός, εἰκονογραφία, ὑποτύπωσις, εἰδωλοποιΐα, εἰκασία, εἰδικὴ ὁμοίωσις, χαρακτηρισμός, τοποθεσία καὶ τοπογραφία. εἰκονισμός ἐστι σώματος ἰδίως ἀπόδοσις ἐξ ἱστορίας λαμβανόμενος, οἷον γυρὸς ἐν ὤμοισιν, μελανόχροος, οὐλοκάρηνος. καὶ τὸ ἐπὶ Θερσίτου φολκὸς ἔην, χωλὸς δ’ ἕτερον πόδα. τὸ δ’ αὐτὸ καὶ εἰκονογραφία ἂν εἴη, ὅταν κατὰ τὴν ἀπόδοσιν τῆς μορφῆς ὁμοιώσεως ἐφάπτηται. Ὑποτύπωσίς ἐστι σώματος ἰδίως ἀπόδοσις πεπλασμένου, καὶ γάρ τε λιταί εἰσι Διὸς κοῦραι μεγάλοιο, χωλαί τε ῥυσαί τε παραβλῶπές τ’ ὀφθαλμώ. Παράκειται δ’ αὐτῇ εἰδωλοποιΐα, ὅταν δαίμονάς τινας ἀπὸ πραγμάτων ἀναπλάττωμεν, ὡς τὰς λιτὰς Ὅμηρος. Εἰκασία ἐστὶ φράσεως ὑπόληψις ἰδιώσεως μορφὴν ἐμφαίνουσα, εἰ μέν τις θεός ἐσσι, τοὶ οὐρανὸν εὐρὺν ἔχουσιν, Ἀρτέμιδί σε ἔγωγε Διὸς κούρῃ μεγάλοιο εἶδός τε μέγεθός τε φυήν τ’ ἄγχιστα ἐΐσκω. Ἡ δὲ εἰδικὴ ὁμοίωσίς ἐστι παράθεσις ὁμοίων χαρακτήρων, οἷον κείνου γὰρ τοιοίδε πόδες, τοιαίδε τε χεῖρες, ὀφθαλμῶν τε βολαί, κεφαλή τ’ ἐφύπερθέ τε χαῖται. Χαρακτηρισμός ἐστιν ὑποτύπωσις ἰδιώματος ψυχῆς, οἷον εὖ δὲ σὺ οἶσθα, γεραιὲ διοτρεφές, οἷον ἐκεῖνος δεινὸς ἀνήρ· τάχα κεν καὶ ἀναίτιον αἰτιόῳτο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "109",
+      "text": "Τοποθεσία ἐστὶ τόπων ἰδίων ἀπόδοσις ὑφεστώτων, οἷά ἐστι τὰ ἐπὶ τῆς Ἰθάκης, Φόρκυνος μὲν ὅδ’ ἐστὶ λιμὴν ἁλίοιο γέροντος ἐν δήμῳ Ἰθάκης· δύο δὲ προβλῆτες ἐν αὐτῇ, καὶ ἑξῆς. Τοπογραφία ἐστὶ τόπου ἰδίως ἀπόδοσις πεπλασμένου, ὡς ἔχει ἥ τε Καλυψοῦς νῆσος, ὕλη δὲ σπέος ἀμφὶ πεφύκει τηλεθόωσα· καὶ τὰ ἐπὶ τῆς Λεχείας, νῆσος ἔπειτα Λέχεια παρακεκλιμένη τετάνυσται. Εἶδος δ’ ἂν εἴη τῆς ὁμοιώσεως καὶ ἡ καλουμένη διαφορά, ἥτις πᾶσι τοῖς ἄλλοις τῆς ὁμοιώσεως εἴδεσιν ἀντέστραπται, οἷον οὔτε θαλάσσης κῦμα τόσον βοάᾳ ποτὶ χέρσον, καὶ τὰ ἑξῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "nno-aa",
+      "title": {
+        "english": "On Barbarism and Solecism",
+        "ancient_greek": "Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ"
+      },
+      "url_slug": "polybius-of-sardis-barbarism-solecism-nno-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polybius-of-sardis/barbarism-solecism",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/barbarism-solecism.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qwm-bk",
+      "title": {
+        "english": "Address to Smyrna",
+        "ancient_greek": "Προσφωνητικός Σμυρναϊκός"
+      },
+      "url_slug": "aristides-the-orator-smyrna-qwm-bk",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/smyrna",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/smyrna.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-at",
+      "title": {
+        "english": "Archidamus",
+        "ancient_greek": "Ἀρχίδαμος"
+      },
+      "url_slug": "isocrates-of-athens-archidamus-at-ffu-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/archidamus-at",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-at.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-ck",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "ἐπιτάφιος"
+      },
+      "url_slug": "demosthenes-of-athens-epitaph-fsm-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/epitaph",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/epitaph.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/epitaph.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/epitaph.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/epitaph.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cb",
+      "title": {
+        "english": "Harmonides",
+        "ancient_greek": "Ἁρμονίδης"
+      },
+      "url_slug": "lucian-of-samosata-harmonides-pfk-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/harmonides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/harmonides.json"
+      }
+    },
+    {
+      "eul_wid": "qng-ae",
+      "title": {
+        "english": "On Discovery",
+        "ancient_greek": "Περὶ εὑρέσεως"
+      },
+      "url_slug": "hermogenes-of-tarsus-discovery-qng-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermogenes-of-tarsus/discovery",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/discovery.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/discovery.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/discovery.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermogenes-of-tarsus/discovery.json"
+      }
+    },
+    {
+      "eul_wid": "okq-ac",
+      "title": {
+        "english": "Orations",
+        "ancient_greek": "Λόγοι"
+      },
+      "url_slug": "dio-chrysostom-orations-okq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-chrysostom/orations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-chrysostom/orations.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-aa",
+      "title": {
+        "english": "Philopatris or The Student",
+        "ancient_greek": "Φιλόπατρις ἢ Διδασκόμενος"
+      },
+      "url_slug": "pseudo-lucian-philopatris-qeu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/philopatris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-bi",
+      "title": {
+        "english": "To Onetor On Eviction B",
+        "ancient_greek": "πρὸς Ὀνήτορα ἐξούλης β΄"
+      },
+      "url_slug": "demosthenes-of-athens-onetor-eviction-bi-fsm-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/onetor-eviction-bi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/onetor-eviction-bi.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/polybius-of-sardis/fragments-figures",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/fragments-figures.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/fragments-figures.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/fragments-figures.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polybius-of-sardis/fragments-figures.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

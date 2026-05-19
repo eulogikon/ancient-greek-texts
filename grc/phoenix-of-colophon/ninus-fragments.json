@@ -1,0 +1,560 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ale-aa",
+  "eul_aid": "ale",
+  "author_slug": "phoenix-of-colophon",
+  "work_slug": "ninus-fragments",
+  "url_slug": "phoenix-of-colophon-ninus-fragments-ale-aa",
+  "author": {
+    "english": "Phoenix of Colophon",
+    "ancient_greek": "Φοῖνιξ ὁ Κολοφώνιος"
+  },
+  "title": {
+    "english": "Fragments on Ninus the Assyrian",
+    "ancient_greek": "Ἀποσπάσματα περὶ Νίνου τοῦ Ἀσσυρίου"
+  },
+  "seo": {
+    "browser_title": "Fragments on Ninus by Phoenix of Colophon on Eulogikon",
+    "meta_title": "Fragments on Ninus by Phoenix of Colophon in Ancient Greek",
+    "meta_description": "Poetic fragments on Ninus the Assyrian by Phoenix of Colophon. A work of ancient Greek verse. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (ia, frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Ninus the Assyrian</strong> by Phoenix of Colophon is a lost poetic work, known only by its title and a reported structure of fifty-four passages. No direct quotations from the poem survive. The author is an obscure figure, mentioned in the Suda lexicon solely for a work titled <strong>The Founding of Colophon</strong> and for unspecified other compositions. The title indicates the subject was Ninus, the legendary founder of Nineveh and the Assyrian Empire in Greek mythological tradition. The lost poem would have engaged with established Greek legendary traditions about the Near East, treating Ninus as a paradigm of the empire-builder and likely narrating martial exploits, dynastic foundations, and the origins of Nineveh, consistent with accounts that link him to the queen Semiramis. The work is not directly attested in any extant ancient source, and its purported details remain unverified. While the poem itself is lost and its direct influence untraceable, its presumed subject matter connects it to the enduring Greek and Roman historical imagination regarding Assyria, a tradition transmitted through historians such as Ctesias and Diodorus Siculus.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἀνὴρ Νίνος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τις ἐγένετ’, ὡς ἐγὼ ’κούω, Ἀσσύριος, ὅστις εἶχε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χρυσίου πόντον, τάλαντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πολλῷ πλεῦνα Κασπίης ψάμμου, †ὃς ὀυκϊ δ’ ἀστερ’ ὀυδιζωνεδίζητο,[ln_5]οὐ πὰρ μάγοισι πῦρ ἱερὸν ἀνέστησεν, ὥσπερ νόμος, ῥάβδοισι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοῦ θεοῦ ψαύων· οὐ μυθιήτης, οὐ δικασπόλος κεῖνος· οὐ λεωλογεῖν ἐμάνθαν’, οὐκ ἀμιθρῆσαι, ἀλλ’ ἦν ἄριστος ἐσθίειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "τε καὶ πίνειν[ln_10]κἠρᾶν, τὰ δ’ ἄλλα πάντα κατὰ πετρῶν ὤθει. Ὡς δ’ ἀπέθαν’ ὡνήρ, πᾶσι κατέλιπε ῥῆσιν ὅκου Νίνος νῦν ἐστι καὶ τὸ σῆμ’ ᾄδει· “Ἄκουσον, εἴτ’ Ἀσσύριος εἴτε καὶ Μῆδος εἶς ἢ Κοραξός, ἢ ’πὸ τῶν ἄνω λιμνῶν[ln_15]〈Σ〉ινδὸς κομήτης· οὐ γὰρ ἀλλὰ κηρύσσω· ἐγὼ Νίνος πάλαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "ποτ’ ἐγενόμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.8",
+      "text": "πνεῦμα, νῦν δ’ οὐκέτ’ οὐδέν, ἀλλὰ γῆ πεποίημαι·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἔχω δ’ ὁκόσον ἔπαισα χὠκός’ ἤεισα χὠκόσς’ ἐράσθην [[ln_20]τὰ δ’ ὄλβι’ ἡμέων δήιοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "συνελθόντες φέρουσιν, ὥσπερ ὠμὸν ἔριφον αἱ Βάκχαι· ἐγὼ δ’ ἐς Ἅιδην οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χρυσὸν οὔθ’ ἵππον οὔτ’ ἀργυρῆν ἅμαξαν ᾠχόμην ἕλκων· σποδὸς δὲ πελλὴ χὠ μιτρηφόρος κεῖμαι”.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "Ἐσθλοί, κορώνῃ χεῖρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πρόσδοτε κριθέων, τῇ παιδὶ τἀπόλλωνος, ἢ λέκος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πυρῶν ἢ ἄρτον ἢ ἥμαιθον ἢ ὅτι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "τις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "χρῄζει. Δότ’, ὦγαθοί, 〈τι〉 τῶν ἕκαστος ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.6",
+      "text": "χερσὶν[ln_5]ἔχει κορώνῃ· χἄλα λήψεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.7",
+      "text": "χονδρόν· φιλεῖ γὰρ αὕτη πάγχυ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.8",
+      "text": "ταῦτα δαίνυσθαι· ὁ νῦν ἅλας δοὺς αὖθι κηρίον δώσει. Ὦ παῖ, θύρην ἄγκλινε, Πλοῦτος ἔκρουσε, καὶ τῇ κορώνῃ παρθένος φέροι σῦκα.[ln_10]Θεοί, γένοιτο πάντ’ ἄμεμπτος ἡ κούρη, κἀφνειὸν ἄνδρα κὠνρμαστὸν ἐξεύροι, καὶ τῷ γέροντι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.9",
+      "text": "πατρὶ κοῦρον εἰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.10",
+      "text": "χεῖρας καὶ μητρὶ κούρην εἰς τὰ γοῦνα κατθείη, θάλος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.11",
+      "text": "τρέφειν γυναῖκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.12",
+      "text": "τοῖς κασιγνήτοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "[ln_15]Ἐγὼ δ’, ὅκοι πόδες φέρωσιν, ὀφθαλμοὺς ... ἀμείβομαι Μούσῃσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "πρὸς θύρῃς ᾄδων, καὶ δόντι καὶ μὴ δόντι, πλεῦνα τῶν 〈Γύ〉γεω.[ln_17]καὶ ἐπὶ τέλει δὲ τοῦ Ἰάμβου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "φησίν· ἀλλ’, ὦγαθοί, ’πορέξαθ’ ὧν μυχὸς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.4",
+      "text": "πλουτεῖ· δός, ὦ 〈ἄ〉ναξ, δὸς καὶ σὺ πότνα μοι νύμφη·[ln_20]νόμος κορώνῃ χεῖρα δοῦν’ ἐπαιτούσῃ. Τοσαῦτ’ ἀείδω· δός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.5",
+      "text": "τι καὶ καταχρήσει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Νίνου κάδοι μάχαιρα καὶ κύλιξ αἰχμή, κύμβη δὲ τόξα, δήιοι δὲ κρητῆρες, ἵπποι δ’ ἄκρητος, κἀλαλὴ “μύρον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "χεῖτε”.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "Θαλῆς γάρ, ὅστις ἀστέρων .. .... ὀνήιστος καὶ τῶν τότ’, ὡς λέγουσι, πολλὸν ἀνθρώπων ἐὼν ἄριστος, ἔλαβε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "πελλίδα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "χρυσῆν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "Ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "πελλίδος 〈γὰρ〉 τάργανον κατηγυίης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.3",
+      "text": "χωλοῖσι δακτύλοισι τᾐτέρῃ σπένδει, τρέμων οἷόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.4",
+      "text": "περ ἐν βορηίῳ νωδός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Ἴαμ̣β̣ος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "Φοίνικος [.]η̣[ln_1]Πο̣λ̣λοῖς γε θνητῶν τἀγ[ά]θ’, ὦ Ποσείδιππε, οὐ [σύ]μφορ’ ἐστίν, ἀλλὰ δεῖ τοιαῦτ’ αὐτοὺς [.]ο̣ν̣.ει̣ν ὁκο[ῖ]α καὶ Φρονε̣[ῖ]ν ἐπίστανται. Νῦν δ’ οἱ μὲν ἡμῶν κρή̣[γυ]οι καθεστῶτες[ln_5]π̣ολλὴν ἀφ̣ειδέως νη̣[πιέη]ν̣ ἐρεύγοντα[ι]· [οἱ] δ̣’ ο̣ὔτε σῦκα, φασίν, οὔτ’ ἐρίν’ εὖντες",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "πλουτοῦσι· τῷ πλούτῳ δὲ πρὸ̣ς̣ τί δεῖ χρῆ[σθ]αι, τοῦτ’ αὐτὸ πάντων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.4",
+      "text": "πρῶτον οὐκ ἐπίστανται· ἀλλ’ ο̣ἰκ̣[ία]ς μὲν ἐγ λίθου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.5",
+      "text": "σμαραγδίτου,[ln_10]εἴ πω[ς] ἀ̣νυστόν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.6",
+      "text": "τοῦτ’ αὐτοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.7",
+      "text": "πρήσσειν̣, [..]τ̣[..] ἐχούσας καὶ στοὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.8",
+      "text": "τετραστύλους [πολλῶ]ν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.9",
+      "text": "τα̣λάντων ἀξίας κατακτῶν̣ται· [......].ἑ̣αυτ[ῶν τ]ὴν ἀναγκαίην̣ ψ̣υ̣χ̣ὴν [.......]ησκ[.... το]ύτων πάντων[ln_15][.........]ρα....τ̣.ν ἐκπορίζουσιν [....λ]ό̣γοις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.10",
+      "text": "χρηστοῖσ̣ι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.11",
+      "text": "σωφρονισθεῖσα [......] τ̣ὰ χρηστὰ καὶ τὰ συμφέροντ’ εἰδῇ. [Τοῖς οὖν] τοιούτοις ἀνδράσιν, Ποσείδιππε, [οὐ σ]υμ̣βέβηκεν οἰ̣κ̣ίας μὲν κεκτῆσθ̣αι̣[ln_20][κ]α̣λὰς καταξίας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.12",
+      "text": "τε χρημάτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.13",
+      "text": "πολλῶν, [α]ὐτοὺς δ’ ὑπάρχειν ἀξίους τ[ρι]ῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.14",
+      "text": "χα̣[λκῶ]ν; [κ]αὶ̣ μάλα δικαίως, ἤν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.15",
+      "text": "τις ἐνθυμῆτ’ [ὀρ]θ̣ῶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "[...............]ν γὰρ καὶ λίθων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "φροντίζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mvm-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "boethus-of-tarsus-epigram-mvm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boethus-of-tarsus/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boethus-of-tarsus/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "pkk-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "julia-balbilla-epigrams-pkk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/julia-balbilla/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julia-balbilla/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julia-balbilla/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julia-balbilla/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/julia-balbilla/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "grm-aa",
+      "title": {
+        "english": "Fragments and Title",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλος"
+      },
+      "url_slug": "erinna-of-telos-fragments-grm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/erinna-of-telos/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/erinna-of-telos/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dsy-aa",
+      "title": {
+        "english": "Fragments of a Luxurious Banquet",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνου Τρυφεροῦ"
+      },
+      "url_slug": "philoxenus-of-leucas-luxurious-banquet-dsy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-leucas/luxurious-banquet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-leucas/luxurious-banquet.json"
+      }
+    },
+    {
+      "eul_wid": "dgq-aa",
+      "title": {
+        "english": "Fragments on Cyprus and the Gods",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κύπρου καὶ Θεῶν"
+      },
+      "url_slug": "lyric-poetry-anonymous-cyprus-gods-dgq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lyric-poetry-anonymous/cyprus-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lyric-poetry-anonymous/cyprus-gods.json"
+      }
+    },
+    {
+      "eul_wid": "upu-af",
+      "title": {
+        "english": "Hymn 20 To Hephaestus",
+        "ancient_greek": "Ὕμνος εἰς Ἥφαιστον"
+      },
+      "url_slug": "homeric-hymns-anonymous-hephaestus-upu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hephaestus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.json"
+      }
+    },
+    {
+      "eul_wid": "ick-aa",
+      "title": {
+        "english": "Hymn to Demeter and Persephone",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philicus-of-corcyra-hymn-demeter-persephone-ick-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philicus-of-corcyra/hymn-demeter-persephone",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra/hymn-demeter-persephone.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra/hymn-demeter-persephone.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra/hymn-demeter-persephone.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philicus-of-corcyra/hymn-demeter-persephone.json"
+      }
+    },
+    {
+      "eul_wid": "mwq-ac",
+      "title": {
+        "english": "Pastoral Dialogue on the Seasons",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bion-of-smyrna-seasons-dialogue-mwq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-smyrna/seasons-dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-smyrna/seasons-dialogue.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phoenix-of-colophon/ninus-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phoenix-of-colophon/ninus-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

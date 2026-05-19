@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ueq-aa",
+  "eul_aid": "ueq",
+  "author_slug": "nicolaus-of-myra",
+  "work_slug": "preliminary-exercises-aa",
+  "url_slug": "nicolaus-of-myra-preliminary-exercises-aa-ueq-aa",
+  "author": {
+    "english": "Nicolaus of Myra",
+    "ancient_greek": "Νικόλαος ὁ Μυρένσιος"
+  },
+  "title": {
+    "english": "Preliminary Exercises, Chapter-Comparison",
+    "ancient_greek": "Προγυμνάσματα (κεφάλαιον περὶ συγκρίσεως)"
+  },
+  "seo": {
+    "browser_title": "Preliminary Exercises by Nicolaus of Myra on Eulogikon",
+    "meta_title": "Preliminary Exercises by Nicolaus of Myra in Greek",
+    "meta_description": "A rhetorical treatise on exercise of comparison in oratory. Part of Progymnasmata training manuals for students. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα τεχνική",
+      "english": "Atticizing Technical",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Preliminary Exercises</strong> by Nicolaus of Myra is a fifth-century CE Greek textbook on rhetoric, composed in Attic Greek for students in the Eastern Roman Empire. As a complete surviving example of the progymnasmata genre, it served as a standard instructional manual within the traditional rhetorical curriculum. The work is systematically divided into chapters, each dedicated to a foundational exercise such as fable, narrative, or encomium. The chapter concerning comparison defines the exercise as a discourse that sets the better against the worse or as a parallel examination of good and bad qualities. It instructs students on the method of comparing two subjects—whether persons, cities, or actions—by examining their attributes in parallel. The procedure involves aligning worthy qualities with worthy ones, such as courage with prudence, or base qualities with base ones, such as theft with temple-robbing, and may also involve contrasting a lesser subject with a greater. The explicit aim is to demonstrate the relative superiority of one subject over the other. Nicolaus notes that while comparison employs the same topical headings as the encomium, its structure is necessarily double, accounting for the two subjects under examination. He cautions that the preferred subject should be elevated not by denigrating the other but through a balanced, methodological analysis. This exercise was a crucial component of training in epideictic oratory, designed to develop skills in structured argumentation and evaluative judgment. Modern scholarship regards Nicolaus’s treatise as more theoretical and detailed than some earlier guides, reflecting pedagogical developments in late antiquity. Transmitted through medieval manuscripts, the text remains a vital source for understanding the methods and priorities of advanced rhetorical education in the ancient world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "v",
+      "text": "Σύγκρισίς ἐστι λόγος τὸ βέλτιον ἐπὶ χεῖρον παριστάνων ἢ παράλληλος ἐξέτασις ἀγαθῶν ἢ φαύλων. ἔστιν ἡ σύγκρισις καὶ τῶν μερῶν καὶ ὅλων καὶ εἴ〈δουσ〉 πανηγυρικοῦ. Διαφέρει δὲ τοῦ ἐγκωμίου, ὅτι τὸ μὲν ἁπλᾶ ἔχει τὰ κεφάλαια, ἣ δὲ διπλᾶ. διὰ τοῦτο καὶ ὑποτέτακται. χρηστὰ χρηστοῖς ὡς ἀνδρίαν, φρόνησιν, σωφροσύνην· φαῦλα δὲ φαύλοις ὡς κλοπὴν καὶ ἱεροσυλίαν· ἢ μικρὰ περιθεῖναι (sic O; παραθεῖναι Ac) μείζοσι. τοῦτο γίνεται, ἵνα φανῇ ἐντεῦθεν τὸ χρηστότερον. ὕπτιον σημαίνει τὸ ἄτεχνον καὶ ἀφελές, ἀγωνιστικὸν δὲ τὸ μεθοδικῶς (sic mg.; in textu μεθοδικὸν ex μεδικῶς corr.) προϊόν. συγκρίνοντες (sic) δὲ δεῖ παραθεῖναι ἢ χρηστὰ χρηστοῖς ἢ φαῦλα φαύλοις ἢ χρηστὰ πονηροῖς ἢ μικρὰ πρὸς μείζω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "vi",
+      "text": "Ἡ σύγκρισις τοῖς αὐτοῖς τῷ ἐγκωμίῳ διαιρεῖται κεφαλαίοις, πλὴν διπλᾶ ἔχει τὰ κεφάλαια· δύο γὰρ τὰ συγκρινόμενα πράγματα· καὶ χρησόμεθα ὡς κἀκεῖ τοῖς ἐμπίπτουσι· καὶ συγκρίνομεν ἀλλήλοις, ὅσα δὴ ἐγκωμιάζομεν ἢ ψέγομεν. δεῖ δὲ μὴ καθαιρέσει τῶν ἐξεταζομένων αὔξειν τὰ ἡμέτερα, οὕτω γὰρ οὐ μεγάλα δειχθήσεται, ἀλλὰ τὰ μεγάλα ἐπὶ τοῦ οἰκείου μεγέθους ἐῶντες τότε μείζονα τὰ ἡμέτερα ἀποδεικνύναι πειρασόμεθα ὡς καὶ Ὅμηρος· πρόσθε μὲν ἐσθλὸς ἔφευγε (ex ἐσθλοὶ ἔφευγον corr.), δίωκε δέ μιν μέγ’ ἀμείνων. καὶ ἐπὶ τῶν κακῶν Δημοσθένης ἐν τῷ Κατὰ Ἀνδροτίωνος μεῖζον τὸ εἰς αὐτὸν ἀδίκημα ἔδειξε διὰ τὸ εἰς εὐκτήριον (sic) μεγάλα ἁμαρτήσαντα Ἀνδροτίωνα κατασκευάσαι· μεγάλα γάρ, φησί, παρ’ αὐτῷ ἠδίκηται· πολλῷ δὲ μείζω ἐγώ. Φράσιν δὲ ἐνταῦθα πομπικὴν καὶ θεατρικὴν εἶναι δεῖ τοῦ σεμνοῦ μὴ ἀφισταμένου. Γυμνάσει δὲ ἡμᾶς τὸ παρὸν πρὸς πάντα τὰ εἴδη τοῦ μὲν ἐγκωμίου ἰσότιμον φανείς (sic), συντελέσει δὲ τῷ συμβουλευτικῷ, ἐν οἷς τὰ ἡμέτερα κρείττω φανῆναι βουλόμεθα τῶν ἐφ’ ἑτέρων λεγομένων· ἀλλὰ καὶ τῷ δικανικῷ, ἡνίκα κατατρέχοντος (sic) ἀδικήματος καὶ αὐτὸ ἐργασόμεθα, καὶ δὴ καὶ ἐν τοῖς μέρεσι τοῦ πολιτικοῦ λόγου. προοιμίων τε γὰρ εὑρέσεις διὰ τούτου ποιησόμεθα καὶ διηγήματι μεταχειριζόμεθα, τὰ πλεονεκτήματα λέγοντες τοῦ ὑποκειμένου προσώπου, καὶ εἰς ἀγώνων σφοδρότητας, ἐν οἷς οὐ (sic) ἴσα ἀποδεικνύναι πειρασώμεθα ἢ μείζω, καὶ εἰς ἐπιλόγων πάθη, ἐν οἷς καταπαυόμεθα τὰς ὑποθέσεις. εἰ δὲ περὶ ἀνθῶν ὁ λόγος ἢ φυτῶν, ἔξεστι καὶ ἀνειμένῃ χρήσασθαι φράσει καὶ μὴ διὰ πάντων τῶν κεφαλαίων ἐξιέναι μηδὲ τῇ τεχνικῇ τῶν ἐγκωμίων ἕπεσθαι διαιρέσει.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ueq-ab",
+      "title": {
+        "english": "Preliminary Exercises (Complete)",
+        "ancient_greek": "Προγυμνάσματα"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-ab-ueq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ab.json"
+      }
+    },
+    {
+      "eul_wid": "ueq-ac",
+      "title": {
+        "english": "Preliminary Exercises (Selected Chapters)",
+        "ancient_greek": "Προγυμνάσματα (κεφάλαια περὶ συγκρίσεως, περὶ ἠθοποιίας, περὶ ἐκφράσεως, περὶ θέσεως, περὶ νόμου)"
+      },
+      "url_slug": "nicolaus-of-myra-preliminary-exercises-ac-ueq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-ac.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "fsm-af",
+      "title": {
+        "english": "Against Stephanus-False Testimony A",
+        "ancient_greek": "κατὰ Στεφάνου ψευδομαρτυριῶν α΄"
+      },
+      "url_slug": "demosthenes-of-athens-against-stephanus-af-fsm-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/against-stephanus-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-stephanus-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-stephanus-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-stephanus-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/against-stephanus-af.json"
+      }
+    },
+    {
+      "eul_wid": "fge-am",
+      "title": {
+        "english": "Fragments on Inheritance Disputes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κληρονομικῶν Ἀμφισβητήσεων"
+      },
+      "url_slug": "isaeus-the-orator-inheritance-disputes-fge-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/inheritance-disputes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/inheritance-disputes.json"
+      }
+    },
+    {
+      "eul_wid": "fge-af",
+      "title": {
+        "english": "In Defense of Euphiletus",
+        "ancient_greek": "Υπὲρ Εὐφιλήτου"
+      },
+      "url_slug": "isaeus-the-orator-defense-euphiletus-fge-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/isaeus-the-orator/defense-euphiletus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isaeus-the-orator/defense-euphiletus.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ag",
+      "title": {
+        "english": "Leuctrian D. In Favor of Thebans Second",
+        "ancient_greek": "Λευκτρικὸς Δ."
+      },
+      "url_slug": "aristides-the-orator-leuctrian-favor-thebans-qwm-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/leuctrian-favor-thebans",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-favor-thebans.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-favor-thebans.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-favor-thebans.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/leuctrian-favor-thebans.json"
+      }
+    },
+    {
+      "eul_wid": "hnk-aa",
+      "title": {
+        "english": "On Interpretation",
+        "ancient_greek": "Περὶ ἑρμηνείας"
+      },
+      "url_slug": "demetrius-of-phalerum-interpretation-hnk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/demetrius-of-phalerum/interpretation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demetrius-of-phalerum/interpretation.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bg",
+      "title": {
+        "english": "Sacred Words Fifth",
+        "ancient_greek": "Ἱεροὶ λόγοι πέμπτος"
+      },
+      "url_slug": "aristides-the-orator-sacred-words-bg-qwm-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/sacred-words-bg",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bg.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bg.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bg.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/sacred-words-bg.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ai",
+      "title": {
+        "english": "To Archidamus",
+        "ancient_greek": "Ἀρχιδάμῳ"
+      },
+      "url_slug": "isocrates-of-athens-archidamus-ai-ffu-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/archidamus-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/archidamus-ai.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bx",
+      "title": {
+        "english": "To Serapis",
+        "ancient_greek": "Εἰς τὸν Σάραπιν"
+      },
+      "url_slug": "aristides-the-orator-serapis-qwm-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/serapis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/serapis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/serapis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/serapis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/serapis.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/nicolaus-of-myra/preliminary-exercises-aa",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-aa.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-aa.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-aa.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicolaus-of-myra/preliminary-exercises-aa.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

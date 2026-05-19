@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jzq-aa",
+  "eul_aid": "jzq",
+  "author_slug": "stephanus-the-comic-poet",
+  "work_slug": "kings-gift-of-a-village",
+  "url_slug": "stephanus-the-comic-poet-kings-gift-of-a-village-jzq-aa",
+  "author": {
+    "english": "Stephanus the Comic Poet",
+    "ancient_greek": "Στέφανος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "King's Gift of a Village",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "The King's Gift of a Village by Stephanus on Eulogikon",
+    "meta_title": "The King's Gift of a Village by Stephanus in Greek",
+    "meta_description": "The King's Gift of a Village is a surviving fragment of ancient comedy by Stephanus. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The King&#x27;s Gift of a Village is a fragmentary comic work attributed to Stephanus, a poet otherwise unknown. The title, which translates to &quot;a piece torn off,&quot; indicates the text is an excerpt from a larger, lost play. The surviving material consists of five brief passages, though no coherent plot or identifiable characters are preserved. The title suggests a narrative involving royal patronage through a land grant, potentially exploring themes of social and economic relations tied to ownership, satirizing authority or bureaucratic processes, and contrasting rustic and urban lifestyles. The work survives solely through its later citation by the scholar Athenaeus in his Deipnosophistae, compiled in the 2nd or 3rd century CE, where the passages appear as individual quotations. As a singular fragment from an obscure author, its primary significance is philological, contributing to the corpus of ancient comedy and exemplifying how minor works were often preserved within later scholarly compendia.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_σ]Σ. τούτῳ προέπιεν ὁ βασιλεὺς κώμην",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τινά. Β. καινόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τι τοῦτο γέγονε νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "ποτήριον; Σ. κώμη μὲν οὖν τίς ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "περὶ τὴν Θουρίαν. Β. εἰς τὰς Ῥοδιακὰς ὅλος ἀπηνέχθην ἐγὼ[ln_5]καὶ τοὺς ἐφήβους, Σωσία, τοὺς δυσχερεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jzq-ab",
+      "title": {
+        "english": "King's Gift at Thuria",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "stephanus-the-comic-poet-kings-gift-at-thuria-jzq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-at-thuria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-at-thuria.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "kpk-ac",
+      "title": {
+        "english": "Culinary and Comic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "machon-of-sinope-culinary-comic-ac-kpk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/machon-of-sinope/culinary-comic-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/machon-of-sinope/culinary-comic-ac.json"
+      }
+    },
+    {
+      "eul_wid": "eec-ab",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "cephisodorus-the-comic-poet-fragments-eec-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cephisodorus-the-comic-poet/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cephisodorus-the-comic-poet/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dac-ad",
+      "title": {
+        "english": "Fragments on Eratosthenes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐρατοσθένους"
+      },
+      "url_slug": "crates-the-comic-poet-eratosthenes-fragments-dac-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/crates-the-comic-poet/eratosthenes-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/crates-the-comic-poet/eratosthenes-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "lli-ab",
+      "title": {
+        "english": "Fragments on Fate",
+        "ancient_greek": "Ἀποσπάσματα περὶ Εἱμαρμένης"
+      },
+      "url_slug": "xenarchus-the-comic-poet-fate-fragments-ab-lli-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenarchus-the-comic-poet/fate-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenarchus-the-comic-poet/fate-fragments-ab.json"
+      }
+    },
+    {
+      "eul_wid": "dxy-ab",
+      "title": {
+        "english": "Fragments on Gluttony and Slaves",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λαιμαργίας καὶ Δούλων"
+      },
+      "url_slug": "pherecrates-the-comic-poet-gluttony-slaves-dxy-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pherecrates-the-comic-poet/gluttony-slaves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pherecrates-the-comic-poet/gluttony-slaves.json"
+      }
+    },
+    {
+      "eul_wid": "eyc-ab",
+      "title": {
+        "english": "Fragments on Golden Apples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μήλων Χρυσῶν"
+      },
+      "url_slug": "eriphus-the-comic-poet-golden-apples-ab-eyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eriphus-the-comic-poet/golden-apples-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bg",
+      "title": {
+        "english": "Fragments on Poverty and Social Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Κοινωνικοῦ Βίου"
+      },
+      "url_slug": "menander-of-athens-poverty-social-life-hps-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/poverty-social-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/poverty-social-life.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bj",
+      "title": {
+        "english": "Single-Line Sentences (Long Recension)",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "menander-of-athens-sentences-bj-hps-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sentences-bj",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sentences-bj.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/stephanus-the-comic-poet/kings-gift-of-a-village",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/stephanus-the-comic-poet/kings-gift-of-a-village.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

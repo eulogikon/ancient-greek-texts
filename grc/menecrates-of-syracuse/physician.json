@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fws-aa",
+  "eul_aid": "fws",
+  "author_slug": "menecrates-of-syracuse",
+  "work_slug": "physician",
+  "url_slug": "menecrates-of-syracuse-physician-fws-aa",
+  "author": {
+    "english": "Menecrates of Syracuse",
+    "ancient_greek": "Μενεκράτης ὁ Συρακούσιος"
+  },
+  "title": {
+    "english": "Menecrates the Physician",
+    "ancient_greek": "Μενεκράτης ὁ Ἰατρός"
+  },
+  "seo": {
+    "browser_title": "Menecrates Physician by Menecrates of Syracuse on Eulogikon",
+    "meta_title": "Menecrates the Physician by Menecrates of Syracuse in Greek",
+    "meta_description": "Medical treatise by the 4th century BCE physician Menecrates of Syracuse. A Greek medical text. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_Menecrates the Physician_ is a medical treatise attributed to the 4th-century BCE Greek physician Menecrates of Syracuse. The work survives only in two fragmentary passages, preserved as quotations in later authors: one in Aulus Gellius’s _Attic Nights_ and another in Aëtius of Amida’s _Medical Collection_. The treatise is lost as an independent text, with no direct manuscript tradition; its preservation relies entirely on these citations. The extant fragments indicate the treatise offered practical therapeutic advice. The passage in Aëtius discusses hydrotherapy and the use of baths, while the quotation in Aulus Gellius provides dietary counsel, including warnings against specific foods. While the work’s direct influence is obscured by its fragmentary state, its citation by a Roman encyclopedist and a Byzantine medical compiler demonstrates that Menecrates’s ideas were remembered in later antiquity. The author is more frequently cited in historical anecdotes as an example of professional hubris than for his medical doctrine, but the preserved fragments confirm that some of his therapeutic recommendations were considered substantive by later medical writers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Μενεκράτης Ζεὺς Φιλίππῳ χαίρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Σὺ μὲν Μακεδονίας βασιλεύεις, ἐγὼ δὲ ἰατρικῆς καὶ σὺ μὲν ὑγιαίνοντας δύνασαι, ὅταν βουληθῇς, ἀπολλύναι, ἐγὼ δὲ τοὺς νοσοῦντας σώζειν καὶ τοὺς εὐρώστους ἀνόσους, οἳ ἂν ἐμοὶ πείθωνται, παρέχειν μέχρι γήρως ζῶντας. τοιγαροῦν σὲ μὲν Μακεδόνες δορυφοροῦσιν, ἐμὲ δὲ καὶ οἱ θεοὶ μέλλοντες ἔσεσθαι· Ζεὺς γὰρ ἐγὼ αὐτοῖς βίον παρέχω.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "tqu-af",
+      "title": {
+        "english": "Entirely True and Experienced Prediction",
+        "ancient_greek": "Παντελῶς Ἀληθὴς καὶ Ἐμπειρικὴ Προγνώσις"
+      },
+      "url_slug": "anonymous-medical-writer-true-prediction-tqu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/true-prediction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/true-prediction.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brd",
+      "title": {
+        "english": "Epidemics, Book IV",
+        "ancient_greek": "Ἐπιδημίων Δ"
+      },
+      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-ad",
+      "title": {
+        "english": "InterpretatiActive Stones",
+        "ancient_greek": "Ἑρμηνεία περὶ ἐνεργῶν λίθων"
+      },
+      "url_slug": "pseudo-hippocrates-interpretative-stones-oyw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/interpretative-stones",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/interpretative-stones.json"
+      }
+    },
+    {
+      "eul_wid": "nys-aa",
+      "title": {
+        "english": "On Animals That Emit Venom, Including the Rabid Dog",
+        "ancient_greek": "Περὶ τῶν ζῴων τῶν δηλητηριωδῶν"
+      },
+      "url_slug": "pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/venomous-animals-rabid-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-eb",
+      "title": {
+        "english": "On Customs",
+        "ancient_greek": "Περὶ ἐθῶν"
+      },
+      "url_slug": "galen-of-pergamon-customs-qmm-eb",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-at",
+      "title": {
+        "english": "On Personal Doctrines, Unpublished Fragments",
+        "ancient_greek": "Περὶ τῶν ἰδίων δογμάτων"
+      },
+      "url_slug": "galen-of-pergamon-personal-doctrines-fragments-qmm-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/personal-doctrines-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/personal-doctrines-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cc",
+      "title": {
+        "english": "On the Causes of Respiration",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῆς ἀναπνοῆς"
+      },
+      "url_slug": "galen-of-pergamon-causes-respiration-qmm-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-respiration",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-respiration.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-respiration.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-respiration.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-respiration.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bm",
+      "title": {
+        "english": "On the Power of Purgative Medicines",
+        "ancient_greek": "Περὶ τῆς δυνάμεως τῶν καθαρτικῶν φαρμάκων"
+      },
+      "url_slug": "galen-of-pergamon-purgative-medicines-bm-qmm-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-bm",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-bm.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-bm.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-bm.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-bm.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menecrates-of-syracuse/physician",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-syracuse/physician.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "ola-aa",
+  "eul_aid": "ola",
+  "author_slug": "polemon-of-laodicea",
+  "work_slug": "testimony-fragments",
+  "url_slug": "polemon-of-laodicea-testimony-fragments-ola-aa",
+  "author": {
+    "english": "Polemon of Laodicea",
+    "ancient_greek": "Πολέμων ὁ Λαοδικεύς"
+  },
+  "title": {
+    "english": "Testimony and Fragments",
+    "ancient_greek": "Μαρτυρία καὶ Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Testimony and Fragments by Polemon of Laodicea on Eulogikon",
+    "meta_title": "Testimony and Fragments by Polemon of Laodicea in Greek",
+    "meta_description": "Polemon of Laodicea compiled geographical descriptions of cities and regions throughout the ancient world. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γεωγραφία",
+      "english": "Geography",
+      "href": "/domains/geography"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Testimony and Fragments attributed to Polemon of Laodicea constitute a modern scholarly compilation of surviving excerpts from the works of this second-century CE sophist and geographer. These brief prose fragments, preserved by later compilers, are characteristic of Imperial periegetic literature, offering descriptive accounts of the Greek world. The content reflects the core themes of Polemon’s antiquarian scholarship, focusing on topography and monuments such as cities and acropolises, catalogues of votive offerings, statues, and paintings often accompanied by their inscriptions, and notes on distinctive local customs and associated historical anecdotes.</p>\n<p class=\"research-text\">Polemon’s original works are lost, and these fragments survive only through quotation in later sources, primarily the Byzantine encyclopedia known as the <strong>Suda</strong> and the works of the lexicographer Hesychius of Miletus. Renowned in antiquity for his meticulous research into inscriptions and dedications, Polemon served as a key source for later authors such as Pausanias and Athenaeus. Consequently, the collected fragments remain critically important for modern studies of Imperial Greek topography, art history, and epigraphy, providing invaluable, albeit fragmentary, insights into the cultural landscape of the period.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "test",
+      "text": "Inschr. Syll. 3 585, 114 (IG 8, 281): (ἄρχοντος Μελισσίωμος, a. 177 i 76 a.) ... Πολέμων Μιλησίου Ἰλιεύς (Verwandter des Perihegeten?).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 bis.(l1)",
+      "text": "PAP. OX. 1611 fr. 1 col. 5, 5—12 (s. 3 p.; vol. 13, 1919, 134. 139): ... ὅτι οὐχ [ ]ˈ δη.[ Πολέμω ν ] ˈ ἐν τῶι [ . Περὶ ἀκροπό ]ˈ λεως δ[ ] ˈ ἀναγ[ ] ˈ τὸν Μελησίου [υἱόν, Στε]ˈφάνου δὲ τοῦ Κο̣[αλέμου] 〈καλου〉ˈμένου πατέρα ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "37 bis.(l1)",
+      "text": "ETYM. GEN. 213, 18 Miller (vgl. ETYM. MAGN. 577, 50 Gaisf.): ‘Μελιταῖα κυνίδια‘· λέγεται ὅτι πλησίον Ἰταλίας νῆσός ἐστι Μελίτη, ἐξ ἧς ἐστι τὰ Μελιταῖα κυνίδια. Πολέμων δ ’ ἐ〈ν〉 Κτίσεσι (scil. Ἰταλικῶν καὶ Σικελικῶν) 〈Σι〉κελίαν Μελίτης φησὶν εἶναι 〈...〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65 bis.(l1)",
+      "text": "PAP. OX. 2176 fr. 1 col. 1, 1—10 + fr. 9 (s. 2 p.; vol. 18, 1941, 88f. 92. 95 [Taf. 12]; Komment. Hippon. F 118 p. 151—153 West): ‘ὦ Σάνν’, ἐπειδ̣ὴ̣ ῥῖνα θεό[συλιν φύ]ˈε̣ις, καὶ γαστρ[ὸ̣ς] ο̣ὐ κατακρ[α̣τεῖσ‘]· [κύριˈο]ν ὄνομα ὁ Σάν̣νος, ὧ〈ι〉 λοιδορ̣[εῖται. ὃ ἔνιοι] ˈ πεπ̣οιῆσθαί φ̣ασιν παρὰ τὴ[ν ‘σαννάδα‘], ˈ Κ̣ρ̣[ῆτ]α̣ς̣ δὲ τὰς̣ ἀγρίας αἶγας λ̣έ̣γ̣ειν ‘σανˈ[νάδασ‘, ὥς φη]σιν Πολέμων ἐν τοῖς Πρὸς ˈ [ Ἀντίγονον κ α ]ὶ Ἀδαῖο ν· τὰς δὲ αἶγας ἐπίˈ[σταται σανν]ι̣οπλήκτους εἶναι καὶ̣ να̣ι̣ˈ[αδολήπτους] καὶ ἐν τῶι βίωι τ̣[ο̣ὺ]ς̣ εὐήˈ[θεις ἐπιπεφημισ̣]μ̣έν[ους] ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "75 bis",
+      "text": "SCHOL. MTVB EURIP. OREST. 1637: ‘Κάστορί τε Πολυδεύκει τ’ ἐν αἰθέρος πτυχαῖς/ σύνθακος ἔσται, ναυτίλοις σωτηρίοισ‘] ὅτι καὶ ἡ Ἑλένη τοῖς χειμαζομένοις κατὰ θάλασσαν ἐπήκοός ἐστι κατὰ Εὐριπίδην, σεσημείωται. ὁ μέντοι Σωσίβιος (595 F 20) ἔμπαλιν οἴεται οὐκ εὐμενῶς αὐτὴν ἐπιφαί νεσθαι. Πολέμων δὲ {καὶ} ἐν τῶι δ {ε} τῶι Πρὸς Ἀναξανδρίδην (404 T 1) τὴν μὲν τῶν δυοῖν ἀστέρων ἐπιφάνειαν τῶν Διοσκούρων ἀνωμολογῆσθαι, τὴν δὲ τῶν λεγομένων †Ζοβείρων 〈...〉..",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "ola-ab",
+      "title": {
+        "english": "On the Athenian Acropolis",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polemon-of-laodicea-athenian-acropolis-ola-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/polemon-of-laodicea/athenian-acropolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/athenian-acropolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/athenian-acropolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/athenian-acropolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/athenian-acropolis.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "nck-aa",
+      "title": {
+        "english": "Chrestomathies from Strabo's Geographical Books",
+        "ancient_greek": "Χρηστομάθειαι ἐκ τῶν Γεωγραφικῶν Στράβωνος"
+      },
+      "url_slug": "strabo-of-amasia-chrestomathies-geography-nck-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/chrestomathies-geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/chrestomathies-geography.json"
+      }
+    },
+    {
+      "eul_wid": "cte-aa",
+      "title": {
+        "english": "Fragments on Geography",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γεωγραφίας"
+      },
+      "url_slug": "andron-of-halicarnassus-ii-geography-fragments-cte-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/andron-of-halicarnassus-ii/geography-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii/geography-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii/geography-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii/geography-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/andron-of-halicarnassus-ii/geography-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mbm-aa",
+      "title": {
+        "english": "Geographical Measurements of Islands",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "anonymous-geographical-works-measurements-islands-mbm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-geographical-works/measurements-islands",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-geographical-works/measurements-islands.json"
+      }
+    },
+    {
+      "eul_wid": "bhw-ac",
+      "title": {
+        "english": "Geographical and Botanical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "scylax-of-caryanda-geographical-botanical-bhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/scylax-of-caryanda/geographical-botanical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/scylax-of-caryanda/geographical-botanical.json"
+      }
+    },
+    {
+      "eul_wid": "nck-ad",
+      "title": {
+        "english": "Geography",
+        "ancient_greek": "Γεωγραφικά"
+      },
+      "url_slug": "strabo-of-amasia-geography-nck-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/geography.json"
+      }
+    },
+    {
+      "eul_wid": "szc-ac",
+      "title": {
+        "english": "Geography of Artemidorus",
+        "ancient_greek": "Γεωγραφία Ἀρτεμιδώρου"
+      },
+      "url_slug": "marcian-of-heraclea-geography-szc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/marcian-of-heraclea/geography",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea/geography.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea/geography.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea/geography.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcian-of-heraclea/geography.json"
+      }
+    },
+    {
+      "eul_wid": "lue-ac",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "agatharchides-of-cnidus-testimonies-lue-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/agatharchides-of-cnidus/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agatharchides-of-cnidus/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "nck-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "strabo-of-amasia-testimonies-nck-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/strabo-of-amasia/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/strabo-of-amasia/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/polemon-of-laodicea/testimony-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/testimony-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/testimony-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/testimony-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polemon-of-laodicea/testimony-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,469 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jme-aa",
+  "eul_aid": "jme",
+  "author_slug": "moschion-the-tragic-poet",
+  "work_slug": "human-progress",
+  "url_slug": "moschion-the-tragic-poet-human-progress-jme-aa",
+  "author": {
+    "english": "Moschion the Tragic Poet",
+    "ancient_greek": "Μοσχίων ὁ Τραγικός"
+  },
+  "title": {
+    "english": "Fragments on Human Progress",
+    "ancient_greek": "Ἀποσπάσματα περὶ Προκοπῆς Ἀνθρώπων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Moschion the Tragic Poet on Eulogikon",
+    "meta_title": "Fragments by Moschion the Tragic Poet in Ancient Greek",
+    "meta_description": "Surviving dramatic fragments exploring human progress and civilization from Moschion. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Δρᾶμα",
+      "english": "Drama",
+      "href": "/domains/drama"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Fragments on Human Progress is a collection of forty-one fragmentary passages attributed to the Hellenistic tragic poet Moschion. Preserved not through direct manuscript tradition but through quotation by later anthologists, primarily the fifth-century CE compiler Stobaeus, these excerpts are grouped thematically around the development of human civilization. They consist of philosophical, lyrical, or dialogic passages believed to originate from one or more of Moschion’s lost tragedies, offering a speculative exploration of humanity’s origins and societal advancement.</p>\n<p class=\"research-text\">The content of the fragments addresses the evolution of civilization from a primitive, beast-like state, where humans lived in caves and ravines, to the establishment of organized society. This progress is portrayed as driven by necessity, which compelled the invention of fundamental technologies and social structures. The texts enumerate key innovations such as the construction of shelters and fortified cities, the development of agriculture with the plow, and the advent of seafaring and language. A central theme is the subsequent establishment of law and justice as stabilizing forces for the new social order. The tragic context from which these fragments are drawn suggests an awareness of the potential ambiguity of progress, implying that such advancements possess a double-edged nature.</p>\n<p class=\"research-text\">The work survives exclusively in fragmentary form, transmitted through excerpts in later anthologies rather than continuous manuscripts. Stobaeus’s Anthology serves as the principal source, with additional fragments appearing in the works of authors such as Athenaeus and Photius. These passages are cataloged in modern scholarly editions like the Fragmenta Tragicorum Graecorum. Their significance lies in the study of the history of ideas, particularly the ancient Greek concept of social evolution and the integration of philosophical speculation into the genre of Hellenistic tragedy. Their preservation by Stobaeus underscores their later value as repositories of ethical wisdom, and they remain a crucial source for understanding ancient anthropological thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_1]καὶ γὰρ ἐν νάπαις βραχεῖ πολὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σιδήρῳ κείρεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πεύκης κλάδος, καὶ βαιὸς ὄχλος μυρίας λόγχης κρατεῖ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "[ln_1]ὦ καὶ θεῶν κρατοῦσα καὶ θνητῶν μόνη μοῖρ’, ὦ λιταῖς ἄτρωτε δυστήνων βροτῶν, πάντολμ’ ἀνάγκη, στυγνὸν ἣ κατ’ αὐχένων ἡμῶν ἐρείδεις τῆσδε λατρείας ζυγόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "[ln_1]κενὸν θανόντος ἀνδρὸς αἰκίζειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "σκιάν· ζῶντας κολάζειν, οὐ θανόντας εὐσεβές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "ὅμως τό γ’ ὀρθὸν καὶ δίκαιον οὔποτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σιγῇ παρήσω· τὴν γὰρ ἐντεθραμμένην ἀστοῖς Ἀθάνας τῇ τε Θησέως πόλει καλὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "φυλάξαι γνησίως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "παρρησίαν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.1",
+      "text": "μόνον σὺ θυμοῦ χωρὶς ἔνδεξαι λόγους οὕς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5.2",
+      "text": "σοι κομίζω· τὸν κλύοντα γὰρ λαβών ὁ μῦθος εὔνουν οὐ μάτην λεχθήσεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "πρῶτον δ’ ἄνειμι καὶ διαπτύξω λόγῳ ἀρχὴν βροτείου καὶ κατάστασιν βίου. ἦν γάρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "ποτ’ αἰὼν κεῖνος, ἦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "ποθ’ ἡνίκα θηρσὶ〈ν〉 διαίτας εἶχον ἐμφερεῖς βροτοί,[ln_5]ὀρειγενῆ σπήλαια καὶ δυσηλίους φάραγγας ἐνναίοντες· οὐδέπω γὰρ ἦν οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.4",
+      "text": "στεγήρης οἶκος οὔτε λαΐνοις εὐρεῖα πύργοις ὠχυρωμένη πόλις. οὐ μὴν ἀρότροις ἀγκύλοις ἐτέμνετο[ln_10]μέλαινα καρποῦ βῶλος ὀμπνίου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.5",
+      "text": "τροφός, οὐδ’ ἐργάτης σίδηρος εὐιώτιδος θάλλοντας οἴνης ὀρχάτους ἐτημέλει, ἀλλ’ ἦν ἀκύμων †κωφεύουσα ῥέουσα γῆ. βοραὶ δὲ σαρκοβρῶτες ἀλληλοκτόνους[ln_15]παρεῖχον αὐτοῖς δαῖτας· ἦν δ’ ὁ μὲν νόμος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.6",
+      "text": "ταπεινός, ἡ βία δὲ σύνθρονος Διί· ὁ δ’ ἀσθενὴς ἦν τῶν ἀμεινόνων βορά. ἐπεὶ δ’ ὁ τίκτων πάντα καὶ τρέφων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.7",
+      "text": "χρόνος τὸν θνητὸν ἠλλοίωσεν ἔμπαλιν βίον,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "[ln_20]εἴτ’ οὖν μέριμναν τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "Προμηθέως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "σπάσας εἴτ’ οὖν ἀνάγκην εἴτε τῇ μακρᾷ τριβῇ αὐτὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.4",
+      "text": "παρασχὼν τὴν φύσιν διδάσκαλον, τόθ’ ηὑρέθη μὲν καρπὸς ἡμέρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.5",
+      "text": "τροφῆς Δήμητρος ἁγνῆς, ηὑρέθη δὲ Βακχίου[ln_25]γλυκεῖα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.6",
+      "text": "πηγή, γαῖα δ’ ἡ πρὶν ἄσπορος ἤδη ζυγουλκοῖς βουσὶν ἠροτρεύετο, ἄστη δ’ ἐπυργώσαντο καὶ περισκεπεῖς ἔτευξαν οἴκους καὶ τὸν ἠγριωμένον εἰς ἥμερον δίαιταν ἤγαγον βίον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "[ln_30]κἀκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "τοῦδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.3",
+      "text": "τοὺς θανόντας ὥρισεν νόμος τύμβοις καλύπτειν κἀπιμοιρᾶσθαι κόνιν νεκροῖς ἀθάπτοις, μηδ’ ἐν ὀφθαλμοῖς ἐᾶν τῆς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.4",
+      "text": "πρόσθε θοίνης μνημόνευμα δυσσεβοῦς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "〈τί〉 κέρδος οὐκέτ’ ὄντας αἰκίζειν νεκρούς; τί τὴν ἄναυδον γαῖαν ὑβρίζειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "πλέον; ἐπὰν γὰρ ἡ κρίνουσα καὶ θἠδίονα καὶ τἀνιαρὰ φροῦδος αἴσθησις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "φθαρῇ,[ln_5]τὸ σῶμα κωφοῦ τάξιν εἴληφεν πέτρου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.1",
+      "text": "ἦν ἆρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 8.2",
+      "text": "τρανὸς αἶνος ἀνθρώπων ὅδε, ὡς τὸν πέλας μὲν νουθετεῖν βραχὺς πόνος, αὐτὸν δ’ ἐνεγκεῖν ὕβριν ἠδικημένον πάντων μέγιστον τῶν ἐν ἀνθρώποις βάρος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.1",
+      "text": "σὺν αἷσι δόξῃ πρόσθε καὶ γένει μέγας Ἄργους δυνάστης, λιτὸς ἐκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.2",
+      "text": "τυραννικῶν θρόνων, προσίκτην θαλλὸν ἠγκαλισμένος ἔστειχεν εἰς γῆν, ὄμμα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.3",
+      "text": "συμπαθὲς φέρων[ln_5]καὶ πᾶσι δεικνὺς ὡς τὰ λαμπρὰ τῆς τύχης τὴν κτῆσιν οὐ βέβαιον ἀνθρώποις νέμει. ὃν πᾶς μὲν ἀστῶν ἠλέησεν εἰσιδών, ἅπας δὲ χεῖρα καὶ προσήγορον φάτιν ὤρεξε κανθούς τ’ ἐξέτηξε δακρύοις[ln_10]τύχαις",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.4",
+      "text": "συναλγῶν· τἀξίωμα γὰρ νοσοῦν τὸ πρόσθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 9.5",
+      "text": "πολλοῖς οἶκτον ἐμποιεῖ βροτῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10*",
+      "text": "κεῖνος δ’ ἁπάντων ἐστὶ μακαριώτατος, ὃς διὰ τέλους ζῶν ὁμαλὸν ἤσκησεν βίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 12",
+      "text": "ὦ μοῖρα δυσπάλαιστος ἀνθρώπ[οις ⏑–",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cbm-av",
+      "title": {
+        "english": "Bacchae",
+        "ancient_greek": "Βάκχαι"
+      },
+      "url_slug": "euripides-bacchae-cbm-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/bacchae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/bacchae.json"
+      }
+    },
+    {
+      "eul_wid": "ddy-aa",
+      "title": {
+        "english": "Fragments on Achilles and Love",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀχιλλέως καὶ Ἔρωτος"
+      },
+      "url_slug": "aristarchus-of-tegea-achilles-love-ddy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristarchus-of-tegea/achilles-love",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-of-tegea/achilles-love.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-of-tegea/achilles-love.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-of-tegea/achilles-love.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristarchus-of-tegea/achilles-love.json"
+      }
+    },
+    {
+      "eul_wid": "cbm-ao",
+      "title": {
+        "english": "Fragments on Hector and Cassandra",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἕκτορος καὶ Κασσάνδρας"
+      },
+      "url_slug": "euripides-hector-cassandra-cbm-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/euripides/hector-cassandra",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euripides/hector-cassandra.json"
+      }
+    },
+    {
+      "eul_wid": "bjk-aa",
+      "title": {
+        "english": "Fragments on Heracles",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡρακλέους"
+      },
+      "url_slug": "phrynichus-the-tragic-poet-heracles-fragments-bjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-tragic-poet/heracles-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-tragic-poet/heracles-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "fjg-aa",
+      "title": {
+        "english": "Fragments on Women and Justice",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γυναικῶν καὶ Δικαιοσύνης"
+      },
+      "url_slug": "theodectes-of-phaselis-women-justice-fjg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodectes-of-phaselis/women-justice",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis/women-justice.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis/women-justice.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis/women-justice.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodectes-of-phaselis/women-justice.json"
+      }
+    },
+    {
+      "eul_wid": "mjo-aa",
+      "title": {
+        "english": "On the Nature of Evil",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "isidorus-the-tragedian-nature-of-evil-mjo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isidorus-the-tragedian/nature-of-evil",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isidorus-the-tragedian/nature-of-evil.json"
+      }
+    },
+    {
+      "eul_wid": "kbo-aa",
+      "title": {
+        "english": "On the Virtues of Men and Women",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "apollonides-the-tragic-poet-virtues-men-women-kbo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/apollonides-the-tragic-poet/virtues-men-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet/virtues-men-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet/virtues-men-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet/virtues-men-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/apollonides-the-tragic-poet/virtues-men-women.json"
+      }
+    },
+    {
+      "eul_wid": "buo-ae",
+      "title": {
+        "english": "Philoctetes",
+        "ancient_greek": "Φιλοκτήτης"
+      },
+      "url_slug": "sophocles-philoctetes-buo-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/sophocles/philoctetes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sophocles/philoctetes.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/moschion-the-tragic-poet/human-progress",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschion-the-tragic-poet/human-progress.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,641 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "beu-aa",
+  "eul_aid": "beu",
+  "author_slug": "xenophanes-of-colophon",
+  "work_slug": "silli-nature",
+  "url_slug": "xenophanes-of-colophon-silli-nature-beu-aa",
+  "author": {
+    "english": "Xenophanes of Colophon",
+    "ancient_greek": "Ξενοφάνης ὁ Κολοφώνιος"
+  },
+  "title": {
+    "english": "Fragments Silli and-Nature",
+    "ancient_greek": "Ἀποσπάσματα Σίλλοι καὶ Περὶ φύσεως"
+  },
+  "seo": {
+    "browser_title": "Fragments Xenophanes by Xenophanes of Colophon on Eulogikon",
+    "meta_title": "Fragments of Xenophanes by Xenophanes of Colophon in Greek",
+    "meta_description": "Surviving fragments of Xenophanes, including the Silloi lampoons and verses on nature. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic (frg)",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Presocratic",
+      "href": "/affiliations/presocratic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The surviving work of Xenophanes of Colophon consists of poetic fragments, traditionally categorized as the <strong>Silloi</strong> (Lampoons) and poems <strong>On Nature</strong>. Composed in epic verse during the Archaic period, these fragments represent a critical transition from mythological to philosophical thought. The <strong>Silloi</strong> are satirical critiques directed at the anthropomorphic deities of Homeric and Hesiodic tradition, mocking the attribution of human vices—theft, adultery, and deceit—to the gods. Xenophanes further ridicules the tendency of different peoples to fashion gods in their own image, noting that Ethiopians depict them as snub-nosed and black, while Thracians imagine them as blue-eyed and red-haired.</p>\n<p class=\"research-text\">In contrast, the fragments <strong>On Nature</strong> present early cosmological and theological speculations. Xenophanes argues for a single, supreme deity, unlike mortals in body or mind, who governs all things without movement through the power of thought alone. This god is eternal, unified, and utterly dissimilar to the flawed pantheon of poetry. The fragments also offer naturalistic explanations for celestial and meteorological phenomena, suggesting, for instance, that the sun is a new formation each day and that rainbows are clouds colored in a certain way. Xenophanes further posits a cyclical theory of earthly change, proposing that all things originate from a mixture of earth and water and that humanity periodically faces destruction and regeneration.</p>\n<p class=\"research-text\">Preserved not as a continuous text but through approximately fifty-six quotations by later doxographers and philosophers such as Sextus Empiricus and Simplicius, these fragments reflect the output of a traveling poet-philosopher who recited for educated audiences in the Greek colonies of Sicily and southern Italy. His work challenges the epistemological authority of traditional poets, suggesting that truth is not revealed by the gods but discovered gradually through human inquiry. Xenophanes’s critique of anthropomorphism, his formulation of a non-corporeal supreme god, and his skeptical stance toward human knowledge established foundational ideas that would profoundly influence the Eleatic school of philosophy and later theological and epistemological thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 9",
+      "text": "ἐξ ἀρχῆς καθ’ Ὅμηρον, ἐπεὶ μεμαθήκασι πάντες ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.1",
+      "text": "πάντα θεοῖς’ ἀνέθηκαν Ὅμηρός θ’ Ἡσίοδός",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.2",
+      "text": "τε, ὅσσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.3",
+      "text": "παρ’ ἀνθρώποισιν ὀνείδεα καὶ ψόγος ἐστίν, κλέπτειν μοιχεύειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 10.4",
+      "text": "τε καὶ ἀλλήλους ἀπατεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.1",
+      "text": "ὡς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.2",
+      "text": "πλεῖστ’ ἐφθέγξαντο θεῶν ἀθεμίστια ἔργα, κλέπτειν μοιχεύειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 11.3",
+      "text": "τε καὶ ἀλλήλους ἀπατεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.1",
+      "text": "ἀλλ’ εἰ χεῖρας ἔχον βόες 〈ἵπποι τ’〉 ἠὲ λέοντες ἢ γράψαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.2",
+      "text": "χείρεσσι καὶ ἔργα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.3",
+      "text": "τελεῖν ἅπερ ἄνδρες, ἵπποι μέν θ’ ἵπποισι, βόες δέ τε βουσὶν ὁμοίας καί 〈κε〉 θεῶν ἰδέας ἔγραφον καὶ σώματ’ ἐποίουν[ln_5]τοιαῦθ’, οἷόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 13.4",
+      "text": "περ καὐτοὶ δέμας εἶχον 〈ἕκαστοι〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.1",
+      "text": "Αἰθίοπές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.2",
+      "text": "τε 〈θεοὺς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.3",
+      "text": "σφετέρουσ〉 σιμοὺς μέλανάς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.4",
+      "text": "τε Θρῆικές",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 14.5",
+      "text": "τε γλαυκοὺς καὶ πυρρούς 〈φασι πέλεσθαι〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.1",
+      "text": "ἑστᾶσιν δ’ ἐλάτη〈ς βάκχοι〉 πυκινὸν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 15.2",
+      "text": "περὶ δῶμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 16",
+      "text": "οὔ τοι ἀπ’ ἀρχῆς πάντα θεοὶ θνητοῖς’ ὑπέδειξαν, ἀλλὰ χρόνωι ζητοῦντες ἐφευρίσκουσιν ἄμεινον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 17",
+      "text": "καί 〈κ’〉 ἐπιθυμήσειε νέος νῆς ἀμφιπόλοιο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.1",
+      "text": "πὰρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.2",
+      "text": "πυρὶ χρὴ τοιαῦτα λέγειν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.3",
+      "text": "χειμῶνος ἐν ὥρηι ἐν κλίνηι μαλακῆι κατακείμενον, ἔμπλεον ὄντα, πίνοντα γλυκὺν οἶνον, ὑποτρώγοντ’ ἐρεβίνθους· ‘τίς πόθεν εἷς ἀνδρῶν; πόσα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 18.4",
+      "text": "τοι ἔτε’ ἐστί, φέριστε;[ln_5]πηλίκος ἦσθ’, ὅθ’ ὁ Μῆδος ἀφίκετο;‘",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.1",
+      "text": "εἷς θεὸς ἔν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 19.2",
+      "text": "τε θεοῖσι καὶ ἀνθρώποισι μέγιστος, οὔ τι δέμας θνητοῖσιν ὁμοίιος οὐδὲ νόημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 20",
+      "text": "οὖλος ὁρᾶι, οὖλος δὲ νοεῖ, οὖλος δέ τ’ ἀκούει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.1",
+      "text": "ἀλλ’ ἀπάνευθε πόνοιο νόου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 21.2",
+      "text": "φρενὶ πάντα κραδαίνει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.1",
+      "text": "αἰεὶ δ’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 22.2",
+      "text": "ταὐτῶι μίμνει κινεύμενος οὐδέν, οὐδὲ μετέρχεσθαί μιν ἐπιπρέπει ἄλλοτε ἄλληι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.1",
+      "text": "ἐκ γαίης γὰρ πάντα καὶ εἰς γῆν πάντα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 23.2",
+      "text": "τελευτᾶι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24.1",
+      "text": "γαίης μὲν τόδε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24.2",
+      "text": "πεῖρας ἄνω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24.3",
+      "text": "παρὰ ποσσὶν ὁρᾶται ἠέρι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 24.4",
+      "text": "προσπλάζον, τὸ κάτω δ’ ἐς ἄπειρον ἱκνεῖται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 25",
+      "text": "γῆ καὶ ὕδωρ πάντ’ ἔσθ’ ὅσα γίνοντ(αι) ἠδὲ φύονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.1",
+      "text": "πηγὴ δ’ ἐστὶ θάλασς’ ὕδατος, πηγὴ δ’ ἀνέμοιο· οὔτε γὰρ ἐν νέφεσιν 〈πνοιαί κ’ ἀνέμοιο φύοιντο〉 〈ὀμβροφυέσσιν〉 ἔσωθεν ἄνευ πόντου μεγάλοιο οὔτε ῥοαὶ ποταμῶν οὔτ’ αἰ〈θέροσ〉 ὄμβριον ὕδωρ,[ln_5]ἀλλὰ μέγας πόντος γενέτωρ νεφέων ἀνέμων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 26.2",
+      "text": "τε καὶ ποταμῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 27",
+      "text": "ἠέλιός θ’ ὑπεριέμενος γαῖάν τ’ ἐπιθάλπων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 28",
+      "text": "ἥν τ’ Ἶριν καλέουσι, νέφος καὶ τοῦτο πέφυκε, πορφύρεον καὶ φοινίκεον καὶ χλωρὸν ἰδέσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.1",
+      "text": "πάντες γὰρ γαίης",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 29.2",
+      "text": "τε καὶ ὕδατος ἐκγενόμεσθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.1",
+      "text": "καὶ τὸ μὲν οὖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.2",
+      "text": "σαφὲς οὔ τις ἀνὴρ ἴδεν οὐδέ τις ἔσται εἰδὼς ἀμφὶ θεῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.3",
+      "text": "τε καὶ ἅσσα λέγω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.4",
+      "text": "περὶ πάντων· εἰ γὰρ καὶ τὰ μάλιστα τύχοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 30.5",
+      "text": "τετελεσμένον εἰπών, αὐτὸς ὅμως οὐκ οἶδε· δόκος δ’ ἐπὶ πᾶσι τέτυκται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31.1",
+      "text": "ταῦτα δεδοξάσθω μὲν ἐοικότα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 31.2",
+      "text": "τοῖς ἐτύμοισι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.1",
+      "text": "ὁππόσα δὴ θνητοῖσι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 32.2",
+      "text": "πεφήνασιν εἰσοράασθαι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 33",
+      "text": "καὶ μὲν ἐνὶ σπεάτεσσί τεοις καταλείβεται ὕδωρ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 34",
+      "text": "εἰ μὴ χλωρὸν ἔφυσε θεὸς μέλι, πολλὸν ἔφασκον γλύσσονα σῦκα πέλεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "beu-ae",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "xenophanes-of-colophon-epigram-beu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ac",
+      "title": {
+        "english": "On Piety and Festivity",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenophanes-of-colophon-piety-festivity-beu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/piety-festivity",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/piety-festivity.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ad",
+      "title": {
+        "english": "Symposium and Piety Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "xenophanes-of-colophon-symposium-piety-beu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/symposium-piety",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/symposium-piety.json"
+      }
+    },
+    {
+      "eul_wid": "beu-ab",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "xenophanes-of-colophon-testimonies-beu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophanes-of-colophon/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "oqk-ae",
+      "title": {
+        "english": "Hermes Trismegistus-Thought and Perception",
+        "ancient_greek": "Περὶ νοήσεως καὶ αἰσθήσεως."
+      },
+      "url_slug": "hermetica-thought-perception-oqk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/thought-perception",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/thought-perception.json"
+      }
+    },
+    {
+      "eul_wid": "mty-aa",
+      "title": {
+        "english": "On Tarsus and Historical Figures",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "athenodorus-of-tarsus-historical-figures-mty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/athenodorus-of-tarsus/historical-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus/historical-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus/historical-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus/historical-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/athenodorus-of-tarsus/historical-figures.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-af",
+      "title": {
+        "english": "On the Generation of Animals",
+        "ancient_greek": "Περὶ Ζῴων Γενέσεως"
+      },
+      "url_slug": "aristotle-generation-animals-hgw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/generation-animals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/generation-animals.json"
+      }
+    },
+    {
+      "eul_wid": "rye-aw",
+      "title": {
+        "english": "On the Presidency in the Senate",
+        "ancient_greek": "Περὶ προεδρίας εἰς τὴν σύγκλητον"
+      },
+      "url_slug": "themistius-presidency-senate-rye-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/presidency-senate",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/presidency-senate.json"
+      }
+    },
+    {
+      "eul_wid": "mxk-aa",
+      "title": {
+        "english": "On the Ten Universal Categories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "pseudo-archytas-the-pythagorean-ten-categories-mxk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-archytas-the-pythagorean/ten-categories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean/ten-categories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean/ten-categories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean/ten-categories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-archytas-the-pythagorean/ten-categories.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bn",
+      "title": {
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
+      },
+      "url_slug": "themistius-philopolis-rye-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-al",
+      "title": {
+        "english": "Questions on Genesis",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-al-lgi-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-al",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-al.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ao",
+      "title": {
+        "english": "Whether An Elder Should Engage In Politics",
+        "ancient_greek": "Εἰ πρεσβυτέρῳ πολιτευτέον"
+      },
+      "url_slug": "plutarch-of-chaeronea-elder-politics-okg-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/elder-politics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/elder-politics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/elder-politics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/elder-politics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/elder-politics.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/xenophanes-of-colophon/silli-nature",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophanes-of-colophon/silli-nature.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

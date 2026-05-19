@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pku-aa",
+  "eul_aid": "pku",
+  "author_slug": "marcellus-of-side",
+  "work_slug": "fish",
+  "url_slug": "marcellus-of-side-fish-pku-aa",
+  "author": {
+    "english": "Marcellus of Side",
+    "ancient_greek": "Μάρκελλος ὁ Σιδήτης"
+  },
+  "title": {
+    "english": "On Fish",
+    "ancient_greek": "Περὶ Ἰχθύων"
+  },
+  "seo": {
+    "browser_title": "Classical On Fish by Marcellus of Side on Eulogikon",
+    "meta_title": "Classical On Fish by Marcellus of Side in Ancient Greek",
+    "meta_description": "A didactic poem describing the nature varieties of fish in sea. Greek verse work on marine life and ichthyology. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Fish</strong> is a didactic poem in epic Greek hexameter by the 2nd-century CE physician and poet Marcellus of Side. It belongs to the genre of pharmacological poetry, detailing the medicinal properties of various fish and marine creatures. The work formed part of Marcellus&#x27;s broader corpus of medical verse, which also included treatments of herbal remedies. The complete poem is lost; its text survives only in fragments quoted by later medical compilers, principally Oribasius in the 4th century and Aëtius of Amida in the 6th century. From these sources, scholars have identified seven extant passages. The original structure presumably organized the hexameters into sections describing individual fish and their therapeutic applications, functioning as both a practical medical reference and a literary mnemonic device. Composed during the cultural revival of the Second Sophistic, a period marked by renewed engagement with classical forms, the poem reflects the era&#x27;s synthesis of technical expertise and literary artistry. Marcellus, a contemporary of the physician Galen, addressed an educated audience of medical practitioners and the literate elite, embedding authoritative pharmacological knowledge within the prestigious tradition of Hellenistic didactic poetry. This approach ensured the work&#x27;s preservation and citation within specialized medical circles for centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Εὖ δὲ καὶ εἰναλίων ἐδάην φύσιν ἰήτειραν 〈σχ〉ήμασι παντοίοισιν ἐμὸν νόον ἐξερεείνων, ὡς αὐτός τ’ ἐνόησα καὶ ἄλλων μῦθον ἄκουσα· ὧν τοι ἐγὼ πληθὺν ἠδ’ οὔνομα πᾶν ἀγορεύσω. Βένθεα κητώεντα πολυσκοπέλοιο θαλάσσης ἰχθύες ἀμφινέμονται ἀπείριτοι ἀργινόεντες παμμέλανες περκνοί τε καὶ αἰόλον εἶδος ἔχοντες· φάγροι τε γλαῦκοί τε, πρέποντες βούφθαλμοί τε καὶ κέφαλοι θύννοι τε καὶ ἀργύφεοι λάβρακες θῦροί τε σκιαδεῖς τε καὶ ἥπατοι ἀγκυλόδοντες καὶ σαργοὶ γλάν〈ι〉ές τε καὶ ἀργινόεντες ὀνίσκοι, χρύσοφοι ἠδ’ ἔλοπες καὶ πηλαμύδες καὶ ἀχάρναι γόγγροι τ’ ἐγχέλυές τε καὶ αἰνόμοροι σμύραιναι καὶ κεστρεῖς ἐρυθροί τε καὶ ἀκταῖοι μελάνουροι,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_2",
+      "text": "βῶκες καὶ περόναι καὶ πετρώεντες ἴουλοι καὶ πέρκαι τρίγλαι τε πολύστικτοί τε χελῶναι μόρμυρος αἰγιαλεύς τε καὶ ὠκυπέτεια χελιδών κυκλοτερεῖς ῥόμβοι τε καὶ ἐκτάδιον βούγλωσσον καὶ σκάροι ἀνθεμόεντες ἐρευθήεσσά τε φυκίς καὶ βατίδες κίχλαι τε καὶ ἀργιόδους κορακῖνος ἵπποι τε βράχατοί 〈τε〉 καὶ ὀξύκομοι κόκκυγες καὶ τρυγὼν ἅρπη τε καὶ ἠιόεις κόλλουρος, σκορπίοι ἠδὲ λύκοι καὶ σήπιαι ἠδὲ τραγίσκοι καὶ σπάρος ὀξυόδους καὶ κωβίος ἠυκάρηνος, τυφλῖνοι νάρκη τε καὶ ἡδείη ἀκαλήφη καὶ φθεῖρες σμαρίδες τε καὶ ἀνθήεις βασιλίσκος τρηχαλέη ῥίνη τε καὶ ἀργινόεις ἁλιπλεύμων καὶ τυτθαὶ μαινῖδες, ἀτὰρ κύνες ἠδὲ λαγωοί καὶ κι〈ρρ〉οὶ συ〈ν〉όδοντες ἰδὲ ξιφίαι θρανίαι τε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_3",
+      "text": "καὶ μύες εὐθώρηκες ἀκανθήεσσά 〈τε〉 σάλπη ἠδὲ λέων τευθίς τε καὶ ἀστακοὶ ἠυκέρωτες καὶ ξανθαὶ καρῖδες ἐρευθήεις τε πάγουρος καὶ σαῦραι χάν〈ν〉αι τε καὶ ὀρφέες ἠδὲ γαρίσκοι, κάραβος ὀκριόεις καὶ εὐόνυχες κήρυκες καὶ λεπάδες χῆμαί τε καὶ ὀξυέθειρες ἐχῖνοι πουλύποδές τε πολυπλόκαμοι κόχλοι τε φαεινοί ὄστρεά τε γλαφυραί τε πελωρίδες ἠδὲ γερῖνοι, τελλῖναι βάλανοί τε πετρηγενέες τε μυίσκοι καὶ γυροὶ δελφῖνες ἀεὶ ναύτῃσιν ἑταῖροι φῶκαί τε κριοί τε καὶ αἰόλα κήτεα πόντου· ὧν ὁπόσων ἰήματ’ ἔχει φύσις, οὐδέ τι νούσων ῥιγεδανῶν ἀλέγουσι βροτοὶ χραισμήι’ ἔχοντες ἐξ ἁλὸς ἐκ γαίης τε καὶ ἠέρος εὐρυπόροιο. Τρίγλα μὲν ἀνθεμόεσσα πυρὸς ῥιπῇσι καεῖσα σὺν μέλιτι ξουθῷ κυαναυγέας ἄνθρακας ἕλκει ῥιζόθεν, οἳ πνείουσι φόβον κρυεροῦ θανάτοιο· τύμματα δ’ εἰναλίοιο πελιδνήεντα δράκοντος τρυγόνος ὀξείης τε καὶ ἀμφιβίου σμυραίνης ἰᾶται πυρσωπὸν ἀνελκόμενον χροὸς ἧπαρ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_4",
+      "text": "τεύχει δ’ ἐν γλαφυρῷ μέθυος πλήθοντι πνιγεῖσα, κεῖνο ποτὸν βαρύθοντα τόκον σβέννυσι γυναικῶν· ζωμὸς ἀποσσεύει δὲ μιαιφόνα φάρμακα φώτων δαισαμένων, βρώμη δὲ πέλει χαριεστάτη ἄλλων εἰναλίων μερόπεσσι μετὰ σκάρον ἰχθυμέδοντα· τοῦ δριμεῖα χολὴ μέλιτος μέτα φάεα θέλγει ὀξὺ σέλας φορέουσα λιπαυγέσιν ὀφθαλμοῖσιν. σπληνὶ δ’ ἐπ’ ὀκρυόεντι πλατυνόμενον βούγλωσσον σφιγκτῷ σὺν τελαμῶνι νοσηφόρον αἴνυται ἄχθος. δευόμενον δὲ κάρηνον εὐγλήνου κεφάλοιο ἁλμυροῦ ἐν χύτρῃ κεραμηίδι καὶ λιβάδεσσι κιρνάμενον μέλιτος Λυκαβηττίου εὔκυκλον ἕδρην ἀλθαίνει συκῇσι περίδριον ὀφρυοέσσαις· πηλαμύδος χαροπῆς δὲ κάρη καὲν 〈ε〉ἴκελα τεύχει. πέρκης δ’ αὖ περὶ σαρκὶ κυλινδομένην μελανῶπιν σηπεδόνα κρατέει πυρὸς ἄσθματι ἰσοφαρίζον. σὺν χλοεροῖς λαχάνοις δὲ καθεψομένου γλαύκοιο ζωμὸς ἄγει γάλα λευκὸν ἐελδομένῃσι τιθήναις πινόμενος, τίτθαι δὲ φίλαι τότε νηπιάχοισιν ἕλκουσι〈ν〉 πόμα λαρὸν ἐυγλαγέων ἀπὸ μαζῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_5",
+      "text": "ἧπαρ δ’ αὖτε χολή τε φιλοσκοπέλου θύννοιο οὐκ ἐᾷ ὄρνυσθαι θαμινὰς τρίχας ἐν βλεφάροισι νυσσ〈ο〉ύσας, εὖτ’ ἄν κε τριχηλάβῳ ἐξερύσειας. εἰναλίου δ’ ἵπποιο χολὴ ἀτάλαντος ὑαίνης. ζωοῦ δ’ ἑψομένου μεγάλου ἐνὶ τεύχει γόγγρου Παλλαδίου πλήθοντι πυρὸς καθύπερθεν ἐλαίου, κεῖνο λίπος τρητοῦ διανεύμενον ἠθητῆρος ἤν τις ἑλὼν τήξειεν Ἐλευσινίου μετὰ κηροῦ, ἐν δὲ πλάσας ὀθόνῃ μαλακῇ περὶ γαστέρα θείη ἀρτιτόκοιο γυναικός, ἀναιδέες οὐ νύ τι ῥωχμαί σάρκα διαρραίουσιν, ἀεὶ δ’ ἀγανῶπιν ἄτρωτον οἷά τε παρθενικῆς ἁπαλόχροος αἰνήσουσι. καιομένη ῥίνης δὲ δορὴ τρηχεῖα φαεινοῖς ὕδασι λειωθεῖσα φέρει φυμάτεσσιν ἀρωγήν. τύμμα δ’ ἀκανθήεντος ἀκέσσεαι ὦκα δράκοντος αὐτὸν ἀνατμηγέντα βαλὼν ἐπὶ τραύματι θερμῷ. φθειρὸς κυανέου δὲ χολὴ μογερῇσιν ἀκουαῖς τειρομέναις ἴημα φέρει προφερέστατον ἄλλων. τρυγόνος αὖ κέντρῳ πεφρικότος ἄλγος ὀδόντος ἐξελάσεις ῥίζην ὀδυνηφόρον ἀμφιχαράσσων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_6",
+      "text": "μαζοὶ δ’ ἀλγεινοῖο μεμυκότες ἔκ γε τόκοιο χριόμενοι σαύροιο χολῇ γάλα κυμαίνουσι. σκορπίου εἰναλίου δὲ πολυσχοίνων ἀπὸ κύρτων αὐτίκ’ ἐνὶ κρητῆρσι βεβριθόσιν ἡδέος οἴνου πνιγομένου, πόμα κεῖνο πιὼν βροτός, ὃν μέλαν ἧπαρ ἢ σπλὴν ἀλγύνει πολυώδυνος, ἀτρεμὲς ἴσχει πᾶν δέμας ἀχθήεντος ἀναπνεύσας καμάτοιο. σμαρίδες αὖ λεῖα〈ι〉 μυρμηκώεντα κάρηνα ῥηιδίως θαμινάς τ’ ἀκροχορδόνας ἐξακέουσι· σὺν ῥαδινῇ χαίτῃ δὲ καθεψόμεναι μαράθοιο γλα〈κ〉τοφόρους τεύχουσι φίλην μετὰ δαῖτα τιθήνας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_7",
+      "text": "μαινίδων ἅλμη δὲ καλὸν χραισμήιον ἄφθαις ...",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "mje-ab",
+      "title": {
+        "english": "Battle of Frogs and Mice",
+        "ancient_greek": "Βατραχομυομαχία"
+      },
+      "url_slug": "parodist-anon-frogs-mice-ab-mje-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/parodist-anon/frogs-mice-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/parodist-anon/frogs-mice-ab.json"
+      }
+    },
+    {
+      "eul_wid": "jni-ad",
+      "title": {
+        "english": "Elegies",
+        "ancient_greek": "Ἐλεγείαι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-elegies-jni-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/elegies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.json"
+      }
+    },
+    {
+      "eul_wid": "kmi-aa",
+      "title": {
+        "english": "Fragments and Titles",
+        "ancient_greek": "Ἀποσπάσματα καὶ Τίτλοι"
+      },
+      "url_slug": "theodoridas-of-syracuse-fragments-kmi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodoridas-of-syracuse/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodoridas-of-syracuse/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "dzc-aa",
+      "title": {
+        "english": "Fragments on Galatea and Desire",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γαλατείας καὶ Ἔρωτος"
+      },
+      "url_slug": "philoxenus-of-cythera-galatea-desire-dzc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philoxenus-of-cythera/galatea-desire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philoxenus-of-cythera/galatea-desire.json"
+      }
+    },
+    {
+      "eul_wid": "aly-ab",
+      "title": {
+        "english": "Fragments on Smyrna and Colonization",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σμύρνης καὶ Ἀποικισμοῦ"
+      },
+      "url_slug": "mimnermus-of-colophon-smyrna-colonization-aly-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/mimnermus-of-colophon/smyrna-colonization",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/smyrna-colonization.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/smyrna-colonization.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/smyrna-colonization.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/smyrna-colonization.json"
+      }
+    },
+    {
+      "eul_wid": "bpy-aa",
+      "title": {
+        "english": "Invective Against Themistocles",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timocreon-of-rhodes-invective-bpy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocreon-of-rhodes/invective",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocreon-of-rhodes/invective.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocreon-of-rhodes/invective.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocreon-of-rhodes/invective.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocreon-of-rhodes/invective.json"
+      }
+    },
+    {
+      "eul_wid": "aly-aa",
+      "title": {
+        "english": "On Youth and Old Age",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "mimnermus-of-colophon-youth-old-age-aly-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mimnermus-of-colophon/youth-old-age",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.json"
+      }
+    },
+    {
+      "eul_wid": "agy-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "semonides-of-amorgos-testimonies-agy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/semonides-of-amorgos/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/semonides-of-amorgos/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/marcellus-of-side/fish",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-of-side/fish.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lxg-aa",
+  "eul_aid": "lxg",
+  "author_slug": "timostratus-the-comic-poet",
+  "work_slug": "generational-conflict",
+  "url_slug": "timostratus-the-comic-poet-generational-conflict-lxg-aa",
+  "author": {
+    "english": "Timostratus the Comic Poet",
+    "ancient_greek": "Τιμόστρατος ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Generational Conflict Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Fragments of Timostratus the Comic Poet on Eulogikon",
+    "meta_title": "Generational Conflict Fragments by Timostratus in Greek",
+    "meta_description": "Timostratus explores tensions between young and old through comic verse in these hellenistic fragments. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Generational Conflict Fragments</strong> is a modern editorial title for a collection of eleven verse fragments attributed to the comic poet Timostratus. The original titles of the plays from which these excerpts derive are lost; they survive through quotation by later authors, most notably Athenaeus in his <strong>Deipnosophistae</strong>. The fragments preserve dialogue and choral parts from comedies that appear to have centered on the conflict between older and younger generations. Their content suggests thematic concerns typical of the comic genre, including tensions between fathers and sons over authority and values, satire of contemporary social manners, and scenes of domestic life. Several fragments mention foods and dining practices, which likely explains their preservation by Athenaeus, who had a particular interest in such subjects. The fragments survive indirectly through such quotations and are collected in modern scholarly editions. Timostratus is an obscure figure, stylistically placed in the early 4th century BCE, a period of transition between Old and Middle Comedy. While his direct influence is undocumented, these fragments provide valuable evidence for the evolution of the comic genre, Athenian social history, and colloquial language of the era.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ἄχρι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦ νῦν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.1",
+      "text": "οἱ μὲν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.2",
+      "text": "προσέφερον τὸν χάρακα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2.3",
+      "text": "πρὸς τὴν ἄκραν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "διὰ χειρὸς δανεῖσαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4",
+      "text": "ζάγρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἀφελοῦμαι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "[spk_α]Α. τηρεῖν μὲν ἑτέροις οἱ γέροντες δυνάμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6",
+      "text": "[spk_β]Β. ἡμεῖς δ’ ἀπολαύειν ὧν ἔχουσιν οἱ νέοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7",
+      "text": "δυνάμεις",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-am",
+      "title": {
+        "english": "Dubious Theophorumenae Fragment",
+        "ancient_greek": "Ἀμφίβολον Ἀπόσπασμα Θεοφορουμένης"
+      },
+      "url_slug": "menander-of-athens-theophorumenae-hps-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/theophorumenae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/theophorumenae.json"
+      }
+    },
+    {
+      "eul_wid": "jns-aa",
+      "title": {
+        "english": "Fragments on Art and Wealth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τέχνης καὶ Πλούτου"
+      },
+      "url_slug": "hipparchus-the-comic-poet-art-wealth-jns-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hipparchus-the-comic-poet/art-wealth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hipparchus-the-comic-poet/art-wealth.json"
+      }
+    },
+    {
+      "eul_wid": "hcq-ac",
+      "title": {
+        "english": "Fragments on Comedy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κωμῳδίας"
+      },
+      "url_slug": "timocles-the-comic-poet-comedy-fragments-ac-hcq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/timocles-the-comic-poet/comedy-fragments-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timocles-the-comic-poet/comedy-fragments-ac.json"
+      }
+    },
+    {
+      "eul_wid": "daw-ae",
+      "title": {
+        "english": "Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ"
+      },
+      "url_slug": "aristophanes-of-athens-daily-life-daw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/daily-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/daily-life.json"
+      }
+    },
+    {
+      "eul_wid": "duw-ac",
+      "title": {
+        "english": "Fragments on Domestic Strife",
+        "ancient_greek": "Ἀποσπάσματα περὶ Οἰκογενειακῆς Στάσεως"
+      },
+      "url_slug": "phrynichus-the-comic-poet-domestic-strife-duw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/phrynichus-the-comic-poet/domestic-strife",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phrynichus-the-comic-poet/domestic-strife.json"
+      }
+    },
+    {
+      "eul_wid": "fua-ab",
+      "title": {
+        "english": "Fragments on Poverty and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Πενίας καὶ Εὐωχίας"
+      },
+      "url_slug": "aristophon-the-comic-poet-poverty-feasting-fua-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophon-the-comic-poet/poverty-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophon-the-comic-poet/poverty-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "kfu-ae",
+      "title": {
+        "english": "Metrical Arguments",
+        "ancient_greek": "Μετρικοὶ Ἀγῶνες"
+      },
+      "url_slug": "comic-fragments-anonymous-ii-metrical-arguments-kfu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/comic-fragments-anonymous-ii/metrical-arguments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/comic-fragments-anonymous-ii/metrical-arguments.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bl",
+      "title": {
+        "english": "Sicyonian",
+        "ancient_greek": "Σικυώνιος"
+      },
+      "url_slug": "menander-of-athens-sicyon-hps-bl",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/sicyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/sicyon.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/timostratus-the-comic-poet/generational-conflict",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timostratus-the-comic-poet/generational-conflict.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

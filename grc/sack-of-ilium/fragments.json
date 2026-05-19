@@ -1,0 +1,301 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "afk-aa",
+  "eul_aid": "afk",
+  "author_slug": "sack-of-ilium",
+  "work_slug": "fragments",
+  "url_slug": "sack-of-ilium-fragments-afk-aa",
+  "author": {
+    "english": "Sack of Ilium",
+    "ancient_greek": "Ἰλίου πέρσις"
+  },
+  "title": {
+    "english": "Sack of Ilium Fragments",
+    "ancient_greek": "Ἰλίου Πέρσις Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "The Sack of Ilium by Arctinus of Miletus on Eulogikon",
+    "meta_title": "The Classical Sack of Ilium by Arctinus in Ancient Greek",
+    "meta_description": "Surviving fragments of the lost epic poem The Sack of Ilium describing the fall of Troy. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἔπος",
+      "english": "Epic",
+      "href": "/domains/epic"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Sack of Ilium is a lost epic poem from the Archaic period of ancient Greece, forming a crucial part of the Epic Cycle, a collection of poems that narrated the complete story of the Trojan War. Traditionally ascribed to Arctinus of Miletus, its authorship remains uncertain among modern scholars. The poem chronicled the final, catastrophic chapter of the war, detailing the deception of the Wooden Horse, the subsequent sack and burning of the city of Troy, and the immediate aftermath for both the victorious Greek warriors and the defeated Trojans. Composed in the dactylic hexameter characteristic of Greek epic, the work functioned within a broader narrative tradition, elaborating upon and connecting events surrounding the core Homeric accounts.</p>\n<p class=\"research-text\">The complete text has not survived antiquity. Our understanding of the poem derives from approximately seventeen brief fragments and a prose summary written by the 5th-century CE scholar Proclus, supplemented by scattered quotations in later authors such as Pausanias. These sources reveal a narrative of decisive action and divine intervention, featuring episodes like the debate over the fate of the Trojan hero Aeneas and the tragic death of the Trojan prince Astyanax. The poem’s version of Troy’s fall established the canonical account that profoundly influenced subsequent Greco-Roman literature, most notably providing foundational material for Virgil’s <strong>Aeneid</strong>. As such, despite its fragmentary preservation, the Sack of Ilium represents a vital link in the transmission and evolution of the Trojan War mythos.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Πόρκις καὶ Χαρίβοια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.1",
+      "text": "αὐτὸς γάρ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.2",
+      "text": "σφιν ἔδωκε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.3",
+      "text": "πατὴρ 〈κλυτὸσ〉 Ἐννοσίγαιος ἀμφοτέροις, ἕτερον δ’ ἑτέρου κυδίον’ ἔθηκε· τῶι μὲν κουφοτέρας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.4",
+      "text": "χεῖρας πόρεν ἔκ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.5",
+      "text": "τε βέλεμνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.6",
+      "text": "σαρκὸς ἑλεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.7",
+      "text": "τμῆξαί τε καὶ ἕλκεα πάντ’ ἀκέσασθαι,[ln_5]τῶι δ’ ἀκριβέα πάντ’ ἄρ’ ἐνὶ στήθεσσιν ἔθηκεν ἄσκοπά τε γνῶναι καὶ ἀναλθέα ἰήσασθαι· ὅς ῥα καὶ Αἴαντος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.8",
+      "text": "πρῶτος μάθε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.9",
+      "text": "χωομένοιο ὄμματά τ’ ἀστράπτοντα βαρυνόμενόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 4.10",
+      "text": "τε νόημα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.1",
+      "text": "Θησείδαις δ’ ἔπορεν δῶρα κρείων Ἀγαμέμνων ἠδὲ Μενεσθῆϊ μεγαλήτορι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 6.2",
+      "text": "ποιμένι λαῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.1",
+      "text": "{ὁ} Ἴαμβος ἐξ ὀλίγου διαβὰς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.2",
+      "text": "προφόρωι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.3",
+      "text": "ποδί, ὄφρ’, ὅθι γυῖα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 7.4",
+      "text": "τεινόμενα ῥώοιτο, καὶ εὐσθενὲς ἦδος ἔχηισι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "lek-aa",
+      "title": {
+        "english": "Atthis Spurious Fragment",
+        "ancient_greek": "Ἄτθις Ψευδὲς Ἀπόσπασμα"
+      },
+      "url_slug": "hegesinus-the-epic-poet-atthis-fragment-lek-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hegesinus-the-epic-poet/atthis-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet/atthis-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet/atthis-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet/atthis-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hegesinus-the-epic-poet/atthis-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "izm-ae",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "rhianus-of-crete-epigrams-izm-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/rhianus-of-crete/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rhianus-of-crete/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "kog-ab",
+      "title": {
+        "english": "Fragments on Ajax and Myth",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἴαντος καὶ Μύθου"
+      },
+      "url_slug": "euphorion-of-chalcis-ajax-myth-kog-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphorion-of-chalcis/ajax-myth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphorion-of-chalcis/ajax-myth.json"
+      }
+    },
+    {
+      "eul_wid": "utg-ac",
+      "title": {
+        "english": "Fragments on Lydian Genealogy",
+        "ancient_greek": "Ἀποσπάσματα περὶ Λυδικῆς Γενεαλογίας"
+      },
+      "url_slug": "christodorus-of-coptus-lydia-genealogy-utg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/christodorus-of-coptus/lydia-genealogy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/christodorus-of-coptus/lydia-genealogy.json"
+      }
+    },
+    {
+      "eul_wid": "abe-ab",
+      "title": {
+        "english": "Odyssey",
+        "ancient_greek": "Ὀδύσσεια"
+      },
+      "url_slug": "homer-odyssey-abe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homer/odyssey",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homer/odyssey.json"
+      }
+    },
+    {
+      "eul_wid": "keq-aa",
+      "title": {
+        "english": "Oracle and Prophecy Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "boeo-of-delphi-oracle-fragments-keq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boeo-of-delphi/oracle-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi/oracle-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi/oracle-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi/oracle-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boeo-of-delphi/oracle-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "tns-aa",
+      "title": {
+        "english": "Paraphrase of the Gospel of John",
+        "ancient_greek": "Παράφρασις εἰς τὸ Κατὰ Ἰωάννην Εὐαγγέλιον"
+      },
+      "url_slug": "nonnus-of-panopolis-gospel-john-tns-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nonnus-of-panopolis/gospel-john",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nonnus-of-panopolis/gospel-john.json"
+      }
+    },
+    {
+      "eul_wid": "aau-ac",
+      "title": {
+        "english": "Works and Days",
+        "ancient_greek": "Ἔργα καὶ Ἡμέραι"
+      },
+      "url_slug": "hesiod-works-days-aau-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hesiod/works-days",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hesiod/works-days.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/sack-of-ilium/fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/sack-of-ilium/fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,415 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "msa-aa",
+  "eul_aid": "msa",
+  "author_slug": "posidonius-of-apameia-rhodes",
+  "work_slug": "testimonies",
+  "url_slug": "posidonius-of-apameia-rhodes-testimonies-msa-aa",
+  "author": {
+    "english": "Posidonius of Apameia and Rhodes",
+    "ancient_greek": "Ποσειδώνιος ὁ Ἀπαμεύς καὶ ὁ Ῥόδιος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Posidonius of Apameia and Rhodes on Eulogikon",
+    "meta_title": "Classical Testimonies by Posidonius in Ancient Greek",
+    "meta_description": "Posidonius of Apameia and Rhodes left an enduring philosophical legacy preserved through biographical and Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Stoic",
+      "href": "/affiliations/stoic"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a modern scholarly compilation of fragments and reports concerning the ideas of Posidonius of Apameia, a major Stoic philosopher, scientist, and historian of the Hellenistic period. As none of his original works survive intact, knowledge of his thought is derived entirely from quotations and discussions in the writings of later Greek and Roman authors such as Cicero, Seneca, and Strabo. The collection, typically organized into a series of key passages, documents his wide-ranging contributions to ethics, psychology, physics, and history. It reveals Posidonius as a systematic thinker who sought to synthesize core Stoic doctrine with elements drawn from Plato and Aristotle. His influential theory of the soul, which posited irrational faculties requiring education, marked a significant development within the Stoic tradition. The fragments also attest to his work on topics including cosmic sympathy, fate, and historical causation, particularly regarding the expansion of Roman power. The modern standard edition of these fragments is that of Edelstein and Kidd. Through this indirect transmission, Posidonius exercised a profound influence on later Stoics like Seneca, informed Roman intellectual circles via Cicero, and served as an important source for ancient historians and geographers.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.1",
+      "text": "SUID. s. Ποσειδώνιος· Ἀπαμεὺς ἐκ Συρίας ἢ Ῥόδιος· φιλόσοφος Στωικός, ὃς ἐπεκλήθη Ἀθλητής. σχολὴν δ’ ἔσχεν ἐν Ῥόδωι, διάδοχος γεγονὼς καὶ μαθητὴς Παναιτίου. ἦλθε δὲ καὶ εἰς Ῥώμην ἐπὶ Μάρκου Μαρκέλλου (a. 51). ἔγραψε πολλά. —Ποσειδώνιος Ἀλεξανδρεύς· φιλόσοφος Στωικός, μαθητὴς Ζήνωνος τοῦ Κιτιέως. ἔγραψεν Ἱστορίαν τὴν μετὰ Πολύβιον (T 12 b) ἐν βιβλίοις νβ ἕως τοῦ πολέμου τοῦ Κυρηναικοῦ καὶ Πτολεμαίου· καὶ Μελέτας ῥητορικάς· Ὑποθέσεις εἰς Δημοσθένην. καὶ οἶμαι ταῦτα μᾶλλον Ποσειδωνίου τοῦ σοφιστοῦ εἶναι τοῦ Ὀλβιοπολίτου. —Ποσειδώνιος Ὀλβιοπολίτης (III)· σοφιστὴς καὶ ἱστορικός. Περὶ τοῦ Ὠκεανοῦ καὶ τῶν κατ’ αὐτόν· Περὶ τῆς Τυρικῆς καλουμένης χώρας· Ἀττικὰς ἱστορίας ἐν βιβλίοις δ · Λιβυκὰ ἐν βιβλίοις ια · καὶ ἄλλα τινά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.2",
+      "text": "STRABON XIV 2, 13: Ποσειδώνιος δ’ ἐπολιτεύσατο μὲν ἐν Ῥόδωι καὶ ἐσοφίστευσεν, ἦν δ’ Ἀπαμεὺς ἐκ τῆς Συρίας. s. F 4.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.3",
+      "text": "—XVI 2, 10: ἐντεῦθεν (sc. ἐξ Ἀπαμείας) δ’ ἐστὶ Ποσειδώνιος ὁ Στωικός, ἀνὴρ τῶν καθ’ ἡμᾶς φιλοσόφων πολυμαθέστατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.4",
+      "text": "[LUKIAN.] Macrob. 20: Ποσειδώνιος ὁ Ἀπαμεὺς τῆς Συρίας, νόμωι δὲ Ῥόδιος, φιλόσοφός τε ἅμα καὶ ἱστορίας συγγραφεὺς τέσσαρα καὶ ὀγδοήκοντα (sc. ἔζησεν ἔτη).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.5a",
+      "text": "STRABON III 1, 5: τριάκονθ’ ἡμέρας διατρίψας ἐν Γαδείροις ..... (F 45).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.5b",
+      "text": "—III 2, 5: διὸ καὶ τρισὶ μησὶν εἰς Ἰταλίαν κατᾶραι μόλις παραδιενεχθεὶς περί τε τὰς Γυμνησίας νήσους καὶ περὶ Σαρδόνα καὶ τὰ ἄλλα ἀπαντικρὺ μέρη τούτων τῆς Λιβύης .... (F 46). s. F 56; 59; 63; 73; 88; 100.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.6",
+      "text": "—VII 5, 8: ἐν Ῥόδωι πρυτανεύοντος αὐτοῦ .... (F 97).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.7",
+      "text": "PLUT. Mar. 45: ἱστορεῖ Ποσειδώνιος (F 37) ὁ φιλόσοφος αὐτὸς εἰσελθεῖν καὶ διαλεχθῆναι περὶ ὧν ἐπρέσβευεν ἤδη νοσοῦντι φάσκων αὐτῶι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.8a",
+      "text": "STRABON. XI 1, 6: φασὶ γοῦν ἐν Ῥόδωι γενόμενον τὸν Πομπήιον ἡνίκα ἐπὶ τὸν ληιστρικὸν πόλεμον ἐξῆλθεν (a. 66) —εὐθὺς δ’ ἔμελλε καὶ ἐπὶ Μιθριδάτην ὁρμήσειν καὶ τὰ μέχρι τῆς Κασπίας ἔθνη—παρατυχεῖν διαλεγομένωι τῶι Ποσειδωνίωι, ἀπιόντα δ’ ἐρέσθαι, εἴ τι προστάττει, τὸν δ’ εἰπεῖν ‘αἰὲν ἀριστεύειν καὶ ὑπείροχον ἔμμεναι ἄλλων‘.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.8b",
+      "text": "PLUT. Pomp. 42: ἐν δὲ Ῥόδωι γενόμενος πάντων μὲν ἠκροάσατο τῶν σοφιστῶν ... Ποσειδώνιος δὲ καὶ τὴν ἀκρόασιν ἀνέγραψεν, ἣν ἔσχεν ἐπ’ αὐτοῦ πρὸς Ἑρμαγόραν τὸν ῥήτορα περὶ τῆς καθόλου ζητήσεως ἀντιταξάμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.9",
+      "text": "CIC. ad Att. II 1, 2: quamquam ad me rescripsit iam Rhodo Posidonius se, nostrum illud ὑπόμνημα cum legeret, quod ego ad eum ut ornatius de isdem rebus scriberet miseram, non modo non excitatum esse ad scribendum sed etiam plane deterritum.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.10a",
+      "text": "ATHEN. XII 73 p. 549 E: Ποσειδώνιος γοῦν ὁ Στωικός, συναποδημήσας Σκιπίωνι τῶι Ἀφρικανῶι κληθέντι εἰς Ἀλεξάνδρειαν .... (F 6).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.10b",
+      "text": "—XIV 75 p. 657 E: μνημονεύει δ’ αὐτῶν (sc. τῶν περνῶν), Στράβων ἐν τρίτηι Γεωγραφουμένων (4, 11), ἀνὴρ οὐ πάνυ νεώτερος· λέγει γὰρ αὐτὸν ἐν τῆι ἑβδόμηι, τῆς αὐτῆς πραγματείας ἐγνωκέναι Ποσειδώνιον ... οὗ πολλάκις ἐμεμνήμεθα συγγενομένου Σκιπίωνι τῶι τὴν Καρχηδόνα ἑλόντι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.11",
+      "text": "STRABON. XI 1, 6: (T 8) προστίθει δὲ τούτοις, ὅτι καὶ τὴν ἱστορίαν συνέγραψε (sc. Ποσειδώνιος) τὴν περὶ αὐτῶν (scil. Ibererer und Albaner).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.12a",
+      "text": "ATHEN. IV 36 p. 151 E: Ποσειδώνιος δὲ ὁ ἀπὸ τῆς Στοᾶς ἐν ταῖς Ἱστορίαις, αἷς συνέθηκεν οὐκ ἀλλοτρίως ἧς προήιρητο φιλοσοφίας, πολλὰ παρὰ πολλοῖς ἔθιμα καὶ νόμιμα ἀναγράφων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.12b",
+      "text": "RANDNOTIZ COD. A SUID. s. Πολύβιος (91 T 2): ἰστέον ὅτι διαδέχεται τὴν Πολυβίου ἱστορίαν Ποσειδώνιος Ὀλβιοπολίτης, σοφιστής.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.13",
+      "text": "VITRUV. De arch. VIII 3, 27: (F 123) ex his autem rebus sunt nonnulla quae ego per me perspexi, cetera in libris Graecis scripta inveni, quorum scriptorum hi sunt auctores Theophrastos Timaeus Posidonios Hegesias Herodotus Aristides Metrodorus, qui magna vigilantia et infinito studio locorum proprietates, aquarum virtutes ab inclinatione caelique regionum qualitates ita esse distributas scriptis dedicaverunt.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.14",
+      "text": "STRABON VIII 1, 1: οἱ δ’ ἐν τῆι κοινῆι τῆς ἱστορίας γραφῆι χωρὶς ἀποδείξαντες τὴν τῶν ἠπείρων τοπογραφίαν, καθάπερ Ἔφορός τε ἐποίησε (70 T 12) καὶ Πολύβιος, ἄλλοι δ’ εἰς τὸν φυσικὸν τόπον καὶ τὸν μαθηματικὸν προσέλαβόν τινα καὶ τῶν τοιούτων, καθάπερ Ποσειδώνιός τε καὶ Ἵππαρχος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.15a",
+      "text": "—II 2, 1: .... ἐν τοῖς Περὶ Ὠκεανοῦ (F 28)· δοκεῖ γὰρ ἐν αὐτοῖς τὰ πολλὰ γεωγραφεῖν, τὰ μὲν οἰκείως, τὰ δὲ μαθηματικώτερον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.15b",
+      "text": "—II 3, 8: (F 28) πολλὰ γὰρ ἐν τοῖς καθ’ ἕκαστα τυγχάνει τῆς προσηκούσης διαίτης, ὅσα γεωγραφικά· ὅσα δὲ φυσικώτερα, ἐπισκεπτέον ἐν ἄλλοις ἢ οὐδὲ φροντιστέον· πολὺ γάρ ἐστι τὸ αἰτιολογικὸν παρὰ αὐτῶι καὶ τὸ ἀριστοτελίζον, ὅπερ ἐκκλίνουσιν οἱ ἡμέτεροι διὰ τὴν ἐπίκρυψιν τῶν αἰτιῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.16",
+      "text": "—X 3, 5: (Ephoros 70 T 18 a) ἡμεῖς δέ, φησί (sc. ὁ Πολύβιος), τὰ νῦν ὄντα δηλώσομεν καὶ περὶ θέσεως τόπων καὶ διαστημάτων· τοῦτο γάρ ἐστιν οἰκειότατον χωρογραφίαι. ἀλλὰ μὴν σύ γε, ὦ Πολύβιε, ὁ τὰς λαοδογματικὰς ἀποφάσεις περὶ τῶν διαστημάτων εἰσάγων οὐκ ἐν τοῖς ἔξω τῆς Ἑλλάδος μόνον, ἀλλὰ καὶ ἐν τοῖς Ἑλληνικοῖς † καὶ διαδοὺς εὐθύνας τὰς μὲν Ποσειδωνίωι, τὰς δ’ Ἀρτεμιδώρωι, τὰς δ’ ἄλλοις πλείοσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.17a",
+      "text": "—I 2, 1: ἐπεὶ οὐδὲ πρὸς ἅπαντας φιλοσοφεῖν ἄξιον, πρὸς Ἐρατοσθένη δὲ καὶ Ποσειδώνιον καὶ Ἵππαρχον καὶ Πολύβιον καὶ ἄλλους τοιούτους καλόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.17b",
+      "text": "—II 4, 2: Ἐρατοσθένους δὲ εἴρηται ἡ περὶ τὰ ἑσπέρια καὶ τὰ ἀρκτικὰ τῆς Εὐρώπης ἄγνοια. ἀλλ’ ἐκείνωι μὲν καὶ Δικαιάρχωι συγγνώμη τοῖς μὴ κατιδοῦσι τοὺς τόπους ἐκείνους, Πολυβίωι δὲ καὶ Ποσειδωνίωι τίς ἂν συγγνοίη;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.18",
+      "text": "STRABON III 2, 9: Ποσειδώνιος δέ, τὸ πλῆθος τῶν μετάλλων ἐπαινῶν καὶ τὴν ἀρετήν (F 47), οὐκ ἀπέχεται τῆς συνήθους ῥητορείας ἀλλὰ συνενθουσιᾶι ταῖς ὑπερβολαῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.19a",
+      "text": "PLIN. NH I 2: ..... (s. 21) de mundo geometrica ..... externis Hipparcho Timaeo Sosigene Petosiri Nechepso Pythagoricis Posidonio (F 75) .....",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.19b",
+      "text": "—I 4: ... situus, gentes .... externis .... Metrodoro, Cleobulo, Posidonio.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.19c",
+      "text": "—I 5; 6: .... Metrodoro (V 136), Posidonio qui Περίπλουν aut Περιήγησιν ......",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1052 002.2a,87,T.19d",
+      "text": "—I 11: ..... Themisone, Posidonio Stoico, Menandris Prienaeo et Heracleote ....",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "msa-ac",
+      "title": {
+        "english": "Fragments on Customs and Wars",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἐθῶν καὶ Πολέμων"
+      },
+      "url_slug": "posidonius-of-apameia-rhodes-customs-wars-msa-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/customs-wars",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/customs-wars.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/customs-wars.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/customs-wars.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/customs-wars.json"
+      }
+    },
+    {
+      "eul_wid": "msa-ab",
+      "title": {
+        "english": "Fragments on Ocean Tides",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς τῶν Ὠκεανῶν Παλιρροίας"
+      },
+      "url_slug": "posidonius-of-apameia-rhodes-ocean-tides-msa-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/ocean-tides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/ocean-tides.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "okg-bn",
+      "title": {
+        "english": "Comparison of Cimon and Lucullus",
+        "ancient_greek": "Κίμωνος καὶ Λουκούλλος σύγκρισις"
+      },
+      "url_slug": "plutarch-of-chaeronea-cimon-lucullus-okg-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/cimon-lucullus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cimon-lucullus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cimon-lucullus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cimon-lucullus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/cimon-lucullus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cl",
+      "title": {
+        "english": "Consolation to His Wife",
+        "ancient_greek": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου"
+      },
+      "url_slug": "plutarch-of-chaeronea-consolation-wife-okg-cl",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/consolation-wife",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/consolation-wife.json"
+      }
+    },
+    {
+      "eul_wid": "hui-af",
+      "title": {
+        "english": "Established Opinions",
+        "ancient_greek": "Κύριαι Δόξαι"
+      },
+      "url_slug": "epicurus-established-opinions-hui-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/epicurus/established-opinions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epicurus/established-opinions.json"
+      }
+    },
+    {
+      "eul_wid": "flo-aa",
+      "title": {
+        "english": "Fragments on Aristotelian Philosophy",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἀριστοτελικῆς Φιλοσοφίας"
+      },
+      "url_slug": "phaenias-of-eresus-aristotelian-philosophy-flo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phaenias-of-eresus/aristotelian-philosophy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phaenias-of-eresus/aristotelian-philosophy.json"
+      }
+    },
+    {
+      "eul_wid": "omo-aa",
+      "title": {
+        "english": "Fragments on Egyptian History",
+        "ancient_greek": "Ἀποσπάσματα περὶ Αἰγυπτιακῆς Ἱστορίας"
+      },
+      "url_slug": "chaeremon-of-alexandria-egyptian-history-omo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/chaeremon-of-alexandria/egyptian-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria/egyptian-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria/egyptian-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria/egyptian-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chaeremon-of-alexandria/egyptian-history.json"
+      }
+    },
+    {
+      "eul_wid": "aiw-aa",
+      "title": {
+        "english": "On Harmony and the Cosmos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristaeus-the-culture-hero-harmony-cosmos-aiw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristaeus-the-culture-hero/harmony-cosmos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero/harmony-cosmos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero/harmony-cosmos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero/harmony-cosmos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristaeus-the-culture-hero/harmony-cosmos.json"
+      }
+    },
+    {
+      "eul_wid": "pyq-ac",
+      "title": {
+        "english": "On Music",
+        "ancient_greek": "περὶ Μουσικῆς"
+      },
+      "url_slug": "pseudo-plutarch-music-pyq-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-plutarch/music",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-plutarch/music.json"
+      }
+    },
+    {
+      "eul_wid": "pzk-ab",
+      "title": {
+        "english": "Sentences",
+        "ancient_greek": "Γνῶμαι"
+      },
+      "url_slug": "secundus-the-silent-sentences-pzk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/sentences",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/sentences.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/posidonius-of-apameia-rhodes/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidonius-of-apameia-rhodes/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

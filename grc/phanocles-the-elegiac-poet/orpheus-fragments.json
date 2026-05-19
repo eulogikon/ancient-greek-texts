@@ -1,0 +1,259 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iys-aa",
+  "eul_aid": "iys",
+  "author_slug": "phanocles-the-elegiac-poet",
+  "work_slug": "orpheus-fragments",
+  "url_slug": "phanocles-the-elegiac-poet-orpheus-fragments-iys-aa",
+  "author": {
+    "english": "Phanocles the Elegiac Poet",
+    "ancient_greek": "Φανοκλῆς ὁ ἐλεγειογράφος"
+  },
+  "title": {
+    "english": "Fragments on Orpheus",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ὀρφέως"
+  },
+  "seo": {
+    "browser_title": "Fragments on Orpheus by Phanocles the Poet on Eulogikon",
+    "meta_title": "Fragments on Orpheus by Phanocles in Ancient Greek",
+    "meta_description": "Surviving fragments of Phanocles's elegiac poem on Orpheus. Hellenistic elegy on a legendary musician. Read in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric) (frg)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Orpheus</strong> consists of eleven elegiac passages attributed to the Hellenistic poet Phanocles. Preserved through later quotation, these verses present mythological narratives centered on Orpheus, composed in the standard elegiac couplet form. The most significant fragment recounts Orpheus’s love for Calaïs, son of Boreas, and attributes the poet’s death at the hands of Thracian women to their rage over his rejection of them following this homoerotic attachment. This offers a notable variant of the more common myth involving the Maenads and Dionysus. The fragments collectively exemplify Phanocles’s characteristic focus on homoerotic themes and a catalog-style structure linking mythological figures. The work survives entirely through indirect transmission, primarily in the 5th-century CE anthology of Stobaeus, with other sources including the <strong>Etymologicum Magnum</strong> and the <strong>Suda</strong>. The standard modern critical edition is found in Powell’s <strong>Collectanea Alexandrina</strong> and the <strong>Supplementum Hellenisticum</strong>. Phanocles’s fragments are a key source for the development of homoerotic themes in Hellenistic poetry and for understanding the period’s scholarly reworking of myth. His version of Orpheus’s death is frequently cited in analyses of the myth’s evolution and the representation of same-sex relationships in ancient literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Ἢ ὡς Οἰάγροιο πάϊς Θρηΐκιος Ὀρφεὺς ἐκ θυμοῦ Κάλαϊν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "στέρξε Βορηϊάδην, πολλάκι δὲ σκιεροῖσιν ἐν ἄλσεσιν ἕζετ’ ἀείδων [para]ὃν πόθον, οὐδ’ ἦν οἱ θυμὸς ἐν ἡσυχίῃ,[ln_5]ἀλλ’ αἰεί μιν ἄγρυπνοι ὑπὸ ψυχῇ μελεδῶναι [para]ἔτρυχον, θαλερὸν δερκομένου Κάλαϊν. Τὸν μὲν Βιστονίδες κακομήχανοι ἀμφιχυθεῖσαι [para]ἔκτανον, εὐήκη φάσγανα θηξάμεναι, οὕνεκα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρῶτος ἔδειξεν ἐνὶ Θρῄκεσσιν ἔρωτας[ln_10]ἄρρενας, οὐδὲ πόθους ᾔνεσε θηλυτέρων. Τοῦ δ’ ἀπὸ μὲν κεφαλὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "χαλκῷ τάμον, αὐτίκα δ’ αὐτὴν [para]εἰς ἅλα Θρηϊκίῃ ῥῖψαν ὁμοῦ χέλυϊ ἥλῳ καρτύνασαι, ἵν’ ἐμφορέοιντο θαλάσσῃ [para]ἄμφω ἅμα, γλαυκοῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τεγγόμεναι ῥοθίοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]Τὰς δ’ ἱερῇ Λέσβῳ πολιὴ ἐπέκελσε θάλασσα· [para]ἠχὴ δ’ ὣς λιγυρῆς πόντον ἐπέσχε λύρης, νήσους τ’ αἰγιαλούς θ’ ἁλιμυρέας, ἔνθα λίγειαν [para]ἀνέρες Ὀρφείην ἐκτέρισαν κεφαλήν, ἐν δὲ χέλυν τύμβῳ λιγυρὴν θέσαν, ἣ καὶ ἀναύδους[ln_20]πέτρας καὶ Φόρκου",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "στυγνὸν ἔπειθεν ὕδωρ. Ἐκ κείνου μολπαί τε καὶ ἱμερτὴ κιθαριστὺς [para]νῆσον ἔχει, πασέων δ’ ἐστὶν ἀοιδοτάτη. Θρῇκες δ’ ὡς ἐδάησαν ἀρήϊοι ἔργα γυναικῶν [para]ἄγρια, καὶ πάντας δεινὸν ἐσῆλθεν ἄχος,[ln_25]ἃς ἀλόχους ἔστιζον, ἵν’ ἐν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "χροῒ σήματ’ ἔχουσαι [para]κυάνεα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "στυγεροῦ μὴ λελάθοιντο φόνου· ποινὰς δ’ Ὀρφῆϊ κταμένῳ τίνουσι γυναῖκες εἰσέτι νῦν κείνης εἵνεκεν ἀμπλακίης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "Ἀλλὰ τὸ Μοιράων νῆμ’ ἄλλυτον, οὐδέ τῳ ἔστιν [para]ἐκφυγέειν, ὁπόσοι γῆν ἐπιφερβόμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3",
+      "text": "Ἢ ὡς θεῖον Ἄδωνιν ὀρειφοίτης Διόνυσος ἥρπασεν, ἠγαθέην Κύπρον ἐποιχόμενος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "jni-ad",
+      "title": {
+        "english": "Elegies",
+        "ancient_greek": "Ἐλεγείαι"
+      },
+      "url_slug": "hexameter-papyri-anonymous-elegies-jni-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hexameter-papyri-anonymous/elegies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hexameter-papyri-anonymous/elegies.json"
+      }
+    },
+    {
+      "eul_wid": "uic-aa",
+      "title": {
+        "english": "Epitaph",
+        "ancient_greek": "Ἐπιτάφιον"
+      },
+      "url_slug": "pectorius-epitaph-text-uic-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pectorius-epitaph/text",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.json"
+      }
+    },
+    {
+      "eul_wid": "iei-aa",
+      "title": {
+        "english": "Fragments IG 4.950",
+        "ancient_greek": "Ἀποσπάσματα IG 4.950"
+      },
+      "url_slug": "isyllus-of-epidaurus-fragments-ig-4-950-iei-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/isyllus-of-epidaurus/fragments-ig-4-950",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus/fragments-ig-4-950.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus/fragments-ig-4-950.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus/fragments-ig-4-950.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isyllus-of-epidaurus/fragments-ig-4-950.json"
+      }
+    },
+    {
+      "eul_wid": "iuc-aa",
+      "title": {
+        "english": "Fragments on Helios and Heroes",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἡλίου καὶ Ἡρώων"
+      },
+      "url_slug": "alexander-of-aetolia-helios-heroes-iuc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-aetolia/helios-heroes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-aetolia/helios-heroes.json"
+      }
+    },
+    {
+      "eul_wid": "jqu-aa",
+      "title": {
+        "english": "Fragments on Sea Creatures",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῶν ἐν θαλάσσῃ Ζῴων"
+      },
+      "url_slug": "pancrates-of-arcadia-sea-creatures-jqu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pancrates-of-arcadia/sea-creatures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/sea-creatures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/sea-creatures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/sea-creatures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pancrates-of-arcadia/sea-creatures.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ah",
+      "title": {
+        "english": "Hymn 16 To Asclepius",
+        "ancient_greek": "Ὕμνος εἰς Ἀσκληπιόν"
+      },
+      "url_slug": "homeric-hymns-anonymous-asclepius-upu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-af",
+      "title": {
+        "english": "Megara",
+        "ancient_greek": "Μεγάρα"
+      },
+      "url_slug": "moschus-of-syracuse-megara-mdu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/megara",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/megara.json"
+      }
+    },
+    {
+      "eul_wid": "qja-aa",
+      "title": {
+        "english": "To the Initial Discharges",
+        "ancient_greek": "Πρὸς τὰς ἀρχομένας ὑποχύσεις"
+      },
+      "url_slug": "aglaias-of-byzantium-initial-discharges-qja-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aglaias-of-byzantium/initial-discharges",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aglaias-of-byzantium/initial-discharges.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/phanocles-the-elegiac-poet/orpheus-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanocles-the-elegiac-poet/orpheus-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanocles-the-elegiac-poet/orpheus-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanocles-the-elegiac-poet/orpheus-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phanocles-the-elegiac-poet/orpheus-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

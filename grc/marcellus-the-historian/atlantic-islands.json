@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "kqo-aa",
+  "eul_aid": "kqo",
+  "author_slug": "marcellus-the-historian",
+  "work_slug": "atlantic-islands",
+  "url_slug": "marcellus-the-historian-atlantic-islands-kqo-aa",
+  "author": {
+    "english": "Marcellus the Historian",
+    "ancient_greek": "Μάρκελλος ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "Fragments on the Atlantic Islands",
+    "ancient_greek": "Ἀποσπάσματα περὶ τῶν ἐν Ἀτλαντικῷ Νήσων"
+  },
+  "seo": {
+    "browser_title": "Fragments of Marcellus the Historian on Eulogikon Archive",
+    "meta_title": "Fragments of Marcellus the Historian in Ancient Greek",
+    "meta_description": "Fragments from Marcellus the Historian on Atlantic islands. Key ancient geographical text. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine (frg)",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The work known as the <strong>Fragments on the Atlantic Islands</strong> by Marcellus the Historian survives only through two brief excerpts preserved by the 6th-century CE Byzantine scholar Stephanus of Byzantium in his geographical lexicon, the <strong>Ethnica</strong>. These prose fragments describe islands in the Atlantic Ocean. The original title and full scope of Marcellus’s work are lost, with the modern title deriving from the subject matter of these surviving passages. The two fragments focus on Atlantic geography, with the first locating an island named Kerne in the Atlantic opposite Carthage and noting it was a Carthaginian trading post. The second fragment places the mythical Hesperides islands in the same ocean. The text is entirely lost except for these citations within Stephanus’s <strong>Ethnica</strong>, which itself is preserved through an epitome compiled by Hermolaus, leaving no independent manuscript tradition. Marcellus’s fragments belong to the Hellenistic tradition of geographical writing concerning the western limits of the known world. His reference to Carthaginian trade at Kerne provides a valuable literary link to Punic exploration and commercial networks. The fragments were utilized by later Byzantine compilers as geographical authorities and remain of interest to historians studying ancient geography and Mediterranean trade routes.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΑΙΘΙΟΠΙΚΑ Schol. Platon. Tim.: Ἡ δὲ νῆσος] Ὅτι μὲν ἐγένετο τοιαύτη τις νῆσος καὶ τηλικαύτη, δηλοῦσί τινες τῶν ἱστορούντων τὰ περὶ τῆς ἔξω θαλάσσης· εἶναι γὰρ ἐν τοῖς αὐτῶν χρόνοις ἑπτὰ μὲν νήσους ἐν ἐκείνῳ τῷ πελάγει Περσεφόνης ἱερὰς, τρεῖς μὲν ἄλλας ἀπλέτους, τὴν μὲν Πλούτωνος, τὴν δὲ Ἄμμωνος, μέσην δὲ τούτων ἄλλην Ποσειδῶνος χιλίων σταδίων τὸ μέγεθος. Καὶ τοὺς οἰκοῦντας ἐν αὐτῇ μνήμην ἀπὸ τῶν προγόνων διασώζειν περὶ τῆς Ἀτλαντί δος, ὄντως γενομένης νήσου ἐκεῖ παμμεγεθεστάτης, ἣν ἐπὶ πολλὰς περιόδους δυναστεῦσαι πασῶν τῶν ἐν τῷ Ἀτλαντικῷ πελάγει νήσων, Ποσειδῶνος καὶ αὐτὴν οὖσαν ἱεράν. Ταῦτα μὲν οὖν Μάρκελλος ἐν τοῖς Αἰθιοπικοῖς γέγραφεν, ἡμεῖς δὲ ἀπὸ τῶν Πρόκλου ἐξελόντες παρεθέμεθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Schol. Plat. Tim.: Καὶ γὰρ τοῦ αἰθέρος αὐτοῦ λέγει Μάρκελλος τὴν τοῦδε ψαύειν κορυφὴν, καὶ σκιὰν ἐκπέμπειν ἄχρι πεντακισχιλίων σταδίων· ἀπὸ γὰρ θʹ ὥρας ἡμερινῆς κρύπτεσθαι τὸν ἥλιον ὑπ’ αὐτοῦ μέχρι τελέας καταδύ σεως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ubo-ab",
+      "title": {
+        "english": "Against Porphyry",
+        "ancient_greek": "Κατὰ Πορφυρίου"
+      },
+      "url_slug": "anonymous-historical-work-against-porphyry-ubo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/against-porphyry",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/against-porphyry.json"
+      }
+    },
+    {
+      "eul_wid": "guo-aa",
+      "title": {
+        "english": "Boeotian Histories and Legends",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "aristophanes-of-boeotia-histories-legends-guo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-boeotia/histories-legends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-boeotia/histories-legends.json"
+      }
+    },
+    {
+      "eul_wid": "nie-aa",
+      "title": {
+        "english": "Fragments on the Battle of Salamis",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς ἐν Σαλαμῖνι Ναυμαχίας"
+      },
+      "url_slug": "aristodemus-the-historian-battle-salamis-nie-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristodemus-the-historian/battle-salamis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/battle-salamis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/battle-salamis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/battle-salamis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristodemus-the-historian/battle-salamis.json"
+      }
+    },
+    {
+      "eul_wid": "pdc-ag",
+      "title": {
+        "english": "From the Nomadic",
+        "ancient_greek": "ἐκ τῆς Νομαδικῆς"
+      },
+      "url_slug": "appian-of-alexandria-nomadic-pdc-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/appian-of-alexandria/nomadic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/appian-of-alexandria/nomadic.json"
+      }
+    },
+    {
+      "eul_wid": "moo-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "rutilius-rufus-the-historian-historical-fragments-moo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/rutilius-rufus-the-historian/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rutilius-rufus-the-historian/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "gko-aa",
+      "title": {
+        "english": "On Vessels and Drinking Cups",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "menesthenes-the-historian-vessels-cups-gko-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menesthenes-the-historian/vessels-cups",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.json"
+      }
+    },
+    {
+      "eul_wid": "pvy-aa",
+      "title": {
+        "english": "On the Famous People of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menodotus-the-historian-famous-people-pvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menodotus-the-historian/famous-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-bj",
+      "title": {
+        "english": "On the Nile",
+        "ancient_greek": "Περὶ τοῦ Νείλου"
+      },
+      "url_slug": "historical-fragments-anonymous-nile-mmg-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/nile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/nile.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/marcellus-the-historian/atlantic-islands",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian/atlantic-islands.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian/atlantic-islands.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian/atlantic-islands.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/marcellus-the-historian/atlantic-islands.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "upu-au",
+  "eul_aid": "upu",
+  "author_slug": "homeric-hymns-anonymous",
+  "work_slug": "athena-au",
+  "url_slug": "homeric-hymns-anonymous-athena-au-upu-au",
+  "author": {
+    "english": "Hymnic Collection  Anonymous",
+    "ancient_greek": "Ὁμηρικοὶ Ὕμνοι"
+  },
+  "title": {
+    "english": "Hymn 28 To Athena",
+    "ancient_greek": "Ὕμνος εἰς Ἀθηνᾶν"
+  },
+  "seo": {
+    "browser_title": "Ancient Hymn 28 To Athena by Anonymous on Eulogikon",
+    "meta_title": "Classical Hymn 28 To Athena in Ancient Greek by Anonymous",
+    "meta_description": "The Homeric Hymn to Athena praising the goddess born from Zeus. A classical Greek hymn from the Archaic period. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Homeric Hymn to Athena is an eighteen-line invocation in dactylic hexameter, composed in the epic dialect and preserved within the larger collection of anonymous Homeric Hymns. Dating likely to the Archaic or early Classical period, between the seventh and sixth centuries BCE, it functions as a concise prelude, or <strong>prooimion</strong>, intended for recitation before longer epic performances at public festivals. The hymn opens with a series of traditional epithets for the goddess, celebrating her as the revered, grey-eyed, resourceful, and relentless protector of cities. It vividly recounts her dramatic birth from the head of Zeus, fully armed with gleaming golden armor, an event that shook Olympus, terrified the earth, and stilled the sea. The narrative pauses as Hyperion&#x27;s son, Helios, halts his chariot, and all marvel until Athena removes her divine armor. The poem concludes with a direct address and farewell to the daughter of Zeus, followed by the singer&#x27;s promise to remember her in future song. As a performative piece, the hymn encapsulates the essential Athenian conception of the goddess as a potent blend of martial power, civic order, and cunning wisdom.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Παλλάδ’ Ἀθηναίην κυδρὴν θεὸν ἄρχομ’ ἀείδειν γλαυκῶπιν πολύμητιν ἀμείλιχον ἦτορ ἔχουσαν παρθένον αἰδοίην ἐρυσίπτολιν ἀλκήεσσαν Τριτογενῆ, τὴν αὐτὸς ἐγείνατο μητίετα Ζεὺς σεμνῆς ἐκ κεφαλῆς, πολεμήϊα τεύχε’ ἔχουσαν χρύσεα παμφανόωντα· σέβας δ’ ἔχε πάντας ὁρῶντας ἀθανάτους· ἡ δὲ πρόσθεν Διὸς αἰγιόχοιο ἐσσυμένως ὤρουσεν ἀπ’ ἀθανάτοιο καρήνου σείσας’ ὀξὺν ἄκοντα· μέγας δ’ ἐλελίζετ’ Ὄλυμπος δεινὸν ὑπὸ βρίμης γλαυκώπιδος, ἀμφὶ δὲ γαῖα σμερδαλέον ἰάχησεν, ἐκινήθη δ’ ἄρα πόντος κύμασι πορφυρέοισι κυκώμενος, ἔσχετο δ’ ἅλμη ἐξαπίνης· στῆσεν δ’ Ὑπερίονος ἀγλαὸς υἱὸς ἵππους ὠκύποδας δηρὸν χρόνον εἰσότε κούρη εἵλετ’ ἀπ’ ἀθανάτων ὤμων θεοείκελα τεύχη Παλλὰς Ἀθηναίη· γήθησε δὲ μητίετα Ζεύς. Καὶ σὺ μὲν οὕτω χαῖρε Διὸς τέκος αἰγιόχοιο·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_2",
+      "text": "αὐτὰρ ἐγὼ καὶ σεῖο καὶ ἄλλης μνήσομ’ ἀοιδῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "upu-am",
+      "title": {
+        "english": "Hymn 1 to Dionysus",
+        "ancient_greek": "Ὕμνος εἰς Διόνυσον"
+      },
+      "url_slug": "homeric-hymns-anonymous-dionysus-1-upu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ag",
+      "title": {
+        "english": "Hymn 10 to Aphrodite",
+        "ancient_greek": "Ὕμνος εἰς Ἀφροδίτην"
+      },
+      "url_slug": "homeric-hymns-anonymous-aphrodite-10-upu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/aphrodite-10",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ap",
+      "title": {
+        "english": "Hymn 11 to Athena",
+        "ancient_greek": "Ὕμνος εἰς Ἀθηνᾶν"
+      },
+      "url_slug": "homeric-hymns-anonymous-athena-ap-upu-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/athena-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bc",
+      "title": {
+        "english": "Hymn 12 to Hera",
+        "ancient_greek": "Ὕμνος εἰς Ἥραν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hymn-12-hera-upu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hymn-12-hera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ab",
+      "title": {
+        "english": "Hymn 14 Mothe f Gods",
+        "ancient_greek": "Ὕμνος εἰς τὴν Μητέρα τῶν Θεῶν"
+      },
+      "url_slug": "homeric-hymns-anonymous-mother-gods-upu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/mother-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.json"
+      }
+    },
+    {
+      "eul_wid": "upu-aa",
+      "title": {
+        "english": "Hymn 15 To Heracles",
+        "ancient_greek": "Ὕμνος εἰς Ἡρακλέα τὸν λέοντα"
+      },
+      "url_slug": "homeric-hymns-anonymous-hercules-upu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hercules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ah",
+      "title": {
+        "english": "Hymn 16 To Asclepius",
+        "ancient_greek": "Ὕμνος εἰς Ἀσκληπιόν"
+      },
+      "url_slug": "homeric-hymns-anonymous-asclepius-upu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ad",
+      "title": {
+        "english": "Hymn 17 To the Dioscuri",
+        "ancient_greek": "Ὕμνος εἰς τοὺς Διοσκούρους"
+      },
+      "url_slug": "homeric-hymns-anonymous-dioscuri-ad-upu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.json"
+      }
+    },
+    {
+      "eul_wid": "upu-aq",
+      "title": {
+        "english": "Hymn 18 To Hermes",
+        "ancient_greek": "Ὕμνος εἰς Ἑρμῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hermes-aq-upu-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hermes-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.json"
+      }
+    },
+    {
+      "eul_wid": "upu-be",
+      "title": {
+        "english": "Hymn 19 To Pan",
+        "ancient_greek": "Ὕμνος εἰς Πᾶνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-pan-upu-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/pan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ar",
+      "title": {
+        "english": "Hymn 2 To Demeter",
+        "ancient_greek": "Ὕμνος εἰς Δημήτρα"
+      },
+      "url_slug": "homeric-hymns-anonymous-demeter-upu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.json"
+      }
+    },
+    {
+      "eul_wid": "upu-af",
+      "title": {
+        "english": "Hymn 20 To Hephaestus",
+        "ancient_greek": "Ὕμνος εἰς Ἥφαιστον"
+      },
+      "url_slug": "homeric-hymns-anonymous-hephaestus-upu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hephaestus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "brw-ag",
+      "title": {
+        "english": "Dubious Fragments",
+        "ancient_greek": "Ἀμφίβολα Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-dubious-fragments-brw-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/dubious-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/dubious-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "mdu-aa",
+      "title": {
+        "english": "Epitaph for Bion",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "moschus-of-syracuse-epitaph-bion-mdu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/moschus-of-syracuse/epitaph-bion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/moschus-of-syracuse/epitaph-bion.json"
+      }
+    },
+    {
+      "eul_wid": "ioi-aa",
+      "title": {
+        "english": "Fragments of Cynic Satire",
+        "ancient_greek": "Ἀποσπάσματα τῆς Κυνικῆς Σατύρας"
+      },
+      "url_slug": "cercidas-of-megalopolis-cynic-satire-ioi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cercidas-of-megalopolis/cynic-satire",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cercidas-of-megalopolis/cynic-satire.json"
+      }
+    },
+    {
+      "eul_wid": "asw-ab",
+      "title": {
+        "english": "Fragments on the Trojan War",
+        "ancient_greek": "Ἀποσπάσματα περὶ τοῦ Τρωικοῦ Πολέμου"
+      },
+      "url_slug": "ibycus-of-rhegium-trojan-war-ab-asw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ibycus-of-rhegium/trojan-war-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ibycus-of-rhegium/trojan-war-ab.json"
+      }
+    },
+    {
+      "eul_wid": "cgw-aa",
+      "title": {
+        "english": "Heracles and the Mime in Contest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "gryllus-of-athens-mime-contest-cgw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/gryllus-of-athens/mime-contest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/gryllus-of-athens/mime-contest.json"
+      }
+    },
+    {
+      "eul_wid": "ccq-aa",
+      "title": {
+        "english": "Lyric Fragments on Life and Love",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου καὶ Ἔρωτος"
+      },
+      "url_slug": "praxilla-of-sicyon-lyric-fragments-ccq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/praxilla-of-sicyon/lyric-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/praxilla-of-sicyon/lyric-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "aly-aa",
+      "title": {
+        "english": "On Youth and Old Age",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "mimnermus-of-colophon-youth-old-age-aly-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mimnermus-of-colophon/youth-old-age",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mimnermus-of-colophon/youth-old-age.json"
+      }
+    },
+    {
+      "eul_wid": "gfe-ab",
+      "title": {
+        "english": "On the Senses and Human Excellence",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "simylus-the-elegiac-poet-senses-excellence-gfe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simylus-the-elegiac-poet/senses-excellence",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simylus-the-elegiac-poet/senses-excellence.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/athena-au",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-au.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

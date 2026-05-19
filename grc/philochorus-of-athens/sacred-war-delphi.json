@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "lke-ac",
+  "eul_aid": "lke",
+  "author_slug": "philochorus-of-athens",
+  "work_slug": "sacred-war-delphi",
+  "url_slug": "philochorus-of-athens-sacred-war-delphi-lke-ac",
+  "author": {
+    "english": "Philochorus of Athens",
+    "ancient_greek": "Φιλόχορος ὁ Ἀθηναῖος"
+  },
+  "title": {
+    "english": "On the Sacred War at Delphi",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On the Sacred War at Delphi by Philochorus on Eulogikon",
+    "meta_title": "On the Sacred War at Delphi by Philochorus in Greek",
+    "meta_description": "Philochorus fragment on the Sacred War for Delphi. Excerpt from Hellenistic historiography. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Philochorus of Athens’s <strong>On the Sacred War at Delphi</strong> is a lost historical monograph focusing on the Third Sacred War, which lasted from 356 to 346 BCE. The work survives only in fragmentary form, with its transmitted title, <strong>Apospasma</strong>, meaning &quot;Extract,&quot; indicating its preservation through excerpts in later authors. The treatise detailed this pivotal conflict, which centered on the Phocian seizure and alleged desecration of the sanctuary at Delphi and the subsequent military response organized by the Delphic Amphictyony. It chronicled the complex military and political maneuvers of the war, which culminated in the decisive intervention of Philip II of Macedon and his victory over the Phocians. The account also addressed the conflict&#x27;s profound consequences for Athenian interests and the broader shift in the Greek balance of power toward Macedonian hegemony.</p>\n<p class=\"research-text\">The text is known only through citations by later ancient and Byzantine scholars, such as Photius. These fragments are compiled in modern scholarly collections. As a specialized study by a major Atthidographer, a chronicler of Athenian history, it provided a detailed, Athenian-informed perspective on a war that fundamentally reshaped the Greek political order. Its surviving fragments remain a crucial source for reconstructing both the historical event and the methods of Hellenistic historical writing.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "34c.(l1)",
+      "text": "PAP. OSL. 1662, 4—7 s. 5 p. edd. Sam Eitrem—L. Amundsen, Festschr. Aristide Calderini—Roberto Paribeni 2, Mailand 1957, 147 (Schol. Eurip. Troad. 9): [... Φ ι ]λ̣όχο ( ρο ς ) δὲ ἐν τῆι ε (Irrtum statt δ )· ‘ ἐν τούτοις πε [ ρὶ τοῦ ἐν Δελφοῖς ἱεροῦ τὸν Ἱερὸν π ]όλεμον ἐπολέμησαν Ἀθηναῖοι [ πρὸς Λακεδαιμονίου ς . πόλεμος ἦν μ ]ὲν ἔμπροσθε ν , ἐπεὶ Φωκεῖς 〈καὶ Λακεδαιμόνιοι ὑπὲρ Δελφῶν ἐπολέμουν καὶ〉 κ̣ [ ρατήσαντε ς ] 〈τοῦ ἱεροῦ Λακεδαιμόνιοι〉 ⸤ τὴν προ μαντείαν παρ ⸥ ὰ̣ Δελφῶν ἔλαβο ν . Ἀθηναῖοι δὲ τρ̣ [ ίτωι ...‘",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "lke-ab",
+      "title": {
+        "english": "Atthís: Athenian Origins and Customs",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philochorus-of-athens-origins-customs-lke-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/philochorus-of-athens/origins-customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/origins-customs.json"
+      }
+    },
+    {
+      "eul_wid": "lke-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "philochorus-of-athens-testimonies-lke-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philochorus-of-athens/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/testimonies.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vhm-aa",
+      "title": {
+        "english": "Dialogue on Political Science",
+        "ancient_greek": "Περὶ Πολιτικῆς Ἐπιστήμης"
+      },
+      "url_slug": "anonymous-dialogue-on-political-science-dialogue-vhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-dialogue-on-political-science/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.json"
+      }
+    },
+    {
+      "eul_wid": "bls-ac",
+      "title": {
+        "english": "Fragments on Rivers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ποταμῶν"
+      },
+      "url_slug": "acusilaus-of-argos-rivers-bls-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/acusilaus-of-argos/rivers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/acusilaus-of-argos/rivers.json"
+      }
+    },
+    {
+      "eul_wid": "qiq-aa",
+      "title": {
+        "english": "Geographical and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "charax-of-pergamum-geographical-mythological-qiq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/charax-of-pergamum/geographical-mythological",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum/geographical-mythological.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum/geographical-mythological.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum/geographical-mythological.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charax-of-pergamum/geographical-mythological.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-ao",
+      "title": {
+        "english": "Hiero",
+        "ancient_greek": "Ἱέρων"
+      },
+      "url_slug": "xenophon-of-athens-hiero-ezq-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/hiero",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/hiero.json"
+      }
+    },
+    {
+      "eul_wid": "ofq-aa",
+      "title": {
+        "english": "Jewish War-the Romans",
+        "ancient_greek": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους"
+      },
+      "url_slug": "josephus-jewish-war-ofq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/josephus/jewish-war",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/josephus/jewish-war.json"
+      }
+    },
+    {
+      "eul_wid": "rqm-ab",
+      "title": {
+        "english": "On Polygonal Numbers",
+        "ancient_greek": "Περὶ Πολυγωνικῶν Ἀριθμῶν"
+      },
+      "url_slug": "diophantus-of-alexandria-ii-polygonal-numbers-rqm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/diophantus-of-alexandria-ii/polygonal-numbers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/polygonal-numbers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/polygonal-numbers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/polygonal-numbers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diophantus-of-alexandria-ii/polygonal-numbers.json"
+      }
+    },
+    {
+      "eul_wid": "jwy-aa",
+      "title": {
+        "english": "On the Customs of Phigalia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "harmodius-of-lepreum-customs-phigalia-jwy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/harmodius-of-lepreum/customs-phigalia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum/customs-phigalia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum/customs-phigalia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum/customs-phigalia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/harmodius-of-lepreum/customs-phigalia.json"
+      }
+    },
+    {
+      "eul_wid": "jds-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "phylarchus-of-athens-testimonies-jds-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/phylarchus-of-athens/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/phylarchus-of-athens/testimonies.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/philochorus-of-athens/sacred-war-delphi",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philochorus-of-athens/sacred-war-delphi.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,299 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "uzu-af",
+  "eul_aid": "uzu",
+  "author_slug": "simplicius-of-cilicia",
+  "work_slug": "heavens-book-1",
+  "url_slug": "simplicius-of-cilicia-heavens-book-1-uzu-af",
+  "author": {
+    "english": "Simplicius of Cilicia",
+    "ancient_greek": "Σιμπλίκιος ὁ Κίλιξ"
+  },
+  "title": {
+    "english": "On the Heavens, Book I",
+    "ancient_greek": "Περὶ οὐρανοῦ, Βιβλίον Αʹ"
+  },
+  "seo": {
+    "browser_title": "On the Heavens Book I by Simplicius of Cilicia on Eulogikon",
+    "meta_title": "On the Heavens Book I by Simplicius in Ancient Greek",
+    "meta_description": "Simplicius of Cilicia interprets Aristotle's cosmological theories on celestial bodies and the structure of the Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ φιλοσοφική",
+      "english": "Philosophical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Neoplatonist",
+      "href": "/affiliations/neoplatonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Simplicius of Cilicia’s <strong>On the Heavens, Book I</strong> is a comprehensive philosophical commentary, composed in Greek during the 530s CE, on the first book of Aristotle’s cosmological treatise <strong>De Caelo</strong>. As a Neoplatonist philosopher, Simplicius engages in more than mere exegesis; he subjects Aristotle’s text to critical analysis, aiming to reconcile Aristotelian physics with the broader framework of Platonic metaphysics. The commentary is organized around five principal lemmata, each corresponding to a pivotal argument in Aristotle’s original work. It also functions as a crucial doxographical resource, preserving extensive quotations from and debates with earlier commentators whose works are otherwise lost, most notably Alexander of Aphrodisias and Simplicius’s Christian contemporary John Philoponus.</p>\n<p class=\"research-text\">The work was written in a period of profound intellectual and institutional upheaval, shortly after the Neoplatonic school in Athens was forcibly closed by the edict of Emperor Justinian. Modern scholarship often interprets the commentary as a deliberate act of philosophical conservation and a robust defense of pagan Hellenic thought against mounting Christian theological critiques. A central and recurring polemic within the text is Simplicius’s vigorous defense of the Aristotelian doctrine of an eternal, ungenerated cosmos, which he upholds against Philoponus’s arguments for a created universe. The complete text has survived through its transmission in medieval Byzantine manuscripts and was later translated into Arabic, where it exerted significant influence on Islamic philosophers. Its meticulous citation of predecessors renders it an indispensable source for the recovery of fragments from numerous otherwise lost ancient philosophical works.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "7.361",
+      "text": "[Κἀκεῖνο δὲ τῆς τοῦ Ἀλεξάνδρου σπουδῆς ἀνάξιον, ὡς οἶμαι, φάναι, ὡς, εἰ δυνατὸν ἦν τῷ θεῷ τὸ κακὸν ἀπολέσαι, οὐδὲν ἂν ἐβουλήθη πρὸ τούτου. καὶ διὰ τί δὴ μὴ καὶ τῶν ἄλλων τῶν γενητῶν ἕκαστον ἄφθαρτον ἐποίησεν; ἐν ἑκάστῳ γάρ, φησίν, εὔλογον ἀνεπίφθονον εἶναι τὸ θεῖον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.362",
+      "text": "ταῦτα γάρ ἐστιν ἀνδρὸς πρῶτον μὲν τὴν τοῦ θεοῦ δύναμιν τῆς βουλήσεως .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.363",
+      "text": "ἐνδεεστέραν νομίζοντος. καίτοι τί ἂν ἦν ἐμποδὼν τῇ τοῦ θεοῦ δυνάμει τοῦ πάντων τῶν ὄντων τὰς φύσεις παραγαγόντος; εἰ δ’ ἀγαθὸν ὅλως ἐνόμισε μὴ εἶναι τὸ κακόν, πῶς ἂν αὐτῷ χώραν τοῦ ὑπεισελθεῖν εἰς τὰ ὄντα παρέσχεν τοιαῦτα τὰ ἔσχατα ποιήσας, ὡς τὸ κακὸν προσφύεσθαι αὐτοῖς; καὶ ταῦτα πρὸς Ἀλέξανδρόν φημι οὐ βουλόμενον δύο ἀρχὰς τῶν ὄντων λέγειν, ἀλλ’ ὑπ’ Ἀριστοτέλους πεπεισμένον μίαν ἀρχὴν τιθέναι βοῶντος “οὐκ ἀγαθὸν πολυκοιρανίη”· ἔπειτα παντάπασιν ἀγνοεῖν δοκεῖ τὴν δύναμιν τῶν ἐν Θεαιτήτῳ περὶ τοῦ κακοῦ εἰρημένων, δι’ ὃ καὶ τὸ συνεκτικὸν τοῦ δόγματος ἐν τῇ τοῦ δόγματος ἀναπτύξει παρέλιπεν τὸ δηλονότι “ὑπεναν τίον γάρ τι τῷ ἀγαθῷ εἶναι ἀνάγκη”. τὸ γὰρ κείμενον οὕτως ἔχει· “ἀλλ’ οὔτε ἀπολωλέναι τὰ κακὰ δυνατόν, ὦ Θεόδωρε· ὑπεναντίον γάρ τι τῷ ἀγαθῷ εἶναι ἀνάγκη” καὶ τὰ ἑξῆς. εἰ γὰρ μέχρι τοῦ οὐρανοῦ ἐν τῇ προόδῳ τῆς ἐνεργείας ἔστη ὁ θεός, οὐκ ἂν ἔσχε τὸ κακὸν πάροδον εἰς τὰ ὄντα· ἐπεὶ δὲ πάσης ἀγαθότητος ὁ θεὸς ὑπάρχει πηγή, ταύτῃ τοι καὶ τὴν ἐκτὸς ἀγαθότητα οὐ παρέλιπε τὴν τῶν ὑπὸ σελήνην, ἔνθα γένεσις καὶ φθορὰ καὶ οὐ μόνον εἶδος ἀλλὰ καὶ ἡ τοῦ εἴδους στέρησις ἀναγκαίως γέ γονεν, ὡς ὑπεναντίον τι τῷ ἐσχάτῳ γενέσθαι ἀγαθῷ, ὅπερ κατὰ τὴν αὐτοῦ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.364",
+      "text": "στέρησιν θεωρεῖται. εἰ δὲ τοῦτο μὴ ἦν, καὶ οὐδὲ τὸ ἀντικείμενον αὐτῷ ἔσχατον ἀγαθὸν ἦν, οὐδ’ ὁ θεὸς ἂν ἦν πάσης ἀγαθότητος αἴτιος, ὥστε οὐδὲ βούλοιτ’ ἂν ὁ θεὸς ἀπολέσθαι τὰ κακά· βούλοιτο γὰρ ἂν καὶ τὰ ἀντικείμενα αὐτοῖς ἀγαθὰ ἀπολέσθαι καὶ ἑαυτὸν μηκέτι πάσης ἀγαθότητος εἶναι αἴτιον. εἰ δέ τις φαίη· τί δὲ κωλύει καὶ τὰ ἀγαθὰ τῇδε εἶναι καὶ τὰ κακὰ μὴ εἶναι; ἀγνοεῖ, ὅτι οὐκέτι ταῦτα ἦν ἂν ἀγαθά· οὐ γὰρ ἂν ἦν δικαιοσύνη ἡ ἀνθρωπίνη καὶ σωφροσύνη, εἰ μὴ δυνατὸν ἦν αὐτὰς κατατριφθείσας εἰς τὰς στερήσεις ἑαυτῶν μεταβάλλειν· οὐδ’ ἂν ἡ ὑγίεια ἦν τῶν στοιχειωτῶν ζῴων, εἰ μὴ καὶ νοσεῖν ἐδύναντο· ἀλλ’ οὐδ’ ἦσαν ἂν αἱ δυνάμεις τῶν ψυχῶν καὶ αἱ ἀπειρίαι τῶν ἀτόμων σωμάτων, καὶ ταύτῃ δὴ τὸ τῶν ψυχῶν καὶ τῶν σωμάτων γένος ἀποτετμημένον ἂν ἦν παντάπασιν ἀπὸ τοῦ κόσμου, καὶ ἦν ἂν ἔτι ὁ κόσμος ἀτελὴς οὐκέτι τῶν ἐσχάτων ἀγαθῶν πλήρης, καὶ τὰ πρῶτα ἀγαθὰ τῇ ἐσχάτῃ καὶ ἀπόνῳ τελειώσει τῶν πλημμελούντων ὑπὸ τῆς ὕλης ἐδόκουν ἂν διαφέρειν μηδέν. ὅρα οὖν, πόσων καὶ πηλίκων κακῶν αἰτία ὑπῆρξεν ἂν ἡ τῶν κακῶν ἀπώλεια· καὶ δῆλον, ὅτι καὶ μὴ βουλόμενος αὐτὸ οὐκ ἂν ἦν ἀγαθός. ἀλλὰ καλῶς ὁ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7.364",
+      "text": "Πλάτων ἀναγκαίαν ὑπάρχουσαν τὴν τοῦ κακοῦ πρόσφυσιν διὰ τὸ ἀγαθὸν αὐτός τε οἶδεν καὶ τοῖς ὕστερον ἀπεφήνατο. ἐκ δὲ τῶν εἰρημένων δῆλον, καὶ διὰ τί μηδὲ τῶν γενητῶν καὶ φθαρτῶν ἕκαστον ἄφθαρτον ἐβουλήθη ποιῆσαι].",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "uzu-ae",
+      "title": {
+        "english": "Commentary on On the Soul",
+        "ancient_greek": "Σχόλια εἰς τὰ περὶ ψυχῆς Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-commentary-aristotle-ae-uzu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/commentary-aristotle-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ae.json"
+      }
+    },
+    {
+      "eul_wid": "uzu-ad",
+      "title": {
+        "english": "Commentary on the Physics",
+        "ancient_greek": "Σχόλια εἰς τὰ φυσικὰ Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-commentary-aristotle-ad-uzu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/commentary-aristotle-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/commentary-aristotle-ad.json"
+      }
+    },
+    {
+      "eul_wid": "uzu-ac",
+      "title": {
+        "english": "Commentary-Epictetus' Handbook",
+        "ancient_greek": "Σχόλια εἰς τὸ Ἐπικτήτου Ἐγχειρίδιον"
+      },
+      "url_slug": "simplicius-of-cilicia-handbook-commentary-uzu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/handbook-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/handbook-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uzu-ab",
+      "title": {
+        "english": "On Aristotle's Categories, Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "simplicius-of-cilicia-categories-commentary-uzu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/categories-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/categories-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "uzu-aa",
+      "title": {
+        "english": "On Aristotle's Four Books-the Heavens, Commentary",
+        "ancient_greek": "Περὶ τῶν Τεσσάρων Βιβλίων τοῦ Ἀριστοτέλους Περὶ"
+      },
+      "url_slug": "simplicius-of-cilicia-on-heavens-commentary-uzu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simplicius-of-cilicia/on-heavens-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/on-heavens-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/on-heavens-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/on-heavens-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/on-heavens-commentary.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "uxc-ai",
+      "title": {
+        "english": "Commentary on the Categories",
+        "ancient_greek": "Σχόλια εἰς τὰς κατηγορίας Ἀριστοτέλους"
+      },
+      "url_slug": "john-philoponus-of-alexandria-commentary-aristotle-ai-uxc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-philoponus-of-alexandria/commentary-aristotle-ai",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-ai.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-ai.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-ai.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-philoponus-of-alexandria/commentary-aristotle-ai.json"
+      }
+    },
+    {
+      "eul_wid": "feg-aa",
+      "title": {
+        "english": "Ethical and Physical Dialogues",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "heraclides-of-pontus-iii-ethical-dialogues-feg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclides-of-pontus-iii/ethical-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii/ethical-dialogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii/ethical-dialogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii/ethical-dialogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclides-of-pontus-iii/ethical-dialogues.json"
+      }
+    },
+    {
+      "eul_wid": "hks-ab",
+      "title": {
+        "english": "Fragments on Archytas",
+        "ancient_greek": "Αποσπάσματα"
+      },
+      "url_slug": "bion-of-borysthenes-archytas-fragments-hks-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/bion-of-borysthenes/archytas-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bion-of-borysthenes/archytas-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "hmq-aa",
+      "title": {
+        "english": "Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "euphantus-of-olynthus-historical-fragments-hmq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euphantus-of-olynthus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euphantus-of-olynthus/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-aq",
+      "title": {
+        "english": "Menexenus",
+        "ancient_greek": "Μενέξενος"
+      },
+      "url_slug": "plato-menexenus-ffk-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/menexenus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/menexenus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/menexenus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/menexenus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/menexenus.json"
+      }
+    },
+    {
+      "eul_wid": "ave-ab",
+      "title": {
+        "english": "On Aristotle's Metaphysics Books A-Z. Commentary",
+        "ancient_greek": "Σχόλια εἰς τὰ μεταφυσικὰ Ἀριστοτέλους, Βιβλία Α-Ω"
+      },
+      "url_slug": "asclepius-the-physician-aristotle-metaphysics-commentary-ave-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepius-the-physician/aristotle-metaphysics-commentary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/aristotle-metaphysics-commentary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/aristotle-metaphysics-commentary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/aristotle-metaphysics-commentary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepius-the-physician/aristotle-metaphysics-commentary.json"
+      }
+    },
+    {
+      "eul_wid": "jss-aa",
+      "title": {
+        "english": "On the Contempt of the Irrational",
+        "ancient_greek": "Περὶ ἀλόγου καταφρονήσεως"
+      },
+      "url_slug": "polystratus-the-epicurean-contempt-irrational-jss-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/polystratus-the-epicurean/contempt-irrational",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polystratus-the-epicurean/contempt-irrational.json"
+      }
+    },
+    {
+      "eul_wid": "uqy-aj",
+      "title": {
+        "english": "On the Existence of Evils",
+        "ancient_greek": "Περὶ τοῦ εἶναι τὰ κακά"
+      },
+      "url_slug": "proclus-the-successor-existence-of-evils-uqy-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/proclus-the-successor/existence-of-evils",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/proclus-the-successor/existence-of-evils.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/simplicius-of-cilicia/heavens-book-1",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simplicius-of-cilicia/heavens-book-1.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

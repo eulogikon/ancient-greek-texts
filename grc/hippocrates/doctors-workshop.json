@@ -1,0 +1,503 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bww-ag",
+  "eul_aid": "bww",
+  "author_slug": "hippocrates",
+  "work_slug": "doctors-workshop",
+  "url_slug": "hippocrates-doctors-workshop-bww-ag",
+  "author": {
+    "english": "Hippocrates and the Hippocratic Corpus",
+    "ancient_greek": "Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα"
+  },
+  "title": {
+    "english": "On the Doctor's Workshop",
+    "ancient_greek": "Περὶ ἰατρεῖου"
+  },
+  "seo": {
+    "browser_title": "On the Doctor's Workshop by Hippocrates on Eulogikon",
+    "meta_title": "Ancient On the Doctor's Workshop by Hippocrates in Greek",
+    "meta_description": "A short medical treatise from the Hippocratic Corpus on the physician's workspace and tools. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Doctor&#x27;s Workshop</strong> is a concise, practical treatise from the Hippocratic Corpus, the collection of ancient Greek medical texts associated with Hippocrates but composed by various authors. Written in Ionic Greek during the 5th or 4th century BCE, this professional manual consists of approximately twenty brief passages. It offers direct instructions for establishing and managing a physician’s surgery or consulting room, detailing the arrangement of instruments, the optimal use of natural and artificial lighting, the requisite cleanliness of the practitioner’s hands and nails, and the proper preparation of bandages and medicaments.</p>\n<p class=\"research-text\">The work survives intact within the broader manuscript tradition of the Hippocratic writings. It exemplifies the increasing professionalization of medicine in Classical Greece, moving beyond theoretical speculation to codify clinical practice. Its emphasis on an orderly workspace and the physician’s composed, hygienic appearance served a dual function: promoting practical efficiency and basic sanitation while simultaneously cultivating patient confidence through a disciplined and professional demeanor. The treatise is considered a foundational text on medical etiquette and clinical management, likely intended for the guidance of practicing physicians or medical students.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Ἢ ὅμοια ἢ ἀνόμοια ἐξ ἀρχῆς· ἀπὸ τῶν μεγίστων, ἀπὸ τῶν ῥηΐστων, ἀπὸ τῶν πάντη πάντως γιγνωσκομένων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Ἃ καὶ ἰδεῖν, καὶ θιγεῖν, καὶ ἀκοῦσαι ἔστιν· ἃ καὶ τῇ ὄψει, καὶ τῇ ἁφῇ, καὶ τῇ ἀκοῇ, καὶ τῇ ῥινὶ, καὶ τῇ γλώσσῃ, καὶ τῇ γνώμῃ ἔστιν αἰσθέσθαι· ἃ, οἷς γιγνώσκομεν ἅπασιν, ἔστι γνῶναι. Τὰ δ’ ἐς χειρουργίην κατ’ ἰητρεῖον· ὁ ἀσθενέων· ὁ δρῶν· οἱ ὑπηρέται· τὰ ὄργανα· τὸ φῶς· ὅκου· ὅκως· ὅσα· ὅκως· ὅκου τὸ σῶμα, τὰ ἄρμενα· ὁ χρόνος· ὁ τρόπος· ὁ τόπος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ὁ δρῶν, ἢ καθήμενος, ἢ ἑστεὼς, ξυμμέτρως πρὸς ἑωυτὸν, πρὸς τὸ χειριζόμενον, πρὸς τὴν αὐγήν. Αὐγέης μὲν οὖν δύο εἴδεα, τὸ μὲν κοινὸν, τὸ δὲ τεχνητόν. Τὸ μὲν οὖν κοινὸν οὐκ ἐφ’ ἡμῖν· τὸ δὲ τεχνητὸν, καὶ ἐφ’ ἡμῖν. Ὧν ἑκατέρου δισσαὶ χρήσιες, ἢ πρὸς αὐγὴν, ἢ ὑπ’ αὐγήν. Ὑπ’ αὐγὴν μὲν οὖν ὀλίγη τε ἡ χρῆσις, καταφανής τε ἡ μετριότης. Τὰ δὲ πρὸς αὐγὴν ἐκ τῶν παρεουσέων, ἐκ τῶν ξυμφερουσέων αὐγέων, πρὸς τὴν λαμπροτάτην τρέπειν τὸ χειριζόμενον· πλὴν ὁκόσα λαθεῖν δεῖ, ἢ ὁρῇν αἰσχρόν· οὕτω δὲ τὸ μὲν χειριζόμενον ἐναντίον τῇ αὐγῇ, τὸν δὲ χειρίζοντα, ἐναντίον τῷ χειριζομένῳ, πλὴν ὥστε μὴ ἐπισκοτάζειν· οὕτω γὰρ ἂν ὁ μὲν δρῶν ὁρῴη, τὸ δὲ χειριζόμενον οὐχ ὁρῷτο. Πρὸς ἑωυτὸν δὲ, καθημένῳ πόδες ἐς τὴν ἄνω ἴξιν κατ’ ἰθὺ γούνασιν· διάστασιν δὲ, ὀλίγον ξυμβεβῶτες· γούνατα δὲ ἀνωτέρω βουβώνων σμικρὸν, διάστασιν δὲ, ἀγκώνων θέσει καὶ παραθέσει. Ἱμάτιον, εὐσταλέως, εὐκρινέως, ἴσως, ὁμοίως, ἀγκῶσιν, ὤμοισιν. Πρὸς δὲ τὸ χειριζόμενον, τοῦ μὲν πρόσω καὶ ἐγγὺς, καὶ τοῦ ἄνω, καὶ τοῦ κάτω, καὶ ἔνθα ἢ ἔνθα, ἢ μέσον. Τοῦ μὲν πρόσω καὶ ἐγγὺς ὅριον, ἀγκῶνας ἐς μὲν τὸ πρόσθεν γούνατα μὴ ἀμείβειν, ἐς δὲ τὸ ὄπισθεν, πλευράς· τοῦ δὲ ἄνω, μὴ ἀνωτέρω μαζῶν ἄκρας χεῖρας ἔχειν· τοῦ δὲ κάτω, μὴ κατωτέρω, ἢ ὡς τὸ στῆθος ἐπὶ γούνασιν ἔχοντα, ἔχειν ἄκρας χεῖρας ἐγγωνίους πρὸς βραχίονας· τὰ μὲν κατὰ μέσον οὕτως· τὰ δὲ ἔνθα, ἢ ἔνθα, μὴ ἔξω τῆς ἔδρης, κατὰ λόγον δὲ τῆς ἐπιτροφῆς προσβαλλόμενον τὸ σῶμα, καὶ τοῦ σώματος τὸ ἐργαζόμενον. Ἑστεῶτα δὲ, ἰδεῖν μὲν ἐπ’ ἀμφοτέρων βεβῶτα ἐξ ἴσου τῶν ποδῶν ἅλις, δρῇν δὲ τῷ ἑτέρῳ ἐπιβεβῶτα, μὴ τῷ κατὰ τὴν δρῶσαν χεῖρα· ὕψος γούνατος πρὸς βουβῶνας, ὡς ἐν ἕδρῃ· καὶ τὰ ἄλλα ὅρια τὰ αὐτά. Ὁ δὲ χειριζόμενος τῷ χειρίζοντι τῷ ἄλλῳ τοῦ σώματος μέρει ὑπηρετείτω, ἢ ἑστεὼς, ἢ καθήμενος, ἢ κείμενος, ὅκως ἂν ῥήϊστα, ὃ δεῖ, σχῆμα ἔχων διατελέῃ, φυλάσσων ὑπόῤῥυσιν, ὑπόστασιν, ἔκτρεψιν, καταντίαν, ὡς ὃ δεῖ, σώζηται καὶ σχῆμα καὶ εἶδος τοῦ χειριζομένου, ἐν παρέξει, ἐν χειρισμῷ, ἐν τῇ ἔπειτα ἕξει. Ὄνυχας μήτε ὑπερέχειν, μήτε ἐλλείπειν· δακτύλων κορυφῇσι χρῆσις· ἀσκέειν, δακτύλοισι μὲν ἄκροις, τὰ πλεῖστα λιχανῷ πρὸς μέγαν· ὅλῃ δὲ, καταπρηνεῖ· ἀμφοτέρῃσι δὲ, ἐναντίῃσιν· δακτύλων εὐφυΐα, μέγα τὸ ἐν μέσῳ τῶν δακτύλων, καὶ ἀπεναντίον τὸν μέγαν τῷ λιχανῷ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Νοῦσος δὲ δι’ ἣν καὶ βλάπτονται, οἷσιν ἐκ γενεῆς ἢ ἐν τροφῇ εἴθισται ὁ μέγας ὑπὸ τῶν ἄλλων δακτύλων κατέχεσθαι, δῆλον. Τὰ ἔργα πάντα ἀσκέειν ἑκατέρῃ δρῶντα, καὶ ἀμφοτέρῃσιν ἅμα (ὅμοιαι γάρ εἰσιν ἀμφότεραι), στοχαζόμενον ἀγαθῶς, καλῶς, ταχέως, ἀπόνως, εὐρύθμως, εὐπόρως. Ὅργανα μὲν, καὶ ὅτε, καὶ οἵως, εἰρήσεται· ὅκου δεῖ· μὴ ἐμποδὼν τῷ ἔργῳ, μηδὲ ἐμποδὼν τῇ ἀναιρέσει, παρὰ τὸ ἐργαζόμενον δὲ τοῦ σώματος· ἄλλος δὲ ἢν διδῷ, ἕτοιμος ὀλίγῳ πρότερον ἔστω, ποιείτω δὲ, ὅταν κελεύῃς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Οἱ δὲ περὶ τὸν ἀσθενέοντα τὸ μὲν χειριζόμενον παρεχόντων, ὡς ἂν δοκῇ· τὸ δὲ ἄλλο σῶμα κατεχόντων, ὡς ἂν ἀτρεμέῃ, σιγῶντες, ἀκούοντες τοῦ ἐφεστεῶτος. Ἐπιδέσιος δύο εἴδεα, εἰργασμένον, καὶ ἐργαζόμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Ἐργαζόμενον μὲν, ταχέως, ἀπόνως, εὐπόρως, εὐρύθμως· ταχέως μὲν, ἀνύειν τὰ ἔργα· ἀπόνως δὲ, ῥηϊδίως δρῇν· εὐπόρως δὲ, ἐς πᾶν ἑτοίμως· εὐρύθμως δὲ, ὁρῆσθαι ἡδέως· ἀφ’ ὧν δὲ ταῦτα ἀσκημάτων, εἴρηται. Εἰργασμένον δὲ ἀγαθῶς, καλῶς· καλῶς μὲν, ἁπλῶς, εὐκρινέως· ἢ ὅμοια καὶ ἴσα, ἴσως καὶ ὁμοίως· ἢ ἄνισα καὶ ἀνόμοια[, ἀνίσως καὶ ἀνομοίως]· τὰ δὲ εἴδεα, ἁπλοῦν, σκέπαρνον, σιμὸν, ὀφθαλμὸς, ῥόμβος, καὶ ἡμίτομον· ἁρμόζον τὸ εἶδος τῷ εἴδει καὶ τῷ πάθει τοῦ ἐπιδεομένου. Ἀγαθὰ δὲ δύο εἴδεα τοῦ ἐπιδεομένου· ἰσχύος μὲν, ἢ πιέξει, ἢ πλήθει ὀθονίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Τὸ μὲν οὖν, αὕτη ἡ ἐπίδεσις ἰῆται, τὸ δὲ τοῖσιν ἰωμένοισιν ὑπηρετέει. Ἐς μὲν οὖν ταῦτα νόμος· ἐν δὲ τουτέοισι μέγιστα ἐπιδέσιος· πίεξις μὲν, ὥστε τὰ ἐπικείμενα μὴ ἀφεστάναι, μηδὲ ἐρηρεῖσθαι κάρτα, ἀλλὰ ἡρμόσθαι μὲν, προσηναγκάσθαι δὲ μὴ, ἧσσον μὲν τὰ ἔσχατα, ἥκιστα δὲ τὰ μέσα. Ἅμμα, καὶ ῥάμμα νεμόμενον μὴ κάτω, ἀλλ’ ἄνω, ἐν παρέξει, καὶ σχέσει, καὶ ἐπιδέσει, καὶ πιέξει. Ἀρχὰς βάλλεσθαι μὴ ἐπὶ τὸ ἕλκος, ἀλλ’ ἔνθα τὸ ἅμμα. Τὸ δὲ ἅμμα μήτε ἐν τρίβῳ, μήτε ἐν ἔργῳ, μήτε ἐκεῖσε, ὅκου ἐνεόν. Ἅμμα δὲ καὶ ῥάμμα μαλθακὸν, οὐ μέγα. Εὖ γε μὴν γνόντα, ὅτι ἐς τὰ κατάντη καὶ ἀπόξη φεύγει πᾶς ἐπίδεσμος, οἷον, κεφαλῆς μὲν τὸ ἄνω, κνήμης δὲ τὸ κάτω.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Ἐπιδεῖν δεξιὰ ἐπ’ ἀριστερὰ, ἀριστερὰ ἐπὶ δεξιὰ, πλὴν τῆς κεφαλῆς· ταύτην δὲ κατ’ ἴξιν. Τὰ δ’ ὑπεναντία, ἀπὸ δύο ἀρχέων· ἢν δὲ ἀπὸ μιῆς, ἐφ’ ὅμοιον ἐς τὸ μόνιμον, οἷον τὸ μέσον τῆς κεφαλῆς, ἢ ὅ τι ἄλλο τοιοῦτον. Τὰ δὲ κινεύμενα, οἷον ἄρθρα, ὅπη μὲν ξυγκάμπτεται, ὡς ἥκιστα, καὶ εὐσταλέστατα περιβάλλειν, οἷον ἰγνύῃ· ὅπη δὲ περιτείνεται, ἁπλᾶ τε καὶ πλατέα, οἷον μύλῃ· προσπεριβάλλειν δὲ καταλήψιος μὲν τῶν περὶ ταῦτα εἵνεκα, ἀναλήψιος δὲ τοῦ ξύμπαντος ἐπιδέσμου, ἐν τοῖσιν ἀτρεμέουσι καὶ λαπαρωτέροισι τοῦ σώματος, οἷον τὸ ἄνω καὶ τὸ κάτω τοῦ γούνατος· ὁμολογέει δὲ ὤμου μὲν ἡ περὶ τὴν ἑτέρην μασχάλην περιβολὴ, βουβῶνος δὲ, ἡ περὶ τὸν ἕτερον κενεῶνα, καὶ κνήμης, ἡ ὑπὲρ γαστροκνημίης. Ὁκόσοισι μὲν ἄνω ἡ φυγὴ, κάτωθεν ἡ ἀντίληψις· οἷσι δὲ κάτω, τοὐναντίον· οἷσι δὲ μὴ ἔστι, οἷον κεφαλῇ, τουτέων ἐν τῷ ὁμαλωτάτῳ τὰς καταλήψιας ποιέεσθαι, καὶ ἥκιστα λοξῷ τῷ ἐπιδέσμῳ χρέεσθαι, ὡς τὸ μονιμώτατον ὕστατον περιβληθὲν τὰ πλανωδέστατα κατέχῃ. Ὁκόσοισι δὲ τοῖσιν ὀθονίοισι μὴ εὐκαταλήπτως, μηδὲ εὐαναλήπτως ἔχει, ῥάμμασι τὰς ἀναλήψιας ποιέεσθαι ἐκ καταβολῆς ἢ ξυῤῥαφῆς. Ἐπιδέσματα καθαρὰ, κοῦφα, μαλθακὰ, λεπτά.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ἑλίσσειν ἀμφοτέρῃσιν ἅμα, καὶ ἑκατέρῃ χωρὶς ἀσκέειν. Τῇ πρεπούσῃ δὲ, ἐς τὰ πλάτη καὶ τὰ πάχη τῶν μορίων τεκμαιρόμενον, χρέεσθαι. Ἑλίξιος κεφαλαὶ σκληραὶ, ὁμαλαὶ, εὐκρινέες. Τὰ δὲ δὴ μέλλοντα ἀποπίπτειν κακίω ταχέως ἀποπεσόντων· τὰ δὲ, ὡς μήτε πιέζειν, μήτε ἀποπίπτειν. Ὧν δὲ ἔχεται ἢ ἐπίδεσις, ἢ ὑπόδεσις, ἢ ἀμφότερα· ὑπόδεσις μὲν αἰτίη, ὥστε ἢ ἀφεστεῶτα προστεῖλαι, ἢ ἐκπεπταμένα συστεῖλαι, ἢ ξυνεσταλμένα διαστεῖλαι, ἢ διεστραμμένα διορθῶσαι, ἢ τἀναντία.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Παρασκευάζειν δὲ ὀθόνια κοῦφα, λεπτὰ, μαλθακὰ, καθαρὰ, πλατέα, μὴ ἔχοντα ξυῤῥαφὰς, μηδ’ ἐξαστίας, καὶ ὑγιέα, ὥστε τάνυσιν φέρειν, καὶ ὀλίγῳ κρέσσω, μὴ ξηρὰ, ἀλλ’ ἔγχυμα χυμῷ, ᾧ ἕκαστα ξύντροφα. Ἀφεστεῶτα μὲν, ὥστε τὰ μετέωρα τῆς ἕδρης ψαύειν μὲν, πιέζειν δὲ μή· ἄρχεσθαι δὲ ἐκ τοῦ ὑγιέος, τελευτᾷν δὲ πρὸς τὸ ἕλκος, ὡς τὸ μὲν ὑπεὸν ἐξαθέλγηται, ἕτερον δὲ μὴ ἐπιξυλλέγηται· ἐπιδεῖν τὰ μὲν ὀρθὰ ἐς ὀρθὸν, τὰ δὲ λοξὰ λοξῶς, ἐν σχήματι ἀπόνῳ, ἐν ᾧ μήτε ἀπόσφιγξις, μήτε ἀπόστασις ἔσται τις, ἐξ οὗ, ὅταν μεταλλάσσῃ ἢ ἐς ἀνάληψιν ἢ ἐς θέσιν, οὐ μεταλλάξουσιν, ἀλλ’ ὅμοια ταῦτα ἕξουσι, μύες, φλέβες, νεῦρα, ὀστέα, ᾗ μάλιστα εὔθετα καὶ εὔσχετα· ἀναλελάφθαι δὲ, ἢ κέεσθαι ἐν σχήματι ἀπόνῳ τῷ κατὰ φύσιν· ὧν δὲ ἂν ἀποστῇ, τἀναντία. Ὧν δὲ ἐκπεπταμένα ξυστεῖλαι, τὰ μὲν ἄλλα κατὰ τὰ αὐτὰ, ἐκ πολλοῦ δέ τινος δεῖ τὴν ξυναγωγὴν, καὶ ἐκ προσαγωγῆς τὴν πίεξιν, τὸ πρῶτον ἥκιστα, ἔπειτα ἐπὶ μᾶλλον, ὅριον τοῦ μάλιστα τὸ ξυμψαύειν. Ὧν δὲ ξυνεσταλμένα διαστεῖλαι, ξὺν μὲν φλεγμονῇ τἀναντία· ἄνευ δὲ ταύτης, παρασκευῇ μὲν τῇ αὐτῇ, ἐπιδέσει δὲ ἐναντίῃ. Διεστραμμένα δὲ διορθῶσαι, τὰ μὲν ἄλλα κατὰ τὰ αὐτά· δεῖ δὲ τὰ μὲν ἀπεληλυθότα ἐπαγαγεῖν ὑποδέσει, παρακολλήσει, ἀναλήψει· τὰ δὲ ἐναντία, ἐναντίως. Κατήγμασι δὲ, σπληνῶν μήκεα, πλάτεα, πάχεα, πλήθεα· μῆκος, ὅση ἡ ἐπίδεσις· πλάτος τριῶν ἢ τεσσάρων δακτύλων· πάχος, τριπτύχους ἢ τετραπτύχους· πλῆθος, κυκλεῦντας μὴ ὑπερβάλλειν, μηδὲ ἐλλείπειν· οἷσι δὲ ἐς διόρθωσιν, μῆκος, κυκλεῦντα· πλάτος καὶ πάχος τῇ ἐνδείῃ τεκμαίρεσθαι, μὴ ἀθρόα πληρεῦντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Τῶν δὲ ὀθονίων ὑποδεσμίδες εἰσὶ δύο· τῇ πρώτῃ ἐκ τοῦ σίνεος ἐς τὸ ἄνω τελευτώσῃ, τῇ δὲ δευτέρῃ, ἐκ τοῦ σίνεος ἐς τὸ κάτω, ἐκ τοῦ κάτω ἐς τὸ ἄνω τελευτώσῃ· τὰ κατὰ τὸ σίνος πιέζειν μάλιστα, ἥκιστα τὰ ἄκρα, τὰ δὲ ἄλλα κατὰ λόγον. Ἡ δὲ ἐπίδεσις πουλὺ τοῦ ὑγιέος προσλαμβανέτω. Ἐπιδέσμων δὲ πλῆθος, μῆκος, πλάτος· πλῆθος μὲν, μὴ ἡσσᾶσθαι τοῦ σίνεος, μηδὲ νάρθηξιν ἐνέρεισιν εἶναι, μηδὲ ἄχθος, μηδὲ περίῤῥεψιν, μηδὲ ἐκθήλυνσιν· μῆκος δὲ καὶ πλάτος, τριῶν, ἢ τεσσάρων, ἢ πέντε, ἢ ἓξ, πήχεων μὲν μῆκος, δακτύλων δὲ πλάτος. Καὶ παραιρήματος περιβολαὶ τοσαῦται, ὥστε μὴ πιέζειν· μαλθακὰ δὲ, μὴ παχέα· ταῦτα πάντα, ὡς ἐπὶ μήκει καὶ πλάτει καὶ πάχει τοῦ παθόντος. Νάρθηκες δὲ λεῖοι, ὁμαλοὶ, σιμοὶ κατ’ ἄκρα, σμικρῷ μείους ἔνθεν καὶ ἔνθεν τῆς ἐπιδέσιος, παχύτατοι δὲ, ᾗ ἐξήριπε τὸ κάτηγμα Ὁκόσα δὲ κυρτὰ καὶ ἄσαρκα φύσει, φυλασσόμενον τῶν ὑπερεχόντων, οἷον κατὰ δακτύλους ἢ σφυρὰ, ἢ τῇ θέσει, ἢ τῇ βραχύτητι. Παραιρήμασι δὲ ἑρμάζειν, μὴ πιέζειν τὸ πρῶτον. Κηρωτῇ μαλθακῇ, καὶ λείῃ, καὶ καθαρῇ ἑλισσέσθω. Ὕδατος θερμότης, πλῆθος· θερμότης μὲν, κατὰ τῆς ἑωυτοῦ χειρὸς καταχεῖν· πλῆθος δὲ, χαλάσαι μὲν καὶ ἰσχνῆναι τὸ πλεῖστον, ἄριστον, σαρκῶσαι δὲ καὶ ἁπαλῦναι, τὸ μέτριον· μέτρον δὲ τῆς καταχύσιος, ἔτι μετεωριζομένου, δεῖ, πρὶν ξυμπίπτειν, παύεσθαι· τὸ μὲν γὰρ πρῶτον αἴρεται, ἔπειτα δὲ ἰσχναίνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14",
+      "text": "Θέσις δὲ μαλθακὴ, ὁμαλὴ, ἀνάῤῥοπος τοῖσιν ἐξέχουσι τοῦ σώματος, οἷον πτέρνῃ καὶ ἰσχίῳ, ὡς μήτε ἀνακλᾶται, μήτε ἀποκλᾶται, μήτε ἐκτρέπηται. Σωλῆνα παντὶ τῷ σκέλει, ἢ ἡμίσει· ἐς τὸ πάθος δὲ βλέπειν καὶ τἄλλα ὅσα βλάπτει δῆλα. Πάρεξις δὲ, καὶ διάτασις, καὶ ἀνάπλασις, καὶ τὰ ἄλλα κατὰ φύσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15",
+      "text": "Φύσις δὲ ἐν μὲν ἔργοις, τοῦ ἔργου τῇ πρήξει, ὃ βούλεται, τεκμαρτέον· ἐς δὲ ταῦτα, ἐκ τοῦ ἐλινύοντος, ἐκ τοῦ κοινοῦ, ἐκ τοῦ ἔθεος· ἐκ μὲν τοῦ ἐλινύοντος καὶ ἀφειμένου, τὰς ἰθυωρίας σκέπτεσθαι, οἷον τὸ τῆς χειρός· ἐκ δὲ τοῦ κοινοῦ, ἔκτασιν, ξύγκαμψιν, οἷον τὸ ἐγγὺς τοῦ ἐγγωνίου πήχεος πρὸς βραχίονα· ἐκ δὲ τοῦ ἔθεος, ὅτι οὐκ ἄλλα σχήματα φέρειν δυνατώτερον, οἷον σκέλεα ἔκτασιν· ἀπὸ τουτέων γὰρ ῥήϊστα πλεῖστον χρόνον ἔχοι ἂν μὴ μεταλλάσσοντα. Ἐν δὲ τῇ μεταλλαγῇ ἐκ διατάσιος ὅμοια ταῦτα ἕξουσιν ἐς ἕξιν ἢ θέσιν μύες, φλέβες, νεῦρα, ὀστέα, ᾗ μάλιστα εὔθετα καὶ εὔσχετα. Διάτασις μάλιστα, τὰ μέγιστα καὶ πάχιστα, καὶ ὅκου ἀμφότερα· δεύτερα, ὧν τὸ ὑποτεταγμένον· ἥκιστα, ὧν τὸ ἄνω· μᾶλλον δὲ τοῦ μετρίου, βλάβη, πλὴν παιδίων· ἔχειν ἀνάντη σμικρόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16",
+      "text": "Διορθώσιος παράδειγμα, τὸ ὁμώνυμον, τὸ ὁμόζυγον, τὸ ὅμοιον, τὸ ὑγιές. Ἀνάτριψις δύναται λῦσαι, δῆσαι, σαρκῶσαι, μινυθῆσαι· ἡ σκληρὴ, δῆσαι· ἡ μαλακὴ, λῦσαι· ἡ πολλὴ, μινυθῆσαι· ἡ μετρίη, παχῦναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18",
+      "text": "Ἐπιδεῖν δὲ τὸ πρῶτον· ὁ μὲν ἐπιδεδεμένος μάλιστα φάτω πεπιέχθαι κατὰ τὸ σίνος, ἥκιστα τὰ ἄκρα· ἡρμάσθαι δὲ, μὴ πεπιέχθαι· πλήθει, μὴ ἰσχύϊ· τὴν δὲ ἡμέρην ταύτην καὶ νύκτα, ὀλίγῳ μᾶλλον, τὴν δ’ ὑστέρην, ἧσσον· τρίτη, χαλαρά. Εὑρεθήτω δὲ τῇ μὲν ὑστεραίῃ ἐν ἄκροισιν οἴδημα μαλθακόν· τῇ τρίτῃ δὲ τὸ ἐπιδεθὲν λυθὲν, ἰσχνότερον, παρὰ πάσας τὰς ἐπιδέσιας τοῦτο. Τῇ δὲ ὑστεραίῃ ἐπιδέσει, ἢν δικαίως ἐπιδεδεμένον φανῇ, μαθεῖν δεῖ· ἐντεῦθεν δὲ μᾶλλον καὶ ἐπὶ πλέοσι πιεχθήτω· τῇ δὲ τρίτῃ ἐπὶ μᾶλλον καὶ ἐπὶ πλέοσιν. Τῇ δὲ ἑβδόμῃ ἀπὸ τῆς πρώτης ἐπιδέσιος λυθέντα, εὑρεθήτω ἰσχνὰ, χαλαρὰ τὰ ὀστέα. Ἐς δὲ νάρθηκας, δεθέντα, ἢν ἰσχνὰ καὶ ἄκνησμα καὶ ἀνέλκεα ᾖ, ἐᾷν μέχρις εἴκοσιν ἡμερέων ἀπὸ τοῦ σίνεος· ἢν δέ τι ὑποπτεύηται, λῦσαι ἐν τῷ μέσῳ· νάρθηκας διὰ τρίτης ἐρείδειν. Ἡ ἀνάληψις, ἡ θέσις, ἡ ἐπίδεσις, ὡς ἐν τῷ αὐτῷ σχήματι διαφυλάσσειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19",
+      "text": "Κεφάλαια σχημάτων, ἔθεα, φύσιες ἑκάστου τῶν μελέων· τὰ εἴδεα, ἐκ τοῦ τρέχειν, ὁδοιπορέειν, ἑστάναι, κατακεῖσθαι, ἐκ τοῦ ἔργου, ἐκ τοῦ ἀφεῖσθαι. Ὅτι χρῆσις κρατύνει, ἀργίη δὲ τήκει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21",
+      "text": "Ἡ πίεξις πλήθει, μὴ ἰσχύϊ. Ὁκόσα δὲ ἐκχυμώματα, ἢ φλάσματα, ἢ σπάσματα, ἢ οἰδήματα ἀφλέγμαντα, ἐξερύεται αἷμα ἐκ τοῦ τρώματος, ἐς μὲν τὸ ἄνω τοῦ σώματος πλεῖστον, βραχὺ δέ τι καὶ ἐς τὸ κάτω· μὴ κατάντη τὴν χεῖρα ἔχοντα, ἢ τὸ σκέλος· τιθέμενον τὴν ἀρχὴν κατὰ τὸ τρῶμα, καὶ μάλιστα ἐρείδοντα, ἥκιστα τὰ ἄκρα, μέσως τὰ διὰ μέσου· τὸ ἔσχατον πρὸς τὰ ἄνω τοῦ σώματος νεμόμενον· ἐπιδέσει, πιέξει· ἀτὰρ καὶ ταῦτα, πλήθει μᾶλλον, ἢ ἰσχύϊ· μάλιστα δὲ τουτέοισιν ὀθόνια λεπτὰ, κοῦφα, μαλθακὰ, καθαρὰ, πλατέα, ὑγιέα, ὡς ἂν ἄνευ ναρθήκων· καὶ καταχύσει χρῆσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23",
+      "text": "Τὰ δὲ ἐκπτώματα, ἢ στρέμματα, ἢ διαστήματα, ἢ ἀποσπάσματα, ἢ ἀποκλάσματα, ἢ διαστρέμματα, οἷα τὰ κυλλὰ, τὰ ἑτερόῤῥοπα, ὅθεν μὲν ἐξέστη, ξυνδιδόντα, ὅπη δὲ ξυντείνοντα, ὡς ἐς τἀναντία ῥέπῃ, ἐπιδεθέντα, ἢ πρὶν ἐπιδεθῆναι, σμικρῷ μᾶλλον, ἢ ὥστε ἐξ ἴσου εἶναι· καὶ τοῖσιν ἐπιδέσμοισι, καὶ τοῖσι σπλήνεσι, καὶ τοῖσιν ἀναλήμμασι, καὶ τοῖσι σχήμασι, κατατάσει, ἀνατρίψει, διορθώσει, ταῦτα καὶ καταχύσει πλείονι. Τὰ δὲ μινυθήματα, πουλὺ προσλαμβάνοντα τοῦ ὑγιέος, ἐπιδεῖν ὡς ἂν ἐξ ἐπιδρομῆς τὰ ξυντακέντα πλέον ἢ αὐτὰ ἐμινύθει, ἀλλοίῃ τῇ ἐπιδέσει παραλλάξαντα, ἐκκλίνειν ἐς τὴν αὔξησιν καὶ ἀνάπλασιν τῶν σαρκῶν ποιήσηται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24",
+      "text": "Βέλτιον δὲ καὶ τὸ ἄνωθεν, οἷον κνήμης, καὶ τὸν ἕτερον μηρὸν, καὶ τὸ σκέλος τὸ ὑγιὲς συνεπιδεῖν, ὡς ὁμοιότερον ᾖ, καὶ ὁμοίως ἐλινύῃ, καὶ ὁμοίως τῆς τροφῆς ἀποκλείηται καὶ δέχηται· ὀθονίων πλήθει, μὴ πιέξει· ἀνιέντα πρῶτον τὸ μάλιστα δεόμενον, καὶ ἀνατρίψει χρώμενον σαρκούσῃ, καὶ καταχύσει· ἄνευ ναρθήκων. Τὰ δὲ ἑρμάσματα καὶ ἀποστηρίγματα, οἷον στήθει, πλευρῇσι, κεφαλῇ, καὶ τοῖσιν ἄλλοισιν, ὅσα τοιαῦτα· τὰ μὲν, σφυγμῶν ἕνεκεν, ὡς μὴ ἐνσείηται· τὰ δὲ, καὶ τῶν διαστασίων τῶν κατὰ τὰς ἁρμονίας ἐν τοῖσι κατὰ τὴν κεφαλὴν ὀστέοισιν, ἐρεισμάτων χάριν· ἐπί τε βηχέων, ἢ πταρμέων, ἢ ἄλλης κινήσιος, οἷα τὰ κατὰ θώρηκα καὶ κεφαλὴν ἀποστηρίγματα γίγνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25",
+      "text": "Τουτέων ἁπάντων αἱ αὐταὶ ξυμμετρίαι τῆς ἐπιδέσιος· ᾗ μὲν γὰρ τὰ σίνη, μάλιστα πιέζει· ὑποτιθέναι οὖν μαλθακόν τι ἁρμόζον τῷ πάθει· ἐπιδεῖν δὲ μὴ μᾶλλον πιεζεῦντα, ἢ ὥστε τοὺς σφυγμοὺς μὴ ἐνσείειν, μηδὲ μᾶλλον ἢ ὥστε τῶν διεστηκότων τὰ ἔσχατα τῶν ἁρμονιῶν ψαύειν ἀλλήλων, μηδὲ τὰς βῆχας καὶ τοὺς πταρμοὺς ὥστε κωλύειν, ἀλλ’ ὥστε ἀποστήριγμα εἶναι, ὡς μήτε διαναγκάζηται, μήτε ἐνσείηται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bww-bq",
+      "title": {
+        "english": "Aphorisms",
+        "ancient_greek": "Ἀφορισμοί"
+      },
+      "url_slug": "hippocrates-aphorisms-bww-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cc",
+      "title": {
+        "english": "Carrier",
+        "ancient_greek": "Φορεύς"
+      },
+      "url_slug": "hippocrates-carrier-bww-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.json"
+      }
+    },
+    {
+      "eul_wid": "bww-aw",
+      "title": {
+        "english": "Coan Prognostics",
+        "ancient_greek": "Κῶα Προγνωστικά"
+      },
+      "url_slug": "hippocrates-coan-prognostics-bww-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/coan-prognostics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bra",
+      "title": {
+        "english": "Epidemics, Book I",
+        "ancient_greek": "Ἐπιδημίων Α"
+      },
+      "url_slug": "hippocrates-epidemics-1-bww-bra",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brb",
+      "title": {
+        "english": "Epidemics, Book II",
+        "ancient_greek": "Ἐπιδημίων Β"
+      },
+      "url_slug": "hippocrates-epidemics-2-bww-brb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brc",
+      "title": {
+        "english": "Epidemics, Book III",
+        "ancient_greek": "Ἐπιδημίων Γ"
+      },
+      "url_slug": "hippocrates-epidemics-3-bww-brc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brd",
+      "title": {
+        "english": "Epidemics, Book IV",
+        "ancient_greek": "Ἐπιδημίων Δ"
+      },
+      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bre",
+      "title": {
+        "english": "Epidemics, Book V",
+        "ancient_greek": "Ἐπιδημίων Ε"
+      },
+      "url_slug": "hippocrates-epidemics-5-bww-bre",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brf",
+      "title": {
+        "english": "Epidemics, Book VI",
+        "ancient_greek": "Ἐπιδημίων Ζ"
+      },
+      "url_slug": "hippocrates-epidemics-6-bww-brf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brg",
+      "title": {
+        "english": "Epidemics, Book VII",
+        "ancient_greek": "Ἐπιδημίων Η"
+      },
+      "url_slug": "hippocrates-epidemics-7-bww-brg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-du",
+      "title": {
+        "english": "Against Lycus",
+        "ancient_greek": "Κατὰ Λύκου"
+      },
+      "url_slug": "galen-of-pergamon-against-lycus-qmm-du",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-lycus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-lycus.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-am",
+      "title": {
+        "english": "Commentaries-Hippocrates Book VI of Epidemics",
+        "ancient_greek": "Ὑπομνήματα εἰς Ἱπποκράτους Ἐπιδημιῶν Ϛ'"
+      },
+      "url_slug": "galen-of-pergamon-commentaries-epidemics-vi-qmm-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/commentaries-epidemics-vi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/commentaries-epidemics-vi.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-an",
+      "title": {
+        "english": "How Those Feigning Illnesses Should Be Detected",
+        "ancient_greek": "Πῶς δεῖ τοὺς νοσοῦντας προσποιουμένους ἐλέγχειν"
+      },
+      "url_slug": "galen-of-pergamon-detecting-feigned-illness-qmm-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/detecting-feigned-illness",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/detecting-feigned-illness.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/detecting-feigned-illness.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/detecting-feigned-illness.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/detecting-feigned-illness.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-al",
+      "title": {
+        "english": "Introduction or Physician",
+        "ancient_greek": "Εἰσαγωγὴ ἢ Ἰατρός"
+      },
+      "url_slug": "anonymous-medical-writer-introduction-tqu-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/introduction",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/introduction.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-aj",
+      "title": {
+        "english": "Medical Book VI",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Ϛʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-6-vhc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ar",
+      "title": {
+        "english": "Medical Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "medical-writers-anonymous-fragments-umi-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-dv",
+      "title": {
+        "english": "On Black Bile",
+        "ancient_greek": "Περὶ μέλαινας χολῆς"
+      },
+      "url_slug": "galen-of-pergamon-black-bile-qmm-dv",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/black-bile",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/black-bile.json"
+      }
+    },
+    {
+      "eul_wid": "umi-aw",
+      "title": {
+        "english": "On Foods (Short Treatise)",
+        "ancient_greek": "Περὶ Τροφῶν"
+      },
+      "url_slug": "medical-writers-anonymous-foods-aw-umi-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippocrates/doctors-workshop",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/doctors-workshop.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,731 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "vjk-ad",
+  "eul_aid": "vjk",
+  "author_slug": "hippiatric-compilation-anonymous",
+  "work_slug": "anatolius-oxen",
+  "url_slug": "hippiatric-compilation-anonymous-anatolius-oxen-vjk-ad",
+  "author": {
+    "english": "Hippiatric Compilation Anonymous",
+    "ancient_greek": "Ἱππιατρικὰ τὰ ἀνώνυμα"
+  },
+  "title": {
+    "english": "Fragments of Anatolius-Oxen",
+    "ancient_greek": "Ἀποσπάσματα Ἀνατολίου περὶ βοῶν"
+  },
+  "seo": {
+    "browser_title": "Fragments Anatolius Oxen by Hippiatric Compilation Eulogikon",
+    "meta_title": "Classical Fragments of Anatolius Oxen in Ancient Greek",
+    "meta_description": "Surviving fragments on cattle husbandry from Anatolian tradition. A veterinary treatise on breeding selecting oxen. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments of Anatolius-Oxen</strong> is a collection of fifty-nine passages on bovine diseases and treatments preserved within the anonymous Greek hippiatric compilations. Though attributed in the manuscripts to Anatolius of Berytus, it is a later pseudepigraphic work, likely compiled in the fifth or sixth century CE from earlier sources. It forms a specialized section on cattle within the broader hippiatric corpus, which primarily addresses equine medicine. The content is practical and technical, covering the diagnosis and symptomatology of cattle diseases alongside recommended pharmacological and surgical treatments. The text survives exclusively as part of the larger Greek hippiatric manuscript tradition, with the standard critical edition appearing in Eugen Oder and Karl Hoppe’s <strong>Corpus Hippiatricorum Graecorum</strong>. Reflecting the economic importance of oxen in Late Antique agriculture and transport, the work contributed to the body of practical veterinary knowledge that was subsequently transmitted through Byzantine, medieval Latin, and Arabic traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1 t",
+      "text": "Περὶ βοῶν [ Φλωρεντίνο υ] . Τὰς βοῦς πρὸ ἡμερῶν λʹ τῆς ὀχείας οὐκ ἐατέον πληροῦσθαι τροφῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 1",
+      "text": "ὅσῳ γὰρ ἂν ἰσχνανθῶσι, τοσούτῳ εὐσυλληπτότεραι τοῦ σπέρματος ἔσονται. — Περὶ βουθηλειῶν ἤτοι δαμάλεων [ τοῦ αὐτο ῦ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 1",
+      "text": "Δαμάλεις ἐκλεκτέον εὐπαγεῖς, τοῖς σώμασι παραμήκεις, εὐμεγέθεις, εὐκέρωτας, πλατυμετώπους, μελανοφθάλμους, γνάθους συνεσταλμένας ἐχούσας, ἐνσίμους, μὴ κυρτάς, ἀνεπτυγμένας τὰς ῥῖνας ἐχούσας, αὐχένα μακρὸν καὶ παχύν, εὐστέρνους, χείλη μελανίζοντα ἐχούσας, βαθυπλεύρους, πλατυνώτους, ὀφθαλμὸν ἐχούσας μέγαν, οὐρὰν προμήκη καὶ ψαύουσαν τῶν πτερνῶν, πολύτριχα, βραχίονας βραχεῖς, σκέλη ὀρθά, στερεά, παχύτερα μᾶλλον ἢ μακρότερα, μὴ παρατριβόμενα πρὸς ἄλληλα, πόδας ἐν τῷ βαδίζειν μὴ πλατυνομένους ἄγαν, μηδὲ χηλὰς διεσταλμένας, τοὺς ὄνυχας τε λείους καὶ ἴσους, βύρσαν εὐαφῆ καὶ μὴ ἀπεξυλωμένην. δοκιμάζουσι δὲ ἀρίστας τὰς τοῖς χρώμασι ξανθιζούσας καὶ τὰ σκέλη μελαίνας ὡς εὐγενεῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 3",
+      "text": "καλὸν μὲν οὖν κεκοσμῆσθαι πᾶσι τοῖς φυσικοῖς, εἰ δὲ μήγε, τοῖς πλείοσιν. οἱ δὲ βόες καὶ τὴν φωνὴν τοῦ βουκόλου γνωρίζουσι, καὶ καλούμενοι τοῖς ἐπιτεθεῖσιν ὀνόμασι συνιᾶσι, καὶ ἀποκλίνουσι πρὸς τὰ ἐπιταττόμενα παρὰ τοῦ ἐπιτάκτου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 4",
+      "text": "— Περὶ ταύρων [ Διδύμο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 1",
+      "text": "Τοὺς ταύρους πρὸ τῆς ὀχείας πρὸ δύο μηνῶν οὐκ ἐατέον συννέμεσθαι ταῖς βουσί, πληρωτέον δὲ αὐτοὺς χλόης, καὶ εἰ μὴ ἀρκέσειε τὸ τῆς νομῆς, ἐρεβίνθων ἢ ὀρόβων ἢ κριθῶν διαβραχέντων. ἐλάττους δὲ τῶν γʹ ἐτῶν οὐκ ἐπιτήδειοι πρὸς τὴν ὀχείαν, ἀλλ’ οὐδὲ οἱ πρεσβύτεροι τῶν ιβʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 2",
+      "text": "τὸ δὲ αὐτὸ καὶ ἐπὶ τῶν θηλειῶν εἰρήσθω. χωρίζειν τὲ αὐτοὺς χρὴ ἀπὸ τῶν θηλειῶν τὸν διμηναῖον χρόνον καὶ εἰσάγειν αὐτοὺς εἰς τὰς ἀγέλας οὐκ ἐπικωλύοντας αὐτῶν τὴν ὁρμήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 3",
+      "text": "— Βόας μὴ ἀσθενεῖν [ Δημοκρίτο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 1",
+      "text": "Ὄροβον βρέχων λεῖον πότιζε κατὰ μῆνα. τὴν δὲ τῶν βοῶν πληγὴν θεραπεύσεις μαλάχην ἀγρίαν λειώσας καὶ ἐπιχρίων. — Περὶ ὀχείας [ τῶν Κυϊντιλίω ν] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 1",
+      "text": "Καιρὸς ὁ τῆς ὀχείας ἐπιτήδειος ἔαρ μέσον, εἰ δὲ μὴ προσδέχονται τοὺς ταύρους αἱ βόες, σκίλλης τὸ περικάρδιον, τουτέστι τὰ ἁπαλώτατα τῆς σκίλλης καὶ ὡς ἂν εἴποι τις τὸ στέαρ, [διδόναι] μετὰ ὕδατος τριπτέον καὶ περιχριστέον μετὰ τὴν κάθαρσιν τὰ μόρια τῶν βοῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 3",
+      "text": "εἰ δὲ οἱ ταῦροι πρὸς τὴν ὀχείαν βραδύνουσι, καύσας ἐλάφου οὐρὰν καὶ συλλειώσας οἴνῳ τε φυράσας ἄλειφε τὸ αἰδοῖον καὶ τοὺς ὄρχεις τοῦ ταύρου, καὶ οἰστρήσει εὐθύς. τοῦτο δὲ οὐκ ἐπὶ τῶν ταύρων μόνον, ἀλλὰ καὶ ἐπὶ τῶν ἄλλων ζῴων καὶ ἐπὶ ἀνθρώπων γένοιτ’ ἄν, λύσις δὲ τῆς οἰστρήσεως ἔλαιον χρισθέν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 5",
+      "text": "καὶ ἡ πολύσπερμος δὲ καὶ ἡ πολύγονος καλουμένη βοτάνη τὰ ζῷα ποιήσει γονιμώτερα. — Περὶ προγνώσεως τῶν γεννωμένων [ Ἀφρικανο ῦ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 1",
+      "text": "Οἱ προγινώσκειν θέλοντες, πότερον ἄρρεν ἢ θῆλυ τέξεται ἡ βιβασθεῖσα βοῦς, παρατηρείτωσαν· ἐὰν μὲν εἰς τὰ δεξιὰ μέρη ὁ βοῦς κατέλθῃ, ἄρρεν τὸ τεχθησόμενον τεκμαιρέσθω, ἂν δὲ ἐπὶ τὰ ἀριστερά, θῆλυ. εἰ δὲ καὶ βουληθείης ἄρρεν τεχθῆναι, τῷ καιρῷ τῆς ὀχείας τὸν ἀριστερὸν ὄρχιν ἀπόδησον, εἰ δὲ θῆλυ, τὸν δεξιόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6 3",
+      "text": "φυσικὸν δέ τινες ποιοῦντες, εἰ μὲν ἄρρεν τις βουληθείη τεχθῆναι, βορείου ὄντος τοῦ ἀέρος τὴν ὀχείαν κατασκευάζουσιν· εἰ δὲ θῆλυ, νότου πνέοντος. — Περὶ οἴστρου τοῦ καλουμένου μύωπος [ Σωτίωνο ς] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 1",
+      "text": "Ὅτι ἔκφρονας τοὺς βοῦς οἱ μύωπες κεντοῦντες ποιοῦσιν ἴσμεν. οὐκ ἐγγιοῦσιν οὖν αὐτοῖς, ἐὰν δαφνίδας κόψας καὶ ἑψήσας ἐν ὕδατι, ἐπιρραίνῃ τις τὸ χωρίον, ὅπου νέμονται. φεύξονται γὰρ οἱ μύωπες διὰ τὴν ἀντιπάθειαν. εἰ δὲ καὶ φθάσειαν πλήξαντες, ψιμύθιον μετὰ ὕδατος τρίψαντες περιχρίουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 2",
+      "text": "— Περὶ τῆς τῶν μόσχων ἀνατροφῆς [ Διδύμο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 1",
+      "text": "Κυτίσσῳ ἢ μηδικῇ θρέψωμεν τὰς γαλουχούσας βοῦς· πλέον γὰρ ἕξουσι γάλα οὕτω τραφεῖσαι. διετεῖς δὲ γενομένους τοὺς μόσχους εὐνουχιστέον· μετὰ γὰρ ταῦτα οὐ χρήσιμον τὸ εὐνουχίζεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 3",
+      "text": "τὰ δὲ τραύματα σποδιᾷ καὶ λιθαργύρῳ καταπλαστέον, μετὰ τρεῖς δὲ ἡμέρας πίσσῃ ὑγρᾷ καὶ τέφρᾳ ὀλίγου μιγέντος ἐλαίου. — Βόας ἐργαζομένους μὴ κοπιᾶν [ Δημοκρίτο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 1",
+      "text": "Ἔλαιον καὶ τερεβινθίνην ἑψήσας χρῖε τὰ κέρατα. — Ἀπὸ ποίας ἡλικίας ἀρκτέον βιβάζειν τοὺς βόας [ Βάρωνο ς] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 1",
+      "text": "Βιβάζειν δεῖ μὴ νεωτέραν τῶν βʹ ἐτῶν, ἵνα τριετεῖς οὖσαι τέκωσιν. ἄμεινον δὲ τίκτουσιν αἱ τετραετεῖς. τίκτει δὲ ἡ βοῦς ὡς ἐπὶ τὸ πολὺ μέχρι τῶν ιʹ ἐτῶν, οἱ δὲ ταῦροι ἀπὸ τριετοῦς ἡλικίας ἀκμάζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 3",
+      "text": "ὥρα δὲ πρὸς ὀχείαν τετραπόδων ἡ ἀπὸ δελφῖνος ἐπιτολῆς, τουτέστι περὶ τὰς ἀρχὰς τοῦ Ἰουνίου μηνός, ἕως ἡμερῶν μʹ. κυοφορεῖ δὲ ἡ δάμαλις μῆνας ιʹ. τὰς δὲ στείρας καὶ τὰς ἀσθενεῖς καὶ τῇ ἡλικίᾳ προβεβηκυίας ἐκβλητέον ἐκ τῶν βουκολίων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 4",
+      "text": "ἀλυσιτελὴς γὰρ ἡ περὶ τὰ ἄχρηστα σπουδή. — Βόας ὑπὸ μυιῶν μὴ ἀδικεῖσθαι [ Ἀφρικανο ῦ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 1",
+      "text": "Δάφνης καρπὸν λειοτριβήσας καὶ ἑψήσας μετὰ ἐλαίου, ἄλειφε τοὺς βόας, ἢ ἐκ τοῦ σιέλου τοῦ βοὸς κατάχριε τούτους. ταῦροι τοὺς μυκτῆρας ῥοδίνῳ χρισθέντες σκοτοῦνται. — Βοῦς λιπαροὺς ποιῆσαι [ Σωτίωνο ς] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 1",
+      "text": "Λιπαροὺς ποιήσεις τοὺς βοῦς, εἰ ἀπὸ τῆς νομῆς ἐλθοντας τὴν πρώτην ἡμέραν κράμβας διατεμὼν καὶ διαβρέξας ὄξει δριμεῖ παραβάλοις. εἶτα ἀχύρων διηθημένων καὶ πιτύρων σιτίνων μίξας ἐπὶ ἡμέρας εʹ διδοῖς, τῇ δὲ ϛʹ κριθῶν ἀληλεσμένων κοτύλας δʹ, καὶ κατ’ ὀλίγον ταῖς ϛʹ ἡμέραις αὐξήσειας τὴν τροφήν. καὶ εἰ χειμῶνος μὲν περὶ ἀλεκτρυόνος ὥραν τρέφοις, τὸ δεύτερον δὲ περὶ τὸν ὄρθρον, καὶ ποτὸν δίδως, τὸ δὲ λοιπὸν τῆς τροφῆς περὶ τὴν ἑσπέραν παρέξεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 3",
+      "text": "θέρους δέ, ἂν τὸ πρῶτον ὑπὸ τὸν ὄρθρον, τὸ δὲ δεύτερον περὶ ὥραν τρίτην, εἶτα ποτιεῖς, καὶ οὕτω τὴν τρίτην τροφὴν προσφέροις περὶ ἐνάτην ὥραν, καὶ πάλιν ποτιεῖς. δίδου δὲ αὐτοῖς χειμῶνος μὲν θερμοτέρου ὕδατος, θέρους δὲ χλιαροῦ. τὰ δὲ στόματα αὐτῶν οὔρῳ διακλύζουσι τὸ παρακείμενον φλέγμα ἀφαιροῦντες καὶ τὴν γλῶσσαν καθαίροντες ἀπὸ τῶν σκωλήκων λαβίδι ἐξαιρουμένων ( γίγνονται γὰρ σκώληκες ἐν ταῖς γλώσσαις αὐτῶν) ἁλσί τε τὴν γλῶσσαν διαχρίουσι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 4",
+      "text": "καὶ τῆς στρωμνῆς δὲ ἐπιμελεῖσθαι χρή. — Περὶ ἰάσεω ς , καὶ ὥστε τὰ ὀστέα μὴ καταπίνειν [ Παξάμο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 1",
+      "text": "Ταῖς φάτναις μήτε ὄρνεις μήτε ὕες προσιέτωσαν. ἑκατέρων γὰρ ἡ κόπρος εἰ βρωθείη, ἀδικεῖ τὸ ζῷον. οὐκ ἂν δὲ καταπίῃ βοῦς ὀστοῦν, εἰ λύκου οὐρὰν ἐπὶ τὴν φάτνην κρεμάσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 2",
+      "text": "— Περὶ ἀδήλου πάθους supra C 56, 8, tum Δημόκριτος δὲ συμβουλεύει ἔαρος ἀρχομένου εἰς τὸ ποτὸν τῶν βοῶν ἐπὶ τέσσαρας καὶ δέκα ἡμέρας ἐμβάλλειν σκίλλης καὶ ῥάμνου ῥίζης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 4",
+      "text": "εἰ δὲ καὶ φανερὰν νόσον νοσοίη, θεραπεύσεις οὕτως· λιλύσφακον ἐξ ὀρεινοῦ χωρίου καὶ πράσιον εἰς ὃ μέλλουσιν ὕδωρ πίνειν προβρέξας ταῖς ἴσαις ἡμέραις καὶ δοὺς θεραπεύσεις. τοῦτο δὲ οὐ μόνον βοῦς, ἀλλὰ καὶ θρέμματα τὰ λοιπὰ ὠφελεῖ. καὶ ἅλες δὲ συμμιγνύμενοι ταῖς τροφαῖς σφόδρα ὠφελοῦσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 6",
+      "text": "ἄριστον δὲ καὶ ὑγιεινότατον ἀμόργη σὺν ὕδατι καὶ κατ’ ὀλίγον διδομένη. ὠφελεῖ δε καὶ ἡ μηδικὴ πόα. — Περὶ κεφαλαλγία ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 1",
+      "text": "Χρὴ πρότερον γινώσκειν τὴν τοῦ βοὸς κεφαλαλγίαν· ἐπειδὰν οὖν τὰ ὦτα καθεὶς μὴ ἐσθίῃ, κεφαλαλγία ἐστί. διαχρίεται οὖν ἡ γλῶσσα θύμῳ μετὰ οἴνου τριφθέντι καὶ σκόρδοις καὶ ἁλσὶ λεπτοῖς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 3",
+      "text": "καὶ πτισάνη δὲ ὠμὴ μετὰ οἴνου λυθεῖσα ὠφελεῖ. καὶ δάφνης δὲ φύλλα ὅσον τὴν χεῖρα πληρῶσαι λαβὼν καὶ ἐμβαλὼν εἰς τὸ στόμα, ἢ καὶ σιδίων ῥοιᾶς, ὠφελήσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 5",
+      "text": "καὶ σμύρνης δὲ ὡς κυάμου μέγεθος ὁμοίως μετὰ οἴνου διηθηθέντος ἐν κοτύλαις δυσὶ διὰ τῶν ῥινῶν ἐγχέας θεραπεύσεις. — Περὶ διαρροία ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 1",
+      "text": "Ῥάμνου φύλλα κόψας καὶ ἀσφάλτῳ περιπλασθέντα δίδου φαγεῖν. οἱ δὲ ῥοιῶν φύλλα κοπέντα καὶ ἀλφίτοις περιπλασθέντα διδόασι φαγεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 3",
+      "text": "ἄλλοι δὲ ἀλφίτων κοτύλας βʹ καὶ σίτου φρυγέντος ἀλεύρων τὸ ἥμισυ ὕδατι μιχθὲν διδόασιν. — Περὶ ἀπεψία ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 1",
+      "text": "Ἀπεπτήσας γινώσκεται βοῦς ἐκ τοῦ μὴ ἐσθίειν καὶ πυκνῶς ἐρυγᾶν, κινεῖν τε τὰ μέλη μετά τινος συστροφῆς καὶ πνεύματος ἐκθλίψεως. θεραπεύσομεν οὖν θερμὸν ὕδωρ διδόντες πιεῖν καὶ κράμβης διαβραχείσης ἐν ὄξει δέσμην φαγεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 3",
+      "text": "οἱ δὲ τῆς κράμβης τὰ ἁπαλὰ ζέσαντες καὶ τρίψαντες μετὰ ἐλαίου διὰ κέρατος ἐγχέουσι διὰ τοῦ στόματος, καὶ περιβολαίοις συνθερμάναντες εἰς περίπατον ἄγουσι. τοῦτο δὲ οὐ τοὺς βοῦς μόνον, ἀλλὰ καὶ πᾶν ὠφελεῖ βόσκημ α. οἱ δὲ ἀγρίας ἐλαίας τὰ φύλλα ἢ δένδρων ἄλλων κλῶνας ἁπαλοὺς κόψαντες καὶ ὕδωρ ἐπιχέαντες διηθοῦσι καὶ οὕτως κοτύλας ϛʹ ἐπιχέουσιν ἐπὶ ἡμέρας δύο.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 4",
+      "text": "— Περὶ βουπρήστεω ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18 1",
+      "text": "Τινὲς ἔλαιον εἰς τὰς ῥῖνας ἐγχέουσι τοῖς βουσίν, ἄλλοι δὲ ἐρινεοῦ ὀλύνθους ὕδατι τρίψαντες εἰς τὰς ῥῖνας ὁμοίως ἐγχέουσιν. — Περὶ στρόφο υ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 1",
+      "text": "Ὁ στροφούμενος βοῦς ἐφ’ ἑνὸς οὐχ ἕστηκε τόπου, οὐδὲ τροφῆς ἅπτεται, ἀλλὰ στένει. ὀλίγην οὖν αὐτῷ τροφὴν παραβλητέον καὶ τὴν σάρκα τὴν περὶ τοὺς ὄνυχας διακεντητέον ὥστε ἀφαιμάξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 3",
+      "text": "ἔτι δὲ περὶ τὴν οὐρὰν νύξαντες ὥστε αἷμα ἐκρυῆναι ῥάκει περιδεσμοῦσιν. ἄλλοι κρόμμυα καὶ ἅλας ἑνώσαντες καὶ σφηνώσαντες εἰς τὴν ἔδραν ἐσωτάτω προσωθοῦσι καὶ τρέχειν ἀναγκάζουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 4",
+      "text": "ἄλλοι νίτρον κόψαντες καὶ διέντες διὰ τοῦ στόματος ἐγχέουσιν. — Περὶ πυρεταίνοντος [ Διδύμο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 1",
+      "text": "Βοῦς πυρεταίνων οὐ προσίεται τὴν τροφήν, κάτω νεύει, δακρύει, λήμας ἔχει, περὶ τοὺς ὀφθαλμοὺς κοιλαίνεται. τοῦτον οὖν θεραπεύουσιν οὕτως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 2",
+      "text": "ἐκ συσκίων χωρίων ἄγρωστιν λαβὼν καὶ πλύνας δὸς φαγεῖν αὐτῷ ἢ ἀμπέλου φύλλα. ποτιστέον δὲ αὐτὸν ὕδωρ ψυχρότατον μὴ ἐν ὑπαίθρῳ, μάλιστα δὲ ὑποσκίῳ, σπόγγῳ τε βεβρεγμένῳ ὕδατι τὰ ὦτα καὶ τὰς ῥῖνας ἀποψηκτέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 4",
+      "text": "τινὲς δὲ καυτῆρι τὸ πρόσωπον αὐτοῦ διακαίουσι καὶ τὰ ὑπὸ τοὺς ὀφθαλμοὺς σπογγίζουσί τε ταῦτα οὔρῳ παλαιῷ θερμῷ δὶς τῆς ἡμέρας, ἕως ἂν ἐκπέσωσιν αἱ ἐσχάραι καὶ ἀπουλωθῇ τὰ τραύματα. ἀμύσσεται δὲ καὶ τὰ ὦτα ὥστε αἷμα ῥεῦσαι. τινὲς δὲ ἄλφιτα φυράσαντες οἴνῳ διδόασι φαγεῖν, οἱ δὲ λούουσιν ἅλμῃ, καὶ περιβολαίοις συνθερμαίνουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 5",
+      "text": "οἱ δὲ κύτισσον διδόασι μετὰ οἴνου. τοῦτο δὲ οὐ τοὺς βοῦς ὠφελεῖ μόνον, ἀλλὰ καὶ τὰ ἄλλα θρέμματ α. — Περὶ βήσσοντο ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21 1",
+      "text": "Κριθὰς ἀληλεσμένας διαβραχείσας καὶ τῶν ἀχύρων τὰ ἁπαλώτατα καθαρθέντα καὶ ὀρόβων κοτύλας γʹ ἀληλεσμένων εἰς τρία διαιρεθέντα κατὰ μέρος δίδου φαγεῖν. τινὲς δὲ τὴν ἀρτεμισίαν βοτάνην τρίψαντες καὶ διέντες ὕδατι ἐκπιέζουσι καὶ πρὸ τῆς τροφῆς ἐγχυματίζουσιν ἐπὶ ἡμέρας ζʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21 2",
+      "text": "— Περὶ ἐμπυϊκῶ ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22 1",
+      "text": "Ἐὰν συναγάγῃ ἔμπυον τὸ ἕλκος, χρὴ καθαίρειν οὔρῳ τε βοὸς παλαιῷ θερμῷ κλύζειν ἐρίοις τε ἐκμάττειν, εἶτα μετὰ λεπτῶν ἁλῶν καὶ πίττης ὑγρᾶς ἐντιθέναι ἔμπλαστρον. — Περὶ χωλείας [ Φλωρεντίνο υ] .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 1",
+      "text": "Ἐὰν διὰ τὸ κατεψῦχθαί τι μέρος χωλεύῃ ὁ βοῦς, νῖψαι χρὴ τὸν πόδα καὶ τὸ πεπονθὸς μέρος σμιλίῳ ἀνοίξαντα οὔρῳ παλαιῷ πυριᾶσαι. εἶτα ἁλῶν ἐπίπασσε καὶ σπόγγῳ ἔκμασσε ἢ ῥάκει. ἔπειτα στῆρος αἰγείου ἢ βοείου παρατριβομένου θερμῷ σιδήρῳ ἐπιστάζειν τῷ πεπονθότι μέρει. ἐὰν δὲ σκόλοπα ἤ τι τοιοῦτον πατήσας χωλεύῃ, τὰ μὲν ἄλλα ὁμοίως ποιητέον, κηρὸν δὲ ἅμα ἐλαίῳ παλαιῷ καὶ μέλιτι καὶ ὀρόβων ἀλεύρῳ συντήξας καὶ ψύξας ἔνθες τῷ ἕλκει, εἶθ’ οὕτως λαβὼν ὄστρακον λεπτὸν διηθηθὲν καὶ σύκων ἢ ῥοιῶν κοπέντων καὶ μιχθέντων περίπλασσε ῥάκος ἐπιθείς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 2",
+      "text": "ἐπιδέσμει δὲ ἐπιμελῶς, ὡς μηδὲν παρεισδῦναι, ἕως ἂν δυνηθῇ στῆναι· οὕτω γὰρ ἂν ὑγιασθῇ· τρίτῃ δὲ ἡμέρᾳ ἐπιθεράπευε. ἐὰν δὲ δ ι ’ ἐπιφορὰν ὕλης χωλεύῃ, θερμαντέον τὸ μέρος μετὰ ἐλαίου καὶ γλυκέος ἑψηθέντων, εἶτα ὠμὴν λύσιν θερμὴν ἐπιθετέον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 4",
+      "text": "ὅταν δὲ ἁπαλὸν γένηται, διαιρετέον, ἐκπλυθέντι δὲ τῷ διαιρεθέντι μέρει φύλλα κρίνων ἢ σκίλλαν μετὰ ἁλῶν ἢ πολύγονον ἢ πράσιον κοπὲν ἐπιθετέον. — Περὶ ψώρα ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24 1",
+      "text": "Ψώραν καὶ ἐξανθήματα οὔρῳ βοείῳ παλαιῷ καὶ βουτύρῳ περιχρίοντες ἰῶνται. οἱ δὲ ῥητίνῃ ἢ πίσσῃ ὑγρᾷ μετὰ θείου καταπλάττοντες ἐπιχρίουσι καὶ οὕτως ἰῶνται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "24 2",
+      "text": "— Περὶ χολῆ ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "25 1",
+      "text": "Διακαυτέον τοὺς βοῦς τῶν σκελῶν ἕως τῆς ὁπλῆς καὶ λουτρῷ θερμῷ συνεχῶς θερμαντέον, καὶ περιβολαίοις καλυπτέον, τροφὴν δὲ οὐ δοτέον. — Περὶ καταψύξεω ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "26 1",
+      "text": "Ἐγχυματιστέον ὀπὸν διέντα οἴνῳ μέλανι. — Περὶ σκωλήκω ν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "27 1",
+      "text": "Ὕδατι ψυχρῷ καταρραίνοντες τὰ ἕλκη ἀναιροῦσι τὰς εὐλάς. — Περὶ κακοσίτο υ .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "28 1",
+      "text": "Τὴν τροφὴν καταρραντέον ἀμόργης τὸ ἀρκοῦν *** ἐλαίου τε καὶ ῥητίνης [ἢ] τερεβινθίνης τὸ ἶσον μίξας κατάχρισον τὰ κέρατα ἕως ῥίζης. — Περὶ φθειριῶντο ς .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "29 1",
+      "text": "Τὸν βοῦν χρὴ καταβαλεῖν ὕπτιον καὶ τῆς κεφαλῆς ἀνανευθείσης τὴν γλῶσσαν περισκοπεῖν, εἰ φλυκταίνας ἔχει. περικαῦσαι δὲ ταύτας χρῆ σιδήροις ὀξέσι καὶ διαπύροις, ἔπειτα ἀγρίας ἐλαίας φύλλων κοπέντων καὶ ἁλῶν χρίειν τὰ ἕλκη, ἢ ἁλσὶ λεπτοῖς καὶ ἐλαίῳ, ἢ βουτύρῳ καὶ ἁλσίν, ἢ σικύου ἀγρίου ξηροῦ ῥίζαν συγκοπεῖσαν ἅμα σύκοις δοῦναι φαγεῖν, ἢ ἀλφίτων κοτύλας δύο καὶ σίτου φρυγέντος ἀλεύρου τὸ ἶσον οἴνῳ βραχέντα δοῦναι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "vjk-ab",
+      "title": {
+        "english": "Appendices to the Berlin Veterinary Texts",
+        "ancient_greek": "Παραρτήματα πρὸς τὰ Κτηνιατρικὰ Βερολίνου"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-berlin-veterinary-ab-vjk-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ab.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ag",
+      "title": {
+        "english": "Berlin Veterinary Works",
+        "ancient_greek": "Κτηνιατρικὰ Βερολίνου"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-berlin-veterinary-ag-vjk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/berlin-veterinary-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/berlin-veterinary-ag.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-af",
+      "title": {
+        "english": "Cambridge Veterinary Works",
+        "ancient_greek": "Κτηνιατρικὰ Καίμπριτζ"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-cambridge-vjk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/cambridge",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/cambridge.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/cambridge.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/cambridge.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/cambridge.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ah",
+      "title": {
+        "english": "Fragments of Anatolius",
+        "ancient_greek": "Ἀποσπάσματα Ἀνατολίου"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-anatolius-ah-vjk-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ah.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ac",
+      "title": {
+        "english": "Fragments of Anatolius-Horses",
+        "ancient_greek": "Ἀποσπάσματα Ἀνατολίου περὶ ἵππων"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-anatolius-ac-vjk-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-ac.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ae",
+      "title": {
+        "english": "Fragments of Timotheus of Gaza",
+        "ancient_greek": "Ἀποσπάσματα Τιμοθέου τοῦ Γάζης"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-timotheus-gaza-vjk-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/timotheus-gaza",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/timotheus-gaza.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-aa",
+      "title": {
+        "english": "London Additions to Cambridge Veterinary Texts",
+        "ancient_greek": "Προσθήκαι Λονδίνου πρὸς τὰ Κτηνιατρικὰ Καίμπριτζ"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-london-additions-vjk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/london-additions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/london-additions.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-aj",
+      "title": {
+        "english": "Lugdunensian Excerpts",
+        "ancient_greek": "Ἐκλογαὶ Λουγδουνησίαι"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-lugdunensian-excerpts-vjk-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/lugdunensian-excerpts.json"
+      }
+    },
+    {
+      "eul_wid": "vjk-ai",
+      "title": {
+        "english": "Paris Veterinary Works",
+        "ancient_greek": "Κτηνιατρικὰ Παρισίων"
+      },
+      "url_slug": "hippiatric-compilation-anonymous-paris-vjk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/paris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/paris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/paris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/paris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/paris.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "omy-ac",
+      "title": {
+        "english": "Four Books-Women",
+        "ancient_greek": "Γυναικείων Βιβλία Δ'"
+      },
+      "url_slug": "soranus-of-ephesus-four-books-women-omy-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/soranus-of-ephesus/four-books-women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/soranus-of-ephesus/four-books-women.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cb",
+      "title": {
+        "english": "On Hippocrates'-Fractures",
+        "ancient_greek": "Περὶ Ἱπποκράτους περὶ καταγμάτων"
+      },
+      "url_slug": "galen-of-pergamon-fractures-qmm-cb",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/fractures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fractures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fractures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fractures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/fractures.json"
+      }
+    },
+    {
+      "eul_wid": "owe-ab",
+      "title": {
+        "english": "On Inflammation of the Spleen",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "archigenes-of-apamea-spleen-inflammation-owe-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/archigenes-of-apamea/spleen-inflammation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-of-apamea/spleen-inflammation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-of-apamea/spleen-inflammation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-of-apamea/spleen-inflammation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archigenes-of-apamea/spleen-inflammation.json"
+      }
+    },
+    {
+      "eul_wid": "umi-au",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "medical-writers-anonymous-pulses-umi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-as",
+      "title": {
+        "english": "On Signs from Urine",
+        "ancient_greek": "Περὶ Σημείων ἐξ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-urine-signs-tqu-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/urine-signs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-signs.json"
+      }
+    },
+    {
+      "eul_wid": "tqu-ay",
+      "title": {
+        "english": "On Urines (Pseudo-Galenic Treatise)",
+        "ancient_greek": "Περὶ Οὖρων"
+      },
+      "url_slug": "anonymous-medical-writer-urine-ay-tqu-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-medical-writer/urine-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-ay.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-ay.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-ay.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-medical-writer/urine-ay.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bn",
+      "title": {
+        "english": "On VenesectiErasistratus",
+        "ancient_greek": "Περὶ φλεβοτομίας κατὰ Ἐρασίστρατον"
+      },
+      "url_slug": "galen-of-pergamon-venesection-qmm-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/venesection",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/venesection.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/venesection.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/venesection.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/venesection.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ad",
+      "title": {
+        "english": "On the Nature of the Child",
+        "ancient_greek": "Περὶ τῆς φύσεως τοῦ παιδίου"
+      },
+      "url_slug": "hippocrates-nature-child-bww-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/nature-child",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/nature-child.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippiatric-compilation-anonymous/anatolius-oxen",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippiatric-compilation-anonymous/anatolius-oxen.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

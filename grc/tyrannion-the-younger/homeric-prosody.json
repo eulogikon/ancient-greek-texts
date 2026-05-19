@@ -1,0 +1,238 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "nfw-aa",
+  "eul_aid": "nfw",
+  "author_slug": "tyrannion-the-younger",
+  "work_slug": "homeric-prosody",
+  "url_slug": "tyrannion-the-younger-homeric-prosody-nfw-aa",
+  "author": {
+    "english": "Tyrannion the Younger",
+    "ancient_greek": "Τυραννίων ὁ Νεώτερος"
+  },
+  "title": {
+    "english": "Scholia on Homeric Prosody",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Scholia on Homeric Prosody by Tyrannion Younger on Eulogikon",
+    "meta_title": "Scholia on Homeric Prosody by Tyrannion the Younger in Greek",
+    "meta_description": "Tyrannion the Younger examines prosodic patterns and accentuation in Homeric verse through detailed grammatical Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Γραμματική",
+      "english": "Grammar",
+      "href": "/domains/grammar"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Apospasmata</strong> of Tyrannion the Younger is a lost grammatical treatise on Homeric prosody, known only through fragmentary citations. Preserved as eight passages, the work provides technical analysis of accent, quantity, and pitch in the Homeric epics, engaging directly with the textual criticism and interpretative traditions of earlier Alexandrian scholarship. It examines specific verses, adjudicating between variant readings and pronunciations while applying established grammatical doctrine to the poetic text. The treatise is transmitted indirectly, primarily through a reference in the tenth-century Byzantine encyclopedia known as the <strong>Suda</strong>, which attributes to Tyrannion a work &quot;on the prosody of Homer.&quot; The extant fragments likely survive embedded within later scholiastic or grammatical compilations. As a technical work by an Imperial Roman grammarian, it represents a significant link in the chain of scholarly transmission, connecting the grammatical methodologies of Hellenistic Alexandria with the Byzantine scholarly tradition. Tyrannion the Younger is cited as an authority on prosody by later grammarians, confirming that his contributions were recognized within the advanced study of Homeric poetry.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "64.(1n)",
+      "text": "Ν102—3:... αἵ τε καθ’ ὕλην θώων παρδαλίων τε λύκων τ’ ἤϊα πέλονται ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "64.(1n)",
+      "text": "Sch. A h(Ag, Ge, M 1 , P 11 ) ad Ν 103: ... τὸ δὲ θώων ἔνιοι περισπῶσιν, ἵν’ ὁμοτονῇ τῷ θηρῶν καὶ κυνῶν. οὕτω δὲ καὶ Ἀρίσταρχόν φασι προφέρεσθαι. Διοκλῆς δὲ καὶ ὁ Θρᾷξ Διονύσιος (fr. 6 L.) ὡς βαρύνοντα τὴν λέξιν τὸν Ἀρίσταρχον διαβάλλουσιν. Κάσσιος δὲ ἀπολογούμενος ὑπὲρ τῆς βαρυτονήσεώς φησιν ὅτι τὰ μονοσύλλαβα, ὅταν μὲν ἔχῃ τὴν πληθυντικὴν ἐπὶ τῆς τελευταίας συλλαβῆς μετὰ συμφώνου λεγομένην, πάντως καὶ κατὰ τὴν γενικὴν περισπᾶται, οἷον θῆρες, κύνες, χεῖρες, ὅταν δὲ ἀπὸ φωνήεντος ἀρχομένην, πάντως βαρυτονουμένην, οἷον Τρῶες, δμῶες, θῶες, λᾶες. ἀντίκειται δὲ αὐτῷ τὸ παίδων καὶ πάντων. Χαῖρις (fr. 5 B.) δέ φησιν οὐκ εἶναι ἐν δισυλλάβοις ἀναλογίαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.(1n)",
+      "text": "Χ 208: ἀλλ’ ὅτε δὴ τὸ τέταρτον ἐπὶ κρουνοὺς ἀφίκοντο (sc. Hector et Achilles) ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "65.(1n)",
+      "text": "Sch. bT ad Χ 208: Τὸ τέταρτο ν: Διοκλῆς φησιν ὅτι συμβαίνει τῷ κύκλῳ περιτρέχοντι εἰς τὸν αὐτὸν τόπον παραγίνεσθαι τετράκις, ὅταν τρεῖς συμπληρώσῃ κύκλους. τρεῖς γὰρ ποιήσαντες κύκλους τοῦτον ποιοῦσι τέταρτον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66.(1n)",
+      "text": "ξ 131—2: αἶψά κε καὶ σύ, γεραιέ, ἔπος παρατεκτήναιο, εἴ τίς τοι χλαῖνάν τε χιτῶνά τε εἵματα δοίη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "66.(1n)",
+      "text": "Sch. ξ 132: Εἴ τίς το ι: Διοκλῆς ἀθετεῖ. οὔτε γὰρ ἡ Πηνελόπη πάντα ἀμφιέννυσιν, οὔθ’ οὕτως πάντως διὰ τοῦτο ψεύδεται, ἀλλὰ καὶ διὰ μόνην πολλάκις τροφήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67.(1n)",
+      "text": "τ 457—8:... ἐπαοιδῇ δ’ αἷμα κελαινὸν ἔσχετον ...",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "67.(1n)",
+      "text": "Sch. τ 457: Ἐπαοιδῇ δ ’ αἷμ α: Διοκλῆς ἐπαοιδὴν παρέδωκε τὴν παρηγορίαν· ἴσχαιμον γὰρ εἶναι ταύτην, ὅταν τὸ πνεῦμα τοῦ τετρωμένου προσεχὲς ᾖ, καὶ ὥσπερ προσηρτημένον τῷ παρηγοροῦντι, ὡς καὶ δι’ ἑτέρων „ἀλλὰ σὲ μὲν θεράπων ποτιτερπέτω“ (Ο 401).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vmw-an",
+      "title": {
+        "english": "Argument of Hecale",
+        "ancient_greek": "Προοίμιον Ἑκάλης"
+      },
+      "url_slug": "callimachus-scholia-hecale-vmw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-scholia/hecale",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-scholia/hecale.json"
+      }
+    },
+    {
+      "eul_wid": "mus-aa",
+      "title": {
+        "english": "Bithynian Historical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "asclepiades-of-myrlea-historical-fragments-mus-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/asclepiades-of-myrlea/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/asclepiades-of-myrlea/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "oqa-aa",
+      "title": {
+        "english": "Hephaestion Fragments",
+        "ancient_greek": "Ἡφαιστίωνος Ἀποσπάσματα"
+      },
+      "url_slug": "hephaestion-of-alexandria-fragments-oqa-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hephaestion-of-alexandria/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hephaestion-of-alexandria/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "tro-am",
+      "title": {
+        "english": "Later Scholia on Persians",
+        "ancient_greek": "Σχόλια εἰς Πέρσας"
+      },
+      "url_slug": "aeschylus-scholia-persians-am-tro-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aeschylus-scholia/persians-am",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aeschylus-scholia/persians-am.json"
+      }
+    },
+    {
+      "eul_wid": "vtu-ae",
+      "title": {
+        "english": "Names of Lawsuits",
+        "ancient_greek": "Δικῶν ὀνόματα"
+      },
+      "url_slug": "lexicographical-anonymous-i-lawsuits-vtu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/lexicographical-anonymous-i/lawsuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/lawsuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/lawsuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/lawsuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lexicographical-anonymous-i/lawsuits.json"
+      }
+    },
+    {
+      "eul_wid": "mlw-ad",
+      "title": {
+        "english": "Old Scholia on Acharnians",
+        "ancient_greek": "Σχόλια εἰς Ἀχαρνῆς"
+      },
+      "url_slug": "aristophanes-scholia-acharnians-ad-mlw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-scholia/acharnians-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-scholia/acharnians-ad.json"
+      }
+    },
+    {
+      "eul_wid": "lvi-ab",
+      "title": {
+        "english": "Prolegomena Vossiana",
+        "ancient_greek": "Προλεγόμενα Βοσσιανά"
+      },
+      "url_slug": "commentary-on-dionysius-thrax-prolegomena-vossiana-lvi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/commentary-on-dionysius-thrax/prolegomena-vossiana",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/commentary-on-dionysius-thrax/prolegomena-vossiana.json"
+      }
+    },
+    {
+      "eul_wid": "vdq-ae",
+      "title": {
+        "english": "Summary of Herodian's Catholic Work",
+        "ancient_greek": "Σύνοψις τοῦ Καθολικοῦ Ἔργου Ἡρωδιανῶν"
+      },
+      "url_slug": "theodosius-of-alexandria-herodian-summary-vdq-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/theodosius-of-alexandria/herodian-summary",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theodosius-of-alexandria/herodian-summary.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/tyrannion-the-younger/homeric-prosody",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tyrannion-the-younger/homeric-prosody.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

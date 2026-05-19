@@ -1,0 +1,458 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "qeu-ai",
+  "eul_aid": "qeu",
+  "author_slug": "pseudo-lucian",
+  "work_slug": "cynic",
+  "url_slug": "pseudo-lucian-cynic-qeu-ai",
+  "author": {
+    "english": "Pseudo-Lucian ",
+    "ancient_greek": "Ψευδο-Λουκιανός"
+  },
+  "title": {
+    "english": "Cynic",
+    "ancient_greek": "Κυνικός"
+  },
+  "seo": {
+    "browser_title": "The Cynic: A Dialogue by Pseudo-Lucian on Eulogikon",
+    "meta_title": "The Cynic: A Dialogue by Pseudo-Lucian in Ancient Greek",
+    "meta_description": "A philosophical dialogue defending Cynic asceticism. Pseudo-Lucian's oration on virtue and simplicity. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Cynic</strong> is a short philosophical oration composed in Attic Greek. Though traditionally included among the works of the satirist Lucian of Samosata, modern scholarship attributes it to an anonymous imitator, conventionally designated Pseudo-Lucian. Its date is uncertain but likely belongs to the second or third century CE. Structured as a protreptic speech intended to exhort its audience toward a particular philosophy, the work presents a vigorous defense of the Cynic way of life. It is framed as a direct address to a young man who is hesitant to adopt its ascetic practices.</p>\n<p class=\"research-text\">The oration systematically argues that the apparent hardships of Cynicism—such as poverty, begging, rough clothing, and sleeping on the ground—are not miseries but the very means to achieve true freedom and self-sufficiency. The speaker contrasts this existence, aligned with nature, with the anxieties and enslavements of conventional life, which is depicted as being in thrall to luxury, public opinion, and the whims of fortune. Central themes include the distinction between living according to nature versus human convention, the virtue of frugality, and the Cynic&#x27;s right to practice frank, critical speech. The work survives complete within the manuscript tradition of Lucian’s corpus. It is considered a product of the Roman Imperial period, reflecting the ongoing cultural and philosophical debates about asceticism during the era of the Second Sophistic, and serves as a clear example of how Cynic doctrines were articulated for a literate, Greek-speaking audience.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Cyn t",
+      "text": "ΚΥΝΙΚΟΣ ΛΥΚΙΝΟΣ Τί ποτε σύ, οὗτος, πώγωνα μὲν ἔχεις καὶ κόμην, χιτῶνα δὲ οὐκ ἔχεις καὶ γυμνοδερκῇ καὶ ἀνυποδητεῖς τὸν ἀλήτην καὶ ἀπάνθρωπον βίον καὶ θηριώδη ἐπιλεξάμενος καὶ ἀεὶ τοῖς ἐναντίοις τὸ ἴδιον δέμας οὐχ ὡς οἱ πολλοὶ διαχρησάμενος περινοστεῖς ἄλλοτε ἀλλαχοῦ, καὶ εὐνηθησόμενος ἐπὶ ξηροῦ δαπέδου, ὡς ἄσην πάμπολλον τὸ τριβώνιον φέρειν, οὐ μέντοι καὶ τοῦτο λεπτὸν οὐδὲ μαλακὸν οὐδὲ ἀνθηρόν; ΚΥΝΙΚΟΣ Οὐδὲ γὰρ δέομαι· τοιοῦτον δὲ ὁποῖον ἂν πορισθείη ῥᾷστα καὶ τῷ κτησαμένῳ πράγματα ὡς ἐλάχιστα παρέχον· τοιοῦτον γὰρ ἀρκεῖ μοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 2",
+      "text": "σὺ δὲ πρὸς θεῶν εἰπέ μοι, τῇ πολυτελείᾳ οὐ νομίζεις κακίαν προσεῖναι; ΛΥΚΙΝΟΣ Καὶ μάλα. ΚΥΝΙΚΟΣ Τῇ δὲ εὐτελείᾳ ἀρετήν; ΛΥΚΙΝΟΣ Καὶ μάλα. ΚΥΝΙΚΟΣ Τί ποτε οὖν ὁρῶν ἐμὲ τῶν πολλῶν εὐτελέστερον διαιτώμενον, τοὺς δὲ πολυτελέστερον, ἐμὲ αἰτιᾷ καὶ οὐκ ἐκείνους; ΛΥΚΙΝΟΣ Ὅτι οὐκ εὐτελέστερόν μοι, μὰ Δία, τῶν πολλῶν διαιτᾶσθαι δοκεῖς, ἀλλ’ ἐνδεέστερον, μᾶλλον δὲ τελέως ἐνδεῶς καὶ ἀπόρως· διαφέρεις γὰρ οὐδὲν σὺ τῶν πτωχῶν, οἳ τὴν ἐφήμερον τροφὴν μεταιτοῦσιν. ΚΥΝΙΚΟΣ Βούλει οὖν ἴδωμεν, ἐπεὶ προελήλυθεν ἐνταῦθα ὁ λόγος, τί τὸ ἐνδεὲς καὶ τί τὸ ἱκανόν ἐστιν; ΛΥΚΙΝΟΣ Εἴ σοι δοκεῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 3",
+      "text": "ΚΥΝΙΚΟΣ Ἆρ’ οὖν ἱκανὸν μὲν ἑκάστῳ ὅπερ ἂν ἐξικνῆται πρὸς τὴν ἐκείνου χρείαν, ἢ ἄλλο τι λέγεις; ΛΥΚΙΝΟΣ Ἔστω τοῦτο. ΚΥΝΙΚΟΣ Ἐνδεὲς δὲ ὅπερ ἂν ἐνδεέστερον ᾖ τῆς χρείας καὶ μὴ ἐξικνῆται πρὸς τὸ δέον; ΛΥΚΙΝΟΣ Ναί. ΚΥΝΙΚΟΣ Οὐδὲν ἄρα τῶν ἐμῶν ἐνδεές ἐστιν· οὐδὲν γὰρ αὐτῶν ὅ τι οὐ τὴν χρείαν ἐκτελεῖ τὴν ἐμήν. ΛΥΚΙΝΟΣ Πῶς τοῦτο λέγεις; ΚΥΝΙΚΟΣ Ἐὰν σκοπῇς πρὸς ὅ τι γέγονεν ἕκαστον ὧν δεόμεθα, οἷον οἰκία ἆρ’ οὐχὶ σκέπης; ΛΥΚΙΝΟΣ Ναί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 4",
+      "text": "ΚΥΝΙΚΟΣ Τί δέ; ἐσθὴς τοῦ χάριν; ἆρα οὐχὶ καὶ αὕτη τῆς σκέπης; ΛΥΚΙΝΟΣ Ναί. ΚΥΝΙΚΟΣ Τῆς δὲ σκέπης αὐτῆς πρὸς θεῶν τίνος ἐδεήθημεν ἕνεκα; οὐχ ὥστε ἄμεινον ἔχειν τὸν σκεπόμενον; ΛΥΚΙΝΟΣ Δοκεῖ μοι. ΚΥΝΙΚΟΣ Πότερ’ οὖν τὼ πόδε κάκιον ἔχειν δοκῶ σοι; ΛΥΚΙΝΟΣ Οὐκ οἶδα. ΚΥΝΙΚΟΣ Ἀλλ’ οὕτως ἂν μάθοις· τί ποδῶν ἔστ’ ἔργον; ΛΥΚΙΝΟΣ Πορεύεσθαι. ΚΥΝΙΚΟΣ Κάκιον οὖν πορεύεσθαί σοι δοκοῦσιν οἱ ἐμοὶ πόδες ἢ οἱ τῶν πολλῶν; ΛΥΚΙΝΟΣ Τοῦτο μὲν οὐκ ἴσως. ΚΥΝΙΚΟΣ Οὐ τοίνυν οὐδὲ χεῖρον ἔχουσιν, εἰ μὴ χεῖρον τὸ ἑαυτῶν ἔργον ἀποδιδόασιν. ΛΥΚΙΝΟΣ Ἴσως. ΚΥΝΙΚΟΣ Τοὺς μὲν δὴ πόδας οὐδὲν φαίνομαι χεῖρον διακείμενος τῶν πολλῶν ἔχειν. ΛΥΚΙΝΟΣ Οὐκ ἔοικας. ΚΥΝΙΚΟΣ Τί δέ; τοὐμὸν σῶμα τὸ λοιπὸν ἆρα κάκιον; εἰ γὰρ κάκιον, καὶ ἀσθενέστερον, ἀρετὴ γὰρ σώματος ἰσχύς. ἆρ’ οὖν τὸ ἐμὸν ἀσθενέστερον; ΛΥΚΙΝΟΣ Οὐ φαίνεται. ΚΥΝΙΚΟΣ Οὐ τοίνυν οὔθ’ οἱ πόδες φαίνοιντό μοι σκέπης ἐνδεῶς ἔχειν οὔτε τὸ λοιπὸν σῶμα· εἰ γὰρ ἐνδεῶς εἶχον, κακῶς ἂν εἶχον. ἡ γὰρ ἔνδεια πανταχοῦ κακὸν καὶ χεῖρον ἔχειν ποιεῖ ταῦτα οἷς ἂν προσῇ. ἀλλὰ μὴν οὐδὲ τρέφεσθαί γε φαίνεται χεῖρον τὸ σῶμα τοὐμόν, ὅτι ἀπὸ τῶν τυχόντων τρέφεται. ΛΥΚΙΝΟΣ Δῆλον γάρ. ΚΥΝΙΚΟΣ Οὐδὲ εὔρωστον, εἰ κακῶς ἐτρέφετο· λυμαίνονται γὰρ αἱ πονηραὶ τροφαὶ τὰ σώματα. ΛΥΚΙΝΟΣ Ἔστι ταῦτα. ΚΥΝΙΚΟΣ Τί ποτ’ οὖν, εἰπέ μοι, τούτων οὕτως ἐχόντων αἰτιᾷ μου καὶ φαυλίζεις τὸν βίον καὶ φῂς ἄθλιον; ΛΥΚΙΝΟΣ Ὅτι, νὴ Δία, τῆς φύσεως, ἣν σὺ τιμᾷς, καὶ τῶν θεῶν γῆν ἐν μέσῳ κατατεθεικότων, ἐκ δὲ αὐτῆς ἀναδεδωκότων πολλὰ κἀγαθά, ὥστε ἔχειν ἡμᾶς πάντα ἄφθονα μὴ πρὸς τὴν χρείαν μόνον, ἀλλὰ καὶ πρὸς ἡδονήν, σὺ πάντων τούτων ἢ τῶν γε πλείστων ἄμοιρος εἶ καὶ οὐδενὸς μετέχεις αὐτῶν οὐδὲν μᾶλλον ἢ τὰ θηρία· πίνεις μὲν γὰρ ὕδωρ ὅπερ καὶ τὰ θηρία, σιτῇ δὲ ὅπερ ἂν εὑρίσκῃς, ὥσπερ οἱ κύνες, εὐνὴν δὲ οὐδὲν κρείττω τῶν κυνῶν ἔχεις· χόρτος γὰρ ἀρκεῖ σοι καθάπερ ἐκείνοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 5",
+      "text": "ἔτι δὲ ἱμάτιον φορεῖς οὐδὲν ἐπιεικέστερον ἀκλήρου. καίτοι εἰ σὺ τούτοις ἀρκούμενος ὀρθῶς φρονήσεις, ὁ θεὸς οὐκ ὀρθῶς ἐποίησε τοῦτο μὲν πρόβατα ποιήσας ἔμμαλλα, τοῦτο δ’ ἀμπέλους ἡδυοίνους, τοῦτο δὲ τὴν ἄλλην παρασκευὴν θαυμαστῶς ποικίλην καὶ ἔλαιον καὶ μέλι καὶ τὰ ἄλλα, ὡς ἔχειν μὲν ἡμᾶς σιτία παντοδαπά, ἔχειν δὲ ποτὸν ἡδύ, ἔχειν δὲ χρήματα, ἔχειν δὲ εὐνὴν μαλακήν, ἔχειν δὲ οἰκίας καλὰς καὶ τὰ ἄλλα πάντα θαυμαστῶς κατεσκευασμένα· καὶ γὰρ αὖ τὰ τῶν τεχνῶν ἔργα δῶρα τῶν θεῶν ἐστι. τὸ δὲ πάντων τούτων ζῆν ἀπεστερημένον ἄθλιον μέν, εἰ καὶ ὑπὸ ἄλλου τινὸς ἀπεστέρητο καθάπερ οἱ ἐν τοῖς δεσμωτηρίοις· πολὺ δὲ ἀθλιώτερον, εἴ τις αὐτὸς ἑαυτὸν ἀποστεροίη πάντων τῶν καλῶν, μανία ἤδη τοῦτό γε σαφής. ΚΥΝΙΚΟΣ Ἀλλ’ ἴσως ὀρθῶς λέγεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 6",
+      "text": "ἐκεῖνο δέ μοι εἰπέ, εἴ τις ἀνδρὸς πλουσίου προθύμως καὶ φιλοφρόνως ἑστιῶντος καὶ ξενίζοντος πολλοὺς ἅμα καὶ παντοδαπούς, τοὺς μὲν ἀσθενεῖς, τοὺς δὲ ἐρρωμένους, κἄπειτα παραθέντος πολλὰ καὶ παντοδαπά, πάντα ἁρπάζοι καὶ πάντα ἐσθίοι, μὴ τὰ πλησίον μόνον, ἀλλὰ καὶ τὰ πόρρω τὰ τοῖς ἀσθενοῦσι παρεσκευασμένα ὑγιαίνων αὐτός, καὶ ταῦτα μίαν μὲν κοιλίαν ἔχων, ὀλίγων δὲ ὥστε τραφῆναι δεόμενος, ὑπὸ τῶν πολλῶν ἐπιτριβήσεσθαι μέλλων, οὗτος ὁ ἀνὴρ ποῖός τις δοκεῖ σοι εἶναι; ἆρά γε φρόνιμος; ΛΥΚΙΝΟΣ Οὐκ ἔμοιγε. ΚΥΝΙΚΟΣ Τί δέ; σώφρων; ΛΥΚΙΝΟΣ Οὐδὲ τοῦτο. ΚΥΝΙΚΟΣ Τί δέ; εἴ τις μετέχων τῆς αὐτῆς ταύτης τραπέζης τῶν μὲν πολλῶν καὶ ποικίλων ἀμελεῖ, ἓν δὲ τῶν ἔγγιστα κειμένων ἐπιλεξάμενος, ἱκανῶς ἔχον πρὸς τὴν ἑαυτοῦ χρείαν, τοῦτο ἐσθίοι κοσμίως καὶ τούτῳ μόνῳ χρῷτο, τοῖς δὲ ἄλλοις οὐδὲ προσβλέποι, τοῦτον οὐχ ἡγῇ σωφρονέστερον καὶ ἀμείνω ἄνδρα ἐκείνου; ΛΥΚΙΝΟΣ Ἔγωγε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 7",
+      "text": "ΚΥΝΙΚΟΣ Πότερον οὖν συνίης, ἢ ἐμὲ δεῖ λέγειν; ΛΥΚΙΝΟΣ Τὸ ποῖον; ΚΥΝΙΚΟΣ Ὅτι ὁ μὲν θεὸς τῷ ξενίζοντι καλῶς ἐκείνῳ ἔοικε παρατιθεὶς πολλὰ καὶ ποικίλα καὶ παντοδαπά, ὅπως ἔχωσιν ἁρμόζοντα, τὰ μὲν ὑγιαίνουσι, τὰ δὲ νοσοῦσι, καὶ τὰ μὲν ἰσχυροῖς, τὰ δὲ ἀσθενοῦσιν, οὐχ ἵνα χρώμεθα ἅπασι πάντες, ἀλλ’ ἵνα τοῖς καθ’ ἑαυτὸν ἕκαστος καὶ τῶν καθ’ ἑαυτὸν ὅτουπερ ἂν τύχῃ μάλιστα δεόμενος. ὑμεῖς δὲ τῷ δι’ ἀπληστίαν τε καὶ ἀκρασίαν ἁρπάζοντι πάντα τούτῳ μάλιστα ἐοίκατε πᾶσι χρῆσθαι ἀξιοῦντες καὶ τοῖς ἁπανταχοῦ, μὴ τοῖς παρ’ ὑμῖν μόνον, οὐ γῆν οὐ θάλατταν τὴν καθ’ αὑτοὺς αὐταρκεῖν νομίζοντες, ἀλλ’ ἀπὸ περάτων γῆς ἐμπορευόμενοι τὰς ἡδονὰς καὶ τὰ ξενικὰ τῶν ἐπιχωρίων ἀεὶ προτιμῶντες καὶ τὰ πολυτελῆ τῶν εὐτελῶν καὶ τὰ δυσπόριστα τῶν εὐπορίστων, καθόλου δὲ πράγματα καὶ κακὰ ἔχειν μᾶλλον ἐθέλοντες ἢ ἄνευ πραγμάτων ζῆν· τὰ γὰρ δὴ πολλὰ καὶ τίμια καὶ εὐδαιμονικὰ παρασκευάσματα, ἐφ’ οἷς ἀγάλλεσθε, διὰ πολλῆς ὑμῖν ταῦτα κακοδαιμονίας καὶ ταλαιπωρίας παραγίγνεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 8",
+      "text": "σκόπει γὰρ, εἰ βούλει, τὸν πολύευκτον χρυσόν, σκόπει τὸν ἄργυρον, σκόπει τὰς οἰκίας τὰς πολυτελεῖς, σκόπει τὰς ἐσθῆτας τὰς ἐσπουδασμένας, σκόπει τὰ τούτοις ἀκόλουθα πάντα, πόσων πραγμάτων ἐστὶν ὤνια, πόσων πόνων, πόσων κινδύνων, μᾶλλον δὲ αἵματος καὶ θανάτου καὶ διαφθορᾶς ἀνθρώπων πόσης, οὐ μόνον ὅτι πλέοντες ἀπόλλυνται διὰ ταῦτα πολλοὶ καὶ ζητοῦντες καὶ δημιουργοῦντες δεινὰ πάσχουσιν, ἀλλ’ ὅτι καὶ πολυμάχητά ἐστι καὶ ἐπιβουλεύετε ἀλλήλοις διὰ ταῦτα καὶ φίλοις φίλοι καὶ πατράσι παῖδες καὶ γυναῖκες ἀνδράσιν. οὕτως οἶμαι καὶ τὴν Ἐριφύλην διὰ τὸν χρυσὸν προδοῦναι τὸν ἄνδρα. καὶ ταῦτα μέντοι πάντα γίνεται, τῶν τε ποικίλων ἱματίων οὐδέν τι μᾶλλον θάλπειν δυναμένων, τῶν δὲ χρυσορόφων οἰκιῶν οὐδέν τι μᾶλλον σκεπουσῶν, τῶν δὲ ἐκπωμάτων τῶν ἀργυρῶν οὐκ ὠφελούντων τὸν πότον οὐδὲ τῶν χρυσῶν, οὐδ’ αὖ τῶν ἐλεφαντίνων κλινῶν τὸν ὕπνον ἡδίω παρεχομένων, ἀλλ’ ὄψει πολλάκις ἐπὶ τῆς ἐλεφαντίνης κλίνης καὶ τῶν πολυτελῶν στρωμάτων τοὺς εὐδαίμονας ὕπνου λαχεῖν οὐ δυναμένους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 9",
+      "text": "ὅτι μὲν γὰρ αἱ παντοδαπαὶ περὶ τὰ βρώματα πραγματεῖαι τρέφουσι μὲν οὐδὲν μᾶλλον, λυμαίνονται δὲ τὰ σώματα καὶ τοῖς σώμασι νόσους ἐμποιοῦσι, τί δεῖ λέγειν; τί δὲ καὶ λέγειν, ὅσα τῶν ἀφροδισίων ἕνεκα πράγματα ποιοῦσί τε καὶ πάσχουσιν οἱ ἄνθρωποι; καίτοι ῥᾴδιον θεραπεύειν ταύτην τὴν ἐπιθυμίαν, εἰ μή τις ἐθέλοι τρυφᾶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 10",
+      "text": "καὶ οὐδ’ εἰς ταύτην ἡ μανία καὶ διαφθορὰ φαίνεται τοῖς ἀνθρώποις ἀρκεῖν, ἀλλ’ ἤδη καὶ τῶν ὄντων τὴν χρῆσιν ἀναστρέφουσιν ἑκάστῳ χρώμενοι πρὸς ὃ μὴ πέφυκεν, ὥσπερ εἴ τις ἀνθ’ ἁμάξης ἐθέλοι τῇ κλίνῃ καθάπερ ἁμάξῃ χρήσασθαι. ΛΥΚΙΝΟΣ Καὶ τίς οὗτος; ΚΥΝΙΚΟΣ Ὑμεῖς, οἳ τοῖς ἀνθρώποις ἅτε ὑποζυγίοις χρῆσθε, κελεύετε δὲ αὐτοὺς ὥσπερ ἁμάξας τὰς κλίνας τοῖς τραχήλοις ἄγειν, αὐτοὶ δ’ ἄνω κατάκεισθε τρυφῶντες καὶ ἐκεῖθεν ὥσπερ ὄνους ἡνιοχεῖτε τοὺς ἀνθρώπους ταύτην, ἀλλὰ μὴ ταύτην τρέπεσθαι κελεύοντες· καὶ οἱ ταῦτα μάλιστα ποιοῦντες μάλιστα μακαρίζεσθε. οἱ δὲ τοῖς κρέασι μὴ τροφῇ χρώμενοι μόνον, ἀλλὰ καὶ βαφὰς μηχανώμενοι δι’ αὐτῶν, οἷοί γέ εἰσιν οἱ τὴν πορφύραν βάπτοντες, οὐχὶ καὶ αὐτοὶ παρὰ φύσιν χρῶνται τοῖς τοῦ θεοῦ κατασκευάσμασιν; ΛΥΚΙΝΟΣ Νὴ Δία· δύναται γὰρ βάπτειν, οὐκ ἐσθίεσθαι μόνον τὸ τῆς πορφύρας κρέας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 11",
+      "text": "ΚΥΝΙΚΟΣ Ἀλλ’ οὐ πρὸς τοῦτο γέγονεν· ἐπεὶ καὶ τῷ κρατῆρι δύναιτ’ ἄν τις βιαζόμενος ὥσπερ χύτρᾳ χρήσασθαι, πλὴν οὐ πρὸς τοῦτο γέγονεν. ἀλλὰ γὰρ πῶς ἅπασαν τὴν τούτων τις κακοδαιμονίαν διελθεῖν δύναιτ’ ἄν; τοσαύτη τίς ἐστι. σὺ δέ μοι, διότι μὴ βούλομαι ταύτης μετέχειν, ἐγκαλεῖς· ζῶ δὲ καθάπερ ὁ κόσμιος ἐκεῖνος, εὐωχούμενος τοῖς κατ’ ἐμαυτὸν καὶ τοῖς εὐτελεστάτοις χρώμενος, τῶν δὲ ποικίλων καὶ παντοδαπῶν οὐκ ἐφιέμενος. κἄπειτα εἰ θηρίου βίον βραχέων δεόμενος καὶ ὀλίγοις χρώμενος δοκῶ σοι ζῆν, κινδυνεύουσιν οἱ θεοὶ καὶ τῶν θηρίων εἶναι χείρονες κατά γε τὸν σὸν λόγον· οὐδενὸς γὰρ δέονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 12",
+      "text": "ἵνα δὲ καταμάθῃς ἀκριβέστερον τό τε ὀλίγων καὶ τὸ πολλῶν δεῖσθαι ποῖόν τι ἑκάτερόν ἐστιν, ἐννόησον ὅτι δέονται πλειόνων οἱ μὲν παῖδες τῶν τελείων, αἱ δὲ γυναῖκες τῶν ἀνδρῶν, οἱ δὲ νοσοῦντες τῶν ὑγιαινόντων, καθόλου δὲ πανταχοῦ τὸ χεῖρον τοῦ κρείττονος πλειόνων δεῖται. διὰ τοῦτο θεοὶ μὲν οὐδενός, οἱ δὲ ἔγγιστα θεοῖς ἐλαχίστων δέονται. ἢ νομίζεις τὸν Ἡρακλέα τὸν πάντων ἀνθρώπων ἄριστον, θεῖον δὲ ἄνδρα καὶ θεὸν ὀρθῶς νομισθέντα, διὰ κακοδαιμονίαν περινοστεῖν γυμνὸν δέρμα μόνον ἔχοντα καὶ μηδενὸς τῶν αὐτῶν ὑμῖν δεόμενον; ἀλλ’ οὐ κακοδαίμων ἦν ἐκεῖνος, ὃς καὶ τῶν ἄλλων ἀπήμυνε τὰ κακά, οὐδ’ αὖ πένης, ὃς γῆς καὶ θαλάττης ἦρχεν· ἐφ’ ὅ τι γὰρ ὁρμήσειεν, ἁπανταχοῦ πάντων ἐκράτει καὶ οὐδενὶ τῶν τότε ἐνέτυχεν ὁμοίῳ οὐδὲ κρείττονι ἑαυτοῦ, μέχριπερ ἐξ ἀνθρώπων ἀπῆλθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 13",
+      "text": "ἢ σὺ δοκεῖς στρωμάτων καὶ ὑποδημάτων ἀπόρως ἔχειν καὶ διὰ τοῦτο περιιέναι τοιοῦτον; οὐκ ἔστιν εἰπεῖν, ἀλλ’ ἐγκρατὴς καὶ καρτερικὸς ἦν καὶ κρατεῖν ἤθελε καὶ τρυφᾶν οὐκ ἐβούλετο. ὁ δὲ Θησεὺς ὁ τούτου μαθητὴς οὐ βασιλεὺς μὲν ἦν πάντων Ἀθηναίων, υἱὸς δὲ Ποσειδῶνος, ὥς φασιν, ἄριστος δὲ τῶν καθ’ αὑτόν; ἀλλ’ ὅμως κἀκεῖνος ἤθελεν ἀνυπόδητος εἶναι καὶ γυμνὸς βαδίζειν καὶ πώγωνα καὶ κόμην ἔχειν ἤρεσκεν αὐτῷ, καὶ οὐκ ἐκείνῳ μόνῳ, ἀλλὰ καὶ πᾶσι τοῖς παλαιοῖς ἤρεσκεν· ἀμείνους γὰρ ἦσαν ὑμῶν, καὶ οὐκ ἂν ὑπέμειναν οὐδὲ εἷς αὐτῶν οὐδὲν μᾶλλον ἢ τῶν λεόντων τις ξυρώμενος· ὑγρότητα γὰρ καὶ λειότητα σαρκὸς γυναιξὶ πρέπειν ἡγοῦντο, αὐτοὶ δ’ ὥσπερ ἦσαν, καὶ φαίνεσθαι ἄνδρες ἤθελον καὶ τὸν πώγωνα κόσμον ἀνδρὸς ἐνόμιζον ὥσπερ καὶ ἵππων χαίτην καὶ λεόντων γένεια, οἷς ὁ θεὸς ἀγλαΐας καὶ κόσμου χάριν προσέθηκέ τινα· οὑτωσὶ δὲ καὶ τοῖς ἀνδράσι τὸν πώγωνα προσέθηκεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 14",
+      "text": "ἐκείνους οὖν ἐγὼ ζηλῶ τοὺς παλαιοὺς καὶ ἐκείνους μιμεῖσθαι βούλομαι, τοὺς δὲ νῦν οὐ ζηλῶ τῆς θαυμαστῆς ταύτης εὐδαιμονίας ἣν ἔχουσι καὶ περὶ τραπέζας καὶ ἐσθῆτας καὶ λεαίνοντες καὶ ψιλούμενοι πᾶν τοῦ σώματος μέρος καὶ μηδὲ τῶν ἀπορρήτων μηδέν, ᾗ πέφυκεν, ἔχειν ἐῶντες. εὔχομαι δέ μοι τοὺς μὲν πόδας ὁπλῶν ἱππείων οὐδὲν διαφέρειν, ὥσπερ φασὶ τοὺς Χείρωνος, αὐτὸς δὲ μὴ δεῖσθαι στρωμάτων ὥσπερ οἱ λέοντες, οὐδὲ τροφῆς δεῖσθαι πολυτελοῦς μᾶλλον ἢ οἱ κύνες· εἴη δέ μοι γῆν μὲν ἅπασαν εὐνὴν αὐτάρκη ἔχειν, οἶκον δὲ τὸν κόσμον νομίζειν, τροφὴν δὲ αἱρεῖσθαι τὴν ῥᾴστην πορισθῆναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 15",
+      "text": "χρυσοῦ δὲ καὶ ἀργύρου μὴ δεηθείην μήτ’ οὖν ἐγὼ μήτε τῶν ἐμῶν φίλων μηδείς· πάντα γὰρ τὰ κακὰ τοῖς ἀνθρώποις ἐκ τῆς τούτων ἐπιθυμίας φύονται, καὶ στάσεις καὶ πόλεμοι καὶ ἐπιβουλαὶ καὶ σφαγαί. ταυτὶ πάντα πηγὴν ἔχει τὴν ἐπιθυμίαν τοῦ πλείονος· ἀλλ’ ἡμῶν αὕτη ἀπείη, καὶ πλεονεξίας μήποτε ὀρεχθείην, μειονεκτῶν δ’ ἀνέχεσθαι δυναίμην. τοιαῦτά σοι τά γε ἡμέτερα, πολὺ δήπου διάφωνα τοῖς τῶν πολλῶν βουλήμασι· καὶ θαυμαστὸν οὐδέν, εἰ τῷ σχήματι διαφέρομεν αὐτῶν, ὁπότε καὶ τῇ προαιρέσει τοσοῦτον διαφέρομεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 16",
+      "text": "θαυμάζω δέ σου πῶς ποτε κιθαρῳδοῦ μέν τινα νομίζεις στολὴν καὶ σχῆμα, καὶ αὐλητοῦ νὴ Δία σχῆμα, καὶ στολὴν τραγῳδοῦ, ἀνδρὸς δὲ ἀγαθοῦ σχῆμα καὶ στολὴν οὐκέτι νομίζεις, ἀλλὰ τὴν αὐτὴν αὐτὸν οἴει δεῖν ἔχειν τοῖς πολλοῖς, καὶ ταῦτα τῶν πολλῶν κακῶν ὄντων. εἰ μὲν δεῖ ἑνὸς ἰδίου σχήματος τοῖς ἀγαθοῖς, τί πρέποι ἂν μᾶλλον ἢ τοῦθ’ ὅπερ ἀναιδέστατον τοῖς ἀκολάστοις ἐστὶ καὶ ὅπερ ἀπεύξαιντ’ ἂν οὗτοι μάλιστα ἔχειν; οὐκοῦν τό γε ἐμὸν σχῆμα τοιοῦτόν ἐστιν, αὐχμηρὸν εἶναι, λάσιον εἶναι, τρίβωνα ἔχειν, κομᾶν, ἀνυποδητεῖν, τὸ δ’ ὑμέτερον ὅμοιον τῷ τῶν κιναίδων, καὶ διακρίνειν οὐδὲ εἷς ἂν ἔχοι, οὐ τῇ χροιᾷ τῶν ἱματίων, οὐ τῇ μαλακότητι, οὐ τῷ πλήθει τῶν χιτωνίσκων, οὐ τοῖς ἀμφιέσμασιν, οὐχ ὑποδήμασιν, οὐ κατασκευῇ τριχῶν, οὐκ ὀδμῇ· καὶ γὰρ καὶ ἀπόζετε ἤδη παραπλήσιον ἐκείνοις οἱ εὐδαιμονέστατοι οὗτοι μάλιστα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 17",
+      "text": "καίτοι τί ἂν δῴη τις ἀνδρὸς τὴν αὐτὴν τοῖς κιναίδοις ὀδμὴν ἔχοντος; τοιγαροῦν τοὺς μὲν πόνους οὐδὲν ἐκείνων μᾶλλον ἀνέχεσθε, τὰς δὲ ἡδονὰς οὐδὲν ἐκείνων ἧττον· καὶ τρέφεσθε τοῖς αὐτοῖς καὶ κοιμᾶσθε ὁμοίως καὶ βαδίζετε, μᾶλλον δὲ βαδίζειν οὐκ ἐθέλετε, φέρεσθε δὲ ὥσπερ τὰ φορτία οἱ μὲν ὑπ’ ἀνθρώπων, οἱ δὲ ὑπὸ κτηνῶν· ἐμὲ δὲ οἱ πόδες φέρουσιν ὅποιπερ ἂν δέωμαι. κἀγὼ μὲν ἱκανὸς καὶ ῥίγους ἀνέχεσθαι καὶ θάλπος φέρειν καὶ τοῖς τῶν θεῶν ἔργοις μὴ δυσχεραίνειν, διότι ἄθλιός εἰμι, ὑμεῖς δὲ διὰ τὴν εὐδαιμονίαν οὐδενὶ τῶν γινομένων ἀρέσκεσθε καὶ πάντα μέμφεσθε καὶ τὰ μὲν παρόντα φέρειν οὐκ ἐθέλετε, τῶν δὲ ἀπόντων ἐφίεσθε, χειμῶνος μὲν εὐχόμενοι θέρος, θέρους δὲ χειμῶνα, καὶ καύματος μὲν ῥῖγος, ῥίγους δὲ καῦμα καθάπερ οἱ νοσοῦντες δυσάρεστοι καὶ μεμψίμοιροι ὄντες· αἰτία δὲ ἐκείνοις μὲν ἡ νόσος, ὑμῖν δὲ ὁ τρόπος. κἄπειτα δὲ ἡμᾶς μετατίθεσθε καὶ ἐπανορθοῦτε τὰ ἡμέτερα, κακῶς βουλευομένοις πολλάκις περὶ ὧν πράττομεν, αὐτοὶ ἄσκεπτοι ὄντες περὶ τῶν ἰδίων καὶ μηδὲν αὐτῶν κρίσει καὶ λογισμῷ ποιοῦντες, ἀλλ’ ἔθει καὶ ἐπιθυμίᾳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 18",
+      "text": "τοιγαροῦν οὐδὲν ὑμεῖς διαφέρετε τῶν ὑπὸ χειμάρρου φερομένων· ἐκεῖνοί τε γάρ, ὅπου ἂν ἴῃ τὸ ῥεῦμα, ἐκεῖ φέρονται, καὶ ὑμεῖς ὅπου ἂν αἱ ἐπιθυμίαι. πάσχετε δὲ παραπλήσιόν τι ὅ φασι παθεῖν τινα ἐφ’ ἵππον ἀναβάντα μαινόμενον· ἁρπάσας γὰρ αὐτὸν ἔφερεν ἄρα ὁ ἵππος· ὁ δὲ οὐκέτι καταβῆναι τοῦ ἵππου θέοντος ἐδύνατο. καί τις ἀπαντήσας ἠρώτησεν αὐτὸν ποίαν ἄπεισιν; ὁ δὲ εἶπεν, Ὅπου ἂν τούτῳ δοκῇ, δεικνὺς τὸν ἵππον. καὶ ὑμᾶς ἄν τις ἐρωτᾷ, ποῖ φέρεσθε; τἀληθὲς ἐθέλοντες λέγειν ἐρεῖτε ἁπλῶς μέν, ὅπουπερ ἂν ταῖς ἐπιθυμίαις δοκῇ, κατὰ μέρος δέ, ὅπουπερ ἂν τῇ ἡδονῇ δοκῇ, ποτὲ δέ, ὅπου τῇ δόξῃ, ποτὲ δὲ αὖ, τῇ φιλοκερδίᾳ· ποτὲ δὲ ὁ θυμός, ποτὲ δὲ ὁ φόβος, ποτὲ δὲ ἄλλο τι τοιοῦτον ὑμᾶς ἐκφέρειν φαίνεται· οὐ γὰρ ἐφ’ ἑνός, ἀλλ’ ἐπὶ πολλῶν ὑμεῖς γε ἵππων βεβηκότες ἄλλοτε ἄλλων, καὶ μαινομένων πάντων, φέρεσθε. τοιγαροῦν ἐκφέρουσιν ὑμᾶς εἰς βάραθρα καὶ κρημνούς. ἴστε δ’ οὐδαμῶς πρὶν πεσεῖν ὅτι πείσεσθαι μέλλετε. ὁ δὲ τρίβων οὗτος, οὗ καταγελᾶτε, καὶ ἡ κόμη καὶ τὸ σχῆμα τοὐμὸν τηλικαύτην ἔχει δύναμιν, ὥστε παρέχειν μοι ζῆν ἐφ’ ἡσυχίας καὶ πράττοντι ὅ τι βούλομαι καὶ συνόντι οἷς βούλομαι· τῶν γὰρ ἀμαθῶν ἀνθρώπων καὶ ἀπαιδεύτων οὐδεὶς ἂν ἐθέλοι μοι προσιέναι διὰ τὸ σχῆμα, οἱ δὲ μαλακοὶ καὶ πάνυ πόρρωθεν ἐκτρέπονται· προσίασι δὲ οἱ κομψότατοι καὶ ἐπιεικέστατοι καὶ ἀρετῆς ἐπιθυμοῦντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 19",
+      "text": "οὗτοι μάλιστά μοι προσίασι· τοῖς γὰρ τοιούτοις ἐγὼ χαίρω συνών. θύρας δὲ τῶν καλουμένων εὐδαιμόνων οὐ θεραπεύω, τοὺς δὲ χρυσοῦς στεφάνους καὶ τὴν πορφύραν τῦφον νομίζω καὶ τῶν ἀνθρώπων καταγελῶ. ἵνα δὲ μάθῃς περὶ τοῦ σχήματος, ὡς οὐκ ἀνδράσι μόνον ἀγαθοῖς, ἀλλὰ καὶ θεοῖς πρέποντος ἔπειτα καταγελᾷς αὐτοῦ, σκέψαι τὰ ἀγάλματα τῶν θεῶν, πότερά σοι δοκοῦσιν ὁμοίως ἔχειν ὑμῖν ἢ ἐμοί; καὶ μὴ μόνον γε τῶν Ἑλλήνων, ἀλλὰ καὶ τῶν βαρβάρων τοὺς ναοὺς ἐπισκόπει περιιών, πότερον αὐτοὶ οἱ θεοὶ κομῶσι καὶ γενειῶσιν ὡς ἐγὼ ἢ καθάπερ ὑμεῖς ἐξυρημένοι πλάττονται καὶ γράφονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Cyn 20",
+      "text": "καὶ μέντοι καὶ ἀχίτωνας ὄψει τοὺς πολλοὺς ὥσπερ ἐμέ. τί ἂν οὖν ἔτι τολμῴης περὶ τούτου τοῦ σχήματος λέγειν ὡς φαῦλον, ὁπότε καὶ θεοῖς φαίνεται πρέπον;",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "qeu-ah",
+      "title": {
+        "english": "Alcyon",
+        "ancient_greek": "Ἀλκυών"
+      },
+      "url_slug": "pseudo-lucian-alcyon-qeu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/alcyon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/alcyon.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ab",
+      "title": {
+        "english": "Charidemos or-Beauty",
+        "ancient_greek": "Χαρίδημος ἢ Περὶ Κάλλους"
+      },
+      "url_slug": "pseudo-lucian-charidemos-beauty-qeu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/charidemos-beauty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/charidemos-beauty.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ag",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "pseudo-lucian-epigrams-ag-qeu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-ag",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-ag.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-af",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "pseudo-lucian-epigrams-af-qeu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/epigrams-af",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/epigrams-af.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-aj",
+      "title": {
+        "english": "Loves",
+        "ancient_greek": "Ἔρωτες"
+      },
+      "url_slug": "pseudo-lucian-loves-qeu-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/loves",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/loves.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ad",
+      "title": {
+        "english": "Lucius or the Ass",
+        "ancient_greek": "Λούκιος ἢ Ὄνος"
+      },
+      "url_slug": "pseudo-lucian-ass-qeu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/ass",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/ass.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-aa",
+      "title": {
+        "english": "Philopatris or The Student",
+        "ancient_greek": "Φιλόπατρις ἢ Διδασκόμενος"
+      },
+      "url_slug": "pseudo-lucian-philopatris-qeu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/philopatris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/philopatris.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ae",
+      "title": {
+        "english": "Swift-Footed",
+        "ancient_greek": "Ὠκύπους"
+      },
+      "url_slug": "pseudo-lucian-swift-footed-qeu-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/swift-footed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/swift-footed.json"
+      }
+    },
+    {
+      "eul_wid": "qeu-ac",
+      "title": {
+        "english": "encom of Demosthenes",
+        "ancient_greek": "Δημοσθένους Ἐγκώμιον"
+      },
+      "url_slug": "pseudo-lucian-encomium-qeu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-lucian/encomium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/encomium.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ejc-ai",
+      "title": {
+        "english": "Against Nicomachus Secretary-Accounts",
+        "ancient_greek": "κατὰ Νικομάχου γραμματέως εὐθυνῶν κατηγορία"
+      },
+      "url_slug": "lysias-against-nicomachus-ejc-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/lysias/against-nicomachus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lysias/against-nicomachus.json"
+      }
+    },
+    {
+      "eul_wid": "nji-aa",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "diodorus-of-sardis-epigrams-nji-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diodorus-of-sardis/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sardis/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sardis/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sardis/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diodorus-of-sardis/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "mbw-ab",
+      "title": {
+        "english": "Exhortation B",
+        "ancient_greek": "Προτρεπτικὸς Β"
+      },
+      "url_slug": "lesbonax-the-rhetorician-exhortation-b-mbw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/lesbonax-the-rhetorician/exhortation-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation-b.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation-b.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation-b.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lesbonax-the-rhetorician/exhortation-b.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ac",
+      "title": {
+        "english": "Nicocles or the Cyprians",
+        "ancient_greek": "Νικόκλης ἢ Κύπριοι"
+      },
+      "url_slug": "isocrates-of-athens-nicocles-cyprians-ffu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/nicocles-cyprians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/nicocles-cyprians.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bv",
+      "title": {
+        "english": "On Astrology",
+        "ancient_greek": "Περὶ τῆς Ἀστρολογίας"
+      },
+      "url_slug": "lucian-of-samosata-astrology-pfk-bv",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/astrology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/astrology.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-ba",
+      "title": {
+        "english": "On Peace",
+        "ancient_greek": "Περὶ εἰρήνης"
+      },
+      "url_slug": "isocrates-of-athens-peace-ffu-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/peace",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/peace.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/peace.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/peace.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/peace.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ck",
+      "title": {
+        "english": "Phalaris",
+        "ancient_greek": "Φάλαρις"
+      },
+      "url_slug": "lucian-of-samosata-phalaris-pfk-ck",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/phalaris",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/phalaris.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ay",
+      "title": {
+        "english": "Toxaris or Friendship",
+        "ancient_greek": "Τόξαρις ἢ Φιλία"
+      },
+      "url_slug": "lucian-of-samosata-toxaris-friendship-pfk-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/toxaris-friendship",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/toxaris-friendship.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-lucian/cynic",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-lucian/cynic.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

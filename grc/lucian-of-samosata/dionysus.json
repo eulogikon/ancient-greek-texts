@@ -1,0 +1,419 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "pfk-bk",
+  "eul_aid": "pfk",
+  "author_slug": "lucian-of-samosata",
+  "work_slug": "dionysus",
+  "url_slug": "lucian-of-samosata-dionysus-pfk-bk",
+  "author": {
+    "english": "Lucian of Samosata",
+    "ancient_greek": "Λουκιανὸς ὁ Σαμοσατεύς"
+  },
+  "title": {
+    "english": "Prologue, Dionysus",
+    "ancient_greek": "Προλαλιά. Διόνυσος"
+  },
+  "seo": {
+    "browser_title": "Prologue Dionysus by Lucian of Samosata on Eulogikon",
+    "meta_title": "Ancient Prologue Dionysus by Lucian of Samosata in Greek",
+    "meta_description": "Lucian's witty oration satirizes the myth of Dionysus and his legendary campaign against the Indians. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ῥητορική",
+      "english": "Oratory",
+      "href": "/domains/oratory"
+    },
+    {
+      "label": "Format",
+      "greek": "Λόγος",
+      "english": "Oration",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>Prologue, Dionysus</strong> is a short introductory oration, or prolalia, composed in Attic Greek by the second-century CE satirist Lucian of Samosata. Functioning as a prelude to a longer rhetorical performance, its purpose was to capture the attention of an audience. The text is a structured defense and encomium of the god Dionysus, directly addressing critics who dismiss the deity as weak or effeminate. Lucian counters this view by arguing for the god&#x27;s martial strength, demonstrated in his mythical campaign against the Indians, and by celebrating the benefits of his greatest gift to humanity: wine. He presents wine as a fundamental source of joy, a reliever of sorrow, and an essential inspiration for poetry and social fellowship.</p>\n<p class=\"research-text\">The work survives in its entirety as a concise speech within Lucian&#x27;s larger corpus and stands as a prime example of the rhetorical showmanship popular during the Second Sophistic, a period marked by a revival of classical Greek learning and public oratory. Modern scholars interpret the piece as a sophistic display, wherein Lucian takes a traditional mythological figure and offers a clever, paradoxical defense designed to showcase his wit and argumentative skill. It was likely performed for the educated, Greek-speaking elite of the Roman Empire, reflecting the enduring cultural power and adaptability of Hellenic literary tradition.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "Bacch t",
+      "text": "ΠΡΟΛΑΛΙΑ. ΔΙΟΝΥΣΟΣ Ὅτε ὁ Διόνυσος ἐπ’ Ἰνδοὺς στρατιὰν ἤλασε —κωλύει γὰρ οὐδέν, οἶμαι, καὶ μῦθον ὑμῖν διηγήσασθαι Βακχικόν—φασὶν οὕτω καταφρονῆσαι αὐτοῦ τὰ πρῶτα τοὺς ἀνθρώπους τοὺς ἐκεῖ, ὥστε καταγελᾶν ἐπιόντος, μᾶλλον δὲ ἐλεεῖν τὴν τόλμαν αὐτίκα μάλα συμπατηθησομένου ὑπὸ τῶν ἐλεφάντων, εἰ ἀντιτάξαιτο· ἤκουον γάρ, οἶμαι, τῶν σκοπῶν ἀλλόκοτα ὑπὲρ τῆς στρατιᾶς αὐτοῦ ἀγγελλόντων, ὡς ἡ μὲν φάλαγξ αὐτῷ καὶ οἱ λόχοι γυναῖκες εἶεν ἔκφρονες καὶ μεμηνυῖαι, κιττῷ ἐστεμμέναι, νεβρίδας ἐνημμέναι, δοράτια μικρὰ ἔχουσαι ἀσίδηρα, κιττοποίητα καὶ ταῦτα, καί τινα πελτάρια κοῦφα, βομβοῦντα, εἴ τις μόνον προσάψαιτο—ἀσπίσι γὰρ εἴκαζον, οἶμαι, τὰ τύμπανα— ὀλίγους δέ τινας ἀγροίκους νεανίσκους ἐνεῖναι, γυμνούς, κόρδακα ὀρχουμένους, οὐρὰς ἔχοντας, κεράστας, οἷα τοῖς ἄρτι γεννηθεῖσιν ἐρίφοις ὑποφύεται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 2",
+      "text": "καὶ τὸν μὲν στρατηλάτην αὐτὸν ἐφ’ ἅρματος ὀχεῖσθαι παρδάλεων ὑπεζευγμένων, ἀγένειον ἀκριβῶς, οὐδ’ ἐπ’ ὀλίγον τὴν παρειὰν χνοῶντα, κερασφόρον, βοτρύοις ἐστεφανωμένον, μίτρᾳ τὴν κόμην ἀναδεδεμένον, ἐν πορφυρίδι καὶ χρυσῇ ἐμβάδι· ὑποστρατηγεῖν δὲ δύο, ἕνα μέν τινα βραχύν, πρεσβύτην, ὑπόπαχυν, προγάστορα, ῥινόσιμον, ὦτα μεγάλα ὄρθια ἔχοντα, ὑπότρομον, νάρθηκι ἐπερειδόμενον, ἐπ’ ὄνου τὰ πολλὰ ἱππεύοντα, ἐν κροκωτῷ καὶ τοῦτον, πάνυ πιθανόν τινα συνταγματάρχην αὐτοῦ ἕτερον δὲ τεράστιον ἄνθρωπον, τράγῳ τὰ νέρθεν ἐοικότα, κομήτην τὰ σκέλη, κέρατα ἔχοντα, βαθυπώγωνα, ὀργίλον καὶ θυμικόν, θατέρᾳ μὲν σύριγγα φέροντα, τῇ δεξιᾷ δὲ ῥάβδον καμπύλην ἐπηρμένον καὶ περισκιρτῶντα ὅλον τὸ στρατόπεδον, καὶ τὰ γύναια δὲ φοβεῖσθαι αὐτὸν καὶ σείειν ἠνεμωμένας τὰς κόμας, ὁπότε προσίοι, καὶ βοᾶν εὐοῖ· τοῦτο δ’ εἰκάζειν καλεῖσθαι αὐτῶν τὸν δεσπότην. τὰς δ’ οὖν ποίμνας διηρπάσθαι ἤδη ὑπὸ τῶν γυναικῶν καὶ διεσπάσθαι ἔτι ζῶντα τὰ θρέμματα· ὠμοφάγους γάρ τινας αὐτὰς εἶναι. Ταῦτα οἱ Ἰνδοὶ καὶ ὁ βασιλεῦς αὐτῶν ἀκούοντες ἐγέλων, ὡς τὸ εἰκός, καὶ οὐδ’ ἀντεπεξάγειν ἢ παρατάττεσθαι ἠξίουν, ἀλλ’ εἴπερ ἄρα, τὰς γυναῖκας ἐπαφήσειν αὐτοῖς, εἰ πλησίον γένοιντο, σφίσι δὲ καὶ νικᾶν αἰσχρὸν ἐδόκει καὶ φονεύειν γύναια μεμηνότα καὶ θηλυμίτρην ἄρχοντα καὶ μεθύον σμικρὸν γερόντιον καὶ ἡμίτραγον στρατιώτην ἄλλον καὶ γυμνήτας ὀρχηστάς, πάντας γελοίους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 3",
+      "text": "ἐπεὶ δὲ ἤγγελτο πυρπολῶν ὁ θεὸς ἤδη τὴν χώραν καὶ πόλεις αὐτάνδρους καταφλέγων καὶ ἀνάπτων τὰς ὕλας καὶ ἐν βραχεῖ πᾶσαν τὴν Ἰνδικὴν φλογὸς ἐμπεπληκώς—ὅπλον γάρ τι Διονυσιακὸν τὸ πῦρ, πατρῷον αὐτῷ κἀκ τοῦ κεραυνοῦ—ἐνταῦθα ἤδη σπουδῇ ἀνελάμβανον τὰ ὅπλα καὶ τοὺς ἐλέφαντας ἐπισάξαντες καὶ ἐγχαλινώσαντες καὶ τοὺς πύργους ἀναθέμενοι ἐπ’ αὐτοὺς ἀντεπεξῄεσαν, καταφρονοῦντες μὲν καὶ τότε, ὀργιζόμενοι δὲ ὅμως καὶ συντρῖψαι σπεύδοντες αὐτῷ στρατοπέδῳ τὸν ἀγένειον ἐκεῖνον στρατηλάτην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 4",
+      "text": "ἐπεὶ δὲ πλησίον ἐγένοντο καὶ εἶδον ἀλλήλους, οἱ μὲν Ἰνδοὶ προτάξαντες τοὺς ἐλέφαντας ἐπῆγον τὴν φάλαγγα, ὁ Διόνυσος δὲ τὸ μέσον μὲν αὐτὸς εἶχε, τοῦ κέρως δὲ αὐτῷ τοῦ δεξιοῦ μὲν ὁ Σιληνός, τοῦ εὐωνύμου δὲ ὁ Πὰν ἡγοῦντο· λοχαγοὶ δὲ καὶ ταξίαρχοι οἱ Σάτυροι ἐγκαθειστήκεσαν· καὶ τὸ μὲν σύνθημα ἦν ἅπασι τὸ εὐοῖ. εὐθὺς δὲ τὰ τύμπανα ἐπαταγεῖτο καὶ τὰ κύμβαλα τὸ πολεμικὸν ἐσήμαινε καὶ τῶν Σατύρων τις λαβὼν τὸ κέρας ἐπηύλει τὸ ὄρθιον καὶ ὁ τοῦ Σιληνοῦ ὄνος ἐνυάλιόν τι ὠγκήσατο καὶ αἱ Μαινάδες σὺν ὀλολυγῇ ἐνεπήδησαν αὐτοῖς δράκοντας ὑπεζωσμέναι κἀκ τῶν θύρσων ἄκρων ἀπογυμνοῦσαι τὸν σίδηρον. οἱ Ἰνδοὶ δὲ καὶ οἱ ἐλέφαντες αὐτῶν αὐτίκα ἐγκλίναντες σὺν οὐδενὶ κόσμῳ ἔφευγον οὐδ’ ἐντὸς βέλους γενέσθαι ὑπομείναντες, καὶ τέλος κατὰ κράτος ἑαλώκεσαν καὶ αἰχμάλωτοι ἀπήγοντο ὑπὸ τῶν τέως καταγελωμένων, ἔργῳ μαθόντες ὡς οὐκ ἐχρῆν ἀπὸ τῆς πρώτης ἀκοῆς καταφρονεῖν ξένων στρατοπέδων. Ἀλλὰ τί πρὸς τὸν Διόνυσον ὁ Διόνυσος οὗτος; εἴποι τις ἄν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 5",
+      "text": "ὅτι μοι δοκοῦσι—καὶ πρὸς Χαρίτων μή με κορυβαντιᾶν ἢ τελέως μεθύειν ὑπολάβητε, εἰ τἀμὰ εἰκάζω τοῖς θεοῖς—ὅμοιόν τι πάσχειν οἱ πολλοὶ πρὸς τοὺς καινοὺς τῶν λόγων τοῖς Ἰνδοῖς ἐκείνοις, οἷον καὶ πρὸς τοὺς ἐμούς· οἰόμενοι γὰρ σατυρικὰ καὶ γελοῖά τινα καὶ κομιδῇ κωμικὰ παρ’ ἡμῶν ἀκούσεσθαι—τοιαῦτα γὰρ πεπιστεύκασιν, οὐκ οἶδ’ ὅ τι δόξαν αὐτοῖς ὑπὲρ ἐμοῦ —οἱ μὲν οὐδὲ τὴν ἀρχὴν ἀφικνοῦνται, ὡς οὐδὲν δέον παρέχειν τὰ ὦτα κώμοις γυναικείοις καὶ σκιρτήμασι σατυρικοῖς καταβάντας ἀπὸ τῶν ἐλεφάντων, οἱ δὲ ὡς ἐπὶ τοιοῦτό τι ἥκοντες ἀντὶ τοῦ κιττοῦ σίδηρον εὑρόντες οὐδ’ οὕτως ἐπαινεῖν τολμῶσι τῷ παραδόξῳ τοῦ πράγματος τεθορυβημένοι. ἀλλὰ θαρρῶν ἐπαγγέλλομαι αὐτοῖς, ὅτι ἢν καὶ νῦν ὡς πρότερόν ποτε τὴν τελετὴν ἐθελήσωσιν ἐπιδεῖν πολλάκις καὶ ἀναμνησθῶσιν οἱ παλαιοὶ συμπόται κώμων κοινῶν τῶν τότε καιρῶν καὶ μὴ καταφρονήσωσιν τῶν Σατύρων καὶ Σιληνῶν, πίωσι δὲ ἐς κόρον τοῦ κρατῆρος τούτου, ἔτι βακχεύσειν καὶ αὐτοὺς καὶ πολλάκις μεθ’ ἡμῶν ἐρεῖν τὸ εὐοῖ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 6",
+      "text": "οὗτοι μὲν οὖν—ἐλεύθερον γὰρ ἀκοή—ποιούντων ὅ τι καὶ φίλον. Ἐγὼ δέ, ἐπειδήπερ ἔτι ἐν Ἰνδοῖς ἐσμέν, ἐθέλω καὶ ἄλλο ὑμῖν διηγήσασθαί τι τῶν ἐκεῖθεν, οὐκ ἀπροσδιόνυσον οὐδ’ αὐτό, οὐδ’ ὧν ποιοῦμεν ἀλλότριον. ἐν Ἰνδοῖς τοῖς Μαχλαίοις, οἳ τὰ λαιὰ τοῦ Ἰνδοῦ ποταμοῦ, εἰ κατὰ ῥοῦν αὐτοῦ βλέποις, ἐπινεμόμενοι μέχρι πρὸς τὸν Ὠκεανὸν καθήκουσι, παρὰ τούτοις ἄλσος ἐστὶν ἐν περιφράκτῳ, οὐ πάνυ μεγάλῳ χωρίῳ, συνηρεφεῖ δέ· κιττὸς γὰρ πολὺς καὶ ἄμπελοι σύσκιον αὐτὸ ἀκριβῶς ποιοῦσιν. ἐνταῦθα πηγαί εἰσι τρεῖς καλλίστου καὶ διειδεστάτου ὕδατος, ἡ μὲν Σατύρων, ἡ δὲ Πανός, ἡ δὲ Σιληνοῦ. καὶ εἰσέρχονται εἰς αὐτὸ οἱ Ἰνδοὶ ἅπαξ τοῦ ἔτους ἑορτάζοντες τῷ θεῷ, καὶ πίνουσι τῶν πηγῶν, οὐχ ἁπασῶν ἅπαντες, ἀλλὰ καθ’ ἡλικίαν, τὰ μὲν μειράκια τῆς τῶν Σατύρων, οἱ ἄνδρες δὲ τῆς Πανικῆς, τῆς δὲ τοῦ Σιληνοῦ οἱ κατ’ ἐμέ. Ἃ μὲν οὖν πάσχουσιν οἱ παῖδες ἐπειδὰν πίωσιν, ἢ οἷα οἱ ἄνδρες τολμῶσι κατεχόμενοι τῷ Πανί, μακρὸν ἂν εἴη λέγειν· ἃ δ’ οἱ γέροντες ποιοῦσιν, ὅταν μεθυσθῶσιν τοῦ ὕδατος, οὐκ ἀλλότριον εἰπεῖν· ἐπειδὰν πίῃ ὁ γέρων καὶ κατάσχῃ αὐτὸν ὁ Σιληνός, αὐτίκα ἐπὶ πολὺ ἄφωνός ἐστι καὶ καρηβαροῦντι καὶ βεβαπτισμένῳ ἔοικεν, εἶτα ἄφνω φωνή τε λαμπρὰ καὶ φθέγμα τορὸν καὶ πνεῦμα λιγυρὸν ἐγγίγνεται αὐτῷ καὶ λαλίστατος ἐξ ἀφωνοτάτου ἐστίν, οὐδ’ ἂν ἐπιστομίσας παύσειας αὐτὸν μὴ οὐχὶ συνεχῆ λαλεῖν καὶ ῥήσεις μακρὰς συνείρειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 7",
+      "text": "συνετὰ μέντοι πάντα καὶ κόσμια καὶ κατὰ τὸν Ὁμήρου ἐκεῖνον ῥήτορα· νιφάδεσσι γὰρ ἐοικότα χειμερίῃσι διεξέρχονται, οὐδ’ ἀποχρήσει σοι κύκνοις κατὰ τὴν ἡλικίαν εἰκάσαι αὐτούς, ἀλλὰ τεττιγῶδές τι πυκνὸν καὶ ἐπίτροχον συνάπτουσιν ἄχρι βαθείας ἑσπέρας. τοὐντεῦθεν δὲ ἤδη ἀφεθείσης αὐτοῖς τῆς μέθης σιωπῶσι καὶ πρὸς τὸ ἀρχαῖον ἀνατρέχουσι. τὸ μέντοι παραδοξότατον οὐδέπω εἶπον· ἢν γὰρ ἀτελῆ ὁ γέρων μεταξὺ καταλίπῃ ὃν διεξῄει τὸν λόγον, δύντος ἡλίου κωλυθεὶς ἐπὶ πέρας αὐτὸν ἐπεξελθεῖν, ἐς νέωτα πιὼν αὖθις ἐκεῖνα συνάπτει ἃ πέρυσι λέγοντα ἡ μέθη αὐτὸν κατέλιπεν. Ταῦτά μοι κατὰ τὸν Μῶμον εἰς ἐμαυτὸν ἀπεσκώφθω, καὶ μὰ τὸν Δί’ οὐκ ἂν ἔτι ἐπαγάγοιμι τὸ ἐπιμύθιον· ὁρᾶτε γὰρ ἤδη καθ’ ὅ τι τῷ μύθῳ ἔοικα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "Bacch 8",
+      "text": "ὥστε ἢν μέν τι παραπαίωμεν, ἡ μέθη αἰτία· εἰ δὲ πινυτὰ δόξειε τὰ λεγόμενα, ὁ Σιληνὸς ἄρα ἦν ἵλεως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "pfk-ag",
+      "title": {
+        "english": "Alexander Or The False Prophet",
+        "ancient_greek": "Ἀλέξανδρος ἢ Ψευδόμαντις"
+      },
+      "url_slug": "lucian-of-samosata-false-prophet-pfk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/false-prophet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/false-prophet.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-am",
+      "title": {
+        "english": "Anacharsis Or-Gymnasia",
+        "ancient_greek": "Ἀνάχαρσις ἢ Περὶ Γυμνασίων"
+      },
+      "url_slug": "lucian-of-samosata-anacharsis-gymnasia-pfk-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/anacharsis-gymnasia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/anacharsis-gymnasia.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cm",
+      "title": {
+        "english": "Apology",
+        "ancient_greek": "Ἀπολογία"
+      },
+      "url_slug": "lucian-of-samosata-apology-pfk-cm",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/apology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/apology.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-az",
+      "title": {
+        "english": "Assembly of the Gods",
+        "ancient_greek": "Θεῶν Ἐκκλησία"
+      },
+      "url_slug": "lucian-of-samosata-assembly-gods-pfk-az",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/assembly-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/assembly-gods.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ba",
+      "title": {
+        "english": "Charon or Inspectors",
+        "ancient_greek": "Χάρων ἢ Ἐπισκοποῦντες"
+      },
+      "url_slug": "lucian-of-samosata-charon-inspectors-pfk-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/charon-inspectors",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/charon-inspectors.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bd",
+      "title": {
+        "english": "Companion Dialogues",
+        "ancient_greek": "Ἑταιρικοὶ Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-companion-dialogues-pfk-bd",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/companion-dialogues",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/companion-dialogues.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-cn",
+      "title": {
+        "english": "Demonax",
+        "ancient_greek": "Δημώναξ"
+      },
+      "url_slug": "lucian-of-samosata-demonax-pfk-cn",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/demonax",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/demonax.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-an",
+      "title": {
+        "english": "Descent to the Underworld",
+        "ancient_greek": "Κατάπλους"
+      },
+      "url_slug": "lucian-of-samosata-descent-underworld-pfk-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/descent-underworld",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/descent-underworld.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-bj",
+      "title": {
+        "english": "Dialogue to Hesiod",
+        "ancient_greek": "Διάλογος πρὸς Ἡσίοδον"
+      },
+      "url_slug": "lucian-of-samosata-hesiod-pfk-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/hesiod",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/hesiod.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-at",
+      "title": {
+        "english": "Dialogues of the Dead",
+        "ancient_greek": "Νεκρικοὶ Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-dialogues-dead-pfk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dialogues-dead",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-dead.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-au",
+      "title": {
+        "english": "Dialogues of the Gods",
+        "ancient_greek": "Θεῶν Διάλογοι"
+      },
+      "url_slug": "lucian-of-samosata-dialogues-gods-pfk-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dialogues-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dialogues-gods.json"
+      }
+    },
+    {
+      "eul_wid": "pfk-ao",
+      "title": {
+        "english": "Dispute of the Consonants",
+        "ancient_greek": "Κατάπλους ἢ Τύραννος"
+      },
+      "url_slug": "lucian-of-samosata-dispute-consonants-pfk-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/lucian-of-samosata/dispute-consonants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dispute-consonants.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ffu-bc",
+      "title": {
+        "english": "Banker",
+        "ancient_greek": "Τραπεζιτικός"
+      },
+      "url_slug": "isocrates-of-athens-banker-ffu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/banker",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/banker.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-bb",
+      "title": {
+        "english": "Birthday of Apellas",
+        "ancient_greek": "Ἀπελλᾶ γενεθλιακός"
+      },
+      "url_slug": "aristides-the-orator-birthday-apellas-qwm-bb",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/birthday-apellas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/birthday-apellas.json"
+      }
+    },
+    {
+      "eul_wid": "qwm-ad",
+      "title": {
+        "english": "Festival Speech in Cyzicus-the Temple",
+        "ancient_greek": "Πανηγυρικὸς ἐν Κυζίκῳ περὶ τοῦ ναοῦ"
+      },
+      "url_slug": "aristides-the-orator-festival-speech-cyzicus-qwm-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristides-the-orator/festival-speech-cyzicus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristides-the-orator/festival-speech-cyzicus.json"
+      }
+    },
+    {
+      "eul_wid": "nny-aa",
+      "title": {
+        "english": "On Figures in Demosthenes",
+        "ancient_greek": "Περὶ τῶν παρὰ Δημοσθένει σχημάτων"
+      },
+      "url_slug": "tiberius-the-rhetorician-demosthenes-figures-nny-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/tiberius-the-rhetorician/demosthenes-figures",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tiberius-the-rhetorician/demosthenes-figures.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tiberius-the-rhetorician/demosthenes-figures.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tiberius-the-rhetorician/demosthenes-figures.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/tiberius-the-rhetorician/demosthenes-figures.json"
+      }
+    },
+    {
+      "eul_wid": "tjm-aa",
+      "title": {
+        "english": "On the Insoluble Contradictions",
+        "ancient_greek": "Περὶ τῶν ἀλύτων ἀντιθέσεων"
+      },
+      "url_slug": "maximus-of-byzantium-insoluble-contradictions-tjm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maximus-of-byzantium/insoluble-contradictions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium/insoluble-contradictions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium/insoluble-contradictions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium/insoluble-contradictions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maximus-of-byzantium/insoluble-contradictions.json"
+      }
+    },
+    {
+      "eul_wid": "ffu-aw",
+      "title": {
+        "english": "Panegyricus",
+        "ancient_greek": "Πανηγυρικός"
+      },
+      "url_slug": "isocrates-of-athens-panegyric-aw-ffu-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/isocrates-of-athens/panegyric-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/panegyric-aw.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/panegyric-aw.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/panegyric-aw.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/isocrates-of-athens/panegyric-aw.json"
+      }
+    },
+    {
+      "eul_wid": "brc-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "antiphon-the-sophist-testimonies-brc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/antiphon-the-sophist/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/antiphon-the-sophist/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "fsm-aj",
+      "title": {
+        "english": "To Polycles-the Trierarch's Duty",
+        "ancient_greek": "πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος"
+      },
+      "url_slug": "demosthenes-of-athens-polycles-trierarch-fsm-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/demosthenes-of-athens/polycles-trierarch",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/polycles-trierarch.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/polycles-trierarch.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/polycles-trierarch.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/demosthenes-of-athens/polycles-trierarch.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lucian-of-samosata/dionysus",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lucian-of-samosata/dionysus.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

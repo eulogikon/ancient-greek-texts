@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "oss-aa",
+  "eul_aid": "oss",
+  "author_slug": "pseudo-phocylides",
+  "work_slug": "sentences",
+  "url_slug": "pseudo-phocylides-sentences-oss-aa",
+  "author": {
+    "english": "Pseudo-Phocylides ",
+    "ancient_greek": "Ψευδο-Φωκυλίδης ὁ Γνωμολόγος"
+  },
+  "title": {
+    "english": "Sentences",
+    "ancient_greek": "Γνῶμαι"
+  },
+  "seo": {
+    "browser_title": "Ancient Sentences by Pseudo-Phocylides on Eulogikon",
+    "meta_title": "Classical Sentences by Pseudo-Phocylides in Ancient Greek",
+    "meta_description": "The Sentences is a collection of moral maxims attributed to Phocylides. This Hellenistic Jewish text presents ethical teachings in hexameter verse."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Jewish",
+      "href": "/affiliations/jewish"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Sentences of Pseudo-Phocylides is a pseudepigraphic Greek didactic poem comprising 230 hexameter verses, traditionally organized into 41 ethical maxims. Though it bears the name of the archaic poet Phocylides of Miletus, modern scholarship attributes it to an anonymous author, most likely a Hellenistic Jew writing between the 1st century BCE and the 1st century CE. The work presents a comprehensive moral code, systematically addressing piety, justice, social and familial duties, sexual conduct, and economic fairness. Its content is fundamentally derived from Jewish wisdom tradition and the Septuagint, yet it conspicuously omits any explicit references to Jewish law, ritual, or sacred history. This deliberate universalism is interpreted as a strategic effort to render core Jewish ethical teachings palatable and respectable to a broader Greek-speaking audience, including both Diaspora Jews and interested Gentiles. Preserved in full through medieval manuscripts, the poem enjoyed wide circulation for centuries under its false attribution. It was frequently quoted by early Christian writers and employed as an educational text, its Jewish origins remaining unrecognized. Today it is studied as a significant artifact of cultural interchange in the ancient Mediterranean, exemplifying the literary adaptation of religious wisdom for a cosmopolitan Hellenistic milieu.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΦΩΚΥΛΙΔΕΙΑ ΦΩΚΥΛΙΔΟΥ ΓΝΩΜΑΙ Ταῦτα δίκηις’ ὁσίηισι θεοῦ βουλεύματα φαίνει Φωκυλίδης ἀνδρῶν ὁ σοφώτατος ὄλβια δῶρα. μήτε γαμοκλοπέειν μήτ’ ἄρσενα Κύπριν ὀρίνειν μήτε δόλους ῥάπτειν μήθ’ αἵματι χεῖρα μιαίνειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "μὴ πλουτεῖν ἀδίκως, ἀλλ’ ἐξ ὁσίων βιοτεύειν. ἀρκεῖσθαι παρ’ ἑοῖσι καὶ ἀλλοτρίων ἀπέχεσθαι. ψεύδεα μὴ βάζειν, τὰ δ’ ἐτήτυμα πάντ’ ἀγορεύειν. Πρῶτα θεὸν τιμᾶν, μετέπειτα δὲ σεῖο γονῆας. πάντα δίκαια νέμειν, μὴ δὲ κρίσιν ἐς χάριν ἕλκειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "μὴ ῥίψηις πενίην ἀδίκως, μὴ κρῖνε πρόσωπον· ἢν σὺ κακῶς δικάσηις, σὲ θεὸς μετέπειτα δικάσσει. μαρτυρίην ψευδῆ φεύγειν· τὰ δίκαια βραβεύειν. παρθεσίην τηρεῖν, πίστιν δ’ ἐν πᾶσι φυλάσσειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "μέτρα νέμειν τὰ δίκαια, καλὸν δ’ ἐπίμετρον ἁπάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "σταθμὸν μὴ κρούειν ἑτερόζυγον, ἀλλ’ ἴσον ἕλκειν. μὴ δ’ ἐπιορκήσηις μήτ’ ἀγνὼς μήτε ἑκοντί· ψεύδορκον στυγέει θεὸς ἄμβροτος ὅστις ὀμόσσηι. σπέρματα μὴ κλέπτειν· ἐπαράσιμος ὅστις ἕληται. μισθὸν μοχθήσαντι δίδου, μὴ θλῖβε πένητα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "γλώσσηι νοῦν ἐχέμεν, κρυπτὸν λόγον ἐν φρεσὶν ἴσχειν. μήτ’ ἀδικεῖν ἐθέληις μήτ’ οὖν ἀδικοῦντα ἐάσηις. πτωχῶι δ’ εὐθὺ δίδου μὴ δ’ αὔριον ἐλθέμεν εἴπηις· πληρώσει σέο χεῖρ’. ἔλεον χρήιζοντι παράσχου. ἄστεγον εἰς οἶκον δέξαι καὶ τυφλὸν ὁδήγει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "ναυηγοὺς οἴκτιρον, ἐπεὶ πλόος ἐστὶν ἄδηλος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "χεῖρα πεσόντι δίδου, σῶσον δ’ ἀπερίστατον ἄνδρα. Κοινὰ πάθη πάντων· ὁ βίος τροχός· ἄστατος ὄλβος. πλοῦτον ἔχων σὴν χεῖρα πενητεύουσιν ὄρεξον· ὧν σοι ἔδωκε θεός, τούτων χρήιζουσι παράσχου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "ἔστω κοινὸς ἅπας ὁ βίος καὶ ὁμόφρονα πάντα. ⟦ Αἷμα δὲ μὴ φαγέειν, εἰδωλοθύτων ἀπέχεσθαι. ⟧ Τὸ ξίφος ἀμφιβαλοῦ μὴ πρὸς φόνον, ἀλλ’ ἐς ἄμυναν. εἴθε δὲ μὴ χρήιζοις μήτ’ ἔκνομα μήτε δικαίως· ἢν γὰρ ἀποκτείνηις ἐχθρόν, σέο χεῖρα μιαίνεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ἀγροῦ γειτονέοντος ἀπόσχεο μὴ δ’ ἄρ’ ὑπερβῆις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "πάντων μέτρον ἄριστον, ὑπερβασίαι δ’ ἀλεγειναί. ⟦ κτῆσις ὀνήσιμός ἐσθ’ ὁσίων, ἀδίκων δὲ πονηρά. ⟧ μηδέ τιν’ αὐξόμενον καρπὸν λωβήσηι ἀρούρης. Ἔστωσαν δ’ ὁμότιμοι ἐπήλυδες ἐν πολιήταις· πάντες γὰρ πενίης πειρώμεθα τῆς πολυπλάγκτου, χώρης δ’ οὔ τι βέβαιον ἔχει πέδον ἀνθρώποισιν. Ἡ φιλοχρημοσύνη μήτηρ κακότητος ἁπάσης. χρυσὸς ἀεὶ δόλος ἐστὶ καὶ ἄργυρος ἀνθρώποισιν. Χρυσέ, κακῶν ἀρχηγέ, βιοφθόρε, πάντα χαλέπτων, εἴθε σε μὴ θνητοῖσι γενέσθαι πῆμα ποθεινόν· σεῦ γὰρ ἕκητι μάχαι τε λεηλασίαι τε φόνοι τε, ἐχθρὰ δὲ τέκνα γονεῦσιν ἀδελφειοί τε συναίμοις. Μὴ δ’ ἕτερον κεύθηις κραδίηι νόον ἄλλ’ ἀγορεύων, μηδ’ ὡς πετροφυὴς πολύπους κατὰ χῶρον ἀμείβου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "πᾶσιν δ’ ἁπλόος ἴσθι, τὰ δ’ ἐκ ψυχῆς ἀγόρευε. Ὅστις ἑκὼν ἀδικεῖ, κακὸς ἀνήρ· ἢν δ’ ὑπ’ ἀνάγκης, οὐκ ἐρέω τὸ τέλος. βουλὴ δ’ εὐθύνεθ’ ἑκάστου. Μὴ γαυροῦ σοφίηι μήτ’ ἀλκῆι μήτ’ ἐνὶ πλούτωι· εἷς θεός ἐστι σοφὸς δυνατός θ’ ἅμα καὶ πολύολβος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Μὴ δὲ παροιχομένοισι κακοῖς τρύχου τεὸν ἧπαρ· οὐκέτι γὰρ δύναται τὸ τετυγμένον εἶναι ἄτυκτον. Μὴ προπετὴς ἐς χεῖρα, χαλίνου δ’ ἄγριον ὀργήν· πολλάκι γὰρ πλήξας ἀέκων φόνον ἐξετέλεσσεν. Ἔστω κοινὰ πάθη· μηδὲν μέγα μηδ’ ὑπέροπλον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "οὐκ ἀγαθὸν πλεονάζον ἔφυ θνητοῖσιν ὄνειαρ· ἡ πολλὴ δὲ τρυφὴ πρὸς ἀμέτρους ἕλκετ’ ἔρωτας· ὑψαυχεῖ δ’ ὁ πολὺς πλοῦτος καὶ ἐς ὕβριν ἀέξει. θυμὸς ὑπερχόμενος μανίην ὀλοόφρονα τεύχει. ὀργὴ δ’ ἐστὶν ὄρεξις, ὑπερβαίνουσα δὲ μῆνις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "ζῆλος τῶν ἀγαθῶν ἐσθλός, φαύλων δ’ ὑπέρογκος. τόλμα κακῶν ὀλοή, μέγ’ ὀφέλλει δ’ ἐσθλὰ πονεῦντα. σεμνὸς ἔρως ἀρετῆς, ὁ δὲ Κύπριδος αἶσχος ὀφέλλει. ἡδὺς ἄγαν ἄφρων κικλήσκεται ἐν πολιήταις. μέτρωι ἔδειν, μέτρωι δὲ πιεῖν καὶ μυθολογεύειν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "πάντων μέτρον ἄριστον, ὑπερβασίαι δ’ ἀλεγειναί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Μὴ φθονέοις ἀγαθῶν ἑτάροις, μὴ μῶμον ἀνάψηις. ἄφθονοι Οὐρανίδαι καὶ ἐν ἀλλήλοις τελέθουσιν. οὐ φθονέει μήνη πολὺ κρείσσοσιν ἡλίου αὐγαῖς, οὐ χθὼν οὐρανίοις’ ὑψώμασι νέρθεν ἐοῦσα, οὐ ποταμοὶ πελάγεσσιν. ἀεὶ δ’ ὁμόνοιαν ἔχουσιν· εἰ γὰρ ἔρις μακάρεσσιν ἔην, οὐκ ἂν πόλος ἔστη. Σωφροσύνην ἀσκεῖν, αἰσχρῶν δ’ ἔργων ἀπέχεσθαι. μὴ μιμοῦ κακότητα, Δίκηι δ’ ἀπόλειψον ἄμυναν. Πειθὼ μὲν γὰρ ὄνειαρ, Ἔρις δ’ ἔριν ἀντιφυτεύει. μὴ πίστευε τάχιστα, πρὶν ἀτρεκέως πέρας ὄψει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "νικᾶν εὖ ἔρδοντας ἐπὶ πλεόνεσσι καθήκει. Καλὸν ξεινίζειν ταχέως λιταῖσι τραπέζαις ἢ πλείσταις δολίαισι βραδυνούσαις παρὰ καιρόν. Μηδέποτε χρήστης πικρὸς γένηι ἀνδρὶ πένητι. μηδέ τις ὄρνιθας καλιῆς ἅμα πάντας ἑλέσθω, μητέρα δ’ ἐκπρολίποις, ἵν’ ἔχηις πάλι τῆσδε νεοσσούς. Μηδέποτε κρίνειν ἀδαήμονας ἄνδρας ἐάσηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "⟦ μηδὲ δίκην δικάσηις, πρὶν 〈ἂν〉 ἄμφω μῦθον ἀκούσηις. ⟧ τὴν σοφίην σοφὸς εὐθύνει, τέχνας δ’ ὁμότεχνος. οὐ χωρεῖ μεγάλην διδαχὴν ἀδίδακτος ἀκουή· οὐ γὰρ δὴ νοέους’ οἱ μηδέποτ’ ἐσθλὰ μαθόντες. Μὴ δὲ τραπεζοκόρους κόλακας ποιεῖσθαι ἑταίρους· πολλοὶ γὰρ πόσιος καὶ βρώσιός εἰσιν ἑταῖροι καιρὸν θωπεύοντες, ἐπὴν κορέσασθαι ἔχωσιν, ἀχθόμενοι δ’ ὀλίγοις καὶ πολλοῖς πάντες ἄπληστοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(50)",
+      "text": "Λαῶι μὴ πίστευε, πολύτροπός ἐστιν ὅμιλος· λαὸς 〈γὰρ〉 καὶ ὕδωρ καὶ πῦρ ἀκατάσχετα πάντα. Μὴ δὲ μάτην ἐπὶ πῦρ καθίσας μινύθηις φίλον ἦτορ. μέτρα δὲ τεῦχ’ ἔθ’ ἑοῖσι· τὸ γὰρ μέτρον ἐστὶν ἄριστον. γαῖαν ἐπιμοιρᾶσθαι ἀταρχύτοις νεκύεσσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "μὴ τύμβον φθιμένων ἀνορύξηις μηδ’ ἀθέατα δείξηις ἠελίωι καὶ δαιμόνιον χόλον ὄρσηις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "οὐ καλὸν ἁρμονίην ἀναλυέμεν ἀνθρώποιο· καὶ τάχα δ’ ἐκ γαίης ἐλπίζομεν ἐς φάος ἐλθεῖν λείψαν’ ἀποιχομένων· ὀπίσω δὲ θεοὶ τελέθονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "ψυχαὶ γὰρ μίμνουσιν ἀκήριοι ἐν φθιμένοισιν. πνεῦμα γάρ ἐστι θεοῦ χρῆσις θνητοῖσι καὶ εἰκών· σῶμα γὰρ ἐκ γαίης ἔχομεν κἄπειτα πρὸς αὖ γῆν λυόμενοι κόνις ἐσμέν· ἀὴρ δ’ ἀνὰ πνεῦμα δέδεκται. Πλουτῶν μὴ φείδου· μέμνης’ ὅτι θνητὸς ὑπάρχεις· οὐκ ἔνι εἰς Ἅιδην ὄλβον καὶ χρήματ’ ἄγεσθαι. πάντες ἴσον νέκυες, ψυχῶν δὲ θεὸς βασιλεύει. κοινὰ μέλαθρα δόμων αἰώνια καὶ πατρὶς Ἅιδης, ξυνὸς χῶρος ἅπασι, πένησί τε καὶ βασιλεῦσιν. οὐ πολὺν ἄνθρωποι ζῶμεν χρόνον, ἀλλ’ ἐπίκαιρον· ψυχὴ δ’ ἀθάνατος καὶ ἀγήρως ζῆι διὰ παντός. ⟦ οὐδεὶς γινώσκει, τί μετ’ αὔριον ἢ τί μεθ’ ὥραν. ἄσκοπός ἐστι βροτῶν θάνατος, τὸ δὲ μέλλον ἄδηλον. ⟧ Μήτε κακοῖς’ ἄχθου μήτ’ οὖν ἐπαγάλλεο χάρμηι· πολλάκις ἐν βιότωι καὶ θαρσαλέοισιν ἄπιστον πῆμα καὶ ἀχθομένοισι κακοῦ λύσις ἤλυθεν ἄφνω. καιρῶι λατρεύειν, μὴ δ’ ἀντιπνέειν ἀνέμοισιν. Μὴ μεγαληγορίηι τρυφῶν φρένα λυσσωθείης. εὐεπίην ἀσκεῖν, ἥτις μάλα πάντας ὀνήσει. ὅπλον τοι λόγος ἀνδρὶ τομώτερόν ἐστι σιδήρου· ὅπλον ἑκάστωι νεῖμε θεός, φύσιν ἠερόφοιτον ὄρνισιν, πώλοις ταχυτῆτ’, ἀλκήν τε λέουσιν, ταύρους δ’ αὐτοχύτως κέρα ἕσσεν, κέντρα μελίσσαις ἔμφυτον ἄλκαρ ἔδωκε, λόγον δ’ ἔρυμ’ ἀνθρώποισιν. ⟦ τῆς δὲ θεοπνεύστου σοφίης λόγος ἐστὶν ἄριστος. ⟧ βέλτερος ἀλκήεντος ἔφυ σεσοφισμένος ἀνήρ· ἀγροὺς καὶ πόλιας σοφίη καὶ νῆα κυβερνᾶι. Οὐχ ὅσιον κρύπτειν τὸν ἀτάσθαλον ἄνδρ’ ἀνέλεγκτον, ἀλλὰ χρὴ κακοεργὸν ἀποτρωπᾶσθαι ἀνάγκηι. πολλάκι συνθνήισκουσι κακοῖς’ οἱ συμπαρεόντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "Φωρῶν μὴ δέξηι κλοπίμην ἄδικον παραθήκην· ἀμφότεροι κλῶπες, καὶ ὁ δεξάμενος καὶ ὁ κλέψας. Μοίρας πᾶσι νέμειν, ἰσότης δ’ ἐν πᾶσιν ἄριστον. ἀρχόμενος φείδου πάντων, μὴ τέρμ’ ἐπιδεύηις. μὴ κτήνους θνητοῖο βορὴν κατὰ μέτρον ἕληαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "κτῆνος δ’ ἢν ἐχθροῖο πέσηι καθ’ ὁδόν, συνέγειρε. πλαζόμενον δὲ βροτὸν καὶ ἀλίτροπον οὔποτ’ ἐλέγξεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "βέλτερον ἀντ’ ἐχθροῦ τεύχειν φίλον εὐμενέοντα. Ἀρχόμενον τὸ κακὸν κόπτειν ἕλκος τ’ ἀκέσασθαι. ⟦ ἐξ ὀλίγου σπινθῆρος ἀθέσφατος αἴθεται ὕλη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(100)",
+      "text": "Ἐγκρατὲς ἦτορ ἔχειν, καὶ λωβητῶν δ’ ἀπέχεσθαι. φεῦγε κακὴν φήμην, φεῦγ’ ἀνθρώπους ἀθεμίστους. ⟧ Μὴ δέ τι θηρόβορον δαίσηι κρέας, ἀργίποσιν δέ λείψανα λεῖπε κυσίν· θηρῶν ἄπο θῆρες ἔδονται. Φάρμακα μὴ τεύχειν, μαγικῶν βίβλων ἀπέχεσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "Νηπιάχοις ἀταλοῖς μὴ ἅψηι χεῖρα βιαίως. Φεῦγε διχοστασίην καὶ ἔριν πολέμου προσιόντος. Μὴ κακὸν εὖ ἔρξηις· σπείρειν ἴσον ἔστ’ ἐνὶ πόντωι. Ἐργάζευ μοχθῶν, ὡς ἐξ ἰδίων βιοτεύσηις· πᾶς γὰρ ἀεργὸς ἀνὴρ ζώει κλοπίμων ἀπὸ χειρῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "⟦ τέχνη 〈γὰρ〉 τρέφει ἄνδρα, ἀεργὸν δ’ ἴψατο λιμός. ⟧ μὴ δ’ ἄλλου παρὰ δαιτὸς ἔδοις σκυβάλισμα τραπέζης, ἀλλ’ ἀπὸ τῶν ἰδίων μισθῶν φαγέοις ἀνυβρίστως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "εἰ δέ τις οὐ δεδάηκε τέχνης, σκάπτοιτο δικέλληι. ἔστι βίωι πᾶν ἔργον, ἐπὴν μοχθεῖν ἐθέλησθα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "ναυτίλος εἰ πλώειν ἐθέλεις, εὐρεῖα θάλασσα· εἰ δὲ γεηπονίην μεθέπειν, μακραί τοι ἄρουραι. οὐδὲν ἄνευ καμάτου πέλει ἀνδράσιν εὐπετὲς ἔργον οὐδ’ αὐτοῖς μακάρεσσι· πόνος δ’ ἀρετὴν μέγ’ ὀφέλλει. μύρμηκες γαίης μυχάτους προλελοιπότες οἴκους ἔρχονται βιότου κεχρημένοι, ὁππότ’ ἄρουραι λήια κειράμεναι καρπῶν πλήθωσιν ἀλωάς. οἱ δ’ αὐτοὶ πυροῖο νεοτριβὲς ἄχθος ἔχουσιν ἢ κριθῶν, αἰεὶ δὲ φέρων φορέοντα διώκει, ἐκ θέρεος ποτὶ χεῖμα βορὴν σφετέρην ἐπάγοντες ἄτρυτοι· φῦλον δ’ ὀλίγον τελέθει πολύμοχθον. κάμνει δ’ ἠεροφοῖτις ἀριστοπόνος τε μέλισσα ἠὲ πέτρης κοίλης κατὰ χηραμὸν ἢ δονάκεσσιν ἢ δρυὸς ὠγυγίης κατὰ κοιλάδος ἔνδοθι σίμβλων σμήνεσι μυριότρητα κατ’ ἄγγεα κηροδομοῦσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "Μὴ μείνηις ἄγαμος, μή πως νώνυμνος ὄληαι· δός τι φύσει καὐτός, τέκε δ’ ἔμπαλιν, ὡς ἐλοχεύθης. Μὴ προαγωγεύσηις ἄλοχον σέο τέκνα μιαίνων· οὐ γὰρ τίκτει παῖδας ὁμοίους μοιχικὰ λέκτρα. μητρυιῆς μὴ ψαῦε τὰ δεύτερα λέκτρα γονῆος· μητέρα δ’ ὣς τίμα τὴν μητέρος ἴχνια βᾶσαν. μηδέ τι παλλακίσιν πατρὸς λεχέεσσι μιγείης. μηδὲ κασιγνήτης ἐς ἀπότροπον ἐλθέμεν εὐνήν. μηδὲ κασιγνήτων ἀλόχων ἐπὶ δέμνια βαίνειν. μηδὲ γυνὴ φθείρηι βρέφος ἔμβρυον ἔνδοθι γαστρός, μηδὲ τεκοῦσα κυσὶν ῥίψηι καὶ γυψὶν ἕλωρα. μηδ’ ἐπὶ σῆι ἀλόχωι ἐγκύμονι χεῖρα βάληαι. μηδ’ αὖ παιδογόνον τέμνειν φύσιν ἄρσενα κούρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "μηδ’ ἀλόγοις ζώιοισι βατήριον ἐς λέχος ἐλθεῖν. μηδ’ ὕβριζε γυναῖκα ἐπ’ αἰσχυντοῖς λεχέεσσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(150)",
+      "text": "μὴ παραβῆις εὐνὰς φύσεως ἐς Κύπριν ἄθεσμον· οὐδ’ αὐτοῖς θήρεσσι συνεύαδον ἄρσενες εὐναί. μηδέ τι θηλύτεραι λέχος ἀνδρῶν μιμήσαιντο. μηδ’ ἐς ἔρωτα γυναικὸς ἅπας ῥεύσηις ἀκάθεκτον· οὐ γὰρ ἔρως θεός ἐστι, πάθος δ’ ἀίδηλον ἁπάντων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "Στέργε τεὴν ἄλοχον· τί γὰρ ἡδύτερον καὶ ἄρειον, ἢ ὅταν ἀνδρὶ γυνὴ φρονέηι φίλα γήραος ἄχρις καὶ πόσις ἧι ἀλόχωι, μηδ’ ἐμπέσηι ἄνδιχα νεῖκος; Μὴ δέ τις ἀμνήστευτα βίηι κούρηισι μιγείη. Μὴ δὲ γυναῖκα κακὴν πολυχρήματον οἴκαδ’ ἄγεσθαι· λατρεύσεις ἀλόχωι λυγρῆς χάριν εἵνεκα φερνῆς. ἵππους εὐγενέας διζήμεθα γειαρότας τε ταύρους ὑψιτένοντας, ἀτὰρ σκυλάκων πανάριστον· γῆμαι δ’ οὐκ ἀγαθὴν ἐριδαίνομεν ἀφρονέοντες. οὐ δὲ γυνὴ κακὸν ἄνδρ’ ἀπαναίνεται ἀφνεὸν ὄντα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "μηδὲ γάμωι γάμον ἄλλον ἄγοις ἔπι, πήματι πῆμα. μηδ’ ἀμφὶ κτεάνων συνομαίμοσιν εἰς ἔριν ἔλθηις. Παισὶν μὴ χαλέπαινε τεοῖς’, ἀλλ’ ἤπιος εἴης. ἢν δέ τι παῖς ἀλίτηι σε, κολουέτω υἱέα μήτηρ ἢ καὶ πρεσβύτατοι γενεῆς ἢ δημογέροντες.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "Μὴ μὲν ἐπ’ ἄρσενι παιδὶ τρέφειν πλοκάμους ἐπὶ χαίτης. μὴ κορυφὴν πλέξηις μήθ’ ἅμματα λοξὰ κορύμβων. ἄρσεσιν οὐκ ἐπέοικε κομᾶν, χλιδαναῖς δὲ γυναιξίν. Παιδὸς δ’ εὐμόρφου φρουρεῖν νεοτήσιον ὥρην· πολλοὶ γὰρ λυσσῶσι πρὸς ἄρσενα μεῖξιν ἔρωτος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "παρθενικὴν δὲ φύλασσε πολυκλείστοις θαλάμοισιν, μὴ δέ μιν ἄχρι γάμων πρὸ δόμων ὀφθῆμεν ἐάσηις. κάλλος δυστήρητον ἔφυ παίδων τοκέεσσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "⟦ Στέργε φίλους ἄχρις θανάτου· πίστις γὰρ ἀμείνων. ⟧ Συγγενέσιν φιλότητα νέμοις ὁσίην θ’ ὁμόνοιαν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "αἰδεῖσθαι πολιοκροτάφους, εἴκειν δὲ γέρουσιν ἕδρης καὶ γεράων πάντων· γενεῆι δ’ ἀτάλαντον πρέσβυν ὁμήλικα πατρὸς ἴσαις τιμαῖσι γέραιρε. Γαστρὸς ὀφειλόμενον δασμὸν παρέχειν θεράποντι. δούλωι τακτὰ νέμοις, ἵνα τοι καταθύμιος εἴη.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "(200)",
+      "text": "στίγματα μὴ γράψηις ἐπονειδίζων θεράποντα. δοῦλον μὴ βλάψηις τι κακηγορέων παρ’ ἄνακτι. λάμβανε καὶ βουλὴν παρὰ οἰκέτου εὖ φρονέοντος. Ἁγνείη ψυχῆς, οὐ σώματός εἰσι καθαρμοί. Ταῦτα δικαιοσύνης μυστήρια, τοῖα βιεῦντες ζωὴν ἐκτελέοιτ’ ἀγαθὴν μέχρι γήραος οὐδοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "cqw-ab",
+      "title": {
+        "english": "Canon of Polykleitos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "polykleitos-of-argos-canon-of-polykleitos-cqw-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/polykleitos-of-argos/canon-of-polykleitos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/canon-of-polykleitos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/canon-of-polykleitos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/canon-of-polykleitos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/polykleitos-of-argos/canon-of-polykleitos.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-at",
+      "title": {
+        "english": "Cratylus",
+        "ancient_greek": "Κρατύλος"
+      },
+      "url_slug": "plato-cratylus-ffk-at",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/cratylus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/cratylus.json"
+      }
+    },
+    {
+      "eul_wid": "rye-ay",
+      "title": {
+        "english": "Embassy to Emperor Theodosius",
+        "ancient_greek": "Πρεσβευτικὸς εἰς Θεοδόσιον αὐτοκράτορα"
+      },
+      "url_slug": "themistius-embassy-theodosius-rye-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/embassy-theodosius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/embassy-theodosius.json"
+      }
+    },
+    {
+      "eul_wid": "lfo-aa",
+      "title": {
+        "english": "Fragments on the Nature of Wisdom",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σοφίας"
+      },
+      "url_slug": "aristocles-of-messene-nature-wisdom-lfo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristocles-of-messene/nature-wisdom",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristocles-of-messene/nature-wisdom.json"
+      }
+    },
+    {
+      "eul_wid": "iso-ah",
+      "title": {
+        "english": "Lyric Poems",
+        "ancient_greek": "Λυρικὰ Ποιήματα"
+      },
+      "url_slug": "callimachus-of-cyrene-lyric-poems-iso-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/callimachus-of-cyrene/lyric-poems",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/callimachus-of-cyrene/lyric-poems.json"
+      }
+    },
+    {
+      "eul_wid": "hgw-bx",
+      "title": {
+        "english": "On Plants",
+        "ancient_greek": "Περὶ φυτῶν"
+      },
+      "url_slug": "aristotle-plants-hgw-bx",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/plants",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/plants.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bn",
+      "title": {
+        "english": "Philopolis",
+        "ancient_greek": "〈Φ〉ιλόπολις"
+      },
+      "url_slug": "themistius-philopolis-rye-bn",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/philopolis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/philopolis.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ed",
+      "title": {
+        "english": "To Colotes",
+        "ancient_greek": "Πρὸς Κωλώτην"
+      },
+      "url_slug": "plutarch-of-chaeronea-colotes-okg-ed",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/colotes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/colotes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/colotes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/colotes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/colotes.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pseudo-phocylides/sentences",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides/sentences.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides/sentences.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides/sentences.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-phocylides/sentences.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

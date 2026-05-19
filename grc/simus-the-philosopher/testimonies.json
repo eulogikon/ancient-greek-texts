@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gcc-aa",
+  "eul_aid": "gcc",
+  "author_slug": "simus-the-philosopher",
+  "work_slug": "testimonies",
+  "url_slug": "simus-the-philosopher-testimonies-gcc-aa",
+  "author": {
+    "english": "Simus the Philosopher",
+    "ancient_greek": "Σίμος"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Simus the Philosopher on Eulogikon Archive",
+    "meta_title": "Testimonies by Simus the Philosopher in Ancient Greek",
+    "meta_description": "Testimonies is a philosophical collection attributed to Simus the Philosopher. Read free and download the original ancient Greek text at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Φιλοσοφική Ἀττική",
+      "english": "Attic Philosophical",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The philosophical work <strong>Testimonies</strong> is attributed to Simus the Philosopher. It is documented only as a collection consisting of three brief passages, unattested in major scholarly references and digital repositories of classical texts. No description of the work’s specific philosophical content or the nature of its testimonies survives in established academic sources. The transmission history is entirely undocumented, with the provenance and medium of the three cited passages remaining unspecified. Due to the absence of corroborating evidence from authoritative sources, the work and its author remain unverifiable and cannot be placed within any known philosophical tradition or historical context.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "IAMBL. V. P. 267 p. 191, 8 N. Ποσειδωνιᾶται Ἀθάμας, Σῖμος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "PORPHYR. V. P. 3 τοῦτο δ’ ἀνελόντα[?] Σῖμον τὸν ἁρμονικὸν καὶ τὸν κανόνα σφετερισάμενον ἐξενεγκεῖν ὡς ἴδιον· εἶναι μὲν οὖν ἑπτὰ τὰς ἀναγεγραμμένας σοφίας, διὰ δὲ τὴν μίαν, ἢν Σῖμος ὑφείλετο, συναφανισθῆναι καὶ τὰς ἄλλας τὰς ἐν τῶι ἀναθήματι γεγραμμένας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "IAMBL. in Nic. p. 116, 1 Pistelli εἴρηται καὶ περὶ τῶν ἑξῆς ταῖς πρώταις τριῶν μεσοτήτων, αἷς καὶ αἱ ἀπὸ Πλάτωνος μέχρις Ἐρατοσθένους ἐχρήσαντο, ἄρξαντος ὡς ἔφαμεν τῆς εὑρέσεως αὐτῶν Ἀρχύτα [47 B 2] καὶ Ἱππάσου [c. 18, 15] τῶν μαθηματικῶν. τὰς δ’ ὑπὸ τῶν μετὰ ταῦτα νεωτέρων περί τε Μυωνίδην καὶ Εὐφράνορα τοὺς Πυθαγορικοὺς προφιλοτεχνηθείσας τέσσαρας οὔτε παραλείπειν ἄξιον κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "ega-ab",
+      "title": {
+        "english": "Fragments on Philosophers",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φιλοσόφων"
+      },
+      "url_slug": "speusippus-of-athens-philosophers-ega-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/speusippus-of-athens/philosophers",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/speusippus-of-athens/philosophers.json"
+      }
+    },
+    {
+      "eul_wid": "ljk-af",
+      "title": {
+        "english": "From the Metaphysics",
+        "ancient_greek": "Ἐκ τῶν μετὰ τὰ φυσικά"
+      },
+      "url_slug": "theophrastus-of-eresus-metaphysics-ljk-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophrastus-of-eresus/metaphysics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/metaphysics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/metaphysics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/metaphysics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophrastus-of-eresus/metaphysics.json"
+      }
+    },
+    {
+      "eul_wid": "peg-aa",
+      "title": {
+        "english": "On Sensation and Nature",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "diogenes-of-oenoanda-sensation-nature-peg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/diogenes-of-oenoanda/sensation-nature",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda/sensation-nature.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda/sensation-nature.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda/sensation-nature.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/diogenes-of-oenoanda/sensation-nature.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-bg",
+      "title": {
+        "english": "On Special Laws",
+        "ancient_greek": "Περὶ τῶν Εἰδικῶν Νόμων"
+      },
+      "url_slug": "philo-of-alexandria-special-laws-lgi-bg",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/special-laws",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/special-laws.json"
+      }
+    },
+    {
+      "eul_wid": "rye-aa",
+      "title": {
+        "english": "Oration to Emperor Constantius on the Philosopher King",
+        "ancient_greek": "Εἰς Κωνστάντιον τὸν αὐτοκράτορα, ὅτι μάλιστα"
+      },
+      "url_slug": "themistius-oration-constantius-philosopher-king-rye-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/oration-constantius-philosopher-king",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/oration-constantius-philosopher-king.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-bc",
+      "title": {
+        "english": "Plato's Political Letters",
+        "ancient_greek": "Ἐπιστολαί"
+      },
+      "url_slug": "plato-political-letters-ffk-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/political-letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/political-letters.json"
+      }
+    },
+    {
+      "eul_wid": "bmm-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "cratylus-the-heraclitean-testimonies-bmm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratylus-the-heraclitean/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratylus-the-heraclitean/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ev",
+      "title": {
+        "english": "Timoleon",
+        "ancient_greek": "Τιμολέων"
+      },
+      "url_slug": "plutarch-of-chaeronea-timoleon-okg-ev",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/timoleon",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/timoleon.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/simus-the-philosopher/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

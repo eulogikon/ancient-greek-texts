@@ -1,0 +1,265 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "soi-af",
+  "eul_aid": "soi",
+  "author_slug": "oribasius-of-pergamon",
+  "work_slug": "testimonies",
+  "url_slug": "oribasius-of-pergamon-testimonies-soi-af",
+  "author": {
+    "english": "Oribasius of Pergamon",
+    "ancient_greek": "Ὀρειβάσιος ὁ Περγαμηνός"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Ancient Testimonies by Oribasius of Pergamon on Eulogikon",
+    "meta_title": "Testimonies by Oribasius of Pergamon in Ancient Greek",
+    "meta_description": "Oribasius of Pergamon's medical teachings survive through testimonies recorded by later ancient authors. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a minor medical work attributed to the fourth-century Greek physician Oribasius of Pergamon. It survives only as a single fragment, preserved within the sixth-century medical compilation of Aëtius of Amida. This surviving passage describes a practical treatment for gout involving a plaster made from hemlock and other ingredients. The work is a small collection of medical observations, consistent with Oribasius&#x27;s larger commission from Emperor Julian to compile and preserve Greek medical knowledge. While his major works were extensive encyclopedias, the <strong>Testimonies</strong> represents a more concise set of therapeutic notes. Its complete loss as an independent text and its transmission solely through a later compilation exemplify the common fate of such minor practical works in late antiquity, highlighting the methods by which empirical medical knowledge was curated and passed down.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "0722 010.2b,221,T.1",
+      "text": "EUNAPIOS EX. DE SENTENT. p. 76, 29 Boiss: ὁ δὲ ἐς τὰ μάλιστα γεγονὼς αὐτῶι (sc. Ἰουλιανῶι) γνώριμος, ὁ Περγαμηνὸς ἀνὴρ Ὀριβάσιος, ἐκ φυσικῆς φιλοσοφίας ἰατρικὴν ἐπιτάττειν ἄριστος καὶ δρᾶν ἔτι θειότερος καὶ ἀσεβήσειν ἐβόα περιφανῶς, εἰ μὴ συγγράφοιμι· καὶ τῶν γε πράξεων—πάσας δὲ ἠπίστατο παρὼν ἁπάσαις—μάλα ἀκριβῶς ὑπόμνημα συνετέλει πρὸς τὴν γραφήν, ὥστε οὐκ ἦν ἀναβολὴ καὶ βουλομένωι ῥαθυμεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "soi-ae",
+      "title": {
+        "english": "Books to Eunapius",
+        "ancient_greek": "Βιβλία πρὸς Εὐνάπιον"
+      },
+      "url_slug": "oribasius-of-pergamon-eunapius-soi-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/eunapius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/eunapius.json"
+      }
+    },
+    {
+      "eul_wid": "soi-aa",
+      "title": {
+        "english": "Medical Collections, Books 1–16, 24–25, 43–50",
+        "ancient_greek": "Ἰατρικαὶ Συλλογαί"
+      },
+      "url_slug": "oribasius-of-pergamon-medical-collections-aa-soi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-aa.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ab",
+      "title": {
+        "english": "Medical Collections, Uncertain Books",
+        "ancient_greek": "Ἰατρικαὶ Συλλογαί"
+      },
+      "url_slug": "oribasius-of-pergamon-medical-collections-ab-soi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medical-collections-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medical-collections-ab.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ad",
+      "title": {
+        "english": "Selections of Medicines",
+        "ancient_greek": "Ἐπιλογαὶ Φαρμάκων"
+      },
+      "url_slug": "oribasius-of-pergamon-medicinal-selections-soi-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/medicinal-selections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/medicinal-selections.json"
+      }
+    },
+    {
+      "eul_wid": "soi-ac",
+      "title": {
+        "english": "Summary to Eustathius the Son",
+        "ancient_greek": "Σύνοψις πρὸς Εὐστάθιον τὸν Υἱόν"
+      },
+      "url_slug": "oribasius-of-pergamon-summary-eustathius-soi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/oribasius-of-pergamon/summary-eustathius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/summary-eustathius.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vwc-aa",
+      "title": {
+        "english": "Commentaries-Hippocrates' Book-the Nature of the Child",
+        "ancient_greek": "Ὑπομνήματα εἰς τὸ Βιβλίον περὶ Φύσεως Παίδων"
+      },
+      "url_slug": "john-of-alexandria-nature-child-vwc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-of-alexandria/nature-child",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-alexandria/nature-child.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-alexandria/nature-child.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-alexandria/nature-child.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-of-alexandria/nature-child.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-aj",
+      "title": {
+        "english": "Medical Book VI",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον Ϛʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-6-vhc-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-6.json"
+      }
+    },
+    {
+      "eul_wid": "hai-aa",
+      "title": {
+        "english": "Medical Oath",
+        "ancient_greek": "Ὅρκος Ἰατρικός"
+      },
+      "url_slug": "hippocratic-oath-anon-medical-hai-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocratic-oath-anon/medical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.json"
+      }
+    },
+    {
+      "eul_wid": "nys-aa",
+      "title": {
+        "english": "On Animals That Emit Venom, Including the Rabid Dog",
+        "ancient_greek": "Περὶ τῶν ζῴων τῶν δηλητηριωδῶν"
+      },
+      "url_slug": "pseudo-dioscorides-venomous-animals-rabid-dog-nys-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-dioscorides/venomous-animals-rabid-dog",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-dioscorides/venomous-animals-rabid-dog.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ec",
+      "title": {
+        "english": "On Crises",
+        "ancient_greek": "Περὶ κρίσεων"
+      },
+      "url_slug": "galen-of-pergamon-crises-qmm-ec",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/crises",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/crises.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/crises.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/crises.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/crises.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ch",
+      "title": {
+        "english": "On Hippocrates' Epidemics I",
+        "ancient_greek": "Περὶ Ἱπποκράτους Ἐπιδημιῶν Α'"
+      },
+      "url_slug": "galen-of-pergamon-hippocrates-epidemics-qmm-ch",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/hippocrates-epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/hippocrates-epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "umi-au",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "medical-writers-anonymous-pulses-umi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ab",
+      "title": {
+        "english": "On the Diet of Acute Patients",
+        "ancient_greek": "Περὶ διαίτης τῶν ὀξέων"
+      },
+      "url_slug": "hippocrates-diet-acute-patients-bww-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/diet-acute-patients",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/diet-acute-patients.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/oribasius-of-pergamon/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/oribasius-of-pergamon/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

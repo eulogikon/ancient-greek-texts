@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "egu-aa",
+  "eul_aid": "egu",
+  "author_slug": "thrasybulus",
+  "work_slug": "tyranny-fragments",
+  "url_slug": "thrasybulus-tyranny-fragments-egu-aa",
+  "author": {
+    "english": "Thrasybulus ",
+    "ancient_greek": "Θρασύβουλος"
+  },
+  "title": {
+    "english": "Fragments on Tyranny",
+    "ancient_greek": "Ἀπόσπασμα περὶ Τυραννίδος"
+  },
+  "seo": {
+    "browser_title": "Fragments on Tyranny by Thrasybulus on Eulogikon Archive",
+    "meta_title": "Fragments on Tyranny by Thrasybulus in Ancient Greek",
+    "meta_description": "Surviving fragments of Thrasybulus on tyranny and governance. Ancient Greek political thought. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἐπιστολή",
+      "english": "Epistle",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Tyranny</strong> is a work of uncertain attribution, traditionally ascribed to an author named Thrasybulus. It survives only in two brief passages presented in an epistolary format, with no corroborating evidence from other ancient sources to confirm the existence of a full philosophical treatise by this title or its connection to any known historical figure of that name. The surviving text consists of an allegorical anecdote in which advice on maintaining power is given by demonstrating the cutting down of the tallest stalks in a grain field, a metaphor interpreted as recommending the preemptive removal of prominent citizens. The title suggests a focus on the nature of tyrannical rule, but the work&#x27;s specific arguments beyond this fragmentary parable are undocumented. The manuscript tradition, provenance, and circumstances of the text&#x27;s survival are entirely unknown. Consequently, its historical and philosophical significance remains indeterminate, with its primary interest residing in its status as an obscure and unverified entry within the broader corpus of Greek political thought.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Περιάνδρῳ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Τῷ μὲν κήρυκί σευ οὐδὲν ὑπεκρινάμην, ἀγαγὼν δὲ αὐτὸν ἐς λήιον τοὺς ὑπερφυέας τῶν ἀσταχύων ῥάβδῳ παίων ἀπεθέριζον ὁμαρτέοντος ἐκείνου. καί σοι ἀναγγελέει εἰ ἐπέροιο ὅ τί μευ ἀκούσειεν ἢ ἴδοι. σὺ δὲ ποίει οὕτως, ἤν γ’ ἐθέλῃς καρτύνασθαι τὴν αἰσυμνητίην. τοὺς ἐξόχους τῶν πολιτέων ἐξαίρειν, ἤν τέ τις ἐχθρός τοι φαίνηται, ἤν τε μή· ὕποπτος γὰρ ἀνδρὶ αἰσυμνήτῃ καὶ τῶν τις ἑτάρων.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [],
+  "links": {
+    "html": "https://eulogikon.org/grc/thrasybulus/tyranny-fragments",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus/tyranny-fragments.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus/tyranny-fragments.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus/tyranny-fragments.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasybulus/tyranny-fragments.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

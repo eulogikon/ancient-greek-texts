@@ -1,0 +1,331 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "iyi-ab",
+  "eul_aid": "iyi",
+  "author_slug": "lynceus-of-samos",
+  "work_slug": "athenian-dining-ab",
+  "url_slug": "lynceus-of-samos-athenian-dining-ab-iyi-ab",
+  "author": {
+    "english": "Lynceus of Samos the Comic Poet",
+    "ancient_greek": "Λύγκευς ὁ Σάμιος"
+  },
+  "title": {
+    "english": "Fragments on Athenian Dining",
+    "ancient_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων"
+  },
+  "seo": {
+    "browser_title": "Fragments on Athenian Dining by Lynceus Samos on Eulogikon",
+    "meta_title": "Fragments on Athenian Dining by Lynceus of Samos in Greek",
+    "meta_description": "Poetic fragments on Athenian dining by comic poet Lynceus of Samos from around 300 BCE. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Fragments on Athenian Dining</strong> comprises a collection of nineteen poetic passages attributed to the Hellenistic comic poet Lynceus of Samos, who was active around 300 BCE. Written in verse employing the Attic Greek dialect, the work offers a humorous and detailed examination of the customs surrounding Athenian dining and drinking parties, known as symposia. The surviving fragments comically document specific foods, wines, tableware, and social etiquette, providing an ethnographic, if satirical, glimpse into Athenian daily life from the perspective of an educated outsider. The text does not survive in a continuous manuscript but is preserved entirely through quotations by later authors, most notably Athenaeus in his <strong>Deipnosophistae</strong>. Modern scholarship interprets the work as part of a broader Hellenistic literary trend that produced specialized, often antiquarian studies of culture. It is believed to have been composed for a literate Greek audience already familiar with Athenian customs, who would appreciate both its precise cataloguing of social rituals and its comedic critique.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[spk_β]Μάγειρ’ ὁ θύων ἔσθ’ ὁ δειπνίζων τ’ ἐμέ Ῥόδιος, ἐγὼ δ’ ὁ κεκλημένος",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "Περίνθιος· οὐδέτερος ἡμῶν ἥδεται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "τοῖς ἀττικοῖς δείπνοις. Β. ἀηδία γάρ ἐστιν ἀττική;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_5][spk_α]Α. ὥσπερ ξενική· παρέθηκε πίνακα γὰρ μέγαν, ἔχοντα μικροὺς πέντε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πινακίσκους ἐν οἷ. τούτων ὁ μὲν ἔχει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "σκόροδον, ὁ δ’ ἐχίνους δύο, ὁ δὲ θρυμματίδα γλυκεῖαν, ὁ δὲ κόγχας δέκα, ὁ δ’ ἀντακαίου μικρόν. ἐν ὅσῳ δ’ ἐσθίω,[ln_10]ἕτερος ἐκεῖν’, ἐν ὅσῳ δ’ ἐκεῖνος, τοῦτ’ ἐγώ ἠφάνισα· βούλομαι δ’ ἐγώ, βέλτιστε σύ, κἀκεῖνο καὶ τοῦτ’, ἀλλ’ ἀδύνατα βούλομαι· οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "στόματα γὰρ οὔτε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "χείλη πέντ’ ἔχω. ὄψιν μὲν οὖν ἔχει τὰ τοιαῦτα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "ποικίλην,",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15][spk_β]ἀλλ’ οὐδέν ἐστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρὸς τὴν γαστέρα· κατέπασα γὰρ τὸ χεῖλος, οὐκ ἐνέπλησα δέ. τί οὖν ἔχεις; Β. ὄστρεια",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πολλά. Α. πίνακα μοι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τούτων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παραθήσεις αὐτὸν ἐφ’ ἑαυτοῦ μέγαν. ἔχεις ἐχίνους; Β. ἕτερος ἔσται",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "σοι πίναξ·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_20][spk_α]αὐτὸς γὰρ αὐτὸν ἐπριάμην ὀκτὼ ’βολῶν. Α. ὀψάριον αὐτὸ τοῦτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παραθήσεις μόνον, ἵνα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ταὐτὰ πάντες, μὴ τὸ μὲν ἐγώ, τὸ δ’ ἕτερος.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "iyi-aa",
+      "title": {
+        "english": "Fragments on Athenian Dining",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀθηναίων Δείπνων"
+      },
+      "url_slug": "lynceus-of-samos-athenian-dining-aa-iyi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/lynceus-of-samos/athenian-dining-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-aa.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "hps-ax",
+      "title": {
+        "english": "Carthaginian",
+        "ancient_greek": "Καρχηδόνιος"
+      },
+      "url_slug": "menander-of-athens-carthaginian-hps-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/carthaginian",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/carthaginian.json"
+      }
+    },
+    {
+      "eul_wid": "efg-aa",
+      "title": {
+        "english": "Comic Fragments on Food and Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Τροφῆς καὶ Εὐωχίας"
+      },
+      "url_slug": "theopompus-the-comic-poet-food-feasting-efg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theopompus-the-comic-poet/food-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theopompus-the-comic-poet/food-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "dum-aa",
+      "title": {
+        "english": "Comic Fragments on Rural Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Ἀγροικοῦ"
+      },
+      "url_slug": "eupolis-of-athens-comic-rural-life-dum-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/comic-rural-life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/comic-rural-life.json"
+      }
+    },
+    {
+      "eul_wid": "efq-ab",
+      "title": {
+        "english": "Fragments on Cinyras and Adonis",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος"
+      },
+      "url_slug": "plato-the-comic-poet-cinyras-adonis-efq-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/cinyras-adonis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/cinyras-adonis.json"
+      }
+    },
+    {
+      "eul_wid": "hgc-aa",
+      "title": {
+        "english": "Fragments on Marriage",
+        "ancient_greek": "Ἀποσπάσματα περὶ Γάμου"
+      },
+      "url_slug": "philippides-the-comic-poet-marriage-fragments-hgc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philippides-the-comic-poet/marriage-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-the-comic-poet/marriage-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-the-comic-poet/marriage-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-the-comic-poet/marriage-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philippides-the-comic-poet/marriage-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "edi-ab",
+      "title": {
+        "english": "Golden Age of Plenty",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "telecleides-the-comic-poet-golden-age-of-plenty-ab-edi-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/telecleides-the-comic-poet/golden-age-of-plenty-ab.json"
+      }
+    },
+    {
+      "eul_wid": "daw-am",
+      "title": {
+        "english": "Knights",
+        "ancient_greek": "Ἱππῆς"
+      },
+      "url_slug": "aristophanes-of-athens-knights-daw-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristophanes-of-athens/knights",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristophanes-of-athens/knights.json"
+      }
+    },
+    {
+      "eul_wid": "hps-au",
+      "title": {
+        "english": "Uncertain Fable",
+        "ancient_greek": "Ἄδηλος Μῦθος"
+      },
+      "url_slug": "menander-of-athens-uncertain-fable-hps-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/uncertain-fable",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/uncertain-fable.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/lynceus-of-samos/athenian-dining-ab",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-ab.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-ab.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-ab.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/lynceus-of-samos/athenian-dining-ab.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

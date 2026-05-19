@@ -1,0 +1,189 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "uic-aa",
+  "eul_aid": "uic",
+  "author_slug": "pectorius-epitaph",
+  "work_slug": "text",
+  "url_slug": "pectorius-epitaph-text-uic-aa",
+  "author": {
+    "english": "Pectorius Epitaph Anonymous",
+    "ancient_greek": "Ἐπιτάφιος τοῦ Πεκτορίου"
+  },
+  "title": {
+    "english": "Epitaph",
+    "ancient_greek": "Ἐπιτάφιον"
+  },
+  "seo": {
+    "browser_title": "Epitaph by Pectorius Epitaph Anonymous on Eulogikon",
+    "meta_title": "Ancient Epitaph by Pectorius Epitaph Anonymous in Greek",
+    "meta_description": "The Epitaph of Pectorius is an early Christian Greek verse inscription using ichthys symbolism. This poetic funerary text reflects early Christian beliefs."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ Χριστιανική",
+      "english": "Christian Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Epitaph of Pectorius is an early Christian funerary poem composed in Greek hexameter verse. It is preserved on a stone discovered in Autun, France, in 1839, which dates from approximately the third or fourth century CE. Although the inscription bears the name Pectorius, the author remains effectively anonymous. The work exemplifies how Christian communities in the Roman provinces began to articulate their faith publicly through established cultural mediums such as metrical epigraphy.</p>\n<p class=\"research-text\">The poem directly addresses the deceased with consolatory promises of eternal life, employing a rich tapestry of Christian sacramental symbolism. It speaks of partaking in &quot;the honey-sweet food of the Savior,&quot; an allusion to the Eucharist, and of drinking from &quot;inexhaustible waters,&quot; imagery associated with baptism. Its most notable feature is the invocation of the &quot;Divine Race of the Heavenly Fish,&quot; a clear reference to the Ichthys symbol. This fish acrostic served as an early cryptogram for the Greek phrase meaning &quot;Jesus Christ, Son of God, Savior.&quot; The public and permanent nature of this inscribed monument is interpreted by scholars as evidence of a growing confidence and institutional presence of Christian identity in Roman Gaul, likely from a period following the most intense phases of persecution.</p>\n<p class=\"research-text\">The poem survives solely through this singular archaeological artifact, as it was not transmitted through medieval manuscript tradition. The inscribed stone, which contains the complete text, is housed in the Rolin Museum in Autun. It provides a direct material witness to the beliefs, poetic expression, and devotional practices of an early Christian community on the frontiers of the Roman Empire.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ἰχθύος ο〈ὐρανίου θε〉ῖον γένος ἤτορι σεμνῷ Χρῆσε, λαβὼ〈ν πηγὴ〉ν ἄμβροτον ἐν βροτέοις Θεσπεσίων ὑδάτ〈ω〉ν. τὴν σὴν, φίλε, θάλπεο ψυχ〈ὴν〉 Ὕδασιν ἀενάοις πλουτοδότου σοφίης. Σωτῆρος ἁγίων μελιηδέα λάμβαν〈ε βρῶσιν〉, Ἔσθιε πινάων ἰχθὺν ἔχων παλάμαις. Ἰχθύι χό〈ρταζ’〉 ἆρα, λιλαίω, δέσποτα σῶτερ. Εὖ εὕδοι μ〈ή〉τηρ, σὲ λιτάζομε, φῶς τὸ θανόντων. Ἀσχάνδιε 〈πάτ〉ερ, τὠμῷ κε〈χα〉ρισμένε θυμῷ, Σὺν μ〈ητρὶ γλυκερῇ καὶ ἀδελφει〉οῖσιν ἐμοῖσιν, Ἰ〈χθύος εἰρήνῃ σέο〉 μνήσεο Πεκτορίουο.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "dgg-aa",
+      "title": {
+        "english": "Anonymous Fragments from Authors",
+        "ancient_greek": "Ἀνώνυμα Ἀποσπάσματα ἐκ Συγγραφέων"
+      },
+      "url_slug": "greek-lyric-fragments-anonymous-fragments-dgg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-lyric-fragments-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-lyric-fragments-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "ajg-aa",
+      "title": {
+        "english": "Anthology, Volume V",
+        "ancient_greek": "Ἀνθολογία"
+      },
+      "url_slug": "greek-anthology-volume-5-ajg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/greek-anthology/volume-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/greek-anthology/volume-5.json"
+      }
+    },
+    {
+      "eul_wid": "ahs-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "dorieus-of-sparta-epigram-ahs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dorieus-of-sparta/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dorieus-of-sparta/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "asc-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "cleobulus-of-lindos-ii-epigrams-asc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/cleobulus-of-lindos-ii/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cleobulus-of-lindos-ii/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "gao-aa",
+      "title": {
+        "english": "Fragments on Divine Vision",
+        "ancient_greek": "Ἀποσπάσματα περὶ Θείας Ὄψεως"
+      },
+      "url_slug": "menophilus-the-poet-divine-vision-gao-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menophilus-the-poet/divine-vision",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menophilus-the-poet/divine-vision.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ah",
+      "title": {
+        "english": "Hymn 16 To Asclepius",
+        "ancient_greek": "Ὕμνος εἰς Ἀσκληπιόν"
+      },
+      "url_slug": "homeric-hymns-anonymous-asclepius-upu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ax",
+      "title": {
+        "english": "Hymn 32 To Selene",
+        "ancient_greek": "Ὕμνος πρὸς Σελήνην"
+      },
+      "url_slug": "homeric-hymns-anonymous-selene-upu-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/selene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/selene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/selene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/selene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/selene.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ah",
+      "title": {
+        "english": "Prosody Fragments",
+        "ancient_greek": "Ἀποσπάσματα Πρὸς τὴν Προσωδίαν"
+      },
+      "url_slug": "bacchylides-of-ceos-prosody-brw-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/prosody",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/prosody.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/pectorius-epitaph/text",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pectorius-epitaph/text.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

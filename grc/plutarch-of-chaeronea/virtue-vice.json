@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "okg-cy",
+  "eul_aid": "okg",
+  "author_slug": "plutarch-of-chaeronea",
+  "work_slug": "virtue-vice",
+  "url_slug": "plutarch-of-chaeronea-virtue-vice-okg-cy",
+  "author": {
+    "english": "Plutarch of Chaeronea",
+    "ancient_greek": "Πλούταρχος ὁ Χαιρωνεύς"
+  },
+  "title": {
+    "english": "On Virtue and Vice",
+    "ancient_greek": "Περὶ ἀρετῆς καὶ κακιάς"
+  },
+  "seo": {
+    "browser_title": "Ancient On Virtue and Vice by Plutarch on Eulogikon",
+    "meta_title": "Classical On Virtue and Vice by Plutarch in Ancient Greek",
+    "meta_description": "Plutarch examines virtue and vice through philosophical analogies, exploring how moral excellence and corruption Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττικίζουσα",
+      "english": "Atticizing",
+      "href": "/dialects/atk"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Platonist",
+      "href": "/affiliations/platonist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Virtue and Vice_ is a concise ethical treatise traditionally ascribed to Plutarch of Chaeronea. The work is structured as a series of nine brief passages that present pointed contrasts between specific virtues and vices, such as courage and cowardice, in a didactic and aphoristic style consistent with Plutarch’s broader project of popularizing philosophical ethics for a general audience. It defines and examines opposing pairs of moral qualities, analyzing their inherent characteristics, their effects on the soul, and their consequences for both personal and social life. Its ethical framework is broadly Platonic and Peripatetic, emphasizing virtue as a harmonious mean between extremes. Preserved within the medieval manuscript tradition of Plutarch’s collected _Moralia_, the complete text has been transmitted as an integral part of the Plutarchan corpus, though its authenticity has occasionally been questioned by modern scholars. As a component of the _Moralia_, this treatise contributed to the transmission of core Greek ethical philosophy. Its clear, antithetical structure provided a useful compendium of moral definitions, with its influence subsumed within the broader reception of Plutarch’s ethical writings, which were particularly admired during the Renaissance for their emphasis on practical morality.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΠΕΡΙ ΑΡΕΤΗΣ ΚΑΙ ΚΑΚΙΑΣ Τὰ ἱμάτια δοκεῖ θερμαίνειν τὸν ἄνθρωπον, οὐκ αὐτὰ δήπου θερμαίνοντα καὶ προσβάλλοντα τὴν θερμότητα (καθ’ ἑαυτὸ γὰρ ἕκαστον αὐτῶν ψυχρόν ἐστιν, ᾗ καὶ πολλάκις καυματιζόμενοι καὶ πυρέττοντες ἐξ ἑτέρων ἕτερα μεταλαμβάνουσιν), ἀλλ’ ἣν ὁ ἄνθρωπος ἀναδίδωσιν ἐξ ἑαυτοῦ θερμότητα, ταύτην ἡ ἐσθὴς τῷ σώματι προσπεσοῦσα συνέχει καὶ περιστέλλει, καὶ καθειργνυμένην εἰς τὸ σῶμα οὐκ ἐᾷ πάλιν σκεδάννυσθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100 C",
+      "text": "ταὐτὸ δὴ τοῦτο τοῖς πράγμασιν ὑπάρχον ἐξαπατᾷ τοὺς πολλούς, ὡς, ἂν οἰκίας μεγάλας περιβάλωνται καὶ πλῆθος ἀνδραπόδων καὶ χρημάτων συναγάγωσιν, ἡδέως βιωσομένους. τὸ δ’ ἡδέως ζῆν καὶ ἱλαρῶς οὐκ ἔξωθέν ἐστιν, ἀλλὰ τοὐναντίον ὁ ἄνθρωπος τοῖς περὶ αὑτὸν πράγμασιν ἡδονὴν καὶ χάριν ὥσπερ ἐκ πηγῆς τοῦ ἤθους προστίθησιν. αἰθομένου δὲ πυρὸς γεραρώτερος οἶκος ἰδέσθαι, καὶ πλοῦτος ἡδίων καὶ δόξα λαμπροτέρα καὶ δύναμις, ἂν τὸ ἀπὸ τῆς ψυχῆς ἔχῃ γῆθος· ὅπου καὶ πενίαν καὶ φυγὴν καὶ γῆρας ἐλαφρῶς καὶ προσηνῶς πρὸς εὐκολίαν καὶ πραότητα τρόπου φέρουσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100 D",
+      "text": "Ὡς γὰρ ἀρώματα τρίβωνας εὐώδεις καὶ ῥάκια ποιεῖ, τοῦ δ’ Ἀγχίσου τὸ σῶμα ἰχῶρα πονηρὸν ἐξεδίδου νώτου καταστάζοντα βύσσινον φάρος, οὕτω μετ’ ἀρετῆς καὶ δίαιτα πᾶσα καὶ βίος ἄλυπός ἐστι καὶ ἐπιτερπής, ἡ δὲ κακία καὶ τὰ λαμπρὰ φαινόμενα καὶ πολυτελῆ καὶ σεμνὰ μιγνυμένη λυπηρὰ καὶ ναυτιώδη καὶ δυσπρόσδεκτα παρέχει τοῖς κεκτημένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100 E",
+      "text": "οὗτος μακάριος ἐν ἀγορᾷ νομίζεται· ἐπὰν δ’ ἀνοίξῃ τὰς θύρας, τρισάθλιος, γυνὴ κρατεῖ πάντων, ἐπιτάττει, μάχετ’ ἀεί· καίτοι γυναικὸς οὐ χαλεπῶς ἄν τις ἀπαλλαγείη πονηρᾶς ἀνὴρ ὤν, μὴ ἀνδράποδον· πρὸς δὲ τὴν ἑαυτοῦ κακίαν οὐκ ἔστι γραψάμενον ἀπόλειψιν ἤδη πραγμάτων ἀφεῖσθαι καὶ ἀναπαύεσθαι γενόμενον καθ’ αὑτόν, ἀλλ’ ἀεὶ συνοικοῦσα τοῖς σπλάγχνοις καὶ προσπεφυκυῖα νύκτωρ καὶ μεθ’ ἡμέραν εὕει ἄτερ δαλοῖο καὶ ὠμῷ γήραϊ δῶκεν, βαρεῖα συνέκδημος οὖσα δι’ ἀλαζονείαν καὶ πολυτελὴς σύνδειπνος ὑπὸ λιχνείας καὶ σύγκοιτος ὀδυνηρά, φροντίσι καὶ μερίμναις καὶ ζηλοτυπίαις ἐκκόπτουσα τὸν ὕπνον καὶ διαφθείρουσα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "100 F",
+      "text": "καὶ γὰρ ὃ καθεύδουσι τοῦ σώματος ὕπνος ἐστὶ καὶ ἀνάπαυσις, τῆς δὲ ψυχῆς πτοῖαι καὶ ὄνειροι καὶ ταραχαὶ διὰ δεισιδαιμονίαν. ὅταν δὲ νυστάζοντά μ’ ἡ λύπη λάβῃ, ἀπόλλυμ’ ὑπὸ τῶν ἐνυπνίων φησί τις· οὕτω δὲ καὶ φθόνος καὶ φόβος καὶ θυμὸς καὶ ἀκολασία διατίθησι. μεθ’ ἡμέραν μὲν γὰρ ἔξω βλέπουσα καὶ συσχηματιζομένη πρὸς ἑτέρους ἡ κακία δυσωπεῖται καὶ παρακαλύπτει τὰ πάθη, καὶ οὐ παντάπασι ταῖς ὁρμαῖς ἐκδίδωσιν ἑαυτὴν ἀλλ’ ἀντιτείνει καὶ μάχεται πολλάκις· ἐν δὲ τοῖς ὕπνοις ἀποφυγοῦσα δόξας καὶ νόμους καὶ πορρωτάτω γενομένη τοῦ δεδιέναι τε καὶ αἰδεῖσθαι, πᾶσαν ἐπιθυμίαν κινεῖ καὶ ἐπανεγείρει τὸ κακόηθες καὶ ἀκόλαστον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101 A",
+      "text": "“μητρί τε γὰρ ἐπιχειρεῖ μίγνυσθαι,” ὥς φησιν ὁ Πλάτων, καὶ βρώσεις ἀθέσμους προσφέρεται καὶ πράξεως οὐδεμιᾶς ἀπέχεται, ἀπολαύουσα τοῦ παρανομεῖν ὡς ἀνυστόν ἐστιν εἰδώλοις καὶ φάσμασιν εἰς οὐδεμίαν ἡδονὴν οὐδὲ τελείωσιν τοῦ ἐπιθυμοῦντος τελευτῶσιν, ἀλλὰ κινεῖν μόνον καὶ διαγριαίνειν τὰ πάθη καὶ τὰ νοσήματα δυναμένοις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101 B",
+      "text": "Ποῦ τοίνυν τὸ ἡδὺ τῆς κακίας ἐστίν, εἰ μηδαμοῦ τὸ ἀμέριμνον καὶ τὸ ἄλυπον μηδ’ αὐτάρκεια μηδ’ ἀταραξία μηδ’ ἡσυχία; ταῖς μὲν γὰρ τῆς σαρκὸς ἡδοναῖς ἡ τοῦ σώματος εὐκρασία καὶ ὑγίεια χώραν καὶ γένεσιν δίδωσι· τῇ δὲ ψυχῇ οὐκ ἔστιν ἐγγενέσθαι γῆθος οὐδὲ χαρὰν βέβαιον, ἂν μὴ τὸ εὔθυμον καὶ ἄφοβον καὶ θαρραλέον ὥσπερ ἕδραν ἢ γαλήνην ἄκλυστον ὑποβάληται, ἀλλὰ κἂν ὑπομειδιάσῃ τις ἐλπὶς ἢ τέρψις, αὕτη ταχὺ φροντίδος ἐκραγείσης ὥσπερ ἐν εὐδίᾳ σπιλάδος συνεχύθη καὶ συνεταράχθη. Ἅθροιζε χρυσίον, σύναγε ἀργύριον, οἰκοδόμει περιπάτους, ἔμπλησον ἀνδραπόδων τὴν οἰκίαν καὶ χρεωστῶν τὴν πόλιν· ἂν μὴ τὰ πάθη τῆς ψυχῆς καταστορέσῃς καὶ τὴν ἀπληστίαν παύσῃς καὶ φόβων καὶ φροντίδων ἀπαλλάξῃς σαυτόν, οἶνον διηθεῖς πυρέττοντι καὶ χολικῷ μέλι προσφέρεις καὶ σιτία καὶ ὄψα κοιλιακοῖς ἑτοιμάζεις καὶ δυσεντερικοῖς, μὴ στέγουσι μηδὲ ῥωννυμένοις ἀλλὰ προσδιαφθειρομένοις ὑπ’ αὐτῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101 C",
+      "text": "οὐχ ὁρᾷς τοὺς νοσοῦντας ὅτι τῶν βρωμάτων τὰ καθαριώτατα καὶ πολυτελέστατα δυσχεραίνουσι καὶ διαπτύουσι καὶ παραιτοῦνται προσφερόντων καὶ βιαζομένων, εἶτα, τῆς κράσεως μεταβαλούσης καὶ πνεύματος χρηστοῦ καὶ γλυκέος αἵματος ἐγγενομένου καὶ θερμότητος οἰκείας, ἀναστάντες ἄρτον λιτὸν ἐπὶ τυρῷ καὶ καρδάμῳ χαίρουσι καὶ ἀσμενίζουσιν ἐσθίοντες; τοιαύτην ὁ λόγος ἐμποιεῖ τῇ ψυχῇ διάθεσιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "101 D",
+      "text": "αὐτάρκης ἔσῃ, ἂν μάθῃς τί τὸ καλὸν κἀγαθόν ἐστι· τρυφήσεις ἐν πενίᾳ καὶ βασιλεύσεις καὶ τὸν ἀπράγμονα βίον καὶ ἰδιώτην οὐδὲν ἧττον ἀγαπήσεις ἢ τὸν ἐπὶ στρατηγίαις καὶ ἡγεμονίαις· οὐ βιώσῃ φιλοσοφήσας ἀηδῶς, ἀλλὰ πανταχοῦ ζῆν ἡδέως μαθήσῃ καὶ ἀπὸ πάντων· εὐφρανεῖ σε πλοῦτος πολλοὺς εὐεργετοῦντα καὶ πενία πολλὰ μὴ μεριμνῶντα καὶ δόξα τιμώμενον καὶ ἀδοξία μὴ φθονούμενον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "okg-dj",
+      "title": {
+        "english": "Aemilius Paulus",
+        "ancient_greek": "Αἰμίλιος Παῦλος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aemilius-paulus-okg-dj",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aemilius-paulus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aemilius-paulus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ee",
+      "title": {
+        "english": "Agesilaus",
+        "ancient_greek": "Ἀγησίλαος"
+      },
+      "url_slug": "plutarch-of-chaeronea-agesilaus-okg-ee",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agesilaus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agesilaus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-cs",
+      "title": {
+        "english": "Agis and Cleomenes",
+        "ancient_greek": "Ἄγις καὶ Κλεομένης"
+      },
+      "url_slug": "plutarch-of-chaeronea-agis-cleomenes-okg-cs",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/agis-cleomenes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/agis-cleomenes.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dy",
+      "title": {
+        "english": "Alcibiades",
+        "ancient_greek": "Ἀλκιβιάδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-alcibiades-okg-dy",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alcibiades",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alcibiades.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ef",
+      "title": {
+        "english": "Alexander",
+        "ancient_greek": "Ἀλέξανδρος"
+      },
+      "url_slug": "plutarch-of-chaeronea-alexander-okg-ef",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/alexander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/alexander.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ew",
+      "title": {
+        "english": "Amatory",
+        "ancient_greek": "Ἐρωτικός"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-okg-ew",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ct",
+      "title": {
+        "english": "Amatory Narratives",
+        "ancient_greek": "Ἐρωτικαὶ διγηήσεις"
+      },
+      "url_slug": "plutarch-of-chaeronea-amatory-narratives-okg-ct",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/amatory-narratives",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/amatory-narratives.json"
+      }
+    },
+    {
+      "eul_wid": "okg-fe",
+      "title": {
+        "english": "Antony",
+        "ancient_greek": "Ἀντώνιος"
+      },
+      "url_slug": "plutarch-of-chaeronea-antony-okg-fe",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/antony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/antony.json"
+      }
+    },
+    {
+      "eul_wid": "okg-bi",
+      "title": {
+        "english": "Apophthegms of Kings and Generals",
+        "ancient_greek": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν"
+      },
+      "url_slug": "plutarch-of-chaeronea-kings-generals-okg-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/kings-generals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/kings-generals.json"
+      }
+    },
+    {
+      "eul_wid": "okg-ff",
+      "title": {
+        "english": "Aratus",
+        "ancient_greek": "Ἄρατος"
+      },
+      "url_slug": "plutarch-of-chaeronea-aratus-okg-ff",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aratus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aratus.json"
+      }
+    },
+    {
+      "eul_wid": "okg-eg",
+      "title": {
+        "english": "Aristides",
+        "ancient_greek": "Ἀριστείδης"
+      },
+      "url_slug": "plutarch-of-chaeronea-aristides-okg-eg",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/aristides",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/aristides.json"
+      }
+    },
+    {
+      "eul_wid": "okg-dz",
+      "title": {
+        "english": "Artaxerxes",
+        "ancient_greek": "Ἀρταξέρξης"
+      },
+      "url_slug": "plutarch-of-chaeronea-artaxerxes-okg-dz",
+      "links": {
+        "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/artaxerxes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/artaxerxes.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "rvw-aa",
+      "title": {
+        "english": "Alchemical Fragments",
+        "ancient_greek": "Ἀποσπάσματα Ἀλχημικά"
+      },
+      "url_slug": "iamblichus-of-chalcis-ii-alchemical-fragments-rvw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis-ii/alchemical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis-ii/alchemical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "uim-aa",
+      "title": {
+        "english": "Commentaries-Nicomachean Ethics Books II–V",
+        "ancient_greek": "Σχόλια εἰς τὰ Ἠθικὰ Νικομάχεια Βιβλία Β'-Ε'"
+      },
+      "url_slug": "anonymous-commentary-on-aristotle-nicomachean-ethics-ii-v-uim-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-commentary-on-aristotle/nicomachean-ethics-ii-v.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-aw",
+      "title": {
+        "english": "Epinomis",
+        "ancient_greek": "Ἐπινομίς"
+      },
+      "url_slug": "plato-epinomis-ffk-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/epinomis",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/epinomis.json"
+      }
+    },
+    {
+      "eul_wid": "udw-af",
+      "title": {
+        "english": "Exhortation",
+        "ancient_greek": "Προτρεπτικός"
+      },
+      "url_slug": "iamblichus-of-chalcis-exhortation-udw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/iamblichus-of-chalcis/exhortation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/iamblichus-of-chalcis/exhortation.json"
+      }
+    },
+    {
+      "eul_wid": "ojw-ae",
+      "title": {
+        "english": "Gnomology (Extended)",
+        "ancient_greek": "Γνωμολόγιον Ἐπικτήτου"
+      },
+      "url_slug": "epictetus-gnomology-ae-ojw-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/epictetus/gnomology-ae",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/epictetus/gnomology-ae.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ai",
+      "title": {
+        "english": "Holy Discourse of Hermes Trismegistus",
+        "ancient_greek": "Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός"
+      },
+      "url_slug": "hermetica-holy-discourse-oqk-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/holy-discourse",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/holy-discourse.json"
+      }
+    },
+    {
+      "eul_wid": "ffk-as",
+      "title": {
+        "english": "Symposium",
+        "ancient_greek": "Συμπόσιον"
+      },
+      "url_slug": "plato-symposium-ffk-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato/symposium",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/symposium.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/symposium.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/symposium.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato/symposium.json"
+      }
+    },
+    {
+      "eul_wid": "niy-aa",
+      "title": {
+        "english": "Testimony",
+        "ancient_greek": "Μαρτυρία"
+      },
+      "url_slug": "boidas-the-philologist-testimony-niy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/boidas-the-philologist/testimony",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/boidas-the-philologist/testimony.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/plutarch-of-chaeronea/virtue-vice",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plutarch-of-chaeronea/virtue-vice.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

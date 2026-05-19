@@ -1,0 +1,395 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "evu-ab",
+  "eul_aid": "evu",
+  "author_slug": "straton-comicus",
+  "work_slug": "confused-dinner-guest",
+  "url_slug": "straton-comicus-confused-dinner-guest-evu-ab",
+  "author": {
+    "english": "Straton Comicus",
+    "ancient_greek": "Στράτων ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Confused Dinner Guest",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "The Confused Dinner Guest by Straton Comicus on Eulogikon",
+    "meta_title": "The Confused Dinner Guest by Straton Comicus in Greek",
+    "meta_description": "A comic fragment by Straton Comicus about a confused dinner guest. Offers ancient social humor. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_The Confused Dinner Guest_ is a comedy by the poet Straton, a figure of Middle Comedy whose work survives only in fragments. The play’s title, which translates as “Fragment” or “Extract,” directly acknowledges its incomplete state of preservation. Based on the surviving text, the plot appears to center on a comic misunderstanding at a symposium, a typical setting for comedies of this period. The fragment depicts a host bewildered by his guest’s use of obscure, elevated language; the guest inquires about the number of “mortals” invited, asks whether the host is sacrificing a “broad-browed ox” or “sheep,” and employs other poetic or riddling terms that the plainspoken host fails to comprehend. This generates a comedy of manners built on social awkwardness and the clash between intellectual pretension and conventional hospitality. The work is entirely lost as a complete play and is known only through quotations preserved by later grammarians and authors, most notably Athenaeus and the Byzantine encyclopedia known as the Suda. As an example of Middle Comedy, Straton’s play participates in the theatrical evolution that bridged the political satire of Old Comedy and the domestic, character-driven plots of New Comedy, which would profoundly influence Roman comedy. The theme of the confused or socially inept guest, illustrated here, has remained a durable staple of comic narrative across literary traditions.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "Σφίγγ’ ἄρρεν’, οὐ μάγειρον, εἰς τὴν οἰκίαν εἴληφ’· ἁπλῶς γὰρ οὐδὲ ἓν μὰ τοὺς θεούς ὅς’ ἂν λέγῃ συνίημι. καινὰ ῥήματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πεπορισμένος πάρεστιν· ὡς εἰσῆλθε γάρ[ln_5]εὐθύς μ’ ἐπηρώτησε",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "προσβλέψας μέγα, „πόσους κέκληκας μέροπας ἐπὶ δεῖπνον; λέγε.“ ἐγὼ κέκληκα Μέροπας ἐπὶ δεῖπνον; χολᾷς. τοὺς δὲ μέροπας",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τούτους με γιγνώσκειν δοκεῖς; οὐδεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παρέσται· τοῦτο γὰρ νὴ τὸν Δία[ln_10]ἔστι κατάλοιπον, Μέροπας ἐπὶ δεῖπνον καλεῖν. „οὐδ’ ἄρα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "παρέσται δαιτυμὼν οὐδεὶς ὅλως;“ οὐκ οἴομαί γε Δαιτυμών. ἐλογιζόμην, ἥξει",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.7",
+      "text": "Φιλῖνος, Μοσχίων, Νικήρατος, ὁ δεῖν’, ὁ δεῖνα· κατ’ ὄνομ’ ἀνελογιζόμην·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_15]οὐκ ἦν ἐν αὐτοῖς οὐδὲ εἷς μοι Δαιτυμών. οὐδεὶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "παρέσται, φημί. „τί λέγεις; οὐδὲ εἷς;“ σφόδρ’ ἠγανάκτης’, ὥσπερ ἠδικημένος, εἰ μὴ κέκληκα Δαιτυμόνα. καινὸν πάνυ. „οὐδ’ ἄρα θύεις ἐρυσίχθον’;“ οὐκ ἔφην ἐγώ.[ln_20]„βοῦν δ’ εὐρυμέτωπον;“ οὐ θύω βοῦν, ἄθλιε. „μῆλα θυσιάζεις ἆρα;“ μὰ Δί’ ἐγὼ μὲν οὔ, οὐδέτερον αὐτῶν, προβάτιον δ’. „οὐκοῦν, ἔφη, τὰ μῆλα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρόβατα. μανθάνεις;“ οὐ μανθάνω",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τούτων οὐδέν, οὐδὲ βούλομαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_25]ἀγροικότερός εἰμ’, ὥσθ’ ἁπλῶς μοι διαλέγου. „Ὅμηρον οὐκ οἶδας λέγοντα;“ καὶ μάλα ἐξῆν ὃ βούλοιτ’, ὦ μάγειρ’, αὐτῷ λέγειν. ἀλλὰ τί πρὸς ἡμᾶς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τοῦτο",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πρὸς τῆς Ἑστίας; „κατ’ ἐκεῖνον ἤδη",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "πρόσεχε καὶ τὰ λοιπά μοι.[ln_30]Ὁμηρικὸς γάρ.“ διανοεῖ μ’ ἀπολλύναι; „οὕτω λαλεῖν εἴωθα.“ μὴ τοίνυν λάλει οὕτως",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "παρ’ ἐμοί γ’ ὤν. „ἀλλὰ διὰ τὰς τέτταρας δραχμὰς ἀποβάλω, φησί, τὴν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "προαίρεσιν; τὰς οὐλοχύτας φέρε δεῦρο.“ τοῦτο δ’ ἐστὶ τί;",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_35]„κριθαί.“ τί οὖν, ἀπόπληκτε, περιπλοκὰς λέγεις; „πηγὸς πάρεστι;“ πηγός; οὐχὶ λαικάσει; ἐρεῖς",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "σαφέστερόν θ’ ὃ βούλει μοι λέγειν; „ἀτάσθαλός γ’ εἶ, πρέσβυ.“ φής’. „ἅλας φέρε. τοῦτ’ ἔστι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "πηγός. ἀλλὰ δεῖξον χέρνιβα.“[ln_40]παρῆν. ἔθυεν, ἔλεγεν ἄλλα ῥήματα",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.4",
+      "text": "τοιαῦθ’ ἃ μὰ τὴν γῆν οὐδὲ εἷς ἤκουσεν ἄν, μίστυλλα, μοίρας, δίπτυχ’, ὀβελούς. ὥστε με τῶν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.5",
+      "text": "τοῦ Φιλητᾶ λαμβάνοντα βιβλίων",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.6",
+      "text": "σκοπεῖν ἕκαστα τί δύναται τῶν ῥημάτων·",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "[ln_45]πλὴν ἱκέτευον αὐτὸν ἤδη μεταβαλεῖν ἀνθρωπίνως λαλεῖν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "τε. τὸν δ’ οὐκ ἂν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.3",
+      "text": "ταχύ ἔπεισεν ἡ πειθὼ μὰ τὴν γῆν οἶδ’ ὅτι.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "evu-aa",
+      "title": {
+        "english": "Pretentious Dinner Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-pretentious-dinner-guest-evu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/pretentious-dinner-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/pretentious-dinner-guest.json"
+      }
+    },
+    {
+      "eul_wid": "evu-ac",
+      "title": {
+        "english": "Uninvited Guest",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "straton-comicus-uninvited-guest-evu-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/straton-comicus/uninvited-guest",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/uninvited-guest.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "ggs-aa",
+      "title": {
+        "english": "Comic Fragments on Dining and Excess",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δείπνων καὶ Ἀκολασίας"
+      },
+      "url_slug": "theophilus-the-comic-poet-dining-excess-aa-ggs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/theophilus-the-comic-poet/dining-excess-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/theophilus-the-comic-poet/dining-excess-aa.json"
+      }
+    },
+    {
+      "eul_wid": "bou-ab",
+      "title": {
+        "english": "Comic Fragments on Guard Duty",
+        "ancient_greek": "Ἀποσπάσματα περὶ Φυλακῆς Κωμικά"
+      },
+      "url_slug": "chionides-the-comic-poet-guard-duty-bou-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/chionides-the-comic-poet/guard-duty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/chionides-the-comic-poet/guard-duty.json"
+      }
+    },
+    {
+      "eul_wid": "jqk-aa",
+      "title": {
+        "english": "Cook's Art",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicomachus-the-comic-poet-cooks-art-jqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-the-comic-poet/cooks-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.json"
+      }
+    },
+    {
+      "eul_wid": "czs-aa",
+      "title": {
+        "english": "Fragments on Cimon and Athenian Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Κίμωνος καὶ τοῦ Ἀθηναίων Βίου"
+      },
+      "url_slug": "cratinus-the-comic-poet-athenian-life-aa-czs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cratinus-the-comic-poet/athenian-life-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cratinus-the-comic-poet/athenian-life-aa.json"
+      }
+    },
+    {
+      "eul_wid": "ios-ab",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.json"
+      }
+    },
+    {
+      "eul_wid": "hrq-aa",
+      "title": {
+        "english": "Fragments on Gourmet Feasting",
+        "ancient_greek": "Ἀποσπάσματα περὶ Δαιτὸς Λιχνείας"
+      },
+      "url_slug": "dioxippus-the-comic-poet-gourmet-feasting-hrq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioxippus-the-comic-poet/gourmet-feasting",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioxippus-the-comic-poet/gourmet-feasting.json"
+      }
+    },
+    {
+      "eul_wid": "atg-ac",
+      "title": {
+        "english": "On the Evils of Marriage",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "susarion-of-megara-evils-marriage-ac-atg-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/susarion-of-megara/evils-marriage-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/susarion-of-megara/evils-marriage-ac.json"
+      }
+    },
+    {
+      "eul_wid": "dum-ab",
+      "title": {
+        "english": "Pastoral and Satirical Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "eupolis-of-athens-pastoral-satirical-dum-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eupolis-of-athens/pastoral-satirical",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eupolis-of-athens/pastoral-satirical.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/straton-comicus/confused-dinner-guest",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/straton-comicus/confused-dinner-guest.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

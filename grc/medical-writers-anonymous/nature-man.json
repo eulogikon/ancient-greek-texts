@@ -1,0 +1,433 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "umi-ap",
+  "eul_aid": "umi",
+  "author_slug": "medical-writers-anonymous",
+  "work_slug": "nature-man",
+  "url_slug": "medical-writers-anonymous-nature-man-umi-ap",
+  "author": {
+    "english": "Medical Writers Anonymous",
+    "ancient_greek": "Ἀνώνυμοι Ἰατρικοί"
+  },
+  "title": {
+    "english": "On the Nature of Man",
+    "ancient_greek": "Περὶ Φύσεως Ἀνθρώπου"
+  },
+  "seo": {
+    "browser_title": "On Nature of Man by Medical Writers Anonymous on Eulogikon",
+    "meta_title": "On the Nature of Man by Anonymous in Ancient Greek",
+    "meta_description": "Medical treatise on human physiology based on the four humors. Anonymous Hippocratic work. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ὀψιμαρχαία",
+      "english": "Late Antique",
+      "href": "/periods/late-antique"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Nature of Man</strong> is an ancient Greek medical treatise dating from the late fifth or early fourth century BCE. While traditionally ascribed to Polybus, the son-in-law of Hippocrates, modern scholarship regards the work as anonymous. Composed in Ionic Greek, it stands as a foundational text within the Hippocratic Corpus. The treatise is celebrated for its systematic exposition of the theory of the four humors: blood, phlegm, yellow bile, and black bile. It posits that health is a state of equilibrium among these bodily fluids, whereas disease arises from the dominance or deficiency of any one humor. The text elaborates this system by correlating each humor with one of the four cosmic elements—air, fire, earth, and water—and their associated qualities of hot, cold, wet, and dry. It further integrates the theory with the four seasons and the stages of human life, presenting man as a microcosm of the natural order. Structured in ten passages, the work advances this unified physiological theory while explicitly arguing against rival philosophical doctrines that reduced the human constitution to a single substance. Composed during a period of vigorous debate between natural philosophers and medical practitioners, its purpose was to establish medicine on a coherent theoretical basis distinct from abstract speculation. The treatise survives in full through medieval manuscripts transmitted as part of the Hippocratic collection. Its influence was profound and enduring; the humoral theory was later systematized and championed by the physician Galen, becoming the dominant paradigm in Western medicine for nearly two millennia.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t 1",
+      "text": "ΑΝΩΝΥΜΟΥ ΠΕΡΙ ΤΗΣ ΤΟΥ ΚΟΣΜΟΥ ΚΑΤΑΣΚΕΥΗΣ ΤΟΥ ΑΝΘΡΩΠΟΥ. Κόσμος οὗτος συνέστηκεν ἐκ τεσσάρων στοιχείων, ἐκ θερμοῦ, ψυχροῦ, ξηροῦ καὶ ὑγροῦ, ἤγουν ἐξ ἀέρος, πυρός, γῆς καὶ ὕδατος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 2",
+      "text": "Καὶ ὁ μὲν ἀήρ ἐστι θερμὸς καὶ ὑγρός, τὸ δὲ πῦρ θερμὸν καὶ ξηρόν· ἡ δὲ γῆ ψυχρὰ καὶ ξηρά, τὸ δὲ ὕδωρ ψυχρὸν καὶ ὑγρόν. Ὡσαύτως καὶ ὁ ἄνθρωπος ὁ μικρὸς κόσμος συνέστηκεν ἐκ τεσσάρων στοιχείων, ἐκ θερμοῦ, ψυχροῦ, ξηροῦ καὶ ὑγροῦ ἐξ αἵματος, χολῆς ξανθῆς, χολῆς μελαίνης καὶ φλέγματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 4",
+      "text": "Καὶ τὸ μὲν αἷμα ἔοικε τῷ ἀέρι θερμὸν καὶ ὑγρόν· ἡ χολὴ ἡ ξανθὴ ἔοικε τῷ πυρὶ θερμὴ καὶ ξηρά· ἡ χολὴ ἡ μέλαινα ἔοικε τῇ γῇ ψυχρὰ καὶ ξηρά· τὸ φλέγμα ἔοικε τῷ ὕδατι ψυχρὸν καὶ ὑγρόν. Καὶ τὸ μὲν αἷμα πληθύνεται εἰς τὸ ἔαρ, ἡ χολὴ ἡ ξανθὴ εἰς τὸ θέρος, ἡ χολὴ ἡ μέλαινα εἰς τὸ φθινόπωρον, καὶ τὸ φλέγμα ἐν χειμῶνι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 6",
+      "text": "Καὶ ἐπὶ μὲν τῆς παιδικῆς ἡλικίας τὸ αἷμα πληθύνεται ἕως ἐτῶν ιδʹ καὶ ἔστι θερμὸν καὶ ὑγρὸν καὶ γλυκύ· ἐπὶ δὲ τῶν νεανίσκων ἡ χολὴ ἡ ξανθὴ πληθύνεται ἕως ἐτῶν κηʹ καὶ ἔστι θερμὴ καὶ ξηρὰ καὶ πικρά· ἐπὶ δὲ τῆς τελείας ἡλικίας ἡ μέλαινα χολὴ πληθύνεται ἕως ἐτῶν μρʹ καὶ ἔστι ψυχρὰ καὶ ξηρὰ καὶ ὀξώδης· ἐπὶ δὲ τῶν γερόντων τὸ φλέγμα πληθύνεται ἕως ἐτῶν πʹ καὶ ἔστιν ψυχρὸν καὶ ὑγρὸν ἁλμυρόν. Καὶ τὸ μὲν αἷμά ἐστιν ἐν τῇ καρδίᾳ, καὶ ἐν τῇ καρδίᾳ τὸ πνεῦμα.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1 7",
+      "text": "ἡ χολὴ ἡ ξανθὴ ἐν τῷ ἥπατι καὶ ἐν τῷ στομάχῳ· ἡ χολὴ ἡ μέλαινα ἐν τῷ σπληνὶ καὶ ἐν τῇ ......, καὶ [ἐν] τὸ φλέγμα ἐν τῷ ἐγκεφάλῳ καὶ τῇ κύστει. Πόθεν οἱ μὲν τῶν ἀνθρώπων εἰσὶ χαριεντικοὶ καὶ γελῶσι καὶ παίζουσι, οἱ δέ εἰσι στυγνοὶ καὶ σκυθρωποὶ καὶ κατηφεῖς, οἱ δὲ ὀργίλοι καὶ πικροὶ καὶ μανιώδεις, οἱ δὲ ῥᾴθυμοι καὶ ὀκνηροὶ καὶ ὀλιγόψυχοι; Ἡ αἰτία ἐστὶν αὕτη ἐκ τῶν δʹ στοιχείων· οἱ μὲν οὖν ἐξ αἵματος καθαρωτάτου τυγχάνοντές εἰσι πάντοτε χαριεῖς καὶ παίζουσι καὶ γελῶσι καὶ σώματά εἰσι ῥοδινοὶ καὶ ὑπόπυρροι καὶ καλλίχροοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 3",
+      "text": "Ὅσοι δὲ ἀπὸ ξανθῆς χολῆς τυγχάνουσιν, οὗτοί εἰσιν ὀργίλοι καὶ πικροὶ καὶ εὔτολμοι καὶ σώματά εἰσιν ὕπωχροι καὶ ξανθόχροοι. Ὅσοι δὲ ἀπὸ μελαίνης χολῆς τυγχάνουσιν, οὗτοί εἰσι ῥᾴθυμοι καὶ ὀλιγόψυχοι καὶ φιλάσθενοι, καὶ σώματά εἰσι μελανόψιοι καὶ μελάντριχοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 5",
+      "text": "Ὅσοι δὲ ἀπὸ φλέγματος τυγχάνουσιν, οὗτοί εἰσι λυπηροὶ καὶ ἀμνήμονες καὶ τῷ σώματί εἰσι λευκόχροοι. Τὰ μὲν οὖν παιδία ὅτι εἰσὶν ἐκ τοῦ αἵματος, εἰσὶ χαριεντικά, καὶ παίζουσι καὶ γελῶσι, καὶ διὰ τοῦτο, ὅταν κλαύσωσι, μάλιστα μεταλλάσσονται.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 2",
+      "text": "Οἱ δὲ νεανίσκοι ἐκ τῆς ξανθῆς χολῆς εἰσι πικροὶ καὶ ὀργίλοι καὶ μανιώδεις, καὶ διὰ τοῦτο, ὅταν πικρανθῶσιν, βραδέως λάσσονται. Οἱ δὲ τέλειοι ἄνδρες ἐκ τῆς μελαίνης χολῆς εἰσι ῥᾴθυμοι καὶ ὀλιγόψυχοι καὶ ὀκνηροὶ καὶ διὰ τοῦτο ὅταν μαίνωνται, εἰσὶ δυσμετάβλητοι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 4",
+      "text": "Οἱ δὲ γέροντές εἰσι εἰς τοῦ φλέγματος πολυπηροὶ καὶ στυγνοὶ καὶ ἀμνήμονες, καὶ διὰ τοῦτο ὅταν μαίνωνται, ἀμετάβλητοι διαμείνουσι. Ἔχουσι δέ τινα τόπον ὅδιον κατὰ μέρος ἕκαστον τούτων, τὸ αἷμα διὰ ῥινὸς πνέει, ἡ ξανθὴ χολὴ διὰ τῶν ὤτων πνέει, ἡ μέλαινα διὰ τῶν ὀφθαλμῶν, καὶ τὸ φλέγμα διὰ τοῦ στόματος ἐκχέει.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 2",
+      "text": "Μερίζονται δὲ οἱ χυμοὶ διὰ τὸν δʹ. Ἐν τῇ αʹ ἡλικίᾳ κυριεύει τὸ αἷμα ἕως ἐτῶν ιδʹ, ἐν τῇ βʹ ἡ ξανθὴ χολὴ ἕως ἐτῶν κηʹ, ἐν τῇ γʹ ἡ μέλαινα ἕως ἐτῶν μβʹ, ἐν τῇ δʹ τὸ φλέγμα ἕως ἐτῶν πʹ καὶ ἕως γήρως.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "umi-al",
+      "title": {
+        "english": "Adornment of the Months",
+        "ancient_greek": "Κόσμος Μηνῶν"
+      },
+      "url_slug": "medical-writers-anonymous-months-adornment-umi-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/months-adornment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/months-adornment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/months-adornment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/months-adornment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/months-adornment.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ao",
+      "title": {
+        "english": "Commentary-Urines",
+        "ancient_greek": "Ὑπόμνημα εἰς Οὖρα"
+      },
+      "url_slug": "medical-writers-anonymous-urines-umi-ao",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/urines",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urines.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urines.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urines.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/urines.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ac",
+      "title": {
+        "english": "Diagnosis of Acute and Chronic Diseases",
+        "ancient_greek": "Διάγνωσις περὶ τῶν ὀξέων καὶ χρονίων νοσημάτων"
+      },
+      "url_slug": "medical-writers-anonymous-acute-chronic-diseases-umi-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/acute-chronic-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/acute-chronic-diseases.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ar",
+      "title": {
+        "english": "Medical Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "medical-writers-anonymous-fragments-umi-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ai",
+      "title": {
+        "english": "Names of Human Parts, Book 1",
+        "ancient_greek": "Ὀνομασίαι τῶν κατὰ ἄνθρωπον"
+      },
+      "url_slug": "medical-writers-anonymous-human-parts-umi-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/human-parts",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/human-parts.json"
+      }
+    },
+    {
+      "eul_wid": "umi-aa",
+      "title": {
+        "english": "Names of Medical Instruments by Element Used in Surgeries",
+        "ancient_greek": "Ὀνόματα τῶν ἰατρικῶν ἐργαλείων κατὰ στοιχεῖα οἷς"
+      },
+      "url_slug": "medical-writers-anonymous-instruments-by-element-umi-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/instruments-by-element",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/instruments-by-element.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/instruments-by-element.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/instruments-by-element.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/instruments-by-element.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ax",
+      "title": {
+        "english": "On Diet",
+        "ancient_greek": "Περὶ Διαιτῆς"
+      },
+      "url_slug": "medical-writers-anonymous-diet-umi-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.json"
+      }
+    },
+    {
+      "eul_wid": "umi-av",
+      "title": {
+        "english": "On Foods (Long Treatise)",
+        "ancient_greek": "Περὶ Τροφῶν"
+      },
+      "url_slug": "medical-writers-anonymous-foods-av-umi-av",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-av",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-av.json"
+      }
+    },
+    {
+      "eul_wid": "umi-aw",
+      "title": {
+        "english": "On Foods (Short Treatise)",
+        "ancient_greek": "Περὶ Τροφῶν"
+      },
+      "url_slug": "medical-writers-anonymous-foods-aw-umi-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/foods-aw",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/foods-aw.json"
+      }
+    },
+    {
+      "eul_wid": "umi-am",
+      "title": {
+        "english": "On Generation and Seed",
+        "ancient_greek": "Περὶ Γενέσεως καὶ Σπέρματος"
+      },
+      "url_slug": "medical-writers-anonymous-generation-seed-umi-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/generation-seed",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/generation-seed.json"
+      }
+    },
+    {
+      "eul_wid": "umi-as",
+      "title": {
+        "english": "On Lycanthropy",
+        "ancient_greek": "Περὶ λυκανθρωπίας"
+      },
+      "url_slug": "medical-writers-anonymous-lycanthropy-umi-as",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/lycanthropy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/lycanthropy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/lycanthropy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/lycanthropy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/lycanthropy.json"
+      }
+    },
+    {
+      "eul_wid": "umi-au",
+      "title": {
+        "english": "On Pulses",
+        "ancient_greek": "Περὶ Σφυγμῶν"
+      },
+      "url_slug": "medical-writers-anonymous-pulses-umi-au",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/pulses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/pulses.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-ar",
+      "title": {
+        "english": "Against Those Who Wrote-Types or Circuits",
+        "ancient_greek": "Κατὰ τῶν γράψαντων περὶ τύπων ἢ κύκλων"
+      },
+      "url_slug": "galen-of-pergamon-against-writers-circuits-qmm-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/against-writers-circuits",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/against-writers-circuits.json"
+      }
+    },
+    {
+      "eul_wid": "vcc-ab",
+      "title": {
+        "english": "Dedication to Cosmas",
+        "ancient_greek": "Ἀφιέρωσις πρὸς Κοσμᾶν"
+      },
+      "url_slug": "alexander-of-tralles-dedication-cosmas-vcc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/dedication-cosmas",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/dedication-cosmas.json"
+      }
+    },
+    {
+      "eul_wid": "qfy-aa",
+      "title": {
+        "english": "Medical Puzzles and Natural Problems",
+        "ancient_greek": "Ἰατρικαὶ Ἀπορίαι καὶ Προβλήματα Φυσικά"
+      },
+      "url_slug": "cassius-the-iatrosophist-medical-puzzles-qfy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/cassius-the-iatrosophist/medical-puzzles",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist/medical-puzzles.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist/medical-puzzles.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist/medical-puzzles.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/cassius-the-iatrosophist/medical-puzzles.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-dw",
+      "title": {
+        "english": "On Emaciation",
+        "ancient_greek": "Περὶ μαρασμοῦ"
+      },
+      "url_slug": "galen-of-pergamon-emaciation-qmm-dw",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/emaciation",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/emaciation.json"
+      }
+    },
+    {
+      "eul_wid": "ojc-ac",
+      "title": {
+        "english": "On Satyriasis and Gonorrhea",
+        "ancient_greek": "Περὶ Σατυριάσεως καὶ Γονορροίας"
+      },
+      "url_slug": "rufus-of-ephesus-satyriasis-gonorrhea-ojc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/rufus-of-ephesus/satyriasis-gonorrhea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/rufus-of-ephesus/satyriasis-gonorrhea.json"
+      }
+    },
+    {
+      "eul_wid": "oyw-af",
+      "title": {
+        "english": "On Seven-Month Birth",
+        "ancient_greek": "Περὶ ἑπταμηνιαίου τόκου"
+      },
+      "url_slug": "pseudo-hippocrates-seven-month-birth-oyw-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/pseudo-hippocrates/seven-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/pseudo-hippocrates/seven-month-birth.json"
+      }
+    },
+    {
+      "eul_wid": "bww-ah",
+      "title": {
+        "english": "On the Eight-Month Birth",
+        "ancient_greek": "Περὶ ὀκταμηνιαίων"
+      },
+      "url_slug": "hippocrates-eight-month-birth-bww-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/eight-month-birth",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/eight-month-birth.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/eight-month-birth.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/eight-month-birth.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/eight-month-birth.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ah",
+      "title": {
+        "english": "Whom to Purge with Which Purgative Medicines and When",
+        "ancient_greek": "Ποιοὺς τίνι καθαρτικῷ καὶ πότε καθαίρειν δεῖ"
+      },
+      "url_slug": "galen-of-pergamon-purgative-medicines-ah-qmm-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/purgative-medicines-ah",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-ah.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-ah.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-ah.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/purgative-medicines-ah.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/medical-writers-anonymous/nature-man",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-man.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-man.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-man.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/nature-man.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,440 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "bww-ax",
+  "eul_aid": "bww",
+  "author_slug": "hippocrates",
+  "work_slug": "critical-days",
+  "url_slug": "hippocrates-critical-days-bww-ax",
+  "author": {
+    "english": "Hippocrates and the Hippocratic Corpus",
+    "ancient_greek": "Ἱπποκράτης καὶ τὸ Ἱπποκρατικὸν Σῶμα"
+  },
+  "title": {
+    "english": "On Critical Days",
+    "ancient_greek": "Περὶ Κρίσιμων Ἡμερῶν"
+  },
+  "seo": {
+    "browser_title": "On Critical Days by Hippocrates on Eulogikon Archive",
+    "meta_title": "Classical On Critical Days by Hippocrates in Ancient Greek",
+    "meta_description": "On Critical Days is a medical treatise on disease crises and prognostic signs. Read free in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On Critical Days</strong> is a medical treatise from ancient Greece, preserved within the collection of texts known as the Hippocratic Corpus. Although traditionally attributed to the physician Hippocrates, it is considered by modern scholars to be the work of an unknown medical writer from the 5th or 4th century BCE. Written in Ionic Greek, the text is a focused study on the theory of &quot;critical days,&quot; which are specific points in the timeline of a disease, particularly fevers, where a patient&#x27;s condition is expected to reach a decisive turning point toward either recovery or death. The treatise systematically argues that these crises occur at regular intervals, placing special importance on odd-numbered days such as the 3rd, 7th, or 11th day of illness. It combines observed patterns in disease progression with a theoretical framework influenced by the numerology of the period, associating odd numbers with more favorable outcomes. Structured in 11 passages, the work has survived intact through the medieval manuscript tradition. It was likely written for the instruction of fellow medical practitioners, emphasizing prognosis as a core skill of the ancient physician. The theory of critical days it outlines remained profoundly influential for over two millennia, shaping medical practice until the advent of modern science.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "Μέγα μέρος ἡγέομαι τῆς τέχνης εἶναι τὸ δύνασθαι κατασκοπέεσθαι περὶ τῶν γεγραμμένων ὀρθῶς· ὁ γὰρ γνοὺς καὶ χρεόμενος τούτοισιν οὐκ ἄν μοι δοκέῃ μέγα σφάλλεσθαι κατὰ τὴν τέχνην.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Δεῖ δὴ καταμανθάνειν τὴν κατάστασιν τῶν ὡρῶν ἀκριβῶς καὶ τῶν νούσων ἑκάστης· ὅ τι ἀγαθὸν, καὶ ὅ τι κινδυνῶδες, ἢ ἐν τῇ καταστάσει, ἢ ἐν τῇ νούσῳ· μακρὸν ὅ τι νούσημα καὶ θανάσιμον· μακρὸν, ὅ τι περιεστικόν· ὀξὺ, ὅ τι θανάσιμον· ὀξὺ, ὅ τι περιεστικόν. Τάξιν τῶν κρισίμων ἐκ τουτέων σκοπεῖσθαι, καὶ τὸ προλέγειν ἐκ τούτων εὐπορέεται· ἔτι δὲ ἀπὸ τούτων ἔστιν οὓς, ὅτε καὶ ὡς δεῖ διαιτῇν. Μέγιστον τοίνυν σημεῖον τοῖσι μέλλουσι τῶν καμνόντων βιώσασθαι, ἐὰν μὴ παρὰ φύσιν ᾖ ὁ καῦσος· καὶ τἄλλα δὲ νουσήματα ὡσαύτως· οὐδὲν γὰρ δεινὸν τῶν κατὰ φύσιν γίνεται, οὐδὲ θανατῶδες· δεύτερον δὲ, ἐὰν μὴ αὐτή γε ἡ ὥρη τῷ νουσήματι ξυμμαχήσῃ· ὡς γὰρ ἐπὶ τὸ πουλὺ οὐ νικᾷ ἡ τοῦ ἀνθρώπου φύσις τὴν τοῦ ὅλου δύναμιν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Ἔπειτα δὲ, ἢν τὰ περὶ τὸ πρόσωπον ἰσχναίνηται, καὶ αἱ φλέβες αἱ ἐν τῇσι χερσὶ καὶ ἐν τοῖσι κανθοῖσι καὶ ἐπὶ τῇσιν ὀφρύῃσιν ἡσυχίην ἔχωσι, πρότερον μὴ ἡσυχάζουσαι. Τοῦτο δὲ, ἢν ἡ φωνὴ ᾖ ἀσθενεστέρη καὶ λειοτέρη γίνηται, καὶ τὸ πνεῦμα μανότερον καὶ λεπτότερον, ἐς τὴν ἐπιοῦσαν ἡμέρην ἄνεσις τῆς νούσου· ταῦτα οὖν χρὴ σκοπεῖν πρὸς τὰς κρίσιας, καὶ εἰ τὸ παρὰ δικροῦν τῆς γλώσσης ὥσπερ σιάλῳ λευκῷ ἐπαλείφεται· καὶ ἐν ἄκρῃ τῇ γλώσσῃ ταὐτὸ τοῦτο γεγένηται, ἧσσον δέ· εἰ μὲν οὖν σμικρὰ ταῦτα εἴη, ἐς τὴν τρίτην ἄνεσις τῆς νούσου· ἢν δ’ ἔτι παχύτερον, αὔριον· ἢν δ’ ἔτι παχύτερον, αὐθημερόν. Τοῦτο δὲ, τῶν ὀφθαλμῶν τὰ λευκὰ ἐν ἀρχῇ μὲν τῆς νούσου ἀνάγκη μελαίνεσθαι, ἐὰν ἰσχύῃ ἡ νοῦσος· ταῦτα οὖν καθαρὰ γινόμενα τελείην ὑγείην δηλοῖ· ἀτρέμα μὲν βραδύτερον, σφόδρα δὲ γινόμενον, θᾶσσον. Τὰ δὲ ὀξέα τῶν νοσημάτων γίνεται ἀπὸ χολῆς ὁκόταν ἐπὶ τὸ ἧπαρ ἐπιῤῥυῇ, καὶ ἐς τὴν κεφαλὴν καταστῇ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Τάδε οὖν πάσχει· τὸ ἧπαρ οἰδέει καὶ ἀναπτύσσεται πρὸς τὰς φρένας ὑπὸ τοῦ οἰδήματος, καὶ εὐθὺς ἐς τὴν κεφαλὴν ὀδύνη ἐμπίπτει, μάλιστα δὲ ἐς τοὺς κροτάφους· καὶ τοῖσιν ὠσὶν οὐκ ὀξὺ ἀκούει, πολλάκις δὲ καὶ τοῖσιν ὀφθαλμοῖσιν οὐχ ὁρῇ· καὶ φρίκη καὶ πυρετὸς ἐπιλαμβάνει. Ταῦτα μὲν οὖν κατ’ ἀρχὰς τοῦ νοσήματος αὐτέῳ γίνεται διαλιμπάνοντα, τοτὲ μὲν σφόδρα, τοτὲ δὲ ἧσσον· ὁκόσῳ δὲ ἂν ὁ χρόνος τῆς νούσου προΐῃ, ὅ τε πόνος πλείων ἐν τῷ σώματι, καὶ αἱ κόραι σκίδνανται τῶν ὀφθαλμῶν, καὶ σκιαυγεῖ, καὶ ἢν προσφέρῃς τὸν δάκτυλον πρὸς τοὺς ὀφθαλμοὺς, οὐκ αἰσθήσεται διὰ τὸ μὴ ὁρῇν· τούτῳ δ’ ἂν γνοίης ὅτι οὐχ ὁρῇ, οὐ γὰρ σκαρδαμύσσει προσφερομένου τοῦ δακτύλου. Καὶ τὰς κροκίδας ἀφαιρέει ἀπὸ τῶν ἱματίων, ἤν περ ἴδῃ, δοκέων φθεῖρας εἶναι. Καὶ ὁκόταν τὸ ἧπαρ μᾶλλον ἀναπτυχθῇ πρὸς τὰς φρένας, παραφρονέει· καὶ προφαίνεσθαί οἱ δοκέει πρὸ τῶν ὀφθαλμῶν ἑρπετὰ καὶ ἄλλα παντοδαπὰ θηρία, καὶ ὁπλίτας μαχομένους, καὶ αὐτὸς αὐτοῖς δοκέει μάχεσθαι, καὶ τοιαῦτα λέγει ὡς ὁρέων, καὶ ἐξέρχεται, καὶ ἀπειλεῖ, ἢν μή τις αὐτὸν ἐῴη διεξιέναι, καὶ ἢν ἀναστῇ, οὐ δύναται αἴρειν τὰ σκέλεα, ἀλλὰ πίπτει. Οἱ πόδες δὲ γίνονται αἰεὶ ψυχροί· καὶ ὁκόταν καθεύδῃ, ἀναΐσσει ἀπὸ τοῦ ὕπνου, καὶ ἐνύπνια ὁρῇ φοβερά. Τοῦτο δὲ γινώσκομεν ὅτι ἀπὸ ἐνυπνίων ἀναΐσσει καὶ φοβέεται, ὅταν ἔννοος γένηται· ἀφηγεῖται γὰρ τὰ ἐνύπνια τοιαῦτα ὁκοῖα καὶ τῷ σώματι ἐποίεέ τε καὶ τῇ γλώσσῃ ἔλεγεν. Ταῦτα μὲν οὖν ὧδε πάσχει. Ἔστι δ’ ὅτε καὶ ἄφωνος γίνεται ὅλην τὴν ἡμέρην καὶ τὴν νύκτα, ἀναπνέων πουλὺ ἀθρόον πνεῦμα. Ὅταν δὲ παύσηται παραφρονέων, εὐθὺς ἔννοος γίνεται, καὶ ἢν ἐρωτᾷ τις αὐτὸν, ὀρθῶς ἀποκρίνεται, καὶ γινώσκει πάντα τὰ λεγόμενα· εἶτα πάλιν ὀλίγῳ ὕστερον ἐν τοῖσιν αὐτοῖσιν ἄλγεσι κεῖται. Αὕτη ἡ νοῦσος προσπίπτει μάλιστα ἐν ἀποδημίῃ, καὶ ἤν πη ἐρήμην ὁδὸν βαδίσῃ· λαμβάνει δὲ καὶ ἄλλως. Τέτανοι δύο ἢ τρεῖς· ἢν μὲν ἐπὶ τρώματι γένηται, πάσχει τάδε.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "Αἱ γνάθοι πήγνυνται ὥσπερ ξύλα, καὶ τὸ στόμα ἀνοίγειν οὐ δύνανται, καὶ οἱ ὀφθαλμοὶ δακρύουσι θαμινὰ καὶ ἕλκονται, καὶ τὸ μετάφρενον πέπηγε, καὶ τὰ σκέλεα οὐ δύνανται ξυγκάμπτειν, οὐδὲ τὰς χεῖρας καὶ τὴν ῥάχιν· ὁκόταν δὲ θανατώδης ᾖ, τὸ ποτὸν καὶ τὰ βρώματα, ἃ πρότερον ἐβεβρώκεεν, ἀνὰ τὰς ῥῖνας ἐνίοτε ἔρχεται. Ὁ δὲ ὀπισθότονος τὰ μὲν ἄλλα πάσχει διὰ πλῆθος τὰ αὐτὰ, γίνεται δὲ ὁκόταν τοὺς ἐν τῷ αὐχένι τένοντας τοὺς ὄπισθεν νοσήσῃ· νοσέει δὲ ἢ ἀπὸ συνάγχης, ἢ ἀπὸ σταφυλῆς, ἢ τῶν ἀμφιβραγχίων ἐμπύων γινομένων· ἐνίοισι δὲ καὶ ἀπὸ τῆς κεφαλῆς πυρετῶν ἐπιγεγενημένων σπασμὸς ἐπιγίνεται· ἤδη δὲ καὶ ὑπὸ τρωμάτων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Οὗτος ἕλκεται εἰς τοὔπισθεν, καὶ ὑπὸ τῆς ὀδύνης τὸ μετάφρενον πέπηγε καὶ τὰ στήθεα, [καὶ] οἰμώζει. Οὗτος σπᾶται σφόδρα, ὥστε μόλις κατέχεται ὑπὸ τῶν παρεόντων, μὴ ἐκ τῆς κλίνης ἐκπίπτειν. Ὁ δὲ τέτανος ἧσσον θανατώδης τῶν πρόσθεν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Γίνεται δὲ ἀπὸ τῶν αὐτέων, καὶ σπᾶται πᾶν τὸ σῶμα ὁμοίως. Καῦσος δὲ τοῖσι προειρημένοισιν οὐχ ὁμοίως γίνεται· φύσει γὰρ ἅπας ὡς ἠνάγκασθαι πυρέξαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "Δίψα μὲν οὖν πολλὴ ἔχει τὸν ἄνθρωπον καὶ πυρετὸς σφοδρός. Γλῶσσα δὲ ῥήγνυται τρηχυνομένη, καὶ ξηρὴ γίνεται, καὶ τὸ χρῶμα αὐτῆς τὸ μὲν πρῶτον ὠχρόν ἐστι, οἷόν περ εἴωθε, προϊόντος δὲ τοῦ χρόνου μελαίνεται, καὶ ἢν μὲν ἐν ἀρχῇσι μελαίνοιτο, θάσσους αἱ κρίσιες εἰσὶν, ἢν δὲ ὕστερον, χρονιώτεραι. Ἰσχιάδες δὲ ἀπὸ τῶνδε μάλιστα γίνονται τοῖσι πολλοῖσιν, ἢν εἱληθῇ ἐν ἡλίῳ πουλὺν χρόνον, καὶ τὰ ἰσχία διαθερμανθῇ, καὶ τὸ ὑγρὸν ἀναξηρανθῇ τὸ ἐνεὸν τοῖς ἄρθροισιν ὑπὸ τοῦ καύματος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Ὡς δ’ ἀναξηραίνεται καὶ πήγνυται, τόδε μέγα τεκμήριον· ὁ γὰρ νοσέων ἐνστρέφεσθαι καὶ κινέειν τὰ ἄρθρα οὐ δύναται ὑπὸ τῆς ἀλγηδόνος τῶν ἄρθρων καὶ τοῦ ξυμπεπηγέναι τοὺς σπονδύλους. Ἀλγέει δὲ μᾶλλον τὴν ὀσφῦν καὶ τοὺς σπονδύλους τοὺς ἐκ τοῦ πλαγίου τῶν ἰσχίων καὶ τὰ γούνατα· ἵσταται δὲ ἡ ὀδύνη πλεῖστον χρόνον ἐν τοῖσι βουβῶσιν, ἅμα καὶ ἐν τοῖσιν ἰσχίοισιν, ὀξείη καὶ καυματώδης· καὶ ἤν τις αὐτὸν ἀνιστῇ ἢ μετακινέῃ, οἰμώζει ὑπὸ τῆς ἀλγηδόνος, ὅσον ἂν μέγιστον δύνηται· ἐνίοτε δὲ καὶ σπασμὸς ἐπιγίνεται καὶ ῥῖγος καὶ πυρετός. Γίνεται δὲ ἀπὸ χολῆς· γίνεται δὲ καὶ ἀπὸ αἵματος· καὶ ὀδύναι παραπλήσιοι ἀπὸ πάντων τῶν νουσημάτων, καὶ ῥῖγος καὶ πυρετὸς ἐνίοτε ἐπιλαμβάνει βληχρός· ἀλλὰ χρὴ ὧδε μελετῇν. Ἴκτερος δέ ἐστιν ὀξὺς καὶ ταχέως ἀποκτείνων· ἡ χροιὴ δὲ ὅλη σιδιοειδὴς σφόδρα ἐστὶν ἢ χλωροτέρη, καθὰ καὶ οἱ σαῦροι οἱ χλωρότεροι· παρόμοιος δέ οἱ ὁ χρὼς, καὶ ἐν τῷ οὔρῳ ὑφίσταται οἷον ὀρόβιον πυῤῥὸν, καὶ πυρετὸς καὶ φρίκη βληχρὴ ἔχει· ἐνίοτε δὲ καὶ τὸ ἱμάτιον οὐκ ἀνέχεται ἔχων, ἀλλὰ δάκνεται καὶ ξύεται, τὰ ἑωθινὰ ἄσιτος ἐὼν, τὰ ἔνδοθεν· ἔπειτα μύζει τὰ σπλάγχνα ὡς ἐπιτοπολύ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Καὶ ὁκόταν ἀνιστῇ τις αὐτὸν ἢ προσδιαλέγηται, οὐκ ἀνέχεται. Οὗτος ὡς ἐπιτοπολὺ θνήσκει ἐντὸς τεσσαρεσκαίδεκα ἡμερέων· ταύτας δὲ διαφυγὼν ὑγιαίνει. Ἡ δὲ περιπλευμονίη τοιάδε ποιέει· πυρετός τε ἰσχυρὸς ἴσχει, καὶ πνεῦμα πυκνὸν, καὶ θερμὸν ἀναπνέει· καὶ ἀπορίη καὶ ἀδυναμίη ἔχει, καὶ ῥιπτασμὸς, καὶ ὀδύναι περὶ τὴν ὠμοπλάτην καὶ τὴν κληῗδα καὶ τὸν τιτθὸν, καὶ βάρος ἐν τοῖσι στήθεσι, καὶ παραφροσύναι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "Ἔστι δ’ ὅτε καὶ ἀνώδυνός ἐστιν, ἕως ἂν ἄρξηται βήσσειν, πολυχρονιωτέρη δὲ ἐκείνης καὶ χαλεπωτέρη. Τὸ δὲ σίαλον λευκὸν καὶ ἀφρῶδες πτύει τὸ πρῶτον. Ἡ δὲ γλῶσσα ξανθὴ, προϊόντος δὲ τοῦ χρόνου μελαίνεται· ἢν μὲν οὖν ἐν ἀρχῇ μελαίνοιτο, θάσσους αἱ ἀπαλλαγαί· ἢν δὲ ὕστερον, σχολαίτεραι· τελευτῶσι δὲ καὶ ῥήγνυται ἡ γλῶσσα· κἢν προσθῇς τὸν δάκτυλον, ἔχεται· τὴν δὲ ἀπαλλαγὴν τῆς νούσου σημαίνει ἡ γλῶσσα, ἅπερ καὶ ἐν τῇ πλευρίτιδι ὁμοίως. Ταῦτα δὲ πάσχει ἡμέρας τεσσαρεσκαίδεκα τὸ ἐλάχιστον, τὸ πλεῖστον δὲ εἴκοσι καὶ μίαν, καὶ βήσσει τοῦτον τὸν χρόνον σφόδρα, καὶ καθαίρεται ἅμα τῇ βηχὶ τὸ μὲν πρῶτον πουλὺ καὶ ἀφρῶδες σίαλον, ἑβδόμῃ δὲ καὶ ὀγδόῃ, ὅταν ὁ πυρετὸς ἀκμάζῃ καὶ ὑγρὰ ᾖ ἡ περιπλευμονίη, παχύτερον· ἢν δὲ μὴ, οὔ· ἐνάτῃ δὲ καὶ δεκάτῃ ὑπόχλωρον καὶ ὕφαιμον· δωδεκάτῃ δὲ μέχρι τῆς τεσσαρεσκαιδεκάτης πουλὺ καὶ πυῶδες. Ὧν ὑγραί εἰσιν αἱ φύσεις καὶ διαθέσεις τοῦ σώματος, καὶ ἡ νοῦσος ἰσχυρή· ὧν δὲ ἥ τε φύσις καὶ ἡ στάσις τῆς νόσου ξηρὴ, ἧσσον οὗτοι. Περὶ δὲ κρισίμων ἡμερέων ἤδη μέν μοι καὶ πρόσθεν λέλεκται· κρίνονται δὲ οἱ πυρετοὶ τεταρταῖοι, ἑβδομαῖοι, ἑνδεκαταῖοι, τεσσαρεσκαιδεκαταῖοι, ἑπτακαιδεκαταῖοι, εἰκοστῇ πρὸς τῇ μίᾳ· ἐκ δὲ τούτων τῶν ὀξέων τριακοσταῖοι, εἶτα τεσσαρακοσταῖοι, εἶτα ἑξηκοσταῖοι· ὅταν δὲ τούτους τοὺς ἀριθμοὺς ὑπερβάλλῃ, χρονίη ἤδη γίνεται ἡ κατάστασις τῶν πυρετῶν.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "bww-bq",
+      "title": {
+        "english": "Aphorisms",
+        "ancient_greek": "Ἀφορισμοί"
+      },
+      "url_slug": "hippocrates-aphorisms-bww-bq",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/aphorisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/aphorisms.json"
+      }
+    },
+    {
+      "eul_wid": "bww-cc",
+      "title": {
+        "english": "Carrier",
+        "ancient_greek": "Φορεύς"
+      },
+      "url_slug": "hippocrates-carrier-bww-cc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/carrier",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/carrier.json"
+      }
+    },
+    {
+      "eul_wid": "bww-aw",
+      "title": {
+        "english": "Coan Prognostics",
+        "ancient_greek": "Κῶα Προγνωστικά"
+      },
+      "url_slug": "hippocrates-coan-prognostics-bww-aw",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/coan-prognostics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/coan-prognostics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-br",
+      "title": {
+        "english": "Epidemics (Selections from Books I and III)",
+        "ancient_greek": "Ἐπιδημίων"
+      },
+      "url_slug": "hippocrates-epidemics-bww-br",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bra",
+      "title": {
+        "english": "Epidemics, Book I",
+        "ancient_greek": "Ἐπιδημίων Α"
+      },
+      "url_slug": "hippocrates-epidemics-1-bww-bra",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-1.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brb",
+      "title": {
+        "english": "Epidemics, Book II",
+        "ancient_greek": "Ἐπιδημίων Β"
+      },
+      "url_slug": "hippocrates-epidemics-2-bww-brb",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-2",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-2.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brc",
+      "title": {
+        "english": "Epidemics, Book III",
+        "ancient_greek": "Ἐπιδημίων Γ"
+      },
+      "url_slug": "hippocrates-epidemics-3-bww-brc",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-3.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brd",
+      "title": {
+        "english": "Epidemics, Book IV",
+        "ancient_greek": "Ἐπιδημίων Δ"
+      },
+      "url_slug": "hippocrates-epidemics-4-bww-brd",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-4",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-4.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bre",
+      "title": {
+        "english": "Epidemics, Book V",
+        "ancient_greek": "Ἐπιδημίων Ε"
+      },
+      "url_slug": "hippocrates-epidemics-5-bww-bre",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-5",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-5.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brf",
+      "title": {
+        "english": "Epidemics, Book VI",
+        "ancient_greek": "Ἐπιδημίων Ζ"
+      },
+      "url_slug": "hippocrates-epidemics-6-bww-brf",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-6",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-6.json"
+      }
+    },
+    {
+      "eul_wid": "bww-brg",
+      "title": {
+        "english": "Epidemics, Book VII",
+        "ancient_greek": "Ἐπιδημίων Η"
+      },
+      "url_slug": "hippocrates-epidemics-7-bww-brg",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/epidemics-7",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/epidemics-7.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "qmm-cg",
+      "title": {
+        "english": "Advice for an Epileptic Boy",
+        "ancient_greek": "Συμβουλή πρὸς παιδὶ ἐπιληπτικῷ"
+      },
+      "url_slug": "galen-of-pergamon-epileptic-boy-qmm-cg",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/epileptic-boy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/epileptic-boy.json"
+      }
+    },
+    {
+      "eul_wid": "tjw-aa",
+      "title": {
+        "english": "On Antipathy and Sympathy",
+        "ancient_greek": "Περὶ τῶν κατὰ ἀντιπάθειαν καὶ συμπάθειαν"
+      },
+      "url_slug": "neoplatonist-philosopher-anonymous-antipathy-sympathy-tjw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/neoplatonist-philosopher-anonymous/antipathy-sympathy",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neoplatonist-philosopher-anonymous/antipathy-sympathy.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neoplatonist-philosopher-anonymous/antipathy-sympathy.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neoplatonist-philosopher-anonymous/antipathy-sympathy.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/neoplatonist-philosopher-anonymous/antipathy-sympathy.json"
+      }
+    },
+    {
+      "eul_wid": "qao-aa",
+      "title": {
+        "english": "On Causes and Signs of Chronic Diseases",
+        "ancient_greek": "Περὶ αἰτίων καὶ σημείων χρονίων παθῶν"
+      },
+      "url_slug": "aretaeus-the-cappadocian-chronic-diseases-aa-qao-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/aretaeus-the-cappadocian/chronic-diseases-aa",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aretaeus-the-cappadocian/chronic-diseases-aa.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-aq",
+      "title": {
+        "english": "On Hippocrates'-the Diet of the Acutely Ill",
+        "ancient_greek": "Περὶ Ἱπποκράτους περὶ δίαιτας τῶν ὀξέων"
+      },
+      "url_slug": "galen-of-pergamon-diet-acutely-ill-qmm-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/diet-acutely-ill",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diet-acutely-ill.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diet-acutely-ill.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diet-acutely-ill.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/diet-acutely-ill.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-cr",
+      "title": {
+        "english": "On the Causes of Diseases",
+        "ancient_greek": "Περὶ τῶν αἰτιῶν τῶν νόσων"
+      },
+      "url_slug": "galen-of-pergamon-causes-diseases-qmm-cr",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/causes-diseases",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/causes-diseases.json"
+      }
+    },
+    {
+      "eul_wid": "vcc-aa",
+      "title": {
+        "english": "On the Eyes, Three Books",
+        "ancient_greek": "Περὶ ὀφθαλμῶν"
+      },
+      "url_slug": "alexander-of-tralles-eyes-vcc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/alexander-of-tralles/eyes",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/eyes.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/eyes.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/eyes.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/alexander-of-tralles/eyes.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ay",
+      "title": {
+        "english": "Scholia on Plato's Timaeus",
+        "ancient_greek": "Σχόλια εἰς τὰ ἀποσπάσματα τοῦ Πλάτωνος Τιμαίου"
+      },
+      "url_slug": "galen-of-pergamon-timaeus-commentary-ay-qmm-ay",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/timaeus-commentary-ay",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ay.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ay.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ay.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/timaeus-commentary-ay.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-ab",
+      "title": {
+        "english": "Thrasybulus or Whether Hygiene Belongs to Medicine or Gymnastics",
+        "ancient_greek": "Θρασύβουλος ἢ πότερον ἰατρικῇ ἢ γυμναστικῇ ὑγιεινή"
+      },
+      "url_slug": "galen-of-pergamon-thrasybulus-hygiene-qmm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/thrasybulus-hygiene",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/thrasybulus-hygiene.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippocrates/critical-days",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/critical-days.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/critical-days.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/critical-days.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/critical-days.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

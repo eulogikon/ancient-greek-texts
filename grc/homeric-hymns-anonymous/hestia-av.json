@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "upu-av",
+  "eul_aid": "upu",
+  "author_slug": "homeric-hymns-anonymous",
+  "work_slug": "hestia-av",
+  "url_slug": "homeric-hymns-anonymous-hestia-av-upu-av",
+  "author": {
+    "english": "Hymnic Collection  Anonymous",
+    "ancient_greek": "Ὁμηρικοὶ Ὕμνοι"
+  },
+  "title": {
+    "english": "Hymn 29 To Hestia",
+    "ancient_greek": "Ὕμνος εἰς Ἑστίαν"
+  },
+  "seo": {
+    "browser_title": "Homeric Hymn 29 To Hestia by Anonymous on Eulogikon",
+    "meta_title": "Homeric Hymn 29 To Hestia by Anonymous in Ancient Greek",
+    "meta_description": "Homeric Hymn 29 To Hestia invokes the hearth goddess. This hymn honors Hestia's eternal place. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἐπική",
+      "english": "Epic (Homeric)",
+      "href": "/dialects/epc"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ποίησις",
+      "english": "Poetry",
+      "href": "/domains/poetry"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">Hymn 29 to Hestia is a brief, anonymous religious poem from the collection known as the Homeric Hymns. Composed in the dactylic hexameter of epic verse, it is dedicated to Hestia, the virgin goddess of the hearth, home, and domestic life. The hymn consists of only thirteen lines and follows the traditional hymnic structure, opening with an invocation to the goddess, praising her honored position, and concluding with a prayer for her favor. It emphasizes Hestia’s central and static role as the guardian of the sacred hearth, a position of eternal honor she holds in the dwellings of both immortal gods and mortal humans. The text specifically connects her to the famous sanctuary of Apollo at Delphi, noting she shares in its honors and receives the first and last libations of honey-sweet wine at mortal feasts. The latter portion of the hymn expands into a dual address, invoking Hermes alongside Hestia and asking for their joint goodwill and assistance in the noble works and vigor of humankind. The Homeric Hymns are generally thought to have been composed for performance at religious festivals or as preludes to epic recitation, likely between the seventh and fifth centuries BCE, though their precise dates remain uncertain. The text survives complete as part of the larger Homeric Hymns collection, transmitted primarily through medieval manuscripts, the most important being a fifteenth-century codex held in Florence. Although traditionally attributed to Homer, modern scholarship regards the hymns as the work of various anonymous poets over several centuries.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "unit_1",
+      "text": "Ἑστίη ἣ πάντων ἐν δώμασιν ὑψηλοῖσιν ἀθανάτων τε θεῶν χαμαὶ ἐρχομένων τ’ ἀνθρώπων ἕδρην ἀΐδιον ἔλαχες πρεσβηΐδα τιμὴν καλὸν ἔχουσα γέρας καὶ τιμήν· οὐ γὰρ ἄτερ σοῦ εἰλαπίναι θνητοῖσιν ἵν’ οὐ πρώτῃ πυμάτῃ τε Ἑστίῃ ἀρχόμενος σπένδει μελιηδέα οἶνον· καὶ σύ μοι Ἀργειφόντα Διὸς καὶ Μαιάδος υἱὲ ἄγγελε τῶν μακάρων χρυσόρραπι δῶτορ ἐάων, ναίετε δώματα καλά, φίλα φρεσὶν ἀλλήλοισιν ἵλαος ὢν ἐπάρηγε σὺν αἰδοίῃ τε φίλῃ τε Ἑστίῃ· ἀμφότεροι γὰρ ἐπιχθονίων ἀνθρώπων εἰδότες ἔργματα καλὰ νόῳ θ’ ἕσπεσθε καὶ ἥβῃ. Χαῖρε Κρόνου θύγατερ, σύ τε καὶ χρυσόρραπις Ἑρμῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "unit_2",
+      "text": "αὐτὰρ ἐγὼν ὑμέων τε καὶ ἄλλης μνήσομ’ ἀοιδῆς.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "upu-am",
+      "title": {
+        "english": "Hymn 1 to Dionysus",
+        "ancient_greek": "Ὕμνος εἰς Διόνυσον"
+      },
+      "url_slug": "homeric-hymns-anonymous-dionysus-1-upu-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dionysus-1",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dionysus-1.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ag",
+      "title": {
+        "english": "Hymn 10 to Aphrodite",
+        "ancient_greek": "Ὕμνος εἰς Ἀφροδίτην"
+      },
+      "url_slug": "homeric-hymns-anonymous-aphrodite-10-upu-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/aphrodite-10",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/aphrodite-10.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ap",
+      "title": {
+        "english": "Hymn 11 to Athena",
+        "ancient_greek": "Ὕμνος εἰς Ἀθηνᾶν"
+      },
+      "url_slug": "homeric-hymns-anonymous-athena-ap-upu-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/athena-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/athena-ap.json"
+      }
+    },
+    {
+      "eul_wid": "upu-bc",
+      "title": {
+        "english": "Hymn 12 to Hera",
+        "ancient_greek": "Ὕμνος εἰς Ἥραν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hymn-12-hera-upu-bc",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hymn-12-hera",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hymn-12-hera.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ab",
+      "title": {
+        "english": "Hymn 14 Mothe f Gods",
+        "ancient_greek": "Ὕμνος εἰς τὴν Μητέρα τῶν Θεῶν"
+      },
+      "url_slug": "homeric-hymns-anonymous-mother-gods-upu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/mother-gods",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/mother-gods.json"
+      }
+    },
+    {
+      "eul_wid": "upu-aa",
+      "title": {
+        "english": "Hymn 15 To Heracles",
+        "ancient_greek": "Ὕμνος εἰς Ἡρακλέα τὸν λέοντα"
+      },
+      "url_slug": "homeric-hymns-anonymous-hercules-upu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hercules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hercules.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ah",
+      "title": {
+        "english": "Hymn 16 To Asclepius",
+        "ancient_greek": "Ὕμνος εἰς Ἀσκληπιόν"
+      },
+      "url_slug": "homeric-hymns-anonymous-asclepius-upu-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/asclepius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/asclepius.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ad",
+      "title": {
+        "english": "Hymn 17 To the Dioscuri",
+        "ancient_greek": "Ὕμνος εἰς τοὺς Διοσκούρους"
+      },
+      "url_slug": "homeric-hymns-anonymous-dioscuri-ad-upu-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/dioscuri-ad",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/dioscuri-ad.json"
+      }
+    },
+    {
+      "eul_wid": "upu-aq",
+      "title": {
+        "english": "Hymn 18 To Hermes",
+        "ancient_greek": "Ὕμνος εἰς Ἑρμῆν"
+      },
+      "url_slug": "homeric-hymns-anonymous-hermes-aq-upu-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hermes-aq",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hermes-aq.json"
+      }
+    },
+    {
+      "eul_wid": "upu-be",
+      "title": {
+        "english": "Hymn 19 To Pan",
+        "ancient_greek": "Ὕμνος εἰς Πᾶνα"
+      },
+      "url_slug": "homeric-hymns-anonymous-pan-upu-be",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/pan",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/pan.json"
+      }
+    },
+    {
+      "eul_wid": "upu-ar",
+      "title": {
+        "english": "Hymn 2 To Demeter",
+        "ancient_greek": "Ὕμνος εἰς Δημήτρα"
+      },
+      "url_slug": "homeric-hymns-anonymous-demeter-upu-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/demeter",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/demeter.json"
+      }
+    },
+    {
+      "eul_wid": "upu-af",
+      "title": {
+        "english": "Hymn 20 To Hephaestus",
+        "ancient_greek": "Ὕμνος εἰς Ἥφαιστον"
+      },
+      "url_slug": "homeric-hymns-anonymous-hephaestus-upu-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hephaestus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hephaestus.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "icu-ab",
+      "title": {
+        "english": "Altar",
+        "ancient_greek": "Βωμός"
+      },
+      "url_slug": "dosiadas-of-crete-altar-icu-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dosiadas-of-crete/altar",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete/altar.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete/altar.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete/altar.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dosiadas-of-crete/altar.json"
+      }
+    },
+    {
+      "eul_wid": "kka-aa",
+      "title": {
+        "english": "Epigram",
+        "ancient_greek": "Ἐπίγραμμα"
+      },
+      "url_slug": "ptolemy-iii-euergetes-epigram-kka-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-iii-euergetes/epigram",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-iii-euergetes/epigram.json"
+      }
+    },
+    {
+      "eul_wid": "brw-ad",
+      "title": {
+        "english": "Erotic Works Fragments",
+        "ancient_greek": "Ἐρωτικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "bacchylides-of-ceos-erotic-fragments-brw-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/bacchylides-of-ceos/erotic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bacchylides-of-ceos/erotic-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "pfu-aa",
+      "title": {
+        "english": "Fragments on Apollo",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀπόλλωνος"
+      },
+      "url_slug": "mesomedes-of-crete-apollo-fragments-pfu-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/mesomedes-of-crete/apollo-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/apollo-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/apollo-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/apollo-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/mesomedes-of-crete/apollo-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "kgy-aa",
+      "title": {
+        "english": "Fragments on Scylla and Galatea",
+        "ancient_greek": "Ἀποσπάσματα περὶ Σκύλλης καὶ Γαλατείας"
+      },
+      "url_slug": "hedyle-scylla-galatea-kgy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hedyle/scylla-galatea",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle/scylla-galatea.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle/scylla-galatea.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle/scylla-galatea.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hedyle/scylla-galatea.json"
+      }
+    },
+    {
+      "eul_wid": "hvm-aa",
+      "title": {
+        "english": "Grammatical Fragments",
+        "ancient_greek": "Γραμματικὰ Ἀποσπάσματα"
+      },
+      "url_slug": "philetas-of-cos-grammatical-fragments-hvm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philetas-of-cos/grammatical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/grammatical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/grammatical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/grammatical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philetas-of-cos/grammatical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "aku-aa",
+      "title": {
+        "english": "Hymn of the Curetes",
+        "ancient_greek": "Ὕμνος Κουρητῶν"
+      },
+      "url_slug": "hymn-of-the-curetes-anonymous-work-aku-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hymn-of-the-curetes-anonymous/work",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous/work.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous/work.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous/work.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hymn-of-the-curetes-anonymous/work.json"
+      }
+    },
+    {
+      "eul_wid": "rty-aa",
+      "title": {
+        "english": "Riddles of Paradoxical Encounters",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "panarces-the-riddler-paradoxical-encounters-rty-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/panarces-the-riddler/paradoxical-encounters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/panarces-the-riddler/paradoxical-encounters.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/homeric-hymns-anonymous/hestia-av",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/homeric-hymns-anonymous/hestia-av.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "etc-aa",
+  "eul_aid": "etc",
+  "author_slug": "thrasyalces-the-sophist",
+  "work_slug": "testimonies",
+  "url_slug": "thrasyalces-the-sophist-testimonies-etc-aa",
+  "author": {
+    "english": "Thrasyalces the Sophist",
+    "ancient_greek": "Θρασυάλκης ὁ Σοφιστής"
+  },
+  "title": {
+    "english": "Testimonies",
+    "ancient_greek": "Μαρτυρίαι"
+  },
+  "seo": {
+    "browser_title": "Testimonies by Thrasyalces the Sophist on Eulogikon",
+    "meta_title": "Ancient Testimonies by Thrasyalces the Sophist in Greek",
+    "meta_description": "Testimonies by Thrasyalces the Sophist, philosophical statements. Surviving Greek text. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Φιλοσοφία",
+      "english": "Philosophy",
+      "href": "/domains/philosophy"
+    },
+    {
+      "label": "Format",
+      "greek": "Συναγωγή",
+      "english": "Collection",
+      "href": null
+    },
+    {
+      "label": "Affiliation",
+      "greek": "",
+      "english": "Sophist",
+      "href": "/affiliations/sophist"
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Testimonies</strong> is a lost work attributed to Thrasyalces the Sophist, known only by its title and the indication that it originally comprised two passages. No description of its specific content, arguments, or structure survives in the extant source record. The work appears to be preserved solely as a bibliographic mention, with no direct fragments or substantive details transmitted. The attribution itself is historically problematic, as the figure named Thrasyalces is otherwise attested in ancient sources not as a Sophist but as a renowned seer from Elis, noted by Herodotus in the context of the Battle of Plataea and by Pausanias as a famous prophet and founder of the Iamidai lineage. No independent evidence confirms the existence of a Sophist by this name or verifies the work&#x27;s place in the Sophistic corpus, rendering the <strong>Testimonies</strong> an obscure and unverified entry in the history of ancient Greek literature.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "STRABO XVII p. 790 τὸ δ’ ὅτι ἐξ ὄμβρων αἱ ἀναβάσεις μὴ ζητεῖν μήτε τοιούτων δεῖσθαι μαρτύρων οἵους Ποσειδώνιος εἴρηκε. φησὶ γὰρ Καλλισθένη λέγειν τὴν ἐκ τῶν ὄμβρων αἰτίαν τῶν θερινῶν παρὰ Ἀριστοτέλους λαβόντα, ἐκεῖνον δὲ παρὰ Θρασυάλκου τοῦ Θασίου (τῶν ἀρχαίων δὲ φυσικῶν εἷς οὗτος), ἐκεῖνον δὲ παρ’ ἄλλου, τὸν δὲ παρ’ Ὁμήρου διιπετέα φάσκοντος τὸν Νεῖλον ‘ἂψ δ’ εἰς Αἰγύπτοιο διιπετέος ποταμοῖο‘ (δ 581).",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "—I p. 29 εἰσὶ δέ τινες, οἵ φασιν εἶναι δύο τοὺς κυριωτάτους ἀνέμους Βορέαν καὶ Νότον ... τοῦ δὲ δύο εἶναι τοὺς ἀνέμους ποιοῦνται μάρτυρας Θρασυάλκην τε καὶ τὸν ποιητὴν αὐτὸν 〈τῶι〉 τὸν μὲν Ἀργεστὴν τῶι Νότωι προσνέμειν ‘ἀργεστᾶο Νότοιο‘ (Λ 306 Φ 334), τὸν δὲ Ζέφυρον τῶι Βορέαι ‘Βορέης καὶ Ζέφυρος, τώ τε Θρήικηθεν ἄητον‘ (Ι 5).",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "hgw-an",
+      "title": {
+        "english": "Aristotelian Divisions",
+        "ancient_greek": "Διαιρέσεις Ἀριστοτελικαί"
+      },
+      "url_slug": "aristotle-divisions-hgw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/aristotle/divisions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aristotle/divisions.json"
+      }
+    },
+    {
+      "eul_wid": "pnw-aa",
+      "title": {
+        "english": "Ethical Fragments from Stobaeus",
+        "ancient_greek": "Ἠθικὰ Ἀποσπάσματα ἐκ Στοβαίου"
+      },
+      "url_slug": "hierocles-the-stoic-ethical-fragments-pnw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/hierocles-the-stoic/ethical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hierocles-the-stoic/ethical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "pzk-aa",
+      "title": {
+        "english": "Life of Secundus",
+        "ancient_greek": "Βίος Σεκούνδου"
+      },
+      "url_slug": "secundus-the-silent-life-pzk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/secundus-the-silent/life",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/secundus-the-silent/life.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-bm",
+      "title": {
+        "english": "On Joseph",
+        "ancient_greek": "Περὶ Ἰωσήφ"
+      },
+      "url_slug": "philo-of-alexandria-joseph-lgi-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/joseph",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/joseph.json"
+      }
+    },
+    {
+      "eul_wid": "lgi-ap",
+      "title": {
+        "english": "On the Confusion of Tongues",
+        "ancient_greek": "Τὰ Φίλωνος Ἀλεξανδρέως"
+      },
+      "url_slug": "philo-of-alexandria-works-of-philo-of-alexandria-ap-lgi-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/philo-of-alexandria/works-of-philo-of-alexandria-ap",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-ap.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-ap.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-ap.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philo-of-alexandria/works-of-philo-of-alexandria-ap.json"
+      }
+    },
+    {
+      "eul_wid": "oqk-ag",
+      "title": {
+        "english": "On the Soul Hindered by the Body's Passion",
+        "ancient_greek": "Περὶ τῆς ὑπὸ τοῦ πάθους τοῦ σώματος"
+      },
+      "url_slug": "hermetica-soul-hindered-passion-oqk-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/hermetica/soul-hindered-passion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hermetica/soul-hindered-passion.json"
+      }
+    },
+    {
+      "eul_wid": "gcc-aa",
+      "title": {
+        "english": "Testimonies",
+        "ancient_greek": "Μαρτυρίαι"
+      },
+      "url_slug": "simus-the-philosopher-testimonies-gcc-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/simus-the-philosopher/testimonies",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/simus-the-philosopher/testimonies.json"
+      }
+    },
+    {
+      "eul_wid": "rye-bh",
+      "title": {
+        "english": "To Emperor Constantius",
+        "ancient_greek": "Εἰς τὸν αὐτοκράτορα Κωνστάντιον"
+      },
+      "url_slug": "themistius-constantius-rye-bh",
+      "links": {
+        "html": "https://eulogikon.org/grc/themistius/constantius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/constantius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/constantius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/constantius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/themistius/constantius.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/thrasyalces-the-sophist/testimonies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist/testimonies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist/testimonies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist/testimonies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/thrasyalces-the-sophist/testimonies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

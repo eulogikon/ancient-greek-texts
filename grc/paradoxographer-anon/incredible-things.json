@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "jre-ac",
+  "eul_aid": "jre",
+  "author_slug": "paradoxographer-anon",
+  "work_slug": "incredible-things",
+  "url_slug": "paradoxographer-anon-incredible-things-jre-ac",
+  "author": {
+    "english": "Paradoxographer Anonymous",
+    "ancient_greek": "Ἀνώνυμοι Παραδοξογράφοι"
+  },
+  "title": {
+    "english": "On Incredible Things",
+    "ancient_greek": "Περὶ ἀπίστων"
+  },
+  "seo": {
+    "browser_title": "On Incredible Things by Anonymous Author on Eulogikon",
+    "meta_title": "On Incredible Things by Anonymous in Ancient Greek",
+    "meta_description": "Paradoxographer Anonymous collects tales of marvels and wonders from Greek tradition. Read free and download in original ancient Greek at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἑλληνιστική",
+      "english": "Hellenistic",
+      "href": "/periods/hellenistic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινή",
+      "english": "Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">_On Incredible Things_ is an anonymous prose work of paradoxography, a genre dedicated to cataloging and explaining marvels, likely composed during the Hellenistic or early Imperial period. The text comprises 23 discrete entries, each presenting a brief account of a miraculous or seemingly supernatural tale, often drawn from mythology, followed by a rationalizing explanation that strips the story of its fantastical elements. A characteristic method is euhemerism, interpreting gods and heroes as deified historical figures. For instance, the work systematically demystifies legends such as Actaeon’s transformation, offering logical and mundane alternatives to the traditional narratives. Although historically and erroneously attributed to the earlier mythographer Palaephatus, its distinct style and content mark it as a separate product of the rationalizing tradition. The work survives complete through its transmission in medieval manuscripts, frequently copied alongside the genuine treatise of Palaephatus, which led to the long-standing misattribution. As a representative, if minor, example of a largely lost body of literature, _On Incredible Things_ exemplifies the Hellenistic intellectual inclination toward critically examining myth, catering to an educated audience’s taste for both wonder and scholarly critique. It remains a valuable source for understanding the rationalist currents in ancient mythography and the conventions of the paradoxographic genre.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "EXCERPTA VATICANA. (Vulgo Anonymus De incredibilibus.) Ἰστέον ὅτι ἀρχαιοτάτους ἀνθρώπων οἱ μὲν Αἰγυπτίους, οἱ δὲ Φρύγας φασίν, Ἑλλήνων δὲ ἀρχαιοτάτους Ἀθηναίους καὶ τοὺς πρὶν Πελασγούς, νῦν δὲ Ἀρκάδας, ἐν δὲ πόλεσι τήν τε Ἀθηναίων ἀκρόπολιν ὑπὸ Κέκροπος τοῦ αὐτόχθονος κτισθεῖσαν τοῦ διφυοῦς καὶ δευτέραν τὴν ὑπὸ Φορωνέως τοῦ Ἰνάχου [κτισθεῖσαν], τρίτην δὲ 〈τὴν〉 Ἴτωνος ἐν Θεσσαλίᾳ ὑπὸ Δευκαλίωνος τοῦ Προμηθέως.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 (t)",
+      "text": "Τὰ ἑπτὰ θεάματα. αʹ ὁ ἐν Ὀλυμπίᾳ Ζεὺς πήχεων λϛʹ. βʹ ὁ τῆς Ἐφεσίας Ἀρτέμιδος ναός. γʹ ὁ ἐν Δήλῳ κεράτινος βωμός, ὃς λέγεται γενέσθαι ἐκ θυμάτων τοῦ θεοῦ μιᾶς ἡμέρας δεξιῶν κεράτων. δʹ τὸ Μαυσώλειον τὸ ἐν Ἁλικαρνασῷ. εʹ αἱ ἐν Αἰγύπτῳ πυραμίδες, ὧν ἡ μείζων πήχεις ἔχει υʹ. ϛʹ τὰ Βαβυλώνια τείχη. ζʹ ὁ ἐν Ῥόδῳ κολοσσὸς πήχεων οʹ, ὃν ἐποίησε Χάρης ὁ Λίνδιος. Τινὲς δὲ τάττουσι καὶ τὸν ἐν Ἐπιδαύρῳ Ἀσκληπιὸν καὶ τὸν ἐν Παρίῳ βωμὸν καὶ τοὺς κρεμαστοὺς κήπους καὶ τὴν ἱσταμένην Ἀθηνᾶν ἐν Ἀθήναις καὶ τὰ Κύρου βασίλεια. Περὶ τοῦ χρυσοῦ δέρους.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3 (t) [t2]",
+      "text": "Ὅτι τὸ ἐν Κόλχοις φυλασσόμενον οὐκ ἦν δέρας ἀληθῶς χρυσοῦν (τοῦτο γὰρ ποιητικευόμενόν ἐστιν), ἀλλὰ βιβλίον ἐν δέρμασι γεγραμμένον περιέχον ὅπως δεῖ γίνεσθαι διὰ χειμείας χρυσόν. εἰκότως οὖν οἱ τότε χρυσοῦν ὠνόμαζον αὐτὸ διὰ τὴν ἐξ αὐτοῦ ἐνέργειαν. Πῶς λέγεται Ἀπόλλων καὶ Ποσειδῶν τειχίσαι Ἴλιον.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4 (t1)",
+      "text": "Ὅτι τὸν Ἀπόλλωνα καὶ τὸν Ποσειδῶνα λέγουσι τειχίσαι τὴν Ἴλιον. τὸ δὲ οὐχ οὕτως ἔχει, ἀλλ’ ὁ Λαομέδων ἐτείχισε τὴν πόλιν οὐχ ὁσίως. ἦν δὲ ἐν τῇ ἀκροπόλει ἱερὸν Ἀπόλλωνος καὶ Ποσειδῶνος διαφερόντως τιμώμενον, ὅθεν συλῶν ἀνήλισκε τὰ χρήματα εἰς τὴν τοῦ τείχους κατασκευήν. Περὶ Κερβέρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5 (t)",
+      "text": "Ὅτι Κέρβερος ὁ 〈κύων〉 Ἀϊδωνέως ἦν βασιλέως Θεσπρωτῶν, ὃν νυκτὸς ὑφελόμενοι κλῶπες ὑπὸ σπήλαιον ἔκρυψαν ἀφεγγές· ὁ δὲ Ἡρακλῆς τοῦτον ἀνελόμενος Εὐρυσθεῖ ἔδωκεν. Περὶ τῆς Ἡρακλέους καὶ Ἀχελῴου πάλης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Ὅτι φασὶ τὸν Ἡρακλῆ μονομαχῆσαι τῷ Ἀχελῴῳ. ἔχει δὲ οὕτω. ῥέων ὁ Ἀχελῷος μεταξὺ Αἰτωλῶν καὶ Κουρήτων πολλὰ τῆς χώρης ἀπετέμνετο ποτὲ μὲν τούτοις, ποτὲ δ’ ἐκείνοις προστιθείς· ἐφ’ ᾧ καὶ νεῖκος ἦν ἑκατέροις κρατερόν. Ἡρακλῆς οὖν ἐλθὼν ἐπίκουρος Αἰτωλοῖς ὑπέρτερος τῶν Κουρήτων ἐγένετο καὶ τὸν ποταμὸν κατακλείσας εἰς ἓν ῥεῖθρον καὶ μίαν ἐκβολὴν ἐκρατύνατο τοῖς Αἰτωλοῖς τὴν γῆν, καὶ τὴν Οἰνέως Δηιάνειραν ἔλαβεν. Περὶ Πασιφάης.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7 (t)",
+      "text": "Πασιφάη ἐρῶσα νεανίσκου ἐπιχωρίου ξυλλήπτορα ποιεῖται τὸν Δαίδαλον καὶ ὑπουργὸν [ποιεῖται] τῷ ἔρωτι, καὶ εἰωθυῖα καὶ πρὶν ὅτε τι ἐργάζοιτο ἐπισκοπεῖν, εἴδωλον βοὸς τεκταίνοντος περικαλλὲς καὶ εἰς τὰ μάλιστα ζώσῃ ἐοικός, συνεχῶς εἰς τὸν Δαιδάλου οἶκον ἰοῦσα καὶ τότε διὰ θέαν τῆς βοός, ξυνῆν τῷ ἐρωμένῳ, ἔστε ἐπάιστος ἐγένετο. τὰ δὲ ἱστορούμενα μυθικά. Περὶ τῆς Χιμαίρας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8 (t)",
+      "text": "Περὶ τῆς Χιμαίρας οὕτω φησὶ Πλούταρχος ἐν τῷ μονοβιβλίῳ τῷ Περὶ ἀρετῆς γυναικῶν. τὴν Χίμαιραν ὄρος ἀντήλιον γεγονέναι φησί, καὶ ποιεῖν ἀνακλάσεις καὶ ἀνακαύσεις ἐν τῷ θέρει χαλεπὰς καὶ πυρώδεις, ὑφ’ ὧν ἀνὰ τὸ πεδίον σκεδαννυμένων μαραίνεσθαι τοὺς καρπούς, τὸν δὲ Βελλεροφόντην συμφρονήσαντα διακόψαι τοῦ κρημνοῦ τὸ λειότατον καὶ μάλιστα τὸ τὰς ἀνακλάσεις ἀποστέλλειν. Περὶ Ναρκίσσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9 (t)",
+      "text": "Λέγεται περὶ αὐτοῦ ὡς ἐν ὕδατι τὴν ἑαυτοῦ σκιὰν ἰδὼν καὶ ἐρασθεὶς ἥλατο εἰς τὸ ὕδωρ ἐφ’ ᾧ τὴν [αὐτοῦ] σκιὰν περιπτύξασθαι, καὶ οὕτως ἀπεπνίγη. οὐκ ἀληθὲς δὲ τοῦτο. οὐ γὰρ εἰς ὕδωρ ἀπεπνίγη, ἀλλ’ ἐν τῇ ῥευστῇ τοῦ ἐνύλου σώματος φύσει τὴν ἑαυτοῦ θεασάμενος σκιάν, ἤτοι τὴν ἐν τῷ σώματι ζωήν, ἥτις ἐστὶ τὸ ἔσχατον εἴδωλον τῆς ὄντως ψυχῆς, καὶ ταύτην ὡς οἰκείαν περιπτύξασθαι σπουδάσας, τουτέστι τὴν κατ’ αὐτὴν ζωὴν ἀγαπήσας, ἀπεπνίγη, γεγονὼς ὑποβρύχιος ὡς φθείρας τὴν ὄντως ψυχήν, ταὐτὸν δὲ εἰπεῖν τὸν ὄντως ἑαυτῷ προσήκοντα βίον. ὅθεν καὶ παροιμία τις φάσκει „δεδιὼς τὴν σαυτοῦ σκιάν“. διδάσκει δὲ δεδιέναι τὴν περὶ τὰ ἔσχατα ὡς πρῶτα σπουδὴν ὄλεθρον ἡμῖν ἐνάγουσαν τῆς ψυχῆς, ἤτοι ἀφανισμὸν τῆς ἀληθοῦς τῶν πραγμάτων γνώσεως καὶ τῆς προσηκούσης αὐτῇ κατ’ οὐσίαν τελειότητος. Οὕτως ὁ εἰς τὰς παρὰ Πλάτωνι παροιμίας γράψας. Περὶ Ἀλεξάνδρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10 (t)",
+      "text": "Ἰστέον ὅτι Ἀλέξανδρος ὁ καὶ Πάρις οὐκ ἔκρινε τὰς θεάς, ἀλλὰ σοφὸς γεγονὼς ἐγκώμιον εἰς αὐτὰς ἐποίησεν. ὅθεν ἐδόθη μῦθος κρῖναι αὐτὸν μεταξὺ Παλλάδος καὶ Ἥρας καὶ Ἀφροδίτης. Περὶ Πανός.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11 (t)",
+      "text": "Φησὶ Πολύαινος ἐν τοῖς Στρατηγικοῖς ὅτι πρῶτος οὗτος τάξιν εὗρεν, φάλαγγα ὠνόμασε, κέρας ἔταξε δεξιὸν καὶ λαιόν (ταύτῃ ἄρα κερασφόρον αὐτὸν πλάττουσι), καὶ πρῶτος πολεμίοις φόβον ἐνέβαλε σοφίᾳ καὶ τέχνῃ. μαθὼν γὰρ ἐκ τῶν σκοπῶν μυρίαν χεῖρα πολεμίων ἐπάγεσθαι τῷ Διονύσῳ, τοῦ Διονύσου δείσαντος, αὐτὸς ὅμως οὐκ ἔδεισεν, ἀλλ’ ἐσήμαινε νύκτωρ τῇ διονυσιακῇ στρατιᾷ ἀλαλάξαι μέγιστον. οἱ μὲν οὖν ἐσάλπισαν καὶ ἠλάλαξαν, ἀντήχησαν δὲ αἱ πέτραι καὶ τὸ κοῖλον τῆς νάπης. οἱ μὲν οὖν πολέμιοι φόβῳ πληγέντες ἔφυγον. τοῦ δὲ Πανὸς τὸ στρατήγημα τιμῶντες, τὴν Ἠχὼ τῷ Πανὶ φίλην ᾄδομεν καὶ τοὺς 〈κενοὺς καὶ τοὺσ〉 νυκτερινοὺς 〈τῶν στρατευμάτων〉 φόβους πανι〈κὰ〉 κλῄζομεν. Περὶ Ἐνδυμίωνος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12 (t)",
+      "text": "Ὅτι πρῶτος Ἐνδυμίων τῇ περὶ τοὺς ἀστέρας ἐσχόλασε θεωρίᾳ, ὡς ἀγρυπνεῖν τὴν πᾶσαν νύκτα καὶ τὰς ἡμέρας ἐπὶ πλέον καθεύδειν. διὸ καὶ ἐρώμενος εἶναι λέγεται τῆς Σελήνης, ὡς ὑπάρχων αὐτῇ τούτου ἕνεκα προσφιλής. Οὕτω Πλάτων. Περὶ Φαέθοντος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13 (t)",
+      "text": "Λέγεται δὲ καὶ περὶ Φαέθοντος ὡς Ἡλίου ἦν υἱός. ἔχει δὲ οὕτως. ὁ Φαέθων τὸν τοῦ ἡλίου δρόμον ἐτεκμήρατο, ὡς τὸν τῆς σελήνης Ἐνδυμίων· οὐ μέντοι ἀτρεκέως, ἀλλ’ ἀτελῆ τὸν λόγον ἀπολιπὼν ἀπέθανεν. Περὶ Βελλεροφόντου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "14 (t)",
+      "text": "Καὶ ὁ Βελλεροφόντ〈ου ἵπποσ〉 πτηνός, ὡς ὁ μῦθος, οὐκ ἐγένετο· ἀλλὰ τὴν ἀστρονομίαν μετιὼν ὑψηλά τε φρονῶν καὶ ἄστροις ὁμιλῶν, εἰς οὐρανὸν οὐ τῷ ἵππῳ, ἀλλὰ τῇ διανοίᾳ ἀνέβη. Περὶ Ἰκάρου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "15 (t)",
+      "text": "Καὶ ὁ Ἴκαρος νεότητι καὶ ἀτασθαλίᾳ χρώμενος οὐκ ἐπιεικτὰ ζητῶν, ἀλλὰ πολὺ ἀρθεὶς τῷ νῷ, ἐξέπεσε τῆς ἀληθείας καὶ παντὸς ἀπεσφάλη τοῦ λόγου καὶ εἰς πέλαγος κατηνέχθη ἀβύσσων πραγμάτων, ὃν Ἕλληνες ἄλλως μυθολογοῦσι, καὶ κόλπον ἀπ’ αὐτοῦ Ἰκάριον πλάττουσιν. Περὶ Ἰοῦς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "16 (t)",
+      "text": "Ἰὼ ἡ Ἀρέστορος ἱερᾶτο τῇ Ἥρᾳ. πρὸ γάμου δὲ κυήσασαν γνοὺς ὁ πατὴρ (οὐ γὰρ ἔτι αὐτῇ ἡ ὄψις παρθένιος ἦν, ἀλλ’ ὑπὸ τῆς ἀφροδισίου ἀκμῆς μείζων καὶ καλλίων αὑτῆς ἐφαίνετο, ὡς καὶ βοῦς ὑπὸ τῶν Ἀργείων ἐπονομάζεσθαι) ἐχαλέπαινέ τε καὶ ἐν φρουρᾷ εἶχεν αὐτήν, φύλακα ἐπιστήσας αὐτῇ τὸν τῆς μητρὸς ἀδελφὸν Ἄργον. καὶ ὁ μὲν Ἄργος ἄυπνος ὢν καὶ πάντη ἄφυκτος οὐδαμῶς αὐτὴν ἀνίει, ὅθεν καὶ Πανόπτης ἔσχεν ἐπίκλησιν· τῶν δὲ ἐπιχωρίων Ἑρμάων βουλομένης Ἰοῦς λαθὼν κτείνει τὸν Ἄργον, ἡ δὲ ὧδε ἐλευθερωθεῖσα φεύγει σὺν τοῖς πράξασιν ἐπιβᾶσα νεὼς φορτίδος, ὑπὸ δὲ χειμῶνος φορηθεῖσα ἀνὰ τὸ πέλαγος, ὃ καλεῖται Ἰόνιον, καὶ πολλαχοῦ προσπελασθεῖσα εἰς Ἀερίαν ἐκομίσθη καὶ θεὸς ἐνομίσθη διὰ τὸ κάλλος. Οὕτω Χάραξ ἐν Ἑλληνικοῖς. Περὶ Διονύσου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "17 (t)",
+      "text": "Ὁ Χάραξ οὕτω φησίν, ὅτι Σεμέλη ἡ Κάδμου θυγάτηρ λέγεται κυῆσαι πρὸ γάμου· ἐν δὲ ταῖς γοναῖς κεραυνοῦ κατασκήψαντος αὐτὴ μὲν ἠφανίσθη, τὸ δὲ βρέφος περιεγένετο. ἐκείνην μὲν οὖν, ὁποῖα ἐπὶ τοῖς διοβλήτοις λέγεται, θείας μοίρας λαχεῖν ᾠήθησαν καὶ Θυώνην ὠνόμασαν, τὸν δὲ παῖδα θειότατον ὄντα ὁ Κάδμος, διότι ἐκ πυρὸς ἐσώθη, περιεῖπε, καὶ τίθεται αὐτῷ τὸ τοῦ Αἰγυπτίου Διονύσου πάτριον ὄνομα. Ἀλέξανδρος δὲ ὁ Ἀφροδισιεὺς ἐν τοῖς Φυσικοῖς οὕτω φησίν, ὡς „οὐκ ἀσκόπως μυθεύονται ἕπεσθαι βάκχην τῷ Διονύσῳ διὰ τὴν ἐκ τοῦ οἴνου χορείαν, σατύρους δὲ διὰ τὴν εὐκινησίαν, Λυδοὺς δὲ διὰ τό τινας ἐξ αὐτοῦ ἐκλύεσθαι, πάρδον δὲ διὰ τὴν πολυποίκιλον φαντασίαν τῶν οἰνωμένων· διάφορον γὰρ ἕκαστος καὶ ποικίλον ἀναδέχεται λογισμὸν ὑπὸ τοῦ οἴνου κινούμενος, πολύστικτος δὲ καὶ ἡ δορὰ τοῦ ζῴου· μίαν δὲ βάκχην μανεῖσαν δρᾶσαι φόνον, πολλοὶ γὰρ μεθυσθέντες ἐφόνευσαν· γυμνὸν δὲ 〈τὸν Διόνυσον〉 εἶναι διὰ τὴν ἀπὸ τοῦ οἴνου φανέρωσιν τῶν πινόντων τοῦ λογισμοῦ· ποθῆσαι δὲ Ἀφροδίτην καὶ Ἀριάδνην, ὅτι τοῖς οἰνωθεῖσι παρέπεται πλείστη τῶν γυναικῶν ἐπιθυμία· 〈ἔχειν δὲ〉 καὶ 〈φαλακρόν τινα διὰ τὸ μάλιστα τὸ ἐγκέφαλον〉 ἐρημοῦν τε καὶ βλάπτειν καὶ μαραίνειν τὸ σῶμα τὸν πολὺν οἶνον· ὅθεν καὶ μάρωνα αὐτὸν λέγουσιν· *** ὑπὸ πυρὸς δὲ κεραυνωθῆναι καὶ ἐν μηρῷ βληθῆναι, ὅτι πολλάκις ὁ οἶνος ἡλιαζόμενος τελειοῦται τῇ κράσει καὶ 〈τῇ〉 δυνάμει τοῖς κεραμίοις κρυπτόμενος· τέσσαρας δὲ γυναῖκας εἶναι αὐτῷ ἀδελφὰς διὰ τὸ τέσσαρας τροπὰς ἔχειν καὶ μεταβολὰς τὸν οἶνον.“ Περὶ τῆς παρ’ Ὁμήρῳ σειρᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "18 (t)",
+      "text": "Συμβάλλουσι δέ τινες Ὅμηρον σειρὰν λέγειν τὰς ἡμέρας καὶ τὰς ἡλίου ἀκτῖνας. Περὶ Κρόνου.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "19 (t)",
+      "text": "Τὸ δὲ καὶ τὸν Κρόνον ὑπὸ Διὸς δεθῆναι οὐκ ἀληθές, ἀλλὰ φέρεται ὁ Κρόνος τὴν ἔξω φορὰν πολὺ ἀφ’ ἡμῶν, ἡ δὲ κίνησις νωθὴς καὶ οὐ ῥᾳδία τοῖς ἀνθρώποις φαίνεσθαι· διὸ ἑστάναι αὐτόν φασί πως πεπεδημένον. τὸ δὲ βάθος τοῦ πολλοῦ ἀέρος Τάρταρος λέγεται. Περὶ τοῦ πυρὸς τοῦ ἀπὸ τῶν Διομήδους ὅπλων.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "20 (t)",
+      "text": "Τί τὸ ἀκατάπαυστον πῦρ ὃ ἀνή〈στρα〉πτεν ἀπὸ τῶν ὅπλων τοῦ Διομήδους; ἐπεὶ φωσφόρος παραδίδοται ἡ Ἀθηνᾶ καὶ χορηγός ἐστι νοῦ καὶ φρονήσεως ἀληθοῦς, ἀνῆψε τῇ Διομήδους ψυχῇ φῶς καὶ τὴν ἀχλὺν ἀφείλατο, ἤγουν τὴν ἀγνωσίαν, ἧς παρούσης οὐχ ὁρᾷ ψυχή. λέγεται γάρ· ἀχλὺν δ’ αὖ τοι ἀπ’ ὀφθαλμῶν ἕλον ἣ πρὶν ἐπῆεν· καὶ τοῦτο ἂν νοηθείη τὸ πῦρ καὶ ἡ παρασχοῦσα αὐτῷ Ἀθηνᾶ. Οὕτω Πρόκλος. Περὶ τοῦ „μέγα δ’ ἔβραχε φήγινος ἄξων“.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "21 (t)",
+      "text": "„Μέγα δ’ ἔβραχε φήγινος ἄξων βριθοσύνῃ.“ καὶ πῶς βαρύτητος αἴτιον τὸ ἀβαρές; φασὶν οὖν ὅτι ὁποῖον ἂν ᾖ τὸ μετέχον, τοιοῦτον ἀνάγκη φαίνεσθαι καὶ τὸ μετεχόμενον. ἑνὸς γὰρ ὄντος τοῦ μετεχομένου θεοῦ, ψυχὴ μὲν ἄλλως, νοῦς δὲ ἄλλως, φαντασία ἄλλως καὶ αἴσθησις ἄλλως μετέχει, ἡ μὲν ἀνειλιγμένως, ὁ δὲ ἀμερίστως, ἡ δὲ μορφωτικῶς, ἡ δὲ παθητικῶς. καὶ ἔστι τὸ μετεχόμενον μονοειδὲς μὲν κατὰ τὴν ὕπαρξιν, πολυειδὲς δὲ κατὰ μέθεξιν, ἄλλοτε ἀλλοῖον διὰ τὴν αὐτῶν ἀσθένειαν τοῖς μετέχουσι φανταζόμενον, καὶ οὐ μόνον ταῦτα, ἀλλὰ καὶ βάρους τὸ ἀβαρὲς αἴτιον φαίνεται. Περὶ Σολοικισμοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "22 (t)",
+      "text": "Ὅτι Σόλων μετὰ τὴν τοῦ Κροίσου ἐρώτησιν ἐν Κιλικίᾳ γεγονὼς Σόλους πόλιν ᾤκισεν, ἐν ᾗ καί τινας τῶν Ἀθηναίων κατῴκισεν, οἳ χρόνῳ βαρβαρωθέντες ἐλέγοντο σολοικίζειν, ἀφ’ οὗ καὶ σολοικισμός. Περὶ σεισαχθείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "23 (t)",
+      "text": "Ὅτι Σόλων ὁ Σαλαμίνιος πρῶτον Ἀθηναίοις τὴν σεισάχθειαν εἰσηγήσατο. τὸ δὲ ἦν λύτρωσις σωμάτων· καὶ γὰρ ἐπὶ σώμασιν ἐδανείζοντο καὶ ἀποροῦντες ἐθήτευον.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "jre-ab",
+      "title": {
+        "english": "On Brotherly Friends",
+        "ancient_greek": "Περὶ ἀδελφικῶν φίλων"
+      },
+      "url_slug": "paradoxographer-anon-brotherly-friends-jre-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/brotherly-friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/brotherly-friends.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ag",
+      "title": {
+        "english": "On Friends",
+        "ancient_greek": "Περὶ φίλων"
+      },
+      "url_slug": "paradoxographer-anon-friends-jre-ag",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/friends",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/friends.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ad",
+      "title": {
+        "english": "On Transformations",
+        "ancient_greek": "Περὶ μεταμορφώσεων"
+      },
+      "url_slug": "paradoxographer-anon-transformations-jre-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/transformations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/transformations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/transformations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/transformations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/transformations.json"
+      }
+    },
+    {
+      "eul_wid": "jre-af",
+      "title": {
+        "english": "On the Impious",
+        "ancient_greek": "Περὶ τῶν ἀσεβῶν"
+      },
+      "url_slug": "paradoxographer-anon-impious-jre-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/impious",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/impious.json"
+      }
+    },
+    {
+      "eul_wid": "jre-ae",
+      "title": {
+        "english": "Treatise-Women",
+        "ancient_greek": "Περὶ γυναικῶν"
+      },
+      "url_slug": "paradoxographer-anon-women-jre-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/women",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/women.json"
+      }
+    },
+    {
+      "eul_wid": "jre-aa",
+      "title": {
+        "english": "Which Houses Were Ruined by Women",
+        "ancient_greek": "Τίνες οἶκοι ἀνάστατοι διὰ γυναῖκας ἐγένοντο"
+      },
+      "url_slug": "paradoxographer-anon-ruined-houses-jre-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/paradoxographer-anon/ruined-houses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/ruined-houses.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "vae-ac",
+      "title": {
+        "english": "Chronography",
+        "ancient_greek": "Χρονογραφία"
+      },
+      "url_slug": "john-malalas-of-antioch-chronography-ac-vae-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-malalas-of-antioch/chronography-ac",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ac.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ac.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ac.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-malalas-of-antioch/chronography-ac.json"
+      }
+    },
+    {
+      "eul_wid": "ezq-aa",
+      "title": {
+        "english": "Constitution of the Lacedaemonians",
+        "ancient_greek": "Λακεδαιμονίων Πολιτεία"
+      },
+      "url_slug": "xenophon-of-athens-constitution-lacedaemonians-ezq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/xenophon-of-athens/constitution-lacedaemonians",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/xenophon-of-athens/constitution-lacedaemonians.json"
+      }
+    },
+    {
+      "eul_wid": "vig-ab",
+      "title": {
+        "english": "Epigrams",
+        "ancient_greek": "Ἐπιγράμματα"
+      },
+      "url_slug": "agathias-the-scholastic-epigrams-vig-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/agathias-the-scholastic/epigrams",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/agathias-the-scholastic/epigrams.json"
+      }
+    },
+    {
+      "eul_wid": "rxk-aa",
+      "title": {
+        "english": "Histories",
+        "ancient_greek": "Ἱστορίαι"
+      },
+      "url_slug": "john-vi-kantakouzenos-histories-rxk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-vi-kantakouzenos/histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-vi-kantakouzenos/histories.json"
+      }
+    },
+    {
+      "eul_wid": "ndy-aj",
+      "title": {
+        "english": "Letter to Pompeius",
+        "ancient_greek": "Ἐπιστολὴ πρὸς Πομπήιον"
+      },
+      "url_slug": "dionysius-of-halicarnassus-pompeius-ndy-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/dionysius-of-halicarnassus/pompeius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dionysius-of-halicarnassus/pompeius.json"
+      }
+    },
+    {
+      "eul_wid": "gea-aa",
+      "title": {
+        "english": "On the Daphne Festivals",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "protagorides-the-historian-daphne-festivals-gea-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/protagorides-the-historian/daphne-festivals",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/protagorides-the-historian/daphne-festivals.json"
+      }
+    },
+    {
+      "eul_wid": "tzg-aa",
+      "title": {
+        "english": "On the Fertility of Phrygia",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "metrophanes-historicus-fertility-phrygia-tzg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/metrophanes-historicus/fertility-phrygia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/metrophanes-historicus/fertility-phrygia.json"
+      }
+    },
+    {
+      "eul_wid": "ewo-aa",
+      "title": {
+        "english": "On the River Maeander",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "timolaus-of-cyzicus-river-maeander-ewo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timolaus-of-cyzicus/river-maeander",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timolaus-of-cyzicus/river-maeander.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/paradoxographer-anon/incredible-things",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/incredible-things.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/incredible-things.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/incredible-things.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/paradoxographer-anon/incredible-things.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

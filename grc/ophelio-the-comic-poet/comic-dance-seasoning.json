@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "fvo-aa",
+  "eul_aid": "fvo",
+  "author_slug": "ophelio-the-comic-poet",
+  "work_slug": "comic-dance-seasoning",
+  "url_slug": "ophelio-the-comic-poet-comic-dance-seasoning-fvo-aa",
+  "author": {
+    "english": "Ophelio Comicus",
+    "ancient_greek": "Ὀφελίων ὁ Κωμικός"
+  },
+  "title": {
+    "english": "Comic Dance and Seasoning Fragments",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Comic Dance and Seasoning by Ophelio Comicus on Eulogikon",
+    "meta_title": "Comic Dance and Seasoning by Ophelio Comicus in Greek",
+    "meta_description": "Surviving comic fragments of Comic Dance and Seasoning by Ophelio Comicus. Ancient Greek comedy. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (com, frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Κωμῳδία",
+      "english": "Comedy",
+      "href": "/domains/comedy"
+    },
+    {
+      "label": "Format",
+      "greek": "Ἔμμετρος",
+      "english": "Verse",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Comic Dance and Seasoning Fragments is a collection of seven brief passages attributed to the obscure comic poet Ophelio. These fragments survive not through a direct manuscript tradition but as quotations preserved by later authors, primarily the gastronomic writer Athenaeus in his Deipnosophistae. Their original comic context, including the play or plays from which they derive and any associated plot, is entirely lost. The descriptive modern title reflects the fragments&#x27; thematic concerns, which align with common subjects in Middle and New Comedy, such as food, seasoning, and banquet practices; dance and musical entertainment; and the social manners of daily life, potentially involving cooks or other household figures. One surviving passage describes dancers contorting themselves like prawns leaping on coals, followed by a list of luxury items including Libyan pepper, incense, and a text of Plato anointed with Carian oil, suggesting a blend of physical comedy and parody of intellectual or contemporary types. Ophelio is an obscure figure, tentatively placed within the broad eras of Middle or New Comedy. While these fragments exert no documented influence on later literature, they hold value for specialists, contributing to the philological study of fragmentary Greek comedy and serving as minor source material for understanding ancient Greek food culture and social history. His remains are cataloged in standard modern collections such as Poetae Comici Graeci.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "book 1.1",
+      "text": "ὠρχοῦντο δ’ ὥσπερ καρῖδες ἀνθράκων ἔπι",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 1.2",
+      "text": "πηδῶσι κυρταί.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 2",
+      "text": "κυρταὶ δ’ ὁμοῦ καρῖδες ἐν ξηρῷ πέδῳ",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.1",
+      "text": "Λιβυκόν",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.2",
+      "text": "τε πέπερι, θυμίαμα, βυβλίον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 3.3",
+      "text": "Πλάτωνος ἐμβρόντητον",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "book 5",
+      "text": "ἐλαίῳ Καρικῷ ἀλείφεται.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "fvo-ab",
+      "title": {
+        "english": "Comic Fragments on Daily Life",
+        "ancient_greek": "Ἀποσπάσματα περὶ Βίου Καθημερινοῦ Κωμικά"
+      },
+      "url_slug": "ophelio-the-comic-poet-comic-fragments-fvo-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-fragments.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "jqk-aa",
+      "title": {
+        "english": "Cook's Art",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicomachus-the-comic-poet-cooks-art-jqk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-the-comic-poet/cooks-art",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-the-comic-poet/cooks-art.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bm",
+      "title": {
+        "english": "Dyscolus",
+        "ancient_greek": "Δύσκολος"
+      },
+      "url_slug": "menander-of-athens-dyscolus-hps-bm",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/dyscolus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/dyscolus.json"
+      }
+    },
+    {
+      "eul_wid": "efq-aa",
+      "title": {
+        "english": "Fragments on Adonis and Cinyras",
+        "ancient_greek": "Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου"
+      },
+      "url_slug": "plato-the-comic-poet-adonis-cinyras-efq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/plato-the-comic-poet/adonis-cinyras",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/plato-the-comic-poet/adonis-cinyras.json"
+      }
+    },
+    {
+      "eul_wid": "ios-ab",
+      "title": {
+        "english": "Fragments on Cooks and Courtesans",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μάγειρων καὶ Ἑταιρῶν"
+      },
+      "url_slug": "posidippus-of-cassandreia-cooks-courtesans-ab-ios-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/posidippus-of-cassandreia/cooks-courtesans-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/posidippus-of-cassandreia/cooks-courtesans-ab.json"
+      }
+    },
+    {
+      "eul_wid": "eyc-ab",
+      "title": {
+        "english": "Fragments on Golden Apples",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μήλων Χρυσῶν"
+      },
+      "url_slug": "eriphus-the-comic-poet-golden-apples-ab-eyc-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/eriphus-the-comic-poet/golden-apples-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/eriphus-the-comic-poet/golden-apples-ab.json"
+      }
+    },
+    {
+      "eul_wid": "bju-aa",
+      "title": {
+        "english": "Letters to Heraclitus",
+        "ancient_greek": "Ἐπιστολαὶ πρὸς Ἡράκλειτον"
+      },
+      "url_slug": "heraclitus-of-ephesus-iii-letters-bju-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/heraclitus-of-ephesus-iii/letters",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/heraclitus-of-ephesus-iii/letters.json"
+      }
+    },
+    {
+      "eul_wid": "hps-bo",
+      "title": {
+        "english": "Shield",
+        "ancient_greek": "Ἀσπίς"
+      },
+      "url_slug": "menander-of-athens-shield-hps-bo",
+      "links": {
+        "html": "https://eulogikon.org/grc/menander-of-athens/shield",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menander-of-athens/shield.json"
+      }
+    },
+    {
+      "eul_wid": "fcs-ab",
+      "title": {
+        "english": "Sympotic Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "nicochares-the-comic-poet-sympotic-fragments-ab-fcs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicochares-the-comic-poet/sympotic-fragments-ab",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-ab.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-ab.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-ab.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicochares-the-comic-poet/sympotic-fragments-ab.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ophelio-the-comic-poet/comic-dance-seasoning",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ophelio-the-comic-poet/comic-dance-seasoning.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

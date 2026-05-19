@@ -1,0 +1,203 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "hai-aa",
+  "eul_aid": "hai",
+  "author_slug": "hippocratic-oath-anon",
+  "work_slug": "medical",
+  "url_slug": "hippocratic-oath-anon-medical-hai-aa",
+  "author": {
+    "english": "Hippocratic Oath Anonymous",
+    "ancient_greek": "Ὅρκος ὁ Ἱπποκρατικός"
+  },
+  "title": {
+    "english": "Medical Oath",
+    "ancient_greek": "Ὅρκος Ἰατρικός"
+  },
+  "seo": {
+    "browser_title": "Hippocratic Oath by Hippocratic Oath Anonymous on Eulogikon",
+    "meta_title": "Hippocratic Oath by Hippocratic Oath Anonymous in Greek",
+    "meta_description": "Foundational medical ethics text from ancient Greece, establishing physician duties and morals. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἰωνική",
+      "english": "Ionic",
+      "href": "/dialects/ion"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἰατρική",
+      "english": "Medicine",
+      "href": "/domains/medicine"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The Hippocratic Oath is a seminal treatise on medical ethics, traditionally ascribed to the ancient Greek physician Hippocrates but authored anonymously within his intellectual school. Composed in Ionic Greek during the 5th or 4th century BCE, this concise, structured declaration is preserved as part of the larger Hippocratic Corpus. The complete text is formally divided into three sections: an initial swearing clause invoking deities such as Apollo and Asclepius; a central enumeration of the physician&#x27;s duties toward teachers and patients; and a concluding statement on the consequences of upholding or violating the oath.</p>\n<p class=\"research-text\">It articulates fundamental ethical principles, including commitments to benefit the sick, abstain from harm, maintain patient confidentiality, and avoid sexual misconduct. The oath also contains specific prohibitions, notably against administering deadly drugs and performing surgery, which scholars interpret as demarcating the practice of a particular professional group from other contemporary healers. Modern analysis suggests it was not a universal code but likely functioned as a charter for a specific medical guild or school, possibly on the island of Kos, serving to forge bonds between masters and apprentices and to establish a distinct professional identity.</p>\n<p class=\"research-text\">Transmitted through medieval manuscripts of the Hippocratic Corpus from the 10th century CE onward, the oath&#x27;s influence is profound. Although not widely adopted in antiquity, its core principles of beneficence, non-maleficence, and confidentiality were revived during the Renaissance. These concepts now form the ethical foundation of modern medical practice, directly inspiring contemporary codes such as the Declaration of Geneva.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "ΟΡΚΟΣ ΙΑΤΡΙΚΟΣ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "Αὐτὸν ἐν ἀχράντοισι μέγαν θεὸν ὄμνυμι φωναῖς· Οὔτε τινὰ ξεῖνον δηλήσομαι ἀνέρα νούσῳ, Οὔτε τιν’ ἐνδήμων, ὀλοφώϊα ἔργα τελειῶν, Οὔτε μέ τις δώροισι παραιβασίην ἀλεγεινὴν Ἐκτελέσειν πείσειε καὶ ἀνέρι φάρμακα δοῦναι Λυγρὰ, τάπερ κακότητα θυμοφθόρον οἶδεν ὀπάζειν, Οὔτε χάριν φιλίης ἑτέρῳ κατὰ νεῖμαι ὑποστῶ, Ἀλλ’ ὁσίας μὲν χεῖρας ἐς αἰθέρα λαμπρὸν ἀείρω, Καὶ κακίης ἀμόλυντον ἔχω κατὰ πάντα λογισμόν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "Ἕρδειν κεῖνά γε μήσομ’ ἅπερ σόον ἀνέρα θήσει, Πορσυνέω δέ τε πᾶσι φίλην βιόδωρον ὑγείην.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "bww-bj",
+      "title": {
+        "english": "Instructions",
+        "ancient_greek": "Ὑποθῆκαι"
+      },
+      "url_slug": "hippocrates-instructions-bww-bj",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/instructions",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/instructions.json"
+      }
+    },
+    {
+      "eul_wid": "vhc-af",
+      "title": {
+        "english": "Medical Book XVI",
+        "ancient_greek": "Ἰατρικὸν Βιβλίον ΙϚʹ"
+      },
+      "url_slug": "aetius-of-amida-medical-book-xvi-vhc-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/aetius-of-amida/medical-book-xvi",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xvi.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xvi.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xvi.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/aetius-of-amida/medical-book-xvi.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ar",
+      "title": {
+        "english": "Medical Fragments",
+        "ancient_greek": "Διάφορα Ἀποσπάσματα"
+      },
+      "url_slug": "medical-writers-anonymous-fragments-umi-ar",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/fragments.json"
+      }
+    },
+    {
+      "eul_wid": "bww-bi",
+      "title": {
+        "english": "On Affections",
+        "ancient_greek": "Περὶ παθῶν"
+      },
+      "url_slug": "hippocrates-affections-bww-bi",
+      "links": {
+        "html": "https://eulogikon.org/grc/hippocrates/affections",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocrates/affections.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-eb",
+      "title": {
+        "english": "On Customs",
+        "ancient_greek": "Περὶ ἐθῶν"
+      },
+      "url_slug": "galen-of-pergamon-customs-qmm-eb",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/customs",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/customs.json"
+      }
+    },
+    {
+      "eul_wid": "umi-ax",
+      "title": {
+        "english": "On Diet",
+        "ancient_greek": "Περὶ Διαιτῆς"
+      },
+      "url_slug": "medical-writers-anonymous-diet-umi-ax",
+      "links": {
+        "html": "https://eulogikon.org/grc/medical-writers-anonymous/diet",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/medical-writers-anonymous/diet.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-bt",
+      "title": {
+        "english": "On Sophisms or Verbal Fallacies",
+        "ancient_greek": "Περὶ σοφισμάτων ἢ λογικῶν παγίδων"
+      },
+      "url_slug": "galen-of-pergamon-sophisms-qmm-bt",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/sophisms",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/sophisms.json"
+      }
+    },
+    {
+      "eul_wid": "qmm-by",
+      "title": {
+        "english": "On the Usefulness of Breathing",
+        "ancient_greek": "Περὶ τῆς ὠφελείας τῆς ἀναπνοῆς"
+      },
+      "url_slug": "galen-of-pergamon-usefulness-breathing-qmm-by",
+      "links": {
+        "html": "https://eulogikon.org/grc/galen-of-pergamon/usefulness-breathing",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/usefulness-breathing.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/usefulness-breathing.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/usefulness-breathing.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/galen-of-pergamon/usefulness-breathing.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/hippocratic-oath-anon/medical",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/hippocratic-oath-anon/medical.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,496 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "phs-ag",
+  "eul_aid": "phs",
+  "author_slug": "ptolemy-of-alexandria",
+  "work_slug": "analemma",
+  "url_slug": "ptolemy-of-alexandria-analemma-phs-ag",
+  "author": {
+    "english": "Ptolemy of Alexandria",
+    "ancient_greek": "Κλαύδιος Πτολεμαῖος"
+  },
+  "title": {
+    "english": "On the Analemma",
+    "ancient_greek": "Περὶ τοῦ Ἀναλήμματος"
+  },
+  "seo": {
+    "browser_title": "On the Analemma by Ptolemy of Alexandria on Eulogikon",
+    "meta_title": "Classical On the Analemma by Ptolemy in Ancient Greek",
+    "meta_description": "Ptolemy's mathematical treatise explains geometric methods for constructing sundials and solving complex Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ῥωμαϊκή",
+      "english": "Roman",
+      "href": "/periods/roman"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Κοινὴ τεχνική",
+      "english": "Technical Koine",
+      "href": "/dialects/koi"
+    },
+    {
+      "label": "Domain",
+      "greek": "Μαθηματικά",
+      "english": "Mathematics",
+      "href": "/domains/mathematics"
+    },
+    {
+      "label": "Format",
+      "greek": "Πραγματεία",
+      "english": "Treatise",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\"><strong>On the Analemma</strong> is a mathematical and astronomical treatise by Claudius Ptolemy, written around 150 CE in Alexandria. The work details the construction of an analemma, a geometric method for projecting points and circles from the celestial sphere onto a flat plane. This technique provided ancient astronomers and artisans with a practical tool for solving problems in spherical astronomy, such as determining the sun&#x27;s position for a given date and time or designing the hour lines on sundials. The treatise is systematically organized, progressing from foundational geometric principles to specific applications. The original Greek text is lost, surviving primarily through a medieval Latin translation derived from an Arabic version. This indirect transmission shapes modern understanding of the work, which is viewed as part of Ptolemy&#x27;s project to systematize Greek science. It functioned both as a theoretical guide for mathematicians and a practical manual for instrument makers, exemplifying the application of advanced geometry to the technology of ancient timekeeping.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "2 194 (33)",
+      "text": "δὲ ... τ〈ὴ〉(ν) τῆς παραλελειμμένης τοῖς παλαιοῖς γωνίας, 〈ἣν〉 (ἡ)μ(εῖς) καλοῦμεν ἑκτήμορον, λῆψιν 〈ὀργ〉αν〈ι〉κ〈ήν〉, 〈ἐπει〉δὴ καὶ τὴν ἀπόδειξιν ταύτης ἀναγκαῖον ἂν εἴη συνάψα(ι) τ〈οῖσ〉 ἄλλως ἐκείνοις ἐ(φ)ωδευμέν〈οισ〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 195",
+      "text": "Ὅτι μὲν οὖν ἐν ταῖς ἰσημερίαις αἱ ἐπιζητούμεναι γωνίαι αἰεὶ αἱ αὐταὶ (γ)ί(γ)νονται ταῖς ἐν τῷ τοῦ ἰσημερινοῦ ἐπιπέδῳ, δῆλον αὐτόθεν· ἐφαρμόζει γὰρ αὐτῷ τότε δι’ ὅλης τῆς ἐπιφορᾶς καὶ ὁ ἑκτήμορος κύκλος ἴσας δὲ ἀλλήλαις ποιοῦντι τάς τε καθ’ ἑκάστην ἰσημερινὴν ὡριαίαν περιφερείας 〈ἐκ〉 πεντεκαίδεκα χρόνων συνισταμένα(ς καὶ) τὰς ἀκολούθους αὐταῖς γωνίας ἑκτημόρια περιεχούσας μιᾶς ὀρθῆς. Ἕνεκεν δὲ τῶν λοιπῶν μηνιαίων ἔστω μεσημβρινὸς κύκλος ὁ ΑΒΓΔ, ἐν ᾧ ὁρίζοντος μὲν διάμετρος ἡ ΑΒ, πρὸς ὀρθὰς δὲ αὐτῇ καὶ κατὰ τὸν γνώμονα ἡ ΓΔ, καὶ κέντρον μὲν τῆς ἡλιακῆς σφαίρας τὸ Ε, ἑνὸς δὲ τῶν βορειοτέρων τοῦ μεσημβρινοῦ μηνιαίων παραλλήλων ἡ ΖΗΘ διάμετρος, ἐφ’ ἧς ἀνατολικὸν ἡμικύκλιον ἐν τῷ αὐτῷ ἐπιπέδῳ νοείσθω τὸ ΖΚΘ, καὶ ἤχθω πρὸς ὀρθὰς τῇ ΖΘ ἡ ΚΗ, ὥστε τὸ ΖΚ τμῆμα τοῦ [Omitted graphic marker] παραλλήλου ποιεῖν ὑπὲρ γῆς, καὶ ἀποληφθείσης τῆς ΚΛ περιφερείας ἤχθω κάθετος ἀπὸ τοῦ Λ ἐπὶ τὴν (Ζ)Θ ἡ ΛΜ, καὶ κέντρῳ τῷ Μ, διαστήματι δὲ τῷ ΜΛ εἰλήφθω σημεῖον ἐ〈πὶ〉 (τ)οῦ μεσημβρινοῦ τὸ Ξ, καὶ ἐπεζεύχθωσαν ἡ ΕΛ καὶ ἡ ΜΝ καὶ ἡ ΕΞ καὶ ἡ ΜΞ, ἀνήχθω τε τῇ ΕΝ πρὸς ὀρθὰς ἡ ΕΟ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 196",
+      "text": "λέγω, ὅτι ἡ ὑπὸ τῶν (Ο)ΕΞ γωνία ἴση ἐστὶν τῇ γωνίᾳ τῇ ζητουμένῃ. νοείσθω γὰρ ἐπεστραμμένον τὸ ΖΛΘ ἡμικύκλιον ἐπὶ τὴν οἰκείαν θέσιν, τουτέστιν τὴν ὀρθὴν πρὸς τὸ τοῦ μεσημβρινοῦ ἐπίπεδον, καὶ ἀνήχθω ἀπὸ τοῦ Ε ὀρθὴ πρὸς τὸ αὐτὸ ἐπίπεδον ἀντὶ τῆς ἰσημερινῆς διαμέτρου ἡ ΕΠ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 197",
+      "text": "ὅτι μὲν οὖν ὀρθῆς οὔσης καὶ τῆς ΛΜ (π)ρὸς τὸν μεσημβριν(ὸ)ν αἱ ΕΝ καὶ ΜΛ καὶ ΕΠ 〈εὐθεῖαί〉 〈εἰσιν〉 ἐν ἑνὶ ἐπιπέδῳ 〈ὀρθῷ〉 (π)ρ(ὸ)ς τὸ τοῦ (ΑΒΓΔ) ἐπίπεδον, δῆλον. 〈ὁμοίωσ〉 δέ, ὅτι καὶ ἡ ΕΝ κ(ο)ινὴ τομή ἐστιν τοῦ ἑκτημόρου κύκλου καὶ τοῦ ἰσημερινοῦ, ἡ δὲ ΛΕ ἐπ’ εὐθείας τῇ ἡλιακῇ ἀκτῖνι, ἡ δὲ ἐπιζητουμένη γωνία, περιεχομένη δὲ ὑπὸ τῆς ἀκτῖνος καὶ τῆς ἰσημερινῆς διαμέτρου, ἡ ὑπὸ ΛΕΠ. δεικτέον (δέ, ὅτι) ἴση ἐστὶν ἡ ὑπὸ ΞΕΟ γωνία (τῇ ὑπὸ) 〈ΛΕΠ〉. ἐπεὶ γὰρ ἴση ἐστὶν ἡ μὲν ΕΛ τῇ 〈Ε〉Ξ, 〈ἡ〉 δὲ 〈ΜΛ τῇ ΜΞ〉, κοινὴ δὲ ἡ ΕΜ, κ〈αὶ γωνία ἄρα ἡ ὑπὸ ΜΕΛ〉 τῇ ὑπὸ ΜΕΞ ἴση ἐστίν. ὀρθὴ δὲ ἡ ὑπὸ ΜΕΠ καὶ ἡ ὑπὸ τῶν ΜΕΟ, ἐπεὶ καὶ ἡ ὑπὸ τῶν ΕΜΛ· καὶ λοιπὴ ἄρα ἡ ὑπὸ τῶν ΛΕΠ λοιπῇ τῇ ὑπὸ ΜΕΞ, τουτέστιν τῇ ὑπὸ τῶν ΞΕΟ, ἴση ἐστίν· ὅπερ ἔ(δ)〈ει δεῖξαι〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 198",
+      "text": "β . Ἑξῆς δὲ καὶ τὰς κοινὰς αὐτῶν λήψεις ἐκθη[Omitted graphic marker] σόμεθα τὰς γινομένας χωρὶς ἐπί τε τοῦ ἰσημερινοῦ καὶ πάλιν ἐπί τινος τῶν βορειοτέρων ἢ νοτιωτέρων αὐτοῦ παραλλήλων. ἔστω (τοίνυν) μεσημβρι(ν)ὸς κύκλος ὁ ΑΒΓΔ, ἐν ᾧ ὁρίζοντο(ς) μὲν διάμετρος ἡ ΑΒ, πρὸς ὀρθὰς δὲ αὐτῇ καὶ κατὰ τὸν γνώμονα ἡ 〈ΓΔ〉, καὶ κέντρον (τῆς) ἡλιακῆς σφαίρας τὸ Ε, ἡ δὲ τοῦ (κλίμ)〈ατοσ〉 περιφέρεια ἡ ΓΖ, καὶ διήχθω πρότερον ἰσημερινὴ διάμετρος ἡ ΖΕΗ, ἐφ’ ἦς τὸ 〈ΖΘΗ〉 ἡμικύκλιον (κεί)σθω μὲν ἐν τῷ τοῦ μεσημβρινοῦ ἐπιπέδῳ, νοείσθω δὲ ἐν τῷ πρὸς ἀνατολὰς ἡμισφαιρίῳ, γραφέτω τε ὁ ἥλιος πρὸς αἴσθησιν ἐν τῇ μιᾷ περιπολήσει τούτων τε καὶ τῶν ἄλλων μηνιαίων (ἕκασ)τον, καὶ ἀναχθείσης (τ)ῆς Ε〈Θ〉 καθέτου πρὸς τὴν ΖΗ, ὥστε (τὸ) Ζ(Θ) τεταρτημόριον ποιεῖν ὑπὲρ γῆ(ν), ἀπειλήφθ(ω) (ἡ) Θ(Κ) περιφέρεια δοθεισῶν ὡρῶν, καὶ προκείσθω τὰς ἐν τῇ θέσει ταύτῃ γωνίας λαβεῖν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 199",
+      "text": "ἤχθωσαν μὲν δὴ κάθετοι ἀπὸ μὲν τοῦ Κ ἐπὶ τὴν ΖΗ ἡ ΚΛ, ἀπὸ δὲ τοῦ Λ ἐπὶ μὲν τὴν Ε(Α) ἡ ΜΛΝ, ἐπὶ δὲ τὴν ΕΓ ἡ ΞΛΟ, καὶ τῇ (Λ)Κ ἴσαι κείσθωσαν ἥ τε ΞΠ καὶ ἡ ΡΜ, καὶ ἐπεζεύχθωσαν ἡ ΕΚ καὶ ἡ ΕΝ καὶ ἡ ΕΟ καὶ ἔτι ἡ ΕΠΣ καὶ Ε(ΡΤ). ὅτι μὲν οὖν (ν)οτιωτέρα ἐστὶν ἡ ἀκ(τ)ὶς τοῦ κατὰ κορυφὴν κύκλου δι’ ὅλης τῆς ὑπὲρ γῆν περιφορᾶς ἐπί τε τοῦ ἰσημερινοῦ καὶ τῶν νοτιωτέρων αὐτοῦ παραλλήλων διὰ τὸ τὴν κλίσιν τῆς σφαίρας ἐν τῇ καθ’ ἡμᾶς οἰκουμένῃ τετράφθαι πρὸς μεσημβρίαν, καὶ δεῖ τὰς προσνεύσεις ἀκολούθους αὐτῆς καταγραφὰς διωρισμένας μηδὲ καθάπαξ ἀναγκα(ζ)ώμεθ〈α〉 〈πραγματεύσασθαι〉 ἀπὸ τοῦ ἀναλήμματος τὰς 〈ἐπιζητου〉μένας γωνίας τῶν εὐθειῶν σχεδὸν πάν〈τη συγχυ〉νομένων, ἀλλ’ ἐφ’ 〈ἑκάστου καιροῦ〉 ἑνί τινι τεταρτημορίῳ κύκλου διῃρημένῳ εἰς τὰ〈σ〉 τῆς (μι)ᾶς 〈ὀρθῆς μοίρασ〉 τὰ(ς) ἐνενήκοντα τὸ ἴσον ἐνγράφοντες ἢ περιγράφοντες ὁμόκεντρον τῷ δεδομένῳ πρὸς τὴν κατασκευὴν καὶ λαμβάνοντ(ες) ἀπὸ τοῦ διῃρημένου τὰς τὸν οἰκεῖον ἀριθμὸν τῶν .",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 202",
+      "text": ".. ορισμ... ...... 〈με〉ταφέρωμεν ἐπὶ τὸ ἴσον αὐ〈τῷ τεταρτημόρι〉ον καὶ διὰ τῶν λαμβαν〈ομένων περάτων〉 καὶ τοῦ κοινοῦ κέντρου τῶν κύκλων ἄγοντες εὐθείας εὑρίσκωμεν τὰς τῶν δεδομένων μειζόνων ἢ ἐλαττόν〈ων〉 κύκλων γωνίας τε καὶ περιφερείας. ἡ δὲ τοιαύτη λῆψις ὑπάρχ(ο)ι (μὲν) ἂν καὶ διὰ τῶν γραμμῶν ἐπὶ τὸ ἀκριβέστατον τοῖς προαιρουμένοις, γένοιτο δ’ ἂν εὐποριστοτέρα καὶ δι’ αὐτοῦ τοῦ ἀναλήμματος, κἂν μὴ ἀπαράλλακτο(ς) τῇ 〈διὰ〉 γραμμικ〈ῶν ἀποδείξεων ἀλλὰ μέχρι τῆς πρὸς αἴσθησιν θεωρίας, πρὸς ἣν τὸ χρη〉στικὸν (τ)〈έ〉〈λοσ〉 ἀνάγεται 〈τῆσ〉 προκειμένης πραγματείας.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 203",
+      "text": "ὃν δὲ τρόπον ἑκατέρα τῶν ἐφόδων ἐπὶ τὸ προχειρότατον ἡμῖν ἐκληφθήσεται, δείξομεν ἐν μέρει κεφαλαιωδῶς προτάξαντες τὴν διὰ τῶν γραμμῶν ἐπίσκεψιν ἔχου(σ)〈αν οὕτως· κείσθω〉 ὁ ΑΒΓΔ μεσημβρινὸς περὶ κέντρον τὸ Ε, ἐν ᾧ διάμετροι πρὸς ὀρθὰς ἀλλήλαις τῆς κοινῆς [Omitted graphic marker] τομῆς 〈αὐτοῦ〉 καὶ τοῦ ὁρίζοντος ἡ ΑΒ, 〈τοῦ δὲ γνώμονος ἡ ΓΔ, ἔστω τε δοθὲν τὸ ἔ〉ξαρμα τ〈οῦ πόλου καὶ περιεχέσθω ὑπὸ τῆς ΑΖ〉 περιφερε〈ίας, καὶ ἤχθω ἄξων μὲν ὁ ΖΕΗ, ἰσημερινὴ〉 (δ)ὲ (πρό)〈τερον〉 διάμετρο〈ς ἡ ΘΕΚ, καὶ ἀπειλή〉φ〈θω〉 δοθεῖσα περιφέρεια 〈ἡ ΖΛ, καὶ ἀπὸ τοῦ Λ ἤχθωσαν〉 κάθετοι ἐπὶ μὲν τὴν ΕΖ ἡ (ΜΛ), ἐπὶ δὲ τὴν 〈ΕΚ ἡ ΛΝ〉, ὁμοίως δὲ καὶ ἀπὸ τοῦ Ν ἐπὶ μὲν τὴν (ΕΒ) ἡ ΞΝ〈Ο〉, ἐπὶ δὲ τὴν ΕΔ ἡ ΠΝΡ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 204",
+      "text": "ἐπεὶ 〈τοί〉νυ〈ν〉 δέδοται ἡ ΑΖ περιφέρεια, τουτέστιν ἡ (Δ)Κ, δοθεῖσα ἔσται καὶ ἡ ὑπὸ τῶν ΠΕΝ γωνία. ὀρθὴ δὲ (ἡ) πρὸς τῷ Π· δέδοται ἄρα καὶ 〈ὁ τῆς ΕΝ ὑποτεινούσης λόγοσ〉 πρὸς ἑκατέραν τῶν περὶ τὴν ὀρθήν, τουτέστιν τὰς (Ε)Π καὶ ΠΝ, καὶ τὰς 〈ἴσας αὐταῖς τὰς ΝΞ καὶ ΕΞ〉. καὶ πάλιν, ἐπεὶ δέδοται ἡ Λ〈Ζ〉 περιφέρε〈ια, τεταρ〉τημορίου δέ ἐστιν 〈ἡ ΚΖ, ὥστε καὶ τὴν〉 λοιπὴν τὴ〈ν〉 ΚΛ δεδόσθαι, ὑπο(τεί)ν(ει) 〈δὲ〉 τὴν μὲν διπλῆν τῆς ΖΛ περιφερείας ἡ διπλῆ τῆς 〈ΛΜ〉 εὐθείας, τὴν δὲ διπλῆν τῆς ΛΚ περιφερείας 〈ἡ〉 διπλ〈ῆ τῆς ΛΝ〉 εὐθείας, δοθήσεται καὶ ὁ λόγος ἑκατέρας τῶν ΛΜ καὶ 〈ΛΝ〉 πρὸς τὴν τοῦ μεσ〈ημ〉βρινοῦ διάμετρον. (ὥσ)τε καὶ ὁ τῆς ΕΝ, 〈ἥ ἐστιν ἴση〉 τῇ ΛΜ, καὶ ὁ τῶν τοῦ ΕΠ〈ΝΞ〉 τετραγώνου 〈πλευρῶν〉.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 205",
+      "text": "ἀπειλήφθωσαν δὴ τῇ ΛΝ ἴσαι ἥ(τε) Π(Σ) καὶ 〈ἡ ΞΤ〉, καὶ διήχθωσαν (α)ἱ ΕΟ καὶ Ε(Ρ) καὶ ΕΣΥ καὶ ΕΤΦ. ἡ μὲν τοίνυν ΖΛ περιφέρεια ἴση οὖσα τῇ τοῦ ἑκτημορίου καὶ ἔτι τῇ ἐν τῷ τοῦ ἰσημερι〈νο〉ῦ ἐπιπέδῳ αὐτ(όθεν) δέδοται. 〈ἐπεὶ δὲ καὶ τοῦ ΕΞΟ ὀρθο〉γωνίου τριγώνου δέδοται ἡ 〈ΕΞ καὶ ἡ ΞΟ〉, καὶ ἡ 〈ΕΟ〉 ὑποτείνουσα δοθήσε(ται) 〈καὶ ἡ ὑπὸ ΟΕΞ γωνία· ὥστε〉 καὶ ἡ ΒΟ περιφέρει(α) περιέχουσα 〈τὴν τοῦ ὡριαίου κύ〉κλου. ὁμοίως 〈δέ, ἐπεὶ καὶ τοῦ ΕΠΡ ὀρθογωνίου〉 δέδοται ἥ τε ΕΠ καὶ ἡ 〈ΠΡ〉, δοθήσεται καὶ ἥ τε 〈ΕΡ〉 ὑπο〈τείνουσα καὶ〉 〈ἡ ὑπὸ ΕΡΠ γωνία καὶ λοιπὴ ἡ ὑπὸ〉 (Π)ΕΡ αὐτή τε καὶ ἡ ΔΡ περιφέρεια ἴση οὖσα τῇ τοῦ καταβατικοῦ. πάλιν ἡ μὲν ΗΚ περιφέρεια ποιοῦσα τὴν τοῦ μεσημβρινοῦ αὐτόθεν δέδοται. ἐπεὶ δὲ καὶ τοῦ Π〈ΕΣ〉 ὀρθογωνίου δέδοται ἥ τε ΕΠ καὶ ἡ Π(Σ), δοθήσεται καὶ ἥ τε ΕΣ ὑποτείνουσα καὶ ἡ ὑπὸ 〈ΠΕΣ γωνί〉α αὐτή τε καὶ ἡ (Δ)Υ περιφέρεια ἴση οὖ〈σα τῇ〉 (τοῦ) κατὰ κορυφήν.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 206",
+      "text": "ὁμοίως δέ, ἐπεὶ καὶ τοῦ (Τ)Ξ(Ε) ὀρθογωνίου δέδο〈ται ἥ τε〉 ΕΞ καὶ ἡ Ξ(Τ), δοθήσεται καὶ ἥ τε Ε(Τ) ὑποτείνουσα καὶ ἡ ὑπὸ ΤΕΞ γωνία, (τουτέσ)τιν ἡ ὑπὸ τῶν ΔΕ(Τ) αὐτή τε καὶ ἡ (Δ)Φ περιφέρεια ἴση οὖσα τῇ τοῦ ὁρίζοντος. ε . κ(αὶ) τῶν ἄλλων δὲ μηνιαίων ἕνεκεν ἐκκεί〈σ〉θω ὁ ΑΒ(ΓΔ) μεσημβρινὸς μετὰ τῶν πρὸς ὀρθὰς ἀλλήλα(ι)ς διαμέτρων καὶ τοῦ ΕΖ ἄξονος, καὶ διήχθω τινὸς τῶν νοτιωτέρων τοῦ ἰσημερινοῦ μηνιαίων παραλλήλων διάμετρος ἡ ΗΘΚ, (ἐ)φ’ ἧς 〈τὸ〉 πρὸς ἀνατολὰς νοούμενον ἡμικύκλιον γεγράφθω τὸ ΗΛΚ, καὶ προσεκβεβλήσθω ὁ ΕΖΛ ἄξων διχοτομῶν δηλονότι καὶ τὴν ΗΘΚ διάμετρον κατὰ τὸ (Θ) 〈καὶ τὸ ΗΚ ἡμι〉κύκλιον κατὰ τὸ 〈Λ, διήχθω δὲ καὶ ἡ ΜΝ εὐθεῖα ἐπὶ τὴν ΗΘ〉 (δι[Omitted graphic marker] ορί)ζουσα τὸ ΗΝ ὑπὲρ γῆν τ〈μῆμα τοῦ ἡμικυκλίου〉 ἀπὸ τοῦ ὑπὸ γῆν, καὶ ληφθείσης τῆς ΝΞ περιφερείας 〈δοθ〉εισῶν ὡρῶν 〈ἤχθω〉 ἀπὸ τοῦ Ξ κάθετος (ἐ)πὶ τὴν Η〈Μ〉 ἡ ΞΟ, καὶ διὰ τοῦ Ο (δι)ήχθωσαν κάθετ〈ο〉ι πρὸς μὲν τὴν (ΑΕ) ἡ ΠΟΡ, πρὸς δὲ τὴν ΓΕ ἡ ΣΟΤ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 207",
+      "text": "ἐπεὶ τοίνυν δέδοται ἡ 〈ΗΘΚ〉 τοῦ μεσημβρινοῦ περιφέρεια, τὴν δὲ λείπουσ〈αν〉 εἰς τὸ ἡμικύκλιον ὑποτείνει (ἡ διπ)λῆ τῆς ΕΘ εὐ〈θε〉ίας, δεδομένος 〈ἔσται ὁ τῶν ΗΘΚ καὶ ΕΘ λό〉〈γος πρὸς τὴν διάμετρον τοῦ μεσημβρινοῦ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 208",
+      "text": "ὁμοίωσ〉, 〈ἐπεὶ δο〉θεῖσά 〈ἐστιν ἡ ΑΖ περιφέρεια τοῦ ἐξάρματος, δοθεῖσα ἔσται καὶ τοῦ ΜΕΤ τριγώνου ὀρθογωνίου ἡ ὑπὸ τῶν ΜΕΤ γωνία〉· ὥστε δοθήσεται καὶ ὁ τῆς ΕΘ λόγος πρὸς ἑκατέραν τῶν ΕΜ καὶ ΜΘ καὶ ἔτι ὁ τῆς ΗΚ διαμέτρου πρὸς ἑκάστην αὐτῶν. ἀλλὰ ἡ τῆς ΜΘ εὐθείας διπλῆ ὑποτείνει τὴν τῆς ΛΝ περιφερείας διπλῆν· ὥστε καὶ ἥ τε ΛΝ περιφέρεια 〈δοθήσεται καὶ ἡ λοιπὴ〉 〈εἰς τὸ τεταρτημόριον ἡ Ν〉Ξ 〈Η. δέδο〉(ται) δὲ καὶ 〈ἡ Ν〉Ξ· δ〈οθήσεται ἄρα ἥ τ〉ε 〈Λ〉Ξ καὶ ἡ Ξ〈Η. ὑποτείνει δὲ τὴν〉 μὲν διπλῆν τῆς (Η)Ξ περιφερείας ἡ διπλῆ τῆς (ΞΟ) εὐθείας, τὴν δὲ διπλῆν τῆς 〈ΞΛ〉 περιφερείας ἡ διπλῆ τῆς ΟΘ εὐθείας· ὥστε δεδομένος ἔσται καὶ ὁ τῶν ΞΟ καὶ Ο〈Θ〉 λόγος πρὸς τὴν ΗΚ διάμετρον, διὰ τοῦτ〈ο δὲ καὶ πρὸς τὴν τοῦ〉 ἀρκεσθησόμεθα τῷ τε μεσημβρινῷ κύκλῳ καὶ τῇ τοῦ ἰσημερινοῦ διαμέτρῳ καὶ ταῖς ἑτέραις μ(ό)ναις τῶν μηνιαίων παραλλήλων σὺν τοῖς περιγραφομένοις αὐταῖς ἡμικυκλίοις, τὴν μέντοι τῶν τροπικῶν καὶ τὴν τοῦ μετὰ τὸν ἰσημερινὸν μηνιαίου κατατάσσον(τε)ς ὡς πρὸς τὸν αὐτὸν πόλον, τὴν δὲ μετὰ τὸν τροπικὸν ὡς πρὸς τὸν ἀντικείμενον πόλον, ἵνα μὴ πλησίον (ο)ὖσ(α) τῆς τοῦ τροπικοῦ συνχ(ύ)νῃ τὰς ἐπί τε αὐτῶν καὶ τῶν περιγραφομένων αὐτ(οῖ)ς ἡμικυκλίων σημειώσεις· διὸ καὶ τυμπανοειδεῖ χρησόμεθα τῷ δεξομένῳ 〈τὴν〉 καταγραφὴν ἐπιπέδῳ πρὸς τὸ ἐπιστρεφομένου τοῦ τυμπάνου 〈τ〉ὰ〈σ〉 (εἰ)ρημένας τῶν 〈μηνιαίων διαμέτρουσ〉 μετὰ τῶν ἡμικυκλίων καὶ 〈ταῖσ〉 (τῶν) κατὰ διάμετρον θέσ(ε)〈σιν〉 ἐφαρμόζειν δύνασθαι.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 211",
+      "text": "ἐπὶ δὲ τῶν καθ’ ἕκαστον κλῖμα προτεθὲν τασσομένων μόναις πάλιν ἀρκεσθησόμεθα δυσὶ διαμέτροις τῇ τε κατὰ τὴν (κοινὴν) τομὴν τοῦ μεσημβρινοῦ καὶ τοῦ 〈ὁρίζοντος καὶ τῇ〉 κατὰ τὸν γνώμονα, χρησόμε(θ)α δὲ (καὶ) πλατ(ύ)μματι λεπτοτέρῳ πάνυ καὶ ἀκριβῶς ὀρθογωνίῳ μὴ ἐλάττους ἔχοντι τὰς περὶ τὴν ὀρθὴν γωνίαν τῆς ἐκ τοῦ κέντρου (τ)οῦ μεσημβρινοῦ ἕνεκεν τοῦ τά τε (ἄ)λλα σημεῖα καὶ τὰς καθέτους δι’ αὐτοῦ ῥαδίως λαμβάνειν τῆς μὲν ἑτέρας τῶν περὶ τὴν ὀρθὴν πλ(ε)υρῶν ἐφαρμοζομένης τῇ εὐθείᾳ, πρὸς ἣν ἡ κάθετος, τῆς δὲ ἑτέρας προσαγομένη〈σ〉 τῷ σημείῳ, δι’ οὗ 〈ἡ〉 κάθετος.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 212",
+      "text": "καὶ ὅλως δὲ ποιησόμεθα τὰς λήψεις τῶν ἐπὶ τοῦ μεσημβρινοῦ περιφερειῶν διὰ μόνου τοῦ τε καρκίνου καὶ τοῦ ὀρθογωνίου πλατύσματος μηδαμῆ προσπαραγράφοντες ἑτέραν εὐθε(ῖα)ν τῶν προειρημένων, ἀλλὰ γυμνὴν τηροῦντες τὴν καταγραφὴν εἰς τὸ εὔληπτον τῶν ἐφεξῆς τῶν πρώτων ὑ(πὸ) χ(εῖρ)α, καθ’ ὃν εἰρήκαμεν τρόπον, (εἰς τὴν) ἔκ〈θεσιν μετα〉φ〈ερομένων〉. ἐκ(κ)είσθω γὰρ (αὐ)τῆς π〈αραδείξ〉εως ἕνε(κεν) τὸ τυμπανοειδὲς ἐπίπεδον περὶ διάμετρον (τὴν) (Α)Β καὶ κέντρον τὸ Γ, καὶ τῆς ΑΓ τρίτου μέρους ἔγγιστα πρὸς τῷ Α ληφθέντος ὡς κατὰ τὸ Δ κέντρῳ τῷ Γ καὶ διαστήματι τῷ ΓΔ γεγράφθω (ἐπὶ) τοῦ ἀναλήμματος μεσημβρινὸς κύκ(λος) 〈ὁ ΔΕ τῆς ΔΓΕ διαμέτρου κατὰ τὴν τοῦ ἰσημερινοῦ νοου‐〉 μένης. ἔπειτα καὶ 〈τῆς ΓΔ τοῦ〉 τρίτου μέρους ἔγγιστα πρὸς τῷ Γ ληφθέντος ὡς κατὰ τ〈ὸ〉 (Ζ) κέντρῳ τῷ Ζ διαστήματι δὲ τῷ ΓΔ γεγράφθω τοῦ ἴσου τῷ μεσημβρινῷ κύκλου τεταρτημόριον διχοτομούμε[Omitted graphic marker] ν〈ον〉 ὑπὸ 〈τῆς ΑΓ τὸ〉 ΗΘΚ καὶ διῃρήσθω εἰς ἴσα〈σ〉 τὰ〈σ〉 〈 ϙ μο〉ί(ρας) ἀκριβῶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 213",
+      "text": "οὐδὲν δὲ 〈κωλύει καὶ κατὰ〉 τὰ ἕτερα (μέ)ρη τῆς διαμέτρου τὸ αὐτὸ ποιεῖν ἕνεκεν τῆς τοῦ τυμπάνου ἐπιστροφῆς. ὁμοίως δὲ καὶ κέντρῳ τῷ Γ διαστήματι δὲ τῷ ἀπὸ τοῦ Γ ἐπὶ τὴν διχοτομίαν ἔγγιστα τῆς ΑΘ κύκλον γράψομεν ὡς τὸν διὰ τῶν 〈ΛΜ〉ΝΞ τεταρτη〈μο〉ρίων, ὧν τὸ ἓν διελόντες ὁμοίως εἰς τὰ〈σ〉 〈 ϙ 〉 μοί(ρας καὶ) (ἐκ)βάλλοντες ἐν αὐτῷ τὰς καθ’ ἕκαστ(ο)〈ν κ〉λῖμα διαστάσει(ς) τῶν τοῦ ἐξάρματος 〈μοιρῶν κ〉α〈τα〉γράψομεν τὰς ἴσας καὶ ἐπὶ τῶν λοιπῶν τριῶν τεταρτημορίων ἀρχόμενοι μὲν ἀπὸ τῶν Λ, Μ, Ν, Ξ τομῶν, ἐκβάλλοντες δὲ ὡς ἐπὶ τὰ δεξιὰ τῶν πρὸς ἀνατολὰς ἡμικυκλίων ὑποκειμένων αἰεὶ γεγράφθαι πρὸς ἡμᾶς.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 214",
+      "text": "περιέχει δὲ τὸ ἔξαρμα τοῦ πόλου, ὅπου (μὲν ἡ με)γίστη ἡμέρα καὶ νὺξ ὡρῶν ἐστιν ιγ , μοίρας ἔγγιστα ιϛ γ ̂ ιβʹ, ὅπου δὲ ιγ 𐅵 ʹ ὡρῶν, μ ο κγ 𐅵 ʹ γʹ, ὅπου δὲ ιδ ὡρῶν, μ ο λ 〈κ〉α〈ὶ〉 γ ̂ , ὅπου δὲ ιδ 𐅵 ʹ ὡρῶν, μ ο λ〈ϛ〉 , ὅπου δὲ ιε ὡρῶν, μ ο μ γ ̂ δʹ ιʹ, ὅπου δὲ ιε 𐅵 ʹ ὡρῶν, μ ο με , ὅπου δὲ ιϛ ὡρῶν, μ ο μη 𐅵 ʹ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 215",
+      "text": "ἐπιζεύξωμεν δ(ὲ) καὶ τὰς τῶν εἰρημένων μηνιαίων διαμέτρους λαβόντες αὐτῶν τὰς οἰκείας διαστάσεις ἀπὸ τῆς ἰσημερινῆς ἐπὶ τῆς τοῦ μεσημβρινοῦ περιφερείας ἑκάστης ἴσου 〈αὐτῶν〉 τεταρτημορίου διαιρέσεως. ἀπέχει γὰρ καὶ (ἡ) μὲν τοῦ τροπικοῦ κύκλου κατὰ τὴν ΟΠ τῆς ἰσημερινῆς μ ο ἔγγιστα κγ 〈 𐅵 ʹ γʹ〉, ἡ δὲ τοῦ συνεχοῦς τῷ τροπικῷ 〈μηνιαίου κατὰ〉 τὴν ΡΣ μ ο κ 𐅵 ʹ, ἡ δὲ τοῦ συνεχοῦς ............. κατὰ τὴν ΤΥ μ ο ι(α) Γο. (π)εριγράφ〈ομεν οὖν〉 καὶ τὸ ἐφ’ ἑκάστ(ης) αὐτῶν ἡμικύκλιον, καὶ ταῦτα μὲν μετὰ τῶν οἰκείων διαμέτρων ἐάσομεν καθ’ αὑτά, τοῦ δὲ μεσημβρινοῦ τῶν περὶ τὴν τοῦ ἰσημερινοῦ διάμετρον 〈ἡμικυκλίων ἑκάτερον διελόντες εἰς ἴσας ὡριαίους διαστάσεις ιβ σημειώσομεν κ〉ατατομάς. 〈ὁ〉μ〈οί〉(ω)ς (δ)ὲ 〈καὶ〉 〈τὰς ἐπὶ τῆς ΔΓΕ γ〉ινομένας ὑπ〈ὸ τῶν ἐπ’ αὐτὴν〉 καθέτων ἀφ’ ἑκάστης τῶν ὡριαί〈ων κατατομ〉ῶν, ἐπειδήπερ ταῦτα 〈τηρεῖται〉 κατὰ 〈πάσασ〉 τὰς ἐγκλίσεις.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2 216",
+      "text": "χαλκ〈οῦ τοίνυν ὄντος ἢ ψη〉φ〈ί〉(ν)ου τοῦ τυμπάνου οὐ〈δεμιῶν ἔτι δεήσει〉 ἀ〈πο〉χαρά〈ξ〉εω〈ν τού〉των μὲν 〈ὑπαρχόντων〉 ......... τῶν κατ〈ὰ κλῖμα〉 .................. ..... 〈τὰς ἀποχαρά〉ξε(ις) μέλανι 〈μὲν〉 ............ 〈ἐρυ〉θρῷ δὲ τὴν τοῦ μεσημβ〈ρινοῦ καὶ τοῦ ἰσημερι〉〈ν〉οῦ διάμετρ〈ον〉 ................ 〈ὅλον〉 τὸ τύμπανον κηρῷ ........ .....",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [
+    {
+      "eul_wid": "phs-ah",
+      "title": {
+        "english": "Appearances",
+        "ancient_greek": "Φαινόμενα"
+      },
+      "url_slug": "ptolemy-of-alexandria-appearances-phs-ah",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/appearances",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/appearances.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ab",
+      "title": {
+        "english": "Arrangement and Voting of Handy Rules",
+        "ancient_greek": "Προχείρων κανόνων διάταξις καὶ ψηφοφορία"
+      },
+      "url_slug": "ptolemy-of-alexandria-handy-rules-phs-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/handy-rules",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/handy-rules.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ae",
+      "title": {
+        "english": "Geography Books 1–3",
+        "ancient_greek": "Γεωγραφία Βιβλία Α΄-Γ΄"
+      },
+      "url_slug": "ptolemy-of-alexandria-geography-1-3-phs-ae",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-1-3",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-1-3.json"
+      }
+    },
+    {
+      "eul_wid": "phs-af",
+      "title": {
+        "english": "Geography Books 4–8",
+        "ancient_greek": "Γεωγραφία Βιβλία Δ΄-Η΄"
+      },
+      "url_slug": "ptolemy-of-alexandria-geography-4-8-phs-af",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/geography-4-8",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/geography-4-8.json"
+      }
+    },
+    {
+      "eul_wid": "phs-al",
+      "title": {
+        "english": "Harmonics",
+        "ancient_greek": "Ἁρμονικά"
+      },
+      "url_slug": "ptolemy-of-alexandria-harmonics-phs-al",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/harmonics",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/harmonics.json"
+      }
+    },
+    {
+      "eul_wid": "phs-aj",
+      "title": {
+        "english": "Hypotheses",
+        "ancient_greek": "Ὑποθέσεις"
+      },
+      "url_slug": "ptolemy-of-alexandria-hypotheses-phs-aj",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/hypotheses",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/hypotheses.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ad",
+      "title": {
+        "english": "Inscription of Canopus",
+        "ancient_greek": "Ἐπιγραφή τοῦ Κανώπου"
+      },
+      "url_slug": "ptolemy-of-alexandria-canopus-inscription-phs-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/canopus-inscription",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/canopus-inscription.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ac",
+      "title": {
+        "english": "Mathematical Composition",
+        "ancient_greek": "Μαθηματικὴ Σύνταξις"
+      },
+      "url_slug": "ptolemy-of-alexandria-mathematical-composition-phs-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/mathematical-composition",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/mathematical-composition.json"
+      }
+    },
+    {
+      "eul_wid": "phs-am",
+      "title": {
+        "english": "Music",
+        "ancient_greek": "Μουσική"
+      },
+      "url_slug": "ptolemy-of-alexandria-music-phs-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/music",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/music.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ak",
+      "title": {
+        "english": "On Inclinations",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "ptolemy-of-alexandria-inclinations-phs-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/inclinations",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/inclinations.json"
+      }
+    },
+    {
+      "eul_wid": "phs-aa",
+      "title": {
+        "english": "On the Faculty of Judgment and Sovereignty of the Soul",
+        "ancient_greek": "Περὶ τῆς κριτικῆς δυνάμεως καὶ τῆς ψυχῆς ἡγεμονίας"
+      },
+      "url_slug": "ptolemy-of-alexandria-judgment-sovereignty-phs-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/judgment-sovereignty",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/judgment-sovereignty.json"
+      }
+    },
+    {
+      "eul_wid": "phs-ai",
+      "title": {
+        "english": "Tetrabiblos",
+        "ancient_greek": "Τετράβιβλος"
+      },
+      "url_slug": "ptolemy-of-alexandria-tetrabiblos-phs-ai",
+      "links": {
+        "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/tetrabiblos",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/tetrabiblos.json"
+      }
+    }
+  ],
+  "related_domain_works": [
+    {
+      "eul_wid": "owy-ad",
+      "title": {
+        "english": "Arithmetic Problems",
+        "ancient_greek": "Προβλήματα ἀριθμητικά"
+      },
+      "url_slug": "nicomachus-of-gerasa-arithmetic-owy-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/nicomachus-of-gerasa/arithmetic",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/arithmetic.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/arithmetic.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/arithmetic.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/nicomachus-of-gerasa/arithmetic.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-aq",
+      "title": {
+        "english": "Data",
+        "ancient_greek": "Δεδομένα"
+      },
+      "url_slug": "euclid-of-alexandria-data-iaw-aq",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/data",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/data.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-an",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-an-iaw-an",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-an",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-an.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-ak",
+      "title": {
+        "english": "Elements",
+        "ancient_greek": "Στοιχεῖα"
+      },
+      "url_slug": "euclid-of-alexandria-elements-ak-iaw-ak",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/elements-ak",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/elements-ak.json"
+      }
+    },
+    {
+      "eul_wid": "vdg-aa",
+      "title": {
+        "english": "Mathematical Fragment from Bobbio",
+        "ancient_greek": "Μαθηματικὸν Ἀπόσπασμα ἐκ Βοβίου"
+      },
+      "url_slug": "anthemius-of-tralles-mathematical-fragment-vdg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anthemius-of-tralles/mathematical-fragment",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anthemius-of-tralles/mathematical-fragment.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-ad",
+      "title": {
+        "english": "Measurement of the Circle",
+        "ancient_greek": "Κύκλου Μέτρησις"
+      },
+      "url_slug": "archimedes-of-syracuse-measurement-circle-ixo-ad",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/measurement-circle",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/measurement-circle.json"
+      }
+    },
+    {
+      "eul_wid": "iaw-aa",
+      "title": {
+        "english": "Phenomena, Demonstrations of Another Recension B",
+        "ancient_greek": "Φαινόμενα (Ἀποδείξεις Ἀναθεωρήσεως Β)"
+      },
+      "url_slug": "euclid-of-alexandria-phenomena-demonstrations-b-iaw-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/euclid-of-alexandria/phenomena-demonstrations-b",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/euclid-of-alexandria/phenomena-demonstrations-b.json"
+      }
+    },
+    {
+      "eul_wid": "ixo-am",
+      "title": {
+        "english": "Stomachion",
+        "ancient_greek": "Στομάχιον"
+      },
+      "url_slug": "archimedes-of-syracuse-stomachion-ixo-am",
+      "links": {
+        "html": "https://eulogikon.org/grc/archimedes-of-syracuse/stomachion",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/stomachion.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/stomachion.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/stomachion.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/archimedes-of-syracuse/stomachion.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/ptolemy-of-alexandria/analemma",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/ptolemy-of-alexandria/analemma.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

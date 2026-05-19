@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "aws-aa",
+  "eul_aid": "aws",
+  "author_slug": "socrates-of-argos",
+  "work_slug": "histories-genealogies",
+  "url_slug": "socrates-of-argos-histories-genealogies-aws-aa",
+  "author": {
+    "english": "Socrates of Argos",
+    "ancient_greek": "Σωκράτης ὁ Ἀργεῖος"
+  },
+  "title": {
+    "english": "Argolic Histories and Genealogies",
+    "ancient_greek": "Ἀποσπάσματα"
+  },
+  "seo": {
+    "browser_title": "Argolic Histories by Socrates of Argos on Eulogikon",
+    "meta_title": "Ancient Argolic Histories by Socrates of Argos in Greek",
+    "meta_description": "Argolic Histories by Socrates of Argos. Local history of the Argolid with myths and lineages. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Ἀρχαϊκή",
+      "english": "Archaic",
+      "href": "/periods/archaic"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Δωρική",
+      "english": "Doric",
+      "href": "/dialects/dor"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">The <strong>Argolic Histories and Genealogies</strong>, attributed to Socrates of Argos, is a fragmentary local history and genealogy of the Argolid region. Classified as a work of horography, it represents a Hellenistic effort to systematically document regional myths, cults, and heroic lineages. The work is entirely lost and survives only through approximately fifteen fragments preserved in later sources, primarily the mythographic <strong>Bibliotheca</strong> of Pseudo-Apollodorus, the geographical lexicon of Stephanus of Byzantium, and various ancient scholia. The alternative title <strong>Apospásmata</strong>, meaning &quot;Extracts,&quot; accurately reflects its fragmentary preservation within these later compilations, as it possesses no independent manuscript tradition.</p>\n<p class=\"research-text\">The extant fragments address characteristic themes of local history, focusing on the antiquities of the Argive plain. They include detailed genealogies of Argive heroes such as Perseus and the Danaids, foundation myths for major cities including Argos and Mycenae, and etiological stories explaining regional place names and topographical features. The fragments also record origins of local religious cults and temples, often preserving distinct local variants that differed from the standardized Panhellenic epic traditions. For instance, Socrates provided an account of the birth and education of the healing god Asclepius, attributing his lineage to Arsinoe and noting his tutelage under the centaur Chiron, while also recording alternative traditions about the hero Sarpedon.</p>\n<p class=\"research-text\">Socrates of Argos was cited as a reliable authority on Argive antiquities by later Roman-era scholars and mythographers. His primary significance lies in his contribution to the systematization of regional mythology during the Hellenistic period. By meticulously compiling local traditions, his work served as an important source that influenced subsequent mythographic handbooks and helped preserve a layer of regional history distinct from the dominant Athenian or epic narratives.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "text",
+      "reference": "t1-4",
+      "text": "ΠΕΡΙΗΓΗΣΙΣ ΑΡΓΟΥΣ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Pind. Pyth. III, 14: Οἱ μὲν Ἀρσινόης, οἱ δὲ Κορωνίδος φασὶν αὐτὸν (Ἀσκληπιὸν) εἶναι ... Καὶ Σωκράτης γόνον Ἀρσινόης τὸν Ἀσκληπιὸν ἀποφαίνει, παῖδα δὲ Κορωνίδος εἰσποιητόν. Idem Nem.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "2",
+      "text": "III, 93: Ὁ Ἀσκληπιὸς παρὰ Χείρωνι ἐτράφη, ὡς καὶ Σωκράτης ὁ Ἀργεῖός φησιν. Idem Pyth.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3",
+      "text": "III, 102: Οὕτω περίθυμος ἐγένετο ὁ Ζεὺς, ὥστε ἐνσκῆψαι βέλος διαμπὰξ δι’ ἀμφοτέρων τῶν μαστῶν ἢ τῶν πλευρῶν, ἢ δι’ αὐτοῦ τε τοῦ Ἀσκληπιοῦ καὶ τοῦ ἰατρευθέντος, ὥστε καὶ τὸν Ἀσκληπιὸν ἀναιρεῖσθαι καὶ τὸν ἀναβεβιωκότα· ὁ δὲ Σωκράτης τὸν Ἀσκληπιόν φησι καὶ τὸν διδάξαντα αὐτὸν Χείρωνα. Οὐδεὶς δὲ τούτῳ συμμαρτυρεῖ. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "3a",
+      "text": "Vatican. Eurip. Phes. 28: Ὁ δὲ Ἡσίοδος Εὐρώπης μέν φησιν αὐτὸν (τὸν Σαρπηδόνα), ὡς Ἑλλάνικος· εἰσὶ δὲ οἳ Λευκάστου (scribe Λυκάστου) καὶ Ἴδης τῆς Κορύβαντος γενεαλογοῦσι μετὰ καὶ Μίνωος καὶ Ῥαδαμάνθυος, καθάπερ Σωκράτης ἐν τοῖς Ἀργολικοῖς. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "4",
+      "text": "De mul. virt. c. 4: Οὐδενὸς δὲ ἧττον ἔνδοξόν ἐστι τῶν κοινῇ διαπεπραγμένων γυναιξὶν ἔργων ὁ πρὸς Κλεομένη περὶ Ἄργους ἀγὼν, ὃν ἠγωνίσαντο, Τελεσίλλης τῆς ποιητρίας προτρεψαμένης. Ταύτην δέ φασιν οἰκίας οὖσαν ἐνδόξου, τῷ δὲ σώματι νοσηματικὴν, εἰς θεοὺς πέμψαι περὶ ὑγιείας, καὶ χρησθὲν αὐτῇ Μούσας θεραπεύειν, πειθομένην τῇ θεῷ, καὶ ἐπιθεμένην ᾠδῇ καὶ ἁρμονίᾳ, τοῦ τε πάθους ἀπαλλαγῆναι ταχὺ, καὶ θαυμάζεσθαι διὰ ποιητικὴν ὑπὸ τῶν γυναικῶν. Ἐπεὶ δὲ Κλεομένης ὁ βασιλεὺς τῶν Σπαρτιατῶν πολλοὺς ἀποκτείνας (οὐ μὴν, ὡς ἔνιοι μυθολογοῦσιν, ἑπτὰ καὶ ἑβδομήκοντα καὶ ἑπτακοσίους πρὸς ἑπτακισχιλίους), ἐβάδιζε πρὸς τὴν πόλιν, ὁρμὴ καὶ τόλμα δαιμόνιος παρέστη ταῖς ἀκμαζούσαις τῶν γυναικῶν ἀμύνεσθαι τοὺς πολεμίους ὑπὲρ τῆς πατρίδος. Ἡγουμένης δὲ τῆς Τελεσίλλης, ὅπλα λαμβάνουσι, καὶ παρ’ ἔπαλξιν ἱστάμεναι κύκλῳ τὰ τείχη περιέστεψαν, ὥστε θαυμάζειν τοὺς πολεμίους. Τὸν μὲν οὖν Κλεομένη, πολλῶν πεσόντων, ἀπεκρούσαντο· τὸν δὲ ἕτερον βασιλέα, Δημάρατον, ὡς Σωκράτης φησὶν, ἐντὸς γενόμενον καὶ κατασχόντα τὸ Παμφυλιακὸν, ἐξέωσαν. Οὕτω δὲ τῆς πόλεως περιγενομένης, τὰς μὲν πεσούσας ἐν τῇ μάχῃ τῶν γυναικῶν ἐπὶ τῆς ὁδοῦ τῆς Ἀργείας ἔθαψαν, ταῖς δὲ σωθείσαις ὑπόμνημα τῆς ἀριστείας ἔδοσαν ἱδρύσασθαι τὸν Ἐνυάλιον. Τὴν δὲ μάχην οἱ μὲν ἑβδόμῃ λέγουσιν ἱσταμένου μηνὸς, οἱ δὲ νουμηνίᾳ γενέσθαι τοῦ νῦν μὲν τετάρτου, πάλαι δὲ Ἑρμαίου παρ’ Ἀργείοις, καθ’ ἣν μέχρι νῦν τὰ Ὑβριστικὰ τελοῦσι, γυναῖκας μὲν ἀνδρείοις χιτῶσι καὶ χλαμύσιν, ἄνδρας δὲ πέπλοις γυναικῶν παὶ καλύπτραις ἀμφιεννύντες. Ἐπανορθούμενοι δὲ τὴν ὀλιγανδρίαν, οὐχ (ὡς Ἡρόδοτος ἱστορεῖ) τοῖς δούλοις, ἀλλὰ τῶν περιοίκων ποιησάμενοι πολίτας τοὺς ἀρίστους, συνῴκισαν τὰς γυναῖκας· ἐδόκουν δὲ καὶ τούτους ἀτιμάζειν καὶ περιορᾶν ἐν τῷ συγκαθεύδειν, ὡς χείρονας. Ὅθεν ἔθεντο νόμον τὸν κελεύοντα, πώγωνα δεῖν ἐχούσας συναναπαύεσθαι τοῖς ἀνδράσι τὰς γεγαμημένας. ΠΕΡΙ ΟΣΙΩΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "5",
+      "text": "Plutarchus De Is, et Osir. c. 35: Ἃ δ’ ἐμφανῶς δρῶσι θάπτοντες τὸν Ἆπιν οἱ ἱερεῖς, ὅταν παρακομίζωσιν ἐπὶ σχεδίας τὸ σῶμα, βακχείας οὐδὲν ἀποδεῖ. Καὶ γὰρ νεβρίδας περικαθάπτονται, καὶ θύρσους φοροῦσι, καὶ βοαῖς χρῶνται καὶ κινήσεσιν, ὥσπερ οἱ κάτοχοι τοῖς περὶ τὸν Διόνυσον ὀργιασμοῖς. Διὸ καὶ ταυρόμορφα Διονύσου ποιοῦσιν ἀγάλματα πολλοὶ τῶν Ἑλλήνων· αἱ δ’ Ἠλείων γυναῖκες καὶ παρακαλοῦσιν εὐχόμεναι, ποδὶ βοείῳ τὸν θεὸν ἐλθεῖν πρὸς αὐτάς. Ἀργείοις δὲ βουγενὴς Διόνυσος ἐπίκλην ἐστίν· ἀνακαλοῦνται δ’ αὐτὸν ὑπὸ σαλπίγγων ἐξ ὕδατος, ἐμβάλλοντες εἰς τὴν ἄβυσσον ἄρνα τῷ πυλαόχῳ. Τὰς δὲ σάλπιγγας ἐν θύρσοις ἀποκρύπτουσιν, ὡς Σωκράτης ἐν τοῖς Περὶ Ὁσίων εἴρηκεν. Ὁμολογεῖ δὲ καὶ τὰ Τιτανικὰ, καὶ νὺξ τελεία τοῖς λεγομένοις Ὀσίριδος διασπασμοῖς, καὶ ταῖς ἀναβιώσεσι καὶ παλιγγενεσίαις· ὁμοίως δὲ καὶ τὰ περὶ τὰς ταφάς. Αἰγύπτιοί τε γὰρ Ὀσίριδος πολλαχοῦ θήκας, ὥσπερ εἴρηται, δεικνύουσι, καὶ Δελφοὶ τὰ τοῦ Διονύσου λείψανα παρ’ αὐτοῖς παρὰ τὸ χρηστήριον ἀποκεῖσθαι νομίζουσι· καὶ θύουσιν οἱ Ὅσιοι θυσίαν ἀπόρρητον ἐν τῷ ἱερῷ τοῦ Ἀπόλλωνος, ὅταν αἱ θυιάδες ἐγείρωσι τὸν Λικνίτην. Idem Qu.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "6",
+      "text": "Rom. c. 52: Ἀργείους δὲ Σωκράτης φησὶ τῇ Εἰλειθυίᾳ κύνα θύειν διὰ τὴν ῥᾳστώνην τῆς λοχείας. Idem ib.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "7",
+      "text": "c. 25: Ἐν δ’ Ἄργει λευκὰ φοροῦσιν ἐν τοῖς πένθεσιν, ὡς Σωκράτης φησὶν, ὑδατόκλυστα. Plutarch.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "8",
+      "text": "Qu. Gr. c. 25: «Τίς ἀλάστωρ, ἀλιτήριος, παλαμναῖος;» Οὐ γὰρ πειστέον τοῖς λέγουσιν ἀλιτηρίους κεκλῆσθαι τοὺς ἐπιτηροῦντας ἐν τῷ λιμῷ τὸν ἀλοῦντα καὶ διαρπάζοντας· ἀλλ’ ἀλάστωρ μὲν κέκληται ὁ ἄληστα καὶ πολὺν χρόνον μνημονευθησόμενα δεδρακώς· ἀλιτήριος δὲ, ὃν ἀλεύασθαι καὶ φυλάξασθαι διὰ μοχθηρίαν καλῶς εἶχε. Ταῦτα, φησὶν ὁ Σωκράτης, ἐν διφθέραις χαλκαῖς γεγράφασι. ΠΡΟΣ ΕΙΔΟΘΕΟΝ.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "9",
+      "text": "Schol. Apoll. Rhod. I, 1207: Σωκράτης ἐν τῷ Πρὸς Εἰδόθεόν φησι τὸν Ὕλαν ἐρώμενον Πολυφήμου, καὶ οὐχ Ἡρακλέους, γενέσθαι. Idem ib.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "10",
+      "text": "I, 40: Τὸν Πολύφημον Ἐλάτου παῖδα εἶπεν Ἀπολλώνιος. Σωκράτης δὲ καὶ Εὐφορίων Ποσειδῶνος. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "11",
+      "text": "Theocrit. XIII, 7: Τὸν Ὕλαν Σωκράτης υἱὸν Ἡρακλέους φησίν. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "12",
+      "text": "Pindar. Isthm. III, 104: Σωκράτης δὲ ὑπὸ Αὐγέου φησὶν αὐτοὺς δολοφονηθῆναι. Schol.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "13",
+      "text": "Eur. Phoen, 45: Τὴν δὲ Σφίγγα οἱ μὲν λέγουσιν ἔχειν πρόσωπον παρθένου, στῆθος δὲ καὶ πόδας λέοντος, πτερὰ δὲ ὄρνιθος· Σωκράτης δὲ αὐτήν φησι χρησμολόγον δύσγνωστα μαντευομένην· ἅπερ ἀγνοοῦντες οἱ Θηβαῖοι καὶ ἐναντίως αὐτοῖς χρώμενοι ἀπώλοντο. Ἀσκληπιάδης δὲ κτλ.",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "pri-aa",
+      "title": {
+        "english": "Geographical Fragments on Isauria",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰσαυρίας"
+      },
+      "url_slug": "capito-geographical-isauria-pri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/capito/geographical-isauria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.json"
+      }
+    },
+    {
+      "eul_wid": "iam-aa",
+      "title": {
+        "english": "Historical Fragments on Miletus",
+        "ancient_greek": "Ἀποσπάσματα περὶ Μιλήτου"
+      },
+      "url_slug": "maeandrius-of-miletus-historical-fragments-iam-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/maeandrius-of-miletus/historical-fragments",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/maeandrius-of-miletus/historical-fragments.json"
+      }
+    },
+    {
+      "eul_wid": "bxg-aa",
+      "title": {
+        "english": "Lycian History and Myths",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menecrates-of-xanthus-history-myths-bxg-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menecrates-of-xanthus/history-myths",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-xanthus/history-myths.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-xanthus/history-myths.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-xanthus/history-myths.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menecrates-of-xanthus/history-myths.json"
+      }
+    },
+    {
+      "eul_wid": "unc-ac",
+      "title": {
+        "english": "On Buildings",
+        "ancient_greek": "Περὶ κτισμάτων"
+      },
+      "url_slug": "procopius-of-caesarea-buildings-unc-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/procopius-of-caesarea/buildings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/buildings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/buildings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/buildings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/procopius-of-caesarea/buildings.json"
+      }
+    },
+    {
+      "eul_wid": "vhw-ac",
+      "title": {
+        "english": "On Omens",
+        "ancient_greek": "Περὶ Οἰωνῶν"
+      },
+      "url_slug": "john-the-lydian-omens-vhw-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/john-the-lydian/omens",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/john-the-lydian/omens.json"
+      }
+    },
+    {
+      "eul_wid": "hwq-aa",
+      "title": {
+        "english": "On the Cities in Asia",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "philostephanus-of-cyrene-cities-asia-hwq-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/philostephanus-of-cyrene/cities-asia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/philostephanus-of-cyrene/cities-asia.json"
+      }
+    },
+    {
+      "eul_wid": "pvy-aa",
+      "title": {
+        "english": "On the Famous People of Samos",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "menodotus-the-historian-famous-people-pvy-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/menodotus-the-historian/famous-people",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menodotus-the-historian/famous-people.json"
+      }
+    },
+    {
+      "eul_wid": "kws-aa",
+      "title": {
+        "english": "On the Tyrants of Ephesus",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "bato-of-sinope-tyrants-ephesus-kws-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/bato-of-sinope/tyrants-ephesus",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/bato-of-sinope/tyrants-ephesus.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/socrates-of-argos/histories-genealogies",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/socrates-of-argos/histories-genealogies.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}

@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "kind": "work",
+  "eul_wid": "gko-aa",
+  "eul_aid": "gko",
+  "author_slug": "menesthenes-the-historian",
+  "work_slug": "vessels-cups",
+  "url_slug": "menesthenes-the-historian-vessels-cups-gko-aa",
+  "author": {
+    "english": "Menesthenes the Historian",
+    "ancient_greek": "Μενεσθένης ὁ ἱστορικός"
+  },
+  "title": {
+    "english": "On Vessels and Drinking Cups",
+    "ancient_greek": "Ἀπόσπασμα"
+  },
+  "seo": {
+    "browser_title": "On Vessels and Drinking Cups by Menesthenes on Eulogikon",
+    "meta_title": "On Vessels and Drinking Cups by Menesthenes in Greek",
+    "meta_description": "A treatise on ancient vessels and drinking cups by Menesthenes. Greek text on material culture. Free to read and download at Eulogikon."
+  },
+  "metadata": [
+    {
+      "label": "Period",
+      "greek": "Κλασική",
+      "english": "Classical",
+      "href": "/periods/classical"
+    },
+    {
+      "label": "Dialect",
+      "greek": "Ἀττική",
+      "english": "Attic (frg)",
+      "href": "/dialects/att"
+    },
+    {
+      "label": "Domain",
+      "greek": "Ἱστορία",
+      "english": "History",
+      "href": "/domains/history"
+    },
+    {
+      "label": "Format",
+      "greek": "Πεζός",
+      "english": "Prose",
+      "href": null
+    }
+  ],
+  "research_html": "<div class=\"research-section\">\n<p class=\"research-text\">On Vessels and Drinking Cups is a fragmentary antiquarian treatise attributed to the historian Menesthenes. The work is lost as an independent text and survives only through a few brief passages preserved within the Deipnosophistae of Athenaeus of Naucratis, who wrote in the late second or early third century CE. These extant fragments focus on cataloging and defining specialized terminology for ancient Greek drinking vessels, such as the skyphos, kylix, and kantharos. The primary importance of the work is lexicographical; it served as a source for later scholars explaining obscure terms. By recording this specialized vocabulary, it aids modern historians and archaeologists in identifying ceramic shapes from the ancient Greek world.</p>\n</div>",
+  "rows": [
+    {
+      "kind": "title",
+      "reference": "t",
+      "text": "ΠΟΛΙΤΙΚΑ. E LIBRO QUARTO.",
+      "witness_prefix": "",
+      "speaker": null
+    },
+    {
+      "kind": "text",
+      "reference": "1",
+      "text": "Athenaeus XI: Ὅλμο ς , ποτήριον κερατίου τρόπον εἰργασμένον. Μενεσθένης ἐν τετάρτῳ Πολιτικῶν γράφει οὕτως· «Ἀλβατάνης δὲ στρε πτὸν καὶ ὅλμον χρυσοῦν. Ὁ δὲ ὅλμος ἐστὶ ποτήριον κερατίου τρόπον εἰργασμένον, ὕψος ὡς πυγωνιαῖον.»",
+      "witness_prefix": "",
+      "speaker": null
+    }
+  ],
+  "related_author_works": [],
+  "related_domain_works": [
+    {
+      "eul_wid": "vhm-aa",
+      "title": {
+        "english": "Dialogue on Political Science",
+        "ancient_greek": "Περὶ Πολιτικῆς Ἐπιστήμης"
+      },
+      "url_slug": "anonymous-dialogue-on-political-science-dialogue-vhm-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-dialogue-on-political-science/dialogue",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-dialogue-on-political-science/dialogue.json"
+      }
+    },
+    {
+      "eul_wid": "dhk-aa",
+      "title": {
+        "english": "Dionysian and Mythological Fragments",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "timotheus-of-miletus-dionysian-mythology-dhk-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/timotheus-of-miletus/dionysian-mythology",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/timotheus-of-miletus/dionysian-mythology.json"
+      }
+    },
+    {
+      "eul_wid": "pri-aa",
+      "title": {
+        "english": "Geographical Fragments on Isauria",
+        "ancient_greek": "Ἀποσπάσματα περὶ τῆς Ἰσαυρίας"
+      },
+      "url_slug": "capito-geographical-isauria-pri-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/capito/geographical-isauria",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/capito/geographical-isauria.json"
+      }
+    },
+    {
+      "eul_wid": "ubo-ac",
+      "title": {
+        "english": "Methodius",
+        "ancient_greek": "Μεθόδιος"
+      },
+      "url_slug": "anonymous-historical-work-methodius-ubo-ac",
+      "links": {
+        "html": "https://eulogikon.org/grc/anonymous-historical-work/methodius",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/anonymous-historical-work/methodius.json"
+      }
+    },
+    {
+      "eul_wid": "kdm-ab",
+      "title": {
+        "english": "On Table Manners and Offerings",
+        "ancient_greek": "Ἀπόσπασμα"
+      },
+      "url_slug": "dioscurides-3rd-century-bce-table-manners-offerings-kdm-ab",
+      "links": {
+        "html": "https://eulogikon.org/grc/dioscurides-3rd-century-bce/table-manners-offerings",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dioscurides-3rd-century-bce/table-manners-offerings.json"
+      }
+    },
+    {
+      "eul_wid": "bpo-aa",
+      "title": {
+        "english": "Persian and Greek Histories",
+        "ancient_greek": "Ἀποσπάσματα"
+      },
+      "url_slug": "charon-of-lampsacus-persian-greek-histories-bpo-aa",
+      "links": {
+        "html": "https://eulogikon.org/grc/charon-of-lampsacus/persian-greek-histories",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/charon-of-lampsacus/persian-greek-histories.json"
+      }
+    },
+    {
+      "eul_wid": "mmg-ba",
+      "title": {
+        "english": "Record Of Sicyonia",
+        "ancient_greek": "Ἀναγραφὴ Σικυωνίας"
+      },
+      "url_slug": "historical-fragments-anonymous-sicyonia-mmg-ba",
+      "links": {
+        "html": "https://eulogikon.org/grc/historical-fragments-anonymous/sicyonia",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/sicyonia.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/sicyonia.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/sicyonia.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/historical-fragments-anonymous/sicyonia.json"
+      }
+    },
+    {
+      "eul_wid": "rhq-ap",
+      "title": {
+        "english": "Roman History",
+        "ancient_greek": "Ῥωμαϊκὴ Ἱστορία"
+      },
+      "url_slug": "dio-cassius-of-nicaea-roman-history-rhq-ap",
+      "links": {
+        "html": "https://eulogikon.org/grc/dio-cassius-of-nicaea/roman-history",
+        "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-history.pdf",
+        "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-history.md",
+        "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-history.txt",
+        "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/dio-cassius-of-nicaea/roman-history.json"
+      }
+    }
+  ],
+  "links": {
+    "html": "https://eulogikon.org/grc/menesthenes-the-historian/vessels-cups",
+    "pdf": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.pdf",
+    "md": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.md",
+    "txt": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.txt",
+    "json": "https://github.com/eulogikon/ancient-greek-texts/blob/main/grc/menesthenes-the-historian/vessels-cups.json"
+  },
+  "license": "https://creativecommons.org/publicdomain/mark/1.0/"
+}
