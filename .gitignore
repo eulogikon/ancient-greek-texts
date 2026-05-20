@@ -2,3 +2,7 @@
 # Nothing else (no code, no build, no back-office files) belongs here.
 .DS_Store
 *.pdf.part
+.env
+scripts/
+*.py
+wayback_progress.json
